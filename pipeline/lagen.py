@@ -16,6 +16,13 @@ Gebruik:
     python3 pipeline/lagen.py NL
     python3 pipeline/lagen.py BE --lagen ziekenhuizen aed
     python3 pipeline/lagen.py BE --forceer
+
+Grote landen (Frankrijk, Duitsland) worden per regio opgehaald: zet in
+pipeline/budget.json onder "landen" -> code het veld "per_regio" op het
+admin_level van de regio's. Het resultaat blijft één bestand per laag en land.
+Met "bron": "geofabrik" (of PLANB72_BRON=geofabrik) komt de data uit het
+landextract van Geofabrik, lokaal gefilterd met osmium (zie pipeline/pbf.py).
+Punten buiten de bbox uit data/landen/<land>.json (overzeese gebieden) vallen weg.
 """
 
 import argparse
@@ -27,6 +34,7 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 import overpass as op  # noqa: E402
+import pbf  # noqa: E402
 
 ROOT = Path(__file__).resolve().parent.parent
 MAX_DALING = 0.05
@@ -76,9 +84,9 @@ def soort_van(laag, tags):
     return laag
 
 
-def query_voor(land, filters):
+def query_voor(gebiedsregel, filters):
     delen = "\n  ".join(f"{f}(area.land);" for f in filters)
-    return (f"[out:json][timeout:900];\n{op.gebied(land)}\n(\n  {delen}\n);\n"
+    return (f"[out:json][timeout:900];\n{gebiedsregel}\n(\n  {delen}\n);\n"
             "out center tags;")
 
 
@@ -103,20 +111,41 @@ def maak_feature(laag, el):
     return op.feature(punt[0], punt[1], props)
 
 
-def haal_laag(land, laag):
+def haal_laag(land, laag, gebieden, bbox=None, grens=None):
+    """Haalt een laag op, per gebied (heel land of per regio), zonder dubbels.
+
+    Punten buiten de bbox van het land (overzeese gebieden) vallen weg, en bij een
+    Geofabrik-extract ook punten buiten de landsgrens.
+    """
     naam, filters = LAGEN[laag]
-    antwoord = op.vraag(query_voor(land, filters))
     gezien = set()
     features = []
-    for el in antwoord.get("elements", []):
-        if op.osm_id(el) in gezien:
-            continue
-        gezien.add(op.osm_id(el))
-        f = maak_feature(laag, el)
-        if f:
-            features.append(f)
+    totaal = {"_seconden": 0.0, "_server": set()}
+    for label, regel in gebieden:
+        if regel is None:  # Geofabrik-extract in plaats van Overpass
+            t0 = time.time()
+            alle = [f for _, fs in LAGEN.values() for f in fs]
+            antwoord = pbf.antwoord(pbf.index(land, alle).zoek(filters), t0)
+        else:
+            antwoord = op.vraag(query_voor(regel, filters))
+        totaal["_seconden"] += antwoord["_seconden"]
+        totaal["_server"].add(antwoord["_server"].split("/")[2])
+        if len(gebieden) > 1:
+            print(f"    {label}: {len(antwoord.get('elements', []))} "
+                  f"({antwoord['_seconden']} s)", flush=True)
+        for el in antwoord.get("elements", []):
+            if op.osm_id(el) in gezien:
+                continue
+            gezien.add(op.osm_id(el))
+            f = maak_feature(laag, el)
+            if f:
+                lon, lat = f["geometry"]["coordinates"]
+                if op.in_bbox(lat, lon, bbox) and (grens is None or grens.binnen(lat, lon)):
+                    features.append(f)
     features.sort(key=lambda f: f["properties"]["id"])
-    return features, antwoord
+    totaal["_seconden"] = round(totaal["_seconden"], 1)
+    totaal["_server"] = ", ".join(sorted(totaal["_server"]))
+    return features, totaal
 
 
 def main():
@@ -142,12 +171,17 @@ def main():
                     **budget.get("landen", {}).get(land, {}).get("lagen", {})}
 
     gekozen = args.lagen or list(LAGEN)
+    gebieden = [(land, None)] if pbf.gekozen(land) else op.gebieden(land)
+    bbox = op.lees_land(land).get("bbox")
+    grens = pbf.grens(land) if pbf.gekozen(land) else None
+    if len(gebieden) > 1:
+        print(f"{land}: per regio, {len(gebieden)} gebieden", flush=True)
     resultaten = {}
     problemen = []
     t_start = time.time()
     for laag in gekozen:
         print(f"{laag}: ophalen ...", flush=True)
-        features, antwoord = haal_laag(land, laag)
+        features, antwoord = haal_laag(land, laag, gebieden, bbox, grens)
         tekst = op.compacte_json({"type": "FeatureCollection", "features": features})
         grootte = len(tekst.encode("utf-8"))
         resultaten[laag] = (tekst, len(features), grootte)
