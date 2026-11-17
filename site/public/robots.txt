@@ -1,0 +1,13 @@
+# PlanB72
+# Zoekmachines en AI-assistenten mogen deze site lezen en gebruiken om vragen te beantwoorden,
+# met verwijzing naar de pagina. Niet gebruiken om modellen te trainen; geen volledige pagina's kopiëren.
+# Uitleg voor taalmodellen: https://planb72.org/llms.txt
+#
+# Content-Signal volgens https://contentsignals.org:
+#   search   = opnemen in zoekresultaten
+#   ai-input = gebruiken als bron voor antwoorden van AI-assistenten
+#   ai-train = gebruiken om AI-modellen te trainen
+
+User-agent: *
+Content-Signal: search=yes, ai-input=yes, ai-train=no
+Allow: /
