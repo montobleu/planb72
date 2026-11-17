@@ -1,0 +1,83 @@
+---
+import App from '../../../layouts/App.astro';
+import { land } from '../../../lib/data';
+const n = land.nucleair;
+const kmTekst = (x: number | null) => (x === null ? '—' : `${x} km`);
+---
+<App titel="Nucleair" tab="meer">
+  <h1>Nucleair</h1>
+  <div class="melding waarschuwing">
+    <strong>Officieel advies:</strong> {n.kernboodschap}
+    <div class="klein">Bron: <a href={n.bron}>Nationaal Crisiscentrum</a></div>
+  </div>
+
+  <h2>Afstand tot nucleaire installaties</h2>
+  <p class="dempen">Berekend op dit toestel. Je positie wordt nergens naartoe gestuurd.</p>
+  <div class="knoppen">
+    <button class="knop hoofd" type="button" id="mijn-positie">Gebruik mijn positie</button>
+  </div>
+  <details>
+    <summary>Of geef coördinaten in</summary>
+    <form id="coords" class="kaart-blok">
+      <label for="lat">Breedtegraad (bv. 51.05)</label><input id="lat" type="text" inputmode="decimal" required />
+      <label for="lon">Lengtegraad (bv. 3.72)</label><input id="lon" type="text" inputmode="decimal" required />
+      <div class="knoppen"><button class="knop" type="submit">Bereken</button></div>
+    </form>
+  </details>
+  <div id="resultaat" aria-live="polite" data-sites={JSON.stringify(n.sites)} data-uitbreiding={n.uitbreidingszone_km}></div>
+
+  <h2>Sites en noodplanningszones</h2>
+  <div class="tabel-wrap">
+    <table>
+      <thead><tr><th scope="col">Site</th><th scope="col">Soort</th><th scope="col">Schuilen</th><th scope="col">Jodium</th><th scope="col">Evacuatie</th></tr></thead>
+      <tbody>
+        {n.sites.map((s) => (
+          <tr><td>{s.naam}{s.land !== 'BE' && <span class="klein"> ({s.land})</span>}</td><td>{s.soort}</td><td>{kmTekst(s.schuilen_km)}</td><td>{kmTekst(s.jodium_km)}</td><td>{kmTekst(s.evacuatie_km)}</td></tr>
+        ))}
+      </tbody>
+    </table>
+  </div>
+  <p>{n.opmerking}</p>
+  <p class="klein">Zones: <a href={n.zones_bron}>persfiches van het Crisiscentrum</a>. Coördinaten {n.coordinaten_status}. Een cirkel op de kaart is een plan, geen meting: de overheid beslist bij een incident welk gebied ze beschermt.</p>
+  <div class="knoppen"><a class="knop" href="/app/kaart/?laag=nucleair">Toon op de kaart</a></div>
+
+  <h2>Gepland</h2>
+  <p class="klein">Gedragsadvies per situatie (school, huisdieren, moestuin, regenwater), de officiële bijsluiter van de jodiumtabletten en "na de wolk". Die teksten nemen we letterlijk over zodra het Crisiscentrum toestemming geeft. Live stralingsmetingen (Telerad, EURDEP) zijn alleen online beschikbaar.</p>
+</App>
+<script>
+  import { afstandKm, richting, km, positie, bewaar } from '../../../lib/app';
+  type Site = { naam: string; land: string; lat: number; lon: number; schuilen_km: number | null; evacuatie_km: number | null; soort: string };
+  const uit = document.getElementById('resultaat')!;
+  const sites: Site[] = JSON.parse(uit.dataset.sites!);
+  const uitbreiding = Number(uit.dataset.uitbreiding);
+
+  function toon(lat: number, lon: number) {
+    const rijen = sites
+      .map((s) => ({ s, d: afstandKm(lat, lon, s.lat, s.lon), r: richting(lat, lon, s.lat, s.lon) }))
+      .sort((a, b) => a.d - b.d);
+    const zones = (x: (typeof rijen)[number]) => {
+      const z: string[] = [];
+      if (x.s.evacuatie_km && x.d <= x.s.evacuatie_km) z.push('evacuatiezone');
+      if (x.s.schuilen_km && x.d <= x.s.schuilen_km) z.push('schuil- en jodiumzone');
+      else if (x.d <= uitbreiding && x.s.soort === 'Kerncentrale') z.push('uitbreidingszone');
+      return z.length ? z.join(', ') : '—';
+    };
+    uit.innerHTML = `<div class="tabel-wrap"><table><thead><tr><th scope="col">Site</th><th scope="col">Afstand</th><th scope="col">Richting</th><th scope="col">Binnen</th></tr></thead><tbody>${rijen
+      .map((x) => `<tr><td>${x.s.naam}</td><td>${km(x.d)}</td><td>${x.r.windstreek} (${x.r.graden}°)</td><td>${zones(x)}</td></tr>`)
+      .join('')}</tbody></table></div><p class="klein">Afstand in vogelvlucht vanaf ${lat.toFixed(4)}, ${lon.toFixed(4)}.</p>`;
+  }
+
+  document.getElementById('mijn-positie')!.addEventListener('click', async () => {
+    uit.textContent = 'Positie zoeken…';
+    const p = await positie();
+    if (!p) { uit.textContent = 'Geen positie beschikbaar. Geef coördinaten in.'; return; }
+    bewaar('positie', { lat: p.coords.latitude, lon: p.coords.longitude, naam: 'Laatste positie' });
+    toon(p.coords.latitude, p.coords.longitude);
+  });
+  document.getElementById('coords')!.addEventListener('submit', (e) => {
+    e.preventDefault();
+    const lat = parseFloat((document.getElementById('lat') as HTMLInputElement).value.replace(',', '.'));
+    const lon = parseFloat((document.getElementById('lon') as HTMLInputElement).value.replace(',', '.'));
+    if (Number.isFinite(lat) && Number.isFinite(lon)) toon(lat, lon);
+  });
+</script>

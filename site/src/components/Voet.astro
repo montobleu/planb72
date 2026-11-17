@@ -1,0 +1,37 @@
+---
+import { APP_VERSIE } from '../lib/data';
+import { pad, type Taal } from '../i18n/talen';
+import { SITE } from '../i18n/site';
+interface Props { taal: Taal }
+const { taal } = Astro.props;
+const v = SITE[taal].voet;
+---
+<footer class="voet">
+  <div class="wrap">
+    <div class="kolommen">
+      <div>
+        <strong>PlanB72</strong>
+        <p>{v.over}</p>
+      </div>
+      <div>
+        <strong>{v.project}</strong>
+        <ul>
+          <li><a href={pad(taal, '/over/')}>{v.links.over}</a></li>
+          <li><a href={pad(taal, '/bronnen/')}>{v.links.bronnen}</a></li>
+          <li><a href={pad(taal, '/status/')}>{v.links.status}</a></li>
+          <li><a href={pad(taal, '/nazicht/')}>{v.links.nazicht}</a></li>
+          <li><a href={pad(taal, '/privacy/')}>{v.links.privacy}</a></li>
+        </ul>
+      </div>
+      <div>
+        <strong>{v.meedoen}</strong>
+        <ul>
+          <li><a href={pad(taal, '/meehelpen/')}>{v.links.meehelpen}</a></li>
+          <li><a href={pad(taal, '/doneren/')}>{v.links.doneren}</a></li>
+          <li><a href="https://github.com/montobleu/planb72">{v.links.code}</a></li>
+        </ul>
+      </div>
+    </div>
+    <p class="klein">{v.licentie} · v{APP_VERSIE}{v.vertaling && <> · {v.vertaling}</>}</p>
+  </div>
+</footer>

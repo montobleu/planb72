@@ -1,0 +1,115 @@
+---
+import App from '../../../layouts/App.astro';
+const morse: Record<string, string> = { A: '.-', B: '-...', C: '-.-.', D: '-..', E: '.', F: '..-.', G: '--.', H: '....', I: '..', J: '.---', K: '-.-', L: '.-..', M: '--', N: '-.', O: '---', P: '.--.', Q: '--.-', R: '.-.', S: '...', T: '-', U: '..-', V: '...-', W: '.--', X: '-..-', Y: '-.--', Z: '--..', '0': '-----', '1': '.----', '2': '..---', '3': '...--', '4': '....-', '5': '.....', '6': '-....', '7': '--...', '8': '---..', '9': '----.' };
+const nato = ['Alfa', 'Bravo', 'Charlie', 'Delta', 'Echo', 'Foxtrot', 'Golf', 'Hotel', 'India', 'Juliett', 'Kilo', 'Lima', 'Mike', 'November', 'Oscar', 'Papa', 'Quebec', 'Romeo', 'Sierra', 'Tango', 'Uniform', 'Victor', 'Whiskey', 'X-ray', 'Yankee', 'Zulu'];
+const grondLucht = [['V', 'Hulp nodig'], ['X', 'Medische hulp nodig'], ['N', 'Nee'], ['Y', 'Ja'], ['↑', 'We gaan in deze richting']];
+---
+<App titel="Signalen" tab="meer">
+  <h1>Signalen</h1>
+
+  <h2>SOS met licht</h2>
+  <p class="dempen">Het scherm knippert SOS (··· ––– ···). Op sommige Android-toestellen kan ook de zaklamp.</p>
+  <div class="knoppen">
+    <button class="knop hoofd" type="button" id="sos-scherm">SOS met scherm</button>
+    <button class="knop" type="button" id="sos-lamp" hidden>SOS met zaklamp</button>
+  </div>
+  <div id="flits" hidden style="position:fixed;inset:0;z-index:100;background:#000;display:grid;place-items:center;color:#888">
+    <button class="knop" type="button" id="stop">Stoppen</button>
+  </div>
+
+  <h2>Tekst naar morse</h2>
+  <label for="tekst">Tekst</label>
+  <input id="tekst" type="text" value="SOS" autocomplete="off" />
+  <p id="morse-uit" style="font-family:ui-monospace,monospace;font-size:1.3rem;word-break:break-word" aria-live="polite"></p>
+  <div class="knoppen"><button class="knop" type="button" id="morse-flits">Uitzenden met scherm</button></div>
+
+  <h2>Internationale noodsignalen</h2>
+  <ul>
+    <li><strong>Drie keer</strong> een signaal (fluit, licht, geluid, vuur) betekent: ik heb hulp nodig.</li>
+    <li><strong>Alpien noodsignaal:</strong> zes signalen per minuut, een minuut pauze, herhalen. Antwoord: drie per minuut.</li>
+  </ul>
+  <h3>Grond-luchtsignalen voor reddingsvliegtuigen</h3>
+  <p class="dempen">Groot leggen of in de sneeuw trappen, minstens enkele meters lang, in contrast met de ondergrond.</p>
+  <div class="tabel-wrap"><table><tbody>{grondLucht.map(([t, b]) => <tr><th style="font-size:1.5rem;width:3rem">{t}</th><td>{b}</td></tr>)}</tbody></table></div>
+
+  <h2>Radio</h2>
+  <ul>
+    <li>Noodfrequenties van radioamateurs in Europa: <strong>3760 kHz</strong> en <strong>7110 kHz</strong>. Wereldwijd: 14300, 18160 en 21360 kHz. Luisteren mag iedereen; zenden alleen met vergunning. <a class="klein" href="https://www.iaru-r1.org/index.php/emergency-communications/emergency-communications-frequencies">bron</a></li>
+    <li>CB-radio: kanaal <strong>9</strong> (27,065 MHz) en <strong>19</strong> (27,185 MHz) gelden als noodkanalen.</li>
+    <li>PMR446-walkietalkies zijn vergunningsvrij. Er is geen officieel noodkanaal: spreek in je buurt een vast kanaal en vaste luisteruren af.</li>
+    <li>In België helpt <a href="https://www.uba.be/nl/b-ears/onze-missie">B-EARS</a>, het noodnetwerk van de radioamateurs.</li>
+  </ul>
+
+  <h2>Spellingsalfabet</h2>
+  <div class="tabel-wrap"><table><tbody>
+    {Array.from({ length: 13 }, (_, i) => (
+      <tr><th>{String.fromCharCode(65 + i)}</th><td>{nato[i]}</td><th>{String.fromCharCode(78 + i)}</th><td>{nato[i + 13]}</td></tr>
+    ))}
+  </tbody></table></div>
+
+  <h2>Morsetabel</h2>
+  <div class="tabel-wrap"><table style="font-family:ui-monospace,monospace"><tbody>
+    {Object.entries(morse).reduce<[string, string][][]>((r, e, i) => { (r[Math.floor(i / 3)] ??= []).push(e); return r; }, []).map((rij) => (
+      <tr>{rij.map(([l, c]) => <><th>{l}</th><td>{c.replace(/\./g, '·').replace(/-/g, '–')}</td></>)}</tr>
+    ))}
+  </tbody></table></div>
+  <p class="klein" id="morse-data" data-morse={JSON.stringify(morse)}>Codes en signalen zijn internationale afspraken en vrij te gebruiken.</p>
+</App>
+<script>
+  const morse: Record<string, string> = JSON.parse(document.getElementById('morse-data')!.dataset.morse!);
+  const EENHEID = 250; // ms per punt
+  const flits = document.getElementById('flits')!;
+  let bezig = false;
+  let lamp: MediaStreamTrack | null = null;
+
+  const naarMorse = (t: string) => t.toUpperCase().split('').map((c) => (c === ' ' ? '/' : morse[c] ?? '')).filter(Boolean).join(' ');
+  const tekst = document.getElementById('tekst') as HTMLInputElement;
+  const uit = document.getElementById('morse-uit')!;
+  const toon = () => (uit.textContent = naarMorse(tekst.value).replace(/\./g, '·').replace(/-/g, '–'));
+  tekst.addEventListener('input', toon); toon();
+
+  const wacht = (ms: number) => new Promise((r) => setTimeout(r, ms));
+  async function zend(code: string, aan: (b: boolean) => Promise<void> | void, herhaal: boolean) {
+    bezig = true;
+    do {
+      for (const teken of code) {
+        if (!bezig) break;
+        if (teken === '.' || teken === '-') { await aan(true); await wacht(teken === '.' ? EENHEID : EENHEID * 3); await aan(false); await wacht(EENHEID); }
+        else if (teken === ' ') await wacht(EENHEID * 2);
+        else if (teken === '/') await wacht(EENHEID * 4);
+      }
+      if (bezig && herhaal) await wacht(EENHEID * 7);
+    } while (bezig && herhaal);
+    await aan(false);
+  }
+  const scherm = (b: boolean) => { flits.style.background = b ? '#fff' : '#000'; };
+  function start(code: string, herhaal: boolean) {
+    flits.hidden = false; flits.style.display = 'grid';
+    document.documentElement.requestFullscreen?.().catch(() => {});
+    zend(code, scherm, herhaal);
+  }
+  function stop() {
+    bezig = false; flits.hidden = true; flits.style.display = 'none';
+    if (document.fullscreenElement) document.exitFullscreen().catch(() => {});
+    lamp?.stop(); lamp = null;
+  }
+  flits.style.display = 'none';
+  document.getElementById('sos-scherm')!.addEventListener('click', () => start('... --- ...', true));
+  document.getElementById('morse-flits')!.addEventListener('click', () => start(naarMorse(tekst.value), false));
+  document.getElementById('stop')!.addEventListener('click', stop);
+  flits.addEventListener('click', (e) => { if (e.target === flits) stop(); });
+
+  // Zaklamp: alleen waar de browser het toelaat (vooral Chrome op Android).
+  const lampKnop = document.getElementById('sos-lamp')!;
+  if (navigator.mediaDevices?.getSupportedConstraints?.().hasOwnProperty('torch') || /Android/.test(navigator.userAgent)) lampKnop.hidden = false;
+  lampKnop.addEventListener('click', async () => {
+    if (bezig) { stop(); lampKnop.textContent = 'SOS met zaklamp'; return; }
+    try {
+      const stroom = await navigator.mediaDevices.getUserMedia({ video: { facingMode: 'environment' } });
+      lamp = stroom.getVideoTracks()[0];
+      const zet = async (b: boolean) => { await lamp?.applyConstraints({ advanced: [{ torch: b } as any] }).catch(() => {}); };
+      lampKnop.textContent = 'Stop zaklamp';
+      zend('... --- ...', zet, true);
+    } catch { lampKnop.textContent = 'Zaklamp niet beschikbaar'; }
+  });
+</script>

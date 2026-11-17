@@ -1,0 +1,18 @@
+name: Bron voorstellen
+description: Een officiële brochure, dataset of pagina die in het register ontbreekt.
+labels: ["bronnenregister"]
+body:
+  - type: input
+    id: url
+    attributes: { label: Adres van de bron }
+    validations: { required: true }
+  - type: input
+    id: eigenaar
+    attributes: { label: Eigenaar (overheid of organisatie) }
+    validations: { required: true }
+  - type: input
+    id: licentie
+    attributes: { label: Licentie of gebruiksvoorwaarden, description: Laat leeg als onbekend. }
+  - type: textarea
+    id: waarvoor
+    attributes: { label: Waarvoor is de bron nuttig? }

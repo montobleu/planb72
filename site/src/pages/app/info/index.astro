@@ -1,0 +1,32 @@
+---
+import App from '../../../layouts/App.astro';
+import { land } from '../../../lib/data';
+---
+<App titel="Officiële informatie" tab="meer">
+  <h1>Officiële informatiekanalen</h1>
+  <p class="dempen">PlanB72 toont zelf geen live waarschuwingen. Bij een ramp communiceert de overheid via deze kanalen.</p>
+
+  <h2>Voorbereiding</h2>
+  <ul class="vinklijst" data-lijst="info-voorbereiden">
+    {land.kanalen.map((k, i) => (
+      <li><input type="checkbox" id={`k${i}`} /><label for={`k${i}`}>{k.voorbereiden}</label></li>
+    ))}
+  </ul>
+
+  <h2>De kanalen</h2>
+  {land.kanalen.map((k) => (
+    <div class="kaart-blok">
+      <h3>{k.naam} <span class="label">{k.soort}</span></h3>
+      <p>{k.wat}</p>
+      <p class="klein"><a href={k.url}>{k.url.replace('https://', '')}</a> · <a href={k.bron}>bron</a></p>
+    </div>
+  ))}
+  <div class="melding">
+    <strong>Echtheid van berichten.</strong> Een echt BE-Alert-bericht begint altijd met "BE-Alert". Twijfel je, kijk dan op crisiscentrum.be of de site van je gemeente.
+  </div>
+  <p class="klein">Bij een echte crisis zet de overheid soms een tijdelijk nummer of een extra pagina op. Die staan niet vooraf in dit pakket; kijk dan op de kanalen hierboven.</p>
+</App>
+<script>
+  import { vinklijsten } from '../../../lib/app';
+  vinklijsten();
+</script>

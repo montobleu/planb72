@@ -1,0 +1,26 @@
+---
+import App from '../../../layouts/App.astro';
+import { land } from '../../../lib/data';
+---
+<App titel="Noodnummers" tab="nummers">
+  <h1>Noodnummers {land.naam.nl}</h1>
+  <p class="dempen">Tik op een nummer om te bellen. Het nummer 112 is in de hele Europese Unie bereikbaar.</p>
+  <div>
+    {land.noodnummers.map((n) => (
+      <div class={`nummer${n.dringend ? ' dringend' : ''}`}>
+        <a class="tel" href={`tel:${n.nummer.replace(/\s/g, '')}`}>{n.nummer}</a>
+        <div>{n.wat} <a class="klein" href={n.bron}>bron</a></div>
+      </div>
+    ))}
+  </div>
+  <h2>Informatie bij een noodoproep</h2>
+  <ol>
+    <li>Wie je bent en het nummer waarop ze je kunnen terugbellen.</li>
+    <li>Waar het is: gemeente, straat, huisnummer, of wat je ziet.</li>
+    <li>Wat er gebeurd is en hoeveel mensen betrokken zijn.</li>
+    <li>Leg niet als eerste in; wacht tot de hulpdienst zegt dat het gesprek klaar is.</li>
+  </ol>
+  <p class="klein">Volgorde zoals de hulpdiensten die gebruiken (wie, waar, wat, hoeveel). Bron: <a href="https://www.112.be">112.be</a>.</p>
+  <div class="concept">De nummers worden dagelijks automatisch gecontroleerd tegen hun bron. Datum landinfo: {land.bijgewerkt}.</div>
+  <div class="knoppen niet-afdrukken"><button class="knop" type="button" onclick="print()">Afdrukken</button></div>
+</App>

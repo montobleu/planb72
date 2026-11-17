@@ -1,0 +1,28 @@
+---
+import { pad, type Taal } from '../i18n/talen';
+import { SITE } from '../i18n/site';
+import { register } from '../lib/register';
+interface Props { taal: Taal }
+const { taal } = Astro.props;
+const b = SITE[taal].bronnen;
+const klasse = (t?: string) => (t === 'vrij' || t === 'verkregen' ? 'officieel' : '');
+---
+<h1>{b.titel}</h1>
+<p class="lead">{b.lead}</p>
+<p><a href={pad(taal, '/status/')}>{b.statusLink}</a></p>
+{register.length === 0 ? <p>{b.leeg}</p> : (
+  <div class="tabel-wrap"><table>
+    <thead><tr>{b.kop.map((k) => <th scope="col">{k}</th>)}</tr></thead>
+    <tbody>
+      {register.map((r) => (
+        <tr>
+          <td><a href={r.url}>{r.naam}</a>{r.eigenaar && <div class="klein">{r.eigenaar}</div>}</td>
+          <td class="klein">{r.licentie ?? '—'}</td>
+          <td><span class={`label ${klasse(r.toestemming)}`}>{r.toestemming ?? '—'}</span></td>
+          <td class="klein">{r.gebruikt_in?.join(', ') ?? '—'}</td>
+        </tr>
+      ))}
+    </tbody>
+  </table></div>
+)}
+<p class="klein">{b.noot}</p>

@@ -1,0 +1,92 @@
+# Nachtelijke bronnenronde: controleert elke bron uit data/bronnen/register.json.
+#
+# - De status (etag, vingerafdruk, dagen onbereikbaar) leeft op de branch
+#   `bronnenronde`: elke nacht komt daar één commit bij die alleen
+#   data/bronnen/status.json wijzigt. Code en register komen altijd van main.
+# - Voor bronnen die 3 of meer dagen onbereikbaar zijn, of waarvan de licentie
+#   mogelijk wijzigde, opent de ronde een issue (één per bron en reden).
+name: Bronnenronde
+
+on:
+  schedule:
+    - cron: "17 3 * * *"
+  workflow_dispatch:
+    inputs:
+      forceer:
+        description: "Ook bronnen die vandaag al gecontroleerd zijn"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+  issues: write
+
+concurrency:
+  group: bronnenronde
+  cancel-in-progress: false
+
+jobs:
+  ronde:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    env:
+      GH_TOKEN: ${{ github.token }}
+    steps:
+      - uses: actions/checkout@v7.0.1
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-python@v7.1.0
+        with:
+          python-version: "3.12"
+
+      - name: Vorige status ophalen van de branch bronnenronde
+        run: |
+          if git ls-remote --exit-code --heads origin bronnenronde >/dev/null; then
+            git fetch origin bronnenronde:bronnenronde
+          else
+            git branch bronnenronde
+          fi
+          git worktree add ../status bronnenronde
+          if [ -f ../status/data/bronnen/status.json ]; then
+            cp ../status/data/bronnen/status.json data/bronnen/status.json
+          fi
+
+      - name: Ronde draaien
+        run: |
+          python3 pipeline/bronnenronde.py \
+            --meldingen pipeline/out/meldingen.json \
+            ${{ inputs.forceer && '--forceer' || '' }}
+
+      - name: Status committen naar bronnenronde
+        run: |
+          mkdir -p ../status/data/bronnen
+          cp data/bronnen/status.json ../status/data/bronnen/status.json
+          cd ../status
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/bronnen/status.json
+          if git diff --cached --quiet; then
+            echo "Geen wijzigingen in de status."
+          else
+            git commit -m "Bronnenronde $(date -u +%Y-%m-%d)"
+            git push origin bronnenronde
+          fi
+
+      - name: Issues maken
+        run: |
+          gh label create bronnenronde --color FBCA04 \
+            --description "Gemeld door de nachtelijke bronnenronde" 2>/dev/null || true
+          aantal=$(jq length pipeline/out/meldingen.json)
+          echo "Meldingen: $aantal"
+          for i in $(seq 0 $((aantal - 1))); do
+            titel=$(jq -r ".[$i].titel" pipeline/out/meldingen.json)
+            jq -r ".[$i].tekst" pipeline/out/meldingen.json > /tmp/tekst.md
+            bestaand=$(gh issue list --state open --label bronnenronde \
+              --search "\"$titel\" in:title" --json number --jq 'length')
+            if [ "$bestaand" = "0" ]; then
+              gh issue create --title "$titel" --body-file /tmp/tekst.md --label bronnenronde
+            else
+              echo "Er is al een open issue voor: $titel"
+            fi
+          done

@@ -1,0 +1,9 @@
+---
+import { type Taal } from '../i18n/talen';
+import { SITE } from '../i18n/site';
+interface Props { taal: Taal }
+const { taal } = Astro.props;
+const p = SITE[taal].privacy;
+---
+<h1>{p.titel}</h1>
+<ul>{p.punten.map((x) => <li>{x}</li>)}</ul>

@@ -1,0 +1,8 @@
+---
+// Kleurschema volgens Modern Web Guidance (dark-mode-toggle): de <meta> volgt standaard
+// het toestel ("light dark"); een opgeslagen keuze wordt hier vóór het tekenen gezet.
+---
+<meta name="color-scheme" content="light dark" />
+<script is:inline>
+  try { var k = localStorage.getItem('pb72-kleurschema'); if (k === 'light' || k === 'dark') document.querySelector('meta[name="color-scheme"]').content = k; } catch (e) {}
+</script>

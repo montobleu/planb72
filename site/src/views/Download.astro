@@ -1,0 +1,31 @@
+---
+import { type Taal } from '../i18n/talen';
+import { SITE } from '../i18n/site';
+interface Props { taal: Taal }
+const { taal } = Astro.props;
+const d = SITE[taal].download;
+const stand = (s: string) => (s === 'beschikbaar' ? d.beschikbaar : s === 'opbouw' ? d.opbouw : d.later);
+---
+<h1>{d.titel}</h1>
+<p class="lead">{d.lead}</p>
+<h2>{d.landTitel}</h2>
+<p>{d.land}</p>
+<h2>{d.vormenTitel}</h2>
+<div class="tabel-wrap"><table>
+  <tbody>
+    {d.vormen.map(([t, u, s, link]) => (
+      <tr>
+        <th scope="row" style="width:16rem">{t}</th>
+        <td>{u}{link && <> <a href={link}>{d.verder}</a></>}</td>
+        <td style="width:9rem"><span class={`label ${s === 'beschikbaar' ? 'officieel' : ''}`}>{stand(s)}</span></td>
+      </tr>
+    ))}
+  </tbody>
+</table></div>
+<h2>{d.groottesTitel}</h2>
+<div class="tabel-wrap"><table>
+  <thead><tr>{d.kop.map((k) => <th scope="col">{k}</th>)}</tr></thead>
+  <tbody>{d.pakketten.map(([p, v, i, s]) => <tr><th scope="row">{p}</th><td>{v}</td><td>{i}</td><td>{stand(s)}</td></tr>)}</tbody>
+</table></div>
+<h2>{d.echtTitel}</h2>
+<p>{d.echt}</p>

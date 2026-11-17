@@ -1,0 +1,21 @@
+name: Fout in de inhoud melden
+description: Een verouderd nummer, een foute richtlijn of een kapotte link.
+labels: ["inhoud", "te beoordelen"]
+body:
+  - type: input
+    id: pagina
+    attributes:
+      label: Pagina
+      description: Adres van de pagina in de app of op de website.
+    validations: { required: true }
+  - type: textarea
+    id: fout
+    attributes:
+      label: Wat is er fout?
+    validations: { required: true }
+  - type: input
+    id: bron
+    attributes:
+      label: Officiële bron
+      description: Link naar de bron die de juiste informatie bevat.
+    validations: { required: true }

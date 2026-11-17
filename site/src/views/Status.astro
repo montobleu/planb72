@@ -1,0 +1,27 @@
+---
+import { type Taal } from '../i18n/talen';
+import { SITE } from '../i18n/site';
+import { register, status } from '../lib/register';
+interface Props { taal: Taal }
+const { taal } = Astro.props;
+const s = SITE[taal].status;
+---
+<h1>{s.titel}</h1>
+<p class="lead">{s.lead}</p>
+<div class="tabel-wrap"><table>
+  <thead><tr>{s.kop.map((k) => <th scope="col">{k}</th>)}</tr></thead>
+  <tbody>
+    {register.map((b) => {
+      const st = status[b.id] ?? {};
+      return (
+        <tr>
+          <td><a href={b.url}>{b.naam}</a></td>
+          <td>{st.bereikbaar === undefined ? '—' : st.bereikbaar ? <span class="label officieel">{s.ja}</span> : <span class="label">{s.nee}{st.dagen_onbereikbaar ? ` (${st.dagen_onbereikbaar} d)` : ''}</span>}{st.licentie_gewijzigd && <> <span class="label">{s.licentie}</span></>}</td>
+          <td class="klein">{st.laatst_gecontroleerd?.slice(0, 16).replace('T', ' ') ?? '—'}</td>
+          <td class="klein">{st.laatst_gewijzigd?.slice(0, 10) ?? '—'}</td>
+        </tr>
+      );
+    })}
+  </tbody>
+</table></div>
+<p class="klein">{s.noot}</p>

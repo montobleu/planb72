@@ -1,0 +1,94 @@
+{
+  "code": "BE",
+  "naam": { "nl": "België", "fr": "Belgique", "de": "Belgien", "en": "Belgium" },
+  "talen": ["nl", "fr", "de"],
+  "bbox": [2.54, 49.49, 6.41, 51.51],
+  "centrum": [4.47, 50.64],
+  "bijgewerkt": "2026-11-17",
+  "status": "concept",
+  "noodnummers": [
+    { "nummer": "112", "wat": "Ambulance en brandweer (werkt in heel Europa, ook zonder simkaart of beltegoed)", "dringend": true, "bron": "https://www.112.be" },
+    { "nummer": "101", "wat": "Politie", "dringend": true, "bron": "https://www.112.be" },
+    { "nummer": "1722", "wat": "Brandweer bij storm of wateroverlast, als het niet levensbedreigend is. Alleen actief bij noodweer.", "dringend": false, "bron": "https://www.1722.be" },
+    { "nummer": "070 245 245", "wat": "Antigifcentrum, dag en nacht", "dringend": false, "bron": "https://www.antigifcentrum.be" },
+    { "nummer": "1733", "wat": "Huisarts van wacht, buiten de kantooruren", "dringend": false, "bron": "https://www.1733.be" },
+    { "nummer": "1771", "wat": "Informatienummer van het Crisiscentrum, wordt bij een noodsituatie geactiveerd", "dringend": false, "bron": "https://crisiscentrum.be/en/what-does-national-crisis-center-do/communication" },
+    { "nummer": "0903 99 000", "wat": "Apotheek van wacht (betalend nummer); ook via apotheek.be", "dringend": false, "bron": "https://www.apotheek.be" },
+    { "nummer": "116 000", "wat": "Child Focus: vermiste of ontvoerde kinderen", "dringend": false, "bron": "https://childfocus.be" },
+    { "nummer": "1813", "wat": "Zelfmoordlijn (Vlaanderen), dag en nacht", "dringend": false, "bron": "https://www.zelfmoord1813.be" },
+    { "nummer": "0800 32 123", "wat": "Centre de prévention du suicide (Wallonië en Brussel)", "dringend": false, "bron": "https://www.preventionsuicide.be" },
+    { "nummer": "1712", "wat": "Hulplijn geweld, misbruik en kindermishandeling (Vlaanderen)", "dringend": false, "bron": "https://www.1712.be" }
+  ],
+  "kanalen": [
+    {
+      "naam": "BE-Alert",
+      "soort": "alarmering op de telefoon",
+      "wat": "Sms, e-mail of gesproken oproep van de overheid. Een echt bericht begint altijd met \"BE-Alert\". Je moet je zelf inschrijven.",
+      "voorbereiden": "Schrijf je in op be-alert.be, voor je eigen adres en dat van wie je zorg draagt.",
+      "url": "https://www.be-alert.be",
+      "bron": "https://crisiscentrum.be/en/what-can-you-do/stay-informed/official-information-channels"
+    },
+    {
+      "naam": "Nationaal Crisiscentrum",
+      "soort": "officiële website",
+      "wat": "Officiële informatie bij een nationale noodsituatie, en de site risico-info.be over voorbereiden.",
+      "voorbereiden": "Bewaar crisiscentrum.be en de site van je eigen gemeente en provincie als bladwijzer.",
+      "url": "https://crisiscentrum.be",
+      "bron": "https://crisiscentrum.be/en/what-can-you-do/stay-informed/official-information-channels"
+    },
+    {
+      "naam": "Openbare omroepen",
+      "soort": "radio en tv",
+      "wat": "VRT, RTBF en BRF. België heeft geen officiële noodzender aangewezen; een crisisradio op DAB+ is in voorbereiding.",
+      "voorbereiden": "Hou een radio op batterijen of met slinger klaar en noteer de FM-frequentie van Radio 1 of La Première bij jou.",
+      "url": "https://www.vrt.be/nl/ons-aanbod/fm-antenne",
+      "bron": "https://www.redtech.pro/?p=50296"
+    },
+    {
+      "naam": "Informatienummer 1771",
+      "soort": "telefoon",
+      "wat": "Kan bij een noodsituatie binnen het uur actief zijn.",
+      "voorbereiden": "Sla 1771 op in je telefoon.",
+      "url": "https://crisiscentrum.be/en/what-does-national-crisis-center-do/communication",
+      "bron": "https://crisiscentrum.be/en/what-does-national-crisis-center-do/communication"
+    },
+    {
+      "naam": "Sirenes en luidsprekers",
+      "soort": "signaal",
+      "wat": "Sirenes rond nucleaire en Seveso-sites en luidsprekerwagens van de politie.",
+      "voorbereiden": "Ga na of je in de buurt van een sirene woont en wanneer die getest wordt.",
+      "url": "https://crisiscentrum.be",
+      "bron": "https://crisiscentrum.be/en/what-can-you-do/stay-informed/official-information-channels"
+    }
+  ],
+  "nucleair": {
+    "kernboodschap": "Ga binnen en blijf binnen. Luister naar de instructies van de overheid. Evacueer nooit op eigen initiatief. Neem jodiumtabletten alleen wanneer de overheid dat zegt.",
+    "bron": "https://crisiscentrum.be/en/risks-belgium/technological-risks/nuclear",
+    "uitbreidingszone_km": 100,
+    "opmerking": "Rond de kerncentrales geldt een uitbreidingszone tot 100 km voor schuilen en jodium. Die dekt in de praktijk heel België. De zones moeten nog getoetst worden aan het koninklijk besluit van 16 juni 2024.",
+    "coordinaten_status": "benaderend, te controleren tegen FANC en OpenStreetMap",
+    "sites": [
+      { "id": "doel", "naam": "Doel", "soort": "Kerncentrale", "land": "BE", "lat": 51.3247, "lon": 4.2594, "schuilen_km": 20, "jodium_km": 20, "evacuatie_km": 10 },
+      { "id": "tihange", "naam": "Tihange", "soort": "Kerncentrale", "land": "BE", "lat": 50.5347, "lon": 5.2725, "schuilen_km": 20, "jodium_km": 20, "evacuatie_km": 10 },
+      { "id": "mol-dessel", "naam": "Mol-Dessel", "soort": "Onderzoek en afval (SCK CEN, Belgoprocess)", "land": "BE", "lat": 51.2178, "lon": 5.0920, "schuilen_km": 20, "jodium_km": 20, "evacuatie_km": 4 },
+      { "id": "fleurus", "naam": "Fleurus (IRE)", "soort": "Medische isotopen", "land": "BE", "lat": 50.4435, "lon": 4.5440, "schuilen_km": 10, "jodium_km": 10, "evacuatie_km": null },
+      { "id": "borssele", "naam": "Borssele", "soort": "Kerncentrale", "land": "NL", "lat": 51.4308, "lon": 3.7183, "schuilen_km": 20, "jodium_km": 20, "evacuatie_km": 10 },
+      { "id": "chooz", "naam": "Chooz", "soort": "Kerncentrale", "land": "FR", "lat": 50.0903, "lon": 4.7894, "schuilen_km": 20, "jodium_km": 20, "evacuatie_km": 10 },
+      { "id": "gravelines", "naam": "Gravelines", "soort": "Kerncentrale", "land": "FR", "lat": 51.0153, "lon": 2.1361, "schuilen_km": null, "jodium_km": null, "evacuatie_km": null },
+      { "id": "cattenom", "naam": "Cattenom", "soort": "Kerncentrale", "land": "FR", "lat": 49.4158, "lon": 6.2181, "schuilen_km": null, "jodium_km": null, "evacuatie_km": null }
+    ],
+    "zones_bron": "https://crisiscentrum.be/sites/default/files/documents/files/2021-04/fr_fiches_confpresse.pdf"
+  },
+  "schuilen": {
+    "officieel_netwerk": false,
+    "advies": "België heeft voor zover bekend geen netwerk van openbare schuilkelders. Het officiële advies bij een nucleair of chemisch incident is: ga binnen, sluit ramen en deuren, zet de ventilatie uit en luister naar de radio.",
+    "bron": "https://crisiscentrum.be/en/risks-belgium/technological-risks/nuclear"
+  },
+  "voorraad": {
+    "water_liter_pp_per_dag": 3,
+    "water_bron": "Denk vooruit (Nederlandse overheid): 3 liter per persoon per dag",
+    "water_status": "Belgische waarde nog te bevestigen bij het Crisiscentrum",
+    "advies_uren": 72,
+    "advies_bron": "https://commission.europa.eu/topics/preparedness_en"
+  }
+}

@@ -1,0 +1,15 @@
+# Tussenbestanden van de pijplijn (grote extracten, CSV's, caches)
+pipeline/out/
+__pycache__/
+
+# Website en startprogramma
+node_modules/
+site/dist/
+.astro/
+.wrangler/
+launcher/dist/
+
+.DS_Store
+
+# De basiskaart is groot en wordt door de pijplijn naar R2 geüpload, niet in git bewaard.
+site/public/data/*/basis.pmtiles

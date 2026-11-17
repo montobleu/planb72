@@ -1,0 +1,18 @@
+---
+import { type Taal } from '../i18n/talen';
+import { SITE } from '../i18n/site';
+interface Props { taal: Taal }
+const { taal } = Astro.props;
+const n = SITE[taal].nazicht;
+---
+<h1>{n.titel}</h1>
+<p class="lead">{n.lead}</p>
+<div class="tabel-wrap"><table>
+  <thead><tr>{n.kop.map((k) => <th scope="col">{k}</th>)}</tr></thead>
+  <tbody>{n.rijen.map(([a, b, c]) => <tr><th scope="row">{a}</th><td>{b}</td><td>{c}</td></tr>)}</tbody>
+</table></div>
+<p>{n.hoe}</p>
+<h2>{n.statusTitel}</h2>
+<div class="tabel-wrap"><table><tbody>
+  {n.status.map(([l, u]) => <tr><th scope="row" style="width:10rem"><span class={`label ${l === 'officieel' ? 'officieel' : ''}`}>{l}</span></th><td>{u}</td></tr>)}
+</tbody></table></div>

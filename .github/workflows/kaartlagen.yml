@@ -1,0 +1,82 @@
+# Wekelijkse kaartlagen: haalt de lagen uit OpenStreetMap, de mogelijke
+# schuilplekken en de nucleaire zones, en opent een pull request met de nieuwe data.
+#
+# lagen.py en schuilplekken.py stoppen met een foutcode als een laag meer dan
+# 5% daalt (2) of haar budget overschrijdt (3). Dan komt er geen pull request
+# en moet iemand kijken. Met "forceer" sla je de dalingscontrole over.
+name: Kaartlagen
+
+on:
+  schedule:
+    - cron: "23 4 * * 1"
+  workflow_dispatch:
+    inputs:
+      land:
+        description: "Landcode"
+        default: "BE"
+      forceer:
+        description: "Daling van meer dan 5% toestaan"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+  pull-requests: write
+
+concurrency:
+  group: kaartlagen
+  cancel-in-progress: false
+
+jobs:
+  lagen:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    env:
+      LAND: ${{ inputs.land || 'BE' }}
+      FORCEER: ${{ inputs.forceer && '--forceer' || '' }}
+    steps:
+      - uses: actions/checkout@v7.0.1
+
+      - uses: actions/setup-python@v7.1.0
+        with:
+          python-version: "3.12"
+
+      - name: Kaartlagen uit OpenStreetMap
+        run: python3 pipeline/lagen.py "$LAND" $FORCEER
+
+      - name: Mogelijke schuilplekken
+        run: python3 pipeline/schuilplekken.py "$LAND" $FORCEER
+
+      - name: Nucleaire sites en zones
+        run: python3 pipeline/nucleair.py "$LAND"
+
+      - name: Samenvatting
+        id: samenvatting
+        run: |
+          land=$(echo "$LAND" | tr '[:upper:]' '[:lower:]')
+          {
+            echo "tekst<<EINDE"
+            echo "Wekelijkse kaartlagen voor $LAND, opgehaald op $(date -u +%Y-%m-%d)."
+            echo
+            echo "| Laag | Aantal | Bytes |"
+            echo "| --- | ---: | ---: |"
+            jq -r '.lagen | to_entries[] | "| \(.key) | \(.value.aantal) | \(.value.bytes) |"' \
+              "site/public/data/$land/meta.json"
+            echo
+            echo "Bron: © OpenStreetMap-bijdragers, ODbL. Kwaliteitscontrole (daling ≤ 5%) en budget zijn geslaagd."
+            echo "EINDE"
+          } >> "$GITHUB_OUTPUT"
+          echo "landklein=$land" >> "$GITHUB_OUTPUT"
+
+      - name: Pull request openen
+        uses: peter-evans/create-pull-request@v8.1.3
+        with:
+          branch: kaartlagen/${{ steps.samenvatting.outputs.landklein }}
+          delete-branch: true
+          commit-message: "Kaartlagen ${{ env.LAND }} bijgewerkt"
+          title: "Kaartlagen ${{ env.LAND }} bijgewerkt"
+          body: ${{ steps.samenvatting.outputs.tekst }}
+          labels: kaartlagen
+          add-paths: |
+            site/public/data/${{ steps.samenvatting.outputs.landklein }}/*.geojson
+            site/public/data/${{ steps.samenvatting.outputs.landklein }}/meta.json

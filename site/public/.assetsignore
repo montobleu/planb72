@@ -1,0 +1,2 @@
+# Grote pakketbestanden staan in R2, niet bij de statische bestanden.
+*.pmtiles

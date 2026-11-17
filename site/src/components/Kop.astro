@@ -1,0 +1,30 @@
+---
+import Logo from './Logo.astro';
+import { TALEN, pad, type Taal } from '../i18n/talen';
+import { SITE } from '../i18n/site';
+interface Props { taal: Taal; pagina: string }
+const { taal, pagina } = Astro.props;
+const t = SITE[taal].menu;
+const links: [string, string][] = [
+  ['/download/', t.download],
+  ['/bronnen/', t.bronnen],
+  ['/meehelpen/', t.meehelpen],
+  ['/over/', t.over],
+];
+---
+<header class="kop">
+  <div class="wrap">
+    <a class="logo" href={pad(taal, '/')}><Logo /><span>PlanB72</span></a>
+    <nav aria-label={t.navigatie}>
+      {links.map(([href, tekst]) => (
+        <a href={pad(taal, href)} aria-current={pagina === href ? 'page' : undefined}>{tekst}</a>
+      ))}
+      <a href="/app/">{t.app}</a>
+    </nav>
+    <div class="rechts">
+      <div class="taalkeuze" role="group" aria-label={t.taal}>
+        {TALEN.map((l) => <a href={pad(l, pagina)} hreflang={l} lang={l} aria-current={l === taal ? 'true' : undefined}>{l}</a>)}
+      </div>
+    </div>
+  </div>
+</header>

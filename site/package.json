@@ -1,0 +1,26 @@
+{
+  "name": "planb72-site",
+  "private": true,
+  "type": "module",
+  "version": "0.1.0",
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build && pagefind --site dist --glob \"app/**/*.html\" && node scripts/sw-manifest.mjs",
+    "preview": "astro preview",
+    "check": "astro check"
+  },
+  "dependencies": {
+    "@fontsource/ibm-plex-sans": "^5.3.0",
+    "@protomaps/basemaps": "^5.7.2",
+    "astro": "^7.4.12",
+    "maplibre-gl": "^6.19.0",
+    "pmtiles": "^4.5.0"
+  },
+  "devDependencies": {
+    "@astrojs/check": "^0.9.12",
+    "@types/geojson": "^7946.0.16",
+    "pagefind": "^1.6.0",
+    "typescript": "^6.0.3",
+    "wrangler": "^4.164.0"
+  }
+}

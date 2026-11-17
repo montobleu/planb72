@@ -1,0 +1,686 @@
+[
+  {
+    "id": "osm-overpass",
+    "naam": "OpenStreetMap via de Overpass API",
+    "eigenaar": "OpenStreetMap-bijdragers (OpenStreetMap Foundation); server: overpass-api.de",
+    "url": "https://overpass-api.de/api/status",
+    "soort": "api",
+    "land": "EU",
+    "licentie": "ODbL 1.0",
+    "toestemming": "vrij",
+    "route": "automatisch",
+    "frequentie": "dagelijks",
+    "gebruikt_in": [
+      "kaartlagen"
+    ],
+    "opmerking": "Bron van alle kaartlagen en de schuilplekken (pipeline/lagen.py, pipeline/schuilplekken.py). Spiegels: overpass.kumi.systems en overpass.openstreetmap.fr. Bronvermelding '© OpenStreetMap-bijdragers' verplicht; afgeleide databanken blijven onder ODbL."
+  },
+  {
+    "id": "osm-copyright",
+    "naam": "OpenStreetMap: auteursrecht en licentie",
+    "eigenaar": "OpenStreetMap Foundation",
+    "url": "https://www.openstreetmap.org/copyright",
+    "soort": "pagina",
+    "land": "EU",
+    "licentie": "ODbL 1.0",
+    "licentie_kenmerk": "Open Data Commons Open Database License",
+    "toestemming": "vrij",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "kaartlagen",
+      "basiskaart"
+    ],
+    "opmerking": "Bewaakt de licentievoorwaarden van OpenStreetMap."
+  },
+  {
+    "id": "protomaps-builds",
+    "naam": "Protomaps: dagelijkse builds van de basiskaart",
+    "eigenaar": "Protomaps LLC",
+    "url": "https://build-metadata.protomaps.dev/builds.json",
+    "soort": "dataset",
+    "land": "EU",
+    "licentie": "ODbL 1.0 (OpenStreetMap) en publiek domein (Natural Earth); tegelschema BSD-3",
+    "toestemming": "vrij",
+    "route": "automatisch",
+    "frequentie": "dagelijks",
+    "gebruikt_in": [
+      "basiskaart"
+    ],
+    "opmerking": "Lijst van de wereldbestanden op build.protomaps.com/JJJJMMDD.pmtiles. pipeline/basiskaart.py knipt het land eruit. Nieuwe basiskaart maandelijks."
+  },
+  {
+    "id": "protomaps-downloads",
+    "naam": "Protomaps: documentatie downloads van de basiskaart",
+    "eigenaar": "Protomaps LLC",
+    "url": "https://docs.protomaps.com/basemaps/downloads",
+    "soort": "pagina",
+    "land": "EU",
+    "licentie": "ODbL 1.0 (data)",
+    "licentie_kenmerk": "Open Database License Produced Work",
+    "toestemming": "vrij",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "basiskaart"
+    ],
+    "opmerking": "Uitleg over de builds, de licentie en de bewaartermijn van oude builds. Let op: de bucket bewaart alleen de builds van de laatste week en de laatste build per patchversie; wij bewaren onze eigen extracten."
+  },
+  {
+    "id": "crisiscentrum",
+    "naam": "Nationaal Crisiscentrum: startpagina",
+    "eigenaar": "Nationaal Crisiscentrum (FOD Binnenlandse Zaken)",
+    "url": "https://crisiscentrum.be",
+    "soort": "pagina",
+    "land": "BE",
+    "licentie": "auteursrecht overheid, hergebruik niet geregeld",
+    "toestemming": "na te zien",
+    "route": "dringend",
+    "frequentie": "dagelijks",
+    "gebruikt_in": [
+      "landinfo"
+    ],
+    "opmerking": "Uit be.json (kanalen). Stuurt door naar crisiscentrum.be/nl. Tot er toestemming is: eigen samenvatting met link."
+  },
+  {
+    "id": "crisiscentrum-kanalen",
+    "naam": "Nationaal Crisiscentrum: officiële informatiekanalen",
+    "eigenaar": "Nationaal Crisiscentrum (FOD Binnenlandse Zaken)",
+    "url": "https://crisiscentrum.be/en/what-can-you-do/stay-informed/official-information-channels",
+    "soort": "pagina",
+    "land": "BE",
+    "licentie": "auteursrecht overheid, hergebruik niet geregeld",
+    "toestemming": "na te zien",
+    "route": "dringend",
+    "frequentie": "dagelijks",
+    "gebruikt_in": [
+      "landinfo"
+    ],
+    "opmerking": "Bron van BE-Alert, crisiscentrum.be en sirenes in be.json. Stuurt in november 2026 door naar crisiscenter.be/en/what-can-you-do/stay-informed/get-informed-emergency-situation."
+  },
+  {
+    "id": "crisiscentrum-1771",
+    "naam": "Nationaal Crisiscentrum: communicatie en informatienummer 1771",
+    "eigenaar": "Nationaal Crisiscentrum (FOD Binnenlandse Zaken)",
+    "url": "https://crisiscentrum.be/en/what-does-national-crisis-center-do/communication",
+    "soort": "pagina",
+    "land": "BE",
+    "licentie": "auteursrecht overheid, hergebruik niet geregeld",
+    "toestemming": "na te zien",
+    "route": "dringend",
+    "frequentie": "dagelijks",
+    "gebruikt_in": [
+      "landinfo"
+    ],
+    "opmerking": "Bron van het noodnummer 1771 in be.json. Stuurt in november 2026 door naar crisiscenter.be/en/role-national-crisis-center/communication."
+  },
+  {
+    "id": "crisiscentrum-nucleair",
+    "naam": "Nationaal Crisiscentrum: nucleair risico",
+    "eigenaar": "Nationaal Crisiscentrum (FOD Binnenlandse Zaken)",
+    "url": "https://crisiscentrum.be/en/risks-belgium/technological-risks/nuclear",
+    "soort": "pagina",
+    "land": "BE",
+    "licentie": "auteursrecht overheid; de afstanden van de zones zijn feiten",
+    "toestemming": "na te zien",
+    "route": "dringend",
+    "frequentie": "dagelijks",
+    "gebruikt_in": [
+      "landinfo",
+      "kaartlagen"
+    ],
+    "opmerking": "Bron van de kernboodschap en het schuiladvies in be.json. LET OP: dit adres gaf op 17-11-2026 een 404 (doorgestuurd naar crisiscenter.be/en/risks-belgium/technological-risks/nuclear-risk). De pagina staat nu op https://crisiscenter.be/en/risks-belgium/technological-risks/nuclear-plant-incident; be.json en dit register bijwerken na nazicht."
+  },
+  {
+    "id": "crisiscentrum-persfiches-nucleair",
+    "naam": "Nationaal Crisiscentrum: persfiches noodplanningszones (2021)",
+    "eigenaar": "Nationaal Crisiscentrum (FOD Binnenlandse Zaken)",
+    "url": "https://crisiscentrum.be/sites/default/files/documents/files/2021-04/fr_fiches_confpresse.pdf",
+    "soort": "pdf",
+    "land": "BE",
+    "licentie": "auteursrecht overheid; de afstanden van de zones zijn feiten",
+    "toestemming": "na te zien",
+    "route": "dringend",
+    "frequentie": "dagelijks",
+    "gebruikt_in": [
+      "landinfo",
+      "kaartlagen"
+    ],
+    "opmerking": "Bron van de zones (schuilen, jodium, evacuatie, uitbreidingszone 100 km) in be.json en nucleair.geojson. Nog te toetsen aan het koninklijk besluit van 16 juni 2024."
+  },
+  {
+    "id": "be-alert",
+    "naam": "BE-Alert",
+    "eigenaar": "Nationaal Crisiscentrum (FOD Binnenlandse Zaken)",
+    "url": "https://www.be-alert.be",
+    "soort": "pagina",
+    "land": "BE",
+    "licentie": "auteursrecht overheid, hergebruik niet geregeld",
+    "toestemming": "na te zien",
+    "route": "dringend",
+    "frequentie": "dagelijks",
+    "gebruikt_in": [
+      "landinfo"
+    ],
+    "opmerking": "Alarmering per sms, e-mail of oproep; inschrijven op deze site. Stuurt door naar een taalkeuzepagina."
+  },
+  {
+    "id": "risico-info",
+    "naam": "risico-info.be: voorbereiden op noodsituaties",
+    "eigenaar": "Nationaal Crisiscentrum (FOD Binnenlandse Zaken)",
+    "url": "https://www.risico-info.be",
+    "soort": "pagina",
+    "land": "BE",
+    "licentie": "auteursrecht overheid, hergebruik niet geregeld",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "dagelijks",
+    "gebruikt_in": [
+      "gidsen",
+      "landinfo"
+    ],
+    "opmerking": "Uit het plan (Na te zien: noodbrochure en webteksten). Stuurt in november 2026 door naar crisiscentrum.be/nl. Aanvraag tot toestemming bij het Crisiscentrum."
+  },
+  {
+    "id": "crisiscentrum-brochure-2026",
+    "naam": "Brochure van het Crisiscentrum 'Samen voorbereid' (nieuwsbericht VRT)",
+    "eigenaar": "VRT NWS (bericht); brochure: Nationaal Crisiscentrum",
+    "url": "https://www.vrt.be/vrtnws/nl/2026/10/01/brochure-van-crisiscentrum-voorbereiden-op-noodsituaties/",
+    "soort": "pagina",
+    "land": "BE",
+    "licentie": "auteursrecht VRT",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "opmerking": "Aankondiging van de officiële brochure (1 oktober 2026). Het rechtstreekse adres van de brochure zelf nog opzoeken en als eigen bron toevoegen."
+  },
+  {
+    "id": "vrt-fm-antenne",
+    "naam": "VRT: FM-frequenties per zender",
+    "eigenaar": "VRT",
+    "url": "https://www.vrt.be/nl/ons-aanbod/fm-antenne",
+    "soort": "pagina",
+    "land": "BE",
+    "licentie": "auteursrecht VRT; frequenties zijn feiten",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "dagelijks",
+    "gebruikt_in": [
+      "landinfo"
+    ],
+    "opmerking": "Uit be.json (kanalen, openbare omroepen). Frequenties van Radio 1 en Radio 2 per zender. Franstalige tegenhanger (RTBF, La Première) nog toevoegen."
+  },
+  {
+    "id": "crisisradio-dab",
+    "naam": "RedTech: plan voor een crisisradio op DAB+",
+    "eigenaar": "RedTech (vakblad)",
+    "url": "https://www.redtech.pro/?p=50296",
+    "soort": "pagina",
+    "land": "BE",
+    "licentie": "auteursrecht RedTech",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "landinfo"
+    ],
+    "opmerking": "Uit be.json (bron voor de openbare omroepen). Alleen als achtergrond; vervangen door een officiële bron zodra die er is."
+  },
+  {
+    "id": "seveso-vlaanderen",
+    "naam": "Terreinen van Seveso-inrichtingen in Vlaanderen",
+    "eigenaar": "Departement Omgeving (Vlaamse overheid)",
+    "url": "https://metadata.vlaanderen.be/srv/api/records/ae077b96-d2db-4e4c-aa1c-f4c8772a7645/formatters/xml",
+    "soort": "dataset",
+    "land": "BE",
+    "licentie": "Modellicentie gratis hergebruik v1.0 (Vlaamse open data)",
+    "toestemming": "vrij",
+    "route": "automatisch",
+    "frequentie": "dagelijks",
+    "gebruikt_in": [
+      "kaartlagen"
+    ],
+    "opmerking": "Hoge- en lagedrempelbedrijven. Het plan verwijst naar https://inspire-geoportal.ec.europa.eu/srv/api/records/ae077b96-d2db-4e4c-aa1c-f4c8772a7645, maar die host bestaat op 17-11-2026 niet meer (NXDOMAIN); dezelfde record staat in het Vlaamse metadatacentrum (dit adres, XML). Download als GeoPackage: https://dataplatform.omgeving.vlaanderen.be/public/mercatornet/pf_seveso_ter/pf_seveso_ter.lb08?format=gpkg. Er bestaat ook een dataset met consultatiezones. Wallonië en Brussel nog op te zoeken.",
+    "licentie_kenmerk": "modellicentie-gratis-hergebruik"
+  },
+  {
+    "id": "vmm-overstroming",
+    "naam": "Overstromingsgevaarkaarten Vlaanderen",
+    "eigenaar": "Vlaamse Milieumaatschappij (VMM)",
+    "url": "https://pro.waterinfo.vlaanderen.be/download/0f92154a-3553-47e1-a88b-d44b146bc0e6?dl=0",
+    "soort": "pdf",
+    "land": "BE",
+    "licentie": "Modellicentie gratis hergebruik, met vermelding 'Bron: VMM'",
+    "toestemming": "vrij",
+    "route": "automatisch",
+    "frequentie": "dagelijks",
+    "gebruikt_in": [
+      "kaartlagen"
+    ],
+    "opmerking": "Gevaar vanuit zee, waterlopen en hevige regen, huidig klimaat en 2050. Dit adres uit het plan levert in november 2026 een pdf (1,8 MB). De licentie wordt bewaakt via vmm-overstroming-metadata. Te vereenvoudigen tot één laag met drie kansklassen."
+  },
+  {
+    "id": "vmm-overstroming-metadata",
+    "naam": "Overstromingsgevaarkaarten Vlaanderen: metadata en licentie",
+    "eigenaar": "Vlaamse Milieumaatschappij (VMM)",
+    "url": "https://metadata.vlaanderen.be/srv/api/records/4cda0378-c119-11ea-8f2c-00215caf2660/formatters/xml",
+    "soort": "dataset",
+    "land": "BE",
+    "licentie": "Modellicentie gratis hergebruik v1.0, met vermelding 'Bron: VMM'",
+    "licentie_kenmerk": "modellicentie-gratis-hergebruik",
+    "toestemming": "vrij",
+    "route": "automatisch",
+    "frequentie": "dagelijks",
+    "gebruikt_in": [
+      "kaartlagen"
+    ],
+    "opmerking": "Record 4cda0378-... (waterdiepte pluviaal, klimaat 2050, middelgrote kans) als voorbeeld van de reeks. Het plan verwijst naar de INSPIRE-geoportaalrecord met dezelfde id; die host bestaat niet meer. Downloads via geoservice.waterinfo.be/OGRK/download/ (GML en GeoTIFF). De andere kaarten van de reeks nog als regels toevoegen."
+  },
+  {
+    "id": "fod-aed",
+    "naam": "Geregistreerde AED's in België (FOD Volksgezondheid)",
+    "eigenaar": "FOD Volksgezondheid, Veiligheid van de Voedselketen en Leefmilieu",
+    "url": "https://community.openstreetmap.org/t/link-aed-between-osm-and-fod/130723",
+    "soort": "pagina",
+    "land": "BE",
+    "licentie": "geen open data",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "kaartlagen"
+    ],
+    "opmerking": "Ongeveer 19.000 geregistreerde AED's; volgens de Belgische OpenStreetMap-gemeenschap (deze discussie) geen open data. Aanvragen bij de FOD. Tot dan de AED's uit OpenStreetMap. Officiële pagina van de FOD nog als bron toevoegen."
+  },
+  {
+    "id": "rode-kruis-vlaanderen",
+    "naam": "Rode Kruis-Vlaanderen",
+    "eigenaar": "Rode Kruis-Vlaanderen vzw",
+    "url": "https://www.rodekruis.be",
+    "soort": "pagina",
+    "land": "BE",
+    "licentie": "auteursrecht Rode Kruis-Vlaanderen",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "dagelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "opmerking": "Eerste-hulprichtlijnen; toestemming aanvragen (fase 0). Tot dan WHO, Hesperian en WikiMed."
+  },
+  {
+    "id": "croix-rouge-belgique",
+    "naam": "Croix-Rouge de Belgique",
+    "eigenaar": "Croix-Rouge de Belgique asbl",
+    "url": "https://www.croix-rouge.be",
+    "soort": "pagina",
+    "land": "BE",
+    "licentie": "auteursrecht Croix-Rouge de Belgique",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "dagelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "opmerking": "Eerste-hulprichtlijnen in het Frans; toestemming aanvragen samen met Rode Kruis-Vlaanderen."
+  },
+  {
+    "id": "hesperian",
+    "naam": "Hesperian Health Guides: open copyright-beleid",
+    "eigenaar": "Hesperian Health Guides",
+    "url": "https://hesperian.org/open-copyright-policy",
+    "soort": "pagina",
+    "land": "EU",
+    "licentie": "open copyright-beleid: niet-commercieel met bronvermelding; voor bepaalde bewerking en verspreiding vooraf toestemming",
+    "licentie_kenmerk": "Open Copyright",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen",
+      "naslag"
+    ],
+    "opmerking": "Onder meer 'Where There Is No Doctor'. Aanvraag via permissions@hesperian.org. Tot dan verwijzen naar hun eigen gratis versie."
+  },
+  {
+    "id": "wikimed",
+    "naam": "WikiMed / MDWiki (ZIM via Kiwix)",
+    "eigenaar": "Wiki Project Med Foundation; ZIM: Kiwix / openZIM",
+    "url": "https://library.kiwix.org/catalog/v2/entries?name=mdwiki_en_all",
+    "soort": "zim",
+    "land": "EU",
+    "licentie": "CC BY-SA",
+    "toestemming": "vrij",
+    "route": "automatisch",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "naslag"
+    ],
+    "opmerking": "Medische encyclopedie in het Engels (Standaard-pakket). OPDS-catalogus van Kiwix; nieuwe uitgave = nieuwe vingerafdruk."
+  },
+  {
+    "id": "kiwix-catalogus",
+    "naam": "Kiwix: catalogus van offline inhoud",
+    "eigenaar": "Kiwix",
+    "url": "https://get.kiwix.org/en/solutions/catalog/",
+    "soort": "pagina",
+    "land": "EU",
+    "licentie": "per ZIM-bestand (meestal CC BY-SA of CC BY-NC-SA)",
+    "toestemming": "vrij",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "naslag"
+    ],
+    "opmerking": "Overzicht van wat als ZIM bestaat (iFixit, Wikibooks, Wikivoyage, ...). Elk ZIM-bestand dat we opnemen krijgt een eigen regel."
+  },
+  {
+    "id": "wikipedia-nl",
+    "naam": "Wikipedia in het Nederlands (ZIM via Kiwix)",
+    "eigenaar": "Wikimedia Foundation en bijdragers; ZIM: Kiwix / openZIM",
+    "url": "https://library.kiwix.org/catalog/v2/entries?name=wikipedia_nl_all",
+    "soort": "zim",
+    "land": "BE",
+    "licentie": "CC BY-SA",
+    "toestemming": "vrij",
+    "route": "automatisch",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "naslag"
+    ],
+    "opmerking": "Volledig-pakket België; kleinere variant wikipedia_nl_top voor Standaard."
+  },
+  {
+    "id": "wikipedia-fr",
+    "naam": "Wikipedia in het Frans (ZIM via Kiwix)",
+    "eigenaar": "Wikimedia Foundation en bijdragers; ZIM: Kiwix / openZIM",
+    "url": "https://library.kiwix.org/catalog/v2/entries?name=wikipedia_fr_all",
+    "soort": "zim",
+    "land": "BE",
+    "licentie": "CC BY-SA",
+    "toestemming": "vrij",
+    "route": "automatisch",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "naslag"
+    ],
+    "opmerking": "Volledig-pakket België; ook wikipedia_fr_medicine als kleinere medische selectie."
+  },
+  {
+    "id": "denk-vooruit",
+    "naam": "Denk vooruit (Nederlandse overheid)",
+    "eigenaar": "Rijksoverheid Nederland (ministerie van Justitie en Veiligheid)",
+    "url": "https://www.denkvooruit.nl",
+    "soort": "pagina",
+    "land": "NL",
+    "licentie": "auteursrecht overheid; hergebruik na te gaan",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "dagelijks",
+    "gebruikt_in": [
+      "gidsen",
+      "landinfo"
+    ],
+    "opmerking": "Bron van de waarde 3 liter water per persoon per dag in be.json (Belgische waarde nog te bevestigen)."
+  },
+  {
+    "id": "eu-preparedness",
+    "naam": "Europese Commissie: Preparedness",
+    "eigenaar": "Europese Commissie",
+    "url": "https://commission.europa.eu/topics/preparedness_en",
+    "soort": "pagina",
+    "land": "EU",
+    "licentie": "hergebruik toegestaan met bronvermelding (Besluit 2011/833/EU), tenzij anders vermeld",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "dagelijks",
+    "gebruikt_in": [
+      "landinfo",
+      "gidsen"
+    ],
+    "opmerking": "Preparedness Union Strategy (26 maart 2025): minstens 72 uur zelfredzaam. Bron van advies_uren in be.json."
+  },
+  {
+    "id": "berec-pws",
+    "naam": "BEREC: waarschuwingssystemen per land",
+    "eigenaar": "BEREC",
+    "url": "https://www.berec.europa.eu/en/pws",
+    "soort": "pagina",
+    "land": "EU",
+    "licentie": "auteursrecht BEREC; feiten",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "landinfo"
+    ],
+    "opmerking": "Startlijst van alarmsystemen voor de andere EU-landen."
+  },
+  {
+    "id": "noodnummer-112",
+    "naam": "112.be: noodnummers 112 en 101",
+    "eigenaar": "FOD Binnenlandse Zaken",
+    "url": "https://www.112.be",
+    "soort": "pagina",
+    "land": "BE",
+    "licentie": "noodnummers zijn feiten; teksten auteursrecht overheid",
+    "toestemming": "vrij",
+    "route": "dringend",
+    "frequentie": "dagelijks",
+    "gebruikt_in": [
+      "landinfo"
+    ],
+    "opmerking": "Bron van 112 en 101 in be.json. 'vrij' geldt voor de nummers zelf, niet voor de teksten."
+  },
+  {
+    "id": "noodnummer-1722",
+    "naam": "1722.be: brandweer bij noodweer",
+    "eigenaar": "FOD Binnenlandse Zaken",
+    "url": "https://www.1722.be",
+    "soort": "pagina",
+    "land": "BE",
+    "licentie": "noodnummers zijn feiten; teksten auteursrecht overheid",
+    "toestemming": "vrij",
+    "route": "dringend",
+    "frequentie": "dagelijks",
+    "gebruikt_in": [
+      "landinfo"
+    ],
+    "opmerking": "Bron van 1722 in be.json."
+  },
+  {
+    "id": "noodnummer-antigif",
+    "naam": "Antigifcentrum: 070 245 245",
+    "eigenaar": "Antigifcentrum (stichting van openbaar nut)",
+    "url": "https://www.antigifcentrum.be",
+    "soort": "pagina",
+    "land": "BE",
+    "licentie": "noodnummers zijn feiten; teksten auteursrecht Antigifcentrum",
+    "toestemming": "vrij",
+    "route": "dringend",
+    "frequentie": "dagelijks",
+    "gebruikt_in": [
+      "landinfo"
+    ],
+    "opmerking": "Bron van 070 245 245 in be.json."
+  },
+  {
+    "id": "noodnummer-1733",
+    "naam": "1733: huisarts van wacht",
+    "eigenaar": "FOD Volksgezondheid",
+    "url": "https://www.1733.be",
+    "soort": "pagina",
+    "land": "BE",
+    "licentie": "noodnummers zijn feiten; teksten auteursrecht overheid",
+    "toestemming": "vrij",
+    "route": "dringend",
+    "frequentie": "dagelijks",
+    "gebruikt_in": [
+      "landinfo"
+    ],
+    "opmerking": "Bron van 1733 in be.json. Stuurt door naar health.belgium.be/en/1733."
+  },
+  {
+    "id": "noodnummer-apotheek",
+    "naam": "apotheek.be: apotheek van wacht (0903 99 000)",
+    "eigenaar": "Algemene Pharmaceutische Bond (APB)",
+    "url": "https://www.apotheek.be",
+    "soort": "pagina",
+    "land": "BE",
+    "licentie": "nummers zijn feiten; teksten auteursrecht APB",
+    "toestemming": "vrij",
+    "route": "dringend",
+    "frequentie": "dagelijks",
+    "gebruikt_in": [
+      "landinfo"
+    ],
+    "opmerking": "Bron van 0903 99 000 in be.json."
+  },
+  {
+    "id": "noodnummer-childfocus",
+    "naam": "Child Focus: 116 000",
+    "eigenaar": "Child Focus (stichting van openbaar nut)",
+    "url": "https://childfocus.be",
+    "soort": "pagina",
+    "land": "BE",
+    "licentie": "nummers zijn feiten; teksten auteursrecht Child Focus",
+    "toestemming": "vrij",
+    "route": "dringend",
+    "frequentie": "dagelijks",
+    "gebruikt_in": [
+      "landinfo"
+    ],
+    "opmerking": "Bron van 116 000 in be.json."
+  },
+  {
+    "id": "noodnummer-1813",
+    "naam": "Zelfmoordlijn 1813",
+    "eigenaar": "Centrum ter Preventie van Zelfdoding vzw",
+    "url": "https://www.zelfmoord1813.be",
+    "soort": "pagina",
+    "land": "BE",
+    "licentie": "nummers zijn feiten; teksten auteursrecht CPZ",
+    "toestemming": "vrij",
+    "route": "dringend",
+    "frequentie": "dagelijks",
+    "gebruikt_in": [
+      "landinfo"
+    ],
+    "opmerking": "Bron van 1813 in be.json."
+  },
+  {
+    "id": "noodnummer-preventionsuicide",
+    "naam": "Centre de prévention du suicide: 0800 32 123",
+    "eigenaar": "Centre de prévention du suicide asbl",
+    "url": "https://www.preventionsuicide.be",
+    "soort": "pagina",
+    "land": "BE",
+    "licentie": "nummers zijn feiten; teksten auteursrecht CPS",
+    "toestemming": "vrij",
+    "route": "dringend",
+    "frequentie": "dagelijks",
+    "gebruikt_in": [
+      "landinfo"
+    ],
+    "opmerking": "Bron van 0800 32 123 in be.json."
+  },
+  {
+    "id": "noodnummer-1712",
+    "naam": "Hulplijn 1712",
+    "eigenaar": "Vlaamse overheid (Departement Zorg)",
+    "url": "https://www.1712.be",
+    "soort": "pagina",
+    "land": "BE",
+    "licentie": "nummers zijn feiten; teksten auteursrecht Vlaamse overheid",
+    "toestemming": "vrij",
+    "route": "dringend",
+    "frequentie": "dagelijks",
+    "gebruikt_in": [
+      "landinfo"
+    ],
+    "opmerking": "Bron van 1712 in be.json."
+  },
+  {
+    "id": "kmi-waarschuwingen",
+    "naam": "KMI: weerwaarschuwingen",
+    "eigenaar": "Koninklijk Meteorologisch Instituut van België",
+    "url": "https://www.meteo.be",
+    "soort": "pagina",
+    "land": "BE",
+    "licentie": "Na te kijken",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "dagelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "opmerking": "Waarschuwingscodes bij storm en hitte; alleen verwijzing."
+  },
+  {
+    "id": "waterinfo-vlaanderen",
+    "naam": "Waterinfo Vlaanderen",
+    "eigenaar": "Vlaamse Milieumaatschappij",
+    "url": "https://www.waterinfo.be",
+    "soort": "pagina",
+    "land": "BE",
+    "licentie": "Modellicentie gratis hergebruik, 'Bron: VMM'",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "dagelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "opmerking": "Overstromingsberichten; verwijzing vanuit de scenariokaart overstroming."
+  },
+  {
+    "id": "ecdc",
+    "naam": "ECDC: Europees Centrum voor ziektepreventie en -bestrijding",
+    "eigenaar": "Europese Unie",
+    "url": "https://www.ecdc.europa.eu",
+    "soort": "pagina",
+    "land": "EU",
+    "licentie": "© EU, hergebruik met bronvermelding (Commissiebesluit 2011/833/EU)",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "opmerking": "Bron voor de scenariokaart besmettelijke ziekte."
+  },
+  {
+    "id": "berlijn-bevoelkerungsschutz",
+    "naam": "Berlijn, Tempelhof-Schöneberg: Bevölkerungsschutz",
+    "eigenaar": "Bezirksamt Tempelhof-Schöneberg, Berlijn",
+    "url": "https://www.berlin.de/ba-tempelhof-schoeneberg/service/bevoelkerungsschutz/artikel.1656638.php",
+    "soort": "pagina",
+    "land": "DE",
+    "licentie": "Na te kijken",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "opmerking": "Officiële Duitse richtlijnen over schuilen per dreiging; samengevat in de module schuilen en de kaart luchtalarm."
+  },
+  {
+    "id": "dovidka-schuilplaats",
+    "naam": "dovidka.info: wat is een schuilplaats",
+    "eigenaar": "Oekraïense overheid (Centrum voor strategische communicatie)",
+    "url": "https://dovidka.info/en/what-is-shelter/",
+    "soort": "pagina",
+    "land": "UA",
+    "licentie": "Na te kijken",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "maandelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "opmerking": "Officiële Oekraïense informatie over schuilen; samengevat in de kaart luchtalarm."
+  }
+]

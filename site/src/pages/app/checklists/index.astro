@@ -1,0 +1,38 @@
+---
+import App from '../../../layouts/App.astro';
+const lijsten: [string, string, string[]][] = [
+  ['noodpakket', 'Noodpakket thuis (72 uur)', [
+    'Drinkwater (zie de voorraadplanner)', 'Houdbaar eten dat je zonder koken kunt eten', 'Blikopener', 'Radio op batterijen of met slinger',
+    'Zaklamp en reservebatterijen', 'Opgeladen powerbank en kabels', 'Huisapotheek en je vaste medicatie', 'Kopieën van identiteitspapieren',
+    'Wat cash geld, ook kleingeld', 'Fluitje', 'Warme dekens', 'Lucifers of aansteker', 'Toiletpapier, vuilniszakken, handgel',
+    'Extra bril of lenzen', 'Eten en water voor huisdieren', 'Papieren lijst met belangrijke telefoonnummers',
+  ]],
+  ['vluchttas', 'Vluchttas (als je moet vertrekken)', [
+    'Identiteitskaart, paspoort, bankkaart', 'Medicatie voor enkele dagen en voorschriften', 'Telefoon, lader en powerbank',
+    'Water en iets om te eten', 'Kleren voor twee dagen, regenkledij', 'Toiletgerief', 'Huis- en autosleutels', 'Cash geld',
+    'Bril, hoorapparaat en batterijen', 'Knuffel of spel voor kinderen', 'Gezinsnoodplan op papier', 'Benodigdheden voor huisdieren (riem, bench, voer)',
+  ]],
+  ['auto', 'In de auto', [
+    'Volle tank of geladen batterij bij een waarschuwing', 'Fluohesje en gevarendriehoek', 'Water en iets om te eten', 'Deken',
+    'Zaklamp', 'Laadkabel voor de telefoon', 'Verbanddoos', 'Papieren wegenkaart',
+  ]],
+];
+---
+<App titel="Checklists" tab="meer">
+  <h1>Checklists</h1>
+  <p class="dempen">Afgevinkte items worden op dit toestel bewaard. De lijsten zijn ook af te drukken.</p>
+  <div class="concept">Samengesteld uit de lijsten van overheden (risico-info.be, Denk vooruit, de Zweedse en Duitse gidsen). Nog niet nagelezen; volg bij verschil de officiële lijst van je land.</div>
+  {lijsten.map(([id, titel, items]) => (
+    <section>
+      <h2>{titel}</h2>
+      <ul class="vinklijst" data-lijst={id}>
+        {items.map((it, i) => <li><input type="checkbox" id={`${id}-${i}`} /><label for={`${id}-${i}`}>{it}</label></li>)}
+      </ul>
+    </section>
+  ))}
+  <div class="knoppen niet-afdrukken"><button class="knop" type="button" onclick="print()">Afdrukken</button></div>
+</App>
+<script>
+  import { vinklijsten } from '../../../lib/app';
+  vinklijsten();
+</script>

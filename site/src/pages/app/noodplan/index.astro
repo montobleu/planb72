@@ -1,0 +1,49 @@
+---
+import App from '../../../layouts/App.astro';
+const velden: [string, string, 'text' | 'tel' | 'textarea'][] = [
+  ['gezin', 'Wie hoort bij ons gezin (namen, geboortedatum)', 'textarea'],
+  ['adres', 'Ons adres', 'text'],
+  ['ontmoeting-buurt', 'Ontmoetingspunt in de buurt (bv. bij brand)', 'text'],
+  ['ontmoeting-buiten', 'Ontmoetingspunt buiten de wijk (als we niet naar huis kunnen)', 'text'],
+  ['contact-buiten', 'Contactpersoon buiten de regio, die iedereen belt of sms\'t', 'text'],
+  ['contact-tel', 'Telefoonnummer van die contactpersoon', 'tel'],
+  ['school', 'School, opvang en werk: adres en noodnummer', 'textarea'],
+  ['medisch', 'Medische info: medicatie, allergieën, huisarts', 'textarea'],
+  ['huisdieren', 'Huisdieren: wie neemt ze mee, dierenarts, chipnummer', 'textarea'],
+  ['afsluiten', 'Waar zitten de kranen en schakelaars van water, gas en elektriciteit', 'textarea'],
+  ['kwetsbaar', 'Buren die hulp nodig hebben', 'textarea'],
+  ['radio', 'Mijn radiozender en frequentie', 'text'],
+];
+---
+<App titel="Gezinsnoodplan" tab="meer">
+  <h1>Gezinsnoodplan</h1>
+  <p class="dempen">Alles blijft op dit toestel. Druk het af en leg het bij je noodpakket.</p>
+  <form id="plan">
+    {velden.map(([id, label, soort]) => (
+      <>
+        <label for={id}>{label}</label>
+        {soort === 'textarea' ? <textarea id={id} name={id} rows="3"></textarea> : <input id={id} name={id} type={soort} autocomplete={id === 'adres' ? 'street-address' : 'off'} />}
+      </>
+    ))}
+  </form>
+  <p class="klein" id="bewaard" aria-live="polite"></p>
+  <div class="knoppen niet-afdrukken">
+    <button class="knop hoofd" type="button" onclick="print()">Afdrukken</button>
+    <button class="knop gevaar" type="button" id="wissen">Alles wissen</button>
+  </div>
+</App>
+<script>
+  import { lees, bewaar } from '../../../lib/app';
+  const form = document.getElementById('plan') as HTMLFormElement;
+  const data = lees<Record<string, string>>('noodplan', {});
+  for (const [k, v] of Object.entries(data)) { const el = form.elements.namedItem(k) as HTMLInputElement | null; if (el) el.value = v; }
+  form.addEventListener('input', () => {
+    const nieuw: Record<string, string> = {};
+    new FormData(form).forEach((v, k) => (nieuw[k] = String(v)));
+    document.getElementById('bewaard')!.textContent = bewaar('noodplan', nieuw) ? 'Bewaard op dit toestel.' : 'Kon niet bewaren (privévenster of volle opslag?).';
+  });
+  document.getElementById('wissen')!.addEventListener('click', () => {
+    if (!confirm('Het hele noodplan wissen?')) return;
+    form.reset(); bewaar('noodplan', {});
+  });
+</script>

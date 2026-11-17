@@ -1,0 +1,68 @@
+---
+import { pad, type Taal } from '../i18n/talen';
+import { SITE } from '../i18n/site';
+interface Props { taal: Taal }
+const { taal } = Astro.props;
+const h = SITE[taal].home;
+const scherm = { licht: '/beelden/app-start-licht.jpg', donker: '/beelden/app-start-donker.jpg' };
+---
+<section class="held">
+  <div class="wrap">
+    <div>
+      <p class="boventitel">{h.boventitel}</p>
+      <h1>{h.titel}</h1>
+      <p class="lead">{h.lead}</p>
+      <div class="knoppen">
+        <a class="knop hoofd" href="/app/">{h.open}</a>
+        <a class="knop" href={pad(taal, '/download/')}>{h.download}</a>
+      </div>
+      <p class="statusbalk">{h.noot}</p>
+    </div>
+    <figure class="toestel">
+      <div class="omlijsting">
+        <img class="alleen-licht" src={scherm.licht} width="750" height="1624" alt={h.schermAlt} fetchpriority="high" decoding="async" />
+        <img class="alleen-donker" src={scherm.donker} width="750" height="1624" alt={h.schermAlt} decoding="async" />
+      </div>
+      <figcaption>{h.schermOnderschrift}</figcaption>
+    </figure>
+  </div>
+</section>
+
+<section class="sectie band">
+  <div class="wrap">
+    <h2 class="eerste">{h.functiesTitel}</h2>
+    <div class="kolommen-3">
+      {h.functies.map(([t, u]) => <div><h3>{t}</h3><p>{u}</p></div>)}
+    </div>
+  </div>
+</section>
+
+<section class="sectie">
+  <div class="wrap twee">
+    <div>
+      <h2 class="eerste">{h.bronnenTitel}</h2>
+      {h.bronnenTekst.map((p) => <p>{p}</p>)}
+      <p><a href={pad(taal, '/bronnen/')}>{h.bronnenLink}</a> · <a href={pad(taal, '/nazicht/')}>{h.nazichtLink}</a></p>
+    </div>
+    <ul class="bronnenlijst">
+      {h.bronnenLijst.map(([naam, rol]) => <li>{naam}<span>{rol}</span></li>)}
+    </ul>
+  </div>
+</section>
+
+<section class="sectie">
+  <div class="wrap">
+    <h2 class="eerste">{h.stappenTitel}</h2>
+    <ol class="genummerd">
+      {h.stappen.map(([t, u]) => <li><strong>{t}</strong><span>{u}</span></li>)}
+    </ol>
+  </div>
+</section>
+
+<section class="sectie band">
+  <div class="wrap">
+    <h2 class="eerste">{h.achtergrondTitel}</h2>
+    <p class="lead" style="font-size:1.05rem">{h.achtergrond}</p>
+  </div>
+</section>
+

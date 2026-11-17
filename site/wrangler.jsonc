@@ -1,0 +1,20 @@
+{
+  // PlanB72: website en web-app als statische bestanden op Cloudflare Workers.
+  // De kleine Worker serveert alleen de grote kaartbestanden uit R2 (met Range-aanvragen).
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "planb72",
+  "main": "worker/index.js",
+  "compatibility_date": "2026-11-01",
+  "assets": {
+    "directory": "./dist",
+    "binding": "ASSETS",
+    "not_found_handling": "404-page",
+    "html_handling": "force-trailing-slash",
+    "run_worker_first": ["/data/*"]
+  },
+  "r2_buckets": [{ "binding": "PAKKETTEN", "bucket_name": "planb72-pakketten" }],
+  "workers_dev": true,
+  "observability": { "enabled": false }
+  // Eigen domein (pas na akkoord):
+  // "routes": [{ "pattern": "planb72.org", "custom_domain": true }, { "pattern": "www.planb72.org", "custom_domain": true }]
+}

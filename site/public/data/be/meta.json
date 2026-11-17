@@ -1,0 +1,59 @@
+{
+  "land": "BE",
+  "opgehaald": "2026-11-17",
+  "bron": "© OpenStreetMap-bijdragers, ODbL",
+  "lagen": {
+    "nucleair": {
+      "naam": "Nucleaire sites en zones",
+      "aantal": 8,
+      "zones": 17,
+      "bytes": 24641,
+      "bron": "data/landen/be.json"
+    },
+    "ziekenhuizen": {
+      "naam": "Ziekenhuizen",
+      "aantal": 264,
+      "bytes": 61999
+    },
+    "medisch": {
+      "naam": "Medische posten",
+      "aantal": 3049,
+      "bytes": 688181
+    },
+    "politie": {
+      "naam": "Politie",
+      "aantal": 706,
+      "bytes": 157391
+    },
+    "brandweer": {
+      "naam": "Brandweer",
+      "aantal": 330,
+      "bytes": 75316
+    },
+    "apotheken": {
+      "naam": "Apotheken",
+      "aantal": 3564,
+      "bytes": 802934
+    },
+    "aed": {
+      "naam": "AED's",
+      "aantal": 5699,
+      "bytes": 1086841
+    },
+    "drinkwater": {
+      "naam": "Drinkwater",
+      "aantal": 1167,
+      "bytes": 207692
+    },
+    "overheid": {
+      "naam": "Gemeentehuizen",
+      "aantal": 776,
+      "bytes": 184753
+    },
+    "dierenarts": {
+      "naam": "Dierenartsen",
+      "aantal": 846,
+      "bytes": 183293
+    }
+  }
+}

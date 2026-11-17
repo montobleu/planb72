@@ -1,0 +1,36 @@
+---
+import App from '../../../layouts/App.astro';
+---
+<App titel="Notities" tab="meer" zoekbaar={false}>
+  <h1>Notities</h1>
+  <p class="dempen">Logboek, afspraken, wat je ziet. Blijft op dit toestel, met datum en uur.</p>
+  <form id="nieuw">
+    <label for="tekst">Nieuwe notitie</label>
+    <textarea id="tekst" rows="4" required></textarea>
+    <div class="knoppen"><button class="knop hoofd" type="submit">Bewaren</button></div>
+  </form>
+  <div id="lijst"></div>
+</App>
+<script>
+  import { lees, bewaar } from '../../../lib/app';
+  type Notitie = { t: number; tekst: string };
+  let notities = lees<Notitie[]>('notities', []);
+  const lijst = document.getElementById('lijst')!;
+  function teken() {
+    lijst.replaceChildren(...notities.toReversed().map((n) => {
+      const blok = document.createElement('div'); blok.className = 'kaart-blok';
+      const kop = document.createElement('p'); kop.className = 'klein'; kop.textContent = new Date(n.t).toLocaleString('nl-BE');
+      const p = document.createElement('p'); p.style.whiteSpace = 'pre-wrap'; p.textContent = n.tekst;
+      const weg = document.createElement('button'); weg.className = 'knop'; weg.type = 'button'; weg.textContent = 'Verwijderen';
+      weg.onclick = () => { if (confirm('Deze notitie verwijderen?')) { notities = notities.filter((x) => x.t !== n.t); bewaar('notities', notities); teken(); } };
+      blok.append(kop, p, weg); return blok;
+    }));
+  }
+  document.getElementById('nieuw')!.addEventListener('submit', (e) => {
+    e.preventDefault();
+    const veld = document.getElementById('tekst') as HTMLTextAreaElement;
+    if (!veld.value.trim()) return;
+    notities.push({ t: Date.now(), tekst: veld.value.trim() }); bewaar('notities', notities); veld.value = ''; teken();
+  });
+  teken();
+</script>

@@ -1,0 +1,64 @@
+name: Website en app
+
+on:
+  push:
+    branches: [main]
+    paths: ["site/**", "data/**", ".github/workflows/site.yml"]
+  pull_request:
+    paths: ["site/**", "data/**"]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: site-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  bouwen:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: site
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+          cache-dependency-path: site/package-lock.json
+      - run: npm ci
+      # Bouwt de site, de zoekindex en de service worker; faalt als de kern zijn budget overschrijdt.
+      - run: npm run build
+      - uses: actions/upload-artifact@v4
+        with:
+          name: site
+          path: site/dist
+          retention-days: 7
+
+  publiceren:
+    if: github.ref == 'refs/heads/main' && github.event_name != 'pull_request'
+    needs: bouwen
+    runs-on: ubuntu-latest
+    environment: productie
+    defaults:
+      run:
+        working-directory: site
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+          cache-dependency-path: site/package-lock.json
+      - run: npm ci
+      - uses: actions/download-artifact@v4
+        with:
+          name: site
+          path: site/dist
+      - name: Publiceren naar Cloudflare
+        run: npx wrangler deploy
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}

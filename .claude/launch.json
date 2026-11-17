@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "planb72-wrangler",
+      "runtimeExecutable": "sh",
+      "runtimeArgs": ["-c", "cd site && npx wrangler dev --port 8787"],
+      "port": 8787
+    }
+  ]
+}

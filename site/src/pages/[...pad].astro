@@ -1,0 +1,45 @@
+---
+// Eén route voor alle websitepagina's in alle talen: /, /download/, /fr/, /fr/download/, ...
+import Site from '../layouts/Site.astro';
+import Home from '../views/Home.astro';
+import Download from '../views/Download.astro';
+import Meehelpen from '../views/Meehelpen.astro';
+import Nazicht from '../views/Nazicht.astro';
+import Over from '../views/Over.astro';
+import Doneren from '../views/Doneren.astro';
+import Privacy from '../views/Privacy.astro';
+import Bronnen from '../views/Bronnen.astro';
+import Status from '../views/Status.astro';
+import { TALEN, type Taal } from '../i18n/talen';
+import { SITE } from '../i18n/site';
+
+const PAGINAS = {
+  '/': { view: Home, titel: () => undefined },
+  '/download/': { view: Download, titel: (t: Taal) => SITE[t].download.titel },
+  '/meehelpen/': { view: Meehelpen, titel: (t: Taal) => SITE[t].meehelpen.titel },
+  '/nazicht/': { view: Nazicht, titel: (t: Taal) => SITE[t].nazicht.titel },
+  '/over/': { view: Over, titel: (t: Taal) => SITE[t].over.titel },
+  '/doneren/': { view: Doneren, titel: (t: Taal) => SITE[t].doneren.titel },
+  '/privacy/': { view: Privacy, titel: (t: Taal) => SITE[t].privacy.titel },
+  '/bronnen/': { view: Bronnen, titel: (t: Taal) => SITE[t].bronnen.titel },
+  '/status/': { view: Status, titel: (t: Taal) => SITE[t].status.titel },
+} as const;
+type Pagina = keyof typeof PAGINAS;
+
+export function getStaticPaths() {
+  // getStaticPaths wordt los van de rest uitgevoerd; daarom de lijst hier herhalen.
+  const paginas = ['/', '/download/', '/meehelpen/', '/nazicht/', '/over/', '/doneren/', '/privacy/', '/bronnen/', '/status/'];
+  return TALEN.flatMap((taal) =>
+    paginas.map((pagina) => {
+      const deel = [taal === 'nl' ? '' : taal, pagina.replace(/\//g, '')].filter(Boolean).join('/');
+      return { params: { pad: deel || undefined }, props: { taal, pagina } };
+    })
+  );
+}
+
+const { taal, pagina } = Astro.props as { taal: Taal; pagina: Pagina };
+const { view: View, titel } = PAGINAS[pagina];
+---
+<Site taal={taal} pagina={pagina} titel={titel(taal)} breed={pagina === '/'}>
+  <View taal={taal} />
+</Site>

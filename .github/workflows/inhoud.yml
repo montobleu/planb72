@@ -1,0 +1,62 @@
+name: Inhoud
+
+# Controleert elke pull request op bronnen en bepaalt hoeveel nalezers nodig zijn.
+# Zet in de branch protection van main deze controle ("inhoud") als verplicht:
+# dan kan inhoud die levens raakt pas samengevoegd worden na twee goedkeuringen.
+
+on:
+  pull_request:
+    types: [opened, synchronize, reopened, ready_for_review]
+  pull_request_review:
+    types: [submitted, dismissed]
+
+permissions:
+  contents: read
+  pull-requests: write
+
+jobs:
+  inhoud:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.pull_request.head.sha }}
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Gewijzigde bestanden
+        env:
+          GH_TOKEN: ${{ github.token }}
+          PR: ${{ github.event.pull_request.number }}
+        run: gh api "repos/${{ github.repository }}/pulls/$PR/files" --paginate --jq '.[].filename' > gewijzigd.txt
+
+      - name: Bronnen controleren en nazicht bepalen
+        run: python3 pipeline/controleer_inhoud.py --gewijzigd $(cat gewijzigd.txt) --uitvoer oordeel.json
+
+      - name: Labels zetten
+        if: always() && hashFiles('oordeel.json') != ''
+        env:
+          GH_TOKEN: ${{ github.token }}
+          PR: ${{ github.event.pull_request.number }}
+        run: |
+          jq -r '.labels[]' oordeel.json | while IFS= read -r naam; do
+            gh label create "$naam" --repo "${{ github.repository }}" --color BFD4F2 2>/dev/null || true
+            gh pr edit "$PR" --repo "${{ github.repository }}" --add-label "$naam"
+          done
+
+      - name: Genoeg goedkeuringen?
+        env:
+          GH_TOKEN: ${{ github.token }}
+          PR: ${{ github.event.pull_request.number }}
+        run: |
+          nodig=$(jq '.goedkeuringen_nodig' oordeel.json)
+          # Laatste oordeel per nalezer; de auteur telt niet mee.
+          auteur="${{ github.event.pull_request.user.login }}"
+          aantal=$(gh api "repos/${{ github.repository }}/pulls/$PR/reviews" --paginate \
+            --jq "[.[] | select(.user.login != \"$auteur\")] | group_by(.user.login) | map(last) | map(select(.state == \"APPROVED\")) | length")
+          echo "Goedkeuringen: $aantal van $nodig"
+          if [ "$aantal" -lt "$nodig" ]; then
+            echo "::error::Deze wijziging vraagt $nodig goedkeuring(en); er zijn er $aantal. Zie docs/nazicht.md."
+            exit 1
+          fi

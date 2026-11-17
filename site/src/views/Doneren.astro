@@ -1,0 +1,17 @@
+---
+import { type Taal } from '../i18n/talen';
+import { SITE } from '../i18n/site';
+interface Props { taal: Taal }
+const { taal } = Astro.props;
+const d = SITE[taal].doneren;
+---
+<h1>{d.titel}</h1>
+<p class="lead">{d.lead}</p>
+<div class="melding"><p>{d.platform}</p></div>
+<h2>{d.kostenTitel}</h2>
+<div class="tabel-wrap" style="max-width:44rem"><table>
+  <thead><tr>{d.kop.map((k) => <th scope="col">{k}</th>)}</tr></thead>
+  <tbody>{d.kosten.map(([a, b]) => <tr><td>{a}</td><td>{b}</td></tr>)}</tbody>
+</table></div>
+<p class="dempen">{d.tijd}</p>
+<p>{d.nooit}</p>

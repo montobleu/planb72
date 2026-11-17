@@ -1,0 +1,19 @@
+{
+  "_uitleg": "Opslagbudget per blok in bytes (ongecomprimeerde GeoJSON). De build faalt bij overschrijding. Limieten zijn ongeveer twee keer de meting van fase 0 (november 2026, België); per land kan je onder 'landen' afwijken.",
+  "standaard_laag": 2000000,
+  "lagen": {
+    "ziekenhuizen": 200000,
+    "medisch": 2000000,
+    "politie": 200000,
+    "brandweer": 200000,
+    "apotheken": 1500000,
+    "aed": 6000000,
+    "drinkwater": 1000000,
+    "overheid": 300000,
+    "dierenarts": 500000,
+    "schuilplekken": 8000000,
+    "nucleair": 300000
+  },
+  "basiskaart_overzicht_mb": 20,
+  "landen": {}
+}

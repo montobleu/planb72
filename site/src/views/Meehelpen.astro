@@ -1,0 +1,16 @@
+---
+import { pad, type Taal } from '../i18n/talen';
+import { SITE } from '../i18n/site';
+interface Props { taal: Taal }
+const { taal } = Astro.props;
+const m = SITE[taal].meehelpen;
+const link = (l: string) => (l.startsWith('/') ? pad(taal, l.replace(/^\/(fr|de|en)/, '')) : l);
+---
+<h1>{m.titel}</h1>
+<p class="lead">{m.lead}</p>
+<div class="kolommen-3" style="grid-template-columns:repeat(auto-fit,minmax(15rem,1fr));margin-top:2.5rem">
+  {m.manieren.map(([t, u, l]) => <div><h3>{t}</h3><p>{u}</p><p style="margin-top:.6rem"><a href={link(l)}>{m.begin}</a></p></div>)}
+</div>
+<h2>{m.zoekenTitel}</h2>
+<ul>{m.zoeken.map((z) => <li>{z}</li>)}</ul>
+<p class="dempen">{m.niet}</p>

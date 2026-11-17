@@ -1,0 +1,15 @@
+# Wie een wijziging moet goedkeuren. Zie docs/nazicht.md.
+# De repository staat op het account montobleu (geen organisatie, dus geen teams).
+# Voeg nalezers toe als medewerker en zet hun naam bij de paden waarvoor ze bevoegd zijn.
+
+*                                   @montobleu
+
+# Inhoud die levens raakt. Vul hier de zorgverlener, noodplanner en stralingsdeskundige aan
+# zodra ze medewerker zijn; de workflow "inhoud" eist voor deze paden twee goedkeuringen.
+/site/src/content/scenarios/        @montobleu
+/site/src/pages/app/eerste-hulp/    @montobleu
+/site/src/pages/app/nucleair/       @montobleu
+/site/src/pages/app/schuilen/       @montobleu
+/data/landen/                       @montobleu
+/data/bronnen/register.json         @montobleu
+/site/src/i18n/                     @montobleu

@@ -1,0 +1,35 @@
+---
+import App from '../../../layouts/App.astro';
+import Concept from '../../../components/Concept.astro';
+import { getCollection, render } from 'astro:content';
+
+export async function getStaticPaths() {
+  const kaarten = await getCollection('scenarios');
+  return kaarten.map((k) => ({ params: { id: k.id }, props: { kaart: k } }));
+}
+const { kaart } = Astro.props;
+const { Content } = await render(kaart);
+const d = kaart.data;
+---
+<App titel={d.titel} tab="watnu">
+  <p class="klein niet-afdrukken"><a href="/app/wat-nu/">← Alle situaties</a></p>
+  <h1>{d.titel}</h1>
+  <p class="dempen">{d.kort}</p>
+  <div class="melding gevaar"><strong>Levensgevaar: bel <a href="tel:112">112</a>.</strong></div>
+  <ol class="stappen">
+    {d.stappen.map((s) => <li>{s}</li>)}
+  </ol>
+  {d.niet && (
+    <div class="melding waarschuwing">
+      <strong>Vermijden</strong>
+      <ul>{d.niet.map((n) => <li>{n}</li>)}</ul>
+    </div>
+  )}
+  <Content />
+  {d.status === 'concept' && <Concept bron={d.bronnen[0].url} bronNaam={d.bronnen[0].naam} />}
+  <div class="bron">
+    Bronnen: {d.bronnen.map((b, i) => <>{i > 0 && ' · '}<a href={b.url}>{b.naam}</a></>)}<br />
+    Datum: {d.datum} · Status: {d.status}{d.nagekeken_door && ` · nagekeken door ${d.nagekeken_door}`}
+  </div>
+  <div class="knoppen niet-afdrukken"><button class="knop" type="button" onclick="print()">Afdrukken</button></div>
+</App>

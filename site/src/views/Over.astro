@@ -1,0 +1,19 @@
+---
+import { type Taal } from '../i18n/talen';
+import { SITE } from '../i18n/site';
+interface Props { taal: Taal }
+const { taal } = Astro.props;
+const o = SITE[taal].over;
+---
+<h1>{o.titel}</h1>
+<p class="lead">{o.lead}</p>
+<div class="melding gevaar"><p>{o.disclaimer}</p></div>
+<h2>{o.principesTitel}</h2>
+<p>{o.vraag}</p>
+<div class="kolommen-3" style="margin-top:1.5rem">
+  {o.principes.map(([t, u]) => <div><h3>{t}</h3><p>{u}</p></div>)}
+</div>
+<h2>{o.stappenTitel}</h2>
+<ol>{o.stappen.map((s) => <li>{s}</li>)}</ol>
+<h2>{o.bestuurTitel}</h2>
+<p>{o.bestuur}</p>
