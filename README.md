@@ -1,6 +1,6 @@
 # PlanB72
 
-Gratis, open-source noodbibliotheek voor Europa die volledig werkt zonder internet: wat je moet doen bij een ramp, de noodnummers, een offline kaart met hulpposten en mogelijke schuilplekken, en de nucleaire zones per land. De naam verwijst naar het Europese advies om 72 uur zelfredzaam te zijn.
+Gratis, open-source noodbibliotheek voor Europa die volledig werkt zonder internet: wat je moet doen bij een ramp, de noodnummers, een offline kaart met hulpposten en mogelijke schuilplekken, routeplanning op het toestel, en de nucleaire zones per land. De naam verwijst naar het Europese advies om 72 uur zelfredzaam te zijn.
 
 **Website:** [planb72.org](https://planb72.org) · **App:** [planb72.org/app](https://planb72.org/app/)
 
@@ -17,6 +17,7 @@ Fase 0–1: een werkende eerste versie voor **België**.
 | Wat nu? — 16 scenariokaarten | concept, wacht op nazicht en toestemming |
 | Noodnummers en officiële kanalen België | gebouwd, bronnen gelinkt |
 | Kaart: basiskaart België (PMTiles, tot zoom 9) en tien lagen uit OpenStreetMap | gebouwd |
+| Routeplanning te voet, fiets en auto, zonder internet (9 regio's) | gebouwd, zie [docs/routeplanning.md](docs/routeplanning.md) |
 | Nucleair: sites, zones, afstand en richting | gebouwd; coördinaten te controleren |
 | Schuilen: keuzehulp, checklist eigen huis, mogelijke schuilplekken | gebouwd |
 | Hulpmiddelen: voorraad, checklists, noodplan, SOS-lamp, morse, kompas, notities | gebouwd |
@@ -31,7 +32,7 @@ Wat er niet in zit en waarom: alles waarvoor nog toestemming nodig is (officiël
 
 ```
 data/        landdata (be.json) en het bronnenregister
-pipeline/    Python-scripts: kaartlagen uit OpenStreetMap, schuilplekken, nucleaire zones, basiskaart, bronnenronde
+pipeline/    Python-scripts: kaartlagen uit OpenStreetMap, schuilplekken, nucleaire zones, basiskaart, routepakketten, bronnenronde
 site/        Astro-site: website op / en de offline web-app op /app/
   worker/    kleine Cloudflare Worker die de basiskaart uit R2 serveert (met Range-aanvragen)
 launcher/    startprogramma in Go: lokale webserver voor de download en de USB-stick, ook als hotspot

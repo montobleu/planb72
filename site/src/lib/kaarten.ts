@@ -29,17 +29,17 @@ export async function overzicht(): Promise<Kaartpakket[]> {
   }
 }
 
-async function opfsMap(): Promise<FileSystemDirectoryHandle | null> {
+export async function opfsMap(mapnaam = MAP): Promise<FileSystemDirectoryHandle | null> {
   try {
     const wortel = await navigator.storage.getDirectory();
-    return await wortel.getDirectoryHandle(MAP, { create: true });
+    return await wortel.getDirectoryHandle(mapnaam, { create: true });
   } catch {
     return null;
   }
 }
 
-async function kanOpfsSchrijven() {
-  const map = await opfsMap();
+async function kanOpfsSchrijven(mapnaam = MAP) {
+  const map = await opfsMap(mapnaam);
   if (!map) return false;
   try {
     const test = await map.getFileHandle('.test', { create: true });
@@ -75,9 +75,20 @@ export async function opToestel(): Promise<Map<string, File | 'cache'>> {
 
 /** Download een pakket; het oude bestand blijft staan tot het nieuwe volledig binnen is. */
 export async function download(p: Kaartpakket, voortgang: (fractie: number) => void, signaal?: AbortSignal) {
-  const antwoord = await fetch(p.pad, { cache: 'no-store', signal: signaal });
+  await bewaarBestand(MAP, `${p.id}.pmtiles`, p.pad, p.bytes, CACHE, voortgang, signaal);
+}
+
+/**
+ * Een groot bestand naar de toestelopslag downloaden (OPFS, anders de Cache API onder `url`).
+ * Ook gebruikt voor de routepakketten (lib/routepakketten.ts).
+ */
+export async function bewaarBestand(
+  mapnaam: string, naam: string, url: string, bytes: number, cachenaam: string,
+  voortgang: (fractie: number) => void, signaal?: AbortSignal,
+) {
+  const antwoord = await fetch(url, { cache: 'no-store', signal: signaal });
   if (!antwoord.ok || !antwoord.body) throw new Error(`Download mislukt (${antwoord.status})`);
-  const totaal = Number(antwoord.headers.get('Content-Length')) || p.bytes;
+  const totaal = Number(antwoord.headers.get('Content-Length')) || bytes;
   let binnen = 0;
   const teller = new TransformStream<Uint8Array, Uint8Array>({
     transform(stuk, ctrl) {
@@ -88,20 +99,21 @@ export async function download(p: Kaartpakket, voortgang: (fractie: number) => v
   });
   const stroom = antwoord.body.pipeThrough(teller);
 
-  if (await kanOpfsSchrijven()) {
-    const map = (await opfsMap())!;
-    const tijdelijk = await map.getFileHandle(`${p.id}.deel`, { create: true });
+  if (await kanOpfsSchrijven(mapnaam)) {
+    const map = (await opfsMap(mapnaam))!;
+    const deel = naam.replace(/\.[^.]+$/, '.deel');
+    const tijdelijk = await map.getFileHandle(deel, { create: true });
     const schrijver = await (tijdelijk as any).createWritable();
     await stroom.pipeTo(schrijver, { signal: signaal });
     // Klaar: hernoemen door te kopiëren naar de definitieve naam.
-    const definitief = await map.getFileHandle(`${p.id}.pmtiles`, { create: true });
+    const definitief = await map.getFileHandle(naam, { create: true });
     const w2 = await (definitief as any).createWritable();
     await (await tijdelijk.getFile()).stream().pipeTo(w2);
-    await map.removeEntry(`${p.id}.deel`);
+    await map.removeEntry(deel);
   } else {
     const blob = await new Response(stroom).blob();
-    const cache = await caches.open(CACHE);
-    await cache.put(p.pad, new Response(blob, { headers: { 'Content-Type': 'application/octet-stream' } }));
+    const cache = await caches.open(cachenaam);
+    await cache.put(url, new Response(blob, { headers: { 'Content-Type': 'application/octet-stream' } }));
   }
   voortgang(1);
 }

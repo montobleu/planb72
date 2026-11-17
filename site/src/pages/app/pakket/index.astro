@@ -3,6 +3,7 @@ import App from '../../../layouts/App.astro';
 import { land, APP_VERSIE } from '../../../lib/data';
 import { LAGEN } from '../../../lib/lagen';
 import KleurschemaKeuze from '../../../components/KleurschemaKeuze.astro';
+import RoutePakketten from '../../../components/RoutePakketten.astro';
 ---
 <App titel="Instellingen" tab="meer" zoekbaar={false}>
   <h1>Instellingen en pakket</h1>
@@ -24,6 +25,8 @@ import KleurschemaKeuze from '../../../components/KleurschemaKeuze.astro';
     <div id="kaartpakketten" aria-live="polite"><p class="klein">Laden…</p></div>
     <p class="klein">Kaartgegevens © OpenStreetMap-bijdragers (ODbL), basiskaart Protomaps. Bijgewerkt met elke nieuwe versie van de pakketten.</p>
   </section>
+
+  <RoutePakketten />
 
   <section>
     <h2>Installeren op je beginscherm</h2>
