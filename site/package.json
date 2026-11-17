@@ -5,7 +5,7 @@
   "version": "0.1.0",
   "scripts": {
     "dev": "astro dev",
-    "build": "astro build && pagefind --site dist --glob \"app/**/*.html\" && node scripts/sw-manifest.mjs",
+    "build": "astro build && pagefind --site dist --glob \"{app,fr/app,de/app,en/app}/**/*.html\" && node scripts/sw-manifest.mjs",
     "preview": "astro preview",
     "check": "astro check"
   },

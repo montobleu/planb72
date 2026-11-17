@@ -23,7 +23,7 @@ const basis = Astro.site ?? new URL('https://planb72.org');
   <title>{volledigeTitel}</title>
   <meta name="description" content={omschrijving} />
   <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
-  <link rel="manifest" href="/manifest.webmanifest" />
+  <link rel="manifest" href={pad(taal, '/app/manifest.webmanifest')} />
   <!-- Cookieloze bezoekersstatistiek (Nvivio). Zie /privacy/. -->
   <script is:inline defer src="https://nviv.io/js/NV-XQHMJCG.js"></script>
   <link rel="apple-touch-icon" href="/icons/icoon-192.png" />

@@ -1,0 +1,49 @@
+---
+import App from '../../../../layouts/App.astro';
+import GidsLijst from '../../../../components/GidsLijst.astro';
+import { landVoor } from '../../../../lib/data';
+import { SCHUIL_LABEL } from '../../../../lib/lagen';
+import { APP } from '../../../../i18n/app';
+import { pad, taalPaden, taalVan } from '../../../../i18n/talen';
+export const getStaticPaths = taalPaden;
+const taal = taalVan(Astro.params);
+const t = APP[taal].schuilen;
+const land = landVoor(taal);
+---
+<App taal={taal} titel={t.titel} tab="meer" vertaalmelding>
+  <h1>{t.titel}</h1>
+  <div class="melding waarschuwing">
+    <strong>{land.naam}:</strong> <span lang={land.schuilen.advies.lang !== taal ? land.schuilen.advies.lang : undefined}>{land.schuilen.advies.tekst}</span>
+    <div class="klein"><a href={land.schuilen.bron}>{t.bron}</a></div>
+  </div>
+
+  <GidsLijst taal={taal} module="schuilen" />
+
+  <h2>{t.overzichtTitel}</h2>
+  <p class="dempen">{t.overzichtUitleg}</p>
+  <div class="tabel-wrap">
+    <table>
+      <thead><tr>{t.kop.map((k) => <th scope="col">{k}</th>)}</tr></thead>
+      <tbody>{t.dreigingen.map(([d, w, n]) => <tr><th scope="row">{d}</th><td>{w}</td><td>{n}</td></tr>)}</tbody>
+    </table>
+  </div>
+  <p class="klein" set:html={t.overzichtBron} />
+
+  <h2>{t.huisTitel}</h2>
+  <p class="dempen">{t.huisUitleg}</p>
+  <ul class="vinklijst" data-lijst="schuilen-huis">
+    {t.huis.map((h, i) => <li><input type="checkbox" id={`h${i}`} /><label for={`h${i}`}>{h}</label></li>)}
+  </ul>
+
+  <h2>{t.kaartTitel}</h2>
+  {t.klassen.map(([k, naam, uitleg, soort]) => (
+    <div class="kaart-blok"><strong>{t.klasse} {k}: {naam}</strong> <span class={`label ${soort}`}>{t.labels[soort]}</span><p class="klein">{uitleg}</p></div>
+  ))}
+  <p>{t.labelUitleg} <em>{SCHUIL_LABEL[taal]}</em></p>
+  <div class="knoppen"><a class="knop" href={pad(taal, '/app/kaart/?laag=schuilplekken')}>{t.toonKaart}</a></div>
+  <p class="klein">{t.aanvullen}</p>
+</App>
+<script>
+  import { vinklijsten } from '../../../../lib/app';
+  vinklijsten();
+</script>

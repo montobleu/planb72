@@ -1,5 +1,5 @@
 ---
-import { type Taal } from '../i18n/talen';
+import { pad, type Taal } from '../i18n/talen';
 import { SITE } from '../i18n/site';
 interface Props { taal: Taal }
 const { taal } = Astro.props;
@@ -16,7 +16,7 @@ const stand = (s: string) => (s === 'beschikbaar' ? d.beschikbaar : s === 'opbou
     {d.vormen.map(([t, u, s, link]) => (
       <tr>
         <th scope="row" style="width:16rem">{t}</th>
-        <td>{u}{link && <> <a href={link}>{d.verder}</a></>}</td>
+        <td>{u}{link && <> <a href={pad(taal, link)}>{d.verder}</a></>}</td>
         <td style="width:9rem"><span class={`label ${s === 'beschikbaar' ? 'officieel' : ''}`}>{stand(s)}</span></td>
       </tr>
     ))}

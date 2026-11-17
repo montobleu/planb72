@@ -24,7 +24,8 @@ Fase 0–1: een werkende eerste versie voor **België**.
 | Eerste hulp | bewust leeg tot er toestemming en een medisch nalezer is |
 | Startprogramma voor Linux, Mac, Windows | gebouwd, nog niet ondertekend |
 | Bronnenregister en nachtelijke bronnenronde | gebouwd |
-| Frans en Duits | nog niet |
+| Website in vier talen (nl, fr, de, en) | gebouwd; vertalingen na te lezen |
+| App in vier talen (nl, fr, de, en) | gebouwd; inhoud automatisch vertaald, na te lezen (zie [docs/vertalen.md](docs/vertalen.md)) |
 
 Wat er niet in zit en waarom: alles waarvoor nog toestemming nodig is (officiële teksten, eerste-hulprichtlijnen, schuilplaatsdata van andere landen) staat met status `na te zien` in het bronnenregister.
 

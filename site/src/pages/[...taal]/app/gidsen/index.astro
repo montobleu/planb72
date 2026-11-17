@@ -1,0 +1,28 @@
+---
+import App from '../../../../layouts/App.astro';
+import { APP } from '../../../../i18n/app';
+import { pad, taalPaden, taalVan } from '../../../../i18n/talen';
+import { inhoud } from '../../../../lib/inhoud';
+export const getStaticPaths = taalPaden;
+const taal = taalVan(Astro.params);
+const t = APP[taal].gidsen;
+const VOLGORDE = ['schuilen', 'nucleair', 'voorbereiding', 'water', 'voedsel', 'warmte', 'energie', 'hygiene', 'evacuatie', 'communicatie', 'dieren', 'gezondheid', 'buiten'];
+const gidsen = await inhoud('gidsen', taal);
+const module = (g: (typeof gidsen)[number]) => (g.origineel.data as { module?: string }).module;
+---
+<App taal={taal} titel={t.titel} tab="meer">
+  <h1>{t.titel}</h1>
+  <p class="lead">{t.lead}</p>
+  {VOLGORDE.map((id) => {
+    const lijst = gidsen.filter((g) => module(g) === id);
+    return lijst.length > 0 && (
+      <section>
+        <h2 class="sectiekop">{t.modules[id]}</h2>
+        <div class="raster">
+          {lijst.map((g) => <a class="tegel" href={pad(taal, `/app/gids/${g.id}/`)} lang={g.titelLang !== taal ? g.titelLang : undefined}><strong>{g.titel}</strong><span class="klein">{g.kort}</span></a>)}
+        </div>
+      </section>
+    );
+  })}
+  {gidsen.length === 0 && <p>{t.leeg}</p>}
+</App>

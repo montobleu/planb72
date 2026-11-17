@@ -1,0 +1,334 @@
+// Teksten die de scripts in de browser nodig hebben, per taal. Klein gehouden:
+// dit bestand komt mee in de JavaScript van de app. De taal volgt <html lang>.
+import { isTaal, LOCALE, type Taal } from './talen';
+
+const nl = {
+  windstreken: ['N', 'NO', 'O', 'ZO', 'Z', 'ZW', 'W', 'NW'],
+  net: { online: 'Verbinding: online', offline: 'Verbinding: offline', titelOnline: 'Online', titelOffline: 'Offline. PlanB72 werkt verder met wat op dit toestel staat.' },
+  kleurschema: { nuDonker: '(nu donker)', nuLicht: '(nu licht)' },
+  zoeken: { nietBeschikbaar: 'Zoeken is niet beschikbaar in deze versie.', niets: 'Niets gevonden.' },
+  kompas: { geen: 'Geen kompas op dit toestel', geenToestemming: 'Geen toestemming' },
+  noodplan: { bewaard: 'Bewaard op dit toestel.', nietBewaard: 'Kon niet bewaren (privévenster of volle opslag?).', wissen: 'Het hele noodplan wissen?' },
+  notities: { verwijderen: 'Verwijderen', vraag: 'Deze notitie verwijderen?' },
+  nucleair: {
+    evacuatie: 'evacuatiezone', schuilen: 'schuil- en jodiumzone', uitbreiding: 'uitbreidingszone',
+    kop: ['Site', 'Afstand', 'Richting', 'Binnen'],
+    vogelvlucht: (pos: string) => `Afstand in vogelvlucht vanaf ${pos}.`,
+    zoeken: 'Positie zoeken…', geen: 'Geen positie beschikbaar. Geef coördinaten in.', laatste: 'Laatste positie',
+  },
+  signalen: { lamp: 'SOS met zaklamp', stop: 'Stop zaklamp', geenLamp: 'Zaklamp niet beschikbaar' },
+  voorraad: {
+    liter: (n: string) => `${n} liter water`,
+    som: (m: number, d: number, l: number, packs: number) => `${m} × ${d} dagen × ${l} liter. Dat zijn ongeveer ${packs} packs van 6 liter.`,
+    dieren: (n: number, d: number) => `Plus water en voer voor ${n} huisdier${n === 1 ? '' : 'en'} voor ${d} dagen.`,
+  },
+  pakket: {
+    opToestel: 'op dit toestel',
+    bestanden: (n: number, datum?: string) => `${n} bestanden${datum ? `, kaartdata van ${datum}` : ''}.`,
+    bijwerken: 'Bijwerken', bijwerkenOffline: 'Bijwerken (geen verbinding)',
+    nietOffline: 'nog niet offline', nietOfflineTekst: 'Download het pakket zolang je verbinding hebt.',
+    geenOpslag: 'Deze browser laat geen offline opslag toe (privévenster?).',
+    geenVerbinding: 'Geen verbinding. Probeer later opnieuw.',
+    downloaden: (naam: string, mb: string, verwacht?: string) => `Downloaden: ${naam} (${mb}${verwacht ? ` van ongeveer ${verwacht}` : ''})`,
+    mislukt: (n: number) => `${n} bestand(en) niet gelukt`, opnieuw: 'Probeer opnieuw.',
+    verwijderVraag: 'Het pakket van dit toestel verwijderen? De kaart werkt dan niet meer offline.',
+    rij: {
+      verbinding: 'Verbinding', online: 'online', offline: 'offline',
+      opslag: 'Opslag gebruikt door PlanB72', ruimte: (mb: string) => ` (ruimte tot ${mb})`,
+      beschermd: 'Opslag beschermd tegen wissen', ja: 'ja', nee: 'nee (de browser kan het pakket wissen bij weinig ruimte)',
+      batterij: 'Batterij', laadt: ', laadt', gps: 'Gps', gpsJa: 'aanwezig (vraagt toestemming)', gpsNee: 'niet beschikbaar',
+      app: 'Offline app', appJa: 'actief: de app werkt offline', appNee: 'nog niet actief (herlaad de pagina één keer)',
+    },
+    geinstalleerd: 'PlanB72 staat al op je beginscherm.',
+    deelTekst: 'Gratis noodbibliotheek die werkt zonder internet.', gekopieerd: 'Link gekopieerd.',
+    kaarten: {
+      geenLijst: 'De lijst met kaarten is niet beschikbaar. Open deze pagina één keer met verbinding.',
+      samen: (n: number, mb: string) => `Op dit toestel: ${n} kaart(en), samen ${mb}.`,
+      groepen: { europa: 'Europa', belgie: 'België', regio: "Regio's op straatniveau" },
+      zoom: (z: number) => `tot zoomniveau ${z}`,
+      verwijderen: 'Verwijderen', downloaden: 'Downloaden', annuleren: 'Annuleren',
+      verwijderVraag: (naam: string) => `${naam} van dit toestel verwijderen?`,
+      geenVerbinding: 'Geen verbinding.',
+      groot: (naam: string, mb: string) => `${naam} is ${mb}. Doorgaan? Gebruik bij voorkeur wifi.`,
+      mislukt: (naam: string) => `Download van ${naam} mislukt. Probeer opnieuw.`,
+    },
+  },
+  kaart: {
+    geenKaart: 'Geen kaart op dit toestel. Download een kaartpakket via Instellingen.',
+    offline: (namen: string) => `Offline: ${namen}.`,
+    serverWeg: 'Geen verbinding met de server: de kaart op dit toestel wordt gebruikt.',
+    niets: 'Geen verbinding en geen kaart op dit toestel. Download een kaartpakket via Instellingen.',
+    onvolledig: 'De kaart kon niet volledig geladen worden.',
+    laagNiet: (naam: string) => `Laag "${naam}" is niet op dit toestel. Download het pakket.`,
+    zonesEnAfstand: 'Zones en afstand', spoed: 'spoed', open: 'Open:', toegang: 'Toegang:',
+    bekijk: 'bekijk of verbeter', kloptNiet: 'klopt niet',
+    positieZoeken: 'Positie zoeken…', geenGps: 'Geen gps; vanaf het midden van de kaart.',
+  },
+  // Namen van de kaartpakketten; ontbreekt er een, dan geldt de naam uit kaarten.json.
+  kaartpakketten: {} as Record<string, [string, string]>,
+};
+
+type Klant = typeof nl;
+
+const STRAAT = { fr: 'Rues, bâtiments et chemins', de: 'Straßen, Gebäude und Wege', en: 'Streets, buildings and paths' };
+
+const fr: Klant = {
+  windstreken: ['N', 'NE', 'E', 'SE', 'S', 'SO', 'O', 'NO'],
+  net: { online: 'Connexion : en ligne', offline: 'Connexion : hors ligne', titelOnline: 'En ligne', titelOffline: 'Hors ligne. PlanB72 continue de fonctionner avec ce qui se trouve sur cet appareil.' },
+  kleurschema: { nuDonker: '(actuellement sombre)', nuLicht: '(actuellement clair)' },
+  zoeken: { nietBeschikbaar: "La recherche n'est pas disponible dans cette version.", niets: 'Aucun résultat.' },
+  kompas: { geen: 'Pas de boussole sur cet appareil', geenToestemming: 'Pas d’autorisation' },
+  noodplan: { bewaard: 'Enregistré sur cet appareil.', nietBewaard: "Impossible d'enregistrer (navigation privée ou stockage plein ?).", wissen: "Effacer tout le plan d'urgence ?" },
+  notities: { verwijderen: 'Supprimer', vraag: 'Supprimer cette note ?' },
+  nucleair: {
+    evacuatie: "zone d'évacuation", schuilen: "zone de mise à l'abri et d'iode", uitbreiding: "zone d'extension",
+    kop: ['Site', 'Distance', 'Direction', 'À l’intérieur de'],
+    vogelvlucht: (pos: string) => `Distance à vol d'oiseau depuis ${pos}.`,
+    zoeken: 'Recherche de la position…', geen: 'Aucune position disponible. Saisissez des coordonnées.', laatste: 'Dernière position',
+  },
+  signalen: { lamp: 'SOS avec la lampe de poche', stop: 'Arrêter la lampe', geenLamp: 'Lampe de poche non disponible' },
+  voorraad: {
+    liter: (n: string) => `${n} litres d'eau`,
+    som: (m: number, d: number, l: number, packs: number) => `${m} × ${d} jours × ${l} litres. Cela fait environ ${packs} packs de 6 litres.`,
+    dieren: (n: number, d: number) => `Plus de l'eau et de la nourriture pour ${n} animal${n === 1 ? '' : 'aux'} pendant ${d} jours.`,
+  },
+  pakket: {
+    opToestel: 'sur cet appareil',
+    bestanden: (n: number, datum?: string) => `${n} fichiers${datum ? `, données cartographiques du ${datum}` : ''}.`,
+    bijwerken: 'Mettre à jour', bijwerkenOffline: 'Mettre à jour (pas de connexion)',
+    nietOffline: 'pas encore hors ligne', nietOfflineTekst: 'Téléchargez le paquet tant que vous avez une connexion.',
+    geenOpslag: "Ce navigateur n'autorise pas le stockage hors ligne (navigation privée ?).",
+    geenVerbinding: 'Pas de connexion. Réessayez plus tard.',
+    downloaden: (naam: string, mb: string, verwacht?: string) => `Téléchargement : ${naam} (${mb}${verwacht ? ` sur environ ${verwacht}` : ''})`,
+    mislukt: (n: number) => `${n} fichier(s) non téléchargé(s)`, opnieuw: 'Réessayez.',
+    verwijderVraag: 'Supprimer le paquet de cet appareil ? La carte ne fonctionnera plus hors ligne.',
+    rij: {
+      verbinding: 'Connexion', online: 'en ligne', offline: 'hors ligne',
+      opslag: 'Stockage utilisé par PlanB72', ruimte: (mb: string) => ` (espace jusqu'à ${mb})`,
+      beschermd: 'Stockage protégé contre l’effacement', ja: 'oui', nee: 'non (le navigateur peut effacer le paquet en cas de manque de place)',
+      batterij: 'Batterie', laadt: ', en charge', gps: 'GPS', gpsJa: 'présent (demande une autorisation)', gpsNee: 'non disponible',
+      app: 'Application hors ligne', appJa: "active : l'application fonctionne hors ligne", appNee: 'pas encore active (rechargez la page une fois)',
+    },
+    geinstalleerd: "PlanB72 est déjà sur votre écran d'accueil.",
+    deelTekst: "Bibliothèque d'urgence gratuite qui fonctionne sans internet.", gekopieerd: 'Lien copié.',
+    kaarten: {
+      geenLijst: "La liste des cartes n'est pas disponible. Ouvrez cette page une fois avec une connexion.",
+      samen: (n: number, mb: string) => `Sur cet appareil : ${n} carte(s), au total ${mb}.`,
+      groepen: { europa: 'Europe', belgie: 'Belgique', regio: 'Régions au niveau de la rue' },
+      zoom: (z: number) => `jusqu'au niveau de zoom ${z}`,
+      verwijderen: 'Supprimer', downloaden: 'Télécharger', annuleren: 'Annuler',
+      verwijderVraag: (naam: string) => `Supprimer ${naam} de cet appareil ?`,
+      geenVerbinding: 'Pas de connexion.',
+      groot: (naam: string, mb: string) => `${naam} fait ${mb}. Continuer ? Utilisez de préférence le wifi.`,
+      mislukt: (naam: string) => `Échec du téléchargement de ${naam}. Réessayez.`,
+    },
+  },
+  kaart: {
+    geenKaart: 'Aucune carte sur cet appareil. Téléchargez un paquet de cartes dans les Réglages.',
+    offline: (namen: string) => `Hors ligne : ${namen}.`,
+    serverWeg: 'Pas de connexion avec le serveur : la carte de cet appareil est utilisée.',
+    niets: 'Pas de connexion et aucune carte sur cet appareil. Téléchargez un paquet de cartes dans les Réglages.',
+    onvolledig: "La carte n'a pas pu être chargée entièrement.",
+    laagNiet: (naam: string) => `La couche « ${naam} » n'est pas sur cet appareil. Téléchargez le paquet.`,
+    zonesEnAfstand: 'Zones et distance', spoed: 'urgences', open: 'Ouvert :', toegang: 'Accès :',
+    bekijk: 'voir ou corriger', kloptNiet: 'signaler une erreur',
+    positieZoeken: 'Recherche de la position…', geenGps: 'Pas de GPS ; à partir du centre de la carte.',
+  },
+  kaartpakketten: {
+    'eu-z6': ['Europe, aperçu', 'Pays, grandes villes et autoroutes'],
+    'eu-z7': ['Europe, aperçu détaillé', 'Aussi les villes moyennes et les routes principales'],
+    'be-z9': ['Belgique, aperçu', 'Communes, routes principales, rivières'],
+    'be-z12': ['Belgique, standard', 'Toutes les routes et tous les villages, pas de bâtiments'],
+    'be-wvl-z14': ['Flandre-Occidentale, niveau de la rue', STRAAT.fr],
+    'be-ovl-z14': ['Flandre-Orientale, niveau de la rue', STRAAT.fr],
+    'be-ant-z14': ['Anvers, niveau de la rue', STRAAT.fr],
+    'be-lim-z14': ['Limbourg, niveau de la rue', STRAAT.fr],
+    'be-bra-z14': ['Brabant et Bruxelles, niveau de la rue', 'Brabant flamand, Bruxelles et Brabant wallon'],
+    'be-hen-z14': ['Hainaut, niveau de la rue', STRAAT.fr],
+    'be-nam-z14': ['Namur, niveau de la rue', STRAAT.fr],
+    'be-lui-z14': ['Liège, niveau de la rue', STRAAT.fr],
+    'be-lux-z14': ['Luxembourg (province), niveau de la rue', STRAAT.fr],
+  },
+};
+
+const de: Klant = {
+  windstreken: ['N', 'NO', 'O', 'SO', 'S', 'SW', 'W', 'NW'],
+  net: { online: 'Verbindung: online', offline: 'Verbindung: offline', titelOnline: 'Online', titelOffline: 'Offline. PlanB72 funktioniert mit dem weiter, was auf diesem Gerät gespeichert ist.' },
+  kleurschema: { nuDonker: '(derzeit dunkel)', nuLicht: '(derzeit hell)' },
+  zoeken: { nietBeschikbaar: 'Die Suche ist in dieser Version nicht verfügbar.', niets: 'Nichts gefunden.' },
+  kompas: { geen: 'Kein Kompass auf diesem Gerät', geenToestemming: 'Keine Erlaubnis' },
+  noodplan: { bewaard: 'Auf diesem Gerät gespeichert.', nietBewaard: 'Speichern nicht möglich (privates Fenster oder voller Speicher?).', wissen: 'Den gesamten Notfallplan löschen?' },
+  notities: { verwijderen: 'Löschen', vraag: 'Diese Notiz löschen?' },
+  nucleair: {
+    evacuatie: 'Evakuierungszone', schuilen: 'Schutz- und Jodzone', uitbreiding: 'Erweiterungszone',
+    kop: ['Standort', 'Entfernung', 'Richtung', 'Innerhalb'],
+    vogelvlucht: (pos: string) => `Luftlinie ab ${pos}.`,
+    zoeken: 'Standort wird gesucht…', geen: 'Kein Standort verfügbar. Geben Sie Koordinaten ein.', laatste: 'Letzter Standort',
+  },
+  signalen: { lamp: 'SOS mit Taschenlampe', stop: 'Taschenlampe aus', geenLamp: 'Taschenlampe nicht verfügbar' },
+  voorraad: {
+    liter: (n: string) => `${n} Liter Wasser`,
+    som: (m: number, d: number, l: number, packs: number) => `${m} × ${d} Tage × ${l} Liter. Das sind etwa ${packs} Packungen zu 6 Liter.`,
+    dieren: (n: number, d: number) => `Dazu Wasser und Futter für ${n} Haustier${n === 1 ? '' : 'e'} für ${d} Tage.`,
+  },
+  pakket: {
+    opToestel: 'auf diesem Gerät',
+    bestanden: (n: number, datum?: string) => `${n} Dateien${datum ? `, Kartendaten vom ${datum}` : ''}.`,
+    bijwerken: 'Aktualisieren', bijwerkenOffline: 'Aktualisieren (keine Verbindung)',
+    nietOffline: 'noch nicht offline', nietOfflineTekst: 'Laden Sie das Paket herunter, solange Sie eine Verbindung haben.',
+    geenOpslag: 'Dieser Browser erlaubt keine Offline-Speicherung (privates Fenster?).',
+    geenVerbinding: 'Keine Verbindung. Versuchen Sie es später erneut.',
+    downloaden: (naam: string, mb: string, verwacht?: string) => `Herunterladen: ${naam} (${mb}${verwacht ? ` von etwa ${verwacht}` : ''})`,
+    mislukt: (n: number) => `${n} Datei(en) nicht geladen`, opnieuw: 'Versuchen Sie es erneut.',
+    verwijderVraag: 'Das Paket von diesem Gerät entfernen? Die Karte funktioniert dann nicht mehr offline.',
+    rij: {
+      verbinding: 'Verbindung', online: 'online', offline: 'offline',
+      opslag: 'Von PlanB72 genutzter Speicher', ruimte: (mb: string) => ` (Platz bis ${mb})`,
+      beschermd: 'Speicher vor Löschen geschützt', ja: 'ja', nee: 'nein (der Browser kann das Paket bei wenig Platz löschen)',
+      batterij: 'Akku', laadt: ', lädt', gps: 'GPS', gpsJa: 'vorhanden (fragt nach Erlaubnis)', gpsNee: 'nicht verfügbar',
+      app: 'Offline-App', appJa: 'aktiv: die App funktioniert offline', appNee: 'noch nicht aktiv (laden Sie die Seite einmal neu)',
+    },
+    geinstalleerd: 'PlanB72 ist bereits auf Ihrem Startbildschirm.',
+    deelTekst: 'Kostenlose Notfallbibliothek, die ohne Internet funktioniert.', gekopieerd: 'Link kopiert.',
+    kaarten: {
+      geenLijst: 'Die Kartenliste ist nicht verfügbar. Öffnen Sie diese Seite einmal mit Verbindung.',
+      samen: (n: number, mb: string) => `Auf diesem Gerät: ${n} Karte(n), zusammen ${mb}.`,
+      groepen: { europa: 'Europa', belgie: 'Belgien', regio: 'Regionen auf Straßenebene' },
+      zoom: (z: number) => `bis Zoomstufe ${z}`,
+      verwijderen: 'Entfernen', downloaden: 'Herunterladen', annuleren: 'Abbrechen',
+      verwijderVraag: (naam: string) => `${naam} von diesem Gerät entfernen?`,
+      geenVerbinding: 'Keine Verbindung.',
+      groot: (naam: string, mb: string) => `${naam} ist ${mb} groß. Fortfahren? Nutzen Sie am besten WLAN.`,
+      mislukt: (naam: string) => `Herunterladen von ${naam} fehlgeschlagen. Versuchen Sie es erneut.`,
+    },
+  },
+  kaart: {
+    geenKaart: 'Keine Karte auf diesem Gerät. Laden Sie ein Kartenpaket über die Einstellungen herunter.',
+    offline: (namen: string) => `Offline: ${namen}.`,
+    serverWeg: 'Keine Verbindung zum Server: Die Karte auf diesem Gerät wird verwendet.',
+    niets: 'Keine Verbindung und keine Karte auf diesem Gerät. Laden Sie ein Kartenpaket über die Einstellungen herunter.',
+    onvolledig: 'Die Karte konnte nicht vollständig geladen werden.',
+    laagNiet: (naam: string) => `Die Ebene „${naam}“ ist nicht auf diesem Gerät. Laden Sie das Paket herunter.`,
+    zonesEnAfstand: 'Zonen und Entfernung', spoed: 'Notaufnahme', open: 'Geöffnet:', toegang: 'Zugang:',
+    bekijk: 'ansehen oder verbessern', kloptNiet: 'Fehler melden',
+    positieZoeken: 'Standort wird gesucht…', geenGps: 'Kein GPS; ab der Kartenmitte.',
+  },
+  kaartpakketten: {
+    'eu-z6': ['Europa, Übersicht', 'Länder, große Städte und Autobahnen'],
+    'eu-z7': ['Europa, erweiterte Übersicht', 'Auch mittelgroße Städte und Hauptstraßen'],
+    'be-z9': ['Belgien, Übersicht', 'Gemeinden, Hauptstraßen, Flüsse'],
+    'be-z12': ['Belgien, Standard', 'Alle Straßen und Dörfer, keine Gebäude'],
+    'be-wvl-z14': ['Westflandern, Straßenebene', STRAAT.de],
+    'be-ovl-z14': ['Ostflandern, Straßenebene', STRAAT.de],
+    'be-ant-z14': ['Antwerpen, Straßenebene', STRAAT.de],
+    'be-lim-z14': ['Limburg, Straßenebene', STRAAT.de],
+    'be-bra-z14': ['Brabant und Brüssel, Straßenebene', 'Flämisch-Brabant, Brüssel und Wallonisch-Brabant'],
+    'be-hen-z14': ['Hennegau, Straßenebene', STRAAT.de],
+    'be-nam-z14': ['Namur, Straßenebene', STRAAT.de],
+    'be-lui-z14': ['Lüttich, Straßenebene', STRAAT.de],
+    'be-lux-z14': ['Luxemburg (Provinz), Straßenebene', STRAAT.de],
+  },
+};
+
+const en: Klant = {
+  windstreken: ['N', 'NE', 'E', 'SE', 'S', 'SW', 'W', 'NW'],
+  net: { online: 'Connection: online', offline: 'Connection: offline', titelOnline: 'Online', titelOffline: 'Offline. PlanB72 keeps working with what is on this device.' },
+  kleurschema: { nuDonker: '(currently dark)', nuLicht: '(currently light)' },
+  zoeken: { nietBeschikbaar: 'Search is not available in this version.', niets: 'Nothing found.' },
+  kompas: { geen: 'No compass on this device', geenToestemming: 'No permission' },
+  noodplan: { bewaard: 'Saved on this device.', nietBewaard: 'Could not save (private window or full storage?).', wissen: 'Clear the whole emergency plan?' },
+  notities: { verwijderen: 'Delete', vraag: 'Delete this note?' },
+  nucleair: {
+    evacuatie: 'evacuation zone', schuilen: 'shelter and iodine zone', uitbreiding: 'extension zone',
+    kop: ['Site', 'Distance', 'Direction', 'Within'],
+    vogelvlucht: (pos: string) => `Straight-line distance from ${pos}.`,
+    zoeken: 'Finding position…', geen: 'No position available. Enter coordinates.', laatste: 'Last position',
+  },
+  signalen: { lamp: 'SOS with torch', stop: 'Stop torch', geenLamp: 'Torch not available' },
+  voorraad: {
+    liter: (n: string) => `${n} litres of water`,
+    som: (m: number, d: number, l: number, packs: number) => `${m} × ${d} days × ${l} litres. That is about ${packs} packs of 6 litres.`,
+    dieren: (n: number, d: number) => `Plus water and food for ${n} pet${n === 1 ? '' : 's'} for ${d} days.`,
+  },
+  pakket: {
+    opToestel: 'on this device',
+    bestanden: (n: number, datum?: string) => `${n} files${datum ? `, map data of ${datum}` : ''}.`,
+    bijwerken: 'Update', bijwerkenOffline: 'Update (no connection)',
+    nietOffline: 'not yet offline', nietOfflineTekst: 'Download the package while you have a connection.',
+    geenOpslag: 'This browser does not allow offline storage (private window?).',
+    geenVerbinding: 'No connection. Try again later.',
+    downloaden: (naam: string, mb: string, verwacht?: string) => `Downloading: ${naam} (${mb}${verwacht ? ` of about ${verwacht}` : ''})`,
+    mislukt: (n: number) => `${n} file(s) failed`, opnieuw: 'Try again.',
+    verwijderVraag: 'Remove the package from this device? The map will then no longer work offline.',
+    rij: {
+      verbinding: 'Connection', online: 'online', offline: 'offline',
+      opslag: 'Storage used by PlanB72', ruimte: (mb: string) => ` (space up to ${mb})`,
+      beschermd: 'Storage protected against clearing', ja: 'yes', nee: 'no (the browser may clear the package when space is low)',
+      batterij: 'Battery', laadt: ', charging', gps: 'GPS', gpsJa: 'available (asks for permission)', gpsNee: 'not available',
+      app: 'Offline app', appJa: 'active: the app works offline', appNee: 'not yet active (reload the page once)',
+    },
+    geinstalleerd: 'PlanB72 is already on your home screen.',
+    deelTekst: 'Free emergency library that works without internet.', gekopieerd: 'Link copied.',
+    kaarten: {
+      geenLijst: 'The list of maps is not available. Open this page once with a connection.',
+      samen: (n: number, mb: string) => `On this device: ${n} map(s), ${mb} in total.`,
+      groepen: { europa: 'Europe', belgie: 'Belgium', regio: 'Regions at street level' },
+      zoom: (z: number) => `up to zoom level ${z}`,
+      verwijderen: 'Remove', downloaden: 'Download', annuleren: 'Cancel',
+      verwijderVraag: (naam: string) => `Remove ${naam} from this device?`,
+      geenVerbinding: 'No connection.',
+      groot: (naam: string, mb: string) => `${naam} is ${mb}. Continue? Preferably use wifi.`,
+      mislukt: (naam: string) => `Download of ${naam} failed. Try again.`,
+    },
+  },
+  kaart: {
+    geenKaart: 'No map on this device. Download a map package in Settings.',
+    offline: (namen: string) => `Offline: ${namen}.`,
+    serverWeg: 'No connection to the server: the map on this device is used.',
+    niets: 'No connection and no map on this device. Download a map package in Settings.',
+    onvolledig: 'The map could not be loaded completely.',
+    laagNiet: (naam: string) => `Layer "${naam}" is not on this device. Download the package.`,
+    zonesEnAfstand: 'Zones and distance', spoed: 'emergency department', open: 'Open:', toegang: 'Access:',
+    bekijk: 'view or improve', kloptNiet: 'report an error',
+    positieZoeken: 'Finding position…', geenGps: 'No GPS; from the centre of the map.',
+  },
+  kaartpakketten: {
+    'eu-z6': ['Europe, overview', 'Countries, major cities and motorways'],
+    'eu-z7': ['Europe, extended overview', 'Also medium-sized towns and main roads'],
+    'be-z9': ['Belgium, overview', 'Municipalities, main roads, rivers'],
+    'be-z12': ['Belgium, standard', 'All roads and villages, no buildings'],
+    'be-wvl-z14': ['West Flanders, street level', STRAAT.en],
+    'be-ovl-z14': ['East Flanders, street level', STRAAT.en],
+    'be-ant-z14': ['Antwerp, street level', STRAAT.en],
+    'be-lim-z14': ['Limburg, street level', STRAAT.en],
+    'be-bra-z14': ['Brabant and Brussels, street level', 'Flemish Brabant, Brussels and Walloon Brabant'],
+    'be-hen-z14': ['Hainaut, street level', STRAAT.en],
+    'be-nam-z14': ['Namur, street level', STRAAT.en],
+    'be-lui-z14': ['Liège, street level', STRAAT.en],
+    'be-lux-z14': ['Luxembourg (province), street level', STRAAT.en],
+  },
+};
+
+const KLANT: Record<Taal, Klant> = { nl, fr, de, en };
+
+/** De taal van de pagina die nu open is. */
+export function paginaTaal(): Taal {
+  const l = typeof document === 'undefined' ? 'nl' : document.documentElement.lang;
+  return isTaal(l) ? l : 'nl';
+}
+
+/** Teksten voor de taal van de pagina. */
+export function klant(): Klant {
+  return KLANT[paginaTaal()];
+}
+
+/** Locale voor toLocaleString in de taal van de pagina. */
+export function locale(): string {
+  return LOCALE[paginaTaal()];
+}
+
+/** Een pad binnen de app in de taal van de pagina: '/app/kaart/' -> '/fr/app/kaart/'. */
+export function appPad(p: string): string {
+  const t = paginaTaal();
+  return t === 'nl' ? p : `/${t}${p}`;
+}

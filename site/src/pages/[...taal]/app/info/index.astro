@@ -1,0 +1,39 @@
+---
+import App from '../../../../layouts/App.astro';
+import GidsLinks from '../../../../components/GidsLinks.astro';
+import { landVoor } from '../../../../lib/data';
+import { APP } from '../../../../i18n/app';
+import { taalPaden, taalVan } from '../../../../i18n/talen';
+export const getStaticPaths = taalPaden;
+const taal = taalVan(Astro.params);
+const t = APP[taal].info;
+const land = landVoor(taal);
+const l = (x: { lang: string }) => (x.lang !== taal ? x.lang : undefined);
+---
+<App taal={taal} titel={t.titel} tab="meer" vertaalmelding>
+  <h1>{t.h1}</h1>
+  <p class="dempen">{t.uitleg}</p>
+
+  <h2>{t.voorbereiding}</h2>
+  <ul class="vinklijst" data-lijst="info-voorbereiden">
+    {land.kanalen.map((k, i) => (
+      <li><input type="checkbox" id={`k${i}`} /><label for={`k${i}`} lang={l(k.voorbereiden)}>{k.voorbereiden.tekst}</label></li>
+    ))}
+  </ul>
+
+  <h2>{t.kanalen}</h2>
+  {land.kanalen.map((k) => (
+    <div class="kaart-blok">
+      <h3>{k.naam} <span class="label" lang={l(k.soort)}>{k.soort.tekst}</span></h3>
+      <p lang={l(k.wat)}>{k.wat.tekst}</p>
+      <p class="klein"><a href={k.url}>{k.url.replace('https://', '')}</a> · <a href={k.bron}>{APP[taal].algemeen.bron}</a></p>
+    </div>
+  ))}
+  <div class="melding" set:html={t.echtheid} />
+  <p class="klein">{t.tijdelijk}</p>
+  <GidsLinks taal={taal} ids={['communicatie-en-alarmering', 'noodoproep']} />
+</App>
+<script>
+  import { vinklijsten } from '../../../../lib/app';
+  vinklijsten();
+</script>

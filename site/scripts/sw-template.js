@@ -102,7 +102,9 @@ self.addEventListener('fetch', (event) => {
       return await fetch(request);
     } catch (fout) {
       if (request.mode === 'navigate') {
-        const offline = await zoekInCaches(new Request('/app/offline/'));
+        // De offline-pagina in de taal van de gevraagde pagina.
+        const taal = /^\/(fr|de|en)\//.exec(url.pathname)?.[1];
+        const offline = await zoekInCaches(new Request(taal ? `/${taal}/app/offline/` : '/app/offline/'));
         if (offline) return offline;
       }
       throw fout;

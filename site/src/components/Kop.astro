@@ -19,7 +19,7 @@ const links: [string, string][] = [
       {links.map(([href, tekst]) => (
         <a href={pad(taal, href)} aria-current={pagina === href ? 'page' : undefined}>{tekst}</a>
       ))}
-      <a href="/app/">{t.app}</a>
+      <a href={pad(taal, '/app/')}>{t.app}</a>
     </nav>
     <div class="rechts">
       <div class="taalkeuze" role="group" aria-label={t.taal}>

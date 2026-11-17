@@ -1,10 +1,12 @@
 ---
-interface Props { bron?: string; bronNaam?: string }
-const { bron, bronNaam } = Astro.props;
+import { APP } from '../i18n/app';
+import type { Taal } from '../i18n/talen';
+interface Props { taal: Taal; bron?: string; bronNaam?: string }
+const { taal, bron, bronNaam } = Astro.props;
+const t = APP[taal].inhoud;
 ---
 <div class="concept" role="note">
-  <strong>Status: concept.</strong>{' '}
-  Samenvatting van de officiële richtlijn, nog niet gevalideerd door een deskundige.
-  Bij tegenstrijdigheid gelden de instructies van de overheid en de hulpdiensten.
-  {bron && <> Officiële bron: <a href={bron}>{bronNaam ?? bron}</a>.</>}
+  <strong>{t.concept}</strong>{' '}
+  {t.conceptTekst}
+  {bron && <> {t.officieleBron} <a href={bron}>{bronNaam ?? bron}</a>.</>}
 </div>

@@ -1,0 +1,49 @@
+---
+import App from '../../../../layouts/App.astro';
+import GidsLinks from '../../../../components/GidsLinks.astro';
+import { APP } from '../../../../i18n/app';
+import { taalPaden, taalVan } from '../../../../i18n/talen';
+export const getStaticPaths = taalPaden;
+const taal = taalVan(Astro.params);
+const t = APP[taal].noodplan;
+const velden: [string, 'text' | 'tel' | 'textarea'][] = [
+  ['gezin', 'textarea'], ['adres', 'text'], ['ontmoeting-buurt', 'text'], ['ontmoeting-buiten', 'text'],
+  ['contact-buiten', 'text'], ['contact-tel', 'tel'], ['school', 'textarea'], ['medisch', 'textarea'],
+  ['huisdieren', 'textarea'], ['afsluiten', 'textarea'], ['kwetsbaar', 'textarea'], ['radio', 'text'],
+];
+---
+<App taal={taal} titel={t.titel} tab="meer">
+  <h1>{t.titel}</h1>
+  <p class="dempen">{t.uitleg}</p>
+  <form id="plan">
+    {velden.map(([id, soort]) => (
+      <>
+        <label for={id}>{t.velden[id]}</label>
+        {soort === 'textarea' ? <textarea id={id} name={id} rows="3"></textarea> : <input id={id} name={id} type={soort} autocomplete={id === 'adres' ? 'street-address' : 'off'} />}
+      </>
+    ))}
+  </form>
+  <p class="klein" id="bewaard" aria-live="polite"></p>
+  <div class="knoppen niet-afdrukken">
+    <button class="knop hoofd" type="button" onclick="print()">{APP[taal].algemeen.afdrukken}</button>
+    <button class="knop gevaar" type="button" id="wissen">{t.wissen}</button>
+  </div>
+  <GidsLinks taal={taal} ids={['gezinsnoodplan', 'evacuatie', 'communicatie-en-alarmering']} />
+</App>
+<script>
+  import { lees, bewaar } from '../../../../lib/app';
+  import { klant } from '../../../../i18n/klant';
+  const tk = klant().noodplan;
+  const form = document.getElementById('plan') as HTMLFormElement;
+  const data = lees<Record<string, string>>('noodplan', {});
+  for (const [k, v] of Object.entries(data)) { const el = form.elements.namedItem(k) as HTMLInputElement | null; if (el) el.value = v; }
+  form.addEventListener('input', () => {
+    const nieuw: Record<string, string> = {};
+    new FormData(form).forEach((v, k) => (nieuw[k] = String(v)));
+    document.getElementById('bewaard')!.textContent = bewaar('noodplan', nieuw) ? tk.bewaard : tk.nietBewaard;
+  });
+  document.getElementById('wissen')!.addEventListener('click', () => {
+    if (!confirm(tk.wissen)) return;
+    form.reset(); bewaar('noodplan', {});
+  });
+</script>

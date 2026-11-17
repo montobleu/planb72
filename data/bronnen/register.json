@@ -6730,5 +6730,289 @@
     "url": "https://www.fda.gov/drugs/emergency-preparedness-drugs/information-regarding-insulin-storage-and-switching-between-products-emergency",
     "land": "US",
     "opmerking": "Gebruikt in gidsen: medicatie-en-zorg."
+  },
+  {
+    "id": "centredecrise-be",
+    "naam": "Centre de crise National (site en français)",
+    "eigenaar": "Nationaal Crisiscentrum (FOD Binnenlandse Zaken)",
+    "url": "https://centredecrise.be/fr",
+    "soort": "pagina",
+    "land": "BE",
+    "licentie": "auteursrecht overheid, hergebruik niet geregeld",
+    "toestemming": "na te zien",
+    "route": "dringend",
+    "frequentie": "dagelijks",
+    "gebruikt_in": [
+      "vertalingen"
+    ],
+    "opmerking": "Versie in het Frans van crisiscentrum.be; gebruikt als officiële bron in de vertaalde teksten van de app (zie docs/vertalen.md)."
+  },
+  {
+    "id": "krisenzentrum-be",
+    "naam": "Nationales Krisenzentrum (deutschsprachige Website)",
+    "eigenaar": "Nationaal Crisiscentrum (FOD Binnenlandse Zaken)",
+    "url": "https://krisenzentrum.be/de",
+    "soort": "pagina",
+    "land": "BE",
+    "licentie": "auteursrecht overheid, hergebruik niet geregeld",
+    "toestemming": "na te zien",
+    "route": "dringend",
+    "frequentie": "dagelijks",
+    "gebruikt_in": [
+      "vertalingen"
+    ],
+    "opmerking": "Versie in het Duits van crisiscentrum.be; gebruikt als officiële bron in de vertaalde teksten van de app (zie docs/vertalen.md)."
+  },
+  {
+    "id": "crisiscenter-be",
+    "naam": "National Crisis Center (English website)",
+    "eigenaar": "Nationaal Crisiscentrum (FOD Binnenlandse Zaken)",
+    "url": "https://crisiscenter.be/en",
+    "soort": "pagina",
+    "land": "BE",
+    "licentie": "auteursrecht overheid, hergebruik niet geregeld",
+    "toestemming": "na te zien",
+    "route": "dringend",
+    "frequentie": "dagelijks",
+    "gebruikt_in": [
+      "vertalingen"
+    ],
+    "opmerking": "Versie in het Engels van crisiscentrum.be; gebruikt als officiële bron in de vertaalde teksten van de app (zie docs/vertalen.md)."
+  },
+  {
+    "id": "risquenucleaire-be",
+    "naam": "Risque nucléaire (Centre de crise National, français)",
+    "eigenaar": "Nationaal Crisiscentrum (FOD Binnenlandse Zaken)",
+    "url": "https://risquenucleaire.be/fr",
+    "soort": "pagina",
+    "licentie": "auteursrecht overheid, hergebruik niet geregeld",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "vertalingen"
+    ],
+    "land": "BE",
+    "opmerking": "Versie in het Frans van nucleairrisico.be; gebruikt als officiële bron in de vertaalde teksten van de app (zie docs/vertalen.md)."
+  },
+  {
+    "id": "nuklearrisiko-be",
+    "naam": "Nukleares Risiko (Nationales Krisenzentrum, Deutsch)",
+    "eigenaar": "Nationaal Crisiscentrum (FOD Binnenlandse Zaken)",
+    "url": "https://nuklearrisiko.be/de",
+    "soort": "pagina",
+    "licentie": "auteursrecht overheid, hergebruik niet geregeld",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "vertalingen"
+    ],
+    "land": "BE",
+    "opmerking": "Versie in het Duits van nucleairrisico.be; gebruikt als officiële bron in de vertaalde teksten van de app (zie docs/vertalen.md)."
+  },
+  {
+    "id": "nuclearrisk-be",
+    "naam": "Nuclear Risk (National Crisis Center, English)",
+    "eigenaar": "Nationaal Crisiscentrum (FOD Binnenlandse Zaken)",
+    "url": "https://nuclearrisk.be/en",
+    "soort": "pagina",
+    "licentie": "auteursrecht overheid, hergebruik niet geregeld",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "vertalingen"
+    ],
+    "land": "BE",
+    "opmerking": "Versie in het Engels van nucleairrisico.be; gebruikt als officiële bron in de vertaalde teksten van de app (zie docs/vertalen.md)."
+  },
+  {
+    "id": "centreantipoisons-be",
+    "naam": "Centre Antipoisons (site en français)",
+    "eigenaar": "Antigifcentrum (stichting van openbaar nut)",
+    "url": "https://www.centreantipoisons.be/",
+    "soort": "pagina",
+    "land": "BE",
+    "licentie": "noodnummers zijn feiten; teksten auteursrecht Antigifcentrum",
+    "toestemming": "vrij",
+    "route": "dringend",
+    "frequentie": "dagelijks",
+    "gebruikt_in": [
+      "vertalingen"
+    ],
+    "opmerking": "Versie in het Frans van antigifcentrum.be; gebruikt als officiële bron in de vertaalde teksten van de app (zie docs/vertalen.md)."
+  },
+  {
+    "id": "afcn-fgov-be",
+    "naam": "AFCN, Agence fédérale de Contrôle nucléaire (français)",
+    "eigenaar": "Federaal Agentschap voor Nucleaire Controle (FANC)",
+    "url": "https://afcn.fgov.be/fr",
+    "soort": "pagina",
+    "licentie": "Na te kijken",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "vertalingen"
+    ],
+    "land": "BE",
+    "opmerking": "Versie in het Frans van fanc.fgov.be; gebruikt als officiële bron in de vertaalde teksten van de app (zie docs/vertalen.md)."
+  },
+  {
+    "id": "fank-fgov-be",
+    "naam": "FANK, Föderalagentur für Nuklearkontrolle (Deutsch)",
+    "eigenaar": "Federaal Agentschap voor Nucleaire Controle (FANC)",
+    "url": "https://fank.fgov.be/de",
+    "soort": "pagina",
+    "licentie": "Na te kijken",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "vertalingen"
+    ],
+    "land": "BE",
+    "opmerking": "Versie in het Duits van fanc.fgov.be; gebruikt als officiële bron in de vertaalde teksten van de app (zie docs/vertalen.md)."
+  },
+  {
+    "id": "health-belgium-be",
+    "naam": "SPF Santé publique (français, Deutsch, English)",
+    "url": "https://www.health.belgium.be/fr",
+    "soort": "website",
+    "land": "BE",
+    "gebruikt_in": [
+      "vertalingen"
+    ],
+    "opmerking": "Versie in het Frans van gezondheid.belgie.be; gebruikt als officiële bron in de vertaalde teksten van de app (zie docs/vertalen.md).",
+    "eigenaar": "FOD Volksgezondheid, Veiligheid van de Voedselketen en Leefmilieu",
+    "licentie": "hergebruik met bronvermelding",
+    "toestemming": "na te zien",
+    "route": "link"
+  },
+  {
+    "id": "emploi-belgique-be",
+    "naam": "SPF Emploi, Travail et Concertation sociale (français)",
+    "eigenaar": "FOD Werkgelegenheid, Arbeid en Sociaal Overleg",
+    "url": "https://emploi.belgique.be/fr",
+    "soort": "pagina",
+    "licentie": "Na te kijken",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "vertalingen"
+    ],
+    "land": "BE",
+    "opmerking": "Versie in het Frans van werk.belgie.be; gebruikt als officiële bron in de vertaalde teksten van de app (zie docs/vertalen.md)."
+  },
+  {
+    "id": "pharmacie-be",
+    "naam": "Pharmacie.be, pharmacies de garde (APB, français)",
+    "eigenaar": "Algemene Pharmaceutische Bond (APB)",
+    "url": "https://www.pharmacie.be/",
+    "soort": "pagina",
+    "land": "BE",
+    "licentie": "nummers zijn feiten; teksten auteursrecht APB",
+    "toestemming": "vrij",
+    "route": "dringend",
+    "frequentie": "dagelijks",
+    "gebruikt_in": [
+      "vertalingen"
+    ],
+    "opmerking": "Versie in het Frans van apotheek.be; gebruikt als officiële bron in de vertaalde teksten van de app (zie docs/vertalen.md)."
+  },
+  {
+    "id": "tiquesnet-sciensano-be",
+    "naam": "TiquesNet (Sciensano, français)",
+    "url": "https://tiquesnet.sciensano.be/",
+    "soort": "website",
+    "land": "BE",
+    "gebruikt_in": [
+      "vertalingen"
+    ],
+    "opmerking": "Versie in het Frans van tekennet.sciensano.be; gebruikt als officiële bron in de vertaalde teksten van de app (zie docs/vertalen.md).",
+    "eigenaar": "Sciensano",
+    "licentie": "hergebruik met bronvermelding",
+    "toestemming": "na te zien",
+    "route": "link"
+  },
+  {
+    "id": "fr-rodekruis-be",
+    "naam": "Rode Kruis-Vlaanderen, Franse pagina's (automatisch vertaald door de bron)",
+    "eigenaar": "Rode Kruis-Vlaanderen vzw",
+    "url": "https://fr.rodekruis.be/",
+    "soort": "pagina",
+    "land": "BE",
+    "licentie": "auteursrecht Rode Kruis-Vlaanderen",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "dagelijks",
+    "gebruikt_in": [
+      "vertalingen"
+    ],
+    "opmerking": "Versie in het Frans van rodekruis.be; gebruikt als officiële bron in de vertaalde teksten van de app (zie docs/vertalen.md)."
+  },
+  {
+    "id": "en-rodekruis-be",
+    "naam": "Rode Kruis-Vlaanderen, Engelse pagina's (automatisch vertaald door de bron)",
+    "eigenaar": "Rode Kruis-Vlaanderen vzw",
+    "url": "https://en.rodekruis.be/",
+    "soort": "pagina",
+    "land": "BE",
+    "licentie": "auteursrecht Rode Kruis-Vlaanderen",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "dagelijks",
+    "gebruikt_in": [
+      "vertalingen"
+    ],
+    "opmerking": "Versie in het Engels van rodekruis.be; gebruikt als officiële bron in de vertaalde teksten van de app (zie docs/vertalen.md)."
+  },
+  {
+    "id": "ibpt-be",
+    "naam": "IBPT, Institut belge des services postaux et des télécommunications (français)",
+    "eigenaar": "Belgisch Instituut voor postdiensten en telecommunicatie (BIPT)",
+    "url": "https://www.ibpt.be/",
+    "gebruikt_in": [
+      "vertalingen"
+    ],
+    "soort": "pdf",
+    "licentie": "auteursrecht overheid, hergebruik niet geregeld",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "land": "BE",
+    "opmerking": "Versie in het Frans van bipt.be; gebruikt als officiële bron in de vertaalde teksten van de app (zie docs/vertalen.md)."
+  },
+  {
+    "id": "roteskreuz-be",
+    "naam": "Rotes Kreuz Belgien: Erste-Hilfe-Ausbildung",
+    "eigenaar": "Rotes Kreuz Belgien (Deutschsprachige Gemeinschaft)",
+    "url": "https://www.roteskreuz.be/service/unterrichtsdienst/",
+    "soort": "website",
+    "land": "BE",
+    "licentie": "auteursrecht, alleen link",
+    "toestemming": "na te zien",
+    "route": "link",
+    "gebruikt_in": [
+      "vertalingen"
+    ],
+    "opmerking": "Officiële eerstehulpbron in de taal van de gebruiker, getoond boven niet-nagelezen vertalingen van eerste hulp (site/src/i18n/app.ts)."
+  },
+  {
+    "id": "grc-org-de",
+    "naam": "German Resuscitation Council (Deutscher Rat für Wiederbelebung)",
+    "eigenaar": "German Resuscitation Council",
+    "url": "https://www.grc-org.de/",
+    "soort": "website",
+    "land": "EU",
+    "licentie": "auteursrecht, alleen link",
+    "toestemming": "na te zien",
+    "route": "link",
+    "gebruikt_in": [
+      "vertalingen"
+    ],
+    "opmerking": "Officiële eerstehulpbron in de taal van de gebruiker, getoond boven niet-nagelezen vertalingen van eerste hulp (site/src/i18n/app.ts)."
   }
 ]

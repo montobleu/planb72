@@ -1,0 +1,1516 @@
+{
+  "urls": {
+    "http://kcce.eu/sites/default/files/explorer/partie_s_incendie/brandveiligheid_ouderen_2017.pdf": {
+      "nl_actueel": "https://kcce.eu/sites/default/files/explorer/partie_s_incendie/brandveiligheid_ouderen_2017.pdf",
+      "fr": "https://kcce.eu/sites/default/files/explorer/partie_s_incendie/la_securite_incendie_pour_les_seniors_2017.pdf",
+      "de": null,
+      "en": null,
+      "opmerking": "KCCE = FOD Binnenlandse Zaken, Civiele Veiligheid. Geen DE/EN-versie gevonden. Gebruik https (http stuurt door)."
+    },
+    "http://kcce.eu/sites/default/files/persbericht_2017-07-13-localisatie_app112be_2.pdf": {
+      "nl_actueel": "https://kcce.eu/sites/default/files/persbericht_2017-07-13-localisatie_app112be_2.pdf",
+      "fr": null,
+      "de": null,
+      "en": null,
+      "opmerking": "Persbericht juli 2017 over automatische lokalisatie (AML/app 112 BE); geen anderstalige versie gevonden. Inhoudelijk alternatief: 112.be/fr|de|en/mobile-application (zie https://112.be/nl/mobiele-applicatie)."
+    },
+    "http://telerad.fgov.be": {
+      "nl_actueel": "https://telerad.be/pageNL.html",
+      "fr": "https://telerad.be/pageFR.html",
+      "de": null,
+      "en": null,
+      "opmerking": "telerad.fgov.be reageert niet meer (geen verbinding). Telerad (FANC) staat nu op telerad.be met keuzepagina FR/NL; geen DE/EN."
+    },
+    "https://112.be/nl/andere-noodnummers": {
+      "nl_actueel": "https://112.be/nl/andere-noodnummers",
+      "fr": "https://112.be/fr/autres-numeros-durgence",
+      "de": "https://112.be/de/andere-notrufnummern",
+      "en": "https://112.be/en/other-emergency-numbers",
+      "opmerking": "Vier talen via hreflang."
+    },
+    "https://112.be/nl/how-call/hoe-bel-ik-naar-112": {
+      "nl_actueel": "https://112.be/nl/how-call/hoe-bel-ik-naar-112",
+      "fr": "https://112.be/fr/how-call/comment-appeler-le-112",
+      "de": "https://112.be/de/how-call/wie-rufe-ich-die-112",
+      "en": "https://112.be/en/how-call/how-call-112",
+      "opmerking": "Vier talen via hreflang."
+    },
+    "https://112.be/nl/kids": {
+      "nl_actueel": "https://112.be/nl/kids",
+      "fr": "https://112.be/fr/kids",
+      "de": "https://112.be/de/kids",
+      "en": "https://112.be/en/kids",
+      "opmerking": "Vier talen via hreflang."
+    },
+    "https://112.be/nl/mobiele-applicatie": {
+      "nl_actueel": "https://112.be/nl/mobiele-applicatie",
+      "fr": "https://112.be/fr/application-mobile",
+      "de": "https://112.be/de/mobile-anwendung",
+      "en": "https://112.be/en/mobile-application",
+      "opmerking": "Vier talen via hreflang."
+    },
+    "https://112.be/nl/veelgestelde-vragen": {
+      "nl_actueel": "https://112.be/nl/veelgestelde-vragen",
+      "fr": "https://112.be/fr/questions-frequentes",
+      "de": "https://112.be/de/haeufig-gestellte-fragen",
+      "en": "https://112.be/en/frequently-asked-questions",
+      "opmerking": "Vier talen via hreflang."
+    },
+    "https://112.be/nl/voor-doven": {
+      "nl_actueel": "https://112.be/nl/voor-doven",
+      "fr": "https://112.be/fr/pour-les-sourds",
+      "de": "https://112.be/de/fuer-gehoerlose",
+      "en": "https://112.be/en/deaf-people",
+      "opmerking": "Vier talen via hreflang."
+    },
+    "https://childfocus.be": {
+      "nl_actueel": "https://childfocus.be/nl-be/",
+      "fr": "https://childfocus.be/fr-be/",
+      "de": null,
+      "en": null,
+      "opmerking": "childfocus.be stuurt (afhankelijk van taal) door naar /fr-be/. De link \"en\" in de taalkiezer wijst naar www.childfocus.be/en-be/, dat een verlopen TLS-certificaat heeft (laadt niet); geen DE."
+    },
+    "https://crisiscentrum.be": {
+      "nl_actueel": "https://crisiscentrum.be/nl",
+      "fr": "https://centredecrise.be/fr",
+      "de": "https://krisenzentrum.be/de",
+      "en": "https://crisiscenter.be/en",
+      "opmerking": "Startpagina; elk taalgebied heeft een eigen domein."
+    },
+    "https://crisiscentrum.be/en/risks-belgium/technological-risks/nuclear": {
+      "nl_actueel": "https://crisiscentrum.be/nl/risicos-belgie/economische-en-technologische-risicos/incident-een-kerncentrale",
+      "fr": "https://centredecrise.be/fr/risques-en-belgique/risques-economiques-et-technologiques/incident-dans-une-centrale-nucleaire",
+      "de": "https://krisenzentrum.be/de/risiken-belgien/technologische-risiken/zwischenfall-einer-nuklearanlage",
+      "en": "https://crisiscenter.be/en/risks-belgium/technological-risks/nuclear-plant-incident",
+      "opmerking": "Bron-URL is Engels en geeft 404 (stuurt door naar crisiscenter.be/en/.../nuclear, Page not found). Huidige pagina over hetzelfde onderwerp: \"Nuclear plant incident\" / \"Incident in een kerncentrale\". Verwante pagina: release-nuclear-substances."
+    },
+    "https://crisiscentrum.be/en/what-can-you-do/stay-informed/official-information-channels": {
+      "nl_actueel": "https://crisiscentrum.be/nl/wat-kan-jij-doen/informeer-je/informatie-tijdens-een-noodsituatie",
+      "fr": "https://centredecrise.be/fr/que-pouvez-vous-faire/informez-vous/linformation-pendant-une-situation-durgence",
+      "de": "https://krisenzentrum.be/de/was-koennen-sie-tun/informieren-sie-sich/information-notsituationen",
+      "en": "https://crisiscenter.be/en/what-can-you-do/stay-informed/get-informed-emergency-situation",
+      "opmerking": "Bron-URL is Engels; stuurt door naar crisiscenter.be/en/what-can-you-do/stay-informed/get-informed-emergency-situation (pagina hernoemd)."
+    },
+    "https://crisiscentrum.be/en/what-does-national-crisis-center-do/communication": {
+      "nl_actueel": "https://crisiscentrum.be/nl/wat-doet-het-nationaal-crisiscentrum/communicatie",
+      "fr": "https://centredecrise.be/fr/que-fait-le-centre-de-crise-national/communication",
+      "de": "https://krisenzentrum.be/de/was-tut-das-nationale-krisenzentrum/kommunikation",
+      "en": "https://crisiscenter.be/en/role-national-crisis-center/communication",
+      "opmerking": "Bron-URL is Engels; stuurt door naar crisiscenter.be/en/role-national-crisis-center/communication."
+    },
+    "https://crisiscentrum.be/nl/risicos-belgie/economische-en-technologische-risicos/brand-explosie-een-stedelijk-residentieel": {
+      "nl_actueel": "https://crisiscentrum.be/nl/risicos-belgie/economische-en-technologische-risicos/brand-explosie-een-stedelijk-residentieel",
+      "fr": "https://centredecrise.be/fr/risques-en-belgique/risques-economiques-et-technologiques/incendie-ou-explosion-dans-une-zone",
+      "de": "https://krisenzentrum.be/de/risiken-belgien/technologische-risiken/brand-oder-explosion-einem-stadt-oder-wohngebiet",
+      "en": "https://crisiscenter.be/en/risks-belgium/technological-risks/fire-or-explosion-urban-or-residential-area",
+      "opmerking": "NL-adres werkt nog op crisiscentrum.be. Taalversies via de taalkiezer: FR op centredecrise.be, DE op krisenzentrum.be, EN op crisiscenter.be."
+    },
+    "https://crisiscentrum.be/nl/risicos-belgie/economische-en-technologische-risicos/brand-instorting-van-een-tunnel": {
+      "nl_actueel": "https://crisiscentrum.be/nl/risicos-belgie/economische-en-technologische-risicos/brand-instorting-van-een-tunnel",
+      "fr": "https://centredecrise.be/fr/risques-en-belgique/risques-economiques-et-technologiques/feu-ou-effondrement-dans-un-tunnel",
+      "de": "https://krisenzentrum.be/de/risiken-belgien/technologische-risiken/brand-oder-einsturz-einem-tunnel",
+      "en": "https://crisiscenter.be/en/risks-belgium/technological-risks/fire-or-collapse-tunnel",
+      "opmerking": "NL-adres werkt nog op crisiscentrum.be. Taalversies via de taalkiezer: FR op centredecrise.be, DE op krisenzentrum.be, EN op crisiscenter.be."
+    },
+    "https://crisiscentrum.be/nl/risicos-belgie/economische-en-technologische-risicos/incident-een-kerncentrale": {
+      "nl_actueel": "https://crisiscentrum.be/nl/risicos-belgie/economische-en-technologische-risicos/incident-een-kerncentrale",
+      "fr": "https://centredecrise.be/fr/risques-en-belgique/risques-economiques-et-technologiques/incident-dans-une-centrale-nucleaire",
+      "de": "https://krisenzentrum.be/de/risiken-belgien/technologische-risiken/zwischenfall-einer-nuklearanlage",
+      "en": "https://crisiscenter.be/en/risks-belgium/technological-risks/nuclear-plant-incident",
+      "opmerking": "NL-adres werkt nog op crisiscentrum.be. Taalversies via de taalkiezer: FR op centredecrise.be, DE op krisenzentrum.be, EN op crisiscenter.be."
+    },
+    "https://crisiscentrum.be/nl/risicos-belgie/economische-en-technologische-risicos/incident-een-seveso-installatie": {
+      "nl_actueel": "https://crisiscentrum.be/nl/risicos-belgie/economische-en-technologische-risicos/incident-een-seveso-installatie",
+      "fr": "https://centredecrise.be/fr/risques-en-belgique/risques-economiques-et-technologiques/incident-dans-une-installation-seveso",
+      "de": "https://krisenzentrum.be/de/risiken-belgien/technologische-risiken/zwischenfall-einer-seveso-anlage",
+      "en": "https://crisiscenter.be/en/risks-belgium/technological-risks/incident-seveso-installation",
+      "opmerking": "NL-adres werkt nog op crisiscentrum.be. Taalversies via de taalkiezer: FR op centredecrise.be, DE op krisenzentrum.be, EN op crisiscenter.be."
+    },
+    "https://crisiscentrum.be/nl/risicos-belgie/economische-en-technologische-risicos/ontploffen-van-explosieve-stoffen": {
+      "nl_actueel": "https://crisiscentrum.be/nl/risicos-belgie/economische-en-technologische-risicos/ontploffen-van-explosieve-stoffen",
+      "fr": "https://centredecrise.be/fr/risques-en-belgique/risques-economiques-et-technologiques/decharge-de-substances-explosives",
+      "de": "https://krisenzentrum.be/de/risiken-belgien/technologische-risiken/detonation-explosionsfaehiger-stoffe",
+      "en": "https://crisiscenter.be/en/risks-belgium/technological-risks/discharge-explosive-substances",
+      "opmerking": "NL-adres werkt nog op crisiscentrum.be. Taalversies via de taalkiezer: FR op centredecrise.be, DE op krisenzentrum.be, EN op crisiscenter.be."
+    },
+    "https://crisiscentrum.be/nl/risicos-belgie/economische-en-technologische-risicos/vrijkomen-van-chemische-stoffen": {
+      "nl_actueel": "https://crisiscentrum.be/nl/risicos-belgie/economische-en-technologische-risicos/vrijkomen-van-chemische-stoffen",
+      "fr": "https://centredecrise.be/fr/risques-en-belgique/risques-economiques-et-technologiques/liberation-de-substances-chimiques",
+      "de": "https://krisenzentrum.be/de/risiken-belgien/technologische-risiken/freisetzung-von-chemischen-stoffen",
+      "en": "https://crisiscenter.be/en/risks-belgium/technological-risks/release-chemical-substances",
+      "opmerking": "NL-adres werkt nog op crisiscentrum.be. Taalversies via de taalkiezer: FR op centredecrise.be, DE op krisenzentrum.be, EN op crisiscenter.be."
+    },
+    "https://crisiscentrum.be/nl/risicos-belgie/economische-en-technologische-risicos/vrijkomen-van-nucleaire-stoffen": {
+      "nl_actueel": "https://crisiscentrum.be/nl/risicos-belgie/economische-en-technologische-risicos/vrijkomen-van-nucleaire-stoffen",
+      "fr": "https://centredecrise.be/fr/risques-en-belgique/risques-economiques-et-technologiques/liberation-de-substances-nucleaires",
+      "de": "https://krisenzentrum.be/de/risiken-belgien/technologische-risiken/freisetzung-von-nuklearen-stoffen",
+      "en": "https://crisiscenter.be/en/risks-belgium/technological-risks/release-nuclear-substances",
+      "opmerking": "NL-adres werkt nog op crisiscentrum.be. Taalversies via de taalkiezer: FR op centredecrise.be, DE op krisenzentrum.be, EN op crisiscenter.be."
+    },
+    "https://crisiscentrum.be/nl/risicos-belgie/economische-en-technologische-risicos/vrijkomen-van-radioactieve-stoffen": {
+      "nl_actueel": "https://crisiscentrum.be/nl/risicos-belgie/economische-en-technologische-risicos/vrijkomen-van-radioactieve-stoffen",
+      "fr": "https://centredecrise.be/fr/risques-en-belgique/risques-economiques-et-technologiques/liberation-de-substances-radioactives",
+      "de": "https://krisenzentrum.be/de/risiken-belgien/technologische-risiken/freisetzung-von-radioaktiven-stoffen",
+      "en": "https://crisiscenter.be/en/risks-belgium/technological-risks/release-radioactive-substances",
+      "opmerking": "NL-adres werkt nog op crisiscentrum.be. Taalversies via de taalkiezer: FR op centredecrise.be, DE op krisenzentrum.be, EN op crisiscenter.be."
+    },
+    "https://crisiscentrum.be/nl/risicos-belgie/gezondheidsrisicos/besmettelijke-ziekten": {
+      "nl_actueel": "https://crisiscentrum.be/nl/risicos-belgie/gezondheidsrisicos/besmettelijke-ziekten",
+      "fr": "https://centredecrise.be/fr/risques-en-belgique/risques-sanitaires/maladies-infectieuses",
+      "de": "https://krisenzentrum.be/de/risiken-belgien/gesundheitsgefahren/infektionskrankheiten",
+      "en": "https://crisiscenter.be/en/risks-belgium/health-risks/infectious-diseases",
+      "opmerking": "NL-adres werkt nog op crisiscentrum.be. Taalversies via de taalkiezer: FR op centredecrise.be, DE op krisenzentrum.be, EN op crisiscenter.be."
+    },
+    "https://crisiscentrum.be/nl/risicos-belgie/maatschappelijke-risicos/verstoring-van-aardgas": {
+      "nl_actueel": "https://crisiscentrum.be/nl/risicos-belgie/maatschappelijke-risicos/verstoring-van-aardgas",
+      "fr": "https://centredecrise.be/fr/risques-en-belgique/risques-societaux/defaillance-de-lapprovisionnement-en-gaz-naturel",
+      "de": "https://krisenzentrum.be/de/risiken-belgien/maatschappelijke-risicos/ausfall-der-erdgasversorgung",
+      "en": "https://crisiscenter.be/en/risks-belgium/maatschappelijke-risicos/failure-natural-gas-supply",
+      "opmerking": "NL-adres werkt nog op crisiscentrum.be. Taalversies via de taalkiezer: FR op centredecrise.be, DE op krisenzentrum.be, EN op crisiscenter.be."
+    },
+    "https://crisiscentrum.be/nl/risicos-belgie/maatschappelijke-risicos/verstoring-van-de-afvalwaterafvoer": {
+      "nl_actueel": "https://crisiscentrum.be/nl/risicos-belgie/maatschappelijke-risicos/verstoring-van-de-afvalwaterafvoer",
+      "fr": "https://centredecrise.be/fr/risques-en-belgique/risques-societaux/defaillance-de-la-gestion-des-eaux-usees",
+      "de": "https://krisenzentrum.be/de/risiken-belgien/maatschappelijke-risicos/ausfall-von-abwasser-behandlungssystemen",
+      "en": "https://crisiscenter.be/en/risks-belgium/societal-risks/failure-sewage-disposal",
+      "opmerking": "NL-adres werkt nog op crisiscentrum.be. Taalversies via de taalkiezer: FR op centredecrise.be, DE op krisenzentrum.be, EN op crisiscenter.be."
+    },
+    "https://crisiscentrum.be/nl/risicos-belgie/maatschappelijke-risicos/verstoring-van-de-digitale-infrastructuur": {
+      "nl_actueel": "https://crisiscentrum.be/nl/risicos-belgie/maatschappelijke-risicos/verstoring-van-de-digitale-infrastructuur",
+      "fr": "https://centredecrise.be/fr/risques-en-belgique/risques-societaux/defaillance-des-infrastructures-digitales",
+      "de": "https://krisenzentrum.be/de/risiken-belgien/maatschappelijke-risicos/ausfall-der-digitalen-infrastruktur",
+      "en": "https://crisiscenter.be/en/risks-belgium/societal-risks/failure-digital-infrastructure",
+      "opmerking": "NL-adres werkt nog op crisiscentrum.be. Taalversies via de taalkiezer: FR op centredecrise.be, DE op krisenzentrum.be, EN op crisiscenter.be."
+    },
+    "https://crisiscentrum.be/nl/risicos-belgie/maatschappelijke-risicos/verstoring-van-de-voedselbevoorrading": {
+      "nl_actueel": "https://crisiscentrum.be/nl/risicos-belgie/maatschappelijke-risicos/verstoring-van-de-voedselbevoorrading",
+      "fr": "https://centredecrise.be/fr/risques-en-belgique/risques-societaux/defaillance-de-lapprovisionnement-en-denrees-alimentaires",
+      "de": "https://krisenzentrum.be/de/risiken-belgien/maatschappelijke-risicos/ausfall-der-lebensmittelversorgung",
+      "en": "https://crisiscenter.be/en/risks-belgium/societal-risks/failure-food-supply",
+      "opmerking": "NL-adres werkt nog op crisiscentrum.be. Taalversies via de taalkiezer: FR op centredecrise.be, DE op krisenzentrum.be, EN op crisiscenter.be."
+    },
+    "https://crisiscentrum.be/nl/risicos-belgie/maatschappelijke-risicos/verstoring-van-drinkwater": {
+      "nl_actueel": "https://crisiscentrum.be/nl/risicos-belgie/maatschappelijke-risicos/verstoring-van-drinkwater",
+      "fr": "https://centredecrise.be/fr/risques-en-belgique/risques-societaux/defaillance-de-lapprovisionnement-en-eau-potable",
+      "de": "https://krisenzentrum.be/de/risiken-belgien/maatschappelijke-risicos/ausfall-der-trinkwasserversorgung",
+      "en": "https://crisiscenter.be/en/risks-belgium/societal-risks/failure-drinking-water-supply",
+      "opmerking": "NL-adres werkt nog op crisiscentrum.be. Taalversies via de taalkiezer: FR op centredecrise.be, DE op krisenzentrum.be, EN op crisiscenter.be."
+    },
+    "https://crisiscentrum.be/nl/risicos-belgie/maatschappelijke-risicos/verstoring-van-elektriciteit": {
+      "nl_actueel": "https://crisiscentrum.be/nl/risicos-belgie/maatschappelijke-risicos/verstoring-van-elektriciteit",
+      "fr": "https://centredecrise.be/fr/risques-en-belgique/risques-societaux/defaillance-de-lapprovisionnement-en-electricite",
+      "de": "https://krisenzentrum.be/de/risiken-belgien/maatschappelijke-risicos/ausfall-der-elektrizitaetsversorgung",
+      "en": "https://crisiscenter.be/en/risks-belgium/societal-risks/failure-electricity-supply",
+      "opmerking": "NL-adres werkt nog op crisiscentrum.be. Taalversies via de taalkiezer: FR op centredecrise.be, DE op krisenzentrum.be, EN op crisiscenter.be."
+    },
+    "https://crisiscentrum.be/nl/risicos-belgie/man-made-risicos/aanval-op-een-cbrne-infrastructuur": {
+      "nl_actueel": "https://crisiscentrum.be/nl/risicos-belgie/man-made-risicos/aanval-op-een-cbrne-infrastructuur",
+      "fr": "https://centredecrise.be/fr/risques-en-belgique/risques-man-made/attaque-contre-une-infrastructure-cbrne",
+      "de": "https://krisenzentrum.be/de/risiken-belgien/sicherheitsrisiken/angriff-auf-eine-cbrne-anlage",
+      "en": "https://crisiscenter.be/en/risks-belgium/security-risks/attack-against-cbrne-infrastructure",
+      "opmerking": "NL-adres werkt nog op crisiscentrum.be. Taalversies via de taalkiezer: FR op centredecrise.be, DE op krisenzentrum.be, EN op crisiscenter.be."
+    },
+    "https://crisiscentrum.be/nl/risicos-belgie/man-made-risicos/aanval-op-een-soft-target": {
+      "nl_actueel": "https://crisiscentrum.be/nl/risicos-belgie/man-made-risicos/aanval-op-een-soft-target",
+      "fr": "https://centredecrise.be/fr/risques-en-belgique/risques-man-made/attaque-contre-une-cible-facile",
+      "de": "https://krisenzentrum.be/de/risiken-belgien/sicherheitsrisiken/angriff-auf-ein-soft-target-weiches-ziel",
+      "en": "https://crisiscenter.be/en/risks-belgium/security-risks/attack-against-soft-target",
+      "opmerking": "NL-adres werkt nog op crisiscentrum.be. Taalversies via de taalkiezer: FR op centredecrise.be, DE op krisenzentrum.be, EN op crisiscenter.be."
+    },
+    "https://crisiscentrum.be/nl/risicos-belgie/man-made-risicos/internationaal-gewapend-conflict-igc": {
+      "nl_actueel": "https://crisiscentrum.be/nl/risicos-belgie/man-made-risicos/internationaal-gewapend-conflict-igc",
+      "fr": "https://centredecrise.be/fr/risques-en-belgique/risques-man-made/conflit-arme-international-cai",
+      "de": "https://krisenzentrum.be/de/risiken-belgien/sicherheitsrisiken/internationaler-bewaffneter-konflikt-ibk",
+      "en": "https://crisiscenter.be/en/risks-belgium/security-risks/international-armed-conflict-iac",
+      "opmerking": "NL-adres werkt nog op crisiscentrum.be. Taalversies via de taalkiezer: FR op centredecrise.be, DE op krisenzentrum.be, EN op crisiscenter.be."
+    },
+    "https://crisiscentrum.be/nl/risicos-belgie/natuurlijke-risicos/aardbeving": {
+      "nl_actueel": "https://crisiscentrum.be/nl/risicos-belgie/natuurlijke-risicos/aardbeving",
+      "fr": "https://centredecrise.be/fr/risques-en-belgique/risques-naturels/tremblement-de-terre",
+      "de": "https://krisenzentrum.be/de/risiken-belgien/naturrisiken/erdbeben",
+      "en": "https://crisiscenter.be/en/risks-belgium/natural-risks/earthquake",
+      "opmerking": "NL-adres werkt nog op crisiscentrum.be. Taalversies via de taalkiezer: FR op centredecrise.be, DE op krisenzentrum.be, EN op crisiscenter.be."
+    },
+    "https://crisiscentrum.be/nl/risicos-belgie/natuurlijke-risicos/bliksem": {
+      "nl_actueel": "https://crisiscentrum.be/nl/risicos-belgie/natuurlijke-risicos/bliksem",
+      "fr": "https://centredecrise.be/fr/risques-en-belgique/risques-naturels/foudre",
+      "de": "https://krisenzentrum.be/de/risiken-belgien/naturrisiken/blitzschlag",
+      "en": "https://crisiscenter.be/en/risks-belgium/natural-risks/lightning",
+      "opmerking": "NL-adres werkt nog op crisiscentrum.be. Taalversies via de taalkiezer: FR op centredecrise.be, DE op krisenzentrum.be, EN op crisiscenter.be."
+    },
+    "https://crisiscentrum.be/nl/risicos-belgie/natuurlijke-risicos/fluviale-overstroming-rivier": {
+      "nl_actueel": "https://crisiscentrum.be/nl/risicos-belgie/natuurlijke-risicos/fluviale-overstroming-rivier",
+      "fr": "https://centredecrise.be/fr/risques-en-belgique/risques-naturels/inondation-fluviale-ou-de-riviere",
+      "de": "https://krisenzentrum.be/de/risiken-belgien/naturrisiken/flussueberschwemmung-oder-hochwasser-anderer-wasserlaeufe",
+      "en": "https://crisiscenter.be/en/risks-belgium/natural-risks/fluvial-riverine-flood",
+      "opmerking": "NL-adres werkt nog op crisiscentrum.be. Taalversies via de taalkiezer: FR op centredecrise.be, DE op krisenzentrum.be, EN op crisiscenter.be."
+    },
+    "https://crisiscentrum.be/nl/risicos-belgie/natuurlijke-risicos/hittegolf": {
+      "nl_actueel": "https://crisiscentrum.be/nl/risicos-belgie/natuurlijke-risicos/hittegolf",
+      "fr": "https://centredecrise.be/fr/risques-en-belgique/risques-naturels/vague-de-chaleur-canicule",
+      "de": "https://krisenzentrum.be/de/risiken-belgien/naturrisiken/hitzewellesommerhitze",
+      "en": "https://crisiscenter.be/en/risks-belgium/natural-risks/heatwave",
+      "opmerking": "NL-adres werkt nog op crisiscentrum.be. Taalversies via de taalkiezer: FR op centredecrise.be, DE op krisenzentrum.be, EN op crisiscenter.be."
+    },
+    "https://crisiscentrum.be/nl/risicos-belgie/natuurlijke-risicos/koudegolf": {
+      "nl_actueel": "https://crisiscentrum.be/nl/risicos-belgie/natuurlijke-risicos/koudegolf",
+      "fr": "https://centredecrise.be/fr/risques-en-belgique/risques-naturels/vague-de-froid",
+      "de": "https://krisenzentrum.be/de/risiken-belgien/naturrisiken/kaeltewelle-0",
+      "en": "https://crisiscenter.be/en/risks-belgium/natural-risks/cold-wave",
+      "opmerking": "NL-adres werkt nog op crisiscentrum.be. Taalversies via de taalkiezer: FR op centredecrise.be, DE op krisenzentrum.be, EN op crisiscenter.be."
+    },
+    "https://crisiscentrum.be/nl/risicos-belgie/natuurlijke-risicos/natuurbrand": {
+      "nl_actueel": "https://crisiscentrum.be/nl/risicos-belgie/natuurlijke-risicos/natuurbrand",
+      "fr": "https://centredecrise.be/fr/risques-en-belgique/risques-naturels/feu-de-foret",
+      "de": "https://krisenzentrum.be/de/risiken-belgien/naturrisiken/naturbrand",
+      "en": "https://crisiscenter.be/en/risks-belgium/natural-risks/wildfires",
+      "opmerking": "NL-adres werkt nog op crisiscentrum.be. Taalversies via de taalkiezer: FR op centredecrise.be, DE op krisenzentrum.be, EN op crisiscenter.be."
+    },
+    "https://crisiscentrum.be/nl/risicos-belgie/natuurlijke-risicos/pluviale-overstroming-oppervlaktewater": {
+      "nl_actueel": "https://crisiscentrum.be/nl/risicos-belgie/natuurlijke-risicos/pluviale-overstroming-oppervlaktewater",
+      "fr": "https://centredecrise.be/fr/risques-en-belgique/risques-naturels/inondation-pluviale-eaux-de-ruissellement",
+      "de": "https://krisenzentrum.be/de/risiken-belgien/naturrisiken/ueberschwemmung-durch-oberflaechenwasser",
+      "en": "https://crisiscenter.be/en/risks-belgium/natural-risks/surface-water-flooding",
+      "opmerking": "NL-adres werkt nog op crisiscentrum.be. Taalversies via de taalkiezer: FR op centredecrise.be, DE op krisenzentrum.be, EN op crisiscenter.be."
+    },
+    "https://crisiscentrum.be/nl/risicos-belgie/natuurlijke-risicos/tornado": {
+      "nl_actueel": "https://crisiscentrum.be/nl/risicos-belgie/natuurlijke-risicos/tornado",
+      "fr": "https://centredecrise.be/fr/risques-en-belgique/risques-naturels/tornade",
+      "de": "https://krisenzentrum.be/de/risiken-belgien/naturrisiken/tornado",
+      "en": "https://crisiscenter.be/en/risks-belgium/natural-risks/tornado",
+      "opmerking": "NL-adres werkt nog op crisiscentrum.be. Taalversies via de taalkiezer: FR op centredecrise.be, DE op krisenzentrum.be, EN op crisiscenter.be."
+    },
+    "https://crisiscentrum.be/nl/risicos-belgie/natuurlijke-risicos/wind-en-storm": {
+      "nl_actueel": "https://crisiscentrum.be/nl/risicos-belgie/natuurlijke-risicos/wind-en-storm",
+      "fr": "https://centredecrise.be/fr/risques-en-belgique/risques-naturels/vent-et-tempete",
+      "de": "https://krisenzentrum.be/de/risiken-belgien/naturrisiken/wind-und-sturm",
+      "en": "https://crisiscenter.be/en/risks-belgium/natural-risks/wind",
+      "opmerking": "NL-adres werkt nog op crisiscentrum.be. Taalversies via de taalkiezer: FR op centredecrise.be, DE op krisenzentrum.be, EN op crisiscenter.be."
+    },
+    "https://crisiscentrum.be/nl/wat-doen-overheden/crisisbeheer/informatie-aan-de-bevolking": {
+      "nl_actueel": "https://crisiscentrum.be/nl/wat-doen-overheden/crisisbeheer/informatie-aan-de-bevolking",
+      "fr": "https://centredecrise.be/fr/que-font-les-autorites/gestion-de-crise/informer-la-population",
+      "de": "https://krisenzentrum.be/de/was-tun-die-behoerden/krisenmanagement/information-der-bevoelkerung",
+      "en": "https://crisiscenter.be/en/what-do-authorities-do/crisis-management/information-provision-citizens",
+      "opmerking": "NL-adres werkt nog op crisiscentrum.be. Taalversies via de taalkiezer: FR op centredecrise.be, DE op krisenzentrum.be, EN op crisiscenter.be."
+    },
+    "https://crisiscentrum.be/nl/wat-doet-het-nationaal-crisiscentrum/communicatie": {
+      "nl_actueel": "https://crisiscentrum.be/nl/wat-doet-het-nationaal-crisiscentrum/communicatie",
+      "fr": "https://centredecrise.be/fr/que-fait-le-centre-de-crise-national/communication",
+      "de": "https://krisenzentrum.be/de/was-tut-das-nationale-krisenzentrum/kommunikation",
+      "en": "https://crisiscenter.be/en/role-national-crisis-center/communication",
+      "opmerking": "NL-adres werkt nog op crisiscentrum.be. Taalversies via de taalkiezer: FR op centredecrise.be, DE op krisenzentrum.be, EN op crisiscenter.be."
+    },
+    "https://crisiscentrum.be/nl/wat-kan-jij-doen/informeer-je": {
+      "nl_actueel": "https://crisiscentrum.be/nl/wat-kan-jij-doen/informeer-je",
+      "fr": "https://centredecrise.be/fr/que-pouvez-vous-faire/informez-vous",
+      "de": "https://krisenzentrum.be/de/was-koennen-sie-tun/informieren-sie-sich",
+      "en": "https://crisiscenter.be/en/what-can-you-do/stay-informed",
+      "opmerking": "NL-adres werkt nog op crisiscentrum.be. Taalversies via de taalkiezer: FR op centredecrise.be, DE op krisenzentrum.be, EN op crisiscenter.be."
+    },
+    "https://crisiscentrum.be/nl/wat-kan-jij-doen/informeer-je/be-alert-waarschuwingen-op-je-telefoon": {
+      "nl_actueel": "https://crisiscentrum.be/nl/wat-kan-jij-doen/informeer-je/be-alert-waarschuwingen-op-je-telefoon",
+      "fr": "https://centredecrise.be/fr/que-pouvez-vous-faire/informez-vous/be-alert-des-alertes-sur-votre-telephone",
+      "de": "https://krisenzentrum.be/de/was-koennen-sie-tun/informieren-sie-sich/warnmeldungen-auf-ihrem-telefon-be-alert",
+      "en": "https://crisiscenter.be/en/what-can-you-do/stay-informed/be-alert-alerts-your-phone",
+      "opmerking": "NL-adres werkt nog op crisiscentrum.be. Taalversies via de taalkiezer: FR op centredecrise.be, DE op krisenzentrum.be, EN op crisiscenter.be."
+    },
+    "https://crisiscentrum.be/nl/wat-kan-jij-doen/informeer-je/informatie-tijdens-een-noodsituatie": {
+      "nl_actueel": "https://crisiscentrum.be/nl/wat-kan-jij-doen/informeer-je/informatie-tijdens-een-noodsituatie",
+      "fr": "https://centredecrise.be/fr/que-pouvez-vous-faire/informez-vous/linformation-pendant-une-situation-durgence",
+      "de": "https://krisenzentrum.be/de/was-koennen-sie-tun/informieren-sie-sich/information-notsituationen",
+      "en": "https://crisiscenter.be/en/what-can-you-do/stay-informed/get-informed-emergency-situation",
+      "opmerking": "NL-adres werkt nog op crisiscentrum.be. Taalversies via de taalkiezer: FR op centredecrise.be, DE op krisenzentrum.be, EN op crisiscenter.be."
+    },
+    "https://crisiscentrum.be/nl/wat-kan-jij-doen/maak-een-noodpakket/een-noodpakket-bij-je-thuis": {
+      "nl_actueel": "https://crisiscentrum.be/nl/wat-kan-jij-doen/maak-een-noodpakket/een-noodpakket-bij-je-thuis",
+      "fr": "https://centredecrise.be/fr/que-pouvez-vous-faire/preparez-un-kit-durgence/un-kit-durgence-la-maison",
+      "de": "https://krisenzentrum.be/de/was-koennen-sie-tun/stelle-ein-notfallpaket-zusammen/ein-notfallset-fuer-zu-hause",
+      "en": "https://crisiscenter.be/en/what-can-you-do/build-emergency-kit/emergency-kit-home",
+      "opmerking": "NL-adres werkt nog op crisiscentrum.be. Taalversies via de taalkiezer: FR op centredecrise.be, DE op krisenzentrum.be, EN op crisiscenter.be."
+    },
+    "https://crisiscentrum.be/nl/wat-kan-jij-doen/maak-een-noodpakket/een-noodpakket-op-locatie": {
+      "nl_actueel": "https://crisiscentrum.be/nl/wat-kan-jij-doen/maak-een-noodpakket/een-noodpakket-op-locatie",
+      "fr": "https://centredecrise.be/fr/que-pouvez-vous-faire/preparez-un-kit-durgence/un-kit-durgence-en-dehors-de-la-maison",
+      "de": "https://krisenzentrum.be/de/was-koennen-sie-tun/stelle-ein-notfallpaket-zusammen/ein-notfallset-vor-ort",
+      "en": "https://crisiscenter.be/en/what-can-you-do/build-emergency-kit/emergency-kit-site",
+      "opmerking": "NL-adres werkt nog op crisiscentrum.be. Taalversies via de taalkiezer: FR op centredecrise.be, DE op krisenzentrum.be, EN op crisiscenter.be."
+    },
+    "https://crisiscentrum.be/nl/wat-kan-jij-doen/maak-een-plan": {
+      "nl_actueel": "https://crisiscentrum.be/nl/wat-kan-jij-doen/maak-een-plan",
+      "fr": "https://centredecrise.be/fr/que-pouvez-vous-faire/faites-un-plan",
+      "de": "https://krisenzentrum.be/de/was-koennen-sie-tun/erstellen-sie-einen-plan",
+      "en": "https://crisiscenter.be/en/what-can-you-do/make-plan",
+      "opmerking": "NL-adres werkt nog op crisiscentrum.be. Taalversies via de taalkiezer: FR op centredecrise.be, DE op krisenzentrum.be, EN op crisiscenter.be."
+    },
+    "https://crisiscentrum.be/nl/wat-kan-jij-doen/maak-een-plan/een-plan-bij-je-thuis": {
+      "nl_actueel": "https://crisiscentrum.be/nl/wat-kan-jij-doen/maak-een-plan/een-plan-bij-je-thuis",
+      "fr": "https://centredecrise.be/fr/que-pouvez-vous-faire/faites-un-plan/un-plan-la-maison",
+      "de": "https://krisenzentrum.be/de/was-koennen-sie-tun/make-plan/ein-notfallplan-zu-hause",
+      "en": "https://crisiscenter.be/en/what-can-you-do/make-plan/emergency-plan-home",
+      "opmerking": "NL-adres werkt nog op crisiscentrum.be. Taalversies via de taalkiezer: FR op centredecrise.be, DE op krisenzentrum.be, EN op crisiscenter.be."
+    },
+    "https://crisiscentrum.be/nl/wat-kan-jij-doen/maak-een-plan/een-plan-jouw-buurt-vereniging": {
+      "nl_actueel": "https://crisiscentrum.be/nl/wat-kan-jij-doen/maak-een-plan/een-plan-jouw-buurt-vereniging",
+      "fr": "https://centredecrise.be/fr/que-pouvez-vous-faire/faites-un-plan/un-plan-dans-votre-quartier-ou-votre-association",
+      "de": "https://krisenzentrum.be/de/was-koennen-sie-tun/erstellen-sie-einen-plan/ein-plan-ihrem-viertel-oder-ihrem-verein",
+      "en": "https://crisiscenter.be/en/what-can-you-do/make-plan/plan-your-neighbourhood-association-or-club",
+      "opmerking": "NL-adres werkt nog op crisiscentrum.be. Taalversies via de taalkiezer: FR op centredecrise.be, DE op krisenzentrum.be, EN op crisiscenter.be."
+    },
+    "https://crisiscentrum.be/nl/wat-kan-jij-doen/maak-een-plan/een-plan-op-het-werk": {
+      "nl_actueel": "https://crisiscentrum.be/nl/wat-kan-jij-doen/maak-een-plan/een-plan-op-het-werk",
+      "fr": "https://centredecrise.be/fr/que-pouvez-vous-faire/faites-un-plan/un-plan-au-travail",
+      "de": "https://krisenzentrum.be/de/was-koennen-sie-tun/bereiten-sie-sich-vor/ein-plan-am-arbeitsplatz",
+      "en": "https://crisiscenter.be/en/what-can-you-do/make-plan/work",
+      "opmerking": "NL-adres werkt nog op crisiscentrum.be. Taalversies via de taalkiezer: FR op centredecrise.be, DE op krisenzentrum.be, EN op crisiscenter.be."
+    },
+    "https://crisiscentrum.be/nl/wat-kan-jij-doen/maak-een-plan/een-plan-op-school": {
+      "nl_actueel": "https://crisiscentrum.be/nl/wat-kan-jij-doen/maak-een-plan/een-plan-op-school",
+      "fr": "https://centredecrise.be/fr/que-pouvez-vous-faire/faites-un-plan/un-plan-lecole",
+      "de": "https://krisenzentrum.be/de/was-koennen-sie-tun/bereiten-sie-sich-vor/ein-plan-fuer-die-schule",
+      "en": "https://crisiscenter.be/en/what-can-you-do/make-plan/school",
+      "opmerking": "NL-adres werkt nog op crisiscentrum.be. Taalversies via de taalkiezer: FR op centredecrise.be, DE op krisenzentrum.be, EN op crisiscenter.be."
+    },
+    "https://crisiscentrum.be/nl/wat-kan-jij-doen/maak-een-plan/een-plan-voor-dieren": {
+      "nl_actueel": "https://crisiscentrum.be/nl/wat-kan-jij-doen/maak-een-plan/een-plan-voor-dieren",
+      "fr": "https://centredecrise.be/fr/que-pouvez-vous-faire/faites-un-plan/un-plan-pour-vos-animaux",
+      "de": "https://krisenzentrum.be/de/was-koennen-sie-tun/bereiten-sie-sich-vor/ein-plan-fuer-tiere",
+      "en": "https://crisiscenter.be/en/what-can-you-do/make-plan/animals",
+      "opmerking": "NL-adres werkt nog op crisiscentrum.be. Taalversies via de taalkiezer: FR op centredecrise.be, DE op krisenzentrum.be, EN op crisiscenter.be."
+    },
+    "https://crisiscentrum.be/nl/wat-kan-jij-doen/maak-een-plan/een-plan-voor-wie-extra-hulp-nodig-heeft": {
+      "nl_actueel": "https://crisiscentrum.be/nl/wat-kan-jij-doen/maak-een-plan/een-plan-voor-wie-extra-hulp-nodig-heeft",
+      "fr": "https://centredecrise.be/fr/que-pouvez-vous-faire/faites-un-plan/un-plan-pour-ceux-qui-ont-besoin-dune-aide-supplementaire",
+      "de": "https://krisenzentrum.be/de/was-koennen-sie-tun/bereiten-sie-sich-vor/ein-plan-fuer-personen-die-zusaetzliche-hilfe-benoetigen",
+      "en": "https://crisiscenter.be/en/what-can-you-do/make-plan/people-who-need-additional-help",
+      "opmerking": "NL-adres werkt nog op crisiscentrum.be. Taalversies via de taalkiezer: FR op centredecrise.be, DE op krisenzentrum.be, EN op crisiscenter.be."
+    },
+    "https://crisiscentrum.be/nl/wat-kan-jij-doen/reageer-correct/evacueren": {
+      "nl_actueel": "https://crisiscentrum.be/nl/wat-kan-jij-doen/reageer-correct/evacueren",
+      "fr": "https://centredecrise.be/fr/que-pouvez-vous-faire/le-bon-reflexe/evacuer",
+      "de": "https://krisenzentrum.be/de/was-koennen-sie-tun/der-richtige-reflex/evakuierung",
+      "en": "https://crisiscenter.be/en/what-can-you-do/right-reflex/evacuate",
+      "opmerking": "NL-adres werkt nog op crisiscentrum.be. Taalversies via de taalkiezer: FR op centredecrise.be, DE op krisenzentrum.be, EN op crisiscenter.be."
+    },
+    "https://crisiscentrum.be/nl/wat-kan-jij-doen/reageer-correct/schuilen": {
+      "nl_actueel": "https://crisiscentrum.be/nl/wat-kan-jij-doen/reageer-correct/schuilen",
+      "fr": "https://centredecrise.be/fr/que-pouvez-vous-faire/le-bon-reflexe/se-mettre-labri",
+      "de": "https://krisenzentrum.be/de/was-koennen-sie-tun/der-richtige-reflex/schutz-suchen",
+      "en": "https://crisiscenter.be/en/what-can-you-do/right-reflex/seeking-shelter",
+      "opmerking": "NL-adres werkt nog op crisiscentrum.be. Taalversies via de taalkiezer: FR op centredecrise.be, DE op krisenzentrum.be, EN op crisiscenter.be."
+    },
+    "https://crisiscentrum.be/nl/wat-kan-jij-doen/zorg-voor-jezelf/praat-erover": {
+      "nl_actueel": "https://crisiscentrum.be/nl/wat-kan-jij-doen/zorg-voor-jezelf/praat-erover",
+      "fr": "https://centredecrise.be/fr/que-pouvez-vous-faire/prenez-soin-de-vous/parlez-en",
+      "de": "https://krisenzentrum.be/de/was-koennen-sie-tun/zorg-voor-jezelf/sprechen-sie-darueber",
+      "en": "https://crisiscenter.be/en/what-can-you-do/zorg-voor-jezelf/talk-about-it",
+      "opmerking": "NL-adres werkt nog op crisiscentrum.be. Taalversies via de taalkiezer: FR op centredecrise.be, DE op krisenzentrum.be, EN op crisiscenter.be."
+    },
+    "https://crisiscentrum.be/sites/default/files/documents/files/2021-04/fr_fiches_confpresse.pdf": {
+      "nl_actueel": null,
+      "fr": "https://centredecrise.be/sites/default/files/documents/files/2021-04/fr_fiches_confpresse.pdf",
+      "de": null,
+      "en": null,
+      "opmerking": "Bron is zelf Franstalig (persfiches noodplanningszones 2021). Geen NL/DE/EN-versie gevonden (nl_/de_/en_fiches_confpresse.pdf geven 404)."
+    },
+    "https://crisiscentrum.be/sites/default/files/documents/files/20240616_Nucleair%20Noodplan.pdf": {
+      "nl_actueel": "https://crisiscentrum.be/sites/default/files/documents/files/20240616_Nucleair%20Noodplan.pdf",
+      "fr": "https://centredecrise.be/sites/default/files/documents/files/20240616_Plan%20d%27Urgence%20Nucl%C3%A9aire.pdf",
+      "de": null,
+      "en": null,
+      "opmerking": "FR-versie gelinkt op de FR-pagina \"Libération de substances chimiques\". Geen DE/EN-versie gelinkt."
+    },
+    "https://crisiscentrum.be/sites/default/files/documents/files/MijnEigenNoodplan_interactievePDF.pdf": {
+      "nl_actueel": "https://crisiscentrum.be/sites/default/files/documents/files/MijnEigenNoodplan_interactievePDF.pdf",
+      "fr": "https://centredecrise.be/sites/default/files/documents/files/MonPlandurgence_PDF%20interactif.pdf",
+      "de": "https://krisenzentrum.be/sites/default/files/documents/files/MeinNotfallplan_PDF.pdf",
+      "en": "https://crisiscenter.be/sites/default/files/documents/files/MyEmergencyPlan_interactive%20PDF.pdf",
+      "opmerking": "Gelinkt op de pagina \"Een plan bij je thuis\" in elke taal."
+    },
+    "https://crisiscentrum.be/sites/default/files/documents/files/OffOn-triptyque-N.pdf": {
+      "nl_actueel": "https://crisiscentrum.be/sites/default/files/documents/files/OffOn-triptyque-N.pdf",
+      "fr": "https://centredecrise.be/sites/default/files/documents/files/OffOn-triptyque-F.pdf",
+      "de": "https://krisenzentrum.be/sites/default/files/documents/files/OffOn-triptyque-D.pdf",
+      "en": null,
+      "opmerking": "Off/On-folder over afschakeling. Geen EN-versie (de EN-pagina over stroomuitval linkt geen folder; -E.pdf geeft 404)."
+    },
+    "https://crisiscentrum.be/sites/default/files/documents/files/WEB-Brochure%20Samen%20voorbereid-NL.pdf": {
+      "nl_actueel": "https://crisiscentrum.be/sites/default/files/documents/files/WEB-Brochure%20Samen%20voorbereid-NL.pdf",
+      "fr": "https://centredecrise.be/sites/default/files/documents/files/WEB-Brochure-Pr%C3%AAts.%20Ensemble-FR.pdf",
+      "de": "https://krisenzentrum.be/sites/default/files/documents/files/WEB-Brosch%C3%BCre%20Gemeinsam%20Vorbereitet-DE.pdf",
+      "en": "https://crisiscenter.be/sites/default/files/documents/files/WEB-Brochure%20Prepared%20Together-EN.pdf",
+      "opmerking": "Brochure \"Samen voorbereid\" = \"Prêts. Ensemble\" = \"Gemeinsam vorbereitet\" = \"Prepared Together\"."
+    },
+    "https://crisiscentrum.be/sites/default/files/documents/files/cc_nationale_strategie_voor_alarmeringstesten_0.pdf": {
+      "nl_actueel": "https://crisiscentrum.be/sites/default/files/documents/files/cc_nationale_strategie_voor_alarmeringstesten_0.pdf",
+      "fr": "https://centredecrise.be/sites/default/files/documents/files/cc_strategie_de_test_dalertes_de_la_population_0_0.pdf",
+      "de": null,
+      "en": null,
+      "opmerking": "FR-versie heeft een andere bestandsnaam. Geen DE/EN-versie gevonden."
+    },
+    "https://diplomatie.belgium.be/nl": {
+      "nl_actueel": "https://diplomatie.belgium.be/nl",
+      "fr": "https://diplomatie.belgium.be/fr",
+      "de": "https://diplomatie.belgium.be/de",
+      "en": "https://diplomatie.belgium.be/en",
+      "opmerking": "Startpagina; vier talen."
+    },
+    "https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/afschakeling/wanneer-wordt-het": {
+      "nl_actueel": "https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/afschakeling/wanneer-wordt-het",
+      "fr": "https://economie.fgov.be/fr/themes/energie/securite-dapprovisionnement/electricite/penurie-delectricite/le-delestage/quand-le-plan-de-delestage-est",
+      "de": "https://economie.fgov.be/de/themen/energie/sicherheit-der/strom/stromknappheit/lastabwurf/wann-wird-der-lastabwurfplan",
+      "en": null,
+      "opmerking": "Via hreflang; geen EN-versie."
+    },
+    "https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/afschakeling/wat-een-afschakelplan": {
+      "nl_actueel": "https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/afschakeling/wat-een-afschakelplan",
+      "fr": "https://economie.fgov.be/fr/themes/energie/securite-dapprovisionnement/electricite/penurie-delectricite/le-delestage/quest-ce-que-le-plan-de",
+      "de": "https://economie.fgov.be/de/themen/energie/sicherheit-der/strom/stromknappheit/lastabwurf/was-ist-ein-lastabwurfplan",
+      "en": null,
+      "opmerking": "Via hreflang; geen EN-versie."
+    },
+    "https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/afschakelplan/tot-welke-schijf-behoort-uw": {
+      "nl_actueel": "https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/afschakelplan/tot-welke-schijf-behoort-uw",
+      "fr": "https://economie.fgov.be/fr/themes/energie/securite-dapprovisionnement/electricite/penurie-delectricite/le-plan-de-delestage-et-vous/quelle-tranche-de-delestage",
+      "de": "https://economie.fgov.be/de/themen/energie/sicherheit-der/strom/strommangel/der-lastabwurfplan-und-sie/zu-welchem-lastabwurfabschnitt",
+      "en": null,
+      "opmerking": "Via hreflang; geen EN-versie."
+    },
+    "https://environnement.wallonie.be/feux": {
+      "nl_actueel": null,
+      "fr": "https://environnement.wallonie.be/feux",
+      "de": null,
+      "en": null,
+      "opmerking": "Waalse (Franstalige) bron; geen NL/DE/EN-versie (/de/feux geeft 404)."
+    },
+    "https://fanc.fgov.be/nl": {
+      "nl_actueel": "https://fanc.fgov.be/nl",
+      "fr": "https://afcn.fgov.be/fr",
+      "de": "https://fank.fgov.be/de",
+      "en": null,
+      "opmerking": "FR op afcn.fgov.be, DE op fank.fgov.be. Geen EN-site (alleen taalkeuze)."
+    },
+    "https://fanc.fgov.be/nl/dossiers/radioactiviteit-het-leefmilieu/voedselketen-drinkwater-melk-voedingsmiddelen-en": {
+      "nl_actueel": "https://fanc.fgov.be/nl/dossiers/radioactiviteit-het-leefmilieu/voedselketen-drinkwater-melk-voedingsmiddelen-en",
+      "fr": "https://afcn.fgov.be/fr/dossiers-dinformation/radioactivite-dans-lenvironnement/surveillance-chaine-alimentaire",
+      "de": "https://fank.fgov.be/de/dossiers/umgebungsradioaktivitaet/die-nahrungskette-trinkwasser-milch-nahrungsmittel-und",
+      "en": null,
+      "opmerking": "FR op afcn.fgov.be, DE op fank.fgov.be. Geen EN."
+    },
+    "https://formations.croix-rouge.be/files/files/espace-relais/Relais-BEPS-Mise-jour-2024.pdf": {
+      "nl_actueel": null,
+      "fr": "https://formations.croix-rouge.be/files/files/espace-relais/Relais-BEPS-Mise-jour-2024.pdf",
+      "de": null,
+      "en": null,
+      "opmerking": "Bron is zelf Franstalig (Croix-Rouge de Belgique, BEPS). Geen NL/DE/EN-tegenhanger van dit document."
+    },
+    "https://hydrometrie.wallonie.be/": {
+      "nl_actueel": null,
+      "fr": "https://hydrometrie.wallonie.be/home.html",
+      "de": null,
+      "en": null,
+      "opmerking": "Waalse bron, enkel Frans."
+    },
+    "https://jeugd.rodekruis.be/storage/jrk/jrk-resq-watermerk.pdf": {
+      "nl_actueel": "https://jeugd.rodekruis.be/storage/jrk/jrk-resq-watermerk.pdf",
+      "fr": null,
+      "de": null,
+      "en": null,
+      "opmerking": "Rode Kruis-Vlaanderen (Jeugdrode Kruis); geen anderstalige versie. Croix-Rouge de Belgique (croix-rouge.be) en Rotes Kreuz (roteskreuz.be) zijn aparte organisaties met eigen materiaal."
+    },
+    "https://ngi.be/aanbod/kaarten-en-fotos/topografische-kaarten/": {
+      "nl_actueel": "https://ngi.be/aanbod/kaarten-en-fotos/topografische-kaarten/",
+      "fr": "https://ngi.be/fr/offre/cartes-et-photos/cartes-topographiques/",
+      "de": null,
+      "en": null,
+      "opmerking": "NGI/IGN: alleen NL en FR (/en/ en /de/ geven 404)."
+    },
+    "https://ngi.be/faq/": {
+      "nl_actueel": "https://ngi.be/faq/",
+      "fr": "https://ngi.be/fr/faq/",
+      "de": null,
+      "en": null,
+      "opmerking": "NGI/IGN: alleen NL en FR (/en/ en /de/ geven 404)."
+    },
+    "https://ngi.be/online-resources/topomapviewer/": {
+      "nl_actueel": "https://ngi.be/online-resources/topomapviewer/",
+      "fr": "https://ngi.be/fr/online-resources/topomapviewer/",
+      "de": null,
+      "en": null,
+      "opmerking": "NGI/IGN: alleen NL en FR (/en/ en /de/ geven 404)."
+    },
+    "https://nucleairrisico.be/nl/faq": {
+      "nl_actueel": "https://nucleairrisico.be/nl/faq",
+      "fr": "https://risquenucleaire.be/fr/faq",
+      "de": "https://nuklearrisiko.be/de/faq",
+      "en": "https://nuclearrisk.be/en/faq",
+      "opmerking": "Via hreflang. Elke taal heeft een eigen domein: risquenucleaire.be (FR), nuklearrisiko.be (DE), nuclearrisk.be (EN)."
+    },
+    "https://nucleairrisico.be/nl/jodiumtabletten": {
+      "nl_actueel": "https://nucleairrisico.be/nl/jodiumtabletten",
+      "fr": "https://risquenucleaire.be/fr/comprimes-diode",
+      "de": "https://nuklearrisiko.be/de/jodtabletten",
+      "en": "https://nuclearrisk.be/en/iodine-tablets",
+      "opmerking": "Via hreflang. Elke taal heeft een eigen domein: risquenucleaire.be (FR), nuklearrisiko.be (DE), nuclearrisk.be (EN)."
+    },
+    "https://nucleairrisico.be/nl/jodiumtabletten/jodiumtabletten-afhalen-bij-de-apotheek": {
+      "nl_actueel": "https://nucleairrisico.be/nl/jodiumtabletten/jodiumtabletten-afhalen-bij-de-apotheek",
+      "fr": "https://risquenucleaire.be/fr/comprimes-diode/aller-chercher-des-comprimes-diode-chez-le-pharmacien",
+      "de": "https://nuklearrisiko.be/de/jodtabletten/jodtabletten-der-apotheke-besorgen",
+      "en": "https://nuclearrisk.be/en/iodine-tablets/get-iodine-tablets-pharmacy",
+      "opmerking": "Via hreflang. Elke taal heeft een eigen domein: risquenucleaire.be (FR), nuklearrisiko.be (DE), nuclearrisk.be (EN)."
+    },
+    "https://nucleairrisico.be/nl/jodiumtabletten/stabiel-en-radioactief-jodium": {
+      "nl_actueel": "https://nucleairrisico.be/nl/jodiumtabletten/stabiel-en-radioactief-jodium",
+      "fr": "https://risquenucleaire.be/fr/comprimes-diode/liode-stable-et-radioactif",
+      "de": "https://nuklearrisiko.be/de/jodtabletten/stabiles-und-radioaktives-jod",
+      "en": "https://nuclearrisk.be/en/iodine-tablets/stable-and-radioactive-iodine",
+      "opmerking": "Via hreflang. Elke taal heeft een eigen domein: risquenucleaire.be (FR), nuklearrisiko.be (DE), nuclearrisk.be (EN)."
+    },
+    "https://nucleairrisico.be/nl/jodiumtabletten/voor-collectiviteiten": {
+      "nl_actueel": "https://nucleairrisico.be/nl/jodiumtabletten/voor-collectiviteiten",
+      "fr": "https://risquenucleaire.be/fr/comprimes-diode/pour-les-collectivites",
+      "de": "https://nuklearrisiko.be/de/jodtabletten/fuer-gemeinschaftliche-einrichtungen",
+      "en": "https://nuclearrisk.be/en/iodine-tablets/communities",
+      "opmerking": "Via hreflang. Elke taal heeft een eigen domein: risquenucleaire.be (FR), nuklearrisiko.be (DE), nuclearrisk.be (EN)."
+    },
+    "https://nucleairrisico.be/nl/jodiumtabletten/voor-wie": {
+      "nl_actueel": "https://nucleairrisico.be/nl/jodiumtabletten/voor-wie",
+      "fr": "https://risquenucleaire.be/fr/comprimes-diode/pour-qui",
+      "de": "https://nuklearrisiko.be/de/jodtabletten/fuer-wen",
+      "en": "https://nuclearrisk.be/en/iodine-tablets/whom",
+      "opmerking": "Via hreflang. Elke taal heeft een eigen domein: risquenucleaire.be (FR), nuklearrisiko.be (DE), nuclearrisk.be (EN)."
+    },
+    "https://nucleairrisico.be/nl/jodiumtabletten/wanneer-innemen": {
+      "nl_actueel": "https://nucleairrisico.be/nl/jodiumtabletten/wanneer-innemen",
+      "fr": "https://risquenucleaire.be/fr/comprimes-diode/quand-les-prendre",
+      "de": "https://nuklearrisiko.be/de/jodtabletten/wann-einnehmen",
+      "en": "https://nuclearrisk.be/en/iodine-tablets/when-should-you-take-them",
+      "opmerking": "Via hreflang. Elke taal heeft een eigen domein: risquenucleaire.be (FR), nuklearrisiko.be (DE), nuclearrisk.be (EN)."
+    },
+    "https://nucleairrisico.be/nl/nucleaire-noodplanningszones": {
+      "nl_actueel": "https://nucleairrisico.be/nl/nucleaire-noodplanningszones",
+      "fr": "https://risquenucleaire.be/fr/zones-de-planification-durgence-nucleaire",
+      "de": "https://nuklearrisiko.be/de/nuklearen-noteinsatzplanungszonen",
+      "en": "https://nuclearrisk.be/en/nuclear-emergency-planning-zones",
+      "opmerking": "Via hreflang. Elke taal heeft een eigen domein: risquenucleaire.be (FR), nuklearrisiko.be (DE), nuclearrisk.be (EN)."
+    },
+    "https://nucleairrisico.be/nl/nucleaire-risicos/nucleaire-sites": {
+      "nl_actueel": "https://nucleairrisico.be/nl/nucleaire-risicos/nucleaire-sites",
+      "fr": "https://risquenucleaire.be/fr/risque-nucleaire/sites-nucleaires",
+      "de": "https://nuklearrisiko.be/de/nukleares-risiko/kerntechnische-anlagen",
+      "en": "https://nuclearrisk.be/en/nuclear-risk/nuclear-sites",
+      "opmerking": "Via hreflang. Elke taal heeft een eigen domein: risquenucleaire.be (FR), nuklearrisiko.be (DE), nuclearrisk.be (EN)."
+    },
+    "https://nucleairrisico.be/nl/nucleaire-risicos/nucleaire-transporten": {
+      "nl_actueel": "https://nucleairrisico.be/nl/nucleaire-risicos/nucleaire-transporten",
+      "fr": "https://risquenucleaire.be/fr/risque-nucleaire/transports-nucleaires",
+      "de": "https://nuklearrisiko.be/de/nukleares-risiko/atomtransporte",
+      "en": "https://nuclearrisk.be/en/nuclear-risk/nuclear-transports",
+      "opmerking": "Via hreflang. Elke taal heeft een eigen domein: risquenucleaire.be (FR), nuklearrisiko.be (DE), nuclearrisk.be (EN)."
+    },
+    "https://nucleairrisico.be/nl/nucleaire-risicos/radioactiviteit-blootstelling": {
+      "nl_actueel": "https://nucleairrisico.be/nl/nucleaire-risicos/radioactiviteit-blootstelling",
+      "fr": "https://risquenucleaire.be/fr/risque-nucleaire/radioactivite-exposition",
+      "de": "https://nuklearrisiko.be/de/nukleares-risiko/radioaktivitaet-exposition",
+      "en": "https://nuclearrisk.be/en/nuclear-risk/radioactivity-exposure",
+      "opmerking": "Via hreflang. Elke taal heeft een eigen domein: risquenucleaire.be (FR), nuklearrisiko.be (DE), nuclearrisk.be (EN)."
+    },
+    "https://nucleairrisico.be/nl/wat-doet-de-overheid/noodplanningszones": {
+      "nl_actueel": "https://nucleairrisico.be/nl/wat-doet-de-overheid/noodplanningszones",
+      "fr": "https://risquenucleaire.be/fr/que-font-les-autorites/zones-de-planification-durgence",
+      "de": "https://nuklearrisiko.be/de/was-tun-die-behoerden/noteinsatzplanungs-zonen",
+      "en": "https://nuclearrisk.be/en/what-are-authorities-doing/emergency-planning-zones",
+      "opmerking": "Via hreflang. Elke taal heeft een eigen domein: risquenucleaire.be (FR), nuklearrisiko.be (DE), nuclearrisk.be (EN)."
+    },
+    "https://nucleairrisico.be/nl/wat-doet-de-overheid/waarschuwen-en-beschermen-van-de-bevolking": {
+      "nl_actueel": "https://nucleairrisico.be/nl/wat-doet-de-overheid/waarschuwen-en-beschermen-van-de-bevolking",
+      "fr": "https://risquenucleaire.be/fr/que-font-les-autorites/alerte-et-protection-de-la-population",
+      "de": "https://nuklearrisiko.be/de/was-tun-die-behoerden/warnung-und-schutz-der-bevoelkerung",
+      "en": "https://nuclearrisk.be/en/what-are-authorities-doing/warning-and-protecting-population",
+      "opmerking": "Via hreflang. Elke taal heeft een eigen domein: risquenucleaire.be (FR), nuklearrisiko.be (DE), nuclearrisk.be (EN)."
+    },
+    "https://nucleairrisico.be/nl/wat-kan-jij-doen/bescherming-van-de-voedselketen": {
+      "nl_actueel": "https://nucleairrisico.be/nl/wat-kan-jij-doen/bescherming-van-de-voedselketen",
+      "fr": "https://risquenucleaire.be/fr/que-pouvez-vous-faire/protection-de-lapprovisionnement-alimentaire",
+      "de": "https://nuklearrisiko.be/de/was-koennen-sie-tun/schutz-der-lebensmittelversorgung",
+      "en": "https://nuclearrisk.be/en/what-can-you-do/protection-food-chain",
+      "opmerking": "Via hreflang. Elke taal heeft een eigen domein: risquenucleaire.be (FR), nuklearrisiko.be (DE), nuclearrisk.be (EN)."
+    },
+    "https://nucleairrisico.be/nl/wat-kan-jij-doen/evacuatie": {
+      "nl_actueel": "https://nucleairrisico.be/nl/wat-kan-jij-doen/evacuatie",
+      "fr": "https://risquenucleaire.be/fr/que-pouvez-vous-faire/evacuation",
+      "de": "https://nuklearrisiko.be/de/was-koennen-sie-tun/evakuierung",
+      "en": "https://nuclearrisk.be/en/what-can-you-do/evacuation",
+      "opmerking": "Via hreflang. Elke taal heeft een eigen domein: risquenucleaire.be (FR), nuklearrisiko.be (DE), nuclearrisk.be (EN)."
+    },
+    "https://nucleairrisico.be/nl/wat-kan-jij-doen/inname-stabiel-jodium": {
+      "nl_actueel": "https://nucleairrisico.be/nl/wat-kan-jij-doen/inname-stabiel-jodium",
+      "fr": "https://risquenucleaire.be/fr/que-pouvez-vous-faire/prise-de-comprimes-diode",
+      "de": "https://nuklearrisiko.be/de/was-koennen-sie-tun/einnahme-von-jod",
+      "en": "https://nuclearrisk.be/en/what-can-you-do/intake-stable-iodine",
+      "opmerking": "Via hreflang. Elke taal heeft een eigen domein: risquenucleaire.be (FR), nuklearrisiko.be (DE), nuclearrisk.be (EN)."
+    },
+    "https://nucleairrisico.be/nl/wat-kan-jij-doen/jezelf-ontsmetten": {
+      "nl_actueel": "https://nucleairrisico.be/nl/wat-kan-jij-doen/jezelf-ontsmetten",
+      "fr": "https://risquenucleaire.be/fr/que-pouvez-vous-faire/se-decontaminer",
+      "de": "https://nuklearrisiko.be/de/was-koennen-sie-tun/sich-selbst-dekontaminieren",
+      "en": "https://nuclearrisk.be/en/what-can-you-do/decontamination",
+      "opmerking": "Via hreflang. Elke taal heeft een eigen domein: risquenucleaire.be (FR), nuklearrisiko.be (DE), nuclearrisk.be (EN)."
+    },
+    "https://nucleairrisico.be/nl/wat-kan-jij-doen/schuilen-de-beste-bescherming": {
+      "nl_actueel": "https://nucleairrisico.be/nl/wat-kan-jij-doen/schuilen-de-beste-bescherming",
+      "fr": "https://risquenucleaire.be/fr/que-pouvez-vous-faire/mise-labri-la-meilleure-action-de-protection",
+      "de": "https://nuklearrisiko.be/de/was-koennen-sie-tun/aufenthalt-geschlossenen-raeumen-die-beste-schutzmassnahme",
+      "en": "https://nuclearrisk.be/en/what-can-you-do/sheltering",
+      "opmerking": "Via hreflang. Elke taal heeft een eigen domein: risquenucleaire.be (FR), nuklearrisiko.be (DE), nuclearrisk.be (EN)."
+    },
+    "https://securitecivile.be/en/node/4147": {
+      "nl_actueel": "https://securitecivile.be/nl/wat-doen-de-noodcentrale-112",
+      "fr": "https://securitecivile.be/fr/que-font-les-centrales-durgence-112",
+      "de": "https://securitecivile.be/de/was-tun-die-notrufzentralen-112",
+      "en": "https://securitecivile.be/en/what-do-emergency-centres-112-do",
+      "opmerking": "Bron is Engels; node/4147 stuurt door naar de pagina met slug."
+    },
+    "https://seismologie.be/nl": {
+      "nl_actueel": "https://seismologie.be/nl",
+      "fr": "https://seismologie.be/fr",
+      "de": "https://seismologie.be/de",
+      "en": "https://seismologie.be/en",
+      "opmerking": "Koninklijke Sterrenwacht van België; vier talen via hreflang."
+    },
+    "https://seismologie.be/nl/veel-gestelde-vragen": {
+      "nl_actueel": "https://seismologie.be/nl/veel-gestelde-vragen",
+      "fr": "https://seismologie.be/fr/foire-aux-questions",
+      "de": "https://seismologie.be/de/haufig-gestellte-fragen",
+      "en": "https://seismologie.be/en/frequently-asked-questions",
+      "opmerking": "Koninklijke Sterrenwacht van België; vier talen via hreflang."
+    },
+    "https://telerad.be": {
+      "nl_actueel": "https://telerad.be/pageNL.html",
+      "fr": "https://telerad.be/pageFR.html",
+      "de": null,
+      "en": null,
+      "opmerking": "Taalkeuzepagina FR/NL; geen DE/EN."
+    },
+    "https://werk.belgie.be/nl/themas/welzijn-op-het-werk/omgevingsfactoren-en-fysische-agentia/thermische-omgevingsfactoren-0": {
+      "nl_actueel": "https://werk.belgie.be/nl/themas/welzijn-op-het-werk/omgevingsfactoren-en-fysische-agentia/thermische-omgevingsfactoren-0",
+      "fr": "https://emploi.belgique.be/fr/themes/bien-etre-au-travail/facteurs-denvironnement-et-agents-physiques/ambiances-thermiques/droits",
+      "de": null,
+      "en": null,
+      "opmerking": "FR-versie op emploi.belgique.be. Geen DE/EN-versie van deze pagina."
+    },
+    "https://www.112.be": {
+      "nl_actueel": "https://112.be/nl",
+      "fr": "https://112.be/fr",
+      "de": "https://112.be/de",
+      "en": "https://112.be/en",
+      "opmerking": "Vier talen via hreflang. www.112.be stuurt door naar 112.be/nl."
+    },
+    "https://www.112.be/": {
+      "nl_actueel": "https://112.be/nl",
+      "fr": "https://112.be/fr",
+      "de": "https://112.be/de",
+      "en": "https://112.be/en",
+      "opmerking": "Vier talen via hreflang. www.112.be stuurt door naar 112.be/nl."
+    },
+    "https://www.112.be/nl": {
+      "nl_actueel": "https://112.be/nl",
+      "fr": "https://112.be/fr",
+      "de": "https://112.be/de",
+      "en": "https://112.be/en",
+      "opmerking": "Vier talen via hreflang. www.112.be stuurt door naar 112.be/nl."
+    },
+    "https://www.1712.be": {
+      "nl_actueel": "https://www.1712.be/nl",
+      "fr": "https://www.1712.be/fr",
+      "de": null,
+      "en": "https://www.1712.be/en",
+      "opmerking": "Geen DE-versie (/de geeft 404)."
+    },
+    "https://www.1722.be": {
+      "nl_actueel": "https://www.1722.be/nl/index.html",
+      "fr": "https://www.1722.be/fr/index.html",
+      "de": "https://www.1722.be/de/index.html",
+      "en": "https://www.1722.be/en/index.html",
+      "opmerking": "Root is een taalkeuzepagina."
+    },
+    "https://www.1722.be/nl/index.html": {
+      "nl_actueel": "https://www.1722.be/nl/index.html",
+      "fr": "https://www.1722.be/fr/index.html",
+      "de": "https://www.1722.be/de/index.html",
+      "en": "https://www.1722.be/en/index.html",
+      "opmerking": ""
+    },
+    "https://www.1733.be": {
+      "nl_actueel": "https://www.health.belgium.be/nl/1733",
+      "fr": "https://www.health.belgium.be/fr/1733",
+      "de": "https://www.health.belgium.be/de/1733",
+      "en": "https://www.health.belgium.be/en/1733",
+      "opmerking": "www.1733.be stuurt door naar health.belgium.be/en/1733 (FOD Volksgezondheid)."
+    },
+    "https://www.antigifcentrum.be": {
+      "nl_actueel": "https://www.antigifcentrum.be/",
+      "fr": "https://www.centreantipoisons.be/",
+      "de": null,
+      "en": "https://www.poisoncentre.be/",
+      "opmerking": "Drie domeinen: antigifcentrum.be (NL), centreantipoisons.be (FR), poisoncentre.be (EN). Geen DE."
+    },
+    "https://www.antigifcentrum.be/Toxinfos/adderbeten/": {
+      "nl_actueel": "https://www.antigifcentrum.be/Toxinfos/adderbeten/",
+      "fr": "https://www.centreantipoisons.be/tox-infos/les-morsures-de-vipere/",
+      "de": null,
+      "en": null,
+      "opmerking": "FR via hreflang op centreantipoisons.be. Geen DE-site; EN alleen op startpagina-niveau (poisoncentre.be)."
+    },
+    "https://www.antigifcentrum.be/Toxinfos/bessen/": {
+      "nl_actueel": "https://www.antigifcentrum.be/Toxinfos/bessen/",
+      "fr": "https://www.centreantipoisons.be/tox-infos/baies/",
+      "de": null,
+      "en": null,
+      "opmerking": "FR via hreflang op centreantipoisons.be. Geen DE-site; EN alleen op startpagina-niveau (poisoncentre.be)."
+    },
+    "https://www.antigifcentrum.be/Toxinfos/co-vergiftiging/": {
+      "nl_actueel": "https://www.antigifcentrum.be/Toxinfos/co-vergiftiging/",
+      "fr": "https://www.centreantipoisons.be/tox-infos/intoxication-au-co/",
+      "de": null,
+      "en": null,
+      "opmerking": "FR via hreflang op centreantipoisons.be. Geen DE-site; EN alleen op startpagina-niveau (poisoncentre.be)."
+    },
+    "https://www.antigifcentrum.be/Toxinfos/oproepen-rond-paddenstoelen/": {
+      "nl_actueel": "https://www.antigifcentrum.be/Toxinfos/oproepen-rond-paddenstoelen/",
+      "fr": "https://www.centreantipoisons.be/tox-infos/les-appels-pour-champignons/",
+      "de": null,
+      "en": null,
+      "opmerking": "FR via hreflang op centreantipoisons.be. Geen DE-site; EN alleen op startpagina-niveau (poisoncentre.be)."
+    },
+    "https://www.antigifcentrum.be/Toxinfos/steken-van-wespen-bijen-en-hoornaars/": {
+      "nl_actueel": "https://www.antigifcentrum.be/Toxinfos/steken-van-wespen-bijen-en-hoornaars/",
+      "fr": "https://www.centreantipoisons.be/tox-infos/piqures-de-guepes-dabeilles-de-bourdons-et-de-frelons/",
+      "de": null,
+      "en": null,
+      "opmerking": "FR via hreflang op centreantipoisons.be. Geen DE-site; EN alleen op startpagina-niveau (poisoncentre.be)."
+    },
+    "https://www.antigifcentrum.be/Toxinfos/tekenbeten/": {
+      "nl_actueel": "https://www.antigifcentrum.be/Toxinfos/tekenbeten/",
+      "fr": "https://www.centreantipoisons.be/tox-infos/les-morsures-de-tiques/",
+      "de": null,
+      "en": null,
+      "opmerking": "FR via hreflang op centreantipoisons.be. Geen DE-site; EN alleen op startpagina-niveau (poisoncentre.be)."
+    },
+    "https://www.antigifcentrum.be/Toxinfos/tips-voor-paddenstoelenplukkers/": {
+      "nl_actueel": "https://www.antigifcentrum.be/Toxinfos/tips-voor-paddenstoelenplukkers/",
+      "fr": "https://www.centreantipoisons.be/tox-infos/conseils-aux-ramasseurs-de-champignons/",
+      "de": null,
+      "en": null,
+      "opmerking": "FR via hreflang op centreantipoisons.be. Geen DE-site; EN alleen op startpagina-niveau (poisoncentre.be)."
+    },
+    "https://www.antigifcentrum.be/Toxinfos/vergiftiging-door-planten/": {
+      "nl_actueel": "https://www.antigifcentrum.be/Toxinfos/vergiftiging-door-planten/",
+      "fr": "https://www.centreantipoisons.be/tox-infos/vergiftiging-door-planten/",
+      "de": null,
+      "en": null,
+      "opmerking": "FR-adres gebruikt nog de NL-slug maar de pagina is Frans (\"Intoxication par les plantes\"). Geen DE/EN."
+    },
+    "https://www.antigifcentrum.be/co-campagne/": {
+      "nl_actueel": "https://www.antigifcentrum.be/co-campagne/",
+      "fr": "https://www.centreantipoisons.be/le-monoxyde-de-carbone-continue-de-tuer-chaque-annee/",
+      "de": null,
+      "en": null,
+      "opmerking": "FR via hreflang op centreantipoisons.be. Geen DE-site; EN alleen op startpagina-niveau (poisoncentre.be)."
+    },
+    "https://www.antigifcentrum.be/koolstofmonoxide": {
+      "nl_actueel": "https://www.antigifcentrum.be/Toxinfos/koolstofmonoxyde-co-in-detail/",
+      "fr": "https://www.centreantipoisons.be/tox-infos/le-monoxyde-de-carbone-en-detail/",
+      "de": null,
+      "en": null,
+      "opmerking": "Stuurt door naar Toxinfos/koolstofmonoxyde-co-in-detail/. FR via hreflang; geen DE/EN."
+    },
+    "https://www.antigifcentrum.be/wanneer-bellen/": {
+      "nl_actueel": "https://www.antigifcentrum.be/wanneer-bellen/",
+      "fr": "https://www.centreantipoisons.be/quand-appeler/",
+      "de": null,
+      "en": null,
+      "opmerking": "FR via hreflang op centreantipoisons.be. Geen DE-site; EN alleen op startpagina-niveau (poisoncentre.be)."
+    },
+    "https://www.apotheek.be": {
+      "nl_actueel": "https://www.apotheek.be/",
+      "fr": "https://www.pharmacie.be/",
+      "de": null,
+      "en": null,
+      "opmerking": "APB: apotheek.be (NL) / pharmacie.be (FR). apotheke.be is een te koop staand domein, geen DE/EN."
+    },
+    "https://www.be-alert.be": {
+      "nl_actueel": "https://www.be-alert.be/nl",
+      "fr": "https://www.be-alert.be/fr",
+      "de": "https://www.be-alert.be/de",
+      "en": "https://www.be-alert.be/en",
+      "opmerking": "Root is een taalkeuzepagina."
+    },
+    "https://www.be-alert.be/en/how-does-be-alert-work/notified-wherever-you-are": {
+      "nl_actueel": "https://www.be-alert.be/nl/hoe-werkt-be-alert/verwittigd-waar-je-ook-bent",
+      "fr": "https://www.be-alert.be/fr/comment-serez-vous-alerte/alerte-ou-que-vous-soyez",
+      "de": "https://www.be-alert.be/de/wie-werden-sie-alarmiert/alarmiert-wo-auch-immer-sie-sich-aufhalten",
+      "en": "https://www.be-alert.be/en/how-does-be-alert-work/notified-wherever-you-are",
+      "opmerking": ""
+    },
+    "https://www.be-alert.be/en/node/58": {
+      "nl_actueel": "https://www.be-alert.be/nl/laat-je-waarschuwen/laat-je-waarschuwen",
+      "fr": "https://www.be-alert.be/fr/soyez-alerte/soyez-alerte",
+      "de": "https://www.be-alert.be/de/lassen-sie-sich-benachrichtigen/lassen-sie-sich-benachrichtigen",
+      "en": "https://www.be-alert.be/en/be-alerted/be-alerted",
+      "opmerking": "Stuurt door naar /en/be-alerted/be-alerted."
+    },
+    "https://www.be-alert.be/en/notified-wherever-you-are": {
+      "nl_actueel": "https://www.be-alert.be/nl/hoe-werkt-be-alert/verwittigd-waar-je-ook-bent",
+      "fr": "https://www.be-alert.be/fr/comment-serez-vous-alerte/alerte-ou-que-vous-soyez",
+      "de": "https://www.be-alert.be/de/wie-werden-sie-alarmiert/alarmiert-wo-auch-immer-sie-sich-aufhalten",
+      "en": "https://www.be-alert.be/en/how-does-be-alert-work/notified-wherever-you-are",
+      "opmerking": "Stuurt door naar /en/how-does-be-alert-work/notified-wherever-you-are."
+    },
+    "https://www.be-alert.be/nl": {
+      "nl_actueel": "https://www.be-alert.be/nl",
+      "fr": "https://www.be-alert.be/fr",
+      "de": "https://www.be-alert.be/de",
+      "en": "https://www.be-alert.be/en",
+      "opmerking": ""
+    },
+    "https://www.be-alert.be/nl/hoe-werkt-be-alert": {
+      "nl_actueel": "https://www.be-alert.be/nl/hoe-werkt-be-alert",
+      "fr": "https://www.be-alert.be/fr/comment-serez-vous-alerte",
+      "de": "https://www.be-alert.be/de/wie-werden-sie-alarmiert",
+      "en": "https://www.be-alert.be/en/how-does-be-alert-work",
+      "opmerking": ""
+    },
+    "https://www.bipt.be/file/cc73d96153bbd5448a56f19d925d05b1379c7f21/d1e2311787f247c5973bc69f88cc3c38b386cb28/ram-aanvraagformulier-2026.pdf": {
+      "nl_actueel": "https://www.bipt.be/file/cc73d96153bbd5448a56f19d925d05b1379c7f21/d1e2311787f247c5973bc69f88cc3c38b386cb28/ram-aanvraagformulier-2026.pdf",
+      "fr": "https://www.bipt.be/file/cc73d96153bbd5448a56f19d925d05b1379c7f21/f766a2d0d51bf01efa61b5ae7254d7fa85b921c0/formulaire-radioamateur-prive-fr-2026.pdf",
+      "de": null,
+      "en": null,
+      "opmerking": "Alleen NL- en FR-formulier; de EN-pagina https://bipt.be/users/publication/ram-application-form linkt beide."
+    },
+    "https://www.bipt.be/index.php/file/cc73d96153bbd5448a56f19d925d05b1379c7f21/cf6ebdb356d66fd30a547494c66c02fce2029d27/de-marifoon.pdf": {
+      "nl_actueel": "https://www.bipt.be/file/cc73d96153bbd5448a56f19d925d05b1379c7f21/cf6ebdb356d66fd30a547494c66c02fce2029d27/de-marifoon.pdf",
+      "fr": "https://www.bipt.be/file/cc73d96153bbd5448a56f19d925d05b1379c7f21/24ab66c2b0491bd572d38c235bc138966b071a30/le-mariphone.pdf",
+      "de": null,
+      "en": null,
+      "opmerking": "FR: \"Le mariphone\". Geen DE/EN-brochure gevonden; overzichtspagina maritiem bestaat in 4 talen (bipt.be/users/radio-frequencies/private-use-hobby/maritime)."
+    },
+    "https://www.meteo.be/nl/diensten-v2/producten-diensten/aanbod/kmi-weer-app": {
+      "nl_actueel": "https://www.meteo.be/nl/diensten-v2/producten-diensten/aanbod/kmi-weer-app",
+      "fr": "https://www.meteo.be/fr/services/applications",
+      "de": null,
+      "en": null,
+      "opmerking": "De taalkiezer verwijst voor FR naar een \"/fr/unpublish/...\"-pagina (verouderd); daarom de actuele FR-pagina \"Applications\". NL-tegenhanger: https://www.meteo.be/nl/diensten/toepassingen. DE/EN vallen terug op de startpagina, dus null."
+    },
+    "https://www.meteo.be/nl/info/veelgestelde-vragen/hoe-je-beschermen-tegen-gevaarlijk-weer/co-een-sluipende-moordenaar-in-huis": {
+      "nl_actueel": "https://www.meteo.be/nl/info/veelgestelde-vragen/hoe-je-beschermen-tegen-gevaarlijk-weer/co-een-sluipende-moordenaar-in-huis",
+      "fr": "https://www.meteo.be/fr/infos/faq/comment-se-proteger-contre/co-un-tueur-insidieux-dans-la-maison",
+      "de": null,
+      "en": null,
+      "opmerking": "DE/EN vallen terug op de startpagina, dus null."
+    },
+    "https://www.meteo.be/nl/info/veelgestelde-vragen/hoe-je-beschermen-tegen-gevaarlijk-weer/hoe-bescherm-ik-me-tegen-bliksem": {
+      "nl_actueel": "https://www.meteo.be/nl/info/veelgestelde-vragen/hoe-je-beschermen-tegen-gevaarlijk-weer/hoe-bescherm-ik-me-tegen-bliksem",
+      "fr": "https://www.meteo.be/fr/infos/faq/comment-se-proteger-contre/comment-se-proteger-de-la-foudre",
+      "de": null,
+      "en": null,
+      "opmerking": "DE/EN vallen terug op de startpagina, dus null."
+    },
+    "https://www.meteo.be/nl/switch-language/634?nis=21004": {
+      "nl_actueel": "https://www.meteo.be/nl/info/veelgestelde-vragen/hoe-je-beschermen-tegen-gevaarlijk-weer/hoe-bescherm-ik-me-tegen-bliksem",
+      "fr": "https://www.meteo.be/fr/infos/faq/comment-se-proteger-contre/comment-se-proteger-de-la-foudre",
+      "de": null,
+      "en": null,
+      "opmerking": "Taalwissel-URL; beter de echte pagina citeren. DE/EN vallen terug op de startpagina, dus null."
+    },
+    "https://www.meteo.be/nl/weer/waarschuwingen/legenda-hitte": {
+      "nl_actueel": "https://www.meteo.be/nl/weer/waarschuwingen/legenda-hitte",
+      "fr": "https://www.meteo.be/fr/meteo/avertissements/legende-chaleur",
+      "de": "https://www.meteo.be/de/wetter/warnungen/legende-hitze",
+      "en": "https://www.meteo.be/en/weather/warnings/legend-heat",
+      "opmerking": "Via de taalkiezer (switch-language/1814)."
+    },
+    "https://www.meteo.be/nl/weer/waarschuwingen/legenda-koude": {
+      "nl_actueel": "https://www.meteo.be/nl/weer/waarschuwingen/legenda-koude",
+      "fr": "https://www.meteo.be/fr/meteo/avertissements/legende-froid",
+      "de": "https://www.meteo.be/de/wetter/warnungen/legende-kalte",
+      "en": "https://www.meteo.be/en/weather/warnings/legend-cold",
+      "opmerking": "Via de taalkiezer (switch-language/1813)."
+    },
+    "https://www.meteo.be/nl/weer/waarschuwingen/uitleg": {
+      "nl_actueel": "https://www.meteo.be/nl/weer/waarschuwingen/uitleg",
+      "fr": "https://www.meteo.be/fr/meteo/avertissements/explications-avertissements",
+      "de": "https://www.meteo.be/de/wetter/warnungen/erklarung-warnungen",
+      "en": "https://www.meteo.be/en/weather/warnings/info-warnings",
+      "opmerking": "Via de taalkiezer (switch-language/1815)."
+    },
+    "https://www.mil.be/en/our-missions/explosive-ordnance-disposal/": {
+      "nl_actueel": "https://www.mil.be/nl/onze-missies/explosieven-opruimen/",
+      "fr": "https://www.mil.be/fr/nos-missions/neutralisation-des-explosifs-et-munitions/",
+      "de": null,
+      "en": null,
+      "opmerking": "Bron is Engels (DOVO-SEDEE). mil.be heeft geen DE-versie (/de/ geeft 404)."
+    },
+    "https://www.nucleairrisico.be/nl/faq": {
+      "nl_actueel": "https://nucleairrisico.be/nl/faq",
+      "fr": "https://risquenucleaire.be/fr/faq",
+      "de": "https://nuklearrisiko.be/de/faq",
+      "en": "https://nuclearrisk.be/en/faq",
+      "opmerking": "Via hreflang. Elke taal heeft een eigen domein: risquenucleaire.be (FR), nuklearrisiko.be (DE), nuclearrisk.be (EN)."
+    },
+    "https://www.nucleairrisico.be/nl/jodiumtabletten/voor-wie": {
+      "nl_actueel": "https://nucleairrisico.be/nl/jodiumtabletten/voor-wie",
+      "fr": "https://risquenucleaire.be/fr/comprimes-diode/pour-qui",
+      "de": "https://nuklearrisiko.be/de/jodtabletten/fuer-wen",
+      "en": "https://nuclearrisk.be/en/iodine-tablets/whom",
+      "opmerking": "Via hreflang. Elke taal heeft een eigen domein: risquenucleaire.be (FR), nuklearrisiko.be (DE), nuclearrisk.be (EN)."
+    },
+    "https://www.nucleairrisico.be/nl/jodiumtabletten/wanneer-innemen": {
+      "nl_actueel": "https://nucleairrisico.be/nl/jodiumtabletten/wanneer-innemen",
+      "fr": "https://risquenucleaire.be/fr/comprimes-diode/quand-les-prendre",
+      "de": "https://nuklearrisiko.be/de/jodtabletten/wann-einnehmen",
+      "en": "https://nuclearrisk.be/en/iodine-tablets/when-should-you-take-them",
+      "opmerking": "Via hreflang. Elke taal heeft een eigen domein: risquenucleaire.be (FR), nuklearrisiko.be (DE), nuclearrisk.be (EN)."
+    },
+    "https://www.nucleairrisico.be/nl/wat-kan-jij-doen": {
+      "nl_actueel": "https://nucleairrisico.be/nl/wat-kan-jij-doen",
+      "fr": "https://risquenucleaire.be/fr/que-pouvez-vous-faire",
+      "de": "https://nuklearrisiko.be/de/was-koennen-sie-tun",
+      "en": "https://nuclearrisk.be/en/what-can-you-do",
+      "opmerking": "Via hreflang. Elke taal heeft een eigen domein: risquenucleaire.be (FR), nuklearrisiko.be (DE), nuclearrisk.be (EN)."
+    },
+    "https://www.ores.be/faq/plus-delectricite-ou-de-gaz": {
+      "nl_actueel": null,
+      "fr": "https://www.ores.be/faq/plus-delectricite-ou-de-gaz",
+      "de": null,
+      "en": null,
+      "opmerking": "Waalse netbeheerder, enkel Frans. Vlaamse tegenhanger is Fluvius (niet opgenomen)."
+    },
+    "https://www.poisoncentre.be/app/uploads/2026/02/Brochure-CO-vergiftiging-voorkomen-NL-1.pdf": {
+      "nl_actueel": "https://www.antigifcentrum.be/app/uploads/2026/06/Voorkom-vergiftiging-door-koolstofmonoxide.pdf",
+      "fr": "https://www.centreantipoisons.be/app/uploads/2026/06/Prevenir-lintoxication-au-monoxyde-de-carbone.pdf",
+      "de": null,
+      "en": null,
+      "opmerking": "Oude februari-PDF laadt nog, maar de publicatiepagina (antigifcentrum.be/Wetenschappelijkepublicaties/voorkom-vergiftiging-door-koolstofmonoxyde/) linkt nu een juni-2026-versie; FR-tegenhanger via centreantipoisons.be/publications/prevenir-lintoxication-au-monoxyde-de-carbone/. Geen DE/EN."
+    },
+    "https://www.preventionsuicide.be": {
+      "nl_actueel": null,
+      "fr": "https://www.preventionsuicide.be/",
+      "de": null,
+      "en": null,
+      "opmerking": "Franstalig Centre de Prévention du Suicide (0800 32 123); Vlaamse tegenhanger is zelfmoord1813.be. Geen DE/EN."
+    },
+    "https://www.rodekruis.be/restoringfamilylinks/en/about-us": {
+      "nl_actueel": "https://www.rodekruis.be/wat-doen-we/hulp-wereldwijd/opsporen-van-vermiste-personen/",
+      "fr": "https://fr.rodekruis.be/wat-doen-we/hulp-wereldwijd/opsporen-van-vermiste-personen/",
+      "de": null,
+      "en": "https://en.rodekruis.be/wat-doen-we/hulp-wereldwijd/opsporen-van-vermiste-personen/",
+      "opmerking": "Oude EN-URL stuurt door naar de NL-pagina. fr./en.rodekruis.be zijn de officiele (hreflang) vertaalde versies van de Rode Kruis-Vlaanderen-site (html lang blijft \"nl\", lijkt automatische vertaling). Voor Franstaligen heeft Croix-Rouge de Belgique een eigen opsporingsdienst."
+    },
+    "https://www.rodekruis.be/storage/main/2026-affiche-eh-bij-bloedingen.pdf": {
+      "nl_actueel": "https://www.rodekruis.be/storage/main/2026-affiche-eh-bij-bloedingen.pdf",
+      "fr": null,
+      "de": null,
+      "en": null,
+      "opmerking": "Rode Kruis-Vlaanderen-affiche/lespakket; geen vertaalde versie. Croix-Rouge de Belgique (croix-rouge.be) en Rotes Kreuz Belgien (roteskreuz.be) zijn aparte verenigingen met eigen eerstehulpmateriaal, geen 1-op-1-equivalent."
+    },
+    "https://www.rodekruis.be/storage/main/2026-affiche-eh-bij-brandwonden.pdf": {
+      "nl_actueel": "https://www.rodekruis.be/storage/main/2026-affiche-eh-bij-brandwonden.pdf",
+      "fr": null,
+      "de": null,
+      "en": null,
+      "opmerking": "Rode Kruis-Vlaanderen-affiche/lespakket; geen vertaalde versie. Croix-Rouge de Belgique (croix-rouge.be) en Rotes Kreuz Belgien (roteskreuz.be) zijn aparte verenigingen met eigen eerstehulpmateriaal, geen 1-op-1-equivalent."
+    },
+    "https://www.rodekruis.be/storage/main/2026-affiche-elektriciteitsongevallen.pdf": {
+      "nl_actueel": "https://www.rodekruis.be/storage/main/2026-affiche-elektriciteitsongevallen.pdf",
+      "fr": null,
+      "de": null,
+      "en": null,
+      "opmerking": "Rode Kruis-Vlaanderen-affiche/lespakket; geen vertaalde versie. Croix-Rouge de Belgique (croix-rouge.be) en Rotes Kreuz Belgien (roteskreuz.be) zijn aparte verenigingen met eigen eerstehulpmateriaal, geen 1-op-1-equivalent."
+    },
+    "https://www.rodekruis.be/storage/main/2026-affiche-reanimeren-en-defibrilleren.pdf": {
+      "nl_actueel": "https://www.rodekruis.be/storage/main/2026-affiche-reanimeren-en-defibrilleren.pdf",
+      "fr": null,
+      "de": null,
+      "en": null,
+      "opmerking": "Rode Kruis-Vlaanderen-affiche/lespakket; geen vertaalde versie. Croix-Rouge de Belgique (croix-rouge.be) en Rotes Kreuz Belgien (roteskreuz.be) zijn aparte verenigingen met eigen eerstehulpmateriaal, geen 1-op-1-equivalent."
+    },
+    "https://www.rodekruis.be/storage/main/2026-affiche-vier-stappen-in-eerste-hulp.pdf": {
+      "nl_actueel": "https://www.rodekruis.be/storage/main/2026-affiche-vier-stappen-in-eerste-hulp.pdf",
+      "fr": null,
+      "de": null,
+      "en": null,
+      "opmerking": "Rode Kruis-Vlaanderen-affiche/lespakket; geen vertaalde versie. Croix-Rouge de Belgique (croix-rouge.be) en Rotes Kreuz Belgien (roteskreuz.be) zijn aparte verenigingen met eigen eerstehulpmateriaal, geen 1-op-1-equivalent."
+    },
+    "https://www.rodekruis.be/storage/main/wehdag-2018-lespakket-112-bellen-handleiding.pdf": {
+      "nl_actueel": "https://www.rodekruis.be/storage/main/wehdag-2018-lespakket-112-bellen-handleiding.pdf",
+      "fr": null,
+      "de": null,
+      "en": null,
+      "opmerking": "Rode Kruis-Vlaanderen-affiche/lespakket; geen vertaalde versie. Croix-Rouge de Belgique (croix-rouge.be) en Rotes Kreuz Belgien (roteskreuz.be) zijn aparte verenigingen met eigen eerstehulpmateriaal, geen 1-op-1-equivalent."
+    },
+    "https://www.seveso.be/nl/seveso-ondernemingen": {
+      "nl_actueel": "https://www.seveso.be/nl/seveso-ondernemingen",
+      "fr": "https://www.seveso.be/fr/entreprises-seveso",
+      "de": "https://www.seveso.be/de/seveso-unternehmen",
+      "en": "https://www.seveso.be/en/seveso-establishments",
+      "opmerking": "Vier talen via hreflang."
+    },
+    "https://www.swde.be/en/water-quality-non-potable-water": {
+      "nl_actueel": "https://www.swde.be/nl/waterkwaliteit-niet-drinkbaar-water",
+      "fr": "https://www.swde.be/fr/qualite-de-leau-eau-non-potable",
+      "de": "https://www.swde.be/de/wasserqualitaet-nicht-trinkbares-wasser",
+      "en": "https://www.swde.be/en/water-quality-non-potable-water",
+      "opmerking": "Waalse watermaatschappij; bron is Engels; alle vier talen via hreflang."
+    },
+    "https://www.tekenbeten.be": {
+      "nl_actueel": "https://www.tekenbeten.be/",
+      "fr": "https://tiquesnet.sciensano.be/",
+      "de": null,
+      "en": null,
+      "opmerking": "tekenbeten.be is een Vlaamse site; FR-tegenhanger van een andere bron: TiquesNet van Sciensano (www.tiquesnet.be stuurt door). Geen DE/EN."
+    },
+    "https://www.uba.be/nl/b-ears/onze-missie": {
+      "nl_actueel": "https://www.uba.be/nl/b-ears/onze-missie",
+      "fr": "https://www.uba.be/fr/b-ears/notre-mission",
+      "de": null,
+      "en": "https://www.uba.be/en/b-ears/our-mission",
+      "opmerking": "UBA = Union royale belge des Amateurs-Émetteurs (radioamateurs); geen DE."
+    },
+    "https://www.vivalis.brussels/sites/default/files/2026-07/Overstromingen%20en%20gezondheidsrisico%27s.pdf": {
+      "nl_actueel": "https://www.vivalis.brussels/sites/default/files/2026-07/Overstromingen%20en%20gezondheidsrisico%27s.pdf",
+      "fr": "https://www.vivalis.brussels/sites/default/files/2026-07/Inondations%20et%20risques%20sanotaires.pdf",
+      "de": null,
+      "en": null,
+      "opmerking": "FR-bestandsnaam bevat een tikfout (\"sanotaires\") maar laadt. Geen DE/EN."
+    },
+    "https://be.brussels/nl/veiligheid-preventie/brandpreventie-en-veiligheidsadvies/gebouw-woning-en-infrastructuren/veilig-huis/co": {
+      "nl_actueel": "https://be.brussels/nl/veiligheid-preventie/brandpreventie-en-veiligheidsadvies/gebouw-woning-en-infrastructuren/veilig-huis/co",
+      "fr": "https://be.brussels/fr/securite-prevention/prevention-incendie-et-avis-de-securite/batiments-domicile-et-infrastructures/securite-domicile/co",
+      "de": null,
+      "en": "https://be.brussels/en/security-prevention/fire-prevention-and-safety-advice/building-housing-and-infrastructure/safe-house/co",
+      "opmerking": "Brussels Gewest: NL/FR/EN, geen DE."
+    },
+    "https://be-alert.be/en/what-be-alert": {
+      "nl_actueel": "https://www.be-alert.be/nl/wat-be-alert",
+      "fr": "https://www.be-alert.be/fr/quest-ce-que-be-alert",
+      "de": "https://www.be-alert.be/de/was-ist-be-alert",
+      "en": "https://www.be-alert.be/en/what-be-alert",
+      "opmerking": "Bron is Engels; be-alert.be stuurt door naar www.be-alert.be. Vier talen via hreflang."
+    },
+    "https://bipt.be/consumers/radio-frequencies/private-use-hobby/hunting": {
+      "nl_actueel": "https://www.bipt.be/gebruikers/radiofrequenties/privegebruik-hobby/jacht",
+      "fr": "https://www.ibpt.be/utilisateurs/frequences-radio/utilisation-privee-de-loisir/chasse",
+      "de": "https://www.bipt.be/nutzer/funkfrequenzen/private-nutzung-hobby/jagd",
+      "en": "https://bipt.be/users/radio-frequencies/private-use-hobby/hunting",
+      "opmerking": "Bron is Engels; /consumers/ stuurt door naar /users/. FR op ibpt.be."
+    },
+    "https://crisiscentrum.be/nl/risicos-belgie/maatschappelijke-risicos/verstoring-van-de-geneesmiddelen-bevoorrading": {
+      "nl_actueel": "https://crisiscentrum.be/nl/risicos-belgie/maatschappelijke-risicos/verstoring-van-de-geneesmiddelen-bevoorrading",
+      "fr": "https://centredecrise.be/fr/risques-en-belgique/risques-societaux/defaillance-de-lapprovisionnement-en-materiel-medical",
+      "de": "https://krisenzentrum.be/de/risiken-belgien/maatschappelijke-risicos/ausfall-der-versorgung-mit-medizinischer-ausruestung",
+      "en": "https://crisiscenter.be/en/risks-belgium/societal-risks/failure-medicine-supply",
+      "opmerking": "NL-adres werkt nog op crisiscentrum.be. Taalversies via de taalkiezer: FR op centredecrise.be, DE op krisenzentrum.be, EN op crisiscenter.be. Let op: FR/DE-titel spreekt van 'matériel médical' / 'medizinischer Ausrüstung' (medisch materiaal), NL/EN van geneesmiddelen; het is wel dezelfde pagina (zelfde node)."
+    },
+    "https://crisiscentrum.be/nl/risicos-belgie/natuurlijke-risicos/kustoverstroming": {
+      "nl_actueel": "https://crisiscentrum.be/nl/risicos-belgie/natuurlijke-risicos/kustoverstroming",
+      "fr": "https://centredecrise.be/fr/risques-en-belgique/risques-naturels/inondation-cotiere",
+      "de": "https://krisenzentrum.be/de/risiken-belgien/naturrisiken/kuestenhochwasser",
+      "en": "https://crisiscenter.be/en/risks-belgium/natural-risks/coastal-flood",
+      "opmerking": "NL-adres werkt nog op crisiscentrum.be. Taalversies via de taalkiezer: FR op centredecrise.be, DE op krisenzentrum.be, EN op crisiscenter.be."
+    },
+    "https://crisiscentrum.be/nl/risicos-belgie/natuurlijke-risicos/sneeuw": {
+      "nl_actueel": "https://crisiscentrum.be/nl/risicos-belgie/natuurlijke-risicos/sneeuw",
+      "fr": "https://centredecrise.be/fr/risques-en-belgique/risques-naturels/neige",
+      "de": "https://krisenzentrum.be/de/risiken-belgien/naturrisiken/schnee",
+      "en": "https://crisiscenter.be/en/risks-belgium/natural-risks/snow",
+      "opmerking": "NL-adres werkt nog op crisiscentrum.be. Taalversies via de taalkiezer: FR op centredecrise.be, DE op krisenzentrum.be, EN op crisiscenter.be."
+    },
+    "https://crisiscentrum.be/nl/wat-kan-jij-doen/informeer-je/let-op-met-foute-misleidende-informatie": {
+      "nl_actueel": "https://crisiscentrum.be/nl/wat-kan-jij-doen/informeer-je/let-op-met-foute-misleidende-informatie",
+      "fr": "https://centredecrise.be/fr/que-pouvez-vous-faire/informez-vous/mefiez-vous-des-informations-erronees-ou-trompeuses",
+      "de": "https://krisenzentrum.be/de/was-koennen-sie-tun/informieren-sie-sich/vorsicht-vor-falschen-oder-irrefuehrenden-informationen-0",
+      "en": "https://crisiscenter.be/en/what-can-you-do/stay-informed/beware-false-or-misleading-information",
+      "opmerking": "NL-adres werkt nog op crisiscentrum.be. Taalversies via de taalkiezer: FR op centredecrise.be, DE op krisenzentrum.be, EN op crisiscenter.be."
+    },
+    "https://crisiscentrum.be/nl/wat-kan-jij-doen/reageer-correct/verspreid-de-juiste-informatie": {
+      "nl_actueel": "https://crisiscentrum.be/nl/wat-kan-jij-doen/reageer-correct/verspreid-de-juiste-informatie",
+      "fr": "https://centredecrise.be/fr/que-pouvez-vous-faire/le-bon-reflexe/partagez-les-informations-correctes",
+      "de": "https://krisenzentrum.be/de/was-koennen-sie-tun/der-richtige-reflex/korrekte-informationen-verbreiten",
+      "en": "https://crisiscenter.be/en/what-can-you-do/right-reflex/share-right-information",
+      "opmerking": "NL-adres werkt nog op crisiscentrum.be. Taalversies via de taalkiezer: FR op centredecrise.be, DE op krisenzentrum.be, EN op crisiscenter.be."
+    },
+    "https://www.apotheek.be/Pharmacy/Article/wat-je-moet-weten-over-de-apotheek-van-wacht~1236": {
+      "nl_actueel": "https://www.apotheek.be/Pharmacy/Article/wat-je-moet-weten-over-de-apotheek-van-wacht~1236",
+      "fr": "https://www.pharmacie.be/Pharmacy/Article/ce-quil-faut-savoir-sur-la-pharmacie-de-garde~1235",
+      "de": null,
+      "en": null,
+      "opmerking": "FR-artikel heeft een ander id (~1235). Let op: de taalkiezer houdt het pad aan, en pharmacie.be/...~1236 toont dan het NL-artikel binnen de FR-site; niet gebruiken. Geen DE/EN."
+    },
+    "https://www.bipt.be/index.php/file/cc73d96153bbd5448a56f19d925d05b1379c7f21/c764eaaf8ce92afd28706d406e709fdf2541e149/srd-pmr-2020-nl.pdf": {
+      "nl_actueel": "https://www.bipt.be/file/cc73d96153bbd5448a56f19d925d05b1379c7f21/c764eaaf8ce92afd28706d406e709fdf2541e149/srd-pmr-2020-nl.pdf",
+      "fr": "https://www.bipt.be/file/cc73d96153bbd5448a56f19d925d05b1379c7f21/fb8ee1ccd870ad1583154f4929c30001ad4d44d5/srd-pmr-2020-fr.pdf",
+      "de": null,
+      "en": null,
+      "opmerking": "Consultatie (2020) over radio-interfaces korteafstandsapparatuur en PMR 446; /index.php/ valt weg bij redirect. Geen DE/EN. Er bestaat ook een definitief BIPT-besluit van 28-07-2020 (NL: besluit-radio-interfaces-korteafstandsapparatuur-en-pmr-446.pdf, FR: decision-interfaces-radio-equipements-courte-portee-et-pmr-446.pdf; niet gecontroleerd)."
+    },
+    "https://www.meteo.be/nl/info/weerwoorden/onweer": {
+      "nl_actueel": "https://www.meteo.be/nl/info/weerwoorden/onweer",
+      "fr": "https://www.meteo.be/fr/infos/dico-meteo/orage",
+      "de": null,
+      "en": null,
+      "opmerking": "Via de taalkiezer (switch-language/1607). DE/EN vallen terug op de startpagina, dus null."
+    }
+  },
+  "domeinen": {
+    "crisiscentrum.be": {
+      "naam_nl": "Nationaal Crisiscentrum (NCCN)",
+      "naam_fr": "Centre de Crise National",
+      "naam_de": "Nationales Krisenzentrum",
+      "naam_en": "National Crisis Center",
+      "domeinen": {
+        "nl": "crisiscentrum.be",
+        "fr": "centredecrise.be",
+        "de": "krisenzentrum.be",
+        "en": "crisiscenter.be"
+      },
+      "opmerking": "risico-info.be stuurt door naar crisiscentrum.be/nl. Elk taalgebied heeft een eigen domein; /fr, /de, /en op crisiscentrum.be sturen daarheen door."
+    },
+    "nucleairrisico.be": {
+      "naam_nl": "Nucleair Risico",
+      "naam_fr": "Risque Nucléaire",
+      "naam_de": "Nukleares Risiko",
+      "naam_en": "Nuclear Risk",
+      "domeinen": {
+        "nl": "nucleairrisico.be",
+        "fr": "risquenucleaire.be",
+        "de": "nuklearrisiko.be",
+        "en": "nuclearrisk.be"
+      },
+      "opmerking": "Site van het Nationaal Crisiscentrum."
+    },
+    "be-alert.be": {
+      "naam_fr": "BE-Alert",
+      "naam_de": "BE-Alert",
+      "naam_en": "BE-Alert"
+    },
+    "112.be": {
+      "naam_fr": "112 (numéro d'urgence européen; SPF Intérieur)",
+      "naam_de": "112 (europäische Notrufnummer; FÖD Inneres)",
+      "naam_en": "112 (European emergency number; FPS Home Affairs)"
+    },
+    "securitecivile.be": {
+      "naam_nl": "Civiele Veiligheid",
+      "naam_fr": "Sécurité civile",
+      "naam_de": "Zivile Sicherheit",
+      "naam_en": "Civil Security",
+      "opmerking": "FOD Binnenlandse Zaken, Algemene Directie Civiele Veiligheid."
+    },
+    "kcce.eu": {
+      "naam_nl": "Kenniscentrum voor de Civiele Veiligheid (KCCE)",
+      "naam_fr": "Centre de Connaissances pour la Sécurité civile (KCCE)",
+      "naam_de": "Wissenszentrum für die Zivile Sicherheit (KCCE)",
+      "naam_en": "Knowledge Centre for Civil Security (KCCE)",
+      "opmerking": "kcce.eu toont nu de site 'Civiele Veiligheid' (titel in alle talen). DE/EN-naam van het KCCE niet op een officiële pagina nagekeken."
+    },
+    "1722.be": {
+      "naam_fr": "1722 (numéro pour les interventions non urgentes en cas de tempête ou d'inondation)",
+      "naam_de": "1722 (Nummer für nicht dringende Einsätze bei Sturm oder Überschwemmung)",
+      "naam_en": "1722 (number for non-urgent interventions during storms or floods)",
+      "opmerking": "Beschrijving, geen officiële naam."
+    },
+    "1733.be": {
+      "naam_fr": "1733 (garde de médecine générale; SPF Santé publique)",
+      "naam_de": "1733 (hausärztlicher Bereitschaftsdienst; FÖD Volksgesundheit)",
+      "naam_en": "1733 (out-of-hours GP service; FPS Public Health)"
+    },
+    "health.belgium.be": {
+      "naam_nl": "FOD Volksgezondheid, Veiligheid van de Voedselketen en Leefmilieu",
+      "naam_fr": "SPF Santé publique, Sécurité de la Chaîne alimentaire et Environnement",
+      "naam_de": "FÖD Volksgesundheit, Sicherheit der Nahrungsmittelkette und Umwelt",
+      "naam_en": "FPS Public Health, Food Chain Safety and Environment",
+      "domeinen": {
+        "nl": "gezondheid.belgie.be",
+        "fr": "health.belgium.be",
+        "de": "health.belgium.be",
+        "en": "health.belgium.be"
+      }
+    },
+    "1712.be": {
+      "naam_fr": "1712 (ligne d'aide violence, abus et maltraitance d'enfants)",
+      "naam_de": null,
+      "naam_en": "1712 (helpline for violence, abuse and child abuse)",
+      "opmerking": "Vlaamse hulplijn met FR/EN-pagina's; geen DE."
+    },
+    "antigifcentrum.be": {
+      "naam_nl": "Antigifcentrum",
+      "naam_fr": "Centre Antipoisons",
+      "naam_de": "Giftnotrufzentrale",
+      "naam_en": "Poison Centre",
+      "domeinen": {
+        "nl": "antigifcentrum.be",
+        "fr": "centreantipoisons.be",
+        "en": "poisoncentre.be"
+      },
+      "opmerking": "DE-naam zoals op 112.be/de/andere-notrufnummern; geen DE-site."
+    },
+    "apotheek.be": {
+      "naam_nl": "Apotheek.be (APB, Algemene Pharmaceutische Bond)",
+      "naam_fr": "Pharmacie.be (APB, Association Pharmaceutique Belge)",
+      "naam_de": null,
+      "naam_en": null,
+      "domeinen": {
+        "nl": "apotheek.be",
+        "fr": "pharmacie.be"
+      }
+    },
+    "meteo.be": {
+      "naam_nl": "Koninklijk Meteorologisch Instituut (KMI)",
+      "naam_fr": "Institut Royal Météorologique (IRM)",
+      "naam_de": "Königliches Meteorologisches Institut (KMI)",
+      "naam_en": "Royal Meteorological Institute (RMI)"
+    },
+    "fanc.fgov.be": {
+      "naam_nl": "Federaal Agentschap voor Nucleaire Controle (FANC)",
+      "naam_fr": "Agence fédérale de Contrôle nucléaire (AFCN)",
+      "naam_de": "Föderale Agentur für Nuklearkontrolle (FANK)",
+      "naam_en": "Federal Agency for Nuclear Control (FANC)",
+      "domeinen": {
+        "nl": "fanc.fgov.be",
+        "fr": "afcn.fgov.be",
+        "de": "fank.fgov.be"
+      },
+      "opmerking": "De DE-site schrijft zelf 'föderale Agentschaft für nukleare Kontrolle'. Geen EN-site."
+    },
+    "telerad.be": {
+      "naam_fr": "Telerad (réseau de mesure de la radioactivité de l'AFCN)",
+      "naam_de": null,
+      "naam_en": "Telerad (FANC radioactivity monitoring network)",
+      "opmerking": "telerad.fgov.be werkt niet meer."
+    },
+    "economie.fgov.be": {
+      "naam_nl": "FOD Economie, K.M.O., Middenstand en Energie",
+      "naam_fr": "SPF Economie, P.M.E., Classes moyennes et Energie",
+      "naam_de": "FÖD Wirtschaft, K.M.B., Mittelstand und Energie",
+      "naam_en": "FPS Economy, S.M.E.s, Self-employed and Energy"
+    },
+    "bipt.be": {
+      "naam_nl": "Belgisch Instituut voor postdiensten en telecommunicatie (BIPT)",
+      "naam_fr": "Institut belge des services postaux et des télécommunications (IBPT)",
+      "naam_de": "Belgisches Institut für Postdienste und Telekommunikation (BIPT)",
+      "naam_en": "Belgian Institute for Postal Services and Telecommunications (BIPT)",
+      "domeinen": {
+        "fr": "ibpt.be"
+      }
+    },
+    "ngi.be": {
+      "naam_nl": "Nationaal Geografisch Instituut (NGI)",
+      "naam_fr": "Institut géographique national (IGN)",
+      "naam_de": "Nationales Geographisches Institut (NGI)",
+      "naam_en": "National Geographic Institute (NGI)",
+      "opmerking": "Site alleen NL/FR."
+    },
+    "seismologie.be": {
+      "naam_nl": "Koninklijke Sterrenwacht van België",
+      "naam_fr": "Observatoire royal de Belgique",
+      "naam_de": "Königliche Sternwarte Belgiens",
+      "naam_en": "Royal Observatory of Belgium"
+    },
+    "diplomatie.belgium.be": {
+      "naam_nl": "FOD Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking",
+      "naam_fr": "SPF Affaires étrangères, Commerce extérieur et Coopération au Développement",
+      "naam_de": "FÖD Auswärtige Angelegenheiten, Außenhandel und Entwicklungszusammenarbeit",
+      "naam_en": "FPS Foreign Affairs, Foreign Trade and Development Cooperation"
+    },
+    "werk.belgie.be": {
+      "naam_nl": "FOD Werkgelegenheid, Arbeid en Sociaal Overleg",
+      "naam_fr": "SPF Emploi, Travail et Concertation sociale",
+      "naam_de": "FÖD Beschäftigung, Arbeit und Soziale Konzertierung",
+      "naam_en": "FPS Employment, Labour and Social Dialogue",
+      "domeinen": {
+        "nl": "werk.belgie.be",
+        "fr": "emploi.belgique.be"
+      }
+    },
+    "mil.be": {
+      "naam_nl": "Defensie",
+      "naam_fr": "La Défense",
+      "naam_de": "Verteidigung",
+      "naam_en": "Belgian Defence",
+      "opmerking": "Ontmijningsdienst: DOVO (NL) / SEDEE (FR). mil.be heeft geen DE-versie."
+    },
+    "seveso.be": {
+      "naam_nl": "Sevesorisico",
+      "naam_fr": "Risque Seveso",
+      "naam_de": "Seveso-Risiko",
+      "naam_en": "Seveso Risk"
+    },
+    "swde.be": {
+      "naam_fr": "Société wallonne des eaux (SWDE)",
+      "naam_de": "Société wallonne des eaux (SWDE)",
+      "naam_en": "Société wallonne des eaux (SWDE)"
+    },
+    "uba.be": {
+      "naam_fr": "Union royale belge des Amateurs-Émetteurs (UBA)",
+      "naam_de": null,
+      "naam_en": "Royal Belgian Amateur Radio Union (UBA)"
+    },
+    "be.brussels": {
+      "naam_nl": "Brussels Hoofdstedelijk Gewest",
+      "naam_fr": "Région de Bruxelles-Capitale",
+      "naam_de": "Region Brüssel-Hauptstadt",
+      "naam_en": "Brussels-Capital Region"
+    },
+    "vivalis.brussels": {
+      "naam_fr": "Vivalis.brussels (Commission communautaire commune)",
+      "naam_de": null,
+      "naam_en": "Vivalis.brussels"
+    },
+    "childfocus.be": {
+      "naam_fr": "Child Focus",
+      "naam_de": "Child Focus",
+      "naam_en": "Child Focus"
+    },
+    "rodekruis.be": {
+      "naam_nl": "Rode Kruis-Vlaanderen",
+      "naam_fr": "Croix-Rouge de Belgique",
+      "naam_de": "Rotes Kreuz Belgien (Deutschsprachige Gemeinschaft)",
+      "naam_en": "Belgian Red Cross",
+      "domeinen": {
+        "fr": "croix-rouge.be",
+        "de": "roteskreuz.be"
+      },
+      "opmerking": "Let op: Rode Kruis-Vlaanderen, Croix-Rouge de Belgique (Franstalig) en Rotes Kreuz (Duitstalig) zijn aparte afdelingen met eigen sites en materiaal, geen vertalingen van elkaar. rotkreuz.be laadt niet; het juiste domein is roteskreuz.be. fr./en.rodekruis.be zijn vertaalde versies van de Vlaamse site."
+    },
+    "ores.be": {
+      "naam_fr": "ORES (gestionnaire de réseau de distribution en Wallonie)",
+      "naam_de": null,
+      "naam_en": null
+    },
+    "wallonie.be": {
+      "naam_fr": "Service public de Wallonie (SPW)",
+      "naam_de": "Öffentlicher Dienst der Wallonie (ÖDW)",
+      "naam_en": "Public Service of Wallonia (SPW)",
+      "opmerking": "Betreft environnement.wallonie.be en hydrometrie.wallonie.be (alleen FR)."
+    },
+    "preventionsuicide.be": {
+      "naam_fr": "Centre de Prévention du Suicide",
+      "naam_de": null,
+      "naam_en": null
+    },
+    "tekenbeten.be": {
+      "naam_fr": "TiquesNet (Sciensano) – andere bron",
+      "naam_de": null,
+      "naam_en": null,
+      "opmerking": "tekenbeten.be is Vlaams; FR-tegenhanger is TiquesNet van Sciensano."
+    }
+  },
+  "kernboodschap_nucleair": {
+    "_toelichting": "Letterlijke zinnen uit het blok 'TIJDENS / PENDANT / WÄHREND / DURING' op de Crisiscentrum-pagina over een incident in een kerncentrale (opgehaald 17-11-2026). 'tekst' is de aaneenschakeling van de kernzinnen in paginavolgorde; 'zinnen' geeft ze los. 'schuilen_nucleairrisico' komt van de schuilpagina op nucleairrisico.be en varianten. Er is geen aparte korte slogan; de schuilcampagne heet wel 'Wij binnen, gevaar buiten'.",
+    "nl": {
+      "tekst": "Ga naar binnen en blijf binnen. Luister naar de aanbevelingen van de overheid. Evacueer nooit op eigen initiatief. Wacht op instructies van de overheid om jodiumtabletten in te nemen. Doe dit niet op eigen initiatief.",
+      "url": "https://crisiscentrum.be/nl/risicos-belgie/economische-en-technologische-risicos/incident-een-kerncentrale",
+      "zinnen": [
+        "Schuilen is de beste manier om je te beschermen.",
+        "Ga naar binnen en blijf binnen.",
+        "Luister naar de aanbevelingen van de overheid.",
+        "Evacueer nooit op eigen initiatief.",
+        "Wacht op instructies van de overheid om jodiumtabletten in te nemen. Doe dit niet op eigen initiatief."
+      ],
+      "schuilen_nucleairrisico": {
+        "tekst": "Blijf binnen of ga naar binnen in het dichtstbijzijnde gebouw. Blijf binnen tot je bericht krijgt dat het opnieuw veilig is. Luister naar de aanbevelingen van de overheid.",
+        "url": "https://nucleairrisico.be/nl/wat-kan-jij-doen/schuilen-de-beste-bescherming"
+      },
+      "campagneslogan": {
+        "tekst": "Wij binnen, gevaar buiten",
+        "url": "https://crisiscentrum.be/nl/wat-kan-jij-doen/reageer-correct/schuilen"
+      }
+    },
+    "fr": {
+      "tekst": "Rentrez et restez à l’intérieur. Suivez les recommandations des autorités. N’évacuez jamais de votre propre initiative. Attendez les instructions des autorités avant de prendre des comprimés d’iode. Ne le faites jamais de votre propre initiative.",
+      "url": "https://centredecrise.be/fr/risques-en-belgique/risques-economiques-et-technologiques/incident-dans-une-centrale-nucleaire",
+      "zinnen": [
+        "S’abriter est la meilleure façon de se protéger.",
+        "Rentrez et restez à l’intérieur.",
+        "Suivez les recommandations des autorités.",
+        "N’évacuez jamais de votre propre initiative.",
+        "Attendez les instructions des autorités avant de prendre des comprimés d’iode. Ne le faites jamais de votre propre initiative."
+      ],
+      "schuilen_nucleairrisico": {
+        "tekst": "Restez chez vous ou entrez dans le bâtiment le plus proche. Restez à l'intérieur jusqu'à ce que vous receviez le message que la situation est à nouveau sûre. Ecoutez les recommandations des autorités.",
+        "url": "https://risquenucleaire.be/fr/que-pouvez-vous-faire/mise-labri-la-meilleure-action-de-protection"
+      },
+      "campagneslogan": {
+        "tekst": "Ensemble à l'intérieur. Danger à l'extérieur.",
+        "url": "https://centredecrise.be/fr/que-pouvez-vous-faire/le-bon-reflexe/se-mettre-labri"
+      }
+    },
+    "de": {
+      "tekst": "Begeben Sie sich nach drinnen und bleiben Sie dort. Befolgen Sie die Anweisungen der Behörden. Verlassen Sie das Haus nicht auf eigene Initiative. Warten Sie auf Anweisungen der Behörden, bevor Sie Jodtabletten einnehmen. Nehmen Sie sie nie aus eigener Initiative ein.",
+      "url": "https://krisenzentrum.be/de/risiken-belgien/technologische-risiken/zwischenfall-einer-nuklearanlage",
+      "zinnen": [
+        "Geschlossene Räume sind die beste Möglichkeit, sich zu schützen.",
+        "Begeben Sie sich nach drinnen und bleiben Sie dort.",
+        "Befolgen Sie die Anweisungen der Behörden.",
+        "Müssen Sie evakuiert werden? Befolgen Sie die Anweisungen der Rettungsdienste. Verlassen Sie das Haus nicht auf eigene Initiative.",
+        "Warten Sie auf Anweisungen der Behörden, bevor Sie Jodtabletten einnehmen. Nehmen Sie sie nie aus eigener Initiative ein."
+      ],
+      "schuilen_nucleairrisico": {
+        "tekst": "Bleiben Sie drinnen oder begeben Sie sich in das nächstgelegene Gebäude. Bleiben Sie dort, bis Sie benachrichtigt werden, dass die Lage wieder sicher ist. Beachten Sie die Anweisungen der Behörden.",
+        "url": "https://nuklearrisiko.be/de/was-koennen-sie-tun/aufenthalt-geschlossenen-raeumen-die-beste-schutzmassnahme"
+      },
+      "campagneslogan": {
+        "tekst": "Wir drinnen, Gefahr draußen",
+        "url": "https://krisenzentrum.be/de/was-koennen-sie-tun/der-richtige-reflex/schutz-suchen"
+      }
+    },
+    "en": {
+      "tekst": "Get inside and stay there. Follow the recommendations of the authorities. Never evacuate on your own initiative. Wait for instructions from the authorities before taking iodine tablets. Never do it on your own initiative.",
+      "url": "https://crisiscenter.be/en/risks-belgium/technological-risks/nuclear-plant-incident",
+      "zinnen": [
+        "Taking shelter is the best way to protect yourself.",
+        "Get inside and stay there.",
+        "Follow the recommendations of the authorities.",
+        "Never evacuate on your own initiative.",
+        "Wait for instructions from the authorities before taking iodine tablets. Never do it on your own initiative."
+      ],
+      "schuilen_nucleairrisico": {
+        "tekst": "Stay inside or enter the nearest building. Stay inside until you are informed that the situation is safe again. Listen to the recommendations of the government.",
+        "url": "https://nuclearrisk.be/en/what-can-you-do/sheltering"
+      },
+      "campagneslogan": {
+        "tekst": "Safe inside, danger outside",
+        "url": "https://crisiscenter.be/en/what-can-you-do/right-reflex/seeking-shelter"
+      }
+    }
+  },
+  "kernboodschap_noodpakket": {
+    "_toelichting": "risico-info.be bestaat niet meer als aparte site (stuurt door naar crisiscentrum.be/nl). Kernboodschap van de noodpakketpagina van het Crisiscentrum, letterlijk. Campagnenaam: Samen voorbereid / Prêts. Ensemble / Gemeinsam vorbereitet / Prepared together.",
+    "nl": {
+      "tekst": "72 uur: binnen de hele Europese Unie raden we iedereen aan om een noodpakket in huis te hebben waarmee je minstens 3 dagen (72 uur) zelfstandig verder kan.",
+      "url": "https://crisiscentrum.be/nl/wat-kan-jij-doen/maak-een-noodpakket/een-noodpakket-bij-je-thuis"
+    },
+    "fr": {
+      "tekst": "72 heures : dans toute l’Union européenne, il est recommandé de disposer à domicile d’un kit d’urgence permettant d’être autonome pendant au moins 3 jours (72 heures).",
+      "url": "https://centredecrise.be/fr/que-pouvez-vous-faire/preparez-un-kit-durgence/un-kit-durgence-la-maison"
+    },
+    "de": {
+      "tekst": "72 Stunden: In der gesamten Europäischen Union wird empfohlen, zu Hause ein Notfallset zu haben, mit dem man sich mindestens 3 Tage (72 Stunden) lang selbst versorgen kann.",
+      "url": "https://krisenzentrum.be/de/was-koennen-sie-tun/stelle-ein-notfallpaket-zusammen/ein-notfallset-fuer-zu-hause"
+    },
+    "en": {
+      "tekst": "72 hours: throughout the European Union, it is recommended to have an emergency kit at home, so that you can be self-sufficient for at least 3 days (72 hours).",
+      "url": "https://crisiscenter.be/en/what-can-you-do/build-emergency-kit/emergency-kit-home"
+    }
+  },
+  "gezondheidenwetenschap_fr": {
+    "_toelichting": "gezondheidenwetenschap.be (Cebam/Domus Medica, Vlaams) is overgeslagen. Er bestaat geen Franstalige zustersite met dezelfde eerstehulpfiches. Mogelijke Franstalige Belgische bronnen: mongeneraliste.be (SSMG, patiënteninfo van huisartsen, https://www.mongeneraliste.be/) en voor eerste hulp de Croix-Rouge de Belgique (bijv. de BEPS-referentie op formations.croix-rouge.be). Geen van beide is een 1-op-1-equivalent."
+  },
+  "_meta": {
+    "opgehaald": "2026-11-17",
+    "methode": "hreflang/taalkiezer per pagina; elke niet-null URL gecontroleerd met curl -L (HTTP 200 na redirects, geen 404- of startpaginaterugval, juiste html-lang)",
+    "overgeslagen": "Vlaamse sites (vlaanderen.be, warmedagen.be, natuurenbos.be, vmm, waterinfo, speelnietmetvuur.be, gezondheidenwetenschap.be, fluvius.be, departementzorg.be, veiligverkeer.be, vrt.be, zelfmoord1813.be, antwerpen.be, stad.gent) en buitenlandse bronnen"
+  },
+  "_uitleg": "Franse, Duitse en Engelse pagina's van de Belgische bronnen die de Nederlandse teksten citeren. Elke URL nagekeken op HTTP 200 (17-11-2026). Gebruikt door pipeline/bronnen_vertalen.py; null = geen versie in die taal."
+}
