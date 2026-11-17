@@ -1,4 +1,5 @@
 // Kaartpakketten voor offline gebruik.
+import { locale } from '../i18n/klant';
 // Grote PMTiles-bestanden gaan naar de toestelopslag van de browser (Origin Private
 // File System). Waar die niet beschikbaar is, vallen we terug op de Cache API; de
 // service worker beantwoordt dan de Range-aanvragen uit het bewaarde bestand.
@@ -116,6 +117,6 @@ export async function verwijder(id: string) {
 export function mb(bytes: number) {
   if (bytes === 0) return '0 MB';
   return bytes >= 1e9
-    ? `${(bytes / 1073741824).toLocaleString('nl-BE', { maximumFractionDigits: 1 })} GB`
-    : `${Math.max(1, Math.round(bytes / 1048576)).toLocaleString('nl-BE')} MB`;
+    ? `${(bytes / 1073741824).toLocaleString(locale(), { maximumFractionDigits: 1 })} GB`
+    : `${Math.max(1, Math.round(bytes / 1048576)).toLocaleString(locale())} MB`;
 }

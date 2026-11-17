@@ -1,0 +1,26 @@
+---
+import App from '../../../../layouts/App.astro';
+import { APP } from '../../../../i18n/app';
+import { pad, taalPaden, taalVan } from '../../../../i18n/talen';
+import { inhoud } from '../../../../lib/inhoud';
+export const getStaticPaths = taalPaden;
+const taal = taalVan(Astro.params);
+const t = APP[taal].eerstehulp;
+const onderwerpen = await inhoud('eerstehulp', taal);
+---
+<App taal={taal} titel={t.titel} tab="meer" vertaalmelding>
+  <h1>{t.titel}</h1>
+  <div class="melding gevaar"><Fragment set:html={t.belEerst} /> {t.meldkamer} {t.antigif} <a href="tel:070245245">070 245 245</a>.</div>
+  <div class="concept" set:html={t.concept} />
+  {taal !== 'nl' && <p class="vertaalstatus" role="note">{APP[taal].inhoud.gevoeligTekst}</p>}
+  {onderwerpen.length > 0 ? (
+    <div class="raster" style="margin-top:1.5rem">
+      {onderwerpen.map((o) => <a class="tegel" href={pad(taal, `/app/eerste-hulp/${o.id}/`)} lang={o.titelLang !== taal ? o.titelLang : undefined}><strong>{o.titel}</strong><span class="klein">{o.kort}</span></a>)}
+    </div>
+  ) : <p>{t.leeg}</p>}
+  <h2>{t.voorbereidenTitel}</h2>
+  <ul>
+    {t.voorbereiden.map((r) => <li set:html={r} />)}
+    <li set:html={t.aed(pad(taal, '/app/kaart/?laag=aed'))} />
+  </ul>
+</App>

@@ -1,0 +1,248 @@
+---
+import App from '../../../../layouts/App.astro';
+import { landVoor, APP_VERSIE } from '../../../../lib/data';
+import { LAGEN } from '../../../../lib/lagen';
+import KleurschemaKeuze from '../../../../components/KleurschemaKeuze.astro';
+import { APP } from '../../../../i18n/app';
+import { TALEN, TAALNAMEN, VERTAALSTATUS, pad, taalPaden, taalVan } from '../../../../i18n/talen';
+export const getStaticPaths = taalPaden;
+const taal = taalVan(Astro.params);
+const t = APP[taal].pakket;
+const land = landVoor(taal);
+---
+<App taal={taal} titel={t.titel} tab="meer" zoekbaar={false}>
+  <h1>{t.h1}</h1>
+
+  <section class="kaart-blok">
+    <h2 style="margin-top:0">{t.pakketTitel(land.naam)}</h2>
+    <p id="pakket-staat" aria-live="polite">{t.controleren}</p>
+    <progress id="voortgang" max="100" value="0" hidden style="width:100%"></progress>
+    <div class="knoppen">
+      <button class="knop hoofd" type="button" id="download">{t.download}</button>
+      <button class="knop gevaar" type="button" id="verwijder" hidden>{t.verwijder}</button>
+    </div>
+    <p class="klein">{t.pakketUitleg}</p>
+  </section>
+
+  <section>
+    <h2 id="taal">{t.taalTitel}</h2>
+    <p class="dempen">{t.taalUitleg}</p>
+    <ul class="taalkeuze-lijst" aria-labelledby="taal">
+      {TALEN.map((l) => (
+        <li>
+          <a href={pad(l, '/app/pakket/')} hreflang={l} lang={l} data-taalkeuze={l} aria-current={l === taal ? 'true' : undefined}>{TAALNAMEN[l]}</a>
+          <span class="klein">{VERTAALSTATUS[l] === 'bron' ? t.taalStatus.bron : t.taalStatus.machine}</span>
+        </li>
+      ))}
+    </ul>
+  </section>
+
+  <section>
+    <h2>{t.kaartenTitel}</h2>
+    <p>{t.kaartenUitleg}</p>
+    <div id="kaartpakketten" aria-live="polite"><p class="klein">{t.laden}</p></div>
+    <p class="klein">{t.kaartenBron}</p>
+  </section>
+
+  <section>
+    <h2>{t.installTitel}</h2>
+    <p id="installeer-uitleg" set:html={t.installUitleg} />
+    <div class="knoppen"><button class="knop" type="button" id="installeer" hidden>{t.installeren}</button></div>
+  </section>
+
+  <section>
+    <h2>{t.weergaveTitel}</h2>
+    <KleurschemaKeuze taal={taal} />
+  </section>
+
+  <section>
+    <h2>{t.toestelTitel}</h2>
+    <div class="tabel-wrap"><table><tbody id="toestel"></tbody></table></div>
+  </section>
+
+  <section>
+    <h2>{t.versheidTitel}</h2>
+    <div class="tabel-wrap"><table><tbody id="versheid">
+      <tr><th>{t.app}</th><td>{t.versie(APP_VERSIE)}</td></tr>
+      <tr><th>{t.landinfo(land.naam)}</th><td>{land.bijgewerkt}</td></tr>
+    </tbody></table></div>
+  </section>
+
+  <section>
+    <h2>{t.delenTitel}</h2>
+    <p set:html={t.delen} />
+    <div class="knoppen"><button class="knop" type="button" id="deel">{t.delenKnop}</button></div>
+  </section>
+
+  <div id="lagen" data-lagen={JSON.stringify(LAGEN.map((l) => l.id))} hidden></div>
+</App>
+<script>
+  import { vraagBlijvendeOpslag, bewaar } from '../../../../lib/app';
+  import { overzicht, opToestel, download as kaartDownload, verwijder as kaartVerwijder, mb as kaartMb, type Kaartpakket } from '../../../../lib/kaarten';
+  import { klant, locale, paginaTaal } from '../../../../i18n/klant';
+  const tk = klant().pakket;
+  const naamVan = (p: Kaartpakket) => klant().kaartpakketten[p.id] ?? [p.naam, p.omschrijving];
+  const LAND = 'be';
+  const CACHE = `pb72-pakket-${LAND}`;
+  const DATA = `/data/${LAND}`;
+  const lagen: string[] = JSON.parse(document.getElementById('lagen')!.dataset.lagen!);
+  const staat = document.getElementById('pakket-staat')!;
+  const voortgang = document.getElementById('voortgang') as HTMLProgressElement;
+  const dl = document.getElementById('download') as HTMLButtonElement;
+  const weg = document.getElementById('verwijder') as HTMLButtonElement;
+  const mb = (b: number) => `${(b / 1024 / 1024).toLocaleString(locale(), { maximumFractionDigits: 1 })} MB`;
+
+  async function bekijk() {
+    try {
+      const cache = await caches.open(CACHE);
+      const sleutels = await cache.keys();
+      const meta = await (await cache.match(`${DATA}/meta.json`))?.json().catch(() => null);
+      if (sleutels.length) {
+        staat.innerHTML = `<span class="label officieel">${tk.opToestel}</span> ${tk.bestanden(sleutels.length, meta?.opgehaald)}`;
+        dl.textContent = navigator.onLine ? tk.bijwerken : tk.bijwerkenOffline;
+        weg.hidden = false;
+      } else {
+        staat.innerHTML = `<span class="label onbevestigd">${tk.nietOffline}</span> ${tk.nietOfflineTekst}`;
+        weg.hidden = true;
+      }
+    } catch {
+      staat.textContent = tk.geenOpslag;
+      dl.disabled = true;
+    }
+  }
+
+  dl.addEventListener('click', async () => {
+    if (!navigator.onLine) { staat.textContent = tk.geenVerbinding; return; }
+    dl.disabled = true;
+    await vraagBlijvendeOpslag();
+    const meta = await fetch(`${DATA}/meta.json`, { cache: 'no-store' }).then((r) => (r.ok ? r.json() : null)).catch(() => null);
+    const bestanden = ['/data/kaarten.json', `${DATA}/meta.json`, `${DATA}/nucleair.geojson`, ...lagen.map((l) => `${DATA}/${l}.geojson`)];
+    const verwacht = bestanden.reduce((t, b) => t + (meta?.lagen?.[b.split('/').pop()!.replace('.geojson', '')]?.bytes ?? 0), 0);
+    const cache = await caches.open(CACHE);
+    voortgang.hidden = false;
+    let klaar = 0, bytes = 0;
+    const mislukt: string[] = [];
+    for (const b of bestanden) {
+      staat.textContent = tk.downloaden(b.split('/').pop()!, mb(bytes), verwacht ? mb(verwacht) : undefined);
+      try {
+        const r = await fetch(b, { cache: 'no-store' });
+        if (!r.ok) { if (r.status !== 404) mislukt.push(b); continue; }
+        const blob = await r.blob();
+        bytes += blob.size;
+        // Pas vervangen als het nieuwe bestand volledig binnen is.
+        await cache.put(b, new Response(blob, { headers: { 'Content-Type': r.headers.get('Content-Type') ?? 'application/octet-stream' } }));
+      } catch { mislukt.push(b); }
+      voortgang.value = (++klaar / bestanden.length) * 100;
+    }
+    // De overzichtskaarten van het Zak-pakket.
+    for (const p of (await overzicht()).filter((k) => k.zak)) {
+      staat.textContent = tk.downloaden(naamVan(p)[0], kaartMb(p.bytes));
+      try { await kaartDownload(p, (f) => (voortgang.value = f * 100)); bytes += p.bytes; } catch { mislukt.push(naamVan(p)[0]); }
+    }
+    voortgang.hidden = true;
+    dl.disabled = false;
+    bewaar('pakket-datum', new Date().toISOString());
+    toonKaarten();
+    await bekijk();
+    if (mislukt.length) staat.innerHTML += `<br><span class="label onbevestigd">${tk.mislukt(mislukt.length)}</span> ${tk.opnieuw}`;
+    else staat.innerHTML += ` (${mb(bytes)})`;
+    toestel();
+  });
+
+  weg.addEventListener('click', async () => {
+    if (!confirm(tk.verwijderVraag)) return;
+    await caches.delete(CACHE);
+    await bekijk(); toestel();
+  });
+
+  async function toestel() {
+    const rijen: [string, string][] = [];
+    const r = tk.rij;
+    rijen.push([r.verbinding, navigator.onLine ? r.online : r.offline]);
+    try {
+      const s = await navigator.storage?.estimate?.();
+      if (s?.usage !== undefined) rijen.push([r.opslag, `${mb(s.usage)}${s.quota ? r.ruimte(mb(s.quota)) : ''}`]);
+      const blijvend = await navigator.storage?.persisted?.();
+      rijen.push([r.beschermd, blijvend ? r.ja : r.nee]);
+    } catch {}
+    try {
+      const bat = await (navigator as any).getBattery?.();
+      if (bat) rijen.push([r.batterij, `${Math.round(bat.level * 100)}%${bat.charging ? r.laadt : ''}`]);
+    } catch {}
+    rijen.push([r.gps, 'geolocation' in navigator ? r.gpsJa : r.gpsNee]);
+    rijen.push([r.app, navigator.serviceWorker?.controller ? r.appJa : r.appNee]);
+    document.getElementById('toestel')!.innerHTML = rijen.map(([a, b]) => `<tr><th>${a}</th><td>${b}</td></tr>`).join('');
+  }
+
+  // Installeren: alleen tonen als de browser het aanbiedt.
+  let aanbod: any = null;
+  addEventListener('beforeinstallprompt', (e) => { e.preventDefault(); aanbod = e; document.getElementById('installeer')!.hidden = false; });
+  document.getElementById('installeer')!.addEventListener('click', async () => { if (!aanbod) return; aanbod.prompt(); aanbod = null; });
+  if (matchMedia('(display-mode: standalone)').matches) document.getElementById('installeer-uitleg')!.textContent = tk.geinstalleerd;
+
+  document.getElementById('deel')!.addEventListener('click', async () => {
+    const data = { title: 'PlanB72', text: tk.deelTekst, url: paginaTaal() === 'nl' ? 'https://planb72.org/' : `https://planb72.org/${paginaTaal()}/` };
+    try { if (navigator.share) await navigator.share(data); else { await navigator.clipboard.writeText(data.url); alert(tk.gekopieerd); } } catch {}
+  });
+
+  const tg = tk.kaarten;
+  const GROEPEN: [Kaartpakket['groep'], string][] = [['europa', tg.groepen.europa], ['belgie', tg.groepen.belgie], ['regio', tg.groepen.regio]];
+  const lopend = new Map<string, AbortController>();
+  async function toonKaarten() {
+    const doos = document.getElementById('kaartpakketten')!;
+    const lijst = await overzicht();
+    if (!lijst.length) { doos.innerHTML = `<p class="klein">${tg.geenLijst}</p>`; return; }
+    const lokaal = await opToestel();
+    const totaal = [...lokaal.keys()].reduce((t, id) => t + (lijst.find((p) => p.id === id)?.bytes ?? 0), 0);
+    doos.replaceChildren();
+    const samen = document.createElement('p');
+    samen.className = 'klein';
+    samen.textContent = tg.samen(lokaal.size, kaartMb(totaal));
+    doos.append(samen);
+    for (const [groep, titel] of GROEPEN) {
+      const h = document.createElement('h3'); h.textContent = titel; doos.append(h);
+      const tabel = document.createElement('table');
+      const body = tabel.createTBody();
+      for (const p of lijst.filter((k) => k.groep === groep)) {
+        const rij = body.insertRow();
+        const a = rij.insertCell(); a.innerHTML = `<strong></strong><div class="klein"></div>`;
+        const [pnaam, pomschrijving] = naamVan(p);
+        a.querySelector('strong')!.textContent = pnaam;
+        a.querySelector('div')!.textContent = `${pomschrijving} · ${tg.zoom(p.maxzoom)}`;
+        const b = rij.insertCell(); b.textContent = kaartMb(p.bytes); b.style.whiteSpace = 'nowrap';
+        const c = rij.insertCell(); c.style.textAlign = 'right';
+        const knop = document.createElement('button');
+        knop.type = 'button'; knop.className = 'knop';
+        const balk = document.createElement('progress'); balk.max = 1; balk.value = 0; balk.hidden = true; balk.style.width = '100%';
+        const opToestelNu = lokaal.has(p.id);
+        knop.textContent = opToestelNu ? tg.verwijderen : tg.downloaden;
+        if (opToestelNu) knop.classList.add('gevaar');
+        knop.addEventListener('click', async () => {
+          if (lopend.has(p.id)) { lopend.get(p.id)!.abort(); return; }
+          if (opToestelNu) {
+            if (!confirm(tg.verwijderVraag(pnaam))) return;
+            await kaartVerwijder(p.id); toonKaarten(); toestel(); return;
+          }
+          if (!navigator.onLine) { alert(tg.geenVerbinding); return; }
+          if (p.bytes > 200 * 1048576 && !confirm(tg.groot(pnaam, kaartMb(p.bytes)))) return;
+          await vraagBlijvendeOpslag();
+          const ctrl = new AbortController(); lopend.set(p.id, ctrl);
+          knop.textContent = tg.annuleren; balk.hidden = false;
+          try {
+            await kaartDownload(p, (f) => (balk.value = f), ctrl.signal);
+          } catch (e) {
+            if (!ctrl.signal.aborted) alert(tg.mislukt(pnaam));
+            await kaartVerwijder(p.id);
+          }
+          lopend.delete(p.id);
+          toonKaarten(); toestel();
+        });
+        c.append(knop, balk);
+      }
+      const wrap = document.createElement('div'); wrap.className = 'tabel-wrap'; wrap.append(tabel);
+      doos.append(wrap);
+    }
+  }
+
+  bekijk(); toestel(); toonKaarten();
+</script>

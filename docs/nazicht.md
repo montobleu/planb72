@@ -11,7 +11,8 @@ Elke wijziging aan PlanB72 is een pull request in de openbare repository. Niets 
 | Nucleair en chemisch | `site/src/pages/app/nucleair/` | 2 | waarvan één met vakkennis straling of noodplanning |
 | Landinfo (noodnummers, kanalen, zones) | `data/landen/` | 2 | kernteam en landbeheerder |
 | Bronnenregister | `data/bronnen/register.json` | 1 | landbeheerder |
-| Vertaling | `site/src/i18n/` | 1, voor gepubliceerde talen 2 | moedertaalsprekers |
+| Vertaling van de interface | `site/src/i18n/` | 1, voor gepubliceerde talen 2 | moedertaalsprekers |
+| Vertaling van inhoud | `site/src/content/<map>/{fr,de,en}/` | 2 | moedertaalspreker; voor medisch, nucleair en chemisch ook een deskundige |
 | Code en vormgeving | overige | 1 | kernteam |
 
 De auteur van een wijziging telt nooit mee als nalezer.
@@ -23,6 +24,7 @@ De auteur van een wijziging telt nooit mee als nalezer.
    - controleert dat elke scenariokaart een bron heeft die in het bronnenregister staat;
    - controleert dat elk noodnummer en kanaal een bron heeft;
    - controleert dat status `nagekeken` of `officieel` een nalezer vermeldt;
+   - controleert dat elke vertaling haar nazichtstatus vermeldt en dat getallen, telefoonnummers, frequenties en eenheden gelijk zijn aan het Nederlandse origineel (zie `docs/vertalen.md`);
    - zet labels en telt de goedkeuringen; te weinig goedkeuringen laat de controle falen.
 3. Branch protection op `main` (in te stellen in de GitHub-organisatie):
    - pull request verplicht, minstens 1 goedkeuring, review van code owners verplicht;
@@ -36,6 +38,16 @@ De auteur van een wijziging telt nooit mee als nalezer.
 | `concept` | Eigen samenvatting van een officiële bron, nog niet gevalideerd | Melding "Status: concept" |
 | `nagekeken` | Gevalideerd door een deskundige; `nagekeken_door` vermeldt naam en functie | Naam en datum onder de tekst |
 | `officieel` | Letterlijk overgenomen met toestemming van de bron | Bron en datum |
+
+## Status van een vertaling
+
+| `vertaling` | Betekenis | Wat de app toont |
+| --- | --- | --- |
+| `machine` | Automatisch vertaald | "Automatisch vertaald, nog niet nagelezen" en een link naar de Nederlandse tekst |
+| `na te lezen` | Door een mens vertaald, nog niet nagelezen | Dezelfde melding |
+| `nagekeken` | Nagelezen door een moedertaalspreker | "Vertaling nagekeken door" met de naam |
+
+Medische, nucleaire en chemische teksten tonen in andere talen eerst de Nederlandse tekst en de officiële bron; de vertaling pas na een extra waarschuwing (zie `docs/vertalen.md`).
 
 ## Lokaal controleren
 

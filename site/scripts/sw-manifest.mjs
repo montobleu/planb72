@@ -17,12 +17,12 @@ async function* wandel(map) {
 // Wat bij de kern hoort: de app, de gedeelde middelen, de zoekindex, lettertypes en iconen.
 // Grote data (kaart en lagen) zit in het pakket en komt pas na een bewuste download.
 const hoortBijKern = (rel) =>
-  rel.startsWith('app/') ||
+  // De app in alle talen: /app/, /fr/app/, /de/app/, /en/app/.
+  /^((fr|de|en)\/)?app\//.test(rel) ||
   rel.startsWith('_astro/') ||
   rel.startsWith('pagefind/') ||
   rel.startsWith('kaart/') ||
   rel.startsWith('icons/') ||
-  rel === 'manifest.webmanifest' ||
   rel === 'favicon.svg' ||
   rel === 'data/be/meta.json' ||
   rel === 'data/kaarten.json' ||

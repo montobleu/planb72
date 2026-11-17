@@ -1,0 +1,21 @@
+---
+import App from '../../../../layouts/App.astro';
+import InhoudPagina from '../../../../components/InhoudPagina.astro';
+import { APP } from '../../../../i18n/app';
+import { TALEN, BRONTAAL, type Taal } from '../../../../i18n/talen';
+import { inhoud, type Item } from '../../../../lib/inhoud';
+
+export async function getStaticPaths() {
+  const paden = [];
+  for (const taal of TALEN) {
+    for (const item of await inhoud('gidsen', taal)) {
+      paden.push({ params: { taal: taal === BRONTAAL ? undefined : taal, id: item.id }, props: { taal, item } });
+    }
+  }
+  return paden;
+}
+const { taal, item } = Astro.props as { taal: Taal; item: Item };
+---
+<App taal={taal} titel={item.titel} tab="meer">
+  <InhoudPagina taal={taal} item={item} terug="/app/gidsen/" terugTekst={APP[taal].gidsen.alle} />
+</App>

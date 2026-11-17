@@ -20,3 +20,20 @@ export function taalUitPad(p: string): Taal {
   const m = /^\/(fr|de|en)\//.exec(p);
   return (m?.[1] as Taal) ?? 'nl';
 }
+
+/** Opmaak van getallen en datums per taal. */
+export const LOCALE: Record<Taal, string> = { nl: 'nl-BE', fr: 'fr-BE', de: 'de-BE', en: 'en-GB' };
+
+export function isTaal(x: unknown): x is Taal {
+  return typeof x === 'string' && (TALEN as readonly string[]).includes(x);
+}
+
+/** getStaticPaths voor de app: /app/ (nl), /fr/app/, /de/app/, /en/app/. */
+export function taalPaden() {
+  return TALEN.map((taal) => ({ params: { taal: taal === BRONTAAL ? undefined : taal }, props: { taal } }));
+}
+
+/** De taal van een app-pagina uit de routeparameter. */
+export function taalVan(params: Record<string, string | undefined>): Taal {
+  return isTaal(params.taal) ? params.taal : BRONTAAL;
+}

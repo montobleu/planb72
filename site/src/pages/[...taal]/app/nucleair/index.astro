@@ -1,0 +1,92 @@
+---
+import App from '../../../../layouts/App.astro';
+import GidsLijst from '../../../../components/GidsLijst.astro';
+import { landVoor } from '../../../../lib/data';
+import { APP } from '../../../../i18n/app';
+import { pad, taalPaden, taalVan } from '../../../../i18n/talen';
+export const getStaticPaths = taalPaden;
+const taal = taalVan(Astro.params);
+const t = APP[taal].nucleair;
+const n = landVoor(taal).nucleair;
+const kmTekst = (x: number | null) => (x === null ? '—' : `${x} km`);
+const l = (x: { lang: string }) => (x.lang !== taal ? x.lang : undefined);
+---
+<App taal={taal} titel={t.titel} tab="meer" vertaalmelding>
+  <h1>{t.titel}</h1>
+  <div class="melding waarschuwing">
+    <strong>{t.advies}</strong> <span lang={l(n.kernboodschap)}>{n.kernboodschap.tekst}</span>
+    <div class="klein">{t.bron} <a href={n.bron}>{t.crisiscentrum}</a></div>
+  </div>
+
+  <GidsLijst taal={taal} module="nucleair" />
+
+  <h2>{t.afstandTitel}</h2>
+  <p class="dempen">{t.afstandUitleg}</p>
+  <div class="knoppen">
+    <button class="knop hoofd" type="button" id="mijn-positie">{t.positie}</button>
+  </div>
+  <details>
+    <summary>{t.coords}</summary>
+    <form id="coords" class="kaart-blok">
+      <label for="lat">{t.lat}</label><input id="lat" type="text" inputmode="decimal" required />
+      <label for="lon">{t.lon}</label><input id="lon" type="text" inputmode="decimal" required />
+      <div class="knoppen"><button class="knop" type="submit">{t.bereken}</button></div>
+    </form>
+  </details>
+  <div id="resultaat" aria-live="polite" data-sites={JSON.stringify(n.sites)} data-uitbreiding={n.uitbreidingszone_km}></div>
+
+  <h2>{t.sitesTitel}</h2>
+  <div class="tabel-wrap">
+    <table>
+      <thead><tr>{t.kop.map((k) => <th scope="col">{k}</th>)}</tr></thead>
+      <tbody>
+        {n.sites.map((s) => (
+          <tr><td>{s.naam}{s.land !== 'BE' && <span class="klein"> ({s.land})</span>}</td><td>{s.soort}</td><td>{kmTekst(s.schuilen_km)}</td><td>{kmTekst(s.jodium_km)}</td><td>{kmTekst(s.evacuatie_km)}</td></tr>
+        ))}
+      </tbody>
+    </table>
+  </div>
+  <p lang={l(n.opmerking)}>{n.opmerking.tekst}</p>
+  <p class="klein" set:html={t.zones(n.zones_bron, n.coordinaten_status.tekst)} />
+  <div class="knoppen"><a class="knop" href={pad(taal, '/app/kaart/?laag=nucleair')}>{t.opKaart}</a></div>
+</App>
+<script>
+  import { afstandKm, richting, km, positie, bewaar } from '../../../../lib/app';
+  import { klant } from '../../../../i18n/klant';
+  const tk = klant().nucleair;
+  type Site = { naam: string; land: string; lat: number; lon: number; schuilen_km: number | null; evacuatie_km: number | null; kerncentrale: boolean };
+  const uit = document.getElementById('resultaat')!;
+  const sites: Site[] = JSON.parse(uit.dataset.sites!);
+  const uitbreiding = Number(uit.dataset.uitbreiding);
+  const esc = (s: string) => s.replace(/[&<>"]/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' })[c]!);
+
+  function toon(lat: number, lon: number) {
+    const rijen = sites
+      .map((s) => ({ s, d: afstandKm(lat, lon, s.lat, s.lon), r: richting(lat, lon, s.lat, s.lon) }))
+      .sort((a, b) => a.d - b.d);
+    const zones = (x: (typeof rijen)[number]) => {
+      const z: string[] = [];
+      if (x.s.evacuatie_km && x.d <= x.s.evacuatie_km) z.push(tk.evacuatie);
+      if (x.s.schuilen_km && x.d <= x.s.schuilen_km) z.push(tk.schuilen);
+      else if (x.d <= uitbreiding && x.s.kerncentrale) z.push(tk.uitbreiding);
+      return z.length ? z.join(', ') : '—';
+    };
+    uit.innerHTML = `<div class="tabel-wrap"><table><thead><tr>${tk.kop.map((k) => `<th scope="col">${esc(k)}</th>`).join('')}</tr></thead><tbody>${rijen
+      .map((x) => `<tr><td>${esc(x.s.naam)}</td><td>${km(x.d)}</td><td>${x.r.windstreek} (${x.r.graden}°)</td><td>${zones(x)}</td></tr>`)
+      .join('')}</tbody></table></div><p class="klein">${esc(tk.vogelvlucht(`${lat.toFixed(4)}, ${lon.toFixed(4)}`))}</p>`;
+  }
+
+  document.getElementById('mijn-positie')!.addEventListener('click', async () => {
+    uit.textContent = tk.zoeken;
+    const p = await positie();
+    if (!p) { uit.textContent = tk.geen; return; }
+    bewaar('positie', { lat: p.coords.latitude, lon: p.coords.longitude, naam: tk.laatste });
+    toon(p.coords.latitude, p.coords.longitude);
+  });
+  document.getElementById('coords')!.addEventListener('submit', (e) => {
+    e.preventDefault();
+    const lat = parseFloat((document.getElementById('lat') as HTMLInputElement).value.replace(',', '.'));
+    const lon = parseFloat((document.getElementById('lon') as HTMLInputElement).value.replace(',', '.'));
+    if (Number.isFinite(lat) && Number.isFinite(lon)) toon(lat, lon);
+  });
+</script>

@@ -2,52 +2,83 @@
 import '../styles/global.css';
 import Logo from '../components/Logo.astro';
 import Thema from '../components/Thema.astro';
-interface Props { titel: string; tab?: 'start' | 'watnu' | 'kaart' | 'nummers' | 'meer'; volledig?: boolean; zoekbaar?: boolean }
-const { titel, tab, volledig = false, zoekbaar = true } = Astro.props;
+import { TALEN, pad, type Taal } from '../i18n/talen';
+import { APP } from '../i18n/app';
+interface Props {
+  taal: Taal;
+  titel: string;
+  tab?: 'start' | 'watnu' | 'kaart' | 'nummers' | 'meer';
+  volledig?: boolean;
+  zoekbaar?: boolean;
+  /** Toon in fr, de en en een melding dat de teksten van deze pagina automatisch vertaald zijn. */
+  vertaalmelding?: boolean;
+  /** De offline-pagina wordt voor elke ontbrekende pagina getoond en mag dus niet doorverwijzen. */
+  doorverwijzen?: boolean;
+}
+const { taal, titel, tab, volledig = false, zoekbaar = true, vertaalmelding = false, doorverwijzen = true } = Astro.props;
+const t = APP[taal].algemeen;
+const basis = Astro.site ?? new URL('https://planb72.org');
+// Het pad zonder taal, bv. '/app/kaart/', voor de taalversies van deze pagina.
+const pagina = Astro.url.pathname.replace(/^\/(fr|de|en)(?=\/)/, '');
 const tabs = [
-  ['start', '/app/', 'Start'],
-  ['watnu', '/app/wat-nu/', 'Wat nu?'],
-  ['kaart', '/app/kaart/', 'Kaart'],
-  ['nummers', '/app/noodnummers/', 'Nummers'],
-  ['meer', '/app/meer/', 'Meer'],
+  ['start', '/app/', t.tabs.start],
+  ['watnu', '/app/wat-nu/', t.tabs.watnu],
+  ['kaart', '/app/kaart/', t.tabs.kaart],
+  ['nummers', '/app/noodnummers/', t.tabs.nummers],
+  ['meer', '/app/meer/', t.tabs.meer],
 ] as const;
 ---
 <!doctype html>
-<html lang="nl">
+<html lang={taal}>
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+  {doorverwijzen && (
+    <script is:inline>
+      // Een taal die in de instellingen gekozen werd, geldt op dit toestel voor de hele app.
+      // Uitzondering: ?origineel toont bewust de Nederlandse brontekst.
+      try {
+        var k = localStorage.getItem('pb72-taal'), h = document.documentElement.lang;
+        if ((k === 'nl' || k === 'fr' || k === 'de' || k === 'en') && k !== h && !/[?&]origineel\b/.test(location.search)) {
+          var p = location.pathname.replace(/^\/(fr|de|en)(?=\/)/, '');
+          location.replace((k === 'nl' ? '' : '/' + k) + p + location.search + location.hash);
+        }
+      } catch (e) {}
+    </script>
+  )}
   <Thema />
   <meta name="theme-color" content="#ffffff" media="(prefers-color-scheme: light)" />
   <meta name="theme-color" content="#0e1318" media="(prefers-color-scheme: dark)" />
   <title>{titel} · PlanB72</title>
   <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
-  <link rel="manifest" href="/manifest.webmanifest" />
+  <link rel="manifest" href={pad(taal, '/app/manifest.webmanifest')} />
   <link rel="apple-touch-icon" href="/icons/icoon-192.png" />
   <link rel="preload" href="/fonts/ibm-plex-sans-latin-400-normal.woff2" as="font" type="font/woff2" crossorigin />
+  {TALEN.map((l) => <link rel="alternate" hreflang={l} href={new URL(pad(l, pagina), basis).href} />)}
   <meta name="apple-mobile-web-app-capable" content="yes" />
   <meta name="apple-mobile-web-app-status-bar-style" content="black" />
   <slot name="head" />
 </head>
 <body class="app-body">
-  <a class="naar-inhoud" href="#inhoud">Naar de inhoud</a>
+  <a class="naar-inhoud" href="#inhoud">{t.naarInhoud}</a>
   <header class="kop app-kop">
     <div class="wrap">
-      <a class="logo" href="/app/"><Logo /><span>Plan<b>B72</b></span></a>
-      <nav aria-label="Snelmenu">
-        <a href="/app/zoeken/">Zoeken</a>
-        <a href="/app/pakket/" title="Verbinding en pakket"><span class="status-stip" id="netstip"></span><span class="sr-only" id="nettekst">Status</span></a>
+      <a class="logo" href={pad(taal, '/app/')}><Logo /><span>Plan<b>B72</b></span></a>
+      <nav aria-label={t.snelmenu}>
+        <a href={pad(taal, '/app/zoeken/')}>{t.zoeken}</a>
+        <a href={pad(taal, '/app/pakket/')} title={t.netTitel}><span class="status-stip" id="netstip"></span><span class="sr-only" id="nettekst">{t.netStatus}</span></a>
       </nav>
     </div>
   </header>
   {volledig ? <slot /> : (
     <main id="inhoud" class="wrap" data-pagefind-body={zoekbaar ? '' : undefined}>
+      {vertaalmelding && taal !== 'nl' && <p class="vertaalmelding klein" role="note" data-pagefind-ignore>{t.interfaceVertaald}</p>}
       <slot />
     </main>
   )}
-  <nav class="onderbalk" aria-label="Hoofdmenu app">
+  <nav class="onderbalk" aria-label={t.hoofdmenu}>
     {tabs.map(([id, href, tekst]) => (
-      <a href={href} aria-current={tab === id ? 'page' : undefined}>{tekst}</a>
+      <a href={pad(taal, href)} aria-current={tab === id ? 'page' : undefined}>{tekst}</a>
     ))}
   </nav>
   <script>

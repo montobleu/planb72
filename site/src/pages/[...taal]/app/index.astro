@@ -1,0 +1,51 @@
+---
+import App from '../../../layouts/App.astro';
+import { landVoor } from '../../../lib/data';
+import { APP } from '../../../i18n/app';
+import { TALEN, TAALNAMEN, pad, taalPaden, taalVan } from '../../../i18n/talen';
+export const getStaticPaths = taalPaden;
+const taal = taalVan(Astro.params);
+const t = APP[taal].start;
+const land = landVoor(taal);
+---
+<App taal={taal} titel={t.titel} tab="start">
+  <h1 class="sr-only">PlanB72</h1>
+  <div class="melding gevaar" style="margin-top:1rem">
+    <Fragment set:html={APP[taal].algemeen.levensgevaar} /> {t.politie} <a href="tel:101">101</a>.{' '}{t.vervangt}
+  </div>
+
+  <div id="pakket-melding" class="melding" hidden>
+    <strong>{t.pakketTitel}</strong> {t.pakketTekst(land.naam)}
+    <div class="knoppen"><a class="knop hoofd" href={pad(taal, '/app/pakket/')}>{t.pakketKnop}</a></div>
+  </div>
+
+  {t.groepen.map(([titel, items]) => (
+    <section>
+      <h2 class="sectiekop">{titel}</h2>
+      <div class="raster">
+        {items.map(([href, tt, uitleg]) => (
+          <a class="tegel" href={pad(taal, href)}><strong>{tt}</strong><span class="klein">{uitleg}</span></a>
+        ))}
+      </div>
+    </section>
+  ))}
+
+  {taal !== 'nl' && <p class="vertaalmelding klein" role="note" style="margin-top:1.5rem">{APP[taal].algemeen.interfaceVertaald}</p>}
+  <p class="klein" style="margin-top:1.5rem">{t.voet(land.naam, land.bijgewerkt)}</p>
+  <nav class="klein taalregel" aria-label={t.andereTaal}>
+    {TALEN.filter((l) => l !== taal).map((l, i) => <>{i > 0 && ' · '}<a href={pad(l, '/app/')} hreflang={l} lang={l} data-taalkeuze={l}>{TAALNAMEN[l]}</a></>)}
+  </nav>
+</App>
+<script>
+  import { opToestel } from '../../../lib/kaarten';
+  // Toon de melding als het basispakket (kaartlagen en overzichtskaarten) nog niet op het toestel staat.
+  (async () => {
+    try {
+      const lagen = (await caches.keys()).includes('pb72-pakket-be');
+      const kaarten = await opToestel();
+      const heeft = lagen && kaarten.has('be-z9');
+      // ?voorbeeld verbergt de melding voor de schermafbeelding op de website.
+      if (!heeft && !location.search.includes('voorbeeld')) document.getElementById('pakket-melding')!.hidden = false;
+    } catch {}
+  })();
+</script>

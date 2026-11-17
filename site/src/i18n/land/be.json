@@ -1,0 +1,192 @@
+{
+  "_uitleg": "Vertalingen van de teksten in data/landen/be.json. Sleutels: noodnummers op nummer, kanalen op naam, nucleaire sites op soort. Getallen en nummers blijven gelijk aan het origineel (pipeline/controleer_inhoud.py). Status: automatisch vertaald, nog niet nagelezen.",
+  "fr": {
+    "vertaling": "machine",
+    "noodnummers": {
+      "112": "Ambulance et pompiers (fonctionne dans toute l'Europe, même sans carte SIM ni crédit d'appel)",
+      "101": "Police",
+      "1722": "Pompiers en cas de tempête ou d'inondation, si la situation ne met pas la vie en danger. Actif uniquement en cas d'intempéries.",
+      "070 245 245": "Centre Antipoisons, jour et nuit",
+      "1733": "Médecin de garde, en dehors des heures de bureau",
+      "1771": "Numéro d'information du Centre de crise, activé en cas de situation d'urgence",
+      "0903 99 000": "Pharmacie de garde (numéro payant) ; aussi via pharmacie.be",
+      "116 000": "Child Focus : enfants disparus ou enlevés",
+      "1813": "Zelfmoordlijn (Flandre), jour et nuit",
+      "0800 32 123": "Centre de prévention du suicide (Wallonie et Bruxelles)",
+      "1712": "Ligne d'aide violence, abus et maltraitance d'enfants (Flandre)"
+    },
+    "kanalen": {
+      "BE-Alert": {
+        "soort": "alerte sur le téléphone",
+        "wat": "SMS, e-mail ou appel vocal des autorités. Un vrai message commence toujours par « BE-Alert ». Vous devez vous inscrire vous-même.",
+        "voorbereiden": "Inscrivez-vous sur be-alert.be, pour votre propre adresse et celle des personnes dont vous prenez soin."
+      },
+      "Nationaal Crisiscentrum": {
+        "naam": "Centre de crise National",
+        "soort": "site officiel",
+        "wat": "Informations officielles en cas de situation d'urgence nationale, et le site risico-info.be sur la préparation.",
+        "voorbereiden": "Enregistrez le site du Centre de crise et celui de votre commune et de votre province dans vos favoris."
+      },
+      "Openbare omroepen": {
+        "naam": "Radiodiffusion publique",
+        "soort": "radio et télévision",
+        "wat": "VRT, RTBF et BRF. La Belgique n'a pas désigné de station d'urgence officielle ; une radio de crise en DAB+ est en préparation.",
+        "voorbereiden": "Gardez une radio à piles ou à manivelle à portée de main et notez la fréquence FM de La Première ou de Radio 1 chez vous."
+      },
+      "Informatienummer 1771": {
+        "naam": "Numéro d'information 1771",
+        "soort": "téléphone",
+        "wat": "Peut être actif dans l'heure en cas de situation d'urgence.",
+        "voorbereiden": "Enregistrez le 1771 dans votre téléphone."
+      },
+      "Sirenes en luidsprekers": {
+        "naam": "Sirènes et haut-parleurs",
+        "soort": "signal",
+        "wat": "Sirènes autour des sites nucléaires et Seveso, et voitures à haut-parleurs de la police.",
+        "voorbereiden": "Vérifiez si vous habitez près d'une sirène et quand elle est testée."
+      }
+    },
+    "nucleair": {
+      "opmerking": "Autour des centrales nucléaires, une zone d'extension jusqu'à 100 km s'applique pour la mise à l'abri et l'iode. Elle couvre en pratique toute la Belgique. Les zones doivent encore être vérifiées par rapport à l'arrêté royal du 16 juin 2024.",
+      "coordinaten_status": "approximatives, à vérifier auprès de l'AFCN et d'OpenStreetMap",
+      "soorten": {
+        "Kerncentrale": "Centrale nucléaire",
+        "Onderzoek en afval (SCK CEN, Belgoprocess)": "Recherche et déchets (SCK CEN, Belgoprocess)",
+        "Medische isotopen": "Isotopes médicaux"
+      }
+    },
+    "schuilen": {
+      "advies": "À notre connaissance, la Belgique ne dispose pas d'un réseau d'abris publics. Le conseil officiel en cas d'incident nucléaire ou chimique est : entrez, fermez portes et fenêtres, coupez la ventilation et écoutez la radio."
+    },
+    "voorraad": {
+      "water_bron": "Denk vooruit (gouvernement néerlandais) : 3 litres par personne et par jour",
+      "water_status": "valeur belge encore à confirmer auprès du Centre de crise"
+    }
+  },
+  "de": {
+    "vertaling": "machine",
+    "noodnummers": {
+      "112": "Rettungsdienst und Feuerwehr (funktioniert in ganz Europa, auch ohne SIM-Karte oder Guthaben)",
+      "101": "Polizei",
+      "1722": "Feuerwehr bei Sturm oder Hochwasser, wenn keine Lebensgefahr besteht. Nur bei Unwetter aktiv.",
+      "070 245 245": "Antigiftzentrum, Tag und Nacht",
+      "1733": "Bereitschaftsarzt, außerhalb der Bürozeiten",
+      "1771": "Informationsnummer des Krisenzentrums, wird in einer Notlage aktiviert",
+      "0903 99 000": "Apotheke im Bereitschaftsdienst (kostenpflichtige Nummer); auch über apotheek.be",
+      "116 000": "Child Focus: vermisste oder entführte Kinder",
+      "1813": "Zelfmoordlijn (Flandern), Tag und Nacht",
+      "0800 32 123": "Centre de prévention du suicide (Wallonien und Brüssel)",
+      "1712": "Hilfetelefon Gewalt, Missbrauch und Kindesmisshandlung (Flandern)"
+    },
+    "kanalen": {
+      "BE-Alert": {
+        "soort": "Warnung auf das Telefon",
+        "wat": "SMS, E-Mail oder Sprachanruf der Behörden. Eine echte Meldung beginnt immer mit „BE-Alert“. Sie müssen sich selbst anmelden.",
+        "voorbereiden": "Melden Sie sich auf be-alert.be an, für Ihre eigene Adresse und die der Menschen, für die Sie sorgen."
+      },
+      "Nationaal Crisiscentrum": {
+        "naam": "Nationales Krisenzentrum",
+        "soort": "offizielle Website",
+        "wat": "Offizielle Informationen bei einer nationalen Notlage, und die Website risico-info.be zur Vorsorge.",
+        "voorbereiden": "Speichern Sie die Website des Krisenzentrums und die Ihrer Gemeinde und Provinz als Lesezeichen."
+      },
+      "Openbare omroepen": {
+        "naam": "Öffentlich-rechtlicher Rundfunk",
+        "soort": "Radio und Fernsehen",
+        "wat": "VRT, RTBF und BRF. Belgien hat keinen offiziellen Notfallsender bestimmt; ein Krisenradio über DAB+ ist in Vorbereitung.",
+        "voorbereiden": "Halten Sie ein Radio mit Batterien oder Kurbel bereit und notieren Sie die UKW-Frequenz von Radio 1 oder La Première an Ihrem Wohnort."
+      },
+      "Informatienummer 1771": {
+        "naam": "Informationsnummer 1771",
+        "soort": "Telefon",
+        "wat": "Kann in einer Notlage innerhalb einer Stunde aktiv sein.",
+        "voorbereiden": "Speichern Sie die 1771 in Ihrem Telefon."
+      },
+      "Sirenes en luidsprekers": {
+        "naam": "Sirenen und Lautsprecher",
+        "soort": "Signal",
+        "wat": "Sirenen rund um Nuklear- und Seveso-Standorte und Lautsprecherwagen der Polizei.",
+        "voorbereiden": "Prüfen Sie, ob Sie in der Nähe einer Sirene wohnen und wann diese getestet wird."
+      }
+    },
+    "nucleair": {
+      "opmerking": "Rund um die Kernkraftwerke gilt eine Erweiterungszone bis 100 km für Schutz suchen und Jod. Sie deckt praktisch ganz Belgien ab. Die Zonen müssen noch mit dem Königlichen Erlass vom 16. Juni 2024 abgeglichen werden.",
+      "coordinaten_status": "ungefähr, mit FANC/AFCN und OpenStreetMap abzugleichen",
+      "soorten": {
+        "Kerncentrale": "Kernkraftwerk",
+        "Onderzoek en afval (SCK CEN, Belgoprocess)": "Forschung und Abfall (SCK CEN, Belgoprocess)",
+        "Medische isotopen": "Medizinische Isotope"
+      }
+    },
+    "schuilen": {
+      "advies": "Belgien hat nach unserem Kenntnisstand kein Netz öffentlicher Schutzräume. Der offizielle Rat bei einem nuklearen oder chemischen Zwischenfall lautet: Gehen Sie hinein, schließen Sie Fenster und Türen, schalten Sie die Lüftung aus und hören Sie Radio."
+    },
+    "voorraad": {
+      "water_bron": "Denk vooruit (niederländische Regierung): 3 Liter pro Person und Tag",
+      "water_status": "belgischer Wert beim Krisenzentrum noch zu bestätigen"
+    }
+  },
+  "en": {
+    "vertaling": "machine",
+    "noodnummers": {
+      "112": "Ambulance and fire service (works throughout Europe, even without a SIM card or credit)",
+      "101": "Police",
+      "1722": "Fire service for storm or flood damage when it is not life-threatening. Only active during severe weather.",
+      "070 245 245": "Poison Centre, day and night",
+      "1733": "GP on duty, outside office hours",
+      "1771": "Information number of the Crisis Center, activated in an emergency",
+      "0903 99 000": "Pharmacy on duty (paid number); also via apotheek.be",
+      "116 000": "Child Focus: missing or abducted children",
+      "1813": "Zelfmoordlijn suicide line (Flanders), day and night",
+      "0800 32 123": "Centre de prévention du suicide (Wallonia and Brussels)",
+      "1712": "Helpline for violence, abuse and child abuse (Flanders)"
+    },
+    "kanalen": {
+      "BE-Alert": {
+        "soort": "alerts on your phone",
+        "wat": "Text message, email or voice call from the authorities. A genuine message always starts with \"BE-Alert\". You have to register yourself.",
+        "voorbereiden": "Register on be-alert.be, for your own address and that of the people you care for."
+      },
+      "Nationaal Crisiscentrum": {
+        "naam": "National Crisis Center",
+        "soort": "official website",
+        "wat": "Official information in a national emergency, and the website risico-info.be on preparedness.",
+        "voorbereiden": "Bookmark the Crisis Center website and that of your municipality and province."
+      },
+      "Openbare omroepen": {
+        "naam": "Public broadcasters",
+        "soort": "radio and TV",
+        "wat": "VRT, RTBF and BRF. Belgium has not designated an official emergency station; a crisis radio on DAB+ is being prepared.",
+        "voorbereiden": "Keep a battery or wind-up radio ready and note the FM frequency of Radio 1 or La Première where you live."
+      },
+      "Informatienummer 1771": {
+        "naam": "Information number 1771",
+        "soort": "telephone",
+        "wat": "Can be active within the hour in an emergency.",
+        "voorbereiden": "Save 1771 in your phone."
+      },
+      "Sirenes en luidsprekers": {
+        "naam": "Sirens and loudspeakers",
+        "soort": "signal",
+        "wat": "Sirens around nuclear and Seveso sites and police loudspeaker vans.",
+        "voorbereiden": "Find out whether you live near a siren and when it is tested."
+      }
+    },
+    "nucleair": {
+      "opmerking": "Around the nuclear power plants, an extension zone of up to 100 km applies for sheltering and iodine. In practice it covers all of Belgium. The zones still have to be checked against the Royal Decree of 16 June 2024.",
+      "coordinaten_status": "approximate, to be checked against FANC and OpenStreetMap",
+      "soorten": {
+        "Kerncentrale": "Nuclear power plant",
+        "Onderzoek en afval (SCK CEN, Belgoprocess)": "Research and waste (SCK CEN, Belgoprocess)",
+        "Medische isotopen": "Medical isotopes"
+      }
+    },
+    "schuilen": {
+      "advies": "As far as we know, Belgium has no network of public shelters. The official advice in a nuclear or chemical incident is: go inside, close windows and doors, switch off ventilation and listen to the radio."
+    },
+    "voorraad": {
+      "water_bron": "Denk vooruit (Dutch government): 3 litres per person per day",
+      "water_status": "Belgian value still to be confirmed with the Crisis Center"
+    }
+  }
+}

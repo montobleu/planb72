@@ -1,9 +1,13 @@
 ---
-interface Props { bronnen: { naam: string; url: string }[]; datum: string; status: string; nagekeken_door?: string }
-const { bronnen, datum, status, nagekeken_door } = Astro.props;
+import { APP } from '../i18n/app';
+import type { Taal } from '../i18n/talen';
+interface Props { taal: Taal; bronnen: { naam: string; url: string }[]; datum: string; status: string; nagekeken_door?: string }
+const { taal, bronnen, datum, status, nagekeken_door } = Astro.props;
+const t = APP[taal].inhoud;
 ---
-<section class="bron" aria-label="Bronnen">
-  <p><strong>Bronnen</strong></p>
+<section class="bron" aria-label={t.bronnen}>
+  <p><strong>{t.bronnen}</strong></p>
   <ul>{bronnen.map((b) => <li><a href={b.url}>{b.naam}</a></li>)}</ul>
-  <p>Datum: {datum} · Status: {status}{nagekeken_door && ` · nagekeken door ${nagekeken_door}`}</p>
+  <p>{t.datum}: {datum} · {t.status}: {t.statussen[status] ?? status}{nagekeken_door && ` · ${t.nagekekenDoor} ${nagekeken_door}`}</p>
+  <slot />
 </section>
