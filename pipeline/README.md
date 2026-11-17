@@ -2,7 +2,8 @@
 
 Scripts die de data voor PlanB72 ophalen en klaarzetten. Alleen Python 3.9+ met de
 standaardbibliotheek; geen pakketten te installeren. De basiskaart vraagt daarnaast
-de opdracht `pmtiles` (`brew install pmtiles`).
+de opdracht `pmtiles` (`brew install pmtiles`), de routepakketten `osmium`
+(`brew install osmium-tool`).
 
 Alles draait vanuit de root van de repository. Tussenbestanden komen in
 `pipeline/out/` (staat in `.gitignore`); wat de website gebruikt komt in
@@ -39,6 +40,53 @@ Overpass: één query per laag, 10 seconden rust tussen aanvragen, bij fouten
 exponentieel wachten en wisselen tussen overpass-api.de, overpass.kumi.systems en
 overpass.openstreetmap.fr. Een leeg antwoord wordt pas aanvaard als een tweede
 server het bevestigt. Een volledige run voor België duurt ongeveer een half uur.
+
+## Routepakketten
+
+```sh
+brew install osmium-tool
+python3 pipeline/routegraaf.py                  # alle regio's (downloadt belgium-latest.osm.pbf als dat nog niet in pipeline/out/osm staat)
+python3 pipeline/routegraaf.py --alleen be-ant  # één regio
+python3 pipeline/routegraaf.py --upload         # ook naar R2 (route/<regio>.pb72r)
+```
+
+Maakt per regio (dezelfde bboxen als de kaartpakketten op straatniveau) een routenetwerk en
+een zoekindex uit het Geofabrik-extract van OpenStreetMap, en schrijft het overzicht naar
+`site/public/data/routes.json`. Een volledige run voor België duurt ongeveer 2,5 minuten en
+gebruikt 2 GB geheugen. Metingen en rekentijden: `docs/routeplanning.md`.
+
+Wat er in het netwerk zit:
+
+- **Knopen**: alleen kruispunten, uiteinden van wegen en versperringen (paaltjes, draaihekken).
+  Elke knoop en elk segment krijgt een landelijk volgnummer in ruimtelijke volgorde (Z-curve),
+  zodat de app regio's naadloos aan elkaar koppelt en de verschillen klein blijven.
+- **Segmenten** tussen twee knopen: lengte (dm), wegtype, toegang te voet, fiets en auto,
+  eenrichting (auto en fiets apart, met `oneway:bicycle=no`), rotonde, fietsinfrastructuur,
+  onverhard, maximumsnelheid (ook `BE-VLG:urban` en dergelijke) en straatnaam (anders het
+  wegnummer, voor op- en afritten de bestemming op het richtingbord).
+- **Vorm**: de tussenliggende punten als stappen van 1e-5 graad (int16).
+- **Zoekindex**: plaatsen (stad tot gehucht, met Franse, Nederlandse en Duitse naam) en straten
+  met de dichtstbijzijnde gemeente of het dorp als context.
+
+Toegang volgt de Belgische standaarden van
+[OSM tags for routing](https://wiki.openstreetmap.org/wiki/OSM_tags_for_routing/Access_restrictions#Belgium):
+geen voetgangers of fietsers op autosnelwegen en `motorroad=yes`, fietsers niet op `footway`
+en `pedestrian`, auto's niet op `track`, `path` of `cycleway`. `private`, `agricultural` en
+`forestry` gelden als verboden. Afslagverboden (relaties `restriction`) zitten er nog niet in.
+
+Bestandsformaat (`.pb72r`, little-endian):
+
+| Bytes | Inhoud |
+| --- | --- |
+| 8 | `PB72PAK1` |
+| 4 × 3 | versie, lengte zoekdeel, lengte netwerkdeel |
+| … | zoekdeel, gzip |
+| … | netwerkdeel, gzip |
+
+Elk deel pakt uit tot: u32 koplengte, JSON-kop (id, bbox, OSM-datum, sectietabel) en de secties
+op 4 bytes uitgelijnd. Het zoekdeel staat apart, zodat de app kan zoeken in alle regio's zonder
+het netwerk uit te pakken. De app leest het formaat in `site/src/lib/routegraaf.ts`; wie de lijst
+met wegtypes of vlaggen wijzigt, past beide bestanden aan en verhoogt `VERSIE`.
 
 ## Bronnenronde
 

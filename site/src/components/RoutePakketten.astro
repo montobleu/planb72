@@ -1,0 +1,85 @@
+---
+// Instellingen: routepakketten per regio downloaden of verwijderen.
+---
+<section aria-labelledby="routes-kop">
+  <h2 id="routes-kop">Routes en zoeken</h2>
+  <p>Voor de <a href="/app/route/">routeplanner</a> en het zoeken op plaats of straat zonder internet. Download de regio's waar je wilt reizen; een route over twee regio's heen vraagt beide pakketten. De route wordt op dit toestel berekend.</p>
+  <div id="routepakketten"><p class="klein">Laden…</p></div>
+  <p class="klein">Routenetwerk en straatnamen © OpenStreetMap-bijdragers (ODbL).</p>
+</section>
+<script>
+  import { vraagBlijvendeOpslag } from '../lib/app';
+  import { mb } from '../lib/kaarten';
+  import { routeOverzicht, routesOpToestel, downloadRoute, verwijderRoute } from '../lib/routepakketten';
+
+  const doos = document.getElementById('routepakketten')!;
+  const lopend = new Map<string, AbortController>();
+
+  async function toon() {
+    const lijst = await routeOverzicht();
+    if (!lijst.length) {
+      doos.innerHTML = '<p class="klein">De lijst met routepakketten is niet beschikbaar. Open deze pagina één keer met verbinding.</p>';
+      return;
+    }
+    const lokaal = await routesOpToestel();
+    const totaal = lijst.filter((p) => lokaal.has(p.id)).reduce((t, p) => t + p.bytes, 0);
+    const samen = document.createElement('p');
+    samen.className = 'klein';
+    samen.textContent = `Op dit toestel: ${lokaal.size} regio('s), samen ${mb(totaal)}. Gegevens van ${lijst[0].osm}.`;
+    const tabel = document.createElement('table');
+    const body = tabel.createTBody();
+    for (const p of lijst) {
+      const rij = body.insertRow();
+      const a = rij.insertCell();
+      a.innerHTML = '<strong></strong><div class="klein"></div>';
+      a.querySelector('strong')!.textContent = p.naam;
+      a.querySelector('div')!.textContent = `${p.omschrijving} · ${p.zoek.toLocaleString('nl-BE')} plaatsen en straten`;
+      const b = rij.insertCell();
+      b.textContent = mb(p.bytes);
+      b.style.whiteSpace = 'nowrap';
+      const c = rij.insertCell();
+      c.style.textAlign = 'right';
+      const knop = document.createElement('button');
+      knop.type = 'button';
+      knop.className = 'knop';
+      const balk = document.createElement('progress');
+      balk.max = 1; balk.value = 0; balk.hidden = true; balk.style.width = '100%';
+      balk.setAttribute('aria-label', `Download ${p.naam}`);
+      const aanwezig = lokaal.has(p.id);
+      knop.textContent = aanwezig ? 'Verwijderen' : 'Downloaden';
+      knop.setAttribute('aria-label', `${aanwezig ? 'Verwijderen' : 'Downloaden'}: routes ${p.naam}`);
+      if (aanwezig) knop.classList.add('gevaar');
+      knop.addEventListener('click', async () => {
+        if (lopend.has(p.id)) { lopend.get(p.id)!.abort(); return; }
+        if (aanwezig) {
+          if (!confirm(`Routes ${p.naam} van dit toestel verwijderen?`)) return;
+          await verwijderRoute(p);
+          toon();
+          return;
+        }
+        if (!navigator.onLine) { alert('Geen verbinding.'); return; }
+        await vraagBlijvendeOpslag();
+        const ctrl = new AbortController();
+        lopend.set(p.id, ctrl);
+        knop.textContent = 'Annuleren';
+        knop.setAttribute('aria-label', `Download annuleren: routes ${p.naam}`);
+        balk.hidden = false;
+        try {
+          await downloadRoute(p, (f) => (balk.value = f), ctrl.signal);
+        } catch {
+          if (!ctrl.signal.aborted) alert(`Download van routes ${p.naam} mislukt. Probeer opnieuw.`);
+          await verwijderRoute(p);
+        }
+        lopend.delete(p.id);
+        toon();
+      });
+      c.append(knop, balk);
+    }
+    const wrap = document.createElement('div');
+    wrap.className = 'tabel-wrap';
+    wrap.append(tabel);
+    doos.replaceChildren(samen, wrap);
+  }
+
+  toon();
+</script>

@@ -1,4 +1,4 @@
-// PlanB72 Worker: serveert de grote pakketbestanden (PMTiles) uit R2, met Range-ondersteuning.
+// PlanB72 Worker: serveert de grote pakketbestanden (PMTiles en routepakketten) uit R2, met Range-ondersteuning.
 // Alle andere aanvragen gaan naar de statische bestanden. Geen logging, geen cookies.
 
 function leesBereik(kop) {
@@ -42,7 +42,8 @@ async function pakket(request, env, sleutel) {
 export default {
   async fetch(request, env) {
     const url = new URL(request.url);
-    if (url.pathname.startsWith('/data/') && url.pathname.endsWith('.pmtiles') && (request.method === 'GET' || request.method === 'HEAD')) {
+    const groot = url.pathname.endsWith('.pmtiles') || (url.pathname.startsWith('/data/route/') && url.pathname.endsWith('.pb72r'));
+    if (url.pathname.startsWith('/data/') && groot && (request.method === 'GET' || request.method === 'HEAD')) {
       return pakket(request, env, url.pathname.slice('/data/'.length));
     }
     return env.ASSETS.fetch(request);

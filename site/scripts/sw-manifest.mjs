@@ -26,6 +26,7 @@ const hoortBijKern = (rel) =>
   rel === 'favicon.svg' ||
   rel === 'data/be/meta.json' ||
   rel === 'data/kaarten.json' ||
+  rel === 'data/routes.json' ||
   rel === 'data/be/nucleair.geojson';
 
 const bestanden = [];

@@ -24,6 +24,7 @@ const groepen = [...new Set(LAGEN.map((l) => l.groep))];
         </fieldset>
         <div class="knoppen" style="margin:.5rem 0 0">
           <button class="knop hoofd" type="button" id="dichtstbij">Dichtstbij</button>
+          <a class="knop" href="/app/route/">Route plannen</a>
         </div>
         <div id="dichtst" class="klein" aria-live="polite"></div>
         <p class="klein" id="kaart-status"></p>
@@ -217,6 +218,7 @@ const groepen = [...new Set(LAGEN.map((l) => l.groep))];
       p.toegang && `Toegang: ${esc(p.toegang)}`,
       id === 'schuilplekken' && `<em class="klein">${esc(p.label || SCHUIL_LABEL)}</em>`,
       `<span class="label osm">OpenStreetMap</span>`,
+      `<a href="/app/route/?naar=${(f.geometry as Point).coordinates[1]},${(f.geometry as Point).coordinates[0]}&naam=${encodeURIComponent(p.naam || laagNaam)}">Route hierheen</a>`,
       osmId && navigator.onLine && `<a class="klein" href="https://www.openstreetmap.org/${osmType}/${osmId}">bekijk of verbeter</a> · <a class="klein" href="https://www.openstreetmap.org/note/new#map=19/${e.lngLat.lat}/${e.lngLat.lng}">klopt niet</a>`,
     ].filter(Boolean);
     new maplibregl.Popup({ maxWidth: '280px' }).setLngLat((f.geometry as Point).coordinates as [number, number]).setHTML(regels.join('<br>')).addTo(kaart);
