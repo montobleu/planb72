@@ -54,6 +54,12 @@
       "naam": "Dierenartsen",
       "aantal": 846,
       "bytes": 183293
+    },
+    "schuilplekken": {
+      "naam": "Mogelijke schuilplekken",
+      "aantal": 6907,
+      "bytes": 1449229,
+      "opgehaald": "2026-11-17"
     }
   }
 }
