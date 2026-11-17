@@ -93,6 +93,8 @@ const nl = {
     aed: (href: string) => `De AED-toestellen in de buurt staan op de <a href="${href}">kaart</a>.`,
     bel: '<strong>Bel <a href="tel:112">112</a>.</strong>',
     volgMeldkamer: 'Volg de instructies van de meldkamer; die gaan voor op deze tekst.',
+    /** Officiële eerstehulpbronnen in deze taal, getoond boven een niet-nagelezen vertaling. */
+    officieel: [] as { naam: string; url: string }[],
   },
   inhoud: {
     opDezePagina: 'Op deze pagina',
@@ -475,6 +477,7 @@ const fr: Teksten = {
     aed: (href: string) => `Les défibrillateurs (DEA) proches figurent sur la <a href="${href}">carte</a>.`,
     bel: '<strong>Appelez le <a href="tel:112">112</a>.</strong>',
     volgMeldkamer: 'Suivez les instructions de la centrale d’urgence ; elles priment sur ce texte.',
+    officieel: [{ naam: 'Croix-Rouge de Belgique : affiches premiers secours', url: 'https://formations.croix-rouge.be/affiches-premiers-secours/' }],
   },
   inhoud: {
     opDezePagina: 'Sur cette page',
@@ -854,6 +857,10 @@ const de: Teksten = {
     aed: (href: string) => `Die AED-Geräte in der Nähe sind auf der <a href="${href}">Karte</a> eingetragen.`,
     bel: '<strong>Rufen Sie die <a href="tel:112">112</a> an.</strong>',
     volgMeldkamer: 'Folgen Sie den Anweisungen der Notrufzentrale; sie haben Vorrang vor diesem Text.',
+    officieel: [
+      { naam: 'Rotes Kreuz Belgien: Erste-Hilfe-Ausbildung', url: 'https://www.roteskreuz.be/service/unterrichtsdienst/' },
+      { naam: 'German Resuscitation Council: Leitlinien', url: 'https://www.grc-org.de/' },
+    ],
   },
   inhoud: {
     opDezePagina: 'Auf dieser Seite',
@@ -1233,6 +1240,7 @@ const en: Teksten = {
     aed: (href: string) => `AEDs nearby are shown on the <a href="${href}">map</a>.`,
     bel: '<strong>Call <a href="tel:112">112</a>.</strong>',
     volgMeldkamer: 'Follow the instructions of the emergency call centre; they take precedence over this text.',
+    officieel: [{ naam: 'European Resuscitation Council: Guidelines 2025', url: 'https://www.erc.edu/science-research/guidelines/guidelines-2025/guidelines-2025-english' }],
   },
   inhoud: {
     opDezePagina: 'On this page',

@@ -19,13 +19,17 @@
       "BE-Alert": {
         "soort": "alerte sur le téléphone",
         "wat": "SMS, e-mail ou appel vocal des autorités. Un vrai message commence toujours par « BE-Alert ». Vous devez vous inscrire vous-même.",
-        "voorbereiden": "Inscrivez-vous sur be-alert.be, pour votre propre adresse et celle des personnes dont vous prenez soin."
+        "voorbereiden": "Inscrivez-vous sur be-alert.be, pour votre propre adresse et celle des personnes dont vous prenez soin.",
+        "url": "https://www.be-alert.be/fr",
+        "bron": "https://centredecrise.be/fr/que-pouvez-vous-faire/informez-vous/linformation-pendant-une-situation-durgence"
       },
       "Nationaal Crisiscentrum": {
         "naam": "Centre de crise National",
         "soort": "site officiel",
         "wat": "Informations officielles en cas de situation d'urgence nationale, et le site risico-info.be sur la préparation.",
-        "voorbereiden": "Enregistrez le site du Centre de crise et celui de votre commune et de votre province dans vos favoris."
+        "voorbereiden": "Enregistrez le site du Centre de crise et celui de votre commune et de votre province dans vos favoris.",
+        "url": "https://centredecrise.be/fr",
+        "bron": "https://centredecrise.be/fr/que-pouvez-vous-faire/informez-vous/linformation-pendant-une-situation-durgence"
       },
       "Openbare omroepen": {
         "naam": "Radiodiffusion publique",
@@ -37,13 +41,17 @@
         "naam": "Numéro d'information 1771",
         "soort": "téléphone",
         "wat": "Peut être actif dans l'heure en cas de situation d'urgence.",
-        "voorbereiden": "Enregistrez le 1771 dans votre téléphone."
+        "voorbereiden": "Enregistrez le 1771 dans votre téléphone.",
+        "url": "https://centredecrise.be/fr/que-fait-le-centre-de-crise-national/communication",
+        "bron": "https://centredecrise.be/fr/que-fait-le-centre-de-crise-national/communication"
       },
       "Sirenes en luidsprekers": {
         "naam": "Sirènes et haut-parleurs",
         "soort": "signal",
         "wat": "Sirènes autour des sites nucléaires et Seveso, et voitures à haut-parleurs de la police.",
-        "voorbereiden": "Vérifiez si vous habitez près d'une sirène et quand elle est testée."
+        "voorbereiden": "Vérifiez si vous habitez près d'une sirène et quand elle est testée.",
+        "url": "https://centredecrise.be/fr",
+        "bron": "https://centredecrise.be/fr/que-pouvez-vous-faire/informez-vous/linformation-pendant-une-situation-durgence"
       }
     },
     "nucleair": {
@@ -53,10 +61,13 @@
         "Kerncentrale": "Centrale nucléaire",
         "Onderzoek en afval (SCK CEN, Belgoprocess)": "Recherche et déchets (SCK CEN, Belgoprocess)",
         "Medische isotopen": "Isotopes médicaux"
-      }
+      },
+      "kernboodschap": "Rentrez et restez à l’intérieur. Suivez les recommandations des autorités. N’évacuez jamais de votre propre initiative. Attendez les instructions des autorités avant de prendre des comprimés d’iode. Ne le faites jamais de votre propre initiative.",
+      "bron": "https://centredecrise.be/fr/risques-en-belgique/risques-economiques-et-technologiques/incident-dans-une-centrale-nucleaire"
     },
     "schuilen": {
-      "advies": "À notre connaissance, la Belgique ne dispose pas d'un réseau d'abris publics. Le conseil officiel en cas d'incident nucléaire ou chimique est : entrez, fermez portes et fenêtres, coupez la ventilation et écoutez la radio."
+      "advies": "À notre connaissance, la Belgique ne dispose pas d'un réseau d'abris publics. Le conseil officiel en cas d'incident nucléaire ou chimique est : entrez, fermez portes et fenêtres, coupez la ventilation et écoutez la radio.",
+      "bron": "https://centredecrise.be/fr/risques-en-belgique/risques-economiques-et-technologiques/incident-dans-une-centrale-nucleaire"
     },
     "voorraad": {
       "water_bron": "Denk vooruit (gouvernement néerlandais) : 3 litres par personne et par jour",
@@ -82,13 +93,17 @@
       "BE-Alert": {
         "soort": "Warnung auf das Telefon",
         "wat": "SMS, E-Mail oder Sprachanruf der Behörden. Eine echte Meldung beginnt immer mit „BE-Alert“. Sie müssen sich selbst anmelden.",
-        "voorbereiden": "Melden Sie sich auf be-alert.be an, für Ihre eigene Adresse und die der Menschen, für die Sie sorgen."
+        "voorbereiden": "Melden Sie sich auf be-alert.be an, für Ihre eigene Adresse und die der Menschen, für die Sie sorgen.",
+        "url": "https://www.be-alert.be/de",
+        "bron": "https://krisenzentrum.be/de/was-koennen-sie-tun/informieren-sie-sich/information-notsituationen"
       },
       "Nationaal Crisiscentrum": {
         "naam": "Nationales Krisenzentrum",
         "soort": "offizielle Website",
         "wat": "Offizielle Informationen bei einer nationalen Notlage, und die Website risico-info.be zur Vorsorge.",
-        "voorbereiden": "Speichern Sie die Website des Krisenzentrums und die Ihrer Gemeinde und Provinz als Lesezeichen."
+        "voorbereiden": "Speichern Sie die Website des Krisenzentrums und die Ihrer Gemeinde und Provinz als Lesezeichen.",
+        "url": "https://krisenzentrum.be/de",
+        "bron": "https://krisenzentrum.be/de/was-koennen-sie-tun/informieren-sie-sich/information-notsituationen"
       },
       "Openbare omroepen": {
         "naam": "Öffentlich-rechtlicher Rundfunk",
@@ -100,13 +115,17 @@
         "naam": "Informationsnummer 1771",
         "soort": "Telefon",
         "wat": "Kann in einer Notlage innerhalb einer Stunde aktiv sein.",
-        "voorbereiden": "Speichern Sie die 1771 in Ihrem Telefon."
+        "voorbereiden": "Speichern Sie die 1771 in Ihrem Telefon.",
+        "url": "https://krisenzentrum.be/de/was-tut-das-nationale-krisenzentrum/kommunikation",
+        "bron": "https://krisenzentrum.be/de/was-tut-das-nationale-krisenzentrum/kommunikation"
       },
       "Sirenes en luidsprekers": {
         "naam": "Sirenen und Lautsprecher",
         "soort": "Signal",
         "wat": "Sirenen rund um Nuklear- und Seveso-Standorte und Lautsprecherwagen der Polizei.",
-        "voorbereiden": "Prüfen Sie, ob Sie in der Nähe einer Sirene wohnen und wann diese getestet wird."
+        "voorbereiden": "Prüfen Sie, ob Sie in der Nähe einer Sirene wohnen und wann diese getestet wird.",
+        "url": "https://krisenzentrum.be/de",
+        "bron": "https://krisenzentrum.be/de/was-koennen-sie-tun/informieren-sie-sich/information-notsituationen"
       }
     },
     "nucleair": {
@@ -116,10 +135,13 @@
         "Kerncentrale": "Kernkraftwerk",
         "Onderzoek en afval (SCK CEN, Belgoprocess)": "Forschung und Abfall (SCK CEN, Belgoprocess)",
         "Medische isotopen": "Medizinische Isotope"
-      }
+      },
+      "kernboodschap": "Begeben Sie sich nach drinnen und bleiben Sie dort. Befolgen Sie die Anweisungen der Behörden. Verlassen Sie das Haus nicht auf eigene Initiative. Warten Sie auf Anweisungen der Behörden, bevor Sie Jodtabletten einnehmen. Nehmen Sie sie nie aus eigener Initiative ein.",
+      "bron": "https://krisenzentrum.be/de/risiken-belgien/technologische-risiken/zwischenfall-einer-nuklearanlage"
     },
     "schuilen": {
-      "advies": "Belgien hat nach unserem Kenntnisstand kein Netz öffentlicher Schutzräume. Der offizielle Rat bei einem nuklearen oder chemischen Zwischenfall lautet: Gehen Sie hinein, schließen Sie Fenster und Türen, schalten Sie die Lüftung aus und hören Sie Radio."
+      "advies": "Belgien hat nach unserem Kenntnisstand kein Netz öffentlicher Schutzräume. Der offizielle Rat bei einem nuklearen oder chemischen Zwischenfall lautet: Gehen Sie hinein, schließen Sie Fenster und Türen, schalten Sie die Lüftung aus und hören Sie Radio.",
+      "bron": "https://krisenzentrum.be/de/risiken-belgien/technologische-risiken/zwischenfall-einer-nuklearanlage"
     },
     "voorraad": {
       "water_bron": "Denk vooruit (niederländische Regierung): 3 Liter pro Person und Tag",
@@ -145,13 +167,17 @@
       "BE-Alert": {
         "soort": "alerts on your phone",
         "wat": "Text message, email or voice call from the authorities. A genuine message always starts with \"BE-Alert\". You have to register yourself.",
-        "voorbereiden": "Register on be-alert.be, for your own address and that of the people you care for."
+        "voorbereiden": "Register on be-alert.be, for your own address and that of the people you care for.",
+        "url": "https://www.be-alert.be/en",
+        "bron": "https://crisiscenter.be/en/what-can-you-do/stay-informed/get-informed-emergency-situation"
       },
       "Nationaal Crisiscentrum": {
         "naam": "National Crisis Center",
         "soort": "official website",
         "wat": "Official information in a national emergency, and the website risico-info.be on preparedness.",
-        "voorbereiden": "Bookmark the Crisis Center website and that of your municipality and province."
+        "voorbereiden": "Bookmark the Crisis Center website and that of your municipality and province.",
+        "url": "https://crisiscenter.be/en",
+        "bron": "https://crisiscenter.be/en/what-can-you-do/stay-informed/get-informed-emergency-situation"
       },
       "Openbare omroepen": {
         "naam": "Public broadcasters",
@@ -163,13 +189,17 @@
         "naam": "Information number 1771",
         "soort": "telephone",
         "wat": "Can be active within the hour in an emergency.",
-        "voorbereiden": "Save 1771 in your phone."
+        "voorbereiden": "Save 1771 in your phone.",
+        "url": "https://crisiscenter.be/en/role-national-crisis-center/communication",
+        "bron": "https://crisiscenter.be/en/role-national-crisis-center/communication"
       },
       "Sirenes en luidsprekers": {
         "naam": "Sirens and loudspeakers",
         "soort": "signal",
         "wat": "Sirens around nuclear and Seveso sites and police loudspeaker vans.",
-        "voorbereiden": "Find out whether you live near a siren and when it is tested."
+        "voorbereiden": "Find out whether you live near a siren and when it is tested.",
+        "url": "https://crisiscenter.be/en",
+        "bron": "https://crisiscenter.be/en/what-can-you-do/stay-informed/get-informed-emergency-situation"
       }
     },
     "nucleair": {
@@ -179,10 +209,13 @@
         "Kerncentrale": "Nuclear power plant",
         "Onderzoek en afval (SCK CEN, Belgoprocess)": "Research and waste (SCK CEN, Belgoprocess)",
         "Medische isotopen": "Medical isotopes"
-      }
+      },
+      "kernboodschap": "Get inside and stay there. Follow the recommendations of the authorities. Never evacuate on your own initiative. Wait for instructions from the authorities before taking iodine tablets. Never do it on your own initiative.",
+      "bron": "https://crisiscenter.be/en/risks-belgium/technological-risks/nuclear-plant-incident"
     },
     "schuilen": {
-      "advies": "As far as we know, Belgium has no network of public shelters. The official advice in a nuclear or chemical incident is: go inside, close windows and doors, switch off ventilation and listen to the radio."
+      "advies": "As far as we know, Belgium has no network of public shelters. The official advice in a nuclear or chemical incident is: go inside, close windows and doors, switch off ventilation and listen to the radio.",
+      "bron": "https://crisiscenter.be/en/risks-belgium/technological-risks/nuclear-plant-incident"
     },
     "voorraad": {
       "water_bron": "Denk vooruit (Dutch government): 3 litres per person per day",

@@ -15,7 +15,7 @@ const VERTAALD = { scenarios: 'scenariosVertaald', gidsen: 'gidsenVertaald', eer
  */
 const GEVOELIG_SCENARIOS = new Set(['nucleair', 'chemisch', 'co', 'drinkwater', 'pandemie']);
 const GEVOELIG_MODULES = new Set(['nucleair', 'gezondheid']);
-const GEVOELIG_GIDSEN = new Set(['water', 'jodium']);
+const GEVOELIG_GIDSEN = new Set(['water', 'jodium', 'hygiene-en-sanitair', 'gevaren-in-de-natuur']);
 
 export function isGevoelig(soort: Soort, o: Origineel): boolean {
   if (o.data.gevoelig !== undefined) return o.data.gevoelig;

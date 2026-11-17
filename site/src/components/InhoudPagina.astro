@@ -32,9 +32,14 @@ const dV = v?.data as (Data & { vertaling: string; vertaling_nagekeken_door?: st
 const nagekeken = dV?.vertaling === 'nagekeken' && !!dV.vertaling_nagekeken_door;
 const vorm: 'nl' | 'vertaald' | 'gevoelig' | 'ontbreekt' = taal === 'nl' ? 'nl' : !v ? 'ontbreekt' : item.gevoelig && !nagekeken ? 'gevoelig' : 'vertaald';
 const eerst = vorm === 'vertaald' ? { d: dV!, R: RV!, lang: taal } : { d: dO, R, lang: 'nl' as Taal };
+// Bij 'gevoelig' en 'ontbreekt' wordt de Nederlandse tekst in de browser opgehaald (zie het script onderaan).
 const langAttr = (l: Taal) => (l !== taal ? l : undefined);
 // Officiële bronnen in de taal van de pagina: de bronnen van de vertaling die niet ook in het Nederlandse origineel staan.
-const officieel = dV ? dV.bronnen.filter((b) => !dO.bronnen.some((x) => x.url === b.url)) : [];
+const officieel = [
+  ...(dV ? dV.bronnen.filter((b) => !dO.bronnen.some((x) => x.url === b.url)) : []),
+  // Eerste hulp: altijd ook de erkende hulporganisatie in de taal van de gebruiker.
+  ...(item.soort === 'eerstehulp' ? A.eerstehulp.officieel : []),
+].filter((b, i, l) => l.findIndex((x) => x.url === b.url) === i);
 const nagekekenVertaling = nagekeken;
 ---
 <p class="klein niet-afdrukken"><a href={pad(taal, terug)}>{terugTekst}</a></p>
@@ -59,7 +64,14 @@ const nagekekenVertaling = nagekeken;
 {item.soort === 'scenarios' && <div class="melding gevaar" set:html={A.algemeen.levensgevaar} />}
 {item.soort === 'eerstehulp' && <div class="melding gevaar"><Fragment set:html={A.eerstehulp.bel} /> {A.eerstehulp.volgMeldkamer}</div>}
 
-<div lang={langAttr(eerst.lang)} data-pagefind-ignore={vorm === 'gevoelig' || vorm === 'ontbreekt' ? '' : undefined}>
+{(vorm === 'gevoelig' || vorm === 'ontbreekt') ? (
+  // De Nederlandse tekst staat al op het toestel (/app/...); de pagina haalt hem daar op in plaats
+  // van hem een tweede keer mee te dragen. Zonder script blijft de link naar de Nederlandse pagina.
+  <div id="tekst" lang="nl" data-nl-bron={`/app/${pad_}/${item.id}/`} data-pagefind-ignore aria-busy="true">
+    <p><a href={origineelUrl} hreflang="nl">{t.origineel}</a></p>
+  </div>
+) : (
+<div id="tekst" lang={langAttr(eerst.lang)}>
   <p class="lead">{eerst.d.kort}</p>
   {eerst.d.stappen && (
     <section class="eerste-stappen">
@@ -75,6 +87,7 @@ const nagekekenVertaling = nagekeken;
     {vorm === 'vertaald' && <p>{t.vertaling}: {nagekekenVertaling ? t.nagekekenVertaling(dV!.vertaling_nagekeken_door!) : t.machine} {t.vertaaldVan(dV!.origineel_datum)}</p>}
   </Brondoos>
 </div>
+)}
 
 {vorm === 'gevoelig' && RV && dV && (
   <details class="vertaling-gevoelig niet-afdrukken">
@@ -98,3 +111,18 @@ const nagekekenVertaling = nagekeken;
 )}
 
 <div class="knoppen niet-afdrukken"><button class="knop" type="button" onclick="print()">{A.algemeen.afdrukken}</button></div>
+
+<script>
+  // Haal de Nederlandse tekst op uit de Nederlandse pagina (offline uit de cache van de service worker).
+  const doel = document.querySelector<HTMLElement>('[data-nl-bron]');
+  if (doel) {
+    fetch(doel.dataset.nlBron!)
+      .then((r) => (r.ok ? r.text() : Promise.reject(r.status)))
+      .then((html) => {
+        const bron = new DOMParser().parseFromString(html, 'text/html').getElementById('tekst');
+        if (bron) doel.replaceChildren(...[...bron.childNodes].map((n) => document.importNode(n, true)));
+      })
+      .catch(() => {})
+      .finally(() => doel.removeAttribute('aria-busy'));
+  }
+</script>

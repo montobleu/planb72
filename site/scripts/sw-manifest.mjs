@@ -20,7 +20,8 @@ const hoortBijKern = (rel) =>
   // De app in alle talen: /app/, /fr/app/, /de/app/, /en/app/.
   /^((fr|de|en)\/)?app\//.test(rel) ||
   rel.startsWith('_astro/') ||
-  rel.startsWith('pagefind/') ||
+  // Zoekindex zonder de kant-en-klare zoekschermen van Pagefind: de app gebruikt alleen pagefind.js.
+  (rel.startsWith('pagefind/') && !/^pagefind\/(pagefind-(component-ui|modular-ui|ui|highlight)\.|wasm\.unknown\.)/.test(rel)) ||
   rel.startsWith('kaart/') ||
   rel.startsWith('icons/') ||
   rel === 'favicon.svg' ||

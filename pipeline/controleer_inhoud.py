@@ -122,7 +122,7 @@ VERTAALSTATUS = ("machine", "na te lezen", "nagekeken")
 NIET_VERGELIJKEN = ("datum", "origineel_datum", "volgorde", "status", "vertaling", "vertaling_nagekeken_door",
                     "nagekeken_door", "module", "gevoelig")
 # Eenheden als symbool na een getal. Woorden ("liter", "Stunden") vergelijken we niet.
-EENHEDEN = ["km/h", "kWh", "mAh", "kHz", "MHz", "GHz", "mSv", "µSv", "mGy", "°C", "kW", "Wh", "Ah", "Sv", "Gy",
+EENHEDEN = ["km/h", "km/u", "km/std", "kWh", "mAh", "kHz", "MHz", "GHz", "mSv", "µSv", "mGy", "°C", "kW", "Wh", "Ah", "Sv", "Gy",
             "Bq", "dB", "km", "cm", "mm", "ml", "cl", "dl", "kg", "mg", "µg", "Hz", "%", "m", "g", "l", "L", "W", "V"]
 EENHEID_RE = re.compile(r"(?<=\d)\s?(" + "|".join(re.escape(e) for e in EENHEDEN) + r")(?![\w/])")
 
@@ -160,13 +160,16 @@ def lopende_tekst(tekst):
 def getallen(tekst, taal):
     """Getallen in een vaste vorm, ongeacht de schrijfwijze van de taal.
 
-    - uren: 13u30, 13h30, 13:30, 13.30 uur/Uhr -> 13:30
+    - uren: 13u30, 13h30, 13:30, 13.30 uur/Uhr -> 13:30; een vol uur (08:00, 8h00) telt als 8
     - duizendtallen: 1.500 (nl, de, fr), 1,500 (en), 1 500 (fr) -> 1500
     - decimalen: 27,065 (nl, de, fr) en 27.065 (en) -> 27.065
     - telefoonnummers met spaties: 070 245 245 -> 070245245 (in elke taal op dezelfde manier)
     """
     t = tekst
     t = re.sub(r"\b(\d{1,2})\s?(?:u|h|:)\s?(\d{2})\b", r" \1:\2 ", t)
+    if taal != "en":
+        # In het Nederlands, Duits en Frans is 10.30 een uur (decimalen krijgen een komma).
+        t = re.sub(r"\b([01]?\d|2[0-3])\.([0-5]\d)\b(?!\.\d)", r" \1:\2 ", t)
     t = re.sub(r"\b(\d{1,2})\.(\d{2})\s?(?=uur\b|Uhr\b)", r" \1:\2 ", t)
     # Groepen van drie cijfers na een spatie horen bij het vorige getal.
     vorig = None
@@ -177,7 +180,9 @@ def getallen(tekst, taal):
     for m in re.finditer(r"\d+:\d{2}|\d+(?:[.,]\d+)*", t):
         g = m.group(0)
         if ":" in g:
-            uit[g] += 1
+            # Uren: 08:00 = 8 uur, 13:30 = 13u30.
+            uur, minuut = g.split(":")
+            uit[str(int(uur)) if minuut == "00" else f"{int(uur)}:{minuut}"] += 1
             continue
         if taal == "en":
             g = re.sub(r",(?=\d{3}(?!\d))", "", g)
@@ -187,8 +192,11 @@ def getallen(tekst, taal):
     return uit
 
 
+GELIJKE_EENHEDEN = {"km/u": "km/h", "km/std": "km/h", "L": "l"}
+
+
 def eenheden(tekst):
-    return Counter(e.replace("L", "l") for e in EENHEID_RE.findall(tekst))
+    return Counter(GELIJKE_EENHEDEN.get(e, e) for e in EENHEID_RE.findall(tekst))
 
 
 def verschil(a, b):

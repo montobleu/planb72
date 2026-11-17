@@ -32,8 +32,8 @@ origineel_datum: "2026-11-17" # datum van de Nederlandse tekst waarvan vertaald 
 
 ## Bronnen in de vertaling
 
-- Verwijs naar de officiële pagina **in de taal van de vertaling** als die bestaat: Centre de crise National / Nationales Krisenzentrum / National Crisis Center, risico-info.be, nucleairrisico.be (risquenucleaire.be, nuklearrisiko.be), Centre Antipoisons, Croix-Rouge de Belgique en Rotes Kreuz Belgien voor eerste hulp, FOD Volksgezondheid (SPF Santé publique, FÖD Volksgesundheit).
-- Bestaat er geen versie in die taal, houd dan de oorspronkelijke bron.
+- Verwijs naar de officiële pagina **in de taal van de vertaling** als die bestaat: Centre de crise National (centredecrise.be) / Nationales Krisenzentrum (krisenzentrum.be) / National Crisis Center (crisiscenter.be), risquenucleaire.be / nuklearrisiko.be / nuclearrisk.be, Centre Antipoisons, AFCN, SPF Santé publique, Croix-Rouge de Belgique en Rotes Kreuz Belgien voor eerste hulp.
+- Vertalers nemen de URL's van het origineel letterlijk over. Daarna zet `python3 pipeline/bronnen_vertalen.py` ze om naar de pagina in de taal van de vertaling, volgens `data/bronnen/talen.json` (elke URL nagekeken). Bestaat er geen versie in die taal, dan blijft de oorspronkelijke bron.
 - Elk domein moet in `data/bronnen/register.json` staan.
 
 ## Wat letterlijk gelijk blijft
@@ -42,7 +42,9 @@ Getallen, telefoonnummers, frequenties, eenheden en uren blijven gelijk aan het 
 
 ## Medisch, nucleair en chemisch
 
-Medische, nucleaire en chemische instructies worden niet stilzwijgend vertaald. Voor deze teksten toont de app in het Frans, Duits en Engels eerst de Nederlandse tekst en de officiële bron in de taal van de gebruiker, en de vertaling pas na een extra waarschuwing. Welke teksten dat zijn, staat in `site/src/lib/inhoud.ts`: alle eerste hulp, de scenario's nucleair, chemisch, CO, drinkwater en pandemie, de gidsen over nucleair en gezondheid, en de gidsen water en jodium. Een tekst kan er ook bij met `gevoelig: true` in de Nederlandse frontmatter.
+Medische, nucleaire en chemische instructies worden niet stilzwijgend vertaald. Voor deze teksten toont de app in het Frans, Duits en Engels eerst de Nederlandse tekst en de officiële bron in de taal van de gebruiker, en de vertaling pas na een extra waarschuwing. Welke teksten dat zijn, staat in `site/src/lib/inhoud.ts`: alle eerste hulp, de scenario's nucleair, chemisch, CO, drinkwater en pandemie, de gidsen over nucleair en gezondheid, en de gidsen water, jodium, hygiëne en sanitair, en gevaren in de natuur. Een tekst kan er ook bij met `gevoelig: true` in de Nederlandse frontmatter.
+
+De Nederlandse tekst wordt daarbij uit de Nederlandse pagina gehaald, die al op het toestel staat, zodat hij niet twee keer in het offline pakket zit. Boven eerste hulp staat ook de erkende hulporganisatie in de taal van de gebruiker (`site/src/i18n/app.ts`, `eerstehulp.officieel`).
 
 Zo'n vertaling verschijnt pas zonder waarschuwing wanneer `vertaling: nagekeken` en `status: nagekeken` beide gelden en een zorgverlener of deskundige de vertaling heeft goedgekeurd (zie `docs/nazicht.md`).
 
