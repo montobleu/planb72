@@ -1,0 +1,135 @@
+{
+  "code": "DE",
+  "naam": { "nl": "Duitsland", "fr": "Allemagne", "de": "Deutschland", "en": "Germany" },
+  "talen": ["de"],
+  "bbox": [5.87, 47.27, 15.04, 55.10],
+  "centrum": [10.37, 51.32],
+  "bijgewerkt": "2026-11-17",
+  "status": "concept",
+  "noodnummers": [
+    { "nummer": "112", "wat": "Brandweer en ambulance", "dringend": true, "bron": "https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/Buergerinformationen/Ratgeber/BBK-Vorsorgen-fuer-Krisen-und-Katastrophen.pdf?__blob=publicationFile&v=44" },
+    { "nummer": "110", "wat": "Politie", "dringend": true, "bron": "https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/Buergerinformationen/Ratgeber/BBK-Vorsorgen-fuer-Krisen-und-Katastrophen.pdf?__blob=publicationFile&v=44" },
+    { "nummer": "116 117", "wat": "Ärztlicher Bereitschaftsdienst: dokter van wacht als je 's avonds, in het weekend of op een feestdag ziek bent. Dag en nacht bereikbaar. Bij levensgevaar bel je 112.", "dringend": false, "bron": "https://www.116117.de/de/index.php" },
+    { "nummer": "115", "wat": "Behördenrufnummer: algemeen informatienummer van de overheid", "dringend": false, "bron": "https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/Buergerinformationen/Ratgeber/BBK-Vorsorgen-fuer-Krisen-und-Katastrophen.pdf?__blob=publicationFile&v=44" },
+    { "nummer": "0800 111 0 111", "wat": "Telefonseelsorge: dag en nacht, gratis en op wens anoniem", "dringend": false, "bron": "https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/Buergerinformationen/Ratgeber/BBK-Vorsorgen-fuer-Krisen-und-Katastrophen.pdf?__blob=publicationFile&v=44" },
+    { "nummer": "0800 111 0 222", "wat": "Telefonseelsorge (tweede nummer): dag en nacht, gratis en op wens anoniem", "dringend": false, "bron": "https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/Buergerinformationen/Ratgeber/BBK-Vorsorgen-fuer-Krisen-und-Katastrophen.pdf?__blob=publicationFile&v=44" },
+    { "nummer": "116 123", "wat": "Telefonseelsorge (derde nummer): dag en nacht, gratis en op wens anoniem", "dringend": false, "bron": "https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/Buergerinformationen/Ratgeber/BBK-Vorsorgen-fuer-Krisen-und-Katastrophen.pdf?__blob=publicationFile&v=44" },
+    { "nummer": "116 016", "wat": "Hilfetelefon Gewalt gegen Frauen: dag en nacht, het hele jaar, ook in 18 andere talen. Anoniem en gratis.", "dringend": false, "bron": "https://www.hilfetelefon.de/" },
+    { "nummer": "116 111", "wat": "Nummer gegen Kummer: kinder- en jongerentelefoon, maandag tot zaterdag van 14 tot 20 uur, gratis en anoniem", "dringend": false, "bron": "https://www.nummergegenkummer.de/" },
+    { "nummer": "0800 111 0 550", "wat": "Nummer gegen Kummer: oudertelefoon, maandag, woensdag en vrijdag van 9 tot 17 uur, dinsdag en donderdag van 9 tot 19 uur", "dringend": false, "bron": "https://www.nummergegenkummer.de/" },
+    { "nummer": "116 000", "wat": "Hulptelefoon bij vermiste kinderen (Initiative Vermisste Kinder): dag en nacht, gratis", "dringend": false, "bron": "https://www.initiative-vermisste-kinder.de/" },
+    { "nummer": "030 19240", "wat": "Giftnotruf Berlijn (Charité Universitätsmedizin)", "dringend": false, "bron": "https://www.bfr.bund.de/cm/343/verzeichnis-der-giftinformationszentren.pdf" },
+    { "nummer": "0228 19240", "wat": "Giftnotruf Bonn (Universitätsklinikum Bonn)", "dringend": false, "bron": "https://www.bfr.bund.de/cm/343/verzeichnis-der-giftinformationszentren.pdf" },
+    { "nummer": "0361 730730", "wat": "Giftnotruf Erfurt, voor Mecklenburg-Vorpommern, Sachsen, Sachsen-Anhalt en Thüringen", "dringend": false, "bron": "https://www.bfr.bund.de/cm/343/verzeichnis-der-giftinformationszentren.pdf" },
+    { "nummer": "0761 19240", "wat": "Giftnotruf Freiburg (Universitätsklinikum Freiburg)", "dringend": false, "bron": "https://www.bfr.bund.de/cm/343/verzeichnis-der-giftinformationszentren.pdf" },
+    { "nummer": "0551 19240", "wat": "Giftnotruf Göttingen (GIZ-Nord), voor Bremen, Hamburg, Niedersachsen en Schleswig-Holstein", "dringend": false, "bron": "https://www.bfr.bund.de/cm/343/verzeichnis-der-giftinformationszentren.pdf" },
+    { "nummer": "06131 19240", "wat": "Giftnotruf Mainz, voor Rheinland-Pfalz, Hessen en Saarland", "dringend": false, "bron": "https://www.bfr.bund.de/cm/343/verzeichnis-der-giftinformationszentren.pdf" },
+    { "nummer": "089 19240", "wat": "Giftnotruf München (TUM Klinikum rechts der Isar)", "dringend": false, "bron": "https://www.bfr.bund.de/cm/343/verzeichnis-der-giftinformationszentren.pdf" }
+  ],
+  "kanalen": [
+    {
+      "naam": "Warn-App NINA",
+      "soort": "app",
+      "wat": "Waarschuwings-app van de federale overheid (BBK). Geeft waarschuwingen van de bevolkingsbescherming en de politie, weerwaarschuwingen van de Deutscher Wetterdienst en informatie over hoogwater. Zonder geabonneerde gebieden krijg je geen waarschuwing.",
+      "voorbereiden": "Installeer NINA en abonneer je woonplaats en de plaats waar je werkt of studeert. Zet pushmeldingen aan, eventueel ook voor je huidige locatie.",
+      "url": "https://www.bbk.bund.de/DE/Warnung-Vorsorge/Warn-App-NINA/warn-app-nina_node.html",
+      "bron": "https://www.bbk.bund.de/DE/Warnung-Vorsorge/Warn-App-NINA/warn-app-nina_node.html"
+    },
+    {
+      "naam": "Cell Broadcast",
+      "soort": "alarmering op de telefoon",
+      "wat": "Waarschuwing rechtstreeks op je gsm, zonder inschrijving en zonder app. De afzender staat in het bericht. Een bericht is hoogstens 500 tekens lang. Er komt geen Entwarnung via Cell Broadcast.",
+      "voorbereiden": "Werk je telefoon bij: Android 11 of hoger, iOS 16.1 of hoger. Het toestel moet aan staan en niet in vliegtuigmodus.",
+      "url": "https://www.bbk.bund.de/DE/Warnung-Vorsorge/Warnung-in-Deutschland/So-werden-Sie-gewarnt/Cell-Broadcast/cell-broadcast_node.html",
+      "bron": "https://www.bbk.bund.de/DE/Warnung-Vorsorge/Warnung-in-Deutschland/So-werden-Sie-gewarnt/Cell-Broadcast/cell-broadcast_node.html"
+    },
+    {
+      "naam": "Bundeswarnportal warnung.bund.de",
+      "soort": "officiële website",
+      "wat": "Overzicht van alle actuele waarschuwingen in Duitsland. Hier kun je nagaan of een bericht echt is.",
+      "voorbereiden": "Bewaar warnung.bund.de als bladwijzer op je telefoon.",
+      "url": "https://warnung.bund.de",
+      "bron": "https://www.bbk.bund.de/DE/Warnung-Vorsorge/Warnung-in-Deutschland/So-werden-Sie-gewarnt/Cell-Broadcast/cell-broadcast_node.html"
+    },
+    {
+      "naam": "Modulares Warnsystem (MoWaS)",
+      "soort": "waarschuwingssysteem",
+      "wat": "Systeem waarmee Bund, Länder en gemeenten waarschuwen. Eén waarschuwing gaat tegelijk naar NINA, Cell Broadcast, radio, tv, websites en digitale informatieborden in de stad. Sirenes geven alleen een alarmsignaal.",
+      "voorbereiden": "Geen actie nodig. Je bereikt MoWaS via de andere kanalen in deze lijst.",
+      "url": "https://www.bbk.bund.de/DE/Warnung-Vorsorge/Warnung-in-Deutschland/MoWaS/mowas_node.html",
+      "bron": "https://www.bbk.bund.de/DE/Warnung-Vorsorge/Warnung-in-Deutschland/MoWaS/mowas_node.html"
+    },
+    {
+      "naam": "Sirenes",
+      "soort": "signaal",
+      "wat": "Waarschuwing: een minuut lang een aan- en afzwellende huiltoon. Entwarnung: een minuut lang een gelijkblijvende toon. Niet overal in Duitsland zijn sirenes; elke gemeente beslist zelf. Een sirene zegt niet wat er aan de hand is: zoek de uitleg via radio, app of website.",
+      "voorbereiden": "Vraag bij je gemeente of er sirenes zijn en of ze eigen, extra signalen gebruiken.",
+      "url": "https://www.bbk.bund.de/DE/Warnung-Vorsorge/Warnung-in-Deutschland/So-werden-Sie-gewarnt/Sirenen/sirenen_node.html",
+      "bron": "https://www.bbk.bund.de/DE/Warnung-Vorsorge/Warnung-in-Deutschland/So-werden-Sie-gewarnt/Sirenen/sirenen_node.html"
+    },
+    {
+      "naam": "Bundesweiter Warntag",
+      "soort": "test",
+      "wat": "Elk jaar op de tweede donderdag van september wordt om 11 uur een proefwaarschuwing verstuurd via radio, tv, digitale borden, apps en Cell Broadcast. Veel gemeenten testen dan ook sirenes en luidsprekerwagens. Rond 11.45 uur volgt de Entwarnung. De volgende Warntag is op 9 september 2027.",
+      "voorbereiden": "Ga op de Warntag na of je telefoon de waarschuwing ontvangt.",
+      "url": "https://www.bbk.bund.de/DE/Warnung-Vorsorge/Bundesweiter-Warntag/bundesweiter-warntag_node.html",
+      "bron": "https://www.bundesregierung.de/breg-de/service/newsletter-und-abos/newsletter-verbraucherschutz/bundesweiter-warntag-2383690"
+    },
+    {
+      "naam": "Radio en tv",
+      "soort": "radio en tv",
+      "wat": "De meeste informatie krijg je via waarschuwingsapps en radio. Als het gsm-netwerk en internet uitvallen, vallen ook de apps en de waarschuwingen op de telefoon weg. Radiozenders werken dan nog.",
+      "voorbereiden": "Hou een radio op batterijen, een slingerradio of de autoradio klaar. Die werken ook bij een stroomuitval.",
+      "url": "https://www.bbk.bund.de/DE/Warnung-Vorsorge/Warnung-in-Deutschland/So-werden-Sie-gewarnt/so-werden-sie-gewarnt_node.html",
+      "bron": "https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/Buergerinformationen/Ratgeber/BBK-Vorsorgen-fuer-Krisen-und-Katastrophen.pdf?__blob=publicationFile&v=44"
+    },
+    {
+      "naam": "KATWARN, BIWAPP en regionale apps",
+      "soort": "app",
+      "wat": "Andere waarschuwingsapps die het BBK naast NINA vermeldt.",
+      "voorbereiden": "Ga na welke app je deelstaat of gemeente gebruikt.",
+      "url": "https://www.bbk.bund.de/DE/Warnung-Vorsorge/Warnung-in-Deutschland/So-werden-Sie-gewarnt/so-werden-sie-gewarnt_node.html",
+      "bron": "https://www.bbk.bund.de/DE/Warnung-Vorsorge/Warnung-in-Deutschland/So-werden-Sie-gewarnt/so-werden-sie-gewarnt_node.html"
+    },
+    {
+      "naam": "BBK-Ratgeber Vorsorgen für Krisen und Katastrophen",
+      "soort": "officiële website",
+      "wat": "Gids van het BBK met informatie en adviezen voor allerlei noodsituaties, met checklists achteraan. Gratis te downloaden of op papier te bestellen.",
+      "voorbereiden": "Download de gids en de checklist en bewaar een geprinte versie thuis.",
+      "url": "https://www.bbk.bund.de/DE/Warnung-Vorsorge/Vorsorge/Ratgeber-Checkliste/ratgeber-checkliste_node.html",
+      "bron": "https://www.bbk.bund.de/DE/Warnung-Vorsorge/Vorsorge/Ratgeber-Checkliste/ratgeber-checkliste_node.html"
+    }
+  ],
+  "nucleair": {
+    "kernboodschap": "Ga binnen en blijf binnen. Sluit ramen en deuren en zet ventilatie en airco uit. Neem jodiumtabletten alleen wanneer de overheid daar uitdrukkelijk om vraagt. De deelstaat beslist over een evacuatie en leidt die.",
+    "bron": "https://www.bfs.de/DE/themen/ion/notfallschutz/verhalten/verhalten_node.html",
+    "uitbreidingszone_km": 100,
+    "opmerking": "Duitsland plant rond een kerncentrale drie zones. Zentralzone, tot ongeveer 5 km: schuilen, jodiumtabletten en evacuatie worden voorbereid, ongeacht de windrichting; evacuatie binnen ongeveer 6 uur. Mittelzone, tot ongeveer 20 km: dezelfde maatregelen, afhankelijk van de windrichting; evacuatie binnen 24 uur. Außenzone, tot ongeveer 100 km: schuilen, verdeling van jodiumtabletten en een waarschuwing tegen het eten van vers geoogste voedingsmiddelen. In heel Duitsland worden jodiumtabletten voorzien voor kinderen en jongeren onder 18 jaar en voor zwangere vrouwen. De grenzen worden ter plaatse aangepast aan terrein, bewoning en bestuursgrenzen. Duitsland heeft zelf geen kerncentrale meer in bedrijf; de kaart toont de centrales in de buurlanden waarvoor Duitsland zones plant, en Duitse nucleaire installaties zonder vaste zones.",
+    "coordinaten_status": "uit OpenStreetMap (Nominatim, middelpunt van het terrein), opgevraagd op 2026-11-17",
+    "sites": [
+      { "id": "cattenom", "naam": "Cattenom", "soort": "Kerncentrale", "land": "FR", "lat": 49.4171, "lon": 6.2194, "schuilen_km": 20, "jodium_km": 20, "evacuatie_km": 20 },
+      { "id": "tihange", "naam": "Tihange", "soort": "Kerncentrale", "land": "BE", "lat": 50.5334, "lon": 5.2740, "schuilen_km": 20, "jodium_km": 20, "evacuatie_km": 20 },
+      { "id": "leibstadt", "naam": "Leibstadt", "soort": "Kerncentrale", "land": "CH", "lat": 47.6013, "lon": 8.1828, "schuilen_km": 20, "jodium_km": 20, "evacuatie_km": 20 },
+      { "id": "beznau", "naam": "Beznau", "soort": "Kerncentrale", "land": "CH", "lat": 47.5521, "lon": 8.2280, "schuilen_km": 20, "jodium_km": 20, "evacuatie_km": 20 },
+      { "id": "goesgen", "naam": "Gösgen", "soort": "Kerncentrale", "land": "CH", "lat": 47.3650, "lon": 7.9680, "schuilen_km": 20, "jodium_km": 20, "evacuatie_km": 20 },
+      { "id": "temelin", "naam": "Temelín", "soort": "Kerncentrale", "land": "CZ", "lat": 49.1797, "lon": 14.3777, "schuilen_km": 20, "jodium_km": 20, "evacuatie_km": 20 },
+      { "id": "fessenheim", "naam": "Fessenheim", "soort": "Kerncentrale, definitief stilgelegd in 2020", "land": "FR", "lat": 47.9068, "lon": 7.5625, "schuilen_km": null, "jodium_km": null, "evacuatie_km": null },
+      { "id": "garching-frm-ii", "naam": "Garching (FRM II)", "soort": "Onderzoeksreactor", "land": "DE", "lat": 48.2658, "lon": 11.6754, "schuilen_km": null, "jodium_km": null, "evacuatie_km": null },
+      { "id": "gronau-urenco", "naam": "Gronau (Urenco)", "soort": "Uraanverrijking", "land": "DE", "lat": 52.2146, "lon": 7.0762, "schuilen_km": null, "jodium_km": null, "evacuatie_km": null },
+      { "id": "lingen-anf", "naam": "Lingen (ANF)", "soort": "Splijtstoffabriek", "land": "DE", "lat": 52.4804, "lon": 7.3316, "schuilen_km": null, "jodium_km": null, "evacuatie_km": null }
+    ],
+    "zones_bron": "https://ssk.de/fileadmin/documents/de/2015/Rahmenempfehlungen_Katastrophenschutz.pdf"
+  },
+  "schuilen": {
+    "officieel_netwerk": false,
+    "advies": "Duitsland stopte in 2007 met de bouw en het onderhoud van openbare schuilkelders. Bund en Länder overleggen of ze weer in gebruik kunnen. Een digitaal overzicht van alle toegankelijke schuilplaatsen is gepland. Bij explosies of een luchtaanval: een kelder zonder ramen beschermt het best. Zonder kelder ga je naar een binnenruimte zoals een trappenhal, badkamer of gang, en vermijd je de zolder. Ook scholen, musea, ondergrondse parkeergarages en metrostations kunnen bescherming bieden; blijf ver van open ingangen, ramen en deuren. Bij gassen of dampen buiten: ga een gebouw binnen, sluit ramen en deuren, zet de ventilatie uit en ga liefst naar een hogere verdieping. Bij vrijgekomen radioactieve stoffen: zo diep mogelijk, liefst in een kelder.",
+    "bron": "https://www.bbk.bund.de/DE/Warnung-Vorsorge/Vorsorge/Schutz-suchen/Schutz-vor-Explosion/schutz-vor-explosion_node.html"
+  },
+  "voorraad": {
+    "water_liter_pp_per_dag": 2,
+    "water_bron": "BBK-Ratgeber Vorsorgen für Krisen und Katastrophen (2e druk, 11/2025): idealiter 2 liter per persoon per dag, waarvan 0,5 liter om te koken",
+    "water_status": "Bevestigd in de BBK-Ratgeber. Het BBK raadt aan dat elk huishouden zich zo mogelijk 10 dagen zelf kan redden; een voorraad voor minstens 3 dagen helpt al veel. 10 dagen is 240 uur.",
+    "advies_uren": 240,
+    "advies_bron": "https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/Buergerinformationen/Ratgeber/BBK-Vorsorgen-fuer-Krisen-und-Katastrophen.pdf?__blob=publicationFile&v=44"
+  }
+}
