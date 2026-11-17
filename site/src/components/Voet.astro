@@ -1,5 +1,4 @@
 ---
-import { APP_VERSIE } from '../lib/data';
 import { pad, type Taal } from '../i18n/talen';
 import { SITE } from '../i18n/site';
 interface Props { taal: Taal }
@@ -32,6 +31,5 @@ const v = SITE[taal].voet;
         </ul>
       </div>
     </div>
-    <p class="klein">{v.licentie} · v{APP_VERSIE}{v.vertaling && <> · {v.vertaling}</>}</p>
   </div>
 </footer>

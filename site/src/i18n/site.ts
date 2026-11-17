@@ -13,8 +13,6 @@ const nl = {
     over: 'Onafhankelijk open-sourceproject. Geen overheidsdienst en geen vervanging van de hulpdiensten. Bij levensgevaar: bel 112.',
     project: 'Project', meedoen: 'Meedoen',
     links: { over: 'Over en principes', bronnen: 'Bronnenregister', status: 'Status van de bronnen', privacy: 'Privacy', nazicht: 'Hoe we nakijken', meehelpen: 'Bijdragen', doneren: 'Doneren en kosten', code: 'Broncode' },
-    licentie: 'Kaartdata © OpenStreetMap-bijdragers (ODbL) · Eigen teksten CC BY-SA 4.0 · Overgenomen inhoud behoudt de licentie van de bron.',
-    vertaling: '',
   },
   home: {
     boventitel: 'Noodinformatie voor België',
@@ -174,8 +172,6 @@ const fr: Teksten = {
     over: 'Projet open source indépendant. Ni service public, ni substitut aux services de secours. En cas de danger de mort : appelez le 112.',
     project: 'Projet', meedoen: 'Participer',
     links: { over: 'À propos et principes', bronnen: 'Registre des sources', status: 'État des sources', privacy: 'Vie privée', nazicht: 'Notre relecture', meehelpen: 'Contribuer', doneren: 'Dons et coûts', code: 'Code source' },
-    licentie: 'Données cartographiques © contributeurs OpenStreetMap (ODbL) · Textes propres CC BY-SA 4.0 · Le contenu repris garde la licence de sa source.',
-    vertaling: 'Traduction en cours de relecture.',
   },
   home: {
     boventitel: 'Informations d\'urgence pour la Belgique',
@@ -333,8 +329,6 @@ const de: Teksten = {
     over: 'Unabhängiges Open-Source-Projekt. Kein behördlicher Dienst und kein Ersatz für die Rettungsdienste. Bei Lebensgefahr: 112 anrufen.',
     project: 'Projekt', meedoen: 'Mitmachen',
     links: { over: 'Über und Grundsätze', bronnen: 'Quellenregister', status: 'Status der Quellen', privacy: 'Datenschutz', nazicht: 'Wie wir prüfen', meehelpen: 'Mitwirken', doneren: 'Spenden und Kosten', code: 'Quellcode' },
-    licentie: 'Kartendaten © OpenStreetMap-Mitwirkende (ODbL) · Eigene Texte CC BY-SA 4.0 · Übernommene Inhalte behalten die Lizenz der Quelle.',
-    vertaling: 'Übersetzung wird noch geprüft.',
   },
   home: {
     boventitel: 'Notfallinformationen für Belgien',
@@ -492,8 +486,6 @@ const en: Teksten = {
     over: 'Independent open-source project. Not a government service and not a substitute for the emergency services. In a life-threatening emergency, call 112.',
     project: 'Project', meedoen: 'Get involved',
     links: { over: 'About and principles', bronnen: 'Source register', status: 'Source status', privacy: 'Privacy', nazicht: 'How we review', meehelpen: 'Contribute', doneren: 'Donations and costs', code: 'Source code' },
-    licentie: 'Map data © OpenStreetMap contributors (ODbL) · Own texts CC BY-SA 4.0 · Reused content keeps the licence of its source.',
-    vertaling: 'Translation awaiting review.',
   },
   home: {
     boventitel: 'Emergency information for Belgium',
