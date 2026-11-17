@@ -10,9 +10,11 @@
     "binding": "ASSETS",
     "not_found_handling": "404-page",
     "html_handling": "force-trailing-slash",
-    "run_worker_first": ["/data/*"]
+    "run_worker_first": ["/data/*", "/stats/*"]
   },
   "r2_buckets": [{ "binding": "PAKKETTEN", "bucket_name": "planb72-pakketten" }],
+  // Nvivio: sitecode hier, proxysleutel als secret (npx wrangler secret put NVIVIO_KEY).
+  "vars": { "NVIVIO_SITE": "" },
   "workers_dev": true,
   "observability": { "enabled": false }
   // Eigen domein (pas na akkoord):

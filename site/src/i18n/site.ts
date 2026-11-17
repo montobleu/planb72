@@ -121,7 +121,7 @@ const nl = {
       ['Zuinig met batterij', 'Geen animaties, geen video, tekst eerst.'],
       ['Alleen erkende bronnen', 'Elke pagina toont bron, datum en licentie. Medische en nucleaire teksten worden nooit herschreven.'],
       ['Eerlijk over betrouwbaarheid', 'Elk punt op de kaart draagt een label: officieel, uit OpenStreetMap, of onbevestigd.'],
-      ['Neutraal', 'Geen reclame, geen affiliate-links, geen tracking, geen account.'],
+      ['Neutraal', 'Geen reclame, geen affiliate-links, geen account. Alleen anonieme, cookieloze bezoekersstatistiek.'],
       ['Open', 'Open broncode, reproduceerbare builds, inhoud met behoud van de licentie van de bron.'],
     ],
     stappenTitel: 'Stappenplan',
@@ -141,7 +141,7 @@ const nl = {
   },
   privacy: {
     titel: 'Privacy',
-    punten: ['Geen account, geen analyse, geen cookies.', 'De app laadt niets van andere servers. Je positie, gezinsnoodplan en notities blijven op je toestel.', 'Bij het bijwerken haalt de app alleen een klein overzichtsbestand op, zonder gegevens over jou.', 'Links naar OpenStreetMap of officiële sites verlaten PlanB72; daar gelden hun regels.'],
+    punten: ['Geen account en geen cookies.', 'Voor anonieme bezoekersstatistieken gebruiken we Nvivio (Monto Bleu BV, gehost in de EU): cookieloos, zonder opslag van IP-adressen en zonder profielen. Browsers met Global Privacy Control worden niet geteld.', 'Al het verkeer loopt via planb72.org; de app laadt niets van andere servers. Je positie, gezinsnoodplan en notities blijven op je toestel.', 'Bij het bijwerken haalt de app alleen een klein overzichtsbestand op, zonder gegevens over jou.', 'Links naar OpenStreetMap of officiële sites verlaten PlanB72; daar gelden hun regels.'],
   },
   bronnen: {
     titel: 'Bronnenregister',
@@ -280,7 +280,7 @@ const fr: Teksten = {
       ['Économe en batterie', 'Pas d\'animations, pas de vidéo, le texte d\'abord.'],
       ['Uniquement des sources reconnues', 'Chaque page indique la source, la date et la licence. Les textes médicaux et nucléaires ne sont jamais réécrits.'],
       ['Honnête sur la fiabilité', 'Chaque point de la carte porte une étiquette : officiel, OpenStreetMap ou non confirmé.'],
-      ['Neutre', 'Pas de publicité, pas de liens d\'affiliation, pas de pistage, pas de compte.'],
+      ['Neutre', 'Pas de publicité, pas de liens d\'affiliation, pas de compte. Uniquement des statistiques de visite anonymes, sans cookies.'],
       ['Ouvert', 'Code source ouvert, builds reproductibles, contenu sous la licence de sa source.'],
     ],
     stappenTitel: 'Feuille de route',
@@ -300,7 +300,7 @@ const fr: Teksten = {
   },
   privacy: {
     titel: 'Vie privée',
-    punten: ['Pas de compte, pas d\'analyse, pas de cookies.', 'L\'app ne charge rien depuis d\'autres serveurs. Votre position, votre plan d\'urgence et vos notes restent sur votre appareil.', 'Lors d\'une mise à jour, l\'app ne télécharge qu\'un petit fichier de version, sans données sur vous.', 'Les liens vers OpenStreetMap ou des sites officiels quittent PlanB72 ; leurs règles s\'y appliquent.'],
+    punten: ['Pas de compte et pas de cookies.', 'Pour des statistiques de visite anonymes, nous utilisons Nvivio (Monto Bleu SRL, hébergé dans l\'UE) : sans cookies, sans stockage des adresses IP et sans profils. Les navigateurs avec Global Privacy Control ne sont pas comptés.', 'Tout le trafic passe par planb72.org ; l\'app ne charge rien depuis d\'autres serveurs. Votre position, votre plan d\'urgence et vos notes restent sur votre appareil.', 'Lors d\'une mise à jour, l\'app ne télécharge qu\'un petit fichier de version, sans données sur vous.', 'Les liens vers OpenStreetMap ou des sites officiels quittent PlanB72 ; leurs règles s\'y appliquent.'],
   },
   bronnen: {
     titel: 'Registre des sources',
@@ -437,7 +437,7 @@ const de: Teksten = {
       ['Sparsam mit dem Akku', 'Keine Animationen, kein Video, Text zuerst.'],
       ['Nur anerkannte Quellen', 'Jede Seite zeigt Quelle, Datum und Lizenz. Medizinische und nukleare Texte werden nie umgeschrieben.'],
       ['Ehrlich zur Verlässlichkeit', 'Jeder Punkt auf der Karte trägt eine Kennzeichnung: offiziell, aus OpenStreetMap oder unbestätigt.'],
-      ['Neutral', 'Keine Werbung, keine Affiliate-Links, kein Tracking, kein Konto.'],
+      ['Neutral', 'Keine Werbung, keine Affiliate-Links, kein Konto. Nur anonyme Besucherstatistik ohne Cookies.'],
       ['Offen', 'Offener Quellcode, reproduzierbare Builds, Inhalte unter der Lizenz ihrer Quelle.'],
     ],
     stappenTitel: 'Fahrplan',
@@ -457,7 +457,7 @@ const de: Teksten = {
   },
   privacy: {
     titel: 'Datenschutz',
-    punten: ['Kein Konto, keine Analyse, keine Cookies.', 'Die App lädt nichts von anderen Servern. Ihr Standort, Notfallplan und Ihre Notizen bleiben auf Ihrem Gerät.', 'Bei einer Aktualisierung lädt die App nur eine kleine Übersichtsdatei, ohne Daten über Sie.', 'Links zu OpenStreetMap oder offiziellen Seiten verlassen PlanB72; dort gelten deren Regeln.'],
+    punten: ['Kein Konto und keine Cookies.', 'Für anonyme Besucherstatistiken nutzen wir Nvivio (Monto Bleu BV, in der EU gehostet): ohne Cookies, ohne Speicherung von IP-Adressen und ohne Profile. Browser mit Global Privacy Control werden nicht gezählt.', 'Der gesamte Datenverkehr läuft über planb72.org; die App lädt nichts von anderen Servern. Ihr Standort, Notfallplan und Ihre Notizen bleiben auf Ihrem Gerät.', 'Bei einer Aktualisierung lädt die App nur eine kleine Übersichtsdatei, ohne Daten über Sie.', 'Links zu OpenStreetMap oder offiziellen Seiten verlassen PlanB72; dort gelten deren Regeln.'],
   },
   bronnen: {
     titel: 'Quellenregister',
@@ -594,7 +594,7 @@ const en: Teksten = {
       ['Easy on the battery', 'No animations, no video, text first.'],
       ['Recognised sources only', 'Every page shows source, date and licence. Medical and nuclear texts are never rewritten.'],
       ['Honest about reliability', 'Every point on the map carries a label: official, from OpenStreetMap, or unconfirmed.'],
-      ['Neutral', 'No ads, no affiliate links, no tracking, no account.'],
+      ['Neutral', 'No ads, no affiliate links, no account. Only anonymous, cookieless visitor statistics.'],
       ['Open', 'Open source code, reproducible builds, content under the licence of its source.'],
     ],
     stappenTitel: 'Roadmap',
@@ -614,7 +614,7 @@ const en: Teksten = {
   },
   privacy: {
     titel: 'Privacy',
-    punten: ['No account, no analytics, no cookies.', 'The app loads nothing from other servers. Your location, emergency plan and notes stay on your device.', 'When updating, the app only fetches a small overview file, without any data about you.', 'Links to OpenStreetMap or official sites leave PlanB72; their rules apply there.'],
+    punten: ['No account and no cookies.', 'For anonymous visitor statistics we use Nvivio (Monto Bleu BV, hosted in the EU): cookieless, no storage of IP addresses and no profiles. Browsers with Global Privacy Control are not counted.', 'All traffic goes through planb72.org; the app loads nothing from other servers. Your location, emergency plan and notes stay on your device.', 'When updating, the app only fetches a small overview file, without any data about you.', 'Links to OpenStreetMap or official sites leave PlanB72; their rules apply there.'],
   },
   bronnen: {
     titel: 'Source register',

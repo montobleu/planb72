@@ -56,7 +56,7 @@ npx wrangler r2 object put planb72-pakketten/be/basis.pmtiles --file public/data
 2. **Alleen erkende bronnen**, met bron, datum en licentie op elke pagina.
 3. **Twee paar ogen** op alles wat levens raakt, waarvan één met vakkennis.
 4. **Offline is de norm.** De app laadt niets van andere servers (afgedwongen met een Content-Security-Policy).
-5. **Geen tracking, geen account, geen reclame.**
+5. **Geen account, geen reclame, geen cookies.** Alleen anonieme, cookieloze bezoekersstatistiek via [Nvivio](https://nvivio.com), via een proxy op ons eigen domein (`/stats/`).
 
 ## Licenties
 

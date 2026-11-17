@@ -53,7 +53,7 @@ ${gidsen.map((g) => regel(`/app/gids/${g.id}/`, g.data.titel, g.data.kort)).join
 ## Optional
 
 - [Download](${SITE}/download/): de app als web-app, voor computer of USB-stick.
-- [Privacy](${SITE}/privacy/): geen account, geen tracking, alles blijft op het toestel.
+- [Privacy](${SITE}/privacy/): geen account, geen cookies, alleen anonieme cookieloze statistiek; persoonlijke gegevens blijven op het toestel.
 - [Broncode](https://github.com/montobleu/planb72): open source.
 `;
 

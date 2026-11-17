@@ -24,6 +24,8 @@ const basis = Astro.site ?? new URL('https://planb72.org');
   <meta name="description" content={omschrijving} />
   <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
   <link rel="manifest" href="/manifest.webmanifest" />
+  <!-- Cookieloze bezoekersstatistiek (Nvivio), via ons eigen domein. Zie /privacy/. -->
+  <script is:inline defer src="/stats/script.js"></script>
   <link rel="apple-touch-icon" href="/icons/icoon-192.png" />
   <link rel="preload" href="/fonts/ibm-plex-sans-latin-400-normal.woff2" as="font" type="font/woff2" crossorigin />
   <link rel="preload" href="/fonts/ibm-plex-sans-latin-600-normal.woff2" as="font" type="font/woff2" crossorigin />
