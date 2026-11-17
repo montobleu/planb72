@@ -1,0 +1,12 @@
+---
+// Inhoudstafel op basis van de ##-koppen van een tekst.
+import type { MarkdownHeading } from 'astro';
+interface Props { koppen: MarkdownHeading[] }
+const koppen = Astro.props.koppen.filter((k) => k.depth === 2);
+---
+{koppen.length > 2 && (
+  <nav class="inhoudstafel" aria-label="Op deze pagina">
+    <p class="boventitel">Op deze pagina</p>
+    <ol>{koppen.map((k) => <li><a href={`#${k.slug}`}>{k.text}</a></li>)}</ol>
+  </nav>
+)}

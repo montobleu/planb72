@@ -1,6 +1,7 @@
 ---
 import App from '../../../layouts/App.astro';
 import { land } from '../../../lib/data';
+import GidsLijst from '../../../components/GidsLijst.astro';
 const dreigingen = [
   ['Luchtaanval of explosie', 'Ondergronds: kelder, parking, metro, tunnel', 'Bij ramen, in portieken, op trappen'],
   ['Radioactieve neerslag', 'Zo diep en zo centraal mogelijk in een stevig gebouw', 'Buiten, in de auto'],
@@ -29,7 +30,9 @@ const huis = [
     <div class="klein"><a href={land.schuilen.bron}>Bron</a></div>
   </div>
 
-  <h2>Het hangt af van de dreiging</h2>
+  <GidsLijst module="schuilen" />
+
+  <h2>Snel overzicht per dreiging</h2>
   <p class="dempen">De geschikte plek hangt af van de dreiging.</p>
   <div class="tabel-wrap">
     <table>

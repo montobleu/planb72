@@ -15,7 +15,14 @@ import KleurschemaKeuze from '../../../components/KleurschemaKeuze.astro';
       <button class="knop hoofd" type="button" id="download">Pakket downloaden</button>
       <button class="knop gevaar" type="button" id="verwijder" hidden>Verwijderen</button>
     </div>
-    <p class="klein">De app zelf staat al op dit toestel zodra je hem één keer opende. Het pakket voegt de kaart en de kaartlagen toe. Download op wifi.</p>
+    <p class="klein">De app staat op dit toestel zodra je hem één keer opende. Het basispakket voegt de kaartlagen (ziekenhuizen, politie, brandweer, apotheken, AED, drinkwater, schuilplekken, nucleaire zones) en de overzichtskaarten van Europa en België toe. Download op wifi.</p>
+  </section>
+
+  <section>
+    <h2>Kaarten</h2>
+    <p>Kies welke kaarten op dit toestel komen. De kaart gebruikt automatisch het meest gedetailleerde pakket dat beschikbaar is. Voor straatniveau download je de regio waar je woont, werkt of verblijft; meerdere regio's kunnen naast elkaar.</p>
+    <div id="kaartpakketten" aria-live="polite"><p class="klein">Laden…</p></div>
+    <p class="klein">Kaartgegevens © OpenStreetMap-bijdragers (ODbL), basiskaart Protomaps. Bijgewerkt met elke nieuwe versie van de pakketten.</p>
   </section>
 
   <section>
@@ -52,6 +59,7 @@ import KleurschemaKeuze from '../../../components/KleurschemaKeuze.astro';
 </App>
 <script>
   import { vraagBlijvendeOpslag, bewaar } from '../../../lib/app';
+  import { overzicht, opToestel, download as kaartDownload, verwijder as kaartVerwijder, mb as kaartMb, type Kaartpakket } from '../../../lib/kaarten';
   const LAND = 'be';
   const CACHE = `pb72-pakket-${LAND}`;
   const DATA = `/data/${LAND}`;
@@ -86,7 +94,7 @@ import KleurschemaKeuze from '../../../components/KleurschemaKeuze.astro';
     dl.disabled = true;
     await vraagBlijvendeOpslag();
     const meta = await fetch(`${DATA}/meta.json`, { cache: 'no-store' }).then((r) => (r.ok ? r.json() : null)).catch(() => null);
-    const bestanden = [`${DATA}/meta.json`, `${DATA}/nucleair.geojson`, ...lagen.map((l) => `${DATA}/${l}.geojson`), `${DATA}/basis.pmtiles`];
+    const bestanden = ['/data/kaarten.json', `${DATA}/meta.json`, `${DATA}/nucleair.geojson`, ...lagen.map((l) => `${DATA}/${l}.geojson`)];
     const verwacht = bestanden.reduce((t, b) => t + (meta?.lagen?.[b.split('/').pop()!.replace('.geojson', '')]?.bytes ?? 0), 0);
     const cache = await caches.open(CACHE);
     voortgang.hidden = false;
@@ -104,9 +112,15 @@ import KleurschemaKeuze from '../../../components/KleurschemaKeuze.astro';
       } catch { mislukt.push(b); }
       voortgang.value = (++klaar / bestanden.length) * 100;
     }
+    // De overzichtskaarten van het Zak-pakket.
+    for (const p of (await overzicht()).filter((k) => k.zak)) {
+      staat.textContent = `Downloaden: ${p.naam} (${kaartMb(p.bytes)})`;
+      try { await kaartDownload(p, (f) => (voortgang.value = f * 100)); bytes += p.bytes; } catch { mislukt.push(p.naam); }
+    }
     voortgang.hidden = true;
     dl.disabled = false;
     bewaar('pakket-datum', new Date().toISOString());
+    toonKaarten();
     await bekijk();
     if (mislukt.length) staat.innerHTML += `<br><span class="label onbevestigd">${mislukt.length} bestand(en) niet gelukt</span> Probeer opnieuw.`;
     else staat.innerHTML += ` (${mb(bytes)})`;
@@ -149,5 +163,62 @@ import KleurschemaKeuze from '../../../components/KleurschemaKeuze.astro';
     try { if (navigator.share) await navigator.share(data); else { await navigator.clipboard.writeText(data.url); alert('Link gekopieerd.'); } } catch {}
   });
 
-  bekijk(); toestel();
+  const GROEPEN: [Kaartpakket['groep'], string][] = [['europa', 'Europa'], ['belgie', 'België'], ['regio', "Regio's op straatniveau"]];
+  const lopend = new Map<string, AbortController>();
+  async function toonKaarten() {
+    const doos = document.getElementById('kaartpakketten')!;
+    const lijst = await overzicht();
+    if (!lijst.length) { doos.innerHTML = '<p class="klein">De lijst met kaarten is niet beschikbaar. Open deze pagina één keer met verbinding.</p>'; return; }
+    const lokaal = await opToestel();
+    const totaal = [...lokaal.keys()].reduce((t, id) => t + (lijst.find((p) => p.id === id)?.bytes ?? 0), 0);
+    doos.replaceChildren();
+    const samen = document.createElement('p');
+    samen.className = 'klein';
+    samen.textContent = `Op dit toestel: ${lokaal.size} kaart(en), samen ${kaartMb(totaal)}.`;
+    doos.append(samen);
+    for (const [groep, titel] of GROEPEN) {
+      const h = document.createElement('h3'); h.textContent = titel; doos.append(h);
+      const tabel = document.createElement('table');
+      const body = tabel.createTBody();
+      for (const p of lijst.filter((k) => k.groep === groep)) {
+        const rij = body.insertRow();
+        const a = rij.insertCell(); a.innerHTML = `<strong></strong><div class="klein"></div>`;
+        a.querySelector('strong')!.textContent = p.naam;
+        a.querySelector('div')!.textContent = `${p.omschrijving} · tot zoomniveau ${p.maxzoom}`;
+        const b = rij.insertCell(); b.textContent = kaartMb(p.bytes); b.style.whiteSpace = 'nowrap';
+        const c = rij.insertCell(); c.style.textAlign = 'right';
+        const knop = document.createElement('button');
+        knop.type = 'button'; knop.className = 'knop';
+        const balk = document.createElement('progress'); balk.max = 1; balk.value = 0; balk.hidden = true; balk.style.width = '100%';
+        const opToestelNu = lokaal.has(p.id);
+        knop.textContent = opToestelNu ? 'Verwijderen' : 'Downloaden';
+        if (opToestelNu) knop.classList.add('gevaar');
+        knop.addEventListener('click', async () => {
+          if (lopend.has(p.id)) { lopend.get(p.id)!.abort(); return; }
+          if (opToestelNu) {
+            if (!confirm(`${p.naam} van dit toestel verwijderen?`)) return;
+            await kaartVerwijder(p.id); toonKaarten(); toestel(); return;
+          }
+          if (!navigator.onLine) { alert('Geen verbinding.'); return; }
+          if (p.bytes > 200 * 1048576 && !confirm(`${p.naam} is ${kaartMb(p.bytes)}. Doorgaan? Gebruik bij voorkeur wifi.`)) return;
+          await vraagBlijvendeOpslag();
+          const ctrl = new AbortController(); lopend.set(p.id, ctrl);
+          knop.textContent = 'Annuleren'; balk.hidden = false;
+          try {
+            await kaartDownload(p, (f) => (balk.value = f), ctrl.signal);
+          } catch (e) {
+            if (!ctrl.signal.aborted) alert(`Download van ${p.naam} mislukt. Probeer opnieuw.`);
+            await kaartVerwijder(p.id);
+          }
+          lopend.delete(p.id);
+          toonKaarten(); toestel();
+        });
+        c.append(knop, balk);
+      }
+      const wrap = document.createElement('div'); wrap.className = 'tabel-wrap'; wrap.append(tabel);
+      doos.append(wrap);
+    }
+  }
+
+  bekijk(); toestel(); toonKaarten();
 </script>

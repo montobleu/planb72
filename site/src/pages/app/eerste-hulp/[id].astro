@@ -1,0 +1,26 @@
+---
+import App from '../../../layouts/App.astro';
+import Concept from '../../../components/Concept.astro';
+import Inhoudstafel from '../../../components/Inhoudstafel.astro';
+import Brondoos from '../../../components/Brondoos.astro';
+import { getCollection, render } from 'astro:content';
+
+export async function getStaticPaths() {
+  const lijst = await getCollection('eerstehulp');
+  return lijst.map((o) => ({ params: { id: o.id }, props: { onderwerp: o } }));
+}
+const { onderwerp } = Astro.props;
+const { Content, headings } = await render(onderwerp);
+const d = onderwerp.data;
+---
+<App titel={d.titel} tab="meer">
+  <p class="klein niet-afdrukken"><a href="/app/eerste-hulp/">Alle onderwerpen</a></p>
+  <h1>{d.titel}</h1>
+  <p class="lead">{d.kort}</p>
+  <div class="melding gevaar"><strong>Bel <a href="tel:112">112</a>.</strong> Volg de instructies van de meldkamer; die gaan voor op deze tekst.</div>
+  {d.status === 'concept' && <Concept bron={d.bronnen[0].url} bronNaam={d.bronnen[0].naam} />}
+  <Inhoudstafel koppen={headings} />
+  <article class="inhoud"><Content /></article>
+  <Brondoos bronnen={d.bronnen} datum={d.datum} status={d.status} nagekeken_door={d.nagekeken_door} />
+  <div class="knoppen niet-afdrukken"><button class="knop" type="button" onclick="print()">Afdrukken</button></div>
+</App>

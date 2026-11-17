@@ -1,0 +1,240 @@
+{
+  "bijgewerkt": "2026-11-17T19:23:07+00:00",
+  "bron": "© OpenStreetMap-bijdragers (ODbL), basiskaart Protomaps",
+  "pakketten": [
+    {
+      "id": "eu-z6",
+      "naam": "Europa, overzicht",
+      "omschrijving": "Landen, grote steden en snelwegen",
+      "groep": "europa",
+      "bbox": [
+        -25,
+        34,
+        45,
+        72
+      ],
+      "maxzoom": 6,
+      "zak": true,
+      "bytes": 10483155,
+      "pad": "/data/eu-z6.pmtiles",
+      "r2": "eu-z6.pmtiles",
+      "build": "20261117"
+    },
+    {
+      "id": "eu-z7",
+      "naam": "Europa, uitgebreid overzicht",
+      "omschrijving": "Ook middelgrote steden en hoofdwegen",
+      "groep": "europa",
+      "bbox": [
+        -25,
+        34,
+        45,
+        72
+      ],
+      "maxzoom": 7,
+      "zak": false,
+      "bytes": 57243783,
+      "pad": "/data/eu-z7.pmtiles",
+      "r2": "eu-z7.pmtiles",
+      "build": "20261117"
+    },
+    {
+      "id": "be-z9",
+      "naam": "België, overzicht",
+      "omschrijving": "Gemeenten, hoofdwegen, rivieren",
+      "groep": "belgie",
+      "bbox": [
+        2.54,
+        49.49,
+        6.41,
+        51.51
+      ],
+      "maxzoom": 9,
+      "zak": true,
+      "bytes": 10538252,
+      "pad": "/data/be-z9.pmtiles",
+      "r2": "be-z9.pmtiles",
+      "build": "20261117"
+    },
+    {
+      "id": "be-z12",
+      "naam": "België, standaard",
+      "omschrijving": "Alle wegen en dorpen, geen gebouwen",
+      "groep": "belgie",
+      "bbox": [
+        2.54,
+        49.49,
+        6.41,
+        51.51
+      ],
+      "maxzoom": 12,
+      "zak": false,
+      "bytes": 140361407,
+      "pad": "/data/be-z12.pmtiles",
+      "r2": "be-z12.pmtiles",
+      "build": "20261117"
+    },
+    {
+      "id": "be-wvl-z14",
+      "naam": "West-Vlaanderen, straatniveau",
+      "omschrijving": "Straten, gebouwen en paden",
+      "groep": "regio",
+      "bbox": [
+        2.54,
+        50.68,
+        3.47,
+        51.38
+      ],
+      "maxzoom": 14,
+      "zak": false,
+      "bytes": 58309232,
+      "pad": "/data/be-wvl-z14.pmtiles",
+      "r2": "be-wvl-z14.pmtiles",
+      "build": "20261117"
+    },
+    {
+      "id": "be-ovl-z14",
+      "naam": "Oost-Vlaanderen, straatniveau",
+      "omschrijving": "Straten, gebouwen en paden",
+      "groep": "regio",
+      "bbox": [
+        3.33,
+        50.71,
+        4.33,
+        51.35
+      ],
+      "maxzoom": 14,
+      "zak": false,
+      "bytes": 78296699,
+      "pad": "/data/be-ovl-z14.pmtiles",
+      "r2": "be-ovl-z14.pmtiles",
+      "build": "20261117"
+    },
+    {
+      "id": "be-ant-z14",
+      "naam": "Antwerpen, straatniveau",
+      "omschrijving": "Straten, gebouwen en paden",
+      "groep": "regio",
+      "bbox": [
+        4.1,
+        51.0,
+        5.25,
+        51.51
+      ],
+      "maxzoom": 14,
+      "zak": false,
+      "bytes": 61988215,
+      "pad": "/data/be-ant-z14.pmtiles",
+      "r2": "be-ant-z14.pmtiles",
+      "build": "20261117"
+    },
+    {
+      "id": "be-lim-z14",
+      "naam": "Limburg, straatniveau",
+      "omschrijving": "Straten, gebouwen en paden",
+      "groep": "regio",
+      "bbox": [
+        4.95,
+        50.68,
+        5.92,
+        51.26
+      ],
+      "maxzoom": 14,
+      "zak": false,
+      "bytes": 66158296,
+      "pad": "/data/be-lim-z14.pmtiles",
+      "r2": "be-lim-z14.pmtiles",
+      "build": "20261117"
+    },
+    {
+      "id": "be-bra-z14",
+      "naam": "Brabant en Brussel, straatniveau",
+      "omschrijving": "Vlaams-Brabant, Brussel en Waals-Brabant",
+      "groep": "regio",
+      "bbox": [
+        3.98,
+        50.53,
+        5.17,
+        51.06
+      ],
+      "maxzoom": 14,
+      "zak": false,
+      "bytes": 65776099,
+      "pad": "/data/be-bra-z14.pmtiles",
+      "r2": "be-bra-z14.pmtiles",
+      "build": "20261117"
+    },
+    {
+      "id": "be-hen-z14",
+      "naam": "Henegouwen, straatniveau",
+      "omschrijving": "Straten, gebouwen en paden",
+      "groep": "regio",
+      "bbox": [
+        3.1,
+        50.0,
+        4.62,
+        50.82
+      ],
+      "maxzoom": 14,
+      "zak": false,
+      "bytes": 97619750,
+      "pad": "/data/be-hen-z14.pmtiles",
+      "r2": "be-hen-z14.pmtiles",
+      "build": "20261117"
+    },
+    {
+      "id": "be-nam-z14",
+      "naam": "Namen, straatniveau",
+      "omschrijving": "Straten, gebouwen en paden",
+      "groep": "regio",
+      "bbox": [
+        4.3,
+        49.79,
+        5.41,
+        50.66
+      ],
+      "maxzoom": 14,
+      "zak": false,
+      "bytes": 53174479,
+      "pad": "/data/be-nam-z14.pmtiles",
+      "r2": "be-nam-z14.pmtiles",
+      "build": "20261117"
+    },
+    {
+      "id": "be-lui-z14",
+      "naam": "Luik, straatniveau",
+      "omschrijving": "Straten, gebouwen en paden",
+      "groep": "regio",
+      "bbox": [
+        5.02,
+        50.12,
+        6.41,
+        50.82
+      ],
+      "maxzoom": 14,
+      "zak": false,
+      "bytes": 79767868,
+      "pad": "/data/be-lui-z14.pmtiles",
+      "r2": "be-lui-z14.pmtiles",
+      "build": "20261117"
+    },
+    {
+      "id": "be-lux-z14",
+      "naam": "Luxemburg (provincie), straatniveau",
+      "omschrijving": "Straten, gebouwen en paden",
+      "groep": "regio",
+      "bbox": [
+        4.96,
+        49.49,
+        6.05,
+        50.43
+      ],
+      "maxzoom": 14,
+      "zak": false,
+      "bytes": 65458072,
+      "pad": "/data/be-lux-z14.pmtiles",
+      "r2": "be-lux-z14.pmtiles",
+      "build": "20261117"
+    }
+  ]
+}

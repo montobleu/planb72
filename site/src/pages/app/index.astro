@@ -16,7 +16,8 @@ const groepen: [string, [string, string, string][]][] = [
     ['/app/voorraad/', 'Voorraadplanner', 'Water voor personen en dagen'],
     ['/app/checklists/', 'Checklists', 'Noodpakket, vluchttas, auto'],
     ['/app/noodplan/', 'Gezinsnoodplan', 'Invullen en afdrukken'],
-    ['/app/eerste-hulp/', 'Eerste hulp', 'Stand van zaken en bronnen'],
+    ['/app/eerste-hulp/', 'Eerste hulp', 'Reanimatie, bloeding, verslikking en meer'],
+    ['/app/gidsen/', 'Gidsen', 'Water, voedsel, warmte, evacuatie, communicatie'],
   ]],
   ['Hulpmiddelen', [
     ['/app/signalen/', 'Signalen', 'SOS met licht, morse, radio'],
@@ -52,10 +53,13 @@ const groepen: [string, [string, string, string][]][] = [
   <p class="klein" style="margin-top:1.5rem">{land.naam.nl} · landinfo van {land.bijgewerkt} · testversie</p>
 </App>
 <script>
-  // Toon de melding als het pakket nog niet op het toestel staat.
+  import { opToestel } from '../../lib/kaarten';
+  // Toon de melding als het basispakket (kaartlagen en overzichtskaarten) nog niet op het toestel staat.
   (async () => {
     try {
-      const heeft = (await caches.keys()).some((n) => n.startsWith('pb72-pakket-'));
+      const lagen = (await caches.keys()).includes('pb72-pakket-be');
+      const kaarten = await opToestel();
+      const heeft = lagen && kaarten.has('be-z9');
       // ?voorbeeld verbergt de melding voor de schermafbeelding op de website.
       if (!heeft && !location.search.includes('voorbeeld')) document.getElementById('pakket-melding')!.hidden = false;
     } catch {}

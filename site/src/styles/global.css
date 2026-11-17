@@ -336,3 +336,25 @@ main.wrap { padding-top: 2.5rem; }
   .taalkeuze a { padding: 10px 10px; }
   .kop nav a { padding: 12px 0; }
 }
+
+/* ---------- Uitgebreide teksten (scenario's, gidsen, eerste hulp) ---------- */
+
+.inhoud { max-width: 72ch; }
+.inhoud h2 { margin-top: 2.25rem; padding-top: 1rem; border-top: 1px solid var(--rand); scroll-margin-top: 80px; }
+.inhoud h3 { margin-top: 1.5rem; scroll-margin-top: 80px; }
+.inhoud ul, .inhoud ol { padding-left: 1.4rem; }
+.inhoud li { margin: 0.35rem 0; }
+.inhoud table { margin: 1rem 0; display: block; overflow-x: auto; }
+.inhoud td, .inhoud th { min-width: 8rem; }
+.inhoud blockquote { margin: 1rem 0; padding: 0.25rem 0 0.25rem 1rem; border-left: 3px solid var(--rand-sterk); color: var(--tekst-2); }
+.inhoud .bron-regel { font-size: 0.85rem; color: var(--tekst-2); margin-top: 0.75rem; }
+.inhoud .bron-regel a { color: var(--tekst-2); }
+.bron ul { margin: 0.25rem 0 0.75rem; padding-left: 1.2rem; }
+
+.inhoudstafel { border: 1px solid var(--rand); border-radius: var(--radius); padding: 12px 16px; margin: 1.5rem 0; max-width: 72ch; }
+.inhoudstafel ol { margin: 0; padding-left: 1.2rem; columns: 2 14rem; column-gap: 2rem; }
+.inhoudstafel li { margin: 0.2rem 0; break-inside: avoid; }
+
+.eerste-stappen { border: 1px solid var(--rand-sterk); border-radius: var(--radius); padding: 4px 18px 8px; margin: 1.25rem 0; max-width: 72ch; }
+.eerste-stappen h2 { font-size: 1.05rem; margin: 0.9rem 0 0.2rem; }
+.eerste-stappen .stappen > li:last-child { border-bottom: 0; }

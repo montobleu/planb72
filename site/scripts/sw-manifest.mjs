@@ -25,6 +25,7 @@ const hoortBijKern = (rel) =>
   rel === 'manifest.webmanifest' ||
   rel === 'favicon.svg' ||
   rel === 'data/be/meta.json' ||
+  rel === 'data/kaarten.json' ||
   rel === 'data/be/nucleair.geojson';
 
 const bestanden = [];

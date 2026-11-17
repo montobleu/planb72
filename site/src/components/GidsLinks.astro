@@ -1,0 +1,16 @@
+---
+// Verwijzingen naar uitgebreide gidsen; toont alleen gidsen die bestaan.
+import { getCollection } from 'astro:content';
+interface Props { ids: string[]; titel?: string }
+const { ids, titel = 'Uitgebreid in de gidsen' } = Astro.props;
+const alle = await getCollection('gidsen');
+const lijst = ids.map((id) => alle.find((g) => g.id === id)).filter((g) => g !== undefined);
+---
+{lijst.length > 0 && (
+  <section class="niet-afdrukken">
+    <h2>{titel}</h2>
+    <div class="raster">
+      {lijst.map((g) => <a class="tegel" href={`/app/gids/${g.id}/`}><strong>{g.data.titel}</strong><span class="klein">{g.data.kort}</span></a>)}
+    </div>
+  </section>
+)}

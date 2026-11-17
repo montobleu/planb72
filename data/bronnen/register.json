@@ -682,5 +682,4005 @@
       "gidsen"
     ],
     "opmerking": "Officiële Oekraïense informatie over schuilen; samengevat in de kaart luchtalarm."
+  },
+  {
+    "soort": "pdf",
+    "licentie": "auteursrecht Rode Kruis-Vlaanderen",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "eh-rkv-2026-affiche-vier-stappen-in-eerste-hulp",
+    "naam": "Rode Kruis-Vlaanderen: affiche Vier stappen in eerste hulp (mei 2026)",
+    "eigenaar": "Rode Kruis-Vlaanderen vzw",
+    "url": "https://www.rodekruis.be/storage/main/2026-affiche-vier-stappen-in-eerste-hulp.pdf",
+    "land": "BE",
+    "opmerking": "Gebruikt in eerstehulp: 01-levensreddend-handelen. Affiche mei 2026 (2026_072)."
+  },
+  {
+    "soort": "pdf",
+    "licentie": "auteursrecht Rode Kruis-Vlaanderen",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "eh-jrk-resq",
+    "naam": "Jeugd Rode Kruis (Rode Kruis-Vlaanderen): ResQ, eerstehulpboek",
+    "eigenaar": "Jeugd Rode Kruis (Rode Kruis-Vlaanderen vzw)",
+    "url": "https://jeugd.rodekruis.be/storage/jrk/jrk-resq-watermerk.pdf",
+    "land": "BE",
+    "opmerking": "Gebruikt in eerstehulp: 01-levensreddend-handelen, 05-bewusteloosheid-en-stabiele-zijligging. Inkijkexemplaar met watermerk; de bladzijde met de handgreep voor de stabiele zijligging zit er niet in."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "Na te kijken",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "eh-gw-bewusteloosheid",
+    "naam": "Gezondheid en Wetenschap (Rode Kruis-Vlaanderen): Bewusteloosheid",
+    "eigenaar": "Gezondheid en Wetenschap; eerstehulptips uit het handboek Help! Eerste hulp voor iedereen van Rode Kruis-Vlaanderen (CEBaP)",
+    "url": "https://www.gezondheidenwetenschap.be/richtlijnen/bewusteloosheid",
+    "land": "BE",
+    "opmerking": "Gebruikt in eerstehulp: 01-levensreddend-handelen, 05-bewusteloosheid-en-stabiele-zijligging. De site vermeldt dat inhoud niet zonder schriftelijke toestemming overgenomen mag worden; wij geven feiten in eigen woorden weer. Toestemming vragen samen met Rode Kruis-Vlaanderen."
+  },
+  {
+    "soort": "pdf",
+    "licentie": "© European Resuscitation Council 2025, alle rechten voorbehouden",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "eh-erc-2025-leken",
+    "naam": "European Resuscitation Council: The ERC Guidelines 2025 on Resuscitation for Everyone",
+    "eigenaar": "European Resuscitation Council vzw",
+    "url": "https://www.erc.edu/media/p5ymaeej/gl2025_layperson_book_ipdf-v11-e.pdf",
+    "land": "EU",
+    "opmerking": "Gebruikt in eerstehulp: 01-levensreddend-handelen, 02-reanimatie-en-aed, 04-verslikking, 05-bewusteloosheid-en-stabiele-zijligging, 06-shock, 10-onderkoeling-en-bevriezing, 11-oververhitting-en-hitteslag, 14-verdrinking, 16-beroerte-en-hartinfarct-herkennen. Brochure voor leken bij de ERC-richtlijnen 2025. Bevat doseringen (adrenaline, aspirine): bewust weggelaten. De volledige ERC-artikelen in Resuscitation gaven HTTP 403."
+  },
+  {
+    "soort": "pdf",
+    "licentie": "kopieën voor niet-commercieel gebruik toegestaan met bronvermelding",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "eh-ifrc-2020",
+    "naam": "IFRC: International first aid, resuscitation, and education guidelines 2020",
+    "eigenaar": "International Federation of Red Cross and Red Crescent Societies (Global First Aid Reference Centre)",
+    "url": "https://www.ifrc.org/sites/default/files/2022-02/EN_GFARC_GUIDELINES_2020.pdf",
+    "land": "INT",
+    "opmerking": "Gebruikt in eerstehulp: 01-levensreddend-handelen, 02-reanimatie-en-aed, 03-ernstige-bloeding, 04-verslikking, 05-bewusteloosheid-en-stabiele-zijligging, 06-shock, 07-brandwonden, 08-breuken-verstuikingen-en-ontwrichting, 09-hoofd-nek-en-rugletsel, 10-onderkoeling-en-bevriezing, 11-oververhitting-en-hitteslag, 12-vergiftiging-en-co, 13-elektrocutie, 14-verdrinking, 15-allergische-reactie, 16-beroerte-en-hartinfarct-herkennen, 17-wondverzorging-en-infectie. Mee opgesteld door CEBaP (Belgische Rode Kruis). Bron voor de onderdelen over afgelegen gebieden en rampen. Bevat doseringen (adrenaline, aspirine, pijnstillers bij bevriezing): bewust weggelaten. Er bestaat een IFRC-editie 2025 die niet gelezen is."
+  },
+  {
+    "soort": "pdf",
+    "licentie": "publiek domein (Amerikaanse federale overheid)",
+    "toestemming": "vrij",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "eh-fema-until-help-arrives",
+    "naam": "FEMA: Until Help Arrives, instructor guide",
+    "eigenaar": "FEMA (U.S. Department of Homeland Security)",
+    "url": "https://ready.gov/sites/default/files/2020-07/until-help-arrives-instructor-guide.pdf",
+    "land": "US",
+    "opmerking": "Gebruikt in eerstehulp: 01-levensreddend-handelen, 03-ernstige-bloeding, 05-bewusteloosheid-en-stabiele-zijligging, 06-shock, 09-hoofd-nek-en-rugletsel."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "Na te kijken",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "eh-gw-hoe-moet-je-reanimeren",
+    "naam": "Gezondheid en Wetenschap (Rode Kruis-Vlaanderen): Hoe moet je reanimeren?",
+    "eigenaar": "Gezondheid en Wetenschap; eerstehulptips uit het handboek Help! Eerste hulp voor iedereen van Rode Kruis-Vlaanderen (CEBaP)",
+    "url": "https://www.gezondheidenwetenschap.be/eerste-hulp/hoe-moet-je-reanimeren",
+    "land": "BE",
+    "opmerking": "Gebruikt in eerstehulp: 02-reanimatie-en-aed, 05-bewusteloosheid-en-stabiele-zijligging. De site vermeldt dat inhoud niet zonder schriftelijke toestemming overgenomen mag worden; wij geven feiten in eigen woorden weer. Toestemming vragen samen met Rode Kruis-Vlaanderen."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "Na te kijken",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "eh-gw-reanimatie-cardiopulmonale-resuscitatie-of-cpr",
+    "naam": "Gezondheid en Wetenschap: Reanimatie (cardiopulmonale resuscitatie of CPR)",
+    "eigenaar": "Gezondheid en Wetenschap; eerstehulptips uit het handboek Help! Eerste hulp voor iedereen van Rode Kruis-Vlaanderen (CEBaP)",
+    "url": "https://www.gezondheidenwetenschap.be/richtlijnen/reanimatie-cardiopulmonale-resuscitatie-of-cpr",
+    "land": "BE",
+    "opmerking": "Gebruikt in eerstehulp: 02-reanimatie-en-aed. De site vermeldt dat inhoud niet zonder schriftelijke toestemming overgenomen mag worden; wij geven feiten in eigen woorden weer. Toestemming vragen samen met Rode Kruis-Vlaanderen."
+  },
+  {
+    "soort": "pdf",
+    "licentie": "auteursrecht Rode Kruis-Vlaanderen",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "eh-rkv-2026-affiche-reanimeren-en-defibrilleren",
+    "naam": "Rode Kruis-Vlaanderen: affiche Reanimeren en defibrilleren (mei 2026)",
+    "eigenaar": "Rode Kruis-Vlaanderen vzw",
+    "url": "https://www.rodekruis.be/storage/main/2026-affiche-reanimeren-en-defibrilleren.pdf",
+    "land": "BE",
+    "opmerking": "Gebruikt in eerstehulp: 02-reanimatie-en-aed. Affiche mei 2026 (2026_072)."
+  },
+  {
+    "soort": "pdf",
+    "licentie": "auteursrecht Croix-Rouge de Belgique",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "eh-crb-beps-2024",
+    "naam": "Croix-Rouge de Belgique: Relais BEPS, mise à jour 2024",
+    "eigenaar": "Croix-Rouge de Belgique asbl, Pôle Premiers Secours",
+    "url": "https://formations.croix-rouge.be/files/files/espace-relais/Relais-BEPS-Mise-jour-2024.pdf",
+    "land": "BE",
+    "opmerking": "Gebruikt in eerstehulp: 02-reanimatie-en-aed, 03-ernstige-bloeding, 04-verslikking, 05-bewusteloosheid-en-stabiele-zijligging, 09-hoofd-nek-en-rugletsel. Update maart 2024: garrot, desobstructie, PLS bij trauma, reanimatie."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "auteursrecht VRT",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "eh-vrt-2025-reanimatie",
+    "naam": "VRT NWS: Nieuwe richtlijnen reanimatie (Rode Kruis, november 2025)",
+    "eigenaar": "VRT NWS",
+    "url": "https://www.vrt.be/vrtnws/nl/2025/11/08/nieuwe-richtlijnen-reanimatie/",
+    "land": "BE",
+    "opmerking": "Gebruikt in eerstehulp: 02-reanimatie-en-aed. Nieuwsartikel met uitspraken van een eerstehulpexpert van Rode Kruis-Vlaanderen; alleen ter aanvulling."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "Na te kijken",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "eh-gw-eerste-hulp-bij-een-ernstige-bloeding-uitwendig",
+    "naam": "Gezondheid en Wetenschap (Rode Kruis-Vlaanderen): Eerste hulp bij een ernstige bloeding (uitwendig)",
+    "eigenaar": "Gezondheid en Wetenschap; eerstehulptips uit het handboek Help! Eerste hulp voor iedereen van Rode Kruis-Vlaanderen (CEBaP)",
+    "url": "https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-een-ernstige-bloeding-uitwendig",
+    "land": "BE",
+    "opmerking": "Gebruikt in eerstehulp: 03-ernstige-bloeding. De site vermeldt dat inhoud niet zonder schriftelijke toestemming overgenomen mag worden; wij geven feiten in eigen woorden weer. Toestemming vragen samen met Rode Kruis-Vlaanderen."
+  },
+  {
+    "soort": "pdf",
+    "licentie": "auteursrecht Rode Kruis-Vlaanderen",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "eh-rkv-2026-affiche-eh-bij-bloedingen",
+    "naam": "Rode Kruis-Vlaanderen: affiche Eerste hulp bij bloedingen (mei 2026)",
+    "eigenaar": "Rode Kruis-Vlaanderen vzw",
+    "url": "https://www.rodekruis.be/storage/main/2026-affiche-eh-bij-bloedingen.pdf",
+    "land": "BE",
+    "opmerking": "Gebruikt in eerstehulp: 03-ernstige-bloeding. Affiche mei 2026 (2026_072)."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "Na te kijken",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "eh-gw-eerste-hulp-bij-amputatie",
+    "naam": "Gezondheid en Wetenschap (Rode Kruis-Vlaanderen): Eerste hulp bij amputatie",
+    "eigenaar": "Gezondheid en Wetenschap; eerstehulptips uit het handboek Help! Eerste hulp voor iedereen van Rode Kruis-Vlaanderen (CEBaP)",
+    "url": "https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-amputatie",
+    "land": "BE",
+    "opmerking": "Gebruikt in eerstehulp: 03-ernstige-bloeding. De site vermeldt dat inhoud niet zonder schriftelijke toestemming overgenomen mag worden; wij geven feiten in eigen woorden weer. Toestemming vragen samen met Rode Kruis-Vlaanderen."
+  },
+  {
+    "soort": "pdf",
+    "licentie": "publiek domein (Amerikaanse federale overheid)",
+    "toestemming": "vrij",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "eh-dhs-stb-tourniquet",
+    "naam": "U.S. Department of Homeland Security: Stop the Bleed, Applying a Tourniquet",
+    "eigenaar": "U.S. Department of Homeland Security",
+    "url": "https://www.dhs.gov/sites/default/files/publications/STB_Applying_Tourniquet_08-06-2018_0.pdf",
+    "land": "US",
+    "opmerking": "Gebruikt in eerstehulp: 03-ernstige-bloeding. Het logo en de naam Stop the Bleed zijn eigendom van het U.S. Department of Defense; niet gebruiken."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "publiek domein (Amerikaanse federale overheid)",
+    "toestemming": "vrij",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "eh-usuhs-stb",
+    "naam": "Uniformed Services University: Stop the Bleed",
+    "eigenaar": "Uniformed Services University (U.S. Department of Defense)",
+    "url": "https://stopthebleed.usuhs.edu/",
+    "land": "US",
+    "opmerking": "Gebruikt in eerstehulp: 03-ernstige-bloeding."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "Na te kijken",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "eh-indiana-dhs-stb",
+    "naam": "Indiana Department of Homeland Security: Stop the Bleed, bleeding control for the injured",
+    "eigenaar": "Indiana Department of Homeland Security",
+    "url": "https://secure.in.gov/dhs/get-prepared/emergencies/stop-the-bleed-bleeding-control-for-the-injured",
+    "land": "US",
+    "opmerking": "Gebruikt in eerstehulp: 03-ernstige-bloeding. Staatsoverheid, niet federaal: niet automatisch publiek domein. Enige gelezen bron voor het opvullen van een wonde."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "Na te kijken",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "eh-gw-eerste-hulp-bij-verslikking",
+    "naam": "Gezondheid en Wetenschap (Rode Kruis-Vlaanderen): Eerste hulp bij verslikking",
+    "eigenaar": "Gezondheid en Wetenschap; eerstehulptips uit het handboek Help! Eerste hulp voor iedereen van Rode Kruis-Vlaanderen (CEBaP)",
+    "url": "https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-verslikking",
+    "land": "BE",
+    "opmerking": "Gebruikt in eerstehulp: 04-verslikking. De site vermeldt dat inhoud niet zonder schriftelijke toestemming overgenomen mag worden; wij geven feiten in eigen woorden weer. Toestemming vragen samen met Rode Kruis-Vlaanderen."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "auteursrecht VRT",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "eh-vrt-2026-verstikking",
+    "naam": "VRT NWS: Rode Kruis over eerste hulp bij iemand die stikt (september 2026)",
+    "eigenaar": "VRT NWS",
+    "url": "https://www.vrt.be/vrtnws/nl/2026/09/23/rode-kruis-eerste-hulp-bij-iemand-die-stikt-heimlich/",
+    "land": "BE",
+    "opmerking": "Gebruikt in eerstehulp: 04-verslikking. Nieuwsartikel met uitspraken van een eerstehulpexpert van Rode Kruis-Vlaanderen; alleen ter aanvulling."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "Na te kijken",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "eh-gw-eerste-hulp-bij-flauwte",
+    "naam": "Gezondheid en Wetenschap (Rode Kruis-Vlaanderen): Eerste hulp bij flauwte",
+    "eigenaar": "Gezondheid en Wetenschap; eerstehulptips uit het handboek Help! Eerste hulp voor iedereen van Rode Kruis-Vlaanderen (CEBaP)",
+    "url": "https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-flauwte",
+    "land": "BE",
+    "opmerking": "Gebruikt in eerstehulp: 05-bewusteloosheid-en-stabiele-zijligging. De site vermeldt dat inhoud niet zonder schriftelijke toestemming overgenomen mag worden; wij geven feiten in eigen woorden weer. Toestemming vragen samen met Rode Kruis-Vlaanderen."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "Na te kijken",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "eh-gw-eerste-hulp-bij-shock",
+    "naam": "Gezondheid en Wetenschap (Rode Kruis-Vlaanderen): Eerste hulp bij shock",
+    "eigenaar": "Gezondheid en Wetenschap; eerstehulptips uit het handboek Help! Eerste hulp voor iedereen van Rode Kruis-Vlaanderen (CEBaP)",
+    "url": "https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-shock",
+    "land": "BE",
+    "opmerking": "Gebruikt in eerstehulp: 06-shock. De site vermeldt dat inhoud niet zonder schriftelijke toestemming overgenomen mag worden; wij geven feiten in eigen woorden weer. Toestemming vragen samen met Rode Kruis-Vlaanderen."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "Na te kijken",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "eh-gw-inwendige-bloeding-in-de-buik",
+    "naam": "Gezondheid en Wetenschap (Rode Kruis-Vlaanderen): Inwendige bloeding in de buik",
+    "eigenaar": "Gezondheid en Wetenschap; eerstehulptips uit het handboek Help! Eerste hulp voor iedereen van Rode Kruis-Vlaanderen (CEBaP)",
+    "url": "https://www.gezondheidenwetenschap.be/eerste-hulp/inwendige-bloeding-in-de-buik",
+    "land": "BE",
+    "opmerking": "Gebruikt in eerstehulp: 06-shock. De site vermeldt dat inhoud niet zonder schriftelijke toestemming overgenomen mag worden; wij geven feiten in eigen woorden weer. Toestemming vragen samen met Rode Kruis-Vlaanderen."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "Na te kijken",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "eh-gw-eerste-hulp-bij-anafylactische-shock",
+    "naam": "Gezondheid en Wetenschap (Rode Kruis-Vlaanderen): Eerste hulp bij anafylactische shock",
+    "eigenaar": "Gezondheid en Wetenschap; eerstehulptips uit het handboek Help! Eerste hulp voor iedereen van Rode Kruis-Vlaanderen (CEBaP)",
+    "url": "https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-anafylactische-shock",
+    "land": "BE",
+    "opmerking": "Gebruikt in eerstehulp: 06-shock, 15-allergische-reactie. De site vermeldt dat inhoud niet zonder schriftelijke toestemming overgenomen mag worden; wij geven feiten in eigen woorden weer. Toestemming vragen samen met Rode Kruis-Vlaanderen."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "Na te kijken",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "eh-gw-eerste-hulp-bij-brandwonden",
+    "naam": "Gezondheid en Wetenschap (Rode Kruis-Vlaanderen): Eerste hulp bij brandwonden",
+    "eigenaar": "Gezondheid en Wetenschap; eerstehulptips uit het handboek Help! Eerste hulp voor iedereen van Rode Kruis-Vlaanderen (CEBaP)",
+    "url": "https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-brandwonden",
+    "land": "BE",
+    "opmerking": "Gebruikt in eerstehulp: 07-brandwonden, 13-elektrocutie. De site vermeldt dat inhoud niet zonder schriftelijke toestemming overgenomen mag worden; wij geven feiten in eigen woorden weer. Toestemming vragen samen met Rode Kruis-Vlaanderen."
+  },
+  {
+    "soort": "pdf",
+    "licentie": "auteursrecht Rode Kruis-Vlaanderen",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "eh-rkv-2026-affiche-eh-bij-brandwonden",
+    "naam": "Rode Kruis-Vlaanderen: affiche Eerste hulp bij brandwonden (mei 2026)",
+    "eigenaar": "Rode Kruis-Vlaanderen vzw",
+    "url": "https://www.rodekruis.be/storage/main/2026-affiche-eh-bij-brandwonden.pdf",
+    "land": "BE",
+    "opmerking": "Gebruikt in eerstehulp: 07-brandwonden. Affiche mei 2026 (2026_072)."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "Na te kijken",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "eh-gw-eerste-hulp-bij-een-elektriciteitsongeval",
+    "naam": "Gezondheid en Wetenschap (Rode Kruis-Vlaanderen): Eerste hulp bij een ongeval met elektriciteit",
+    "eigenaar": "Gezondheid en Wetenschap; eerstehulptips uit het handboek Help! Eerste hulp voor iedereen van Rode Kruis-Vlaanderen (CEBaP)",
+    "url": "https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-een-elektriciteitsongeval",
+    "land": "BE",
+    "opmerking": "Gebruikt in eerstehulp: 07-brandwonden, 13-elektrocutie. De site vermeldt dat inhoud niet zonder schriftelijke toestemming overgenomen mag worden; wij geven feiten in eigen woorden weer. Toestemming vragen samen met Rode Kruis-Vlaanderen."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "Na te kijken",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "eh-gw-tetanus",
+    "naam": "Gezondheid en Wetenschap: Tetanus",
+    "eigenaar": "Gezondheid en Wetenschap; eerstehulptips uit het handboek Help! Eerste hulp voor iedereen van Rode Kruis-Vlaanderen (CEBaP)",
+    "url": "https://www.gezondheidenwetenschap.be/richtlijnen/tetanus",
+    "land": "BE",
+    "opmerking": "Gebruikt in eerstehulp: 07-brandwonden, 17-wondverzorging-en-infectie. De site vermeldt dat inhoud niet zonder schriftelijke toestemming overgenomen mag worden; wij geven feiten in eigen woorden weer. Toestemming vragen samen met Rode Kruis-Vlaanderen."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "auteursrecht Antigifcentrum",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "eh-antigif-wanneer-bellen",
+    "naam": "Antigifcentrum: Wanneer bellen?",
+    "eigenaar": "Antigifcentrum (stichting van openbaar nut)",
+    "url": "https://www.antigifcentrum.be/wanneer-bellen/",
+    "land": "BE",
+    "opmerking": "Gebruikt in eerstehulp: 07-brandwonden, 12-vergiftiging-en-co."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "Na te kijken",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "eh-gw-eerste-hulp-bij-breuken",
+    "naam": "Gezondheid en Wetenschap (Rode Kruis-Vlaanderen): Eerste hulp bij breuken",
+    "eigenaar": "Gezondheid en Wetenschap; eerstehulptips uit het handboek Help! Eerste hulp voor iedereen van Rode Kruis-Vlaanderen (CEBaP)",
+    "url": "https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-breuken",
+    "land": "BE",
+    "opmerking": "Gebruikt in eerstehulp: 08-breuken-verstuikingen-en-ontwrichting. De site vermeldt dat inhoud niet zonder schriftelijke toestemming overgenomen mag worden; wij geven feiten in eigen woorden weer. Toestemming vragen samen met Rode Kruis-Vlaanderen."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "Na te kijken",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "eh-gw-eerste-hulp-bij-verstuiking",
+    "naam": "Gezondheid en Wetenschap (Rode Kruis-Vlaanderen): Eerste hulp bij verstuiking",
+    "eigenaar": "Gezondheid en Wetenschap; eerstehulptips uit het handboek Help! Eerste hulp voor iedereen van Rode Kruis-Vlaanderen (CEBaP)",
+    "url": "https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-verstuiking",
+    "land": "BE",
+    "opmerking": "Gebruikt in eerstehulp: 08-breuken-verstuikingen-en-ontwrichting. De site vermeldt dat inhoud niet zonder schriftelijke toestemming overgenomen mag worden; wij geven feiten in eigen woorden weer. Toestemming vragen samen met Rode Kruis-Vlaanderen."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "Na te kijken",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "eh-gw-eerste-hulp-bij-ontwrichting",
+    "naam": "Gezondheid en Wetenschap (Rode Kruis-Vlaanderen): Eerste hulp bij ontwrichting",
+    "eigenaar": "Gezondheid en Wetenschap; eerstehulptips uit het handboek Help! Eerste hulp voor iedereen van Rode Kruis-Vlaanderen (CEBaP)",
+    "url": "https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-ontwrichting",
+    "land": "BE",
+    "opmerking": "Gebruikt in eerstehulp: 08-breuken-verstuikingen-en-ontwrichting. De site vermeldt dat inhoud niet zonder schriftelijke toestemming overgenomen mag worden; wij geven feiten in eigen woorden weer. Toestemming vragen samen met Rode Kruis-Vlaanderen."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "Na te kijken",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "eh-gw-eerste-hulp-bij-wervelletsels",
+    "naam": "Gezondheid en Wetenschap (Rode Kruis-Vlaanderen): Eerste hulp bij wervelletsels",
+    "eigenaar": "Gezondheid en Wetenschap; eerstehulptips uit het handboek Help! Eerste hulp voor iedereen van Rode Kruis-Vlaanderen (CEBaP)",
+    "url": "https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-wervelletsels",
+    "land": "BE",
+    "opmerking": "Gebruikt in eerstehulp: 09-hoofd-nek-en-rugletsel, 14-verdrinking. De site vermeldt dat inhoud niet zonder schriftelijke toestemming overgenomen mag worden; wij geven feiten in eigen woorden weer. Toestemming vragen samen met Rode Kruis-Vlaanderen."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "Na te kijken",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "eh-gw-eerste-hulp-bij-een-hoofdwonde",
+    "naam": "Gezondheid en Wetenschap (Rode Kruis-Vlaanderen): Eerste hulp bij een hoofdwonde",
+    "eigenaar": "Gezondheid en Wetenschap; eerstehulptips uit het handboek Help! Eerste hulp voor iedereen van Rode Kruis-Vlaanderen (CEBaP)",
+    "url": "https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-een-hoofdwonde",
+    "land": "BE",
+    "opmerking": "Gebruikt in eerstehulp: 09-hoofd-nek-en-rugletsel. De site vermeldt dat inhoud niet zonder schriftelijke toestemming overgenomen mag worden; wij geven feiten in eigen woorden weer. Toestemming vragen samen met Rode Kruis-Vlaanderen."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "Na te kijken",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "eh-gw-wat-doen-bij-onderkoeling",
+    "naam": "Gezondheid en Wetenschap (Rode Kruis-Vlaanderen): Wat doen bij onderkoeling?",
+    "eigenaar": "Gezondheid en Wetenschap; eerstehulptips uit het handboek Help! Eerste hulp voor iedereen van Rode Kruis-Vlaanderen (CEBaP)",
+    "url": "https://www.gezondheidenwetenschap.be/eerste-hulp/wat-doen-bij-onderkoeling",
+    "land": "BE",
+    "opmerking": "Gebruikt in eerstehulp: 10-onderkoeling-en-bevriezing, 14-verdrinking. De site vermeldt dat inhoud niet zonder schriftelijke toestemming overgenomen mag worden; wij geven feiten in eigen woorden weer. Toestemming vragen samen met Rode Kruis-Vlaanderen."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "publiek domein (Amerikaanse federale overheid)",
+    "toestemming": "vrij",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "eh-cdc-preventing-frostbite",
+    "naam": "CDC: Preventing Frostbite",
+    "eigenaar": "Centers for Disease Control and Prevention",
+    "url": "https://www.cdc.gov/winter-weather/prevention/preventing-frostbite.html",
+    "land": "US",
+    "opmerking": "Gebruikt in eerstehulp: 10-onderkoeling-en-bevriezing."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "publiek domein (Amerikaanse federale overheid)",
+    "toestemming": "vrij",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "eh-cdc-hypothermia",
+    "naam": "CDC: Prevent Hypothermia and Frostbite",
+    "eigenaar": "Centers for Disease Control and Prevention",
+    "url": "https://www.cdc.gov/disasters/winter/staysafe/hypothermia.html",
+    "land": "US",
+    "opmerking": "Gebruikt in eerstehulp: 10-onderkoeling-en-bevriezing."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "Na te kijken",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "eh-gw-eerste-hulp-bij-hitteslag-of-hitteberoerte",
+    "naam": "Gezondheid en Wetenschap (Rode Kruis-Vlaanderen): Eerste hulp bij hitteslag of hitteberoerte",
+    "eigenaar": "Gezondheid en Wetenschap; eerstehulptips uit het handboek Help! Eerste hulp voor iedereen van Rode Kruis-Vlaanderen (CEBaP)",
+    "url": "https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-hitteslag-of-hitteberoerte",
+    "land": "BE",
+    "opmerking": "Gebruikt in eerstehulp: 11-oververhitting-en-hitteslag. De site vermeldt dat inhoud niet zonder schriftelijke toestemming overgenomen mag worden; wij geven feiten in eigen woorden weer. Toestemming vragen samen met Rode Kruis-Vlaanderen."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "Na te kijken",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "eh-gw-eerste-hulp-bij-hittekrampen",
+    "naam": "Gezondheid en Wetenschap (Rode Kruis-Vlaanderen): Eerste hulp bij hittekrampen",
+    "eigenaar": "Gezondheid en Wetenschap; eerstehulptips uit het handboek Help! Eerste hulp voor iedereen van Rode Kruis-Vlaanderen (CEBaP)",
+    "url": "https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-hittekrampen",
+    "land": "BE",
+    "opmerking": "Gebruikt in eerstehulp: 11-oververhitting-en-hitteslag. De site vermeldt dat inhoud niet zonder schriftelijke toestemming overgenomen mag worden; wij geven feiten in eigen woorden weer. Toestemming vragen samen met Rode Kruis-Vlaanderen."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "Na te kijken",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "eh-gw-eerste-hulp-bij-vergiftiging",
+    "naam": "Gezondheid en Wetenschap (Rode Kruis-Vlaanderen): Eerste hulp bij vergiftiging",
+    "eigenaar": "Gezondheid en Wetenschap; eerstehulptips uit het handboek Help! Eerste hulp voor iedereen van Rode Kruis-Vlaanderen (CEBaP)",
+    "url": "https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-vergiftiging",
+    "land": "BE",
+    "opmerking": "Gebruikt in eerstehulp: 12-vergiftiging-en-co. De site vermeldt dat inhoud niet zonder schriftelijke toestemming overgenomen mag worden; wij geven feiten in eigen woorden weer. Toestemming vragen samen met Rode Kruis-Vlaanderen."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "Na te kijken",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "eh-gw-eerste-hulp-bij-inademing-van-giftige-stoffen",
+    "naam": "Gezondheid en Wetenschap (Rode Kruis-Vlaanderen): Eerste hulp bij vergiftiging door inademen",
+    "eigenaar": "Gezondheid en Wetenschap; eerstehulptips uit het handboek Help! Eerste hulp voor iedereen van Rode Kruis-Vlaanderen (CEBaP)",
+    "url": "https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-inademing-van-giftige-stoffen",
+    "land": "BE",
+    "opmerking": "Gebruikt in eerstehulp: 12-vergiftiging-en-co. De site vermeldt dat inhoud niet zonder schriftelijke toestemming overgenomen mag worden; wij geven feiten in eigen woorden weer. Toestemming vragen samen met Rode Kruis-Vlaanderen."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "Na te kijken",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "eh-gw-eerste-hulp-bij-co-vergiftiging",
+    "naam": "Gezondheid en Wetenschap (Rode Kruis-Vlaanderen): Eerste hulp bij CO-vergiftiging",
+    "eigenaar": "Gezondheid en Wetenschap; eerstehulptips uit het handboek Help! Eerste hulp voor iedereen van Rode Kruis-Vlaanderen (CEBaP)",
+    "url": "https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-co-vergiftiging",
+    "land": "BE",
+    "opmerking": "Gebruikt in eerstehulp: 12-vergiftiging-en-co. De site vermeldt dat inhoud niet zonder schriftelijke toestemming overgenomen mag worden; wij geven feiten in eigen woorden weer. Toestemming vragen samen met Rode Kruis-Vlaanderen."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "auteursrecht Antigifcentrum",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "eh-antigif-co-campagne",
+    "naam": "Antigifcentrum: CO-campagne",
+    "eigenaar": "Antigifcentrum (stichting van openbaar nut)",
+    "url": "https://www.antigifcentrum.be/co-campagne/",
+    "land": "BE",
+    "opmerking": "Gebruikt in eerstehulp: 12-vergiftiging-en-co."
+  },
+  {
+    "soort": "pdf",
+    "licentie": "auteursrecht Rode Kruis-Vlaanderen",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "eh-rkv-2026-affiche-elektriciteitsongevallen",
+    "naam": "Rode Kruis-Vlaanderen: affiche Eerste hulp bij elektriciteitsongevallen (mei 2026)",
+    "eigenaar": "Rode Kruis-Vlaanderen vzw",
+    "url": "https://www.rodekruis.be/storage/main/2026-affiche-elektriciteitsongevallen.pdf",
+    "land": "BE",
+    "opmerking": "Gebruikt in eerstehulp: 13-elektrocutie. Affiche mei 2026 (2026_072)."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "Na te kijken",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "eh-gw-eerste-hulp-bij-verdrinking",
+    "naam": "Gezondheid en Wetenschap (Rode Kruis-Vlaanderen): Eerste hulp bij verdrinking",
+    "eigenaar": "Gezondheid en Wetenschap; eerstehulptips uit het handboek Help! Eerste hulp voor iedereen van Rode Kruis-Vlaanderen (CEBaP)",
+    "url": "https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-verdrinking",
+    "land": "BE",
+    "opmerking": "Gebruikt in eerstehulp: 14-verdrinking. De site vermeldt dat inhoud niet zonder schriftelijke toestemming overgenomen mag worden; wij geven feiten in eigen woorden weer. Toestemming vragen samen met Rode Kruis-Vlaanderen."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "Na te kijken",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "eh-gw-eerste-hulp-bij-een-bijensteek",
+    "naam": "Gezondheid en Wetenschap (Rode Kruis-Vlaanderen): Eerste hulp bij een bijensteek",
+    "eigenaar": "Gezondheid en Wetenschap; eerstehulptips uit het handboek Help! Eerste hulp voor iedereen van Rode Kruis-Vlaanderen (CEBaP)",
+    "url": "https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-een-bijensteek",
+    "land": "BE",
+    "opmerking": "Gebruikt in eerstehulp: 15-allergische-reactie. De site vermeldt dat inhoud niet zonder schriftelijke toestemming overgenomen mag worden; wij geven feiten in eigen woorden weer. Toestemming vragen samen met Rode Kruis-Vlaanderen."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "Na te kijken",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "eh-gw-bij-een-beroerte-telt-elke-minuut",
+    "naam": "Gezondheid en Wetenschap (Rode Kruis-Vlaanderen): Eerste hulp bij een beroerte",
+    "eigenaar": "Gezondheid en Wetenschap; eerstehulptips uit het handboek Help! Eerste hulp voor iedereen van Rode Kruis-Vlaanderen (CEBaP)",
+    "url": "https://www.gezondheidenwetenschap.be/eerste-hulp/bij-een-beroerte-telt-elke-minuut",
+    "land": "BE",
+    "opmerking": "Gebruikt in eerstehulp: 16-beroerte-en-hartinfarct-herkennen. De site vermeldt dat inhoud niet zonder schriftelijke toestemming overgenomen mag worden; wij geven feiten in eigen woorden weer. Toestemming vragen samen met Rode Kruis-Vlaanderen."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "Na te kijken",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "eh-gw-eerste-hulp-bij-een-hartaanval",
+    "naam": "Gezondheid en Wetenschap (Rode Kruis-Vlaanderen): Eerste hulp bij een hartaanval",
+    "eigenaar": "Gezondheid en Wetenschap; eerstehulptips uit het handboek Help! Eerste hulp voor iedereen van Rode Kruis-Vlaanderen (CEBaP)",
+    "url": "https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-een-hartaanval",
+    "land": "BE",
+    "opmerking": "Gebruikt in eerstehulp: 16-beroerte-en-hartinfarct-herkennen. De site vermeldt dat inhoud niet zonder schriftelijke toestemming overgenomen mag worden; wij geven feiten in eigen woorden weer. Toestemming vragen samen met Rode Kruis-Vlaanderen."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "Na te kijken",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "eh-gw-eerste-hulp-bij-een-huidwonde",
+    "naam": "Gezondheid en Wetenschap (Rode Kruis-Vlaanderen): Eerste hulp bij een huidwonde",
+    "eigenaar": "Gezondheid en Wetenschap; eerstehulptips uit het handboek Help! Eerste hulp voor iedereen van Rode Kruis-Vlaanderen (CEBaP)",
+    "url": "https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-een-huidwonde",
+    "land": "BE",
+    "opmerking": "Gebruikt in eerstehulp: 17-wondverzorging-en-infectie. De site vermeldt dat inhoud niet zonder schriftelijke toestemming overgenomen mag worden; wij geven feiten in eigen woorden weer. Toestemming vragen samen met Rode Kruis-Vlaanderen."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "Na te kijken",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "eh-gw-eerste-hulp-bij-snijwonde",
+    "naam": "Gezondheid en Wetenschap (Rode Kruis-Vlaanderen): Eerste hulp bij snijwonde",
+    "eigenaar": "Gezondheid en Wetenschap; eerstehulptips uit het handboek Help! Eerste hulp voor iedereen van Rode Kruis-Vlaanderen (CEBaP)",
+    "url": "https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-snijwonde",
+    "land": "BE",
+    "opmerking": "Gebruikt in eerstehulp: 17-wondverzorging-en-infectie. De site vermeldt dat inhoud niet zonder schriftelijke toestemming overgenomen mag worden; wij geven feiten in eigen woorden weer. Toestemming vragen samen met Rode Kruis-Vlaanderen."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "Na te kijken",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "eh-gw-eerste-hulp-bij-een-steekwonde",
+    "naam": "Gezondheid en Wetenschap (Rode Kruis-Vlaanderen): Eerste hulp bij een steekwonde",
+    "eigenaar": "Gezondheid en Wetenschap; eerstehulptips uit het handboek Help! Eerste hulp voor iedereen van Rode Kruis-Vlaanderen (CEBaP)",
+    "url": "https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-een-steekwonde",
+    "land": "BE",
+    "opmerking": "Gebruikt in eerstehulp: 17-wondverzorging-en-infectie. De site vermeldt dat inhoud niet zonder schriftelijke toestemming overgenomen mag worden; wij geven feiten in eigen woorden weer. Toestemming vragen samen met Rode Kruis-Vlaanderen."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "Na te kijken",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "eh-gw-eerste-hulp-bij-een-hondenbeet",
+    "naam": "Gezondheid en Wetenschap (Rode Kruis-Vlaanderen): Eerste hulp bij een hondenbeet",
+    "eigenaar": "Gezondheid en Wetenschap; eerstehulptips uit het handboek Help! Eerste hulp voor iedereen van Rode Kruis-Vlaanderen (CEBaP)",
+    "url": "https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-een-hondenbeet",
+    "land": "BE",
+    "opmerking": "Gebruikt in eerstehulp: 17-wondverzorging-en-infectie. De site vermeldt dat inhoud niet zonder schriftelijke toestemming overgenomen mag worden; wij geven feiten in eigen woorden weer. Toestemming vragen samen met Rode Kruis-Vlaanderen."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "publiek domein (Amerikaanse federale overheid)",
+    "toestemming": "vrij",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "eh-cdc-wondzorg-ramp",
+    "naam": "CDC: Emergency Wound Care After a Natural Disaster (gearchiveerd)",
+    "eigenaar": "Centers for Disease Control and Prevention",
+    "url": "https://webharvest.gov/congress116th/20210116043740/https://www.cdc.gov/disasters/woundcare.html",
+    "land": "US",
+    "opmerking": "Gebruikt in eerstehulp: 17-wondverzorging-en-infectie. Gearchiveerde versie (laatst nagekeken door CDC op 3 november 2017); de oorspronkelijke CDC-pagina gaf 404."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "auteursrecht overheid, hergebruik niet geregeld",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "nationaal-crisiscentrum-schuilen",
+    "naam": "Nationaal Crisiscentrum: Schuilen",
+    "eigenaar": "Nationaal Crisiscentrum (FOD Binnenlandse Zaken)",
+    "url": "https://crisiscentrum.be/nl/wat-kan-jij-doen/reageer-correct/schuilen",
+    "land": "BE",
+    "opmerking": "Gebruikt in gidsen: kernwapen-en-radiologisch, nucleair-schuilen-en-straling, openbare-schuilplekken, schuilen-per-dreiging, schuilplek-in-huis."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "auteursrecht overheid, hergebruik niet geregeld",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "nationaal-crisiscentrum-evacueren",
+    "naam": "Nationaal Crisiscentrum: Evacueren",
+    "eigenaar": "Nationaal Crisiscentrum (FOD Binnenlandse Zaken)",
+    "url": "https://crisiscentrum.be/nl/wat-kan-jij-doen/reageer-correct/evacueren",
+    "land": "BE",
+    "opmerking": "Gebruikt in gidsen: na-de-wolk, openbare-schuilplekken, schuilen-per-dreiging."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "auteursrecht overheid, hergebruik niet geregeld",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "nationaal-crisiscentrum-aanval-op-een-soft-target",
+    "naam": "Nationaal Crisiscentrum: Aanval op een soft target",
+    "eigenaar": "Nationaal Crisiscentrum (FOD Binnenlandse Zaken)",
+    "url": "https://crisiscentrum.be/nl/risicos-belgie/man-made-risicos/aanval-op-een-soft-target",
+    "land": "BE",
+    "opmerking": "Gebruikt in gidsen: kernwapen-en-radiologisch, na-de-wolk, schuilen-per-dreiging."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "auteursrecht overheid, hergebruik niet geregeld",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "nationaal-crisiscentrum-ontploffen-van-explosieve-stoffen",
+    "naam": "Nationaal Crisiscentrum: Ontploffen van explosieve stoffen",
+    "eigenaar": "Nationaal Crisiscentrum (FOD Binnenlandse Zaken)",
+    "url": "https://crisiscentrum.be/nl/risicos-belgie/economische-en-technologische-risicos/ontploffen-van-explosieve-stoffen",
+    "land": "BE",
+    "opmerking": "Gebruikt in gidsen: kernwapen-en-radiologisch, schuilen-per-dreiging."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "auteursrecht overheid, hergebruik niet geregeld",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "nationaal-crisiscentrum-vrijkomen-van-chemische-stoffen",
+    "naam": "Nationaal Crisiscentrum: Vrijkomen van chemische stoffen",
+    "eigenaar": "Nationaal Crisiscentrum (FOD Binnenlandse Zaken)",
+    "url": "https://crisiscentrum.be/nl/risicos-belgie/economische-en-technologische-risicos/vrijkomen-van-chemische-stoffen",
+    "land": "BE",
+    "opmerking": "Gebruikt in gidsen: schuilen-per-dreiging."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "auteursrecht overheid, hergebruik niet geregeld",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "nationaal-crisiscentrum-incident-in-een-kerncentrale",
+    "naam": "Nationaal Crisiscentrum: Incident in een kerncentrale",
+    "eigenaar": "Nationaal Crisiscentrum (FOD Binnenlandse Zaken)",
+    "url": "https://crisiscentrum.be/nl/risicos-belgie/economische-en-technologische-risicos/incident-een-kerncentrale",
+    "land": "BE",
+    "opmerking": "Gebruikt in gidsen: jodium, na-de-wolk, nucleair-schuilen-en-straling, schuilen-per-dreiging."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "auteursrecht overheid, hergebruik niet geregeld",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "nationaal-crisiscentrum-overstroming-door-een-rivier",
+    "naam": "Nationaal Crisiscentrum: Overstroming door een rivier",
+    "eigenaar": "Nationaal Crisiscentrum (FOD Binnenlandse Zaken)",
+    "url": "https://crisiscentrum.be/nl/risicos-belgie/natuurlijke-risicos/fluviale-overstroming-rivier",
+    "land": "BE",
+    "opmerking": "Gebruikt in gidsen: schuilen-per-dreiging."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "auteursrecht overheid, hergebruik niet geregeld",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "nationaal-crisiscentrum-wind-en-storm",
+    "naam": "Nationaal Crisiscentrum: Wind en storm",
+    "eigenaar": "Nationaal Crisiscentrum (FOD Binnenlandse Zaken)",
+    "url": "https://crisiscentrum.be/nl/risicos-belgie/natuurlijke-risicos/wind-en-storm",
+    "land": "BE",
+    "opmerking": "Gebruikt in gidsen: schuilen-per-dreiging."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "auteursrecht overheid, hergebruik niet geregeld",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "nationaal-crisiscentrum-tornado",
+    "naam": "Nationaal Crisiscentrum: Tornado",
+    "eigenaar": "Nationaal Crisiscentrum (FOD Binnenlandse Zaken)",
+    "url": "https://crisiscentrum.be/nl/risicos-belgie/natuurlijke-risicos/tornado",
+    "land": "BE",
+    "opmerking": "Gebruikt in gidsen: schuilen-per-dreiging."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "auteursrecht overheid, hergebruik niet geregeld",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "nationaal-crisiscentrum-natuurbrand",
+    "naam": "Nationaal Crisiscentrum: Natuurbrand",
+    "eigenaar": "Nationaal Crisiscentrum (FOD Binnenlandse Zaken)",
+    "url": "https://crisiscentrum.be/nl/risicos-belgie/natuurlijke-risicos/natuurbrand",
+    "land": "BE",
+    "opmerking": "Gebruikt in gidsen: schuilen-per-dreiging."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "auteursrecht overheid, hergebruik niet geregeld",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "nationaal-crisiscentrum-aardbeving",
+    "naam": "Nationaal Crisiscentrum: Aardbeving",
+    "eigenaar": "Nationaal Crisiscentrum (FOD Binnenlandse Zaken)",
+    "url": "https://crisiscentrum.be/nl/risicos-belgie/natuurlijke-risicos/aardbeving",
+    "land": "BE",
+    "opmerking": "Gebruikt in gidsen: schuilen-per-dreiging."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "auteursrecht overheid, hergebruik niet geregeld",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "nationaal-crisiscentrum-hittegolf",
+    "naam": "Nationaal Crisiscentrum: Hittegolf",
+    "eigenaar": "Nationaal Crisiscentrum (FOD Binnenlandse Zaken)",
+    "url": "https://crisiscentrum.be/nl/risicos-belgie/natuurlijke-risicos/hittegolf",
+    "land": "BE",
+    "opmerking": "Gebruikt in gidsen: schuilen-per-dreiging."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "auteursrecht overheid, hergebruik niet geregeld",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "nationaal-crisiscentrum-koudegolf",
+    "naam": "Nationaal Crisiscentrum: Koudegolf",
+    "eigenaar": "Nationaal Crisiscentrum (FOD Binnenlandse Zaken)",
+    "url": "https://crisiscentrum.be/nl/risicos-belgie/natuurlijke-risicos/koudegolf",
+    "land": "BE",
+    "opmerking": "Gebruikt in gidsen: schuilen-per-dreiging."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "auteursrecht overheid, hergebruik niet geregeld",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "nationaal-crisiscentrum-internationaal-gewapend-conflict",
+    "naam": "Nationaal Crisiscentrum: Internationaal gewapend conflict",
+    "eigenaar": "Nationaal Crisiscentrum (FOD Binnenlandse Zaken)",
+    "url": "https://crisiscentrum.be/nl/risicos-belgie/man-made-risicos/internationaal-gewapend-conflict-igc",
+    "land": "BE",
+    "opmerking": "Gebruikt in gidsen: schuilen-per-dreiging."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "auteursrecht overheid, hergebruik niet geregeld",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "nationaal-crisiscentrum-brand-of-instorting-van-een-tunnel",
+    "naam": "Nationaal Crisiscentrum: Brand of instorting van een tunnel",
+    "eigenaar": "Nationaal Crisiscentrum (FOD Binnenlandse Zaken)",
+    "url": "https://crisiscentrum.be/nl/risicos-belgie/economische-en-technologische-risicos/brand-instorting-van-een-tunnel",
+    "land": "BE",
+    "opmerking": "Gebruikt in gidsen: openbare-schuilplekken, schuilen-per-dreiging."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "auteursrecht overheid, hergebruik niet geregeld",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "nucleair-risico-schuilen-de-beste-bescherming",
+    "naam": "Nucleair risico: Schuilen, de beste bescherming",
+    "eigenaar": "Nationaal Crisiscentrum (FOD Binnenlandse Zaken)",
+    "url": "https://nucleairrisico.be/nl/wat-kan-jij-doen/schuilen-de-beste-bescherming",
+    "land": "BE",
+    "opmerking": "Gebruikt in gidsen: nucleair-schuilen-en-straling, schuilen-per-dreiging, schuilplek-in-huis."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "Na te kijken",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "kmi-hoe-bescherm-ik-me-tegen-bliksem",
+    "naam": "KMI: Hoe bescherm ik me tegen bliksem",
+    "eigenaar": "Koninklijk Meteorologisch Instituut (KMI)",
+    "url": "https://www.meteo.be/nl/info/veelgestelde-vragen/hoe-je-beschermen-tegen-gevaarlijk-weer/hoe-bescherm-ik-me-tegen-bliksem",
+    "land": "BE",
+    "opmerking": "Gebruikt in gidsen: schuilen-per-dreiging."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "Na te kijken",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "bbk-schutz-suchen",
+    "naam": "BBK: Schutz suchen",
+    "eigenaar": "Bundesamt für Bevölkerungsschutz und Katastrophenhilfe (BBK)",
+    "url": "https://www.bbk.bund.de/DE/Warnung-Vorsorge/Vorsorge/Schutz-suchen/schutz-suchen_node.html",
+    "land": "DE",
+    "opmerking": "Gebruikt in gidsen: kernwapen-en-radiologisch, nucleair-schuilen-en-straling, openbare-schuilplekken, schuilen-per-dreiging, schuilplek-in-huis."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "Na te kijken",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "bbk-explosionen-hier-finden-sie-schutz",
+    "naam": "BBK: Explosionen, hier finden Sie Schutz",
+    "eigenaar": "Bundesamt für Bevölkerungsschutz und Katastrophenhilfe (BBK)",
+    "url": "https://www.bbk.bund.de/DE/Warnung-Vorsorge/Vorsorge/Schutz-suchen/Schutz-vor-Explosion/schutz-vor-explosion_node.html",
+    "land": "DE",
+    "opmerking": "Gebruikt in gidsen: kernwapen-en-radiologisch, openbare-schuilplekken, schuilen-per-dreiging, schuilplek-in-huis."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "Na te kijken",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "bbk-die-unterschiedlichen-gefahrstoffe",
+    "naam": "BBK: Die unterschiedlichen Gefahrstoffe",
+    "eigenaar": "Bundesamt für Bevölkerungsschutz und Katastrophenhilfe (BBK)",
+    "url": "https://www.bbk.bund.de/DE/Warnung-Vorsorge/Vorsorge/Schutz-suchen/Gefahrstoff-Freisetzung/_documents/gefahrstoff-unterschiede_dossier1.html?nn=20588",
+    "land": "DE",
+    "opmerking": "Gebruikt in gidsen: openbare-schuilplekken, schuilen-per-dreiging."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "Na te kijken",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "bbk-verhalten-im-freien-oder-im-auto-bei-gefahrstofffreisetz",
+    "naam": "BBK: Verhalten im Freien oder im Auto bei Gefahrstofffreisetzung",
+    "eigenaar": "Bundesamt für Bevölkerungsschutz und Katastrophenhilfe (BBK)",
+    "url": "https://www.bbk.bund.de/DE/Warnung-Vorsorge/Vorsorge/Schutz-suchen/Gefahrstoff-Freisetzung/_documents/gefahrstoff-im-auto-und-im-freien_dossier3.html?nn=20588",
+    "land": "DE",
+    "opmerking": "Gebruikt in gidsen: schuilen-per-dreiging."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "Na te kijken",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "mcf-about-the-warning-and-information-systems",
+    "naam": "MCF: About the warning and information systems",
+    "eigenaar": "Myndigheten för civilt försvar (MCF), Zweden",
+    "url": "https://www.mcf.se/en/advice-for-individuals/civil-defence-shelters-evacuation-and-warning-systems/public-service-announcement-and-other-varnings/about-the-warning--and-information-systems/",
+    "land": "SE",
+    "opmerking": "Gebruikt in gidsen: schuilen-per-dreiging."
+  },
+  {
+    "soort": "pdf",
+    "licentie": "Na te kijken",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "mcf-in-case-of-crisis-or-war-brochure",
+    "naam": "MCF: In case of crisis or war (brochure)",
+    "eigenaar": "Myndigheten för civilt försvar (MCF), Zweden; bestand op de server van de vroegere MSB",
+    "url": "https://rib.msb.se/filer/pdf/31523.pdf",
+    "land": "SE",
+    "opmerking": "Gebruikt in gidsen: kernwapen-en-radiologisch, na-de-wolk, openbare-schuilplekken, schuilen-per-dreiging, schuilplek-in-huis. Engelse versie van 'Om krisen eller kriget kommer'; publicatiepagina https://www.mcf.se/sv/publikationer/om-krisen-eller-kriget-kommer-pa-engelska/."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "Na te kijken",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "suomi-fi-threat-from-the-air",
+    "naam": "Suomi.fi: Threat from the air",
+    "eigenaar": "Ministerie van Binnenlandse Zaken van Finland, via Suomi.fi (Digital and Population Data Services Agency)",
+    "url": "https://www.suomi.fi/guides/preparedness/how-to-prepare-for-incidents-and-crises/threat-from-the-air",
+    "land": "FI",
+    "opmerking": "Gebruikt in gidsen: schuilen-per-dreiging."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "Na te kijken",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "suomi-fi-spreading-of-dangerous-substances-into-the-environm",
+    "naam": "Suomi.fi: Spreading of dangerous substances into the environment",
+    "eigenaar": "Ministerie van Binnenlandse Zaken van Finland, via Suomi.fi (Digital and Population Data Services Agency)",
+    "url": "https://www.suomi.fi/guides/preparedness/how-to-prepare-for-incidents-and-crises/spreading-of-dangerous-substances-into-the-environment",
+    "land": "FI",
+    "opmerking": "Gebruikt in gidsen: schuilen-per-dreiging."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "Na te kijken",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "suomi-fi-wildfires-and-major-building-fires",
+    "naam": "Suomi.fi: Wildfires and major building fires",
+    "eigenaar": "Ministerie van Binnenlandse Zaken van Finland, via Suomi.fi (Digital and Population Data Services Agency)",
+    "url": "https://www.suomi.fi/guides/preparedness/how-to-prepare-for-incidents-and-crises/wildfires-and-major-building-fires",
+    "land": "FI",
+    "opmerking": "Gebruikt in gidsen: schuilen-per-dreiging."
+  },
+  {
+    "soort": "pdf",
+    "licentie": "Na te kijken",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "tno-schuilmogelijkheden-bij-luchtaanvallen-met-explosieven-m",
+    "naam": "TNO: Schuilmogelijkheden bij luchtaanvallen met explosieven (mei 2026)",
+    "eigenaar": "Ministerie van Justitie en Veiligheid / TNO, gepubliceerd door de Tweede Kamer",
+    "url": "https://www.tweedekamer.nl/downloads/document?id=2026D56281",
+    "land": "NL",
+    "opmerking": "Gebruikt in gidsen: openbare-schuilplekken, schuilen-per-dreiging, schuilplek-in-huis. TNO-rapport R10554, mei 2026; vermeldt 'Alle rechten voorbehouden'. Technisch advies, geen officieel publieksadvies."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "auteursrecht overheid; hergebruik na te gaan",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "denk-vooruit-een-aanslag",
+    "naam": "Denk vooruit: Een aanslag",
+    "eigenaar": "Rijksoverheid Nederland (NCTV), campagne Denk vooruit",
+    "url": "https://www.denkvooruit.nl/risicos/risicos-in-nederland/een-aanslag",
+    "land": "NL",
+    "opmerking": "Gebruikt in gidsen: schuilen-per-dreiging."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "Na te kijken",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "ministerie-van-binnenlandse-zaken-tsjechi-sebeochrana-ukryt",
+    "naam": "Ministerie van Binnenlandse Zaken Tsjechië: Sebeochrana ukrytím",
+    "eigenaar": "Ministerie van Binnenlandse Zaken van Tsjechië en brandweerkorps HZS ČR (archiefversie, uitgave 2001)",
+    "url": "https://mv.gov.cz/clanek/sebeochrana-ukrytim.aspx",
+    "land": "CZ",
+    "opmerking": "Gebruikt in gidsen: openbare-schuilplekken, schuilen-per-dreiging, schuilplek-in-huis. Archiefversie van de website van het ministerie; inhoud mogelijk niet actueel."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "Publiek domein (werk van de Amerikaanse federale overheid)",
+    "toestemming": "vrij",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "ready-gov-radiation-emergencies",
+    "naam": "Ready.gov: Radiation emergencies",
+    "eigenaar": "FEMA, Department of Homeland Security (Ready.gov), Verenigde Staten",
+    "url": "https://www.ready.gov/radiation",
+    "land": "US",
+    "opmerking": "Gebruikt in gidsen: kernwapen-en-radiologisch, na-de-wolk, nucleair-schuilen-en-straling, schuilen-per-dreiging, schuilplek-in-huis."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "Publiek domein (werk van de Amerikaanse federale overheid)",
+    "toestemming": "vrij",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "ready-gov-chemicals-and-hazardous-materials-incidents",
+    "naam": "Ready.gov: Chemicals and hazardous materials incidents",
+    "eigenaar": "FEMA, Department of Homeland Security (Ready.gov), Verenigde Staten",
+    "url": "https://www.ready.gov/hazmat",
+    "land": "US",
+    "opmerking": "Gebruikt in gidsen: schuilen-per-dreiging, schuilplek-in-huis."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "Publiek domein (werk van de Amerikaanse federale overheid)",
+    "toestemming": "vrij",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "ready-gov-explosions",
+    "naam": "Ready.gov: Explosions",
+    "eigenaar": "FEMA, Department of Homeland Security (Ready.gov), Verenigde Staten",
+    "url": "https://www.ready.gov/explosions",
+    "land": "US",
+    "opmerking": "Gebruikt in gidsen: schuilen-per-dreiging."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "Publiek domein (werk van de Amerikaanse federale overheid)",
+    "toestemming": "vrij",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "ready-gov-floods",
+    "naam": "Ready.gov: Floods",
+    "eigenaar": "FEMA, Department of Homeland Security (Ready.gov), Verenigde Staten",
+    "url": "https://www.ready.gov/floods",
+    "land": "US",
+    "opmerking": "Gebruikt in gidsen: schuilen-per-dreiging."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "Publiek domein (werk van de Amerikaanse federale overheid)",
+    "toestemming": "vrij",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "ready-gov-tornadoes",
+    "naam": "Ready.gov: Tornadoes",
+    "eigenaar": "FEMA, Department of Homeland Security (Ready.gov), Verenigde Staten",
+    "url": "https://www.ready.gov/tornadoes",
+    "land": "US",
+    "opmerking": "Gebruikt in gidsen: schuilen-per-dreiging."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "Publiek domein (werk van de Amerikaanse federale overheid)",
+    "toestemming": "vrij",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "ready-gov-wildfires",
+    "naam": "Ready.gov: Wildfires",
+    "eigenaar": "FEMA, Department of Homeland Security (Ready.gov), Verenigde Staten",
+    "url": "https://www.ready.gov/wildfires",
+    "land": "US",
+    "opmerking": "Gebruikt in gidsen: schuilen-per-dreiging."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "Publiek domein (werk van de Amerikaanse federale overheid)",
+    "toestemming": "vrij",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "ready-gov-earthquakes",
+    "naam": "Ready.gov: Earthquakes",
+    "eigenaar": "FEMA, Department of Homeland Security (Ready.gov), Verenigde Staten",
+    "url": "https://www.ready.gov/earthquakes",
+    "land": "US",
+    "opmerking": "Gebruikt in gidsen: schuilen-per-dreiging."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "Publiek domein (werk van de Amerikaanse federale overheid)",
+    "toestemming": "vrij",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "ready-gov-extreme-heat",
+    "naam": "Ready.gov: Extreme heat",
+    "eigenaar": "FEMA, Department of Homeland Security (Ready.gov), Verenigde Staten",
+    "url": "https://www.ready.gov/heat",
+    "land": "US",
+    "opmerking": "Gebruikt in gidsen: schuilen-per-dreiging."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "Publiek domein (werk van de Amerikaanse federale overheid)",
+    "toestemming": "vrij",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "ready-gov-winter-weather",
+    "naam": "Ready.gov: Winter weather",
+    "eigenaar": "FEMA, Department of Homeland Security (Ready.gov), Verenigde Staten",
+    "url": "https://www.ready.gov/winter-weather",
+    "land": "US",
+    "opmerking": "Gebruikt in gidsen: schuilen-per-dreiging."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "Publiek domein (werk van de Amerikaanse federale overheid)",
+    "toestemming": "vrij",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "ready-gov-mass-gatherings-incidents",
+    "naam": "Ready.gov: Mass gatherings incidents",
+    "eigenaar": "FEMA, Department of Homeland Security (Ready.gov), Verenigde Staten",
+    "url": "https://www.ready.gov/mass-gatherings-incidents",
+    "land": "US",
+    "opmerking": "Gebruikt in gidsen: schuilen-per-dreiging."
+  },
+  {
+    "soort": "pdf",
+    "licentie": "auteursrecht overheid, hergebruik niet geregeld",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "nationaal-crisiscentrum-brochure-samen-voorbereid",
+    "naam": "Nationaal Crisiscentrum: brochure Samen voorbereid",
+    "eigenaar": "Nationaal Crisiscentrum (FOD Binnenlandse Zaken)",
+    "url": "https://crisiscentrum.be/sites/default/files/documents/files/WEB-Brochure%20Samen%20voorbereid-NL.pdf",
+    "land": "BE",
+    "opmerking": "Gebruikt in gidsen: jodium, kernwapen-en-radiologisch, na-de-wolk, nucleair-schuilen-en-straling, openbare-schuilplekken, schuilplek-in-huis."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "auteursrecht overheid, hergebruik niet geregeld",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "nucleair-risico-veelgestelde-vragen",
+    "naam": "Nucleair risico: veelgestelde vragen",
+    "eigenaar": "Nationaal Crisiscentrum (FOD Binnenlandse Zaken)",
+    "url": "https://nucleairrisico.be/nl/faq",
+    "land": "BE",
+    "opmerking": "Gebruikt in gidsen: jodium, na-de-wolk, nucleair-schuilen-en-straling, schuilplek-in-huis."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "Na te kijken",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "bbk-verhalten-im-haus-bei-gefahrstofffreisetzung",
+    "naam": "BBK: Verhalten im Haus bei Gefahrstofffreisetzung",
+    "eigenaar": "Bundesamt für Bevölkerungsschutz und Katastrophenhilfe (BBK)",
+    "url": "https://www.bbk.bund.de/DE/Warnung-Vorsorge/Vorsorge/Schutz-suchen/Gefahrstoff-Freisetzung/_documents/gefahrstoff-im-haus_dossier2.html?nn=20588",
+    "land": "DE",
+    "opmerking": "Gebruikt in gidsen: na-de-wolk, nucleair-schuilen-en-straling, schuilplek-in-huis."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "Na te kijken",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "mcf-good-to-know-about-civil-defence-shelters",
+    "naam": "MCF: Good to know about civil defence shelters",
+    "eigenaar": "Myndigheten för civilt försvar (MCF), Zweden",
+    "url": "https://www.mcf.se/en/advice-for-individuals/civil-defence-shelters-evacuation-and-warning-systems/good-to-know-about-civil-defence-shelters/",
+    "land": "SE",
+    "opmerking": "Gebruikt in gidsen: kernwapen-en-radiologisch, openbare-schuilplekken, schuilplek-in-huis."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "Na te kijken",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "suomi-fi-general-instructions-how-to-seek-shelter-indoors",
+    "naam": "Suomi.fi: General instructions, how to seek shelter indoors",
+    "eigenaar": "Ministerie van Binnenlandse Zaken van Finland, via Suomi.fi (Digital and Population Data Services Agency)",
+    "url": "https://www.suomi.fi/guides/preparedness/how-to-prepare-for-incidents-and-crises/general-instructions-on-preparedness-home-emergency-supplies-and-on-what-to-do-in-different-situations",
+    "land": "FI",
+    "opmerking": "Gebruikt in gidsen: schuilplek-in-huis."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "Na te kijken",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "suomi-fi-military-conflicts-and-civil-defence",
+    "naam": "Suomi.fi: Military conflicts and civil defence",
+    "eigenaar": "Ministerie van Binnenlandse Zaken van Finland, via Suomi.fi (Digital and Population Data Services Agency)",
+    "url": "https://www.suomi.fi/guides/preparedness/how-to-prepare-for-incidents-and-crises/military-conflicts-and-civil-defence",
+    "land": "FI",
+    "opmerking": "Gebruikt in gidsen: kernwapen-en-radiologisch, openbare-schuilplekken, schuilplek-in-huis."
+  },
+  {
+    "soort": "pdf",
+    "licentie": "Na te kijken",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "babs-der-schutzraum-brochure-juni-2023",
+    "naam": "BABS: Der Schutzraum (brochure, juni 2023)",
+    "eigenaar": "Bundesamt für Bevölkerungsschutz (BABS), Zwitserland; bestand gehost door kanton Schwyz",
+    "url": "https://www.sz.ch/public/upload/assets/87489/Der_Schutzraum.pdf?fp=2",
+    "land": "CH",
+    "opmerking": "Gebruikt in gidsen: kernwapen-en-radiologisch, openbare-schuilplekken, schuilplek-in-huis."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "Publiek domein (werk van de Amerikaanse federale overheid)",
+    "toestemming": "vrij",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "ready-gov-shelter",
+    "naam": "Ready.gov: Shelter",
+    "eigenaar": "FEMA, Department of Homeland Security (Ready.gov), Verenigde Staten",
+    "url": "https://www.ready.gov/shelter",
+    "land": "US",
+    "opmerking": "Gebruikt in gidsen: schuilplek-in-huis."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "auteursrecht overheid, hergebruik niet geregeld",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "nucleair-risico-jodiumtabletten-voor-collectiviteiten",
+    "naam": "Nucleair risico: Jodiumtabletten voor collectiviteiten",
+    "eigenaar": "Nationaal Crisiscentrum (FOD Binnenlandse Zaken)",
+    "url": "https://nucleairrisico.be/nl/jodiumtabletten/voor-collectiviteiten",
+    "land": "BE",
+    "opmerking": "Gebruikt in gidsen: jodium, openbare-schuilplekken."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "Na te kijken",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "openstreetmap-wiki-military-bunker",
+    "naam": "OpenStreetMap-wiki: military=bunker",
+    "eigenaar": "OpenStreetMap-wikibijdragers",
+    "url": "https://wiki.openstreetmap.org/wiki/Tag:military%3Dbunker",
+    "land": "EU",
+    "opmerking": "Gebruikt in gidsen: openbare-schuilplekken."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "Na te kijken",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "openstreetmap-wiki-parking-underground",
+    "naam": "OpenStreetMap-wiki: parking=underground",
+    "eigenaar": "OpenStreetMap-wikibijdragers",
+    "url": "https://wiki.openstreetmap.org/wiki/Tag:parking%3Dunderground",
+    "land": "EU",
+    "opmerking": "Gebruikt in gidsen: openbare-schuilplekken."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "Na te kijken",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "openstreetmap-wiki-access",
+    "naam": "OpenStreetMap-wiki: access",
+    "eigenaar": "OpenStreetMap-wikibijdragers",
+    "url": "https://wiki.openstreetmap.org/wiki/Key:access",
+    "land": "EU",
+    "opmerking": "Gebruikt in gidsen: openbare-schuilplekken."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "Na te kijken",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "staatsbrandweer-polen-gdzie-si-ukry",
+    "naam": "Staatsbrandweer Polen: Gdzie się ukryć",
+    "eigenaar": "Państwowa Straż Pożarna (staatsbrandweer), Polen",
+    "url": "https://www.gov.pl/web/kmpsp-warszawa/gdzie-sie-ukryc---sprawdz-najblizsze-punkty-schronienia-ps",
+    "land": "PL",
+    "opmerking": "Gebruikt in gidsen: openbare-schuilplekken."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "Na te kijken",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "lrt-lithuania-preps-its-bomb-shelter-network",
+    "naam": "LRT: Lithuania preps its bomb shelter network",
+    "eigenaar": "LRT, openbare omroep van Litouwen",
+    "url": "https://www.lrt.lt/en/news-in-english/19/2672539/lithuania-preps-its-bomb-shelter-network-what-you-should-know",
+    "land": "LT",
+    "opmerking": "Gebruikt in gidsen: openbare-schuilplekken. Nieuwsbericht; officiële bron lt72.lt was niet automatisch leesbaar (403)."
+  },
+  {
+    "soort": "pdf",
+    "licentie": "Na te kijken",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "ministerie-van-justitie-en-veiligheid-beslisnota-tweede-voor",
+    "naam": "Ministerie van Justitie en Veiligheid: beslisnota tweede voortgangsbrief Landelijke Agenda Crisisbeheersing",
+    "eigenaar": "Ministerie van Justitie en Veiligheid / TNO, gepubliceerd door de Tweede Kamer",
+    "url": "https://www.tweedekamer.nl/downloads/document?id=2026D56282",
+    "land": "NL",
+    "opmerking": "Gebruikt in gidsen: openbare-schuilplekken."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "auteursrecht overheid, hergebruik niet geregeld",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "nucleair-risico-jezelf-ontsmetten",
+    "naam": "Nucleair risico: Jezelf ontsmetten",
+    "eigenaar": "Nationaal Crisiscentrum (FOD Binnenlandse Zaken)",
+    "url": "https://nucleairrisico.be/nl/wat-kan-jij-doen/jezelf-ontsmetten",
+    "land": "BE",
+    "opmerking": "Gebruikt in gidsen: kernwapen-en-radiologisch, na-de-wolk, nucleair-schuilen-en-straling."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "auteursrecht overheid, hergebruik niet geregeld",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "nucleair-risico-bescherming-van-de-voedselketen",
+    "naam": "Nucleair risico: Bescherming van de voedselketen",
+    "eigenaar": "Nationaal Crisiscentrum (FOD Binnenlandse Zaken)",
+    "url": "https://nucleairrisico.be/nl/wat-kan-jij-doen/bescherming-van-de-voedselketen",
+    "land": "BE",
+    "opmerking": "Gebruikt in gidsen: na-de-wolk, nucleair-schuilen-en-straling."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "auteursrecht overheid, hergebruik niet geregeld",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "nucleair-risico-evacuatie",
+    "naam": "Nucleair risico: Evacuatie",
+    "eigenaar": "Nationaal Crisiscentrum (FOD Binnenlandse Zaken)",
+    "url": "https://nucleairrisico.be/nl/wat-kan-jij-doen/evacuatie",
+    "land": "BE",
+    "opmerking": "Gebruikt in gidsen: na-de-wolk, nucleair-schuilen-en-straling."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "auteursrecht overheid, hergebruik niet geregeld",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "nucleair-risico-noodplanningszones",
+    "naam": "Nucleair risico: Noodplanningszones",
+    "eigenaar": "Nationaal Crisiscentrum (FOD Binnenlandse Zaken)",
+    "url": "https://nucleairrisico.be/nl/wat-doet-de-overheid/noodplanningszones",
+    "land": "BE",
+    "opmerking": "Gebruikt in gidsen: jodium, nucleair-schuilen-en-straling."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "auteursrecht overheid, hergebruik niet geregeld",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "nucleair-risico-nucleaire-noodplanningszones-kaart",
+    "naam": "Nucleair risico: Nucleaire noodplanningszones (kaart)",
+    "eigenaar": "Nationaal Crisiscentrum (FOD Binnenlandse Zaken)",
+    "url": "https://nucleairrisico.be/nl/nucleaire-noodplanningszones",
+    "land": "BE",
+    "opmerking": "Gebruikt in gidsen: nucleair-schuilen-en-straling."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "auteursrecht overheid, hergebruik niet geregeld",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "nucleair-risico-nucleaire-sites",
+    "naam": "Nucleair risico: Nucleaire sites",
+    "eigenaar": "Nationaal Crisiscentrum (FOD Binnenlandse Zaken)",
+    "url": "https://nucleairrisico.be/nl/nucleaire-risicos/nucleaire-sites",
+    "land": "BE",
+    "opmerking": "Gebruikt in gidsen: nucleair-schuilen-en-straling."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "auteursrecht overheid, hergebruik niet geregeld",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "nucleair-risico-radioactiviteit-en-blootstelling",
+    "naam": "Nucleair risico: Radioactiviteit en blootstelling",
+    "eigenaar": "Nationaal Crisiscentrum (FOD Binnenlandse Zaken)",
+    "url": "https://nucleairrisico.be/nl/nucleaire-risicos/radioactiviteit-blootstelling",
+    "land": "BE",
+    "opmerking": "Gebruikt in gidsen: na-de-wolk, nucleair-schuilen-en-straling."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "auteursrecht overheid, hergebruik niet geregeld",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "nucleair-risico-waarschuwen-en-beschermen-van-de-bevolking",
+    "naam": "Nucleair risico: Waarschuwen en beschermen van de bevolking",
+    "eigenaar": "Nationaal Crisiscentrum (FOD Binnenlandse Zaken)",
+    "url": "https://nucleairrisico.be/nl/wat-doet-de-overheid/waarschuwen-en-beschermen-van-de-bevolking",
+    "land": "BE",
+    "opmerking": "Gebruikt in gidsen: nucleair-schuilen-en-straling."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "Na te kijken",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "suomi-fi-radiation-hazards",
+    "naam": "Suomi.fi: Radiation hazards",
+    "eigenaar": "Ministerie van Binnenlandse Zaken van Finland, via Suomi.fi (Digital and Population Data Services Agency)",
+    "url": "https://www.suomi.fi/guides/preparedness/how-to-prepare-for-incidents-and-crises/radiation-hazards",
+    "land": "FI",
+    "opmerking": "Gebruikt in gidsen: jodium, kernwapen-en-radiologisch, na-de-wolk, nucleair-schuilen-en-straling."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "Na te kijken",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "kanton-aargau-kkw-st-rfall",
+    "naam": "Kanton Aargau: KKW-Störfall",
+    "eigenaar": "Kanton Aargau, Zwitserland",
+    "url": "https://www.ag.ch/de/themen/sicherheit/bevoelkerungsschutz/verhaltensempfehlungen/kkw-stoerfall",
+    "land": "CH",
+    "opmerking": "Gebruikt in gidsen: nucleair-schuilen-en-straling."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "Na te kijken",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "rijksoverheid-hoe-kan-ik-mezelf-beschermen-bij-een-kernongev",
+    "naam": "Rijksoverheid: Hoe kan ik mezelf beschermen bij een kernongeval",
+    "eigenaar": "Rijksoverheid Nederland, ministerie van Infrastructuur en Waterstaat",
+    "url": "https://www.rijksoverheid.nl/onderwerpen/straling/vraag-en-antwoord/hoe-kan-ik-mezelf-beschermen-bij-een-kernongeval",
+    "land": "NL",
+    "opmerking": "Gebruikt in gidsen: na-de-wolk, nucleair-schuilen-en-straling."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "Na te kijken",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "who-radiation-and-health",
+    "naam": "WHO: Radiation and health",
+    "eigenaar": "Wereldgezondheidsorganisatie (WHO)",
+    "url": "https://www.who.int/news-room/questions-and-answers/item/radiation-and-health",
+    "land": "INT",
+    "opmerking": "Gebruikt in gidsen: jodium, kernwapen-en-radiologisch, na-de-wolk, nucleair-schuilen-en-straling."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "Na te kijken",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "who-radioactivity-in-food-after-a-nuclear-emergency",
+    "naam": "WHO: Radioactivity in food after a nuclear emergency",
+    "eigenaar": "Wereldgezondheidsorganisatie (WHO)",
+    "url": "https://www.who.int/news-room/questions-and-answers/item/radioactivity-in-food-after-a-nuclear-emergency",
+    "land": "INT",
+    "opmerking": "Gebruikt in gidsen: jodium, na-de-wolk, nucleair-schuilen-en-straling."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "Publiek domein (werk van de Amerikaanse federale overheid)",
+    "toestemming": "vrij",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "cdc-what-to-do-get-inside",
+    "naam": "CDC: What to do, get inside",
+    "eigenaar": "Centers for Disease Control and Prevention (CDC), Verenigde Staten",
+    "url": "https://cdc.gov/radiation-emergencies/response/get-inside.html",
+    "land": "US",
+    "opmerking": "Gebruikt in gidsen: kernwapen-en-radiologisch, nucleair-schuilen-en-straling."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "Publiek domein (werk van de Amerikaanse federale overheid)",
+    "toestemming": "vrij",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "cdc-decontamination-for-yourself-and-others",
+    "naam": "CDC: Decontamination for yourself and others",
+    "eigenaar": "Centers for Disease Control and Prevention (CDC), Verenigde Staten",
+    "url": "https://www.cdc.gov/radiation-emergencies/infographic/decontamination.html",
+    "land": "US",
+    "opmerking": "Gebruikt in gidsen: kernwapen-en-radiologisch, na-de-wolk, nucleair-schuilen-en-straling."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "Publiek domein (werk van de Amerikaanse federale overheid)",
+    "toestemming": "vrij",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "cdc-how-to-self-decontaminate-after-a-radiation-emergency",
+    "naam": "CDC: How to self-decontaminate after a radiation emergency",
+    "eigenaar": "Centers for Disease Control and Prevention (CDC), Verenigde Staten",
+    "url": "https://cdc.gov/radiation-emergencies/prevention/self-decontaminate.html",
+    "land": "US",
+    "opmerking": "Gebruikt in gidsen: na-de-wolk, nucleair-schuilen-en-straling."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "auteursrecht overheid, hergebruik niet geregeld",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "nucleair-risico-jodiumtabletten",
+    "naam": "Nucleair risico: Jodiumtabletten",
+    "eigenaar": "Nationaal Crisiscentrum (FOD Binnenlandse Zaken)",
+    "url": "https://nucleairrisico.be/nl/jodiumtabletten",
+    "land": "BE",
+    "opmerking": "Gebruikt in gidsen: jodium."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "auteursrecht overheid, hergebruik niet geregeld",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "nucleair-risico-stabiel-en-radioactief-jodium",
+    "naam": "Nucleair risico: Stabiel en radioactief jodium",
+    "eigenaar": "Nationaal Crisiscentrum (FOD Binnenlandse Zaken)",
+    "url": "https://nucleairrisico.be/nl/jodiumtabletten/stabiel-en-radioactief-jodium",
+    "land": "BE",
+    "opmerking": "Gebruikt in gidsen: jodium."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "auteursrecht overheid, hergebruik niet geregeld",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "nucleair-risico-voor-wie",
+    "naam": "Nucleair risico: Voor wie",
+    "eigenaar": "Nationaal Crisiscentrum (FOD Binnenlandse Zaken)",
+    "url": "https://nucleairrisico.be/nl/jodiumtabletten/voor-wie",
+    "land": "BE",
+    "opmerking": "Gebruikt in gidsen: jodium."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "auteursrecht overheid, hergebruik niet geregeld",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "nucleair-risico-wanneer-innemen",
+    "naam": "Nucleair risico: Wanneer innemen",
+    "eigenaar": "Nationaal Crisiscentrum (FOD Binnenlandse Zaken)",
+    "url": "https://nucleairrisico.be/nl/jodiumtabletten/wanneer-innemen",
+    "land": "BE",
+    "opmerking": "Gebruikt in gidsen: jodium."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "auteursrecht overheid, hergebruik niet geregeld",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "nucleair-risico-jodiumtabletten-afhalen-bij-de-apotheek",
+    "naam": "Nucleair risico: Jodiumtabletten afhalen bij de apotheek",
+    "eigenaar": "Nationaal Crisiscentrum (FOD Binnenlandse Zaken)",
+    "url": "https://nucleairrisico.be/nl/jodiumtabletten/jodiumtabletten-afhalen-bij-de-apotheek",
+    "land": "BE",
+    "opmerking": "Gebruikt in gidsen: jodium."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "auteursrecht overheid, hergebruik niet geregeld",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "nucleair-risico-inname-stabiel-jodium",
+    "naam": "Nucleair risico: Inname stabiel jodium",
+    "eigenaar": "Nationaal Crisiscentrum (FOD Binnenlandse Zaken)",
+    "url": "https://nucleairrisico.be/nl/wat-kan-jij-doen/inname-stabiel-jodium",
+    "land": "BE",
+    "opmerking": "Gebruikt in gidsen: jodium."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "Na te kijken",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "who-use-of-potassium-iodide-for-thyroid-protection-during-nu",
+    "naam": "WHO: Use of potassium iodide for thyroid protection during nuclear or radiological emergencies",
+    "eigenaar": "Wereldgezondheidsorganisatie (WHO)",
+    "url": "https://www.who.int/news-room/questions-and-answers/item/use-of-potassium-iodide-for-thyroid-protection-during-nuclear-or-radiological-emergencies",
+    "land": "INT",
+    "opmerking": "Gebruikt in gidsen: jodium, na-de-wolk."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "auteursrecht overheid, hergebruik niet geregeld",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "nationaal-crisiscentrum-vrijkomen-van-nucleaire-stoffen",
+    "naam": "Nationaal Crisiscentrum: Vrijkomen van nucleaire stoffen",
+    "eigenaar": "Nationaal Crisiscentrum (FOD Binnenlandse Zaken)",
+    "url": "https://crisiscentrum.be/nl/risicos-belgie/economische-en-technologische-risicos/vrijkomen-van-nucleaire-stoffen",
+    "land": "BE",
+    "opmerking": "Gebruikt in gidsen: kernwapen-en-radiologisch."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "auteursrecht overheid, hergebruik niet geregeld",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "nationaal-crisiscentrum-vrijkomen-van-radioactieve-stoffen",
+    "naam": "Nationaal Crisiscentrum: Vrijkomen van radioactieve stoffen",
+    "eigenaar": "Nationaal Crisiscentrum (FOD Binnenlandse Zaken)",
+    "url": "https://crisiscentrum.be/nl/risicos-belgie/economische-en-technologische-risicos/vrijkomen-van-radioactieve-stoffen",
+    "land": "BE",
+    "opmerking": "Gebruikt in gidsen: kernwapen-en-radiologisch."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "auteursrecht overheid, hergebruik niet geregeld",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "nationaal-crisiscentrum-aanval-op-een-cbrne-infrastructuur",
+    "naam": "Nationaal Crisiscentrum: Aanval op een CBRNe-infrastructuur",
+    "eigenaar": "Nationaal Crisiscentrum (FOD Binnenlandse Zaken)",
+    "url": "https://crisiscentrum.be/nl/risicos-belgie/man-made-risicos/aanval-op-een-cbrne-infrastructuur",
+    "land": "BE",
+    "opmerking": "Gebruikt in gidsen: kernwapen-en-radiologisch."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "auteursrecht overheid, hergebruik niet geregeld",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "nucleair-risico-nucleaire-transporten",
+    "naam": "Nucleair risico: Nucleaire transporten",
+    "eigenaar": "Nationaal Crisiscentrum (FOD Binnenlandse Zaken)",
+    "url": "https://nucleairrisico.be/nl/nucleaire-risicos/nucleaire-transporten",
+    "land": "BE",
+    "opmerking": "Gebruikt in gidsen: kernwapen-en-radiologisch."
+  },
+  {
+    "soort": "pdf",
+    "licentie": "Publiek domein (werk van de Amerikaanse federale overheid)",
+    "toestemming": "vrij",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "ready-gov-nuclear-detonation-safety-food-drinking-water-and",
+    "naam": "Ready.gov: Nuclear detonation safety, food, drinking water and medicine",
+    "eigenaar": "FEMA, Department of Homeland Security (Ready.gov), Verenigde Staten",
+    "url": "https://www.ready.gov/sites/default/files/2023-01/ready-gov_nuclear-detonation-safety_flyer1.pdf",
+    "land": "US",
+    "opmerking": "Gebruikt in gidsen: kernwapen-en-radiologisch, na-de-wolk."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "Publiek domein (werk van de Amerikaanse federale overheid)",
+    "toestemming": "vrij",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "cdc-what-to-do-for-different-types-of-radiation-emergencies",
+    "naam": "CDC: What to do for different types of radiation emergencies",
+    "eigenaar": "Centers for Disease Control and Prevention (CDC), Verenigde Staten",
+    "url": "https://www.cdc.gov/radiation-emergencies/about/what-to-do.html",
+    "land": "US",
+    "opmerking": "Gebruikt in gidsen: kernwapen-en-radiologisch."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "Publiek domein (werk van de Amerikaanse federale overheid)",
+    "toestemming": "vrij",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "cdc-radiological-dispersal-device",
+    "naam": "CDC: Radiological dispersal device",
+    "eigenaar": "Centers for Disease Control and Prevention (CDC), Verenigde Staten",
+    "url": "https://www.cdc.gov/radiation-emergencies/infographic/radiological-dispersal-device.html",
+    "land": "US",
+    "opmerking": "Gebruikt in gidsen: kernwapen-en-radiologisch."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "auteursrecht overheid, hergebruik niet geregeld",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "nationaal-crisiscentrum-praat-erover",
+    "naam": "Nationaal Crisiscentrum: Praat erover",
+    "eigenaar": "Nationaal Crisiscentrum (FOD Binnenlandse Zaken)",
+    "url": "https://crisiscentrum.be/nl/wat-kan-jij-doen/zorg-voor-jezelf/praat-erover",
+    "land": "BE",
+    "opmerking": "Gebruikt in gidsen: na-de-wolk."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "Na te kijken",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "fanc-voedselketen-drinkwater-melk-voedingsmiddelen-en-contro",
+    "naam": "FANC: Voedselketen, drinkwater, melk, voedingsmiddelen en controlemaaltijden",
+    "eigenaar": "Federaal Agentschap voor Nucleaire Controle (FANC)",
+    "url": "https://fanc.fgov.be/nl/dossiers/radioactiviteit-het-leefmilieu/voedselketen-drinkwater-melk-voedingsmiddelen-en",
+    "land": "BE",
+    "opmerking": "Gebruikt in gidsen: na-de-wolk."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "Na te kijken",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "telerad-meetnet-van-het-fanc",
+    "naam": "Telerad (meetnet van het FANC)",
+    "eigenaar": "Federaal Agentschap voor Nucleaire Controle (FANC)",
+    "url": "http://telerad.fgov.be",
+    "land": "BE",
+    "opmerking": "Gebruikt in gidsen: na-de-wolk. Alleen als verwijzing naar live metingen; geen gegevens overgenomen."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "Na te kijken",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "europese-commissie-jrc-eurdep-advanced-map",
+    "naam": "Europese Commissie, JRC: EURDEP Advanced Map",
+    "eigenaar": "Europese Commissie, Joint Research Centre (JRC)",
+    "url": "https://remap.jrc.ec.europa.eu/Advanced.aspx",
+    "land": "EU",
+    "opmerking": "Gebruikt in gidsen: na-de-wolk. Alleen als verwijzing naar live metingen; geen gegevens overgenomen."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "auteursrecht overheid, hergebruik niet geregeld",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "crisiscentrum-be-risicos-verstoring-van-elektriciteit",
+    "naam": "Nationaal Crisiscentrum: verstoring van elektriciteit",
+    "eigenaar": "Nationaal Crisiscentrum (FOD Binnenlandse Zaken)",
+    "url": "https://crisiscentrum.be/nl/risicos-belgie/maatschappelijke-risicos/verstoring-van-elektriciteit",
+    "land": "BE",
+    "opmerking": "Gebruikt in scenariokaarten: stroomuitval."
+  },
+  {
+    "soort": "pdf",
+    "licentie": "auteursrecht overheid, hergebruik niet geregeld",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "crisiscentrum-be-files-offon-triptyque-n",
+    "naam": "Nationaal Crisiscentrum: brochure OFF/ON bij elektriciteitsschaarste",
+    "eigenaar": "Nationaal Crisiscentrum (FOD Binnenlandse Zaken)",
+    "url": "https://crisiscentrum.be/sites/default/files/documents/files/OffOn-triptyque-N.pdf",
+    "land": "BE",
+    "opmerking": "Gebruikt in scenariokaarten: stroomuitval, telecom. Brochure uit 2019; tekst gehaald met pdftotext."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "auteursrecht overheid, hergebruik niet geregeld",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "crisiscentrum-be-noodpakket-bij-je-thuis",
+    "naam": "Nationaal Crisiscentrum: een noodpakket bij je thuis",
+    "eigenaar": "Nationaal Crisiscentrum (FOD Binnenlandse Zaken)",
+    "url": "https://crisiscentrum.be/nl/wat-kan-jij-doen/maak-een-noodpakket/een-noodpakket-bij-je-thuis",
+    "land": "BE",
+    "opmerking": "Gebruikt in scenariokaarten: stroomuitval, telecom, overstroming, storm, gaslek."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "auteursrecht overheid, hergebruik niet geregeld",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "crisiscentrum-be-doen-maak-een-plan",
+    "naam": "Nationaal Crisiscentrum: maak een plan",
+    "eigenaar": "Nationaal Crisiscentrum (FOD Binnenlandse Zaken)",
+    "url": "https://crisiscentrum.be/nl/wat-kan-jij-doen/maak-een-plan",
+    "land": "BE",
+    "opmerking": "Gebruikt in scenariokaarten: stroomuitval, telecom, overstroming, storm."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "auteursrecht overheid, hergebruik niet geregeld",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "be-alert-be-nl",
+    "naam": "BE-Alert",
+    "eigenaar": "Nationaal Crisiscentrum (BE-Alert)",
+    "url": "https://www.be-alert.be/nl",
+    "land": "BE",
+    "opmerking": "Gebruikt in scenariokaarten: stroomuitval."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "Na te kijken",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "economie-fgov-afschakeling-wat-een-afschakelplan",
+    "naam": "FOD Economie: wat is een afschakelplan?",
+    "eigenaar": "FOD Economie, K.M.O., Middenstand en Energie",
+    "url": "https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/afschakeling/wat-een-afschakelplan",
+    "land": "BE",
+    "opmerking": "Gebruikt in scenariokaarten: stroomuitval."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "Na te kijken",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "economie-fgov-afschakeling-wanneer-wordt-het",
+    "naam": "FOD Economie: wanneer wordt het afschakelplan geactiveerd?",
+    "eigenaar": "FOD Economie, K.M.O., Middenstand en Energie",
+    "url": "https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/afschakeling/wanneer-wordt-het",
+    "land": "BE",
+    "opmerking": "Gebruikt in scenariokaarten: stroomuitval."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "Na te kijken",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "economie-fgov-welke-schijf-behoort-uw",
+    "naam": "FOD Economie: tot welke schijf behoort uw gemeente?",
+    "eigenaar": "FOD Economie, K.M.O., Middenstand en Energie",
+    "url": "https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/afschakelplan/tot-welke-schijf-behoort-uw",
+    "land": "BE",
+    "opmerking": "Gebruikt in scenariokaarten: stroomuitval."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "Na te kijken",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "ores-be-delectricite-ou-de-gaz",
+    "naam": "ORES: plus d'électricité ou de gaz",
+    "eigenaar": "ORES (distributienetbeheerder Wallonië)",
+    "url": "https://www.ores.be/faq/plus-delectricite-ou-de-gaz",
+    "land": "BE",
+    "opmerking": "Gebruikt in scenariokaarten: stroomuitval, gaslek."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "Na te kijken",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "speelnietmetvuur-be-co",
+    "naam": "Speel niet met vuur: CO",
+    "eigenaar": "FOD Binnenlandse Zaken, Algemene Directie Civiele Veiligheid (campagne Speel niet met vuur)",
+    "url": "https://speelnietmetvuur.be/co/",
+    "land": "BE",
+    "opmerking": "Gebruikt in scenariokaarten: stroomuitval, kou, brand, gaslek."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "Na te kijken",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "bbk-bund-vorsorge-stromausfall-stromausfall-node",
+    "naam": "BBK: Vorsorge und Handeln bei Stromausfall",
+    "eigenaar": "Bundesamt für Bevölkerungsschutz und Katastrophenhilfe (BBK)",
+    "url": "https://www.bbk.bund.de/DE/Warnung-Vorsorge/Vorsorge/Stromausfall/stromausfall_node.html",
+    "land": "DE",
+    "opmerking": "Gebruikt in scenariokaarten: stroomuitval, telecom, kou. Amerikaanse bron: maten omgerekend (voet naar meter, Fahrenheit naar Celsius); bij verschil geldt de Belgische bron."
+  },
+  {
+    "soort": "pdf",
+    "licentie": "Na te kijken",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "bbk-bund-buergerinformationen-stromausfall-vorsorge-selbsthilfe",
+    "naam": "BBK: brochure Stromausfall, Vorsorge und Selbsthilfe",
+    "eigenaar": "Bundesamt für Bevölkerungsschutz und Katastrophenhilfe (BBK)",
+    "url": "https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/Buergerinformationen/stromausfall-vorsorge-selbsthilfe.pdf?__blob=publicationFile&v=13",
+    "land": "DE",
+    "opmerking": "Gebruikt in scenariokaarten: stroomuitval, telecom, overstroming. Amerikaanse bron: maten omgerekend (voet naar meter, Fahrenheit naar Celsius); bij verschil geldt de Belgische bron. Uitgave 4, stand 2026; tekst gehaald met pdftotext."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "Na te kijken",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "denkvooruit-nl-in-nederland-geen-stroom",
+    "naam": "Denk vooruit: geen stroom",
+    "eigenaar": "Rijksoverheid Nederland (campagne Denk vooruit)",
+    "url": "https://www.denkvooruit.nl/risicos/risicos-in-nederland/geen-stroom",
+    "land": "NL",
+    "opmerking": "Gebruikt in scenariokaarten: stroomuitval, telecom, kou."
+  },
+  {
+    "soort": "pdf",
+    "licentie": "Na te kijken",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "denkvooruit-nl-20251111-qa-denkvooruit-bronbestand",
+    "naam": "Denk vooruit: vragen en antwoorden (bronbestand november 2025)",
+    "eigenaar": "Rijksoverheid Nederland (campagne Denk vooruit)",
+    "url": "https://www.denkvooruit.nl/site/binaries/site-content/collections/documents/2025/10/27/toolkit-denk-vooruit-campagne-najaar-2025/20251111-qa-denkvooruit-bronbestand.pdf",
+    "land": "NL",
+    "opmerking": "Gebruikt in scenariokaarten: stroomuitval, telecom, gaslek. Q&A-bronbestand november 2025; tekst gehaald met pdftotext."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "publiek domein (Amerikaanse federale overheid)",
+    "toestemming": "vrij",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "ready-gov-power-outages",
+    "naam": "Ready.gov: power outages",
+    "eigenaar": "FEMA / U.S. Department of Homeland Security (Ready.gov)",
+    "url": "https://www.ready.gov/power-outages",
+    "land": "US",
+    "opmerking": "Gebruikt in scenariokaarten: stroomuitval. Amerikaanse bron: maten omgerekend (voet naar meter, Fahrenheit naar Celsius); bij verschil geldt de Belgische bron."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "publiek domein (Amerikaanse federale overheid)",
+    "toestemming": "vrij",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "cdc-gov-during-a-power-outage",
+    "naam": "CDC: what to do to protect yourself during a power outage",
+    "eigenaar": "Centers for Disease Control and Prevention (CDC)",
+    "url": "https://www.cdc.gov/natural-disasters/response/what-to-do-protect-yourself-during-a-power-outage.html",
+    "land": "US",
+    "opmerking": "Gebruikt in scenariokaarten: stroomuitval, storm, hitte, kou. Amerikaanse bron: maten omgerekend (voet naar meter, Fahrenheit naar Celsius); bij verschil geldt de Belgische bron."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "publiek domein (Amerikaanse federale overheid)",
+    "toestemming": "vrij",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "cdc-gov-food-safe-after-emergency",
+    "naam": "CDC: keep food safe after a disaster or emergency",
+    "eigenaar": "Centers for Disease Control and Prevention (CDC)",
+    "url": "https://www.cdc.gov/food-safety/foods/keep-food-safe-after-emergency.html",
+    "land": "US",
+    "opmerking": "Gebruikt in scenariokaarten: stroomuitval, overstroming. Amerikaanse bron: maten omgerekend (voet naar meter, Fahrenheit naar Celsius); bij verschil geldt de Belgische bron."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "publiek domein (Amerikaanse federale overheid)",
+    "toestemming": "vrij",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "cdc-gov-carbon-monoxide-about-index",
+    "naam": "CDC: carbon monoxide poisoning",
+    "eigenaar": "Centers for Disease Control and Prevention (CDC)",
+    "url": "https://www.cdc.gov/carbon-monoxide/about/index.html",
+    "land": "US",
+    "opmerking": "Gebruikt in scenariokaarten: stroomuitval, kou. Amerikaanse bron: maten omgerekend (voet naar meter, Fahrenheit naar Celsius); bij verschil geldt de Belgische bron."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "auteursrecht overheid, hergebruik niet geregeld",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "crisiscentrum-be-van-de-digitale-infrastructuur",
+    "naam": "Nationaal Crisiscentrum: verstoring van de digitale infrastructuur",
+    "eigenaar": "Nationaal Crisiscentrum (FOD Binnenlandse Zaken)",
+    "url": "https://crisiscentrum.be/nl/risicos-belgie/maatschappelijke-risicos/verstoring-van-de-digitale-infrastructuur",
+    "land": "BE",
+    "opmerking": "Gebruikt in scenariokaarten: telecom."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "auteursrecht overheid, hergebruik niet geregeld",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "crisiscentrum-be-informatie-tijdens-een-noodsituatie",
+    "naam": "Nationaal Crisiscentrum: informatie tijdens een noodsituatie",
+    "eigenaar": "Nationaal Crisiscentrum (FOD Binnenlandse Zaken)",
+    "url": "https://crisiscentrum.be/nl/wat-kan-jij-doen/informeer-je/informatie-tijdens-een-noodsituatie",
+    "land": "BE",
+    "opmerking": "Gebruikt in scenariokaarten: telecom, overstroming."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "auteursrecht overheid, hergebruik niet geregeld",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "crisiscentrum-be-jij-doen-informeer-je",
+    "naam": "Nationaal Crisiscentrum: informeer je",
+    "eigenaar": "Nationaal Crisiscentrum (FOD Binnenlandse Zaken)",
+    "url": "https://crisiscentrum.be/nl/wat-kan-jij-doen/informeer-je",
+    "land": "BE",
+    "opmerking": "Gebruikt in scenariokaarten: telecom."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "auteursrecht overheid, hergebruik niet geregeld",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "be-alert-hoe-werkt-be-alert",
+    "naam": "BE-Alert: hoe werkt BE-Alert?",
+    "eigenaar": "Nationaal Crisiscentrum (BE-Alert)",
+    "url": "https://www.be-alert.be/nl/hoe-werkt-be-alert",
+    "land": "BE",
+    "opmerking": "Gebruikt in scenariokaarten: telecom."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "Na te kijken",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "112-be-nl",
+    "naam": "112.be",
+    "eigenaar": "FOD Binnenlandse Zaken (112.be)",
+    "url": "https://www.112.be/nl",
+    "land": "BE",
+    "opmerking": "Gebruikt in scenariokaarten: telecom, storm."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "Na te kijken",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "berec-europa-eu-en-emergency-means",
+    "naam": "BEREC: access to emergency services",
+    "eigenaar": "BEREC (Body of European Regulators for Electronic Communications)",
+    "url": "https://www.berec.europa.eu/en/emergency-means",
+    "land": "EU",
+    "opmerking": "Gebruikt in scenariokaarten: telecom."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "publiek domein (Amerikaanse federale overheid)",
+    "toestemming": "vrij",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "ready-gov-plan",
+    "naam": "Ready.gov: make a plan",
+    "eigenaar": "FEMA / U.S. Department of Homeland Security (Ready.gov)",
+    "url": "https://www.ready.gov/plan",
+    "land": "US",
+    "opmerking": "Gebruikt in scenariokaarten: telecom. Amerikaanse bron: maten omgerekend (voet naar meter, Fahrenheit naar Celsius); bij verschil geldt de Belgische bron."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "auteursrecht overheid, hergebruik niet geregeld",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "crisiscentrum-be-risicos-pluviale-overstroming-oppervlaktewater",
+    "naam": "Nationaal Crisiscentrum: pluviale overstroming (oppervlaktewater)",
+    "eigenaar": "Nationaal Crisiscentrum (FOD Binnenlandse Zaken)",
+    "url": "https://crisiscentrum.be/nl/risicos-belgie/natuurlijke-risicos/pluviale-overstroming-oppervlaktewater",
+    "land": "BE",
+    "opmerking": "Gebruikt in scenariokaarten: overstroming."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "Modellicentie gratis hergebruik, vermelding Bron: VMM (na te kijken voor teksten)",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "vmm-vlaanderen-be-tips-water-overstromingen",
+    "naam": "VMM: tips bij overstromingen",
+    "eigenaar": "Vlaamse Milieumaatschappij (VMM)",
+    "url": "https://vmm.vlaanderen.be/tips/water/overstromingen",
+    "land": "BE",
+    "opmerking": "Gebruikt in scenariokaarten: overstroming."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "Modellicentie gratis hergebruik, vermelding Bron: VMM (na te kijken voor teksten)",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "vmm-vlaanderen-individuele-bescherming-tegen-overstromingen",
+    "naam": "VMM: brochure individuele bescherming tegen overstromingen",
+    "eigenaar": "Vlaamse Milieumaatschappij (VMM)",
+    "url": "https://vmm.vlaanderen.be/publicaties/individuele-bescherming-tegen-overstromingen",
+    "land": "BE",
+    "opmerking": "Gebruikt in scenariokaarten: overstroming."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "Modellicentie gratis hergebruik, vermelding Bron: VMM",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "waterinfo-vlaanderen-be",
+    "naam": "Waterinfo Vlaanderen",
+    "eigenaar": "Vlaamse Milieumaatschappij (VMM), Waterinfo",
+    "url": "https://www.waterinfo.vlaanderen.be/",
+    "land": "BE",
+    "opmerking": "Gebruikt in scenariokaarten: overstroming."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "Modellicentie gratis hergebruik, vermelding Bron: VMM",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "waterinfo-vlaanderen-be-watertoets",
+    "naam": "Waterinfo: watertoets",
+    "eigenaar": "Vlaamse Milieumaatschappij (VMM), Waterinfo",
+    "url": "https://www.waterinfo.vlaanderen.be/Watertoets",
+    "land": "BE",
+    "opmerking": "Gebruikt in scenariokaarten: overstroming."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "Na te kijken",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "hydrometrie-wallonie-be",
+    "naam": "SPW: hydrométrie Wallonie",
+    "eigenaar": "Service public de Wallonie (SPW Mobilité et Infrastructures), Direction de la Gestion hydrologique",
+    "url": "https://hydrometrie.wallonie.be/",
+    "land": "BE",
+    "opmerking": "Gebruikt in scenariokaarten: overstroming."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "Na te kijken",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "meteo-be-nl-weer-waarschuwingen-uitleg",
+    "naam": "KMI: uitleg bij de waarschuwingen",
+    "eigenaar": "Koninklijk Meteorologisch Instituut (KMI)",
+    "url": "https://www.meteo.be/nl/weer/waarschuwingen/uitleg",
+    "land": "BE",
+    "opmerking": "Gebruikt in scenariokaarten: overstroming, storm, hitte, kou."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "Na te kijken",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "1722-be-nl-index",
+    "naam": "1722: niet-dringende hulp van de brandweer",
+    "eigenaar": "FOD Binnenlandse Zaken (1722.be)",
+    "url": "https://www.1722.be/nl/index.html",
+    "land": "BE",
+    "opmerking": "Gebruikt in scenariokaarten: overstroming, storm, brand."
+  },
+  {
+    "soort": "pdf",
+    "licentie": "Na te kijken",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "vivalis-brussels-overstromingen-20en-20gezondheidsrisico-27s",
+    "naam": "Vivalis: gezondheidsrisico's bij overstromingen in Brussel",
+    "eigenaar": "Vivalis (Gemeenschappelijke Gemeenschapscommissie, Brussel)",
+    "url": "https://www.vivalis.brussels/sites/default/files/2026-07/Overstromingen%20en%20gezondheidsrisico%27s.pdf",
+    "land": "BE",
+    "opmerking": "Gebruikt in scenariokaarten: overstroming. Brochure juli 2026; tekst gehaald met pdftotext."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "Na te kijken",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "vlaanderen-be-schadevergoeding-vlaams-rampenfonds-aanvragen",
+    "naam": "Vlaanderen: schadevergoeding Vlaams Rampenfonds aanvragen",
+    "eigenaar": "Vlaamse overheid (Vlaams Rampenfonds)",
+    "url": "https://www.vlaanderen.be/schadevergoeding-vlaams-rampenfonds-aanvragen",
+    "land": "BE",
+    "opmerking": "Gebruikt in scenariokaarten: overstroming, storm."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "Na te kijken",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "denkvooruit-nl-risicos-in-nederland-overstroming",
+    "naam": "Denk vooruit: overstroming",
+    "eigenaar": "Rijksoverheid Nederland (campagne Denk vooruit)",
+    "url": "https://www.denkvooruit.nl/risicos/risicos-in-nederland/overstroming",
+    "land": "NL",
+    "opmerking": "Gebruikt in scenariokaarten: overstroming."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "auteursrecht overheid, hergebruik niet geregeld",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "crisiscentrum-be-belgie-natuurlijke-risicos-bliksem",
+    "naam": "Nationaal Crisiscentrum: bliksem",
+    "eigenaar": "Nationaal Crisiscentrum (FOD Binnenlandse Zaken)",
+    "url": "https://crisiscentrum.be/nl/risicos-belgie/natuurlijke-risicos/bliksem",
+    "land": "BE",
+    "opmerking": "Gebruikt in scenariokaarten: storm."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "Na te kijken",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "meteo-be-aanbod-kmi-weer-app",
+    "naam": "KMI: weer-app",
+    "eigenaar": "Koninklijk Meteorologisch Instituut (KMI)",
+    "url": "https://www.meteo.be/nl/diensten-v2/producten-diensten/aanbod/kmi-weer-app",
+    "land": "BE",
+    "opmerking": "Gebruikt in scenariokaarten: storm."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "Na te kijken",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "vlaanderen-be-dieren-en-koud-weer",
+    "naam": "Vlaanderen Huisdierinfo: dieren en koud weer",
+    "eigenaar": "Vlaamse overheid, Departement Omgeving, Dierenwelzijn Vlaanderen",
+    "url": "https://www.vlaanderen.be/huisdierinfo/verzorging-van-huisdieren/dieren-en-koud-weer",
+    "land": "BE",
+    "opmerking": "Gebruikt in scenariokaarten: storm, kou."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "Na te kijken",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "brandweer-nl-onderwerpen-storm-en-wateroverlast",
+    "naam": "Brandweer Nederland: storm- en wateroverlast",
+    "eigenaar": "Brandweer Nederland",
+    "url": "https://www.brandweer.nl/onderwerpen/storm-en-wateroverlast/",
+    "land": "NL",
+    "opmerking": "Gebruikt in scenariokaarten: storm."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "Na te kijken",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "brandweer-nl-onweer-donder-en-bliksem",
+    "naam": "Brandweer Nederland: onweer, donder en bliksem",
+    "eigenaar": "Brandweer Nederland",
+    "url": "https://www.brandweer.nl/onderwerpen/onweer-donder-en-bliksem/",
+    "land": "NL",
+    "opmerking": "Gebruikt in scenariokaarten: storm."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "Na te kijken",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "denkvooruit-nl-in-nederland-extreem-weer",
+    "naam": "Denk vooruit: extreem weer",
+    "eigenaar": "Rijksoverheid Nederland (campagne Denk vooruit)",
+    "url": "https://www.denkvooruit.nl/risicos/risicos-in-nederland/extreem-weer",
+    "land": "NL",
+    "opmerking": "Gebruikt in scenariokaarten: storm."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "publiek domein (Amerikaanse federale overheid)",
+    "toestemming": "vrij",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "ready-gov-thunderstorms-lightning",
+    "naam": "Ready.gov: thunderstorms and lightning",
+    "eigenaar": "FEMA / U.S. Department of Homeland Security (Ready.gov)",
+    "url": "https://www.ready.gov/thunderstorms-lightning",
+    "land": "US",
+    "opmerking": "Gebruikt in scenariokaarten: storm. Amerikaanse bron: maten omgerekend (voet naar meter, Fahrenheit naar Celsius); bij verschil geldt de Belgische bron."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "Na te kijken",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "meteo-be-weer-waarschuwingen-legenda-hitte",
+    "naam": "KMI: legende bij hittewaarschuwingen",
+    "eigenaar": "Koninklijk Meteorologisch Instituut (KMI)",
+    "url": "https://www.meteo.be/nl/weer/waarschuwingen/legenda-hitte",
+    "land": "BE",
+    "opmerking": "Gebruikt in scenariokaarten: hitte."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "Na te kijken",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "warmedagen-be",
+    "naam": "Warme dagen (Vlaamse overheid)",
+    "eigenaar": "Vlaamse overheid, Departement Zorg",
+    "url": "https://www.warmedagen.be/",
+    "land": "BE",
+    "opmerking": "Gebruikt in scenariokaarten: hitte."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "Na te kijken",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "warmedagen-be-afkoelen-bij-warm-weer",
+    "naam": "Warme dagen: hoe afkoelen bij warm weer",
+    "eigenaar": "Vlaamse overheid, Departement Zorg",
+    "url": "https://www.warmedagen.be/tips-bij-warm-weer/hoe-afkoelen-bij-warm-weer",
+    "land": "BE",
+    "opmerking": "Gebruikt in scenariokaarten: hitte."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "Na te kijken",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "warmedagen-be-drinken-bij-warm-weer",
+    "naam": "Warme dagen: eten en drinken bij warm weer",
+    "eigenaar": "Vlaamse overheid, Departement Zorg",
+    "url": "https://www.warmedagen.be/tips-bij-warm-weer/eten-en-drinken-bij-warm-weer",
+    "land": "BE",
+    "opmerking": "Gebruikt in scenariokaarten: hitte."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "Na te kijken",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "warmedagen-be-gezondheidsklachten-bij-warm-weer",
+    "naam": "Warme dagen: gezondheidsklachten bij warm weer",
+    "eigenaar": "Vlaamse overheid, Departement Zorg",
+    "url": "https://www.warmedagen.be/gezondheidsklachten-bij-warm-weer",
+    "land": "BE",
+    "opmerking": "Gebruikt in scenariokaarten: hitte."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "Na te kijken",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "warmedagen-be-zorg-voor-elkaar",
+    "naam": "Warme dagen: zorg voor elkaar",
+    "eigenaar": "Vlaamse overheid, Departement Zorg",
+    "url": "https://www.warmedagen.be/zorg-voor-elkaar",
+    "land": "BE",
+    "opmerking": "Gebruikt in scenariokaarten: hitte."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "Na te kijken",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "warmedagen-be-ziek-bij-warm-weer",
+    "naam": "Warme dagen: chronisch ziek bij warm weer",
+    "eigenaar": "Vlaamse overheid, Departement Zorg",
+    "url": "https://www.warmedagen.be/tips-bij-warm-weer/chronisch-ziek-bij-warm-weer",
+    "land": "BE",
+    "opmerking": "Gebruikt in scenariokaarten: hitte."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "Na te kijken",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "werk-belgie-agentia-thermische-omgevingsfactoren-0",
+    "naam": "FOD Werkgelegenheid: thermische omgevingsfactoren",
+    "eigenaar": "FOD Werkgelegenheid, Arbeid en Sociaal Overleg",
+    "url": "https://werk.belgie.be/nl/themas/welzijn-op-het-werk/omgevingsfactoren-en-fysische-agentia/thermische-omgevingsfactoren-0",
+    "land": "BE",
+    "opmerking": "Gebruikt in scenariokaarten: hitte."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "Na te kijken",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "vlaanderen-be-dieren-en-warm-weer",
+    "naam": "Vlaanderen Huisdierinfo: dieren en warm weer",
+    "eigenaar": "Vlaamse overheid, Departement Omgeving, Dierenwelzijn Vlaanderen",
+    "url": "https://www.vlaanderen.be/huisdierinfo/verzorging-van-huisdieren/dieren-en-warm-weer",
+    "land": "BE",
+    "opmerking": "Gebruikt in scenariokaarten: hitte."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "Na te kijken",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "denkvooruit-nl-risicos-in-nederland-hitte",
+    "naam": "Denk vooruit: hitte",
+    "eigenaar": "Rijksoverheid Nederland (campagne Denk vooruit)",
+    "url": "https://www.denkvooruit.nl/risicos/risicos-in-nederland/hitte",
+    "land": "NL",
+    "opmerking": "Gebruikt in scenariokaarten: hitte."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "Na te kijken",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "meteo-be-weer-waarschuwingen-legenda-koude",
+    "naam": "KMI: legende bij koudewaarschuwingen",
+    "eigenaar": "Koninklijk Meteorologisch Instituut (KMI)",
+    "url": "https://www.meteo.be/nl/weer/waarschuwingen/legenda-koude",
+    "land": "BE",
+    "opmerking": "Gebruikt in scenariokaarten: kou."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "Na te kijken",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "antigifcentrum-be-toxinfos-co-vergiftiging",
+    "naam": "Antigifcentrum: CO-vergiftiging",
+    "eigenaar": "Antigifcentrum",
+    "url": "https://www.antigifcentrum.be/Toxinfos/co-vergiftiging/",
+    "land": "BE",
+    "opmerking": "Gebruikt in scenariokaarten: kou, gaslek."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "Na te kijken",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "veiligverkeer-be-automobilisten-wintertips-voor-automobilisten",
+    "naam": "Vlaamse Stichting Verkeerskunde (Veilig Verkeer): wintertips voor automobilisten",
+    "eigenaar": "Vlaamse Stichting Verkeerskunde (Veilig Verkeer)",
+    "url": "https://www.veiligverkeer.be/weggebruikers/automobilisten/wintertips-voor-automobilisten/",
+    "land": "BE",
+    "opmerking": "Gebruikt in scenariokaarten: kou."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "Na te kijken",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "krisinformation-se-heating-during-a-crisis",
+    "naam": "Krisinformation.se (MCF): heating during a crisis",
+    "eigenaar": "Myndigheten för civilt försvar (MCF), Zweden",
+    "url": "https://www.krisinformation.se/en/hazards-and-risks/home-preparedness/heating-during-a-crisis/",
+    "land": "SE",
+    "opmerking": "Gebruikt in scenariokaarten: kou."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "publiek domein (Amerikaanse federale overheid)",
+    "toestemming": "vrij",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "cdc-gov-winter-weather-prevention-index",
+    "naam": "CDC: winter weather, prevention",
+    "eigenaar": "Centers for Disease Control and Prevention (CDC)",
+    "url": "https://www.cdc.gov/winter-weather/prevention/index.html",
+    "land": "US",
+    "opmerking": "Gebruikt in scenariokaarten: kou. Amerikaanse bron: maten omgerekend (voet naar meter, Fahrenheit naar Celsius); bij verschil geldt de Belgische bron."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "publiek domein (Amerikaanse federale overheid)",
+    "toestemming": "vrij",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "cdc-gov-winter-weather-safety-index",
+    "naam": "CDC: preparing for a winter storm",
+    "eigenaar": "Centers for Disease Control and Prevention (CDC)",
+    "url": "https://www.cdc.gov/winter-weather/safety/index.html",
+    "land": "US",
+    "opmerking": "Gebruikt in scenariokaarten: kou. Amerikaanse bron: maten omgerekend (voet naar meter, Fahrenheit naar Celsius); bij verschil geldt de Belgische bron."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "Na te kijken",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "speelnietmetvuur-be-vluchtplan",
+    "naam": "Speel niet met vuur: vluchtplan",
+    "eigenaar": "FOD Binnenlandse Zaken, Algemene Directie Civiele Veiligheid (campagne Speel niet met vuur)",
+    "url": "https://speelnietmetvuur.be/vluchtplan/",
+    "land": "BE",
+    "opmerking": "Gebruikt in scenariokaarten: brand."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "Na te kijken",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "speelnietmetvuur-be-rookmelders",
+    "naam": "Speel niet met vuur: rookmelders",
+    "eigenaar": "FOD Binnenlandse Zaken, Algemene Directie Civiele Veiligheid (campagne Speel niet met vuur)",
+    "url": "https://speelnietmetvuur.be/rookmelders/",
+    "land": "BE",
+    "opmerking": "Gebruikt in scenariokaarten: brand."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "Na te kijken",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "speelnietmetvuur-be-doededeurdicht",
+    "naam": "Speel niet met vuur: doe de deur dicht",
+    "eigenaar": "FOD Binnenlandse Zaken, Algemene Directie Civiele Veiligheid (campagne Speel niet met vuur)",
+    "url": "https://speelnietmetvuur.be/doededeurdicht/",
+    "land": "BE",
+    "opmerking": "Gebruikt in scenariokaarten: brand."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "Na te kijken",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "speelnietmetvuur-be-brandveiligheid-keuken",
+    "naam": "Speel niet met vuur: brandveiligheid in de keuken",
+    "eigenaar": "FOD Binnenlandse Zaken, Algemene Directie Civiele Veiligheid (campagne Speel niet met vuur)",
+    "url": "https://speelnietmetvuur.be/brandveiligheid-keuken/",
+    "land": "BE",
+    "opmerking": "Gebruikt in scenariokaarten: brand."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "Na te kijken",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "speelnietmetvuur-be-elektriciteit",
+    "naam": "Speel niet met vuur: elektrische brandrisico's",
+    "eigenaar": "FOD Binnenlandse Zaken, Algemene Directie Civiele Veiligheid (campagne Speel niet met vuur)",
+    "url": "https://speelnietmetvuur.be/elektriciteit/",
+    "land": "BE",
+    "opmerking": "Gebruikt in scenariokaarten: brand."
+  },
+  {
+    "soort": "pdf",
+    "licentie": "Na te kijken",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "kcce-eu-incendie-brandveiligheid-ouderen-2017",
+    "naam": "KCCE (FOD Binnenlandse Zaken): brochure Brandveiligheid voor ouderen",
+    "eigenaar": "Kenniscentrum voor Civiele Veiligheid (KCCE), FOD Binnenlandse Zaken",
+    "url": "http://kcce.eu/sites/default/files/explorer/partie_s_incendie/brandveiligheid_ouderen_2017.pdf",
+    "land": "BE",
+    "opmerking": "Gebruikt in scenariokaarten: brand, gaslek. Brochure 2017; https-adres stuurt door naar http."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "auteursrecht overheid, hergebruik niet geregeld",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "crisiscentrum-be-explosie-een-stedelijk-residentieel",
+    "naam": "Nationaal Crisiscentrum: brand of explosie in een stedelijk of residentieel gebied",
+    "eigenaar": "Nationaal Crisiscentrum (FOD Binnenlandse Zaken)",
+    "url": "https://crisiscentrum.be/nl/risicos-belgie/economische-en-technologische-risicos/brand-explosie-een-stedelijk-residentieel",
+    "land": "BE",
+    "opmerking": "Gebruikt in scenariokaarten: brand, gaslek."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "publiek domein (Amerikaanse federale overheid)",
+    "toestemming": "vrij",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "ready-gov-home-fires",
+    "naam": "Ready.gov: home fires",
+    "eigenaar": "FEMA / U.S. Department of Homeland Security (Ready.gov)",
+    "url": "https://www.ready.gov/home-fires",
+    "land": "US",
+    "opmerking": "Gebruikt in scenariokaarten: brand. Amerikaanse bron: maten omgerekend (voet naar meter, Fahrenheit naar Celsius); bij verschil geldt de Belgische bron."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "publiek domein (Amerikaanse federale overheid)",
+    "toestemming": "vrij",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "usfa-fema-fires-prevent-fires-cooking",
+    "naam": "U.S. Fire Administration: cooking fire safety",
+    "eigenaar": "U.S. Fire Administration (FEMA)",
+    "url": "https://www.usfa.fema.gov/prevention/home-fires/prevent-fires/cooking/",
+    "land": "US",
+    "opmerking": "Gebruikt in scenariokaarten: brand. Amerikaanse bron: maten omgerekend (voet naar meter, Fahrenheit naar Celsius); bij verschil geldt de Belgische bron."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "Na te kijken",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "fluvius-be-nl-gasgeur",
+    "naam": "Fluvius: gasgeur",
+    "eigenaar": "Fluvius (distributienetbeheerder Vlaanderen)",
+    "url": "https://www.fluvius.be/nl/gasgeur",
+    "land": "BE",
+    "opmerking": "Gebruikt in scenariokaarten: gaslek."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "Na te kijken",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "ncc-seveso",
+    "naam": "Nationaal Crisiscentrum: incident in een seveso-installatie",
+    "eigenaar": "Nationaal Crisiscentrum (FOD Binnenlandse Zaken)",
+    "url": "https://crisiscentrum.be/nl/risicos-belgie/economische-en-technologische-risicos/incident-een-seveso-installatie",
+    "land": "BE",
+    "opmerking": "Kaart chemisch."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "Na te kijken",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "ncc-besmettelijke-ziekten",
+    "naam": "Nationaal Crisiscentrum: besmettelijke ziekten",
+    "eigenaar": "Nationaal Crisiscentrum (FOD Binnenlandse Zaken)",
+    "url": "https://crisiscentrum.be/nl/risicos-belgie/gezondheidsrisicos/besmettelijke-ziekten",
+    "land": "BE",
+    "opmerking": "Hygiëne, ziek thuis, zorg voor zieke, was op 60 °C. Kaart pandemie."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "Na te kijken",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "ncc-drinkwater",
+    "naam": "Nationaal Crisiscentrum: verstoring van drinkwater",
+    "eigenaar": "Nationaal Crisiscentrum (FOD Binnenlandse Zaken)",
+    "url": "https://crisiscentrum.be/nl/risicos-belgie/maatschappelijke-risicos/verstoring-van-drinkwater",
+    "land": "BE",
+    "opmerking": "Voorraad 4 liter per persoon per dag, water sparen, bruin water laten lopen. Kaart drinkwater."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "Na te kijken",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "nucleairrisico-wat-doen",
+    "naam": "Nucleairrisico.be: wat kan jij doen",
+    "eigenaar": "Nationaal Crisiscentrum (FOD Binnenlandse Zaken)",
+    "url": "https://www.nucleairrisico.be/nl/wat-kan-jij-doen",
+    "land": "BE",
+    "opmerking": "Overzicht beschermingsmaatregelen. Kaart nucleair."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "Na te kijken",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "nucleairrisico-jodium-voor-wie",
+    "naam": "Nucleairrisico.be: jodiumtabletten, voor wie",
+    "eigenaar": "Nationaal Crisiscentrum (FOD Binnenlandse Zaken)",
+    "url": "https://www.nucleairrisico.be/nl/jodiumtabletten/voor-wie",
+    "land": "BE",
+    "opmerking": "Doelgroepen per leeftijd. Geen dosering overgenomen. Kaart nucleair."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "Na te kijken",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "nucleairrisico-jodium-wanneer",
+    "naam": "Nucleairrisico.be: jodiumtabletten, wanneer innemen",
+    "eigenaar": "Nationaal Crisiscentrum (FOD Binnenlandse Zaken)",
+    "url": "https://www.nucleairrisico.be/nl/jodiumtabletten/wanneer-innemen",
+    "land": "BE",
+    "opmerking": "Alleen op advies van de overheid. Geen dosering overgenomen. Kaart nucleair."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "Na te kijken",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "nucleairrisico-faq",
+    "naam": "Nucleairrisico.be: veelgestelde vragen",
+    "eigenaar": "Nationaal Crisiscentrum (FOD Binnenlandse Zaken)",
+    "url": "https://www.nucleairrisico.be/nl/faq",
+    "land": "BE",
+    "opmerking": "Waarschuwing, deuren afdichten met vochtige doeken, max. 24 uur, huisdieren, kinderen, jodium via eID bij apotheek. Kaart nucleair."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "Na te kijken",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "be-alert-overal",
+    "naam": "BE-Alert: verwittigd waar je ook bent",
+    "eigenaar": "Nationaal Crisiscentrum (FOD Binnenlandse Zaken)",
+    "url": "https://www.be-alert.be/en/notified-wherever-you-are",
+    "land": "BE",
+    "opmerking": "Alert-SMS zonder inschrijving, meerdere adressen. Engelstalige pagina gelezen. Kaarten chemisch, nucleair, luchtalarm."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "Na te kijken",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "seveso-ondernemingen",
+    "naam": "Seveso.be: seveso-ondernemingen",
+    "eigenaar": "FOD Binnenlandse Zaken en gewesten (seveso.be)",
+    "url": "https://www.seveso.be/nl/seveso-ondernemingen",
+    "land": "BE",
+    "opmerking": "Lijst seveso-bedrijven. Kaart chemisch."
+  },
+  {
+    "soort": "pdf",
+    "licentie": "auteursrecht Antigifcentrum; noodnummers zijn feiten",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "antigif-brochure-co",
+    "naam": "Antigifcentrum: brochure CO-vergiftiging voorkomen",
+    "eigenaar": "Antigifcentrum",
+    "url": "https://www.poisoncentre.be/app/uploads/2026/02/Brochure-CO-vergiftiging-voorkomen-NL-1.pdf",
+    "land": "BE",
+    "opmerking": "Symptomen, wat te doen, toestellen type A/B/C, onderhoudsplicht per gewest, schoorsteen, huurwet. Noemt nog 100 naast 112. Kaarten co, chemisch."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "auteursrecht Antigifcentrum",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "antigif-co-detail",
+    "naam": "Antigifcentrum: koolstofmonoxide in detail",
+    "eigenaar": "Antigifcentrum",
+    "url": "https://www.antigifcentrum.be/koolstofmonoxide",
+    "land": "BE",
+    "opmerking": "Risicogroepen, bronnen, werkomgeving. Medisch-technisch; geen behandeling overgenomen. Kaart co."
+  },
+  {
+    "soort": "pdf",
+    "licentie": "Na te kijken",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "netwerk-brandweer-co-folder",
+    "naam": "Netwerk Brandweer: CO-preventie bij je thuis (folder)",
+    "eigenaar": "Netwerk Brandweer (gehost door Stad Antwerpen)",
+    "url": "https://assets.antwerpen.be/srv/assets/api/download/1a37d4f1-ad0e-4578-ab2a-b8266b3e35c6/COfolder_online.pdf",
+    "land": "BE",
+    "opmerking": "Plaatsing CO-melders (plafond, 1 tot 3 m, 30 cm van muur, schouderhoogte, niet in badkamer), norm NBN EN 50291. Kaart co."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "Na te kijken",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "be-brussels-co",
+    "naam": "be.brussels: koolstofmonoxide (CO)",
+    "eigenaar": "Brusselse Hoofdstedelijke Dienst voor Brandweer en Dringende Medische Hulp",
+    "url": "https://be.brussels/nl/veiligheid-preventie/brandpreventie-en-veiligheidsadvies/gebouw-woning-en-infrastructuren/veilig-huis/co",
+    "land": "BE",
+    "opmerking": "Waarschuwingstekens, stappen, gratis huisbezoek. Kaart co."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "Na te kijken",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "kmi-co",
+    "naam": "KMI: CO, een sluipende moordenaar in huis",
+    "eigenaar": "Koninklijk Meteorologisch Instituut",
+    "url": "https://www.meteo.be/nl/info/veelgestelde-vragen/hoe-je-beschermen-tegen-gevaarlijk-weer/co-een-sluipende-moordenaar-in-huis",
+    "land": "BE",
+    "opmerking": "Weersomstandigheden (inversie, koude), buikpijn bij kinderen. Kaart co."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "Na te kijken",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "ksb-seismologie-faq",
+    "naam": "Koninklijke Sterrenwacht van België: veelgestelde vragen",
+    "eigenaar": "Koninklijke Sterrenwacht van België",
+    "url": "https://seismologie.be/nl/veel-gestelde-vragen",
+    "land": "BE",
+    "opmerking": "Hoe reageren bij een aardbeving, historische bevingen, herhalingstijden M5 en M6. Kaart aardbeving."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "Na te kijken",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "ksb-seismologie",
+    "naam": "Koninklijke Sterrenwacht van België: seismologie",
+    "eigenaar": "Koninklijke Sterrenwacht van België",
+    "url": "https://seismologie.be/nl",
+    "land": "BE",
+    "opmerking": "Recente bevingen en enquête. Kaart aardbeving."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "Na te kijken",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "anb-waarschuwingen",
+    "naam": "Agentschap Natuur en Bos: waarschuwingen",
+    "eigenaar": "Agentschap Natuur en Bos (Vlaamse overheid)",
+    "url": "https://natuurenbos.be/waarschuwingen",
+    "land": "BE",
+    "opmerking": "Brandgevaarcode per provincie; pagina beschrijft bij nazicht alleen code groen. Kaart bosbrand."
+  },
+  {
+    "soort": "pdf",
+    "licentie": "Na te kijken",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "anb-vogelgriep-brief",
+    "naam": "Agentschap Natuur en Bos: brief waakzaamheid vogelgriep (november 2025)",
+    "eigenaar": "Agentschap Natuur en Bos (Vlaamse overheid)",
+    "url": "https://natuurenbos.be/sites/default/files/2025-11/briefvogelgriepaanpakvoorgemeenten20251125.pdf",
+    "land": "BE",
+    "opmerking": "Influenzalijn 0800/99777 (voormiddag op weekdagen), VOC 8 tot 22 uur, huisdieren weg van dode vogels. Kaart pandemie."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "Na te kijken",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "spw-feux",
+    "naam": "Service public de Wallonie: feux de nature et de forêt",
+    "eigenaar": "Service public de Wallonie",
+    "url": "https://environnement.wallonie.be/feux",
+    "land": "BE",
+    "opmerking": "Vuurverbod in bos, groenafval niet binnen 25 m van bos, wat doen bij brand. Kaart bosbrand."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "Na te kijken",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "departement-zorg-infectieziekten",
+    "naam": "Departement Zorg: infectieziekten en vaccinaties",
+    "eigenaar": "Departement Zorg (Vlaamse overheid)",
+    "url": "https://www.departementzorg.be/nl/infectieziekten-en-vaccinaties",
+    "land": "BE",
+    "opmerking": "Respi-radar en epidemiologische toestand. Kaart pandemie."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "Na te kijken",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "stad-gent-wachtdiensten",
+    "naam": "Stad Gent: wachtdiensten",
+    "eigenaar": "Stad Gent",
+    "url": "https://stad.gent/nl/samenleven-welzijn-gezondheid/gezondheid/wachtdiensten",
+    "land": "BE",
+    "opmerking": "1733 voor huisartsenwachtdienst in Gent. Landelijke dekking van 1733 niet bevestigd op health.belgium.be (pagina gaf geen bruikbare tekst). Kaart pandemie."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "Na te kijken",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "swde-non-potable",
+    "naam": "SWDE: water quality, non-potable water",
+    "eigenaar": "Société wallonne des eaux",
+    "url": "https://www.swde.be/en/water-quality-non-potable-water",
+    "land": "BE",
+    "opmerking": "Berichten oranje, rood, groen; verdeelpunten. Geen kookduur op de pagina. Kaart drinkwater."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "Na te kijken",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "mil-dovo",
+    "naam": "Defensie: Explosive Ordnance Disposal (DOVO)",
+    "eigenaar": "Belgische Defensie",
+    "url": "https://www.mil.be/en/our-missions/explosive-ordnance-disposal/",
+    "land": "BE",
+    "opmerking": "Tien oproepen per dag, vooral historische munitie. Geen instructies voor vinders op de pagina. Kaart luchtalarm."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "Na te kijken",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "berlijn-pankow-schutz",
+    "naam": "Bezirksamt Pankow (Berlijn): Schutz suchen in Gefahrensituationen",
+    "eigenaar": "Bezirksamt Pankow von Berlin",
+    "url": "https://www.berlin.de/ba-pankow/politik-und-verwaltung/beauftragte/katastrophenschutz/artikel.1640880.php",
+    "land": "DE",
+    "opmerking": "Bij gassen bovenverdieping (wijkt af van Belgisch advies gelijkvloers); schuilplekken buiten. Kaarten chemisch, luchtalarm."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "Na te kijken",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "dovidka-combat-area",
+    "naam": "dovidka.info: In the combat area",
+    "eigenaar": "Ministerie voor Strategische Communicatie en Centrum voor Strategische Communicatie (Oekraïne)",
+    "url": "https://dovidka.info/en/in-the-combat-area/",
+    "land": "UA",
+    "opmerking": "Buiten bij beschieting, drones, na een aanval, niet filmen of posten. Kaart luchtalarm."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "Na te kijken",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "dovidka-mining",
+    "naam": "dovidka.info: A guide to handling the threat of mining",
+    "eigenaar": "Ministerie voor Strategische Communicatie en Centrum voor Strategische Communicatie (Oekraïne)",
+    "url": "https://dovidka.info/en/a-guide-to-handling-the-threat-of-mining/",
+    "land": "UA",
+    "opmerking": "Niet-ontplofte munitie: stoppen, niet aanraken, zelfde weg terug, geen walkietalkie binnen 15 m. Kaart luchtalarm."
+  },
+  {
+    "soort": "pdf",
+    "licentie": "Na te kijken",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "polen-safety-handbook",
+    "naam": "Poolse overheid: Safety Handbook (Engelse versie)",
+    "eigenaar": "Poolse regering (Ministerie van Binnenlandse Zaken); pdf gehost door de Woiwodschap Silezië",
+    "url": "https://bip.slaskie.pl/resource/232602/14d_safety_handbook_en.pdf",
+    "land": "PL",
+    "opmerking": "Alarmsignalen, schuilen, luchtaanval (op de grond vallen, hoofd bedekken), kwetsbare personen, dieren, desinformatie. Officiële site: poradnikbezpieczenstwa.gov.pl. Kaart luchtalarm."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "Na te kijken",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "rivm-kookadvies",
+    "naam": "RIVM: toelichting kookadvies drinkwater",
+    "eigenaar": "Rijksinstituut voor Volksgezondheid en Milieu",
+    "url": "https://www.rivm.nl/drinkwater/toelichting-kookadvies-drinkwater",
+    "land": "NL",
+    "opmerking": "Kookduur 3 minuten (CDC zegt 1 minuut); douchen en tandenpoetsen met ongekookt water niet gevaarlijk. Kaart drinkwater."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "Na te kijken",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "brandweer-nl-natuurbrand",
+    "naam": "Brandweer Nederland: natuurbrand",
+    "eigenaar": "Brandweer Nederland",
+    "url": "https://www.brandweer.nl/onderwerpen/natuurbrand/",
+    "land": "NL",
+    "opmerking": "Dwars op de brand lopen, naar verharde plek. Kaart bosbrand."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "Na te kijken",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "brandweer-nl-natuurbrand-in-de-buurt",
+    "naam": "Brandweer Nederland: natuurbrand in de buurt",
+    "eigenaar": "Brandweer Nederland",
+    "url": "https://www.brandweer.nl/onderwerpen/natuurbrand-in-de-buurt/",
+    "land": "NL",
+    "opmerking": "Tank halfvol, afspraken, vluchtroute. Kaart bosbrand."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "Na te kijken",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "brandweer-nl-tips-woning",
+    "naam": "Brandweer Nederland: tips op en aan je (vakantie)woning",
+    "eigenaar": "Brandweer Nederland",
+    "url": "https://www.brandweer.nl/onderwerpen/natuurbrand-voorkomen-tips-vakantieverblijf/",
+    "land": "NL",
+    "opmerking": "Afstanden beplanting 3 tot 5 m, coniferen 10 m, toegang brandweerwagen. Kaart bosbrand."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "Na te kijken",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "brandweer-nl-tips-dagje-uit",
+    "naam": "Brandweer Nederland: tips tijdens je dagje uit",
+    "eigenaar": "Brandweer Nederland",
+    "url": "https://www.brandweer.nl/onderwerpen/natuurbrand-voorkomen-tips-dagje-uit/",
+    "land": "NL",
+    "opmerking": "Parkeren, barbecue, peuken. Kaart bosbrand."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "publiek domein (Amerikaanse federale overheid)",
+    "toestemming": "vrij",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "ready-chemical",
+    "naam": "Ready.gov: Chemical Emergencies",
+    "eigenaar": "FEMA (Amerikaanse federale overheid)",
+    "url": "https://www.ready.gov/chemical",
+    "land": "US",
+    "opmerking": "Kamer afdichten, ontsmetten. Raadt bovenwinds aan (Belgisch: dwars op de wind). Kaart chemisch."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "publiek domein (Amerikaanse federale overheid)",
+    "toestemming": "vrij",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "ready-pandemic",
+    "naam": "Ready.gov: Pandemic",
+    "eigenaar": "FEMA (Amerikaanse federale overheid)",
+    "url": "https://www.ready.gov/pandemic",
+    "land": "US",
+    "opmerking": "Voorraad, plan voor sluitingen, juiste informatie. Kaart pandemie."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "publiek domein (Amerikaanse federale overheid)",
+    "toestemming": "vrij",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "ready-water",
+    "naam": "Ready.gov: Water",
+    "eigenaar": "FEMA (Amerikaanse federale overheid)",
+    "url": "https://www.ready.gov/water",
+    "land": "US",
+    "opmerking": "Niet rantsoeneren, behandeling, distilleren. Kaart drinkwater."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "publiek domein (Amerikaanse federale overheid)",
+    "toestemming": "vrij",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "cdc-precautions-when-sick",
+    "naam": "CDC: Preventing Spread of Respiratory Viruses When You're Sick",
+    "eigenaar": "Centers for Disease Control and Prevention",
+    "url": "https://www.cdc.gov/respiratory-viruses/prevention/precautions-when-sick.html",
+    "land": "US",
+    "opmerking": "24 uur koortsvrij, 5 dagen extra voorzorgen. Kaart pandemie."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "publiek domein (Amerikaanse federale overheid)",
+    "toestemming": "vrij",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "cdc-clean-hands",
+    "naam": "CDC: About Handwashing",
+    "eigenaar": "Centers for Disease Control and Prevention",
+    "url": "https://www.cdc.gov/clean-hands/about/index.html",
+    "land": "US",
+    "opmerking": "Vijf stappen, 20 seconden, handgel 60 procent alcohol. Kaart pandemie."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "publiek domein (Amerikaanse federale overheid)",
+    "toestemming": "vrij",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "cdc-water-emergency",
+    "naam": "CDC: Making Water Safe in an Emergency",
+    "eigenaar": "Centers for Disease Control and Prevention",
+    "url": "https://www.cdc.gov/water-emergency/about/index.html",
+    "land": "US",
+    "opmerking": "Koken 1 minuut, bleekwater per concentratie, tabletten, filters, zonlicht. Kaart drinkwater."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "publiek domein (Amerikaanse federale overheid)",
+    "toestemming": "vrij",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "cdc-store-water",
+    "naam": "CDC: Creating and Storing an Emergency Water Supply",
+    "eigenaar": "Centers for Disease Control and Prevention",
+    "url": "https://www.cdc.gov/water-emergency/about/how-to-create-and-store-an-emergency-water-supply.html",
+    "land": "US",
+    "opmerking": "1 gallon per persoon per dag, 3 dagen tot 2 weken, verpakking, elke 6 maanden vervangen. Kaart drinkwater."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "Na te kijken",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "telerad",
+    "naam": "Telerad: meetnet radioactiviteit",
+    "eigenaar": "FANC",
+    "url": "https://www.telerad.be",
+    "land": "BE",
+    "opmerking": "Alleen verwijzing naar live metingen; niet overgenomen."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "Na te kijken",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "gidsen"
+    ],
+    "id": "diplomatie-reisadvies",
+    "naam": "FOD Buitenlandse Zaken: reisadviezen",
+    "eigenaar": "FOD Buitenlandse Zaken",
+    "url": "https://diplomatie.belgium.be",
+    "land": "BE",
+    "opmerking": "Verwijzing vanuit de kaart besmettelijke ziekte."
   }
 ]

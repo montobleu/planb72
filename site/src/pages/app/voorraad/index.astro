@@ -1,5 +1,6 @@
 ---
 import App from '../../../layouts/App.astro';
+import GidsLinks from '../../../components/GidsLinks.astro';
 import { land } from '../../../lib/data';
 const v = land.voorraad;
 ---
@@ -16,6 +17,7 @@ const v = land.voorraad;
   <p class="klein">Waarde: {v.water_bron}. <span class="label onbevestigd">{v.water_status}</span></p>
   <p class="klein">Voor huisdieren rekent de planner niets uit: vraag je dierenarts hoeveel water en voer jouw dier per dag nodig heeft, en leg dat apart.</p>
   <p>Wat er nog meer in je voorraad hoort, staat in de <a href="/app/checklists/">checklists</a>.</p>
+  <GidsLinks ids={['noodvoorraad', 'water', 'voedsel-zonder-stroom', 'medicatie-en-zorg']} />
 </App>
 <script>
   import { lees, bewaar } from '../../../lib/app';

@@ -1,5 +1,6 @@
 ---
 import App from '../../../layouts/App.astro';
+import GidsLinks from '../../../components/GidsLinks.astro';
 import { land } from '../../../lib/data';
 ---
 <App titel="Officiële informatie" tab="meer">
@@ -25,6 +26,7 @@ import { land } from '../../../lib/data';
     <strong>Echtheid van berichten.</strong> Een echt BE-Alert-bericht begint altijd met "BE-Alert". Twijfel je, kijk dan op crisiscentrum.be of de site van je gemeente.
   </div>
   <p class="klein">Bij een echte crisis zet de overheid soms een tijdelijk nummer of een extra pagina op. Die staan niet vooraf in dit pakket; kijk dan op de kanalen hierboven.</p>
+  <GidsLinks ids={['communicatie-en-alarmering', 'noodoproep']} />
 </App>
 <script>
   import { vinklijsten } from '../../../lib/app';

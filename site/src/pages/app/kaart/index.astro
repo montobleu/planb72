@@ -37,7 +37,8 @@ const groepen = [...new Set(LAGEN.map((l) => l.groep))];
   import * as maplibregl from 'maplibre-gl';
   // De worker als eigen bestand meeleveren; MapLibre zoekt hem anders naast een bestand dat niet bestaat.
   import workerUrl from 'maplibre-gl/dist/maplibre-gl-worker.mjs?url';
-  import { Protocol } from 'pmtiles';
+  import { Protocol, PMTiles, FileSource } from 'pmtiles';
+  import { overzicht, opToestel } from '../../../lib/kaarten';
   import { layers, namedFlavor } from '@protomaps/basemaps';
   import type { FeatureCollection, Point } from 'geojson';
   import { LAGEN, SCHUIL_LABEL } from '../../../lib/lagen';
@@ -57,21 +58,54 @@ const groepen = [...new Set(LAGEN.map((l) => l.groep))];
   // Een andere stijl vraagt een nieuwe kaart; herladen is eenvoudig en betrouwbaar.
   document.addEventListener('pb72-kleurschema', () => location.reload());
   volgWijzigingen();
-  // GET met een klein bereik in plaats van HEAD: zo antwoordt ook de service worker offline.
-  const heeftBasis = await fetch(`${DATA}/basis.pmtiles`, { headers: { Range: 'bytes=0-15' } }).then((r) => r.ok).catch(() => false);
+  // Basiskaart: stapel de kaartpakketten van grof naar fijn (Europa, België, regio's).
+  // Op het toestel bewaarde pakketten gaan voor; met verbinding vullen we aan van de server.
+  const pakketten = await overzicht();
+  const lokaal = await opToestel();
+  const RANG = { europa: 0, belgie: 1, regio: 2 } as const;
+  const gekozen = pakketten
+    .filter((p) => lokaal.has(p.id) || (navigator.onLine && (p.id === 'eu-z7' || p.id === 'be-z12')))
+    .sort((a, b) => RANG[a.groep] - RANG[b.groep] || a.maxzoom - b.maxzoom);
+  // Per groep (Europa, België) het fijnste pakket op het toestel, plus een fijner online pakket
+  // erbovenop als er verbinding is. Valt de verbinding weg, dan blijft de lokale kaart eronder zichtbaar.
+  // Regio's op straatniveau tellen allemaal.
+  const fijnste = (lijst: typeof gekozen) => lijst.reduce<(typeof gekozen)[number] | undefined>((a, b) => (!a || b.maxzoom > a.maxzoom ? b : a), undefined);
+  const zichtbaar: typeof gekozen = [];
+  for (const groep of ['europa', 'belgie'] as const) {
+    const lok = fijnste(gekozen.filter((p) => p.groep === groep && lokaal.has(p.id)));
+    const onl = fijnste(gekozen.filter((p) => p.groep === groep && !lokaal.has(p.id)));
+    if (lok) zichtbaar.push(lok);
+    if (onl && (!lok || onl.maxzoom > lok.maxzoom)) zichtbaar.push(onl);
+  }
+  zichtbaar.push(...gekozen.filter((p) => p.groep === 'regio'));
+
+  const bronnen: Record<string, maplibregl.SourceSpecification> = {};
+  const basislagen: maplibregl.LayerSpecification[] = [{ id: 'achtergrond', type: 'background', paint: { 'background-color': licht ? '#e9ecef' : '#1b1f24' } }];
+  const smaak = namedFlavor(licht ? 'light' : 'dark');
+  for (const p of zichtbaar) {
+    const bestand = lokaal.get(p.id);
+    let url = `pmtiles://${location.origin}${p.pad}`;
+    if (bestand instanceof File) {
+      const pm = new PMTiles(new FileSource(bestand));
+      protocol.add(pm);
+      url = `pmtiles://${bestand.name}`;
+    }
+    bronnen[p.id] = { type: 'vector', url, attribution: '© <a href="https://openstreetmap.org/copyright">OpenStreetMap</a> · <a href="https://protomaps.com">Protomaps</a>' };
+    for (const laag of layers(p.id, smaak, { lang: 'nl' })) {
+      if (laag.type === 'background') continue;
+      basislagen.push({ ...laag, id: `${p.id}-${laag.id}` } as maplibregl.LayerSpecification);
+    }
+  }
+  if (zichtbaar.length === 0) status.textContent = 'Geen kaart op dit toestel. Download een kaartpakket via Instellingen.';
+  else if (!navigator.onLine) status.textContent = `Offline: ${zichtbaar.map((p) => p.naam).join(', ')}.`;
 
   const stijl: maplibregl.StyleSpecification = {
     version: 8,
     glyphs: `${location.origin}/kaart/fonts/{fontstack}/{range}.pbf`,
-    sprite: `${location.origin}/kaart/sprites/${licht ? "light" : "dark"}`,
-    sources: heeftBasis
-      ? { basis: { type: 'vector', url: `pmtiles://${location.origin}${DATA}/basis.pmtiles`, attribution: '© <a href="https://openstreetmap.org/copyright">OpenStreetMap</a> · <a href="https://protomaps.com">Protomaps</a>' } }
-      : {},
-    layers: heeftBasis
-      ? layers('basis', namedFlavor(licht ? 'light' : 'dark'), { lang: 'nl' })
-      : [{ id: 'achtergrond', type: 'background', paint: { 'background-color': licht ? '#eef1f3' : '#151a1f' } }],
+    sprite: `${location.origin}/kaart/sprites/${licht ? 'light' : 'dark'}`,
+    sources: bronnen,
+    layers: basislagen,
   };
-  if (!heeftBasis) status.textContent = 'Basiskaart niet beschikbaar; alleen de punten worden getoond.';
 
   const bewaardBeeld = lees<{ c: [number, number]; z: number } | null>('kaartbeeld', null);
   const kaart = new maplibregl.Map({
@@ -84,6 +118,14 @@ const groepen = [...new Set(LAGEN.map((l) => l.groep))];
     fadeDuration: 0,
   });
   (window as any).__kaart = kaart; // handig bij het nakijken in de browserconsole
+  kaart.on('error', (e) => {
+    console.error('Kaartfout', e.error);
+    // Een online kaartpakket dat niet bereikbaar is, is geen probleem als er een kaart op het toestel staat.
+    const netwerk = /fetch|network|load/i.test(String(e.error?.message ?? ''));
+    status.textContent = netwerk
+      ? (lokaal.size ? 'Geen verbinding met de server: de kaart op dit toestel wordt gebruikt.' : 'Geen verbinding en geen kaart op dit toestel. Download een kaartpakket via Instellingen.')
+      : 'De kaart kon niet volledig geladen worden.';
+  });
   kaart.addControl(new maplibregl.NavigationControl({ showCompass: false }), 'top-right');
   kaart.addControl(new maplibregl.GeolocateControl({ positionOptions: { enableHighAccuracy: true }, trackUserLocation: false }), 'top-right');
   kaart.on('moveend', () => bewaar('kaartbeeld', { c: kaart.getCenter().toArray(), z: kaart.getZoom() }));

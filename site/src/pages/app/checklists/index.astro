@@ -1,5 +1,6 @@
 ---
 import App from '../../../layouts/App.astro';
+import GidsLinks from '../../../components/GidsLinks.astro';
 const lijsten: [string, string, string[]][] = [
   ['noodpakket', 'Noodpakket thuis (72 uur)', [
     'Drinkwater (zie de voorraadplanner)', 'Houdbaar eten dat je zonder koken kunt eten', 'Blikopener', 'Radio op batterijen of met slinger',
@@ -31,6 +32,7 @@ const lijsten: [string, string, string[]][] = [
     </section>
   ))}
   <div class="knoppen niet-afdrukken"><button class="knop" type="button" onclick="print()">Afdrukken</button></div>
+  <GidsLinks ids={['noodpakket-en-vluchttas', 'noodvoorraad', 'evacuatie']} />
 </App>
 <script>
   import { vinklijsten } from '../../../lib/app';

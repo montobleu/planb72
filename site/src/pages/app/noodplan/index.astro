@@ -1,5 +1,6 @@
 ---
 import App from '../../../layouts/App.astro';
+import GidsLinks from '../../../components/GidsLinks.astro';
 const velden: [string, string, 'text' | 'tel' | 'textarea'][] = [
   ['gezin', 'Wie hoort bij ons gezin (namen, geboortedatum)', 'textarea'],
   ['adres', 'Ons adres', 'text'],
@@ -31,6 +32,7 @@ const velden: [string, string, 'text' | 'tel' | 'textarea'][] = [
     <button class="knop hoofd" type="button" onclick="print()">Afdrukken</button>
     <button class="knop gevaar" type="button" id="wissen">Alles wissen</button>
   </div>
+  <GidsLinks ids={['gezinsnoodplan', 'evacuatie', 'communicatie-en-alarmering']} />
 </App>
 <script>
   import { lees, bewaar } from '../../../lib/app';

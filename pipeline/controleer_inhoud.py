@@ -25,6 +25,8 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 # Paden die twee goedkeuringen vragen, met het label dat de PR krijgt.
 KRITIEK = [
     (r"^site/src/content/scenarios/", "inhoud: handelingsrichtlijnen"),
+    (r"^site/src/content/eerstehulp/", "inhoud: medisch"),
+    (r"^site/src/content/gidsen/", "inhoud: gidsen"),
     (r"^site/src/pages/app/eerste-hulp/", "inhoud: medisch"),
     (r"^site/src/pages/app/nucleair/", "inhoud: nucleair"),
     (r"^site/src/pages/app/schuilen/", "inhoud: schuilen"),
@@ -66,7 +68,10 @@ def controleer():
     register = json.load(open(os.path.join(ROOT, "data/bronnen/register.json"), encoding="utf-8"))
     bekende = {domein(b["url"]) for b in (register if isinstance(register, list) else register.get("bronnen", []))}
 
-    for pad in sorted(glob.glob(os.path.join(ROOT, "site/src/content/scenarios/*.md"))):
+    paden = []
+    for map_ in ("scenarios", "gidsen", "eerstehulp"):
+        paden += glob.glob(os.path.join(ROOT, f"site/src/content/{map_}/*.md"))
+    for pad in sorted(paden):
         naam = os.path.relpath(pad, ROOT)
         v = lees_frontmatter(pad)
         if v is None:
@@ -78,6 +83,15 @@ def controleer():
             d = domein(b.get("url", ""))
             if d not in bekende:
                 fouten.append(f"{naam}: bron {d or '(leeg)'} staat niet in het bronnenregister")
+        # Ook de bronnen in de tekst ("Bron: [naam](url)") moeten in het register staan.
+        tekst = open(pad, encoding="utf-8").read()
+        for url in re.findall(r"\]\((https?://[^)\s]+)\)", tekst):
+            d = domein(url)
+            if d not in bekende:
+                fouten.append(f"{naam}: bron {d} in de tekst staat niet in het bronnenregister")
+        # Doseringen horen niet in PlanB72.
+        for m in re.finditer(r"\b\d+([.,]\d+)?\s?(mg|µg|mcg|microgram|milligram)\b", tekst, re.I):
+            fouten.append(f"{naam}: mogelijke dosering '{m.group(0)}' (doseringen zijn niet toegelaten)")
         if v.get("status") in ("nagekeken", "officieel") and not v.get("nagekeken_door"):
             fouten.append(f"{naam}: status {v['status']} zonder 'nagekeken_door'")
 

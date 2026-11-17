@@ -1,5 +1,6 @@
 ---
 import App from '../../../layouts/App.astro';
+import GidsLinks from '../../../components/GidsLinks.astro';
 import { land } from '../../../lib/data';
 ---
 <App titel="Noodnummers" tab="nummers">
@@ -23,4 +24,5 @@ import { land } from '../../../lib/data';
   <p class="klein">Volgorde zoals de hulpdiensten die gebruiken (wie, waar, wat, hoeveel). Bron: <a href="https://www.112.be">112.be</a>.</p>
   <div class="concept">De nummers worden dagelijks automatisch gecontroleerd tegen hun bron. Datum landinfo: {land.bijgewerkt}.</div>
   <div class="knoppen niet-afdrukken"><button class="knop" type="button" onclick="print()">Afdrukken</button></div>
+  <GidsLinks ids={['noodoproep']} />
 </App>

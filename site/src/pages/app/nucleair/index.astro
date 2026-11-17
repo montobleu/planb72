@@ -1,6 +1,7 @@
 ---
 import App from '../../../layouts/App.astro';
 import { land } from '../../../lib/data';
+import GidsLijst from '../../../components/GidsLijst.astro';
 const n = land.nucleair;
 const kmTekst = (x: number | null) => (x === null ? '—' : `${x} km`);
 ---
@@ -10,6 +11,8 @@ const kmTekst = (x: number | null) => (x === null ? '—' : `${x} km`);
     <strong>Officieel advies:</strong> {n.kernboodschap}
     <div class="klein">Bron: <a href={n.bron}>Nationaal Crisiscentrum</a></div>
   </div>
+
+  <GidsLijst module="nucleair" />
 
   <h2>Afstand tot nucleaire installaties</h2>
   <p class="dempen">Berekend op dit toestel. Je positie wordt nergens naartoe gestuurd.</p>
@@ -41,8 +44,6 @@ const kmTekst = (x: number | null) => (x === null ? '—' : `${x} km`);
   <p class="klein">Zones: <a href={n.zones_bron}>persfiches van het Crisiscentrum</a>. Coördinaten {n.coordinaten_status}. Een cirkel op de kaart is een plan, geen meting: de overheid beslist bij een incident welk gebied ze beschermt.</p>
   <div class="knoppen"><a class="knop" href="/app/kaart/?laag=nucleair">Toon op de kaart</a></div>
 
-  <h2>Gepland</h2>
-  <p class="klein">Gedragsadvies per situatie (school, huisdieren, moestuin, regenwater), de officiële bijsluiter van de jodiumtabletten en "na de wolk". Die teksten nemen we letterlijk over zodra het Crisiscentrum toestemming geeft. Live stralingsmetingen (Telerad, EURDEP) zijn alleen online beschikbaar.</p>
 </App>
 <script>
   import { afstandKm, richting, km, positie, bewaar } from '../../../lib/app';

@@ -1,0 +1,9 @@
+---
+interface Props { bronnen: { naam: string; url: string }[]; datum: string; status: string; nagekeken_door?: string }
+const { bronnen, datum, status, nagekeken_door } = Astro.props;
+---
+<section class="bron" aria-label="Bronnen">
+  <p><strong>Bronnen</strong></p>
+  <ul>{bronnen.map((b) => <li><a href={b.url}>{b.naam}</a></li>)}</ul>
+  <p>Datum: {datum} · Status: {status}{nagekeken_door && ` · nagekeken door ${nagekeken_door}`}</p>
+</section>

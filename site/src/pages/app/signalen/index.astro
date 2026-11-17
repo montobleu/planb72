@@ -1,5 +1,6 @@
 ---
 import App from '../../../layouts/App.astro';
+import GidsLinks from '../../../components/GidsLinks.astro';
 const morse: Record<string, string> = { A: '.-', B: '-...', C: '-.-.', D: '-..', E: '.', F: '..-.', G: '--.', H: '....', I: '..', J: '.---', K: '-.-', L: '.-..', M: '--', N: '-.', O: '---', P: '.--.', Q: '--.-', R: '.-.', S: '...', T: '-', U: '..-', V: '...-', W: '.--', X: '-..-', Y: '-.--', Z: '--..', '0': '-----', '1': '.----', '2': '..---', '3': '...--', '4': '....-', '5': '.....', '6': '-....', '7': '--...', '8': '---..', '9': '----.' };
 const nato = ['Alfa', 'Bravo', 'Charlie', 'Delta', 'Echo', 'Foxtrot', 'Golf', 'Hotel', 'India', 'Juliett', 'Kilo', 'Lima', 'Mike', 'November', 'Oscar', 'Papa', 'Quebec', 'Romeo', 'Sierra', 'Tango', 'Uniform', 'Victor', 'Whiskey', 'X-ray', 'Yankee', 'Zulu'];
 const grondLucht = [['V', 'Hulp nodig'], ['X', 'Medische hulp nodig'], ['N', 'Nee'], ['Y', 'Ja'], ['↑', 'We gaan in deze richting']];
@@ -54,6 +55,7 @@ const grondLucht = [['V', 'Hulp nodig'], ['X', 'Medische hulp nodig'], ['N', 'Ne
     ))}
   </tbody></table></div>
   <p class="klein" id="morse-data" data-morse={JSON.stringify(morse)}>Codes en signalen zijn internationale afspraken en vrij te gebruiken.</p>
+  <GidsLinks ids={['signalen-en-noodcodes', 'communicatie-en-alarmering']} />
 </App>
 <script>
   const morse: Record<string, string> = JSON.parse(document.getElementById('morse-data')!.dataset.morse!);

@@ -1,5 +1,6 @@
 ---
 import App from '../../../layouts/App.astro';
+import GidsLinks from '../../../components/GidsLinks.astro';
 ---
 <App titel="Kompas" tab="meer">
   <h1>Kompas</h1>
@@ -22,6 +23,7 @@ import App from '../../../layouts/App.astro';
   <div class="melding klein">
     Zonder kompassensor: de zon staat rond 13u30 (zomertijd) ongeveer in het zuiden, rond 12u30 in de winter. 's Nachts wijst de Poolster het noorden.
   </div>
+  <GidsLinks ids={['navigatie-zonder-gps', 'buiten-overleven']} />
 </App>
 <script>
   const draai = document.getElementById('draai')!;
