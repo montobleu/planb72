@@ -39,47 +39,9 @@ async function pakket(request, env, sleutel) {
   return new Response(obj.body, { status: 200, headers });
 }
 
-/**
- * Cookieloze bezoekersstatistiek via Nvivio (https://nvivio.com/docs/proxy).
- * Alles loopt via ons eigen domein: de browser praat nooit rechtstreeks met een derde partij.
- * /stats/script.js geeft het script van onze site (sitecode in de variabele NVIVIO_SITE);
- * het script stuurt zijn events naar /stats/e, dat we doorsturen naar nviv.io.
- * Zonder NVIVIO_SITE of NVIVIO_KEY wordt er niets gemeten.
- */
-async function statistiek(request, env, pad) {
-  if (!env.NVIVIO_SITE || !env.NVIVIO_KEY) {
-    return pad === 'script.js'
-      ? new Response('', { headers: { 'Content-Type': 'text/javascript', 'Cache-Control': 'no-store' } })
-      : new Response(null, { status: 204 });
-  }
-  const doel = pad === 'script.js' ? `js/${env.NVIVIO_SITE}.js` : pad;
-  const headers = new Headers();
-  for (const naam of ['User-Agent', 'Accept-Language', 'Sec-GPC', 'Content-Type']) {
-    const waarde = request.headers.get(naam);
-    if (waarde) headers.set(naam, waarde);
-  }
-  if (request.method === 'POST') {
-    headers.set('Authorization', `Bearer ${env.NVIVIO_KEY}`);
-    const ip = request.headers.get('cf-connecting-ip');
-    if (ip) headers.set('X-Nvivio-Ip', ip);
-    const cf = request.cf || {};
-    if (cf.country) headers.set('X-Nvivio-Country', cf.country);
-    if (cf.region) headers.set('X-Nvivio-Region', encodeURIComponent(cf.region));
-    if (cf.city) headers.set('X-Nvivio-City', encodeURIComponent(cf.city));
-  }
-  return fetch(`https://nviv.io/${doel}`, {
-    method: request.method,
-    headers,
-    body: request.method === 'GET' || request.method === 'HEAD' ? undefined : request.body,
-  });
-}
-
 export default {
   async fetch(request, env) {
     const url = new URL(request.url);
-    if (url.pathname.startsWith('/stats/')) {
-      return statistiek(request, env, url.pathname.slice('/stats/'.length));
-    }
     if (url.pathname.startsWith('/data/') && url.pathname.endsWith('.pmtiles') && (request.method === 'GET' || request.method === 'HEAD')) {
       return pakket(request, env, url.pathname.slice('/data/'.length));
     }

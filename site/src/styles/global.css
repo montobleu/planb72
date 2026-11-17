@@ -358,3 +358,4 @@ main.wrap { padding-top: 2.5rem; }
 .eerste-stappen { border: 1px solid var(--rand-sterk); border-radius: var(--radius); padding: 4px 18px 8px; margin: 1.25rem 0; max-width: 72ch; }
 .eerste-stappen h2 { font-size: 1.05rem; margin: 0.9rem 0 0.2rem; }
 .eerste-stappen .stappen > li:last-child { border-bottom: 0; }
+.voet-badge { margin-top: 2rem; padding-top: 1.25rem; border-top: 1px solid #ffffff22; }
