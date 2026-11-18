@@ -18,6 +18,7 @@ Downloads komen in pipeline/out/officieel/<bron-id>/ en worden na zeven dagen op
 import datetime as dt
 import json
 import os
+import re
 import time
 import urllib.request
 from pathlib import Path
@@ -68,7 +69,7 @@ def download(bron_id, url, bestandsnaam, vernieuw=False, data=None, koppen=None)
     laatste = None
     for poging in range(4):
         try:
-            with urllib.request.urlopen(verzoek, timeout=300) as r, open(str(pad) + ".deel", "wb") as f:
+            with urllib.request.urlopen(verzoek, timeout=120) as r, open(str(pad) + ".deel", "wb") as f:
                 while True:
                     blok = r.read(1 << 20)
                     if not blok:
@@ -400,3 +401,153 @@ def _villers(b, vernieuw):
                           adres=adres(p.get("street_name"), nummer, None, p.get("municipality")),
                           lat=lat, lon=lon, soort="AED", binnen=p.get("indoor")))
     return uit, datum
+
+
+# ---------------------------------------------------------------- Frankrijk: dierenartsen (SIRENE)
+
+# Departementen van het Europese vasteland en Corsica (de overzeese vallen buiten de bbox van fr.json).
+FR_DEPARTEMENTEN = [f"{i:02d}" for i in range(1, 96) if i != 20] + ["2A", "2B"]
+# Juridische vorm 1000 = entrepreneur individuel (natuurlijke persoon).
+FR_NATUURLIJK = "1000"
+
+
+@bron("fr-sirene-veterinaires", "FR", ["dierenarts"], "INSEE SIRENE: vestigingen met NAF 75.00Z (activités vétérinaires)",
+      "INSEE, via de API Recherche d'entreprises (DINUM)", "Licence Ouverte 2.0 (Etalab)",
+      "https://recherche-entreprises.api.gouv.fr/docs/", kort="INSEE SIRENE")
+def _sirene_vet(b, vernieuw):
+    """Alle actieve vestigingen met NAF 75.00Z, per departement opgevraagd (de API geeft hoogstens 10.000
+    resultaten per zoekopdracht en 25 per pagina). Vestigingen in 'diffusion partielle' (adres verborgen,
+    meestal eenmanszaken) komen niet op de kaart. Ondernemingen van natuurlijke personen krijgen geen
+    persoonsnaam op de kaart, alleen hun handelsnaam als die er is."""
+    import urllib.parse
+    basis = "https://recherche-entreprises.api.gouv.fr/search?"
+    uit, datum, gezien = [], None, set()
+    for dep in FR_DEPARTEMENTEN:
+        pagina, pagina_s = 1, 1
+        while pagina <= pagina_s:
+            q = urllib.parse.urlencode({
+                "activite_principale": "75.00Z", "departement": dep, "per_page": 25, "page": pagina,
+                "minimal": "true", "include": "matching_etablissements", "limite_matching_etablissements": 100})
+            pad = download(b["id"], basis + q, f"{dep}-{pagina}.json", vernieuw)
+            time.sleep(0.0 if pad.stat().st_mtime < time.time() - 60 else 0.35)  # hoogstens ongeveer 3 per seconde
+            d = lees_json(pad)
+            pagina_s = d.get("total_pages") or 1
+            for o in d.get("results", []):
+                datum = max(datum or "", (o.get("date_mise_a_jour_insee") or "")[:10]) or None
+                natuurlijk = o.get("nature_juridique") == FR_NATUURLIJK
+                for e in o.get("matching_etablissements") or []:
+                    if (e.get("etat_administratif") != "A" or e.get("activite_principale") != "75.00Z"
+                            or e.get("statut_diffusion_etablissement") != "O" or not e.get("latitude")):
+                        continue
+                    if e["siret"] in gezien:
+                        continue
+                    gezien.add(e["siret"])
+                    handelsnaam = e.get("nom_commercial") or next(iter(e.get("liste_enseignes") or []), None)
+                    if handelsnaam:
+                        naam = handelsnaam.title()
+                    elif natuurlijk:
+                        naam = None  # geen persoonsnaam op de kaart
+                    else:
+                        naam = (o.get("nom_complet") or "").title() or None
+                    praktijk = "praktijk" if (handelsnaam or not natuurlijk) else "onzeker"
+                    uit.append(record(b["id"], e["siret"], naam=naam, adres=(e.get("adresse") or "").title() or None,
+                                      lat=float(e["latitude"]), lon=float(e["longitude"]), soort="vétérinaire",
+                                      praktijk=praktijk))
+            pagina += 1
+    # Meerdere vestigingen op hetzelfde adres (bv. dierenartsen die elk een eigen onderneming hebben in
+    # dezelfde kliniek) zijn op de kaart één plek: we houden de zekerste, met naam.
+    beste = {}
+    for r in uit:
+        sleutel = r["adres"].lower() if r.get("adres") else r["id"]
+        score = (r["praktijk"] == "praktijk", bool(r.get("naam")))
+        if sleutel not in beste or score > beste[sleutel][0]:
+            beste[sleutel] = (score, r)
+    print(f"  SIRENE: {len(uit)} vestigingen, {len(uit) - len(beste)} samengevoegd op hetzelfde adres", flush=True)
+    return [r for _, r in beste.values()], datum
+
+
+# ---------------------------------------------------------------- België: dierenartsen (VKBO)
+
+# "Achternaam, Voornaam" (ook "Van Hoof, Danny"): zo schrijft de KBO de naam van een natuurlijke persoon.
+_PERSOONSNAAM = re.compile(r"^[^,]+,\s*[A-ZÀ-ÝŠŽ][\w'’-]*(\s+[A-ZÀ-ÝŠŽ][\w'’-]*)?\s*$")
+
+
+def _tekst(x):
+    return str(x or "").strip()
+
+
+@bron("be-vl-vkbo-dierenartsen", "BE", ["dierenarts"], "VKBO: ondernemingen en vestigingen met NACE 75.000 (veterinaire diensten)",
+      "Digitaal Vlaanderen (Vlaamse Kruispuntbank voor Ondernemingen, uit de KBO)", "Modellicentie gratis hergebruik",
+      "https://www.vlaanderen.be/datavindplaats/catalogus/vkbo", kort="VKBO (Digitaal Vlaanderen)")
+def _vkbo_vet(b, vernieuw):
+    """Rechtspersonen met hoofdactiviteit 75.000 en hun vestigingseenheden, in Vlaanderen.
+
+    Wat zeker is en wat niet ('praktijk'):
+      vestigingseenheid met handelsnaam               -> "praktijk"
+      vestigingseenheid zonder handelsnaam            -> "onzeker"
+      maatschappelijke zetel zonder vestigingseenheid -> "praktijk" met handelsnaam of personeel, anders "onzeker"
+                                                          (vaak de vennootschap van één dierenarts op het woonadres)
+      maatschappelijke zetel met vestigingseenheden   -> niet op de kaart: de vestigingen zijn de praktijken
+    Eenmanszaken staan niet als onderneming in de VKBO, hun vestigingen wel (met de persoonsnaam, die we niet
+    overnemen). De punten worden op het KBO-adres geplaatst met
+    BeST; de coördinaten van de VKBO dienen alleen als terugvaloptie (sommige liggen op een nepunt in Frankrijk)."""
+    import urllib.parse
+    q = urllib.parse.urlencode({"f": "application/geo+json", "limit": 10000, "filter-lang": "cql2-text",
+                                "filter": "NACE_hoofdact_BTW='75000' OR NACE_hoofdact_RSZ='75000'"})
+    d = lees_json(download(b["id"], "https://geo.api.vlaanderen.be/VKBO/ogc/features/v1/collections/Vkbo/items?" + q,
+                           "nace75000.geojson", vernieuw))
+    fs = d["features"]
+    if len(fs) >= 10000:
+        raise RuntimeError("be-vl-vkbo-dierenartsen: 10.000 records of meer; paginering nodig")
+    met_vestiging = {_tekst(f["properties"].get("Ondernemingsnr_maatsch_zetel")) for f in fs
+                     if not _tekst(f["properties"].get("Type_onderneming"))}
+    ondernemingen = {_tekst(f["properties"].get("Ondernemingsnr")) for f in fs
+                     if _tekst(f["properties"].get("Type_onderneming"))}
+    uit, weg = [], 0
+    for f in fs:
+        p = f["properties"]
+        vestiging = not _tekst(p.get("Type_onderneming"))
+        nummer = _tekst(p.get("Ondernemingsnr"))
+        if not vestiging and nummer in met_vestiging:
+            weg += 1  # alleen de zetel; de vestigingseenheden staan apart op de kaart
+            continue
+        handelsnaam = _tekst(p.get("Commerciele_naam"))
+        naam = handelsnaam or _tekst(p.get("Maatschappelijke_naam"))
+        # Vestiging van een eenmanszaak: de KBO schrijft de naam van een natuurlijke persoon als
+        # "Achternaam, Voornaam". Geen persoonsnaam op de kaart, alleen een echte handelsnaam.
+        if vestiging and _tekst(p.get("Ondernemingsnr_maatsch_zetel")) not in ondernemingen \
+                and "," in _tekst(p.get("Maatschappelijke_naam")):
+            naam = handelsnaam
+        if vestiging and _PERSOONSNAAM.match(naam) and not any(
+                w in naam.lower() for w in ("dierenarts", "vet", "kliniek", "praktijk", "centrum")):
+            naam = ""
+        if naam.isupper():
+            naam = naam.title()
+        personeel = _tekst(p.get("Personeelsklasse")) not in ("", "0 tot 0")
+        if vestiging:
+            praktijk = "praktijk" if handelsnaam else "onzeker"
+        else:
+            praktijk = "praktijk" if (handelsnaam or personeel) else "onzeker"
+        straat, huisnr = _tekst(p.get("KBO_Straat")), _tekst(p.get("KBO_Huisnr"))
+        postcode, gemeente = _tekst(p.get("KBO_Postcode")), _tekst(p.get("KBO_Gemeente"))
+        lat, lon = punt_van_feature(f)
+        if lat is not None and not (49.4 <= lat <= 51.6 and 2.5 <= lon <= 6.5):
+            lat = lon = None
+        r = record(b["id"], nummer, naam=naam or None, adres=adres(straat, huisnr, postcode, gemeente),
+                   soort="dierenarts", plaatsen=(straat, huisnr, postcode, gemeente), _precisie="adres",
+                   _terugval=(lat, lon) if lat is not None else None, praktijk=praktijk,
+                   telefoon=_tekst(p.get("Telefoonnummer")) or None)
+        uit.append(r)
+    # Meerdere inschrijvingen op hetzelfde adres (bv. de vennootschap van een dierenarts en de groepspraktijk
+    # waar die werkt) zijn op de kaart één plek: we houden de zekerste (praktijk, dan vestiging, dan met naam).
+    beste = {}
+    for r in uit:
+        sleutel = r["adres"].lower() if r.get("adres") else r["id"]
+        score = (r["praktijk"] == "praktijk", r["id"].split(":", 1)[1].startswith("2"), bool(r.get("naam")))
+        if sleutel not in beste or score > beste[sleutel][0]:
+            beste[sleutel] = (score, r)
+    samen = len(uit) - len(beste)
+    uit = [r for _, r in beste.values()]
+    print(f"  VKBO: {len(fs)} records, {weg} zetels weggelaten omdat de vestigingen apart staan, "
+          f"{samen} samengevoegd op hetzelfde adres", flush=True)
+    return uit, (d.get("timeStamp") or "")[:10] or None

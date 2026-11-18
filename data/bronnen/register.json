@@ -8454,7 +8454,7 @@
   },
   {
     "soort": "dataset",
-    "licentie": "Licence BCE Open Data (aparte PDF, niet geopend)",
+    "licentie": "Licentie KBO Open Data (gebruiksvoorwaarden): persoonlijk, niet-exclusief en niet overdraagbaar recht; gegevens ongewijzigd; bron en datum vermelden",
     "toestemming": "na te zien",
     "route": "nazicht",
     "frequentie": "wekelijks",
@@ -8467,7 +8467,7 @@
     "url": "https://economie.fgov.be/en/themes/enterprises/crossroads-bank-enterprises/services-everyone/public-data-available-reuse/cbe-open-data",
     "land": "BE",
     "licentie_kenmerk": "Personal data may not be reused for direct marketing",
-    "opmerking": "Laag: overheid. Licentie onduidelijk: navragen voor gebruik (zie docs/kaartdata.md). Contact: kbo-bce-webservice@economie.fgov.be (voor SFTP-toegang, op pagina gezien). Mogelijke landelijke terugvaloptie voor zetel-adressen van alle 565 gemeenten (incl. Wallonië en Ostbelgien). Registratie en aanvaarding gebruiksvoorwaarden vereist; licentietekst niet gelezen; niet gedownload."
+    "opmerking": "Lagen: dierenarts (NACE 75.000), apotheken, overheid. TOESTEMMING AAN TE VRAGEN (zie docs/kaartdata.md): download vraagt een account (gebruikersnaam, naam, e-mail, wachtwoord, captcha, voorwaarden aanvaarden), dat een mens moet aanmaken; de licentie (art. 2.6 persoonlijk recht, art. 2.7 ongewijzigd, art. 11 niet overdraagbaar, doelbinding art. 2.3) laat publicatie onder ODbL niet zonder meer toe. Bevat ook eenmanszaken met naam en vestigingsadres (persoonsgegevens). Dagelijkse volledige export en wijzigingsbestand. Licentie: https://economie.fgov.be/sites/default/files/Files/Entreprises/KBO/Licentie-KBO-Open-Data-gebruiksvoorwaarden.pdf. Contact: kbo-bce-webservice@economie.fgov.be. Voor Vlaanderen dekt de VKBO (be-vl-vkbo-dierenartsen) de rechtspersonen wel open. Nagekeken 2026-11-18."
   },
   {
     "soort": "pagina",
@@ -9326,5 +9326,69 @@
     "land": "DE",
     "licentie_kenmerk": "dl-by-de/2.0",
     "opmerking": "Laag: ziekenhuizen, brandweer. Open licentie; nog niet in de pijplijn (die verrijkt nu alleen België). Licentie is open, maar zonder vector-download niet direct bruikbaar; vragen om WFS/CSV."
+  },
+  {
+    "soort": "api",
+    "licentie": "Modellicentie gratis hergebruik",
+    "toestemming": "vrij",
+    "route": "automatisch",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "kaartlagen"
+    ],
+    "id": "be-vl-vkbo-dierenartsen",
+    "naam": "VKBO: ondernemingen en vestigingen met NACE 75.000 (veterinaire diensten)",
+    "eigenaar": "Digitaal Vlaanderen (Vlaamse Kruispuntbank voor Ondernemingen, uit de KBO)",
+    "url": "https://www.vlaanderen.be/datavindplaats/catalogus/vkbo",
+    "land": "BE",
+    "opmerking": "Laag: dierenarts. Gebruikt in pipeline/officieel.py. OGC API Features https://geo.api.vlaanderen.be/VKBO/ogc/features/v1/collections/Vkbo/items met CQL2-filter NACE_hoofdact_BTW='75000' OR NACE_hoofdact_RSZ='75000': 2.376 records (1.836 rechtspersonen, 540 vestigingseenheden) op 18-11-2026. Alleen rechtspersonen en hun vestigingen in Vlaanderen; eenmanszaken ontbreken. 79 punten op een nepcoördinaat; de pijplijn plaatst op het KBO-adres met BeST. Loopt 1 tot 3 dagen achter op de KBO. Dezelfde dienst geeft ook NACE 47.730 (apotheken, 2.017 vestigingen) en 86.210 (huisartsen)."
+  },
+  {
+    "soort": "api",
+    "licentie": "Licence Ouverte 2.0 (Etalab)",
+    "toestemming": "vrij",
+    "route": "automatisch",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "kaartlagen"
+    ],
+    "id": "fr-sirene-veterinaires",
+    "naam": "INSEE SIRENE: vestigingen met NAF 75.00Z (activités vétérinaires), via de API Recherche d'entreprises",
+    "eigenaar": "INSEE; API van de DINUM (recherche-entreprises.api.gouv.fr)",
+    "url": "https://recherche-entreprises.api.gouv.fr/docs/",
+    "land": "FR",
+    "opmerking": "Laag: dierenarts. Gebruikt in pipeline/officieel.py: per departement, 25 per pagina, hoogstens 7 aanvragen per seconde. Het NAF-filter geldt voor de onderneming: de pijplijn houdt alleen actieve vestigingen met 75.00Z en diffusion O. Vestigingen in diffusion partielle (adres verborgen, meestal eenmanszaken) ontbreken. Vanaf januari 2027 NAF 2025 (75.00Y), die de API nog niet aanvaardt."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "hergebruik alleen met schriftelijke toestemming",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "maandelijks",
+    "gebruikt_in": [
+      "kaartlagen"
+    ],
+    "id": "be-upv-veterinaires",
+    "naam": "Union Professionnelle Vétérinaire (UPV)",
+    "eigenaar": "UPV asbl",
+    "url": "https://www.upv.be/conditions-generales",
+    "land": "BE",
+    "opmerking": "Laag: dierenarts. Geen open lijst gevonden; de voorwaarden noemen een kaart 'trouver un vétérinaire' uit de CRM van de UPV (niet gevonden). Contact: upv@upv.be. Het Veterinair Observatorium van de UPV telde 2.950 ingeschreven dierenartsen in 2024 (volgens The Brussels Times, 27-07-2025; vermoedelijk alleen CRFOMV)."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "geen licentie vermeld",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "maandelijks",
+    "gebruikt_in": [
+      "kaartlagen"
+    ],
+    "id": "lu-college-veterinaire",
+    "naam": "Collège vétérinaire du Grand-Duché de Luxembourg: recherche vétérinaire",
+    "eigenaar": "Collège vétérinaire",
+    "url": "https://www.collegeveterinaire.lu/recherche-veterinaire",
+    "land": "LU",
+    "opmerking": "Laag: dierenarts. 312 dierenartsen (praktiserend en niet-praktiserend). Geen licentie: niet gebruikt. Let op: de publieke tabel achter de zoekpagina bevat ook privéadressen en privételefoonnummers; het Collège hierover inlichten."
   }
 ]

@@ -115,13 +115,15 @@
     },
     "dierenarts": {
       "naam": "Dierenartsen",
-      "aantal": 846,
-      "bytes": 183293,
-      "osm": 846,
-      "officieel": 0,
+      "aantal": 2423,
+      "bytes": 708529,
+      "osm": 619,
+      "officieel": 1804,
       "nagekeken": 0,
       "osm_ruw": 846,
-      "bronnen": [],
+      "bronnen": [
+        "be-vl-vkbo-dierenartsen"
+      ],
       "verrijkt": "2026-11-18"
     },
     "schuilplekken": {
@@ -230,6 +232,15 @@
       "licentie": "CC BY (versie niet vermeld)",
       "url": "https://www.odwb.be/explore/dataset/defibrillateurs-vlv-schema-based/",
       "datum": "2026-10-29",
+      "opgehaald": "2026-11-18"
+    },
+    "be-vl-vkbo-dierenartsen": {
+      "naam": "VKBO: ondernemingen en vestigingen met NACE 75.000 (veterinaire diensten)",
+      "kort": "VKBO (Digitaal Vlaanderen)",
+      "eigenaar": "Digitaal Vlaanderen (Vlaamse Kruispuntbank voor Ondernemingen, uit de KBO)",
+      "licentie": "Modellicentie gratis hergebruik",
+      "url": "https://www.vlaanderen.be/datavindplaats/catalogus/vkbo",
+      "datum": "2026-11-18",
       "opgehaald": "2026-11-18"
     },
     "be-vl-zorg-poi": {

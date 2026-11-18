@@ -45,7 +45,7 @@ Stand van 18 november 2026. Alles staat in `data/bronnen/register.json` met eige
 | Ziekenhuizen | Departement Zorg, POI-service (Vlaanderen, Modellicentie gratis hergebruik): algemene en psychiatrische ziekenhuizen, spoed per campus | FOD Volksgezondheid (spoed, MUG, heel België), AViQ (Wallonië), Vivalis (Brussel) |
 | Medische posten | geen | RIZIV (medische huizen), huisartsenwachtposten (geen register gevonden) |
 | Apotheken | geen | **FAGG-kadaster van apotheken** (4.801 apotheken met status, dagelijks), APB |
-| Dierenartsen | geen | Orde der Dierenartsen (NGROD), Ordre des Médecins Vétérinaires (CRFOMV), FAVV |
+| Dierenartsen | VKBO van Digitaal Vlaanderen (Modellicentie gratis hergebruik): vennootschappen met NACE 75.000 en hun vestigingen in Vlaanderen | KBO Open Data (heel België, ook eenmanszaken; account en licentie), Orde der Dierenartsen (NGROD), CRFOMV, UPV |
 | Politie | Stad Brussel, politiekantoren (CC BY 4.0; geplaatst op het adres) | politie.be (niet bereikbaar voor onderzoek), Stad Antwerpen |
 | Brandweer | geen | **FOD Binnenlandse Zaken, lijst hulpverleningsposten** (318 posten), DBDMH Brussel |
 | Gemeentehuizen | geen | Agentschap Binnenlands Bestuur (Centrale Vindplaats, 304 gemeenten; licentie niet gevonden), KBO Open Data, Wallonië (geen dataset gevonden) |
@@ -57,6 +57,20 @@ Bewust niet gebruikt, hoewel open: Luik AED (laatst bijgewerkt 2018), Stad Bruss
 
 Nederland, Luxemburg, Frankrijk en Duitsland: de belangrijkste bronnen staan in het register (onder andere FINESS+, GeoDAE, de lijsten van Police nationale en Gendarmerie en de Annuaire de l'administration voor Frankrijk; de Politiebureaus-API en het Register van Overheidsorganisaties voor Nederland; de CGDIS-centra voor Luxemburg; het Krankenhausverzeichnis en enkele deelstaten voor Duitsland). Ze zitten nog niet in de pijplijn: een adapter per bron in `pipeline/officieel.py` en een adressenbestand per land (BAN voor Frankrijk, BAG voor Nederland) zijn het volgende werk.
 
+## Dierenartsen: wat zeker is en wat niet
+
+Een ondernemingsregister zegt waar een dierenarts ingeschreven is, niet of daar een praktijk is die je kunt bezoeken. Veel dierenartsen hebben een vennootschap op hun woonadres en werken in een groepspraktijk of op verplaatsing (landbouwhuisdieren, paarden). Daarom krijgt elk punt uit een register het veld `praktijk`:
+
+| `praktijk` | Wanneer | Op de kaart | Pop-up |
+| --- | --- | --- | --- |
+| `praktijk` | vestigingseenheid met handelsnaam; zetel van een vennootschap met handelsnaam of personeel; of dezelfde plek staat ook in OpenStreetMap | volle stip | "Zeker: ingeschreven vestiging met een handelsnaam of van een vennootschap. Niet zeker: openingsuren en of ze nu open is." |
+| `onzeker` | vestigingseenheid zonder handelsnaam; zetel zonder vestiging, handelsnaam of personeel | open ring | "Zeker: hier is een dierenarts ingeschreven. Niet zeker: of hier een praktijk is die je kunt bezoeken (mogelijk een thuisadres of een dierenarts zonder vaste praktijk). Bel eerst." |
+| (niet op de kaart) | maatschappelijke zetel van een vennootschap die elders vestigingseenheden heeft | | |
+
+Eenmanszaken (natuurlijke personen) staan niet in de VKBO. In de Franse bron SIRENE zijn hun adressen meestal afgeschermd (diffusion partielle) en komen ze niet op de kaart. Van een natuurlijke persoon tonen we nooit de persoonsnaam, alleen een handelsnaam als die er is.
+
+Frankrijk: INSEE SIRENE via de open API Recherche d'entreprises (Licence Ouverte 2.0), per departement, alleen actieve vestigingen met NAF 75.00Z. Nederland, Luxemburg en Duitsland hebben geen open register met de activiteitscode en het adres per vestiging (de open KvK-dataset heeft geen namen of volledige postcodes; de lijst van het Luxemburgse Collège vétérinaire heeft geen licentie); daar blijft OpenStreetMap de bron.
+
 ## Toestemming aan te vragen
 
 In volgorde van wat het meest oplevert. De adressen zijn de contactgegevens die op de site van de bron stonden (18 november 2026). Een aanvraag gaat pas weg na akkoord van het kernteam.
@@ -67,12 +81,15 @@ In volgorde van wat het meest oplevert. De adressen zijn de contactgegevens die 
 | 2 | FOD Volksgezondheid, AED-register | aed | Ongeveer 19.000 geregistreerde toestellen; OSM heeft er 5.700. Lijst op te vragen per e-mail | aed-dea@health.fgov.be |
 | 3 | FOD Binnenlandse Zaken, hulpverleningsposten | brandweer | Enige volledige lijst van brandweerposten (pdf, alleen adressen); geen licentie vermeld | webmaster.scv-pcb@ibz.be of civieleveiligheid.be/nl/contact |
 | 4 | FOD Volksgezondheid, spoed en MUG per campus | ziekenhuizen | Spoeddiensten in heel België, ook Wallonië, Brussel en Ostbelgien | aanvraagformulier gegevens DBI op health.belgium.be |
-| 5 | Orde der Dierenartsen (NGROD) en CRFOMV | dierenarts | Ledenlijst en klinieken; disclaimer: voorafgaande toestemming | info@ordederdierenartsen.be, info@ordre-veterinaires.be |
+| 5 | Orde der Dierenartsen (NGROD) en CRFOMV, UPV | dierenarts | Ledenlijst en klinieken, ook Wallonië en Brussel; disclaimer: voorafgaande toestemming | info@ordederdierenartsen.be, info@ordre-veterinaires.be, upv@upv.be |
 | 6 | Agentschap Binnenlands Bestuur, Centrale Vindplaats | overheid | Adres van het gemeentehuis van 304 gemeenten (fusies 2025 verwerkt); licentie niet gevonden | vlaanderen.be/lokaal-bestuur/contacteer-ons |
 | 7 | RIZIV, medische huizen | medisch | 296 wijkgezondheidscentra; "alle rechten voorbehouden" | mh-mm@riziv-inami.fgov.be |
 | 8 | AViQ (Wallonië), Vivalis (Brussel) | ziekenhuizen | Signaletiek van de ziekenhuizen; geen open dataset | soins.hospitaliers@aviq.be; vivalis.brussels/nl/contact (gegevensaanvraagformulier) |
 | 9 | Stad Antwerpen | drinkwater, aed, politie, apotheken | Datasets bestaan; gebruiksvoorwaarden in een Word-document dat niet te openen was | open data Stad Antwerpen |
 | 10 | Politie (politie.be) | politie | Commissariaten van alle zones; de site weigerde elke automatische aanvraag | via de contactpagina van de federale politie |
+| 11 | FOD Economie, KBO Open Data | dierenarts, apotheken, overheid | Alle ondernemingen en vestigingen van België met NACE-code en adres, ook in Wallonië en Brussel. De download vraagt een account (zie hieronder) en de licentie is persoonlijk, niet overdraagbaar en eist ongewijzigde gegevens: publicatie onder ODbL vraagt schriftelijke toestemming. Vraag ze beperkt tot rechtspersonen en vestigingseenheden, zonder namen van natuurlijke personen | kbo-bce-webservice@economie.fgov.be |
+
+**KBO Open Data: wat een mens moet doen.** PlanB72 maakt zelf geen account aan. Iemand van het kernteam registreert zich op kbopub.economie.fgov.be/kbo-open-data (gebruikersnaam, naam, e-mail, taal, wachtwoord, captcha; ondernemingsnummer optioneel) en aanvaardt de gebruiksvoorwaarden. Het recht vervalt na een jaar zonder download. Zolang de FOD Economie publicatie onder de ODbL niet schriftelijk toestaat, mag de export alleen intern dienen, bv. om punten na te kijken, niet als laag op de kaart.
 
 ### Conceptbrief (Nederlands)
 

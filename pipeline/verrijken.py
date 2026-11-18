@@ -304,6 +304,11 @@ def officieel_feature(laag, rec, osm_props):
     props["adres"] = rec.get("adres") or osm_props.get("adres")
     if rec.get("telefoon"):
         props["telefoon"] = rec["telefoon"]
+    # Is dit zeker een praktijk (handelsnaam, vennootschap) of alleen een inschrijving (eenmanszaak zonder
+    # handelsnaam: mogelijk een thuisadres of een dierenarts zonder vaste praktijk)? Staat dezelfde plek
+    # ook in OpenStreetMap, dan heeft iemand er een praktijk gezien.
+    if rec.get("praktijk"):
+        props["praktijk"] = "praktijk" if osm_props.get("id") else rec["praktijk"]
     props["betrouwbaarheid"] = "officieel"
     props["bron"] = rec["bron"]
     if osm_props.get("id"):
@@ -401,6 +406,10 @@ def main():
             gevonden = geo.plaats(straat, nummer, postcode, gemeente)
             if gevonden and not (r.get("_precisie") == "adres" and gevonden[2] != "adres"):
                 r["lat"], r["lon"], r["geplaatst"] = round(gevonden[0], 6), round(gevonden[1], 6), gevonden[2]
+            elif r.get("_terugval"):
+                # Adres niet precies gevonden: het punt van de bron zelf, als die er een heeft.
+                r["lat"], r["lon"] = r["_terugval"]
+                r["geplaatst"] = "bron"
             else:
                 r["lat"] = r["lon"] = None
     elif te_plaatsen:
