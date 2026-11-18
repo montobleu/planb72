@@ -25,10 +25,10 @@ De auteur van een wijziging telt nooit mee als nalezer.
    - controleert dat elk noodnummer en kanaal een bron heeft;
    - controleert dat status `nagekeken` of `officieel` een nalezer vermeldt;
    - controleert dat elke vertaling haar nazichtstatus vermeldt en dat getallen, telefoonnummers, frequenties en eenheden gelijk zijn aan het Nederlandse origineel (zie `docs/vertalen.md`);
-   - zet labels en telt de goedkeuringen; te weinig goedkeuringen laat de controle falen.
+   - zet labels en telt de goedkeuringen. Dat aantal staat in een aparte status `nazicht`: *in afwachting* zolang er te weinig nalezers zijn, *geslaagd* zodra het genoeg is. De job `inhoud` faalt alleen bij een inhoudelijke fout.
 3. Branch protection op `main` (in te stellen in de GitHub-organisatie):
    - pull request verplicht, minstens 1 goedkeuring, review van code owners verplicht;
-   - verplichte controles: `inhoud`, `bouwen`;
+   - verplichte controles: `inhoud` en `nazicht`;
    - geen rechtstreekse pushes, ook niet voor beheerders.
 
 ## Statussen van een tekst
