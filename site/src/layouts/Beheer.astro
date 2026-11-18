@@ -1,0 +1,61 @@
+---
+// Layout van de beheeromgeving (/beheer/). Bewust los van de site en de app:
+// - niet geïndexeerd (meta robots en X-Robots-Tag in de Worker), niet in de service worker;
+// - geen statistiekscript, geen manifest;
+// - alleen scripts van eigen origine: de Worker zet een strikte Content-Security-Policy.
+// De scripts staan in public/beheer/ (ES-modules zonder bundel) zodat ze niet in _astro/ en dus
+// niet in de kern van de offline app terechtkomen.
+import '../styles/global.css';
+import Logo from '../components/Logo.astro';
+import ThemaKnop from '../components/ThemaKnop.astro';
+interface Props { titel: string; script: string }
+const { titel, script } = Astro.props;
+---
+<!doctype html>
+<html lang="nl">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+  <meta name="color-scheme" content="dark" />
+  <script is:inline src="/beheer/thema.js"></script>
+  <meta name="robots" content="noindex, nofollow, noarchive" />
+  <meta name="theme-color" content="#0e1318" />
+  <title>{titel} · Beheer · PlanB72</title>
+  <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+  <link rel="stylesheet" href="/beheer/beheer.css" />
+  <script is:inline type="module" src={script}></script>
+</head>
+<body class="beheer">
+  <a class="naar-inhoud" href="#inhoud">Naar de inhoud</a>
+  <header class="kop">
+    <div class="wrap">
+      <a class="logo" href="/beheer/"><Logo /> PlanB72 <span class="beheer-merk">Beheer</span></a>
+      <nav aria-label="Beheer">
+        <a href="/beheer/">Overzicht</a>
+        <a href="https://github.com/montobleu/planb72" rel="noopener">Repository</a>
+        <a href="https://github.com/montobleu/planb72/blob/main/docs/nazicht.md" rel="noopener">Nazichtregels</a>
+      </nav>
+      <div class="rechts">
+        <span class="klein" data-gebruiker></span>
+        <button type="button" class="themaknop" data-afmelden hidden>Afmelden</button>
+        <ThemaKnop />
+      </div>
+    </div>
+  </header>
+  <main id="inhoud" class="wrap beheer-main">
+    <div class="melding" data-status role="status" aria-live="polite" hidden></div>
+    <slot />
+    <noscript><p class="melding gevaar">De beheeromgeving heeft JavaScript nodig.</p></noscript>
+  </main>
+  <dialog id="bevestig" aria-labelledby="bevestig-titel">
+    <form method="dialog">
+      <h2 id="bevestig-titel"></h2>
+      <div data-bevestig-tekst></div>
+      <div class="knoppen">
+        <button class="knop" value="" autofocus>Annuleren</button>
+        <button class="knop hoofd" value="ja" data-bevestig-ja>Bevestigen</button>
+      </div>
+    </form>
+  </dialog>
+</body>
+</html>

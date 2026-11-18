@@ -1,5 +1,10 @@
 // PlanB72 Worker: serveert de grote pakketbestanden (PMTiles en routepakketten) uit R2, met Range-ondersteuning.
-// Alle andere aanvragen gaan naar de statische bestanden. Geen logging, geen cookies.
+// /beheer/ is de beheeromgeving voor nalezers (zie worker/beheer/ en docs/beheer.md). Die draait
+// als aparte Worker (omgeving "beheer" in wrangler.jsonc) op een eigen hostnaam, zodat scripts op de
+// publieke site niets kunnen doen met de sessie van een nalezer. De publieke Worker stuurt /beheer/
+// door naar BEHEER_URL. Zonder BEHEER_URL (lokaal) serveert deze Worker het beheer zelf.
+// Alle andere aanvragen gaan naar de statische bestanden. Geen logging, geen cookies op de publieke site.
+import { beheer, alleenBeheer } from './beheer/index.js';
 
 function leesBereik(kop) {
   const m = /^bytes=(\d*)-(\d*)$/.exec(kop || '');
@@ -40,8 +45,18 @@ async function pakket(request, env, sleutel) {
 }
 
 export default {
-  async fetch(request, env) {
+  async fetch(request, env, ctx) {
     const url = new URL(request.url);
+    if (env.BEHEER_APART) return alleenBeheer(request, env, ctx, url);
+    if (url.pathname === '/beheer' || url.pathname.startsWith('/beheer/')) {
+      if (env.BEHEER_URL) {
+        const doel = new URL(url.pathname + url.search, env.BEHEER_URL);
+        return request.method === 'GET' || request.method === 'HEAD'
+          ? Response.redirect(doel.toString(), 308)
+          : new Response('Niet gevonden', { status: 404 });
+      }
+      return beheer(request, env, ctx);
+    }
     const groot = url.pathname.endsWith('.pmtiles') || (url.pathname.startsWith('/data/route/') && url.pathname.endsWith('.pb72r'));
     if (url.pathname.startsWith('/data/') && groot && (request.method === 'GET' || request.method === 'HEAD')) {
       return pakket(request, env, url.pathname.slice('/data/'.length));

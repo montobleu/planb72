@@ -7,6 +7,10 @@ node_modules/
 site/dist/
 .astro/
 .wrangler/
+# Lokale secrets van de Worker (zie docs/beheer.md)
+.dev.vars
+.dev.vars.*
+!.dev.vars.voorbeeld
 launcher/dist/
 
 .DS_Store

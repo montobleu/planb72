@@ -1,6 +1,7 @@
 {
   // PlanB72: website en web-app als statische bestanden op Cloudflare Workers.
-  // De kleine Worker serveert alleen de grote kaartbestanden uit R2 (met Range-aanvragen).
+  // De kleine Worker serveert de grote kaartbestanden uit R2 (met Range-aanvragen). Dezelfde code draait
+  // ook als aparte beheer-Worker (omgeving beheer, zie onderaan).
   "$schema": "node_modules/wrangler/config-schema.json",
   "name": "planb72",
   "main": "worker/index.js",
@@ -10,11 +11,32 @@
     "binding": "ASSETS",
     "not_found_handling": "404-page",
     "html_handling": "force-trailing-slash",
-    "run_worker_first": ["/data/*"]
+    "run_worker_first": ["/data/*", "/beheer", "/beheer/*"]
   },
+  // De beheeromgeving draait als aparte Worker (omgeving "beheer" hieronder) op een eigen hostnaam;
+  // de publieke site stuurt /beheer/ daarheen door. Zie docs/beheer.md.
+  "vars": { "BEHEER_URL": "https://planb72-beheer.bram-664.workers.dev" },
   "r2_buckets": [{ "binding": "PAKKETTEN", "bucket_name": "planb72-pakketten" }],
   "workers_dev": true,
-  "observability": { "enabled": false }
+  "observability": { "enabled": false },
+  "env": {
+    // Beheeromgeving voor nalezers: npx wrangler deploy --env beheer
+    // Secrets (npx wrangler secret put <NAAM> --env beheer): GITHUB_CLIENT_ID, GITHUB_CLIENT_SECRET,
+    // SESSIE_GEHEIM, ANTHROPIC_API_KEY. Lokaal: npx wrangler dev --env beheer (met .dev.vars).
+    "beheer": {
+      "name": "planb72-beheer",
+      "assets": {
+        "directory": "./dist",
+        "binding": "ASSETS",
+        "not_found_handling": "404-page",
+        "html_handling": "force-trailing-slash",
+        "run_worker_first": true
+      },
+      "vars": { "BEHEER_APART": "1", "BEHEER_REPO": "montobleu/planb72", "BEHEER_SCOPE": "public_repo" },
+      "workers_dev": true,
+      "observability": { "enabled": false }
+    }
+  }
   // Eigen domein (pas na akkoord):
   // "routes": [{ "pattern": "planb72.org", "custom_domain": true }, { "pattern": "www.planb72.org", "custom_domain": true }]
 }

@@ -1,5 +1,6 @@
 // /llms.txt volgens https://llmstxt.org: een overzicht voor taalmodellen van wat PlanB72 bevat,
 // met de voorwaarden waaronder ze de inhoud mogen gebruiken. Wordt bij elke build opnieuw gemaakt.
+// De beheeromgeving (/beheer/) is geen inhoud en staat hier bewust niet in.
 import type { APIRoute } from 'astro';
 import { getCollection } from 'astro:content';
 

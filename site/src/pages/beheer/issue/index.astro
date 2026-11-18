@@ -1,0 +1,8 @@
+---
+// Beheer: één issue behandelen (/beheer/issue/?nr=5). Zie docs/beheer.md.
+import Beheer from '../../../layouts/Beheer.astro';
+---
+<Beheer titel="Issue" script="/beheer/issue.js">
+  <p class="kruimel"><a href="/beheer/">Overzicht</a></p>
+  <div data-issue aria-busy="true"><p class="dempen">Laden…</p></div>
+</Beheer>

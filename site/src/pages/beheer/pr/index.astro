@@ -1,0 +1,8 @@
+---
+// Beheer: één pull request nakijken (/beheer/pr/?nr=12). Zie docs/beheer.md.
+import Beheer from '../../../layouts/Beheer.astro';
+---
+<Beheer titel="Pull request" script="/beheer/pr.js">
+  <p class="kruimel"><a href="/beheer/">Overzicht</a></p>
+  <div data-pr aria-busy="true"><p class="dempen">Laden…</p></div>
+</Beheer>

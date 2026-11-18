@@ -37,9 +37,9 @@ Wat er niet in zit en waarom: alles waarvoor nog toestemming nodig is (officiël
 data/        landdata (be.json, nl.json, lu.json, fr.json, de.json) en het bronnenregister
 pipeline/    Python-scripts: kaartlagen uit OpenStreetMap, schuilplekken, nucleaire zones, basiskaart, routepakketten, bronnenronde
 site/        Astro-site: website op / en de offline web-app op /app/
-  worker/    kleine Cloudflare Worker die de basiskaart uit R2 serveert (met Range-aanvragen)
+  worker/    kleine Cloudflare Worker: basiskaart uit R2 (met Range-aanvragen) en de beheeromgeving /beheer/
 launcher/    startprogramma in Go: lokale webserver voor de download en de USB-stick, ook als hotspot
-docs/        metingen en documentatie
+docs/        metingen en documentatie; nazicht van bijdragen via /beheer/: zie docs/beheer.md
 ```
 
 ## Lokaal draaien
