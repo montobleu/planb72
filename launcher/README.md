@@ -5,7 +5,8 @@ PlanB72-site serveert. Browsers mogen grote kaartbestanden (PMTiles) om
 veiligheidsredenen niet rechtstreeks van schijf lezen; via `http://127.0.0.1`
 wel, inclusief Range-aanvragen. Eén bestand per besturingssysteem, geen
 installatie, geen beheerdersrechten. Het programma luistert standaard alleen op
-het eigen toestel en schrijft niets naar schijf (geen logs, geen IP-adressen).
+het eigen toestel en schrijft niets naar schijf (geen logs, geen IP-adressen),
+behalve de pakketten die je zelf met `--pakketten` ophaalt.
 
 ## Gebruik
 
@@ -35,9 +36,39 @@ naast de `.app` gezocht.
 | `--poort <n>` | poort (standaard 7272; als die bezet is de volgende vrije) |
 | `--hotspot` | luister op alle netwerkinterfaces en toon de LAN-adressen, zodat anderen in de buurt meelezen |
 | `--geen-browser` | open de browser niet automatisch |
+| `--pakketten <manifest>` | haal eerst de pakketten uit dit manifest op naar `<site>/data/`, start daarna zoals gewoonlijk |
+| `--bron-toestaan <host>` | extra toegestane downloadbron naast `planb72.org` (spiegel of testomgeving); herhaalbaar of komma-gescheiden |
+| `--alleen-ophalen` | met `--pakketten`: alleen ophalen en stoppen, niet starten (foutcode 1 als iets mislukte) |
 | `--help` | hulp (NL/EN) |
 
 Let op: met `--hotspot` kan iedereen op hetzelfde netwerk de site lezen.
+
+## Pakketten ophalen
+
+Op de website (planb72.org/download/) kies je welke kaarten en gegevens je
+offline wilt hebben. De website maakt daarvan een manifest,
+`planb72-pakketten.json`. Geef dat aan het startprogramma:
+
+```
+planb72-start --pakketten planb72-pakketten.json
+```
+
+Het startprogramma haalt de bestanden op naar `<site>/data/` (dezelfde map die
+het anders serveert, of `--map`), toont per bestand en in totaal hoeveel MB
+binnen is, en start daarna PlanB72 zoals gewoonlijk. Met `--alleen-ophalen`
+stopt het na het ophalen. Het gebruikte manifest komt in
+`<site>/data/pakketten.json`, zodat te zien is wat er lokaal staat (de app leest
+dat nog niet; zie `docs/downloaden.md`).
+
+- Bestanden die al bestaan met de juiste grootte (en sha256) worden overgeslagen.
+- Een download gaat eerst naar `<bestand>.deel`. Na Ctrl+C, een netwerkfout of
+  een lege batterij hervat de volgende keer vanaf waar het bleef (Range-aanvraag).
+- Na afloop worden grootte en sha256 gecontroleerd; klopt iets niet, dan wordt
+  het deel weggegooid en meldt de samenvatting dat bestand als mislukt.
+- Veiligheid: alleen paden binnen `data/` (geen `..`, geen absolute paden) en
+  alleen `https://planb72.org` of een subdomein. Een spiegel of testomgeving
+  moet je zelf toestaan, bv. `--bron-toestaan planb72.bram-664.workers.dev`.
+  Doorverwijzingen naar andere hosts worden niet gevolgd.
 
 ## Bouwen
 

@@ -73,7 +73,7 @@ import App from '../../../layouts/App.astro';
             <p class="toelichting">Uit: PlanB72 vraagt nooit je positie. Aan: alleen als je op de knop tikt, één keer, zonder je te volgen.</p>
           </details>
           <p id="kaart-status" class="toelichting" hidden></p>
-          <p class="toelichting">Routes worden op dit toestel berekend uit OpenStreetMap, ook zonder internet, als het routepakket van de regio gedownload is. Controleer ter plaatse: wegen kunnen afgesloten of beschadigd zijn.</p>
+          <p class="toelichting">Routes worden op dit toestel berekend uit OpenStreetMap, ook zonder internet, als het routepakket van de regio gedownload is.</p>
           <p class="toelichting"><a href="/app/pakket/#routes-kop">Routepakketten</a> · <a href="/app/kaart/">Kaart</a></p>
         </div>
       </details>
@@ -86,7 +86,7 @@ import App from '../../../layouts/App.astro';
       <p id="afdruk-samenvatting"></p>
       <img id="afdruk-kaart" alt="" />
       <ol id="afdruk-stappen" class="aanwijzingen"></ol>
-      <p class="klein">PlanB72 · berekend zonder internet uit OpenStreetMap (© OpenStreetMap-bijdragers, ODbL). Controleer ter plaatse. Bij levensgevaar: bel 112.</p>
+      <p class="klein">PlanB72 · berekend zonder internet uit OpenStreetMap (© OpenStreetMap-bijdragers, ODbL).</p>
     </section>
   </main>
 </App>
@@ -203,6 +203,7 @@ import App from '../../../layouts/App.astro';
 <script>
   import 'maplibre-gl/dist/maplibre-gl.css';
   import * as maplibregl from 'maplibre-gl';
+  import { volgStraatniveau } from '../../../lib/straatniveau';
   import { basiskaart, herlaadBijKleurwissel, kaartfoutTekst } from '../../../lib/basiskaart';
   import { routeOverzicht, routesOpToestel, downloadRoute, type Routepakket } from '../../../lib/routepakketten';
   import { lees, bewaar, km, vraagBlijvendeOpslag, afstandKm, richting } from '../../../lib/app';
@@ -255,6 +256,8 @@ import App from '../../../layouts/App.astro';
     fadeDuration: 0,
   });
   (window as any).__kaart = kaart;
+  // Met verbinding: regio's op straatniveau (met straatnamen) laden zodra ze in beeld komen.
+  volgStraatniveau(kaart, { pakketten: basis.pakketten, aanwezig: new Set(basis.zichtbaar.map((p) => p.id)), licht: basis.licht, taal: 'nl' });
   kaart.on('error', (e) => {
     console.error('Kaartfout', e.error);
     $('#kaart-status').textContent = kaartfoutTekst(e.error, basis.lokaal);
