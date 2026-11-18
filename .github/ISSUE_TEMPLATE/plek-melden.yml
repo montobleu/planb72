@@ -1,0 +1,68 @@
+name: Plek op de kaart melden
+description: Een plek ontbreekt op de kaart, de gegevens kloppen niet, of de plek bestaat niet meer.
+title: "[BE] Kaartlaag: "
+labels: ["kaartlagen", "te beoordelen"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Dank je. De app vult dit formulier vooraf in; kijk het na voor je het indient.
+        Vermeld geen persoonsgegevens (geen namen van patiënten, geen privénummers).
+        Twee mensen kijken elke melding na voor ze op de kaart komt. Zie docs/kaartdata.md.
+  - type: input
+    id: land
+    attributes:
+      label: Land
+      description: BE, NL, LU, FR of DE.
+    validations: { required: true }
+  - type: input
+    id: laag
+    attributes:
+      label: Laag
+      description: ziekenhuizen, medisch, politie, brandweer, apotheken, aed, drinkwater, overheid of dierenarts.
+    validations: { required: true }
+  - type: input
+    id: wat
+    attributes:
+      label: Wat is er?
+      description: "ontbreekt (plek staat niet op de kaart), kloptNiet (naam, adres of punt is fout), gesloten (plek bestaat niet meer)."
+    validations: { required: true }
+  - type: input
+    id: naam
+    attributes:
+      label: Naam van de plek
+  - type: input
+    id: adres
+    attributes:
+      label: Adres
+      description: Straat, huisnummer, postcode en gemeente.
+  - type: input
+    id: punt
+    attributes:
+      label: Punt op de kaart
+      description: Breedtegraad, lengtegraad (WGS84), bv. 50.85045, 4.34878.
+  - type: input
+    id: plek
+    attributes:
+      label: Id van de plek op de kaart
+      description: Bij een bestaande plek, bv. node/123 (OpenStreetMap) of een id van een officiële bron. Vult de app zelf in.
+  - type: textarea
+    id: opmerking
+    attributes:
+      label: Wat moet er veranderen?
+  - type: input
+    id: bron
+    attributes:
+      label: Waar kan iemand dit nakijken?
+      description: Bijvoorbeeld de website van de praktijk, een gemeentelijke lijst of een officiële lijst. Zonder bron kan een nalezer de melding moeilijk bevestigen.
+  - type: input
+    id: datum
+    attributes:
+      label: Datum van de melding
+  - type: checkboxes
+    id: akkoord
+    attributes:
+      label: Hergebruik
+      options:
+        - label: Ik ga akkoord dat deze gegevens na nazicht onder de ODbL in de kaartlagen van PlanB72 komen en eventueel aan OpenStreetMap worden doorgegeven.
+          required: true

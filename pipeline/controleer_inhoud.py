@@ -8,7 +8,9 @@
 3. Controleert vertalingen (site/src/content/<map>/<taal>/*.md en site/src/i18n/land/*.json):
    getallen, telefoonnummers, frequenties en eenheden moeten gelijk zijn aan het
    Nederlandse origineel, en elke vertaling vermeldt haar nazichtstatus.
-4. Bepaalt uit de gewijzigde bestanden hoeveel goedkeuringen nodig zijn
+4. Controleert de eigen aanvullingen op de kaartlagen (data/eigen/<land>/<laag>.json, zie
+   pipeline/eigen.py): schema, een bron per item, datum en twee verschillende personen.
+5. Bepaalt uit de gewijzigde bestanden hoeveel goedkeuringen nodig zijn
    (2 voor inhoud die levens raakt, anders 1) en welke labels de PR krijgt.
 
 Gebruik:
@@ -26,6 +28,8 @@ import sys
 from urllib.parse import urlparse
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+sys.path.insert(0, os.path.join(ROOT, "pipeline"))
+import eigen  # noqa: E402
 
 # Paden die twee goedkeuringen vragen, met het label dat de PR krijgt.
 KRITIEK = [
@@ -36,6 +40,7 @@ KRITIEK = [
     (r"^site/src/pages/app/nucleair/", "inhoud: nucleair"),
     (r"^site/src/pages/app/schuilen/", "inhoud: schuilen"),
     (r"^data/landen/", "inhoud: landinfo"),
+    (r"^data/eigen/", "inhoud: kaartlagen"),
 ]
 GEWOON = [
     (r"^data/bronnen/register\.json$", "bronnenregister"),
@@ -138,6 +143,7 @@ def controleer():
             if url_sleutel(url) not in register_urls:
                 fouten.append(f"{naam}: {url} staat niet in het bronnenregister")
     fouten += controleer_vertalingen()
+    fouten += eigen.valideer()
     return fouten
 
 

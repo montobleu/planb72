@@ -35,10 +35,57 @@ const groepen = [...new Set(LAGEN.map((l) => l.groep))];
         </div>
         <div id="dichtst" class="klein" aria-live="polite"></div>
         <p class="klein" id="kaart-status"></p>
-        <p class="klein">{t.noot} <span class="label osm">OpenStreetMap</span></p>
+        <p class="klein">{t.noot}</p>
+        <p class="klein" style="margin:.3rem 0 .1rem">{t.herkomst}</p>
+        <ul class="herkomst-legende klein">
+          {(['officieel', 'nagekeken', 'osm'] as const).map((h) => (
+            <li><span class={`label ${h}`}>{h === 'osm' ? 'OpenStreetMap' : ({ officieel: { nl: 'Officieel', fr: 'Officiel', de: 'Amtlich', en: 'Official' }, nagekeken: { nl: 'Nagekeken', fr: 'Vérifié', de: 'Geprüft', en: 'Checked' } })[h][taal]}</span> {t.herkomstUitleg[h]}</li>
+          ))}
+        </ul>
+        <div class="knoppen" style="margin:.5rem 0 0">
+          <button class="knop" type="button" id="melden-open">{t.melden}</button>
+        </div>
+        <section id="wachtrij" aria-labelledby="wachtrij-kop" hidden>
+          <h2 id="wachtrij-kop" class="klein" style="margin:.6rem 0 .2rem">{t.wachtrij}</h2>
+          <ul id="wachtrij-lijst" class="wachtrij klein"></ul>
+        </section>
       </details>
     </div>
   </main>
+  <dialog id="melden" class="melden" aria-labelledby="melden-kop">
+    <form method="dialog" id="melden-form" novalidate>
+      <h2 id="melden-kop">{t.melden}</h2>
+      <p class="klein">{t.meldenUitleg}</p>
+      <fieldset>
+        <legend>{t.formulier.wat}</legend>
+        <label><input type="radio" name="wat" value="ontbreekt" required checked /> {t.formulier.ontbreekt}</label>
+        <label><input type="radio" name="wat" value="kloptNiet" /> {t.formulier.kloptNiet}</label>
+        <label><input type="radio" name="wat" value="gesloten" /> {t.formulier.gesloten}</label>
+      </fieldset>
+      <label for="meld-laag">{t.formulier.soort}</label>
+      <select id="meld-laag" name="laag" required>
+        {LAGEN.filter((l) => l.id !== 'schuilplekken').map((l) => <option value={l.id}>{l.naam[taal]}</option>)}
+      </select>
+      <label for="meld-naam">{t.formulier.naam}</label>
+      <input type="text" id="meld-naam" name="naam" maxlength="200" autocomplete="off" />
+      <label for="meld-adres">{t.formulier.adres}</label>
+      <input type="text" id="meld-adres" name="adres" maxlength="300" autocomplete="off" aria-describedby="meld-adres-hint" />
+      <p id="meld-adres-hint" class="klein hint">{t.formulier.adresHint}</p>
+      <p class="veldkop">{t.formulier.punt}</p>
+      <p class="klein"><span id="meld-punt" data-leeg={t.formulier.geenPunt}>{t.formulier.geenPunt}</span>
+        <button class="knop" type="button" id="meld-kies">{t.formulier.kiesPunt}</button></p>
+      <p id="meld-fout" class="fout klein" role="alert" hidden>{t.formulier.adresOfPunt}</p>
+      <label for="meld-opmerking">{t.formulier.opmerking}</label>
+      <textarea id="meld-opmerking" name="opmerking" maxlength="2000" rows="3"></textarea>
+      <label for="meld-bron">{t.formulier.bron}</label>
+      <input type="url" id="meld-bron" name="bron" maxlength="500" inputmode="url" autocomplete="off" aria-describedby="meld-bron-hint" />
+      <p id="meld-bron-hint" class="klein hint">{t.formulier.bronHint}</p>
+      <div class="knoppen">
+        <button class="knop hoofd" type="submit" value="bewaren">{t.formulier.bewaren}</button>
+        <button class="knop" type="submit" value="annuleren" formnovalidate>{t.formulier.annuleren}</button>
+      </div>
+    </form>
+  </dialog>
 </App>
 <script>
   import 'maplibre-gl/dist/maplibre-gl.css';
@@ -150,6 +197,21 @@ const groepen = [...new Set(LAGEN.map((l) => l.groep))];
 
   const geladen = new Map<string, FeatureCollection>();
 
+  // Metadata per land (in de kern van de app, dus ook offline): datum van de OSM-data en de officiële bronnen.
+  type Meta = { opgehaald?: string; osm_opgehaald?: string; bronnen?: Record<string, { naam: string; kort?: string; datum?: string; url?: string }> };
+  const metas = new Map<string, Meta>();
+  async function meta(c: string): Promise<Meta> {
+    if (!metas.has(c)) {
+      try {
+        const r = await fetch(`/data/${c}/meta.json`);
+        metas.set(c, r.ok ? await r.json() : {});
+      } catch {
+        metas.set(c, {});
+      }
+    }
+    return metas.get(c)!;
+  }
+
   // Eén laag voor alle gekozen landen samen. Punten bij een grens staan soms in twee landen;
   // die tellen maar één keer. Nucleaire zones blijven per land, want elk land plant zijn eigen zones.
   async function laad(id: string) {
@@ -158,7 +220,12 @@ const groepen = [...new Set(LAGEN.map((l) => l.groep))];
     const delen = await Promise.all(LANDEN.map(async (c) => {
       try {
         const r = await fetch(`/data/${c}/${id}.geojson`);
-        return r.ok ? ((await r.json()) as FeatureCollection).features : null;
+        if (!r.ok) return null;
+        await meta(c);
+        // Het land onthouden voor de herkomst in de pop-up; gesloten plekken horen niet op de kaart.
+        return ((await r.json()) as FeatureCollection).features
+          .filter((f) => !(f.properties as Record<string, any> | null)?.gesloten)
+          .map((f) => ({ ...f, properties: { ...f.properties, land: c } }));
       } catch {
         return null;
       }
@@ -235,10 +302,40 @@ const groepen = [...new Set(LAGEN.map((l) => l.groep))];
 
   const esc = (s: unknown) => String(s ?? '').replace(/[&<>"']/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' })[c]!);
 
+  const datumTekst = (d?: string) => {
+    if (!d) return '';
+    const t = new Date(`${d}T12:00:00`);
+    return isNaN(t.getTime()) ? d : t.toLocaleDateString(locale(), { day: 'numeric', month: 'short', year: 'numeric' });
+  };
+
+  // Herkomst van een punt: label, bron en datum.
+  function herkomst(p: Record<string, any>): string {
+    const m = metas.get(p.land) ?? {};
+    const soort = ['officieel', 'nagekeken'].includes(p.betrouwbaarheid) ? p.betrouwbaarheid : 'osm';
+    const label = `<span class="label ${soort}">${esc(tk.herkomst[soort])}</span>`;
+    if (soort === 'officieel') {
+      const b = m.bronnen?.[p.bron];
+      return `${label} <span class="klein">${esc(b?.kort ?? b?.naam ?? p.bron ?? '')}${b?.datum ? `, ${esc(tk.opgehaald(datumTekst(b.datum)))}` : ''}</span>`;
+    }
+    if (soort === 'nagekeken') {
+      const bewijs = p.bewijs && navigator.onLine && /^https?:\/\//.test(p.bewijs) ? ` · <a href="${esc(p.bewijs)}" rel="noopener">${esc(tk.bewijs)}</a>` : '';
+      return `${label} <span class="klein">${esc(tk.nagekeken(datumTekst(p.datum)))}${bewijs}</span>`;
+    }
+    const d = m.osm_opgehaald ?? m.opgehaald;
+    return `${label}${d ? ` <span class="klein">${esc(tk.opgehaald(datumTekst(d)))}</span>` : ''}`;
+  }
+
+  let laatstePunt: { p: Record<string, any>; laag: string; lon: number; lat: number } | null = null;
+
   function toonPopup(e: maplibregl.MapLayerMouseEvent, laagNaam: string, id: string) {
+    if (kiesModus || Date.now() - gekozenOp < 400) return;
     const f = e.features![0];
     const p = f.properties as Record<string, any>;
-    const [osmType, osmId] = String(p.id ?? '').split('/');
+    // Na samenvoegen staat de OSM-id in 'osm'; anders is de id zelf een OSM-id (node/123).
+    const osmVolledig = String(p.osm ?? (/^(node|way|relation)\//.test(String(p.id ?? '')) ? p.id : ''));
+    const [osmType, osmId] = osmVolledig.split('/');
+    const [plon, plat] = (f.geometry as Point).coordinates;
+    laatstePunt = { p, laag: id, lon: plon, lat: plat };
     const regels = [
       `<strong>${esc(p.naam || laagNaam)}</strong>`,
       p.soort && `<span class="klein">${esc(p.soort)}</span>`,
@@ -247,8 +344,10 @@ const groepen = [...new Set(LAGEN.map((l) => l.groep))];
       p.openingsuren && `${esc(tk.open)} ${esc(p.openingsuren)}`,
       p.toegang && `${esc(tk.toegang)} ${esc(p.toegang)}`,
       id === 'schuilplekken' && `<em class="klein">${esc(taal === 'nl' ? p.label || SCHUIL_LABEL.nl : SCHUIL_LABEL[taal])}</em>`,
-      `<span class="label osm">OpenStreetMap</span>`,
-      osmId && navigator.onLine && `<a class="klein" href="https://www.openstreetmap.org/${osmType}/${osmId}">${esc(tk.bekijk)}</a> · <a class="klein" href="https://www.openstreetmap.org/note/new#map=19/${e.lngLat.lat}/${e.lngLat.lng}">${esc(tk.kloptNiet)}</a>`,
+      p.telefoon && `<a href="tel:${esc(String(p.telefoon).replace(/[^+\d]/g, ''))}">${esc(p.telefoon)}</a>`,
+      `<span class="herkomst">${herkomst(p)}</span>`,
+      osmId && navigator.onLine && `<a class="klein" href="https://www.openstreetmap.org/${osmType}/${osmId}">${esc(tk.bekijk)}</a>`,
+      id !== 'schuilplekken' && `<button type="button" class="link klein" data-melden>${esc(tk.meldKnop)}</button>`,
       `<a href="/app/route/?naar=${(f.geometry as Point).coordinates[1]},${(f.geometry as Point).coordinates[0]}&naam=${encodeURIComponent(p.naam || laagNaam)}">${esc(({ nl: 'Route hierheen', fr: 'Itinéraire jusqu’ici', de: 'Route hierher', en: 'Route here' } as Record<string, string>)[taal])}</a>`,
     ].filter(Boolean);
     new maplibregl.Popup({ maxWidth: '280px' }).setLngLat((f.geometry as Point).coordinates as [number, number]).setHTML(regels.join('<br>')).addTo(kaart);
@@ -303,4 +402,146 @@ const groepen = [...new Set(LAGEN.map((l) => l.groep))];
     uit.innerHTML = blokken.join('');
     kaart.flyTo({ center: [lon, lat], zoom: Math.max(kaart.getZoom(), 13) });
   });
+
+  // ---------- Melden: plek ontbreekt of klopt niet ----------
+  // Een melding blijft op het toestel (localStorage) tot ze verstuurd is. Versturen opent een vooraf
+  // ingevuld GitHub-issue (.github/ISSUE_TEMPLATE/plek-melden.yml): geen server, geen account bij ons,
+  // geen tracking. Twee mensen kijken de melding na voor ze in data/eigen/ komt (docs/kaartdata.md).
+  type Melding = { id: string; wat: string; laag: string; land: string; naam: string; adres: string; lat?: number; lon?: number; plek?: string; opmerking: string; bron: string; datum: string };
+  const ISSUES = 'https://github.com/montobleu/planb72/issues/new';
+  const dialoog = document.getElementById('melden') as HTMLDialogElement;
+  const formulier = document.getElementById('melden-form') as HTMLFormElement;
+  const puntTekst = document.getElementById('meld-punt')!;
+  const fout = document.getElementById('meld-fout')!;
+  const adresVeld = document.getElementById('meld-adres') as HTMLInputElement;
+  let meldPunt: [number, number] | null = null;
+  let meldPlek = '';
+  let kiesModus = false;
+  let gekozenOp = 0;
+  let puntMarker: maplibregl.Marker | null = null;
+
+  const landVan = (lon: number, lat: number) =>
+    LANDEN.find((c) => { const b = kaders[c]?.bbox; return b && lon >= b[0] && lon <= b[2] && lat >= b[1] && lat <= b[3]; }) ?? LANDEN[0] ?? 'be';
+
+  function zetPunt(punt: [number, number] | null) {
+    meldPunt = punt;
+    puntTekst.textContent = punt ? `${punt[1].toFixed(5)}, ${punt[0].toFixed(5)}` : puntTekst.dataset.leeg!;
+    puntMarker?.remove();
+    puntMarker = punt ? new maplibregl.Marker({ color: '#b794f4' }).setLngLat(punt).addTo(kaart) : null;
+    if (punt) fout.hidden = true;
+  }
+
+  function openMelden(vooraf?: { wat: string; laag: string; naam?: string; adres?: string; punt?: [number, number]; plek?: string }) {
+    formulier.reset();
+    fout.hidden = true;
+    adresVeld.removeAttribute('aria-invalid');
+    meldPlek = vooraf?.plek ?? '';
+    if (vooraf) {
+      (formulier.elements.namedItem('wat') as RadioNodeList).value = vooraf.wat;
+      (formulier.elements.namedItem('laag') as HTMLSelectElement).value = vooraf.laag;
+      (formulier.elements.namedItem('naam') as HTMLInputElement).value = vooraf.naam ?? '';
+      adresVeld.value = vooraf.adres ?? '';
+    }
+    zetPunt(vooraf?.punt ?? null);
+    kaart.getCanvas().style.cursor = '';
+    dialoog.showModal();
+  }
+
+  document.getElementById('melden-open')!.addEventListener('click', () => {
+    const laag = vinkjes.find((v) => v.checked && v.dataset.laag !== 'nucleair' && v.dataset.laag !== 'schuilplekken')?.dataset.laag ?? 'ziekenhuizen';
+    openMelden({ wat: 'ontbreekt', laag });
+  });
+  // De knop in een pop-up: vooraf ingevuld met de gegevens van dat punt.
+  document.addEventListener('click', (e) => {
+    if (!(e.target as Element).closest?.('[data-melden]') || !laatstePunt) return;
+    const { p, laag, lon, lat } = laatstePunt;
+    document.querySelectorAll('.maplibregl-popup').forEach((x) => x.remove());
+    openMelden({ wat: 'kloptNiet', laag, naam: p.naam ?? '', adres: p.adres ?? '', punt: [Number(lon.toFixed(5)), Number(lat.toFixed(5))], plek: String(p.id ?? '') });
+  });
+
+  document.getElementById('meld-kies')!.addEventListener('click', () => {
+    dialoog.close();
+    kiesModus = true;
+    kaart.getCanvas().style.cursor = 'crosshair';
+    if (matchMedia('(max-width: 640px)').matches) (document.getElementById('paneel') as HTMLDetailsElement).open = false;
+    status.textContent = tk.kiesOpKaart;
+  });
+  kaart.on('click', (e) => {
+    if (!kiesModus) return;
+    kiesModus = false;
+    gekozenOp = Date.now();
+    status.textContent = '';
+    kaart.getCanvas().style.cursor = '';
+    zetPunt([Number(e.lngLat.lng.toFixed(5)), Number(e.lngLat.lat.toFixed(5))]);
+    dialoog.showModal();
+  });
+
+  formulier.addEventListener('submit', (e) => {
+    const knop = (e as SubmitEvent).submitter as HTMLButtonElement | null;
+    if (knop?.value === 'annuleren') { zetPunt(null); return; }
+    const data = new FormData(formulier);
+    const adres = String(data.get('adres') ?? '').trim();
+    if (!formulier.checkValidity() || (!adres && !meldPunt)) {
+      e.preventDefault();
+      if (!adres && !meldPunt) {
+        fout.hidden = false;
+        adresVeld.setAttribute('aria-invalid', 'true');
+        adresVeld.setAttribute('aria-describedby', 'meld-fout meld-adres-hint');
+        adresVeld.focus();
+      } else {
+        formulier.reportValidity();
+      }
+      return;
+    }
+    const m: Melding = {
+      id: `${Date.now().toString(36)}`, wat: String(data.get('wat')), laag: String(data.get('laag')),
+      land: meldPunt ? landVan(meldPunt[0], meldPunt[1]) : LANDEN[0] ?? 'be',
+      naam: String(data.get('naam') ?? '').trim(), adres, lat: meldPunt?.[1], lon: meldPunt?.[0], plek: meldPlek,
+      opmerking: String(data.get('opmerking') ?? '').trim(), bron: String(data.get('bron') ?? '').trim(),
+      datum: new Date().toISOString().slice(0, 10),
+    };
+    bewaar('meldingen', [...lees<Melding[]>('meldingen', []), m]);
+    zetPunt(null);
+    status.textContent = tk.bewaard;
+    toonWachtrij();
+  });
+  dialoog.addEventListener('close', () => { dialoog.returnValue = ''; });
+
+  function issueLink(m: Melding): string {
+    const laag = LAGEN.find((l) => l.id === m.laag);
+    const punt = m.lat !== undefined ? `${m.lat}, ${m.lon}` : '';
+    const q = new URLSearchParams({
+      template: 'plek-melden.yml',
+      title: `[${m.land.toUpperCase()}] ${laag?.naam.nl ?? m.laag}: ${m.naam || m.adres || punt} (${tk.wat[m.wat] ?? m.wat})`,
+      land: m.land.toUpperCase(), laag: m.laag, wat: m.wat, naam: m.naam, adres: m.adres, punt,
+      plek: m.plek ?? '', opmerking: m.opmerking, bron: m.bron, datum: m.datum,
+    });
+    return `${ISSUES}?${q}`;
+  }
+
+  function toonWachtrij() {
+    const lijst = lees<Melding[]>('meldingen', []);
+    const blok = document.getElementById('wachtrij')!;
+    blok.hidden = lijst.length === 0;
+    const online = navigator.onLine;
+    document.getElementById('wachtrij-lijst')!.innerHTML = lijst.map((m) => {
+      const laag = LAGEN.find((l) => l.id === m.laag);
+      const wat = `${laag ? laagNaam(laag) : m.laag}: ${m.naam || m.adres || `${m.lat}, ${m.lon}`} (${tk.wat[m.wat] ?? m.wat})`;
+      const versturen = online
+        ? `<a class="knop hoofd" href="${esc(issueLink(m))}" target="_blank" rel="noopener" data-verstuur="${esc(m.id)}">${esc(tk.versturen)}</a>`
+        : `<span>${esc(tk.wachtOpVerbinding)}</span>`;
+      return `<li>${esc(wat)}<div class="knoppen">${versturen}<button class="knop" type="button" data-wis="${esc(m.id)}">${esc(tk.verwijderen)}</button></div></li>`;
+    }).join('');
+  }
+  document.getElementById('wachtrij-lijst')!.addEventListener('click', (e) => {
+    const el = (e.target as Element).closest('[data-verstuur],[data-wis]') as HTMLElement | null;
+    if (!el) return;
+    const id = el.dataset.verstuur ?? el.dataset.wis;
+    // Na het openen van het issue is de melding uit handen gegeven: ze verdwijnt van het toestel.
+    bewaar('meldingen', lees<Melding[]>('meldingen', []).filter((m) => m.id !== id));
+    setTimeout(toonWachtrij, 0);
+  });
+  addEventListener('online', toonWachtrij);
+  addEventListener('offline', toonWachtrij);
+  toonWachtrij();
 </script>
