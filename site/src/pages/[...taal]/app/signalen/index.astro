@@ -1,6 +1,7 @@
 ---
 import App from '../../../../layouts/App.astro';
 import GidsLinks from '../../../../components/GidsLinks.astro';
+import Bronnenlijst from '../../../../components/Bronnenlijst.astro';
 import { APP } from '../../../../i18n/app';
 import { taalPaden, taalVan } from '../../../../i18n/talen';
 export const getStaticPaths = taalPaden;
@@ -52,6 +53,7 @@ const nato = ['Alfa', 'Bravo', 'Charlie', 'Delta', 'Echo', 'Foxtrot', 'Golf', 'H
   </tbody></table></div>
   <p class="klein" id="morse-data" data-morse={JSON.stringify(morse)}>{t.vrij}</p>
   <GidsLinks taal={taal} ids={['signalen-en-noodcodes', 'communicatie-en-alarmering']} />
+  <Bronnenlijst taal={taal} bronnen={['https://www.iaru-r1.org/index.php/emergency-communications/emergency-communications-frequencies']} />
 </App>
 <script>
   import { klant } from '../../../../i18n/klant';

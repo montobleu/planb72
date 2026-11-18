@@ -16,7 +16,8 @@ Geldt voor alle inhoud in `site/src/content/`. Doel: de meest volledige, betrouw
   3. Andere Europese overheden: Denk vooruit en rijksoverheid.nl, RIVM, BBK (bbk.bund.de), MCF Zweden (mcf.se), Finland (72tuntia.fi), BABS Zwitserland, NCTV.
   4. Internationaal: WHO, ECDC, IAEA, UNICEF, Sphere.
   5. Publiek domein (vrij over te nemen): Ready.gov, FEMA, CDC, NRC, US Army-handboeken.
-- Wijkt een buitenlandse bron af van de Belgische, dan geldt de Belgische en vermeld je het verschil.
+- **Gezond verstand bij algemene zaken.** Geef bij gewone praktische adviezen (hoeveel water, hoeveel dagen voorraad, wat in een noodpakket) één duidelijke waarde, geen opsomming per land of per instantie. Raden de meeste overheden 3 liter per persoon per dag aan en één land 2 liter, dan schrijf je 3 liter. Geen tabellen "wie zegt wat", geen "volgens X, volgens Y". Overleven hangt daar niet van af.
+- **Precisie waar het telt.** Bij medische en levensbelangrijke zaken (eerste hulp, reanimatie, vergiftiging, straling, chemische stoffen, evacuatiezones) volg je de officiële bron nauwkeurig. Wijkt een buitenlandse bron daar af van de Belgische, dan geldt de Belgische en vermeld je het verschil alleen als het voor de lezer uitmaakt.
 - **Nooit**: doseringen van geneesmiddelen (ook geen jodium), eigen berekeningen van stralingsdosis, telefoonnummers of adressen die je niet in de bron zag, merknamen, winkels.
 
 ## 2. Toon

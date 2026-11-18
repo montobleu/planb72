@@ -1,0 +1,58 @@
+---
+// Bronnen van een app-pagina, samen onderaan, zoals bij de gidsen (rehype-bron.mjs).
+// Geen bronlinks in de lopende tekst. Een bron die bij één land hoort, krijgt data-land,
+// zodat ze alleen zichtbaar is als dat land gekozen is.
+import type { Taal } from '../i18n/talen';
+import { register } from '../lib/register';
+
+type Bron = string | null | undefined | { url: string | null | undefined; land?: string };
+interface Props { taal: Taal; bronnen: Bron[] }
+const { taal, bronnen } = Astro.props;
+const TITEL: Record<Taal, string> = { nl: 'Bronnen', fr: 'Sources', de: 'Quellen', en: 'Sources' };
+
+const naam = (url: string) => {
+  const r = register.find((b) => b.url === url);
+  if (r) return r.naam;
+  try { return new URL(url).hostname.replace(/^www\./, ''); } catch { return url; }
+};
+
+// Per url één regel; een bron die in meerdere landen gebruikt wordt, toont bij elk van die landen.
+const perUrl = new Map<string, Set<string> | null>();
+for (const b of bronnen) {
+  const url = typeof b === 'object' && b ? b.url : b;
+  const land = typeof b === 'object' && b ? b.land : undefined;
+  if (!url || !/^https?:\/\//.test(url)) continue;
+  if (!perUrl.has(url)) perUrl.set(url, land ? new Set([land]) : null);
+  else if (land && perUrl.get(url)) perUrl.get(url)!.add(land);
+  else perUrl.set(url, null);
+}
+const lijst = [...perUrl].map(([url, landen]) => ({ url, naam: naam(url), landen: landen ? [...landen] : null }));
+---
+{lijst.length > 0 && (
+  <section class="bronvermelding" aria-labelledby="bronnen-kop">
+    <h2 id="bronnen-kop">{TITEL[taal]}</h2>
+    <ol>
+      {lijst.map((b) => (
+        <li data-landen={b.landen?.join(' ')}><a href={b.url}>{b.naam}</a></li>
+      ))}
+    </ol>
+  </section>
+)}
+<style is:global>
+  /* Bron van een land dat niet gekozen is: verbergen (zelfde regel als data-land in Landkeuze). */
+  html[data-landen] .bronvermelding li[data-landen] { display: none; }
+</style>
+<script is:inline>
+  (function () {
+    var gekozen = (document.documentElement.dataset.landen || '').split(' ');
+    function toon() {
+      gekozen = (document.documentElement.dataset.landen || '').split(' ');
+      document.querySelectorAll('.bronvermelding li[data-landen]').forEach(function (li) {
+        var zien = li.dataset.landen.split(' ').some(function (c) { return gekozen.indexOf(c) >= 0; });
+        li.style.display = zien ? 'list-item' : 'none';
+      });
+    }
+    if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', toon); else toon();
+    document.addEventListener('pb72-landen', toon);
+  })();
+</script>
