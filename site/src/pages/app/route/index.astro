@@ -6,57 +6,60 @@ import App from '../../../layouts/App.astro';
     <h1 class="sr-only">Route plannen</h1>
     <div id="kaart" role="region" aria-label="Kaart voor de route. Lang drukken of rechtsklikken kiest A of B."></div>
     <div id="vizier" class="vizier" hidden aria-hidden="true"></div>
+    <div id="kiesbalk" class="kiesbalk niet-afdrukken" hidden role="group" aria-labelledby="kiesbalk-tekst">
+      <p id="kiesbalk-tekst">Tik op de kaart, of verschuif de kaart tot het kruis op de plek staat.</p>
+      <div class="kiesbalk-knoppen">
+        <button type="button" class="knop hoofd klein-knop" id="kies-hier">Hier kiezen</button>
+        <button type="button" class="knop klein-knop" id="kies-annuleer">Annuleren</button>
+      </div>
+    </div>
     <div class="kaart-paneel route-paneel niet-afdrukken">
       <details id="paneel" open>
         <summary class="paneel-kop">Route plannen</summary>
 
-        <!-- 1. Wat er nu op de kaart staat: één toestand tegelijk. -->
-        <section id="status" class="status" data-toestand="leeg" aria-labelledby="status-titel">
-          <p id="status-titel" class="status-titel">Kies een vertrekpunt en een bestemming</p>
-          <p id="status-tekst" class="status-tekst"></p>
-          <progress id="laden" hidden aria-label="Bezig"></progress>
-          <div id="status-acties" class="status-acties"></div>
-        </section>
-
         <form id="routeform" novalidate>
+          <!-- 1. Van en naar: het gekozen punt staat in het veld zelf. -->
+          <div class="punten">
+            <div class="punten-velden">
+              {(['a', 'b'] as const).map((k) => (
+                <div class={`veld veld-${k}`}>
+                  <span class={`badge ${k}`} aria-hidden="true">{k.toUpperCase()}</span>
+                  <label class="sr-only" for={`zoek-${k}`}>{k === 'a' ? 'Vertrekpunt (A)' : 'Bestemming (B)'}</label>
+                  <search>
+                    <input id={`zoek-${k}`} type="search" autocomplete="off" spellcheck="false" enterkeyhint="search"
+                      placeholder={k === 'a' ? 'Van: plaats of straat' : 'Naar: plaats of straat'}
+                      aria-controls={`treffers-${k}`} />
+                  </search>
+                  <button type="button" class="icoonknop" data-kies={k} aria-label={k === 'a' ? 'Vertrekpunt kiezen op de kaart' : 'Bestemming kiezen op de kaart'} title="Kiezen op de kaart"><svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true" focusable="false"><path fill="currentColor" d="M12 2a7 7 0 0 0-7 7c0 5.2 7 13 7 13s7-7.8 7-13a7 7 0 0 0-7-7Zm0 9.5A2.5 2.5 0 1 1 12 6.5a2.5 2.5 0 0 1 0 5Z"/></svg></button>
+                  <ul id={`treffers-${k}`} class="treffers" hidden aria-label={k === 'a' ? 'Zoekresultaten voor het vertrekpunt' : 'Zoekresultaten voor de bestemming'}></ul>
+                </div>
+              ))}
+            </div>
+            <button type="button" class="icoonknop wisselknop" id="wissel" aria-label="Vertrekpunt en bestemming wisselen" title="Wisselen"><svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true" focusable="false"><path fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" d="M8 4v15m0 0-4-4m4 4 4-4M16 20V5m0 0-4 4m4-4 4 4"/></svg></button>
+          </div>
+          <div class="punten-extra">
+            <button type="button" class="tekstknop" id="mijn-positie" hidden>Mijn laatst bekende positie als vertrekpunt</button>
+            <button type="button" class="tekstknop" id="wis" hidden>Wissen</button>
+          </div>
+
           <!-- 2. Vervoerswijze -->
           <fieldset class="modi">
-            <legend class="blok-kop">Vervoerswijze</legend>
+            <legend class="sr-only">Vervoerswijze</legend>
             <div class="modi-knoppen">
               <label><input type="radio" name="modus" value="voet" checked />Te voet</label>
               <label><input type="radio" name="modus" value="fiets" />Fiets</label>
               <label><input type="radio" name="modus" value="auto" />Auto</label>
             </div>
           </fieldset>
-
-          <!-- 3. Vertrekpunt en bestemming -->
-          {(['a', 'b'] as const).map((k) => (
-            <section class={`punt punt-${k}`} aria-labelledby={`kop-${k}`}>
-              <div class="punt-kop">
-                <span class={`badge ${k}`} aria-hidden="true">{k.toUpperCase()}</span>
-                <h2 id={`kop-${k}`}>{k === 'a' ? 'Vertrekpunt' : 'Bestemming'}</h2>
-              </div>
-              <p class="gekozen-vak" id={`gekozen-${k}`} data-gekozen={k} data-leeg>Nog niet gekozen</p>
-              <label class="sr-only" for={`zoek-${k}`}>{k === 'a' ? 'Vertrekpunt zoeken' : 'Bestemming zoeken'}</label>
-              <search>
-                <input id={`zoek-${k}`} type="search" autocomplete="off" spellcheck="false"
-                  placeholder="Zoek plaats, straat, ziekenhuis…"
-                  aria-describedby={`gekozen-${k}`} aria-controls={`treffers-${k}`} />
-              </search>
-              <ul id={`treffers-${k}`} class="treffers" hidden aria-label={k === 'a' ? 'Zoekresultaten voor het vertrekpunt' : 'Zoekresultaten voor de bestemming'}></ul>
-              <div class="punt-acties">
-                <button type="button" class="knop klein-knop" data-kies={k}>Kies op de kaart</button>
-                <button type="button" class="knop klein-knop" data-midden={k}>Midden van de kaart</button>
-                {k === 'a' && <button type="button" class="knop klein-knop" id="mijn-positie" hidden>Mijn laatst bekende positie</button>}
-              </div>
-            </section>
-          ))}
-
-          <div class="wissel-rij">
-            <button type="button" class="tekstknop" id="wissel">A en B wisselen</button>
-            <button type="button" class="tekstknop" id="wis">Alles wissen</button>
-          </div>
         </form>
+
+        <!-- 3. Uitkomst of wat er nog nodig is: één toestand tegelijk. -->
+        <section id="status" class="status" data-toestand="leeg" aria-labelledby="status-titel" hidden>
+          <p id="status-titel" class="status-titel"></p>
+          <p id="status-tekst" class="status-tekst"></p>
+          <progress id="laden" hidden aria-label="Bezig"></progress>
+          <div id="status-acties" class="status-acties"></div>
+        </section>
 
         <!-- 4. Aanwijzingen -->
         <section id="uitkomst" class="uitkomst" hidden aria-labelledby="aanwijzingen-kop">
@@ -115,7 +118,7 @@ import App from '../../../layouts/App.astro';
   .toelichting { font-size: 0.875rem; color: var(--tekst-2); margin: 0.5rem 0; line-height: 1.45; }
 
   /* Status */
-  .status { margin-block: 14px; padding: 12px 14px; border-radius: var(--radius); background: var(--bg-2); border: 1px solid var(--rand); border-left: 4px solid var(--rand-sterk); }
+  .status { margin-block: 4px 14px; padding: 12px 14px; border-radius: var(--radius); background: var(--bg-2); border: 1px solid var(--rand); border-left: 4px solid var(--rand-sterk); }
   .status-titel { font-weight: 700; font-size: 1.05rem; margin: 0; color: var(--tekst); }
   .status-tekst { margin: 6px 0 0; color: var(--tekst); line-height: 1.45; }
   .status-tekst:empty { display: none; }
@@ -135,19 +138,38 @@ import App from '../../../layouts/App.astro';
   .modi-knoppen label:has(input:checked) { background: var(--merk); color: var(--merk-tekst); }
   .modi-knoppen label:has(input:focus-visible) { outline: 3px solid var(--merk); outline-offset: -5px; box-shadow: inset 0 0 0 4px var(--bg); }
 
-  /* Vertrekpunt en bestemming */
-  .punt { border: 1px solid var(--rand); border-left: 4px solid var(--rand-a); border-radius: var(--radius); padding: 10px 12px; margin: 0 0 10px; background: var(--bg); }
-  .punt-b { border-left-color: var(--rand-b); }
-  .punt-kop { display: flex; align-items: center; gap: 10px; }
-  .badge { flex: none; width: 26px; height: 26px; border-radius: 50%; display: inline-grid; place-items: center; font-weight: 700; font-size: 0.9rem; color: #fff; background: var(--kleur-a); }
+  /* Van en naar: twee velden met A en B, kaartknop per veld, wisselknop ernaast. */
+  .punten { display: grid; grid-template-columns: 1fr auto; gap: 8px; align-items: center; margin-top: 14px; }
+  .punten-velden { display: grid; gap: 8px; position: relative; }
+  /* Stippellijn tussen A en B, zoals de route zelf. */
+  .punten-velden::before { content: ""; position: absolute; left: 12px; top: 30px; bottom: 30px; border-left: 2px dotted var(--tekst-2); }
+  .veld { position: relative; display: grid; grid-template-columns: 26px 1fr 44px; gap: 8px; align-items: center; }
+  .veld search { min-width: 0; }
+  /* Resultaten als uitklaplijst over de rest, zodat veld B en de wisselknop niet verspringen. */
+  .veld .treffers { position: absolute; top: calc(100% + 4px); left: 34px; right: 0; z-index: 3; margin: 0; box-shadow: 0 6px 18px rgb(0 0 0 / 0.25); }
+  .badge { position: relative; flex: none; width: 26px; height: 26px; border-radius: 50%; display: inline-grid; place-items: center; font-weight: 700; font-size: 0.9rem; color: #fff; background: var(--kleur-a); }
   .badge.b { background: var(--kleur-b); }
-  .gekozen-vak { margin: 8px 0; font-weight: 600; color: var(--tekst); line-height: 1.35; }
-  .gekozen-vak[data-leeg] { font-weight: 400; color: var(--tekst-2); }
-  .route-paneel input[type="search"] { min-height: 44px; padding: 8px 12px; }
-  .punt-acties { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 8px; }
+  .route-paneel input[type="search"] { min-height: 44px; padding: 8px 10px; font-weight: 600; }
+  .route-paneel input[type="search"]::placeholder { font-weight: 400; }
+  .icoonknop { width: 44px; height: 44px; display: grid; place-items: center; padding: 0; border: 1px solid var(--rand-sterk); border-radius: var(--radius); background: var(--bg); color: var(--tekst); cursor: pointer; }
+  .icoonknop:hover { background: var(--bg-2); }
+  .icoonknop[aria-pressed="true"] { background: var(--merk); color: var(--merk-tekst); border-color: var(--merk); }
+  .punten-extra { display: flex; justify-content: space-between; gap: 8px; margin: 2px 0 6px; min-height: 8px; }
+  .punten-extra #wis { margin-left: auto; }
+  .route-paneel fieldset.modi { margin-top: 6px; }
+
+  /* Kiezen op de kaart: kruis in het midden en een balk met Hier kiezen / Annuleren. */
+  .kiesbalk {
+    position: absolute; z-index: 6; left: 50%; bottom: 16px; transform: translateX(-50%); width: min(26rem, calc(100% - 20px));
+    background: var(--bg); border: 1px solid var(--rand-sterk); border-radius: var(--radius); box-shadow: 0 4px 18px rgb(0 0 0 / 0.25);
+    padding: 12px 14px;
+  }
+  .kiesbalk p { margin: 0 0 10px; font-weight: 600; }
+  .kiesbalk-knoppen { display: flex; gap: 8px; }
+  .kiesbalk[hidden] { display: none; }
+  @media (max-width: 640px) { .route-pagina.kiezen .route-paneel { display: none; } }
   .knop.klein-knop { min-height: 38px; padding: 0 12px; font-size: 0.875rem; }
   .knop.klein-knop[aria-pressed="true"] { background: var(--merk); color: var(--merk-tekst); border-color: var(--merk); }
-  .wissel-rij { display: flex; justify-content: space-between; gap: 8px; margin: 2px 0 6px; }
   /* Aanraakscherm: doelen van minstens 44 px (WCAG 2.5.5). */
   @media (pointer: coarse) { .knop.klein-knop, .tekstknop { min-height: 44px; } }
   .tekstknop { background: none; border: 0; padding: 8px 2px; min-height: 40px; font: inherit; font-size: 0.9rem; color: var(--link); text-decoration: underline; text-underline-offset: 0.18em; cursor: pointer; }
@@ -175,7 +197,7 @@ import App from '../../../layouts/App.astro';
   .route-paneel [hidden] { display: none !important; }
   #kaart:has(canvas:focus-visible) { outline: 3px solid var(--merk); outline-offset: -3px; }
   .vizier { position: absolute; left: 50%; top: 50%; width: 28px; height: 28px; margin: -14px 0 0 -14px; pointer-events: none; z-index: 4; }
-  .vizier::before, .vizier::after { content: ""; position: absolute; background: var(--tekst); }
+  .vizier::before, .vizier::after { content: ""; position: absolute; background: var(--tekst); box-shadow: 0 0 0 1px var(--bg); }
   .vizier::before { left: 13px; top: 0; width: 2px; height: 28px; }
   .vizier::after { top: 13px; left: 0; height: 2px; width: 28px; }
   .markering { width: 30px; height: 30px; border-radius: 50%; display: grid; place-items: center; font-weight: 700; font-family: var(--font); color: #fff; border: 2px solid #fff; box-shadow: 0 1px 4px #0008; cursor: grab; }
@@ -188,7 +210,8 @@ import App from '../../../layouts/App.astro';
   }
   @media (forced-colors: active) {
     .modi-knoppen label:has(input:checked) { forced-color-adjust: none; background: Highlight; color: HighlightText; }
-    .status, .punt { border: 1px solid CanvasText; border-left-width: 4px; }
+    .status { border: 1px solid CanvasText; border-left-width: 4px; }
+    .icoonknop, .kiesbalk { border: 1px solid ButtonText; }
   }
   @media print {
     .route-pagina { position: static; }
@@ -218,8 +241,9 @@ import App from '../../../layouts/App.astro';
   const statusDoos = $('#status');
 
   /** Eén duidelijke toestand bovenaan het paneel; de schermlezer hoort dezelfde tekst. */
-  type Toestand = 'leeg' | 'half' | 'kiezen' | 'rekenen' | 'route' | 'vogelvlucht' | 'fout';
+  type Toestand = 'leeg' | 'rekenen' | 'route' | 'vogelvlucht' | 'fout';
   function toonStatus(toestand: Toestand, titel: string, tekst = '', acties: HTMLElement[] = []) {
+    statusDoos.hidden = false;
     statusDoos.dataset.toestand = toestand;
     $('#status-titel').textContent = titel;
     $('#status-tekst').textContent = tekst;
@@ -325,8 +349,7 @@ import App from '../../../layouts/App.astro';
     punten[k] = p;
     markers[k]?.remove();
     markers[k] = null;
-    const uitleg = $(`[data-gekozen="${k}"]`);
-    uitleg.toggleAttribute('data-leeg', !p);
+    const veld = $<HTMLInputElement>(`#zoek-${k}`);
     if (p) {
       const el = document.createElement('div');
       el.className = `markering ${k}`;
@@ -335,35 +358,59 @@ import App from '../../../layouts/App.astro';
       const m = new maplibregl.Marker({ element: el, draggable: true }).setLngLat([p.lon, p.lat]).addTo(kaart);
       m.on('dragend', () => {
         const ll = m.getLngLat();
-        zetPunt(k, { lon: ll.lng, lat: ll.lat, naam: `Punt op de kaart (${graden({ lon: ll.lng, lat: ll.lat })})` });
+        zetPunt(k, { lon: ll.lng, lat: ll.lat, naam: 'Punt op de kaart' });
       });
       markers[k] = m;
-      uitleg.textContent = p.naam;
+      // Het gekozen punt staat in het zoekveld zelf; typen of × wist het.
+      veld.value = p.naam;
       if (vlieg) kaart.flyTo({ center: [p.lon, p.lat], zoom: Math.max(kaart.getZoom(), 14) });
-    } else uitleg.textContent = 'Nog niet gekozen.';
+    } else veld.value = '';
+    $('#wis').hidden = !punten.a && !punten.b;
     bewaar('route-punten', punten);
     if (rekenen) rekenUit();
   }
 
-  // Kiezen op de kaart: één tik na "Kies op de kaart", of lang drukken / rechtsklikken.
+  // Kiezen op de kaart: na de kaartknop één tik op de kaart, of de kaart verschuiven tot het
+  // kruis op de plek staat en "Hier kiezen". Lang drukken of rechtsklikken kan altijd.
   let kiesModus: 'a' | 'b' | null = null;
+  const kiesbalk = $('#kiesbalk');
+  const vizier = $('#vizier');
+  const kaartEl = $('#kaart');
   const kiesKnoppen = [...document.querySelectorAll<HTMLButtonElement>('[data-kies]')];
   kiesKnoppen.forEach((b) => b.setAttribute('aria-pressed', 'false'));
   function zetKiesModus(k: 'a' | 'b' | null) {
+    const was = kiesModus;
     kiesModus = k;
     kiesKnoppen.forEach((b) => b.setAttribute('aria-pressed', String(b.dataset.kies === k)));
     kaart.getCanvas().style.cursor = k ? 'crosshair' : '';
-    if (k) toonStatus('kiezen', `Tik op de kaart om ${k === 'a' ? 'het vertrekpunt (A)' : 'de bestemming (B)'} te kiezen`,
-      'Of druk lang op de kaart. Tik nog eens op de knop om te annuleren.');
-    else if (statusDoos.dataset.toestand === 'kiezen') toonBasisStatus();
+    kiesbalk.hidden = !k;
+    document.querySelector('.route-pagina')!.classList.toggle('kiezen', !!k);
+    vizier.hidden = !k && !kaartEl.matches(':focus-within');
+    if (k) {
+      $('#kiesbalk-tekst').textContent = `${k === 'a' ? 'Vertrekpunt' : 'Bestemming'}: tik op de kaart, of verschuif de kaart tot het kruis op de plek staat.`;
+      // Op een smal scherm verbergt de CSS het paneel (.kiezen), zodat de kaart vrij is.
+      $('#kies-hier').focus();
+      melding.textContent = $('#kiesbalk-tekst').textContent!;
+    } else if (was) {
+      kiesKnoppen.find((b) => b.dataset.kies === was)?.focus({ preventScroll: true });
+    }
   }
   kiesKnoppen.forEach((b) => b.addEventListener('click', () => zetKiesModus(kiesModus === b.dataset.kies ? null : (b.dataset.kies as 'a' | 'b'))));
   kaart.on('click', (e) => {
     if (!kiesModus) return;
     const k = kiesModus;
     zetKiesModus(null);
-    zetPunt(k, { lon: e.lngLat.lng, lat: e.lngLat.lat, naam: `Punt op de kaart (${graden({ lon: e.lngLat.lng, lat: e.lngLat.lat })})` });
+    zetPunt(k, { lon: e.lngLat.lng, lat: e.lngLat.lat, naam: 'Punt op de kaart' });
   });
+  $('#kies-hier').addEventListener('click', () => {
+    if (!kiesModus) return;
+    const k = kiesModus;
+    const c = kaart.getCenter();
+    zetKiesModus(null);
+    zetPunt(k, { lon: c.lng, lat: c.lat, naam: 'Punt op de kaart' });
+  });
+  $('#kies-annuleer').addEventListener('click', () => zetKiesModus(null));
+  addEventListener('keydown', (e) => { if (e.key === 'Escape' && kiesModus) zetKiesModus(null); });
 
   let keuzePopup: maplibregl.Popup | null = null;
   function toonKeuze(ll: maplibregl.LngLat) {
@@ -377,7 +424,7 @@ import App from '../../../layouts/App.astro';
       b.textContent = k === 'a' ? 'Vertrek hier (A)' : 'Bestemming hier (B)';
       b.addEventListener('click', () => {
         keuzePopup?.remove();
-        zetPunt(k, { lon: ll.lng, lat: ll.lat, naam: `Punt op de kaart (${graden({ lon: ll.lng, lat: ll.lat })})` });
+        zetPunt(k, { lon: ll.lng, lat: ll.lat, naam: 'Punt op de kaart' });
       });
       doos.append(b);
     }
@@ -393,17 +440,9 @@ import App from '../../../layouts/App.astro';
   });
   for (const ev of ['touchend', 'touchmove', 'touchcancel', 'movestart'] as const) kaart.on(ev, () => clearTimeout(drukTimer));
 
-  // Met het toetsenbord: kaart verschuiven met de pijltjes, dan "Midden van de kaart".
-  const vizier = $('#vizier');
-  const kaartEl = $('#kaart');
+  // Met het toetsenbord: de kaart verschuiven met de pijltjes toont het kruis in het midden.
   kaartEl.addEventListener('focusin', () => (vizier.hidden = false));
-  kaartEl.addEventListener('focusout', () => (vizier.hidden = true));
-  document.querySelectorAll<HTMLButtonElement>('[data-midden]').forEach((b) =>
-    b.addEventListener('click', () => {
-      const c = kaart.getCenter();
-      zetPunt(b.dataset.midden as 'a' | 'b', { lon: c.lng, lat: c.lat, naam: `Midden van de kaart (${graden({ lon: c.lng, lat: c.lat })})` });
-    })
-  );
+  kaartEl.addEventListener('focusout', () => (vizier.hidden = !kiesModus));
 
   // Optioneel: laatst bekende positie, één keer opgevraagd, standaard uit.
   const positieVink = $<HTMLInputElement>('#positieknop');
@@ -430,13 +469,14 @@ import App from '../../../layouts/App.astro';
     let treffers: Treffer[] = [];
     const kies = (t: Treffer) => {
       lijst.hidden = true;
-      veld.value = '';
       zetPunt(k, { lon: t.lon, lat: t.lat, naam: t.context ? `${t.naam}, ${t.context}` : t.naam }, { vlieg: true });
       veld.focus();
     };
     veld.addEventListener('input', () => {
       clearTimeout(zoekTimer);
       const tekst = veld.value.trim();
+      // Veld leeggemaakt (typen of ×): het punt vervalt.
+      if (!tekst && punten[k]) { lijst.hidden = true; zetPunt(k, null); return; }
       if (tekst.length < 2) { lijst.hidden = true; lijst.replaceChildren(); return; }
       zoekTimer = window.setTimeout(async () => {
         const c = kaart.getCenter();
@@ -476,8 +516,17 @@ import App from '../../../layouts/App.astro';
     veld.addEventListener('keydown', (e) => {
       if (e.key === 'ArrowDown' && !lijst.hidden) { e.preventDefault(); lijst.querySelector('button')?.focus(); }
       if (e.key === 'Enter') { e.preventDefault(); if (treffers[0] && !lijst.hidden) kies(treffers[0]); }
-      if (e.key === 'Escape') lijst.hidden = true;
+      // Escape sluit de lijst en zet het gekozen punt terug; zonder preventDefault maakt de browser het zoekveld leeg.
+      if (e.key === 'Escape' && (punten[k] || !lijst.hidden)) { e.preventDefault(); lijst.hidden = true; herstel(); }
     });
+    // Bij focus alles selecteren, zodat typen het gekozen punt meteen vervangt.
+    // Na de focus, anders zet de browser de cursor er meteen weer achter.
+    veld.addEventListener('focus', () => setTimeout(() => { if (document.activeElement === veld && punten[k]) veld.select(); }, 0));
+    // Weggaan zonder iets nieuws te kiezen: het gekozen punt terug in het veld zetten.
+    const herstel = () => { if (punten[k] && veld.value !== punten[k]!.naam) veld.value = punten[k]!.naam; };
+    veld.closest('.veld')!.addEventListener('focusout', () => setTimeout(() => {
+      if (!veld.closest('.veld')!.contains(document.activeElement)) { lijst.hidden = true; herstel(); }
+    }, 150));
   }
   $('#routeform').addEventListener('submit', (e) => e.preventDefault());
 
@@ -499,6 +548,7 @@ import App from '../../../layouts/App.astro';
     wisRoute();
     toonBasisStatus();
     melding.textContent = 'Vertrekpunt en bestemming gewist.';
+    $<HTMLInputElement>('#zoek-a').focus();
   });
 
   // ---------- Route ----------
@@ -556,17 +606,15 @@ import App from '../../../layouts/App.astro';
   /** De toestand zonder (volledige) route: wat moet de gebruiker nog doen? */
   function toonBasisStatus() {
     const { a, b } = punten;
-    const geenPakket = !opToestel.size
-      ? 'Er staat nog geen routepakket op dit toestel. Zonder pakket toont de kaart alleen A, B en de afstand in vogelvlucht.'
-      : '';
-    if (!a && !b) {
-      toonStatus('leeg', 'Kies een vertrekpunt en een bestemming',
-        `Zoek een plaats of straat, tik op "Kies op de kaart" of druk lang op de kaart. ${geenPakket}`.trim());
-    } else if (!b) {
-      toonStatus('half', 'Kies nog een bestemming (B)', geenPakket);
-    } else if (!a) {
-      toonStatus('half', 'Kies nog een vertrekpunt (A)', geenPakket);
+    if (a && b) return;
+    // Zonder routepakket uitleggen wat de kaart dan wel toont; anders spreken de velden voor zich.
+    if (!opToestel.size) {
+      toonStatus('leeg', 'Nog geen routepakket op dit toestel',
+        'Zonder routepakket toont de kaart A, B en de afstand in vogelvlucht. Download de regio in Instellingen voor routes langs de wegen, ook zonder internet.',
+        [Object.assign(document.createElement('a'), { href: '/app/pakket/#routes-kop', className: 'knop klein-knop', textContent: 'Routepakketten' })]);
+      return;
     }
+    statusDoos.hidden = true;
   }
 
   let rekenNr = 0;
@@ -664,7 +712,8 @@ import App from '../../../layouts/App.astro';
     $('#uitkomst').hidden = false;
 
     // Afdrukversie.
-    $('#afdruk-punten').textContent = `Van ${punten.a?.naam ?? 'A'} naar ${punten.b?.naam ?? 'B'}`;
+    const beschrijf = (p: Gekozen | null, standaard: string) => (p ? `${p.naam} (${graden(p)})` : standaard);
+    $('#afdruk-punten').textContent = `Van ${beschrijf(punten.a, 'A')} naar ${beschrijf(punten.b, 'B')}`;
     $('#afdruk-samenvatting').textContent = `${samenvatting} ${MODUS_NAAM[r.modus]}`;
     $('#afdruk-stappen').replaceChildren(...r.stappen.map((s) => {
       const li = document.createElement('li');
@@ -701,7 +750,7 @@ import App from '../../../layouts/App.astro';
     else if (startB && !bewaardBeeld) kaart.jumpTo({ center: [startB.lon, startB.lat], zoom: 14 });
     else if (startB) kaart.flyTo({ center: [startB.lon, startB.lat], zoom: Math.max(kaart.getZoom(), 13) });
     if (!(startA && startB)) toonBasisStatus();
-    if (startB && !startA) toonStatus('half', 'Bestemming gekozen. Kies nu een vertrekpunt (A)', 'Zoek een plaats, tik op "Kies op de kaart" of druk lang op de kaart.');
+    if (startB && !startA) melding.textContent = 'Bestemming gekozen. Kies nu een vertrekpunt.';
   }
   kaart.on('moveend', () => bewaar('kaartbeeld', { c: kaart.getCenter().toArray(), z: kaart.getZoom() }));
 </script>
