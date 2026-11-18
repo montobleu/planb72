@@ -12,7 +12,7 @@ const landen = landenVoor(taal);
 const tl = APP[taal].landen;
 const netwerk = (x: boolean | null) => (x ? tl.netwerk.ja : x === false ? tl.netwerk.nee : tl.netwerk.onbekend);
 ---
-<App taal={taal} titel={t.titel} tab="meer" vertaalmelding>
+<App taal={taal} titel={t.titel} tab="meer">
   <h1>{t.titel}</h1>
   {landen.map((land) => (
     <div class="melding waarschuwing" data-land={land.code}>

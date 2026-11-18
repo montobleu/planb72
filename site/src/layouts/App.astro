@@ -12,12 +12,10 @@ interface Props {
   tab?: 'start' | 'watnu' | 'kaart' | 'nummers' | 'meer';
   volledig?: boolean;
   zoekbaar?: boolean;
-  /** Toon in fr, de en en een melding dat de teksten van deze pagina automatisch vertaald zijn. */
-  vertaalmelding?: boolean;
   /** De offline-pagina wordt voor elke ontbrekende pagina getoond en mag dus niet doorverwijzen. */
   doorverwijzen?: boolean;
 }
-const { taal, titel, tab, volledig = false, zoekbaar = true, vertaalmelding = false, doorverwijzen = true } = Astro.props;
+const { taal, titel, tab, volledig = false, zoekbaar = true, doorverwijzen = true } = Astro.props;
 const t = APP[taal].algemeen;
 const basis = Astro.site ?? new URL('https://planb72.org');
 // Het pad zonder taal, bv. '/app/kaart/', voor de taalversies van deze pagina.
@@ -77,7 +75,6 @@ const tabs = [
   </header>
   {volledig ? <slot /> : (
     <main id="inhoud" class="wrap" data-pagefind-body={zoekbaar ? '' : undefined}>
-      {vertaalmelding && taal !== 'nl' && <p class="vertaalmelding klein" role="note" data-pagefind-ignore>{t.interfaceVertaald}</p>}
       <slot />
     </main>
   )}

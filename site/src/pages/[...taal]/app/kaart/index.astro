@@ -212,25 +212,60 @@ const groepen = [...new Set(LAGEN.map((l) => l.groep))];
     return metas.get(c)!;
   }
 
-  // Eén laag voor alle gekozen landen samen. Punten bij een grens staan soms in twee landen;
-  // die tellen maar één keer. Nucleaire zones blijven per land, want elk land plant zijn eigen zones.
-  async function laad(id: string) {
-    if (geladen.has(id)) return geladen.get(id)!;
-    // Een land waarvan de laag niet op het toestel staat (en geen verbinding) slaan we over.
-    const delen = await Promise.all(LANDEN.map(async (c) => {
-      try {
-        const r = await fetch(`/data/${c}/${id}.geojson`);
-        if (!r.ok) return null;
-        await meta(c);
-        // Het land onthouden voor de herkomst in de pop-up; gesloten plekken horen niet op de kaart.
-        return ((await r.json()) as FeatureCollection).features
-          .filter((f) => !(f.properties as Record<string, any> | null)?.gesloten)
-          .map((f) => ({ ...f, properties: { ...f.properties, land: c } }));
-      } catch {
-        return null;
-      }
-    }));
-    if (delen.every((d) => d === null)) throw new Error(`${id}: niet beschikbaar`);
+  // Welke landen in beeld zijn. Ver uitgezoomd (heel Europa) blijven we bij de gekozen landen,
+  // anders zouden we de lagen van alle landen tegelijk ophalen.
+  type Kader = [number, number, number, number];
+  const landenOp = (b: Kader) => Object.keys(kaders).filter((c) => {
+    const k = kaders[c].bbox;
+    return k[0] <= b[2] && k[2] >= b[0] && k[1] <= b[3] && k[3] >= b[1];
+  });
+  function landenInBeeld(): string[] {
+    if (kaart.getZoom() < 5) return [];
+    const b = kaart.getBounds();
+    return landenOp([b.getWest(), b.getSouth(), b.getEast(), b.getNorth()]);
+  }
+
+  // Eén laag voor alle landen samen: de gekozen landen en de landen die in beeld komen.
+  // Punten bij een grens staan soms in twee landen; die tellen maar één keer.
+  // Nucleaire zones blijven per land, want elk land plant zijn eigen zones.
+  const perLand = new Map<string, Promise<FeatureCollection['features'] | null>>();
+  function haalLand(id: string, c: string) {
+    const sleutel = `${id}/${c}`;
+    if (!perLand.has(sleutel)) {
+      perLand.set(sleutel, (async () => {
+        try {
+          const r = await fetch(`/data/${c}/${id}.geojson`);
+          if (!r.ok) return null;
+          await meta(c);
+          // Het land onthouden voor de herkomst in de pop-up; gesloten plekken horen niet op de kaart.
+          return ((await r.json()) as FeatureCollection).features
+            .filter((f) => !(f.properties as Record<string, any> | null)?.gesloten)
+            .map((f) => ({ ...f, properties: { ...f.properties, land: c } }));
+        } catch {
+          return null;
+        }
+      })().then((uit) => {
+        // Niet op het toestel en geen verbinding: later opnieuw proberen.
+        if (uit === null) perLand.delete(sleutel);
+        return uit;
+      }));
+    }
+    return perLand.get(sleutel)!;
+  }
+
+  const landenPerLaag = new Map<string, string[]>();
+  async function laad(id: string, extra: string[] = []) {
+    const landen = [...new Set([...LANDEN, ...extra])];
+    const vorige = landenPerLaag.get(id);
+    if (geladen.has(id) && vorige && landen.every((c) => vorige.includes(c))) return geladen.get(id)!;
+    const opgehaald = await Promise.all(landen.map((c) => haalLand(id, c)));
+    // Een andere aanvraag kan intussen andere landen geladen hebben: die blijven erbij.
+    const nu = landenPerLaag.get(id) ?? [];
+    const alle = [...new Set([...landen.filter((_, i) => opgehaald[i] !== null), ...nu])];
+    if (!alle.length) throw new Error(`${id}: niet beschikbaar`);
+    if (geladen.has(id) && alle.every((c) => nu.includes(c))) return geladen.get(id)!;
+    const delen = await Promise.all(alle.map((c) => haalLand(id, c)));
+    const wel = alle.filter((_, i) => delen[i] !== null);
     const gezien = new Set<string>();
     const features = delen.flatMap((d) => d ?? []).filter((f) => {
       const p = f.properties as Record<string, any> | null;
@@ -244,10 +279,21 @@ const groepen = [...new Set(LAGEN.map((l) => l.groep))];
     });
     const fc: FeatureCollection = { type: 'FeatureCollection', features };
     geladen.set(id, fc);
+    landenPerLaag.set(id, wel);
+    (kaart.getSource(id) as maplibregl.GeoJSONSource | undefined)?.setData(fc);
     const teller = document.querySelector(`[data-aantal="${id}"]`);
     if (teller) teller.textContent = `(${fc.features.length.toLocaleString(locale())})`;
     return fc;
   }
+
+  // Komt een ander land in beeld, dan vullen we de lagen die aanstaan aan met de punten van dat land.
+  kaart.on('moveend', () => {
+    const extra = landenInBeeld();
+    for (const v of vinkjes) {
+      const id = v.dataset.laag!;
+      if (v.checked && kaart.getSource(id)) laad(id, extra).catch(() => {});
+    }
+  });
 
   async function zetLaag(id: string, zichtbaar: boolean) {
     if (id === 'nucleair') return zetNucleair(zichtbaar);
@@ -255,7 +301,7 @@ const groepen = [...new Set(LAGEN.map((l) => l.groep))];
     if (!kaart.getSource(id)) {
       if (!zichtbaar) return;
       try {
-        const fc = await laad(id);
+        const fc = await laad(id, landenInBeeld());
         kaart.addSource(id, { type: 'geojson', data: fc });
         kaart.addLayer({
           id, type: 'circle', source: id,
@@ -281,7 +327,7 @@ const groepen = [...new Set(LAGEN.map((l) => l.groep))];
     if (!kaart.getSource('nucleair')) {
       if (!zichtbaar) return;
       try {
-        const fc = await laad('nucleair');
+        const fc = await laad('nucleair', landenInBeeld());
         kaart.addSource('nucleair', { type: 'geojson', data: fc });
         const zone = (z: string) => ['all', ['==', ['geometry-type'], 'Polygon'], ['==', ['get', 'zone'], z]] as any;
         kaart.addLayer({ id: 'nucleair-uitbreiding', type: 'line', source: 'nucleair', filter: zone('uitbreiding'), paint: { 'line-color': '#ffb020', 'line-width': 1, 'line-dasharray': [2, 3], 'line-opacity': 0.6 } });
@@ -386,7 +432,7 @@ const groepen = [...new Set(LAGEN.map((l) => l.groep))];
     for (const v of vinkjes.filter((x) => x.checked && x.dataset.laag !== 'nucleair')) {
       const id = v.dataset.laag!;
       const def = LAGEN.find((l) => l.id === id)!;
-      const fc = await laad(id).catch(() => null);
+      const fc = await laad(id, [...landenInBeeld(), ...landenOp([lon, lat, lon, lat])]).catch(() => null);
       if (!fc) continue;
       const top = fc.features
         .map((f) => {

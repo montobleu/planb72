@@ -1,12 +1,8 @@
 ---
 // Eén pagina uit de inhoud (scenario, gids, eerste hulp) in de taal van de app.
-// Nederlands: de tekst zelf. Andere talen:
-// - vertaald: de vertaling, met de nazichtstatus erboven;
-// - gevoelig (medisch, nucleair, chemisch): eerst de Nederlandse tekst en de officiële bron,
-//   de vertaling pas na een extra waarschuwing;
-// - niet vertaald: de Nederlandse tekst met een melding.
+// Nederlands: de tekst zelf. Andere talen: de vertaling, of de Nederlandse tekst met een
+// melding als er (nog) geen vertaling is.
 import { render } from 'astro:content';
-import Concept from './Concept.astro';
 import Inhoudstafel from './Inhoudstafel.astro';
 import Brondoos from './Brondoos.astro';
 import { APP } from '../i18n/app';
@@ -27,44 +23,22 @@ type Data = { titel: string; kort: string; stappen?: string[]; niet?: string[]; 
 const dO = o.data as Data;
 const dV = v?.data as (Data & { vertaling: string; vertaling_nagekeken_door?: string; origineel_datum: string }) | undefined;
 
-// Wat staat er eerst: de vertaling, of de Nederlandse tekst (gevoelig of niet vertaald).
-// Een gevoelige vertaling die nagekeken is (door een deskundige, zie docs/vertalen.md) staat gewoon vooraan.
-const nagekeken = dV?.vertaling === 'nagekeken' && !!dV.vertaling_nagekeken_door;
-const vorm: 'nl' | 'vertaald' | 'gevoelig' | 'ontbreekt' = taal === 'nl' ? 'nl' : !v ? 'ontbreekt' : item.gevoelig && !nagekeken ? 'gevoelig' : 'vertaald';
+const vorm: 'nl' | 'vertaald' | 'ontbreekt' = taal === 'nl' ? 'nl' : !v ? 'ontbreekt' : 'vertaald';
 const eerst = vorm === 'vertaald' ? { d: dV!, R: RV!, lang: taal } : { d: dO, R, lang: 'nl' as Taal };
-// Bij 'gevoelig' en 'ontbreekt' wordt de Nederlandse tekst in de browser opgehaald (zie het script onderaan).
+// Bij 'ontbreekt' wordt de Nederlandse tekst in de browser opgehaald (zie het script onderaan).
 const langAttr = (l: Taal) => (l !== taal ? l : undefined);
-// Officiële bronnen in de taal van de pagina: de bronnen van de vertaling die niet ook in het Nederlandse origineel staan.
-const officieel = [
-  ...(dV ? dV.bronnen.filter((b) => !dO.bronnen.some((x) => x.url === b.url)) : []),
-  // Eerste hulp: altijd ook de erkende hulporganisatie in de taal van de gebruiker.
-  ...(item.soort === 'eerstehulp' ? A.eerstehulp.officieel : []),
-].filter((b, i, l) => l.findIndex((x) => x.url === b.url) === i);
-const nagekekenVertaling = nagekeken;
+const nagekeken = dV?.vertaling === 'nagekeken' && dV.vertaling_nagekeken_door;
+// Eerste hulp: ook de erkende hulporganisatie in de taal van de gebruiker, als die nog niet bij de bronnen staat.
+const officieel = vorm === 'vertaald' && item.soort === 'eerstehulp'
+  ? A.eerstehulp.officieel.filter((b) => !dV!.bronnen.some((x) => x.url === b.url))
+  : [];
 ---
 <p class="klein niet-afdrukken"><a href={pad(taal, terug)}>{terugTekst}</a></p>
 <h1 lang={langAttr(dV ? taal : 'nl')}>{dV?.titel ?? dO.titel}</h1>
 
-{vorm === 'vertaald' && (
-  <div class="vertaalstatus" role="note">
-    {nagekekenVertaling ? <span>{t.nagekekenVertaling(dV!.vertaling_nagekeken_door!)}</span> : <><strong>{t.machine}</strong> {t.machineTekst}</>}
-    {' '}<a href={origineelUrl} hreflang="nl" lang="nl">{t.origineel}</a>
-  </div>
-)}
 {vorm === 'ontbreekt' && <div class="vertaalstatus" role="note">{t.ontbreekt}</div>}
-{vorm === 'gevoelig' && (
-  <div class="melding waarschuwing vertaalstatus" role="note">
-    <strong>{t.gevoeligTitel}</strong> {t.gevoeligTekst}
-    {officieel.length > 0 && (
-      <p class="klein" style="margin-bottom:0">{t.officieelInTaal} {officieel.map((b, i) => <>{i > 0 && ' · '}<a href={b.url} hreflang={taal}>{b.naam}</a></>)}</p>
-    )}
-  </div>
-)}
 
-{item.soort === 'scenarios' && <div class="melding gevaar"><Fragment set:html={A.algemeen.levensgevaar} /> <Fragment set:html={A.algemeen.nietLukt(pad(taal, '/app/noodnummers/#als-bellen-niet-lukt'))} /></div>}
-{item.soort === 'eerstehulp' && <div class="melding gevaar"><Fragment set:html={A.eerstehulp.bel} /> {A.eerstehulp.volgMeldkamer} <Fragment set:html={A.eerstehulp.nietLukt(pad(taal, '/app/noodnummers/#als-bellen-niet-lukt'))} /></div>}
-
-{(vorm === 'gevoelig' || vorm === 'ontbreekt') ? (
+{vorm === 'ontbreekt' ? (
   // De Nederlandse tekst staat al op het toestel (/app/...); de pagina haalt hem daar op in plaats
   // van hem een tweede keer mee te dragen. Zonder script blijft de link naar de Nederlandse pagina.
   <div id="tekst" lang="nl" data-nl-bron={`/app/${pad_}/${item.id}/`} data-pagefind-ignore aria-busy="true">
@@ -80,34 +54,15 @@ const nagekekenVertaling = nagekeken;
       {eerst.d.niet && (<><h2>{A.watnu.vermijden}</h2><ul>{eerst.d.niet.map((n) => <li>{n}</li>)}</ul></>)}
     </section>
   )}
-  {eerst.d.status === 'concept' && <Concept taal={taal} bron={eerst.d.bronnen[0].url} bronNaam={eerst.d.bronnen[0].naam} />}
   <Inhoudstafel taal={taal} koppen={eerst.R.headings} />
   <article class="inhoud"><eerst.R.Content /></article>
   <Brondoos taal={taal} bronnen={eerst.d.bronnen} tekst={(vorm === 'vertaald' ? v : o)?.body ?? ''} datum={eerst.d.datum} status={eerst.d.status} nagekeken_door={eerst.d.nagekeken_door}>
-    {vorm === 'vertaald' && <p>{t.vertaling}: {nagekekenVertaling ? t.nagekekenVertaling(dV!.vertaling_nagekeken_door!) : t.machine} {t.vertaaldVan(dV!.origineel_datum)}</p>}
+    {officieel.length > 0 && <p>{t.officieelInTaal} {officieel.map((b, i) => <>{i > 0 && ' · '}<a href={b.url} hreflang={taal}>{b.naam}</a></>)}</p>}
+    {vorm === 'vertaald' && (
+      <p>{t.vertaaldVan(dV!.origineel_datum)}{nagekeken && ` ${t.nagekekenVertaling(nagekeken)}`} <a href={origineelUrl} hreflang="nl" lang="nl">{t.origineel}</a></p>
+    )}
   </Brondoos>
 </div>
-)}
-
-{vorm === 'gevoelig' && RV && dV && (
-  <details class="vertaling-gevoelig niet-afdrukken">
-    <summary>{t.gevoeligTonen}</summary>
-    <div class="melding gevaar" role="note">{t.gevoeligWaarschuwing}</div>
-    <div lang={taal}>
-      <p class="lead">{dV.kort}</p>
-      {dV.stappen && (
-        <section class="eerste-stappen">
-          <h2>{A.watnu.eerste}</h2>
-          <ol class="stappen">{dV.stappen.map((s) => <li>{s}</li>)}</ol>
-          {dV.niet && (<><h2>{A.watnu.vermijden}</h2><ul>{dV.niet.map((n) => <li>{n}</li>)}</ul></>)}
-        </section>
-      )}
-      <article class="inhoud"><RV.Content /></article>
-      <Brondoos taal={taal} bronnen={dV.bronnen} tekst={v?.body ?? ''} datum={dV.datum} status={dV.status} nagekeken_door={dV.nagekeken_door}>
-        <p>{t.vertaling}: {t.machine} {t.vertaaldVan(dV.origineel_datum)}</p>
-      </Brondoos>
-    </div>
-  </details>
 )}
 
 <div class="knoppen niet-afdrukken"><button class="knop" type="button" onclick="print()">{A.algemeen.afdrukken}</button></div>

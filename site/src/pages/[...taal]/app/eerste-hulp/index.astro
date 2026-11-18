@@ -8,11 +8,9 @@ const taal = taalVan(Astro.params);
 const t = APP[taal].eerstehulp;
 const onderwerpen = await inhoud('eerstehulp', taal);
 ---
-<App taal={taal} titel={t.titel} tab="meer" vertaalmelding>
+<App taal={taal} titel={t.titel} tab="meer">
   <h1>{t.titel}</h1>
-  <div class="melding gevaar"><Fragment set:html={t.belEerst} /> {t.meldkamer} {t.antigif} <a href="tel:070245245">070 245 245</a>. <Fragment set:html={t.nietLukt(pad(taal, '/app/noodnummers/#als-bellen-niet-lukt'))} /></div>
-  <div class="concept" set:html={t.concept} />
-  {taal !== 'nl' && <p class="vertaalstatus" role="note">{APP[taal].inhoud.gevoeligTekst}</p>}
+  <p class="dempen" set:html={t.herkomst} />
   {onderwerpen.length > 0 ? (
     <div class="raster rubriek-nood" style="margin-top:1.5rem">
       {onderwerpen.map((o) => <a class="tegel" href={pad(taal, `/app/eerste-hulp/${o.id}/`)} lang={o.titelLang !== taal ? o.titelLang : undefined}><strong>{o.titel}</strong><span class="klein">{o.kort}</span></a>)}

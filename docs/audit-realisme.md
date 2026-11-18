@@ -45,8 +45,7 @@ De nieuwe bronnen (59) staan in `data/bronnen/register.json`, met licentie "Na t
 
 | Plaats | Wijziging |
 | --- | --- |
-| Rode melding op de startpagina en boven elk scenario | "Levensgevaar: bel 112." kreeg "Lukt bellen niet: laat iemand anders bellen of vraag hulp in je buurt", met een link naar Als bellen niet lukt. |
-| Rode melding boven eerste hulp (overzicht en elk onderwerp) | De begeleiding door de meldkamer geldt "als het netwerk werkt"; nieuw: "blijf bij het slachtoffer als het kan en stuur iemand om hulp". |
+| Rode 112-meldingen (startpagina, scenario's, eerste hulp) | Eerst uitgebreid met wat je doet als bellen niet lukt. Daarna heeft `inhoud-en-kaarten` (PR #8, geen vaste 112-banners) die meldingen weggehaald; die keuze is bij de merge gevolgd. Wat je doet als bellen niet lukt, staat nu in de inhoud zelf en op de pagina Noodnummers. |
 | Noodnummers | Eerst de dringende nummers, dan een blok **Als bellen niet lukt** (112.be, FOD Economie, ERC, BBK, Nederland 2019, de kaart met Dichtstbij), dan "Andere nummers, als het netwerk werkt" (antigif, wachtdiensten, informatienummers, hulplijnen). `data/landen/*.json` bleef ongewijzigd; de splitsing volgt het bestaande veld `dringend`. |
 | Officiële informatie | De radio staat bovenaan (de pagina sorteert op het soort kanaal; bewaarde vinkjes blijven op hun plaats). Uitleg, echtheid van berichten en tijdelijke nummers verwijzen eerst naar de radio, websites "als het internet werkt". |
 | Tegels Start en Meer | "Radio, BE-Alert, 1771" in plaats van "BE-Alert, radio, 1771". |

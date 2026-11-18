@@ -10,7 +10,7 @@ const t = APP[taal].nummers;
 const landen = landenVoor(taal);
 const tl = APP[taal].landen;
 ---
-<App taal={taal} titel={t.titel} tab="nummers" vertaalmelding>
+<App taal={taal} titel={t.titel} tab="nummers">
   <h1>{t.titel}</h1>
   <p class="dempen">{t.uitleg} <Fragment set:html={tl.welke(pad(taal, '/app/pakket/#landen'))} /></p>
   {landen.map((land) => (
@@ -45,7 +45,7 @@ const tl = APP[taal].landen;
           </div>
         ))}
       </div>
-      <div class="concept">{t.controle(land.bijgewerkt)}</div>
+      <p class="klein">{t.controle(land.bijgewerkt)}</p>
     </section>
   ))}
   <h2>{t.oproepTitel}</h2>
