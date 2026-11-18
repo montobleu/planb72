@@ -64,7 +64,7 @@ const nl = {
         ['/app/checklists/', 'Checklists', 'Noodpakket, vluchttas, auto'],
         ['/app/noodplan/', 'Gezinsnoodplan', 'Invullen en afdrukken'],
         ['/app/eerste-hulp/', 'Eerste hulp', 'Reanimatie, bloeding, verslikking en meer'],
-        ['/app/gidsen/', 'Gidsen', 'Water, voedsel, warmte, evacuatie, communicatie'],
+        ['/app/gidsen/', 'Gidsen', 'Water, voedsel, warmte, evacuatie, thuisonderwijs'],
       ]],
       ['Hulpmiddelen', [
         ['/app/signalen/', 'Signalen', 'SOS met licht, morse, radio'],
@@ -93,7 +93,7 @@ const nl = {
     modules: {
       schuilen: 'Schuilen', nucleair: 'Nucleair en straling', voorbereiding: 'Voorbereiden', water: 'Water', voedsel: 'Voedsel',
       warmte: 'Warmte en koelte', energie: 'Licht en energie', hygiene: 'Hygiëne en sanitair', evacuatie: 'Evacuatie',
-      communicatie: 'Communicatie en alarmering', dieren: 'Dieren', gezondheid: 'Gezondheid', buiten: 'Buiten en onderweg',
+      communicatie: 'Communicatie en alarmering', dieren: 'Dieren', gezondheid: 'Gezondheid', buiten: 'Buiten en onderweg', kinderen: 'Kinderen, onderwijs en bezigheid',
     } as Record<string, string>,
   },
   eerstehulp: {
@@ -227,7 +227,7 @@ const nl = {
         'Drinkwater (zie de voorraadplanner)', 'Houdbaar eten dat je zonder koken kunt eten', 'Blikopener', 'Radio op batterijen of met slinger',
         'Zaklamp en reservebatterijen', 'Opgeladen powerbank en kabels', 'Huisapotheek en je vaste medicatie', 'Kopieën van identiteitspapieren',
         'Wat cash geld, ook kleingeld', 'Fluitje', 'Warme dekens', 'Lucifers of aansteker', 'Toiletpapier, vuilniszakken, handgel',
-        'Extra bril of lenzen', 'Eten en water voor huisdieren', 'Papieren lijst met belangrijke telefoonnummers',
+        'Extra bril of lenzen', 'Eten en water voor huisdieren', 'Papieren lijst met belangrijke telefoonnummers', 'Papier, potloden en een spel of boek om de tijd te vullen',
       ]],
       ['vluchttas', 'Vluchttas (als je moet vertrekken)', [
         'Identiteitskaart, paspoort, bankkaart', 'Medicatie voor enkele dagen en voorschriften', 'Telefoon, lader en powerbank',
@@ -478,7 +478,7 @@ const fr: Teksten = {
         ['/app/checklists/', 'Listes de contrôle', "Kit d'urgence, sac d'évacuation, voiture"],
         ['/app/noodplan/', "Plan d'urgence familial", 'Remplir et imprimer'],
         ['/app/eerste-hulp/', 'Premiers secours', 'Réanimation, hémorragie, étouffement et plus'],
-        ['/app/gidsen/', 'Guides', 'Eau, nourriture, chaleur, évacuation, communication'],
+        ['/app/gidsen/', 'Guides', 'Eau, nourriture, chaleur, évacuation, école à la maison'],
       ]],
       ['Outils', [
         ['/app/signalen/', 'Signaux', 'SOS lumineux, morse, radio'],
@@ -507,7 +507,7 @@ const fr: Teksten = {
     modules: {
       schuilen: "S'abriter", nucleair: 'Nucléaire et radiations', voorbereiding: 'Se préparer', water: 'Eau', voedsel: 'Nourriture',
       warmte: 'Chaleur et fraîcheur', energie: 'Éclairage et énergie', hygiene: 'Hygiène et sanitaires', evacuatie: 'Évacuation',
-      communicatie: 'Communication et alerte', dieren: 'Animaux', gezondheid: 'Santé', buiten: 'Dehors et en déplacement',
+      communicatie: 'Communication et alerte', dieren: 'Animaux', gezondheid: 'Santé', buiten: 'Dehors et en déplacement', kinderen: 'Enfants, apprentissage et occupations',
     },
   },
   eerstehulp: {
@@ -640,7 +640,7 @@ const fr: Teksten = {
         'Eau potable (voir le calcul des réserves)', 'Nourriture de longue conservation à manger sans cuisson', 'Ouvre-boîte', 'Radio à piles ou à manivelle',
         'Lampe de poche et piles de rechange', 'Batterie externe chargée et câbles', 'Trousse de secours et vos médicaments habituels', "Copies des documents d'identité",
         'Un peu d’argent liquide, aussi de la monnaie', 'Sifflet', 'Couvertures chaudes', 'Allumettes ou briquet', 'Papier toilette, sacs poubelle, gel hydroalcoolique',
-        'Lunettes ou lentilles de rechange', 'Nourriture et eau pour les animaux', 'Liste papier des numéros de téléphone importants',
+        'Lunettes ou lentilles de rechange', 'Nourriture et eau pour les animaux', 'Liste papier des numéros de téléphone importants', 'Papier, crayons et un jeu ou un livre pour passer le temps',
       ]],
       ['vluchttas', "Sac d'évacuation (si vous devez partir)", [
         "Carte d'identité, passeport, carte bancaire", 'Médicaments pour quelques jours et ordonnances', 'Téléphone, chargeur et batterie externe',
@@ -889,7 +889,7 @@ const de: Teksten = {
         ['/app/checklists/', 'Checklisten', 'Notvorrat, Notfallrucksack, Auto'],
         ['/app/noodplan/', 'Familien-Notfallplan', 'Ausfüllen und drucken'],
         ['/app/eerste-hulp/', 'Erste Hilfe', 'Wiederbelebung, Blutung, Ersticken und mehr'],
-        ['/app/gidsen/', 'Ratgeber', 'Wasser, Lebensmittel, Wärme, Evakuierung, Kommunikation'],
+        ['/app/gidsen/', 'Ratgeber', 'Wasser, Lebensmittel, Wärme, Evakuierung, Lernen zu Hause'],
       ]],
       ['Hilfsmittel', [
         ['/app/signalen/', 'Signale', 'SOS mit Licht, Morse, Funk'],
@@ -918,7 +918,7 @@ const de: Teksten = {
     modules: {
       schuilen: 'Schutz suchen', nucleair: 'Nuklear und Strahlung', voorbereiding: 'Vorsorgen', water: 'Wasser', voedsel: 'Lebensmittel',
       warmte: 'Wärme und Kühle', energie: 'Licht und Energie', hygiene: 'Hygiene und Sanitär', evacuatie: 'Evakuierung',
-      communicatie: 'Kommunikation und Warnung', dieren: 'Tiere', gezondheid: 'Gesundheit', buiten: 'Draußen und unterwegs',
+      communicatie: 'Kommunikation und Warnung', dieren: 'Tiere', gezondheid: 'Gesundheit', buiten: 'Draußen und unterwegs', kinderen: 'Kinder, Lernen und Beschäftigung',
     },
   },
   eerstehulp: {
@@ -1054,7 +1054,7 @@ const de: Teksten = {
         'Trinkwasser (siehe Vorratsrechner)', 'Haltbare Lebensmittel, die ohne Kochen essbar sind', 'Dosenöffner', 'Radio mit Batterien oder Kurbel',
         'Taschenlampe und Ersatzbatterien', 'Geladene Powerbank und Kabel', 'Hausapotheke und Ihre regelmäßigen Medikamente', 'Kopien der Ausweisdokumente',
         'Etwas Bargeld, auch Kleingeld', 'Trillerpfeife', 'Warme Decken', 'Streichhölzer oder Feuerzeug', 'Toilettenpapier, Müllbeutel, Handdesinfektionsgel',
-        'Ersatzbrille oder Kontaktlinsen', 'Futter und Wasser für Haustiere', 'Papierliste mit wichtigen Telefonnummern',
+        'Ersatzbrille oder Kontaktlinsen', 'Futter und Wasser für Haustiere', 'Papierliste mit wichtigen Telefonnummern', 'Papier, Stifte und ein Spiel oder Buch zum Zeitvertreib',
       ]],
       ['vluchttas', 'Notfallrucksack (wenn Sie gehen müssen)', [
         'Personalausweis, Reisepass, Bankkarte', 'Medikamente für einige Tage und Rezepte', 'Telefon, Ladegerät und Powerbank',
@@ -1303,7 +1303,7 @@ const en: Teksten = {
         ['/app/checklists/', 'Checklists', 'Emergency kit, grab bag, car'],
         ['/app/noodplan/', 'Family emergency plan', 'Fill in and print'],
         ['/app/eerste-hulp/', 'First aid', 'Resuscitation, bleeding, choking and more'],
-        ['/app/gidsen/', 'Guides', 'Water, food, heat, evacuation, communication'],
+        ['/app/gidsen/', 'Guides', 'Water, food, heat, evacuation, learning at home'],
       ]],
       ['Tools', [
         ['/app/signalen/', 'Signals', 'SOS with light, Morse, radio'],
@@ -1332,7 +1332,7 @@ const en: Teksten = {
     modules: {
       schuilen: 'Shelter', nucleair: 'Nuclear and radiation', voorbereiding: 'Prepare', water: 'Water', voedsel: 'Food',
       warmte: 'Heat and cold', energie: 'Light and energy', hygiene: 'Hygiene and sanitation', evacuatie: 'Evacuation',
-      communicatie: 'Communication and alerts', dieren: 'Animals', gezondheid: 'Health', buiten: 'Outdoors and on the move',
+      communicatie: 'Communication and alerts', dieren: 'Animals', gezondheid: 'Health', buiten: 'Outdoors and on the move', kinderen: 'Children, learning and activities',
     },
   },
   eerstehulp: {
@@ -1465,7 +1465,7 @@ const en: Teksten = {
         'Drinking water (see the supply planner)', 'Long-life food you can eat without cooking', 'Tin opener', 'Battery or wind-up radio',
         'Torch and spare batteries', 'Charged power bank and cables', 'First aid kit and your regular medication', 'Copies of identity documents',
         'Some cash, including coins', 'Whistle', 'Warm blankets', 'Matches or lighter', 'Toilet paper, bin bags, hand gel',
-        'Spare glasses or contact lenses', 'Food and water for pets', 'Paper list of important phone numbers',
+        'Spare glasses or contact lenses', 'Food and water for pets', 'Paper list of important phone numbers', 'Paper, pencils and a game or book to pass the time',
       ]],
       ['vluchttas', 'Grab bag (if you have to leave)', [
         'Identity card, passport, bank card', 'Medication for a few days and prescriptions', 'Phone, charger and power bank',

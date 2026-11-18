@@ -6,7 +6,7 @@ import { inhoud } from '../../../../lib/inhoud';
 export const getStaticPaths = taalPaden;
 const taal = taalVan(Astro.params);
 const t = APP[taal].gidsen;
-const VOLGORDE = ['schuilen', 'nucleair', 'voorbereiding', 'water', 'voedsel', 'warmte', 'energie', 'hygiene', 'evacuatie', 'communicatie', 'dieren', 'gezondheid', 'buiten'];
+const VOLGORDE = ['schuilen', 'nucleair', 'voorbereiding', 'water', 'voedsel', 'warmte', 'energie', 'hygiene', 'evacuatie', 'communicatie', 'dieren', 'gezondheid', 'kinderen', 'buiten'];
 const gidsen = await inhoud('gidsen', taal);
 const module = (g: (typeof gidsen)[number]) => (g.origineel.data as { module?: string }).module;
 ---
@@ -16,9 +16,9 @@ const module = (g: (typeof gidsen)[number]) => (g.origineel.data as { module?: s
   {VOLGORDE.map((id) => {
     const lijst = gidsen.filter((g) => module(g) === id);
     // Elke groep gidsen krijgt de kleur van haar rubriek.
-    const kleur: Record<string, string> = { schuilen: 'nood', nucleair: 'nood', evacuatie: 'kaart', communicatie: 'kaart', buiten: 'kaart', voorbereiding: 'voorbereiden', water: 'voorbereiden', voedsel: 'voorbereiden', warmte: 'voorbereiden', energie: 'voorbereiden', hygiene: 'voorbereiden', dieren: 'hulp', gezondheid: 'hulp' };
+    const kleur: Record<string, string> = { schuilen: 'nood', nucleair: 'nood', evacuatie: 'kaart', communicatie: 'kaart', buiten: 'kaart', voorbereiding: 'voorbereiden', water: 'voorbereiden', voedsel: 'voorbereiden', warmte: 'voorbereiden', energie: 'voorbereiden', hygiene: 'voorbereiden', dieren: 'hulp', gezondheid: 'hulp', kinderen: 'hulp' };
     return lijst.length > 0 && (
-      <section class={`rubriek-${kleur[id] ?? 'naslag'}`}>
+      <section id={id} class={`rubriek-${kleur[id] ?? 'naslag'}`}>
         <h2 class="sectiekop">{t.modules[id]}</h2>
         <div class="raster">
           {lijst.map((g) => <a class="tegel" href={pad(taal, `/app/gids/${g.id}/`)} lang={g.titelLang !== taal ? g.titelLang : undefined}><strong>{g.titel}</strong><span class="klein">{g.kort}</span></a>)}
