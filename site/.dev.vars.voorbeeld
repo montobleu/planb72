@@ -1,0 +1,8 @@
+# Lokale secrets voor `npx wrangler dev --env beheer` (zie docs/beheer.md).
+# Kopieer naar .dev.vars (staat in .gitignore) en vul in. Zet nooit echte waarden in dit voorbeeld.
+GITHUB_CLIENT_ID=
+GITHUB_CLIENT_SECRET=
+# Minstens 32 tekens, bv. de uitvoer van: openssl rand -base64 48
+SESSIE_GEHEIM=
+# Optioneel: zonder sleutel werkt alles behalve "Laat Claude nakijken".
+ANTHROPIC_API_KEY=

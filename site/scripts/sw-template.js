@@ -98,6 +98,8 @@ self.addEventListener('fetch', (event) => {
   if (request.method !== 'GET') return;
   const url = new URL(request.url);
   if (url.origin !== self.location.origin) return; // PlanB72 laadt niets van buiten.
+  // De beheeromgeving hoort niet bij de offline app: altijd rechtstreeks naar het netwerk.
+  if (url.pathname === '/beheer' || url.pathname.startsWith('/beheer/')) return;
 
   // Bewust vers ophalen (pakket bijwerken): de cache overslaan.
   if (request.cache === 'no-store' && request.mode !== 'navigate') return;

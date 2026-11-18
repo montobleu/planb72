@@ -1,0 +1,33 @@
+---
+// Beheer: overzicht van open pull requests en issues. Zie docs/beheer.md.
+import Beheer from '../../layouts/Beheer.astro';
+---
+<Beheer titel="Overzicht" script="/beheer/overzicht.js">
+  <h1>Nieuwe bijdragen nakijken</h1>
+  <p class="lead">Open pull requests en issues op GitHub, met wat elk nodig heeft volgens <a href="https://github.com/montobleu/planb72/blob/main/docs/nazicht.md" rel="noopener">de nazichtregels</a>. Goedkeuren, commentaar en samenvoegen gebeuren onder je eigen GitHub-account.</p>
+
+  <section aria-labelledby="kop-prs" data-prs hidden>
+    <h2 id="kop-prs">Pull requests</h2>
+    <div class="filters">
+      <label><input type="checkbox" data-filter="kritiek" /> Alleen inhoud die levens raakt</label>
+      <label><input type="checkbox" data-filter="voor-mij" /> Alleen wat nog op mijn oordeel wacht</label>
+    </div>
+    <div class="tabel-regio" role="region" aria-labelledby="kop-prs" tabindex="0" data-prs-tabel></div>
+  </section>
+
+  <section aria-labelledby="kop-issues" data-issues hidden>
+    <h2 id="kop-issues">Issues</h2>
+    <div class="filters">
+      <label>Soort
+        <select data-filter-soort>
+          <option value="">Alle</option>
+          <option>fout melden</option>
+          <option>bron voorstellen</option>
+          <option>taak</option>
+          <option>overig</option>
+        </select>
+      </label>
+    </div>
+    <div class="tabel-regio" role="region" aria-labelledby="kop-issues" tabindex="0" data-issues-tabel></div>
+  </section>
+</Beheer>
