@@ -16,6 +16,6 @@ const t = APP[taal].inhoud;
       <ul>{overige.map((b) => <li><a href={b.url}>{b.naam}</a></li>)}</ul>
     </>
   )}
-  <p>{t.datum}: {datum} · {t.status}: {t.statussen[status] ?? status}{nagekeken_door && ` · ${t.nagekekenDoor} ${nagekeken_door}`}</p>
+  <p>{t.datum}: {datum}{t.statussen[status] && ` · ${t.status}: ${t.statussen[status]}`}{nagekeken_door && ` · ${t.nagekekenDoor} ${nagekeken_door}`}</p>
   <slot />
 </section>
