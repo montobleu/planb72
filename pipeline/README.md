@@ -45,16 +45,17 @@ Andere instellingen per land in `pipeline/budget.json` (`landen` -> code):
 
 ```sh
 python3 pipeline/regios.py NL DE FR                    # regio's met bbox -> pipeline/regios.json
-python3 pipeline/kaartpakketten.py --plan NL LU DE FR  # indeling -> pipeline/kaartpakketten-plan.json
+python3 pipeline/kaartpakketten.py --plan BE NL LU DE FR  # indeling -> pipeline/kaartpakketten-plan.json
 python3 pipeline/kaartpakketten.py --land nl --upload  # uitknippen en naar R2
 ```
 
 Per land een overzicht (zoom 9, in het basispakket), een standaardkaart (zoom 12) en
-straatniveau (zoom 14). Elk pakket blijft onder 280 MB (upload met wrangler kan tot
-300 MB): de standaardkaart van Frankrijk en Duitsland is per regio, straatniveau per
+straatniveau (zoom 15, het maximum van de Protomaps-builds; de kaart vergroot tot zoom 19
+verder uit). Elk pakket blijft onder 280 MB (upload met wrangler kan tot 300 MB): de standaardkaart van Frankrijk en Duitsland is per regio, straatniveau per
 provincie, deelstaat of Regierungsbezirk, departement, of in vakken (noordwest, ...).
-De indeling komt uit een proefmeting (`pmtiles extract --dry-run`). België en Europa staan
-vast in `kaartpakketten.py`. Het resultaat staat in `site/public/data/kaarten.json`.
+De indeling komt uit een proefmeting (`pmtiles extract --dry-run`). Europa en het overzicht
+en de standaardkaart van België staan vast in `kaartpakketten.py`; het Belgische
+straatniveau gaat ook door de planner. Het resultaat staat in `site/public/data/kaarten.json`.
 
 | Script | Uitvoer |
 | --- | --- |
