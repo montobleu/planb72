@@ -10,7 +10,8 @@
    Nederlandse origineel, en elke vertaling vermeldt haar nazichtstatus.
 4. Controleert de eigen aanvullingen op de kaartlagen (data/eigen/<land>/<laag>.json, zie
    pipeline/eigen.py): schema, een bron per item, datum en twee verschillende personen.
-5. Bepaalt uit de gewijzigde bestanden hoeveel goedkeuringen nodig zijn
+5. Controleert of de downloadcatalogus (site/public/data/catalogus.json) actueel is.
+6. Bepaalt uit de gewijzigde bestanden hoeveel goedkeuringen nodig zijn
    (2 voor inhoud die levens raakt, anders 1) en welke labels de PR krijgt.
 
 Gebruik:
@@ -144,7 +145,21 @@ def controleer():
                 fouten.append(f"{naam}: {url} staat niet in het bronnenregister")
     fouten += controleer_vertalingen()
     fouten += eigen.valideer()
+    fouten += controleer_catalogus()
     return fouten
+
+
+def controleer_catalogus():
+    """De downloadcatalogus moet de kaart-, route- en laagpakketten volgen (pipeline/catalogus.py)."""
+    import catalogus
+    pad = catalogus.UIT
+    if not os.path.exists(pad):
+        return ["site/public/data/catalogus.json ontbreekt: draai python3 pipeline/catalogus.py"]
+    vorige = json.load(open(pad, encoding="utf-8"))
+    nieuw = catalogus.maak({b["id"]: b for b in vorige.get("blokken", [])})
+    if catalogus.zonder_ruis(nieuw) != catalogus.zonder_ruis(vorige):
+        return ["site/public/data/catalogus.json is verouderd: draai python3 pipeline/catalogus.py"]
+    return []
 
 
 # ---------- Vertalingen: getallen en eenheden gelijk aan het origineel ----------

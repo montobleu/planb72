@@ -149,6 +149,19 @@ op 4 bytes uitgelijnd. Het zoekdeel staat apart, zodat de app kan zoeken in alle
 het netwerk uit te pakken. De app leest het formaat in `site/src/lib/routegraaf.ts`; wie de lijst
 met wegtypes of vlaggen wijzigt, past beide bestanden aan en verhoogt `VERSIE`.
 
+## Downloadcatalogus
+
+```sh
+python3 pipeline/catalogus.py               # site/public/data/catalogus.json
+python3 pipeline/catalogus.py --controleer  # foutcode 1 als ze verouderd is
+```
+
+Eén lijst van alles wat je kunt downloaden, per land en detailniveau (nooit per provincie),
+voor de website, de app, het startprogramma en later de apps. Draai het script na elke
+wijziging aan `kaarten.json`, `routes.json` of de kaartlagen, en na `npm run build` (grootte
+van de app per taal). `controleer_inhoud.py` faalt als de catalogus verouderd is. Zie
+[docs/downloaden.md](../docs/downloaden.md).
+
 ## Bronnenronde
 
 ```sh

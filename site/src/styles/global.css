@@ -168,6 +168,7 @@ main > p, main > ul, main > ol, main > dl, main section > p, .lead { max-width: 
 .knop.hoofd:hover { filter: brightness(1.1); }
 .knop.gevaar { color: var(--gevaar); border-color: var(--gevaar); }
 .knop[disabled], .knop[aria-disabled="true"] { opacity: 0.55; cursor: not-allowed; }
+.knop[hidden] { display: none; }
 .knoppen { display: flex; gap: 12px; flex-wrap: wrap; margin: 1.5rem 0; }
 
 /* ---------- Blokken ---------- */

@@ -51,14 +51,19 @@ const politieVan = (l: (typeof landen)[number]) =>
 <script>
   import { opToestel } from '../../../lib/kaarten';
   import { gekozenLanden } from '../../../lib/landkeuze';
+  import { lees } from '../../../lib/app';
+  import { appPad } from '../../../i18n/klant';
   // Toon de melding als het basispakket (kaartlagen en overzichtskaarten) nog niet op het toestel staat.
   (async () => {
     try {
       const bewaard = await caches.keys();
       const kaarten = await opToestel();
-      const heeft = gekozenLanden().every((c) => bewaard.includes(`pb72-pakket-${c}`) && kaarten.has(`${c}-z9`));
+      // Met een keuze uit de keuzehulp toont Instellingen wat er nog ontbreekt; hier geen melding meer.
+      const heeft = !!lees('keuze', null) || gekozenLanden().every((c) => bewaard.includes(`pb72-pakket-${c}`) && kaarten.has(`${c}-z9`));
       // ?voorbeeld verbergt de melding voor de schermafbeelding op de website.
       if (!heeft && !location.search.includes('voorbeeld')) document.getElementById('pakket-melding')!.hidden = false;
+      // Nog niets gekozen: naar de keuzehulp voor het eerste gebruik.
+      if (!lees('keuze', null)) document.querySelector<HTMLAnchorElement>('#pakket-melding a')!.href = appPad('/app/kiezen/');
     } catch {}
   })();
 </script>

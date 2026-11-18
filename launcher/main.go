@@ -65,6 +65,10 @@ func run(args []string, stdin *os.File, uit, fout *os.File) int {
 	poort := fl.Int("poort", standaardPoort, "poort om op te luisteren; bij een bezette poort de volgende vrije")
 	hotspot := fl.Bool("hotspot", false, "luister op alle netwerkinterfaces zodat anderen in de buurt kunnen meelezen")
 	geenBrowser := fl.Bool("geen-browser", false, "open de browser niet automatisch")
+	pakketten := fl.String("pakketten", "", "`manifest` (JSON) van planb72.org/download/: haal eerst de gekozen pakketten op naar <site>/data")
+	var bronnen bronLijst
+	fl.Var(&bronnen, "bron-toestaan", "extra toegestane downloadbron (`host`) naast planb72.org (bv. een spiegel, of http://127.0.0.1:<poort>); herhaalbaar of komma-gescheiden")
+	alleenOphalen := fl.Bool("alleen-ophalen", false, "met --pakketten: alleen ophalen en daarna stoppen (foutcode 1 als iets mislukte)")
 	fl.Usage = func() {
 		fmt.Fprint(fout, `PlanB72 startprogramma / launcher
 
@@ -79,6 +83,7 @@ Gebruik / Usage: planb72-start [opties]
 Voorbeeld / Example:
   planb72-start --hotspot          (anderen op hetzelfde wifi/hotspot lezen mee)
   planb72-start --map D:\planb72 --geen-browser
+  planb72-start --pakketten planb72-pakketten.json   (eerst ophalen / download first)
 `)
 	}
 	if err := fl.Parse(args); err != nil {
@@ -98,6 +103,14 @@ Voorbeeld / Example:
 	siteMap, err := zoekMap(*mapFlag, exe)
 	if err != nil {
 		return fataal(stdin, fout, err)
+	}
+
+	if *pakketten != "" {
+		if code, stoppen := voerPakkettenUit(*pakketten, siteMap, bronnen, *alleenOphalen, stdin, uit, fout); stoppen {
+			return code
+		}
+	} else if *alleenOphalen {
+		return fataal(stdin, fout, errors.New("--alleen-ophalen werkt alleen samen met --pakketten <manifest>"))
 	}
 
 	host := "127.0.0.1"
