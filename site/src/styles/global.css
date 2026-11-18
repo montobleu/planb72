@@ -119,11 +119,14 @@ main > p, main > ul, main > ol, main > dl, main section > p, .lead { max-width: 
 .taalkeuze a[aria-current="true"] { background: var(--merk); color: var(--merk-tekst); }
 
 .themaknop {
-  min-height: 32px; padding: 0 10px; border-radius: var(--radius);
-  background: transparent; color: var(--tekst-2); border: 1px solid var(--rand);
-  font: inherit; font-size: 0.8rem; font-weight: 600; cursor: pointer;
+  display: inline-grid; place-items: center; inline-size: 40px; block-size: 40px; padding: 0;
+  border-radius: var(--radius); background: transparent; color: var(--tekst-2);
+  border: 1px solid var(--rand-sterk); cursor: pointer;
 }
-.themaknop:hover { color: var(--tekst); border-color: var(--rand-sterk); }
+.themaknop:hover { color: var(--tekst); border-color: var(--tekst-2); }
+.themaknop > span { display: inline-grid; place-items: center; }
+.themaknop svg { display: block; flex: none; }
+@media (pointer: coarse) { .themaknop { inline-size: 44px; block-size: 44px; } }
 
 /* ---------- Voet ---------- */
 
@@ -327,7 +330,7 @@ main.wrap { padding-top: 2.5rem; }
 /* Knop licht/donker: toont het schema waarnaar je overschakelt. */
 .themaknop .naar-donker { display: none; }
 :root:has(> head > meta[name="color-scheme"][content="light"]) .themaknop .naar-licht { display: none; }
-:root:has(> head > meta[name="color-scheme"][content="light"]) .themaknop .naar-donker { display: inline; }
+:root:has(> head > meta[name="color-scheme"][content="light"]) .themaknop .naar-donker { display: inline-grid; }
 
 /* Grotere aanraakdoelen op touchscreens. */
 @media (pointer: coarse) {

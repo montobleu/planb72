@@ -1,17 +1,32 @@
 ---
-// Knop in de kop: wisselt tussen donker (standaard) en licht. Toont naar welk schema je gaat.
+// Knop in de kop: wisselt tussen donker (standaard) en licht.
+// Volgens Modern Web Guidance (dark-mode-toggle, icons): een pictogramknop met beide toestanden
+// in de opmaak; de CSS toont alleen de actie die nu kan (zon = naar licht, maan = naar donker).
+// De pictogrammen zijn decoratief (aria-hidden); de knop krijgt zijn naam uit de verborgen tekst.
 import type { Taal } from '../i18n/talen';
 interface Props { taal?: Taal }
-const L: Record<Taal, { licht: string; donker: string; uitleg: string }> = {
-  nl: { licht: 'Licht', donker: 'Donker', uitleg: 'Weergave' },
-  fr: { licht: 'Clair', donker: 'Sombre', uitleg: 'Affichage' },
-  de: { licht: 'Hell', donker: 'Dunkel', uitleg: 'Darstellung' },
-  en: { licht: 'Light', donker: 'Dark', uitleg: 'Display' },
+const L: Record<Taal, { naarLicht: string; naarDonker: string }> = {
+  nl: { naarLicht: 'Schakel naar licht thema', naarDonker: 'Schakel naar donker thema' },
+  fr: { naarLicht: 'Passer au thème clair', naarDonker: 'Passer au thème sombre' },
+  de: { naarLicht: 'Zum hellen Design wechseln', naarDonker: 'Zum dunklen Design wechseln' },
+  en: { naarLicht: 'Switch to light theme', naarDonker: 'Switch to dark theme' },
 };
 const t = L[Astro.props.taal ?? 'nl'];
 ---
-<button class="themaknop" type="button" data-themaknop aria-label={t.uitleg}>
-  <span class="naar-licht">{t.licht}</span><span class="naar-donker">{t.donker}</span>
+<button class="themaknop" type="button" data-themaknop>
+  <span class="naar-licht">
+    <svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true" focusable="false" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round">
+      <circle cx="12" cy="12" r="4" />
+      <path d="M12 2v2M12 20v2M4.93 4.93l1.41 1.41M17.66 17.66l1.41 1.41M2 12h2M20 12h2M4.93 19.07l1.41-1.41M17.66 6.34l1.41-1.41" />
+    </svg>
+    <span class="sr-only">{t.naarLicht}</span>
+  </span>
+  <span class="naar-donker">
+    <svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true" focusable="false" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round">
+      <path d="M20.5 14.5A8.5 8.5 0 0 1 9.5 3.5a8.5 8.5 0 1 0 11 11Z" />
+    </svg>
+    <span class="sr-only">{t.naarDonker}</span>
+  </span>
 </button>
 <script>
   import { wissel, volgWijzigingen } from '../lib/kleurschema';
