@@ -12,10 +12,6 @@ bronnen:
     url: https://centredecrise.be/fr/que-pouvez-vous-faire/le-bon-reflexe/evacuer
   - naam: "Centre de crise National : L'information pendant une situation d'urgence"
     url: https://centredecrise.be/fr/que-pouvez-vous-faire/informez-vous/linformation-pendant-une-situation-durgence
-  - naam: "112.be : Questions fréquentes"
-    url: https://112.be/fr/questions-frequentes
-  - naam: "SPF Economie : questions des ménages sur la pénurie d'électricité"
-    url: https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door
   - naam: "OMS, War Trauma Foundation et World Vision International : Psychological first aid, guide for field workers (2011)"
     url: https://psychiatry.uw.edu/wp-content/uploads/2020/04/1.-WHO_PFA_2011.pdf
   - naam: "IFRC Reference Centre for Psychosocial Support : A Guide to Psychological First Aid (2018)"
@@ -78,7 +74,7 @@ Vous restez à l'intérieur jusqu'à ce que les autorités annoncent que c'est �
 | Évacuation | Suivez les instructions sur qui, où et comment. Une évacuation après le passage du nuage est possible si la mise à l'abri devait durer plus longtemps ou si le rejet est très important |
 | Restez à l'intérieur | Restez à l'abri et continuez à écouter la radio et les autres canaux officiels |
 
-Le Centre de crise dit qu'après un accident nucléaire, des conseils médicaux peuvent encore suivre. Écoutez la radio à piles ou l'autoradio et soyez attentif aux voitures à haut-parleur de la police. Si le réseau fonctionne, suivez aussi BE-Alert et les sites web des autorités. La Finlande dit la même chose : les services de secours et l'autorité de radioprotection annoncent quand le danger est passé, et donnent des instructions sur le nettoyage des locaux et la consommation de nourriture.
+Le Centre de crise dit qu'après un accident nucléaire, des conseils médicaux peuvent encore suivre. Écoutez la radio et soyez attentif aux voitures à haut-parleur de la police ; si le réseau fonctionne, suivez aussi BE-Alert et les sites web des autorités. La Finlande dit la même chose : les services de secours et l'autorité de radioprotection annoncent quand le danger est passé, et donnent des instructions sur le nettoyage des locaux et la consommation de nourriture.
 
 L'Allemagne dit, en cas de rejet de substances dangereuses : attendez la fin de l'alerte avant de quitter le bâtiment ou d'ouvrir les fenêtres, et suivez les messages à la radio, sur internet ou via l'application d'alerte. En Belgique aussi, n'ouvrez donc pas les fenêtres et ne remettez pas la ventilation en marche avant que les autorités n'annoncent que c'est sûr.
 
@@ -208,12 +204,12 @@ Source : [Risque nucléaire : questions fréquentes](https://risquenucleaire.be/
 - **Risques à long terme :** les risques pour la population sont surtout des risques à long terme, comme le cancer et les anomalies génétiques. La probabilité, et non la gravité, augmente avec la dose (Risque nucléaire).
 - **Les symptômes aigus** comme les vomissements, les brûlures et la chute massive des cheveux n'apparaissent qu'après une exposition massive, à laquelle on ne s'attend en principe que chez les travailleurs de l'installation et éventuellement chez les intervenants (Risque nucléaire). L'OMS dit que le grand public ne recevra probablement pas une dose assez élevée pour des effets aigus.
 - **Conseils médicaux :** après un accident, des conseils médicaux peuvent encore suivre. Écoutez la radio et suivez les autres canaux officiels (Centre de crise).
-- **Malade ou blessé :** écoutez les instructions sur l'endroit où vous recevez des soins médicaux. Si vous êtes dans un centre d'accueil public, signalez-le immédiatement au personnel (Ready.gov). En Belgique : appelez le 112 en cas d'urgence médicale, ou faites appeler quelqu'un. Si l'appel ne passe pas, essayez un autre appareil ou demandez à des voisins d'appeler ; si plus aucun appel ne passe, demandez de l'aide dans votre voisinage (voir Numéros d'urgence dans l'application, Si l'appel ne passe pas).
+- **Malade ou blessé :** écoutez les instructions sur l'endroit où vous recevez des soins médicaux. Si vous êtes dans un centre d'accueil public, signalez-le immédiatement au personnel (Ready.gov). En Belgique : appelez le 112 en cas d'urgence médicale, ou faites appeler quelqu'un. Si l'appel ne passe pas, voir Numéros d'urgence dans l'application, Si l'appel ne passe pas.
 - **Enfants :** ils sont plus sensibles au rayonnement. Faites-les suivre médicalement après la situation d'urgence, dès que les autorités disent que c'est sûr (OMS).
 - **Femmes enceintes qui ont pris de l'iode :** signalez-le à votre médecin après la situation d'urgence, afin que cela figure dans votre dossier médical (OMS).
 - **Nouveau-nés qui ont reçu de l'iode :** l'OMS conseille de faire suivre leurs valeurs thyroïdiennes.
 
-Source : [Risque nucléaire : Radioactivité et exposition](https://risquenucleaire.be/fr/risque-nucleaire/radioactivite-exposition) · [Centre de crise National : Incident dans une centrale nucléaire](https://centredecrise.be/fr/risques-en-belgique/risques-economiques-et-technologiques/incident-dans-une-centrale-nucleaire) · [OMS : Radiation and health](https://www.who.int/news-room/questions-and-answers/item/radiation-and-health) · [OMS : Use of potassium iodide](https://www.who.int/news-room/questions-and-answers/item/use-of-potassium-iodide-for-thyroid-protection-during-nuclear-or-radiological-emergencies) · [Ready.gov: Radiation emergencies](https://www.ready.gov/radiation) · [112.be : Questions fréquentes](https://112.be/fr/questions-frequentes) · [SPF Economie : questions des ménages sur la pénurie d'électricité](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door)
+Source : [Risque nucléaire : Radioactivité et exposition](https://risquenucleaire.be/fr/risque-nucleaire/radioactivite-exposition) · [Centre de crise National : Incident dans une centrale nucléaire](https://centredecrise.be/fr/risques-en-belgique/risques-economiques-et-technologiques/incident-dans-une-centrale-nucleaire) · [OMS : Radiation and health](https://www.who.int/news-room/questions-and-answers/item/radiation-and-health) · [OMS : Use of potassium iodide](https://www.who.int/news-room/questions-and-answers/item/use-of-potassium-iodide-for-thyroid-protection-during-nuclear-or-radiological-emergencies) · [Ready.gov: Radiation emergencies](https://www.ready.gov/radiation)
 
 ## Soutien psychologique
 

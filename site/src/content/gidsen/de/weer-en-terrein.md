@@ -113,11 +113,11 @@ Stündliche Mengen werden nur eine Stunde im Voraus vorhergesagt.
 - **Reifglätte**: Reif oder Feuchtigkeit, die auf einer Fahrbahn gefriert, die nicht durch einen Schauer nass war.
 - **Eisglätte**: nasse Stellen oder Schneereste, die später gefrieren.
 
-**Was Sie bei Orange oder Rot für Sturm oder Wasserschäden tun:** Brauchen Sie die Feuerwehr, ist aber niemand in Lebensgefahr, dann nutzen Sie, wenn das Netz funktioniert, den Online-Schalter 1722.be oder rufen Sie 1722 an, wenn diese Nummer aktiv ist. Rufen Sie 112 nur bei Lebensgefahr an oder wenn eine Rettung nötig ist. Kommt kein Anruf zustande: Lassen Sie Nachbarn oder Umstehende anrufen oder bitten Sie in Ihrer Nachbarschaft um Hilfe (siehe Notrufnummern in der App, Wenn kein Anruf möglich ist).
+**Was Sie bei Orange oder Rot für Sturm oder Wasserschäden tun:** Brauchen Sie die Feuerwehr, ist aber niemand in Lebensgefahr, dann nutzen Sie, wenn das Netz funktioniert, den Online-Schalter 1722.be oder rufen Sie 1722 an, wenn diese Nummer aktiv ist. Rufen Sie 112 nur bei Lebensgefahr an oder wenn eine Rettung nötig ist. Kommt kein Anruf zustande, siehe Notrufnummern in der App, Wenn kein Anruf möglich ist.
 
 **Achtung:** Das Agentschap Natuur en Bos (flämische Behörde für Natur und Wald) hat eine **eigene** Farbstufe für das Risiko von Naturbränden (Grün, Gelb, Orange, Rot). Diese ist von den KMI-Stufen unabhängig.
 
-Quelle: [KMI: Erläuterungen zu unseren Warnungen](https://www.meteo.be/de/wetter/warnungen/erklarung-warnungen) · [Nationales Krisenzentrum: Wind und Sturm](https://krisenzentrum.be/de/risiken-belgien/naturrisiken/wind-und-sturm) · [Nationales Krisenzentrum: Broschüre Gemeinsam vorbereitet](https://krisenzentrum.be/sites/default/files/documents/files/WEB-Brosch%C3%BCre%20Gemeinsam%20Vorbereitet-DE.pdf) · [FÖD Wirtschaft: Fragen von Haushalten zur Stromknappheit](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door) · [112.be: Häufig gestellte Fragen](https://112.be/de/haeufig-gestellte-fragen) · [Nationales Krisenzentrum: Naturbrand](https://krisenzentrum.be/de/risiken-belgien/naturrisiken/naturbrand)
+Quelle: [KMI: Erläuterungen zu unseren Warnungen](https://www.meteo.be/de/wetter/warnungen/erklarung-warnungen) · [Nationales Krisenzentrum: Wind und Sturm](https://krisenzentrum.be/de/risiken-belgien/naturrisiken/wind-und-sturm) · [Nationales Krisenzentrum: Broschüre Gemeinsam vorbereitet](https://krisenzentrum.be/sites/default/files/documents/files/WEB-Brosch%C3%BCre%20Gemeinsam%20Vorbereitet-DE.pdf) · [FÖD Wirtschaft: Fragen von Haushalten zur Stromknappheit](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door) · [Nationales Krisenzentrum: Naturbrand](https://krisenzentrum.be/de/risiken-belgien/naturrisiken/naturbrand)
 
 ## Wolken und Gewitter lesen
 
@@ -144,7 +144,7 @@ Quelle: [KMI: Wie schütze ich mich vor Blitzschlag?](https://www.meteo.be/nl/sw
 | Orkanartiger Sturm | Ab 103 km/h (11 Beaufort) |
 | Orkan(stärke) | Ab 117 km/h (12 Beaufort) |
 
-**Vorbereiten:** Befestigen Sie lose Gegenstände oder bringen Sie sie nach drinnen (Gartenmöbel, Trampolin). Behalten Sie die Wettervorhersage im Auge, zum Beispiel über Radio, Fernsehen oder die Website oder App des KMI. Lassen Sie Haustiere drinnen.
+**Vorbereiten:** Befestigen Sie lose Gegenstände oder bringen Sie sie nach drinnen (Gartenmöbel, Trampolin). Behalten Sie die Wettervorhersage im Auge. Lassen Sie Haustiere drinnen.
 
 **Während des Sturms:** Gehen Sie nach drinnen und bleiben Sie drinnen. Schließen Sie Fenster und Türen. Hören Sie den Wetterbericht und befolgen Sie die Empfehlungen.
 
@@ -175,7 +175,7 @@ Schlagen Sie dies vorab nach, wenn das Internet funktioniert:
 
 - Auf der **Watertoets-Karte** von Waterinfo Vlaanderen sehen Sie die überschwemmungsgefährdeten Gebiete (Fassung 2019) und die Karten zum Watertoets-Erlass.
 - Das Krisenzentrum empfiehlt, sich über die Zonen zu informieren, die überschwemmungsgefährdet sind.
-- Bei Hochwasser finden Sie auf **Waterinfo** aktuelle Wasserstände und Vorhersagen für Überschwemmung, Niederschlag, Trockenheit und Gezeiten, solange das Internet funktioniert. Sonst: Hören Sie Radio (siehe Wie Sie die Warnungen erhalten).
+- Bei Hochwasser finden Sie auf **Waterinfo** aktuelle Wasserstände und Vorhersagen für Überschwemmung, Niederschlag, Trockenheit und Gezeiten. Ohne Internet: Hören Sie Radio.
 
 **Draußen im Gelände**
 
@@ -202,7 +202,7 @@ Das Wetter kann den Wasserstand von der berechneten Gezeit abweichen lassen. Bei
 **Wo Sie die Daten für die belgische Küste finden**
 
 - **Getijtafels Kust** (Gezeitentafeln Küste): die Zeitpunkte von Hoch- und Niedrigwasser, jährlich veröffentlicht von der flämischen Regierung. Schlagen Sie sie vorab nach oder drucken Sie sie aus: Dann haben Sie sie auch ohne Internet.
-- **kustweerbericht.be**, wenn das Internet funktioniert: See- und Küstenwetterbericht, Wellen, Gezeiten, Wind und Sicht auf See.
+- **kustweerbericht.be**: See- und Küstenwetterbericht, Wellen, Gezeiten, Wind und Sicht auf See.
 
 **Schwimmen im Meer**
 
@@ -282,7 +282,7 @@ Quelle: [EAWS: Avalanche danger scale](https://www.avalanches.org/standards/aval
 
 | Ort | Worauf Sie achten |
 | --- | --- |
-| Zu Hause | KMI-Warnungen über das Radio verfolgen, oder über Website und App des KMI, wenn das Netz funktioniert. Bei Sturm: drinnen bleiben, lose Gegenstände befestigen. Bei Wasserschäden: 1722, wenn niemand in Lebensgefahr ist und das Netz funktioniert. |
+| Zu Hause | KMI-Warnungen verfolgen, vor allem über das Radio. Bei Sturm: drinnen bleiben, lose Gegenstände befestigen. Bei Wasserschäden: 1722, wenn niemand in Lebensgefahr ist und das Netz funktioniert. |
 | Zu Fuß in Wald oder Feld | Bei Gewitter: weg von allein stehenden Bäumen, Waldrändern, offenen Flächen. Bei Sturm: nie unter einem Baum Schutz suchen. Kein Schlafplatz im Bett eines Bachs. |
 | Im Auto | Nicht durch Wasser fahren. Bei Sturm nicht bei Bäumen parken. Ein Auto aus Metall ist bei Gewitter ein guter Schutzort. Im Winter Decke, Eiskratzer und Wasser im Wagen. |
 | An der Küste | Nur in bewachten Zonen schwimmen. Gezeitentafeln vorab nachschlagen. Sturmflut über das Radio verfolgen, und über kustweerbericht.be und das KMI, wenn das Netz funktioniert. |

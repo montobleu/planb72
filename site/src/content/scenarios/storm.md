@@ -57,10 +57,6 @@ bronnen:
     url: https://112.be/nl/veelgestelde-vragen
   - naam: "FOD Economie: vragen van gezinnen over elektriciteitsschaarste"
     url: https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door
-  - naam: "BBK: Vorsorgen für Krisen und Katastrophen"
-    url: https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/Buergerinformationen/Ratgeber/BBK-Vorsorgen-fuer-Krisen-und-Katastrophen.pdf?__blob=publicationFile&v=44
-  - naam: "Inspecties (Nederland): Onbereikbaarheid van 112 op 24 juni 2019"
-    url: https://zoek.officielebekendmakingen.nl/blg-942150.pdf
 ---
 
 ## Herkennen
@@ -132,21 +128,16 @@ Bron: [Nationaal Crisiscentrum: wind en storm](https://crisiscentrum.be/nl/risic
 | Je hebt de brandweer nodig, zonder levensgevaar (losgewaaide dakpannen, een boom die dreigt te vallen) | Werkt het netwerk: dien een aanvraag in via het digitaal loket 1722.be of het formulier van je brandweerzone. Bel 1722 alleen als dat nummer geactiveerd is. |
 | Schade zonder gevaar, waarvoor je de brandweer niet nodig hebt (omgevallen boom in de tuin, beschadigd tuinhuis) | Schakel een vakman in, zoals een dakdekker, of herstel het zelf. |
 
-- Bel niet naar 112 voor gewone stormschade. Bij storm en hevig onweer raakt de brandweer overbelast. Het digitaal loket 1722.be is altijd beschikbaar, ook als er geen storm is. Je hebt er wel internet voor nodig.
+- Bel niet naar 112 voor gewone stormschade. Bij storm en hevig onweer raakt de brandweer overbelast. Het digitaal loket 1722.be is altijd beschikbaar, maar alleen via internet.
 - Werkt het netwerk, meld dan schade of bijzondere verschijnselen via de app van het KMI. Dat helpt het KMI om anderen te waarschuwen.
 
-**Lukt bellen niet**
-
-- Probeer een ander toestel of laat buren of omstanders bellen. Een andere operator kan helpen. Verplaats je enkele meters en probeer opnieuw.
-- Kun je nog bellen maar is 112 onbereikbaar, probeer dan 101. Bij een storing van de noodcentrales kunnen tijdelijke nummers per provincie actief zijn (zie de gids Noodoproep).
-- Werkt bellen helemaal niet: vraag hulp in je buurt en volg de informatie van de overheid op de radio. De gemeente kan een informatie- en onthaalpunt openen; vraag vooraf aan je gemeente waar dat is.
-- In Duitsland raadt de overheid aan om dan, als het kan, naar het dichtstbijzijnde politiebureau of ziekenhuis te gaan. In Nederland stuurde de overheid burgers bij de landelijke 112-storing van 2019 naar de dichtstbijzijnde brandweerkazerne of het politiebureau, en bij medische nood naar het ziekenhuis. De kaart in de app toont die, met de knop Dichtstbij.
+Lukt bellen niet, laat iemand anders bellen of vraag hulp in je buurt, en volg de informatie van de overheid op de radio. Zie Noodnummers in de app, Als bellen niet lukt.
 
 **Valt de stroom uit**
 
 - Zie de kaart Stroomuitval. Gebruik een zaklamp in plaats van kaarsen.
 
-Bron: [Nationaal Crisiscentrum: wind en storm](https://crisiscentrum.be/nl/risicos-belgie/natuurlijke-risicos/wind-en-storm) · [Nationaal Crisiscentrum: tornado](https://crisiscentrum.be/nl/risicos-belgie/natuurlijke-risicos/tornado) · [Nationaal Crisiscentrum: bliksem](https://crisiscentrum.be/nl/risicos-belgie/natuurlijke-risicos/bliksem) · [Ready.gov: thunderstorms](https://www.ready.gov/thunderstorms-lightning) · [1722](https://www.1722.be/nl/index.html) · [112.be](https://www.112.be/nl) · [Brandweer Nederland: storm- en wateroverlast](https://www.brandweer.nl/onderwerpen/storm-en-wateroverlast/) · [112.be: Veelgestelde vragen](https://112.be/nl/veelgestelde-vragen) · [FOD Economie: vragen van gezinnen over elektriciteitsschaarste](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door) · [BBK: Vorsorgen für Krisen und Katastrophen](https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/Buergerinformationen/Ratgeber/BBK-Vorsorgen-fuer-Krisen-und-Katastrophen.pdf?__blob=publicationFile&v=44) · [Inspecties: Onbereikbaarheid van 112 op 24 juni 2019](https://zoek.officielebekendmakingen.nl/blg-942150.pdf)
+Bron: [Nationaal Crisiscentrum: wind en storm](https://crisiscentrum.be/nl/risicos-belgie/natuurlijke-risicos/wind-en-storm) · [Nationaal Crisiscentrum: tornado](https://crisiscentrum.be/nl/risicos-belgie/natuurlijke-risicos/tornado) · [Nationaal Crisiscentrum: bliksem](https://crisiscentrum.be/nl/risicos-belgie/natuurlijke-risicos/bliksem) · [Ready.gov: thunderstorms](https://www.ready.gov/thunderstorms-lightning) · [1722](https://www.1722.be/nl/index.html) · [112.be](https://www.112.be/nl) · [Brandweer Nederland: storm- en wateroverlast](https://www.brandweer.nl/onderwerpen/storm-en-wateroverlast/) · [112.be: Veelgestelde vragen](https://112.be/nl/veelgestelde-vragen) · [FOD Economie: vragen van gezinnen over elektriciteitsschaarste](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door)
 
 ### Buiten of onderweg
 

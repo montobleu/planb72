@@ -80,8 +80,8 @@ Een stroomuitval duurt meestal enkele uren. Bij grote schade kan hij dagen duren
 - De centrale verwarming: de verwarmingsketel en de circulatiepomp vallen stil.
 - Liften, automatische deuren en poorten, bijvoorbeeld van de garage.
 - De waterdruk kan dalen. Hoe hoger je woont, hoe groter de kans dat er minder water uit de kraan komt.
-- Vaste telefoon en internet: een vaste lijn via internet werkt alleen als router en toestel stroom hebben. Volgens FOD Economie is het weinig waarschijnlijk dat je vaste lijn nog werkt.
-- Gsm-net: gsm-masten houden het volgens FOD Economie één tot twee uur vol zonder stroom. Mobiel internet valt snel weg, wellicht meteen. Het net raakt ook snel overbelast.
+- Vaste telefoon en internet: je vaste lijn werkt waarschijnlijk niet meer. Een vaste lijn via internet heeft stroom nodig voor router en toestel.
+- Gsm-net: gsm-masten houden het één tot twee uur vol zonder stroom. Mobiel internet valt snel weg, wellicht meteen. Het net raakt ook snel overbelast.
 - Geldautomaten, betaalterminals en tankstations.
 - Verkeerslichten, treinen, trams en metro's.
 - Hulpmiddelen voor thuiszorg, zoals beademingstoestellen, en diensten zoals een personenalarm.
@@ -192,7 +192,7 @@ Bron: [Nationaal Crisiscentrum: verstoring van elektriciteit](https://crisiscent
 - Volg het nieuws via een radio op batterijen of de autoradio.
 - Werkt het gsm-net nog, bel dan alleen als het echt nodig is en stuur liever een sms. Zo blijft het net vrij voor noodoproepen.
 - Een stroomuitval op zich is geen noodgeval. Bel 112 alleen als iemand in gevaar is.
-- Lukt bellen niet, probeer dan een ander toestel of laat buren of omstanders bellen. Werkt bellen helemaal niet, vraag dan hulp in je buurt en volg de informatie van de overheid op de radio. De gemeente kan een informatie- en onthaalpunt openen. Zie ook Noodnummers in de app, Als bellen niet lukt.
+- Lukt bellen niet, laat iemand anders bellen of vraag hulp in je buurt, en volg de informatie van de overheid op de radio. Zie Noodnummers in de app, Als bellen niet lukt.
 
 Bron: [Nationaal Crisiscentrum: verstoring van elektriciteit](https://crisiscentrum.be/nl/risicos-belgie/maatschappelijke-risicos/verstoring-van-elektriciteit) · [Nationaal Crisiscentrum: brochure OFF/ON](https://crisiscentrum.be/sites/default/files/documents/files/OffOn-triptyque-N.pdf) · [Nationaal Crisiscentrum: noodpakket](https://crisiscentrum.be/nl/wat-kan-jij-doen/maak-een-noodpakket/een-noodpakket-bij-je-thuis) · [FOD Economie: vragen van gezinnen over elektriciteitsschaarste](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door) · [112.be: Veelgestelde vragen](https://112.be/nl/veelgestelde-vragen) · [BBK: Stromausfall](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Vorsorge/Stromausfall/stromausfall_node.html) · [BBK: brochure Stromausfall](https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/Buergerinformationen/stromausfall-vorsorge-selbsthilfe.pdf?__blob=publicationFile&v=13) · [Denk vooruit: geen stroom](https://www.denkvooruit.nl/risicos/risicos-in-nederland/geen-stroom) · [CDC: power outage](https://www.cdc.gov/natural-disasters/response/what-to-do-protect-yourself-during-a-power-outage.html) · [CDC: food safety](https://www.cdc.gov/food-safety/foods/keep-food-safe-after-emergency.html) · [Ready.gov: power outages](https://www.ready.gov/power-outages) · [Speel niet met vuur: CO](https://speelnietmetvuur.be/co/)
 
@@ -223,7 +223,6 @@ Bron: [Nationaal Crisiscentrum: maak een plan](https://crisiscentrum.be/nl/wat-k
 ### Kinderen
 
 - Voorzie babyvoeding, luiers en reservekleding in je noodpakket.
-- Zet thermosflessen met warm water klaar voor babyflessen.
 - Oefen op een speelse manier wat jullie doen als de stroom uitvalt. Blijf zelf kalm en beperk angstaanjagende beelden.
 
 Bron: [Nationaal Crisiscentrum: noodpakket](https://crisiscentrum.be/nl/wat-kan-jij-doen/maak-een-noodpakket/een-noodpakket-bij-je-thuis) · [Nationaal Crisiscentrum: brochure OFF/ON](https://crisiscentrum.be/sites/default/files/documents/files/OffOn-triptyque-N.pdf) · [Denk vooruit: vragen en antwoorden](https://www.denkvooruit.nl/site/binaries/site-content/collections/documents/2025/10/27/toolkit-denk-vooruit-campagne-najaar-2025/20251111-qa-denkvooruit-bronbestand.pdf)
@@ -235,7 +234,7 @@ Bron: [Nationaal Crisiscentrum: noodpakket](https://crisiscentrum.be/nl/wat-kan-
 - Maak vooraf met je arts of zorgverlener een plan voor elektrische medische toestellen en voor geneesmiddelen die koel moeten blijven.
 - Neem vooraf contact op met de leverancier van je medische hulpmiddelen om te bespreken wat er gebeurt bij een stroomuitval.
 - Vraag je arts vooraf hoe lang je geneesmiddelen hogere temperaturen verdragen.
-- Gebruik je thuiszorg, een personenalarm of maaltijden aan huis, vraag dan vooraf of en hoe die diensten blijven werken bij een lange uitval. Een personenalarm kan uitvallen als telefoon of stroom wegvalt. Woont iemand in een woonzorgcentrum, vraag dan naar de noodstroomvoorziening.
+- Gebruik je thuiszorg, een personenalarm of maaltijden aan huis, vraag dan vooraf of en hoe die diensten blijven werken bij een lange uitval. Een personenalarm kan zelf uitvallen. Woont iemand in een woonzorgcentrum, vraag dan naar de noodstroomvoorziening.
 - Volg tijdens de uitval het plan dat je met je zorgverlener maakte.
 
 **Geneesmiddelen die koel moeten blijven**
@@ -292,7 +291,7 @@ Bron: [Speel niet met vuur: CO](https://speelnietmetvuur.be/co/) · [CDC: power 
 
 ## Meer informatie
 
-Raadpleeg deze bronnen vooraf, of tijdens de uitval als het internet werkt.
+Vooraf te lezen, of als het internet werkt:
 
 - Nationaal Crisiscentrum over verstoring van elektriciteit en het afschakelplan.
 - FOD Economie: hoe het afschakelplan werkt, tot welke schijf je gemeente behoort en wat er met telefonie gebeurt.

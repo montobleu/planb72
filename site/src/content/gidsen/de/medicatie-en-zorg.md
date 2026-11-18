@@ -97,7 +97,7 @@ Quelle: [Nationales Krisenzentrum: Ein Plan für Menschen, die zusätzliche Hilf
 
 - Stellen Sie Flaschen und Verpackungen in wasserdichte Behälter, etwa Kunststoffboxen mit Deckel, und lagern Sie sie hoch, wenn Hochwassergefahr besteht (FDA).
 - Ordnen und schützen Sie Ihre verschreibungspflichtigen Medikamente, Ihre frei verkäuflichen Mittel und Ihre Vitamine (Ready.gov).
-- Halten Sie eine Kühlbox und Kühlkompressen oder Eis für Medikamente bereit, die gekühlt werden müssen (Ready.gov, FDA).
+- Für Medikamente, die gekühlt werden müssen: siehe weiter unten, Andere Medikamente, die kühl bleiben müssen.
 
 Quelle: [FDA: Safe Drug Use After a Natural Disaster](https://www.fda.gov/drugs/emergency-preparedness-drugs/safe-drug-use-after-natural-disaster) · [Ready.gov: Build A Kit](https://www.ready.gov/kit) · [Ready.gov: People with Disabilities](https://www.ready.gov/disability)
 
@@ -142,8 +142,8 @@ Die FDA gibt diese Richtlinien. Sie beruhen auf den Etiketten der amerikanischen
 - Halten Sie Insulin so kühl wie möglich.
 - Verwenden Sie Eis, lassen Sie das Insulin nicht gefrieren. Verwenden Sie kein Insulin, das gefroren war.
 - Halten Sie Insulin von direkter Wärme und Sonnenlicht fern.
-- Extreme Temperaturen machen Insulin weniger wirksam. Je länger es ihnen ausgesetzt ist, desto schlechter wirkt es, was die Einstellung Ihres Blutzuckers erschwert. Unter Notbedingungen kann es sein, dass Sie trotzdem Insulin verwenden müssen, das über 30 °C gelagert wurde.
-- Manche Produkte haben eine andere Aufbewahrungsdauer außerhalb des Kühlschranks. Die FDA nennt als Beispiel ein Insulin, das einmal pro Woche gegeben wird und bis zu 12 Wochen unter 30 °C gelagert werden darf. Schauen Sie in die Packungsbeilage Ihres eigenen Produkts.
+- Extreme Temperaturen machen Insulin weniger wirksam: Je länger, desto schwieriger stellen Sie Ihren Blutzucker ein. Unter Notbedingungen kann es sein, dass Sie trotzdem Insulin verwenden müssen, das über 30 °C gelagert wurde.
+- Manche Produkte haben eine andere Aufbewahrungsdauer, etwa ein Insulin, das einmal pro Woche gegeben wird und bis zu 12 Wochen unter 30 °C gelagert werden darf. Schauen Sie in die Packungsbeilage Ihres eigenen Produkts.
 
 **Insulinpumpe**
 
@@ -160,7 +160,7 @@ Quelle: [FDA: Information Regarding Insulin Storage and Switching Between Produc
 
 **Vorab**
 
-- Halten Sie eine Kühlbox und Eis oder gefrorene Kühlakkus bereit und befolgen Sie die Lagerungshinweise auf dem Etikett (FDA).
+- Halten Sie eine Kühlbox und Eis, Kühlkompressen oder gefrorene Kühlakkus bereit und befolgen Sie die Lagerungshinweise auf dem Etikett (FDA, Ready.gov).
 - Fragen Sie Ihren Arzt, wie lange Ihr Medikament bei einer höheren Temperatur gelagert werden darf, und fragen Sie nach spezifischen Richtlinien für lebensnotwendige Medikamente (Ready.gov).
 
 **Nach einer Unterbrechung: Die Quellen unterscheiden sich**
@@ -168,7 +168,7 @@ Quelle: [FDA: Information Regarding Insulin Storage and Switching Between Produc
 - Die FDA: Wurde ein Medikament nicht bei der empfohlenen Temperatur gelagert, sehen Sie in den Lagerungshinweisen nach oder fragen Sie einen Apotheker, Arzt oder den Hersteller, ob Sie es noch verwenden dürfen. Ist das Medikament lebensnotwendig, wie Insulin, und gibt es nicht sofort Ersatz, dürfen Sie es verwenden, bis Sie einen neuen Vorrat haben. Ersetzen Sie es so schnell wie möglich.
 - Ready.gov: War der Strom länger als einen Tag weg, entsorgen Sie Medikamente, die gekühlt werden müssen, es sei denn, das Etikett sagt etwas anderes, und bitten Sie sofort Ihren Arzt oder Apotheker um einen neuen Vorrat.
 
-Beide Quellen raten, so schnell wie möglich Ihren Apotheker oder Arzt um Rat zu fragen. Laut FDA dürfen Sie ein lebensnotwendiges Medikament weiter verwenden, bis Sie Ersatz haben.
+Beide Quellen raten, so schnell wie möglich Ihren Apotheker oder Arzt um Rat zu fragen.
 
 Quelle: [FDA: Safe Drug Use After a Natural Disaster](https://www.fda.gov/drugs/emergency-preparedness-drugs/safe-drug-use-after-natural-disaster) · [Ready.gov: Power Outages](https://www.ready.gov/power-outages)
 
@@ -194,12 +194,12 @@ Quelle: [FDA: Safe Drug Use After a Natural Disaster](https://www.fda.gov/drugs/
 - Halten Sie einen Reservevorrat an Sauerstoff (Ready.gov).
 - Erstellen Sie eine Liste mit Typ und Seriennummer Ihrer medizinischen Geräte, gegebenenfalls mit Gebrauchsanweisungen (Ready.gov).
 - Kaufen Sie einen zusätzlichen Akku für batteriebetriebene Geräte und halten Sie ihn geladen (Ready.gov).
-- Warten Sie nicht auf einen Stromausfall. Prüfen Sie, wie lange der vollständig aufgeladene interne Akku Ihres Geräts hält. Ist das kürzer, als der Ausfall dauern kann, brauchen Sie eine Aufnahme an einem anderen Ort: Klären Sie diese Möglichkeiten im Voraus (FÖD Wirtschaft).
+- Prüfen Sie im Voraus, wie lange der vollständig aufgeladene interne Akku Ihres Geräts hält. Ist das kürzer, als der Ausfall dauern kann, brauchen Sie eine Aufnahme an einem anderen Ort: Klären Sie diese Möglichkeiten im Voraus (FÖD Wirtschaft).
 - Verwenden Sie ein Gerät mit Unterbrechungen, wie bei der Heimdialyse, sorgen Sie dafür, dass es zum Zeitpunkt einer angekündigten Abschaltung nicht angeschlossen ist (FÖD Wirtschaft).
 
-**Was das BBK zur häuslichen Pflege sagt.** Bei einem Stromausfall können in der häuslichen Pflege Geräte ausfallen, die lebensnotwendig sein können, etwa Beatmungsgeräte. Dienste wie Hausnotruf und Essen auf Rädern können gestört werden oder ausfallen. Nutzen Sie solche Dienste, fragen Sie, ob und wie sie bei einem längeren Stromausfall weiterlaufen.
+**Häusliche Pflege (BBK).** Bei einem Stromausfall können lebensnotwendige Geräte wie Beatmungsgeräte ausfallen, und Dienste wie Hausnotruf und Essen auf Rädern können wegfallen. Fragen Sie, ob und wie sie bei einem längeren Stromausfall weiterlaufen.
 
-Siehe auch den Leitfaden zu Licht und Energie für Batterien, Powerbanks und Generatoren, und unten, was Sie tun, wenn Sie Ihre Behandelnden nicht anrufen können.
+Siehe auch den Leitfaden zu Licht und Energie für Batterien, Powerbanks und Generatoren.
 
 Quelle: [Nationales Krisenzentrum: Ein Plan für Menschen, die zusätzliche Hilfe brauchen](https://krisenzentrum.be/de/was-koennen-sie-tun/bereiten-sie-sich-vor/ein-plan-fuer-personen-die-zusaetzliche-hilfe-benoetigen) · [FÖD Wirtschaft: Fragen von Haushalten zur Stromknappheit](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door) · [Ready.gov: People with Disabilities](https://www.ready.gov/disability) · [Ready.gov: Power Outages](https://www.ready.gov/power-outages) · [BBK: Stromausfall, Vorsorge und Selbsthilfe](https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/Buergerinformationen/stromausfall-vorsorge-selbsthilfe.pdf?__blob=publicationFile&v=17)
 
@@ -215,34 +215,30 @@ Quelle: [Ready.gov: People with Disabilities](https://www.ready.gov/disability) 
 
 ## Wenn Sie Ihre Behandelnden nicht anrufen können
 
-Bei einem Stromausfall halten Mobilfunkmasten ein bis zwei Stunden durch, mobiles Internet fällt schnell aus und die meisten Festnetzleitungen funktionieren nicht mehr (FÖD Wirtschaft). Auch der Hausnotruf kann ausfallen (BBK). Wer auf Sauerstoff, Dialyse, Heimbeatmung oder ein anderes Gerät angewiesen ist, regelt deshalb im Voraus, was geschieht, wenn niemand zu erreichen ist.
+Bei einem Stromausfall halten Mobilfunkmasten ein bis zwei Stunden durch, mobiles Internet fällt schnell aus und die meisten Festnetzleitungen funktionieren nicht mehr (FÖD Wirtschaft). Auch der Hausnotruf kann ausfallen (BBK). Wer auf ein Gerät oder eine Behandlung angewiesen ist, regelt deshalb im Voraus, was geschieht, wenn niemand zu erreichen ist. Die Absprachen zu Ihrem Gerät und Ihrem Behandlungszentrum stehen in den zwei Abschnitten oben.
 
 **Im Voraus vereinbaren**
 
-- Besprechen Sie mit Ihren Pflegenden und Behandelnden, was Sie bei einer Panne Ihres Geräts tun (Krisenzentrum). Vereinbaren Sie auch, wie Sie einander im Notfall erreichen, und denken Sie an Alternativen, wenn Sie kein Telefon oder Internet haben (Krisenzentrum).
-- Nutzen Sie häusliche Pflege oder einen Hausnotruf, fragen Sie, ob und wie diese Dienste bei einem langen Stromausfall weiterlaufen (BBK).
-- Erhalten Sie eine Behandlung in einer Klinik oder einem Krankenhaus, fragen Sie nach deren Notfallplan und suchen Sie gemeinsam eine Ausweichadresse (Ready.gov). Kennen Sie die Lage von mehr als einem Ort, der Ihnen helfen kann (Ready.gov).
-- Prüfen Sie, wie lange der Akku Ihres Geräts hält und wo Sie sonst aufgenommen werden können (FÖD Wirtschaft).
-- Fragen Sie Ihre Gemeinde, welche Lösungen sie bei einem Stromausfall vorsieht, zum Beispiel eine Informations- und Anlaufstelle für die Bevölkerung (FÖD Wirtschaft). In Deutschland empfiehlt das BBK, bei der Gemeinde zu fragen, wo Sie einen Notruf absetzen können, wenn das Telefonnetz ausfällt.
-- Vereinbaren Sie mit Ihren Nachbarn, wie Sie einander ohne Telefon oder Internet erreichen und wer zusätzliche Hilfe braucht (Krisenzentrum, Plan in Ihrem Viertel).
-- Sorgen Sie dafür, dass mindestens eine Person aus Ihrem Unterstützungsnetz einen Schlüssel hat, weiß, wo Ihr Vorrat liegt, und weiß, wie sie Ihre lebensrettenden Geräte bedient (Ready.gov). Siehe unten bei pflegebedürftigen Personen.
+- Vereinbaren Sie mit Ihren Pflegenden und Behandelnden, wie Sie einander im Notfall erreichen, auch ohne Telefon oder Internet (Krisenzentrum).
+- Fragen Sie Ihre Gemeinde, welche Lösungen sie bei einem Stromausfall vorsieht, etwa eine Informations- und Anlaufstelle für die Bevölkerung (FÖD Wirtschaft). In Deutschland empfiehlt das BBK, zu fragen, wo Sie einen Notruf absetzen können, wenn das Telefonnetz ausfällt.
+- Vereinbaren Sie mit Ihren Nachbarn, wie Sie einander ohne Telefon oder Internet erreichen und wer zusätzliche Hilfe braucht (Krisenzentrum).
 
 **Auf Papier**
 
-- Eine Liste mit Name, Adresse und Telefonnummer Ihrer Pflegenden, Behandelnden und Kontaktpersonen. So finden Sie einander wieder, auch wenn Ihr Handy leer ist (Krisenzentrum).
-- Eine Liste der nächstgelegenen medizinischen Einrichtungen und Krankenhäuser und von geeigneter Beförderung (Ready.gov).
-- Typ und Seriennummer Ihrer Geräte, mit den Gebrauchsanweisungen (Ready.gov), und Ihre Medikamentenliste.
-- Bewahren Sie Ihre Kontaktliste in einer wasserdichten Verpackung bei Ihrem Notfallpaket auf (Ready.gov).
+- Name, Adresse und Telefonnummer Ihrer Pflegenden, Behandelnden und Kontaktpersonen, damit Sie einander wiederfinden, auch wenn Ihr Handy leer ist (Krisenzentrum).
+- Die nächstgelegenen medizinischen Einrichtungen und Krankenhäuser und geeignete Beförderung (Ready.gov).
+- Die Liste Ihrer Geräte und Ihre Medikamentenliste.
+- Bewahren Sie dies in einer wasserdichten Verpackung bei Ihrem Notfallpaket auf (Ready.gov).
 
 **Wenn es so weit ist und kein Anruf zustande kommt**
 
 1. Folgen Sie den Absprachen, die Sie im Voraus getroffen haben.
-2. Bitten Sie in Ihrer Nachbarschaft um Hilfe (FÖD Wirtschaft), bei Nachbarn, Familie und den Menschen aus Ihrem Unterstützungsnetz (Ready.gov). Das BBK empfiehlt, Ihre Nachbarn anzusprechen: Vielleicht brauchen sie Hilfe oder können Ihnen helfen.
-3. Verfolgen Sie die Informationen der Behörden über ein batteriebetriebenes Radio oder das Autoradio (FÖD Wirtschaft). Die Gemeinde kann eine Informations- und Anlaufstelle für die Bevölkerung öffnen (FÖD Wirtschaft).
-4. Hält der Akku eines lebensnotwendigen Geräts weniger lange als der Ausfall, brauchen Sie eine Aufnahme an einem anderen Ort (FÖD Wirtschaft). Gehen Sie zu dem Ort, den Sie im Voraus vereinbart haben.
+2. Bitten Sie in Ihrer Nachbarschaft um Hilfe, bei Nachbarn, Familie und Ihrem Unterstützungsnetz (FÖD Wirtschaft, Ready.gov). Sprechen Sie Ihre Nachbarn an: Vielleicht brauchen sie Hilfe oder können Ihnen helfen (BBK).
+3. Verfolgen Sie die Informationen der Behörden über ein batteriebetriebenes Radio oder das Autoradio. Die Gemeinde kann eine Informations- und Anlaufstelle öffnen (FÖD Wirtschaft).
+4. Hält der Akku eines lebensnotwendigen Geräts weniger lange als der Ausfall, gehen Sie zu dem Aufnahmeort, den Sie im Voraus vereinbart haben (FÖD Wirtschaft).
 5. Bei Lebensgefahr: Rufen Sie die 112 an oder lassen Sie jemanden anrufen. Kommt kein Anruf zustande, siehe Notrufnummern in der App, Wenn kein Anruf möglich ist. Die Karte in der App (Schaltfläche Am nächsten) zeigt Krankenhäuser, Feuerwehr, Polizei und Gemeindehäuser.
 
-Gut zu wissen: Allgemeine und psychiatrische Krankenhäuser gehören zu den vorrangigen Nutzern. Bei einer Abschaltung werden sie grundsätzlich nicht abgeschaltet oder vorrangig wieder versorgt. Altenheime und Pflegezentren gehören nicht dazu (FÖD Wirtschaft). In Deutschland empfiehlt das BBK, bei einem Notfall möglichst zur nächstgelegenen Polizeidienststelle oder zum nächstgelegenen Krankenhaus zu gehen, wenn die Notrufnummern nicht funktionieren.
+Gut zu wissen: Allgemeine und psychiatrische Krankenhäuser werden bei einer Abschaltung grundsätzlich nicht abgeschaltet oder vorrangig wieder versorgt; Altenheime und Pflegezentren nicht (FÖD Wirtschaft). In Deutschland empfiehlt das BBK, bei einem Notfall möglichst zur nächstgelegenen Polizeidienststelle oder zum nächstgelegenen Krankenhaus zu gehen, wenn die Notrufnummern nicht funktionieren.
 
 Quelle: [FÖD Wirtschaft: Fragen von Haushalten zur Stromknappheit](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door) · [Nationales Krisenzentrum: Ein Plan für Menschen, die zusätzliche Hilfe brauchen](https://krisenzentrum.be/de/was-koennen-sie-tun/bereiten-sie-sich-vor/ein-plan-fuer-personen-die-zusaetzliche-hilfe-benoetigen) · [Nationales Krisenzentrum: Ein Plan bei Ihnen zu Hause](https://krisenzentrum.be/de/was-koennen-sie-tun/make-plan/ein-notfallplan-zu-hause) · [Nationales Krisenzentrum: Ein Plan in Ihrem Viertel oder Verein](https://krisenzentrum.be/de/was-koennen-sie-tun/erstellen-sie-einen-plan/ein-plan-ihrem-viertel-oder-ihrem-verein) · [112.be: Häufig gestellte Fragen](https://112.be/de/haeufig-gestellte-fragen) · [BBK: Stromausfall, Vorsorge und Selbsthilfe](https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/Buergerinformationen/stromausfall-vorsorge-selbsthilfe.pdf?__blob=publicationFile&v=17) · [BBK: Vorsorgen für Krisen und Katastrophen](https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/Buergerinformationen/Ratgeber/BBK-Vorsorgen-fuer-Krisen-und-Katastrophen.pdf?__blob=publicationFile&v=44) · [Ready.gov: People with Disabilities](https://www.ready.gov/disability) · [Ready.gov: Older Adults](https://www.ready.gov/older-adults)
 
@@ -269,11 +265,9 @@ Quelle: [FÖD Wirtschaft: Fragen von Haushalten zur Stromknappheit](https://econ
 - Zur Vorbereitung, solange das Internet funktioniert: Melden Sie sich bei Farmastatus an, um automatisch E-Mails zu erhalten, wenn sich die Verfügbarkeit eines Medikaments ändert, und lesen Sie auf farmainfo.be, was Sie selbst tun können.
 - Die Föderalagentur für Arzneimittel und Gesundheitsprodukte (FAAG) überwacht die Versorgung; Hersteller müssen Lieferengpässe melden.
 
-**Wenn Versorgung vorübergehend nicht erreichbar ist.** Siehe den Abschnitt Wenn Sie Ihre Behandelnden nicht anrufen können. In Deutschland schreibt das BBK: Funktionieren die Notrufnummern nicht mehr, gehen Sie bei einem Notfall möglichst zur nächstgelegenen Polizeidienststelle oder zum nächstgelegenen Krankenhaus. Die WHO nennt die Versorgung chronischer Erkrankungen unter den Dingen, die Menschen nach einer Katastrophe oft brauchen (siehe den Leitfaden zur Evakuierung).
+**Wenn Versorgung vorübergehend nicht erreichbar ist.** Siehe Wenn Sie Ihre Behandelnden nicht anrufen können. Die WHO nennt die Versorgung chronischer Erkrankungen unter dem, was Menschen nach einer Katastrophe oft brauchen (siehe den Leitfaden zur Evakuierung).
 
-**Rücksprache.** Die FDA sagt bei Insulin ausdrücklich, dass die Umstellung auf ein anderes Produkt nur unter ärztlicher Aufsicht erfolgt.
-
-Quelle: [APB, apotheek.be: Bereitschaftsapotheke](https://www.apotheek.be/Pharmacy/Article/wat-je-moet-weten-over-de-apotheek-van-wacht~1236) · [Nationales Krisenzentrum: Broschüre Gemeinsam vorbereitet](https://krisenzentrum.be/sites/default/files/documents/files/WEB-Brosch%C3%BCre%20Gemeinsam%20Vorbereitet-DE.pdf) · [Nationales Krisenzentrum: Störung der Arzneimittelversorgung](https://krisenzentrum.be/de/risiken-belgien/maatschappelijke-risicos/ausfall-der-versorgung-mit-medizinischer-ausruestung) · [BBK: Vorsorgen für Krisen und Katastrophen](https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/Buergerinformationen/Ratgeber/BBK-Vorsorgen-fuer-Krisen-und-Katastrophen.pdf?__blob=publicationFile&v=44) · [FDA: Information Regarding Insulin Storage](https://www.fda.gov/drugs/emergency-preparedness-drugs/information-regarding-insulin-storage-and-switching-between-products-emergency) · [WHO: Psychological first aid](https://psychiatry.uw.edu/wp-content/uploads/2020/04/1.-WHO_PFA_2011.pdf)
+Quelle: [APB, apotheek.be: Bereitschaftsapotheke](https://www.apotheek.be/Pharmacy/Article/wat-je-moet-weten-over-de-apotheek-van-wacht~1236) · [Nationales Krisenzentrum: Broschüre Gemeinsam vorbereitet](https://krisenzentrum.be/sites/default/files/documents/files/WEB-Brosch%C3%BCre%20Gemeinsam%20Vorbereitet-DE.pdf) · [Nationales Krisenzentrum: Störung der Arzneimittelversorgung](https://krisenzentrum.be/de/risiken-belgien/maatschappelijke-risicos/ausfall-der-versorgung-mit-medizinischer-ausruestung) · [WHO: Psychological first aid](https://psychiatry.uw.edu/wp-content/uploads/2020/04/1.-WHO_PFA_2011.pdf)
 
 ## Hilfsmittel
 
@@ -295,7 +289,7 @@ Quelle: [BBK: Vorsorgen für Krisen und Katastrophen](https://www.bbk.bund.de/Sh
 
 - Treffen Sie Vorkehrungen, um pflegebedürftige Angehörige bei Bedarf eine Zeit lang selbst zu versorgen (BBK).
 - Bauen Sie ein Unterstützungsnetz aus Familie, Freunden und anderen auf, die helfen können. Sorgen Sie dafür, dass mindestens eine Person einen Schlüssel zur Wohnung hat, weiß, wo der Notvorrat liegt, und weiß, wie sie lebensrettende Geräte bedient oder Medikamente verabreicht (Ready.gov, ältere Menschen).
-- Vereinbaren Sie, wie Sie einander im Notfall erreichen, auch wenn Telefon und Internet nicht funktionieren (Krisenzentrum). Menschen aus Ihrem Umfeld können Ihre Adresse bei BE-Alert registrieren, damit auch sie eine Nachricht erhalten, solange das Netz funktioniert (Krisenzentrum).
+- Menschen aus Ihrem Umfeld können Ihre Adresse bei BE-Alert registrieren, damit auch sie eine Nachricht erhalten, solange das Netz funktioniert (Krisenzentrum).
 - Erhalten Sie Hilfe von der Gemeinde oder der häuslichen Pflege, sprechen Sie mit Ihrer Familie, Nachbarn, Assistenten oder der zuständigen Pflegeperson darüber, welche Hilfe Sie brauchen werden, und erstellen Sie einen Plan mit Ihren Medikamenten und Hilfsmitteln (MCF).
 
 **In einem Wohn- und Pflegezentrum.** Fragen Sie nach der Notstromplanung oder einem Anschluss für Notstrom (BBK).

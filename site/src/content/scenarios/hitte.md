@@ -110,14 +110,14 @@ Bron: [Nationaal Crisiscentrum: hittegolf](https://crisiscentrum.be/nl/risicos-b
 
 **Voor anderen**
 
-- Maak een lijst van contactpersonen voor een oudere naaste: buren, familie, huisarts, thuisverpleging. Zorg dat die lijst ook op papier bestaat.
+- Maak een papieren lijst van contactpersonen voor een oudere naaste: buren, familie, huisarts, thuisverpleging.
 - Bezorg de contactpersonen een sleutel als dat nodig is.
 - Vraag je gemeente naar initiatieven voor burenhulp.
 - Help mensen die hulp nodig hebben om zich voor te bereiden.
 
 **Water en stroom**
 
-- Water- en stroomuitval zijn bij warm weer extra lastig. Hou flessen water, andere drank en een opgeladen powerbank in huis.
+- Water- en stroomuitval zijn bij warm weer extra lastig. Hou flessen water en een opgeladen powerbank in huis.
 - Zoek nu al uit waar je verkoeling kunt vinden als het thuis te heet wordt.
 - Maak afspraken met buren, familie of vrienden om bij warm weer contact te houden, ook als telefoon of internet niet werkt.
 
@@ -145,7 +145,7 @@ Bron: [Warme dagen: hoe afkoelen](https://www.warmedagen.be/tips-bij-warm-weer/h
 
 - Open de ramen zodra het buiten koeler is dan binnen, meestal 's avonds en 's nachts. Let op het risico op inbraak.
 - Hou overdag zonwering, ramen en deuren dicht als het buiten warmer is.
-- Kun je je woning niet koel genoeg krijgen, ga dan naar een koelere plek. Mogelijke koele plekken zijn bibliotheken, dienstencentra, overdekte winkelcentra, gebedshuizen, parken en bossen. Sommige gemeenten richten koelteplekken in.
+- Kun je je woning niet koel genoeg krijgen, ga dan naar een koelere plek. Bijvoorbeeld een bibliotheek, een dienstencentrum of een park. Sommige gemeenten richten koelteplekken in.
 - Vertrouw niet alleen op een ventilator. Een koele douche of een koele plek helpt meer.
 
 Bron: [Warme dagen: eten en drinken](https://www.warmedagen.be/tips-bij-warm-weer/eten-en-drinken-bij-warm-weer) · [Warme dagen: hoe afkoelen](https://www.warmedagen.be/tips-bij-warm-weer/hoe-afkoelen-bij-warm-weer) · [Warme dagen](https://www.warmedagen.be/) · [Nationaal Crisiscentrum: hittegolf](https://crisiscentrum.be/nl/risicos-belgie/natuurlijke-risicos/hittegolf) · [KMI: legende hitte](https://www.meteo.be/nl/weer/waarschuwingen/legenda-hitte) · [CDC: power outage](https://www.cdc.gov/natural-disasters/response/what-to-do-protect-yourself-during-a-power-outage.html)
@@ -205,7 +205,6 @@ Bron: [FOD Werkgelegenheid](https://werk.belgie.be/nl/themas/welzijn-op-het-werk
 - Geef borstvoeding vaker. De moeder drinkt zelf extra.
 - Vraag medisch advies als een baby minder dan 4 natte luiers in 24 uur heeft, of bij ingevallen ogen, extreme sufheid of prikkelbaarheid, koorts, braken, diarree of moeite met ademen.
 - Voorzie waterspeelgoed of een badje om af te koelen.
-- Laat een kind nooit achter in een geparkeerde auto.
 
 Bron: [Warme dagen: eten en drinken](https://www.warmedagen.be/tips-bij-warm-weer/eten-en-drinken-bij-warm-weer) · [Warme dagen: zorg voor elkaar](https://www.warmedagen.be/zorg-voor-elkaar) · [Warme dagen: hoe afkoelen](https://www.warmedagen.be/tips-bij-warm-weer/hoe-afkoelen-bij-warm-weer) · [Nationaal Crisiscentrum: hittegolf](https://crisiscentrum.be/nl/risicos-belgie/natuurlijke-risicos/hittegolf)
 
@@ -215,7 +214,7 @@ Bron: [Warme dagen: eten en drinken](https://www.warmedagen.be/tips-bij-warm-wee
 
 - Ga op warme dagen extra langs bij ouderen, of bel regelmatig. Breng groenten en fruit mee voor lichte maaltijden.
 - Spreek af wie langsgaat als jij het niet kunt. Zorg dat ze een werkende telefoon hebben.
-- Voelt een oudere zich niet goed, roep dan meteen hulp in. Bel 112 als dat nodig is. Lukt dat niet, laat iemand anders bellen of vraag hulp in je buurt (zie Noodnummers, Als bellen niet lukt).
+- Voelt een oudere zich niet goed, roep dan meteen hulp in, zo nodig via 112. Lukt bellen niet, laat iemand anders bellen of vraag hulp in je buurt (zie Noodnummers, Als bellen niet lukt).
 - Moedig aan om regelmatig te drinken, ook zonder dorst, en al enkele dagen voor de hitte. Bied afwisseling aan: water, koffie, thee.
 - Bied verkoeling aan: een waterverstuiver, een koele doek, een douche of een voetbad.
 - Let op tekenen van uitdroging, vermoeidheid en bloeddruk. Ouderen kunnen snel achteruitgaan.
@@ -264,7 +263,7 @@ Bron: [Vlaanderen Huisdierinfo: dieren en warm weer](https://www.vlaanderen.be/h
 
 **Bij een hitteslag: meteen handelen**
 
-1. Bel 112 of laat iemand bellen als de persoon het bewustzijn verliest, en volg de instructies van de hulpdiensten. Lukt dat niet, laat iemand anders bellen of vraag hulp in je buurt (zie Noodnummers, Als bellen niet lukt). Zie ook de eerstehulpkaart Oververhitting en hitteslag.
+1. Bel 112 als de persoon het bewustzijn verliest, en volg de instructies van de hulpdiensten. Lukt dat niet, laat iemand anders bellen of vraag hulp in je buurt (zie Noodnummers, Als bellen niet lukt). Zie ook de eerstehulpkaart Oververhitting en hitteslag.
 2. Breng de persoon naar een koele plek.
 3. Koel meteen af: besproei of overgiet de huid met water en waaier tegelijk koelte toe. IJspakken in de oksels, de nek en de liezen helpen.
 4. Geef niets te drinken.

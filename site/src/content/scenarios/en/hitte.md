@@ -112,14 +112,14 @@ Source: [National Crisis Center: heatwave](https://crisiscenter.be/en/risks-belg
 
 **For others**
 
-- Make a list of contact people for an older relative: neighbours, family, GP, home nursing. Make sure that list also exists on paper.
+- Make a paper list of contact people for an older relative: neighbours, family, GP, home nursing.
 - Give the contact people a key if necessary.
 - Ask your municipality about neighbourhood help initiatives.
 - Help people who need help to prepare.
 
 **Water and power**
 
-- Water and power cuts are particularly difficult in hot weather. Keep bottles of water, other drinks and a charged power bank in the house.
+- Water and power cuts are particularly difficult in hot weather. Keep bottles of water and a charged power bank in the house.
 - Find out now where you can cool off if it gets too hot at home.
 - Make arrangements with neighbours, family or friends to keep in touch in hot weather, also if the phone or internet does not work.
 
@@ -147,7 +147,7 @@ Source: [Warme dagen: how to cool down](https://www.warmedagen.be/tips-bij-warm-
 
 - Open the windows as soon as it is cooler outside than inside, usually in the evening and at night. Be aware of the risk of burglary.
 - During the day, keep sun shading, windows and doors closed when it is warmer outside.
-- If you cannot get your home cool enough, go to a cooler place. Possible cool places are libraries, community centres, covered shopping centres, places of worship, parks and woods. Some municipalities set up cool spaces.
+- If you cannot get your home cool enough, go to a cooler place. For example a library, a community centre or a park. Some municipalities set up cool spaces.
 - Do not rely on a fan alone. A cool shower or a cool place helps more.
 
 Source: [Warme dagen: eating and drinking](https://www.warmedagen.be/tips-bij-warm-weer/eten-en-drinken-bij-warm-weer) · [Warme dagen: how to cool down](https://www.warmedagen.be/tips-bij-warm-weer/hoe-afkoelen-bij-warm-weer) · [Warme dagen](https://www.warmedagen.be/) · [National Crisis Center: heatwave](https://crisiscenter.be/en/risks-belgium/natural-risks/heatwave) · [RMI: heat legend](https://www.meteo.be/en/weather/warnings/legend-heat) · [CDC: power outage](https://www.cdc.gov/natural-disasters/response/what-to-do-protect-yourself-during-a-power-outage.html)
@@ -207,7 +207,6 @@ Source: [FPS Employment](https://werk.belgie.be/nl/themas/welzijn-op-het-werk/om
 - Breastfeed more often. The mother drinks extra herself.
 - Seek medical advice if a baby has fewer than 4 wet nappies in 24 hours, or in case of sunken eyes, extreme drowsiness or irritability, fever, vomiting, diarrhoea or difficulty breathing.
 - Provide water toys or a paddling pool to cool off.
-- Never leave a child in a parked car.
 
 Source: [Warme dagen: eating and drinking](https://www.warmedagen.be/tips-bij-warm-weer/eten-en-drinken-bij-warm-weer) · [Warme dagen: look after each other](https://www.warmedagen.be/zorg-voor-elkaar) · [Warme dagen: how to cool down](https://www.warmedagen.be/tips-bij-warm-weer/hoe-afkoelen-bij-warm-weer) · [National Crisis Center: heatwave](https://crisiscenter.be/en/risks-belgium/natural-risks/heatwave)
 
@@ -217,7 +216,7 @@ Source: [Warme dagen: eating and drinking](https://www.warmedagen.be/tips-bij-wa
 
 - On hot days, call round on older people more often, or phone regularly. Bring vegetables and fruit for light meals.
 - Agree who will call round if you cannot. Make sure they have a working phone.
-- If an older person feels unwell, get help immediately. Call 112 if necessary. If that does not work, have someone else call or ask for help nearby (see Emergency numbers, If you cannot call).
+- If an older person feels unwell, get help immediately, via 112 if necessary. If you cannot get through, have someone else call or ask for help nearby (see Emergency numbers, If you cannot call).
 - Encourage them to drink regularly, even when not thirsty, starting a few days before the heat. Offer variety: water, coffee, tea.
 - Offer ways to cool down: a water spray, a cool cloth, a shower or a footbath.
 - Watch for signs of dehydration, tiredness and blood pressure. Older people can deteriorate quickly.
@@ -266,7 +265,7 @@ Source: [Vlaanderen Huisdierinfo: animals and hot weather](https://www.vlaandere
 
 **In case of heatstroke: act immediately**
 
-1. Call 112 or have someone call if the person loses consciousness, and follow the instructions of the emergency services. If that does not work, have someone else call or ask for help nearby (see Emergency numbers, If you cannot call). See also the first aid card Overheating and heatstroke.
+1. Call 112 if the person loses consciousness, and follow the instructions of the emergency services. If that does not work, have someone else call or ask for help nearby (see Emergency numbers, If you cannot call). See also the first aid card Overheating and heatstroke.
 2. Bring the person to a cool place.
 3. Cool them down immediately: spray or pour water over the skin and fan them at the same time. Ice packs in the armpits, the neck and the groin help.
 4. Do not give them anything to drink.

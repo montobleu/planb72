@@ -40,8 +40,6 @@ bronnen:
     url: "https://www.rodekruis.be/wat-doen-we/hulp-in-vlaanderen/goed-voorbereid/stroom-en-communicatie-uitval/"
   - naam: "Centre de crise National : l'information pendant une situation d'urgence"
     url: "https://centredecrise.be/fr/que-pouvez-vous-faire/informez-vous/linformation-pendant-une-situation-durgence"
-  - naam: "112.be : Questions fréquentes"
-    url: "https://112.be/fr/questions-frequentes"
   - naam: "Centre de crise National : un plan dans votre quartier ou association"
     url: "https://centredecrise.be/fr/que-pouvez-vous-faire/faites-un-plan/un-plan-dans-votre-quartier-ou-votre-association"
 vertaling: machine
@@ -171,13 +169,13 @@ Source : [BBK: Stromausfall, Vorsorge und Selbsthilfe](https://www.bbk.bund.de/S
 
 - N'appelez le 112 qu'en cas de danger immédiat et limitez votre utilisation du téléphone, pour ne pas surcharger le réseau (Croix-Rouge de Flandre).
 - Ne téléphonez que si c'est vraiment nécessaire et utilisez de préférence les SMS (OFF ON).
-- Lors d'une situation d'urgence importante, utilisez les applications de messagerie au lieu d'appeler ; la surcharge du réseau peut perturber les secours (brochure du Centre de crise). Les applications de messagerie ont besoin de l'internet mobile, qui tombe vite lors d'une coupure de courant (SPF Économie).
+- Lors d'une situation d'urgence importante, utilisez les applications de messagerie au lieu d'appeler (brochure du Centre de crise). Elles ont besoin de l'internet mobile, qui tombe vite lors d'une coupure de courant (SPF Économie).
 
 **Quand les appels et internet ne fonctionnent plus**
 
 - Suivez les informations via une radio à piles, une radio à manivelle ou l'autoradio (OFF ON, SPF Économie).
 - Les autorités peuvent aussi informer au moyen de véhicules de police avec haut-parleur, de panneaux d'information, de dépliants et en porte-à-porte (Centre de crise).
-- Si vous ne pouvez plus appeler, consultez les informations générales des autorités ou demandez de l'aide dans votre quartier (SPF Économie). Lors d'un délestage, les communes peuvent ouvrir un point d'information et d'accueil pour la population. Demandez à l'avance à votre commune quelles solutions elle prévoit (SPF Économie).
+- Si vous ne pouvez plus appeler, demandez de l'aide dans votre quartier. Lors d'un délestage, les communes peuvent ouvrir un point d'information et d'accueil ; demandez à l'avance ce que votre commune prévoit (SPF Économie).
 - Si vous devez joindre les services de secours : voir Numéros d'urgence dans l'application, Si l'appel ne passe pas. La carte de l'application (bouton Le plus proche) montre les pompiers, la police, les hôpitaux et les maisons communales.
 
 Plus d'informations dans le guide sur la communication et l'alerte.
@@ -196,9 +194,9 @@ Source : [Denk vooruit : livret d'information](https://www.denkvooruit.nl/site/b
 8. Renseignez-vous auprès de vos proches et voisins vulnérables pour savoir si tout va bien (OFF ON). Veillez sur les voisins ou les membres de la famille qui ont besoin d'une aide supplémentaire (Croix-Rouge de Flandre).
 9. Réunissez-vous avec des voisins ou de la famille pour partager la lumière et la chaleur. Convenez à l'avance chez qui vous pouvez aller et quelles affaires vous partagez (Centre de crise, kit d'urgence).
 
-Le BBK dit : une panne de courant n'est pas en soi une urgence. N'appelez pas les numéros d'urgence pour demander des informations ; cela surcharge les centrales d'urgence. N'appelez le 112 qu'en cas de danger immédiat (Croix-Rouge de Flandre). Si l'appel ne passe pas, demandez à quelqu'un d'autre d'appeler ou demandez de l'aide dans votre quartier (voir Numéros d'urgence, Si l'appel ne passe pas).
+Une panne de courant n'est pas en soi une urgence : n'appelez pas les numéros d'urgence pour demander des informations, cela surcharge les centrales d'urgence (BBK). N'appelez le 112 qu'en cas de danger immédiat (Croix-Rouge de Flandre). Si l'appel ne passe pas, voir Numéros d'urgence dans l'application, Si l'appel ne passe pas.
 
-Source : [Centre de crise National : Perturbation de l'électricité](https://centredecrise.be/fr/risques-en-belgique/risques-societaux/defaillance-de-lapprovisionnement-en-electricite) · [Centre de crise National : OFF ON](https://centredecrise.be/sites/default/files/documents/files/OffOn-triptyque-F.pdf) · [Centre de crise National : Un kit d'urgence chez vous](https://centredecrise.be/fr/que-pouvez-vous-faire/preparez-un-kit-durgence/un-kit-durgence-la-maison) · [Croix-Rouge de Flandre : panne de courant et de communication](https://www.rodekruis.be/wat-doen-we/hulp-in-vlaanderen/goed-voorbereid/stroom-en-communicatie-uitval/) · [SPF Économie : questions des ménages sur la pénurie d'électricité](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door) · [112.be : Questions fréquentes](https://112.be/fr/questions-frequentes) · [BBK: Stromausfall, Vorsorge und Selbsthilfe](https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/Buergerinformationen/stromausfall-vorsorge-selbsthilfe.pdf?__blob=publicationFile&v=17)
+Source : [Centre de crise National : Perturbation de l'électricité](https://centredecrise.be/fr/risques-en-belgique/risques-societaux/defaillance-de-lapprovisionnement-en-electricite) · [Centre de crise National : OFF ON](https://centredecrise.be/sites/default/files/documents/files/OffOn-triptyque-F.pdf) · [Centre de crise National : Un kit d'urgence chez vous](https://centredecrise.be/fr/que-pouvez-vous-faire/preparez-un-kit-durgence/un-kit-durgence-la-maison) · [Croix-Rouge de Flandre : panne de courant et de communication](https://www.rodekruis.be/wat-doen-we/hulp-in-vlaanderen/goed-voorbereid/stroom-en-communicatie-uitval/) · [BBK: Stromausfall, Vorsorge und Selbsthilfe](https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/Buergerinformationen/stromausfall-vorsorge-selbsthilfe.pdf?__blob=publicationFile&v=17)
 
 ## Quand le courant revient
 

@@ -79,12 +79,12 @@ Source : [Centre de crise National : Évacuer](https://centredecrise.be/fr/que-p
 
 **Comment vous l'apprenez, même sans réseau**
 
-- Écoutez la radio à piles, une radio à manivelle ou l'autoradio (Centre de crise, SPF Économie). Ready.gov dit la même chose : pendant une évacuation, écoutez une radio à piles et suivez les instructions locales.
+- Écoutez la radio à piles, une radio à manivelle ou l'autoradio (Centre de crise, SPF Économie, Ready.gov).
 - La police peut circuler dans la rue avec des véhicules équipés de haut-parleurs (Centre de crise).
 - Les autorités peuvent aussi passer de porte en porte, ou utiliser des panneaux d'information et des dépliants (brochure).
 - Suivez les instructions des services de secours sur place (Centre de crise).
 
-**Si le réseau fonctionne,** les instructions arrivent aussi par BE-Alert, la télévision, les sites web de la commune, de la province et du Centre de crise et les réseaux sociaux. Lors d'une situation d'urgence importante ou quand il faut agir d'urgence, comme pour une évacuation, les autorités peuvent envoyer un SMS à toutes les personnes présentes dans la zone, même à celles qui ne sont pas inscrites à BE-Alert (BE-Alert). Lors d'une coupure de courant, internet et les réseaux mobiles peuvent tomber en panne (brochure).
+**Si le réseau fonctionne,** les instructions arrivent aussi par BE-Alert, la télévision, les sites web officiels et les réseaux sociaux. Lors d'une évacuation, les autorités peuvent envoyer un SMS à toutes les personnes présentes dans la zone, même à celles qui ne sont pas inscrites à BE-Alert (BE-Alert).
 
 **Ready.gov** conseille de partir assez tôt pour ne pas être bloqué par le mauvais temps.
 
@@ -133,7 +133,7 @@ En cas d'inondation, aussi des vêtements de rechange et des bottes (Centre de c
 
 **Vêtements (Ready.gov).** Portez des chaussures solides et des vêtements qui offrent une certaine protection : pantalon long, manches longues, un chapeau.
 
-**Radio et carte.** Le kit d'urgence du Centre de crise contient une radio à piles ou une radio à manivelle. Ready.gov cite aussi dans le kit d'urgence des cartes de votre région. Denk vooruit (Pays-Bas) conseille de garder une carte papier de votre village ou de votre ville avec votre kit d'urgence.
+**Radio et carte.** Le kit d'urgence du Centre de crise contient une radio à piles ou une radio à manivelle. Ready.gov et Denk vooruit (Pays-Bas) citent aussi une carte papier de votre région ou de votre ville.
 
 **En cas de danger direct**, ne perdez pas de temps à rassembler des documents ou des affaires. Évacuez le plus vite possible (Centre de crise).
 
@@ -219,7 +219,7 @@ Source : [Centre de crise National : Évacuer](https://centredecrise.be/fr/que-p
 
 **Si vous avez perdu la trace de quelqu'un**
 
-Rode Kruis-Vlaanderen a un service Restoring Family Links qui recherche les personnes disparues et rétablit le contact entre membres d'une famille, notamment après une catastrophe naturelle. Vous pouvez contacter ce service via le formulaire de contact, par e-mail ou par téléphone, donc si le réseau fonctionne. Le service ne traite pas les affaires qui relèvent de la police. Le service conseille de :
+Rode Kruis-Vlaanderen a un service Restoring Family Links qui recherche les personnes disparues et rétablit le contact entre membres d'une famille, notamment après une catastrophe naturelle. Vous joignez ce service par formulaire, par e-mail ou par téléphone, donc si le réseau fonctionne. Le service ne traite pas les affaires qui relèvent de la police. Le service conseille de :
 
 - Apprendre par cœur les numéros de téléphone des membres de la famille.
 - Faire retenir aux enfants des informations importantes, comme le nom de leurs parents.
@@ -302,7 +302,7 @@ Source : [Ready.gov: Pets](https://www.ready.gov/pets) · [Centre de crise Natio
 ## À l'accueil
 
 - Au centre d'accueil, la personne de contact sur place donne les informations nécessaires, y compris sur le moment où vous pouvez rentrer chez vous (Centre de crise).
-- Les communes, les provinces ou le Centre de crise peuvent ouvrir un numéro d'information pour répondre aux questions des habitants. Ils peuvent utiliser pour cela le numéro d'information national 1771, qui peut être opérationnel jour et nuit en moins d'une heure. Grâce à une collaboration avec le SPF Santé publique, il peut aussi traiter des appels sensibles sur des victimes possibles (Centre de crise). Le numéro n'est pas toujours actif : il est ouvert lors d'une situation d'urgence. C'est un numéro de téléphone : il n'aide donc que si le réseau fonctionne.
+- Les communes, les provinces ou le Centre de crise peuvent ouvrir un numéro d'information pour répondre aux questions des habitants. Ils peuvent utiliser pour cela le numéro d'information national 1771, qui peut être opérationnel jour et nuit en moins d'une heure. Il peut aussi traiter des appels sensibles sur des victimes possibles (Centre de crise). Il n'est ouvert que lors d'une situation d'urgence et n'aide que si le réseau fonctionne.
 - L'OMS décrit ce dont les gens ont souvent besoin après une catastrophe : un abri, de la nourriture, de l'eau et des sanitaires ; des soins pour les blessures ou les maladies chroniques ; des informations compréhensibles et correctes ; le contact avec leurs proches ; un soutien adapté à leur culture ou à leur religion ; et être associés aux décisions importantes.
 
 Source : [Centre de crise National : Évacuer](https://centredecrise.be/fr/que-pouvez-vous-faire/le-bon-reflexe/evacuer) · [Centre de crise National : Communication](https://centredecrise.be/fr/que-fait-le-centre-de-crise-national/communication) · [Centre de crise National : Information à la population](https://centredecrise.be/fr/que-font-les-autorites/gestion-de-crise/informer-la-population) · [OMS : Psychological first aid](https://psychiatry.uw.edu/wp-content/uploads/2020/04/1.-WHO_PFA_2011.pdf)

@@ -144,6 +144,17 @@ De vier talen (nl, fr, de, en) zijn tegelijk aangepast in `site/src/i18n/app.ts`
 | `eerstehulp/16-beroerte-en-hartinfarct-herkennen.md` | 3 herschreven, 3 aangevuld met offline alternatief, 2 aangevuld, 2 houden | 112-stappen kregen "of laat iemand bellen" met verwijzing; onder Bel 112 als kwam blok B (tijd telt, taken verdelen, bij hartaanval bij het slachtoffer blijven). Het punt over "richting ziekenhuis rijden en de ziekenwagen ontmoeten" (IFRC p. 177, hoofdstuk ademhalingsmoeilijkheden) is vervangen door de IFRC-passage over beroerte (p. 273): soms moet de helper het slachtoffer zelf naar een ziekenhuis brengen. Voor een hartaanval staat zelf vervoeren nergens; dat is niet opgenomen. |
 | `eerstehulp/17-wondverzorging-en-infectie.md` | 7 houden, 1 herschreven, 1 aangevuld met offline alternatief, 1 aangevuld | onder Bel 112 als kwam blok B met verwijzing naar onderwerp 3 bij een ernstige bloeding; "Contacteer altijd een arts" bij een steekwonde werd "Laat een steekwonde altijd door een arts nakijken". De rest werkt al zonder netwerk. |
 
+## Inkorting voor het opslagbudget
+
+Na de herziening kwam de offline kern (app in vier talen plus zoekindex) samen met de nieuwe themaknop op `inhoud-en-kaarten` op 15,19 MB, boven het budget van 15 MB in `site/scripts/sw-manifest.mjs`. Daarom werden de teksten in een tweede ronde ingekort, in de vier talen tegelijk, zonder bron-gedekte handelingen te schrappen:
+
+- herhaalde blokken "Lukt bellen niet" in scenario's en gidsen werden een korte zin met verwijzing naar de app-pagina Noodnummers (Als bellen niet lukt) of de gids Noodoproep; de volledige uitleg staat in de gids Noodoproep en op de pagina Noodnummers;
+- `gidsen/mentale-veerkracht.md` (5.107 naar 3.436 woorden) en `gidsen/noodoproep.md` (5.763 naar 4.289) werden samengevoegd waar secties elkaar herhaalden;
+- `gidsen/communicatie-en-alarmering.md` (4.297 naar 3.492) en `scenarios/telecom.md` (2.418 naar 1.796) kwamen binnen de richtlengte;
+- in de andere scenario's en gidsen werden dubbele uitleg over radio en "als het netwerk werkt" samengevoegd.
+
+Resultaat: 14,88 MB (vóór de herziening 14,06 MB). De tabellen hieronder beschrijven de besluiten van de eerste ronde; waar een volledig blok staat vermeld, is dat in de tweede ronde soms een verwijzing geworden.
+
 ## Open punten voor de nalezers
 
 - Geen Belgische bron wijst een fysiek meldpunt aan als 112 niet werkt. Het informatie- en onthaalpunt van FOD Economie is beschreven voor een afschakeling. Een vraag aan het Nationaal Crisiscentrum of de brandweerzones om dit te bevestigen of aan te vullen is aangewezen.

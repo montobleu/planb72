@@ -61,7 +61,7 @@ There is no fixed order that always applies. The American survival manuals teach
 - You can go several weeks without food, but without food you quickly become weaker, physically and mentally.
 - Always leave a trip plan with someone who stays at home.
 
-**Getting help.** Outdoors, help can take hours or days to arrive, depending on the location, the weather and the resources available. Do not count on having signal.
+**Getting help.** Outdoors, help can take hours or days to arrive. Do not count on having signal.
 
 1. If you have signal: call 112. See the guide on the emergency call.
 2. No signal, but someone nearby: speak to people you meet and ask them to go to a place with signal and call 112 from there.
@@ -84,7 +84,7 @@ Hypothermia occurs when your body loses more heat than it produces. Below a body
 - Difficulty moving and speaking.
 - Confusion, drowsiness, memory loss, strange behaviour, tiredness.
 
-**Call 112 if** the person no longer shivers, the muscles stiffen, or there is impaired consciousness. If you cannot get through: have two or more people fetch help and stay with the person yourself (see What comes first, Getting help).
+**Call 112 if** the person no longer shivers, the muscles stiffen, or there is impaired consciousness. If you cannot get through, see What comes first, Getting help.
 
 **What you do**
 
@@ -275,7 +275,7 @@ Source: [CDC Yellow Book: Water disinfection for travelers](https://www.cdc.gov/
 2. Contact the Poison Centre (070 245 245, if the network works) or the GP.
 3. Keep the plant: take a whole branch with leaves and flowers or fruits, or take photos.
 4. For mushrooms: keep the remains (raw, cooked, peeled). The Poison Centre asks which mushrooms, where they were picked, how they were stored and prepared, how much time passed between eating and symptoms, and whether everyone who ate them is ill.
-5. In case of serious symptoms: call 112. If you cannot get through, have someone fetch help (see What comes first, Getting help).
+5. In case of serious symptoms: call 112. If you cannot get through, see What comes first, Getting help.
 
 Source: [US Army FM 21-76](https://archive.org/details/fm-21-76-survival-manual) · [Poison Centre: Tips for mushroom pickers](https://www.antigifcentrum.be/Toxinfos/tips-voor-paddenstoelenplukkers/) · [Poison Centre: Poisoning by plants](https://www.antigifcentrum.be/Toxinfos/vergiftiging-door-planten/) · [Poison Centre: Berries](https://www.antigifcentrum.be/Toxinfos/bessen/) · [Vlaanderen.be: What are you allowed to do as a visitor in Flemish nature?](https://www.vlaanderen.be/natuur-milieu-en-klimaat/wat-mag-u-als-bezoeker-doen-in-de-vlaamse-natuur)
 
@@ -298,7 +298,7 @@ Even in Belgium it can become dangerously hot outdoors. Heatstroke is life-threa
 
 **Recognising it:** headache, seeing black spots, dizziness or fainting, nausea and vomiting, muscle or abdominal cramps, red skin, first heavy sweating and then no more sweating, convulsions, confusion or drowsiness.
 
-**Call 112 in case of** impaired consciousness, abnormal behaviour, convulsions, if the person no longer sweats or cannot drink without vomiting, or with a body temperature above 39 °C. If you cannot get through: have two or more people fetch help and start cooling in the meantime (see What comes first, Getting help).
+**Call 112 in case of** impaired consciousness, abnormal behaviour, convulsions, if the person no longer sweats or cannot drink without vomiting, or with a body temperature above 39 °C. If you cannot get through: have someone fetch help and start cooling in the meantime (see What comes first, Getting help).
 
 **What you do:** let the person rest in a cool place and cool them down immediately: a fan, wet cold cloths or cold packs in the groin, armpits and neck, spraying with cold water, hands and feet in cold water. If the heatstroke is the result of exertion and the person is fully conscious, give them something cool to drink. Do not give fever-reducing medicine.
 

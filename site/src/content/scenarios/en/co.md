@@ -47,7 +47,7 @@ Carbon monoxide (CO) is a gas without colour, smell or taste. You cannot detect 
 
 In Belgium CO is the main cause of fatal poisoning. Every year a few dozen people die and about 1,000 people end up in hospital. Most accidents happen during the heating season, from October to April. Almost half of the victims are younger than 30. It does not take much: 0.1 per cent CO in the air is fatal within 1 to 3 hours, 1 per cent within as little as 15 minutes.
 
-**Rapid poisoning (acute).** First you get a headache and become dizzy. You feel very tired and you may feel sick and vomit. Anyone who does not realise that they have to leave the room loses consciousness and can then no longer save themselves. At high concentrations, deep coma and death follow quickly. In children, abdominal pain is a common symptom.
+**Rapid poisoning (acute).** First you get a headache and become dizzy. You feel very tired and you may feel sick and vomit. Anyone who does not realise that they have to leave the room loses consciousness and can then no longer save themselves. At high concentrations, deep coma and death follow quickly.
 
 **Slow poisoning (chronic).** Anyone who breathes in small amounts over a long period gets vague symptoms: headache, a heavy feeling in the stomach, muscle weakness, difficulty concentrating and changing moods. A doctor does not easily recognise this.
 
@@ -121,12 +121,7 @@ Source: [Poison Centre: CO brochure](https://www.poisoncentre.be/app/uploads/202
 
 If you cannot open the windows without risk to yourself, go outside immediately.
 
-**If you cannot get through**
-
-- Have neighbours or bystanders call, or try another phone. Move a few metres and try again.
-- If you can still make calls but 112 cannot be reached, try 101.
-- If calling does not work at all: ask for help nearby. Point directly at one person to fetch help and tell them where it is, what has happened, how many casualties there are and what state they are in. Only leave a casualty alone if there is no other option.
-- See also Emergency numbers in the app, If you cannot call.
+If you cannot get through, have someone else call or send someone to fetch help nearby. Only leave a casualty alone if there is no other way. See Emergency numbers in the app, If you cannot call.
 
 **Someone is unconscious.**
 
@@ -135,7 +130,7 @@ If you cannot open the windows without risk to yourself, go outside immediately.
 - If the casualty is not breathing, start rescue breaths. Mouth-to-mouth resuscitation is safe: it does not put you at risk of CO poisoning.
 - If the casualty is breathing, lay them on their side, without a pillow. This way they will not choke on vomit.
 
-**Someone is conscious and answers your questions.** Bring them into the fresh air and have them checked by a doctor. If the network is working, call the GP. If you have questions, call the Poison Centre on 070 245 245, if the network is working. A doctor answers, 24 hours a day, 7 days a week. The call is free.
+**Someone is conscious and answers your questions.** Bring them into the fresh air and have them checked by a doctor. If the network is working, call the GP, and if you have questions the Poison Centre on 070 245 245. A doctor answers, 24 hours a day, 7 days a week. The call is free.
 
 ### Outdoors or on the move
 
@@ -181,7 +176,6 @@ Source: [Poison Centre: CO brochure](https://www.poisoncentre.be/app/uploads/202
 - Do not use the appliance again until a qualified professional has checked it. Also call a professional if you see an orange flame, soot, rust or corrosion.
 - Also have the chimney and the connection checked. The whole of appliance and chimney must be airtight.
 - Have yourself checked by a doctor. Anyone who is conscious calls the GP if the network is working. After severe poisoning, brain damage sometimes occurs later. A normal blood value does not rule out poisoning, because CO disappears from the blood after a while.
-- If you live in a rented home, report the necessary repairs to the owner immediately.
 - If no alarm was fitted yet, fit one according to the rules above.
 
 Source: [Poison Centre: CO brochure](https://www.poisoncentre.be/app/uploads/2026/02/Brochure-CO-vergiftiging-voorkomen-NL-1.pdf) · [Poison Centre: CO in detail](https://www.antigifcentrum.be/koolstofmonoxide)

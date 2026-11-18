@@ -112,14 +112,14 @@ Source : [Centre de crise National : vague de chaleur](https://centredecrise.be/
 
 **Pour les autres**
 
-- Faites une liste de personnes de contact pour un proche âgé : voisins, famille, médecin généraliste, soins infirmiers à domicile. Veillez à ce que cette liste existe aussi sur papier.
+- Faites une liste papier de personnes de contact pour un proche âgé : voisins, famille, médecin généraliste, soins infirmiers à domicile.
 - Remettez une clé aux personnes de contact si nécessaire.
 - Renseignez-vous auprès de votre commune sur les initiatives d'entraide entre voisins.
 - Aidez les personnes qui ont besoin d'aide à se préparer.
 
 **Eau et électricité**
 
-- Les coupures d'eau et d'électricité sont particulièrement pénibles par temps chaud. Gardez à la maison des bouteilles d'eau, d'autres boissons et une batterie externe chargée.
+- Les coupures d'eau et d'électricité sont particulièrement pénibles par temps chaud. Gardez à la maison des bouteilles d'eau et une batterie externe chargée.
 - Cherchez dès maintenant où vous pouvez trouver de la fraîcheur s'il fait trop chaud chez vous.
 - Convenez avec des voisins, de la famille ou des amis de rester en contact par temps chaud, même si le téléphone ou Internet ne fonctionne pas.
 
@@ -147,7 +147,7 @@ Source : [Warme dagen : comment se rafraîchir](https://www.warmedagen.be/tips-b
 
 - Ouvrez les fenêtres dès qu'il fait plus frais dehors qu'à l'intérieur, généralement le soir et la nuit. Faites attention au risque de cambriolage.
 - En journée, gardez les protections solaires, les fenêtres et les portes fermées quand il fait plus chaud dehors.
-- Si vous ne parvenez pas à garder votre logement assez frais, allez dans un endroit plus frais. Les endroits frais possibles sont les bibliothèques, les centres de services, les centres commerciaux couverts, les lieux de culte, les parcs et les bois. Certaines communes aménagent des lieux de fraîcheur.
+- Si vous ne parvenez pas à garder votre logement assez frais, allez dans un endroit plus frais. Par exemple une bibliothèque, un centre de services ou un parc. Certaines communes aménagent des lieux de fraîcheur.
 - Ne comptez pas uniquement sur un ventilateur. Une douche fraîche ou un endroit frais aide davantage.
 
 Source : [Warme dagen : manger et boire](https://www.warmedagen.be/tips-bij-warm-weer/eten-en-drinken-bij-warm-weer) · [Warme dagen : comment se rafraîchir](https://www.warmedagen.be/tips-bij-warm-weer/hoe-afkoelen-bij-warm-weer) · [Warme dagen](https://www.warmedagen.be/) · [Centre de crise National : vague de chaleur](https://centredecrise.be/fr/risques-en-belgique/risques-naturels/vague-de-chaleur-canicule) · [IRM : légende chaleur](https://www.meteo.be/fr/meteo/avertissements/legende-chaleur) · [CDC: power outage](https://www.cdc.gov/natural-disasters/response/what-to-do-protect-yourself-during-a-power-outage.html)
@@ -207,7 +207,6 @@ Source : [SPF Emploi](https://emploi.belgique.be/fr/themes/bien-etre-au-travail/
 - Allaitez plus souvent. La mère boit elle-même davantage.
 - Demandez un avis médical si un bébé a moins de 4 langes mouillés en 24 heures, ou en cas d'yeux enfoncés, de somnolence ou d'irritabilité extrême, de fièvre, de vomissements, de diarrhée ou de difficultés à respirer.
 - Prévoyez des jouets d'eau ou une petite piscine pour se rafraîchir.
-- Ne laissez jamais un enfant dans une voiture garée.
 
 Source : [Warme dagen : manger et boire](https://www.warmedagen.be/tips-bij-warm-weer/eten-en-drinken-bij-warm-weer) · [Warme dagen : prenez soin les uns des autres](https://www.warmedagen.be/zorg-voor-elkaar) · [Warme dagen : comment se rafraîchir](https://www.warmedagen.be/tips-bij-warm-weer/hoe-afkoelen-bij-warm-weer) · [Centre de crise National : vague de chaleur](https://centredecrise.be/fr/risques-en-belgique/risques-naturels/vague-de-chaleur-canicule)
 
@@ -217,7 +216,7 @@ Source : [Warme dagen : manger et boire](https://www.warmedagen.be/tips-bij-warm
 
 - Pendant les jours chauds, passez plus souvent voir les personnes âgées, ou téléphonez régulièrement. Apportez des fruits et légumes pour des repas légers.
 - Convenez de qui passe si vous ne pouvez pas le faire. Veillez à ce qu'elles aient un téléphone qui fonctionne.
-- Si une personne âgée se sent mal, appelez immédiatement de l'aide. Appelez le 112 si nécessaire. Si l'appel ne passe pas, faites appeler quelqu'un d'autre ou demandez de l'aide dans votre voisinage (voir Numéros d'urgence, Si l'appel ne passe pas).
+- Si une personne âgée se sent mal, appelez immédiatement de l'aide, si nécessaire via le 112. Si l'appel ne passe pas, faites appeler quelqu'un d'autre ou demandez de l'aide dans votre voisinage (voir Numéros d'urgence, Si l'appel ne passe pas).
 - Encouragez-les à boire régulièrement, même sans soif, et déjà quelques jours avant la chaleur. Proposez de la variété : eau, café, thé.
 - Proposez de la fraîcheur : un brumisateur, un linge frais, une douche ou un bain de pieds.
 - Faites attention aux signes de déshydratation, à la fatigue et à la tension artérielle. Les personnes âgées peuvent se dégrader rapidement.
@@ -266,7 +265,7 @@ Source : [Vlaanderen Huisdierinfo : les animaux et la chaleur](https://www.vlaan
 
 **En cas de coup de chaleur : agir immédiatement**
 
-1. Appelez le 112 ou faites appeler quelqu'un si la personne perd connaissance, et suivez les consignes des services de secours. Si l'appel ne passe pas, faites appeler quelqu'un d'autre ou demandez de l'aide dans votre voisinage (voir Numéros d'urgence, Si l'appel ne passe pas). Voir aussi la fiche de premiers secours Surchauffe et coup de chaleur.
+1. Appelez le 112 si la personne perd connaissance, et suivez les consignes des services de secours. Si l'appel ne passe pas, faites appeler quelqu'un d'autre ou demandez de l'aide dans votre voisinage (voir Numéros d'urgence, Si l'appel ne passe pas). Voir aussi la fiche de premiers secours Surchauffe et coup de chaleur.
 2. Emmenez la personne dans un endroit frais.
 3. Refroidissez immédiatement : aspergez ou arrosez la peau avec de l'eau et éventez-la en même temps. Des poches de glace aux aisselles, à la nuque et à l'aine aident.
 4. Ne donnez rien à boire.

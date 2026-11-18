@@ -61,7 +61,7 @@ Il n'existe pas d'ordre fixe qui vaut toujours. Les manuels de survie américain
 - Vous pouvez tenir plusieurs semaines sans nourriture, mais sans manger vous vous affaiblissez vite, physiquement et mentalement.
 - Laissez toujours un plan de randonnée à quelqu'un qui reste à la maison.
 
-**Aller chercher de l'aide.** À l'extérieur, l'aide peut mettre des heures ou des jours à arriver, selon l'endroit, la météo et les moyens. Ne comptez pas sur le fait d'avoir du réseau.
+**Aller chercher de l'aide.** À l'extérieur, l'aide peut mettre des heures ou des jours à arriver. Ne comptez pas sur le fait d'avoir du réseau.
 
 1. Si vous avez du réseau : appelez le 112. Voir le guide sur l'appel d'urgence.
 2. Pas de réseau, mais quelqu'un à proximité : abordez les personnes que vous rencontrez et demandez-leur d'aller à un endroit où il y a du réseau pour y appeler le 112.
@@ -84,7 +84,7 @@ L'hypothermie survient quand votre corps perd plus de chaleur qu'il n'en produit
 - Difficulté à bouger et à parler.
 - Confusion, somnolence, perte de mémoire, comportement étrange, fatigue.
 
-**Appelez le 112 si** la personne ne frissonne plus, si les muscles se raidissent ou s'il y a des troubles de la conscience. Si l'appel ne passe pas : faites aller chercher de l'aide par deux personnes ou plus et restez vous-même auprès de la personne (voir Ce qui passe en premier, Aller chercher de l'aide).
+**Appelez le 112 si** la personne ne frissonne plus, si les muscles se raidissent ou s'il y a des troubles de la conscience. Si l'appel ne passe pas, voir Ce qui passe en premier, Aller chercher de l'aide.
 
 **Ce que vous faites**
 
@@ -275,7 +275,7 @@ Source : [CDC Yellow Book: Water disinfection for travelers](https://www.cdc.gov
 2. Contactez le Centre Antipoisons (070 245 245, si le réseau fonctionne) ou le médecin généraliste.
 3. Gardez la plante : emportez une branche entière avec feuilles et fleurs ou fruits, ou prenez des photos.
 4. Pour les champignons : gardez les restes (crus, cuits, épluchés). Le Centre Antipoisons demande quels champignons, où ils ont été cueillis, comment ils ont été conservés et préparés, combien de temps entre le repas et les symptômes, et si toutes les personnes qui en ont mangé sont malades.
-5. En cas de symptômes graves : appelez le 112. Si l'appel ne passe pas, faites aller chercher de l'aide (voir Ce qui passe en premier, Aller chercher de l'aide).
+5. En cas de symptômes graves : appelez le 112. Si l'appel ne passe pas, voir Ce qui passe en premier, Aller chercher de l'aide.
 
 Source : [US Army FM 21-76](https://archive.org/details/fm-21-76-survival-manual) · [Centre Antipoisons : Conseils aux cueilleurs de champignons](https://www.centreantipoisons.be/tox-infos/conseils-aux-ramasseurs-de-champignons/) · [Centre Antipoisons : Intoxication par les plantes](https://www.centreantipoisons.be/tox-infos/vergiftiging-door-planten/) · [Centre Antipoisons : Baies](https://www.centreantipoisons.be/tox-infos/baies/) · [Vlaanderen.be : Que pouvez-vous faire en tant que visiteur dans la nature flamande ?](https://www.vlaanderen.be/natuur-milieu-en-klimaat/wat-mag-u-als-bezoeker-doen-in-de-vlaamse-natuur)
 
@@ -298,7 +298,7 @@ Même en Belgique, il peut faire dehors une chaleur dangereuse pour la vie. Un c
 
 **Reconnaître :** maux de tête, voir des taches noires, vertiges ou évanouissement, nausées et vomissements, crampes musculaires ou abdominales, peau rouge, d'abord une forte transpiration puis plus du tout, convulsions, confusion ou somnolence.
 
-**Appelez le 112 en cas de** troubles de la conscience, de comportement anormal, de convulsions, si la personne ne transpire plus ou ne peut pas boire sans vomir, ou en cas de température corporelle supérieure à 39 °C. Si l'appel ne passe pas : faites aller chercher de l'aide par deux personnes ou plus et commencez entre-temps à refroidir la personne (voir Ce qui passe en premier, Aller chercher de l'aide).
+**Appelez le 112 en cas de** troubles de la conscience, de comportement anormal, de convulsions, si la personne ne transpire plus ou ne peut pas boire sans vomir, ou en cas de température corporelle supérieure à 39 °C. Si l'appel ne passe pas : faites aller chercher de l'aide et commencez entre-temps à refroidir la personne (voir Ce qui passe en premier, Aller chercher de l'aide).
 
 **Ce que vous faites :** laissez la personne se reposer dans un endroit frais et refroidissez-la immédiatement : un ventilateur, des linges froids et mouillés ou des poches de froid dans l'aine, sous les aisselles et sur la nuque, l'asperger d'eau froide, mains et pieds dans l'eau froide. Si le coup de chaleur est dû à un effort et que la personne est bien consciente, donnez-lui quelque chose de frais à boire. Ne donnez pas de médicament contre la fièvre.
 

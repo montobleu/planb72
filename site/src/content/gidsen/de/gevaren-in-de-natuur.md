@@ -86,13 +86,7 @@ origineel_datum: "2026-11-18"
 
 Antigiftzentrum: **070 245 245**, kostenlos, 24 Stunden auf 24, wenn das Netz funktioniert. Notieren Sie die Nummer vorab auf einer Papierliste mit wichtigen Nummern. Bei Lebensgefahr: **112**.
 
-**Kommt kein Anruf zustande**
-
-- Versuchen Sie es mit einem anderen Gerät oder lassen Sie Umstehende anrufen. Gehen Sie einige Meter weiter und versuchen Sie es erneut.
-- In der Natur haben Sie nicht immer Empfang. Sprechen Sie Menschen an, denen Sie begegnen, und bitten Sie sie, an einen Ort mit Empfang zu gehen und dort 112 anzurufen.
-- Lassen Sie das Opfer nur allein, wenn es keine andere Möglichkeit gibt. Sind Sie in einer Gruppe, schicken Sie zwei oder mehr Personen los, um Alarm zu schlagen; die anderen bleiben beim Opfer. Geben Sie mit, wo es ist, was passiert ist, wie viele Opfer es gibt und in welchem Zustand sie sind.
-- Sind Sie allein mit dem Opfer, helfen Sie ihm zuerst so gut wie möglich und holen Sie dann Hilfe.
-- Siehe auch Notrufnummern in der App, Wenn kein Anruf möglich ist, und den Leitfaden zu Signalen und Notcodes.
+**Kommt kein Anruf zustande.** Versuchen Sie es mit einem anderen Gerät oder lassen Sie Umstehende anrufen. In der Natur haben Sie nicht immer Empfang: Bitten Sie Menschen, denen Sie begegnen, an einen Ort mit Empfang zu gehen und 112 anzurufen. In einer Gruppe schicken Sie zwei oder mehr Personen los, um Alarm zu schlagen, und die anderen bleiben beim Opfer; sind Sie allein, helfen Sie zuerst und holen Sie danach Hilfe. Siehe Notrufnummern in der App, Wenn kein Anruf möglich ist, und den Leitfaden zu Signalen und Notcodes.
 
 Quelle: [National Park Service: Outdoor Emergency Plan](https://www.nps.gov/subjects/healthandsafety/upload/NPS-Outdoor-Emergency-Plan-508c.pdf) · [Nationales Krisenzentrum: Natur- und Waldbrand](https://krisenzentrum.be/de/risiken-belgien/naturrisiken/naturbrand) · [ERC Guidelines 2021: First aid](https://cprguidelines-old.erc.edu/assets/guidelines/European-Resuscitation-Council-Guidelines-2021-Fi.pdf) · [112.be: Häufig gestellte Fragen](https://112.be/de/haeufig-gestellte-fragen) · [Nationales Krisenzentrum: Broschüre Gemeinsam vorbereitet](https://krisenzentrum.be/sites/default/files/documents/files/WEB-Brosch%C3%BCre%20Gemeinsam%20Vorbereitet-DE.pdf) · [Antigiftzentrum: Zeckenstiche](https://www.antigifcentrum.be/Toxinfos/tekenbeten/) · [Antigiftzentrum: Kreuzotterbisse](https://www.antigifcentrum.be/Toxinfos/adderbeten/) · [Antigiftzentrum: Stiche von Wespen, Bienen und Hornissen](https://www.antigifcentrum.be/Toxinfos/steken-van-wespen-bijen-en-hoornaars/) · [Rode Kruis-Vlaanderen: Eichenprozessionsspinner](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-irritatie-door-eikenprocessierupsen) · [Antigiftzentrum: Vergiftung durch Pflanzen](https://www.antigifcentrum.be/Toxinfos/vergiftiging-door-planten/) · [KMI: Wie schütze ich mich vor Blitzen?](https://www.meteo.be/nl/switch-language/634?nis=21004)
 

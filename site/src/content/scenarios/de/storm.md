@@ -57,10 +57,6 @@ bronnen:
     url: https://112.be/de/haeufig-gestellte-fragen
   - naam: "FÖD Wirtschaft: Fragen von Haushalten zur Stromknappheit"
     url: https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door
-  - naam: "BBK: Vorsorgen für Krisen und Katastrophen"
-    url: https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/Buergerinformationen/Ratgeber/BBK-Vorsorgen-fuer-Krisen-und-Katastrophen.pdf?__blob=publicationFile&v=44
-  - naam: "Inspektionen (Niederlande): Nichterreichbarkeit der 112 am 24. Juni 2019"
-    url: https://zoek.officielebekendmakingen.nl/blg-942150.pdf
 vertaling: machine
 origineel_datum: "2026-11-18"
 ---
@@ -134,21 +130,16 @@ Quelle: [Nationales Krisenzentrum: Wind und Sturm](https://krisenzentrum.be/de/r
 | Sie brauchen die Feuerwehr, ohne Lebensgefahr (losgerissene Dachziegel, ein Baum, der umzustürzen droht) | Funktioniert das Netz: Stellen Sie einen Antrag über den digitalen Schalter 1722.be oder das Formular Ihrer Hilfeleistungszone. Rufen Sie die 1722 nur an, wenn diese Nummer aktiviert ist. |
 | Schaden ohne Gefahr, für den Sie die Feuerwehr nicht brauchen (umgestürzter Baum im Garten, beschädigtes Gartenhaus) | Beauftragen Sie einen Fachmann, etwa einen Dachdecker, oder reparieren Sie es selbst. |
 
-- Rufen Sie nicht die 112 für gewöhnliche Sturmschäden an. Bei Sturm und heftigem Gewitter ist die Feuerwehr überlastet. Der digitale Schalter 1722.be ist immer verfügbar, auch wenn kein Sturm ist. Sie brauchen dafür allerdings Internet.
+- Rufen Sie nicht die 112 für gewöhnliche Sturmschäden an. Bei Sturm und heftigem Gewitter ist die Feuerwehr überlastet. Der digitale Schalter 1722.be ist immer verfügbar, aber nur über das Internet.
 - Funktioniert das Netz, melden Sie Schäden oder besondere Erscheinungen über die App des KMI. Das hilft dem KMI, andere zu warnen.
 
-**Kommt kein Anruf zustande**
-
-- Versuchen Sie es mit einem anderen Gerät oder lassen Sie Nachbarn oder Umstehende anrufen. Ein anderer Netzbetreiber kann helfen. Gehen Sie einige Meter weiter und versuchen Sie es erneut.
-- Können Sie noch telefonieren, ist die 112 aber nicht erreichbar, versuchen Sie die 101. Bei einer Störung der Notrufzentralen können vorübergehende Nummern pro Provinz aktiv sein (siehe den Leitfaden Notruf).
-- Funktioniert Telefonieren überhaupt nicht: Bitten Sie in Ihrer Nachbarschaft um Hilfe und verfolgen Sie die Informationen der Behörden im Radio. Die Gemeinde kann eine Informations- und Anlaufstelle öffnen; fragen Sie Ihre Gemeinde im Voraus, wo sie ist.
-- In Deutschland empfehlen die Behörden, dann wenn möglich zur nächsten Polizeidienststelle oder zum nächsten Krankenhaus zu gehen. In den Niederlanden schickten die Behörden die Bürger bei der landesweiten 112-Störung von 2019 zur nächsten Feuerwache oder Polizeidienststelle und bei medizinischen Notfällen ins Krankenhaus. Die Karte in der App zeigt sie, mit der Schaltfläche Am nächsten.
+Kommt kein Anruf zustande, lassen Sie jemand anderen anrufen oder bitten Sie in Ihrer Nachbarschaft um Hilfe, und verfolgen Sie die Informationen der Behörden im Radio. Siehe Notrufnummern in der App, Wenn kein Anruf möglich ist.
 
 **Fällt der Strom aus**
 
 - Siehe die Karte Stromausfall. Benutzen Sie eine Taschenlampe statt Kerzen.
 
-Quelle: [Nationales Krisenzentrum: Wind und Sturm](https://krisenzentrum.be/de/risiken-belgien/naturrisiken/wind-und-sturm) · [Nationales Krisenzentrum: Tornado](https://krisenzentrum.be/de/risiken-belgien/naturrisiken/tornado) · [Nationales Krisenzentrum: Blitz](https://krisenzentrum.be/de/risiken-belgien/naturrisiken/blitzschlag) · [Ready.gov: thunderstorms](https://www.ready.gov/thunderstorms-lightning) · [1722](https://www.1722.be/de/index.html) · [112.be](https://112.be/de) · [Brandweer Nederland: Sturm und Wasserschäden](https://www.brandweer.nl/onderwerpen/storm-en-wateroverlast/) · [112.be: Häufig gestellte Fragen](https://112.be/de/haeufig-gestellte-fragen) · [FÖD Wirtschaft: Fragen von Haushalten zur Stromknappheit](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door) · [BBK: Vorsorgen für Krisen und Katastrophen](https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/Buergerinformationen/Ratgeber/BBK-Vorsorgen-fuer-Krisen-und-Katastrophen.pdf?__blob=publicationFile&v=44) · [Inspektionen: Nichterreichbarkeit der 112 am 24. Juni 2019](https://zoek.officielebekendmakingen.nl/blg-942150.pdf)
+Quelle: [Nationales Krisenzentrum: Wind und Sturm](https://krisenzentrum.be/de/risiken-belgien/naturrisiken/wind-und-sturm) · [Nationales Krisenzentrum: Tornado](https://krisenzentrum.be/de/risiken-belgien/naturrisiken/tornado) · [Nationales Krisenzentrum: Blitz](https://krisenzentrum.be/de/risiken-belgien/naturrisiken/blitzschlag) · [Ready.gov: thunderstorms](https://www.ready.gov/thunderstorms-lightning) · [1722](https://www.1722.be/de/index.html) · [112.be](https://112.be/de) · [Brandweer Nederland: Sturm und Wasserschäden](https://www.brandweer.nl/onderwerpen/storm-en-wateroverlast/) · [112.be: Häufig gestellte Fragen](https://112.be/de/haeufig-gestellte-fragen) · [FÖD Wirtschaft: Fragen von Haushalten zur Stromknappheit](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door)
 
 ### Draußen oder unterwegs
 

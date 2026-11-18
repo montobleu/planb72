@@ -106,8 +106,8 @@ Welke kamer de bronnen aanraden, zeggen ze niet. Kies een kamer die je kunt verl
 
 **5. Naar een warme plek gaan**
 
-- Ga naar een plek in de gemeente met stroom als de hitte of kou extreem is (Ready.gov). Ready.gov raadt aan bij de lokale overheid na te gaan welke warme of koele plekken open zijn.
-- In België hebben burgemeesters en gouverneurs voor een afschakeling noodmaatregelen voorbereid, zoals een informatie- en onthaalpunt voor de bevolking. Vraag vooraf aan je gemeente welke oplossingen ze voorziet. Tijdens de onderbreking volg je de informatie van de overheid via een radio op batterijen of de autoradio, of vraag je hulp in je buurt (FOD Economie).
+- Ga naar een plek in de gemeente met stroom als de hitte of kou extreem is, en ga na welke warme of koele plekken open zijn (Ready.gov).
+- In België hebben burgemeesters en gouverneurs voor een afschakeling noodmaatregelen voorbereid, zoals een informatie- en onthaalpunt. Vraag vooraf aan je gemeente wat ze voorziet. Tijdens de onderbreking: volg de radio op batterijen of de autoradio en vraag hulp in je buurt (FOD Economie).
 
 **Wat niet**
 
@@ -185,12 +185,12 @@ Bron: [Antigifcentrum: CO-vergiftiging voorkomen](https://www.poisoncentre.be/ap
 **Wat je doet (Antigifcentrum)**
 
 1. Ga nooit een ruimte binnen waar een bewusteloos slachtoffer ligt. Bescherm jezelf.
-2. Bel meteen de hulpdiensten, of laat iemand bellen. Lukt bellen niet, zie Noodnummers in de app, Als bellen niet lukt.
+2. Bel meteen de hulpdiensten, of laat iemand bellen.
 3. Zet ramen en deuren open, als je dat kunt zonder risico voor jezelf.
 4. Is het slachtoffer bewusteloos: bel 112 en zeg dat het vermoedelijk om CO gaat. Schakel zo mogelijk het toestel uit. Breng het slachtoffer uit de kamer. Ademt het slachtoffer niet meer, geef dan mond-op-mondbeademing; dat is volgens het Antigifcentrum veilig. Ademt het nog, leg het dan op de zij zonder hoofdkussen.
 5. Is het slachtoffer bij bewustzijn: bel de huisarts, als het netwerk werkt.
 
-Lukt bellen niet: laat het slachtoffer alleen als er geen andere mogelijkheid is, en wijs een omstander of buur aan om hulp te halen. Geef mee waar het is, wat er gebeurd is (vermoedelijk CO), hoeveel slachtoffers er zijn en hoe ze eraan toe zijn.
+Lukt bellen niet: laat het slachtoffer alleen als het niet anders kan en stuur een omstander of buur om hulp, met de boodschap dat het vermoedelijk om CO gaat. Zie Noodnummers in de app, Als bellen niet lukt.
 
 Het Antigifcentrum is 24 uur op 24 gratis bereikbaar op 070 245 245, als het netwerk werkt. Noteer het nummer vooraf op je papieren lijst. Zie ook de scenariokaart over CO.
 
@@ -288,9 +288,9 @@ Ready.gov:
 | Hitte-uitputting | hevig zweten, bleekheid, spierkrampen, moeheid, zwakte, snelle of zwakke pols, duizeligheid, hoofdpijn, flauwvallen, misselijkheid, braken | zelfde als bij hittekrampen |
 | Hitteberoerte | de bron noemt hier geen aparte tekenen | bel 112 of breng de persoon naar een ziekenhuis; breng hem naar een koele, schaduwrijke plek; trek bovenkleding uit; leg koude natte doeken of ijs op hoofd, nek, oksels en lies, of maak de kleding nat met koel water; leg de voeten hoger |
 
-Het Crisiscentrum: heb je krampen, hoge koorts, hoofdpijn of word je flauw, bel je huisarts. Bel 112 alleen bij een levensbedreigende situatie. Lukt bellen niet, laat iemand anders bellen of vraag hulp in je buurt (zie Noodnummers, Als bellen niet lukt). Bij een hitteberoerte noemt Ready.gov ook: breng de persoon naar een ziekenhuis.
+Het Crisiscentrum: heb je krampen, hoge koorts, hoofdpijn of word je flauw, bel je huisarts. Bel 112 alleen bij een levensbedreigende situatie. Lukt bellen niet, zie Noodnummers in de app, Als bellen niet lukt.
 
-Bron: [Ready.gov: Extreme Heat](https://www.ready.gov/heat) · [Nationaal Crisiscentrum: Hittegolf](https://crisiscentrum.be/nl/risicos-belgie/natuurlijke-risicos/hittegolf) · [FOD Economie: vragen van gezinnen over elektriciteitsschaarste](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door) · [112.be: Veelgestelde vragen](https://112.be/nl/veelgestelde-vragen)
+Bron: [Ready.gov: Extreme Heat](https://www.ready.gov/heat) · [Nationaal Crisiscentrum: Hittegolf](https://crisiscentrum.be/nl/risicos-belgie/natuurlijke-risicos/hittegolf)
 
 ## Hitte per persoon
 

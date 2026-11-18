@@ -113,11 +113,11 @@ Les quantités horaires ne sont prévues qu'une heure à l'avance.
 - **Plaques de givre** : givre ou humidité qui gèle sur une chaussée qui n'était pas mouillée par une averse.
 - **Plaques de glace** : parties mouillées ou restes de neige qui gèlent plus tard.
 
-**Ce que vous faites en cas de code orange ou rouge pour tempête ou inondation :** si vous avez besoin des pompiers mais que personne n'est en danger de mort, utilisez, si le réseau fonctionne, le guichet électronique 1722.be ou appelez le 1722 si ce numéro est actif. N'appelez le 112 qu'en cas de danger de mort ou si un sauvetage est nécessaire. Si l'appel ne passe pas : faites appeler des voisins ou des personnes présentes, ou demandez de l'aide dans votre voisinage (voir Numéros d'urgence dans l'application, Si l'appel ne passe pas).
+**Ce que vous faites en cas de code orange ou rouge pour tempête ou inondation :** si vous avez besoin des pompiers mais que personne n'est en danger de mort, utilisez, si le réseau fonctionne, le guichet électronique 1722.be ou appelez le 1722 si ce numéro est actif. N'appelez le 112 qu'en cas de danger de mort ou si un sauvetage est nécessaire. Si l'appel ne passe pas, voir Numéros d'urgence dans l'application, Si l'appel ne passe pas.
 
 **Attention :** l'Agentschap Natuur en Bos a un code couleur **distinct** pour le risque de feux de forêt et de végétation (vert, jaune, orange, rouge). Il est indépendant des codes de l'IRM.
 
-Source : [IRM : Explication de nos avertissements](https://www.meteo.be/fr/meteo/avertissements/explications-avertissements) · [Centre de crise National : Vent et tempête](https://centredecrise.be/fr/risques-en-belgique/risques-naturels/vent-et-tempete) · [Centre de crise National : brochure Samen voorbereid](https://centredecrise.be/sites/default/files/documents/files/WEB-Brochure-Pr%C3%AAts.%20Ensemble-FR.pdf) · [SPF Économie : questions des ménages sur la pénurie d'électricité](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door) · [112.be : Questions fréquentes](https://112.be/fr/questions-frequentes) · [Centre de crise National : Feu de forêt et de végétation](https://centredecrise.be/fr/risques-en-belgique/risques-naturels/feu-de-foret)
+Source : [IRM : Explication de nos avertissements](https://www.meteo.be/fr/meteo/avertissements/explications-avertissements) · [Centre de crise National : Vent et tempête](https://centredecrise.be/fr/risques-en-belgique/risques-naturels/vent-et-tempete) · [Centre de crise National : brochure Samen voorbereid](https://centredecrise.be/sites/default/files/documents/files/WEB-Brochure-Pr%C3%AAts.%20Ensemble-FR.pdf) · [SPF Économie : questions des ménages sur la pénurie d'électricité](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door) · [Centre de crise National : Feu de forêt et de végétation](https://centredecrise.be/fr/risques-en-belgique/risques-naturels/feu-de-foret)
 
 ## Lire les nuages et les orages
 
@@ -144,7 +144,7 @@ Source : [IRM : Comment me protéger de la foudre ?](https://www.meteo.be/fr/inf
 | Violente tempête | À partir de 103 km/h (11 Beaufort) |
 | Ouragan (force) | À partir de 117 km/h (12 Beaufort) |
 
-**Se préparer :** fixez ou rentrez les objets non fixés (meubles de jardin, trampoline). Suivez les prévisions météo, par exemple à la radio, à la télévision, ou sur le site web ou l'application de l'IRM. Gardez les animaux de compagnie à l'intérieur.
+**Se préparer :** fixez ou rentrez les objets non fixés (meubles de jardin, trampoline). Suivez les prévisions météo. Gardez les animaux de compagnie à l'intérieur.
 
 **Pendant :** entrez à l'intérieur et restez-y. Fermez les fenêtres et les portes. Écoutez le bulletin météo et suivez les recommandations.
 
@@ -175,7 +175,7 @@ Recherchez-le à l'avance, quand internet fonctionne :
 
 - Sur la **carte Watertoets** de Waterinfo Vlaanderen, vous voyez les zones sensibles aux inondations (version 2019) et les cartes liées à l'arrêté Watertoets.
 - Le Centre de crise recommande de vous informer sur les zones sensibles aux inondations.
-- En période de crue, vous trouvez sur **Waterinfo** les niveaux d'eau actuels et les prévisions d'inondation, de précipitations, de sécheresse et de marées, tant qu'internet fonctionne. Sinon : écoutez la radio (voir Comment recevoir les avertissements).
+- En période de crue, vous trouvez sur **Waterinfo** les niveaux d'eau actuels et les prévisions d'inondation, de précipitations, de sécheresse et de marées. Sans internet : écoutez la radio.
 
 **Dehors, sur le terrain**
 
@@ -202,7 +202,7 @@ Le temps peut faire s'écarter le niveau de l'eau de la marée calculée. En cas
 **Où trouver les données pour la côte belge**
 
 - **Tables des marées de la côte (Getijtafels Kust)** : les heures des marées hautes et basses, publiées chaque année par les autorités flamandes. Consultez-les ou imprimez-les à l'avance : vous les aurez ainsi aussi sans internet.
-- **kustweerbericht.be**, si internet fonctionne : bulletin météo marin et côtier, vagues, marée, vent et visibilité en mer.
+- **kustweerbericht.be** : bulletin météo marin et côtier, vagues, marée, vent et visibilité en mer.
 
 **Nager en mer**
 
@@ -282,7 +282,7 @@ Source : [EAWS: Avalanche danger scale](https://www.avalanches.org/standards/ava
 
 | Endroit | Ce à quoi vous faites attention |
 | --- | --- |
-| À la maison | Suivre les avertissements de l'IRM à la radio, ou sur le site web et l'application de l'IRM si le réseau fonctionne. En cas de tempête : rester à l'intérieur, fixer les objets non fixés. En cas d'inondation : 1722 si personne n'est en danger de mort et que le réseau fonctionne. |
+| À la maison | Suivre les avertissements de l'IRM, surtout à la radio. En cas de tempête : rester à l'intérieur, fixer les objets non fixés. En cas d'inondation : 1722 si personne n'est en danger de mort et que le réseau fonctionne. |
 | À pied en forêt ou dans les champs | En cas d'orage : loin des arbres isolés, des lisières de forêt, des terrains découverts. En cas de tempête : ne jamais s'abriter sous un arbre. Pas de lieu de couchage dans le lit d'un ruisseau. |
 | En voiture | Ne pas rouler dans l'eau. Ne pas se garer près des arbres en cas de tempête. Une voiture métallique est un bon abri en cas d'orage. Couverture, grattoir et eau dans le véhicule en hiver. |
 | À la côte | Ne nager que dans les zones surveillées. Consulter les tables des marées à l'avance. Suivre les marées de tempête à la radio, et via kustweerbericht.be et l'IRM si le réseau fonctionne. |

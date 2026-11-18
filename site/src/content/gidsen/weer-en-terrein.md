@@ -111,11 +111,11 @@ Uurhoeveelheden worden slechts één uur vooraf voorspeld.
 - **Rijmplekken**: rijm of vocht dat aanvriest op een wegdek dat niet nat was van een bui.
 - **IJsplekken**: natte stukken of sneeuwresten die later bevriezen.
 
-**Wat je doet bij oranje of rood voor storm of wateroverlast:** heb je de brandweer nodig maar is niemand in levensgevaar, gebruik dan, als het netwerk werkt, het e-loket 1722.be of bel 1722 als dat nummer actief is. Bel 112 alleen bij levensgevaar of als redding nodig is. Lukt bellen niet: laat buren of omstanders bellen of vraag hulp in je buurt (zie Noodnummers in de app, Als bellen niet lukt).
+**Wat je doet bij oranje of rood voor storm of wateroverlast:** heb je de brandweer nodig maar is niemand in levensgevaar, gebruik dan, als het netwerk werkt, het e-loket 1722.be of bel 1722 als dat nummer actief is. Bel 112 alleen bij levensgevaar of als redding nodig is. Lukt bellen niet, zie Noodnummers in de app, Als bellen niet lukt.
 
 **Let op:** het Agentschap Natuur en Bos heeft een **aparte** kleurcode voor het risico op natuurbranden (groen, geel, oranje, rood). Die staat los van de KMI-codes.
 
-Bron: [KMI: Uitleg over onze waarschuwingen](https://www.meteo.be/nl/weer/waarschuwingen/uitleg) · [Nationaal Crisiscentrum: Wind en storm](https://crisiscentrum.be/nl/risicos-belgie/natuurlijke-risicos/wind-en-storm) · [Nationaal Crisiscentrum: brochure Samen voorbereid](https://crisiscentrum.be/sites/default/files/documents/files/WEB-Brochure%20Samen%20voorbereid-NL.pdf) · [FOD Economie: vragen van gezinnen over elektriciteitsschaarste](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door) · [112.be: Veelgestelde vragen](https://112.be/nl/veelgestelde-vragen) · [Nationaal Crisiscentrum: Natuurbrand](https://crisiscentrum.be/nl/risicos-belgie/natuurlijke-risicos/natuurbrand)
+Bron: [KMI: Uitleg over onze waarschuwingen](https://www.meteo.be/nl/weer/waarschuwingen/uitleg) · [Nationaal Crisiscentrum: Wind en storm](https://crisiscentrum.be/nl/risicos-belgie/natuurlijke-risicos/wind-en-storm) · [Nationaal Crisiscentrum: brochure Samen voorbereid](https://crisiscentrum.be/sites/default/files/documents/files/WEB-Brochure%20Samen%20voorbereid-NL.pdf) · [FOD Economie: vragen van gezinnen over elektriciteitsschaarste](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door) · [Nationaal Crisiscentrum: Natuurbrand](https://crisiscentrum.be/nl/risicos-belgie/natuurlijke-risicos/natuurbrand)
 
 ## Wolken en onweer lezen
 
@@ -142,7 +142,7 @@ Bron: [KMI: Hoe bescherm ik me tegen bliksem?](https://www.meteo.be/nl/switch-la
 | Zeer zware storm | Vanaf 103 km/u (11 Beaufort) |
 | Orkaan(kracht) | Vanaf 117 km/u (12 Beaufort) |
 
-**Voorbereiden:** zet losse voorwerpen vast of binnen (tuinmeubelen, trampoline). Hou de weersvoorspelling in het oog, bijvoorbeeld via de radio, tv, of de website of app van het KMI. Laat huisdieren binnen.
+**Voorbereiden:** zet losse voorwerpen vast of binnen (tuinmeubelen, trampoline). Hou de weersvoorspelling in het oog. Laat huisdieren binnen.
 
 **Tijdens:** ga binnen en blijf binnen. Sluit ramen en deuren. Luister naar het weerbericht en volg de aanbevelingen.
 
@@ -173,7 +173,7 @@ Zoek dit vooraf op, als het internet werkt:
 
 - Op de **Watertoets-kaart** van Waterinfo Vlaanderen zie je de overstromingsgevoelige gebieden (versie 2019) en de kaarten bij het watertoetsbesluit.
 - Het Crisiscentrum raadt aan je te informeren over de zones die gevoelig zijn voor overstromingen.
-- Tijdens hoogwater vind je op **Waterinfo** actuele waterstanden en voorspellingen voor overstroming, neerslag, droogte en getijden, zolang het internet werkt. Anders: luister naar de radio (zie Hoe je de waarschuwingen krijgt).
+- Tijdens hoogwater vind je op **Waterinfo** actuele waterstanden en voorspellingen voor overstroming, neerslag, droogte en getijden. Zonder internet: luister naar de radio.
 
 **Buiten in het terrein**
 
@@ -200,7 +200,7 @@ Het weer kan de waterstand doen afwijken van het berekende getij. Bij storm kan 
 **Waar je de gegevens vindt voor de Belgische kust**
 
 - **Getijtafels Kust**: de tijdstippen van hoog- en laagwater, per jaar gepubliceerd door de Vlaamse overheid. Zoek ze vooraf op of druk ze af: dan heb je ze ook zonder internet.
-- **kustweerbericht.be**, als het internet werkt: zee- en kustweerbericht, golven, getij, wind en zicht op zee.
+- **kustweerbericht.be**: zee- en kustweerbericht, golven, getij, wind en zicht op zee.
 
 **Zwemmen in zee**
 
@@ -280,7 +280,7 @@ Bron: [EAWS: Avalanche danger scale](https://www.avalanches.org/standards/avalan
 
 | Plek | Waar je op let |
 | --- | --- |
-| Thuis | KMI-waarschuwingen volgen via de radio, of via KMI-website en app als het netwerk werkt. Bij storm: binnen blijven, losse voorwerpen vast. Bij wateroverlast: 1722 als niemand in levensgevaar is en het netwerk werkt. |
+| Thuis | KMI-waarschuwingen volgen, vooral via de radio. Bij storm: binnen blijven, losse voorwerpen vast. Bij wateroverlast: 1722 als niemand in levensgevaar is en het netwerk werkt. |
 | Te voet in bos of veld | Bij onweer: weg van alleenstaande bomen, bosranden, open vlakten. Bij storm: nooit onder een boom schuilen. Geen slaapplek in de bedding van een beek. |
 | In de auto | Niet door water rijden. Niet parkeren bij bomen bij storm. Een metalen auto is een goede schuilplaats bij onweer. Deken, krabber en water in de wagen in de winter. |
 | Aan de kust | Alleen zwemmen in bewaakte zones. Getijtafels vooraf opzoeken. Stormtij volgen via de radio, en via kustweerbericht.be en de KMI als het netwerk werkt. |

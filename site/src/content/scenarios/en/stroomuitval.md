@@ -82,8 +82,8 @@ A power cut usually lasts a few hours. With major damage it can last days. Cause
 - The central heating: the boiler and the circulation pump stop.
 - Lifts, automatic doors and gates, for example the garage door.
 - The water pressure may drop. The higher up you live, the greater the chance that less water will come out of the tap.
-- Landline and internet: a landline via the internet only works if the router and the handset have power. According to the FPS Economy, it is unlikely that your landline will still work.
-- Mobile network: according to the FPS Economy, mobile masts last one to two hours without power. Mobile internet drops out quickly, probably straight away. The network also quickly becomes overloaded.
+- Landline and internet: your landline will probably no longer work. A landline via the internet needs power for the router and the handset.
+- Mobile network: mobile masts last one to two hours without power. Mobile internet drops out quickly, probably straight away. The network also quickly becomes overloaded.
 - Cash machines, payment terminals and petrol stations.
 - Traffic lights, trains, trams and metros.
 - Home care aids, such as ventilators, and services such as a personal alarm.
@@ -194,7 +194,7 @@ Source: [National Crisis Center: disruption of electricity](https://crisiscenter
 - Follow the news on a battery-powered radio or the car radio.
 - If the mobile network still works, only phone if it is really necessary and send a text message instead. That way the network stays free for emergency calls.
 - A power cut in itself is not an emergency. Only call 112 if someone is in danger.
-- If you cannot get through, try another device or have neighbours or bystanders call. If calling does not work at all, ask for help in your neighbourhood and follow the information from the authorities on the radio. The municipality may open an information and reception point. See also Emergency numbers in the app, If you cannot call.
+- If you cannot get through, have someone else call or ask for help nearby, and follow the information from the authorities on the radio. See Emergency numbers in the app, If you cannot call.
 
 Source: [National Crisis Center: disruption of electricity](https://crisiscenter.be/en/risks-belgium/societal-risks/failure-electricity-supply) · [National Crisis Center: OFF/ON brochure](https://crisiscentrum.be/sites/default/files/documents/files/OffOn-triptyque-N.pdf) · [National Crisis Center: emergency kit](https://crisiscenter.be/en/what-can-you-do/build-emergency-kit/emergency-kit-home) · [FPS Economy: questions from households about electricity shortages](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door) · [112.be: frequently asked questions](https://112.be/en/frequently-asked-questions) · [BBK: Stromausfall](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Vorsorge/Stromausfall/stromausfall_node.html) · [BBK: brochure Stromausfall](https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/Buergerinformationen/stromausfall-vorsorge-selbsthilfe.pdf?__blob=publicationFile&v=13) · [Denk vooruit: no power](https://www.denkvooruit.nl/risicos/risicos-in-nederland/geen-stroom) · [CDC: power outage](https://www.cdc.gov/natural-disasters/response/what-to-do-protect-yourself-during-a-power-outage.html) · [CDC: food safety](https://www.cdc.gov/food-safety/foods/keep-food-safe-after-emergency.html) · [Ready.gov: power outages](https://www.ready.gov/power-outages) · [Speel niet met vuur: CO](https://speelnietmetvuur.be/co/)
 
@@ -225,7 +225,6 @@ Source: [National Crisis Center: make a plan](https://crisiscenter.be/en/what-ca
 ### Children
 
 - Include baby food, nappies and spare clothing in your emergency kit.
-- Have vacuum flasks of hot water ready for babies' bottles.
 - Practise in a playful way what you will do when the power goes off. Stay calm yourself and limit frightening images.
 
 Source: [National Crisis Center: emergency kit](https://crisiscenter.be/en/what-can-you-do/build-emergency-kit/emergency-kit-home) · [National Crisis Center: OFF/ON brochure](https://crisiscentrum.be/sites/default/files/documents/files/OffOn-triptyque-N.pdf) · [Denk vooruit: questions and answers](https://www.denkvooruit.nl/site/binaries/site-content/collections/documents/2025/10/27/toolkit-denk-vooruit-campagne-najaar-2025/20251111-qa-denkvooruit-bronbestand.pdf)
@@ -237,7 +236,7 @@ Source: [National Crisis Center: emergency kit](https://crisiscenter.be/en/what-
 - Make a plan in advance with your doctor or care provider for electrical medical devices and for medicines that must be kept cool.
 - Contact the supplier of your medical aids in advance to discuss what happens in a power cut.
 - Ask your doctor in advance how long your medicines can tolerate higher temperatures.
-- If you use home care, a personal alarm or meals on wheels, ask in advance whether and how those services keep running during a long power cut. A personal alarm can fail if the phone or power goes off. If someone lives in a residential care home, ask about the backup power arrangements.
+- If you use home care, a personal alarm or meals on wheels, ask in advance whether and how those services keep running during a long power cut. A personal alarm can itself fail. If someone lives in a residential care home, ask about the backup power arrangements.
 - During the power cut, follow the plan you made with your care provider.
 
 **Medicines that must be kept cool**
@@ -294,7 +293,7 @@ Source: [Speel niet met vuur: CO](https://speelnietmetvuur.be/co/) · [CDC: powe
 
 ## More information
 
-Consult these sources in advance, or during the power cut if the internet works.
+To read in advance, or if the internet works:
 
 - National Crisis Center on disruption of electricity and the load-shedding plan.
 - FPS Economy: how the load-shedding plan works, which block your municipality belongs to and what happens to telephony.

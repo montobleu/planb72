@@ -32,8 +32,6 @@ bronnen:
     url: "https://krisenzentrum.be/de/was-koennen-sie-tun/stelle-ein-notfallpaket-zusammen/ein-notfallset-fuer-zu-hause"
   - naam: "Nationales Krisenzentrum: Ein Notfallpaket unterwegs"
     url: "https://krisenzentrum.be/de/was-koennen-sie-tun/stelle-ein-notfallpaket-zusammen/ein-notfallset-vor-ort"
-  - naam: "112.be: Häufig gestellte Fragen"
-    url: "https://112.be/de/haeufig-gestellte-fragen"
   - naam: "FÖD Wirtschaft: Fragen von Familien zur Stromknappheit"
     url: "https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door"
   - naam: "Jeugd Rode Kruis: Poster 4 Schritte der Ersten Hilfe"
@@ -81,7 +79,7 @@ Quelle: [Nationales Krisenzentrum: Ein Plan für zu Hause](https://krisenzentrum
 Wenn Telefon und Internet ausfallen, müssen Sie ohne Absprache wissen, wo Sie einander finden.
 
 - Das Krisenzentrum: Vereinbaren Sie im Voraus mit Ihrer Familie, wo Sie einander wiederfinden können, wenn Sie sich nicht erreichen. Besprechen Sie den sichersten Fluchtweg und Treffpunkt mit Ihren Mitbewohnern und tragen Sie beides in Ihren Notfallplan ein.
-- Denk vooruit: Wählen Sie mit Ihrer Familie, Verwandten oder Freunden einen Ort, an dem Sie sich treffen, wenn es keine Telefon- oder Internetverbindung gibt. Vereinbaren Sie auch, wann Sie dort zusammenkommen oder wann Sie beieinander vorbeischauen. Im Beispiel des Informationshefts schaut jemand nach zwei Tagen bei seinen Eltern vorbei, wie vorher vereinbart.
+- Denk vooruit: Wählen Sie mit Ihrer Familie, Verwandten oder Freunden einen Ort, an dem Sie sich treffen, wenn es keine Telefon- oder Internetverbindung gibt. Vereinbaren Sie auch, wann Sie dort zusammenkommen oder beieinander vorbeischauen.
 - Ready.gov: Wählen Sie einen vertrauten Ort, der leicht zu finden ist, und passen Sie ihn den Umständen an.
 
 **Möglichkeiten, von nah bis fern**
@@ -106,7 +104,7 @@ Das Krisenzentrum empfiehlt zwei Arten von Kontaktpersonen:
 - **Eine Kontaktperson in der Nähe**, zu der Sie gehen können, wenn bei Ihnen zu Hause etwas passiert.
 - **Eine Kontaktperson etwas weiter von zu Hause**, für den Fall, dass Sie nicht bis in Ihre Straße, Ihr Viertel oder Ihre Gemeinde gelangen.
 
-Bei einer Evakuierung empfiehlt das Krisenzentrum außerdem, ein Familienmitglied oder einen Freund, der nicht in derselben Zone wohnt, zu bitten, Kontaktperson zu sein. Sobald Sie in Sicherheit sind, geben Sie ihm oder ihr Bescheid. So weiß diese Person, wo alle sind, wenn Familienmitglieder getrennt wurden. Ready.gov nennt dies einen Kontakt außerhalb des Bundesstaates und empfiehlt, diese Person anzurufen oder ihr zu mailen, wohin Sie gehen, wenn die Zeit es erlaubt.
+Bei einer Evakuierung empfiehlt das Krisenzentrum, ein Familienmitglied oder einen Freund außerhalb der Zone als Kontaktperson zu bitten und ihm oder ihr Bescheid zu geben, sobald Sie in Sicherheit sind. So weiß diese Person, wo alle sind, wenn Familienmitglieder getrennt werden. Ready.gov nennt dies einen Kontakt außerhalb des Bundesstaates: Teilen Sie dieser Person mit, wohin Sie gehen, wenn die Zeit es erlaubt.
 
 **So wird es brauchbar, auch ohne Telefon**
 
@@ -204,9 +202,9 @@ Diese Nummern stehen auf dem belgischen Plan und in der Broschüre. Sie funktion
 
 Wenn Sie 112 anrufen, geben Sie so deutlich wie möglich an, wo Sie sind, was passiert ist und wie viele Verletzte es gibt (Broschüre).
 
-**Kommt kein Anruf zustande.** Versuchen Sie es mit einem anderen Gerät oder lassen Sie Nachbarn oder Umstehende anrufen. Gehen Sie ein paar Meter weiter und versuchen Sie es erneut. Ist überhaupt kein Anruf möglich, bitten Sie in Ihrer Nachbarschaft um Hilfe und verfolgen Sie die Informationen der Behörden im Radio. Die Gemeinde kann eine Informations- und Anlaufstelle öffnen: Fragen Sie Ihre Gemeinde vorab, wo sie sich befindet, und tragen Sie sie in Ihren Plan ein (112.be, FÖD Wirtschaft). Siehe auch Notrufnummern in der App, Wenn kein Anruf möglich ist.
+**Kommt kein Anruf zustande.** Siehe Notrufnummern in der App, Wenn kein Anruf möglich ist. Die Gemeinde kann eine Informations- und Anlaufstelle öffnen: Fragen Sie vorab, wo sie sich befindet, und tragen Sie sie in Ihren Plan ein (FÖD Wirtschaft).
 
-Quelle: [Nationales Krisenzentrum: Mein eigener Notfallplan](https://krisenzentrum.be/sites/default/files/documents/files/MeinNotfallplan_PDF.pdf) · [Nationales Krisenzentrum: Broschüre Gemeinsam vorbereitet](https://krisenzentrum.be/sites/default/files/documents/files/WEB-Brosch%C3%BCre%20Gemeinsam%20Vorbereitet-DE.pdf) · [112.be: Häufig gestellte Fragen](https://112.be/de/haeufig-gestellte-fragen) · [FÖD Wirtschaft: Fragen von Familien zur Stromknappheit](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door)
+Quelle: [Nationales Krisenzentrum: Mein eigener Notfallplan](https://krisenzentrum.be/sites/default/files/documents/files/MeinNotfallplan_PDF.pdf) · [Nationales Krisenzentrum: Broschüre Gemeinsam vorbereitet](https://krisenzentrum.be/sites/default/files/documents/files/WEB-Brosch%C3%BCre%20Gemeinsam%20Vorbereitet-DE.pdf) · [FÖD Wirtschaft: Fragen von Familien zur Stromknappheit](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door)
 
 ## Nach der Krise, wenn das Telefon wieder funktioniert
 
@@ -357,7 +355,7 @@ Die Anmeldung bleibt sinnvoll: Dann werden Sie auch für Adressen benachrichtigt
 
 Anmeldung und Nachrichten sind kostenlos.
 
-**Wenn das Netz ausfällt.** BE-Alert verschickt Nachrichten per SMS, E-Mail oder Sprachanruf. Bei einer Stromunterbrechung können Internet und Mobilfunknetze ausfallen. Sorgen Sie deshalb auch für ein batteriebetriebenes Radio oder ein Kurbelradio, möglichst mit DAB+ und UKW. Die Behörden können auch Informationstafeln, Faltblätter, Kommunikation von Tür zu Tür und Lautsprecherwagen der Polizei einsetzen (Krisenzentrum).
+**Wenn das Netz ausfällt.** Bei einer Stromunterbrechung können Internet und Mobilfunknetze ausfallen. Sorgen Sie deshalb auch für ein batteriebetriebenes Radio oder ein Kurbelradio, möglichst mit DAB+ und UKW. Die Behörden können auch Informationstafeln, Faltblätter, Kommunikation von Tür zu Tür und Lautsprecherwagen der Polizei einsetzen (Krisenzentrum).
 
 **So erkennen Sie eine echte Nachricht**
 

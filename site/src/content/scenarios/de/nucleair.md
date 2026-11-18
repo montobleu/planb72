@@ -59,9 +59,9 @@ origineel_datum: "2026-11-18"
 
 ## Erkennen
 
-**Wie Sie gewarnt werden.** Die Behörden benachrichtigen Sie über Radio und Fernsehen und über Lautsprecherwagen der Polizei, die durch die Straße fahren. Funktioniert das Netz, auch über BE-Alert (SMS, E-Mail oder Telefonanruf), soziale Medien, die offiziellen Websites und eine Informationsnummer. Wer kein Festnetztelefon und kein Handy hat, erhält die Informationen über die anderen Kanäle. Bei einem großen Notfall schicken die Behörden eine Alert-SMS an alle, die sich mit einem Handy in der betroffenen Zone befinden. Dafür müssen Sie nicht angemeldet sein.
+**Wie Sie gewarnt werden.** Die Behörden benachrichtigen Sie über Radio und Fernsehen und über Lautsprecherwagen der Polizei. Funktioniert das Netz, auch über BE-Alert (SMS, E-Mail oder Telefonanruf), soziale Medien, die offiziellen Websites und eine Informationsnummer. Wer kein Festnetztelefon und kein Handy hat, erhält die Informationen über die anderen Kanäle. Bei einem großen Notfall schicken die Behörden eine Alert-SMS an alle, die sich mit einem Handy in der betroffenen Zone befinden. Dafür müssen Sie nicht angemeldet sein.
 
-Bei einer Stromunterbrechung können Internet und Mobilfunknetze ausfallen. Mit einem Radio mit Batterien oder einem Kurbelradio bleiben Sie dann trotzdem auf dem Laufenden.
+Fällt der Strom aus, bleiben Sie mit einem Radio mit Batterien oder einem Kurbelradio auf dem Laufenden.
 
 **Was passieren kann.** Bei einem nuklearen Notfall können radioaktive Stoffe freigesetzt werden, darunter radioaktives Jod. Ein Notfall kann mit einer Bedrohungsphase beginnen, noch bevor etwas freigesetzt wird. Es wird auch nicht immer Jod freigesetzt.
 
@@ -108,8 +108,8 @@ Quelle: [Nationales Krisenzentrum: Kernkraftwerk](https://krisenzentrum.be/de/ri
 5. Dichten Sie die Unterseite von Türen mit feuchten Tüchern ab. Sorgen Sie dafür, dass trotzdem noch etwas Luft zirkuliert, damit Ihnen nicht unwohl wird.
 6. Gehen Sie in einen zentralen Raum im Erdgeschoss, weg von Fenstern.
 7. Holen Sie Haustiere herein.
-8. Befolgen Sie die Anweisungen der Behörden über das Radio, oder das Fernsehen, wenn es Strom gibt. Fällt der Strom aus, benutzen Sie ein Radio mit Batterien oder Kurbel. Achten Sie auch auf Lautsprecherwagen der Polizei. Funktioniert das Netz, verfolgen Sie auch BE-Alert, die Websites und die sozialen Medien der Behörden.
-9. Rufen Sie nicht an, um Informationen zu erfragen. Telefonieren Sie nur bei einem medizinischen Notfall (112). Überflüssige Anrufe überlasten das Netz und behindern die Rettungsdienste. Kommt kein Anruf zustande, siehe Notrufnummern, Wenn kein Anruf möglich ist. Funktioniert das Netz, benachrichtigen Sie andere per SMS, WhatsApp oder Signal.
+8. Befolgen Sie die Anweisungen der Behörden über Radio oder Fernsehen und achten Sie auf Lautsprecherwagen der Polizei. Funktioniert das Netz, verfolgen Sie auch BE-Alert und die offiziellen Websites.
+9. Rufen Sie nicht an, um Informationen zu erfragen. Telefonieren Sie nur bei einem medizinischen Notfall (112). Überflüssige Anrufe überlasten das Netz. Kommt kein Anruf zustande, siehe Notrufnummern, Wenn kein Anruf möglich ist. Funktioniert das Netz, benachrichtigen Sie andere per SMS, WhatsApp oder Signal.
 
 **Haben Sie einen Keller?** Die belgischen Quellen sprechen von einem zentralen Raum im Erdgeschoss. Das amerikanische Ready.gov nennt einen Keller oder die Mitte eines großen Gebäudes als den am besten geschützten Ort, mit möglichst vielen Wänden zwischen Ihnen und draußen. Auch Gebäude aus Ziegel oder Beton und Tiefgaragen bieten guten Schutz.
 
@@ -154,7 +154,6 @@ Quelle: [Nationales Krisenzentrum: Kernkraftwerk](https://krisenzentrum.be/de/ri
 ### Schutzbedürftige Personen
 
 - Schwangere Frauen und stillende Frauen gehören zu der Gruppe, für die Jodtabletten empfohlen werden. Nehmen Sie sie nur ein, wenn die Behörden es sagen.
-- Wer älter als 40 ist, nimmt grundsätzlich kein Jod ein, es sei denn, die Behörden empfehlen es ausdrücklich. Fragen Sie vorher Ihren Arzt um Rat.
 - Sind Sie krank oder verletzt, befolgen Sie die Anweisungen, wo Sie medizinische Versorgung erhalten. Rufen Sie bei einem medizinischen Notfall die 112 an. Gelingt das nicht, lassen Sie einen Mitbewohner oder Nachbarn anrufen oder Hilfe holen (siehe Notrufnummern, Wenn kein Anruf möglich ist).
 
 ### Haustiere und Tiere
@@ -170,8 +169,7 @@ Quelle: [Nationales Krisenzentrum: Kernkraftwerk](https://krisenzentrum.be/de/ri
 - Nehmen Sie Jodtabletten nie auf eigene Initiative ein. Nehmen Sie sie nur ein, wenn die Behörden es ausdrücklich sagen.
 - Die Behörden bestimmen, wann. Die Empfehlung kann für bestimmte Zonen oder Gruppen gelten.
 - Stabiles Jod hilft nur, wenn radioaktives Jod freigesetzt wird. Es sättigt die Schilddrüse, sodass sie kein radioaktives Jod mehr aufnimmt.
-- Jod schützt nicht vor anderen radioaktiven Stoffen. Schutz suchen bleibt nötig.
-- Schutz suchen geht vor Jod, vor allem wenn Sie keine Tabletten im Haus haben.
+- Jod schützt nicht vor anderen radioaktiven Stoffen. Schutz suchen bleibt nötig und geht vor, vor allem wenn Sie keine Tabletten im Haus haben.
 - Die Menge hängt von Ihrem Alter ab. Befolgen Sie den Beipackzettel.
 - Eine einmalige Einnahme reicht oft. Der Schutz hält mindestens 24 Stunden an.
 
@@ -216,7 +214,7 @@ Quelle: [Nationales Krisenzentrum: Kernkraftwerk](https://krisenzentrum.be/de/ri
 
 ## Mehr Informationen
 
-Lesen Sie diese Seiten im Voraus. Bei einer Stromunterbrechung können Internet und Mobilfunknetze ausfallen.
+Vorab zu lesen, oder wenn das Internet funktioniert:
 
 - Zonen, Jod und Empfehlungen: [nuklearrisiko.be](https://nuklearrisiko.be/de/was-koennen-sie-tun)
 - Risiko und Maßnahmen: [Nationales Krisenzentrum: Zwischenfall in einem Kernkraftwerk](https://krisenzentrum.be/de/risiken-belgien/technologische-risiken/zwischenfall-einer-nuklearanlage)

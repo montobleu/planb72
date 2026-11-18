@@ -59,9 +59,9 @@ origineel_datum: "2026-11-18"
 
 ## Reconnaître
 
-**Comment vous êtes alerté.** Les autorités vous préviennent via la radio et la télévision et via des voitures à haut-parleurs de la police qui circulent dans la rue. Si le réseau fonctionne, aussi via BE-Alert (SMS, e-mail ou appel téléphonique), les réseaux sociaux, les sites web officiels et un numéro d'information. Les personnes qui n'ont pas de téléphone fixe ni de GSM reçoivent l'information par les autres canaux. Lors d'une urgence importante, les autorités envoient un Alert-SMS à toutes les personnes qui se trouvent avec un GSM dans la zone touchée. Pour cela, vous ne devez pas être inscrit.
+**Comment vous êtes alerté.** Les autorités vous préviennent via la radio et la télévision et via des voitures à haut-parleurs de la police. Si le réseau fonctionne, aussi via BE-Alert (SMS, e-mail ou appel téléphonique), les réseaux sociaux, les sites web officiels et un numéro d'information. Les personnes qui n'ont pas de téléphone fixe ni de GSM reçoivent l'information par les autres canaux. Lors d'une urgence importante, les autorités envoient un Alert-SMS à toutes les personnes qui se trouvent avec un GSM dans la zone touchée. Pour cela, vous ne devez pas être inscrit.
 
-Lors d'une coupure de courant, internet et les réseaux mobiles peuvent tomber en panne. Avec une radio à piles ou une radio à manivelle, vous restez quand même informé.
+Si le courant est coupé, une radio à piles ou une radio à manivelle vous permet de rester informé.
 
 **Ce qui peut se passer.** Lors d'une urgence nucléaire, des substances radioactives peuvent être rejetées, dont de l'iode radioactif. Une urgence peut commencer par une phase de menace, avant même qu'un rejet ait lieu. De l'iode n'est pas non plus toujours rejeté.
 
@@ -108,8 +108,8 @@ Source : [Centre de crise National : centrale nucléaire](https://centredecrise.
 5. Bouchez le bas des portes avec des linges humides. Veillez à ce qu'un peu d'air circule quand même, pour ne pas vous sentir mal.
 6. Allez dans une pièce centrale au rez-de-chaussée, loin des fenêtres.
 7. Rentrez les animaux domestiques.
-8. Suivez les consignes des autorités via la radio, ou la télévision s'il y a du courant. Si le courant est coupé, utilisez une radio à piles ou à manivelle. Soyez aussi attentif aux voitures à haut-parleurs de la police. Si le réseau fonctionne, suivez aussi BE-Alert, les sites web et les réseaux sociaux des autorités.
-9. N'appelez pas pour demander des informations. N'appelez qu'en cas d'urgence médicale (112). Les appels inutiles surchargent le réseau et gênent les services de secours. Si l'appel ne passe pas, voir Numéros d'urgence, Si l'appel ne passe pas. Si le réseau fonctionne, prévenez les autres par SMS, WhatsApp ou Signal.
+8. Suivez les consignes des autorités via la radio ou la télévision et soyez attentif aux voitures à haut-parleurs de la police. Si le réseau fonctionne, suivez aussi BE-Alert et les sites web officiels.
+9. N'appelez pas pour demander des informations. N'appelez qu'en cas d'urgence médicale (112). Les appels inutiles surchargent le réseau. Si l'appel ne passe pas, voir Numéros d'urgence, Si l'appel ne passe pas. Si le réseau fonctionne, prévenez les autres par SMS, WhatsApp ou Signal.
 
 **Vous avez une cave ?** Les sources belges parlent d'une pièce centrale au rez-de-chaussée. Le site américain Ready.gov cite une cave ou le centre d'un grand bâtiment comme l'endroit le mieux protégé, avec le plus de murs possible entre vous et l'extérieur. Les bâtiments en brique ou en béton et les parkings souterrains offrent aussi une bonne protection.
 
@@ -154,7 +154,6 @@ Source : [Centre de crise National : centrale nucléaire](https://centredecrise.
 ### Personnes vulnérables
 
 - Les femmes enceintes et les femmes qui allaitent font partie du groupe pour lequel les comprimés d'iode sont recommandés. Ne les prenez que si les autorités le disent.
-- Les personnes de plus de 40 ans ne prennent en principe pas d'iode, sauf si les autorités le recommandent expressément. Demandez conseil à votre médecin à l'avance.
 - Si vous êtes malade ou blessé, suivez les consignes sur l'endroit où vous recevrez des soins médicaux. Appelez le 112 en cas d'urgence médicale. Si vous n'y arrivez pas, demandez à une personne qui vit avec vous ou à un voisin d'appeler ou de chercher de l'aide (voir Numéros d'urgence, Si l'appel ne passe pas).
 
 ### Animaux domestiques et autres animaux
@@ -170,8 +169,7 @@ Source : [Centre de crise National : centrale nucléaire](https://centredecrise.
 - Ne prenez jamais de comprimés d'iode de votre propre initiative. Ne les prenez que si les autorités le disent expressément.
 - Les autorités déterminent quand. La recommandation peut s'appliquer à certaines zones ou à certains groupes.
 - L'iode stable n'aide que si de l'iode radioactif est rejeté. Il sature la thyroïde, pour qu'elle n'absorbe plus d'iode radioactif.
-- L'iode ne protège pas contre les autres substances radioactives. Se mettre à l'abri reste nécessaire.
-- Se mettre à l'abri passe avant l'iode, surtout si vous n'avez pas de comprimés à la maison.
+- L'iode ne protège pas contre les autres substances radioactives. Se mettre à l'abri reste nécessaire et passe en premier, surtout si vous n'avez pas de comprimés à la maison.
 - La quantité dépend de votre âge. Suivez la notice.
 - Une seule prise suffit souvent. La protection dure au moins 24 heures.
 
@@ -216,7 +214,7 @@ Source : [Centre de crise National : centrale nucléaire](https://centredecrise.
 
 ## Plus d'informations
 
-Lisez ces pages à l'avance. Lors d'une coupure de courant, internet et les réseaux mobiles peuvent tomber en panne.
+À lire à l'avance, ou si internet fonctionne :
 
 - Zones, iode et recommandations : [risquenucleaire.be](https://risquenucleaire.be/fr/que-pouvez-vous-faire)
 - Risque et mesures : [Centre de crise National : incident dans une centrale nucléaire](https://centredecrise.be/fr/risques-en-belgique/risques-economiques-et-technologiques/incident-dans-une-centrale-nucleaire)

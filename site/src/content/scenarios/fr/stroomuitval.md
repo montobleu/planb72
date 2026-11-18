@@ -82,8 +82,8 @@ Une panne d'électricité dure généralement quelques heures. En cas de dégât
 - Le chauffage central : la chaudière et la pompe de circulation s'arrêtent.
 - Les ascenseurs, les portes et les portails automatiques, par exemple celui du garage.
 - La pression de l'eau peut baisser. Plus vous habitez haut, plus il est probable que moins d'eau sorte du robinet.
-- Le téléphone fixe et internet : une ligne fixe via internet ne fonctionne que si le routeur et l'appareil sont alimentés. Selon le SPF Économie, il est peu probable que votre ligne fixe fonctionne encore.
-- Le réseau mobile : selon le SPF Économie, les antennes GSM tiennent une à deux heures sans électricité. L'internet mobile tombe vite, probablement immédiatement. Le réseau est aussi vite surchargé.
+- Le téléphone fixe et internet : votre ligne fixe ne fonctionne probablement plus. Une ligne fixe via internet a besoin de courant pour le routeur et l'appareil.
+- Le réseau mobile : les antennes GSM tiennent une à deux heures sans électricité. L'internet mobile tombe vite, probablement immédiatement. Le réseau est aussi vite surchargé.
 - Les distributeurs de billets, les terminaux de paiement et les stations-service.
 - Les feux de signalisation, les trains, les trams et les métros.
 - Les aides pour les soins à domicile, comme les appareils respiratoires, et les services comme une alarme personnelle.
@@ -194,7 +194,7 @@ Source : [Centre de crise National : perturbation de l'électricité](https://ce
 - Suivez les informations via une radio à piles ou l'autoradio.
 - Si le réseau mobile fonctionne encore, n'appelez que si c'est vraiment nécessaire et envoyez plutôt un SMS. Ainsi, le réseau reste libre pour les appels d'urgence.
 - Une panne d'électricité en soi n'est pas une urgence. N'appelez le 112 que si quelqu'un est en danger.
-- Si l'appel ne passe pas, essayez un autre appareil ou faites appeler des voisins ou des passants. Si les appels ne fonctionnent plus du tout, demandez de l'aide dans votre voisinage et suivez les informations des autorités à la radio. La commune peut ouvrir un point d'information et d'accueil. Voir aussi Numéros d'urgence dans l'application, Si l'appel ne passe pas.
+- Si l'appel ne passe pas, faites appeler quelqu'un d'autre ou demandez de l'aide dans votre voisinage, et suivez les informations des autorités à la radio. Voir Numéros d'urgence dans l'application, Si l'appel ne passe pas.
 
 Source : [Centre de crise National : perturbation de l'électricité](https://centredecrise.be/fr/risques-en-belgique/risques-societaux/defaillance-de-lapprovisionnement-en-electricite) · [Centre de crise National : brochure OFF/ON](https://centredecrise.be/sites/default/files/documents/files/OffOn-triptyque-F.pdf) · [Centre de crise National : kit d'urgence](https://centredecrise.be/fr/que-pouvez-vous-faire/preparez-un-kit-durgence/un-kit-durgence-la-maison) · [SPF Économie : questions des ménages sur la pénurie d'électricité](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door) · [112.be : questions fréquentes](https://112.be/fr/questions-frequentes) · [BBK: Stromausfall](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Vorsorge/Stromausfall/stromausfall_node.html) · [BBK: brochure Stromausfall](https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/Buergerinformationen/stromausfall-vorsorge-selbsthilfe.pdf?__blob=publicationFile&v=13) · [Denk vooruit : pas d'électricité](https://www.denkvooruit.nl/risicos/risicos-in-nederland/geen-stroom) · [CDC: power outage](https://www.cdc.gov/natural-disasters/response/what-to-do-protect-yourself-during-a-power-outage.html) · [CDC: food safety](https://www.cdc.gov/food-safety/foods/keep-food-safe-after-emergency.html) · [Ready.gov: power outages](https://www.ready.gov/power-outages) · [Ne jouez pas avec le feu : CO](https://speelnietmetvuur.be/co/)
 
@@ -225,7 +225,6 @@ Source : [Centre de crise National : faites un plan](https://centredecrise.be/fr
 ### Enfants
 
 - Prévoyez de l'alimentation pour bébé, des langes et des vêtements de rechange dans votre kit d'urgence.
-- Préparez des thermos d'eau chaude pour les biberons.
 - Exercez de manière ludique ce que vous ferez si le courant est coupé. Restez vous-même calme et limitez les images effrayantes.
 
 Source : [Centre de crise National : kit d'urgence](https://centredecrise.be/fr/que-pouvez-vous-faire/preparez-un-kit-durgence/un-kit-durgence-la-maison) · [Centre de crise National : brochure OFF/ON](https://centredecrise.be/sites/default/files/documents/files/OffOn-triptyque-F.pdf) · [Denk vooruit : questions et réponses](https://www.denkvooruit.nl/site/binaries/site-content/collections/documents/2025/10/27/toolkit-denk-vooruit-campagne-najaar-2025/20251111-qa-denkvooruit-bronbestand.pdf)
@@ -237,7 +236,7 @@ Source : [Centre de crise National : kit d'urgence](https://centredecrise.be/fr/
 - Faites à l'avance avec votre médecin ou votre prestataire de soins un plan pour les appareils médicaux électriques et pour les médicaments qui doivent rester au frais.
 - Contactez à l'avance le fournisseur de vos dispositifs médicaux pour discuter de ce qui se passe en cas de panne d'électricité.
 - Demandez à l'avance à votre médecin combien de temps vos médicaments supportent des températures plus élevées.
-- Si vous recevez des soins à domicile, si vous utilisez une alarme personnelle ou des repas à domicile, demandez à l'avance si et comment ces services continuent à fonctionner en cas de panne prolongée. Une alarme personnelle peut tomber en panne si le téléphone ou le courant est coupé. Si une personne vit dans une maison de repos et de soins, renseignez-vous sur l'alimentation de secours.
+- Si vous recevez des soins à domicile, si vous utilisez une alarme personnelle ou des repas à domicile, demandez à l'avance si et comment ces services continuent à fonctionner en cas de panne prolongée. Une alarme personnelle peut elle-même tomber en panne. Si une personne vit dans une maison de repos et de soins, renseignez-vous sur l'alimentation de secours.
 - Pendant la panne, suivez le plan que vous avez établi avec votre prestataire de soins.
 
 **Médicaments qui doivent rester au frais**
@@ -294,7 +293,7 @@ Source : [Ne jouez pas avec le feu : CO](https://speelnietmetvuur.be/co/) · [CD
 
 ## Plus d'informations
 
-Consultez ces sources à l'avance, ou pendant la panne si internet fonctionne.
+À lire à l'avance, ou si internet fonctionne :
 
 - Le Centre de crise National sur la perturbation de l'électricité et le plan de délestage.
 - SPF Économie : comment fonctionne le plan de délestage, à quelle tranche appartient votre commune et ce qui se passe avec la téléphonie.

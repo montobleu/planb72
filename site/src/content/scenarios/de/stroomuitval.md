@@ -82,8 +82,8 @@ Ein Stromausfall dauert meist einige Stunden. Bei großen Schäden kann er Tage 
 - Die Zentralheizung: Heizkessel und Umwälzpumpe stehen still.
 - Aufzüge, automatische Türen und Tore, zum Beispiel der Garage.
 - Der Wasserdruck kann sinken. Je höher Sie wohnen, desto größer ist die Wahrscheinlichkeit, dass weniger Wasser aus dem Hahn kommt.
-- Festnetztelefon und Internet: Ein Festnetzanschluss über das Internet funktioniert nur, wenn Router und Gerät Strom haben. Laut FÖD Wirtschaft ist es wenig wahrscheinlich, dass Ihr Festnetz noch funktioniert.
-- Mobilfunknetz: Mobilfunkmasten halten laut FÖD Wirtschaft ohne Strom ein bis zwei Stunden durch. Mobiles Internet fällt schnell aus, wahrscheinlich sofort. Das Netz wird auch schnell überlastet.
+- Festnetztelefon und Internet: Ihr Festnetz funktioniert wahrscheinlich nicht mehr. Ein Festnetzanschluss über das Internet braucht Strom für Router und Gerät.
+- Mobilfunknetz: Mobilfunkmasten halten ohne Strom ein bis zwei Stunden durch. Mobiles Internet fällt schnell aus, wahrscheinlich sofort. Das Netz wird auch schnell überlastet.
 - Geldautomaten, Zahlungsterminals und Tankstellen.
 - Ampeln, Züge, Straßenbahnen und U-Bahnen.
 - Hilfsmittel für die häusliche Pflege, wie Beatmungsgeräte, und Dienste wie ein Hausnotruf.
@@ -194,7 +194,7 @@ Quelle: [Nationales Krisenzentrum: Störung der Stromversorgung](https://krisenz
 - Verfolgen Sie die Nachrichten über ein batteriebetriebenes Radio oder das Autoradio.
 - Funktioniert das Mobilfunknetz noch, telefonieren Sie nur, wenn es wirklich nötig ist, und schicken Sie lieber eine SMS. So bleibt das Netz für Notrufe frei.
 - Ein Stromausfall an sich ist kein Notfall. Rufen Sie die 112 nur an, wenn jemand in Gefahr ist.
-- Kommt kein Anruf zustande, versuchen Sie es mit einem anderen Gerät oder lassen Sie Nachbarn oder Umstehende anrufen. Funktioniert Telefonieren überhaupt nicht, bitten Sie in Ihrer Nachbarschaft um Hilfe und verfolgen Sie die Informationen der Behörden im Radio. Die Gemeinde kann eine Informations- und Anlaufstelle öffnen. Siehe auch Notrufnummern in der App, Wenn kein Anruf möglich ist.
+- Kommt kein Anruf zustande, lassen Sie jemand anderen anrufen oder bitten Sie in Ihrer Nachbarschaft um Hilfe, und verfolgen Sie die Informationen der Behörden im Radio. Siehe Notrufnummern in der App, Wenn kein Anruf möglich ist.
 
 Quelle: [Nationales Krisenzentrum: Störung der Stromversorgung](https://krisenzentrum.be/de/risiken-belgien/maatschappelijke-risicos/ausfall-der-elektrizitaetsversorgung) · [Nationales Krisenzentrum: Broschüre OFF/ON](https://krisenzentrum.be/sites/default/files/documents/files/OffOn-triptyque-D.pdf) · [Nationales Krisenzentrum: Notfallpaket](https://krisenzentrum.be/de/was-koennen-sie-tun/stelle-ein-notfallpaket-zusammen/ein-notfallset-fuer-zu-hause) · [FÖD Wirtschaft: Fragen von Haushalten zur Stromknappheit](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door) · [112.be: Häufig gestellte Fragen](https://112.be/de/haeufig-gestellte-fragen) · [BBK: Stromausfall](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Vorsorge/Stromausfall/stromausfall_node.html) · [BBK: Broschüre Stromausfall](https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/Buergerinformationen/stromausfall-vorsorge-selbsthilfe.pdf?__blob=publicationFile&v=13) · [Denk vooruit: kein Strom](https://www.denkvooruit.nl/risicos/risicos-in-nederland/geen-stroom) · [CDC: power outage](https://www.cdc.gov/natural-disasters/response/what-to-do-protect-yourself-during-a-power-outage.html) · [CDC: food safety](https://www.cdc.gov/food-safety/foods/keep-food-safe-after-emergency.html) · [Ready.gov: power outages](https://www.ready.gov/power-outages) · [Speel niet met vuur: CO](https://speelnietmetvuur.be/co/)
 
@@ -225,7 +225,6 @@ Quelle: [Nationales Krisenzentrum: einen Plan erstellen](https://krisenzentrum.b
 ### Kinder
 
 - Packen Sie Babynahrung, Windeln und Ersatzkleidung in Ihr Notfallpaket.
-- Stellen Sie Thermosflaschen mit warmem Wasser für Babyfläschchen bereit.
 - Üben Sie spielerisch, was Sie tun, wenn der Strom ausfällt. Bleiben Sie selbst ruhig und begrenzen Sie beängstigende Bilder.
 
 Quelle: [Nationales Krisenzentrum: Notfallpaket](https://krisenzentrum.be/de/was-koennen-sie-tun/stelle-ein-notfallpaket-zusammen/ein-notfallset-fuer-zu-hause) · [Nationales Krisenzentrum: Broschüre OFF/ON](https://krisenzentrum.be/sites/default/files/documents/files/OffOn-triptyque-D.pdf) · [Denk vooruit: Fragen und Antworten](https://www.denkvooruit.nl/site/binaries/site-content/collections/documents/2025/10/27/toolkit-denk-vooruit-campagne-najaar-2025/20251111-qa-denkvooruit-bronbestand.pdf)
@@ -237,7 +236,7 @@ Quelle: [Nationales Krisenzentrum: Notfallpaket](https://krisenzentrum.be/de/was
 - Erstellen Sie vorher mit Ihrem Arzt oder Ihrer Pflegekraft einen Plan für elektrische medizinische Geräte und für Medikamente, die kühl bleiben müssen.
 - Wenden Sie sich vorher an den Lieferanten Ihrer medizinischen Hilfsmittel, um zu besprechen, was bei einem Stromausfall geschieht.
 - Fragen Sie Ihren Arzt vorher, wie lange Ihre Medikamente höhere Temperaturen vertragen.
-- Nutzen Sie häusliche Pflege, einen Hausnotruf oder Essen auf Rädern, fragen Sie vorher, ob und wie diese Dienste bei einem langen Ausfall weiterarbeiten. Ein Hausnotruf kann ausfallen, wenn Telefon oder Strom wegfällt. Wohnt jemand in einem Wohn- und Pflegezentrum, fragen Sie nach der Notstromversorgung.
+- Nutzen Sie häusliche Pflege, einen Hausnotruf oder Essen auf Rädern, fragen Sie vorher, ob und wie diese Dienste bei einem langen Ausfall weiterarbeiten. Ein Hausnotruf kann selbst ausfallen. Wohnt jemand in einem Wohn- und Pflegezentrum, fragen Sie nach der Notstromversorgung.
 - Befolgen Sie während des Ausfalls den Plan, den Sie mit Ihrer Pflegekraft erstellt haben.
 
 **Medikamente, die kühl bleiben müssen**
@@ -294,7 +293,7 @@ Quelle: [Speel niet met vuur: CO](https://speelnietmetvuur.be/co/) · [CDC: powe
 
 ## Mehr Informationen
 
-Sehen Sie diese Quellen im Voraus ein, oder während des Ausfalls, wenn das Internet funktioniert.
+Vorab zu lesen, oder wenn das Internet funktioniert:
 
 - Nationales Krisenzentrum zur Störung der Stromversorgung und zum Abschaltplan.
 - FÖD Wirtschaft: wie der Abschaltplan funktioniert, zu welchem Block Ihre Gemeinde gehört und was mit der Telefonie geschieht.

@@ -39,7 +39,7 @@ origineel_datum: "2026-11-18"
 
 ## Erkennen
 
-**Wie Sie davon erfahren.** Ihr Wasserversorger meldet ein Problem mit einer Mitteilung im Briefkasten und auf seiner Website. In einer Notsituation informieren die Behörden auch über Radio, Fernsehen und Lautsprecherwagen der Polizei, die durch die Straßen fahren. Funktioniert das Netz, dann auch über BE-Alert, Websites und soziale Medien.
+**Wie Sie davon erfahren.** Ihr Wasserversorger meldet ein Problem mit einer Mitteilung im Briefkasten und auf seiner Website. In einer Notsituation informieren die Behörden auch über Radio, Fernsehen und Lautsprecherwagen der Polizei. Funktioniert das Netz, dann auch über BE-Alert, Websites und soziale Medien.
 
 **Arten von Meldungen.** Die wallonische Wassergesellschaft SWDE verwendet drei Farben für die Mitteilung im Briefkasten:
 
@@ -117,14 +117,14 @@ So kochen Sie Wasser ab:
 **Wasser nicht trinkbar, auch nicht abgekocht (Rot).**
 
 - Verwenden Sie nur Flaschenwasser oder Wasser aus Ihrem Vorrat.
-- Der Wasserversorger richtet Verteilstellen ein. Funktioniert das Internet, steht bei der SWDE in der Meldung auf der Website, wo anderes Wasser erhältlich ist. Funktioniert das Telefon, weiß auch der Kundendienst, wo die Verteilstellen sind.
+- Der Wasserversorger richtet Verteilstellen ein. Funktioniert das Internet, steht bei der SWDE in der Meldung auf der Website, wo diese sind. Funktioniert das Telefon, weiß es auch der Kundendienst.
 
 **Chemische oder radioaktive Verunreinigung.** Abkochen und Desinfizieren helfen nicht. Verwenden Sie Flaschenwasser oder eine andere Quelle. Befolgen Sie den Rat der Gesundheitsdienste.
 
 **Kein Wasser aus dem Hahn.**
 
 - Verwenden Sie Ihren Vorrat. Trinken Sie zuerst das Wasser, von dem Sie sicher wissen, dass es unbedenklich ist.
-- Bei einer Unterbrechung der Wasserversorgung können Bürgermeister, Gouverneur oder Minister Wasser in Flaschen verteilen lassen. Hören Sie Radio und achten Sie auf Mitteilungen im Briefkasten und Lautsprecherwagen.
+- Die Behörden können Flaschenwasser verteilen lassen. Hören Sie Radio und achten Sie auf Mitteilungen im Briefkasten und Lautsprecherwagen.
 - Rationieren Sie Trinkwasser nicht, es sei denn, die Behörden fordern dazu auf. Trinken Sie heute, was Sie brauchen, und suchen Sie Wasser für morgen.
 - Begrenzen Sie körperliche Anstrengung und bleiben Sie kühl, damit Sie weniger Wasser brauchen.
 - Trinken Sie keinen Alkohol und kein Koffein anstelle von Wasser. Dadurch verlieren Sie mehr Wasser.
@@ -156,7 +156,6 @@ Verwenden Sie diese nur, wenn Sie kein Flaschenwasser und keinen Vorrat mehr hab
 
 - Ältere Menschen, schwangere Frauen und Menschen mit einer geschwächten Abwehr können durch verunreinigtes Wasser schwer krank werden. Geben Sie ihnen Flaschenwasser oder abgekochtes Wasser.
 - Kranke, schwangere Frauen und stillende Frauen brauchen mehr Wasser.
-- Schwangere Frauen und Menschen mit Schilddrüsenproblemen trinken kein Wasser, das mit Jod desinfiziert wurde.
 
 ### Haustiere und Tiere
 
@@ -170,7 +169,7 @@ Quelle: [SWDE](https://www.swde.be/de/wasserqualitaet-nicht-trinkbares-wasser) �
 - Ist das Wasser nach der Störung braun oder trüb, lassen Sie den Hahn einige Minuten laufen.
 - Ist der Wasserdruck niedrig, stellt er sich nach und nach wieder her.
 - Sparen Sie weiter Wasser. Verschwenden Sie es nicht.
-- Füllen Sie Ihren Vorrat wieder auf. Ersetzen Sie selbst gefülltes Wasser alle 6 Monate.
+- Füllen Sie Ihren Vorrat wieder auf.
 
 Quelle: [Nationales Krisenzentrum](https://krisenzentrum.be/de/risiken-belgien/maatschappelijke-risicos/ausfall-der-trinkwasserversorgung) · [SWDE](https://www.swde.be/de/wasserqualitaet-nicht-trinkbares-wasser) · [CDC: Wasser aufbewahren](https://www.cdc.gov/water-emergency/about/how-to-create-and-store-an-emergency-water-supply.html)
 

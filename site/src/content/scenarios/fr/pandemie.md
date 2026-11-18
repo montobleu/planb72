@@ -103,7 +103,7 @@ S'il n'y a pas d'eau ni de savon, utilisez un gel pour les mains contenant au mo
 
 - Consultez votre médecin généraliste si vous avez des symptômes grippaux ou ne vous sentez pas bien. Téléphonez d'abord.
 - En dehors des heures de votre médecin généraliste, vous pouvez vous adresser au service de garde de médecine générale. À Gand, appelez pour cela le 1733.
-- Si l'appel ne passe pas et que c'est urgent, voir Numéros d'urgence dans l'application, Si l'appel ne passe pas.
+- Si l'appel ne passe pas et que c'est urgent, voir Numéros d'urgence, Si l'appel ne passe pas.
 - Restez à l'écart de l'école, du travail et des lieux publics tant que vous êtes malade.
 - À la maison aussi, restez autant que possible à l'écart des personnes qui ne sont pas malades.
 - Portez un masque si vous êtes en présence d'autres personnes ou si vous devez sortir.
@@ -111,7 +111,7 @@ S'il n'y a pas d'eau ni de savon, utilisez un gel pour les mains contenant au mo
 - Buvez suffisamment : 1,5 litre par jour.
 - Aérez régulièrement votre logement.
 
-**Quand vous pouvez ressortir.** Suivez les règles des services de santé pour la maladie concernée. Le CDC américain donne comme règle générale pour les infections respiratoires : vous reprenez vos activités lorsque vos symptômes s'améliorent globalement depuis au moins 24 heures et que vous n'avez pas eu de fièvre pendant ces 24 heures, sans médicaments contre la fièvre. Prenez ensuite encore pendant 5 jours des précautions supplémentaires en présence d'autres personnes : air frais, bonne hygiène, masque bien ajusté, distance. Vous pouvez encore transmettre le virus après vous être senti mieux. Si vous avez de nouveau de la fièvre ou vous sentez plus mal, restez de nouveau à la maison.
+**Quand vous pouvez ressortir.** Suivez les règles des services de santé pour la maladie concernée. Le CDC américain donne comme règle générale pour les infections respiratoires : reprenez vos activités lorsque vos symptômes s'améliorent depuis au moins 24 heures et que vous n'avez pas eu de fièvre pendant ces 24 heures, sans médicaments contre la fièvre. Prenez ensuite encore pendant 5 jours des précautions supplémentaires avec les autres : air frais, hygiène, masque bien ajusté, distance. Vous pouvez alors encore transmettre le virus. Si vous avez de nouveau de la fièvre ou vous sentez plus mal, restez de nouveau à la maison.
 
 **Si une personne de votre foyer ou un ami est malade.**
 
@@ -139,13 +139,12 @@ S'il n'y a pas d'eau ni de savon, utilisez un gel pour les mains contenant au mo
 ### Au travail ou à l'école
 
 - Restez à la maison si vous êtes malade. N'allez pas travailler ni à l'école.
-- Les employeurs peuvent prévoir le télétravail et des règles souples pour les congés de maladie et les congés pour soins, pour que les travailleurs malades et ceux qui s'occupent d'un membre de la famille malade puissent rester à la maison.
+- Les employeurs peuvent prévoir le télétravail et des congés de maladie et pour soins souples, pour que les personnes malades ou qui s'occupent d'un membre de la famille malade puissent rester à la maison.
 - Les enfants malades restent à la maison et ne vont ni à l'école ni à la garderie.
 
 ### Enfants
 
 - Les règles valent aussi pour les enfants : bien se laver les mains, tousser dans le coude, rester à la maison en cas de maladie.
-- Préparez-vous à une fermeture de l'école ou de la garderie : organisez une garde et des cours à distance.
 - Pour les petits enfants, incluez des langes, de l'alimentation pour bébé et des vêtements de rechange dans votre réserve.
 
 ### Personnes vulnérables
@@ -153,7 +152,6 @@ S'il n'y a pas d'eau ni de savon, utilisez un gel pour les mains contenant au mo
 - Certaines personnes courent plus de risques de maladie grave. Prenez des précautions supplémentaires quand vous êtes avec elles, surtout dans les 5 jours après avoir été vous-même malade.
 - Les personnes dont l'immunité est affaiblie peuvent continuer longtemps à transmettre un virus.
 - Veillez à ce qu'elles aient une réserve suffisante de leurs médicaments habituels.
-- Faites-vous vacciner sur avis de votre médecin généraliste.
 
 ### Animaux domestiques et autres animaux
 
@@ -168,7 +166,6 @@ Source : [Centre de crise National : maladies contagieuses](https://centredecris
 ## Après
 
 - Gardez les bonnes habitudes : restez à la maison si vous êtes malade, suivez l'avis de votre médecin, toussez dans votre coude et lavez-vous les mains.
-- Lavez le linge de la personne malade à 60 °C ou plus.
 - Revoyez et améliorez votre plan familial. Qu'est-ce qui s'est bien passé, de quoi aviez-vous besoin ?
 - Reconstituez votre réserve.
 - Prenez soin de votre santé mentale. Il est normal de vous sentir inquiet. Restez en contact avec les autres, même à distance, et parlez à quelqu'un si vous êtes bouleversé.

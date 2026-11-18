@@ -47,7 +47,7 @@ Kohlenmonoxid (CO) ist ein Gas ohne Farbe, Geruch oder Geschmack. Sie können es
 
 CO ist in Belgien die wichtigste Ursache tödlicher Vergiftungen. Jedes Jahr sterben einige Dutzend Menschen, und etwa 1.000 Menschen kommen ins Krankenhaus. Die meisten Unfälle geschehen in der Heizperiode, von Oktober bis April. Fast die Hälfte der Opfer ist jünger als 30 Jahre. Es braucht wenig: 0,1 Prozent CO in der Luft ist innerhalb von 1 bis 3 Stunden tödlich, 1 Prozent schon innerhalb von 15 Minuten.
 
-**Schnelle Vergiftung (akut).** Zuerst bekommen Sie Kopfschmerzen und Ihnen wird schwindlig. Sie fühlen sich sehr müde, und Ihnen kann übel werden, bis zum Erbrechen. Wer nicht erkennt, dass er den Raum verlassen muss, wird bewusstlos und kann sich dann nicht mehr selbst retten. Bei hohen Konzentrationen folgen schnell ein tiefes Koma und der Tod. Bei Kindern sind Bauchschmerzen eine häufige Beschwerde.
+**Schnelle Vergiftung (akut).** Zuerst bekommen Sie Kopfschmerzen und Ihnen wird schwindlig. Sie fühlen sich sehr müde, und Ihnen kann übel werden, bis zum Erbrechen. Wer nicht erkennt, dass er den Raum verlassen muss, wird bewusstlos und kann sich dann nicht mehr selbst retten. Bei hohen Konzentrationen folgen schnell ein tiefes Koma und der Tod.
 
 **Langsame Vergiftung (chronisch).** Wer lange kleine Mengen einatmet, bekommt unklare Beschwerden: Kopfschmerzen, Magendrücken, Muskelschwäche, Konzentrationsschwierigkeiten und wechselnde Stimmung. Ein Arzt erkennt das nicht leicht.
 
@@ -121,12 +121,7 @@ Quelle: [Antigiftzentrum: Broschüre CO](https://www.poisoncentre.be/app/uploads
 
 Können Sie die Fenster nicht ohne Risiko für sich selbst öffnen, gehen Sie sofort nach draußen.
 
-**Kommt kein Anruf zustande**
-
-- Lassen Sie Nachbarn oder Umstehende anrufen oder versuchen Sie es mit einem anderen Gerät. Gehen Sie einige Meter weiter und versuchen Sie es erneut.
-- Können Sie noch telefonieren, ist die 112 aber nicht erreichbar, versuchen Sie die 101.
-- Funktioniert gar kein Anruf: Bitten Sie in Ihrer Nachbarschaft um Hilfe. Bestimmen Sie direkt eine Person, die Hilfe holt, und geben Sie ihr mit, wo es ist, was passiert ist, wie viele Betroffene es gibt und in welchem Zustand sie sind. Lassen Sie eine betroffene Person nur allein, wenn es keine andere Möglichkeit gibt.
-- Siehe auch Notrufnummern in der App, Wenn kein Anruf möglich ist.
+Kommt kein Anruf zustande, lassen Sie jemand anderen anrufen oder schicken Sie jemanden, um in Ihrer Nachbarschaft Hilfe zu holen. Lassen Sie eine betroffene Person nur allein, wenn es nicht anders geht. Siehe Notrufnummern in der App, Wenn kein Anruf möglich ist.
 
 **Jemand ist bewusstlos.**
 
@@ -135,7 +130,7 @@ Können Sie die Fenster nicht ohne Risiko für sich selbst öffnen, gehen Sie so
 - Atmet die Person nicht, beginnen Sie mit der Beatmung. Mund-zu-Mund-Beatmung ist sicher: Sie gehen dabei kein Risiko einer CO-Vergiftung ein.
 - Atmet die Person, legen Sie sie auf die Seite, ohne Kopfkissen. So erstickt sie nicht an Erbrochenem.
 
-**Jemand ist bei Bewusstsein und antwortet auf Ihre Fragen.** Bringen Sie die Person an die frische Luft und lassen Sie sie von einem Arzt untersuchen. Funktioniert das Netz, rufen Sie den Hausarzt an. Haben Sie Fragen, rufen Sie, wenn das Netz funktioniert, das Antigiftzentrum unter 070 245 245 an. Ein Arzt antwortet, 24 Stunden am Tag, 7 Tage die Woche. Der Anruf ist kostenlos.
+**Jemand ist bei Bewusstsein und antwortet auf Ihre Fragen.** Bringen Sie die Person an die frische Luft und lassen Sie sie von einem Arzt untersuchen. Funktioniert das Netz, rufen Sie den Hausarzt an und bei Fragen das Antigiftzentrum unter 070 245 245. Ein Arzt antwortet, 24 Stunden am Tag, 7 Tage die Woche. Der Anruf ist kostenlos.
 
 ### Draußen oder unterwegs
 
@@ -181,7 +176,6 @@ Quelle: [Antigiftzentrum: Broschüre CO](https://www.poisoncentre.be/app/uploads
 - Benutzen Sie das Gerät nicht mehr, bis ein zugelassener Fachmann es geprüft hat. Rufen Sie auch bei einer orangen Flamme, Ruß, Rost oder Korrosion einen Fachmann.
 - Lassen Sie auch den Schornstein und den Anschluss kontrollieren. Das Ganze aus Gerät und Schornstein muss dicht sein.
 - Lassen Sie sich von einem Arzt untersuchen. Wer bei Bewusstsein ist, ruft den Hausarzt an, wenn das Netz funktioniert. Nach einer schweren Vergiftung tritt manchmal später noch eine Hirnschädigung auf. Ein normaler Blutwert schließt eine Vergiftung nicht aus, weil CO nach einiger Zeit aus dem Blut verschwindet.
-- Wohnen Sie in einer Mietwohnung, melden Sie die nötigen Reparaturen sofort dem Eigentümer.
 - War noch kein Melder angebracht, bringen Sie einen nach den oben genannten Regeln an.
 
 Quelle: [Antigiftzentrum: Broschüre CO](https://www.poisoncentre.be/app/uploads/2026/02/Brochure-CO-vergiftiging-voorkomen-NL-1.pdf) · [Antigiftzentrum: CO im Detail](https://www.antigifcentrum.be/koolstofmonoxide)

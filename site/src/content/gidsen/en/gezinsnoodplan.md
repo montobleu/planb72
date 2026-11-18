@@ -32,8 +32,6 @@ bronnen:
     url: "https://crisiscenter.be/en/what-can-you-do/build-emergency-kit/emergency-kit-home"
   - naam: "National Crisis Center: An emergency kit on location"
     url: "https://crisiscenter.be/en/what-can-you-do/build-emergency-kit/emergency-kit-site"
-  - naam: "112.be: Frequently asked questions"
-    url: "https://112.be/en/frequently-asked-questions"
   - naam: "FPS Economy: questions from households about electricity shortages"
     url: "https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door"
   - naam: "Jeugd Rode Kruis: poster 4 steps in first aid"
@@ -81,7 +79,7 @@ Source: [National Crisis Center: A plan at home](https://crisiscenter.be/en/what
 If telephone and internet go down, you must know where to find each other without having to discuss it.
 
 - The Crisis Center: agree in advance with your family where you can find each other again if you cannot reach each other. Discuss the safest escape route and meeting place with the people you live with and put them in your emergency plan.
-- Denk vooruit: choose with your household, family or friends a place where you meet if there is no telephone or internet connection. Also agree when you will meet there or when you will visit each other. In the example in the information booklet, someone comes to check on his parents after two days, as agreed in advance.
+- Denk vooruit: choose with your household, family or friends a place where you meet if there is no telephone or internet connection. Also agree when you will meet there or visit each other.
 - Ready.gov: choose a familiar place that is easy to find, and adapt it to the circumstances.
 
 **Options, from near to far**
@@ -106,7 +104,7 @@ The Crisis Center recommends two kinds of contact persons:
 - **A contact person nearby**, whom you can go to if something happens at your home.
 - **A contact person somewhat further from home**, for when you cannot get into your street, neighbourhood or municipality.
 
-For an evacuation, the Crisis Center also recommends asking a family member or friend who does not live in the same zone to be a contact person. As soon as you are safe, you let him or her know. That way, this person knows where everyone is if family members have become separated. Ready.gov calls this an out-of-state contact and recommends calling or emailing that person to say where you are going, if time allows.
+For an evacuation, the Crisis Center recommends asking a family member or friend outside the zone to be a contact person and letting them know as soon as you are safe. That way, this person knows where everyone is if family members become separated. Ready.gov calls this an out-of-state contact: tell that person where you are going, if time allows.
 
 **How to make it usable, even without a phone**
 
@@ -204,9 +202,9 @@ These numbers are on the Belgian plan and in the brochure. They only work if the
 
 If you call 112, say as clearly as possible where you are, what has happened and how many people are injured (brochure).
 
-**If you cannot get through.** Try another phone or have neighbours or bystanders call. Move a few metres and try again. If calling does not work at all, ask for help in your neighbourhood and follow the government information on the radio. The municipality can open an information and reception point: ask your municipality in advance where it is and write it in your plan (112.be, FPS Economy). See also Emergency numbers in the app, If you cannot call.
+**If you cannot get through.** See Emergency numbers in the app, If you cannot call. The municipality can open an information and reception point: ask in advance where it is and write it in your plan (FPS Economy).
 
-Source: [National Crisis Center: My own emergency plan](https://crisiscenter.be/sites/default/files/documents/files/MyEmergencyPlan_interactive%20PDF.pdf) · [National Crisis Center: brochure Prepared together](https://crisiscenter.be/sites/default/files/documents/files/WEB-Brochure%20Prepared%20Together-EN.pdf) · [112.be: Frequently asked questions](https://112.be/en/frequently-asked-questions) · [FPS Economy: questions from households about electricity shortages](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door)
+Source: [National Crisis Center: My own emergency plan](https://crisiscenter.be/sites/default/files/documents/files/MyEmergencyPlan_interactive%20PDF.pdf) · [National Crisis Center: brochure Prepared together](https://crisiscenter.be/sites/default/files/documents/files/WEB-Brochure%20Prepared%20Together-EN.pdf) · [FPS Economy: questions from households about electricity shortages](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door)
 
 ## After the crisis, when the phone works again
 
@@ -357,7 +355,7 @@ Registering remains useful: then you are also alerted for addresses where you ar
 
 Registration and messages are free.
 
-**If the network goes down.** BE-Alert sends messages by text message, email or voice call. During a power cut, internet and mobile networks can go down. So also have a battery-powered radio or a wind-up radio, preferably with DAB+ and FM. The authorities can also use information boards, leaflets, door-to-door communication and police loudspeaker vans (Crisis Center).
+**If the network goes down.** During a power cut, internet and mobile networks can go down. So also have a battery-powered radio or a wind-up radio, preferably with DAB+ and FM. The authorities can also use information boards, leaflets, door-to-door communication and police loudspeaker vans (Crisis Center).
 
 **How to recognise a genuine message**
 

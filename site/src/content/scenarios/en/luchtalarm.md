@@ -65,7 +65,7 @@ origineel_datum: "2026-11-18"
 
 **The Belgian situation.** The National Crisis Center describes an international armed conflict as a risk with a very low probability. The scenario it examined takes place on NATO territory outside Belgium. On that page the Crisis Center gives no steps of its own for an air attack. The steps on this card therefore come from the official guides of Germany, Sweden, Ukraine and Poland.
 
-**How you are warned.** In Belgium the authorities warn you via radio and TV and via police loudspeaker vans driving through the streets. If the network is working, also via BE-Alert: text message, email or phone call. In a major emergency everyone with a mobile phone in the affected zone receives an Alert-SMS, even without registering. With a battery-powered or wind-up radio you can also listen to the media during a power cut.
+**How you are warned.** In Belgium the authorities warn you via radio and TV and via police loudspeaker vans. If the network is working, also via BE-Alert: text message, email or phone call. In a major emergency everyone with a mobile phone in the affected zone receives an Alert-SMS, even without registering. If the power fails, listen to a battery-powered or wind-up radio.
 
 **Alarm signals abroad.** Every country has its own siren signal. Know the signal of the country where you are staying.
 
@@ -83,7 +83,7 @@ Source: [National Crisis Center: IAC](https://crisiscenter.be/en/risks-belgium/s
 - **Have an emergency bag ready** and put it by the door. The Swedish MCF lists: water in bottles or cans, food that keeps at room temperature, hygiene products and toilet paper, medication and a first aid kit, warm clothing, identity card, cash and bank cards, keys, mobile phone with charger or power bank, and a torch. Ukraine adds: spare batteries, blankets or thermal blankets, a battery-powered radio and a fire extinguisher. Plan for a stay of at least two days.
 - **Keep a stock at home** for at least 3 days, as the National Crisis Center recommends: water, long-life food, a radio, a torch, medication.
 - **Reinforce windows** with strong adhesive film. If possible, block them with sandbags or sturdy furniture.
-- **Make a plan** with your family: who does what, where you will meet, how you will reach each other. Agree where you will find each other again if you cannot reach each other. Also agree with your neighbours how you will reach each other without phone or internet.
+- **Make a plan** with your family: who does what, where you will meet and how you will reach or find each other, also without phone or internet. Agree on this with your neighbours too.
 - **Practise.** Establish the route to your shelter in advance and follow it when the alert sounds.
 
 Source: [dovidka.info: Shelter](https://dovidka.info/en/what-is-shelter/) · [dovidka.info: combat area](https://dovidka.info/en/in-the-combat-area/) · [MCF: shelters](https://www.mcf.se/en/advice-for-individuals/civil-defence-shelters-evacuation-and-warning-systems/good-to-know-about-civil-defence-shelters/) · [BBK](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Vorsorge/Schutz-suchen/Schutz-vor-Explosion/schutz-vor-explosion_node.html) · [Polish government](https://bip.slaskie.pl/resource/232602/14d_safety_handbook_en.pdf) · [National Crisis Center: emergency kit](https://crisiscenter.be/en/what-can-you-do/build-emergency-kit/emergency-kit-home) · [National Crisis Center: digital infrastructure](https://crisiscenter.be/en/risks-belgium/societal-risks/failure-digital-infrastructure) · [National Crisis Center: plan in your neighbourhood](https://crisiscenter.be/en/what-can-you-do/make-plan/plan-your-neighbourhood-association-or-club)
@@ -145,7 +145,7 @@ When the alert sounds, go immediately to the nearest shelter.
 
 ### Vulnerable people
 
-- Help older people, sick people and people with a disability. Not everyone knows that there is danger. Give them the most important information and explain what they need to do.
+- Help older people, sick people and people with a disability. Not everyone knows that there is danger: explain what they need to do.
 - Make a plan together in advance. Help them pack their emergency bag.
 - Make sure there is enough medication and there are batteries for medical devices, such as hearing aids and glucose meters.
 - If someone cannot leave on their own, report this to the emergency services: on site, or via 112 if you can get through.
@@ -181,7 +181,7 @@ Source: [BBK](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Vorsorge/Schutz-suchen
 - Do not pull people out from under the rubble yourself. Call for help, keep the person still and calm and follow the instructions of the rescuers. Do not dig in ruins yourself.
 - If you are trapped under rubble yourself: call for help, carefully free your limbs and do not touch anything that is supporting the rubble.
 - Call 112 in an emergency. Say where, what and who is calling, and wait for questions. Keep calls short.
-- If you cannot get through: have someone else call or try another phone. If calling does not work at all, point directly at a bystander to fetch help and tell them where it is, what has happened, how many casualties there are and what state they are in. Only leave a casualty alone if there is no other option. See also Emergency numbers in the app, If you cannot call.
+- If you cannot get through, have someone else call or send a bystander for help. Only leave a casualty alone if there is no other way. See Emergency numbers in the app, If you cannot call.
 
 **Unexploded ammunition, suspicious objects and debris.**
 
@@ -218,7 +218,7 @@ Source: [dovidka.info: combat area](https://dovidka.info/en/in-the-combat-area/)
 
 ## More information
 
-Read these pages in advance. During a power cut, the internet and mobile networks can fail.
+To read in advance, or if the internet works:
 
 - German guidelines on sheltering from explosions: [BBK](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Vorsorge/Schutz-suchen/Schutz-vor-Explosion/schutz-vor-explosion_node.html)
 - Swedish guidelines on shelters and sirens: [MCF](https://www.mcf.se/en/advice-for-individuals/civil-defence-shelters-evacuation-and-warning-systems/good-to-know-about-civil-defence-shelters/)

@@ -77,12 +77,12 @@ Bron: [Nationaal Crisiscentrum: Evacueren](https://crisiscentrum.be/nl/wat-kan-j
 
 **Hoe je het hoort, ook zonder netwerk**
 
-- Luister naar de radio op batterijen, een opwindradio of de autoradio (Crisiscentrum, FOD Economie). Ready.gov zegt hetzelfde: luister tijdens een evacuatie naar een radio op batterijen en volg de plaatselijke instructies.
+- Luister naar de radio op batterijen, een opwindradio of de autoradio (Crisiscentrum, FOD Economie, Ready.gov).
 - De politie kan met omroepwagens door de straat rijden (Crisiscentrum).
 - De overheid kan ook deur aan deur gaan, of informatieborden en folders gebruiken (brochure).
 - Volg de instructies van de hulpdiensten ter plaatse (Crisiscentrum).
 
-**Werkt het netwerk,** dan komen de instructies ook via BE-Alert, tv, de websites van gemeente, provincie en Crisiscentrum en sociale media. Bij een grote noodsituatie of wanneer dringend handelen nodig is, zoals een evacuatie, kan de overheid iedereen in de zone een sms sturen, ook wie niet ingeschreven is op BE-Alert (BE-Alert). Bij een stroomonderbreking kunnen internet en mobiele netwerken uitvallen (brochure).
+**Werkt het netwerk,** dan komen de instructies ook via BE-Alert, tv, officiële websites en sociale media. Bij een evacuatie kan de overheid iedereen in de zone een sms sturen, ook wie niet ingeschreven is op BE-Alert (BE-Alert).
 
 **Ready.gov** raadt aan vroeg genoeg te vertrekken om niet ingesloten te raken door noodweer.
 
@@ -131,7 +131,7 @@ Bij een overstroming ook reservekleding en laarzen (Crisiscentrum).
 
 **Kleding (Ready.gov).** Draag stevige schoenen en kleding die enige bescherming geeft: lange broek, lange mouwen, een hoed.
 
-**Radio en kaart.** Het noodpakket van het Crisiscentrum bevat een radio op batterijen of een opwindradio. Ready.gov noemt in het noodpakket ook kaarten van je streek. Denk vooruit (Nederland) raadt aan een papieren kaart van je dorp of stad bij je noodpakket te bewaren.
+**Radio en kaart.** Het noodpakket van het Crisiscentrum bevat een radio op batterijen of een opwindradio. Ready.gov en Denk vooruit (Nederland) noemen ook een papieren kaart van je streek of stad.
 
 **Bij direct gevaar** verlies je geen tijd met het verzamelen van documenten of spullen. Evacueer zo snel mogelijk (Crisiscentrum).
 
@@ -217,7 +217,7 @@ Bron: [Nationaal Crisiscentrum: Evacueren](https://crisiscentrum.be/nl/wat-kan-j
 
 **Als je iemand kwijt bent**
 
-Rode Kruis-Vlaanderen heeft een dienst Restoring Family Links die vermiste personen opspoort en het contact tussen familieleden herstelt, onder meer na een natuurramp. Je kunt de dienst contacteren via het contactformulier, per mail of telefoon, dus als het netwerk werkt. Zaken die onder de politie vallen, behandelt de dienst niet. De dienst raadt aan:
+Rode Kruis-Vlaanderen heeft een dienst Restoring Family Links die vermiste personen opspoort en het contact tussen familieleden herstelt, onder meer na een natuurramp. Je bereikt de dienst via formulier, mail of telefoon, dus als het netwerk werkt. Zaken die onder de politie vallen, behandelt de dienst niet. De dienst raadt aan:
 
 - Telefoonnummers van familieleden uit het hoofd te leren.
 - Kinderen belangrijke informatie te laten onthouden, zoals de naam van hun ouders.
@@ -300,7 +300,7 @@ Bron: [Ready.gov: Pets](https://www.ready.gov/pets) · [Nationaal Crisiscentrum:
 ## In de opvang
 
 - In het onthaalcentrum geeft de contactpersoon ter plaatse de nodige informatie, ook over wanneer je terug naar huis mag (Crisiscentrum).
-- Gemeenten, provincies of het Crisiscentrum kunnen een informatienummer openen om vragen van inwoners op te vangen. Ze kunnen daarvoor het nationale informatienummer 1771 gebruiken, dat dag en nacht binnen het uur operationeel kan zijn. Dankzij een samenwerking met de FOD Volksgezondheid kan het ook gevoelige oproepen over mogelijke slachtoffers behandelen (Crisiscentrum). Het nummer is niet altijd actief: het wordt geopend bij een noodsituatie. Het is een telefoonnummer en helpt dus alleen als het netwerk werkt.
+- Gemeenten, provincies of het Crisiscentrum kunnen een informatienummer openen om vragen van inwoners op te vangen. Ze kunnen daarvoor het nationale informatienummer 1771 gebruiken, dat dag en nacht binnen het uur operationeel kan zijn. Het kan ook gevoelige oproepen over mogelijke slachtoffers behandelen (Crisiscentrum). Het wordt alleen bij een noodsituatie geopend en helpt alleen als het netwerk werkt.
 - Het WHO beschrijft wat mensen na een ramp vaak nodig hebben: onderdak, eten, water en sanitair; zorg voor verwondingen of chronische ziekten; begrijpelijke en juiste informatie; contact met naasten; steun die past bij cultuur of geloof; en betrokken worden bij belangrijke beslissingen.
 
 Bron: [Nationaal Crisiscentrum: Evacueren](https://crisiscentrum.be/nl/wat-kan-jij-doen/reageer-correct/evacueren) · [Nationaal Crisiscentrum: Communicatie](https://crisiscentrum.be/nl/wat-doet-het-nationaal-crisiscentrum/communicatie) · [Nationaal Crisiscentrum: Informatie aan de bevolking](https://crisiscentrum.be/nl/wat-doen-overheden/crisisbeheer/informatie-aan-de-bevolking) · [WHO: Psychological first aid](https://psychiatry.uw.edu/wp-content/uploads/2020/04/1.-WHO_PFA_2011.pdf)

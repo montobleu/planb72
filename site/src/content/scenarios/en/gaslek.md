@@ -83,7 +83,7 @@ Source: [National Crisis Center: fire or explosion](https://crisiscenter.be/en/r
   - Fluvius (Flanders): 0800 65 0 65, free, day and night. Calls to this number get priority.
   - ORES (most of Wallonia): 0800 87 087, free, day and night.
   - If you live in Brussels (Sibelga) or in part of the province of Liège (RESA), look up the gas odour number on your network operator's website in advance and write it down.
-- Deaf or hard of hearing: Fluvius has a contact form for reporting a gas smell for people who cannot phone. It only works if the internet is working. So also agree with members of your household or neighbours that they will call for you.
+- Deaf or hard of hearing: Fluvius has a contact form for reporting a gas smell for people who cannot phone, but only via the internet. So also agree with members of your household or neighbours that they will call for you.
 
 **Maintenance**
 
@@ -118,11 +118,7 @@ Source: [Fluvius: gas odour](https://www.fluvius.be/nl/gasgeur) · [ORES](https:
 
 The response team sets off immediately after your call, measures the gas concentration on site and looks for the leak.
 
-**If you cannot get through**
-
-- Have neighbours or bystanders call, or try another phone. Move a few metres and try again, always in a place where you cannot smell gas.
-- In case of fire, an explosion or injuries: if 112 cannot be reached but you can still make calls, try 101.
-- If calling does not work at all: ask for help nearby. See Emergency numbers in the app, If you cannot call.
+If you cannot get through, have someone else call or ask for help nearby, always in a place where you cannot smell gas. See Emergency numbers in the app, If you cannot call.
 
 **Gas fire or explosion**
 
@@ -141,7 +137,7 @@ The response team sets off immediately after your call, measures the gas concent
 2. Open windows and doors.
 3. Switch off the gas appliance if it is safe to do so.
 4. Leave the room and bring the casualty outside.
-5. Call 112 or have someone call. Say that it may be CO and whether anyone is unconscious. If you cannot get through, see above and the card CO alarm.
+5. Call 112 or have someone call. Say that it may be CO and whether anyone is unconscious. If you cannot get through, see above.
 6. Start resuscitation if the casualty is not breathing. Put someone who is unconscious but breathing in the recovery position.
 7. For questions where there is no immediate danger, if the network is working: Poison Centre 070 245 245, or a qualified installer.
 
@@ -158,7 +154,7 @@ Source: [Fluvius: gas odour](https://www.fluvius.be/nl/gasgeur) · [ORES](https:
 **A larger gas leak in your area**
 
 - Wait for the instructions of the authorities or the emergency services. Sometimes staying inside is safer than leaving.
-- These instructions come, among other ways, via the radio and via police loudspeaker vans driving through the streets. If the network is working, also via BE-Alert and government websites.
+- They come via the radio and police loudspeaker vans, and if the network is working also via BE-Alert and government websites.
 - If you have to evacuate, take your identity card, money, water, mobile phone and charger, keys, your list of phone numbers, essential medicines and hygiene products. If there is immediate danger and you do not have an emergency bag ready, leave immediately without taking anything.
 - Help neighbours with reduced mobility.
 - Only return when the authorities say it is safe.
@@ -203,7 +199,6 @@ Source: [National Crisis Center: evacuating](https://crisiscenter.be/en/what-can
 
 ## Afterwards
 
-- Stay at a safe distance as long as the leak has not been sealed.
 - Have your gas appliances and chimney checked regularly by a qualified professional. For questions where there is no urgent danger you can contact a certified installer.
 - After CO poisoning, nervous system symptoms can still appear after some time, such as irritability, memory problems or abnormal movements. These often disappear, but not always.
 

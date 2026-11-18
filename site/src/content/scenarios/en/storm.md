@@ -57,10 +57,6 @@ bronnen:
     url: https://112.be/en/frequently-asked-questions
   - naam: "FPS Economy: questions from households about electricity shortages"
     url: https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door
-  - naam: "BBK: Vorsorgen für Krisen und Katastrophen"
-    url: https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/Buergerinformationen/Ratgeber/BBK-Vorsorgen-fuer-Krisen-und-Katastrophen.pdf?__blob=publicationFile&v=44
-  - naam: "Inspectorates (Netherlands): Unavailability of 112 on 24 June 2019"
-    url: https://zoek.officielebekendmakingen.nl/blg-942150.pdf
 vertaling: machine
 origineel_datum: "2026-11-18"
 ---
@@ -134,21 +130,16 @@ Source: [National Crisis Center: wind and storm](https://crisiscenter.be/en/risk
 | You need the fire service, but no one's life is in danger (roof tiles blown loose, a tree about to fall) | If the network works: submit a request via the online service 1722.be or your fire service zone's form. Only call 1722 if that number has been activated. |
 | Damage without danger, for which you do not need the fire service (fallen tree in the garden, damaged garden shed) | Call in a professional, such as a roofer, or repair it yourself. |
 
-- Do not call 112 for ordinary storm damage. In storms and severe thunderstorms the fire service becomes overloaded. The 1722.be online service is always available, also when there is no storm. You do need the internet for it.
+- Do not call 112 for ordinary storm damage. In storms and severe thunderstorms the fire service becomes overloaded. The 1722.be online service is always available, but only via the internet.
 - If the network works, report damage or unusual phenomena via the RMI app. This helps the RMI to warn others.
 
-**If you cannot get through**
-
-- Try another phone or have neighbours or bystanders call. Another operator can help. Move a few metres and try again.
-- If you can still make calls but 112 cannot be reached, try 101. If the emergency call centres fail, temporary numbers per province may be active (see the guide Emergency call).
-- If calling does not work at all: ask for help nearby and follow the information from the authorities on the radio. The municipality may open an information and reception point; ask your municipality in advance where it is.
-- In Germany the authorities advise going, if possible, to the nearest police station or hospital in that case. In the Netherlands, during the national 112 outage of 2019, the government sent people to the nearest fire station or police station, and to the hospital in a medical emergency. The map in the app shows these, with the Nearest button.
+If you cannot get through, have someone else call or ask for help nearby, and follow the information from the authorities on the radio. See Emergency numbers in the app, If you cannot call.
 
 **If the power goes off**
 
 - See the card Power cut. Use a torch instead of candles.
 
-Source: [National Crisis Center: wind and storm](https://crisiscenter.be/en/risks-belgium/natural-risks/wind) · [National Crisis Center: tornado](https://crisiscenter.be/en/risks-belgium/natural-risks/tornado) · [National Crisis Center: lightning](https://crisiscenter.be/en/risks-belgium/natural-risks/lightning) · [Ready.gov: thunderstorms](https://www.ready.gov/thunderstorms-lightning) · [1722](https://www.1722.be/en/index.html) · [112.be](https://112.be/en) · [Brandweer Nederland: storms and flooding](https://www.brandweer.nl/onderwerpen/storm-en-wateroverlast/) · [112.be: Frequently asked questions](https://112.be/en/frequently-asked-questions) · [FPS Economy: questions from households about electricity shortages](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door) · [BBK: Vorsorgen für Krisen und Katastrophen](https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/Buergerinformationen/Ratgeber/BBK-Vorsorgen-fuer-Krisen-und-Katastrophen.pdf?__blob=publicationFile&v=44) · [Inspectorates: Unavailability of 112 on 24 June 2019](https://zoek.officielebekendmakingen.nl/blg-942150.pdf)
+Source: [National Crisis Center: wind and storm](https://crisiscenter.be/en/risks-belgium/natural-risks/wind) · [National Crisis Center: tornado](https://crisiscenter.be/en/risks-belgium/natural-risks/tornado) · [National Crisis Center: lightning](https://crisiscenter.be/en/risks-belgium/natural-risks/lightning) · [Ready.gov: thunderstorms](https://www.ready.gov/thunderstorms-lightning) · [1722](https://www.1722.be/en/index.html) · [112.be](https://112.be/en) · [Brandweer Nederland: storms and flooding](https://www.brandweer.nl/onderwerpen/storm-en-wateroverlast/) · [112.be: Frequently asked questions](https://112.be/en/frequently-asked-questions) · [FPS Economy: questions from households about electricity shortages](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door)
 
 ### Outdoors or on the move
 

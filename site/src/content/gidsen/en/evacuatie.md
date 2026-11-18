@@ -79,12 +79,12 @@ Source: [National Crisis Center: Evacuating](https://crisiscenter.be/en/what-can
 
 **How you hear about it, even without a network**
 
-- Listen to a battery radio, a wind-up radio or the car radio (Crisis Center, FPS Economy). Ready.gov says the same: during an evacuation, listen to a battery-powered radio and follow local instructions.
+- Listen to a battery radio, a wind-up radio or the car radio (Crisis Center, FPS Economy, Ready.gov).
 - The police may drive through the street with loudspeaker vans (Crisis Center).
 - The authorities may also go door to door, or use information boards and leaflets (brochure).
 - Follow the instructions of the emergency services on site (Crisis Center).
 
-**If the network works,** instructions also come via BE-Alert, TV, the websites of the municipality, province and Crisis Center, and social media. In a major emergency or when urgent action is needed, such as an evacuation, the authorities can send a text message to everyone in the zone, including those who are not registered with BE-Alert (BE-Alert). During a power cut, the internet and mobile networks may fail (brochure).
+**If the network works,** instructions also come via BE-Alert, TV, official websites and social media. During an evacuation the authorities can send a text message to everyone in the zone, including those who are not registered with BE-Alert (BE-Alert).
 
 **Ready.gov** recommends leaving early enough not to be trapped by severe weather.
 
@@ -133,7 +133,7 @@ In a flood, also spare clothing and boots (Crisis Center).
 
 **Clothing (Ready.gov).** Wear sturdy shoes and clothing that gives some protection: long trousers, long sleeves, a hat.
 
-**Radio and map.** The Crisis Center's emergency kit includes a battery radio or a wind-up radio. Ready.gov also lists maps of your area in the emergency kit. Denk vooruit (Netherlands) recommends keeping a paper map of your village or town with your emergency kit.
+**Radio and map.** The Crisis Center's emergency kit includes a battery radio or a wind-up radio. Ready.gov and Denk vooruit (Netherlands) also list a paper map of your area or town.
 
 **In immediate danger**, do not waste time gathering documents or belongings. Evacuate as quickly as possible (Crisis Center).
 
@@ -219,7 +219,7 @@ Source: [National Crisis Center: Evacuating](https://crisiscenter.be/en/what-can
 
 **If you have lost track of someone**
 
-Rode Kruis-Vlaanderen has a Restoring Family Links service that traces missing persons and restores contact between family members, including after a natural disaster. You can contact the service via the contact form, by email or by phone, so only if the network works. The service does not deal with matters that fall under the police. The service recommends:
+Rode Kruis-Vlaanderen has a Restoring Family Links service that traces missing persons and restores contact between family members, including after a natural disaster. You can reach the service via a form, email or phone, so only if the network works. The service does not deal with matters that fall under the police. The service recommends:
 
 - Learning the phone numbers of family members by heart.
 - Having children memorise important information, such as the names of their parents.
@@ -302,7 +302,7 @@ Source: [Ready.gov: Pets](https://www.ready.gov/pets) · [National Crisis Center
 ## At the reception centre
 
 - At the reception centre, the contact person on site gives the necessary information, including about when you may go back home (Crisis Center).
-- Municipalities, provinces or the Crisis Center can open an information number to handle questions from residents. They can use the national information number 1771 for this, which can be operational within the hour, day and night. Thanks to cooperation with the FPS Public Health, it can also handle sensitive calls about possible victims (Crisis Center). The number is not always active: it is opened in an emergency. It is a phone number, so it only helps if the network works.
+- Municipalities, provinces or the Crisis Center can open an information number to handle questions from residents. They can use the national information number 1771 for this, which can be operational within the hour, day and night. It can also handle sensitive calls about possible victims (Crisis Center). It is only opened in an emergency and only helps if the network works.
 - The WHO describes what people often need after a disaster: shelter, food, water and sanitation; care for injuries or chronic illnesses; understandable and accurate information; contact with loved ones; support suited to their culture or religion; and being involved in important decisions.
 
 Source: [National Crisis Center: Evacuating](https://crisiscenter.be/en/what-can-you-do/right-reflex/evacuate) · [National Crisis Center: Communication](https://crisiscenter.be/en/role-national-crisis-center/communication) · [National Crisis Center: Information to the population](https://crisiscenter.be/en/what-do-authorities-do/crisis-management/information-provision-citizens) · [WHO: Psychological first aid](https://psychiatry.uw.edu/wp-content/uploads/2020/04/1.-WHO_PFA_2011.pdf)

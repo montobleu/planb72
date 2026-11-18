@@ -100,19 +100,17 @@ origineel_datum: "2026-11-18"
 
 ## How to use this guide
 
-In Belgium, sheltering means: you go inside the nearest accessible building and you stay there until the danger is over. The National Crisis Center sums this up in three steps:
+In Belgium, sheltering means: you go inside the nearest accessible building and you stay there until the danger is over. The National Crisis Center gives three steps:
 
-1. Stay inside or go inside the nearest accessible building. Stay there until you are told that it is safe again.
+1. Stay inside or go inside the nearest accessible building, until you are told that it is safe again.
 2. Close all windows and doors. Switch off ventilation, air conditioning and other systems that bring in outside air. Preferably go to a central room on the ground floor, away from windows and outside doors.
-3. Follow the instructions of the authorities. When you shelter, you are inside with windows and doors closed: listen to a battery-powered or wind-up radio and watch for police loudspeaker vans in the street. If the network works, the instructions also come via BE-Alert, official websites and social media.
+3. Follow the instructions of the authorities: listen to a battery-powered or wind-up radio and watch for police loudspeaker vans. If the network works, they also come via BE-Alert, official websites and social media.
 
-These three steps apply to most threats for which the authorities ask you to stay inside: a chemical leak, heavy smoke, a severe thunderstorm, a nuclear accident. But not every threat calls for the same place. The German civil protection authority (BBK) says so explicitly: what is safe for one threat can be dangerous for another. A cellar protects well against an explosion or radiation, but is life-threatening in a flood.
+Not every threat calls for the same place. The German civil protection authority (BBK) says: what is safe for one threat can be dangerous for another. A cellar protects well against an explosion or radiation, but is life-threatening in a flood. This guide therefore gives the options per threat and per place in order of preference. Where Belgium gives no advice, the advice of a foreign government is given, with the name of that country. If it differs from the Belgian advice, the Belgian advice applies.
 
-This guide therefore gives the options per threat in order of preference, per place where you are, with how long to stay and when to leave. Where Belgium itself gives no advice, the advice of a foreign government is given, with the name of that country. If a foreign source differs from the Belgian one, the Belgian one applies.
+Sheltering is temporary: from a few hours up to a maximum of 24 hours. After that, the authorities may ask you to evacuate. Never evacuate on your own initiative, unless you are in immediate danger.
 
-The Crisis Center also says that sheltering is a temporary measure: from a few hours up to a maximum of 24 hours. If the situation is still not safe after that or has become worse, the authorities may ask you to evacuate. Never evacuate on your own initiative, unless you are in immediate danger.
-
-Where this guide says to call 112: assume that the network may fail. Then try another phone, have neighbours or bystanders call, or move a few metres. If calling does not work at all, ask for help nearby and follow the information from the authorities on the radio. See also Emergency numbers in the app, If you cannot call. The map in the app (Nearest button) shows fire stations, police, hospitals and town halls.
+If calling 112 does not work, wherever this guide mentions it: try another phone or have neighbours or bystanders call. If calling does not work at all, ask for help nearby and follow the radio. See Emergency numbers in the app, If you cannot call. The map in the app (Nearest button) shows fire stations, police, hospitals and town halls.
 
 Source: [National Crisis Center: Sheltering](https://crisiscenter.be/en/what-can-you-do/right-reflex/seeking-shelter) · [National Crisis Center: Evacuating](https://crisiscenter.be/en/what-can-you-do/right-reflex/evacuate) · [National Crisis Center: brochure Prepared together](https://crisiscenter.be/sites/default/files/documents/files/WEB-Brochure%20Prepared%20Together-EN.pdf) · [BBK: Schutz suchen](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Vorsorge/Schutz-suchen/schutz-suchen_node.html) · [112.be: Frequently asked questions](https://112.be/en/frequently-asked-questions) · [FPS Economy: questions from households about electricity shortage](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door)
 
@@ -136,19 +134,19 @@ Source: [National Crisis Center: Sheltering](https://crisiscenter.be/en/what-can
 
 ## Air attack, missiles and drones
 
-The National Crisis Center has no separate guideline for air attacks. For an international armed conflict, it refers to the tips for disruptions of essential services and to the general tips for emergencies. The options below therefore come from the guidelines of Germany (BBK), Sweden (MCF), Finland, the Netherlands (technical advice from TNO to the Ministry of Justice and Security), Czechia and Ukraine. They broadly agree.
+The National Crisis Center has no separate guideline for air attacks. For an international armed conflict, it refers to the general tips for emergencies and disruptions of essential services. The options below come from Germany (BBK), Sweden (MCF), Finland, the Netherlands (TNO), Czechia and Ukraine, and broadly agree.
 
 Why it works: in an explosion, the main dangers are the blast wave, flying debris and shards of glass (BBK). Thick walls and earth stop them. Glass does not.
 
 ### Order of preference
 
-1. **Best choice: a real civil defence shelter.** Belgium has no network of public civil defence shelters. Sweden and Finland do; there you go to the nearest one.
-2. **Good choice: an underground space.** A cellar without windows, an underground car park, an underground metro station (BBK, MCF, TNO). Ukraine adds cellars and semi-basements and underpasses and says that the safest places have several exits, one of which leads outside the building.
-3. **Good choice without a cellar: an inner room with two walls between you and the outside.** A hallway, stairwell or bathroom in the middle of the building (BBK). If the outer wall falls, the second wall stops fragments and debris. The further inside the room is, the better. Ukraine prefers a hallway to a bathroom, because tiles and mirrors can break.
-4. **Emergency solution inside: behind something solid.** If there is no suitable room, sit or lie behind a robust object or a parapet, for example a kitchen unit (TNO). If that is not possible either, leave the building and look again outside (TNO).
-5. **Emergency solution outside: as low as possible.** Lie down, preferably in a hollow or ditch (MCF), behind a solid barrier (TNO), or behind a kerb, concrete litter bin or stairs (Ukraine). Protect your head with your arms. TNO recommends opening your mouth to limit the effects of pressure differences.
+1. **Best choice: a real civil defence shelter.** Belgium has no network of public civil defence shelters. Sweden and Finland do.
+2. **Good choice: an underground space.** A cellar without windows, an underground car park, an underground metro station (BBK, MCF, TNO). Ukraine adds semi-basements and underpasses: the safest places have several exits, one of which leads outside the building.
+3. **Good choice without a cellar: an inner room with two walls between you and the outside.** A hallway, stairwell or bathroom in the middle of the building (BBK). If the outer wall falls, the second wall stops fragments and debris. Ukraine prefers a hallway to a bathroom, because tiles and mirrors can break.
+4. **Emergency solution inside: behind something solid,** such as a kitchen unit or a parapet (TNO). If that is not possible either, leave the building and look again outside.
+5. **Emergency solution outside: as low as possible.** Lie down in a hollow or ditch (MCF), behind a solid barrier (TNO), or behind a kerb, concrete litter bin or stairs (Ukraine). Protect your head with your arms. TNO recommends opening your mouth against the effects of pressure differences.
 
-The Ukrainian civil protection service warns that the two-wall rule does not give complete safety. Use it only if you cannot reach a real shelter, and move to a better place as quickly as possible.
+The two-wall rule does not give complete safety (Ukraine). Move to a better place as quickly as possible.
 
 ### Per place
 
@@ -160,39 +158,37 @@ The Ukrainian civil protection service warns that the two-wall rule does not giv
 | House without a cellar | Inner room without windows: hallway, bathroom, understairs cupboard | Room with the fewest outer walls | Behind a sturdy piece of furniture; not in the attic |
 | Work or school | Cellar or underground space of the building | Inner corridor without glass | Follow the building's emergency plan |
 | On foot outside | Underground metro station or underground car park nearby | Inside a solid building, preferably concrete with little glass | Lie in a ditch or behind a solid barrier |
-| In the car | Park without obstructing the emergency services and go into a building (Finland) | Underground car park | The safest place nearby: behind walls or other barriers (Finland) |
-| Public transport | Follow the driver's instructions; get off at the next stop or station and go inside (Finland) | Underground metro station | Behind walls or other barriers (Finland) |
+| In the car | Park without obstructing the emergency services and go into a building (Finland) | Underground car park | Behind walls or other barriers (Finland) |
+| Public transport | Follow the driver; get off at the next stop and go inside (Finland) | Underground metro station | Behind walls or other barriers (Finland) |
 | Open ground, forest | Lower-lying ground: ditch, hollow (Finland) | Behind a wall or in a tunnel (MCF) | Flat on the ground, head protected |
 
 ### Drones
 
-Finland gives separate guidelines for drones. The danger zone of explosives can extend to several hundred metres outdoors. That is why the authorities ask you to go inside.
+Finland gives separate guidelines for drones. The danger zone of explosives can extend to several hundred metres outdoors.
 
 - Do not approach a drone. Stay at least 150 metres away.
 - Go inside, especially if the drone is flying unsteadily or low.
-- Avoid open ground near the drone. If you are in a forest or open field, get below ground level if you can.
-- Inside: stay away from windows and doors, in the middle of the building, in a room with solid walls.
-- Call 112 if you see a drone near a critical site (power station, airport, port, water treatment plant) or find a crashed drone. If you cannot get through, have someone else call or ask for help nearby (see Emergency numbers in the app, If you cannot call).
+- Avoid open ground near the drone. In a forest or open field: get below ground level if you can.
+- Inside: stay in the middle of the building, away from windows and doors, in a room with solid walls.
+- Call 112 if you see a drone near a critical site (power station, airport, port, water treatment plant) or find a crashed drone.
 
 ### Where not to go
 
 - **Not in the attic or on the top floor.** A roof offers little protection against blast waves, glass and debris (BBK).
-- **Not near windows, glass walls, mirrors or balconies** (BBK, Ukraine).
+- **Not near windows, glass walls, mirrors, balconies or open entrances** (BBK, Ukraine).
 - **Not in the lift** (BBK).
 - **Not in a crawl space** and not near transformer substations, high-voltage pylons or gas, electricity and technical rooms (TNO).
-- **Not in the kitchen**, because of glass and heavy appliances (Ukraine).
-- **Not in a stairwell with a lot of glass** or on the outside of the building (Ukraine).
+- **Not in the kitchen or in a stairwell with a lot of glass** (Ukraine).
 - **Not in a lightly built wooden shed or a glass conservatory** (TNO).
-- **Not near open entrances, windows and doors** in a public building (BBK).
 
 ### How long and when to leave
 
-- Stay until the official all-clear. In Sweden this is a long, continuous signal of 30 seconds. In Finland you wait for the announcement that the danger is over.
-- Ukraine: leave the shelter early only if the shelter itself is damaged.
-- After the all-clear: help injured people and people who are trapped (MCF).
-- Take only what you have immediately to hand. Sweden recommends water, food that you can eat at room temperature, identity document, money, bank card, mobile phone and charger or power bank. For a civil defence shelter, allow for a few days.
+- Stay until the official all-clear. In Sweden this is a continuous signal of 30 seconds, in Finland the announcement that the danger is over.
+- Ukraine: leave the shelter early only if it is damaged itself.
+- Then help injured people and people who are trapped (MCF).
+- Take only what you have to hand. Sweden mentions water, food that you can eat at room temperature, identity document, money, bank card, mobile phone and charger or power bank. For a civil defence shelter, expect a few days.
 
-Source: [National Crisis Center: International armed conflict](https://crisiscenter.be/en/risks-belgium/security-risks/international-armed-conflict-iac) · [BBK: Explosionen, hier finden Sie Schutz](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Vorsorge/Schutz-suchen/Schutz-vor-Explosion/schutz-vor-explosion_node.html) · [MCF: In case of crisis or war](https://rib.msb.se/filer/pdf/31523.pdf) · [MCF: About the warning and information systems](https://www.mcf.se/en/advice-for-individuals/civil-defence-shelters-evacuation-and-warning-systems/public-service-announcement-and-other-varnings/about-the-warning--and-information-systems/) · [Suomi.fi: Threat from the air](https://www.suomi.fi/guides/preparedness/how-to-prepare-for-incidents-and-crises/threat-from-the-air) · [TNO: Sheltering options during air attacks](https://www.tweedekamer.nl/downloads/document?id=2026D56281) · [Dovidka.info: What is a shelter](https://dovidka.info/en/what-is-shelter/) · [112.be: Frequently asked questions](https://112.be/en/frequently-asked-questions) · [FPS Economy: questions from households about electricity shortage](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door)
+Source: [National Crisis Center: International armed conflict](https://crisiscenter.be/en/risks-belgium/security-risks/international-armed-conflict-iac) · [BBK: Explosionen, hier finden Sie Schutz](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Vorsorge/Schutz-suchen/Schutz-vor-Explosion/schutz-vor-explosion_node.html) · [MCF: In case of crisis or war](https://rib.msb.se/filer/pdf/31523.pdf) · [MCF: About the warning and information systems](https://www.mcf.se/en/advice-for-individuals/civil-defence-shelters-evacuation-and-warning-systems/public-service-announcement-and-other-varnings/about-the-warning--and-information-systems/) · [Suomi.fi: Threat from the air](https://www.suomi.fi/guides/preparedness/how-to-prepare-for-incidents-and-crises/threat-from-the-air) · [TNO: Sheltering options during air attacks](https://www.tweedekamer.nl/downloads/document?id=2026D56281) · [Dovidka.info: What is a shelter](https://dovidka.info/en/what-is-shelter/)
 
 ## Explosion nearby
 
@@ -200,50 +196,48 @@ This is about an explosion caused by an accident or an attack, without an air ra
 
 ### Order of preference
 
-1. **Best choice: away from the scene, if it is safe.** Leave the scene as quickly as possible if you can get safely away from the danger. Go to an open space (Crisis Center). Do not take belongings and do not make calls on the way (Ready.gov).
-2. **Good choice if you are inside and things are falling:** take cover under a table, a desk or another sturdy piece of furniture (Crisis Center).
-3. **Emergency solution if you cannot get away:** keep still and wait until the emergency services arrive (Crisis Center).
+1. **Best choice: away from the scene, if it is safe.** Go to an open space. Do not take belongings and do not make calls on the way (Ready.gov).
+2. **Good choice if you are inside and things are falling:** take cover under a table, a desk or another sturdy piece of furniture.
+3. **Emergency solution if you cannot get away:** keep still and wait until the emergency services arrive.
 
 ### What to do immediately
 
 - Stay low if there is fire and smoke.
 - Cover your mouth and nose with a handkerchief or other fabric, against dust and toxic gases.
-- Speak to other people to warn them or call 112.
-- Stay near the incident, but outside the danger zone, so that the emergency services can take care of you.
-- If you are outside: go to a safe place and call 112.
-- If you cannot get through, have someone else call or ask for help nearby (see Emergency numbers in the app, If you cannot call).
+- Warn the people around you or call 112.
+- Stay nearby, but outside the danger zone, so that the emergency services can take care of you.
 
 ### If a building is damaged
 
 - Leave the building by the quickest route. Take the stairs, not the lift (BBK).
-- Keep your distance from the damaged building, the debris and the dust cloud. The BBK rule of thumb: about half the original height of the building.
-- Watch out for the smell of gas, hissing sounds and loose electrical cables, especially where water pipes have burst. Do not use matches or lighters.
-- After an attack there may still be other explosives. Do not touch anything that looks suspicious. Leave that zone and report the location to the emergency services.
+- Keep your distance from the building, the debris and the dust cloud: according to the BBK, about half the original height of the building.
+- Watch out for the smell of gas, hissing sounds and loose electrical cables. Do not use matches or lighters.
+- After an attack there may still be explosives. Do not touch anything suspicious, leave that zone and report the location to the emergency services.
 - Avoid floors and stairs that are clearly weakened (Ready.gov).
 
 ### If you are trapped
 
-- Make yourself heard by knocking or with your voice (BBK).
-- Use a torch, a whistle or tap on pipes. Shout only as a last resort, so that you do not inhale dust (Ready.gov).
+- Make yourself heard by knocking, with a torch or a whistle, or tap on pipes (BBK, Ready.gov).
+- Shout only as a last resort, so that you do not inhale dust.
 - Cover your nose and mouth.
 
 ### How long and when to leave
 
-If you are in a safe place, away from the incident: stay where you are, preferably inside. Avoid moving around, so that you do not obstruct the emergency services. Do not go and look. If the network works, let your family know that you are safe, preferably by text message or social media. That is why you should agree in advance with your family where you will meet if you cannot reach each other. Then follow the instructions of the authorities on the radio: an explosion can have other consequences, especially if chemical substances were involved.
+If you are safe, away from the incident: stay where you are, preferably inside, and do not go and look, so that you do not obstruct the emergency services. If the network works, let your family know by text message or social media that you are safe. Agree in advance where you will meet if that does not work. Then follow the instructions on the radio: an explosion can have other consequences, especially with chemical substances.
 
-Source: [National Crisis Center: Explosion of explosive substances](https://crisiscenter.be/en/risks-belgium/technological-risks/discharge-explosive-substances) · [National Crisis Center: Attack on a soft target](https://crisiscenter.be/en/risks-belgium/security-risks/attack-against-soft-target) · [BBK: Explosionen, hier finden Sie Schutz](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Vorsorge/Schutz-suchen/Schutz-vor-Explosion/schutz-vor-explosion_node.html) · [Ready.gov: Explosions](https://www.ready.gov/explosions) · [National Crisis Center: Disruption of the digital infrastructure](https://crisiscenter.be/en/risks-belgium/societal-risks/failure-digital-infrastructure) · [112.be: Frequently asked questions](https://112.be/en/frequently-asked-questions) · [FPS Economy: questions from households about electricity shortage](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door)
+Source: [National Crisis Center: Explosion of explosive substances](https://crisiscenter.be/en/risks-belgium/technological-risks/discharge-explosive-substances) · [National Crisis Center: Attack on a soft target](https://crisiscenter.be/en/risks-belgium/security-risks/attack-against-soft-target) · [BBK: Explosionen, hier finden Sie Schutz](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Vorsorge/Schutz-suchen/Schutz-vor-Explosion/schutz-vor-explosion_node.html) · [Ready.gov: Explosions](https://www.ready.gov/explosions) · [National Crisis Center: Disruption of the digital infrastructure](https://crisiscenter.be/en/risks-belgium/societal-risks/failure-digital-infrastructure)
 
 ## Radioactive fallout
 
-In a nuclear accident, the Belgian authorities ask you to shelter: according to the Crisis Center, that is the best way to protect yourself. For the full explanation, see the guides in the nuclear module. Only the choice of place is covered here.
+In a nuclear accident, the Belgian authorities ask you to shelter: according to the Crisis Center, the best protection. The full explanation is in the guides of the nuclear module. Only the choice of place is covered here.
 
 ### Order of preference
 
-1. **Best choice according to the Belgian authorities:** inside the nearest building, in a central room on the ground floor. Walls and ceilings protect better than windows. Close windows and doors, switch off ventilation, heating and air conditioning and close off the supply of outside air via the chimney.
-2. **What foreign sources add:** for the release of radioactive substances, Germany recommends going as deep as possible, into an inner room or preferably a cellar, underground car park or metro station. Thick walls and earth increase the protection. The United States (Ready.gov) recommends putting as many walls as possible between you and the outside. For a nuclear weapon they mention cellars and the middle of large buildings, with brick or concrete walls.
+1. **Best choice according to the Belgian authorities:** inside the nearest building, in a central room on the ground floor. Close windows and doors, switch off ventilation, heating and air conditioning and close off the supply of outside air via the chimney.
+2. **What foreign sources add:** Germany recommends going as deep as possible, preferably into a cellar, underground car park or metro station. The United States recommends as many walls as possible between you and the outside, for a nuclear weapon in a cellar or the middle of a large brick or concrete building.
 3. **Emergency solution:** any building is better than staying outside.
 
-The Belgian advice (central room on the ground floor) and the German advice (as deep as possible) differ. In Belgium, follow the Belgian advice and the instructions given at the time.
+The Belgian advice (ground floor) and the German advice (as deep as possible) differ. In Belgium, follow the Belgian advice and the instructions given at the time.
 
 ### Per place
 
@@ -255,11 +249,11 @@ The Belgian advice (central room on the ground floor) and the German advice (as 
 | On foot | Go into the nearest building |
 | Car, close to a building | Go inside immediately |
 | Car, no building within reach | Park in a safe place or drive at right angles to the wind direction; engine off, windows closed, air conditioning off, listen to the radio |
-| Open ground without buildings | Call 112 (Crisis Center, general sheltering guideline). If you cannot get through: move further away from the emergency until you find a safe and accessible building (Crisis Center, sheltering on the move) |
+| Open ground without buildings | Call 112. If you cannot get through: move further away from the emergency until you find a safe and accessible building |
 
 ### How long
 
-Stay inside until the authorities announce that it is safe. For sheltering in general, the Crisis Center mentions a duration of a few hours up to a maximum of 24 hours. For a nuclear weapon, Ready.gov says that you stay in the best-protected place for the first 24 hours, unless there is immediate danger such as fire, a gas leak or collapse.
+Stay inside until the authorities announce that it is safe. For sheltering, the Crisis Center mentions a few hours up to a maximum of 24 hours. Ready.gov: for a nuclear weapon, stay in the best-protected place for the first 24 hours, unless there is immediate danger such as fire, a gas leak or collapse.
 
 Source: [Nuclear risk: Sheltering, the best protection](https://nuclearrisk.be/en/what-can-you-do/sheltering) · [National Crisis Center: Incident at a nuclear power plant](https://crisiscenter.be/en/risks-belgium/technological-risks/nuclear-plant-incident) · [National Crisis Center: Sheltering](https://crisiscenter.be/en/what-can-you-do/right-reflex/seeking-shelter) · [BBK: Schutz suchen](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Vorsorge/Schutz-suchen/schutz-suchen_node.html) · [Ready.gov: Radiation emergencies](https://www.ready.gov/radiation)
 
@@ -269,19 +263,19 @@ In an accident involving hazardous substances, for example at a Seveso company o
 
 ### Order of preference
 
-1. **Best choice: inside the nearest building.** Close windows and doors and switch off the ventilation. Preferably take up position in a central room on the ground floor (Crisis Center).
-2. **If you are outside:** walk away from the incident, at right angles to the wind direction, and go into the nearest building (Crisis Center).
-3. **Emergency solution without a building: the car.** Germany recommends sheltering in the car in that case, with ventilation and air conditioning off. The Crisis Center says: switch off the air conditioning and drive on until you find a safe, accessible building.
+1. **Best choice: inside the nearest building.** Close windows and doors and switch off the ventilation. Preferably take up position in a central room on the ground floor.
+2. **If you are outside:** walk away from the incident, at right angles to the wind direction, and go into the nearest building.
+3. **Emergency solution without a building: the car.** Germany recommends sheltering in the car, with ventilation and air conditioning off. The Crisis Center says: switch off the air conditioning and drive on until you find a safe, accessible building.
 
 ### Differences between countries
 
-The Crisis Center says: central room on the ground floor. Germany says: with gases or vapours outside, preferably go to higher floors, because most gases are heavier than air and collect at the bottom, and avoid cellars. Czechia mentions a higher floor on the side facing away from the source. Finland says, outside: away from the wind direction and to higher ground. The United States mentions a room above ground with as few openings as possible. In Belgium, follow the Belgian advice and the instructions given at the time; these may differ per substance. In any case, do not go to the cellar.
+The Crisis Center says: central room on the ground floor. Germany says: with gases or vapours, preferably higher floors, because most gases are heavier than air, and no cellars. Czechia mentions a higher floor on the side away from the source, Finland higher ground outside away from the wind direction, the United States a room above ground with as few openings as possible. In Belgium, follow the Belgian advice and the instructions given at the time; these may differ per substance. In any case, do not go to the cellar.
 
 ### What to do in the room
 
-- Seal gaps under doors and around windows with wet towels, plastic sheeting or tape (Ready.gov). Germany also mentions the ventilation slots in window frames.
+- Seal gaps under doors and around windows with wet towels, plastic sheeting or tape (Ready.gov), including the ventilation slots in window frames (BBK).
 - Do not use candles: they use up oxygen (BBK).
-- If gas does get in, breathe through a cloth (Ready.gov) or a face mask (BBK).
+- If gas does get in, breathe through a cloth or a face mask.
 - Do not eat or drink anything that may be contaminated (Ready.gov).
 
 ### If you came into contact with the substance
@@ -289,7 +283,7 @@ The Crisis Center says: central room on the ground floor. Germany says: with gas
 - Take off your outer clothing.
 - Put your clothes in a bin bag and seal it.
 - Take a shower (Crisis Center).
-- Germany: first wash your hands thoroughly, then your face and hair, including your nose and ears, with soap and water. Put the bag of clothes and shoes outside the living area.
+- Germany: first wash your hands, then your face and hair, including your nose and ears, with soap and water. Put the bag of clothes and shoes outside the living area.
 
 ### If the gas is released inside the building
 
@@ -297,7 +291,7 @@ Leave the building (BBK). If possible, do not go through the contaminated zone; 
 
 ### How long and when to leave
 
-Stay inside until you are told that it is safe, also in order to help others (Ready.gov). Listen to the radio for this. Leave children at school. Do not make unnecessary calls; if the network works, use text messages or the internet instead of calling. Sometimes you have to evacuate: do so only on the instructions of the emergency services. After the accident there may be an impact on drinking water, vegetables from the garden and livestock: follow the instructions.
+Stay inside until you are told that it is safe, also in order to help others. Listen to the radio. Leave children at school. Do not make unnecessary calls; if the network works, use text messages or the internet. Evacuate only on the instructions of the emergency services. After the accident there may be an impact on drinking water, vegetables from the garden and livestock: follow the instructions.
 
 Source: [National Crisis Center: Release of chemical substances](https://crisiscenter.be/en/risks-belgium/technological-risks/release-chemical-substances) · [National Crisis Center: Sheltering](https://crisiscenter.be/en/what-can-you-do/right-reflex/seeking-shelter) · [BBK: Schutz suchen](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Vorsorge/Schutz-suchen/schutz-suchen_node.html) · [BBK: Die unterschiedlichen Gefahrstoffe](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Vorsorge/Schutz-suchen/Gefahrstoff-Freisetzung/_documents/gefahrstoff-unterschiede_dossier1.html?nn=20588) · [BBK: Verhalten im Freien oder im Auto](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Vorsorge/Schutz-suchen/Gefahrstoff-Freisetzung/_documents/gefahrstoff-im-auto-und-im-freien_dossier3.html?nn=20588) · [Sebeochrana ukrytím](https://mv.gov.cz/clanek/sebeochrana-ukrytim.aspx) · [Suomi.fi: Spreading of dangerous substances](https://www.suomi.fi/guides/preparedness/how-to-prepare-for-incidents-and-crises/spreading-of-dangerous-substances-into-the-environment) · [Ready.gov: Hazardous materials](https://www.ready.gov/hazmat)
 
@@ -307,17 +301,16 @@ Here the opposite of an air attack applies: you go up, never down.
 
 ### Order of preference
 
-1. **Best choice: higher ground or a higher floor.** Higher areas and floors give the best protection (BBK). Leave the area or go to the upper floors (Finland).
+1. **Best choice: higher ground or a higher floor** (BBK). Finland: leave the area or go to the upper floors.
 2. **Good choice: stay inside on a high floor** and limit your movements (Crisis Center).
 3. **Emergency solution if you are trapped: the highest point in the building.** Go onto the roof only if you have to and signal from there. Do not go into an enclosed attic, where you can become trapped as the water rises (Ready.gov).
 
 ### Where not to go
 
-- **Never into the cellar.** If the cellar floods, you will no longer be able to open the door from the inside and you will have lost your escape route. There is also a risk of a fatal electric shock (BBK).
+- **Never into the cellar.** If the cellar floods, you will no longer be able to open the door from the inside. There is also a risk of a fatal electric shock (BBK).
 - **No underground car parks, metro stations or underpasses** (BBK).
-- **Do not walk, swim or drive through water.** Even shallow moving water can knock you over or sweep your car away (Ready.gov). Finland warns that shallow water can make you fall and that manhole covers can come loose.
+- **Do not walk, swim or drive through water,** not even on flooded roads. Even shallow moving water can knock you over or sweep your car away, and manhole covers can come loose (Ready.gov, Finland, Crisis Center).
 - **Not over bridges above fast-flowing water** (Ready.gov).
-- **Do not drive on flooded roads** (Crisis Center, storm).
 
 ### Per place
 
@@ -333,11 +326,11 @@ Here the opposite of an air attack applies: you go up, never down.
 
 ### What to take and prepare
 
-The Crisis Center recommends: sandbags for cellar openings and outside doors, carpets and furniture raised up, shutting off gas, electricity and water if necessary, not leaving the car in the garage. If you have to evacuate: take spare clothing and boots. Finland recommends charging your mobile phone and setting aside drinking water, because tap water may become contaminated.
+The Crisis Center recommends: sandbags for cellar openings and outside doors, carpets and furniture raised up, shutting off gas, electricity and water if necessary, not leaving the car in the garage. If you have to evacuate: take spare clothing and boots. Finland: charge your mobile phone and set aside drinking water, because tap water may become contaminated.
 
 ### How long and when to leave
 
-Only go back when the authorities say it is safe (Ready.gov). Listen to the recommendations on the use of tap water (Crisis Center). Do not touch electrical appliances if they are wet or if you are standing in water.
+Only go back when the authorities say it is safe (Ready.gov). Listen to the recommendations on tap water (Crisis Center). Do not touch electrical appliances if they are wet or if you are standing in water.
 
 Source: [National Crisis Center: River flooding](https://crisiscenter.be/en/risks-belgium/natural-risks/fluvial-riverine-flood) · [National Crisis Center: Wind and storm](https://crisiscenter.be/en/risks-belgium/natural-risks/wind) · [BBK: Schutz suchen](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Vorsorge/Schutz-suchen/schutz-suchen_node.html) · [Ready.gov: Floods](https://www.ready.gov/floods)
 
@@ -345,8 +338,8 @@ Source: [National Crisis Center: River flooding](https://crisiscenter.be/en/risk
 
 ### Order of preference
 
-1. **Best choice: inside a solid building.** Go inside and stay inside. Close windows and doors (Crisis Center). In a tornado: stay away from windows, doors and outer walls and watch out for flying debris.
-2. **In a tornado, the best place in the building:** a small inner room without windows or a cellar on the lowest floor of a solid building (Ready.gov). Protect your head and neck with your arms and put furniture or blankets around or on top of you.
+1. **Best choice: inside a solid building.** Go inside, stay inside and close windows and doors (Crisis Center). In a tornado: stay away from windows, doors and outer walls and watch out for flying debris.
+2. **In a tornado, the best place in the building:** a small inner room without windows or a cellar on the lowest floor (Ready.gov). Protect your head and neck with your arms and put furniture or blankets around or on top of you.
 3. **Good choice in a thunderstorm when travelling: a car with a metal body and roof.** It works as a Faraday cage; keep windows and doors closed (RMI). A convertible or a plastic-bodied car is not safe. A metal caravan is also good; disconnect the power cable in that case.
 4. **Emergency solution in an open field in a thunderstorm:** crouch on your toes, arms around your knees, head as low as possible (RMI). Do not walk during a lightning strike (Crisis Center).
 
@@ -356,21 +349,21 @@ Source: [National Crisis Center: River flooding](https://crisiscenter.be/en/risk
 - **Not near metal structures**, high summits, fences and forest edges. Stay at least 3 metres from fences (RMI).
 - **No bus shelter, carport, tent or open shelter**: these do not protect against lightning (RMI).
 - **Do not park near trees** (Crisis Center).
-- **Do not shelter under a bridge** in a tornado: little protection and dangerous for traffic (Ready.gov).
-- **In a group:** do not stay together, but crouch spread out at least 2 metres apart (RMI).
+- **Not under a bridge** in a tornado: little protection and dangerous for traffic (Ready.gov).
+- **In a group:** crouch spread out, at least 2 metres apart (RMI).
 
 ### Inside during a thunderstorm
 
-- Unplug electrical appliances (Crisis Center, RMI).
-- Stay away from windows. Do not take a shower. Stay away from metal pipes and radiators (RMI).
+- Unplug electrical appliances.
+- Stay away from windows, metal pipes and radiators. Do not take a shower (RMI).
 
 ### Car in a tornado
 
-Ready.gov says that in a car there is no safe option, only less dangerous ones. If the tornado is far away and traffic is light, drive away at right angles to its path. If you are overtaken by wind or debris: park off the traffic lanes, stay in the car with your seatbelt on and your head below the windows. If there is a spot next to the road that is clearly lower, lie down there with your hands on your head.
+Ready.gov says that in a car there is no safe option, only less dangerous ones. If the tornado is far away and traffic is light, drive away at right angles to its path. If you are overtaken by wind or debris: park off the traffic lanes, stay in the car with your seatbelt on and your head below the windows. If there is a clearly lower spot next to the road, lie down there with your hands on your head.
 
 ### How long and when to leave
 
-Stay inside until the storm has passed. Finland: do not go outside to repair damage during the storm. Afterwards, do not touch cables lying on the ground (Crisis Center). If the network works, use 1722 or the online counter 1722.be for non-urgent help; keep 112 free for life-threatening situations.
+Stay inside until the storm has passed. Finland: do not go outside during the storm to repair damage. Afterwards, do not touch cables on the ground (Crisis Center). If the network works, use 1722 or the online counter 1722.be for non-urgent help; keep 112 free for life-threatening situations.
 
 Source: [National Crisis Center: Wind and storm](https://crisiscenter.be/en/risks-belgium/natural-risks/wind) · [National Crisis Center: Tornado](https://crisiscenter.be/en/risks-belgium/natural-risks/tornado) · [RMI: How do I protect myself against lightning](https://www.meteo.be/nl/info/veelgestelde-vragen/hoe-je-beschermen-tegen-gevaarlijk-weer/hoe-bescherm-ik-me-tegen-bliksem) · [Ready.gov: Tornadoes](https://www.ready.gov/tornadoes)
 
@@ -378,16 +371,16 @@ Source: [National Crisis Center: Wind and storm](https://crisiscenter.be/en/risk
 
 ### Order of preference
 
-1. **If you live near a forest or nature area:** call 112 if you see a fire. If you cannot get through, have someone else call or ask for help nearby. Close windows and doors. Do not evacuate on your own initiative, wait for the recommendations (Crisis Center).
-2. **If you are in the forest:** get yourself to safety. Follow paths that lead away from the fire and the column of smoke, preferably at right angles to the wind direction. Flee to a public road, a large paved area or a built-up area (Crisis Center).
+1. **If you live near a forest or nature area:** call 112 if you see a fire. Close windows and doors. Do not evacuate on your own initiative, wait for the recommendations (Crisis Center).
+2. **If you are in the forest:** follow paths that lead away from the fire and the column of smoke, preferably at right angles to the wind direction, to a public road, a large paved area or a built-up area (Crisis Center).
 3. **If there is smoke but no order to evacuate:** stay inside in a safe room, windows closed and ventilation off (Finland), or go to a community building where there is less smoke (Ready.gov).
 4. **Emergency solution if you are trapped:** call 112 and give your location. Help may be delayed. Turn on lights so that rescuers can find you (Ready.gov).
 
 ### What to do immediately
 
-- Give your location as accurately as possible with recognisable landmarks: paths, pools, lookout towers, car parks. If the network works, also use the 112 app (Crisis Center).
+- Give your location with recognisable landmarks: paths, pools, lookout towers, car parks. If the network works, also use the 112 app (Crisis Center).
 - Help others to a safe place.
-- No mobile phone or signal: evacuate as quickly as possible and alert people. See also Emergency numbers in the app, If you cannot call.
+- No mobile phone or signal: evacuate as quickly as possible and alert people.
 - If you have to move outside: protect your airways with a mask or scarf. Finland adds that this does not protect against toxic gases.
 - Shut off the electricity and gas if you leave the house (Crisis Center).
 - Ready.gov recommends choosing a room in advance that you can seal off from the outside air.
@@ -398,22 +391,22 @@ Source: [National Crisis Center: Wind and storm](https://crisiscenter.be/en/risk
 - Do not go back to the area without permission from the emergency services (Crisis Center).
 - Stay away from hot ash, charred trees and smouldering debris (Ready.gov).
 
-Source: [National Crisis Center: Wildfire](https://crisiscenter.be/en/risks-belgium/natural-risks/wildfires) · [Suomi.fi: Wildfires and major building fires](https://www.suomi.fi/guides/preparedness/how-to-prepare-for-incidents-and-crises/wildfires-and-major-building-fires) · [Ready.gov: Wildfires](https://www.ready.gov/wildfires) · [112.be: Frequently asked questions](https://112.be/en/frequently-asked-questions) · [FPS Economy: questions from households about electricity shortage](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door)
+Source: [National Crisis Center: Wildfire](https://crisiscenter.be/en/risks-belgium/natural-risks/wildfires) · [Suomi.fi: Wildfires and major building fires](https://www.suomi.fi/guides/preparedness/how-to-prepare-for-incidents-and-crises/wildfires-and-major-building-fires) · [Ready.gov: Wildfires](https://www.ready.gov/wildfires)
 
 ## Earthquake
 
 ### Order of preference inside
 
-1. **If you are close to an exit** and can leave the building safely, go to an open space, away from buildings (Crisis Center).
-2. **Otherwise: under a sturdy piece of furniture.** Take cover under a table, desk or bed and hold on until the shaking stops. Cover your head and upper body (Crisis Center).
-3. **No sturdy furniture:** crouch down against an inner wall, away from windows (Crisis Center).
+1. **If you are close to an exit** and can leave the building safely, go to an open space, away from buildings.
+2. **Otherwise: under a sturdy piece of furniture.** Take cover under a table, desk or bed and hold on until the shaking stops. Cover your head and upper body.
+3. **No sturdy furniture:** crouch down against an inner wall, away from windows.
 
-The United States gives a different order: stay inside and do not run outside; avoid doorways. Their method is called drop, cover, hold on: on your hands and knees, protect your head and neck with one arm, crawl under a table if one is close by. In bed: turn onto your stomach and cover your head and neck with a pillow. With a wheelchair or walker: lock the wheels, bend forward and cover your head and neck. The Belgian advice leaves the option of going outside if you are close to an exit and it is safe to do so.
+The United States says: stay inside, do not run outside and avoid doorways. Their method is called drop, cover, hold on: on your hands and knees, protect your head and neck with one arm, crawl under a table if one is close by. In bed: turn onto your stomach and cover your head and neck with a pillow. With a wheelchair or walker: lock the wheels, bend forward and cover your head and neck. The Belgian advice leaves the option of going outside if you are close to an exit and it is safe to do so.
 
 ### Outside and in the car
 
-- Outside: go to an open space, away from buildings, electrical wires and anything that may collapse, such as bridges. In a public place: take cover somewhere you stay out of the crowd (Crisis Center).
-- In the car: stop in a safe place where you do not block the road and stay in the vehicle. If electrical wires are lying on the car, do not get out and wait for the emergency services (Crisis Center).
+- Outside: go to an open space, away from buildings, electrical wires and anything that may collapse, such as bridges. In a public place: take cover somewhere you stay out of the crowd.
+- In the car: stop in a safe place where you do not block the road and stay in the vehicle. If electrical wires are lying on the car, do not get out and wait for the emergency services.
 
 ### Afterwards
 
@@ -434,29 +427,29 @@ For someone with a weapon, the Crisis Center gives three steps: run away if it i
    - Lock the door or block it if you can.
    - Stay quiet. Put your mobile phone on silent.
    - The Netherlands: hide in a place with thick walls or lock yourself in.
-3. **Raise the alarm:** call 112 if you can. If the network works but you cannot speak, use the 112 app to chat (Crisis Center). Give information about the attacker and the location (Denk vooruit). If you cannot get through, have someone else call or ask for help nearby (see Emergency numbers in the app, If you cannot call).
+3. **Raise the alarm:** call 112 if you can. If the network works but you cannot speak, chat via the 112 app (Crisis Center). Give information about the attacker and the location (Denk vooruit).
 
 The United States also mentions disrupting the attack as a last resort. The Belgian, Dutch and Finnish sources do not mention this.
 
 ### If you are in a safe place
 
-- Stay where you are, preferably inside. Do not move around, so that you do not obstruct the emergency services.
-- Do not go and look at what is happening. Finland: do not go back to look at the situation.
-- If the network works, let your family know that you are safe, preferably by text message or social media. If it does not, the place you agreed with your family in advance helps you find each other again.
+- Stay where you are, preferably inside, so that you do not obstruct the emergency services.
+- Do not go and look or go back to look at the situation (Finland).
+- If the network works, let your family know by text message or social media that you are safe. If it does not, go to the place you agreed with your family in advance.
 - Follow the directions of the emergency responders.
 
 ### Preparing
 
 In crowded places, first check how you can get away quickly and where the emergency exits are (Denk vooruit). If you see a suspicious object or person: call 101 and do not touch the object (Crisis Center).
 
-Source: [National Crisis Center: Attack on a soft target](https://crisiscenter.be/en/risks-belgium/security-risks/attack-against-soft-target) · [Denk vooruit: An attack](https://www.denkvooruit.nl/risicos/risicos-in-nederland/een-aanslag) · [Ready.gov: Mass gatherings incidents](https://www.ready.gov/mass-gatherings-incidents) · [National Crisis Center: Disruption of the digital infrastructure](https://crisiscenter.be/en/risks-belgium/societal-risks/failure-digital-infrastructure) · [112.be: Frequently asked questions](https://112.be/en/frequently-asked-questions) · [FPS Economy: questions from households about electricity shortage](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door)
+Source: [National Crisis Center: Attack on a soft target](https://crisiscenter.be/en/risks-belgium/security-risks/attack-against-soft-target) · [Denk vooruit: An attack](https://www.denkvooruit.nl/risicos/risicos-in-nederland/een-aanslag) · [Ready.gov: Mass gatherings incidents](https://www.ready.gov/mass-gatherings-incidents) · [National Crisis Center: Disruption of the digital infrastructure](https://crisiscenter.be/en/risks-belgium/societal-risks/failure-digital-infrastructure)
 
 ## Heatwave
 
 ### Order of preference
 
 1. **Best choice: stay inside until it is cooler** if it is really very hot (Crisis Center).
-2. **Good choice if it is too hot at home: a cool public place.** The Crisis Center mentions a service centre, library or shopping centre.
+2. **Good choice if it is too hot at home: a cool public place,** such as a service centre, library or shopping centre.
 3. **Emergency solution outside: in the shade as much as possible**, with a cap or hat.
 
 ### What to do
@@ -466,11 +459,11 @@ Source: [National Crisis Center: Attack on a soft target](https://crisiscenter.b
 - Wet your forehead and neck regularly. Wear light, light-coloured clothing.
 - Avoid heavy exertion in the hottest part of the day.
 - Never leave people or animals in a parked vehicle.
-- Ready.gov: a fan is not a good primary means of cooling. It gives a false sense of comfort but does not lower body temperature. Close curtains and use the oven less.
-- Call on people who need help (Crisis Center).
-- If the network works, call your GP in case of cramps, high fever, headache or fainting. Call 112 only if a life is in danger. If you cannot get through, have someone else call or ask for help nearby (see Emergency numbers in the app, If you cannot call).
+- Ready.gov: a fan does not lower body temperature, even if it feels that way. Close curtains and use the oven less.
+- Call on people who need help.
+- If the network works, call your GP in case of cramps, high fever, headache or fainting. Call 112 only if a life is in danger.
 
-Source: [National Crisis Center: Heatwave](https://crisiscenter.be/en/risks-belgium/natural-risks/heatwave) · [Ready.gov: Extreme heat](https://www.ready.gov/heat) · [112.be: Frequently asked questions](https://112.be/en/frequently-asked-questions) · [FPS Economy: questions from households about electricity shortage](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door)
+Source: [National Crisis Center: Heatwave](https://crisiscenter.be/en/risks-belgium/natural-risks/heatwave) · [Ready.gov: Extreme heat](https://www.ready.gov/heat)
 
 ## Extreme cold, snow and freezing rain
 
@@ -486,7 +479,7 @@ Source: [National Crisis Center: Heatwave](https://crisiscenter.be/en/risks-belg
 - Watch out for CO poisoning with an open fire, coal, paraffin or pellet stove, gas water heater, gas or heating oil (Crisis Center).
 - Never heat your home with a gas cooker or oven. Use generators and grills only outside and away from windows (Ready.gov).
 - Avoid overexertion when clearing snow (Ready.gov).
-- Think of pets: keep them inside or make sure they have food and drinking water (Crisis Center).
+- Keep pets inside or make sure they have food and drinking water (Crisis Center).
 - After the frost: frozen pipes may leak.
 
 Source: [National Crisis Center: Cold wave](https://crisiscenter.be/en/risks-belgium/natural-risks/cold-wave) · [Ready.gov: Winter weather](https://www.ready.gov/winter-weather)
@@ -507,22 +500,20 @@ Source: [National Crisis Center: Fire or collapse of a tunnel](https://crisiscen
 
 The rule is: stay until the authorities say it is safe. The sources mention a few exceptions:
 
-- **Fire, gas leak, collapse or serious injury** at your shelter. Ready.gov names these as reasons to leave the best place even during radioactive fallout.
+- **Fire, gas leak, collapse or serious injury** at your shelter, also during radioactive fallout (Ready.gov).
 - **The shelter itself is damaged** (Ukraine).
 - **Gas or hazardous substances inside the building**: go outside (BBK).
 - **Water rising in a cellar or underground space**: go upstairs immediately (BBK).
-- **You are in immediate danger**: then you may evacuate without waiting for an order (Crisis Center).
-
-If you have to evacuate, do not lose time looking for belongings if there is immediate danger (Crisis Center).
+- **You are in immediate danger**: then you may evacuate without waiting for an order, and do not lose time looking for belongings (Crisis Center).
 
 Source: [Ready.gov: Radiation emergencies](https://www.ready.gov/radiation) · [Dovidka.info: What is a shelter](https://dovidka.info/en/what-is-shelter/) · [BBK: Schutz suchen](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Vorsorge/Schutz-suchen/schutz-suchen_node.html) · [National Crisis Center: Evacuating](https://crisiscenter.be/en/what-can-you-do/right-reflex/evacuate)
 
 ## Children, vulnerable people and animals
 
-- **Children at school or in childcare:** leave them there and do not go to collect them. Teachers follow their internal emergency plan. Otherwise you create traffic jams, obstruct the emergency services and put yourself and the children in danger. The school will let you know when you can collect your child. Also register the school's address in BE-Alert in advance (Crisis Center).
+- **Children at school or in childcare:** leave them there and do not go to collect them. Teachers follow their internal emergency plan. Otherwise you create traffic jams, obstruct the emergency services and put yourself and the children in danger. The school will let you know when you can collect your child. Register the school's address in BE-Alert in advance (Crisis Center).
 - **During an air raid alert in Ukraine**, parents who come to drop off or collect their child may go into the school's shelter until the alert is over.
 - **People who need help:** discuss the three steps of sheltering in advance with family, neighbours or colleagues and make arrangements. Let others shelter with you if necessary (Crisis Center). Sweden recommends arranging transport to a shelter in advance; assistance dogs are welcome in Swedish civil defence shelters.
-- **Pets:** first follow the instructions for your own safety. If you can let your animals shelter safely without risk to yourself, do so (Crisis Center). During an air raid alert in Sweden you may take your pet to cellars, garages and metro stations.
+- **Pets:** first take care of your own safety. If you can let your animals shelter without risk, do so (Crisis Center). In Sweden, during an air raid alert you may take your pet to cellars, garages and metro stations.
 - **Warn the people around you** that they need to shelter. If the network works, preferably use WhatsApp, Signal or social media, so that the telephone network does not become overloaded (Crisis Center).
 
 Source: [National Crisis Center: Sheltering](https://crisiscenter.be/en/what-can-you-do/right-reflex/seeking-shelter) · [Dovidka.info: What is a shelter](https://dovidka.info/en/what-is-shelter/) · [MCF: In case of crisis or war](https://rib.msb.se/filer/pdf/31523.pdf)

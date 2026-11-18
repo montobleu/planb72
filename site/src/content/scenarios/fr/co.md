@@ -47,7 +47,7 @@ Le monoxyde de carbone (CO) est un gaz sans couleur, sans odeur et sans goût. V
 
 En Belgique, le CO est la principale cause d'intoxication mortelle. Chaque année, quelques dizaines de personnes meurent et environ 1 000 personnes sont hospitalisées. La plupart des accidents se produisent pendant la saison de chauffe, d'octobre à avril. Près de la moitié des victimes ont moins de 30 ans. Il en faut peu : 0,1 pour cent de CO dans l'air est mortel en 1 à 3 heures, 1 pour cent déjà en 15 minutes.
 
-**Intoxication rapide (aiguë).** D'abord, vous avez mal à la tête et des vertiges. Vous vous sentez très fatigué et vous pouvez avoir des nausées et vomir. Celui qui ne se rend pas compte qu'il doit quitter la pièce perd connaissance et ne peut alors plus se sauver lui-même. En cas de concentrations élevées, un coma profond et le décès suivent rapidement. Chez les enfants, le mal de ventre est un symptôme fréquent.
+**Intoxication rapide (aiguë).** D'abord, vous avez mal à la tête et des vertiges. Vous vous sentez très fatigué et vous pouvez avoir des nausées et vomir. Celui qui ne se rend pas compte qu'il doit quitter la pièce perd connaissance et ne peut alors plus se sauver lui-même. En cas de concentrations élevées, un coma profond et le décès suivent rapidement.
 
 **Intoxication lente (chronique).** Celui qui inhale longtemps de petites quantités a des symptômes vagues : maux de tête, estomac lourd, faiblesse musculaire, difficultés de concentration et humeur changeante. Un médecin ne reconnaît pas cela facilement.
 
@@ -121,12 +121,7 @@ Source : [Centre Antipoisons : brochure CO](https://www.centreantipoisons.be/app
 
 Si vous ne pouvez pas ouvrir les fenêtres sans risque pour vous-même, sortez immédiatement.
 
-**Si l'appel ne passe pas**
-
-- Demandez à des voisins ou à des passants d'appeler, ou essayez un autre appareil. Déplacez-vous de quelques mètres et réessayez.
-- Si vous pouvez encore appeler mais que le 112 est injoignable, essayez le 101.
-- Si l'appel ne fonctionne pas du tout : demandez de l'aide dans votre voisinage. Désignez directement une personne pour aller chercher de l'aide et indiquez-lui où c'est, ce qui s'est passé, combien il y a de victimes et dans quel état elles sont. Ne laissez une victime seule que s'il n'y a pas d'autre possibilité.
-- Voir aussi Numéros d'urgence dans l'app, Si l'appel ne passe pas.
+Si l'appel ne passe pas, demandez à quelqu'un d'autre d'appeler ou envoyez quelqu'un chercher de l'aide dans votre voisinage. Ne laissez une victime seule que si vous n'avez pas le choix. Voir Numéros d'urgence dans l'app, Si l'appel ne passe pas.
 
 **Une personne est inconsciente.**
 
@@ -135,7 +130,7 @@ Si vous ne pouvez pas ouvrir les fenêtres sans risque pour vous-même, sortez i
 - Si la victime ne respire pas, commencez la respiration artificielle. Le bouche-à-bouche est sans danger : vous ne courez aucun risque d'intoxication au CO.
 - Si la victime respire, couchez-la sur le côté, sans oreiller. Ainsi, elle ne s'étouffe pas avec ses vomissements.
 
-**Une personne est consciente et répond à vos questions.** Emmenez-la à l'air frais et faites-la examiner par un médecin. Si le réseau fonctionne, appelez le médecin généraliste. Si vous avez des questions, appelez, si le réseau fonctionne, le Centre Antipoisons au 070 245 245. Un médecin répond, 24 heures par jour, 7 jours par semaine. L'appel est gratuit.
+**Une personne est consciente et répond à vos questions.** Emmenez-la à l'air frais et faites-la examiner par un médecin. Si le réseau fonctionne, appelez le médecin généraliste, et en cas de question le Centre Antipoisons au 070 245 245. Un médecin répond, 24 heures par jour, 7 jours par semaine. L'appel est gratuit.
 
 ### À l'extérieur ou en déplacement
 
@@ -181,7 +176,6 @@ Source : [Centre Antipoisons : brochure CO](https://www.centreantipoisons.be/app
 - N'utilisez plus l'appareil tant qu'un professionnel agréé ne l'a pas contrôlé. Appelez aussi un professionnel en cas de flamme orange, de suie, de rouille ou de corrosion.
 - Faites aussi contrôler la cheminée et le raccordement. L'ensemble formé par l'appareil et la cheminée doit être étanche.
 - Faites-vous examiner par un médecin. Une personne consciente appelle le médecin généraliste si le réseau fonctionne. Après une intoxication grave, des lésions cérébrales apparaissent parfois plus tard. Une valeur sanguine normale n'exclut pas une intoxication, parce que le CO disparaît du sang après un certain temps.
-- Si vous êtes locataire, signalez immédiatement les réparations nécessaires au propriétaire.
 - S'il n'y avait pas encore de détecteur, installez-en un selon les règles ci-dessus.
 
 Source : [Centre Antipoisons : brochure CO](https://www.centreantipoisons.be/app/uploads/2026/06/Prevenir-lintoxication-au-monoxyde-de-carbone.pdf) · [Centre Antipoisons : le CO en détail](https://www.centreantipoisons.be/tox-infos/le-monoxyde-de-carbone-en-detail/)

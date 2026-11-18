@@ -59,7 +59,7 @@ Er is geen vaste volgorde die altijd geldt. De Amerikaanse overlevingshandboeken
 - Je kunt meerdere weken zonder voedsel, maar je wordt zonder eten snel zwakker, lichamelijk en mentaal.
 - Laat altijd een tochtplan achter bij iemand die thuisblijft.
 
-**Hulp halen.** Buiten kan hulp uren of dagen op zich laten wachten, afhankelijk van de plek, het weer en de middelen. Reken er niet op dat je bereik hebt.
+**Hulp halen.** Buiten kan hulp uren of dagen op zich laten wachten. Reken er niet op dat je bereik hebt.
 
 1. Heb je bereik: bel 112. Zie de gids over de noodoproep.
 2. Geen bereik, wel iemand in de buurt: spreek mensen aan die je tegenkomt en vraag hen naar een plek met bereik te gaan en daar 112 te bellen.
@@ -82,7 +82,7 @@ Onderkoeling (hypothermie) ontstaat als je lichaam meer warmte verliest dan het 
 - Moeite met bewegen en spreken.
 - Verwardheid, sufheid, geheugenverlies, vreemd gedrag, vermoeidheid.
 
-**Bel 112 als** de persoon niet meer rilt, de spieren verstijven, of er bewustzijnsstoornissen zijn. Lukt bellen niet: laat twee of meer mensen hulp halen en blijf zelf bij de persoon (zie Wat eerst komt, Hulp halen).
+**Bel 112 als** de persoon niet meer rilt, de spieren verstijven, of er bewustzijnsstoornissen zijn. Lukt bellen niet, zie Wat eerst komt, Hulp halen.
 
 **Wat je doet**
 
@@ -273,7 +273,7 @@ Bron: [CDC Yellow Book: Water disinfection for travelers](https://www.cdc.gov/ye
 2. Neem contact op met het Antigifcentrum (070 245 245, als het netwerk werkt) of de huisarts.
 3. Hou de plant bij: neem een volledige tak mee met bladeren en bloemen of vruchten, of maak foto's.
 4. Bij paddenstoelen: bewaar de restjes (rauw, gekookt, geschild). Het Antigifcentrum vraagt welke paddenstoelen, waar geplukt, hoe bewaard en bereid, hoeveel tijd tussen eten en klachten, en of iedereen die meegegeten heeft ziek is.
-5. Bij ernstige klachten: bel 112. Lukt bellen niet, laat dan hulp halen (zie Wat eerst komt, Hulp halen).
+5. Bij ernstige klachten: bel 112. Lukt bellen niet, zie Wat eerst komt, Hulp halen.
 
 Bron: [US Army FM 21-76](https://archive.org/details/fm-21-76-survival-manual) · [Antigifcentrum: Tips voor plukkers van paddenstoelen](https://www.antigifcentrum.be/Toxinfos/tips-voor-paddenstoelenplukkers/) · [Antigifcentrum: Vergiftiging door planten](https://www.antigifcentrum.be/Toxinfos/vergiftiging-door-planten/) · [Antigifcentrum: Bessen](https://www.antigifcentrum.be/Toxinfos/bessen/) · [Vlaanderen.be: Wat mag u als bezoeker doen in de Vlaamse natuur?](https://www.vlaanderen.be/natuur-milieu-en-klimaat/wat-mag-u-als-bezoeker-doen-in-de-vlaamse-natuur)
 
@@ -296,7 +296,7 @@ Ook in België kan het buiten levensgevaarlijk warm worden. Een hitteslag is lev
 
 **Herkennen:** hoofdpijn, zwarte vlekken zien, duizelig zijn of flauwvallen, misselijkheid en braken, spier- of buikkrampen, rode huid, eerst fel zweten en dan niet meer, stuipen, verwardheid of sufheid.
 
-**Bel 112 bij** bewustzijnsstoornissen, abnormaal gedrag, stuipen, als de persoon niet meer zweet of niet kan drinken zonder te braken, of bij een lichaamstemperatuur boven 39 °C. Lukt bellen niet: laat twee of meer mensen hulp halen en begin intussen met afkoelen (zie Wat eerst komt, Hulp halen).
+**Bel 112 bij** bewustzijnsstoornissen, abnormaal gedrag, stuipen, als de persoon niet meer zweet of niet kan drinken zonder te braken, of bij een lichaamstemperatuur boven 39 °C. Lukt bellen niet: laat hulp halen en begin intussen met afkoelen (zie Wat eerst komt, Hulp halen).
 
 **Wat je doet:** laat de persoon rusten op een koele plek en koel hem meteen af: een ventilator, natte koude doeken of koelzakjes in de lies, oksels en nek, besproeien met koud water, handen en voeten in koud water. Is de hitteslag het gevolg van een inspanning en is de persoon goed bij bewustzijn, geef dan iets koels te drinken. Geef geen koortswerend middel.
 

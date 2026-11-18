@@ -83,7 +83,7 @@ Quelle: [Nationales Krisenzentrum: Brand oder Explosion](https://krisenzentrum.b
   - Fluvius (Flandern): 0800 65 0 65, kostenlos, Tag und Nacht. Anrufe an diese Nummer haben Vorrang.
   - ORES (größter Teil der Wallonie): 0800 87 087, kostenlos, Tag und Nacht.
   - Wohnen Sie in Brüssel (Sibelga) oder in einem Teil der Provinz Lüttich (RESA), suchen Sie im Voraus die Gasgeruch-Nummer auf der Website Ihres Netzbetreibers und notieren Sie sie.
-- Gehörlos oder schwerhörig: Fluvius hat ein Kontaktformular, um Gasgeruch zu melden, für alle, die nicht telefonieren können. Es funktioniert nur, wenn das Internet funktioniert. Vereinbaren Sie deshalb auch mit Mitbewohnern oder Nachbarn, dass sie für Sie anrufen.
+- Gehörlos oder schwerhörig: Fluvius hat ein Kontaktformular, um Gasgeruch zu melden, für alle, die nicht telefonieren können, aber nur über das Internet. Vereinbaren Sie deshalb auch mit Mitbewohnern oder Nachbarn, dass sie für Sie anrufen.
 
 **Wartung**
 
@@ -118,11 +118,7 @@ Quelle: [Fluvius: Gasgeruch](https://www.fluvius.be/nl/gasgeur) · [ORES](https:
 
 Das Einsatzteam rückt sofort nach Ihrem Anruf aus, misst vor Ort die Gaskonzentration und sucht das Leck.
 
-**Kommt kein Anruf zustande**
-
-- Lassen Sie Nachbarn oder Umstehende anrufen oder versuchen Sie es mit einem anderen Gerät. Gehen Sie einige Meter weiter und versuchen Sie es erneut, immer an einer Stelle, an der Sie kein Gas riechen.
-- Bei Brand, einer Explosion oder Verletzten: Ist die 112 nicht erreichbar, können Sie aber noch telefonieren, versuchen Sie die 101.
-- Funktioniert gar kein Anruf: Bitten Sie in Ihrer Nachbarschaft um Hilfe. Siehe Notrufnummern in der App, Wenn kein Anruf möglich ist.
+Kommt kein Anruf zustande, lassen Sie jemand anderen anrufen oder bitten Sie in Ihrer Nachbarschaft um Hilfe, immer an einer Stelle, an der Sie kein Gas riechen. Siehe Notrufnummern in der App, Wenn kein Anruf möglich ist.
 
 **Gasbrand oder Explosion**
 
@@ -141,7 +137,7 @@ Das Einsatzteam rückt sofort nach Ihrem Anruf aus, misst vor Ort die Gaskonzent
 2. Öffnen Sie Fenster und Türen.
 3. Schalten Sie das Gasgerät aus, wenn das sicher möglich ist.
 4. Verlassen Sie den Raum und bringen Sie die betroffene Person nach draußen.
-5. Rufen Sie die 112 an oder lassen Sie jemanden anrufen. Sagen Sie, dass es sich möglicherweise um CO handelt und ob jemand bewusstlos ist. Kommt kein Anruf zustande, siehe oben und die Karte CO-Alarm.
+5. Rufen Sie die 112 an oder lassen Sie jemanden anrufen. Sagen Sie, dass es sich möglicherweise um CO handelt und ob jemand bewusstlos ist. Kommt kein Anruf zustande, siehe oben.
 6. Beginnen Sie mit der Wiederbelebung, wenn die Person nicht atmet. Bringen Sie jemanden, der bewusstlos ist, aber atmet, in die stabile Seitenlage.
 7. Für Fragen ohne unmittelbare Gefahr, wenn das Netz funktioniert: Antigiftzentrum 070 245 245 oder ein zugelassener Installateur.
 
@@ -158,7 +154,7 @@ Quelle: [Fluvius: Gasgeruch](https://www.fluvius.be/nl/gasgeur) · [ORES](https:
 **Ein größeres Gasleck in Ihrer Umgebung**
 
 - Warten Sie auf die Anweisungen der Behörden oder der Rettungsdienste. Manchmal ist drinnen bleiben sicherer als aufbrechen.
-- Diese Anweisungen kommen unter anderem über das Radio und über Lautsprecherwagen der Polizei, die durch die Straße fahren. Funktioniert das Netz, auch über BE-Alert und die Websites der Behörden.
+- Diese kommen über das Radio und Lautsprecherwagen der Polizei und, wenn das Netz funktioniert, auch über BE-Alert und Websites der Behörden.
 - Müssen Sie evakuieren, nehmen Sie Ihren Personalausweis, Geld, Wasser, Handy und Ladegerät, Schlüssel, Ihre Liste mit Telefonnummern, notwendige Medikamente und Hygieneartikel mit. Besteht unmittelbare Gefahr und haben Sie keine Notfalltasche bereit, brechen Sie sofort auf, ohne etwas mitzunehmen.
 - Helfen Sie Nachbarn, die weniger mobil sind.
 - Kehren Sie erst zurück, wenn die Behörden sagen, dass es sicher ist.
@@ -203,7 +199,6 @@ Quelle: [Nationales Krisenzentrum: evakuieren](https://krisenzentrum.be/de/was-k
 
 ## Danach
 
-- Bleiben Sie in sicherem Abstand, solange das Leck nicht abgedichtet ist.
 - Lassen Sie Ihre Gasgeräte und den Schornstein regelmäßig von einem zugelassenen Fachmann prüfen. Für Fragen ohne dringende Gefahr können Sie sich an einen zertifizierten Installateur wenden.
 - Nach einer CO-Vergiftung können nach einiger Zeit noch Beschwerden des Nervensystems auftreten, etwa Reizbarkeit, Gedächtnisprobleme oder ungewöhnliche Bewegungen. Diese verschwinden oft, aber nicht immer.
 

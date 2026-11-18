@@ -66,10 +66,6 @@ bronnen:
     url: https://112.be/fr/questions-frequentes
   - naam: "SPF Économie : questions des ménages sur la pénurie d'électricité"
     url: https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door
-  - naam: "BBK: Vorsorgen für Krisen und Katastrophen"
-    url: https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/Buergerinformationen/Ratgeber/BBK-Vorsorgen-fuer-Krisen-und-Katastrophen.pdf?__blob=publicationFile&v=44
-  - naam: "Inspections (Pays-Bas) : indisponibilité du 112 le 24 juin 2019"
-    url: https://zoek.officielebekendmakingen.nl/blg-942150.pdf
 vertaling: machine
 origineel_datum: "2026-11-18"
 ---
@@ -86,10 +82,10 @@ origineel_datum: "2026-11-18"
 
 - L'IRM donne des codes couleur pour la pluie. Code jaune par exemple pour 25 à 50 litres par m² en 24 heures, code orange pour 51 à 100 litres, code rouge pour plus de 100 litres par m² en 24 heures ou en cas d'inondations importantes avec encore de fortes pluies attendues. Le code orange peut être émis jusqu'à 24 heures à l'avance, le code rouge au plus tôt 12 heures à l'avance.
 - Pour les marées de tempête, l'IRM donne un code sur la base du niveau de l'eau à Ostende et à Anvers.
-- En cas de danger, les autorités vous préviennent via la radio, la télévision et les véhicules de la police équipés de haut-parleurs qui circulent dans la rue. Si le réseau fonctionne, aussi via BE-Alert, les sites web et les réseaux sociaux. En cas de panne de courant, écoutez une radio à piles ou l'autoradio.
+- En cas de danger, les autorités vous préviennent via la radio, la télévision et les véhicules de la police équipés de haut-parleurs, et si le réseau fonctionne aussi via BE-Alert, les sites web et les réseaux sociaux.
 - Si Internet fonctionne, Waterinfo.be (Flandre) affiche les niveaux d'eau, le radar des précipitations et les messages sur les inondations. En Wallonie, hydrometrie.wallonie.be affiche les niveaux d'eau et les débits des rivières.
 
-Source : [Centre de crise National : inondation pluviale](https://centredecrise.be/fr/risques-en-belgique/risques-naturels/inondation-pluviale-eaux-de-ruissellement) · [Centre de crise National : inondation fluviale](https://centredecrise.be/fr/risques-en-belgique/risques-naturels/inondation-fluviale-ou-de-riviere) · [IRM : explication des avertissements](https://www.meteo.be/fr/meteo/avertissements/explications-avertissements) · [Waterinfo Vlaanderen](https://www.waterinfo.vlaanderen.be/) · [SPW : hydrométrie](https://hydrometrie.wallonie.be/home.html) · [Centre de crise National : information pendant une situation d'urgence](https://centredecrise.be/fr/que-pouvez-vous-faire/informez-vous/linformation-pendant-une-situation-durgence) · [SPF Économie : questions des ménages sur la pénurie d'électricité](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door)
+Source : [Centre de crise National : inondation pluviale](https://centredecrise.be/fr/risques-en-belgique/risques-naturels/inondation-pluviale-eaux-de-ruissellement) · [Centre de crise National : inondation fluviale](https://centredecrise.be/fr/risques-en-belgique/risques-naturels/inondation-fluviale-ou-de-riviere) · [IRM : explication des avertissements](https://www.meteo.be/fr/meteo/avertissements/explications-avertissements) · [Waterinfo Vlaanderen](https://www.waterinfo.vlaanderen.be/) · [SPW : hydrométrie](https://hydrometrie.wallonie.be/home.html) · [Centre de crise National : information pendant une situation d'urgence](https://centredecrise.be/fr/que-pouvez-vous-faire/informez-vous/linformation-pendant-une-situation-durgence)
 
 ## Se préparer
 
@@ -98,8 +94,7 @@ Source : [Centre de crise National : inondation pluviale](https://centredecrise.
 - Vérifiez avec la watertoets sur waterinfo.be si votre logement se trouve dans une zone sensible aux inondations.
 - Sachez où couper le gaz, l'électricité et l'eau.
 - Repérez l'étage ou le grenier qui reste au sec le plus longtemps. Regardez aussi quelle issue de secours vous avez si la porte d'entrée est bloquée, par exemple une fenêtre de toit ou une échelle.
-- Convenez de chez qui vous pouvez aller si vous devez quitter votre maison. Prenez des accords avec vos voisins sur qui aide qui, et sur la manière de vous joindre si le téléphone ou Internet ne fonctionne pas.
-- Convenez avec votre famille de l'endroit où vous retrouver si vous ne pouvez pas vous joindre.
+- Convenez de chez qui vous pouvez aller si vous devez quitter votre maison. Prenez des accords avec vos voisins sur qui aide qui et sur la manière de vous joindre sans téléphone ni Internet. Convenez avec votre famille de l'endroit où vous retrouver.
 
 **Protégez votre logement contre l'eau venant de l'extérieur**
 
@@ -140,16 +135,9 @@ Source : [Centre de crise National : inondation fluviale](https://centredecrise.
 
 **D'abord : y a-t-il un danger de mort ?**
 
-- Une personne est en danger de mort : appelez le 112 ou faites appeler quelqu'un. Si l'appel ne passe pas, voir ci-dessous.
+- Une personne est en danger de mort : appelez le 112 ou faites appeler quelqu'un. Si l'appel ne passe pas, demandez de l'aide dans votre voisinage et suivez les informations des autorités à la radio. Voir Numéros d'urgence dans l'app, Si l'appel ne passe pas.
 - Vous avez besoin de l'aide des pompiers sans danger de mort, par exemple de l'eau dans la cave ou dans la rue : si le réseau fonctionne, introduisez une demande via 1722.be ou le formulaire de votre zone de secours, ou appelez le 1722 si ce numéro est activé. Gardez le 112 libre.
 - Des dégâts mais pas besoin de l'aide des pompiers : faites appel à un professionnel ou réparez vous-même.
-
-**Si l'appel ne passe pas**
-
-- Essayez un autre appareil ou faites appeler des voisins ou des passants. Un autre opérateur peut aider. Déplacez-vous de quelques mètres et réessayez.
-- Si vous pouvez encore téléphoner mais que le 112 est injoignable, essayez le 101. En cas de panne des centrales d'urgence, des numéros temporaires par province peuvent être activés (voir le guide Appel d'urgence).
-- Si le téléphone ne fonctionne plus du tout : demandez de l'aide dans votre voisinage et suivez les informations des autorités à la radio. La commune peut ouvrir un point d'information et d'accueil ; demandez à l'avance à votre commune où il se trouve.
-- En Allemagne, les autorités conseillent alors de se rendre, si possible, au commissariat de police ou à l'hôpital le plus proche. Aux Pays-Bas, lors de la panne nationale du 112 en 2019, les autorités ont envoyé les citoyens à la caserne de pompiers ou au commissariat de police le plus proche, et à l'hôpital en cas d'urgence médicale. La carte de l'application les affiche, avec le bouton Le plus proche.
 
 **Garder l'eau dehors**
 
@@ -178,7 +166,7 @@ Source : [Centre de crise National : inondation fluviale](https://centredecrise.
 
 **Évacuer**
 
-- Suivez les conseils des services de secours. En cas d'inondation dans votre quartier, attendez leurs consignes. Parfois, rester à l'intérieur est plus sûr. Écoutez la radio et soyez attentif aux véhicules de la police équipés de haut-parleurs.
+- Suivez les conseils des services de secours et attendez leurs consignes via la radio ou les véhicules de la police équipés de haut-parleurs. Parfois, rester à l'intérieur est plus sûr.
 - Aidez à prévenir les autres qu'ils doivent évacuer.
 - Emportez votre carte d'identité, de l'argent, de l'eau, votre GSM et son chargeur, vos clés, une liste de numéros de téléphone, vos médicaments indispensables, des produits d'hygiène, des vêtements de rechange et des bottes.
 - Coupez le gaz, l'eau et l'électricité. Fermez les fenêtres et les portes. La police surveille les habitations.
@@ -186,7 +174,7 @@ Source : [Centre de crise National : inondation fluviale](https://centredecrise.
 - Faites savoir à votre famille et à une personne de contact en dehors de la zone où vous êtes. Si le réseau fonctionne, envoyez plutôt un SMS ou un message que de téléphoner.
 - Ne rentrez chez vous que lorsque les autorités disent que c'est sûr.
 
-Source : [Centre de crise National : inondation fluviale](https://centredecrise.be/fr/risques-en-belgique/risques-naturels/inondation-fluviale-ou-de-riviere) · [1722](https://www.1722.be/fr/index.html) · [VMM : conseils en cas d'inondation](https://vmm.vlaanderen.be/tips/water/overstromingen) · [BBK: brochure Stromausfall](https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/Buergerinformationen/stromausfall-vorsorge-selbsthilfe.pdf?__blob=publicationFile&v=13) · [Ready.gov: floods](https://www.ready.gov/floods) · [Centre de crise National : évacuer](https://centredecrise.be/fr/que-pouvez-vous-faire/le-bon-reflexe/evacuer) · [Centre de crise National : information pendant une situation d'urgence](https://centredecrise.be/fr/que-pouvez-vous-faire/informez-vous/linformation-pendant-une-situation-durgence) · [112.be : questions fréquentes](https://112.be/fr/questions-frequentes) · [SPF Économie : questions des ménages sur la pénurie d'électricité](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door) · [BBK: Vorsorgen für Krisen und Katastrophen](https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/Buergerinformationen/Ratgeber/BBK-Vorsorgen-fuer-Krisen-und-Katastrophen.pdf?__blob=publicationFile&v=44) · [Inspections : indisponibilité du 112 le 24 juin 2019](https://zoek.officielebekendmakingen.nl/blg-942150.pdf)
+Source : [Centre de crise National : inondation fluviale](https://centredecrise.be/fr/risques-en-belgique/risques-naturels/inondation-fluviale-ou-de-riviere) · [1722](https://www.1722.be/fr/index.html) · [VMM : conseils en cas d'inondation](https://vmm.vlaanderen.be/tips/water/overstromingen) · [BBK: brochure Stromausfall](https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/Buergerinformationen/stromausfall-vorsorge-selbsthilfe.pdf?__blob=publicationFile&v=13) · [Ready.gov: floods](https://www.ready.gov/floods) · [Centre de crise National : évacuer](https://centredecrise.be/fr/que-pouvez-vous-faire/le-bon-reflexe/evacuer) · [Centre de crise National : information pendant une situation d'urgence](https://centredecrise.be/fr/que-pouvez-vous-faire/informez-vous/linformation-pendant-une-situation-durgence) · [112.be : questions fréquentes](https://112.be/fr/questions-frequentes) · [SPF Économie : questions des ménages sur la pénurie d'électricité](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door)
 
 ### À l'extérieur ou en déplacement
 

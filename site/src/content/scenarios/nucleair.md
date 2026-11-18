@@ -57,9 +57,9 @@ bronnen:
 
 ## Herkennen
 
-**Hoe je gewaarschuwd wordt.** De overheid verwittigt je via radio en tv en via omroepwagens van de politie die in de straat rondrijden. Werkt het netwerk, dan ook via BE-Alert (sms, e-mail of telefoonoproep), sociale media, de officiële websites en een informatienummer. Wie geen vaste telefoon of gsm heeft, krijgt de informatie via de andere kanalen. Bij een groot noodgeval stuurt de overheid een Alert-SMS naar iedereen die met een gsm in de getroffen zone is. Daarvoor hoef je niet ingeschreven te zijn.
+**Hoe je gewaarschuwd wordt.** De overheid verwittigt je via radio en tv en via omroepwagens van de politie. Werkt het netwerk, dan ook via BE-Alert (sms, e-mail of telefoonoproep), sociale media, de officiële websites en een informatienummer. Wie geen vaste telefoon of gsm heeft, krijgt de informatie via de andere kanalen. Bij een groot noodgeval stuurt de overheid een Alert-SMS naar iedereen die met een gsm in de getroffen zone is. Daarvoor hoef je niet ingeschreven te zijn.
 
-Bij een stroomonderbreking kunnen internet en mobiele netwerken uitvallen. Met een radio op batterijen of een opwindbare radio blijf je dan toch op de hoogte.
+Valt de stroom uit, dan blijf je met een radio op batterijen of een opwindbare radio op de hoogte.
 
 **Wat er kan gebeuren.** Bij een nucleair noodgeval kunnen radioactieve stoffen vrijkomen, waaronder radioactief jodium. Een noodgeval kan beginnen met een dreigingsfase, nog voor er iets vrijkomt. Er komt ook niet altijd jodium vrij.
 
@@ -106,8 +106,8 @@ Bron: [Nationaal Crisiscentrum: kerncentrale](https://crisiscentrum.be/nl/risico
 5. Dicht de onderkant van deuren af met vochtige doeken. Zorg dat er toch nog wat lucht circuleert, zodat je niet onwel wordt.
 6. Ga naar een centrale kamer op het gelijkvloers, weg van ramen.
 7. Haal huisdieren binnen.
-8. Volg de instructies van de overheid via de radio, of de tv als er stroom is. Valt de stroom uit, gebruik dan een radio op batterijen of met een slinger. Let ook op omroepwagens van de politie. Werkt het netwerk, volg dan ook BE-Alert, de websites en sociale media van de overheid.
-9. Bel niet om informatie te vragen. Bel alleen bij een medisch noodgeval (112). Overbodige oproepen overbelasten het net en hinderen de hulpdiensten. Lukt bellen niet, zie Noodnummers, Als bellen niet lukt. Werkt het netwerk, verwittig anderen dan met sms, WhatsApp of Signal.
+8. Volg de instructies van de overheid via de radio of tv en let op omroepwagens van de politie. Werkt het netwerk, volg dan ook BE-Alert en de officiële websites.
+9. Bel niet om informatie te vragen. Bel alleen bij een medisch noodgeval (112). Overbodige oproepen overbelasten het net. Lukt bellen niet, zie Noodnummers, Als bellen niet lukt. Werkt het netwerk, verwittig anderen dan met sms, WhatsApp of Signal.
 
 **Heb je een kelder?** De Belgische bronnen spreken over een centrale kamer op het gelijkvloers. Het Amerikaanse Ready.gov noemt een kelder of het midden van een groot gebouw als de best beschermde plek, met zoveel mogelijk muren tussen jou en buiten. Ook gebouwen in baksteen of beton en ondergrondse parkings bieden goede bescherming.
 
@@ -152,7 +152,6 @@ Bron: [Nationaal Crisiscentrum: kerncentrale](https://crisiscentrum.be/nl/risico
 ### Kwetsbare personen
 
 - Zwangere vrouwen en vrouwen die borstvoeding geven, horen bij de groep voor wie jodiumtabletten worden aangeraden. Neem ze alleen in als de overheid het zegt.
-- Wie ouder is dan 40, neemt in principe geen jodium, tenzij de overheid het uitdrukkelijk aanraadt. Vraag je arts vooraf om advies.
 - Ben je ziek of gewond, volg dan de instructies over waar je medische zorg krijgt. Bel 112 bij een medisch noodgeval. Lukt dat niet, laat een huisgenoot of buur bellen of hulp vragen (zie Noodnummers, Als bellen niet lukt).
 
 ### Huisdieren en dieren
@@ -168,8 +167,7 @@ Bron: [Nationaal Crisiscentrum: kerncentrale](https://crisiscentrum.be/nl/risico
 - Neem jodiumtabletten nooit op eigen initiatief. Neem ze alleen als de overheid het uitdrukkelijk zegt.
 - De overheid bepaalt wanneer. Het advies kan gelden voor bepaalde zones of groepen.
 - Stabiel jodium helpt alleen als er radioactief jodium vrijkomt. Het verzadigt de schildklier, zodat die geen radioactief jodium meer opneemt.
-- Jodium beschermt niet tegen andere radioactieve stoffen. Schuilen blijft nodig.
-- Schuilen gaat voor op jodium, zeker als je geen tabletten in huis hebt.
+- Jodium beschermt niet tegen andere radioactieve stoffen. Schuilen blijft nodig en gaat voor, zeker als je geen tabletten in huis hebt.
 - De hoeveelheid hangt af van je leeftijd. Volg de bijsluiter.
 - Eén inname is vaak genoeg. De bescherming duurt minstens 24 uur.
 
@@ -214,7 +212,7 @@ Bron: [Nationaal Crisiscentrum: kerncentrale](https://crisiscentrum.be/nl/risico
 
 ## Meer informatie
 
-Lees deze pagina's vooraf. Bij een stroomonderbreking kunnen internet en mobiele netwerken uitvallen.
+Vooraf te lezen, of als het internet werkt:
 
 - Zones, jodium en aanbevelingen: [nucleairrisico.be](https://www.nucleairrisico.be/nl/wat-kan-jij-doen)
 - Risico en maatregelen: [Nationaal Crisiscentrum: incident in een kerncentrale](https://crisiscentrum.be/nl/risicos-belgie/economische-en-technologische-risicos/incident-een-kerncentrale)

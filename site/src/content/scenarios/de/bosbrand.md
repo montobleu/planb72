@@ -54,7 +54,7 @@ Ein Wald- und Flächenbrand ist ein Brand in Wald, Heide, Dünen, Grasland oder 
 
 **Brandgefahr in der Wallonie.** Bei Trockenheit können der Bürgermeister oder der Gouverneur ein örtliches Verbot erlassen. An gefährdeten Orten stehen Informationstafeln. Das Verbot steht auch auf der Website der Gemeinde.
 
-**Informationen.** Folgen Sie bei einem Brand in der Nähe den offiziellen Kanälen von Gemeinde und Behörden: Radio, Fernsehen und Lautsprecherwagen der Polizei, die durch die Straßen fahren. Funktioniert das Netz, dann auch BE-Alert und den Websites und sozialen Medien der Behörden. Verlassen Sie sich nicht auf Gerüchte oder Nachrichten unbekannter Konten in sozialen Medien.
+**Informationen.** Folgen Sie bei einem Brand in der Nähe den offiziellen Kanälen von Gemeinde und Behörden: Radio, Fernsehen und Lautsprecherwagen der Polizei und, wenn das Netz funktioniert, auch BE-Alert, Websites und sozialen Medien. Verlassen Sie sich nicht auf Gerüchte oder Nachrichten unbekannter Konten in sozialen Medien.
 
 Quelle: [Nationales Krisenzentrum](https://krisenzentrum.be/de/risiken-belgien/naturrisiken/naturbrand) · [Agentschap Natuur en Bos](https://natuurenbos.be/waarschuwingen) · [Service public de Wallonie](https://environnement.wallonie.be/feux) · [Brandweer Nederland](https://www.brandweer.nl/onderwerpen/natuurbrand/) · [Nationales Krisenzentrum: Informationen während einer Notsituation](https://krisenzentrum.be/de/was-koennen-sie-tun/informieren-sie-sich/information-notsituationen)
 
@@ -104,7 +104,7 @@ Quelle: [Nationales Krisenzentrum](https://krisenzentrum.be/de/risiken-belgien/n
 
 - Rufen Sie die 112 an, wenn Sie einen Brand sehen oder wenn jemand in Gefahr ist. Gelingt das nicht, lassen Sie jemand anderen anrufen oder bitten Sie in Ihrer Nachbarschaft um Hilfe (siehe Notrufnummern, Wenn kein Anruf möglich ist).
 - Schließen Sie Fenster und Türen.
-- Evakuieren Sie nicht auf eigene Initiative. Warten Sie auf die Empfehlungen der Behörden. Hören Sie Radio und achten Sie auf Lautsprecherwagen der Polizei. Funktioniert das Netz, verfolgen Sie auch BE-Alert und die offiziellen Kanäle.
+- Evakuieren Sie nicht auf eigene Initiative. Warten Sie auf die Empfehlungen der Behörden über das Radio und Lautsprecherwagen und, wenn das Netz funktioniert, über BE-Alert.
 - Prüfen Sie, ob Nachbarn, ältere Menschen und Menschen mit einer Behinderung Hilfe brauchen.
 - Müssen Sie aufbrechen: Stellen Sie Strom und Gas ab, nehmen Sie Ihr Notfallpaket und brechen Sie sofort auf.
 - Können Sie nicht weg und gibt es keine Anordnung zum Verlassen: Bleiben Sie mit geschlossenen Fenstern und Türen drinnen. Bei Rauch empfiehlt Ready.gov, in einem Raum zu bleiben, den Sie von der Außenluft abschließen können, und die Lüftung auf Umluft zu stellen oder den Lufteinlass zu schließen.
@@ -120,14 +120,13 @@ Quelle: [Nationales Krisenzentrum](https://krisenzentrum.be/de/risiken-belgien/n
 4. Helfen Sie anderen Menschen an einen sicheren Ort.
 5. Rufen Sie so schnell wie möglich die 112 an oder nutzen Sie die 112-App. Geben Sie Ihren Standort mit Orientierungspunkten an: Wege, Teiche, Aussichtstürme, Parkplätze.
 
-**Kein Empfang oder kommt kein Anruf zustande?** Brechen Sie so schnell wie möglich auf und warnen Sie die Menschen, denen Sie unterwegs begegnen. Siehe auch Notrufnummern in der App, Wenn kein Anruf möglich ist.
+**Kein Empfang oder kommt kein Anruf zustande?** Brechen Sie so schnell wie möglich auf und warnen Sie die Menschen, denen Sie unterwegs begegnen (siehe Notrufnummern, Wenn kein Anruf möglich ist).
 
 Gehen Sie keine Risiken ein und befolgen Sie die Anweisungen von Feuerwehr und Förstern.
 
 ### Im Auto
 
 - Blockieren Sie keine Wege, Waldwege oder Zufahrten. Halten Sie die Straße für Feuerwehr und Krankenwagen frei.
-- Parken Sie nie in hohem Gras.
 - Befolgen Sie die Anweisungen von Polizei und Feuerwehr. Müssen Sie aufbrechen, nehmen Sie die Route, die die Behörden angeben.
 - Ist die Straße voll oder gesperrt, erwägen Sie, zu Fuß oder mit dem Fahrrad aufzubrechen.
 
@@ -164,7 +163,7 @@ Quelle: [Nationales Krisenzentrum](https://krisenzentrum.be/de/risiken-belgien/n
 - Halten Sie sich fern von heißer Asche, verkohlten Bäumen, glimmendem Abfall und glühenden Resten. Hitze im Boden kann Verbrennungen oder einen neuen Brand verursachen.
 - Tragen Sie beim Aufräumen lange Ärmel, eine lange Hose, Arbeitshandschuhe und feste Schuhe mit dicken Sohlen. Tragen Sie eine Atemschutzmaske und machen Sie den Schutt nass, um Staub zu begrenzen.
 - Fotografieren Sie die Schäden und wenden Sie sich an Ihren Versicherer.
-- Telefonieren Sie nur im Notfall. Funktioniert das Netz, schicken Sie Nachrichten, statt zu telefonieren, damit das Netz für Notrufe frei bleibt.
+- Telefonieren Sie nur im Notfall. Funktioniert das Netz, schicken Sie lieber Nachrichten, damit das Netz frei bleibt.
 
 Quelle: [Nationales Krisenzentrum](https://krisenzentrum.be/de/risiken-belgien/naturrisiken/naturbrand) · [Ready.gov](https://www.ready.gov/wildfires)
 

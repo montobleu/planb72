@@ -86,13 +86,7 @@ origineel_datum: "2026-11-18"
 
 Poison Centre: **070 245 245**, free, 24 hours out of 24, if the network works. Write the number down in advance on a paper list of important numbers. If life is in danger: **112**.
 
-**If you cannot get through**
-
-- Try another phone or let bystanders call. Move a few metres and try again.
-- In nature you do not always have signal. Speak to people you meet and ask them to go to a place with signal and call 112 from there.
-- Only leave the casualty alone if there is no other option. If you are in a group, send two or more people to raise the alarm; the others stay with the casualty. Tell them where it is, what happened, how many casualties there are and what state they are in.
-- If you are alone with the casualty, first help them as well as you can, then go and get help.
-- See also Emergency numbers in the app, If you cannot call, and the guide on signals and emergency codes.
+**If you cannot get through.** Try another phone or let bystanders call. In nature you do not always have signal: ask people you meet to go to a place with signal and call 112. In a group, send two or more people to raise the alarm while the others stay with the casualty; if you are alone, help first and then go and get help. See Emergency numbers in the app, If you cannot call, and the guide on signals and emergency codes.
 
 Source: [National Park Service: Outdoor Emergency Plan](https://www.nps.gov/subjects/healthandsafety/upload/NPS-Outdoor-Emergency-Plan-508c.pdf) · [National Crisis Center: Wildfire](https://crisiscenter.be/en/risks-belgium/natural-risks/wildfires) · [ERC Guidelines 2021: First aid](https://cprguidelines-old.erc.edu/assets/guidelines/European-Resuscitation-Council-Guidelines-2021-Fi.pdf) · [112.be: Frequently asked questions](https://112.be/en/frequently-asked-questions) · [National Crisis Center: brochure Prepared together](https://crisiscenter.be/sites/default/files/documents/files/WEB-Brochure%20Prepared%20Together-EN.pdf) · [Poison Centre: Tick bites](https://www.antigifcentrum.be/Toxinfos/tekenbeten/) · [Poison Centre: Adder bites](https://www.antigifcentrum.be/Toxinfos/adderbeten/) · [Poison Centre: Stings from wasps, bees and hornets](https://www.antigifcentrum.be/Toxinfos/steken-van-wespen-bijen-en-hoornaars/) · [Rode Kruis-Vlaanderen: oak processionary caterpillars](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-irritatie-door-eikenprocessierupsen) · [Poison Centre: Poisoning by plants](https://www.antigifcentrum.be/Toxinfos/vergiftiging-door-planten/) · [RMI: How do I protect myself against lightning?](https://www.meteo.be/nl/switch-language/634?nis=21004)
 

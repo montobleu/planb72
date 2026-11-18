@@ -108,8 +108,8 @@ Welchen Raum die Quellen empfehlen, sagen sie nicht. Wählen Sie einen Raum, den
 
 **5. An einen warmen Ort gehen**
 
-- Gehen Sie an einen Ort in der Gemeinde mit Strom, wenn Hitze oder Kälte extrem sind (Ready.gov). Ready.gov empfiehlt, bei den lokalen Behörden nachzufragen, welche warmen oder kühlen Orte geöffnet sind.
-- In Belgien haben Bürgermeister und Gouverneure für eine Abschaltung Notmaßnahmen vorbereitet, etwa eine Informations- und Anlaufstelle für die Bevölkerung. Fragen Sie Ihre Gemeinde im Voraus, welche Lösungen sie vorsieht. Während des Ausfalls verfolgen Sie die Informationen der Behörden über ein batteriebetriebenes Radio oder das Autoradio, oder Sie bitten in Ihrer Nachbarschaft um Hilfe (FÖD Wirtschaft).
+- Gehen Sie an einen Ort in der Gemeinde mit Strom, wenn Hitze oder Kälte extrem sind, und erkundigen Sie sich, welche warmen oder kühlen Orte geöffnet sind (Ready.gov).
+- In Belgien haben Bürgermeister und Gouverneure für eine Abschaltung Notmaßnahmen vorbereitet, etwa eine Informations- und Anlaufstelle. Fragen Sie Ihre Gemeinde im Voraus, was sie vorsieht. Während des Ausfalls: Hören Sie ein batteriebetriebenes Radio oder das Autoradio und bitten Sie in Ihrer Nachbarschaft um Hilfe (FÖD Wirtschaft).
 
 **Was nicht**
 
@@ -187,12 +187,12 @@ Quelle: [Antigiftzentrum: CO-Vergiftung vorbeugen](https://www.poisoncentre.be/a
 **Was Sie tun (Antigiftzentrum)**
 
 1. Betreten Sie nie einen Raum, in dem ein bewusstloses Opfer liegt. Schützen Sie sich selbst.
-2. Rufen Sie sofort die Hilfsdienste an oder lassen Sie jemanden anrufen. Kommt kein Anruf zustande, siehe Notrufnummern in der App, Wenn kein Anruf möglich ist.
+2. Rufen Sie sofort die Hilfsdienste an oder lassen Sie jemanden anrufen.
 3. Öffnen Sie Fenster und Türen, wenn Sie das ohne Risiko für sich selbst können.
 4. Ist das Opfer bewusstlos: Rufen Sie 112 an und sagen Sie, dass es sich vermutlich um CO handelt. Schalten Sie wenn möglich das Gerät aus. Bringen Sie das Opfer aus dem Raum. Atmet das Opfer nicht mehr, beatmen Sie es von Mund zu Mund; das ist laut Antigiftzentrum sicher. Atmet es noch, legen Sie es ohne Kopfkissen auf die Seite.
 5. Ist das Opfer bei Bewusstsein: Rufen Sie den Hausarzt an, wenn das Netz funktioniert.
 
-Kommt kein Anruf zustande: Lassen Sie das Opfer nur allein, wenn es keine andere Möglichkeit gibt, und bestimmen Sie einen Umstehenden oder Nachbarn, der Hilfe holt. Geben Sie mit, wo es ist, was passiert ist (vermutlich CO), wie viele Opfer es gibt und in welchem Zustand sie sind.
+Kommt kein Anruf zustande: Lassen Sie das Opfer nur allein, wenn es nicht anders geht, und schicken Sie einen Umstehenden oder Nachbarn um Hilfe, mit der Nachricht, dass es sich vermutlich um CO handelt. Siehe Notrufnummern in der App, Wenn kein Anruf möglich ist.
 
 Das Antigiftzentrum ist 24/24 kostenlos unter 070 245 245 erreichbar, wenn das Netz funktioniert. Notieren Sie die Nummer im Voraus auf Ihrer Liste auf Papier. Siehe auch die Szenariokarte zu CO.
 
@@ -290,9 +290,9 @@ Ready.gov:
 | Hitzeerschöpfung | starkes Schwitzen, Blässe, Muskelkrämpfe, Müdigkeit, Schwäche, schneller oder schwacher Puls, Schwindel, Kopfschmerzen, Ohnmacht, Übelkeit, Erbrechen | wie bei Hitzekrämpfen |
 | Hitzschlag | die Quelle nennt hier keine gesonderten Anzeichen | rufen Sie 112 an oder bringen Sie die Person in ein Krankenhaus; bringen Sie sie an einen kühlen, schattigen Ort; ziehen Sie die Oberbekleidung aus; legen Sie kalte nasse Tücher oder Eis auf Kopf, Nacken, Achseln und Leiste oder befeuchten Sie die Kleidung mit kühlem Wasser; lagern Sie die Füße hoch |
 
-Das Krisenzentrum: Haben Sie Krämpfe, hohes Fieber, Kopfschmerzen oder werden Sie ohnmächtig, rufen Sie Ihren Hausarzt an. Rufen Sie 112 nur in einer lebensbedrohlichen Situation an. Kommt kein Anruf zustande, lassen Sie jemand anderen anrufen oder bitten Sie in Ihrer Nachbarschaft um Hilfe (siehe Notrufnummern, Wenn kein Anruf möglich ist). Bei einem Hitzschlag nennt Ready.gov außerdem: Bringen Sie die Person in ein Krankenhaus.
+Das Krisenzentrum: Haben Sie Krämpfe, hohes Fieber, Kopfschmerzen oder werden Sie ohnmächtig, rufen Sie Ihren Hausarzt an. Rufen Sie 112 nur in einer lebensbedrohlichen Situation an. Kommt kein Anruf zustande, siehe Notrufnummern in der App, Wenn kein Anruf möglich ist.
 
-Quelle: [Ready.gov: Extreme Heat](https://www.ready.gov/heat) · [Nationales Krisenzentrum: Hitzewelle](https://krisenzentrum.be/de/risiken-belgien/naturrisiken/hitzewellesommerhitze) · [FÖD Wirtschaft: Fragen von Haushalten zur Stromknappheit](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door) · [112.be: Häufig gestellte Fragen](https://112.be/de/haeufig-gestellte-fragen)
+Quelle: [Ready.gov: Extreme Heat](https://www.ready.gov/heat) · [Nationales Krisenzentrum: Hitzewelle](https://krisenzentrum.be/de/risiken-belgien/naturrisiken/hitzewellesommerhitze)
 
 ## Hitze nach Person
 

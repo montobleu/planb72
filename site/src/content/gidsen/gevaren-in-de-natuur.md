@@ -84,13 +84,7 @@ bronnen:
 
 Antigifcentrum: **070 245 245**, gratis, 24 uur op 24, als het netwerk werkt. Noteer het nummer vooraf op een papieren lijst met belangrijke nummers. Bij levensgevaar: **112**.
 
-**Lukt bellen niet**
-
-- Probeer een ander toestel of laat omstanders bellen. Verplaats je enkele meters en probeer opnieuw.
-- In de natuur heb je niet altijd bereik. Spreek mensen aan die je tegenkomt en vraag hen naar een plek met bereik te gaan en daar 112 te bellen.
-- Laat het slachtoffer alleen als er geen andere mogelijkheid is. Ben je met een groep, stuur dan twee of meer mensen om alarm te slaan; de anderen blijven bij het slachtoffer. Geef mee waar het is, wat er gebeurd is, hoeveel slachtoffers er zijn en hoe ze eraan toe zijn.
-- Ben je alleen met het slachtoffer, help hem eerst zo goed mogelijk en ga dan hulp zoeken.
-- Zie ook Noodnummers in de app, Als bellen niet lukt, en de gids over signalen en noodcodes.
+**Lukt bellen niet.** Probeer een ander toestel of laat omstanders bellen. In de natuur heb je niet altijd bereik: vraag wie je tegenkomt om naar een plek met bereik te gaan en 112 te bellen. Met een groep stuur je twee of meer mensen om alarm te slaan en blijven de anderen bij het slachtoffer; ben je alleen, help dan eerst en ga daarna hulp zoeken. Zie Noodnummers in de app, Als bellen niet lukt, en de gids over signalen en noodcodes.
 
 Bron: [National Park Service: Outdoor Emergency Plan](https://www.nps.gov/subjects/healthandsafety/upload/NPS-Outdoor-Emergency-Plan-508c.pdf) · [Nationaal Crisiscentrum: Natuurbrand](https://crisiscentrum.be/nl/risicos-belgie/natuurlijke-risicos/natuurbrand) · [ERC Guidelines 2021: First aid](https://cprguidelines-old.erc.edu/assets/guidelines/European-Resuscitation-Council-Guidelines-2021-Fi.pdf) · [112.be: Veelgestelde vragen](https://112.be/nl/veelgestelde-vragen) · [Nationaal Crisiscentrum: brochure Samen voorbereid](https://crisiscentrum.be/sites/default/files/documents/files/WEB-Brochure%20Samen%20voorbereid-NL.pdf) · [Antigifcentrum: Tekenbeten](https://www.antigifcentrum.be/Toxinfos/tekenbeten/) · [Antigifcentrum: Adderbeten](https://www.antigifcentrum.be/Toxinfos/adderbeten/) · [Antigifcentrum: Steken van wespen, bijen en hoornaars](https://www.antigifcentrum.be/Toxinfos/steken-van-wespen-bijen-en-hoornaars/) · [Rode Kruis-Vlaanderen: eikenprocessierupsen](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-irritatie-door-eikenprocessierupsen) · [Antigifcentrum: Vergiftiging door planten](https://www.antigifcentrum.be/Toxinfos/vergiftiging-door-planten/) · [KMI: Hoe bescherm ik me tegen bliksem?](https://www.meteo.be/nl/switch-language/634?nis=21004)
 

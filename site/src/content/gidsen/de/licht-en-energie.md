@@ -40,8 +40,6 @@ bronnen:
     url: "https://www.rodekruis.be/wat-doen-we/hulp-in-vlaanderen/goed-voorbereid/stroom-en-communicatie-uitval/"
   - naam: "Nationales Krisenzentrum: Informationen während einer Notsituation"
     url: "https://krisenzentrum.be/de/was-koennen-sie-tun/informieren-sie-sich/information-notsituationen"
-  - naam: "112.be: Häufig gestellte Fragen"
-    url: "https://112.be/de/haeufig-gestellte-fragen"
   - naam: "Nationales Krisenzentrum: Ein Plan in Ihrem Viertel oder Verein"
     url: "https://krisenzentrum.be/de/was-koennen-sie-tun/erstellen-sie-einen-plan/ein-plan-ihrem-viertel-oder-ihrem-verein"
 vertaling: machine
@@ -171,13 +169,13 @@ Quelle: [BBK: Stromausfall, Vorsorge und Selbsthilfe](https://www.bbk.bund.de/Sh
 
 - Rufen Sie die 112 nur bei unmittelbarer Gefahr an und schränken Sie Ihre Telefonnutzung ein, um das Netz nicht zu überlasten (Rotes Kreuz Flandern).
 - Telefonieren Sie nur, wenn es wirklich nötig ist, und verwenden Sie vorzugsweise SMS (OFF ON).
-- Verwenden Sie bei einer großen Notsituation Messenger-Apps statt zu telefonieren; eine Überlastung des Netzes kann die Hilfeleistung stören (Broschüre Krisenzentrum). Messenger-Apps brauchen mobiles Internet, und das fällt bei einem Stromausfall schnell aus (FÖD Wirtschaft).
+- Verwenden Sie bei einer großen Notsituation Messenger-Apps statt zu telefonieren (Broschüre Krisenzentrum). Diese brauchen mobiles Internet, und das fällt bei einem Stromausfall schnell aus (FÖD Wirtschaft).
 
 **Wenn Telefon und Internet nicht mehr funktionieren**
 
 - Verfolgen Sie die Nachrichten über ein batteriebetriebenes Radio, ein Kurbelradio oder das Autoradio (OFF ON, FÖD Wirtschaft).
 - Die Behörden können auch mit Lautsprecherwagen der Polizei, Informationstafeln, Faltblättern und von Tür zu Tür informieren (Krisenzentrum).
-- Können Sie nicht mehr telefonieren, sehen Sie sich die allgemeinen Informationen der Behörden an oder bitten Sie in Ihrer Nachbarschaft um Hilfe (FÖD Wirtschaft). Gemeinden können bei einer Abschaltung eine Informations- und Anlaufstelle für die Bevölkerung öffnen. Fragen Sie Ihre Gemeinde im Voraus, welche Lösungen sie vorsieht (FÖD Wirtschaft).
+- Können Sie nicht mehr telefonieren, bitten Sie in Ihrer Nachbarschaft um Hilfe. Gemeinden können bei einer Abschaltung eine Informations- und Anlaufstelle öffnen; fragen Sie im Voraus, was Ihre Gemeinde vorsieht (FÖD Wirtschaft).
 - Müssen Sie die Notdienste erreichen: siehe Notrufnummern in der App, Wenn kein Anruf möglich ist. Die Karte in der App (Schaltfläche Am nächsten) zeigt Feuerwehr, Polizei, Krankenhäuser und Gemeindehäuser.
 
 Mehr im Leitfaden über Kommunikation und Alarmierung.
@@ -196,9 +194,9 @@ Quelle: [Denk vooruit: Informationsheft](https://www.denkvooruit.nl/site/binarie
 8. Erkundigen Sie sich bei gefährdeten Angehörigen und Nachbarn, ob alles in Ordnung ist (OFF ON). Kümmern Sie sich um Nachbarn oder Familienmitglieder, die zusätzliche Hilfe brauchen (Rotes Kreuz Flandern).
 9. Kommen Sie mit Nachbarn oder Familie zusammen, um Licht und Wärme zu teilen. Vereinbaren Sie im Voraus, bei wem Sie unterkommen können und welche Dinge Sie teilen (Krisenzentrum, Notfallpaket).
 
-Das BBK sagt: Ein Stromausfall an sich ist kein Notfall. Rufen Sie die Notrufnummern nicht an, um Informationen zu erfragen; das überlastet die Notrufzentralen. Rufen Sie die 112 nur bei unmittelbarer Gefahr an (Rotes Kreuz Flandern). Kommt kein Anruf zustande, lassen Sie jemand anderen anrufen oder bitten Sie in Ihrer Nachbarschaft um Hilfe (siehe Notrufnummern, Wenn kein Anruf möglich ist).
+Ein Stromausfall an sich ist kein Notfall: Rufen Sie die Notrufnummern nicht an, um Informationen zu erfragen, das überlastet die Notrufzentralen (BBK). Rufen Sie die 112 nur bei unmittelbarer Gefahr an (Rotes Kreuz Flandern). Kommt kein Anruf zustande, siehe Notrufnummern in der App, Wenn kein Anruf möglich ist.
 
-Quelle: [Nationales Krisenzentrum: Störung der Stromversorgung](https://krisenzentrum.be/de/risiken-belgien/maatschappelijke-risicos/ausfall-der-elektrizitaetsversorgung) · [Nationales Krisenzentrum: OFF ON](https://krisenzentrum.be/sites/default/files/documents/files/OffOn-triptyque-D.pdf) · [Nationales Krisenzentrum: Ein Notfallpaket zu Hause](https://krisenzentrum.be/de/was-koennen-sie-tun/stelle-ein-notfallpaket-zusammen/ein-notfallset-fuer-zu-hause) · [Rotes Kreuz Flandern: Strom- und Kommunikationsausfall](https://www.rodekruis.be/wat-doen-we/hulp-in-vlaanderen/goed-voorbereid/stroom-en-communicatie-uitval/) · [FÖD Wirtschaft: Fragen von Haushalten zur Stromknappheit](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door) · [112.be: Häufig gestellte Fragen](https://112.be/de/haeufig-gestellte-fragen) · [BBK: Stromausfall, Vorsorge und Selbsthilfe](https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/Buergerinformationen/stromausfall-vorsorge-selbsthilfe.pdf?__blob=publicationFile&v=17)
+Quelle: [Nationales Krisenzentrum: Störung der Stromversorgung](https://krisenzentrum.be/de/risiken-belgien/maatschappelijke-risicos/ausfall-der-elektrizitaetsversorgung) · [Nationales Krisenzentrum: OFF ON](https://krisenzentrum.be/sites/default/files/documents/files/OffOn-triptyque-D.pdf) · [Nationales Krisenzentrum: Ein Notfallpaket zu Hause](https://krisenzentrum.be/de/was-koennen-sie-tun/stelle-ein-notfallpaket-zusammen/ein-notfallset-fuer-zu-hause) · [Rotes Kreuz Flandern: Strom- und Kommunikationsausfall](https://www.rodekruis.be/wat-doen-we/hulp-in-vlaanderen/goed-voorbereid/stroom-en-communicatie-uitval/) · [BBK: Stromausfall, Vorsorge und Selbsthilfe](https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/Buergerinformationen/stromausfall-vorsorge-selbsthilfe.pdf?__blob=publicationFile&v=17)
 
 ## Wenn der Strom zurückkommt
 

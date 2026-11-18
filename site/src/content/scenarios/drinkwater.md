@@ -37,7 +37,7 @@ bronnen:
 
 ## Herkennen
 
-**Hoe je het hoort.** Je waterbedrijf meldt een probleem met een bericht in de brievenbus en op zijn website. In een noodsituatie informeert de overheid ook via radio, tv en omroepwagens van de politie die in de straat rondrijden. Werkt het netwerk, dan ook via BE-Alert, websites en sociale media.
+**Hoe je het hoort.** Je waterbedrijf meldt een probleem met een bericht in de brievenbus en op zijn website. In een noodsituatie informeert de overheid ook via radio, tv en omroepwagens van de politie. Werkt het netwerk, dan ook via BE-Alert, websites en sociale media.
 
 **Soorten berichten.** De Waalse watermaatschappij SWDE gebruikt drie kleuren voor het bericht in de brievenbus:
 
@@ -115,14 +115,14 @@ Zo kook je water:
 **Water niet drinkbaar, ook niet gekookt (rood).**
 
 - Gebruik alleen flessenwater of water uit je voorraad.
-- Het waterbedrijf zet verdeelpunten op. Werkt het internet, dan staat bij de SWDE in het bericht op de website waar het andere water te krijgen is. Werkt de telefoon, dan weet ook de klantendienst waar de verdeelpunten zijn.
+- Het waterbedrijf zet verdeelpunten op. Werkt het internet, dan staat bij de SWDE in het bericht op de website waar die zijn. Werkt de telefoon, dan weet ook de klantendienst het.
 
 **Chemische of radioactieve vervuiling.** Koken en ontsmetten helpen niet. Gebruik flessenwater of een andere bron. Volg het advies van de gezondheidsdiensten.
 
 **Geen water uit de kraan.**
 
 - Gebruik je voorraad. Drink eerst het water waarvan je zeker weet dat het veilig is.
-- Bij een onderbreking van de watertoevoer kunnen burgemeester, gouverneur of minister water in flessen laten verdelen. Luister naar de radio en let op berichten in de brievenbus en omroepwagens.
+- De overheid kan flessenwater laten verdelen. Luister naar de radio en let op berichten in de brievenbus en omroepwagens.
 - Rantsoeneer drinkwater niet, tenzij de overheid dat vraagt. Drink vandaag wat je nodig hebt en zoek water voor morgen.
 - Beperk je inspanning en blijf koel, zodat je minder water nodig hebt.
 - Drink geen alcohol of cafeïne in de plaats van water. Die doen je meer water verliezen.
@@ -154,7 +154,6 @@ Gebruik deze alleen als je geen flessenwater of voorraad meer hebt. Kun je water
 
 - Ouderen, zwangere vrouwen en mensen met een verzwakte afweer kunnen ernstig ziek worden van besmet water. Geef hen flessenwater of gekookt water.
 - Zieken, zwangere vrouwen en vrouwen die borstvoeding geven, hebben meer water nodig.
-- Zwangere vrouwen en mensen met schildklierproblemen drinken geen water dat met jodium ontsmet is.
 
 ### Huisdieren en dieren
 
@@ -168,7 +167,7 @@ Bron: [SWDE](https://www.swde.be/en/water-quality-non-potable-water) · [RIVM](h
 - Is het water na de storing bruin of troebel, laat de kraan dan enkele minuten lopen.
 - Is de waterdruk laag, dan herstelt die geleidelijk.
 - Blijf water sparen. Verspil het niet.
-- Vul je voorraad weer aan. Vervang zelf gevuld water elke 6 maanden.
+- Vul je voorraad weer aan.
 
 Bron: [Nationaal Crisiscentrum](https://crisiscentrum.be/nl/risicos-belgie/maatschappelijke-risicos/verstoring-van-drinkwater) · [SWDE](https://www.swde.be/en/water-quality-non-potable-water) · [CDC: water bewaren](https://www.cdc.gov/water-emergency/about/how-to-create-and-store-an-emergency-water-supply.html)
 

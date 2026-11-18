@@ -83,7 +83,7 @@ Source : [Centre de crise National : incendie ou explosion](https://centredecris
   - Fluvius (Flandre) : 0800 65 0 65, gratuit, jour et nuit. Les appels vers ce numéro sont prioritaires.
   - ORES (la plus grande partie de la Wallonie) : 0800 87 087, gratuit, jour et nuit.
   - Si vous habitez à Bruxelles (Sibelga) ou dans une partie de la province de Liège (RESA), cherchez à l'avance le numéro odeur de gaz sur le site web de votre gestionnaire de réseau et notez-le.
-- Personnes sourdes ou malentendantes : Fluvius dispose d'un formulaire de contact pour signaler une odeur de gaz pour les personnes qui ne peuvent pas téléphoner. Il ne fonctionne que si internet fonctionne. Convenez donc aussi avec les personnes qui vivent avec vous ou avec les voisins qu'ils appellent pour vous.
+- Personnes sourdes ou malentendantes : Fluvius dispose d'un formulaire de contact pour signaler une odeur de gaz pour les personnes qui ne peuvent pas téléphoner, mais uniquement via internet. Convenez donc aussi avec les personnes qui vivent avec vous ou avec les voisins qu'ils appellent pour vous.
 
 **Entretien**
 
@@ -118,11 +118,7 @@ Source : [Fluvius : odeur de gaz](https://www.fluvius.be/nl/gasgeur) · [ORES](h
 
 L'équipe d'intervention part immédiatement après votre appel, mesure sur place la concentration de gaz et cherche la fuite.
 
-**Si l'appel ne passe pas**
-
-- Demandez à des voisins ou à des passants d'appeler, ou essayez un autre appareil. Déplacez-vous de quelques mètres et réessayez, toujours à un endroit où vous ne sentez pas le gaz.
-- En cas d'incendie, d'explosion ou de blessés : si le 112 est injoignable mais que vous pouvez encore appeler, essayez le 101.
-- Si l'appel ne fonctionne pas du tout : demandez de l'aide dans votre voisinage. Voir Numéros d'urgence dans l'app, Si l'appel ne passe pas.
+Si l'appel ne passe pas, demandez à quelqu'un d'autre d'appeler ou demandez de l'aide dans votre voisinage, toujours à un endroit où vous ne sentez pas le gaz. Voir Numéros d'urgence dans l'app, Si l'appel ne passe pas.
 
 **Feu de gaz ou explosion**
 
@@ -141,7 +137,7 @@ L'équipe d'intervention part immédiatement après votre appel, mesure sur plac
 2. Ouvrez les fenêtres et les portes.
 3. Éteignez l'appareil au gaz si vous pouvez le faire en sécurité.
 4. Quittez la pièce et emmenez la victime dehors.
-5. Appelez le 112 ou demandez à quelqu'un d'appeler. Dites qu'il s'agit peut-être de CO et si quelqu'un est inconscient. Si l'appel ne passe pas, voir plus haut et la fiche Alarme CO.
+5. Appelez le 112 ou demandez à quelqu'un d'appeler. Dites qu'il s'agit peut-être de CO et si quelqu'un est inconscient. Si l'appel ne passe pas, voir plus haut.
 6. Commencez la réanimation si la victime ne respire pas. Placez une personne inconsciente qui respire en position latérale de sécurité.
 7. Pour les questions sans danger immédiat, si le réseau fonctionne : Centre Antipoisons 070 245 245, ou un installateur agréé.
 
@@ -158,7 +154,7 @@ Source : [Fluvius : odeur de gaz](https://www.fluvius.be/nl/gasgeur) · [ORES](h
 **Une fuite de gaz plus importante dans votre quartier**
 
 - Attendez les consignes des autorités ou des services de secours. Parfois, rester à l'intérieur est plus sûr que partir.
-- Ces consignes arrivent notamment par la radio et par des voitures de police équipées de haut-parleurs qui circulent dans la rue. Si le réseau fonctionne, aussi par BE-Alert et les sites web des autorités.
+- Elles arrivent par la radio et par des voitures de police équipées de haut-parleurs, et si le réseau fonctionne aussi par BE-Alert et les sites web des autorités.
 - Si vous devez évacuer, emportez votre carte d'identité, de l'argent, de l'eau, votre GSM et son chargeur, vos clés, votre liste de numéros de téléphone, vos médicaments indispensables et vos produits d'hygiène. S'il y a un danger immédiat et que vous n'avez pas de sac d'urgence prêt, partez tout de suite sans rien emporter.
 - Aidez les voisins moins mobiles.
 - Ne rentrez que lorsque les autorités disent que c'est sûr.
@@ -203,7 +199,6 @@ Source : [Centre de crise National : évacuer](https://centredecrise.be/fr/que-p
 
 ## Après
 
-- Restez à distance de sécurité tant que la fuite n'est pas colmatée.
 - Faites contrôler régulièrement vos appareils au gaz et votre cheminée par un professionnel agréé. Pour les questions sans danger urgent, vous pouvez vous adresser à un installateur certifié.
 - Après une intoxication au CO, des troubles du système nerveux peuvent encore apparaître après un certain temps, comme de l'irritabilité, des problèmes de mémoire ou des mouvements anormaux. Ils disparaissent souvent, mais pas toujours.
 

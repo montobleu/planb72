@@ -12,10 +12,6 @@ bronnen:
     url: https://krisenzentrum.be/de/was-koennen-sie-tun/der-richtige-reflex/evakuierung
   - naam: "Nationales Krisenzentrum: Informationen während einer Notsituation"
     url: https://krisenzentrum.be/de/was-koennen-sie-tun/informieren-sie-sich/information-notsituationen
-  - naam: "112.be: Häufig gestellte Fragen"
-    url: https://112.be/de/haeufig-gestellte-fragen
-  - naam: "FÖD Wirtschaft: Fragen von Familien zur Stromknappheit"
-    url: https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door
   - naam: "WHO, War Trauma Foundation und World Vision International: Psychological first aid, guide for field workers (2011)"
     url: https://psychiatry.uw.edu/wp-content/uploads/2020/04/1.-WHO_PFA_2011.pdf
   - naam: "IFRC Reference Centre for Psychosocial Support: A Guide to Psychological First Aid (2018)"
@@ -78,7 +74,7 @@ Sie bleiben drinnen, bis die Behörden melden, dass es wieder sicher ist. Das Sc
 | Evakuierung | Folgen Sie den Anweisungen, wer, wohin und wie. Eine Evakuierung nach der Wolke ist möglich, wenn das Schutzsuchen länger dauern müsste oder die Freisetzung sehr groß ist |
 | Bleiben Sie drinnen | Suchen Sie weiter Schutz und hören Sie weiter das Radio und die anderen offiziellen Kanäle |
 
-Das Krisenzentrum sagt, dass nach einem nuklearen Unfall noch medizinische Empfehlungen folgen können. Hören Sie das batteriebetriebene Radio oder das Autoradio und achten Sie auf Lautsprecherwagen der Polizei. Funktioniert das Netz, verfolgen Sie auch BE-Alert und die Websites der Behörden. Finnland sagt dasselbe: Die Rettungsdienste und die Strahlenschutzbehörde melden, wann die Gefahr vorbei ist, und geben Anweisungen zur Reinigung von Räumen und zum Verzehr von Lebensmitteln.
+Das Krisenzentrum sagt, dass nach einem nuklearen Unfall noch medizinische Empfehlungen folgen können. Hören Sie Radio und achten Sie auf Lautsprecherwagen der Polizei; funktioniert das Netz, verfolgen Sie auch BE-Alert und die Websites der Behörden. Finnland sagt dasselbe: Die Rettungsdienste und die Strahlenschutzbehörde melden, wann die Gefahr vorbei ist, und geben Anweisungen zur Reinigung von Räumen und zum Verzehr von Lebensmitteln.
 
 Deutschland sagt beim Freiwerden gefährlicher Stoffe: Warten Sie die Entwarnung ab, bevor Sie das Gebäude verlassen oder Fenster öffnen, und verfolgen Sie die Meldungen über Radio, Internet oder die Warn-App. Öffnen Sie also auch in Belgien die Fenster nicht und schalten Sie die Lüftung nicht wieder ein, bevor die Behörden melden, dass es sicher ist.
 
@@ -208,12 +204,12 @@ Quelle: [Nuklearrisiko: häufig gestellte Fragen](https://nuklearrisiko.be/de/fa
 - **Langfristige Risiken:** Die Risiken für die Bevölkerung sind vor allem langfristige Risiken wie Krebs und genetische Schäden. Die Wahrscheinlichkeit, nicht die Schwere, steigt mit der Dosis (Nuklearrisiko).
 - **Akute Erscheinungen** wie Erbrechen, Verbrennungen und massiver Haarausfall treten erst nach einer massiven Exposition auf, die man grundsätzlich nur bei Arbeitern in der Anlage und eventuell bei Einsatzkräften erwartet (Nuklearrisiko). Die WHO sagt, dass die breite Öffentlichkeit wahrscheinlich keine Dosis erhält, die hoch genug für akute Wirkungen ist.
 - **Medizinische Empfehlungen:** Nach einem Unfall können noch medizinische Empfehlungen folgen. Hören Sie Radio und verfolgen Sie die anderen offiziellen Kanäle (Krisenzentrum).
-- **Krank oder verletzt:** Hören Sie auf die Anweisungen, wo Sie medizinische Hilfe erhalten. Sind Sie in einer öffentlichen Aufnahmeeinrichtung, melden Sie es sofort dem Personal (Ready.gov). In Belgien: Rufen Sie bei einem medizinischen Notfall 112 an oder lassen Sie jemanden anrufen. Kommt kein Anruf zustande, versuchen Sie es mit einem anderen Gerät oder lassen Sie Nachbarn anrufen; ist überhaupt kein Anruf möglich, bitten Sie in Ihrer Nachbarschaft um Hilfe (siehe Notrufnummern in der App, Wenn kein Anruf möglich ist).
+- **Krank oder verletzt:** Hören Sie auf die Anweisungen, wo Sie medizinische Hilfe erhalten. Sind Sie in einer öffentlichen Aufnahmeeinrichtung, melden Sie es sofort dem Personal (Ready.gov). In Belgien: Rufen Sie bei einem medizinischen Notfall 112 an oder lassen Sie jemanden anrufen. Kommt kein Anruf zustande, siehe Notrufnummern in der App, Wenn kein Anruf möglich ist.
 - **Kinder:** Sie sind empfindlicher für Strahlung. Lassen Sie sie nach der Notsituation ärztlich nachuntersuchen, sobald die Behörden sagen, dass es sicher ist (WHO).
 - **Schwangere, die Jod eingenommen haben:** Teilen Sie es nach der Notsituation Ihrem Arzt mit, damit es in Ihre Krankenakte aufgenommen wird (WHO).
 - **Neugeborene, die Jod erhalten haben:** Die WHO empfiehlt, ihre Schilddrüsenwerte kontrollieren zu lassen.
 
-Quelle: [Nuklearrisiko: Radioaktivität und Exposition](https://nuklearrisiko.be/de/nukleares-risiko/radioaktivitaet-exposition) · [Nationales Krisenzentrum: Zwischenfall in einem Kernkraftwerk](https://krisenzentrum.be/de/risiken-belgien/technologische-risiken/zwischenfall-einer-nuklearanlage) · [WHO: Radiation and health](https://www.who.int/news-room/questions-and-answers/item/radiation-and-health) · [WHO: Use of potassium iodide](https://www.who.int/news-room/questions-and-answers/item/use-of-potassium-iodide-for-thyroid-protection-during-nuclear-or-radiological-emergencies) · [Ready.gov: Radiation emergencies](https://www.ready.gov/radiation) · [112.be: Häufig gestellte Fragen](https://112.be/de/haeufig-gestellte-fragen) · [FÖD Wirtschaft: Fragen von Familien zur Stromknappheit](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door)
+Quelle: [Nuklearrisiko: Radioaktivität und Exposition](https://nuklearrisiko.be/de/nukleares-risiko/radioaktivitaet-exposition) · [Nationales Krisenzentrum: Zwischenfall in einem Kernkraftwerk](https://krisenzentrum.be/de/risiken-belgien/technologische-risiken/zwischenfall-einer-nuklearanlage) · [WHO: Radiation and health](https://www.who.int/news-room/questions-and-answers/item/radiation-and-health) · [WHO: Use of potassium iodide](https://www.who.int/news-room/questions-and-answers/item/use-of-potassium-iodide-for-thyroid-protection-during-nuclear-or-radiological-emergencies) · [Ready.gov: Radiation emergencies](https://www.ready.gov/radiation)
 
 ## Psychische Unterstützung
 

@@ -40,8 +40,6 @@ bronnen:
     url: "https://www.rodekruis.be/wat-doen-we/hulp-in-vlaanderen/goed-voorbereid/stroom-en-communicatie-uitval/"
   - naam: "Nationaal Crisiscentrum: Informatie tijdens een noodsituatie"
     url: "https://crisiscentrum.be/nl/wat-kan-jij-doen/informeer-je/informatie-tijdens-een-noodsituatie"
-  - naam: "112.be: Veelgestelde vragen"
-    url: "https://112.be/nl/veelgestelde-vragen"
   - naam: "Nationaal Crisiscentrum: Een plan in jouw buurt of vereniging"
     url: "https://crisiscentrum.be/nl/wat-kan-jij-doen/maak-een-plan/een-plan-jouw-buurt-vereniging"
 ---
@@ -169,13 +167,13 @@ Bron: [BBK: Stromausfall, Vorsorge und Selbsthilfe](https://www.bbk.bund.de/Shar
 
 - Bel 112 alleen bij direct gevaar en beperk je telefoongebruik, om het netwerk niet te overbelasten (Rode Kruis-Vlaanderen).
 - Telefoneer alleen als het echt nodig is en gebruik bij voorkeur sms (OFF ON).
-- Gebruik bij een grote noodsituatie berichtenapps in plaats van te bellen; overbelasting van het netwerk kan de hulpverlening verstoren (brochure Crisiscentrum). Berichtenapps hebben mobiel internet nodig, en dat valt bij een stroomonderbreking snel weg (FOD Economie).
+- Gebruik bij een grote noodsituatie berichtenapps in plaats van te bellen (brochure Crisiscentrum). Die hebben mobiel internet nodig, en dat valt bij een stroomonderbreking snel weg (FOD Economie).
 
 **Als bellen en internet niet meer werken**
 
 - Volg het nieuws via een radio op batterijen, een opwindbare radio of de autoradio (OFF ON, FOD Economie).
 - De overheid kan ook informeren met omroepwagens van de politie, informatieborden, folders en deur-aan-deur (Crisiscentrum).
-- Kun je niet meer bellen, raadpleeg dan de algemene informatie van de overheid of vraag hulp in je buurt (FOD Economie). Gemeenten kunnen bij een afschakeling een informatie- en onthaalpunt voor de bevolking openen. Vraag vooraf aan je gemeente welke oplossingen ze voorziet (FOD Economie).
+- Kun je niet meer bellen, vraag dan hulp in je buurt. Gemeenten kunnen bij een afschakeling een informatie- en onthaalpunt openen; vraag vooraf wat je gemeente voorziet (FOD Economie).
 - Moet je de hulpdiensten bereiken: zie Noodnummers in de app, Als bellen niet lukt. De kaart in de app (knop Dichtstbij) toont brandweer, politie, ziekenhuizen en gemeentehuizen.
 
 Meer in de gids over communicatie en alarmering.
@@ -194,9 +192,9 @@ Bron: [Denk vooruit: informatieboekje](https://www.denkvooruit.nl/site/binaries/
 8. Informeer bij kwetsbare naasten en buren of alles in orde is (OFF ON). Kijk om naar buren of familie die extra hulp nodig hebben (Rode Kruis-Vlaanderen).
 9. Kom met buren of familie samen om licht en warmte te delen. Spreek vooraf af bij wie je terecht kunt en welke spullen je deelt (Crisiscentrum, noodpakket).
 
-Het BBK zegt: een stroomuitval op zich is geen noodgeval. Bel de noodnummers niet om informatie te vragen; dat overbelast de noodcentrales. Bel 112 alleen bij direct gevaar (Rode Kruis-Vlaanderen). Lukt bellen niet, laat iemand anders bellen of vraag hulp in je buurt (zie Noodnummers, Als bellen niet lukt).
+Een stroomuitval op zich is geen noodgeval: bel de noodnummers niet om informatie te vragen, dat overbelast de noodcentrales (BBK). Bel 112 alleen bij direct gevaar (Rode Kruis-Vlaanderen). Lukt bellen niet, zie Noodnummers in de app, Als bellen niet lukt.
 
-Bron: [Nationaal Crisiscentrum: Verstoring van elektriciteit](https://crisiscentrum.be/nl/risicos-belgie/maatschappelijke-risicos/verstoring-van-elektriciteit) · [Nationaal Crisiscentrum: OFF ON](https://crisiscentrum.be/sites/default/files/documents/files/OffOn-triptyque-N.pdf) · [Nationaal Crisiscentrum: Een noodpakket bij je thuis](https://crisiscentrum.be/nl/wat-kan-jij-doen/maak-een-noodpakket/een-noodpakket-bij-je-thuis) · [Rode Kruis-Vlaanderen: Stroom- en communicatie-uitval](https://www.rodekruis.be/wat-doen-we/hulp-in-vlaanderen/goed-voorbereid/stroom-en-communicatie-uitval/) · [FOD Economie: vragen van gezinnen over elektriciteitsschaarste](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door) · [112.be: Veelgestelde vragen](https://112.be/nl/veelgestelde-vragen) · [BBK: Stromausfall, Vorsorge und Selbsthilfe](https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/Buergerinformationen/stromausfall-vorsorge-selbsthilfe.pdf?__blob=publicationFile&v=17)
+Bron: [Nationaal Crisiscentrum: Verstoring van elektriciteit](https://crisiscentrum.be/nl/risicos-belgie/maatschappelijke-risicos/verstoring-van-elektriciteit) · [Nationaal Crisiscentrum: OFF ON](https://crisiscentrum.be/sites/default/files/documents/files/OffOn-triptyque-N.pdf) · [Nationaal Crisiscentrum: Een noodpakket bij je thuis](https://crisiscentrum.be/nl/wat-kan-jij-doen/maak-een-noodpakket/een-noodpakket-bij-je-thuis) · [Rode Kruis-Vlaanderen: Stroom- en communicatie-uitval](https://www.rodekruis.be/wat-doen-we/hulp-in-vlaanderen/goed-voorbereid/stroom-en-communicatie-uitval/) · [BBK: Stromausfall, Vorsorge und Selbsthilfe](https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/Buergerinformationen/stromausfall-vorsorge-selbsthilfe.pdf?__blob=publicationFile&v=17)
 
 ## Als de stroom terugkomt
 

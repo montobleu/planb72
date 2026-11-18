@@ -52,9 +52,9 @@ origineel_datum: "2026-11-18"
 
 ## Recognise
 
-**How you are warned.** In a chemical accident the authorities warn you via radio and TV and via police loudspeaker vans driving through the streets. In some emergencies they also use information boards, leaflets or door-to-door communication. If the network is working, they also warn you via BE-Alert (text message, email or phone call), social media and official websites. In a major emergency the authorities send an Alert-SMS to everyone who is in the risk zone with a mobile phone at that moment. You do not need to be registered for this.
+**How you are warned.** In a chemical accident the authorities warn you via radio and TV and via police loudspeaker vans. In some emergencies they also use information boards, leaflets or door-to-door communication. If the network is working, they also warn you via BE-Alert (text message, email or phone call), social media and official websites. In a major emergency the authorities send an Alert-SMS to everyone who is in the risk zone with a mobile phone at that moment. You do not need to be registered for this.
 
-During a power cut, the internet and mobile networks can fail. With a battery-powered or wind-up radio you can still stay informed.
+If the power fails, you can stay informed with a battery-powered or wind-up radio.
 
 **Signs that you have come into contact with a substance.** Watch for:
 
@@ -77,10 +77,10 @@ Source: [National Crisis Center](https://crisiscenter.be/en/risks-belgium/techno
 - **Know how to switch off the ventilation.** Find out in advance how to stop mechanical ventilation, air conditioning and the air intake of the heating.
 - **Have material ready to seal gaps.** The American Ready.gov recommends having plastic sheeting, strong tape and scissors ready to cover doors, windows and vents. Wet towels can also be used.
 - **Make an emergency kit** with water, food, a battery-powered or wind-up radio, a torch, medication and a charged power bank.
-- **Make arrangements** with the people you live with: who does what, and how you reach each other without phoning. Also agree with your neighbours how you will reach each other if the phone and internet are not working.
+- **Make arrangements** with the people you live with and your neighbours: who does what, and how you reach each other without phone or internet.
 - **Keep a paper list** of important phone numbers with your emergency kit.
 
-**Difference between sources about the floor.** The Belgian authorities advise a central room on the ground floor. The Bezirksamt Pankow in Berlin and Ready.gov recommend a room on a higher floor or above ground in the case of gases, because most gases are heavier than air and sink. In Belgium, follow the Belgian advice. If the authorities give a different instruction for a particular substance via the radio, loudspeaker vans or BE-Alert, follow that instruction.
+**Difference between sources about the floor.** The Belgian authorities advise a central room on the ground floor. The Bezirksamt Pankow in Berlin and Ready.gov recommend a room on a higher floor or above ground in the case of gases, because most gases are heavier than air and sink. In Belgium, follow the Belgian advice. If the authorities give a different instruction for a particular substance, follow that instruction.
 
 Source: [National Crisis Center: Seveso](https://crisiscenter.be/en/risks-belgium/technological-risks/incident-seveso-installation) · [Seveso.be](https://www.seveso.be/en/seveso-establishments) · [BE-Alert](https://www.be-alert.be/en/how-does-be-alert-work/notified-wherever-you-are) · [Ready.gov](https://www.ready.gov/chemical) · [Bezirksamt Pankow](https://www.berlin.de/ba-pankow/politik-und-verwaltung/beauftragte/katastrophenschutz/artikel.1640880.php) · [National Crisis Center: Prepared together](https://crisiscenter.be/sites/default/files/documents/files/WEB-Brochure%20Prepared%20Together-EN.pdf) · [National Crisis Center: plan in your neighbourhood](https://crisiscenter.be/en/what-can-you-do/make-plan/plan-your-neighbourhood-association-or-club)
 
@@ -97,13 +97,13 @@ Sheltering is the best protection. Sheltering is temporary: from a few hours up 
 5. Seal gaps under doors and around windows with wet towels, plastic sheeting or tape if you have that material.
 6. Warn the people you live with and the other residents of the building.
 7. Let passers-by who are in danger come in temporarily.
-8. Turn on the radio, or the TV if there is power, and follow the instructions of the authorities. If the power fails, use a battery-powered or wind-up radio. Also watch for police loudspeaker vans.
+8. Turn on the radio or TV, follow the instructions of the authorities and watch for police loudspeaker vans.
 9. Do not light candles. They use up oxygen.
 10. Do not eat or drink anything you suspect is contaminated.
 
 **Can you still smell the substance indoors?** Then breathe shallowly through a cloth or handkerchief. Use a face mask if you have one. If gases or fumes are released inside the building itself, for example through a leak inside, leave the building.
 
-**Phoning.** Do not phone to ask for information: listen to the radio. Only call 112 in an emergency. If you cannot get through, have someone else in the building call or try another phone (see Emergency numbers, If you cannot call). Warn the people you live with and other residents of your building directly. If the network is working, preferably warn others by text message, WhatsApp, Signal or social media, so that the phone network stays free for the emergency services.
+**Phoning.** Do not phone to ask for information: listen to the radio. Only call 112 in an emergency. If you cannot get through, have someone else in the building call or try another phone (see Emergency numbers, If you cannot call). If the network is working, preferably warn others by messages, so that the phone network stays free for the emergency services.
 
 ### Outdoors or on the move
 
@@ -142,13 +142,11 @@ Ready.gov recommends moving upwind of the source. The Belgian and German authori
 
 - Children at school follow the same recommendations as at home.
 - At home: take children with you to the shelter room.
-- Add the address of the school and childcare in BE-Alert in advance, so that you receive alerts for that location if the network is working.
 
 ### Vulnerable people
 
 - See whether you can help someone who has reduced mobility or has few people around them, without going outside into the cloud yourself. If that person lives in your building, warn them directly. Otherwise: send a message if the network is working.
 - In your emergency plan, arrange helpers near older people, people with a disability and people with specific needs.
-- Register the address of a vulnerable family member with BE-Alert in advance.
 
 ### Pets and animals
 
@@ -161,7 +159,7 @@ Ready.gov recommends moving upwind of the source. The Belgian and German authori
 - Then leave immediately. If possible, do not go through the contaminated zone.
 - Take the minimum with you: identity card, money, bottles of water, mobile phone and charger, keys, a list of phone numbers, your essential medication and a toilet bag.
 - Switch off electrical appliances. The fridge and freezer can stay on. Close windows and doors.
-- Go to family or friends outside the zone or to the reception centre set up by the municipality or province, for example a sports hall or function hall. A contact person on site gives information there.
+- Go to family or friends outside the zone or to the reception centre set up by the municipality or province, where a contact person gives information.
 - Help warn others that they must evacuate.
 
 Source: [National Crisis Center: sheltering](https://crisiscenter.be/en/what-can-you-do/right-reflex/seeking-shelter) · [National Crisis Center: chemical substances](https://crisiscenter.be/en/risks-belgium/technological-risks/release-chemical-substances) · [National Crisis Center: evacuating](https://crisiscenter.be/en/what-can-you-do/right-reflex/evacuate) · [National Crisis Center: information during an emergency](https://crisiscenter.be/en/what-can-you-do/stay-informed/get-informed-emergency-situation) · [National Crisis Center: Prepared together](https://crisiscenter.be/sites/default/files/documents/files/WEB-Brochure%20Prepared%20Together-EN.pdf) · [112.be: Frequently asked questions](https://112.be/en/frequently-asked-questions) · [BBK: at home](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Vorsorge/Schutz-suchen/Gefahrstoff-Freisetzung/_documents/gefahrstoff-im-haus_dossier2.html?nn=20588) · [BBK: outdoors and car](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Vorsorge/Schutz-suchen/Gefahrstoff-Freisetzung/_documents/gefahrstoff-im-auto-und-im-freien_dossier3.html?nn=20588) · [Bezirksamt Pankow](https://www.berlin.de/ba-pankow/politik-und-verwaltung/beauftragte/katastrophenschutz/artikel.1640880.php) · [Ready.gov](https://www.ready.gov/chemical)
@@ -190,7 +188,7 @@ Source: [National Crisis Center](https://crisiscenter.be/en/risks-belgium/techno
 
 ## More information
 
-Read these pages in advance. During a power cut, the internet and mobile networks can fail.
+To read in advance, or if the internet works:
 
 - Risk and recommendations: [National Crisis Center: release of chemical substances](https://crisiscenter.be/en/risks-belgium/technological-risks/release-chemical-substances)
 - Seveso companies near you: [seveso.be](https://www.seveso.be/en/seveso-establishments)

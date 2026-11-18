@@ -97,7 +97,7 @@ Source: [National Crisis Center: A plan for people who need extra help](https://
 
 - Put bottles and packs in waterproof containers, such as plastic boxes with lids, and store them high up if there is a risk of flooding (FDA).
 - Organise and protect your prescription medicines, your over-the-counter products and your vitamins (Ready.gov).
-- Keep a cool box and cold packs or ice ready for medicines that must be kept refrigerated (Ready.gov, FDA).
+- For medicines that must be kept refrigerated: see below, Other medicines that must be kept cool.
 
 Source: [FDA: Safe Drug Use After a Natural Disaster](https://www.fda.gov/drugs/emergency-preparedness-drugs/safe-drug-use-after-natural-disaster) · [Ready.gov: Build A Kit](https://www.ready.gov/kit) · [Ready.gov: People with Disabilities](https://www.ready.gov/disability)
 
@@ -142,8 +142,8 @@ The FDA gives these guidelines. They are based on the labels of the US manufactu
 - Keep insulin as cool as possible.
 - If you use ice, do not let the insulin freeze. Do not use insulin that has been frozen.
 - Keep insulin away from direct heat and sunlight.
-- Extreme temperatures make insulin less effective. The longer it is exposed to them, the less it works, which makes it harder to control your blood sugar. In emergency conditions you may have to use insulin that was stored above 30 °C after all.
-- Some products have a different storage time out of the fridge. As an example, the FDA mentions an insulin given once a week that may be stored for up to 12 weeks below 30 °C. Check the package leaflet of your own product.
+- Extreme temperatures make insulin less effective: the longer the exposure, the harder it is to control your blood sugar. In emergency conditions you may have to use insulin that was stored above 30 °C after all.
+- Some products have a different storage time, such as an insulin given once a week that may be stored for up to 12 weeks below 30 °C. Check the package leaflet of your own product.
 
 **Insulin pump**
 
@@ -160,7 +160,7 @@ Source: [FDA: Information Regarding Insulin Storage and Switching Between Produc
 
 **Beforehand**
 
-- Keep a cool box and ice or frozen cool packs ready and follow the storage instructions on the label (FDA).
+- Keep a cool box and ice, cold packs or frozen cool packs ready and follow the storage instructions on the label (FDA, Ready.gov).
 - Ask your doctor how long your medicine may be stored at a higher temperature, and ask for specific guidelines for medicines that are vital (Ready.gov).
 
 **After an interruption: the sources differ**
@@ -168,7 +168,7 @@ Source: [FDA: Information Regarding Insulin Storage and Switching Between Produc
 - The FDA: if a medicine was not stored at the recommended temperature, check the storage instructions or ask a pharmacist, doctor or the manufacturer whether you may still use it. If the medicine is vital, such as insulin, and no replacement is immediately available, you may use it until you have a new supply. Replace it as soon as possible.
 - Ready.gov: if the power was off for more than a day, throw away medicines that must be refrigerated, unless the label says otherwise, and ask your doctor or pharmacist immediately for a new supply.
 
-Both sources ask you to seek advice from your pharmacist or doctor as soon as possible. According to the FDA, you may continue to use a vital medicine until you have a replacement.
+Both sources ask you to seek advice from your pharmacist or doctor as soon as possible.
 
 Source: [FDA: Safe Drug Use After a Natural Disaster](https://www.fda.gov/drugs/emergency-preparedness-drugs/safe-drug-use-after-natural-disaster) · [Ready.gov: Power Outages](https://www.ready.gov/power-outages)
 
@@ -194,12 +194,12 @@ Source: [FDA: Safe Drug Use After a Natural Disaster](https://www.fda.gov/drugs/
 - Keep a reserve supply of oxygen (Ready.gov).
 - Make a list of the type and serial number of your medical devices, with any operating instructions (Ready.gov).
 - Buy an extra battery for battery-powered devices and keep them charged (Ready.gov).
-- Do not wait for a power cut. Find out how long the fully charged internal battery of your device lasts. If that is shorter than the interruption could last, you will need to be looked after somewhere else: look into those options in advance (FPS Economy).
+- Find out in advance how long the fully charged internal battery of your device lasts. If that is shorter than the interruption could last, you will need to be looked after somewhere else: look into those options in advance (FPS Economy).
 - If you use a device intermittently, as with home dialysis, make sure it is not connected at the time of an announced load-shedding cut (FPS Economy).
 
-**What the BBK says about home nursing care.** During a power cut, devices used in home nursing care that may be vital, such as ventilators, can fail. Services such as personal alarm systems and meals on wheels may be disrupted or stop. If you use such services, ask whether and how they will continue during a longer power cut.
+**Home nursing care (BBK).** During a power cut, vital devices such as ventilators can fail, and services such as personal alarm systems and meals on wheels can stop. Ask whether and how they will continue during a longer power cut.
 
-See also the guide on light and energy for batteries, power banks and generators, and below for what to do if you cannot call your care provider.
+See also the guide on light and energy for batteries, power banks and generators.
 
 Source: [National Crisis Center: A plan for people who need extra help](https://crisiscenter.be/en/what-can-you-do/make-plan/people-who-need-additional-help) · [FPS Economy: questions from households about electricity shortages](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door) · [Ready.gov: People with Disabilities](https://www.ready.gov/disability) · [Ready.gov: Power Outages](https://www.ready.gov/power-outages) · [BBK: Stromausfall, Vorsorge und Selbsthilfe](https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/Buergerinformationen/stromausfall-vorsorge-selbsthilfe.pdf?__blob=publicationFile&v=17)
 
@@ -215,34 +215,30 @@ Source: [Ready.gov: People with Disabilities](https://www.ready.gov/disability) 
 
 ## If you cannot call your care provider
 
-During a power cut, mobile masts last one to two hours, mobile internet drops out quickly and most landlines stop working (FPS Economy). Personal alarm systems can also fail (BBK). If you depend on oxygen, dialysis, home ventilation or another device, arrange in advance what will happen if nobody can be reached.
+During a power cut, mobile masts last one to two hours, mobile internet drops out quickly and most landlines stop working (FPS Economy). Personal alarm systems can also fail (BBK). If you depend on a device or treatment, arrange in advance what will happen if nobody can be reached. The arrangements for your device and your treatment centre are in the two sections above.
 
 **Agree in advance**
 
-- Discuss with your care providers what to do if your device breaks down (Crisis Center). Also agree how you will reach each other in an emergency and think of alternatives if you have no phone or internet (Crisis Center).
-- If you use home nursing care or a personal alarm system, ask whether and how those services will continue during a long power cut (BBK).
-- If you receive treatment at a clinic or hospital, ask about their emergency plan and find a back-up address together (Ready.gov). Know the location of more than one place that can help you (Ready.gov).
-- Find out how long the battery of your device lasts and where else you could be looked after (FPS Economy).
-- Ask your municipality what arrangements it has made for a power cut, for example an information and reception point for the public (FPS Economy). In Germany, the BBK recommends asking the municipality where you can report an emergency if the telephone network fails.
-- Agree with your neighbours how you will reach each other without phone or internet, and who needs extra help (Crisis Center, plan for your neighbourhood).
-- Make sure at least one person in your support network has a key, knows where your supply is and knows how to operate your life-saving devices (Ready.gov). See below under people who depend on care.
+- Agree with your care providers how you will reach each other in an emergency, also without phone or internet (Crisis Center).
+- Ask your municipality what arrangements it has made for a power cut, such as an information and reception point for the public (FPS Economy). In Germany, the BBK recommends asking where you can report an emergency if the telephone network fails.
+- Agree with your neighbours how you will reach each other without phone or internet, and who needs extra help (Crisis Center).
 
 **On paper**
 
-- A list with the name, address and telephone number of your care providers and contacts. That way you can find each other again, even if your mobile is flat (Crisis Center).
-- A list of the nearest medical facilities and hospitals and of adapted transport (Ready.gov).
-- The type and serial number of your devices, with the operating instructions (Ready.gov), and your medication list.
-- Keep your contact list in waterproof packaging with your emergency kit (Ready.gov).
+- The name, address and telephone number of your care providers and contacts, so that you can find each other again, even if your mobile is flat (Crisis Center).
+- The nearest medical facilities and hospitals and adapted transport (Ready.gov).
+- The list of your devices and your medication list.
+- Keep this in waterproof packaging with your emergency kit (Ready.gov).
 
 **When it happens and you cannot get through**
 
 1. Follow the arrangements you made in advance.
-2. Ask for help in your neighbourhood (FPS Economy), from neighbours, family and the people in your support network (Ready.gov). The BBK recommends talking to your neighbours: they may need help or be able to help you.
-3. Follow the information from the authorities on a battery radio or the car radio (FPS Economy). The municipality can open an information and reception point for the public (FPS Economy).
-4. If the battery of a life-sustaining device lasts less long than the interruption, you will need to be looked after somewhere else (FPS Economy). Go to the place you agreed in advance.
+2. Ask for help in your neighbourhood, from neighbours, family and your support network (FPS Economy, Ready.gov). Talk to your neighbours: they may need help or be able to help you (BBK).
+3. Follow the information from the authorities on a battery radio or the car radio. The municipality can open an information and reception point (FPS Economy).
+4. If the battery of a life-sustaining device lasts less long than the interruption, go to the place of care you agreed in advance (FPS Economy).
 5. If there is a danger to life: call 112 or have someone call. If that does not work, see Emergency numbers in the app, If you cannot call. The map in the app (Nearest button) shows hospitals, fire stations, police and town halls.
 
-Good to know: general and psychiatric hospitals are among the priority users. During load shedding, they are in principle not cut off, or are reconnected with priority. Residential care homes and care centres are not among them (FPS Economy). In Germany, the BBK recommends that, if the emergency numbers do not work, in an emergency you go to the nearest police station or hospital if possible.
+Good to know: during load shedding, general and psychiatric hospitals are in principle not cut off, or are reconnected with priority; residential care homes and care centres are not (FPS Economy). In Germany, the BBK recommends that, if the emergency numbers do not work, in an emergency you go to the nearest police station or hospital if possible.
 
 Source: [FPS Economy: questions from households about electricity shortages](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door) · [National Crisis Center: A plan for people who need extra help](https://crisiscenter.be/en/what-can-you-do/make-plan/people-who-need-additional-help) · [National Crisis Center: A plan at home](https://crisiscenter.be/en/what-can-you-do/make-plan/emergency-plan-home) · [National Crisis Center: A plan for your neighbourhood or association](https://crisiscenter.be/en/what-can-you-do/make-plan/plan-your-neighbourhood-association-or-club) · [112.be: Frequently asked questions](https://112.be/en/frequently-asked-questions) · [BBK: Stromausfall, Vorsorge und Selbsthilfe](https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/Buergerinformationen/stromausfall-vorsorge-selbsthilfe.pdf?__blob=publicationFile&v=17) · [BBK: Vorsorgen für Krisen und Katastrophen](https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/Buergerinformationen/Ratgeber/BBK-Vorsorgen-fuer-Krisen-und-Katastrophen.pdf?__blob=publicationFile&v=44) · [Ready.gov: People with Disabilities](https://www.ready.gov/disability) · [Ready.gov: Older Adults](https://www.ready.gov/older-adults)
 
@@ -269,11 +265,9 @@ Source: [FPS Economy: questions from households about electricity shortages](htt
 - As preparation, while the internet works: register with Farmastatus to receive automatic emails when the availability of a medicine changes, and read what you can do yourself on farmainfo.be.
 - The Federal Agency for Medicines and Health Products (FAMHP) monitors the supply; manufacturers must report unavailability.
 
-**If care is temporarily unavailable.** See the section If you cannot call your care provider. In Germany, the BBK writes: if the emergency numbers no longer work, in an emergency go to the nearest police station or hospital if possible. The WHO lists care for chronic conditions among the things people often need after a disaster (see the guide on evacuation).
+**If care is temporarily unavailable.** See If you cannot call your care provider. The WHO lists care for chronic conditions among what people often need after a disaster (see the guide on evacuation).
 
-**Consultation.** For insulin, the FDA explicitly says that switching to another product should only be done under a doctor's supervision.
-
-Source: [APB, apotheek.be: pharmacy on duty](https://www.apotheek.be/Pharmacy/Article/wat-je-moet-weten-over-de-apotheek-van-wacht~1236) · [National Crisis Center: brochure Prepared together](https://crisiscenter.be/sites/default/files/documents/files/WEB-Brochure%20Prepared%20Together-EN.pdf) · [National Crisis Center: Disruption of the supply of medicines](https://crisiscenter.be/en/risks-belgium/societal-risks/failure-medicine-supply) · [BBK: Vorsorgen für Krisen und Katastrophen](https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/Buergerinformationen/Ratgeber/BBK-Vorsorgen-fuer-Krisen-und-Katastrophen.pdf?__blob=publicationFile&v=44) · [FDA: Information Regarding Insulin Storage](https://www.fda.gov/drugs/emergency-preparedness-drugs/information-regarding-insulin-storage-and-switching-between-products-emergency) · [WHO: Psychological first aid](https://psychiatry.uw.edu/wp-content/uploads/2020/04/1.-WHO_PFA_2011.pdf)
+Source: [APB, apotheek.be: pharmacy on duty](https://www.apotheek.be/Pharmacy/Article/wat-je-moet-weten-over-de-apotheek-van-wacht~1236) · [National Crisis Center: brochure Prepared together](https://crisiscenter.be/sites/default/files/documents/files/WEB-Brochure%20Prepared%20Together-EN.pdf) · [National Crisis Center: Disruption of the supply of medicines](https://crisiscenter.be/en/risks-belgium/societal-risks/failure-medicine-supply) · [WHO: Psychological first aid](https://psychiatry.uw.edu/wp-content/uploads/2020/04/1.-WHO_PFA_2011.pdf)
 
 ## Aids
 
@@ -295,7 +289,7 @@ Source: [BBK: Vorsorgen für Krisen und Katastrophen](https://www.bbk.bund.de/Sh
 
 - Prepare to care for family members who need nursing care yourself for a while if necessary (BBK).
 - Build a support network of family, friends and others who can help. Make sure at least one person has a key to the home, knows where the emergency supply is and knows how to operate life-saving devices or administer medicines (Ready.gov, older adults).
-- Agree on how you will reach each other in an emergency, even if phone and internet are not working (Crisis Center). People around you can register your address in BE-Alert, so that they also receive a message for as long as the network works (Crisis Center).
+- People around you can register your address in BE-Alert, so that they also receive a message for as long as the network works (Crisis Center).
 - If you receive help from the municipality or home care, talk with your family, neighbours, assistants or care coordinator about what help you will need, and make a plan with your medicines and aids (MCF).
 
 **In a residential care home.** Ask about emergency power planning or a connection for emergency power (BBK).

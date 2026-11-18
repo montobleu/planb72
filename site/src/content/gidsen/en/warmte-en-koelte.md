@@ -108,8 +108,8 @@ The sources do not say which room to choose. Choose a room that you can ventilat
 
 **5. Going to a warm place**
 
-- Go to a place in the municipality with power if the heat or cold is extreme (Ready.gov). Ready.gov recommends checking with the local authorities which warm or cool places are open.
-- In Belgium, mayors and governors have prepared emergency measures for load shedding, such as an information and reception point for the public. Ask your municipality in advance what arrangements it has made. During the interruption, follow the information from the authorities on a battery radio or the car radio, or ask for help in your neighbourhood (FPS Economy).
+- Go to a place in the municipality with power if the heat or cold is extreme, and check which warm or cool places are open (Ready.gov).
+- In Belgium, mayors and governors have prepared emergency measures for load shedding, such as an information and reception point. Ask your municipality in advance what it has arranged. During the interruption: follow a battery radio or the car radio and ask for help in your neighbourhood (FPS Economy).
 
 **What not to do**
 
@@ -187,12 +187,12 @@ Source: [Poison Centre: Preventing CO poisoning](https://www.poisoncentre.be/app
 **What to do (Poison Centre)**
 
 1. Never enter a room where an unconscious casualty is lying. Protect yourself.
-2. Call the emergency services immediately, or have someone call. If you cannot get through, see Emergency numbers in the app, If you cannot call.
+2. Call the emergency services immediately, or have someone call.
 3. Open windows and doors, if you can do so without risk to yourself.
 4. If the casualty is unconscious: call 112 and say that CO is suspected. If possible, switch off the appliance. Get the casualty out of the room. If the casualty is no longer breathing, give mouth-to-mouth ventilation; according to the Poison Centre, this is safe. If the casualty is still breathing, lay them on their side without a pillow.
 5. If the casualty is conscious: call the GP, if the network works.
 
-If you cannot get through: leave the casualty only if there is no other option, and designate a bystander or neighbour to fetch help. Tell them where it is, what happened (probably CO), how many casualties there are and what state they are in.
+If you cannot get through: leave the casualty only if you have to, and send a bystander or neighbour for help, with the message that it is probably CO. See Emergency numbers in the app, If you cannot call.
 
 The Poison Centre can be reached free of charge 24 hours out of 24 on 070 245 245, if the network works. Write the number down in advance on your paper list. See also the scenario card on CO.
 
@@ -290,9 +290,9 @@ Ready.gov:
 | Heat exhaustion | heavy sweating, paleness, muscle cramps, tiredness, weakness, fast or weak pulse, dizziness, headache, fainting, nausea, vomiting | same as for heat cramps |
 | Heat stroke | the source gives no separate signs here | call 112 or take the person to a hospital; move them to a cool, shady place; remove outer clothing; put cold wet cloths or ice on the head, neck, armpits and groin, or wet the clothing with cool water; raise the feet |
 
-The Crisis Center: if you have cramps, a high fever, a headache or feel faint, call your GP. Only call 112 in a life-threatening situation. If you cannot get through, have someone else call or ask for help in your neighbourhood (see Emergency numbers, If you cannot call). For heat stroke, Ready.gov also says: take the person to a hospital.
+The Crisis Center: if you have cramps, a high fever, a headache or feel faint, call your GP. Only call 112 in a life-threatening situation. If you cannot get through, see Emergency numbers in the app, If you cannot call.
 
-Source: [Ready.gov: Extreme Heat](https://www.ready.gov/heat) · [National Crisis Center: Heatwave](https://crisiscenter.be/en/risks-belgium/natural-risks/heatwave) · [FPS Economy: questions from households about electricity shortages](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door) · [112.be: Frequently asked questions](https://112.be/en/frequently-asked-questions)
+Source: [Ready.gov: Extreme Heat](https://www.ready.gov/heat) · [National Crisis Center: Heatwave](https://crisiscenter.be/en/risks-belgium/natural-risks/heatwave)
 
 ## Heat by person
 

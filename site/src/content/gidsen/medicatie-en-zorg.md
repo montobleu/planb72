@@ -95,7 +95,7 @@ Bron: [Nationaal Crisiscentrum: Een plan voor wie extra hulp nodig heeft](https:
 
 - Steek flessen en verpakkingen in waterdichte containers, zoals plastic dozen met deksel, en bewaar ze hoog als er overstromingsgevaar is (FDA).
 - Organiseer en bescherm je geneesmiddelen op voorschrift, je vrij verkrijgbare middelen en je vitaminen (Ready.gov).
-- Hou een koelbox en koude kompressen of ijs klaar voor geneesmiddelen die gekoeld moeten worden (Ready.gov, FDA).
+- Voor geneesmiddelen die gekoeld moeten worden: zie verder, Andere geneesmiddelen die koel moeten blijven.
 
 Bron: [FDA: Safe Drug Use After a Natural Disaster](https://www.fda.gov/drugs/emergency-preparedness-drugs/safe-drug-use-after-natural-disaster) · [Ready.gov: Build A Kit](https://www.ready.gov/kit) · [Ready.gov: People with Disabilities](https://www.ready.gov/disability)
 
@@ -140,8 +140,8 @@ De FDA geeft deze richtlijnen. Ze gaan uit van de etiketten van de Amerikaanse f
 - Hou insuline zo koel mogelijk.
 - Gebruik je ijs, laat de insuline dan niet bevriezen. Gebruik geen insuline die bevroren is geweest.
 - Hou insuline weg van directe warmte en zonlicht.
-- Extreme temperaturen maken insuline minder werkzaam. Hoe langer ze eraan blootgesteld is, hoe minder ze werkt, wat het moeilijker maakt je bloedsuiker te regelen. In noodomstandigheden kan het zijn dat je toch insuline moet gebruiken die boven 30 °C bewaard werd.
-- Sommige producten hebben een andere bewaartijd buiten de koelkast. De FDA noemt als voorbeeld een insuline die eenmaal per week gegeven wordt en tot 12 weken onder 30 °C bewaard mag worden. Kijk in de bijsluiter van je eigen product.
+- Extreme temperaturen maken insuline minder werkzaam: hoe langer, hoe moeilijker je je bloedsuiker regelt. In noodomstandigheden kan het zijn dat je toch insuline moet gebruiken die boven 30 °C bewaard werd.
+- Sommige producten hebben een andere bewaartijd, zoals een insuline die eenmaal per week gegeven wordt en tot 12 weken onder 30 °C bewaard mag worden. Kijk in de bijsluiter van je eigen product.
 
 **Insulinepomp**
 
@@ -158,7 +158,7 @@ Bron: [FDA: Information Regarding Insulin Storage and Switching Between Products
 
 **Vooraf**
 
-- Hou een koelbox en ijs of bevroren koelelementen klaar en volg de bewaarinstructies op het etiket (FDA).
+- Hou een koelbox en ijs, koude kompressen of bevroren koelelementen klaar en volg de bewaarinstructies op het etiket (FDA, Ready.gov).
 - Vraag je arts hoe lang je geneesmiddel bij een hogere temperatuur bewaard mag worden, en vraag specifieke richtlijnen voor geneesmiddelen die levensnoodzakelijk zijn (Ready.gov).
 
 **Na een onderbreking: de bronnen verschillen**
@@ -166,7 +166,7 @@ Bron: [FDA: Information Regarding Insulin Storage and Switching Between Products
 - De FDA: werd een geneesmiddel niet op de aanbevolen temperatuur bewaard, bekijk dan de bewaarinstructies of vraag een apotheker, arts of de fabrikant of je het nog mag gebruiken. Is het geneesmiddel levensnoodzakelijk, zoals insuline, en is er niet meteen vervanging, dan mag je het gebruiken tot je een nieuwe voorraad hebt. Vervang het zo snel mogelijk.
 - Ready.gov: was de stroom langer dan een dag weg, gooi dan geneesmiddelen weg die gekoeld moeten worden, tenzij het etiket iets anders zegt, en vraag meteen je arts of apotheker om een nieuwe voorraad.
 
-Beide bronnen vragen zo snel mogelijk raad aan je apotheker of arts. Volgens de FDA mag je een levensnoodzakelijk geneesmiddel blijven gebruiken tot je vervanging hebt.
+Beide bronnen vragen zo snel mogelijk raad aan je apotheker of arts.
 
 Bron: [FDA: Safe Drug Use After a Natural Disaster](https://www.fda.gov/drugs/emergency-preparedness-drugs/safe-drug-use-after-natural-disaster) · [Ready.gov: Power Outages](https://www.ready.gov/power-outages)
 
@@ -192,12 +192,12 @@ Bron: [FDA: Safe Drug Use After a Natural Disaster](https://www.fda.gov/drugs/em
 - Hou een reservevoorraad zuurstof (Ready.gov).
 - Maak een lijst met het type en serienummer van je medische toestellen, met eventuele gebruiksinstructies (Ready.gov).
 - Koop een extra batterij voor toestellen op batterijen en hou ze opgeladen (Ready.gov).
-- Wacht niet tot een stroomonderbreking. Ga na hoe lang de volledig opgeladen interne batterij van je toestel meegaat. Is dat korter dan de onderbreking kan duren, dan heb je opvang op een andere plaats nodig: bekijk die mogelijkheden vooraf (FOD Economie).
+- Ga vooraf na hoe lang de volledig opgeladen interne batterij van je toestel meegaat. Is dat korter dan de onderbreking kan duren, dan heb je opvang op een andere plaats nodig: bekijk die mogelijkheden vooraf (FOD Economie).
 - Gebruik je een toestel met tussenpozen, zoals bij thuisdialyse, zorg dan dat het niet aangesloten is op het moment van een aangekondigde afschakeling (FOD Economie).
 
-**Wat de BBK zegt over thuisverpleging.** Bij een stroomuitval kunnen in de thuisverpleging toestellen uitvallen die levensnoodzakelijk kunnen zijn, zoals beademingstoestellen. Diensten zoals personenalarmering en maaltijden aan huis kunnen verstoord raken of uitvallen. Gebruik je zulke diensten, vraag dan of en hoe ze bij een langere stroomuitval doorgaan.
+**Thuisverpleging (BBK).** Bij een stroomuitval kunnen levensnoodzakelijke toestellen zoals beademingstoestellen uitvallen, en diensten zoals personenalarmering en maaltijden aan huis kunnen wegvallen. Vraag of en hoe ze bij een langere stroomuitval doorgaan.
 
-Zie ook de gids over licht en energie voor batterijen, powerbanks en generatoren, en hieronder wat je doet als je je zorgverlener niet kunt bellen.
+Zie ook de gids over licht en energie voor batterijen, powerbanks en generatoren.
 
 Bron: [Nationaal Crisiscentrum: Een plan voor wie extra hulp nodig heeft](https://crisiscentrum.be/nl/wat-kan-jij-doen/maak-een-plan/een-plan-voor-wie-extra-hulp-nodig-heeft) · [FOD Economie: vragen van gezinnen over elektriciteitsschaarste](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door) · [Ready.gov: People with Disabilities](https://www.ready.gov/disability) · [Ready.gov: Power Outages](https://www.ready.gov/power-outages) · [BBK: Stromausfall, Vorsorge und Selbsthilfe](https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/Buergerinformationen/stromausfall-vorsorge-selbsthilfe.pdf?__blob=publicationFile&v=17)
 
@@ -213,34 +213,30 @@ Bron: [Ready.gov: People with Disabilities](https://www.ready.gov/disability) ·
 
 ## Als je je zorgverlener niet kunt bellen
 
-Bij een stroomonderbreking houden gsm-masten het één tot twee uur, mobiel internet valt snel weg en de meeste vaste lijnen werken niet meer (FOD Economie). Ook personenalarmering kan uitvallen (BBK). Wie afhankelijk is van zuurstof, dialyse, thuisbeademing of een ander toestel, regelt daarom vooraf wat er gebeurt als niemand te bereiken is.
+Bij een stroomonderbreking houden gsm-masten het één tot twee uur, mobiel internet valt snel weg en de meeste vaste lijnen werken niet meer (FOD Economie). Ook personenalarmering kan uitvallen (BBK). Wie afhankelijk is van een toestel of behandeling, regelt daarom vooraf wat er gebeurt als niemand te bereiken is. De afspraken over je toestel en je behandelcentrum staan in de twee secties hierboven.
 
 **Vooraf afspreken**
 
-- Bespreek met je zorgverleners wat je doet bij een panne van je toestel (Crisiscentrum). Spreek ook af hoe jullie elkaar in nood bereiken en denk aan alternatieven als je geen telefoon of internet hebt (Crisiscentrum).
-- Gebruik je thuisverpleging of personenalarmering, vraag dan of en hoe die diensten bij een lange stroomuitval doorgaan (BBK).
-- Krijg je een behandeling in een kliniek of ziekenhuis, vraag dan naar hun noodplan en zoek samen een reserveadres (Ready.gov). Ken de ligging van meer dan één plaats die je kan helpen (Ready.gov).
-- Ga na hoe lang de batterij van je toestel meegaat en waar je anders opgevangen kunt worden (FOD Economie).
-- Vraag je gemeente welke oplossingen ze bij een stroomonderbreking voorziet, bijvoorbeeld een informatie- en onthaalpunt voor de bevolking (FOD Economie). In Duitsland raadt het BBK aan bij de gemeente te vragen waar je een noodmelding kunt doen als het telefoonnet uitvalt.
-- Spreek met je buren af hoe jullie elkaar bereiken zonder telefoon of internet, en wie extra hulp nodig heeft (Crisiscentrum, plan in je buurt).
-- Zorg dat minstens één persoon uit je steunnetwerk een sleutel heeft, weet waar je voorraad ligt en weet hoe hij je levensreddende toestellen bedient (Ready.gov). Zie hieronder bij zorgafhankelijke personen.
+- Spreek met je zorgverleners af hoe jullie elkaar in nood bereiken, ook zonder telefoon of internet (Crisiscentrum).
+- Vraag je gemeente welke oplossingen ze bij een stroomonderbreking voorziet, zoals een informatie- en onthaalpunt voor de bevolking (FOD Economie). In Duitsland raadt het BBK aan te vragen waar je een noodmelding kunt doen als het telefoonnet uitvalt.
+- Spreek met je buren af hoe jullie elkaar bereiken zonder telefoon of internet, en wie extra hulp nodig heeft (Crisiscentrum).
 
 **Op papier**
 
-- Een lijst met naam, adres en telefoonnummer van je zorgverleners en contactpersonen. Zo vind je elkaar terug, ook als je gsm leeg is (Crisiscentrum).
-- Een lijst van de dichtstbijzijnde medische voorzieningen en ziekenhuizen en van aangepast vervoer (Ready.gov).
-- Het type en serienummer van je toestellen, met de gebruiksinstructies (Ready.gov), en je medicatielijst.
-- Bewaar je contactlijst in een waterdichte verpakking bij je noodpakket (Ready.gov).
+- Naam, adres en telefoonnummer van je zorgverleners en contactpersonen, zodat je elkaar terugvindt, ook als je gsm leeg is (Crisiscentrum).
+- De dichtstbijzijnde medische voorzieningen en ziekenhuizen en aangepast vervoer (Ready.gov).
+- De lijst van je toestellen en je medicatielijst.
+- Bewaar dit in een waterdichte verpakking bij je noodpakket (Ready.gov).
 
 **Als het zover is en bellen lukt niet**
 
 1. Volg de afspraken die je vooraf maakte.
-2. Vraag hulp in je buurt (FOD Economie), bij buren, familie en de mensen uit je steunnetwerk (Ready.gov). Het BBK raadt aan je buren aan te spreken: misschien hebben zij hulp nodig of kunnen ze jou helpen.
-3. Volg de informatie van de overheid via een radio op batterijen of de autoradio (FOD Economie). De gemeente kan een informatie- en onthaalpunt voor de bevolking openen (FOD Economie).
-4. Gaat de batterij van een levensnoodzakelijk toestel minder lang mee dan de onderbreking, dan heb je opvang op een andere plaats nodig (FOD Economie). Ga naar de plek die je vooraf afsprak.
+2. Vraag hulp in je buurt, bij buren, familie en je steunnetwerk (FOD Economie, Ready.gov). Spreek je buren aan: misschien hebben zij hulp nodig of kunnen ze jou helpen (BBK).
+3. Volg de informatie van de overheid via een radio op batterijen of de autoradio. De gemeente kan een informatie- en onthaalpunt openen (FOD Economie).
+4. Gaat de batterij van een levensnoodzakelijk toestel minder lang mee dan de onderbreking, ga dan naar de opvangplek die je vooraf afsprak (FOD Economie).
 5. Is er levensgevaar: bel 112 of laat iemand bellen. Lukt dat niet, zie Noodnummers in de app, Als bellen niet lukt. De kaart in de app (knop Dichtstbij) toont ziekenhuizen, brandweer, politie en gemeentehuizen.
 
-Om te weten: algemene en psychiatrische ziekenhuizen horen bij de prioritaire gebruikers. Bij een afschakeling worden ze in principe niet afgeschakeld, of met voorrang opnieuw bevoorraad. Rusthuizen en zorgcentra horen daar niet bij (FOD Economie). In Duitsland raadt het BBK aan om, als de noodnummers niet werken, bij een noodgeval zo mogelijk naar het dichtstbijzijnde politiekantoor of ziekenhuis te gaan.
+Om te weten: algemene en psychiatrische ziekenhuizen worden bij een afschakeling in principe niet afgeschakeld of met voorrang opnieuw bevoorraad; rusthuizen en zorgcentra niet (FOD Economie). In Duitsland raadt het BBK aan om, als de noodnummers niet werken, bij een noodgeval zo mogelijk naar het dichtstbijzijnde politiekantoor of ziekenhuis te gaan.
 
 Bron: [FOD Economie: vragen van gezinnen over elektriciteitsschaarste](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door) · [Nationaal Crisiscentrum: Een plan voor wie extra hulp nodig heeft](https://crisiscentrum.be/nl/wat-kan-jij-doen/maak-een-plan/een-plan-voor-wie-extra-hulp-nodig-heeft) · [Nationaal Crisiscentrum: Een plan bij je thuis](https://crisiscentrum.be/nl/wat-kan-jij-doen/maak-een-plan/een-plan-bij-je-thuis) · [Nationaal Crisiscentrum: Een plan in jouw buurt of vereniging](https://crisiscentrum.be/nl/wat-kan-jij-doen/maak-een-plan/een-plan-jouw-buurt-vereniging) · [112.be: Veelgestelde vragen](https://112.be/nl/veelgestelde-vragen) · [BBK: Stromausfall, Vorsorge und Selbsthilfe](https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/Buergerinformationen/stromausfall-vorsorge-selbsthilfe.pdf?__blob=publicationFile&v=17) · [BBK: Vorsorgen für Krisen und Katastrophen](https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/Buergerinformationen/Ratgeber/BBK-Vorsorgen-fuer-Krisen-und-Katastrophen.pdf?__blob=publicationFile&v=44) · [Ready.gov: People with Disabilities](https://www.ready.gov/disability) · [Ready.gov: Older Adults](https://www.ready.gov/older-adults)
 
@@ -267,11 +263,9 @@ Bron: [FOD Economie: vragen van gezinnen over elektriciteitsschaarste](https://e
 - Als voorbereiding, zolang het internet werkt: schrijf je in op Farmastatus om automatisch e-mails te krijgen als de beschikbaarheid van een geneesmiddel verandert, en lees wat je zelf kunt doen op farmainfo.be.
 - Het Federaal Agentschap voor Geneesmiddelen en Gezondheidsproducten (FAGG) waakt over de bevoorrading; fabrikanten moeten onbeschikbaarheden melden.
 
-**Als zorg tijdelijk niet bereikbaar is.** Zie de sectie Als je je zorgverlener niet kunt bellen. In Duitsland schrijft het BBK: werken de noodnummers niet meer, ga dan bij een noodgeval zo mogelijk naar het dichtstbijzijnde politiekantoor of ziekenhuis. Het WHO noemt zorg voor chronische aandoeningen bij de dingen die mensen na een ramp vaak nodig hebben (zie de gids over evacuatie).
+**Als zorg tijdelijk niet bereikbaar is.** Zie Als je je zorgverlener niet kunt bellen. Het WHO noemt zorg voor chronische aandoeningen bij wat mensen na een ramp vaak nodig hebben (zie de gids over evacuatie).
 
-**Overleg.** De FDA zegt bij insuline uitdrukkelijk dat overschakelen op een ander product alleen onder toezicht van een arts gebeurt.
-
-Bron: [APB, apotheek.be: apotheek van wacht](https://www.apotheek.be/Pharmacy/Article/wat-je-moet-weten-over-de-apotheek-van-wacht~1236) · [Nationaal Crisiscentrum: brochure Samen voorbereid](https://crisiscentrum.be/sites/default/files/documents/files/WEB-Brochure%20Samen%20voorbereid-NL.pdf) · [Nationaal Crisiscentrum: Verstoring van de geneesmiddelenbevoorrading](https://crisiscentrum.be/nl/risicos-belgie/maatschappelijke-risicos/verstoring-van-de-geneesmiddelen-bevoorrading) · [BBK: Vorsorgen für Krisen und Katastrophen](https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/Buergerinformationen/Ratgeber/BBK-Vorsorgen-fuer-Krisen-und-Katastrophen.pdf?__blob=publicationFile&v=44) · [FDA: Information Regarding Insulin Storage](https://www.fda.gov/drugs/emergency-preparedness-drugs/information-regarding-insulin-storage-and-switching-between-products-emergency) · [WHO: Psychological first aid](https://psychiatry.uw.edu/wp-content/uploads/2020/04/1.-WHO_PFA_2011.pdf)
+Bron: [APB, apotheek.be: apotheek van wacht](https://www.apotheek.be/Pharmacy/Article/wat-je-moet-weten-over-de-apotheek-van-wacht~1236) · [Nationaal Crisiscentrum: brochure Samen voorbereid](https://crisiscentrum.be/sites/default/files/documents/files/WEB-Brochure%20Samen%20voorbereid-NL.pdf) · [Nationaal Crisiscentrum: Verstoring van de geneesmiddelenbevoorrading](https://crisiscentrum.be/nl/risicos-belgie/maatschappelijke-risicos/verstoring-van-de-geneesmiddelen-bevoorrading) · [WHO: Psychological first aid](https://psychiatry.uw.edu/wp-content/uploads/2020/04/1.-WHO_PFA_2011.pdf)
 
 ## Hulpmiddelen
 
@@ -293,7 +287,7 @@ Bron: [BBK: Vorsorgen für Krisen und Katastrophen](https://www.bbk.bund.de/Shar
 
 - Tref voorbereidingen om pleegbehoevende familieleden zo nodig een tijd zelf te verzorgen (BBK).
 - Bouw een steunnetwerk van familie, vrienden en anderen die kunnen helpen. Zorg dat minstens één persoon een sleutel van de woning heeft, weet waar de noodvoorraad ligt en weet hoe hij levensreddende toestellen bedient of geneesmiddelen toedient (Ready.gov, ouderen).
-- Spreek af hoe jullie elkaar bereiken in nood, ook als telefoon en internet niet werken (Crisiscentrum). Mensen uit je omgeving kunnen je adres registreren in BE-Alert, zodat ook zij een bericht krijgen zolang het netwerk werkt (Crisiscentrum).
+- Mensen uit je omgeving kunnen je adres registreren in BE-Alert, zodat ook zij een bericht krijgen zolang het netwerk werkt (Crisiscentrum).
 - Krijg je hulp van de gemeente of thuiszorg, praat dan met je familie, buren, assistenten of zorgverantwoordelijke over welke hulp je nodig zult hebben, en maak een plan met je geneesmiddelen en hulpmiddelen (MCF).
 
 **In een woonzorgcentrum.** Vraag naar de noodstroomplanning of een aansluiting voor noodstroom (BBK).

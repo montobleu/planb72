@@ -45,7 +45,7 @@ Koolstofmonoxide (CO) is een gas zonder kleur, geur of smaak. Je kunt het zelf n
 
 CO is in België de belangrijkste oorzaak van dodelijke vergiftiging. Elk jaar sterven enkele tientallen mensen en belanden ongeveer 1.000 mensen in het ziekenhuis. De meeste ongevallen gebeuren in het stookseizoen, van oktober tot april. Bijna de helft van de slachtoffers is jonger dan 30 jaar. Er is weinig nodig: 0,1 procent CO in de lucht is binnen 1 tot 3 uur dodelijk, 1 procent al binnen 15 minuten.
 
-**Snelle vergiftiging (acuut).** Eerst krijg je hoofdpijn en word je duizelig. Je voelt je heel moe en je kunt misselijk worden en braken. Wie niet beseft dat hij de ruimte moet verlaten, raakt bewusteloos en kan zichzelf dan niet meer redden. Bij hoge concentraties volgen snel een diep coma en overlijden. Bij kinderen is buikpijn een vaak voorkomende klacht.
+**Snelle vergiftiging (acuut).** Eerst krijg je hoofdpijn en word je duizelig. Je voelt je heel moe en je kunt misselijk worden en braken. Wie niet beseft dat hij de ruimte moet verlaten, raakt bewusteloos en kan zichzelf dan niet meer redden. Bij hoge concentraties volgen snel een diep coma en overlijden.
 
 **Langzame vergiftiging (chronisch).** Wie lang kleine hoeveelheden inademt, krijgt vage klachten: hoofdpijn, een zware maag, spierzwakte, moeite met concentreren en wisselende stemming. Een arts herkent dit niet gemakkelijk.
 
@@ -119,12 +119,7 @@ Bron: [Antigifcentrum: brochure CO](https://www.poisoncentre.be/app/uploads/2026
 
 Kun je de ramen niet openzetten zonder risico voor jezelf, ga dan meteen naar buiten.
 
-**Lukt bellen niet**
-
-- Laat buren of omstanders bellen of probeer een ander toestel. Verplaats je enkele meters en probeer opnieuw.
-- Kun je nog bellen maar is 112 onbereikbaar, probeer dan 101.
-- Werkt bellen helemaal niet: vraag hulp in je buurt. Wijs iemand rechtstreeks aan om hulp te halen en geef mee waar het is, wat er gebeurd is, hoeveel slachtoffers er zijn en hoe ze eraan toe zijn. Laat een slachtoffer alleen als er geen andere mogelijkheid is.
-- Zie ook Noodnummers in de app, Als bellen niet lukt.
+Lukt bellen niet, laat iemand anders bellen of stuur iemand om hulp in je buurt. Laat een slachtoffer alleen als het niet anders kan. Zie Noodnummers in de app, Als bellen niet lukt.
 
 **Iemand is bewusteloos.**
 
@@ -133,7 +128,7 @@ Kun je de ramen niet openzetten zonder risico voor jezelf, ga dan meteen naar bu
 - Ademt het slachtoffer niet, begin dan met beademen. Mond-op-mondbeademing is veilig: je loopt daarbij geen risico op CO-vergiftiging.
 - Ademt het slachtoffer wel, leg hem dan op zijn zij, zonder hoofdkussen. Zo stikt hij niet in braaksel.
 
-**Iemand is bij bewustzijn en antwoordt op je vragen.** Breng hem in de frisse lucht en laat hem nakijken door een arts. Werkt het netwerk, bel dan de huisarts. Heb je vragen, bel dan, als het netwerk werkt, het Antigifcentrum op 070 245 245. Een arts antwoordt, 24 uur per dag, 7 dagen per week. De oproep is gratis.
+**Iemand is bij bewustzijn en antwoordt op je vragen.** Breng hem in de frisse lucht en laat hem nakijken door een arts. Werkt het netwerk, bel dan de huisarts, en bij vragen het Antigifcentrum op 070 245 245. Een arts antwoordt, 24 uur per dag, 7 dagen per week. De oproep is gratis.
 
 ### Buiten of onderweg
 
@@ -179,7 +174,6 @@ Bron: [Antigifcentrum: brochure CO](https://www.poisoncentre.be/app/uploads/2026
 - Gebruik het toestel niet meer tot een erkend vakman het heeft nagekeken. Bel ook een vakman bij een oranje vlam, roet, roest of corrosie.
 - Laat ook de schoorsteen en de aansluiting controleren. Het geheel van toestel en schoorsteen moet dicht zijn.
 - Laat je nakijken door een arts. Wie bij bewustzijn is, belt de huisarts als het netwerk werkt. Na een ernstige vergiftiging treedt soms later nog hersenschade op. Een normale bloedwaarde sluit een vergiftiging niet uit, omdat CO na een tijd uit het bloed verdwijnt.
-- Woon je in een huurhuis, meld dan de nodige herstellingen meteen aan de eigenaar.
 - Hing er nog geen melder, plaats er dan een volgens de regels hierboven.
 
 Bron: [Antigifcentrum: brochure CO](https://www.poisoncentre.be/app/uploads/2026/02/Brochure-CO-vergiftiging-voorkomen-NL-1.pdf) · [Antigifcentrum: CO in detail](https://www.antigifcentrum.be/koolstofmonoxide)

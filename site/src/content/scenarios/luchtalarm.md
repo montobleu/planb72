@@ -63,7 +63,7 @@ bronnen:
 
 **De Belgische situatie.** Het Nationaal Crisiscentrum beschrijft een internationaal gewapend conflict als een risico met een zeer lage waarschijnlijkheid. Het scenario dat het onderzocht, speelt zich af op NAVO-grondgebied buiten België. Het Crisiscentrum geeft op die pagina geen eigen stappen voor een luchtaanval. De stappen op deze kaart komen daarom uit de officiële gidsen van Duitsland, Zweden, Oekraïne en Polen.
 
-**Hoe je gewaarschuwd wordt.** In België verwittigt de overheid je via radio en tv en via omroepwagens van de politie die in de straat rondrijden. Werkt het netwerk, dan ook via BE-Alert: sms, e-mail of telefoonoproep. Bij een groot noodgeval krijgt iedereen met een gsm in de getroffen zone een Alert-SMS, ook zonder inschrijving. Met een radio op batterijen of een opwindbare radio kun je ook bij een stroompanne naar de media luisteren.
+**Hoe je gewaarschuwd wordt.** In België verwittigt de overheid je via radio en tv en via omroepwagens van de politie. Werkt het netwerk, dan ook via BE-Alert: sms, e-mail of telefoonoproep. Bij een groot noodgeval krijgt iedereen met een gsm in de getroffen zone een Alert-SMS, ook zonder inschrijving. Valt de stroom uit, luister dan naar een radio op batterijen of een opwindbare radio.
 
 **Alarmsignalen in het buitenland.** Elk land heeft zijn eigen sirenesignaal. Ken het signaal van het land waar je verblijft.
 
@@ -81,7 +81,7 @@ Bron: [Nationaal Crisiscentrum: IGC](https://crisiscentrum.be/nl/risicos-belgie/
 - **Leg een noodtas klaar** en zet ze bij de deur. Het Zweedse MCF noemt: water in flessen of blik, eten dat op kamertemperatuur bewaart, hygiëneproducten en toiletpapier, medicatie en een EHBO-doos, warme kleding, identiteitskaart, cash en bankkaarten, sleutels, gsm met lader of powerbank, en een zaklamp. Oekraïne voegt toe: reservebatterijen, dekens of isolatiedekens, een radio op batterijen en een brandblusser. Reken op een verblijf van minstens twee dagen.
 - **Hou thuis een voorraad** voor minstens 3 dagen, zoals het Nationaal Crisiscentrum aanraadt: water, houdbaar eten, een radio, een zaklamp, medicatie.
 - **Verstevig ramen** met kleefsterke folie. Sluit ze als het kan af met zandzakken of stevige meubels.
-- **Maak een plan** met je gezin: wie doet wat, waar je samenkomt, hoe je elkaar bereikt. Spreek af waar je elkaar terugvindt als jullie elkaar niet kunnen bereiken. Spreek ook met je buren af hoe jullie elkaar bereiken zonder telefoon of internet.
+- **Maak een plan** met je gezin: wie doet wat, waar je samenkomt en hoe je elkaar bereikt of terugvindt, ook zonder telefoon of internet. Spreek dat ook met je buren af.
 - **Oefen.** Leg vooraf de route naar je schuilplek vast en volg die bij een alarm.
 
 Bron: [dovidka.info: Shelter](https://dovidka.info/en/what-is-shelter/) · [dovidka.info: combat area](https://dovidka.info/en/in-the-combat-area/) · [MCF: shelters](https://www.mcf.se/en/advice-for-individuals/civil-defence-shelters-evacuation-and-warning-systems/good-to-know-about-civil-defence-shelters/) · [BBK](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Vorsorge/Schutz-suchen/Schutz-vor-Explosion/schutz-vor-explosion_node.html) · [Poolse overheid](https://bip.slaskie.pl/resource/232602/14d_safety_handbook_en.pdf) · [Nationaal Crisiscentrum: noodpakket](https://crisiscentrum.be/nl/wat-kan-jij-doen/maak-een-noodpakket/een-noodpakket-bij-je-thuis) · [Nationaal Crisiscentrum: digitale infrastructuur](https://crisiscentrum.be/nl/risicos-belgie/maatschappelijke-risicos/verstoring-van-de-digitale-infrastructuur) · [Nationaal Crisiscentrum: plan in jouw buurt](https://crisiscentrum.be/nl/wat-kan-jij-doen/maak-een-plan/een-plan-jouw-buurt-vereniging)
@@ -143,7 +143,7 @@ Ga bij een alarm onmiddellijk naar de dichtstbijzijnde beschutting.
 
 ### Kwetsbare personen
 
-- Help ouderen, zieken en mensen met een beperking. Niet iedereen weet dat er gevaar dreigt. Geef hen de belangrijkste informatie en leg uit wat ze moeten doen.
+- Help ouderen, zieken en mensen met een beperking. Niet iedereen weet dat er gevaar dreigt: leg uit wat ze moeten doen.
 - Maak vooraf samen een plan. Help met het inpakken van hun noodtas.
 - Zorg voor genoeg medicatie en voor batterijen van medische toestellen, zoals hoorapparaten en glucosemeters.
 - Kan iemand niet zelf weg, meld dat dan aan de hulpdiensten: ter plaatse, of via 112 als bellen lukt.
@@ -179,7 +179,7 @@ Bron: [BBK](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Vorsorge/Schutz-suchen/S
 - Trek mensen niet zelf onder het puin uit. Roep hulp, hou de persoon stil en rustig en volg de instructies van de hulpverleners. Graaf niet zelf in ruïnes.
 - Zit je zelf vast onder puin: roep om hulp, maak je ledematen voorzichtig vrij en raak niets aan dat het puin ondersteunt.
 - Bel 112 bij nood. Zeg waar, wat en wie belt, en wacht op vragen. Hou oproepen kort.
-- Lukt bellen niet: laat iemand anders bellen of probeer een ander toestel. Werkt bellen helemaal niet, wijs dan een omstander rechtstreeks aan om hulp te halen en geef mee waar het is, wat er gebeurd is, hoeveel slachtoffers er zijn en hoe ze eraan toe zijn. Laat een slachtoffer alleen als er geen andere mogelijkheid is. Zie ook Noodnummers in de app, Als bellen niet lukt.
+- Lukt bellen niet, laat iemand anders bellen of stuur een omstander om hulp. Laat een slachtoffer alleen als het niet anders kan. Zie Noodnummers in de app, Als bellen niet lukt.
 
 **Niet-ontplofte munitie, verdachte voorwerpen en wrakstukken.**
 
@@ -216,7 +216,7 @@ Bron: [dovidka.info: combat area](https://dovidka.info/en/in-the-combat-area/) �
 
 ## Meer informatie
 
-Lees deze pagina's vooraf. Bij een stroomonderbreking kunnen internet en mobiele netwerken uitvallen.
+Vooraf te lezen, of als het internet werkt:
 
 - Duitse richtlijnen over schuilen bij explosies: [BBK](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Vorsorge/Schutz-suchen/Schutz-vor-Explosion/schutz-vor-explosion_node.html)
 - Zweedse richtlijnen over schuilplaatsen en sirenes: [MCF](https://www.mcf.se/en/advice-for-individuals/civil-defence-shelters-evacuation-and-warning-systems/good-to-know-about-civil-defence-shelters/)

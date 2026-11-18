@@ -108,8 +108,8 @@ Les sources ne disent pas quelle pièce elles conseillent. Choisissez une pièce
 
 **5. Aller dans un endroit chaud**
 
-- Allez dans un endroit de la commune où il y a de l'électricité si la chaleur ou le froid est extrême (Ready.gov). Ready.gov conseille de vérifier auprès des autorités locales quels endroits chauds ou frais sont ouverts.
-- En Belgique, les bourgmestres et les gouverneurs ont préparé des mesures d'urgence en vue d'un délestage, comme un point d'information et d'accueil pour la population. Demandez à l'avance à votre commune quelles solutions elle prévoit. Pendant la coupure, suivez les informations des autorités via une radio à piles ou l'autoradio, ou demandez de l'aide dans votre quartier (SPF Économie).
+- Allez dans un endroit de la commune où il y a de l'électricité si la chaleur ou le froid est extrême, et vérifiez quels endroits chauds ou frais sont ouverts (Ready.gov).
+- En Belgique, les bourgmestres et les gouverneurs ont préparé des mesures d'urgence en vue d'un délestage, comme un point d'information et d'accueil. Demandez à l'avance à votre commune ce qu'elle prévoit. Pendant la coupure : suivez la radio à piles ou l'autoradio et demandez de l'aide dans votre quartier (SPF Économie).
 
 **Ce qu'il ne faut pas faire**
 
@@ -187,12 +187,12 @@ Source : [Centre Antipoisons : Prévenir l'intoxication au CO](https://www.centr
 **Ce que vous faites (Centre Antipoisons)**
 
 1. N'entrez jamais dans une pièce où se trouve une victime inconsciente. Protégez-vous.
-2. Appelez immédiatement les services de secours, ou faites appeler quelqu'un. Si l'appel ne passe pas, voir Numéros d'urgence dans l'application, Si l'appel ne passe pas.
+2. Appelez immédiatement les services de secours, ou faites appeler quelqu'un.
 3. Ouvrez les fenêtres et les portes, si vous pouvez le faire sans risque pour vous.
 4. Si la victime est inconsciente : appelez le 112 et dites qu'il s'agit probablement de CO. Si possible, éteignez l'appareil. Sortez la victime de la pièce. Si la victime ne respire plus, pratiquez le bouche-à-bouche ; selon le Centre Antipoisons, c'est sans danger. Si elle respire encore, couchez-la sur le côté sans oreiller.
 5. Si la victime est consciente : appelez le médecin généraliste, si le réseau fonctionne.
 
-Si l'appel ne passe pas : ne laissez la victime seule que s'il n'y a pas d'autre possibilité, et désignez un témoin ou un voisin pour aller chercher de l'aide. Indiquez où c'est, ce qui s'est passé (probablement du CO), combien il y a de victimes et dans quel état elles sont.
+Si l'appel ne passe pas : ne laissez la victime seule que si vous n'avez pas le choix et envoyez un témoin ou un voisin chercher de l'aide, en précisant qu'il s'agit probablement de CO. Voir Numéros d'urgence dans l'application, Si l'appel ne passe pas.
 
 Le Centre Antipoisons est joignable gratuitement 24 heures sur 24 au 070 245 245, si le réseau fonctionne. Notez le numéro à l'avance sur votre liste papier. Voir aussi la fiche scénario sur le CO.
 
@@ -290,9 +290,9 @@ Ready.gov :
 | Épuisement dû à la chaleur | transpiration abondante, pâleur, crampes musculaires, fatigue, faiblesse, pouls rapide ou faible, vertiges, maux de tête, évanouissement, nausées, vomissements | comme pour les crampes de chaleur |
 | Coup de chaleur | la source ne cite pas ici de signes distincts | appelez le 112 ou emmenez la personne à l'hôpital ; amenez-la dans un endroit frais et ombragé ; retirez les vêtements du dessus ; posez des linges froids et mouillés ou de la glace sur la tête, la nuque, les aisselles et l'aine, ou mouillez les vêtements avec de l'eau fraîche ; surélevez les pieds |
 
-Le Centre de crise : si vous avez des crampes, une forte fièvre, des maux de tête ou si vous vous sentez défaillir, appelez votre médecin généraliste. N'appelez le 112 qu'en cas de situation mettant la vie en danger. Si l'appel ne passe pas, demandez à quelqu'un d'autre d'appeler ou demandez de l'aide dans votre quartier (voir Numéros d'urgence, Si l'appel ne passe pas). Pour un coup de chaleur, Ready.gov cite aussi : emmenez la personne à l'hôpital.
+Le Centre de crise : si vous avez des crampes, une forte fièvre, des maux de tête ou si vous vous sentez défaillir, appelez votre médecin généraliste. N'appelez le 112 qu'en cas de situation mettant la vie en danger. Si l'appel ne passe pas, voir Numéros d'urgence dans l'application, Si l'appel ne passe pas.
 
-Source : [Ready.gov: Extreme Heat](https://www.ready.gov/heat) · [Centre de crise National : Vague de chaleur](https://centredecrise.be/fr/risques-en-belgique/risques-naturels/vague-de-chaleur-canicule) · [SPF Économie : questions des ménages sur la pénurie d'électricité](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door) · [112.be : Questions fréquentes](https://112.be/fr/questions-frequentes)
+Source : [Ready.gov: Extreme Heat](https://www.ready.gov/heat) · [Centre de crise National : Vague de chaleur](https://centredecrise.be/fr/risques-en-belgique/risques-naturels/vague-de-chaleur-canicule)
 
 ## La chaleur selon la personne
 

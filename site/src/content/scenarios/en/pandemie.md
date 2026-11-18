@@ -103,7 +103,7 @@ If there is no soap and water, use hand gel with at least 60 per cent alcohol. S
 
 - Consult your GP if you have flu symptoms or do not feel well. Phone first.
 - Outside your GP's hours you can go to the GP out-of-hours service. In Ghent you call 1733 for this.
-- If you cannot get through and it is urgent, see Emergency numbers in the app, If you cannot call.
+- If you cannot get through and it is urgent, see Emergency numbers, If you cannot call.
 - Stay away from school, work and public places as long as you are ill.
 - At home, also stay away as much as possible from members of the household who are not ill.
 - Wear a face mask if you are around others or have to leave the house.
@@ -111,7 +111,7 @@ If there is no soap and water, use hand gel with at least 60 per cent alcohol. S
 - Drink enough: 1.5 litres a day.
 - Air your home regularly.
 
-**When you may go out again.** Follow the rules of the health services for the disease in question. As a general rule for respiratory infections, the American CDC says: you resume your activities when your symptoms have been improving overall for at least 24 hours and you have had no fever in those 24 hours, without fever-reducing medication. After that, take extra precautions around other people for another 5 days: fresh air, good hygiene, a well-fitting face mask, distance. You can still pass on the virus after you feel better. If you get a fever again or feel worse, stay at home again.
+**When you may go out again.** Follow the rules of the health services for the disease in question. As a general rule for respiratory infections, the American CDC says: resume your activities when your symptoms have been improving for at least 24 hours and you have had no fever in those 24 hours, without fever-reducing medication. After that, take extra precautions around others for another 5 days: fresh air, hygiene, a well-fitting face mask, distance. You can still pass on the virus then. If you get a fever again or feel worse, stay at home again.
 
 **If someone you live with or a friend is ill.**
 
@@ -139,13 +139,12 @@ If there is no soap and water, use hand gel with at least 60 per cent alcohol. S
 ### At work or at school
 
 - Stay at home if you are ill. Do not go to work or school.
-- Employers can provide for working from home and flexible rules for sick leave and carer's leave, so that employees who are ill and those caring for a sick family member can stay at home.
+- Employers can provide for working from home and flexible sick and carer's leave, so that those who are ill or caring for a sick family member can stay at home.
 - Children who are ill stay at home from school and childcare.
 
 ### Children
 
 - The rules also apply to children: wash hands properly, cough into the elbow, stay at home when ill.
-- Prepare for a closure of school or childcare: arrange childcare and remote lessons.
 - For young children, include nappies, baby food and spare clothing in your stock.
 
 ### Vulnerable people
@@ -153,7 +152,6 @@ If there is no soap and water, use hand gel with at least 60 per cent alcohol. S
 - Some people are at greater risk of serious illness. Take extra precautions when you are with them, especially in the 5 days after you were ill yourself.
 - People with a weakened immune system can keep passing on a virus for a long time.
 - Make sure they have enough stock of their regular medication.
-- Get vaccinated on the advice of your GP.
 
 ### Pets and animals
 
@@ -168,7 +166,6 @@ Source: [National Crisis Center: infectious diseases](https://crisiscenter.be/en
 ## Afterwards
 
 - Keep up the good habits: stay at home if you are ill, follow your doctor's advice, cough into your elbow and wash your hands.
-- Wash the laundry of the person who was ill at 60 °C or higher.
 - Review and improve your family plan. What went well, what did you need?
 - Replenish your stock.
 - Look after your mental health. It is normal to feel anxious. Keep in touch with others, also at a distance, and talk to someone if you are upset.

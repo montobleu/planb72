@@ -39,7 +39,7 @@ origineel_datum: "2026-11-18"
 
 ## Recognise
 
-**How you hear about it.** Your water company announces a problem with a notice through your letterbox and on its website. In an emergency the authorities also inform you via radio, TV and police loudspeaker vans driving through the streets. If the network works, also via BE-Alert, websites and social media.
+**How you hear about it.** Your water company announces a problem with a notice through your letterbox and on its website. In an emergency the authorities also inform you via radio, TV and police loudspeaker vans. If the network works, also via BE-Alert, websites and social media.
 
 **Types of message.** The Walloon water company SWDE uses three colours for the notice through your letterbox:
 
@@ -117,14 +117,14 @@ How to boil water:
 **Water not drinkable, not even boiled (red).**
 
 - Use only bottled water or water from your stock.
-- The water company sets up distribution points. If the internet works, the SWDE says in the message on its website where other water can be obtained. If the phone works, the customer service also knows where the distribution points are.
+- The water company sets up distribution points. If the internet works, the SWDE says in the message on its website where they are. If the phone works, the customer service also knows.
 
 **Chemical or radioactive contamination.** Boiling and disinfecting do not help. Use bottled water or another source. Follow the advice of the health services.
 
 **No water from the tap.**
 
 - Use your stock. First drink the water you know for certain is safe.
-- If the water supply is interrupted, the mayor, governor or minister may have bottled water distributed. Listen to the radio and watch for notices in your letterbox and loudspeaker vans.
+- The authorities may have bottled water distributed. Listen to the radio and watch for notices in your letterbox and loudspeaker vans.
 - Do not ration drinking water unless the authorities ask you to. Drink what you need today and look for water for tomorrow.
 - Limit your exertion and stay cool, so that you need less water.
 - Do not drink alcohol or caffeine instead of water. They make you lose more water.
@@ -156,7 +156,6 @@ Use these only if you have no bottled water or stock left. If you cannot treat w
 
 - Older people, pregnant women and people with a weakened immune system can become seriously ill from contaminated water. Give them bottled water or boiled water.
 - Sick people, pregnant women and women who are breastfeeding need more water.
-- Pregnant women and people with thyroid problems do not drink water disinfected with iodine.
 
 ### Pets and animals
 
@@ -170,7 +169,7 @@ Source: [SWDE](https://www.swde.be/en/water-quality-non-potable-water) · [RIVM]
 - If the water is brown or cloudy after the disruption, let the tap run for a few minutes.
 - If the water pressure is low, it will recover gradually.
 - Keep saving water. Do not waste it.
-- Replenish your stock. Replace water you filled yourself every 6 months.
+- Replenish your stock.
 
 Source: [National Crisis Center](https://crisiscenter.be/en/risks-belgium/societal-risks/failure-drinking-water-supply) · [SWDE](https://www.swde.be/en/water-quality-non-potable-water) · [CDC: storing water](https://www.cdc.gov/water-emergency/about/how-to-create-and-store-an-emergency-water-supply.html)
 

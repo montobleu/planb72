@@ -32,8 +32,6 @@ bronnen:
     url: "https://centredecrise.be/fr/que-pouvez-vous-faire/preparez-un-kit-durgence/un-kit-durgence-la-maison"
   - naam: "Centre de crise National : Un kit d'urgence sur place"
     url: "https://centredecrise.be/fr/que-pouvez-vous-faire/preparez-un-kit-durgence/un-kit-durgence-en-dehors-de-la-maison"
-  - naam: "112.be : Questions fréquentes"
-    url: "https://112.be/fr/questions-frequentes"
   - naam: "SPF Economie : questions des ménages sur la pénurie d'électricité"
     url: "https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door"
   - naam: "Jeugd Rode Kruis : affiche 4 étapes des premiers secours"
@@ -81,7 +79,7 @@ Source : [Centre de crise National : Un plan chez vous](https://centredecrise.be
 Si le téléphone et internet tombent en panne, vous devez savoir sans vous concerter où vous vous retrouvez.
 
 - Le Centre de crise : convenez à l'avance avec votre famille de l'endroit où vous pouvez vous retrouver si vous ne parvenez pas à vous joindre. Discutez du chemin de fuite le plus sûr et du lieu de rencontre avec les personnes qui vivent avec vous et notez-les dans votre plan d'urgence.
-- Denk vooruit : choisissez avec votre ménage, votre famille ou vos amis un endroit où vous vous retrouvez s'il n'y a pas de connexion téléphonique ni internet. Convenez aussi du moment où vous vous y rejoignez ou où vous passez les uns chez les autres. Dans l'exemple du livret d'information, quelqu'un passe voir ses parents après deux jours, comme convenu à l'avance.
+- Denk vooruit : choisissez avec votre ménage, votre famille ou vos amis un endroit où vous vous retrouvez s'il n'y a pas de connexion téléphonique ni internet. Convenez aussi du moment où vous vous y rejoignez ou passez les uns chez les autres.
 - Ready.gov : choisissez un endroit familier facile à trouver, et adaptez-le aux circonstances.
 
 **Options, du plus proche au plus éloigné**
@@ -106,7 +104,7 @@ Le Centre de crise conseille deux types de personnes de contact :
 - **Une personne de contact dans le voisinage**, chez qui vous pouvez aller s'il se passe quelque chose chez vous.
 - **Une personne de contact un peu plus loin de chez vous**, pour le cas où vous ne pouvez pas atteindre votre rue, votre quartier ou votre commune.
 
-En cas d'évacuation, le Centre de crise conseille aussi de demander à un membre de la famille ou à un ami qui n'habite pas dans la même zone d'être personne de contact. Dès que vous êtes en sécurité, vous le lui faites savoir. Ainsi, cette personne sait où se trouve chacun si des membres de la famille ont été séparés. Ready.gov appelle cela un contact hors de l'État et conseille d'appeler cette personne ou de lui envoyer un e-mail pour lui dire où vous allez, si le temps le permet.
+En cas d'évacuation, le Centre de crise conseille de demander à un membre de la famille ou à un ami hors de la zone d'être personne de contact et de le prévenir dès que vous êtes en sécurité. Ainsi, cette personne sait où se trouve chacun si des membres de la famille sont séparés. Ready.gov appelle cela un contact hors de l'État : faites savoir à cette personne où vous allez, si le temps le permet.
 
 **Comment le rendre utilisable, même sans téléphone**
 
@@ -204,9 +202,9 @@ Ces numéros figurent sur le plan belge et dans la brochure. Ils ne fonctionnent
 
 Si vous appelez le 112, indiquez le plus clairement possible où vous êtes, ce qui s'est passé et combien il y a de blessés (brochure).
 
-**Si l'appel ne passe pas.** Essayez un autre appareil ou demandez à des voisins ou à des passants d'appeler. Déplacez-vous de quelques mètres et réessayez. Si plus aucun appel ne passe, demandez de l'aide dans votre voisinage et suivez les informations des autorités à la radio. La commune peut ouvrir un point d'information et d'accueil : demandez à l'avance à votre commune où il se trouve et notez-le dans votre plan (112.be, SPF Economie). Voir aussi Numéros d'urgence dans l'application, Si l'appel ne passe pas.
+**Si l'appel ne passe pas.** Voir Numéros d'urgence dans l'application, Si l'appel ne passe pas. La commune peut ouvrir un point d'information et d'accueil : demandez à l'avance où il se trouve et notez-le dans votre plan (SPF Economie).
 
-Source : [Centre de crise National : Mon propre plan d'urgence](https://centredecrise.be/sites/default/files/documents/files/MonPlandurgence_PDF%20interactif.pdf) · [Centre de crise National : brochure Préparés ensemble](https://centredecrise.be/sites/default/files/documents/files/WEB-Brochure-Pr%C3%AAts.%20Ensemble-FR.pdf) · [112.be : Questions fréquentes](https://112.be/fr/questions-frequentes) · [SPF Economie : questions des ménages sur la pénurie d'électricité](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door)
+Source : [Centre de crise National : Mon propre plan d'urgence](https://centredecrise.be/sites/default/files/documents/files/MonPlandurgence_PDF%20interactif.pdf) · [Centre de crise National : brochure Préparés ensemble](https://centredecrise.be/sites/default/files/documents/files/WEB-Brochure-Pr%C3%AAts.%20Ensemble-FR.pdf) · [SPF Economie : questions des ménages sur la pénurie d'électricité](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door)
 
 ## Après la crise, quand le téléphone fonctionne à nouveau
 
@@ -357,7 +355,7 @@ S'inscrire reste utile : vous êtes alors aussi prévenu pour des adresses où v
 
 L'inscription et les messages sont gratuits.
 
-**Si le réseau tombe en panne.** BE-Alert envoie les messages par SMS, e-mail ou appel vocal. Lors d'une coupure de courant, internet et les réseaux mobiles peuvent tomber en panne. Prévoyez donc aussi une radio à piles ou une radio à manivelle, de préférence avec DAB+ et FM. Les autorités peuvent aussi utiliser des panneaux d'information, des dépliants, la communication en porte-à-porte et les voitures à haut-parleur de la police (Centre de crise).
+**Si le réseau tombe en panne.** Lors d'une coupure de courant, internet et les réseaux mobiles peuvent tomber en panne. Prévoyez donc aussi une radio à piles ou une radio à manivelle, de préférence avec DAB+ et FM. Les autorités peuvent aussi utiliser des panneaux d'information, des dépliants, la communication en porte-à-porte et les voitures à haut-parleur de la police (Centre de crise).
 
 **Comment reconnaître un vrai message**
 

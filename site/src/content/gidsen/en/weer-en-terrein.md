@@ -113,11 +113,11 @@ Hourly amounts are forecast only one hour in advance.
 - **Patches of hoar frost**: hoar frost or moisture freezing on a road surface that was not wet from a shower.
 - **Patches of ice**: wet patches or remaining snow that freeze later.
 
-**What to do with orange or red for storm or flooding:** if you need the fire service but nobody's life is in danger, use the online counter 1722.be if the network works, or call 1722 if that number is active. Call 112 only if a life is in danger or a rescue is needed. If you cannot get through: have neighbours or bystanders call or ask for help nearby (see Emergency numbers in the app, If you cannot call).
+**What to do with orange or red for storm or flooding:** if you need the fire service but nobody's life is in danger, use the online counter 1722.be if the network works, or call 1722 if that number is active. Call 112 only if a life is in danger or a rescue is needed. If you cannot get through, see Emergency numbers in the app, If you cannot call.
 
 **Note:** the Agentschap Natuur en Bos has a **separate** colour code for the risk of wildfires (green, yellow, orange, red). It is independent of the RMI codes.
 
-Source: [RMI: Explanation of our warnings](https://www.meteo.be/en/weather/warnings/info-warnings) · [National Crisis Center: Wind and storm](https://crisiscenter.be/en/risks-belgium/natural-risks/wind) · [National Crisis Center: brochure Prepared together](https://crisiscenter.be/sites/default/files/documents/files/WEB-Brochure%20Prepared%20Together-EN.pdf) · [FPS Economy: questions from households about electricity shortage](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door) · [112.be: Frequently asked questions](https://112.be/en/frequently-asked-questions) · [National Crisis Center: Wildfire](https://crisiscenter.be/en/risks-belgium/natural-risks/wildfires)
+Source: [RMI: Explanation of our warnings](https://www.meteo.be/en/weather/warnings/info-warnings) · [National Crisis Center: Wind and storm](https://crisiscenter.be/en/risks-belgium/natural-risks/wind) · [National Crisis Center: brochure Prepared together](https://crisiscenter.be/sites/default/files/documents/files/WEB-Brochure%20Prepared%20Together-EN.pdf) · [FPS Economy: questions from households about electricity shortage](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door) · [National Crisis Center: Wildfire](https://crisiscenter.be/en/risks-belgium/natural-risks/wildfires)
 
 ## Reading clouds and thunderstorms
 
@@ -144,7 +144,7 @@ Source: [RMI: How do I protect myself against lightning?](https://www.meteo.be/n
 | Violent storm | From 103 km/h (11 Beaufort) |
 | Hurricane (force) | From 117 km/h (12 Beaufort) |
 
-**Preparing:** secure loose objects or bring them inside (garden furniture, trampoline). Keep an eye on the weather forecast, for example via the radio, TV, or the RMI's website or app. Keep pets inside.
+**Preparing:** secure loose objects or bring them inside (garden furniture, trampoline). Keep an eye on the weather forecast. Keep pets inside.
 
 **During:** go inside and stay inside. Close windows and doors. Listen to the weather forecast and follow the recommendations.
 
@@ -175,7 +175,7 @@ Look this up in advance, while the internet works:
 
 - On the **Watertoets map** of Waterinfo Vlaanderen you can see the flood-prone areas (2019 version) and the maps that go with the Watertoets decree.
 - The Crisis Center recommends finding out about the zones that are vulnerable to flooding.
-- During high water, **Waterinfo** has current water levels and forecasts for flooding, precipitation, drought and tides, as long as the internet works. Otherwise: listen to the radio (see How you receive the warnings).
+- During high water, **Waterinfo** has current water levels and forecasts for flooding, precipitation, drought and tides. Without internet: listen to the radio.
 
 **Outside in the field**
 
@@ -202,7 +202,7 @@ The weather can make the water level differ from the calculated tide. In a storm
 **Where to find the data for the Belgian coast**
 
 - **Getijtafels Kust** (coastal tide tables): the times of high and low tide, published each year by the Flemish government. Look them up in advance or print them: then you also have them without internet.
-- **kustweerbericht.be**, if the internet works: sea and coastal weather forecast, waves, tide, wind and visibility at sea.
+- **kustweerbericht.be**: sea and coastal weather forecast, waves, tide, wind and visibility at sea.
 
 **Swimming in the sea**
 
@@ -282,7 +282,7 @@ Source: [EAWS: Avalanche danger scale](https://www.avalanches.org/standards/aval
 
 | Place | What to watch out for |
 | --- | --- |
-| At home | Follow RMI warnings via the radio, or via the RMI website and app if the network works. In a storm: stay inside, secure loose objects. In case of flooding: 1722 if nobody's life is in danger and the network works. |
+| At home | Follow RMI warnings, especially via the radio. In a storm: stay inside, secure loose objects. In case of flooding: 1722 if nobody's life is in danger and the network works. |
 | On foot in forest or fields | In a thunderstorm: away from isolated trees, forest edges, open plains. In a storm: never shelter under a tree. No sleeping place in the bed of a stream. |
 | In the car | Do not drive through water. Do not park near trees in a storm. A metal car is a good shelter in a thunderstorm. Blanket, ice scraper and water in the car in winter. |
 | At the coast | Swim only in supervised zones. Look up the tide tables in advance. Follow storm surge via the radio, and via kustweerbericht.be and the RMI if the network works. |

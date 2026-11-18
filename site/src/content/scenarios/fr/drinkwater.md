@@ -39,7 +39,7 @@ origineel_datum: "2026-11-18"
 
 ## Reconnaître
 
-**Comment vous l'apprenez.** Votre compagnie des eaux annonce un problème par un avis dans la boîte aux lettres et sur son site web. En situation d'urgence, les autorités informent aussi via la radio, la télévision et les véhicules de la police équipés de haut-parleurs qui circulent dans la rue. Si le réseau fonctionne, aussi via BE-Alert, les sites web et les réseaux sociaux.
+**Comment vous l'apprenez.** Votre compagnie des eaux annonce un problème par un avis dans la boîte aux lettres et sur son site web. En situation d'urgence, les autorités informent aussi via la radio, la télévision et les véhicules de la police équipés de haut-parleurs. Si le réseau fonctionne, aussi via BE-Alert, les sites web et les réseaux sociaux.
 
 **Types de messages.** La société wallonne des eaux SWDE utilise trois couleurs pour l'avis dans la boîte aux lettres :
 
@@ -117,14 +117,14 @@ Voici comment faire bouillir l'eau :
 **Eau non potable, même bouillie (rouge).**
 
 - Utilisez uniquement de l'eau en bouteille ou l'eau de votre réserve.
-- La compagnie des eaux organise des points de distribution. Si Internet fonctionne, l'avis de la SWDE sur son site web indique où obtenir une autre eau. Si le téléphone fonctionne, le service clientèle sait aussi où se trouvent les points de distribution.
+- La compagnie des eaux organise des points de distribution. Si Internet fonctionne, l'avis de la SWDE sur son site web indique où ils se trouvent. Si le téléphone fonctionne, le service clientèle le sait aussi.
 
 **Pollution chimique ou radioactive.** Faire bouillir et désinfecter n'aident pas. Utilisez de l'eau en bouteille ou une autre source. Suivez l'avis des services de santé.
 
 **Pas d'eau au robinet.**
 
 - Utilisez votre réserve. Buvez d'abord l'eau dont vous êtes sûr qu'elle est sûre.
-- En cas d'interruption de l'alimentation en eau, le bourgmestre, le gouverneur ou le ministre peut faire distribuer de l'eau en bouteille. Écoutez la radio et soyez attentif aux avis dans la boîte aux lettres et aux véhicules équipés de haut-parleurs.
+- Les autorités peuvent faire distribuer de l'eau en bouteille. Écoutez la radio et soyez attentif aux avis dans la boîte aux lettres et aux véhicules équipés de haut-parleurs.
 - Ne rationnez pas l'eau potable, sauf si les autorités le demandent. Buvez aujourd'hui ce dont vous avez besoin et cherchez de l'eau pour demain.
 - Limitez vos efforts et restez au frais, pour avoir besoin de moins d'eau.
 - Ne buvez pas d'alcool ou de caféine à la place de l'eau. Ils vous font perdre plus d'eau.
@@ -156,7 +156,6 @@ Utilisez-les uniquement si vous n'avez plus d'eau en bouteille ni de réserve. S
 
 - Les personnes âgées, les femmes enceintes et les personnes dont l'immunité est affaiblie peuvent tomber gravement malades à cause d'une eau contaminée. Donnez-leur de l'eau en bouteille ou de l'eau bouillie.
 - Les malades, les femmes enceintes et les femmes qui allaitent ont besoin de plus d'eau.
-- Les femmes enceintes et les personnes ayant des problèmes de thyroïde ne boivent pas d'eau désinfectée à l'iode.
 
 ### Animaux domestiques et autres animaux
 
@@ -170,7 +169,7 @@ Source : [SWDE](https://www.swde.be/fr/qualite-de-leau-eau-non-potable) · [RIVM
 - Si l'eau est brune ou trouble après la coupure, laissez couler le robinet quelques minutes.
 - Si la pression de l'eau est faible, elle se rétablit progressivement.
 - Continuez à économiser l'eau. Ne la gaspillez pas.
-- Reconstituez votre réserve. Remplacez l'eau que vous avez mise vous-même en réserve tous les 6 mois.
+- Reconstituez votre réserve.
 
 Source : [Centre de crise National](https://centredecrise.be/fr/risques-en-belgique/risques-societaux/defaillance-de-lapprovisionnement-en-eau-potable) · [SWDE](https://www.swde.be/fr/qualite-de-leau-eau-non-potable) · [CDC : conserver l'eau](https://www.cdc.gov/water-emergency/about/how-to-create-and-store-an-emergency-water-supply.html)
 

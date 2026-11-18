@@ -54,7 +54,7 @@ A wildfire is a fire in woodland, heath, dunes, grassland or fields. Heat, droug
 
 **Fire danger in Wallonia.** During drought the mayor or the governor can impose a local ban. Information signs are placed at sensitive locations. The ban is also published on the municipality's website.
 
-**Information.** If there is a fire nearby, follow the official channels of the municipality and the authorities: radio, TV and police loudspeaker vans driving through the streets. If the network works, also BE-Alert and the websites and social media of the authorities. Do not rely on rumours or messages from unknown accounts on social media.
+**Information.** If there is a fire nearby, follow the official channels of the municipality and the authorities: radio, TV and police loudspeaker vans, and if the network works also BE-Alert, websites and social media. Do not rely on rumours or messages from unknown accounts on social media.
 
 Source: [National Crisis Center](https://crisiscenter.be/en/risks-belgium/natural-risks/wildfires) · [Agency for Nature and Forests](https://natuurenbos.be/waarschuwingen) · [Service public de Wallonie](https://environnement.wallonie.be/feux) · [Brandweer Nederland](https://www.brandweer.nl/onderwerpen/natuurbrand/) · [National Crisis Center: information during an emergency](https://crisiscenter.be/en/what-can-you-do/stay-informed/get-informed-emergency-situation)
 
@@ -104,7 +104,7 @@ Source: [National Crisis Center](https://crisiscenter.be/en/risks-belgium/natura
 
 - Call 112 if you see a fire or if someone is in danger. If that does not work, have someone else call or ask for help nearby (see Emergency numbers, If you cannot call).
 - Close windows and doors.
-- Do not evacuate on your own initiative. Wait for the recommendations of the authorities. Listen to the radio and watch for police loudspeaker vans. If the network works, also follow BE-Alert and the official channels.
+- Do not evacuate on your own initiative. Wait for the recommendations of the authorities via the radio and loudspeaker vans, and if the network works via BE-Alert.
 - Check whether neighbours, older people and people with a disability need help.
 - If you have to leave: shut off the electricity and gas, take your emergency kit and leave immediately.
 - If you cannot get away and there is no order to leave: stay inside with windows and doors closed. In case of smoke, Ready.gov advises staying in a room that you can seal off from the outside air, and setting the ventilation to recirculation or closing the air intake.
@@ -120,14 +120,13 @@ Source: [National Crisis Center](https://crisiscenter.be/en/risks-belgium/natura
 4. Help other people to a safe place.
 5. Call 112 as soon as possible or use the 112 app. Give your location using landmarks: paths, ponds, lookout towers, car parks.
 
-**No signal, or cannot get through?** Leave as quickly as possible and warn the people you meet on the way. See also Emergency numbers in the app, If you cannot call.
+**No signal, or cannot get through?** Leave as quickly as possible and warn the people you meet on the way (see Emergency numbers, If you cannot call).
 
 Do not take risks and follow the instructions of the fire service and forest rangers.
 
 ### In the car
 
 - Do not block paths, forest tracks or entrances. Keep the road clear for the fire service and ambulance.
-- Never park in long grass.
 - Follow the instructions of the police and fire service. If you have to leave, take the route the authorities give.
 - If the road is busy or closed, consider leaving on foot or by bicycle.
 
@@ -164,7 +163,7 @@ Source: [National Crisis Center](https://crisiscenter.be/en/risks-belgium/natura
 - Stay away from hot ash, charred trees, smouldering debris and glowing remains. Heat in the ground can cause burns or a new fire.
 - When clearing up, wear long sleeves, long trousers, work gloves and sturdy shoes with thick soles. Wear a face mask and wet the debris to limit dust.
 - Take photos of the damage and contact your insurer.
-- Only phone in an emergency. If the network works, send messages instead of phoning, so that the network stays free for emergency calls.
+- Only phone in an emergency. If the network works, preferably send messages, so that the network stays free.
 
 Source: [National Crisis Center](https://crisiscenter.be/en/risks-belgium/natural-risks/wildfires) · [Ready.gov](https://www.ready.gov/wildfires)
 

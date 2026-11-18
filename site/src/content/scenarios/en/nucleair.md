@@ -59,9 +59,9 @@ origineel_datum: "2026-11-18"
 
 ## Recognise
 
-**How you are warned.** The authorities warn you via radio and TV and via police loudspeaker vans driving through the streets. If the network is working, also via BE-Alert (text message, email or phone call), social media, the official websites and an information number. People who have no landline or mobile phone receive the information through the other channels. In a major emergency the authorities send an Alert-SMS to everyone who is in the affected zone with a mobile phone. You do not need to be registered for this.
+**How you are warned.** The authorities warn you via radio and TV and via police loudspeaker vans. If the network is working, also via BE-Alert (text message, email or phone call), social media, the official websites and an information number. People who have no landline or mobile phone receive the information through the other channels. In a major emergency the authorities send an Alert-SMS to everyone who is in the affected zone with a mobile phone. You do not need to be registered for this.
 
-During a power cut, the internet and mobile networks can fail. With a battery-powered or wind-up radio you can still stay informed.
+If the power fails, you can stay informed with a battery-powered or wind-up radio.
 
 **What can happen.** In a nuclear emergency radioactive substances can be released, including radioactive iodine. An emergency can begin with a threat phase, before anything is released. Iodine is also not always released.
 
@@ -108,8 +108,8 @@ Source: [National Crisis Center: nuclear power plant](https://crisiscenter.be/en
 5. Seal the bottom of doors with damp cloths. Make sure some air still circulates, so that you do not feel unwell.
 6. Go to a central room on the ground floor, away from windows.
 7. Bring pets inside.
-8. Follow the instructions of the authorities via the radio, or the TV if there is power. If the power fails, use a battery-powered or wind-up radio. Also watch for police loudspeaker vans. If the network is working, also follow BE-Alert and the authorities' websites and social media.
-9. Do not phone to ask for information. Only phone in a medical emergency (112). Unnecessary calls overload the network and hinder the emergency services. If you cannot get through, see Emergency numbers, If you cannot call. If the network is working, warn others by text message, WhatsApp or Signal.
+8. Follow the instructions of the authorities via the radio or TV and watch for police loudspeaker vans. If the network is working, also follow BE-Alert and the official websites.
+9. Do not phone to ask for information. Only phone in a medical emergency (112). Unnecessary calls overload the network. If you cannot get through, see Emergency numbers, If you cannot call. If the network is working, warn others by text message, WhatsApp or Signal.
 
 **Do you have a cellar?** The Belgian sources speak of a central room on the ground floor. The American Ready.gov names a cellar or the middle of a large building as the best protected place, with as many walls as possible between you and the outside. Brick or concrete buildings and underground car parks also offer good protection.
 
@@ -154,7 +154,6 @@ Source: [National Crisis Center: nuclear power plant](https://crisiscenter.be/en
 ### Vulnerable people
 
 - Pregnant women and women who are breastfeeding belong to the group for whom iodine tablets are recommended. Only take them if the authorities say so.
-- People older than 40 do not in principle take iodine, unless the authorities expressly recommend it. Ask your doctor for advice in advance.
 - If you are ill or injured, follow the instructions about where you can get medical care. Call 112 in a medical emergency. If that does not work, have a member of your household or a neighbour call or fetch help (see Emergency numbers, If you cannot call).
 
 ### Pets and animals
@@ -170,8 +169,7 @@ Source: [National Crisis Center: nuclear power plant](https://crisiscenter.be/en
 - Never take iodine tablets on your own initiative. Only take them if the authorities expressly say so.
 - The authorities decide when. The advice may apply to certain zones or groups.
 - Stable iodine only helps if radioactive iodine is released. It saturates the thyroid gland, so that it no longer absorbs radioactive iodine.
-- Iodine does not protect against other radioactive substances. Sheltering remains necessary.
-- Sheltering comes before iodine, especially if you have no tablets at home.
+- Iodine does not protect against other radioactive substances. Sheltering remains necessary and comes first, especially if you have no tablets at home.
 - The amount depends on your age. Follow the package leaflet.
 - One dose is often enough. The protection lasts at least 24 hours.
 
@@ -216,7 +214,7 @@ Source: [National Crisis Center: nuclear power plant](https://crisiscenter.be/en
 
 ## More information
 
-Read these pages in advance. During a power cut, the internet and mobile networks can fail.
+To read in advance, or if the internet works:
 
 - Zones, iodine and recommendations: [nucleairrisico.be](https://nuclearrisk.be/en/what-can-you-do)
 - Risk and measures: [National Crisis Center: incident at a nuclear power plant](https://crisiscenter.be/en/risks-belgium/technological-risks/nuclear-plant-incident)

@@ -81,7 +81,7 @@ Bron: [Nationaal Crisiscentrum: brand of explosie](https://crisiscentrum.be/nl/r
   - Fluvius (Vlaanderen): 0800 65 0 65, gratis, dag en nacht. Oproepen naar dit nummer krijgen voorrang.
   - ORES (grootste deel van Wallonië): 0800 87 087, gratis, dag en nacht.
   - Woon je in Brussel (Sibelga) of in een deel van de provincie Luik (RESA), zoek dan vooraf het gasgeurnummer op de website van je netbeheerder en noteer het.
-- Doof of slechthorend: Fluvius heeft een contactformulier om gasgeur te melden voor wie niet kan bellen. Het werkt alleen als het internet werkt. Spreek daarom ook met huisgenoten of buren af dat zij voor jou bellen.
+- Doof of slechthorend: Fluvius heeft een contactformulier om gasgeur te melden voor wie niet kan bellen, maar alleen via internet. Spreek daarom ook met huisgenoten of buren af dat zij voor jou bellen.
 
 **Onderhoud**
 
@@ -116,11 +116,7 @@ Bron: [Fluvius: gasgeur](https://www.fluvius.be/nl/gasgeur) · [ORES](https://ww
 
 Het interventieteam vertrekt meteen na je oproep, meet ter plaatse de gasconcentratie en zoekt het lek.
 
-**Lukt bellen niet**
-
-- Laat buren of omstanders bellen of probeer een ander toestel. Verplaats je enkele meters en probeer opnieuw, altijd op een plek waar je geen gas ruikt.
-- Bij brand, een ontploffing of gewonden: is 112 onbereikbaar maar kun je nog bellen, probeer dan 101.
-- Werkt bellen helemaal niet: vraag hulp in je buurt. Zie Noodnummers in de app, Als bellen niet lukt.
+Lukt bellen niet, laat iemand anders bellen of vraag hulp in je buurt, altijd op een plek waar je geen gas ruikt. Zie Noodnummers in de app, Als bellen niet lukt.
 
 **Gasbrand of ontploffing**
 
@@ -139,7 +135,7 @@ Het interventieteam vertrekt meteen na je oproep, meet ter plaatse de gasconcent
 2. Open ramen en deuren.
 3. Schakel het gastoestel uit als dat veilig kan.
 4. Verlaat de ruimte en breng het slachtoffer naar buiten.
-5. Bel 112 of laat iemand bellen. Zeg dat het mogelijk om CO gaat en of er iemand bewusteloos is. Lukt bellen niet, zie hierboven en de kaart CO-alarm.
+5. Bel 112 of laat iemand bellen. Zeg dat het mogelijk om CO gaat en of er iemand bewusteloos is. Lukt bellen niet, zie hierboven.
 6. Start reanimatie als het slachtoffer niet ademt. Leg iemand die bewusteloos is maar ademt in stabiele zijligging.
 7. Voor vragen zonder direct gevaar, als het netwerk werkt: Antigifcentrum 070 245 245, of een erkend installateur.
 
@@ -156,7 +152,7 @@ Bron: [Fluvius: gasgeur](https://www.fluvius.be/nl/gasgeur) · [ORES](https://ww
 **Een groter gaslek in je buurt**
 
 - Wacht op de instructies van de overheid of de hulpdiensten. Soms is binnen blijven veiliger dan vertrekken.
-- Die instructies komen onder meer via de radio en via omroepwagens van de politie die in de straat rondrijden. Werkt het netwerk, dan ook via BE-Alert en de websites van de overheid.
+- Die komen via de radio en omroepwagens van de politie, en als het netwerk werkt ook via BE-Alert en websites van de overheid.
 - Moet je evacueren, neem dan je identiteitskaart, geld, water, gsm en lader, sleutels, je lijst met telefoonnummers, noodzakelijke geneesmiddelen en hygiëneproducten mee. Is er direct gevaar en heb je geen noodtas klaar, vertrek dan meteen zonder iets mee te nemen.
 - Help buren die minder mobiel zijn.
 - Ga pas terug als de overheid zegt dat het veilig is.
@@ -201,7 +197,6 @@ Bron: [Nationaal Crisiscentrum: evacueren](https://crisiscentrum.be/nl/wat-kan-j
 
 ## Daarna
 
-- Blijf op veilige afstand zolang het lek niet gedicht is.
 - Laat je gastoestellen en schouw regelmatig nakijken door een erkend vakman. Voor vragen zonder dringend gevaar kun je terecht bij een gecertificeerd installateur.
 - Na een CO-vergiftiging kunnen na enige tijd nog klachten van het zenuwstelsel opduiken, zoals prikkelbaarheid, geheugenproblemen of abnormale bewegingen. Die verdwijnen vaak, maar niet altijd.
 

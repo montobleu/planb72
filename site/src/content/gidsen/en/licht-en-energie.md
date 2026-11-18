@@ -40,8 +40,6 @@ bronnen:
     url: "https://www.rodekruis.be/wat-doen-we/hulp-in-vlaanderen/goed-voorbereid/stroom-en-communicatie-uitval/"
   - naam: "National Crisis Center: Information during an emergency"
     url: "https://crisiscenter.be/en/what-can-you-do/stay-informed/get-informed-emergency-situation"
-  - naam: "112.be: Frequently asked questions"
-    url: "https://112.be/en/frequently-asked-questions"
   - naam: "National Crisis Center: A plan for your neighbourhood or association"
     url: "https://crisiscenter.be/en/what-can-you-do/make-plan/plan-your-neighbourhood-association-or-club"
 vertaling: machine
@@ -171,13 +169,13 @@ Source: [BBK: Stromausfall, Vorsorge und Selbsthilfe](https://www.bbk.bund.de/Sh
 
 - Only call 112 in immediate danger and limit your phone use, so as not to overload the network (Red Cross Flanders).
 - Only make calls when really necessary and preferably use text messages (OFF ON).
-- In a major emergency, use messaging apps instead of calling; overloading the network can disrupt the emergency response (Crisis Center brochure). Messaging apps need mobile internet, and that drops out quickly during a power cut (FPS Economy).
+- In a major emergency, use messaging apps instead of calling (Crisis Center brochure). They need mobile internet, and that drops out quickly during a power cut (FPS Economy).
 
 **When calls and the internet no longer work**
 
 - Follow the news on a battery radio, a wind-up radio or the car radio (OFF ON, FPS Economy).
 - The authorities can also inform you with police loudspeaker vans, information boards, leaflets and door-to-door visits (Crisis Center).
-- If you can no longer call, consult the general information from the authorities or ask for help in your neighbourhood (FPS Economy). During load shedding, municipalities can open an information and reception point for the public. Ask your municipality in advance what arrangements it has made (FPS Economy).
+- If you can no longer call, ask for help in your neighbourhood. During load shedding, municipalities can open an information and reception point; ask your municipality in advance what it has arranged (FPS Economy).
 - If you need to reach the emergency services: see Emergency numbers in the app, If you cannot call. The map in the app (Nearest button) shows fire stations, police, hospitals and town halls.
 
 More in the guide on communication and alerts.
@@ -196,9 +194,9 @@ Source: [Denk vooruit: information booklet](https://www.denkvooruit.nl/site/bina
 8. Check with vulnerable relatives and neighbours whether everything is all right (OFF ON). Look out for neighbours or family who need extra help (Red Cross Flanders).
 9. Get together with neighbours or family to share light and warmth. Agree in advance whose home you can go to and which supplies you will share (Crisis Center, emergency kit).
 
-The BBK says: a power cut in itself is not an emergency. Do not call the emergency numbers to ask for information; that overloads the emergency call centres. Only call 112 in immediate danger (Red Cross Flanders). If you cannot get through, have someone else call or ask for help in your neighbourhood (see Emergency numbers, If you cannot call).
+A power cut in itself is not an emergency: do not call the emergency numbers to ask for information, as that overloads the emergency call centres (BBK). Only call 112 in immediate danger (Red Cross Flanders). If you cannot get through, see Emergency numbers in the app, If you cannot call.
 
-Source: [National Crisis Center: Disruption of electricity](https://crisiscenter.be/en/risks-belgium/societal-risks/failure-electricity-supply) · [National Crisis Center: OFF ON](https://crisiscentrum.be/sites/default/files/documents/files/OffOn-triptyque-N.pdf) · [National Crisis Center: An emergency kit at home](https://crisiscenter.be/en/what-can-you-do/build-emergency-kit/emergency-kit-home) · [Red Cross Flanders: Power and communication failure](https://www.rodekruis.be/wat-doen-we/hulp-in-vlaanderen/goed-voorbereid/stroom-en-communicatie-uitval/) · [FPS Economy: questions from households about electricity shortages](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door) · [112.be: Frequently asked questions](https://112.be/en/frequently-asked-questions) · [BBK: Stromausfall, Vorsorge und Selbsthilfe](https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/Buergerinformationen/stromausfall-vorsorge-selbsthilfe.pdf?__blob=publicationFile&v=17)
+Source: [National Crisis Center: Disruption of electricity](https://crisiscenter.be/en/risks-belgium/societal-risks/failure-electricity-supply) · [National Crisis Center: OFF ON](https://crisiscentrum.be/sites/default/files/documents/files/OffOn-triptyque-N.pdf) · [National Crisis Center: An emergency kit at home](https://crisiscenter.be/en/what-can-you-do/build-emergency-kit/emergency-kit-home) · [Red Cross Flanders: Power and communication failure](https://www.rodekruis.be/wat-doen-we/hulp-in-vlaanderen/goed-voorbereid/stroom-en-communicatie-uitval/) · [BBK: Stromausfall, Vorsorge und Selbsthilfe](https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/Buergerinformationen/stromausfall-vorsorge-selbsthilfe.pdf?__blob=publicationFile&v=17)
 
 ## When the electricity comes back
 

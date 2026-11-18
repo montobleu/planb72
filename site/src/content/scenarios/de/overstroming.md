@@ -66,10 +66,6 @@ bronnen:
     url: https://112.be/de/haeufig-gestellte-fragen
   - naam: "FÖD Wirtschaft: Fragen von Haushalten zur Stromknappheit"
     url: https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door
-  - naam: "BBK: Vorsorgen für Krisen und Katastrophen"
-    url: https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/Buergerinformationen/Ratgeber/BBK-Vorsorgen-fuer-Krisen-und-Katastrophen.pdf?__blob=publicationFile&v=44
-  - naam: "Inspektionen (Niederlande): Nichterreichbarkeit der 112 am 24. Juni 2019"
-    url: https://zoek.officielebekendmakingen.nl/blg-942150.pdf
 vertaling: machine
 origineel_datum: "2026-11-18"
 ---
@@ -86,10 +82,10 @@ origineel_datum: "2026-11-18"
 
 - Das KMI gibt Farbcodes für Regen heraus. Code Gelb zum Beispiel bei 25 bis 50 Liter pro m² in 24 Stunden, Code Orange bei 51 bis 100 Liter, Code Rot bei mehr als 100 Liter pro m² in 24 Stunden oder bei großen Überschwemmungen mit weiterem starkem Regen in Aussicht. Code Orange kann bis zu 24 Stunden im Voraus kommen, Code Rot frühestens 12 Stunden im Voraus.
 - Für Sturmflut gibt das KMI einen Code auf Grundlage des Wasserstands in Ostende und Antwerpen heraus.
-- Bei Gefahr benachrichtigen die Behörden Sie über Radio, Fernsehen und Lautsprecherwagen der Polizei, die durch die Straßen fahren. Funktioniert das Netz, dann auch über BE-Alert, Websites und soziale Medien. Fällt der Strom aus, hören Sie ein batteriebetriebenes Radio oder das Autoradio.
+- Bei Gefahr benachrichtigen die Behörden Sie über Radio, Fernsehen und Lautsprecherwagen der Polizei und, wenn das Netz funktioniert, auch über BE-Alert, Websites und soziale Medien.
 - Funktioniert das Internet, zeigt Waterinfo.be (Flandern) Wasserstände, das Niederschlagsradar und Meldungen über Überschwemmungen. In der Wallonie zeigt hydrometrie.wallonie.be die Wasserstände und Abflussmengen der Flüsse.
 
-Quelle: [Nationales Krisenzentrum: Oberflächenwasser](https://krisenzentrum.be/de/risiken-belgien/naturrisiken/ueberschwemmung-durch-oberflaechenwasser) · [Nationales Krisenzentrum: Flusshochwasser](https://krisenzentrum.be/de/risiken-belgien/naturrisiken/flussueberschwemmung-oder-hochwasser-anderer-wasserlaeufe) · [KMI: Erläuterung zu den Warnungen](https://www.meteo.be/de/wetter/warnungen/erklarung-warnungen) · [Waterinfo Vlaanderen](https://www.waterinfo.vlaanderen.be/) · [SPW: hydrométrie](https://hydrometrie.wallonie.be/) · [Nationales Krisenzentrum: Informationen während einer Notsituation](https://krisenzentrum.be/de/was-koennen-sie-tun/informieren-sie-sich/information-notsituationen) · [FÖD Wirtschaft: Fragen von Haushalten zur Stromknappheit](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door)
+Quelle: [Nationales Krisenzentrum: Oberflächenwasser](https://krisenzentrum.be/de/risiken-belgien/naturrisiken/ueberschwemmung-durch-oberflaechenwasser) · [Nationales Krisenzentrum: Flusshochwasser](https://krisenzentrum.be/de/risiken-belgien/naturrisiken/flussueberschwemmung-oder-hochwasser-anderer-wasserlaeufe) · [KMI: Erläuterung zu den Warnungen](https://www.meteo.be/de/wetter/warnungen/erklarung-warnungen) · [Waterinfo Vlaanderen](https://www.waterinfo.vlaanderen.be/) · [SPW: hydrométrie](https://hydrometrie.wallonie.be/) · [Nationales Krisenzentrum: Informationen während einer Notsituation](https://krisenzentrum.be/de/was-koennen-sie-tun/informieren-sie-sich/information-notsituationen)
 
 ## Vorbereiten
 
@@ -98,8 +94,7 @@ Quelle: [Nationales Krisenzentrum: Oberflächenwasser](https://krisenzentrum.be/
 - Prüfen Sie mit dem Wassertest (watertoets) auf waterinfo.be, ob Ihre Wohnung in einem überschwemmungsgefährdeten Gebiet liegt.
 - Wissen Sie, wo Sie Gas, Strom und Wasser abstellen.
 - Suchen Sie das Stockwerk oder den Dachboden, der am längsten trocken bleibt. Prüfen Sie auch, welchen Fluchtweg Sie haben, wenn die Haustür blockiert ist, zum Beispiel ein Dachfenster oder eine Leiter.
-- Vereinbaren Sie, bei wem Sie unterkommen können, wenn Sie Ihr Haus verlassen müssen. Treffen Sie mit Nachbarn Absprachen, wer wem hilft und wie Sie einander erreichen, wenn Telefon oder Internet nicht funktionieren.
-- Vereinbaren Sie mit Ihrer Familie, wo Sie einander wiederfinden, wenn Sie einander nicht erreichen können.
+- Vereinbaren Sie, bei wem Sie unterkommen können, wenn Sie Ihr Haus verlassen müssen. Treffen Sie mit Nachbarn Absprachen, wer wem hilft und wie Sie einander ohne Telefon oder Internet erreichen. Vereinbaren Sie mit Ihrer Familie, wo Sie einander wiederfinden.
 
 **Schützen Sie Ihre Wohnung vor Wasser von außen**
 
@@ -140,16 +135,9 @@ Quelle: [Nationales Krisenzentrum: Flusshochwasser](https://krisenzentrum.be/de/
 
 **Zuerst: Besteht Lebensgefahr?**
 
-- Jemand ist in Lebensgefahr: Rufen Sie die 112 an oder lassen Sie jemanden anrufen. Kommt kein Anruf zustande, siehe unten.
+- Jemand ist in Lebensgefahr: Rufen Sie die 112 an oder lassen Sie jemanden anrufen. Kommt kein Anruf zustande, bitten Sie in Ihrer Nachbarschaft um Hilfe und verfolgen Sie die Informationen der Behörden im Radio. Siehe Notrufnummern in der App, Wenn kein Anruf möglich ist.
 - Hilfe der Feuerwehr nötig ohne Lebensgefahr, zum Beispiel Wasser im Keller oder auf der Straße: Funktioniert das Netz, stellen Sie einen Antrag über 1722.be oder das Formular Ihrer Hilfeleistungszone, oder rufen Sie die 1722 an, wenn diese Nummer aktiv ist. Halten Sie die 112 frei.
 - Schaden, aber keine Hilfe der Feuerwehr nötig: Beauftragen Sie einen Fachmann oder reparieren Sie es selbst.
-
-**Kommt kein Anruf zustande**
-
-- Versuchen Sie es mit einem anderen Gerät oder lassen Sie Nachbarn oder Umstehende anrufen. Ein anderer Netzbetreiber kann helfen. Gehen Sie einige Meter weiter und versuchen Sie es erneut.
-- Können Sie noch telefonieren, ist die 112 aber nicht erreichbar, versuchen Sie die 101. Bei einer Störung der Notrufzentralen können vorübergehende Nummern pro Provinz aktiv sein (siehe den Leitfaden Notruf).
-- Funktioniert Telefonieren überhaupt nicht: Bitten Sie in Ihrer Nachbarschaft um Hilfe und verfolgen Sie die Informationen der Behörden im Radio. Die Gemeinde kann eine Informations- und Anlaufstelle öffnen; fragen Sie Ihre Gemeinde im Voraus, wo sie ist.
-- In Deutschland empfehlen die Behörden, dann wenn möglich zur nächsten Polizeidienststelle oder zum nächsten Krankenhaus zu gehen. In den Niederlanden schickten die Behörden die Bürger bei der landesweiten 112-Störung von 2019 zur nächsten Feuerwache oder Polizeidienststelle und bei medizinischen Notfällen ins Krankenhaus. Die Karte in der App zeigt sie, mit der Schaltfläche Am nächsten.
 
 **Wasser draußen halten**
 
@@ -178,7 +166,7 @@ Quelle: [Nationales Krisenzentrum: Flusshochwasser](https://krisenzentrum.be/de/
 
 **Evakuieren**
 
-- Befolgen Sie den Rat der Rettungsdienste. Bei einer Überschwemmung in Ihrer Nähe warten Sie auf deren Anweisungen. Manchmal ist drinnen bleiben sicherer. Hören Sie Radio und achten Sie auf Lautsprecherwagen der Polizei.
+- Befolgen Sie den Rat der Rettungsdienste und warten Sie auf deren Anweisungen über das Radio oder Lautsprecherwagen der Polizei. Manchmal ist drinnen bleiben sicherer.
 - Helfen Sie, andere zu warnen, dass sie evakuieren müssen.
 - Nehmen Sie Ihren Personalausweis, Geld, Wasser, Handy und Ladegerät, Schlüssel, eine Liste mit Telefonnummern, notwendige Medikamente, Hygieneartikel, Ersatzkleidung und Stiefel mit.
 - Stellen Sie Gas, Wasser und Strom ab. Schließen Sie Fenster und Türen. Die Polizei bewacht die Wohnungen.
@@ -186,7 +174,7 @@ Quelle: [Nationales Krisenzentrum: Flusshochwasser](https://krisenzentrum.be/de/
 - Teilen Sie Ihrer Familie und einer Kontaktperson außerhalb des Gebiets mit, wo Sie sind. Funktioniert das Netz, schicken Sie lieber eine SMS oder Nachricht, statt zu telefonieren.
 - Kehren Sie erst nach Hause zurück, wenn die Behörden sagen, dass es sicher ist.
 
-Quelle: [Nationales Krisenzentrum: Flusshochwasser](https://krisenzentrum.be/de/risiken-belgien/naturrisiken/flussueberschwemmung-oder-hochwasser-anderer-wasserlaeufe) · [1722](https://www.1722.be/de/index.html) · [VMM: Tipps bei Überschwemmungen](https://vmm.vlaanderen.be/tips/water/overstromingen) · [BBK: Broschüre Stromausfall](https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/Buergerinformationen/stromausfall-vorsorge-selbsthilfe.pdf?__blob=publicationFile&v=13) · [Ready.gov: floods](https://www.ready.gov/floods) · [Nationales Krisenzentrum: evakuieren](https://krisenzentrum.be/de/was-koennen-sie-tun/der-richtige-reflex/evakuierung) · [Nationales Krisenzentrum: Informationen während einer Notsituation](https://krisenzentrum.be/de/was-koennen-sie-tun/informieren-sie-sich/information-notsituationen) · [112.be: Häufig gestellte Fragen](https://112.be/de/haeufig-gestellte-fragen) · [FÖD Wirtschaft: Fragen von Haushalten zur Stromknappheit](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door) · [BBK: Vorsorgen für Krisen und Katastrophen](https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/Buergerinformationen/Ratgeber/BBK-Vorsorgen-fuer-Krisen-und-Katastrophen.pdf?__blob=publicationFile&v=44) · [Inspektionen: Nichterreichbarkeit der 112 am 24. Juni 2019](https://zoek.officielebekendmakingen.nl/blg-942150.pdf)
+Quelle: [Nationales Krisenzentrum: Flusshochwasser](https://krisenzentrum.be/de/risiken-belgien/naturrisiken/flussueberschwemmung-oder-hochwasser-anderer-wasserlaeufe) · [1722](https://www.1722.be/de/index.html) · [VMM: Tipps bei Überschwemmungen](https://vmm.vlaanderen.be/tips/water/overstromingen) · [BBK: Broschüre Stromausfall](https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/Buergerinformationen/stromausfall-vorsorge-selbsthilfe.pdf?__blob=publicationFile&v=13) · [Ready.gov: floods](https://www.ready.gov/floods) · [Nationales Krisenzentrum: evakuieren](https://krisenzentrum.be/de/was-koennen-sie-tun/der-richtige-reflex/evakuierung) · [Nationales Krisenzentrum: Informationen während einer Notsituation](https://krisenzentrum.be/de/was-koennen-sie-tun/informieren-sie-sich/information-notsituationen) · [112.be: Häufig gestellte Fragen](https://112.be/de/haeufig-gestellte-fragen) · [FÖD Wirtschaft: Fragen von Haushalten zur Stromknappheit](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door)
 
 ### Draußen oder unterwegs
 

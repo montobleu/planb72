@@ -65,7 +65,7 @@ origineel_datum: "2026-11-18"
 
 **Die belgische Lage.** Das Nationale Krisenzentrum beschreibt einen internationalen bewaffneten Konflikt als Risiko mit sehr geringer Wahrscheinlichkeit. Das untersuchte Szenario spielt sich auf NATO-Gebiet außerhalb Belgiens ab. Das Krisenzentrum gibt auf dieser Seite keine eigenen Schritte für einen Luftangriff an. Die Schritte auf dieser Karte stammen deshalb aus den offiziellen Leitfäden Deutschlands, Schwedens, der Ukraine und Polens.
 
-**Wie Sie gewarnt werden.** In Belgien benachrichtigen die Behörden Sie über Radio und Fernsehen und über Lautsprecherwagen der Polizei, die durch die Straße fahren. Funktioniert das Netz, auch über BE-Alert: SMS, E-Mail oder Telefonanruf. Bei einem großen Notfall erhält jeder mit einem Handy in der betroffenen Zone eine Alert-SMS, auch ohne Anmeldung. Mit einem Radio mit Batterien oder einem Kurbelradio können Sie auch bei einem Stromausfall die Medien hören.
+**Wie Sie gewarnt werden.** In Belgien benachrichtigen die Behörden Sie über Radio und Fernsehen und über Lautsprecherwagen der Polizei. Funktioniert das Netz, auch über BE-Alert: SMS, E-Mail oder Telefonanruf. Bei einem großen Notfall erhält jeder mit einem Handy in der betroffenen Zone eine Alert-SMS, auch ohne Anmeldung. Fällt der Strom aus, hören Sie ein Radio mit Batterien oder ein Kurbelradio.
 
 **Alarmsignale im Ausland.** Jedes Land hat sein eigenes Sirenensignal. Kennen Sie das Signal des Landes, in dem Sie sich aufhalten.
 
@@ -83,7 +83,7 @@ Quelle: [Nationales Krisenzentrum: IGC](https://krisenzentrum.be/de/risiken-belg
 - **Legen Sie eine Notfalltasche bereit** und stellen Sie sie neben die Tür. Das schwedische MCF nennt: Wasser in Flaschen oder Dosen, Lebensmittel, die sich bei Raumtemperatur halten, Hygieneartikel und Toilettenpapier, Medikamente und einen Erste-Hilfe-Kasten, warme Kleidung, Personalausweis, Bargeld und Bankkarten, Schlüssel, Handy mit Ladegerät oder Powerbank und eine Taschenlampe. Die Ukraine ergänzt: Ersatzbatterien, Decken oder Rettungsdecken, ein batteriebetriebenes Radio und einen Feuerlöscher. Rechnen Sie mit einem Aufenthalt von mindestens zwei Tagen.
 - **Halten Sie zu Hause einen Vorrat** für mindestens 3 Tage, wie das Nationale Krisenzentrum empfiehlt: Wasser, haltbare Lebensmittel, ein Radio, eine Taschenlampe, Medikamente.
 - **Verstärken Sie Fenster** mit stark haftender Folie. Verschließen Sie sie, wenn möglich, mit Sandsäcken oder stabilen Möbeln.
-- **Erstellen Sie einen Plan** mit Ihrer Familie: Wer tut was, wo Sie sich treffen, wie Sie einander erreichen. Vereinbaren Sie, wo Sie einander wiederfinden, wenn Sie einander nicht erreichen können. Vereinbaren Sie auch mit Ihren Nachbarn, wie Sie einander ohne Telefon oder Internet erreichen.
+- **Erstellen Sie einen Plan** mit Ihrer Familie: Wer tut was, wo Sie sich treffen und wie Sie einander erreichen oder wiederfinden, auch ohne Telefon oder Internet. Vereinbaren Sie das auch mit Ihren Nachbarn.
 - **Üben Sie.** Legen Sie den Weg zu Ihrem Schutzort vorher fest und folgen Sie ihm bei einem Alarm.
 
 Quelle: [dovidka.info: Shelter](https://dovidka.info/en/what-is-shelter/) · [dovidka.info: combat area](https://dovidka.info/en/in-the-combat-area/) · [MCF: shelters](https://www.mcf.se/en/advice-for-individuals/civil-defence-shelters-evacuation-and-warning-systems/good-to-know-about-civil-defence-shelters/) · [BBK](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Vorsorge/Schutz-suchen/Schutz-vor-Explosion/schutz-vor-explosion_node.html) · [Polnische Regierung](https://bip.slaskie.pl/resource/232602/14d_safety_handbook_en.pdf) · [Nationales Krisenzentrum: Notfallpaket](https://krisenzentrum.be/de/was-koennen-sie-tun/stelle-ein-notfallpaket-zusammen/ein-notfallset-fuer-zu-hause) · [Nationales Krisenzentrum: digitale Infrastruktur](https://krisenzentrum.be/de/risiken-belgien/maatschappelijke-risicos/ausfall-der-digitalen-infrastruktur) · [Nationales Krisenzentrum: Plan für Ihre Nachbarschaft](https://krisenzentrum.be/de/was-koennen-sie-tun/erstellen-sie-einen-plan/ein-plan-ihrem-viertel-oder-ihrem-verein)
@@ -145,7 +145,7 @@ Gehen Sie bei einem Alarm sofort zum nächstgelegenen Schutz.
 
 ### Schutzbedürftige Personen
 
-- Helfen Sie älteren Menschen, Kranken und Menschen mit einer Behinderung. Nicht jeder weiß, dass Gefahr droht. Geben Sie ihnen die wichtigsten Informationen und erklären Sie, was sie tun müssen.
+- Helfen Sie älteren Menschen, Kranken und Menschen mit einer Behinderung. Nicht jeder weiß, dass Gefahr droht: Erklären Sie, was sie tun müssen.
 - Erstellen Sie vorher gemeinsam einen Plan. Helfen Sie beim Packen ihrer Notfalltasche.
 - Sorgen Sie für genug Medikamente und für Batterien für medizinische Geräte, wie Hörgeräte und Blutzuckermessgeräte.
 - Kann jemand nicht selbst weg, melden Sie das den Rettungsdiensten: vor Ort oder über die 112, wenn ein Anruf möglich ist.
@@ -181,7 +181,7 @@ Quelle: [BBK](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Vorsorge/Schutz-suchen
 - Ziehen Sie Menschen nicht selbst unter dem Schutt hervor. Rufen Sie Hilfe, halten Sie die Person still und ruhig und befolgen Sie die Anweisungen der Helfer. Graben Sie nicht selbst in Trümmern.
 - Sitzen Sie selbst unter Schutt fest: Rufen Sie um Hilfe, befreien Sie Ihre Gliedmaßen vorsichtig und berühren Sie nichts, was den Schutt stützt.
 - Rufen Sie im Notfall die 112 an. Sagen Sie, wo, was und wer anruft, und warten Sie auf Fragen. Halten Sie Anrufe kurz.
-- Kommt kein Anruf zustande: Lassen Sie jemand anderen anrufen oder versuchen Sie es mit einem anderen Gerät. Funktioniert gar kein Anruf, bestimmen Sie direkt eine umstehende Person, die Hilfe holt, und geben Sie ihr mit, wo es ist, was passiert ist, wie viele Betroffene es gibt und in welchem Zustand sie sind. Lassen Sie eine betroffene Person nur allein, wenn es keine andere Möglichkeit gibt. Siehe auch Notrufnummern in der App, Wenn kein Anruf möglich ist.
+- Kommt kein Anruf zustande, lassen Sie jemand anderen anrufen oder schicken Sie eine umstehende Person, um Hilfe zu holen. Lassen Sie eine betroffene Person nur allein, wenn es nicht anders geht. Siehe Notrufnummern in der App, Wenn kein Anruf möglich ist.
 
 **Nicht explodierte Munition, verdächtige Gegenstände und Wrackteile.**
 
@@ -218,7 +218,7 @@ Quelle: [dovidka.info: combat area](https://dovidka.info/en/in-the-combat-area/)
 
 ## Mehr Informationen
 
-Lesen Sie diese Seiten im Voraus. Bei einer Stromunterbrechung können Internet und Mobilfunknetze ausfallen.
+Vorab zu lesen, oder wenn das Internet funktioniert:
 
 - Deutsche Richtlinien zum Schutz bei Explosionen: [BBK](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Vorsorge/Schutz-suchen/Schutz-vor-Explosion/schutz-vor-explosion_node.html)
 - Schwedische Richtlinien zu Schutzräumen und Sirenen: [MCF](https://www.mcf.se/en/advice-for-individuals/civil-defence-shelters-evacuation-and-warning-systems/good-to-know-about-civil-defence-shelters/)

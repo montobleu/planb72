@@ -61,7 +61,7 @@ Es gibt keine feste Reihenfolge, die immer gilt. Die amerikanischen Überlebensh
 - Sie können mehrere Wochen ohne Nahrung auskommen, werden aber ohne Essen schnell schwächer, körperlich und geistig.
 - Hinterlassen Sie immer einen Tourenplan bei jemandem, der zu Hause bleibt.
 
-**Hilfe holen.** Draußen kann Hilfe Stunden oder Tage auf sich warten lassen, je nach Ort, Wetter und Mitteln. Verlassen Sie sich nicht darauf, dass Sie Empfang haben.
+**Hilfe holen.** Draußen kann Hilfe Stunden oder Tage auf sich warten lassen. Verlassen Sie sich nicht darauf, dass Sie Empfang haben.
 
 1. Haben Sie Empfang: Rufen Sie 112 an. Siehe den Leitfaden zum Notruf.
 2. Kein Empfang, aber jemand in der Nähe: Sprechen Sie Menschen an, denen Sie begegnen, und bitten Sie sie, an einen Ort mit Empfang zu gehen und dort 112 anzurufen.
@@ -84,7 +84,7 @@ Unterkühlung (Hypothermie) entsteht, wenn Ihr Körper mehr Wärme verliert, als
 - Schwierigkeiten beim Bewegen und Sprechen.
 - Verwirrtheit, Benommenheit, Gedächtnisverlust, seltsames Verhalten, Müdigkeit.
 
-**Rufen Sie 112 an, wenn** die Person nicht mehr zittert, die Muskeln steif werden oder Bewusstseinsstörungen auftreten. Kommt kein Anruf zustande: Lassen Sie zwei oder mehr Personen Hilfe holen und bleiben Sie selbst bei der Person (siehe Was zuerst kommt, Hilfe holen).
+**Rufen Sie 112 an, wenn** die Person nicht mehr zittert, die Muskeln steif werden oder Bewusstseinsstörungen auftreten. Kommt kein Anruf zustande, siehe Was zuerst kommt, Hilfe holen.
 
 **Was Sie tun**
 
@@ -275,7 +275,7 @@ Quelle: [CDC Yellow Book: Water disinfection for travelers](https://www.cdc.gov/
 2. Nehmen Sie Kontakt mit dem Antigiftzentrum (070 245 245, wenn das Netz funktioniert) oder dem Hausarzt auf.
 3. Bewahren Sie die Pflanze auf: Nehmen Sie einen ganzen Zweig mit Blättern und Blüten oder Früchten mit oder machen Sie Fotos.
 4. Bei Pilzen: Bewahren Sie die Reste auf (roh, gekocht, geschält). Das Antigiftzentrum fragt, welche Pilze, wo gesammelt, wie aufbewahrt und zubereitet, wie viel Zeit zwischen Essen und Beschwerden lag und ob alle, die mitgegessen haben, krank sind.
-5. Bei schweren Beschwerden: Rufen Sie 112 an. Kommt kein Anruf zustande, lassen Sie Hilfe holen (siehe Was zuerst kommt, Hilfe holen).
+5. Bei schweren Beschwerden: Rufen Sie 112 an. Kommt kein Anruf zustande, siehe Was zuerst kommt, Hilfe holen.
 
 Quelle: [US Army FM 21-76](https://archive.org/details/fm-21-76-survival-manual) · [Antigiftzentrum: Tipps für Pilzsammler](https://www.antigifcentrum.be/Toxinfos/tips-voor-paddenstoelenplukkers/) · [Antigiftzentrum: Vergiftung durch Pflanzen](https://www.antigifcentrum.be/Toxinfos/vergiftiging-door-planten/) · [Antigiftzentrum: Beeren](https://www.antigifcentrum.be/Toxinfos/bessen/) · [Vlaanderen.be: Was dürfen Sie als Besucher in der flämischen Natur tun?](https://www.vlaanderen.be/natuur-milieu-en-klimaat/wat-mag-u-als-bezoeker-doen-in-de-vlaamse-natuur)
 
@@ -298,7 +298,7 @@ Auch in Belgien kann es draußen lebensgefährlich heiß werden. Ein Hitzschlag 
 
 **Erkennen:** Kopfschmerzen, schwarze Flecken sehen, Schwindel oder Ohnmacht, Übelkeit und Erbrechen, Muskel- oder Bauchkrämpfe, rote Haut, zuerst starkes Schwitzen und dann keines mehr, Krampfanfälle, Verwirrtheit oder Benommenheit.
 
-**Rufen Sie 112 an bei** Bewusstseinsstörungen, abnormalem Verhalten, Krampfanfällen, wenn die Person nicht mehr schwitzt oder nicht trinken kann, ohne zu erbrechen, oder bei einer Körpertemperatur über 39 °C. Kommt kein Anruf zustande: Lassen Sie zwei oder mehr Personen Hilfe holen und beginnen Sie inzwischen mit dem Kühlen (siehe Was zuerst kommt, Hilfe holen).
+**Rufen Sie 112 an bei** Bewusstseinsstörungen, abnormalem Verhalten, Krampfanfällen, wenn die Person nicht mehr schwitzt oder nicht trinken kann, ohne zu erbrechen, oder bei einer Körpertemperatur über 39 °C. Kommt kein Anruf zustande: Lassen Sie Hilfe holen und beginnen Sie inzwischen mit dem Kühlen (siehe Was zuerst kommt, Hilfe holen).
 
 **Was Sie tun:** Lassen Sie die Person an einem kühlen Ort ruhen und kühlen Sie sie sofort: ein Ventilator, nasse kalte Tücher oder Kühlpacks in Leiste, Achseln und Nacken, mit kaltem Wasser besprühen, Hände und Füße in kaltes Wasser. Ist der Hitzschlag die Folge einer Anstrengung und ist die Person gut bei Bewusstsein, geben Sie ihr etwas Kühles zu trinken. Geben Sie kein fiebersenkendes Mittel.
 

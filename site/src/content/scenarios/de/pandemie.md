@@ -103,7 +103,7 @@ Gibt es kein Wasser und keine Seife, verwenden Sie Handgel mit mindestens 60 Pro
 
 - Wenden Sie sich an Ihren Hausarzt, wenn Sie Grippebeschwerden haben oder sich nicht wohlfühlen. Rufen Sie zuerst an.
 - Außerhalb der Sprechzeiten Ihres Hausarztes können Sie sich an den hausärztlichen Bereitschaftsdienst wenden. In Gent rufen Sie dafür die 1733 an.
-- Kommt kein Anruf zustande und ist es dringend, siehe Notrufnummern in der App, Wenn kein Anruf möglich ist.
+- Kommt kein Anruf zustande und ist es dringend, siehe Notrufnummern, Wenn kein Anruf möglich ist.
 - Bleiben Sie Schule, Arbeit und öffentlichen Orten fern, solange Sie krank sind.
 - Halten Sie sich auch zu Hause möglichst von Mitbewohnern fern, die nicht krank sind.
 - Tragen Sie eine Mund-Nasen-Maske, wenn Sie bei anderen sind oder das Haus verlassen müssen.
@@ -111,7 +111,7 @@ Gibt es kein Wasser und keine Seife, verwenden Sie Handgel mit mindestens 60 Pro
 - Trinken Sie ausreichend: 1,5 Liter pro Tag.
 - Lüften Sie Ihre Wohnung regelmäßig.
 
-**Wann Sie wieder nach draußen dürfen.** Befolgen Sie die Regeln der Gesundheitsdienste für die betreffende Krankheit. Die amerikanische CDC gibt als allgemeine Regel für Atemwegsinfektionen an: Sie nehmen Ihre Aktivitäten wieder auf, wenn Ihre Beschwerden sich seit mindestens 24 Stunden insgesamt bessern und Sie in diesen 24 Stunden kein Fieber hatten, ohne fiebersenkende Mittel. Treffen Sie danach noch 5 Tage zusätzliche Vorsichtsmaßnahmen bei anderen Menschen: frische Luft, gute Hygiene, eine gut sitzende Mund-Nasen-Maske, Abstand. Sie können das Virus noch weitergeben, nachdem Sie sich besser fühlen. Bekommen Sie wieder Fieber oder fühlen Sie sich schlechter, bleiben Sie wieder zu Hause.
+**Wann Sie wieder nach draußen dürfen.** Befolgen Sie die Regeln der Gesundheitsdienste für die betreffende Krankheit. Die amerikanische CDC gibt als allgemeine Regel für Atemwegsinfektionen an: Nehmen Sie Ihre Aktivitäten wieder auf, wenn Ihre Beschwerden sich seit mindestens 24 Stunden bessern und Sie in diesen 24 Stunden kein Fieber hatten, ohne fiebersenkende Mittel. Treffen Sie danach noch 5 Tage zusätzliche Vorsichtsmaßnahmen bei anderen: frische Luft, Hygiene, eine gut sitzende Mund-Nasen-Maske, Abstand. Sie können das Virus dann noch weitergeben. Bekommen Sie wieder Fieber oder fühlen Sie sich schlechter, bleiben Sie wieder zu Hause.
 
 **Ist ein Mitbewohner oder Freund krank.**
 
@@ -139,13 +139,12 @@ Gibt es kein Wasser und keine Seife, verwenden Sie Handgel mit mindestens 60 Pro
 ### Bei der Arbeit oder in der Schule
 
 - Bleiben Sie zu Hause, wenn Sie krank sind. Gehen Sie nicht zur Arbeit oder zur Schule.
-- Arbeitgeber können Telearbeit und flexible Regeln für Krankheitsurlaub und Pflegeurlaub vorsehen, damit kranke Arbeitnehmer und diejenigen, die ein krankes Familienmitglied pflegen, zu Hause bleiben können.
+- Arbeitgeber können Telearbeit und flexiblen Kranken- und Pflegeurlaub vorsehen, damit alle, die krank sind oder ein krankes Familienmitglied pflegen, zu Hause bleiben können.
 - Kranke Kinder bleiben Schule und Betreuung fern.
 
 ### Kinder
 
 - Auch für Kinder gelten die Regeln: Hände gut waschen, in die Armbeuge husten, bei Krankheit zu Hause bleiben.
-- Bereiten Sie sich auf eine Schließung von Schule oder Betreuung vor: Regeln Sie Betreuung und Fernunterricht.
 - Nehmen Sie für kleine Kinder Windeln, Babynahrung und Ersatzkleidung in Ihren Vorrat auf.
 
 ### Schutzbedürftige Personen
@@ -153,7 +152,6 @@ Gibt es kein Wasser und keine Seife, verwenden Sie Handgel mit mindestens 60 Pro
 - Manche Menschen haben ein höheres Risiko für eine schwere Erkrankung. Treffen Sie zusätzliche Vorsichtsmaßnahmen, wenn Sie bei ihnen sind, vor allem in den 5 Tagen, nachdem Sie selbst krank waren.
 - Menschen mit einer geschwächten Abwehr können ein Virus lange weitergeben.
 - Sorgen Sie dafür, dass sie einen ausreichenden Vorrat ihrer Dauermedikamente haben.
-- Lassen Sie sich nach Rat Ihres Hausarztes impfen.
 
 ### Haustiere und Tiere
 
@@ -168,7 +166,6 @@ Quelle: [Nationales Krisenzentrum: ansteckende Krankheiten](https://krisenzentru
 ## Danach
 
 - Behalten Sie die guten Gewohnheiten bei: Bleiben Sie zu Hause, wenn Sie krank sind, befolgen Sie den Rat Ihres Arztes, husten Sie in die Armbeuge und waschen Sie Ihre Hände.
-- Waschen Sie die Wäsche des Kranken bei 60 °C oder mehr.
 - Überprüfen und verbessern Sie Ihren Familienplan. Was lief gut, was hätten Sie gebraucht?
 - Füllen Sie Ihren Vorrat auf.
 - Sorgen Sie für Ihre psychische Gesundheit. Es ist normal, dass Sie sich Sorgen machen. Halten Sie Kontakt mit anderen, auch aus der Ferne, und sprechen Sie mit jemandem, wenn Sie aufgewühlt sind.

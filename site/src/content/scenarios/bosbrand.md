@@ -52,7 +52,7 @@ Een natuurbrand is een brand in bos, heide, duinen, grasland of veld. Hitte, dro
 
 **Brandgevaar in Wallonië.** Bij droogte kunnen de burgemeester of de gouverneur een plaatselijk verbod opleggen. Op gevoelige plaatsen staan informatieborden. Het verbod staat ook op de website van de gemeente.
 
-**Informatie.** Volg bij een brand in de buurt de officiële kanalen van gemeente en overheid: radio, tv en omroepwagens van de politie die in de straat rondrijden. Werkt het netwerk, dan ook BE-Alert en de websites en sociale media van de overheid. Vertrouw niet op geruchten of berichten van onbekende accounts op sociale media.
+**Informatie.** Volg bij een brand in de buurt de officiële kanalen van gemeente en overheid: radio, tv en omroepwagens van de politie, en als het netwerk werkt ook BE-Alert, websites en sociale media. Vertrouw niet op geruchten of berichten van onbekende accounts op sociale media.
 
 Bron: [Nationaal Crisiscentrum](https://crisiscentrum.be/nl/risicos-belgie/natuurlijke-risicos/natuurbrand) · [Agentschap Natuur en Bos](https://natuurenbos.be/waarschuwingen) · [Service public de Wallonie](https://environnement.wallonie.be/feux) · [Brandweer Nederland](https://www.brandweer.nl/onderwerpen/natuurbrand/) · [Nationaal Crisiscentrum: informatie tijdens een noodsituatie](https://crisiscentrum.be/nl/wat-kan-jij-doen/informeer-je/informatie-tijdens-een-noodsituatie)
 
@@ -102,7 +102,7 @@ Bron: [Nationaal Crisiscentrum](https://crisiscentrum.be/nl/risicos-belgie/natuu
 
 - Bel 112 als je een brand ziet of als iemand in gevaar is. Lukt dat niet, laat iemand anders bellen of vraag hulp in je buurt (zie Noodnummers, Als bellen niet lukt).
 - Sluit ramen en deuren.
-- Evacueer niet op eigen initiatief. Wacht op de aanbevelingen van de overheid. Luister naar de radio en let op omroepwagens van de politie. Werkt het netwerk, volg dan ook BE-Alert en de officiële kanalen.
+- Evacueer niet op eigen initiatief. Wacht op de aanbevelingen van de overheid via de radio en omroepwagens, en als het netwerk werkt via BE-Alert.
 - Kijk of buren, ouderen en mensen met een beperking hulp nodig hebben.
 - Moet je vertrekken: sluit elektriciteit en gas af, neem je noodpakket en vertrek meteen.
 - Kun je niet weg en is er geen bevel om te vertrekken: blijf binnen met ramen en deuren dicht. Bij rook raadt Ready.gov aan om in een kamer te blijven die je van de buitenlucht kunt afsluiten, en ventilatie op recirculatie te zetten of de luchtinlaat te sluiten.
@@ -118,14 +118,13 @@ Bron: [Nationaal Crisiscentrum](https://crisiscentrum.be/nl/risicos-belgie/natuu
 4. Help andere mensen naar een veilige plek.
 5. Bel zo snel mogelijk 112 of gebruik de 112-app. Geef je plaats met herkenningspunten: paden, vijvers, uitkijktorens, parkings.
 
-**Geen bereik of lukt bellen niet?** Vertrek zo snel mogelijk en verwittig de mensen die je onderweg tegenkomt. Zie ook Noodnummers in de app, Als bellen niet lukt.
+**Geen bereik of lukt bellen niet?** Vertrek zo snel mogelijk en verwittig de mensen die je onderweg tegenkomt (zie Noodnummers, Als bellen niet lukt).
 
 Neem geen risico's en volg de instructies van brandweer en boswachters.
 
 ### In de auto
 
 - Blokkeer geen paden, boswegen of toegangen. Laat de weg vrij voor brandweer en ambulance.
-- Parkeer nooit in hoog gras.
 - Volg de instructies van politie en brandweer. Moet je vertrekken, neem dan de route die de overheid opgeeft.
 - Is de weg druk of afgesloten, overweeg dan te voet of met de fiets te vertrekken.
 
@@ -162,7 +161,7 @@ Bron: [Nationaal Crisiscentrum](https://crisiscentrum.be/nl/risicos-belgie/natuu
 - Blijf weg van hete as, verkoolde bomen, smeulend afval en gloeiende resten. Hitte in de grond kan brandwonden of een nieuwe brand veroorzaken.
 - Draag bij het opruimen lange mouwen, een lange broek, werkhandschoenen en stevige schoenen met dikke zolen. Draag een mondmasker en maak het puin nat om stof te beperken.
 - Neem foto's van de schade en contacteer je verzekeraar.
-- Bel alleen in noodgevallen. Werkt het netwerk, stuur dan berichten in plaats van te bellen, zodat het net vrij blijft voor noodoproepen.
+- Bel alleen in noodgevallen. Werkt het netwerk, stuur dan liever berichten, zodat het net vrij blijft.
 
 Bron: [Nationaal Crisiscentrum](https://crisiscentrum.be/nl/risicos-belgie/natuurlijke-risicos/natuurbrand) · [Ready.gov](https://www.ready.gov/wildfires)
 

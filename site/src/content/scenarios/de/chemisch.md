@@ -52,9 +52,9 @@ origineel_datum: "2026-11-18"
 
 ## Erkennen
 
-**Wie Sie gewarnt werden.** Bei einem Chemieunfall benachrichtigen die Behörden Sie über Radio und Fernsehen und über Lautsprecherwagen der Polizei, die durch die Straße fahren. Bei manchen Notsituationen setzen sie auch Informationstafeln, Faltblätter oder Kommunikation von Tür zu Tür ein. Funktioniert das Netz, benachrichtigen sie Sie auch über BE-Alert (SMS, E-Mail oder Telefonanruf), soziale Medien und offizielle Websites. Bei einem großen Notfall schicken die Behörden eine Alert-SMS an alle, die sich zu diesem Zeitpunkt mit einem Handy in der Risikozone befinden. Dafür müssen Sie nicht angemeldet sein.
+**Wie Sie gewarnt werden.** Bei einem Chemieunfall benachrichtigen die Behörden Sie über Radio und Fernsehen und über Lautsprecherwagen der Polizei. Bei manchen Notsituationen setzen sie auch Informationstafeln, Faltblätter oder Kommunikation von Tür zu Tür ein. Funktioniert das Netz, benachrichtigen sie Sie auch über BE-Alert (SMS, E-Mail oder Telefonanruf), soziale Medien und offizielle Websites. Bei einem großen Notfall schicken die Behörden eine Alert-SMS an alle, die sich zu diesem Zeitpunkt mit einem Handy in der Risikozone befinden. Dafür müssen Sie nicht angemeldet sein.
 
-Bei einer Stromunterbrechung können Internet und Mobilfunknetze ausfallen. Mit einem Radio mit Batterien oder einem Kurbelradio bleiben Sie dann trotzdem auf dem Laufenden.
+Fällt der Strom aus, bleiben Sie mit einem Radio mit Batterien oder einem Kurbelradio auf dem Laufenden.
 
 **Anzeichen, dass Sie mit einem Stoff in Kontakt gekommen sind.** Achten Sie auf:
 
@@ -77,10 +77,10 @@ Quelle: [Nationales Krisenzentrum](https://krisenzentrum.be/de/risiken-belgien/t
 - **Wissen Sie, wie Sie die Lüftung ausschalten.** Finden Sie vorher heraus, wie Sie mechanische Lüftung, Klimaanlage und den Lufteinlass der Heizung abschalten.
 - **Legen Sie Material bereit, um Ritzen abzudichten.** Das amerikanische Ready.gov empfiehlt, Plastikfolie, starkes Klebeband und eine Schere bereitzulegen, um Türen, Fenster und Lüftungsgitter abzudecken. Nasse Handtücher gehen auch.
 - **Stellen Sie ein Notfallpaket zusammen** mit Wasser, Essen, einem Radio mit Batterien oder Kurbel, einer Taschenlampe, Medikamenten und einer geladenen Powerbank.
-- **Treffen Sie Absprachen** mit Mitbewohnern: Wer tut was, und wie erreichen Sie einander, ohne zu telefonieren. Vereinbaren Sie auch mit Ihren Nachbarn, wie Sie einander erreichen, wenn Telefon und Internet nicht funktionieren.
+- **Treffen Sie Absprachen** mit Mitbewohnern und Nachbarn: Wer tut was, und wie erreichen Sie einander ohne Telefon oder Internet.
 - **Legen Sie eine Papierliste** mit wichtigen Telefonnummern zu Ihrem Notfallpaket.
 
-**Unterschied zwischen Quellen zum Stockwerk.** Die belgischen Behörden raten zu einem zentralen Raum im Erdgeschoss. Das Bezirksamt Pankow in Berlin und Ready.gov empfehlen bei Gasen einen Raum in einem höheren Stockwerk oder über dem Boden, weil die meisten Gase schwerer sind als Luft und absinken. In Belgien befolgen Sie den belgischen Rat. Geben die Behörden über das Radio, Lautsprecherwagen oder BE-Alert für einen bestimmten Stoff eine andere Anweisung, befolgen Sie diese Anweisung.
+**Unterschied zwischen Quellen zum Stockwerk.** Die belgischen Behörden raten zu einem zentralen Raum im Erdgeschoss. Das Bezirksamt Pankow in Berlin und Ready.gov empfehlen bei Gasen einen Raum in einem höheren Stockwerk oder über dem Boden, weil die meisten Gase schwerer sind als Luft und absinken. In Belgien befolgen Sie den belgischen Rat. Geben die Behörden für einen bestimmten Stoff eine andere Anweisung, befolgen Sie diese Anweisung.
 
 Quelle: [Nationales Krisenzentrum: Seveso](https://krisenzentrum.be/de/risiken-belgien/technologische-risiken/zwischenfall-einer-seveso-anlage) · [Seveso.be](https://www.seveso.be/de/seveso-unternehmen) · [BE-Alert](https://www.be-alert.be/de/wie-werden-sie-alarmiert/alarmiert-wo-auch-immer-sie-sich-aufhalten) · [Ready.gov](https://www.ready.gov/chemical) · [Bezirksamt Pankow](https://www.berlin.de/ba-pankow/politik-und-verwaltung/beauftragte/katastrophenschutz/artikel.1640880.php) · [Nationales Krisenzentrum: Gemeinsam vorbereitet](https://krisenzentrum.be/sites/default/files/documents/files/WEB-Brosch%C3%BCre%20Gemeinsam%20Vorbereitet-DE.pdf) · [Nationales Krisenzentrum: Plan für Ihre Nachbarschaft](https://krisenzentrum.be/de/was-koennen-sie-tun/erstellen-sie-einen-plan/ein-plan-ihrem-viertel-oder-ihrem-verein)
 
@@ -97,13 +97,13 @@ Schutz suchen ist der beste Schutz. Schutz suchen ist vorübergehend: von einige
 5. Dichten Sie Ritzen unter Türen und um Fenster mit nassen Handtüchern, Plastikfolie oder Klebeband ab, wenn Sie dieses Material haben.
 6. Benachrichtigen Sie Ihre Mitbewohner und die anderen Bewohner des Gebäudes.
 7. Lassen Sie Passanten, die in Gefahr sind, vorübergehend herein.
-8. Schalten Sie das Radio ein, oder das Fernsehen, wenn es Strom gibt, und befolgen Sie die Anweisungen der Behörden. Fällt der Strom aus, benutzen Sie ein Radio mit Batterien oder Kurbel. Achten Sie auch auf Lautsprecherwagen der Polizei.
+8. Schalten Sie Radio oder Fernsehen ein, befolgen Sie die Anweisungen der Behörden und achten Sie auf Lautsprecherwagen der Polizei.
 9. Zünden Sie keine Kerzen an. Sie verbrauchen Sauerstoff.
 10. Essen und trinken Sie nichts, von dem Sie vermuten, dass es verunreinigt ist.
 
 **Riechen Sie den Stoff dennoch drinnen?** Atmen Sie dann flach durch ein Tuch oder Taschentuch. Benutzen Sie eine Atemschutzmaske, wenn Sie eine haben. Werden Gase oder Dämpfe im Gebäude selbst freigesetzt, zum Beispiel durch ein Leck im Inneren, verlassen Sie das Gebäude.
 
-**Telefonieren.** Rufen Sie nicht an, um Informationen zu erfragen: Hören Sie Radio. Rufen Sie die 112 nur im Notfall an. Kommt kein Anruf zustande, lassen Sie jemand anderen im Gebäude anrufen oder versuchen Sie es mit einem anderen Gerät (siehe Notrufnummern, Wenn kein Anruf möglich ist). Benachrichtigen Sie Mitbewohner und andere Bewohner Ihres Gebäudes direkt. Funktioniert das Netz, benachrichtigen Sie andere lieber per SMS, WhatsApp, Signal oder soziale Medien, damit das Telefonnetz für die Rettungsdienste frei bleibt.
+**Telefonieren.** Rufen Sie nicht an, um Informationen zu erfragen: Hören Sie Radio. Rufen Sie die 112 nur im Notfall an. Kommt kein Anruf zustande, lassen Sie jemand anderen im Gebäude anrufen oder versuchen Sie es mit einem anderen Gerät (siehe Notrufnummern, Wenn kein Anruf möglich ist). Funktioniert das Netz, benachrichtigen Sie andere lieber mit Nachrichten, damit das Telefonnetz für die Rettungsdienste frei bleibt.
 
 ### Draußen oder unterwegs
 
@@ -142,13 +142,11 @@ Ready.gov empfiehlt, sich auf die dem Wind zugewandte Seite der Quelle zu begebe
 
 - Kinder in der Schule befolgen dieselben Empfehlungen wie zu Hause.
 - Zu Hause: Nehmen Sie Kinder mit in den Schutzraum.
-- Fügen Sie im Voraus die Adresse von Schule und Betreuung in BE-Alert hinzu, damit Sie Meldungen für diesen Ort erhalten, wenn das Netz funktioniert.
 
 ### Schutzbedürftige Personen
 
 - Prüfen Sie, ob Sie jemandem helfen können, der weniger mobil ist oder wenige Menschen um sich hat, ohne selbst in die Wolke hinauszugehen. Wohnt diese Person in Ihrem Gebäude, benachrichtigen Sie sie direkt. Sonst: Schicken Sie eine Nachricht, wenn das Netz funktioniert.
 - Sorgen Sie in Ihrem Notfallplan für Helfer in der Nähe von älteren Menschen, Menschen mit einer Behinderung und Menschen mit besonderen Bedürfnissen.
-- Melden Sie im Voraus die Adresse eines schutzbedürftigen Familienmitglieds bei BE-Alert an.
 
 ### Haustiere und Tiere
 
@@ -161,7 +159,7 @@ Ready.gov empfiehlt, sich auf die dem Wind zugewandte Seite der Quelle zu begebe
 - Brechen Sie dann sofort auf. Gehen Sie möglichst nicht durch die verunreinigte Zone.
 - Nehmen Sie das Nötigste mit: Personalausweis, Geld, Wasserflaschen, Handy und Ladegerät, Schlüssel, eine Liste mit Telefonnummern, Ihre notwendigen Medikamente und einen Kulturbeutel.
 - Schalten Sie Elektrogeräte aus. Kühlschrank und Gefriergerät dürfen eingeschaltet bleiben. Schließen Sie Fenster und Türen.
-- Gehen Sie zu Familie oder Freunden außerhalb der Zone oder in das Aufnahmezentrum, das Gemeinde oder Provinz einrichtet, zum Beispiel eine Sporthalle oder einen Festsaal. Dort gibt eine Kontaktperson vor Ort Informationen.
+- Gehen Sie zu Familie oder Freunden außerhalb der Zone oder in das Aufnahmezentrum, das Gemeinde oder Provinz einrichtet, wo eine Kontaktperson Informationen gibt.
 - Helfen Sie, andere zu benachrichtigen, dass sie evakuieren müssen.
 
 Quelle: [Nationales Krisenzentrum: Schutz suchen](https://krisenzentrum.be/de/was-koennen-sie-tun/der-richtige-reflex/schutz-suchen) · [Nationales Krisenzentrum: chemische Stoffe](https://krisenzentrum.be/de/risiken-belgien/technologische-risiken/freisetzung-von-chemischen-stoffen) · [Nationales Krisenzentrum: evakuieren](https://krisenzentrum.be/de/was-koennen-sie-tun/der-richtige-reflex/evakuierung) · [Nationales Krisenzentrum: Informationen während einer Notsituation](https://krisenzentrum.be/de/was-koennen-sie-tun/informieren-sie-sich/information-notsituationen) · [Nationales Krisenzentrum: Gemeinsam vorbereitet](https://krisenzentrum.be/sites/default/files/documents/files/WEB-Brosch%C3%BCre%20Gemeinsam%20Vorbereitet-DE.pdf) · [112.be: Häufig gestellte Fragen](https://112.be/de/haeufig-gestellte-fragen) · [BBK: im Haus](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Vorsorge/Schutz-suchen/Gefahrstoff-Freisetzung/_documents/gefahrstoff-im-haus_dossier2.html?nn=20588) · [BBK: im Freien und im Auto](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Vorsorge/Schutz-suchen/Gefahrstoff-Freisetzung/_documents/gefahrstoff-im-auto-und-im-freien_dossier3.html?nn=20588) · [Bezirksamt Pankow](https://www.berlin.de/ba-pankow/politik-und-verwaltung/beauftragte/katastrophenschutz/artikel.1640880.php) · [Ready.gov](https://www.ready.gov/chemical)
@@ -190,7 +188,7 @@ Quelle: [Nationales Krisenzentrum](https://krisenzentrum.be/de/risiken-belgien/t
 
 ## Mehr Informationen
 
-Lesen Sie diese Seiten im Voraus. Bei einer Stromunterbrechung können Internet und Mobilfunknetze ausfallen.
+Vorab zu lesen, oder wenn das Internet funktioniert:
 
 - Risiko und Empfehlungen: [Nationales Krisenzentrum: Freisetzung chemischer Stoffe](https://krisenzentrum.be/de/risiken-belgien/technologische-risiken/freisetzung-von-chemischen-stoffen)
 - Seveso-Betriebe in Ihrer Umgebung: [seveso.be](https://www.seveso.be/de/seveso-unternehmen)

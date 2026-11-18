@@ -79,12 +79,12 @@ Quelle: [Nationales Krisenzentrum: Evakuieren](https://krisenzentrum.be/de/was-k
 
 **Wie Sie davon erfahren, auch ohne Netz**
 
-- Hören Sie Radio über ein batteriebetriebenes Radio, ein Kurbelradio oder das Autoradio (Krisenzentrum, FÖD Wirtschaft). Ready.gov sagt dasselbe: Hören Sie während einer Evakuierung ein batteriebetriebenes Radio und befolgen Sie die örtlichen Anweisungen.
+- Hören Sie Radio über ein batteriebetriebenes Radio, ein Kurbelradio oder das Autoradio (Krisenzentrum, FÖD Wirtschaft, Ready.gov).
 - Die Polizei kann mit Lautsprecherwagen durch die Straße fahren (Krisenzentrum).
 - Die Behörden können auch von Tür zu Tür gehen oder Informationstafeln und Faltblätter verwenden (Broschüre).
 - Befolgen Sie die Anweisungen der Hilfsdienste vor Ort (Krisenzentrum).
 
-**Funktioniert das Netz,** kommen die Anweisungen auch über BE-Alert, Fernsehen, die Websites von Gemeinde, Provinz und Krisenzentrum und soziale Medien. Bei einer großen Notsituation oder wenn dringendes Handeln nötig ist, etwa bei einer Evakuierung, können die Behörden allen in der Zone eine SMS senden, auch denen, die nicht bei BE-Alert registriert sind (BE-Alert). Bei einer Stromunterbrechung können Internet und Mobilfunknetze ausfallen (Broschüre).
+**Funktioniert das Netz,** kommen die Anweisungen auch über BE-Alert, Fernsehen, offizielle Websites und soziale Medien. Bei einer Evakuierung können die Behörden allen in der Zone eine SMS senden, auch denen, die nicht bei BE-Alert registriert sind (BE-Alert).
 
 **Ready.gov** empfiehlt, früh genug aufzubrechen, um nicht von einem Unwetter eingeschlossen zu werden.
 
@@ -131,7 +131,7 @@ Quelle: [Nationales Krisenzentrum: Evakuieren](https://krisenzentrum.be/de/was-k
 
 Bei einer Überschwemmung auch Ersatzkleidung und Stiefel (Krisenzentrum).
 
-**Radio und Karte.** Das Notfallpaket des Krisenzentrums enthält ein batteriebetriebenes Radio oder ein Kurbelradio. Ready.gov nennt für das Notfallpaket auch Karten Ihrer Gegend. Denk vooruit (Niederlande) empfiehlt, eine Papierkarte Ihres Dorfes oder Ihrer Stadt beim Notfallpaket aufzubewahren.
+**Radio und Karte.** Das Notfallpaket des Krisenzentrums enthält ein batteriebetriebenes Radio oder ein Kurbelradio. Ready.gov und Denk vooruit (Niederlande) nennen auch eine Papierkarte Ihrer Gegend oder Stadt.
 
 **Kleidung (Ready.gov).** Tragen Sie feste Schuhe und Kleidung, die etwas Schutz bietet: lange Hose, lange Ärmel, einen Hut.
 
@@ -219,7 +219,7 @@ Quelle: [Nationales Krisenzentrum: Evakuieren](https://krisenzentrum.be/de/was-k
 
 **Wenn Sie jemanden aus den Augen verloren haben**
 
-Rode Kruis-Vlaanderen hat einen Dienst Restoring Family Links, der vermisste Personen sucht und den Kontakt zwischen Familienmitgliedern wiederherstellt, unter anderem nach einer Naturkatastrophe. Sie können den Dienst über das Kontaktformular, per E-Mail oder Telefon erreichen, also wenn das Netz funktioniert. Angelegenheiten, für die die Polizei zuständig ist, bearbeitet der Dienst nicht. Der Dienst empfiehlt:
+Rode Kruis-Vlaanderen hat einen Dienst Restoring Family Links, der vermisste Personen sucht und den Kontakt zwischen Familienmitgliedern wiederherstellt, unter anderem nach einer Naturkatastrophe. Sie erreichen den Dienst über ein Formular, per E-Mail oder Telefon, also wenn das Netz funktioniert. Angelegenheiten, für die die Polizei zuständig ist, bearbeitet der Dienst nicht. Der Dienst empfiehlt:
 
 - Telefonnummern von Familienmitgliedern auswendig zu lernen.
 - Kinder wichtige Informationen behalten zu lassen, etwa den Namen ihrer Eltern.
@@ -302,7 +302,7 @@ Quelle: [Ready.gov: Pets](https://www.ready.gov/pets) · [Nationales Krisenzentr
 ## In der Notunterkunft
 
 - Im Aufnahmezentrum gibt Ihnen die Kontaktperson vor Ort die nötigen Informationen, auch darüber, wann Sie nach Hause zurückdürfen (Krisenzentrum).
-- Gemeinden, Provinzen oder das Krisenzentrum können eine Informationsnummer einrichten, um Fragen der Einwohner zu beantworten. Sie können dafür die nationale Informationsnummer 1771 nutzen, die Tag und Nacht innerhalb einer Stunde einsatzbereit sein kann. Dank einer Zusammenarbeit mit dem FÖD Volksgesundheit kann sie auch heikle Anrufe zu möglichen Opfern bearbeiten (Krisenzentrum). Die Nummer ist nicht immer aktiv: Sie wird bei einer Notsituation geöffnet. Es ist eine Telefonnummer und hilft also nur, wenn das Netz funktioniert.
+- Gemeinden, Provinzen oder das Krisenzentrum können eine Informationsnummer einrichten, um Fragen der Einwohner zu beantworten. Sie können dafür die nationale Informationsnummer 1771 nutzen, die Tag und Nacht innerhalb einer Stunde einsatzbereit sein kann. Sie kann auch heikle Anrufe zu möglichen Opfern bearbeiten (Krisenzentrum). Sie wird nur bei einer Notsituation geöffnet und hilft nur, wenn das Netz funktioniert.
 - Die WHO beschreibt, was Menschen nach einer Katastrophe oft brauchen: Unterkunft, Essen, Wasser und sanitäre Einrichtungen; Versorgung von Verletzungen oder chronischen Krankheiten; verständliche und korrekte Informationen; Kontakt zu Angehörigen; Unterstützung, die zu Kultur oder Glauben passt; und Einbeziehung in wichtige Entscheidungen.
 
 Quelle: [Nationales Krisenzentrum: Evakuieren](https://krisenzentrum.be/de/was-koennen-sie-tun/der-richtige-reflex/evakuierung) · [Nationales Krisenzentrum: Kommunikation](https://krisenzentrum.be/de/was-tut-das-nationale-krisenzentrum/kommunikation) · [Nationales Krisenzentrum: Information der Bevölkerung](https://krisenzentrum.be/de/was-tun-die-behoerden/krisenmanagement/information-der-bevoelkerung) · [WHO: Psychological first aid](https://psychiatry.uw.edu/wp-content/uploads/2020/04/1.-WHO_PFA_2011.pdf)

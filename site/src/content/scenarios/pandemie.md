@@ -101,7 +101,7 @@ Is er geen water en zeep, gebruik dan handgel met minstens 60 procent alcohol. W
 
 - Raadpleeg je huisarts als je griepklachten hebt of je niet goed voelt. Bel eerst.
 - Buiten de uren van je huisarts kun je terecht bij de huisartsenwachtdienst. In Gent bel je daarvoor 1733.
-- Lukt bellen niet en is het dringend, zie Noodnummers in de app, Als bellen niet lukt.
+- Lukt bellen niet en is het dringend, zie Noodnummers, Als bellen niet lukt.
 - Blijf weg van school, werk en openbare plaatsen zolang je ziek bent.
 - Blijf thuis ook zoveel mogelijk weg van huisgenoten die niet ziek zijn.
 - Draag een mondmasker als je bij anderen bent of het huis uit moet.
@@ -109,7 +109,7 @@ Is er geen water en zeep, gebruik dan handgel met minstens 60 procent alcohol. W
 - Drink voldoende: 1,5 liter per dag.
 - Verlucht je woning regelmatig.
 
-**Wanneer je weer naar buiten mag.** Volg de regels van de gezondheidsdiensten voor de ziekte in kwestie. Het Amerikaanse CDC geeft als algemene regel voor luchtweginfecties: je hervat je activiteiten als je klachten al minstens 24 uur in het algemeen beter worden en je in die 24 uur geen koorts had, zonder koortswerende middelen. Neem daarna nog 5 dagen extra voorzorgen bij andere mensen: frisse lucht, goede hygiëne, een goed passend mondmasker, afstand. Je kunt het virus nog doorgeven nadat je je beter voelt. Krijg je opnieuw koorts of voel je je slechter, blijf dan weer thuis.
+**Wanneer je weer naar buiten mag.** Volg de regels van de gezondheidsdiensten voor de ziekte in kwestie. Het Amerikaanse CDC geeft als algemene regel voor luchtweginfecties: hervat je activiteiten als je klachten al minstens 24 uur beter worden en je in die 24 uur geen koorts had, zonder koortswerende middelen. Neem daarna nog 5 dagen extra voorzorgen bij anderen: frisse lucht, hygiëne, een goed passend mondmasker, afstand. Je kunt het virus dan nog doorgeven. Krijg je opnieuw koorts of voel je je slechter, blijf dan weer thuis.
 
 **Is een huisgenoot of vriend ziek.**
 
@@ -137,13 +137,12 @@ Is er geen water en zeep, gebruik dan handgel met minstens 60 procent alcohol. W
 ### Op het werk of op school
 
 - Blijf thuis als je ziek bent. Ga niet werken of naar school.
-- Werkgevers kunnen thuiswerk en soepele regels voor ziekteverlof en zorgverlof voorzien, zodat zieke werknemers en wie voor een ziek gezinslid zorgt, thuis kunnen blijven.
+- Werkgevers kunnen thuiswerk en soepel ziekte- en zorgverlof voorzien, zodat wie ziek is of voor een ziek gezinslid zorgt, thuis kan blijven.
 - Kinderen die ziek zijn, blijven thuis van school en opvang.
 
 ### Kinderen
 
 - Ook voor kinderen gelden de regels: handen goed wassen, hoesten in de elleboog, thuisblijven bij ziekte.
-- Bereid je voor op een sluiting van school of opvang: regel opvang en lessen op afstand.
 - Neem voor kleine kinderen luiers, babyvoeding en reservekleding op in je voorraad.
 
 ### Kwetsbare personen
@@ -151,7 +150,6 @@ Is er geen water en zeep, gebruik dan handgel met minstens 60 procent alcohol. W
 - Sommige mensen lopen meer risico op ernstige ziekte. Neem extra voorzorgen als je bij hen bent, zeker in de 5 dagen nadat je zelf ziek was.
 - Mensen met een verzwakte afweer kunnen een virus lang blijven doorgeven.
 - Zorg dat ze voldoende voorraad hebben van hun vaste medicatie.
-- Laat je vaccineren op advies van je huisarts.
 
 ### Huisdieren en dieren
 
@@ -166,7 +164,6 @@ Bron: [Nationaal Crisiscentrum: besmettelijke ziekten](https://crisiscentrum.be/
 ## Daarna
 
 - Hou de goede gewoonten vol: blijf thuis als je ziek bent, volg het advies van je arts, hoest in je elleboog en was je handen.
-- Was het wasgoed van de zieke op 60 °C of meer.
 - Bekijk en verbeter je gezinsplan. Wat liep goed, wat had je nodig?
 - Vul je voorraad aan.
 - Zorg voor je mentale gezondheid. Het is normaal dat je je ongerust voelt. Hou contact met anderen, ook op afstand, en praat met iemand als je overstuur bent.

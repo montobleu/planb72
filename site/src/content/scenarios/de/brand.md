@@ -48,8 +48,6 @@ bronnen:
     url: https://112.be/de/how-call/wie-rufe-ich-die-112
   - naam: "FÖD Wirtschaft: Fragen von Haushalten zur Stromknappheit"
     url: https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door
-  - naam: "Inspektionen (Niederlande): Nichterreichbarkeit der 112 am 24. Juni 2019"
-    url: https://zoek.officielebekendmakingen.nl/blg-942150.pdf
 vertaling: machine
 origineel_datum: "2026-11-18"
 ---
@@ -58,7 +56,7 @@ origineel_datum: "2026-11-18"
 
 - In Belgien brennen jedes Jahr etwa 20.000 Wohnungen. Jährlich sterben Dutzende Menschen durch einen Wohnungsbrand. Etwa die Hälfte der Todesopfer ist älter als 65 Jahre.
 - Die meisten Todesopfer sterben durch giftigen Rauch, nicht durch die Flammen.
-- Moderne Einrichtung setzt sehr schnell giftigen Rauch frei. Manchmal haben Sie nur 3 Minuten, um nach draußen zu kommen. Laut Ready.gov kann eine kleine Flamme in weniger als 30 Sekunden zu einem großen Brand werden, und eine Wohnung steht nach etwa fünf Minuten vollständig in Flammen.
+- Moderne Einrichtung setzt sehr schnell giftigen Rauch frei. Manchmal haben Sie nur 3 Minuten, um nach draußen zu kommen. Eine kleine Flamme kann in weniger als 30 Sekunden zu einem großen Brand werden. Nach etwa fünf Minuten steht eine Wohnung vollständig in Flammen.
 - Wenn Sie schlafen, riechen Sie nichts. Die Wahrscheinlichkeit, dass Sie nachts ohne Rauchmelder rechtzeitig aufwachen, ist sehr gering.
 - Die drei wichtigsten Ursachen von Wohnungsbränden sind Rauchen, Kochen und Elektrogeräte.
 - Warmer Rauch steigt nach oben. Dicht am Boden sehen Sie am meisten, und die Luft bleibt dort am längsten frisch.
@@ -73,7 +71,6 @@ Quelle: [Nationales Krisenzentrum: Brand oder Explosion](https://krisenzentrum.b
 - Bringen Sie in jedem Raum, in dem ein Brand entstehen kann, einen Rauchmelder an, möglichst in der Mitte der Decke. Nicht in Küche, Badezimmer oder Garage, wegen Fehlalarmen. In der Küche ist ein Hitzemelder möglich.
 - Wählen Sie einen Melder mit CE-Kennzeichnung nach Norm EN 14604, am besten mit einer 10-Jahres-Batterie, die Sie nicht austauschen können.
 - Vernetzte Melder lösen alle aus, wenn einer auslöst. Hinter einer geschlossenen Tür hören Sie einen Melder sonst schlechter.
-- Für Gehörlose und Schwerhörige gibt es Melder mit Lichtsignalen oder einem Vibrationskissen.
 - Stauben Sie den Melder jeden Monat ab und drücken Sie regelmäßig die Testtaste. Ersetzen Sie das ganze Gerät nach 10 Jahren. Streichen Sie ihn nie über.
 
 **Fluchtplan**
@@ -83,7 +80,7 @@ Quelle: [Nationales Krisenzentrum: Brand oder Explosion](https://krisenzentrum.b
 - Hängen Sie den Schlüssel neben die Tür.
 - Legen Sie ein Telefon und eine Taschenlampe neben Ihr Bett und halten Sie Ihre Brille oder Ihr Hörgerät griffbereit.
 - Vereinbaren Sie einen Sammelpunkt an der Vorderseite des Gebäudes oder an einer Stelle, die die Feuerwehr sieht.
-- Verteilen Sie Aufgaben: Wer holt die Kinder, wer hilft Personen, die weniger mobil sind, wer ruft die 112 an. Nehmen Sie auch Ihre Haustiere in den Plan auf.
+- Verteilen Sie Aufgaben: Wer holt die Kinder, wer hilft Personen, die weniger mobil sind, wer ruft die 112 an.
 - Üben Sie den Plan mit allen im Haus, auch mit geschlossenen Innentüren. Ready.gov empfiehlt, zweimal im Jahr zu üben, auch im Dunkeln.
 - Sie können kostenlos einen Brandschutzberater in Anspruch nehmen.
 
@@ -124,12 +121,7 @@ Quelle: [Speel niet met vuur: Rauchmelder](https://speelnietmetvuur.be/rookmelde
 7. Rufen Sie die 112 von draußen an. Sagen Sie, wer Sie sind, was los ist, wo es ist und ob es Verletzte gibt. Rufen Sie nicht vom Ort des Brandes aus an, sagen Sie das dem Disponenten.
 8. Gehen Sie nie wieder hinein, auch nicht für etwas, das Sie vergessen haben.
 
-**Kommt kein Anruf zustande**
-
-- Lassen Sie Nachbarn oder Umstehende anrufen oder versuchen Sie es mit einem anderen Gerät. Gehen Sie einige Meter weiter und versuchen Sie es erneut.
-- Können Sie noch telefonieren, ist die 112 aber nicht erreichbar, versuchen Sie die 101.
-- Funktioniert gar kein Anruf: Bitten Sie in Ihrer Nachbarschaft um Hilfe. Siehe Notrufnummern in der App, Wenn kein Anruf möglich ist.
-- In den Niederlanden schickte die Regierung die Bürger beim landesweiten Ausfall der 112 im Jahr 2019 zur nächstgelegenen Feuerwache oder Polizeidienststelle. Die Karte in der App (Schaltfläche Am nächsten) zeigt diese.
+Kommt kein Anruf zustande, lassen Sie jemand anderen anrufen oder bitten Sie in Ihrer Nachbarschaft um Hilfe. Siehe Notrufnummern in der App, Wenn kein Anruf möglich ist.
 
 **Ihr Fluchtweg ist blockiert**
 
@@ -156,11 +148,11 @@ Quelle: [Speel niet met vuur: Rauchmelder](https://speelnietmetvuur.be/rookmelde
 - Tragen Sie nichts auf die Wunde auf.
 - Gehen Sie zu einem Arzt, wenn die Wunde größer ist als eine 2-Euro-Münze. Rufen Sie die Rettungsdienste bei großen oder schweren Blasen, oder wenn die Haut braun oder schwarz ist. Kommt kein Anruf zustande, siehe oben. Siehe auch die Erste-Hilfe-Karte Brandwunden.
 
-Quelle: [Speel niet met vuur: Fluchtplan](https://speelnietmetvuur.be/vluchtplan/) · [Speel niet met vuur: Tür zu](https://speelnietmetvuur.be/doededeurdicht/) · [Speel niet met vuur: Küche](https://speelnietmetvuur.be/brandveiligheid-keuken/) · [KCCE: Brandschutz für ältere Menschen](http://kcce.eu/sites/default/files/explorer/partie_s_incendie/brandveiligheid_ouderen_2017.pdf) · [Ready.gov: home fires](https://www.ready.gov/home-fires) · [U.S. Fire Administration: cooking](https://www.usfa.fema.gov/prevention/home-fires/prevent-fires/cooking/) · [Nationales Krisenzentrum: evakuieren](https://krisenzentrum.be/de/was-koennen-sie-tun/der-richtige-reflex/evakuierung) · [112.be: Häufig gestellte Fragen](https://112.be/de/haeufig-gestellte-fragen) · [112.be: Wie rufe ich die 112 an?](https://112.be/de/how-call/wie-rufe-ich-die-112) · [FÖD Wirtschaft: Fragen von Haushalten zur Stromknappheit](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door) · [Inspektionen: Nichterreichbarkeit der 112 am 24. Juni 2019](https://zoek.officielebekendmakingen.nl/blg-942150.pdf)
+Quelle: [Speel niet met vuur: Fluchtplan](https://speelnietmetvuur.be/vluchtplan/) · [Speel niet met vuur: Tür zu](https://speelnietmetvuur.be/doededeurdicht/) · [Speel niet met vuur: Küche](https://speelnietmetvuur.be/brandveiligheid-keuken/) · [KCCE: Brandschutz für ältere Menschen](http://kcce.eu/sites/default/files/explorer/partie_s_incendie/brandveiligheid_ouderen_2017.pdf) · [Ready.gov: home fires](https://www.ready.gov/home-fires) · [U.S. Fire Administration: cooking](https://www.usfa.fema.gov/prevention/home-fires/prevent-fires/cooking/) · [Nationales Krisenzentrum: evakuieren](https://krisenzentrum.be/de/was-koennen-sie-tun/der-richtige-reflex/evakuierung) · [112.be: Häufig gestellte Fragen](https://112.be/de/haeufig-gestellte-fragen) · [112.be: Wie rufe ich die 112 an?](https://112.be/de/how-call/wie-rufe-ich-die-112) · [FÖD Wirtschaft: Fragen von Haushalten zur Stromknappheit](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door)
 
 ### Draußen oder unterwegs
 
-- Sehen Sie Rauch oder Feuer in einem anderen Gebäude, rufen Sie die 112 an. Sagen Sie, wo es ist und was Sie sehen. Kommt kein Anruf zustande, lassen Sie jemand anderen anrufen oder bitten Sie in Ihrer Nachbarschaft um Hilfe (siehe Zu Hause, Kommt kein Anruf zustande).
+- Sehen Sie Rauch oder Feuer in einem anderen Gebäude, rufen Sie die 112 an. Sagen Sie, wo es ist und was Sie sehen. Kommt kein Anruf zustande, lassen Sie jemand anderen anrufen oder bitten Sie in Ihrer Nachbarschaft um Hilfe (siehe Notrufnummern, Wenn kein Anruf möglich ist).
 - Können Sie jemanden drinnen nicht erreichen, gehen Sie nicht hinein. Sagen Sie der Feuerwehr, wo diese Person ist: über die 112 oder sofort, wenn sie eintrifft.
 
 Quelle: [Ready.gov: home fires](https://www.ready.gov/home-fires) · [Speel niet met vuur: Fluchtplan](https://speelnietmetvuur.be/vluchtplan/) · [1722](https://www.1722.be/de/index.html) · [112.be: Häufig gestellte Fragen](https://112.be/de/haeufig-gestellte-fragen)
@@ -184,12 +176,10 @@ Quelle: [Ready.gov: home fires](https://www.ready.gov/home-fires) · [Speel niet
 
 ### Schutzbedürftige Personen
 
-- Ältere Menschen sind am stärksten gefährdet: Etwa die Hälfte der Todesopfer bei Wohnungsbränden ist älter als 65.
-- Legen Sie nachts ein Telefon mit den gespeicherten Notrufnummern, eine Taschenlampe, die Brille und das Hörgerät neben das Bett.
+- Ältere Menschen sind am stärksten gefährdet.
 - Benutzen Sie einen Rollator oder Rollstuhl, prüfen Sie, ob alle Ausgänge breit genug sind.
 - Gehörlose und Schwerhörige: Wählen Sie Melder mit Lichtsignal oder Vibrationskissen. Für Blinde und Sehbehinderte gibt es Melder mit einem akustischen Signal.
 - Können Sie nicht aus eigener Kraft nach draußen: Bleiben Sie in einem Raum ohne Rauch, schließen Sie die Tür, öffnen Sie ein Fenster und sorgen Sie dafür, dass die Nachbarn oder die Rettungsdienste wissen, dass Sie dort sind. Halten Sie ein Telefon griffbereit.
-- Rauchen Sie nicht während des Gebrauchs von medizinischem Sauerstoff.
 - Benutzen Sie eine Heizdecke so, wie es die Anleitung sagt, nicht zusammengefaltet, und schalten Sie sie aus, bevor Sie schlafen gehen.
 
 Quelle: [KCCE: Brandschutz für ältere Menschen](http://kcce.eu/sites/default/files/explorer/partie_s_incendie/brandveiligheid_ouderen_2017.pdf) · [Ready.gov: home fires](https://www.ready.gov/home-fires) · [Speel niet met vuur: Rauchmelder](https://speelnietmetvuur.be/rookmelders/)

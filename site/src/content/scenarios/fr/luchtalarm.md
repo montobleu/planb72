@@ -65,7 +65,7 @@ origineel_datum: "2026-11-18"
 
 **La situation belge.** Le Centre de crise National décrit un conflit armé international comme un risque de très faible probabilité. Le scénario qu'il a étudié se déroule sur le territoire de l'OTAN en dehors de la Belgique. Sur cette page, le Centre de crise ne donne pas d'étapes propres en cas d'attaque aérienne. Les étapes de cette fiche proviennent donc des guides officiels de l'Allemagne, de la Suède, de l'Ukraine et de la Pologne.
 
-**Comment vous êtes alerté.** En Belgique, les autorités vous préviennent via la radio et la télévision et via des voitures à haut-parleurs de la police qui circulent dans la rue. Si le réseau fonctionne, aussi via BE-Alert : SMS, e-mail ou appel téléphonique. Lors d'une urgence importante, toute personne ayant un GSM dans la zone touchée reçoit un Alert-SMS, même sans inscription. Avec une radio à piles ou une radio à manivelle, vous pouvez aussi écouter les médias pendant une panne de courant.
+**Comment vous êtes alerté.** En Belgique, les autorités vous préviennent via la radio et la télévision et via des voitures à haut-parleurs de la police. Si le réseau fonctionne, aussi via BE-Alert : SMS, e-mail ou appel téléphonique. Lors d'une urgence importante, toute personne ayant un GSM dans la zone touchée reçoit un Alert-SMS, même sans inscription. Si le courant est coupé, écoutez une radio à piles ou une radio à manivelle.
 
 **Signaux d'alerte à l'étranger.** Chaque pays a son propre signal de sirène. Connaissez le signal du pays où vous séjournez.
 
@@ -83,7 +83,7 @@ Source : [Centre de crise National : conflit armé international](https://centre
 - **Préparez un sac d'urgence** et placez-le près de la porte. Le MCF suédois cite : de l'eau en bouteille ou en boîte, de la nourriture qui se conserve à température ambiante, des produits d'hygiène et du papier toilette, des médicaments et une trousse de premiers secours, des vêtements chauds, la carte d'identité, de l'argent liquide et des cartes bancaires, les clés, un GSM avec chargeur ou batterie externe, et une lampe de poche. L'Ukraine ajoute : des piles de rechange, des couvertures ou des couvertures de survie, une radio à piles et un extincteur. Prévoyez un séjour d'au moins deux jours.
 - **Gardez une réserve à la maison** pour au moins 3 jours, comme le recommande le Centre de crise National : de l'eau, de la nourriture de longue conservation, une radio, une lampe de poche, des médicaments.
 - **Renforcez les fenêtres** avec un film adhésif résistant. Si possible, protégez-les avec des sacs de sable ou des meubles solides.
-- **Faites un plan** avec votre famille : qui fait quoi, où vous vous retrouvez, comment vous vous joignez. Convenez de l'endroit où vous vous retrouvez si vous ne pouvez pas vous joindre. Convenez aussi avec vos voisins de la manière de vous joindre sans téléphone ni internet.
+- **Faites un plan** avec votre famille : qui fait quoi, où vous vous retrouvez et comment vous vous joignez ou vous retrouvez, aussi sans téléphone ni internet. Convenez-en aussi avec vos voisins.
 - **Entraînez-vous.** Fixez à l'avance l'itinéraire vers votre abri et suivez-le en cas d'alerte.
 
 Source : [dovidka.info : Shelter](https://dovidka.info/en/what-is-shelter/) · [dovidka.info : combat area](https://dovidka.info/en/in-the-combat-area/) · [MCF : shelters](https://www.mcf.se/en/advice-for-individuals/civil-defence-shelters-evacuation-and-warning-systems/good-to-know-about-civil-defence-shelters/) · [BBK](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Vorsorge/Schutz-suchen/Schutz-vor-Explosion/schutz-vor-explosion_node.html) · [Gouvernement polonais](https://bip.slaskie.pl/resource/232602/14d_safety_handbook_en.pdf) · [Centre de crise National : kit d'urgence](https://centredecrise.be/fr/que-pouvez-vous-faire/preparez-un-kit-durgence/un-kit-durgence-la-maison) · [Centre de crise National : infrastructure numérique](https://centredecrise.be/fr/risques-en-belgique/risques-societaux/defaillance-des-infrastructures-digitales) · [Centre de crise National : plan dans votre quartier](https://centredecrise.be/fr/que-pouvez-vous-faire/faites-un-plan/un-plan-dans-votre-quartier-ou-votre-association)
@@ -145,7 +145,7 @@ En cas d'alerte, allez immédiatement à l'abri le plus proche.
 
 ### Personnes vulnérables
 
-- Aidez les personnes âgées, les malades et les personnes en situation de handicap. Tout le monde ne sait pas qu'un danger menace. Donnez-leur les informations les plus importantes et expliquez-leur ce qu'elles doivent faire.
+- Aidez les personnes âgées, les malades et les personnes en situation de handicap. Tout le monde ne sait pas qu'un danger menace : expliquez-leur ce qu'elles doivent faire.
 - Faites un plan ensemble à l'avance. Aidez-les à préparer leur sac d'urgence.
 - Prévoyez assez de médicaments et des piles pour les appareils médicaux, comme les appareils auditifs et les glucomètres.
 - Si une personne ne peut pas partir seule, signalez-le aux services de secours : sur place, ou via le 112 si l'appel passe.
@@ -181,7 +181,7 @@ Source : [BBK](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Vorsorge/Schutz-suche
 - Ne sortez pas vous-même des personnes de sous les décombres. Appelez à l'aide, gardez la personne immobile et calme et suivez les consignes des secouristes. Ne creusez pas vous-même dans les ruines.
 - Si vous êtes vous-même coincé sous des décombres : appelez à l'aide, dégagez prudemment vos membres et ne touchez à rien qui soutient les décombres.
 - Appelez le 112 en cas d'urgence. Dites où, quoi et qui appelle, et attendez les questions. Faites des appels courts.
-- Si l'appel ne passe pas : demandez à quelqu'un d'autre d'appeler ou essayez un autre appareil. Si l'appel ne fonctionne pas du tout, désignez directement un passant pour aller chercher de l'aide et indiquez-lui où c'est, ce qui s'est passé, combien il y a de victimes et dans quel état elles sont. Ne laissez une victime seule que s'il n'y a pas d'autre possibilité. Voir aussi Numéros d'urgence dans l'app, Si l'appel ne passe pas.
+- Si l'appel ne passe pas, demandez à quelqu'un d'autre d'appeler ou envoyez un passant chercher de l'aide. Ne laissez une victime seule que si vous n'avez pas le choix. Voir Numéros d'urgence dans l'app, Si l'appel ne passe pas.
 
 **Munitions non explosées, objets suspects et débris.**
 
@@ -218,7 +218,7 @@ Source : [dovidka.info : combat area](https://dovidka.info/en/in-the-combat-area
 
 ## Plus d'informations
 
-Lisez ces pages à l'avance. Lors d'une coupure de courant, internet et les réseaux mobiles peuvent tomber en panne.
+À lire à l'avance, ou si internet fonctionne :
 
 - Directives allemandes sur la mise à l'abri en cas d'explosion : [BBK](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Vorsorge/Schutz-suchen/Schutz-vor-Explosion/schutz-vor-explosion_node.html)
 - Directives suédoises sur les abris et les sirènes : [MCF](https://www.mcf.se/en/advice-for-individuals/civil-defence-shelters-evacuation-and-warning-systems/good-to-know-about-civil-defence-shelters/)

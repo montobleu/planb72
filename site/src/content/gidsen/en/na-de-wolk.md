@@ -12,10 +12,6 @@ bronnen:
     url: https://crisiscenter.be/en/what-can-you-do/right-reflex/evacuate
   - naam: "National Crisis Center: Information during an emergency"
     url: https://crisiscenter.be/en/what-can-you-do/stay-informed/get-informed-emergency-situation
-  - naam: "112.be: Frequently asked questions"
-    url: https://112.be/en/frequently-asked-questions
-  - naam: "FPS Economy: questions from households about electricity shortages"
-    url: https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door
   - naam: "WHO, War Trauma Foundation and World Vision International: Psychological first aid, guide for field workers (2011)"
     url: https://psychiatry.uw.edu/wp-content/uploads/2020/04/1.-WHO_PFA_2011.pdf
   - naam: "IFRC Reference Centre for Psychosocial Support: A Guide to Psychological First Aid (2018)"
@@ -78,7 +74,7 @@ You stay indoors until the authorities announce that it is safe again. In princi
 | Evacuation | Follow the instructions on who, where to and how. An evacuation after the cloud is possible if sheltering would have to last longer or if the release is very large |
 | Stay indoors | Keep sheltering and keep listening to the radio and the other official channels |
 
-The Crisis Center says that medical advice may still follow after a nuclear accident. Listen to a battery-powered radio or the car radio and look out for police loudspeaker vans. If the network works, also follow BE-Alert and the government websites. Finland says the same: the rescue services and the radiation authority announce when the danger is over, and give instructions on cleaning rooms and eating food.
+The Crisis Center says that medical advice may still follow after a nuclear accident. Listen to the radio and look out for police loudspeaker vans; if the network works, also follow BE-Alert and the government websites. Finland says the same: the rescue services and the radiation authority announce when the danger is over, and give instructions on cleaning rooms and eating food.
 
 For a release of hazardous substances, Germany says: wait for the end of the alarm before you leave the building or open windows, and follow the announcements via radio, internet or the warning app. So in Belgium too, do not open the windows and do not switch the ventilation back on before the authorities announce that it is safe.
 
@@ -208,12 +204,12 @@ Source: [Nuclear risk: frequently asked questions](https://nuclearrisk.be/en/faq
 - **Long-term risks:** the risks to the population are mainly long-term risks, such as cancer and genetic abnormalities. The probability, not the severity, increases with the dose (Nuclear risk).
 - **Acute symptoms** such as vomiting, burns and massive hair loss only occur after massive exposure, which in principle is only expected among workers at the installation and possibly emergency responders (Nuclear risk). The WHO says that the general public is unlikely to receive a dose high enough for acute effects.
 - **Medical advice:** medical advice may still follow after an accident. Listen to the radio and follow the other official channels (Crisis Center).
-- **Sick or injured:** listen to the instructions on where to get medical help. If you are in a public shelter, tell the staff immediately (Ready.gov). In Belgium: call 112 in a medical emergency, or have someone call. If you cannot get through, try another phone or have neighbours call; if calling does not work at all, ask for help in your neighbourhood (see Emergency numbers in the app, If you cannot call).
+- **Sick or injured:** listen to the instructions on where to get medical help. If you are in a public shelter, tell the staff immediately (Ready.gov). In Belgium: call 112 in a medical emergency, or have someone call. If you cannot get through, see Emergency numbers in the app, If you cannot call.
 - **Children:** they are more sensitive to radiation. Have them followed up medically after the emergency as soon as the authorities say it is safe (WHO).
 - **Pregnant women who took iodine:** tell your doctor after the emergency, so that it is recorded in your medical file (WHO).
 - **Newborns who were given iodine:** the WHO recommends having their thyroid levels monitored.
 
-Source: [Nuclear risk: Radioactivity and exposure](https://nuclearrisk.be/en/nuclear-risk/radioactivity-exposure) · [National Crisis Center: Incident at a nuclear power plant](https://crisiscenter.be/en/risks-belgium/technological-risks/nuclear-plant-incident) · [WHO: Radiation and health](https://www.who.int/news-room/questions-and-answers/item/radiation-and-health) · [WHO: Use of potassium iodide](https://www.who.int/news-room/questions-and-answers/item/use-of-potassium-iodide-for-thyroid-protection-during-nuclear-or-radiological-emergencies) · [Ready.gov: Radiation emergencies](https://www.ready.gov/radiation) · [112.be: Frequently asked questions](https://112.be/en/frequently-asked-questions) · [FPS Economy: questions from households about electricity shortages](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door)
+Source: [Nuclear risk: Radioactivity and exposure](https://nuclearrisk.be/en/nuclear-risk/radioactivity-exposure) · [National Crisis Center: Incident at a nuclear power plant](https://crisiscenter.be/en/risks-belgium/technological-risks/nuclear-plant-incident) · [WHO: Radiation and health](https://www.who.int/news-room/questions-and-answers/item/radiation-and-health) · [WHO: Use of potassium iodide](https://www.who.int/news-room/questions-and-answers/item/use-of-potassium-iodide-for-thyroid-protection-during-nuclear-or-radiological-emergencies) · [Ready.gov: Radiation emergencies](https://www.ready.gov/radiation)
 
 ## Psychological support
 
