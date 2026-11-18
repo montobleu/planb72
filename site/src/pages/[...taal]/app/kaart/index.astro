@@ -134,9 +134,13 @@ const groepen = [...new Set(LAGEN.map((l) => l.groep))];
   kaart.on('moveend', () => bewaar('kaartbeeld', { c: kaart.getCenter().toArray(), z: kaart.getZoom() }));
 
   // Welke lagen staan aan: URL (?laag=), anders bewaard, anders standaard.
-  const vraag = new URLSearchParams(location.search).get('laag');
+  // ?laag=schuilplekken of ?laag=ziekenhuizen,aed (vanuit een tekst); ?dichtstbij=1 toont meteen de dichtstbijzijnde plekken.
+  const zoekparams = new URLSearchParams(location.search);
+  const gevraagd = (zoekparams.get('laag') ?? '').split(',').map((x) => x.trim()).filter(Boolean);
+  const vraag = gevraagd[0] ?? null;
+  const metDichtstbij = zoekparams.get('dichtstbij') === '1';
   const aan = new Set<string>(
-    vraag ? [vraag] : lees<string[] | null>('kaartlagen', null) ?? [...LAGEN.filter((l) => l.standaard).map((l) => l.id), 'nucleair']
+    gevraagd.length ? gevraagd : lees<string[] | null>('kaartlagen', null) ?? [...LAGEN.filter((l) => l.standaard).map((l) => l.id), 'nucleair']
   );
   const vinkjes = [...document.querySelectorAll<HTMLInputElement>('input[data-laag]')];
   vinkjes.forEach((v) => (v.checked = aan.has(v.dataset.laag!)));
@@ -252,6 +256,10 @@ const groepen = [...new Set(LAGEN.map((l) => l.groep))];
     if (vraag === 'nucleair') {
       const b = LANDEN.map((c) => kaders[c]?.bbox).filter(Boolean);
       if (b.length) kaart.fitBounds([[Math.min(...b.map((x) => x[0])), Math.min(...b.map((x) => x[1]))], [Math.max(...b.map((x) => x[2])), Math.max(...b.map((x) => x[3]))]], { padding: 20 });
+    }
+    if (metDichtstbij) {
+      (document.getElementById('paneel') as HTMLDetailsElement).open = true;
+      document.getElementById('dichtstbij')!.click();
     }
   });
 

@@ -382,3 +382,15 @@ main.wrap { padding-top: 2.5rem; }
 .bronvermelding li { margin: 0.2rem 0; break-inside: avoid; scroll-margin-top: 80px; }
 .bronvermelding li:target { background: var(--bg-2); outline: 2px solid var(--merk); outline-offset: 2px; }
 .bronvermelding a { color: var(--tekst-2); overflow-wrap: anywhere; }
+
+/* Teksten functioneel: knoppen naar de kaart, links naar hulpmiddelen, aantikbare nummers. */
+.op-kaart { display: flex; flex-wrap: wrap; align-items: center; gap: 6px 8px; margin: 0.75rem 0 1.25rem; font-size: 0.9rem; }
+.op-kaart-label { color: var(--tekst-2); font-weight: 600; }
+.kaartknop {
+  display: inline-flex; align-items: center; gap: 6px; min-block-size: 36px; padding: 0 12px;
+  border: 1px solid var(--rand-sterk); border-radius: 999px; color: var(--tekst); text-decoration: none; font-weight: 600;
+}
+.kaartknop::before { content: ""; inline-size: 8px; block-size: 8px; border-radius: 50%; background: var(--merk); flex: none; }
+.kaartknop:hover { border-color: var(--tekst-2); background: var(--bg-2); }
+@media (pointer: coarse) { .kaartknop { min-block-size: 44px; } }
+.inhoud a.telnr { font-weight: 600; white-space: nowrap; }

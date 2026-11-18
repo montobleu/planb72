@@ -1,6 +1,7 @@
 // @ts-check
 import { defineConfig } from 'astro/config';
 import rehypeBron from './src/lib/rehype-bron.mjs';
+import rehypeFunctioneel from './src/lib/rehype-functioneel.mjs';
 
 export default defineConfig({
   site: 'https://planb72.org',
@@ -10,7 +11,8 @@ export default defineConfig({
   build: { format: 'directory', inlineStylesheets: 'auto' },
   // Geen externe lettertypes, geen telemetrie, niets van buiten laden.
   devToolbar: { enabled: false },
-  markdown: { rehypePlugins: [rehypeBron] },
+  // Eerst de bronvermelding, dan de functionele links (kaartknoppen, hulpmiddelen, telefoonnummers).
+  markdown: { rehypePlugins: [rehypeBron, rehypeFunctioneel] },
   vite: {
     build: { assetsInlineLimit: 0 },
   },
