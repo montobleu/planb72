@@ -46,6 +46,7 @@ const groepen = [...new Set(LAGEN.map((l) => l.groep))];
   // De worker als eigen bestand meeleveren; MapLibre zoekt hem anders naast een bestand dat niet bestaat.
   import workerUrl from 'maplibre-gl/dist/maplibre-gl-worker.mjs?url';
   import { Protocol, PMTiles, FileSource } from 'pmtiles';
+  import { volgStraatniveau } from '../../../../lib/straatniveau';
   import { overzicht, opToestel, kiesZichtbaar } from '../../../../lib/kaarten';
   import { gekozenLanden } from '../../../../lib/landkeuze';
   import { layers, namedFlavor } from '@protomaps/basemaps';
@@ -121,6 +122,8 @@ const groepen = [...new Set(LAGEN.map((l) => l.groep))];
     fadeDuration: 0,
   });
   (window as any).__kaart = kaart; // handig bij het nakijken in de browserconsole
+  // Met verbinding: regio's op straatniveau (met straatnamen) laden zodra ze in beeld komen.
+  volgStraatniveau(kaart, { pakketten, aanwezig: new Set(zichtbaar.map((p) => p.id)), licht, taal });
   kaart.on('error', (e) => {
     console.error('Kaartfout', e.error);
     // Een online kaartpakket dat niet bereikbaar is, is geen probleem als er een kaart op het toestel staat.
