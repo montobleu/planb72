@@ -11,7 +11,7 @@ const kaarten = await inhoud('scenarios', taal);
 <App taal={taal} titel={t.titel} tab="watnu">
   <h1>{t.titel}</h1>
   <p class="dempen">{t.uitleg}</p>
-  <div class="raster">
+  <div class="raster rubriek-nood">
     {kaarten.map((k) => (
       <a class="tegel" href={pad(taal, `/app/wat-nu/${k.id}/`)} lang={k.titelLang !== taal ? k.titelLang : undefined}>
         <strong>{k.titel}</strong>

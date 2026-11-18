@@ -226,7 +226,7 @@ const nl = {
     privacyTitel: 'Privacy',
     privacy: 'Geen account en geen cookies. Voor anonieme bezoekersstatistieken gebruikt PlanB72 Nvivio: cookieloos, in de EU gehost, zonder opslag van IP-adressen; browsers met Global Privacy Control worden niet geteld. Je positie, noodplan en notities blijven op dit toestel.',
     licentiesTitel: 'Licenties',
-    licenties: (href: string) => `Kaartdata © OpenStreetMap-bijdragers, ODbL. Basiskaart: Protomaps. Eigen teksten: CC BY-SA 4.0. Overgenomen inhoud behoudt de licentie van de bron. Zie het <a href="${href}">bronnenregister</a>.`,
+    licenties: (href: string) => `Kaartdata © OpenStreetMap-bijdragers, ODbL. Basiskaart: Protomaps. Eigen teksten: CC BY-NC-SA 4.0. Code: AGPL-3.0. Overgenomen inhoud behoudt de licentie van de bron. Zie het <a href="${href}">bronnenregister</a>.`,
     versie: (v: string, d: string) => `Versie ${v}, gebouwd op ${d}.`,
   },
   offline: {
@@ -402,7 +402,7 @@ const nl = {
     laden: 'Laden…',
     kaartenBron: 'Kaartgegevens © OpenStreetMap-bijdragers (ODbL), basiskaart Protomaps. Bijgewerkt met elke nieuwe versie van de pakketten.',
     taalTitel: 'Taal',
-    taalUitleg: 'De keuze wordt op dit toestel onthouden. Alle talen werken offline.',
+    taalUitleg: 'De keuze wordt op dit toestel onthouden. Welke talen offline op het toestel blijven, kies je hierboven.',
     taalStatus: { bron: 'brontaal', machine: 'automatisch vertaald, nog niet nagelezen' },
     installTitel: 'Installeren op je beginscherm',
     installUitleg: 'Op Android: menu ⋮ → <em>App installeren</em> of <em>Toevoegen aan startscherm</em>. Op iPhone: deelknop → <em>Zet op beginscherm</em>.',
@@ -431,6 +431,17 @@ const nl = {
     nucleair: 'Nucleaire zones',
     dichtstbij: 'Dichtstbij',
     noot: 'De kaart toont locaties, niet of een voorziening open of beschikbaar is.',
+    herkomst: 'Herkomst van een punt',
+    herkomstUitleg: { officieel: 'uit een officieel register', nagekeken: 'aangevuld en nagekeken door PlanB72', osm: 'uit OpenStreetMap, niet apart nagekeken' } as Record<string, string>,
+    melden: 'Plek ontbreekt of klopt niet',
+    meldenUitleg: 'Je melding blijft op dit toestel tot je ze verstuurt. Versturen gaat via een vooraf ingevuld GitHub-issue dat je zelf nakijkt; daarvoor heb je een GitHub-account nodig. Persoonsgegevens zijn niet nodig. Twee mensen kijken elke melding na voor ze op de kaart komt.',
+    formulier: {
+      wat: 'Wat is er?', ontbreekt: 'Deze plek ontbreekt op de kaart', kloptNiet: 'Naam, adres of punt klopt niet', gesloten: 'Deze plek bestaat niet meer',
+      soort: 'Soort plek', naam: 'Naam', adres: 'Adres', adresHint: 'Straat, huisnummer, postcode en gemeente.', punt: 'Punt op de kaart', kiesPunt: 'Kies op de kaart', geenPunt: 'Nog geen punt gekozen.',
+      opmerking: 'Wat moet er veranderen?', bron: 'Waar kan iemand dit nakijken?', bronHint: 'Bijvoorbeeld de website van de praktijk of een gemeentelijke lijst. Niet verplicht, wel nuttig.',
+      bewaren: 'Bewaren op dit toestel', annuleren: 'Annuleren', adresOfPunt: 'Fout: geef een adres of kies een punt op de kaart.',
+    },
+    wachtrij: 'Meldingen op dit toestel',
   },
 };
 
@@ -652,7 +663,7 @@ const fr: Teksten = {
     privacyTitel: 'Vie privée',
     privacy: 'Pas de compte et pas de cookies. Pour des statistiques de visite anonymes, PlanB72 utilise Nvivio : sans cookies, hébergé dans l’UE, sans stockage des adresses IP ; les navigateurs avec Global Privacy Control ne sont pas comptés. Votre position, votre plan d’urgence et vos notes restent sur cet appareil.',
     licentiesTitel: 'Licences',
-    licenties: (href: string) => `Données cartographiques © contributeurs OpenStreetMap, ODbL. Fond de carte : Protomaps. Textes propres : CC BY-SA 4.0. Le contenu repris conserve la licence de sa source. Voir le <a href="${href}">registre des sources</a>.`,
+    licenties: (href: string) => `Données cartographiques © contributeurs OpenStreetMap, ODbL. Fond de carte : Protomaps. Textes propres : CC BY-NC-SA 4.0. Code : AGPL-3.0. Le contenu repris conserve la licence de sa source. Voir le <a href="${href}">registre des sources</a>.`,
     versie: (v: string, d: string) => `Version ${v}, compilée le ${d}.`,
   },
   offline: {
@@ -828,7 +839,7 @@ const fr: Teksten = {
     laden: 'Chargement…',
     kaartenBron: 'Données cartographiques © contributeurs OpenStreetMap (ODbL), fond de carte Protomaps. Mises à jour avec chaque nouvelle version des paquets.',
     taalTitel: 'Langue',
-    taalUitleg: 'Le choix est mémorisé sur cet appareil. Toutes les langues fonctionnent hors ligne.',
+    taalUitleg: 'Le choix est mémorisé sur cet appareil. Les langues conservées hors ligne se choisissent plus haut.',
     taalStatus: { bron: 'langue source', machine: 'traduit automatiquement, pas encore relu' },
     installTitel: "Installer sur l'écran d'accueil",
     installUitleg: "Sur Android : menu ⋮ → <em>Installer l'application</em> ou <em>Ajouter à l'écran d'accueil</em>. Sur iPhone : bouton Partager → <em>Sur l'écran d'accueil</em>.",
@@ -857,6 +868,17 @@ const fr: Teksten = {
     nucleair: 'Zones nucléaires',
     dichtstbij: 'Le plus proche',
     noot: "La carte montre des emplacements, pas si un service est ouvert ou disponible.",
+    herkomst: "Origine d'un point",
+    herkomstUitleg: { officieel: "d'un registre officiel", nagekeken: 'ajouté et vérifié par PlanB72', osm: "d'OpenStreetMap, sans vérification séparée" } as Record<string, string>,
+    melden: 'Lieu manquant ou incorrect',
+    meldenUitleg: "Votre signalement reste sur cet appareil jusqu'à ce que vous l'envoyiez. L'envoi passe par une issue GitHub préremplie que vous vérifiez vous-même ; il faut un compte GitHub. Aucune donnée personnelle n'est nécessaire. Deux personnes vérifient chaque signalement avant qu'il n'apparaisse sur la carte.",
+    formulier: {
+      wat: "De quoi s'agit-il ?", ontbreekt: 'Ce lieu manque sur la carte', kloptNiet: "Le nom, l'adresse ou le point est incorrect", gesloten: "Ce lieu n'existe plus",
+      soort: 'Type de lieu', naam: 'Nom', adres: 'Adresse', adresHint: 'Rue, numéro, code postal et commune.', punt: 'Point sur la carte', kiesPunt: 'Choisir sur la carte', geenPunt: 'Aucun point choisi.',
+      opmerking: 'Que faut-il changer ?', bron: 'Où peut-on le vérifier ?', bronHint: 'Par exemple le site du cabinet ou une liste communale. Facultatif, mais utile.',
+      bewaren: 'Enregistrer sur cet appareil', annuleren: 'Annuler', adresOfPunt: 'Erreur : indiquez une adresse ou choisissez un point sur la carte.',
+    },
+    wachtrij: 'Signalements sur cet appareil',
   },
 };
 
@@ -1079,7 +1101,7 @@ const de: Teksten = {
     privacyTitel: 'Datenschutz',
     privacy: 'Kein Konto und keine Cookies. Für anonyme Besucherstatistiken nutzt PlanB72 Nvivio: ohne Cookies, in der EU gehostet, ohne Speicherung von IP-Adressen; Browser mit Global Privacy Control werden nicht gezählt. Ihr Standort, Ihr Notfallplan und Ihre Notizen bleiben auf diesem Gerät.',
     licentiesTitel: 'Lizenzen',
-    licenties: (href: string) => `Kartendaten © OpenStreetMap-Mitwirkende, ODbL. Grundkarte: Protomaps. Eigene Texte: CC BY-SA 4.0. Übernommene Inhalte behalten die Lizenz ihrer Quelle. Siehe das <a href="${href}">Quellenverzeichnis</a>.`,
+    licenties: (href: string) => `Kartendaten © OpenStreetMap-Mitwirkende, ODbL. Grundkarte: Protomaps. Eigene Texte: CC BY-NC-SA 4.0. Code: AGPL-3.0. Übernommene Inhalte behalten die Lizenz ihrer Quelle. Siehe das <a href="${href}">Quellenverzeichnis</a>.`,
     versie: (v: string, d: string) => `Version ${v}, erstellt am ${d}.`,
   },
   offline: {
@@ -1255,7 +1277,7 @@ const de: Teksten = {
     laden: 'Wird geladen…',
     kaartenBron: 'Kartendaten © OpenStreetMap-Mitwirkende (ODbL), Grundkarte Protomaps. Mit jeder neuen Version der Pakete aktualisiert.',
     taalTitel: 'Sprache',
-    taalUitleg: 'Die Auswahl wird auf diesem Gerät gespeichert. Alle Sprachen funktionieren offline.',
+    taalUitleg: 'Die Auswahl wird auf diesem Gerät gespeichert. Welche Sprachen offline auf dem Gerät bleiben, wählen Sie oben.',
     taalStatus: { bron: 'Ausgangssprache', machine: 'automatisch übersetzt, noch nicht geprüft' },
     installTitel: 'Auf dem Startbildschirm installieren',
     installUitleg: 'Auf Android: Menü ⋮ → <em>App installieren</em> oder <em>Zum Startbildschirm hinzufügen</em>. Auf dem iPhone: Teilen-Taste → <em>Zum Home-Bildschirm</em>.',
@@ -1284,6 +1306,17 @@ const de: Teksten = {
     nucleair: 'Nuklearzonen',
     dichtstbij: 'Am nächsten',
     noot: 'Die Karte zeigt Standorte, nicht ob eine Einrichtung geöffnet oder verfügbar ist.',
+    herkomst: 'Herkunft eines Punktes',
+    herkomstUitleg: { officieel: 'aus einem amtlichen Register', nagekeken: 'von PlanB72 ergänzt und geprüft', osm: 'aus OpenStreetMap, nicht gesondert geprüft' } as Record<string, string>,
+    melden: 'Ort fehlt oder stimmt nicht',
+    meldenUitleg: 'Ihre Meldung bleibt auf diesem Gerät, bis Sie sie senden. Gesendet wird über ein vorausgefülltes GitHub-Issue, das Sie selbst prüfen; dafür brauchen Sie ein GitHub-Konto. Persönliche Daten sind nicht nötig. Zwei Personen prüfen jede Meldung, bevor sie auf die Karte kommt.',
+    formulier: {
+      wat: 'Worum geht es?', ontbreekt: 'Dieser Ort fehlt auf der Karte', kloptNiet: 'Name, Adresse oder Punkt stimmt nicht', gesloten: 'Diesen Ort gibt es nicht mehr',
+      soort: 'Art des Ortes', naam: 'Name', adres: 'Adresse', adresHint: 'Straße, Hausnummer, Postleitzahl und Gemeinde.', punt: 'Punkt auf der Karte', kiesPunt: 'Auf der Karte wählen', geenPunt: 'Noch kein Punkt gewählt.',
+      opmerking: 'Was soll sich ändern?', bron: 'Wo kann man das prüfen?', bronHint: 'Zum Beispiel die Website der Praxis oder eine Liste der Gemeinde. Freiwillig, aber hilfreich.',
+      bewaren: 'Auf diesem Gerät speichern', annuleren: 'Abbrechen', adresOfPunt: 'Fehler: Geben Sie eine Adresse an oder wählen Sie einen Punkt auf der Karte.',
+    },
+    wachtrij: 'Meldungen auf diesem Gerät',
   },
 };
 
@@ -1503,7 +1536,7 @@ const en: Teksten = {
     privacyTitel: 'Privacy',
     privacy: 'No account and no cookies. For anonymous visitor statistics PlanB72 uses Nvivio: cookieless, hosted in the EU, no storage of IP addresses; browsers with Global Privacy Control are not counted. Your position, emergency plan and notes stay on this device.',
     licentiesTitel: 'Licences',
-    licenties: (href: string) => `Map data © OpenStreetMap contributors, ODbL. Base map: Protomaps. Own texts: CC BY-SA 4.0. Reproduced content keeps the licence of its source. See the <a href="${href}">source register</a>.`,
+    licenties: (href: string) => `Map data © OpenStreetMap contributors, ODbL. Base map: Protomaps. Own texts: CC BY-NC-SA 4.0. Code: AGPL-3.0. Reproduced content keeps the licence of its source. See the <a href="${href}">source register</a>.`,
     versie: (v: string, d: string) => `Version ${v}, built on ${d}.`,
   },
   offline: {
@@ -1679,7 +1712,7 @@ const en: Teksten = {
     laden: 'Loading…',
     kaartenBron: 'Map data © OpenStreetMap contributors (ODbL), base map Protomaps. Updated with every new version of the packages.',
     taalTitel: 'Language',
-    taalUitleg: 'The choice is remembered on this device. All languages work offline.',
+    taalUitleg: 'The choice is remembered on this device. Which languages stay offline on the device, you choose above.',
     taalStatus: { bron: 'source language', machine: 'translated automatically, not yet reviewed' },
     installTitel: 'Install on your home screen',
     installUitleg: 'On Android: menu ⋮ → <em>Install app</em> or <em>Add to Home screen</em>. On iPhone: Share button → <em>Add to Home Screen</em>.',
@@ -1708,6 +1741,17 @@ const en: Teksten = {
     nucleair: 'Nuclear zones',
     dichtstbij: 'Nearest',
     noot: 'The map shows locations, not whether a facility is open or available.',
+    herkomst: 'Origin of a point',
+    herkomstUitleg: { officieel: 'from an official register', nagekeken: 'added and checked by PlanB72', osm: 'from OpenStreetMap, not checked separately' } as Record<string, string>,
+    melden: 'Place missing or wrong',
+    meldenUitleg: 'Your report stays on this device until you send it. Sending opens a pre-filled GitHub issue that you check yourself; you need a GitHub account for that. No personal data is needed. Two people check every report before it appears on the map.',
+    formulier: {
+      wat: 'What is it about?', ontbreekt: 'This place is missing from the map', kloptNiet: 'The name, address or point is wrong', gesloten: 'This place no longer exists',
+      soort: 'Type of place', naam: 'Name', adres: 'Address', adresHint: 'Street, number, postcode and municipality.', punt: 'Point on the map', kiesPunt: 'Choose on the map', geenPunt: 'No point chosen yet.',
+      opmerking: 'What should change?', bron: 'Where can someone check this?', bronHint: 'For example the website of the practice or a municipal list. Optional, but useful.',
+      bewaren: 'Save on this device', annuleren: 'Cancel', adresOfPunt: 'Error: give an address or choose a point on the map.',
+    },
+    wachtrij: 'Reports on this device',
   },
 };
 

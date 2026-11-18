@@ -4,6 +4,10 @@ Geldt voor alle inhoud in `site/src/content/`. Doel: de meest volledige, betrouw
 
 ## 1. Bronnen
 
+**Weergave:** de lezer ziet de bronnen alleen samen onderaan de pagina. Geen verwijsnummers in de tekst, geen kolom "Bron" in tabellen, geen bron achter elke zin. Noem een instantie in de lopende tekst alleen als dat inhoudelijk telt, bijvoorbeeld wanneer Belgisch en buitenlands advies verschillen of wanneer de lezer moet weten wie iets officieel vraagt ("Het Crisiscentrum vraagt om binnen te blijven"). Eenvoudige, algemeen bekende zaken (een EHBO-set meenemen) krijgen geen eigen bronvermelding.
+
+**In het bronbestand** blijft per `##`-sectie een regel `Bron: [Naam](url)` staan: die is onzichtbaar voor de lezer, maar laat het nazicht en de inhoudscontrole nagaan waar elke bewering vandaan komt. De site zet alle bronregels om in de lijst onderaan.
+
 - **Elke inhoudelijke bewering is terug te voeren op een officiële of erkende bron.** Sluit elke `##`-sectie af met een regel `Bron: [Naam](url)` (meerdere bronnen gescheiden door ` · `).
 - Lees de bron zelf (open de pagina). Citeer nooit uit het geheugen. Kun je iets niet bevestigen, laat het weg.
 - Volgorde van voorkeur:

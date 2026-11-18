@@ -11,6 +11,9 @@ Kwaliteitscontrole:
     het script met foutcode 3.
 In beide gevallen wordt er niets weggeschreven.
 
+De ruwe laag komt ook in pipeline/out/osm/<land>/<laag>.geojson. pipeline/verrijken.py voegt daar
+de officiële bronnen en de eigen aanvullingen aan toe en schrijft de laag opnieuw weg.
+
 Gebruik:
     python3 pipeline/lagen.py              # België
     python3 pipeline/lagen.py NL
@@ -188,7 +191,9 @@ def main():
         print(f"  {len(features)} punten, {grootte / 1000:.0f} kB "
               f"({antwoord['_seconden']} s via {antwoord['_server']})", flush=True)
 
-        oud = vorige.get("lagen", {}).get(laag, {}).get("aantal")
+        # Na verrijken.py staat het aantal punten uit OpenStreetMap apart (osm_ruw).
+        vorig = vorige.get("lagen", {}).get(laag, {})
+        oud = vorig.get("osm_ruw") or vorig.get("aantal")
         if oud and len(features) < oud * (1 - MAX_DALING):
             problemen.append(("daling", f"{laag}: daalt van {oud} naar {len(features)} "
                                         f"(-{100 * (oud - len(features)) / oud:.1f}%)"))
@@ -213,9 +218,12 @@ def main():
         # Andere blokken (schuilplekken, nucleair) blijven staan.
         "lagen": dict(vorige.get("lagen", {})),
     }
+    ruwmap = ROOT / "pipeline" / "out" / "osm" / land.lower()
+    ruwmap.mkdir(parents=True, exist_ok=True)
     for laag, (tekst, aantal, grootte) in resultaten.items():
-        with open(doelmap / f"{laag}.geojson", "w", encoding="utf-8") as f:
-            f.write(tekst)
+        for pad in (doelmap / f"{laag}.geojson", ruwmap / f"{laag}.geojson"):
+            with open(pad, "w", encoding="utf-8") as f:
+                f.write(tekst)
         meta["lagen"][laag] = {"naam": LAGEN[laag][0], "aantal": aantal, "bytes": grootte}
     with open(metapad, "w", encoding="utf-8") as f:
         json.dump(meta, f, ensure_ascii=False, indent=2)

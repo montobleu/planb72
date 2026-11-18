@@ -6,16 +6,35 @@ const VERSIE = '__VERSIE__';
 const KERN = 'pb72-kern-' + VERSIE;
 const PAKKET_VOORVOEGSEL = 'pb72-pakket-';
 const KERNBESTANDEN = __KERNBESTANDEN__;
+// Talen die de gebruiker in de keuzehulp koos (lib/downloaden.ts zetTalen). Pagina's van andere
+// talen blijven dan van het toestel; de offline-pagina en wat niet aan een taal hangt, altijd.
+const INSTELLINGEN = 'pb72-instellingen';
+const taalVanPad = (p) => /^\/(fr|de|en)\/app\//.exec(p)?.[1] ?? (p.startsWith('/app/') ? 'nl' : null);
+const hoortErbij = (p, talen) => !talen || p === '/app/offline/' || !taalVanPad(p) || talen.includes(taalVanPad(p));
+
+async function gekozenTalen() {
+  try {
+    const r = await (await caches.open(INSTELLINGEN)).match('/talen.json');
+    const talen = r ? await r.json() : null;
+    return Array.isArray(talen) && talen.length ? talen : null;
+  } catch {
+    return null;
+  }
+}
+
+async function vulKern(talen) {
+  const cache = await caches.open(KERN);
+  const ontbreekt = [];
+  for (const p of KERNBESTANDEN) {
+    if (!hoortErbij(p, talen)) await cache.delete(p);
+    else if (!(await cache.match(p))) ontbreekt.push(p);
+  }
+  // In kleine groepen, zodat een trage verbinding niet alles laat mislukken.
+  for (let i = 0; i < ontbreekt.length; i += 20) await cache.addAll(ontbreekt.slice(i, i + 20));
+}
 
 self.addEventListener('install', (event) => {
-  event.waitUntil(
-    caches.open(KERN).then(async (cache) => {
-      // In kleine groepen, zodat een trage verbinding niet alles laat mislukken.
-      for (let i = 0; i < KERNBESTANDEN.length; i += 20) {
-        await cache.addAll(KERNBESTANDEN.slice(i, i + 20));
-      }
-    }).then(() => self.skipWaiting())
-  );
+  event.waitUntil(gekozenTalen().then(vulKern).then(() => self.skipWaiting()));
 });
 
 self.addEventListener('activate', (event) => {
@@ -28,6 +47,10 @@ self.addEventListener('activate', (event) => {
 
 self.addEventListener('message', (event) => {
   if (event.data === 'versie') event.source?.postMessage({ versie: VERSIE, aantal: KERNBESTANDEN.length });
+  if (event.data?.type === 'talen') {
+    const antwoord = () => event.ports[0]?.postMessage({ type: 'talen-klaar' });
+    event.waitUntil(gekozenTalen().then(vulKern).then(antwoord, antwoord));
+  }
 });
 
 async function zoekInCaches(request) {

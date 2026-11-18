@@ -1,0 +1,137 @@
+---
+// Keuzehulp: wat download je? Dezelfde hulp op de website (/download/), bij het eerste gebruik
+// van de app (/app/kiezen/) en in Instellingen (/app/pakket/). Logica in lib/selectie.ts
+// (zonder DOM, herbruikbaar in een native app) en lib/keuzehulp.ts (scherm).
+import { KEUZE } from '../i18n/keuze';
+import { TALEN, TAALNAMEN, pad, type Taal } from '../i18n/talen';
+interface Props { taal: Taal; modus: 'app' | 'eerste' | 'site' }
+const { taal, modus } = Astro.props;
+const k = KEUZE[taal];
+const app = modus !== 'site';
+---
+<section class="keuzehulp" aria-labelledby="kh-titel" data-modus={modus} data-taal={taal}
+  data-start={pad(taal, '/app/')} data-kiezen={pad(taal, '/app/kiezen/')}>
+  <h2 id="kh-titel">{k.titel}</h2>
+  <p class="dempen">{modus === 'site' ? k.site.lead : k.lead}</p>
+  <p class="klein" id="kh-laden" role="status">…</p>
+
+  <form id="kh-form" hidden aria-labelledby="kh-titel">
+    <fieldset>
+      <legend>{k.eigenTitel}</legend>
+      <label for="kh-eigen" class="sr-only">{k.eigenTitel}</label>
+      <select id="kh-eigen" name="eigen" aria-describedby="kh-eigen-uitleg"></select>
+      <p class="klein" id="kh-eigen-uitleg">{k.eigenUitleg} <span id="kh-geraden" hidden>{k.geraden}</span></p>
+    </fieldset>
+
+    <fieldset>
+      <legend>{k.voorstelTitel}</legend>
+      {(['eigen', 'buren', 'kies', 'alles'] as const).map((v) => (
+        <div class="kh-optie">
+          <input type="radio" name="voorstel" id={`kh-v-${v}`} value={v} aria-describedby={`kh-v-${v}-uitleg`} />
+          <label for={`kh-v-${v}`}>{k.voorstellen[v][0]}</label>
+          <span class="klein" id={`kh-v-${v}-uitleg`}>{k.voorstellen[v][1]}</span>
+        </div>
+      ))}
+    </fieldset>
+
+    <div id="kh-landen"></div>
+
+    <fieldset>
+      <legend>{k.extraTitel}</legend>
+      <div class="kh-optie">
+        <input type="checkbox" name="europa" id="kh-europa" aria-describedby="kh-europa-uitleg" />
+        <label for="kh-europa">{k.europa} <span class="kh-mb" id="kh-europa-mb"></span></label>
+        <span class="klein" id="kh-europa-uitleg">{k.europaUitleg}</span>
+      </div>
+    </fieldset>
+
+    <fieldset>
+      <legend>{k.talenTitel}</legend>
+      <p class="klein" id="kh-talen-uitleg">{k.talenUitleg}</p>
+      {TALEN.map((l) => (
+        <div class="kh-optie">
+          <input type="checkbox" name="taal" id={`kh-taal-${l}`} value={l} aria-describedby="kh-talen-uitleg" />
+          <label for={`kh-taal-${l}`} lang={l}>{TAALNAMEN[l]} {l === taal && app && <span class="klein">{k.dezeTaal}</span>} <span class="kh-mb" data-taal-mb={l}></span></label>
+        </div>
+      ))}
+    </fieldset>
+
+    <div class="kaart-blok kh-samen">
+      <h3>{k.samenTitel}</h3>
+      <div id="kh-samen" role="status" aria-live="polite"></div>
+      {app && (
+        <div class="knoppen">
+          <button type="submit" class="knop hoofd" id="kh-download">{k.downloaden}</button>
+          <button type="button" class="knop" id="kh-bewaar">{k.bewaren}</button>
+          {modus === 'eerste' && <a class="knop" href={pad(taal, '/app/')} id="kh-later">{k.later}</a>}
+        </div>
+      )}
+    </div>
+  </form>
+
+  {app && (
+    <section id="kh-toestel" aria-labelledby="kh-toestel-titel" hidden>
+      <h2 id="kh-toestel-titel">{k.toestelTitel}</h2>
+      <p id="kh-melding" role="status" aria-live="polite"></p>
+      <div class="knoppen">
+        <button type="button" class="knop" id="kh-pauze" hidden>{k.pauzeren}</button>
+        {modus === 'eerste' && <a class="knop hoofd" href={pad(taal, '/app/')} id="kh-naar-app" hidden>{k.naarApp}</a>}
+      </div>
+      <div id="kh-blokken"></div>
+      <div id="kh-extra"></div>
+      <div id="kh-oud"></div>
+    </section>
+  )}
+
+  {!app && (
+    <div id="kh-resultaat" hidden>
+      <h2>{k.site.appTitel}</h2>
+      <p>{k.site.app}</p>
+      <div class="knoppen">
+        <a class="knop hoofd" id="kh-open-app" href={pad(taal, '/app/kiezen/')}>{k.site.openApp}</a>
+        <button type="button" class="knop" id="kh-kopieer">{k.site.kopieer}</button>
+      </div>
+      <p class="klein" id="kh-kopie-staat" role="status" aria-live="polite"></p>
+
+      <h2>{k.site.computerTitel}</h2>
+      <p>{k.site.computer}</p>
+      <pre class="kh-opdracht"><code>planb72-start --pakketten planb72-pakketten.json</code></pre>
+      <div class="knoppen">
+        <button type="button" class="knop hoofd" id="kh-manifest">{k.site.manifest}</button>
+        <button type="button" class="knop" id="kh-links-txt">{k.site.linksTekst}</button>
+      </div>
+      <details class="kh-links">
+        <summary id="kh-links-titel"></summary>
+        <p class="klein">{k.site.doel}</p>
+        <ul id="kh-links"></ul>
+      </details>
+    </div>
+  )}
+</section>
+
+<style is:global>
+  .keuzehulp fieldset { display: grid; gap: 0.5rem; }
+  .keuzehulp select { max-width: 100%; }
+  .kh-optie { display: grid; grid-template-columns: auto 1fr; column-gap: 0.6rem; align-items: baseline; }
+  .kh-optie > input { margin: 0; inline-size: 1.25rem; block-size: 1.25rem; align-self: center; }
+  .kh-optie > label { padding-block: 0.35rem; cursor: pointer; }
+  .kh-optie > .klein { grid-column: 2; margin-top: -0.25rem; }
+  .kh-mb { color: var(--tekst-2); font-size: 0.875rem; white-space: nowrap; }
+  .kh-land { border: 1px solid var(--rand); border-radius: var(--radius); margin: 0.75rem 0; background: var(--bg-2); }
+  .kh-land > summary { padding: 0.75rem 1rem; cursor: pointer; display: flex; flex-wrap: wrap; gap: 0.25rem 0.75rem; align-items: baseline; }
+  .kh-land > summary .kh-mb { margin-inline-start: auto; }
+  .kh-land > div { padding: 0 1rem 0.75rem; }
+  .kh-land fieldset { margin: 0.5rem 0; }
+  .kh-samen h3 { margin-top: 0; }
+  .kh-samen .melding { margin: 0.5rem 0; }
+  .kh-blok { display: grid; grid-template-columns: 1fr auto; gap: 0.35rem 0.75rem; padding: 0.45rem 0; border-top: 1px solid var(--rand); }
+  .kh-blok progress { grid-column: 1 / -1; inline-size: 100%; }
+  .kh-blok > div:nth-child(2) { align-self: center; }
+  .kh-opdracht { overflow-x: auto; background: var(--bg-3); padding: 0.75rem 1rem; border-radius: var(--radius); }
+  .kh-links ul { padding-inline-start: 1.25rem; overflow-wrap: anywhere; }
+</style>
+
+<script>
+  import { startKeuzehulp } from '../lib/keuzehulp';
+  startKeuzehulp(document.querySelector<HTMLElement>('.keuzehulp')!);
+</script>

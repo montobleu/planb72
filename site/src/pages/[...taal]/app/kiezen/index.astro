@@ -1,0 +1,16 @@
+---
+// Eerste gebruik: kies wat er op dit toestel komt. Ook het doel van de link vanaf de website
+// (/download/), met de keuze in het #-deel van de link.
+import App from '../../../../layouts/App.astro';
+import Keuzehulp from '../../../../components/Keuzehulp.astro';
+import { KEUZE } from '../../../../i18n/keuze';
+import { taalPaden, taalVan } from '../../../../i18n/talen';
+export const getStaticPaths = taalPaden;
+const taal = taalVan(Astro.params);
+const k = KEUZE[taal];
+---
+<App taal={taal} titel={k.welkom} tab="start" zoekbaar={false}>
+  <h1>{k.welkom}</h1>
+  <p class="lead">{k.welkomLead}</p>
+  <Keuzehulp taal={taal} modus="eerste" />
+</App>

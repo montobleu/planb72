@@ -16,6 +16,8 @@ export type Basiskaart = {
   stijl: maplibregl.StyleSpecification;
   /** Pakketten die de kaart toont, van grof naar fijn. */
   zichtbaar: Kaartpakket[];
+  /** Alle beschikbare pakketten (voor het laden van regio's op straatniveau). */
+  pakketten: Kaartpakket[];
   /** Aantal pakketten op dit toestel. */
   lokaal: number;
   licht: boolean;
@@ -76,6 +78,7 @@ export async function basiskaart(taal = 'nl'): Promise<Basiskaart> {
       layers: basislagen,
     },
     zichtbaar,
+    pakketten,
     lokaal: lokaal.size,
     licht,
     melding,

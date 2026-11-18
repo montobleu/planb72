@@ -15,8 +15,10 @@ const module = (g: (typeof gidsen)[number]) => (g.origineel.data as { module?: s
   <p class="lead">{t.lead}</p>
   {VOLGORDE.map((id) => {
     const lijst = gidsen.filter((g) => module(g) === id);
+    // Elke groep gidsen krijgt de kleur van haar rubriek.
+    const kleur: Record<string, string> = { schuilen: 'nood', nucleair: 'nood', evacuatie: 'kaart', communicatie: 'kaart', buiten: 'kaart', voorbereiding: 'voorbereiden', water: 'voorbereiden', voedsel: 'voorbereiden', warmte: 'voorbereiden', energie: 'voorbereiden', hygiene: 'voorbereiden', dieren: 'hulp', gezondheid: 'hulp' };
     return lijst.length > 0 && (
-      <section>
+      <section class={`rubriek-${kleur[id] ?? 'naslag'}`}>
         <h2 class="sectiekop">{t.modules[id]}</h2>
         <div class="raster">
           {lijst.map((g) => <a class="tegel" href={pad(taal, `/app/gids/${g.id}/`)} lang={g.titelLang !== taal ? g.titelLang : undefined}><strong>{g.titel}</strong><span class="klein">{g.kort}</span></a>)}
