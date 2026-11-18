@@ -83,7 +83,7 @@ const nagekekenVertaling = nagekeken;
   {eerst.d.status === 'concept' && <Concept taal={taal} bron={eerst.d.bronnen[0].url} bronNaam={eerst.d.bronnen[0].naam} />}
   <Inhoudstafel taal={taal} koppen={eerst.R.headings} />
   <article class="inhoud"><eerst.R.Content /></article>
-  <Brondoos taal={taal} bronnen={eerst.d.bronnen} datum={eerst.d.datum} status={eerst.d.status} nagekeken_door={eerst.d.nagekeken_door}>
+  <Brondoos taal={taal} bronnen={eerst.d.bronnen} tekst={(vorm === 'vertaald' ? v : o)?.body ?? ''} datum={eerst.d.datum} status={eerst.d.status} nagekeken_door={eerst.d.nagekeken_door}>
     {vorm === 'vertaald' && <p>{t.vertaling}: {nagekekenVertaling ? t.nagekekenVertaling(dV!.vertaling_nagekeken_door!) : t.machine} {t.vertaaldVan(dV!.origineel_datum)}</p>}
   </Brondoos>
 </div>
@@ -103,7 +103,7 @@ const nagekekenVertaling = nagekeken;
         </section>
       )}
       <article class="inhoud"><RV.Content /></article>
-      <Brondoos taal={taal} bronnen={dV.bronnen} datum={dV.datum} status={dV.status} nagekeken_door={dV.nagekeken_door}>
+      <Brondoos taal={taal} bronnen={dV.bronnen} tekst={v?.body ?? ''} datum={dV.datum} status={dV.status} nagekeken_door={dV.nagekeken_door}>
         <p>{t.vertaling}: {t.machine} {t.vertaaldVan(dV.origineel_datum)}</p>
       </Brondoos>
     </div>

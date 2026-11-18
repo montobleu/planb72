@@ -345,8 +345,6 @@ main.wrap { padding-top: 2.5rem; }
 .inhoud table { margin: 1rem 0; display: block; overflow-x: auto; }
 .inhoud td, .inhoud th { min-width: 8rem; }
 .inhoud blockquote { margin: 1rem 0; padding: 0.25rem 0 0.25rem 1rem; border-left: 3px solid var(--rand-sterk); color: var(--tekst-2); }
-.inhoud .bron-regel { font-size: 0.85rem; color: var(--tekst-2); margin-top: 0.75rem; }
-.inhoud .bron-regel a { color: var(--tekst-2); }
 .bron ul { margin: 0.25rem 0 0.75rem; padding-left: 1.2rem; }
 
 .inhoudstafel { border: 1px solid var(--rand); border-radius: var(--radius); padding: 12px 16px; margin: 1.5rem 0; max-width: 72ch; }
@@ -370,3 +368,14 @@ main.wrap { padding-top: 2.5rem; }
 .taalkeuze-lijst a[aria-current]::after { content: ' ✓'; font-weight: 400; }
 .vertaling-gevoelig { margin: 2rem 0; border: 1px solid var(--rand-sterk); border-radius: var(--radius); padding: 12px 16px; }
 .vertaling-gevoelig > summary { cursor: pointer; font-weight: 600; min-block-size: 32px; }
+
+/* Bronvermelding zoals op Wikipedia: kleine verwijsnummers, lijst onderaan. */
+.voetnoot { font-size: 0.7em; line-height: 0; margin-left: 0.1em; white-space: nowrap; }
+.voetnoot a { text-decoration: none; color: var(--link); padding: 0 1px; }
+.voetnoot a:hover, .voetnoot a:focus-visible { text-decoration: underline; }
+.bronvermelding { margin-top: 2.5rem; border-top: 1px solid var(--rand); padding-top: 0.5rem; font-size: 0.875rem; color: var(--tekst-2); }
+.bronvermelding h2 { font-size: 1.05rem; border-top: 0; padding-top: 0; margin-top: 0.75rem; color: var(--tekst); }
+.bronvermelding ol { padding-left: 1.6rem; columns: 2 22rem; column-gap: 2rem; }
+.bronvermelding li { margin: 0.2rem 0; break-inside: avoid; scroll-margin-top: 80px; }
+.bronvermelding li:target { background: var(--bg-2); outline: 2px solid var(--merk); outline-offset: 2px; }
+.bronvermelding a { color: var(--tekst-2); overflow-wrap: anywhere; }
