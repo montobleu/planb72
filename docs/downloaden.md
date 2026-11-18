@@ -21,9 +21,9 @@ de apps voor iOS en Android. Overal dezelfde vragen, altijd met het eigen land a
 
 **Altijd per land, nooit per provincie of regio.** In R2 staan straatniveau (en de
 standaardkaart van Frankrijk en Duitsland) in stukken per regio, omdat één bestand per land te
-groot is voor de upload en voor telefoons (België op straatniveau ± 0,6 GB, Frankrijk en
-Duitsland ± 5 GB). De catalogus bundelt die stukken tot één blok per land en niveau, bv.
-*België, straatniveau, 598 MB, 9 bestanden*. Downloaden haalt alle bestanden na elkaar op met
+groot is voor de upload en voor telefoons (België op straatniveau ± 1,3 GB, Frankrijk en
+Duitsland ± 10 à 11 GB). De catalogus bundelt die stukken tot één blok per land en niveau, bv.
+*België, straatniveau, 1,3 GB, 9 bestanden*. Downloaden haalt alle bestanden na elkaar op met
 één voortgangsbalk; verwijderen verwijdert ze samen.
 
 De keuzehulp toont de werkelijke grootte per land en per niveau, het totaal, en (in de app) de
@@ -72,10 +72,10 @@ python3 pipeline/catalogus.py
     "soort": "straat",            // basiskaart | straat | routes | lagen | inhoud
     "niveau": "straat",           // europa | overzicht | standaard | straat
     "land": "be",
-    "bytes": 627384756,
+    "bytes": 1342519096,
     "versie": "20261117",         // build van de kaart, OSM-datum van de routes, ophaaldatum van de lagen
     "zak": false,                 // hoort bij het kleinste pakket (Zak)
-    "bestanden": [{ "id": "be-wvl-z14", "pad": "/data/be-wvl-z14.pmtiles", "bytes": 58309232, "sha256": null }, …],
+    "bestanden": [{ "id": "be-wvl-z15", "pad": "/data/be-wvl-z15.pmtiles", "bytes": 131173879, "sha256": null }, …],
     "vereist": ["be-overzicht"]   // afhankelijkheden; overzicht vereist eu-z6
   }]
 }
@@ -122,7 +122,9 @@ met `url<TAB>pad` voor wie zelf downloadt.
 - **Eerste gebruik**: `/app/kiezen/`. De startpagina verwijst ernaar zolang er geen keuze is.
 - **Instellingen** (`/app/pakket/`): dezelfde keuzehulp, daaronder *Op dit toestel*: per land de
   blokken met hun stand (op dit toestel, x van y delen, nog niet, bezig, mislukt), verwijderen per
-  blok, en wat er nog staat maar niet meer in de keuze zit (samen op te ruimen).
+  blok, wat er nog staat maar niet meer in de keuze zit (samen op te ruimen), en **oude kaarten**:
+  bestanden op het toestel die in geen enkel blok van de catalogus meer staan (bv. straatniveau tot
+  zoom 14, vervangen door zoom 15), per bestand of samen te verwijderen.
 - **Opslag**: kaartbestanden onder hun eigen naam in OPFS (`kaarten/<id>.pmtiles`), routes in
   `routes/<id>.pb72r`, anders in de Cache API; kaartlagen per land in de cache `pb72-pakket-<land>`.
   Dat is dezelfde plaats als voorheen, dus de kaart en de routeplanner vinden alles zonder

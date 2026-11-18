@@ -216,6 +216,8 @@ main > p, main > ul, main > ol, main > dl, main section > p, .lead { max-width: 
 }
 .label.officieel { color: var(--ok); border-color: var(--ok); background: var(--ok-bg); }
 .label.osm { color: var(--link); border-color: var(--link); }
+/* Herkomst van een kaartpunt: officieel (groen), nagekeken door PlanB72 (paars), OpenStreetMap (blauw). */
+.label.nagekeken { color: var(--r-hulp); border-color: var(--r-hulp); }
 
 .bron { font-size: 0.85rem; color: var(--tekst-2); border-top: 1px solid var(--rand); margin-top: 2rem; padding-top: 0.9rem; }
 .bron a { color: var(--tekst-2); }
@@ -237,6 +239,7 @@ input[type="text"], input[type="number"], input[type="tel"], input[type="search"
   border: 1px solid var(--rand-sterk); border-radius: var(--radius); font: inherit;
 }
 textarea { min-height: 8rem; resize: vertical; }
+input[type="url"] { width: 100%; min-height: 46px; padding: 10px 12px; background: var(--bg); color: var(--tekst); border: 1px solid var(--rand-sterk); border-radius: var(--radius); font: inherit; }
 fieldset { border: 1px solid var(--rand); border-radius: var(--radius); padding: 12px 16px; margin: 1rem 0; }
 legend { font-weight: 600; padding: 0 6px; }
 .vinklijst { list-style: none; padding: 0; max-width: 68ch; }
@@ -291,6 +294,26 @@ legend { font-weight: 600; padding: 0 6px; }
 .kaart-paneel .bol { width: 12px; height: 12px; border-radius: 50%; flex: none; border: 1px solid #0006; }
 .maplibregl-popup-content { background: var(--bg) !important; color: var(--tekst); border: 1px solid var(--rand); border-radius: var(--radius) !important; font-family: var(--font); }
 .maplibregl-popup-tip { display: none; }
+.maplibregl-popup-content .herkomst { margin-top: 4px; }
+.maplibregl-popup-content button.link { background: none; border: 0; padding: 0; color: var(--link); text-decoration: underline; font: inherit; cursor: pointer; min-height: 24px; }
+.herkomst-legende { list-style: none; padding: 0; margin: 0; display: grid; gap: 3px; }
+.wachtrij { list-style: none; padding: 0; margin: 0; display: grid; gap: 6px; }
+.wachtrij li { border: 1px solid var(--rand); border-radius: var(--radius); padding: 6px 8px; }
+.wachtrij .knoppen { margin: 4px 0 0; gap: 6px; }
+
+/* Melden: plek ontbreekt of klopt niet. Native modale dialoog (focus, Esc en terugkeer regelt de browser). */
+dialog.melden {
+  width: min(34rem, calc(100% - 24px)); max-height: calc(100dvh - 24px); padding: 16px 18px;
+  background: var(--bg); color: var(--tekst); border: 1px solid var(--rand-sterk); border-radius: var(--radius);
+}
+dialog.melden:modal { overscroll-behavior: contain; }
+dialog.melden::backdrop { background: #0009; overflow: hidden; overscroll-behavior: contain; }
+dialog.melden h2 { margin-top: 0; font-size: 1.2rem; }
+dialog.melden fieldset { border: 1px solid var(--rand); border-radius: var(--radius); padding: 6px 10px; margin: .6rem 0; }
+dialog.melden fieldset label { font-weight: 400; display: flex; gap: 8px; align-items: center; margin: 4px 0; }
+dialog.melden .veldkop { font-weight: 600; margin: 1rem 0 0.3rem; }
+dialog.melden .hint { margin: .2rem 0 0; color: var(--tekst-2); }
+dialog.melden .fout { color: var(--gevaar); font-weight: 600; }
 .maplibregl-popup-close-button { color: var(--tekst); font-size: 20px; width: 32px; height: 32px; }
 
 /* ---------- Website: secties ---------- */
@@ -415,10 +438,7 @@ main.wrap { padding-top: 2.5rem; }
 .vertaling-gevoelig { margin: 2rem 0; border: 1px solid var(--rand-sterk); border-radius: var(--radius); padding: 12px 16px; }
 .vertaling-gevoelig > summary { cursor: pointer; font-weight: 600; min-block-size: 32px; }
 
-/* Bronvermelding zoals op Wikipedia: kleine verwijsnummers, lijst onderaan. */
-.voetnoot { font-size: 0.7em; line-height: 0; margin-left: 0.1em; white-space: nowrap; }
-.voetnoot a { text-decoration: none; color: var(--link); padding: 0 1px; }
-.voetnoot a:hover, .voetnoot a:focus-visible { text-decoration: underline; }
+/* Bronvermelding: één lijst onderaan de pagina. */
 .bronvermelding { margin-top: 2.5rem; border-top: 1px solid var(--rand); padding-top: 0.5rem; font-size: 0.875rem; color: var(--tekst-2); }
 .bronvermelding h2 { font-size: 1.05rem; border-top: 0; padding-top: 0; margin-top: 0.75rem; color: var(--tekst); }
 .bronvermelding ol { padding-left: 1.6rem; columns: 2 22rem; column-gap: 2rem; }

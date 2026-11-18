@@ -87,6 +87,26 @@ export async function downloadBlok(b: Blok, voortgang: (bytes: number) => void, 
   }
 }
 
+/** Een kaart- of routebestand op dit toestel dat in geen enkel blok van de catalogus meer staat. */
+export type Oud = { soort: 'kaart' | 'route'; id: string; bytes: number };
+
+/**
+ * Verouderde bestanden: op het toestel, maar niet meer in de catalogus (bv. straatniveau tot
+ * zoom 14, vervangen door zoom 15). Ze blijven werken tot de gebruiker ze opruimt.
+ */
+export async function verouderd(cat: Catalogus): Promise<Oud[]> {
+  const bekend = new Set(cat.blokken.flatMap((b) => b.bestanden.map((f) => f.id)));
+  const uit: Oud[] = [];
+  for (const [id, f] of await opToestel()) if (!bekend.has(id)) uit.push({ soort: 'kaart', id, bytes: f instanceof File ? f.size : 0 });
+  for (const [id, f] of await routesOpToestel()) if (!bekend.has(id)) uit.push({ soort: 'route', id, bytes: f.size });
+  return uit;
+}
+
+export async function verwijderOud(o: Oud) {
+  if (o.soort === 'kaart') await kaartVerwijder(o.id);
+  else await verwijderRoute({ id: o.id, pad: `/data/route/${o.id}.pb72r` });
+}
+
 /** Een blok helemaal verwijderen, met al zijn bestanden. */
 export async function verwijderBlok(b: Blok) {
   for (const f of b.bestanden) {

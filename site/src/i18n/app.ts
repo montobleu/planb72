@@ -410,6 +410,17 @@ const nl = {
     nucleair: 'Nucleaire zones',
     dichtstbij: 'Dichtstbij',
     noot: 'De kaart toont locaties, niet of een voorziening open of beschikbaar is.',
+    herkomst: 'Herkomst van een punt',
+    herkomstUitleg: { officieel: 'uit een officieel register', nagekeken: 'aangevuld en nagekeken door PlanB72', osm: 'uit OpenStreetMap, niet apart nagekeken' } as Record<string, string>,
+    melden: 'Plek ontbreekt of klopt niet',
+    meldenUitleg: 'Je melding blijft op dit toestel tot je ze verstuurt. Versturen gaat via een vooraf ingevuld GitHub-issue dat je zelf nakijkt; daarvoor heb je een GitHub-account nodig. Persoonsgegevens zijn niet nodig. Twee mensen kijken elke melding na voor ze op de kaart komt.',
+    formulier: {
+      wat: 'Wat is er?', ontbreekt: 'Deze plek ontbreekt op de kaart', kloptNiet: 'Naam, adres of punt klopt niet', gesloten: 'Deze plek bestaat niet meer',
+      soort: 'Soort plek', naam: 'Naam', adres: 'Adres', adresHint: 'Straat, huisnummer, postcode en gemeente.', punt: 'Punt op de kaart', kiesPunt: 'Kies op de kaart', geenPunt: 'Nog geen punt gekozen.',
+      opmerking: 'Wat moet er veranderen?', bron: 'Waar kan iemand dit nakijken?', bronHint: 'Bijvoorbeeld de website van de praktijk of een gemeentelijke lijst. Niet verplicht, wel nuttig.',
+      bewaren: 'Bewaren op dit toestel', annuleren: 'Annuleren', adresOfPunt: 'Fout: geef een adres of kies een punt op de kaart.',
+    },
+    wachtrij: 'Meldingen op dit toestel',
   },
 };
 
@@ -815,6 +826,17 @@ const fr: Teksten = {
     nucleair: 'Zones nucléaires',
     dichtstbij: 'Le plus proche',
     noot: "La carte montre des emplacements, pas si un service est ouvert ou disponible.",
+    herkomst: "Origine d'un point",
+    herkomstUitleg: { officieel: "d'un registre officiel", nagekeken: 'ajouté et vérifié par PlanB72', osm: "d'OpenStreetMap, sans vérification séparée" } as Record<string, string>,
+    melden: 'Lieu manquant ou incorrect',
+    meldenUitleg: "Votre signalement reste sur cet appareil jusqu'à ce que vous l'envoyiez. L'envoi passe par une issue GitHub préremplie que vous vérifiez vous-même ; il faut un compte GitHub. Aucune donnée personnelle n'est nécessaire. Deux personnes vérifient chaque signalement avant qu'il n'apparaisse sur la carte.",
+    formulier: {
+      wat: "De quoi s'agit-il ?", ontbreekt: 'Ce lieu manque sur la carte', kloptNiet: "Le nom, l'adresse ou le point est incorrect", gesloten: "Ce lieu n'existe plus",
+      soort: 'Type de lieu', naam: 'Nom', adres: 'Adresse', adresHint: 'Rue, numéro, code postal et commune.', punt: 'Point sur la carte', kiesPunt: 'Choisir sur la carte', geenPunt: 'Aucun point choisi.',
+      opmerking: 'Que faut-il changer ?', bron: 'Où peut-on le vérifier ?', bronHint: 'Par exemple le site du cabinet ou une liste communale. Facultatif, mais utile.',
+      bewaren: 'Enregistrer sur cet appareil', annuleren: 'Annuler', adresOfPunt: 'Erreur : indiquez une adresse ou choisissez un point sur la carte.',
+    },
+    wachtrij: 'Signalements sur cet appareil',
   },
 };
 
@@ -1221,6 +1243,17 @@ const de: Teksten = {
     nucleair: 'Nuklearzonen',
     dichtstbij: 'Am nächsten',
     noot: 'Die Karte zeigt Standorte, nicht ob eine Einrichtung geöffnet oder verfügbar ist.',
+    herkomst: 'Herkunft eines Punktes',
+    herkomstUitleg: { officieel: 'aus einem amtlichen Register', nagekeken: 'von PlanB72 ergänzt und geprüft', osm: 'aus OpenStreetMap, nicht gesondert geprüft' } as Record<string, string>,
+    melden: 'Ort fehlt oder stimmt nicht',
+    meldenUitleg: 'Ihre Meldung bleibt auf diesem Gerät, bis Sie sie senden. Gesendet wird über ein vorausgefülltes GitHub-Issue, das Sie selbst prüfen; dafür brauchen Sie ein GitHub-Konto. Persönliche Daten sind nicht nötig. Zwei Personen prüfen jede Meldung, bevor sie auf die Karte kommt.',
+    formulier: {
+      wat: 'Worum geht es?', ontbreekt: 'Dieser Ort fehlt auf der Karte', kloptNiet: 'Name, Adresse oder Punkt stimmt nicht', gesloten: 'Diesen Ort gibt es nicht mehr',
+      soort: 'Art des Ortes', naam: 'Name', adres: 'Adresse', adresHint: 'Straße, Hausnummer, Postleitzahl und Gemeinde.', punt: 'Punkt auf der Karte', kiesPunt: 'Auf der Karte wählen', geenPunt: 'Noch kein Punkt gewählt.',
+      opmerking: 'Was soll sich ändern?', bron: 'Wo kann man das prüfen?', bronHint: 'Zum Beispiel die Website der Praxis oder eine Liste der Gemeinde. Freiwillig, aber hilfreich.',
+      bewaren: 'Auf diesem Gerät speichern', annuleren: 'Abbrechen', adresOfPunt: 'Fehler: Geben Sie eine Adresse an oder wählen Sie einen Punkt auf der Karte.',
+    },
+    wachtrij: 'Meldungen auf diesem Gerät',
   },
 };
 
@@ -1624,6 +1657,17 @@ const en: Teksten = {
     nucleair: 'Nuclear zones',
     dichtstbij: 'Nearest',
     noot: 'The map shows locations, not whether a facility is open or available.',
+    herkomst: 'Origin of a point',
+    herkomstUitleg: { officieel: 'from an official register', nagekeken: 'added and checked by PlanB72', osm: 'from OpenStreetMap, not checked separately' } as Record<string, string>,
+    melden: 'Place missing or wrong',
+    meldenUitleg: 'Your report stays on this device until you send it. Sending opens a pre-filled GitHub issue that you check yourself; you need a GitHub account for that. No personal data is needed. Two people check every report before it appears on the map.',
+    formulier: {
+      wat: 'What is it about?', ontbreekt: 'This place is missing from the map', kloptNiet: 'The name, address or point is wrong', gesloten: 'This place no longer exists',
+      soort: 'Type of place', naam: 'Name', adres: 'Address', adresHint: 'Street, number, postcode and municipality.', punt: 'Point on the map', kiesPunt: 'Choose on the map', geenPunt: 'No point chosen yet.',
+      opmerking: 'What should change?', bron: 'Where can someone check this?', bronHint: 'For example the website of the practice or a municipal list. Optional, but useful.',
+      bewaren: 'Save on this device', annuleren: 'Cancel', adresOfPunt: 'Error: give an address or choose a point on the map.',
+    },
+    wachtrij: 'Reports on this device',
   },
 };
 

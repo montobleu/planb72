@@ -45,19 +45,21 @@ Andere instellingen per land in `pipeline/budget.json` (`landen` -> code):
 
 ```sh
 python3 pipeline/regios.py NL DE FR                    # regio's met bbox -> pipeline/regios.json
-python3 pipeline/kaartpakketten.py --plan NL LU DE FR  # indeling -> pipeline/kaartpakketten-plan.json
+python3 pipeline/kaartpakketten.py --plan BE NL LU DE FR  # indeling -> pipeline/kaartpakketten-plan.json
 python3 pipeline/kaartpakketten.py --land nl --upload  # uitknippen en naar R2
 ```
 
 Per land een overzicht (zoom 9, in het basispakket), een standaardkaart (zoom 12) en
-straatniveau (zoom 14). Elk pakket blijft onder 280 MB (upload met wrangler kan tot
-300 MB): de standaardkaart van Frankrijk en Duitsland is per regio, straatniveau per
+straatniveau (zoom 15, het maximum van de Protomaps-builds; de kaart vergroot tot zoom 19
+verder uit). Elk pakket blijft onder 280 MB (upload met wrangler kan tot 300 MB): de standaardkaart van Frankrijk en Duitsland is per regio, straatniveau per
 provincie, deelstaat of Regierungsbezirk, departement, of in vakken (noordwest, ...).
-De indeling komt uit een proefmeting (`pmtiles extract --dry-run`). België en Europa staan
-vast in `kaartpakketten.py`. Het resultaat staat in `site/public/data/kaarten.json`.
+De indeling komt uit een proefmeting (`pmtiles extract --dry-run`). Europa en het overzicht
+en de standaardkaart van België staan vast in `kaartpakketten.py`; het Belgische
+straatniveau gaat ook door de planner. Het resultaat staat in `site/public/data/kaarten.json`.
 
 | Script | Uitvoer |
 | --- | --- |
+| `verrijken.py` | dezelfde lagen, aangevuld met officiële bronnen en `data/eigen/`; `pipeline/out/<land>-verschillen.csv` |
 | `lagen.py` | `site/public/data/<land>/<laag>.geojson` voor ziekenhuizen, medisch, politie, brandweer, apotheken, aed, drinkwater, overheid, dierenarts; plus `meta.json` |
 | `schuilplekken.py` | `site/public/data/be/schuilplekken.geojson` en `pipeline/out/be-schuilplekken.csv` |
 | `nucleair.py` | `site/public/data/be/nucleair.geojson` (punten en cirkels) |
@@ -78,6 +80,27 @@ Overpass: één query per laag, 10 seconden rust tussen aanvragen, bij fouten
 exponentieel wachten en wisselen tussen overpass-api.de, overpass.kumi.systems en
 overpass.openstreetmap.fr. Een leeg antwoord wordt pas aanvaard als een tweede
 server het bevestigt. Een volledige run voor België duurt ongeveer een half uur.
+
+## Verrijken met officiële bronnen en eigen aanvullingen
+
+```sh
+python3 pipeline/verrijken.py BE                       # na lagen.py
+python3 pipeline/verrijken.py BE --lagen ziekenhuizen   # één laag
+python3 pipeline/verrijken.py BE --zonder-officieel     # alleen OSM en data/eigen/
+python3 pipeline/verrijken.py BE --vernieuw             # officiële bestanden opnieuw downloaden
+```
+
+Voegt per laag de ruwe OSM-laag (`pipeline/out/osm/<land>/`), de officiële bronnen
+(`pipeline/officieel.py`) en de eigen aanvullingen (`data/eigen/<land>/<laag>.json`,
+`pipeline/eigen.py`) samen. Dubbels worden herkend op afstand en naam of adres
+(`pipeline/naam.py`); elk punt krijgt `betrouwbaarheid` = `officieel`, `nagekeken` of `osm`,
+officieel gaat voor. Adressen zonder betrouwbare coördinaten worden offline geplaatst met BeST
+van BOSA (`pipeline/adressen.py`, ongeveer 230 MB, eenmaal per week gedownload).
+
+Uitvoer: de lagen en `meta.json` in `site/public/data/<land>/` (aantallen per herkomst, bronnen),
+`pipeline/out/<land>-verschillen.csv` (alle verschillen om na te kijken) en
+`pipeline/out/<land>-verrijking.json`. Een volledige run voor België duurt ongeveer drie minuten.
+Foutcodes: `3` = budget, `4` = ruwe OSM-laag ontbreekt. Uitleg en bronnen: `docs/kaartdata.md`.
 
 ## Routepakketten
 

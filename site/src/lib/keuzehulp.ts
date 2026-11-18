@@ -8,7 +8,8 @@ import { bewaar, lees, vraagBlijvendeOpslag } from './app';
 import { mb } from './kaarten';
 import { kiesLanden } from './landkeuze';
 import * as S from './selectie';
-import { aanwezigheid, laadCatalogus, verwijderBlok, volledig, Wachtrij, zetTalen, type Aanwezig } from './downloaden';
+import { klant } from '../i18n/klant';
+import { aanwezigheid, laadCatalogus, verouderd, verwijderBlok, verwijderOud, volledig, Wachtrij, zetTalen, type Aanwezig, type Oud } from './downloaden';
 
 type Modus = 'app' | 'eerste' | 'site';
 
@@ -50,9 +51,11 @@ export async function startKeuzehulp(root: HTMLElement) {
 
   let aanwezig: Aanwezig = new Map();
   let opslag: S.Opslag | null = null;
+  let oud: Oud[] = [];
   const vernieuwToestel = async () => {
     if (!app) return;
     aanwezig = await aanwezigheid(cat);
+    oud = await verouderd(cat);
     opslag = await S.leesOpslag();
   };
   await vernieuwToestel();
@@ -311,7 +314,7 @@ export async function startKeuzehulp(root: HTMLElement) {
     const gewenst = S.blokkenVoor(cat, keuze);
     const ids = new Set(gewenst.map((b) => b.id));
     const extra = cat.blokken.filter((b) => !b.kern && aanwezig.has(b.id) && !ids.has(b.id));
-    sectie.hidden = !bewaard && !rij && !aanwezig.size && !lees('keuze', null);
+    sectie.hidden = !bewaard && !rij && !aanwezig.size && !oud.length && !lees('keuze', null);
     const groepen: [string, S.Blok[]][] = [
       [t.europaGroep, gewenst.filter((b) => b.niveau === 'europa')],
       ...keuze.landen.map((l): [string, S.Blok[]] => [landnaam(l.code), gewenst.filter((b) => b.land === l.code)]),
@@ -327,6 +330,26 @@ export async function startKeuzehulp(root: HTMLElement) {
       ? `<h3>${esc(t.extraOpToestel)}</h3>${extra.map((b) => blokRij(b, false, true)).join('')}
          <div class="knoppen"><button type="button" class="knop gevaar" id="kh-opruimen">${esc(t.opruimen(mb(bytesExtra)))}</button></div>`
       : '';
+    // Oude bestanden die geen blok meer hebben (bv. straatniveau zoom 14): alleen opruimen.
+    const bytesOud = oud.reduce((s, o) => s + o.bytes, 0);
+    $('kh-oud')!.innerHTML = oud.length
+      ? `<h3>${esc(klant().landen.verouderd)}</h3>${oud.map((o, i) => `<div class="kh-blok"><div><strong>${esc(o.id)}</strong> <span class="kh-mb">${mb(o.bytes)}</span></div>
+          <div><button type="button" class="knop gevaar" data-oud="${i}" aria-label="${esc(`${t.verwijderen}: ${o.id}`)}">${esc(t.verwijderen)}</button></div></div>`).join('')}
+         <div class="knoppen"><button type="button" class="knop gevaar" id="kh-oud-opruimen">${esc(t.opruimen(mb(bytesOud)))}</button></div>`
+      : '';
+    root.querySelectorAll<HTMLButtonElement>('[data-oud]').forEach((k) => k.addEventListener('click', async () => {
+      const o = oud[Number(k.dataset.oud)];
+      if (!confirm(t.verwijderVraag(o.id))) return;
+      await verwijderOud(o);
+      await vernieuwToestel();
+      toonSamen(); toonToestel();
+    }));
+    $('kh-oud-opruimen')?.addEventListener('click', async () => {
+      if (!confirm(t.opruimenVraag(oud.length, mb(bytesOud)))) return;
+      for (const o of oud) await verwijderOud(o);
+      await vernieuwToestel();
+      toonSamen(); toonToestel();
+    });
     root.querySelectorAll<HTMLButtonElement>('[data-verwijder]').forEach((k) => k.addEventListener('click', async () => {
       const b = cat.blokken.find((x) => x.id === k.dataset.verwijder)!;
       if (!confirm(t.verwijderVraag(bloknaam(b, true)))) return;
