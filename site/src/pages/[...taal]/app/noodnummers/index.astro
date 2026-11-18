@@ -1,29 +1,35 @@
 ---
 import App from '../../../../layouts/App.astro';
 import GidsLinks from '../../../../components/GidsLinks.astro';
-import { landVoor } from '../../../../lib/data';
+import { landenVoor } from '../../../../lib/data';
 import { APP } from '../../../../i18n/app';
-import { taalPaden, taalVan } from '../../../../i18n/talen';
+import { pad, taalPaden, taalVan } from '../../../../i18n/talen';
 export const getStaticPaths = taalPaden;
 const taal = taalVan(Astro.params);
 const t = APP[taal].nummers;
-const land = landVoor(taal);
+const landen = landenVoor(taal);
+const tl = APP[taal].landen;
 ---
 <App taal={taal} titel={t.titel} tab="nummers" vertaalmelding>
-  <h1>{t.h1(land.naam)}</h1>
-  <p class="dempen">{t.uitleg}</p>
-  <div>
-    {land.noodnummers.map((n) => (
-      <div class={`nummer${n.dringend ? ' dringend' : ''}`}>
-        <a class="tel" href={`tel:${n.nummer.replace(/\s/g, '')}`}>{n.nummer}</a>
-        <div><span lang={n.wat.lang !== taal ? n.wat.lang : undefined}>{n.wat.tekst}</span> <a class="klein" href={n.bron}>{APP[taal].algemeen.bron}</a></div>
+  <h1>{t.titel}</h1>
+  <p class="dempen">{t.uitleg} <Fragment set:html={tl.welke(pad(taal, '/app/pakket/#landen'))} /></p>
+  {landen.map((land) => (
+    <section data-land={land.code}>
+      <h2>{land.naam}</h2>
+      <div>
+        {land.noodnummers.map((n) => (
+          <div class={`nummer${n.dringend ? ' dringend' : ''}`}>
+            <a class="tel" href={`tel:${n.nummer.replace(/[\s-]/g, '')}`}>{n.nummer}</a>
+            <div><span lang={n.wat.lang !== taal ? n.wat.lang : undefined}>{n.wat.tekst}</span> <a class="klein" href={n.bron}>{APP[taal].algemeen.bron}</a></div>
+          </div>
+        ))}
       </div>
-    ))}
-  </div>
+      <div class="concept">{t.controle(land.bijgewerkt)}</div>
+    </section>
+  ))}
   <h2>{t.oproepTitel}</h2>
   <ol>{t.oproep.map((r) => <li>{r}</li>)}</ol>
   <p class="klein">{t.oproepBron} <a href="https://www.112.be">112.be</a>.</p>
-  <div class="concept">{t.controle(land.bijgewerkt)}</div>
   <div class="knoppen niet-afdrukken"><button class="knop" type="button" onclick="print()">{APP[taal].algemeen.afdrukken}</button></div>
   <GidsLinks taal={taal} ids={['noodoproep']} />
 </App>

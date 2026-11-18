@@ -25,10 +25,10 @@ const hoortBijKern = (rel) =>
   rel.startsWith('kaart/') ||
   rel.startsWith('icons/') ||
   rel === 'favicon.svg' ||
-  rel === 'data/be/meta.json' ||
   rel === 'data/kaarten.json' ||
   rel === 'data/routes.json' ||
-  rel === 'data/be/nucleair.geojson';
+  // Per land de metadata en de nucleaire zones (klein); de andere lagen zitten in het basispakket.
+  /^data\/[a-z]{2}\/(meta\.json|nucleair\.geojson)$/.test(rel);
 
 const bestanden = [];
 let totaal = 0;

@@ -8,7 +8,7 @@ Gratis, open-source noodbibliotheek voor Europa die volledig werkt zonder intern
 
 ## Stand van zaken
 
-Fase 0–1: een werkende eerste versie voor **België**.
+Fase 0–1: een werkende eerste versie voor **België**, uitgebreid met **Nederland, Luxemburg, Frankrijk en Duitsland**. De gebruiker kiest in Instellingen een of meer landen.
 
 | Onderdeel | Stand |
 | --- | --- |
@@ -16,6 +16,8 @@ Fase 0–1: een werkende eerste versie voor **België**.
 | Web-app, installeerbaar en offline (service worker) | gebouwd |
 | Wat nu? — 16 scenariokaarten | concept, wacht op nazicht en toestemming |
 | Noodnummers en officiële kanalen België | gebouwd, bronnen gelinkt |
+| Landinfo Nederland, Luxemburg, Frankrijk, Duitsland | concept, wacht op nazicht door een landbeheerder |
+| Kaartlagen en kaartpakketten per land (overzicht, standaard, straatniveau per regio) | gebouwd |
 | Kaart: basiskaart België (PMTiles, tot zoom 9) en tien lagen uit OpenStreetMap | gebouwd |
 | Routeplanning te voet, fiets en auto, zonder internet (9 regio's) | gebouwd, zie [docs/routeplanning.md](docs/routeplanning.md) |
 | Nucleair: sites, zones, afstand en richting | gebouwd; coördinaten te controleren |
@@ -32,7 +34,7 @@ Wat er niet in zit en waarom: alles waarvoor nog toestemming nodig is (officiël
 ## Opbouw
 
 ```
-data/        landdata (be.json) en het bronnenregister
+data/        landdata (be.json, nl.json, lu.json, fr.json, de.json) en het bronnenregister
 pipeline/    Python-scripts: kaartlagen uit OpenStreetMap, schuilplekken, nucleaire zones, basiskaart, routepakketten, bronnenronde
 site/        Astro-site: website op / en de offline web-app op /app/
   worker/    kleine Cloudflare Worker die de basiskaart uit R2 serveert (met Range-aanvragen)

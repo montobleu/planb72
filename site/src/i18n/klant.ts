@@ -22,6 +22,20 @@ const nl = {
     som: (m: number, d: number, l: number, packs: number) => `${m} × ${d} dagen × ${l} liter. Dat zijn ongeveer ${packs} packs van 6 liter.`,
     dieren: (n: number, d: number) => `Plus water en voer voor ${n} huisdier${n === 1 ? '' : 'en'} voor ${d} dagen.`,
   },
+  landen: {
+    gekozen: (namen: string) => `Gekozen: ${namen}.`,
+    minstensEen: 'Kies minstens één land.',
+    rekenland: (l: string) => `De planner rekent met de waarde voor ${l}, het eerste land dat je koos.`,
+    volgensPlanning: (l: string) => `Volgens de planning van ${l}`,
+    zonesGelden: 'De zones gelden op het grondgebied van het land dat ze plant.',
+    verwijderBasis: (l: string) => `Het basispakket ${l} van dit toestel verwijderen? De kaartlagen van dit land werken dan niet meer offline.`,
+    downloaden: 'Downloaden',
+    groepLand: (l: string) => `${l}: overzicht en standaard`,
+    groepStraat: (l: string) => `${l}: straatniveau`,
+    andere: 'Andere landen op dit toestel',
+    soort: { overzicht: 'overzicht', standaard: 'standaard', straatniveau: 'straatniveau' } as Record<string, string>,
+    uitleg: {} as Record<string, string>,
+  },
   pakket: {
     opToestel: 'op dit toestel',
     bestanden: (n: number, datum?: string) => `${n} bestanden${datum ? `, kaartdata van ${datum}` : ''}.`,
@@ -91,6 +105,20 @@ const fr: Klant = {
     liter: (n: string) => `${n} litres d'eau`,
     som: (m: number, d: number, l: number, packs: number) => `${m} × ${d} jours × ${l} litres. Cela fait environ ${packs} packs de 6 litres.`,
     dieren: (n: number, d: number) => `Plus de l'eau et de la nourriture pour ${n} animal${n === 1 ? '' : 'aux'} pendant ${d} jours.`,
+  },
+  landen: {
+    gekozen: (namen: string) => `Choisis : ${namen}.`,
+    minstensEen: 'Choisissez au moins un pays.',
+    rekenland: (l: string) => `Le planificateur utilise la valeur pour ${l}, le premier pays choisi.`,
+    volgensPlanning: (l: string) => `Selon la planification ${l}`,
+    zonesGelden: 'Les zones s’appliquent sur le territoire du pays qui les planifie.',
+    verwijderBasis: (l: string) => `Supprimer le paquet de base ${l} de cet appareil ? Les couches de ce pays ne fonctionneront plus hors ligne.`,
+    downloaden: 'Télécharger',
+    groepLand: (l: string) => `${l} : aperçu et standard`,
+    groepStraat: (l: string) => `${l} : niveau de la rue`,
+    andere: 'Autres pays sur cet appareil',
+    soort: { overzicht: 'aperçu', standaard: 'standard', straatniveau: 'niveau de la rue' },
+    uitleg: { 'Gemeenten, hoofdwegen, rivieren': 'Communes, routes principales, rivières', 'Alle wegen en dorpen, geen gebouwen': 'Toutes les routes et tous les villages, pas de bâtiments', 'Straten, gebouwen en paden': STRAAT.fr },
   },
   pakket: {
     opToestel: 'sur cet appareil',
@@ -171,6 +199,20 @@ const de: Klant = {
     som: (m: number, d: number, l: number, packs: number) => `${m} × ${d} Tage × ${l} Liter. Das sind etwa ${packs} Packungen zu 6 Liter.`,
     dieren: (n: number, d: number) => `Dazu Wasser und Futter für ${n} Haustier${n === 1 ? '' : 'e'} für ${d} Tage.`,
   },
+  landen: {
+    gekozen: (namen: string) => `Gewählt: ${namen}.`,
+    minstensEen: 'Wählen Sie mindestens ein Land.',
+    rekenland: (l: string) => `Der Planer rechnet mit dem Wert für ${l}, das erste gewählte Land.`,
+    volgensPlanning: (l: string) => `Nach der Planung ${l}`,
+    zonesGelden: 'Die Zonen gelten auf dem Gebiet des Landes, das sie plant.',
+    verwijderBasis: (l: string) => `Das Basispaket ${l} von diesem Gerät löschen? Die Kartenebenen dieses Landes funktionieren dann nicht mehr offline.`,
+    downloaden: 'Herunterladen',
+    groepLand: (l: string) => `${l}: Übersicht und Standard`,
+    groepStraat: (l: string) => `${l}: Straßenebene`,
+    andere: 'Andere Länder auf diesem Gerät',
+    soort: { overzicht: 'Übersicht', standaard: 'Standard', straatniveau: 'Straßenebene' },
+    uitleg: { 'Gemeenten, hoofdwegen, rivieren': 'Gemeinden, Hauptstraßen, Flüsse', 'Alle wegen en dorpen, geen gebouwen': 'Alle Straßen und Dörfer, keine Gebäude', 'Straten, gebouwen en paden': STRAAT.de },
+  },
   pakket: {
     opToestel: 'auf diesem Gerät',
     bestanden: (n: number, datum?: string) => `${n} Dateien${datum ? `, Kartendaten vom ${datum}` : ''}.`,
@@ -250,6 +292,20 @@ const en: Klant = {
     som: (m: number, d: number, l: number, packs: number) => `${m} × ${d} days × ${l} litres. That is about ${packs} packs of 6 litres.`,
     dieren: (n: number, d: number) => `Plus water and food for ${n} pet${n === 1 ? '' : 's'} for ${d} days.`,
   },
+  landen: {
+    gekozen: (namen: string) => `Chosen: ${namen}.`,
+    minstensEen: 'Choose at least one country.',
+    rekenland: (l: string) => `The planner uses the value for ${l}, the first country you chose.`,
+    volgensPlanning: (l: string) => `According to the planning of ${l}`,
+    zonesGelden: 'The zones apply on the territory of the country that plans them.',
+    verwijderBasis: (l: string) => `Remove the basic package ${l} from this device? The map layers of this country will then no longer work offline.`,
+    downloaden: 'Download',
+    groepLand: (l: string) => `${l}: overview and standard`,
+    groepStraat: (l: string) => `${l}: street level`,
+    andere: 'Other countries on this device',
+    soort: { overzicht: 'overview', standaard: 'standard', straatniveau: 'street level' },
+    uitleg: { 'Gemeenten, hoofdwegen, rivieren': 'Municipalities, main roads, rivers', 'Alle wegen en dorpen, geen gebouwen': 'All roads and villages, no buildings', 'Straten, gebouwen en paden': STRAAT.en },
+  },
   pakket: {
     opToestel: 'on this device',
     bestanden: (n: number, datum?: string) => `${n} files${datum ? `, map data of ${datum}` : ''}.`,
@@ -325,6 +381,21 @@ export function klant(): Klant {
 /** Locale voor toLocaleString in de taal van de pagina. */
 export function locale(): string {
   return LOCALE[paginaTaal()];
+}
+
+/**
+ * Naam en uitleg van een kaartpakket in de taal van de pagina. Eerst de vaste vertaling,
+ * anders de Nederlandse naam met het soort pakket vertaald ("Beieren, straatniveau").
+ */
+export function pakketTekst(p: { id: string; naam: string; omschrijving: string }): [string, string] {
+  const k = klant();
+  const vast = k.kaartpakketten[p.id];
+  if (vast) return vast;
+  const m = /^(.*), (overzicht|standaard|straatniveau)$/.exec(p.naam);
+  const naam = m ? `${m[1]}, ${k.landen.soort[m[2]] ?? m[2]}` : p.naam;
+  const delen = p.omschrijving.split('; ');
+  const uitleg = [k.landen.uitleg[delen[0]] ?? delen[0], ...delen.slice(1)].join('; ');
+  return [naam, uitleg];
 }
 
 /** Een pad binnen de app in de taal van de pagina: '/app/kaart/' -> '/fr/app/kaart/'. */
