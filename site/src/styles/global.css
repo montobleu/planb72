@@ -450,3 +450,70 @@ main.wrap { padding-top: 2.5rem; }
 .inhoud a.telnr { font-weight: 600; white-space: nowrap; }
 .inhoud li::marker { color: var(--info); font-weight: 700; }
 .inhoud p > strong:only-child { color: var(--info); }
+
+/* ---------- Zoeken (knop in de kop, zoekvenster, zoekpagina) ---------- */
+
+.zoekknop {
+  display: inline-flex; align-items: center; gap: 8px; block-size: 40px; padding: 0 12px;
+  border: 1px solid var(--rand-sterk); border-radius: var(--radius); background: transparent;
+  color: var(--tekst); font: inherit; font-size: 0.95rem; cursor: pointer;
+}
+.zoekknop:hover { border-color: var(--tekst-2); background: var(--bg-2); }
+.zoekknop::before {
+  content: ""; flex: none; inline-size: 20px; block-size: 20px; background: var(--tekst-2);
+  mask: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%23000' stroke-width='2' stroke-linecap='round'%3E%3Ccircle cx='10.5' cy='10.5' r='6.5'/%3E%3Cpath d='m15.5 15.5 5 5'/%3E%3C/svg%3E") center / contain no-repeat;
+}
+@media (pointer: coarse) { .zoekknop { block-size: 44px; } }
+/* Op smalle schermen alleen het pictogram; de tekst blijft voor schermlezers. */
+@media (max-width: 520px) {
+  .zoekknop { inline-size: 40px; padding: 0; justify-content: center; }
+  .zoekknop-tekst { position: absolute; inline-size: 1px; block-size: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
+}
+@media (max-width: 520px) and (pointer: coarse) { .zoekknop { inline-size: 44px; } }
+
+.zoekvenster {
+  inline-size: min(40rem, calc(100vw - 24px)); max-block-size: min(44rem, calc(100dvh - 48px));
+  margin: 24px auto auto; padding: 16px 20px 20px;
+  background: var(--bg); color: var(--tekst);
+  border: 1px solid var(--rand-sterk); border-radius: var(--radius);
+  box-shadow: 0 12px 40px rgb(0 0 0 / 0.35);
+}
+/* Verplicht samen: anders scrolt de pagina achter het venster mee. */
+.zoekvenster:modal { overscroll-behavior: contain; }
+.zoekvenster::backdrop { background: rgb(5 10 15 / 0.6); overflow: hidden; overscroll-behavior: contain; }
+.zoekvenster-kop { display: flex; align-items: center; justify-content: space-between; gap: 12px; }
+.zoekvenster-kop h2 { margin: 0; font-size: 1.15rem; }
+.zoekvenster .zoekpaneel label { margin-top: 0.75rem; }
+
+.zoekpaneel .zoekveld { inline-size: 100%; }
+.zoekstatus { margin: 0.6rem 0 0; min-block-size: 1.4em; }
+.zoekresultaten { list-style: none; padding: 0; margin: 0.5rem 0 0; display: grid; gap: 8px; }
+.zoekresultaat {
+  position: relative; background: var(--bg-2); border: 1px solid var(--rand);
+  border-inline-start: 4px solid var(--soortkleur, var(--rand-sterk)); border-radius: var(--radius);
+  padding: 10px 14px;
+}
+.zoekresultaat:hover { border-color: var(--rand-sterk); border-inline-start-color: var(--soortkleur, var(--rand-sterk)); }
+.zoekresultaat:has(a:focus-visible) { outline: 3px solid var(--merk); outline-offset: 2px; }
+.zoekresultaat a { display: flex; flex-direction: column; gap: 2px; color: var(--tekst); text-decoration: none; outline: none; }
+/* De hele kaart is aantikbaar; de link blijft het enige focusdoel. */
+.zoekresultaat a::after { content: ""; position: absolute; inset: 0; }
+.zoekresultaat a:hover .zoektitel { text-decoration: underline; }
+.zoeksoort { font-size: 0.75rem; font-weight: 700; letter-spacing: 0.06em; text-transform: uppercase; color: var(--soortkleur, var(--tekst-2)); }
+.zoektitel { font-weight: 600; color: var(--link); }
+.zoekfragment { margin: 4px 0 0; font-size: 0.9rem; color: var(--tekst-2); line-height: 1.5; }
+.zoekfragment mark { background: var(--waarschuwing-bg); color: var(--tekst); font-weight: 600; padding: 0 1px; border-radius: 2px; }
+.soort-situatie { --soortkleur: var(--r-nood); }
+.soort-gids { --soortkleur: var(--r-naslag); }
+.soort-eerstehulp { --soortkleur: var(--r-hulp); }
+.soort-hulpmiddel { --soortkleur: var(--r-voorbereiden); }
+.soort-app { --soortkleur: var(--r-kaart); }
+.soort-website { --soortkleur: var(--tekst-2); }
+.zoekmeer { margin-top: 12px; }
+
+@media (forced-colors: active) {
+  .zoekknop, .zoekvenster, .zoekresultaat { border: 1px solid CanvasText; }
+  .zoekknop::before { forced-color-adjust: none; background: ButtonText; }
+  .zoekresultaat:has(a:focus-visible) { outline-color: Highlight; }
+  .zoekfragment mark { forced-color-adjust: none; background: Mark; color: MarkText; }
+}

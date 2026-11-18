@@ -4,6 +4,8 @@ import Logo from '../components/Logo.astro';
 import Thema from '../components/Thema.astro';
 import ThemaKnop from '../components/ThemaKnop.astro';
 import Landkeuze from '../components/Landkeuze.astro';
+import Zoekknop from '../components/Zoekknop.astro';
+import { soortVanPad } from '../i18n/zoeken';
 import { TALEN, pad, type Taal } from '../i18n/talen';
 import { APP } from '../i18n/app';
 interface Props {
@@ -67,14 +69,14 @@ const tabs = [
     <div class="wrap">
       <a class="logo" href={pad(taal, '/app/')}><Logo /><span>Plan<b>B72</b></span></a>
       <nav aria-label={t.snelmenu}>
-        <a href={pad(taal, '/app/zoeken/')}>{t.zoeken}</a>
+        <Zoekknop taal={taal} />
         <ThemaKnop taal={taal} />
         <a href={pad(taal, '/app/pakket/')} title={t.netTitel}><span class="status-stip" id="netstip"></span><span class="sr-only" id="nettekst">{t.netStatus}</span></a>
       </nav>
     </div>
   </header>
   {volledig ? <slot /> : (
-    <main id="inhoud" class="wrap" data-pagefind-body={zoekbaar ? '' : undefined}>
+    <main id="inhoud" class="wrap" data-pagefind-body={zoekbaar ? '' : undefined} data-pagefind-meta={zoekbaar ? `soort:${soortVanPad(pagina)}` : undefined}>
       <slot />
     </main>
   )}
