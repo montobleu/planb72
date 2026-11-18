@@ -64,7 +64,7 @@ npx wrangler r2 object put planb72-pakketten/be/basis.pmtiles --file public/data
 
 ## Licenties
 
-- Eigen teksten en illustraties: CC BY-SA 4.0.
+- Code: [AGPL-3.0](LICENSE).
+- Eigen teksten en illustraties: CC BY-NC-SA 4.0 (niet-commercieel, gelijk delen). Zie [LICENSE-INHOUD.md](LICENSE-INHOUD.md).
 - Overgenomen inhoud behoudt de licentie van de bron (zie `data/bronnen/register.json`).
 - Kaartdata © OpenStreetMap-bijdragers, ODbL.
-- Code: nog te kiezen (AGPL-3.0 of Apache-2.0), zie de open beslissingen in het plan.
