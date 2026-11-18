@@ -1,9 +1,9 @@
 ---
 titel: Brûlures
 volgorde: 7
-kort: "Refroidissez immédiatement une brûlure à l'eau courante du robinet, au moins 10 et de préférence 20 minutes. Brûlures chimiques et électriques : toujours le 112."
+kort: "Refroidissez immédiatement une brûlure à l'eau courante du robinet, au moins 10 et de préférence 20 minutes. Brûlures chimiques et électriques : toujours appeler le 112 ou faire chercher de l'aide."
 status: concept
-datum: "2026-11-17"
+datum: "2026-11-18"
 bronnen:
   - naam: "Gezondheid en Wetenschap (Rode Kruis-Vlaanderen) : Premiers secours en cas de brûlures"
     url: https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-brandwonden
@@ -17,8 +17,12 @@ bronnen:
     url: https://www.centreantipoisons.be/quand-appeler/
   - naam: "IFRC : International first aid, resuscitation, and education guidelines 2020"
     url: https://www.ifrc.org/sites/default/files/2022-02/EN_GFARC_GUIDELINES_2020.pdf
+  - naam: "European Resuscitation Council Guidelines 2021 : First aid"
+    url: https://cprguidelines-old.erc.edu/assets/guidelines/European-Resuscitation-Council-Guidelines-2021-Fi.pdf
+  - naam: "112.be : Questions fréquentes"
+    url: https://112.be/fr/questions-frequentes
 vertaling: machine
-origineel_datum: "2026-11-17"
+origineel_datum: "2026-11-18"
 ---
 
 ## Reconnaître
@@ -53,7 +57,7 @@ Source : [Gezondheid en Wetenschap : Brûlures](https://www.gezondheidenwetensch
 8. Après le refroidissement, couvrez la brûlure selon sa gravité :
    - Petite brûlure du premier degré : appliquez un produit hydratant, comme un hydrogel ou un après-soleil, et couvrez d'un pansement adhésif ou d'une compresse stérile.
    - Petite brûlure du deuxième degré avec peau intacte : couvrez d'un pansement pour brûlures. Si vous n'en avez pas, appliquez de l'hydrogel et couvrez d'une compresse.
-   - Grande brûlure du deuxième ou du troisième degré : après le refroidissement, posez un pansement humide, aussi stérile que possible, avec un bandage triangulaire, une compresse ou un tissu propre. Du film alimentaire peut servir provisoirement. Posez le film sur un bras ou une jambe, sans le serrer autour, car le membre peut gonfler. Appelez le 112.
+   - Grande brûlure du deuxième ou du troisième degré : après le refroidissement, posez un pansement humide, aussi stérile que possible, avec un bandage triangulaire, une compresse ou un tissu propre. Du film alimentaire peut servir provisoirement. Posez le film sur un bras ou une jambe, sans le serrer autour, car le membre peut gonfler. Appelez le 112 ou faites appeler. Si l'appel ne passe pas, voir Appelez le 112 si.
 9. Laissez les cloques intactes. Ne les percez pas.
 10. Demandez si la victime est vaccinée contre le tétanos.
 11. Soyez attentif aux signes d'intoxication après un incendie : des gaz toxiques peuvent s'être dégagés.
@@ -64,12 +68,12 @@ Source : [Gezondheid en Wetenschap : Brûlures](https://www.gezondheidenwetensch
 1. Faites coucher la victime.
 2. Gardez-la au chaud.
 3. Évitez que la brûlure entre en contact avec le sol, pour qu'elle reste propre.
-4. Appelez le 112 (voir le sujet 6).
+4. Appelez le 112 ou faites appeler (voir le sujet 6).
 
 ### Brûlure chimique
 
 1. Assurez votre propre sécurité. Ne touchez pas le produit sans gants qui y résistent. Aérez s'il y a des vapeurs.
-2. Appelez le 112. Appelez ensuite le Centre Antipoisons au 070 245 245 pour un conseil sur les premiers secours. Gardez l'emballage à portée de main.
+2. Appelez le 112 ou faites appeler. Si le téléphone fonctionne, appelez ensuite aussi le Centre Antipoisons au 070 245 245 pour un conseil sur les premiers secours. Gardez l'emballage à portée de main.
 3. Rincez la peau à l'eau courante jusqu'à ce que la douleur diminue.
 4. Veillez à ce que le produit dilué ne coule pas sur la peau saine ou dans l'autre œil.
 5. Retirez les vêtements et les bijoux contaminés, sauf s'ils collent.
@@ -85,7 +89,7 @@ Source : [Gezondheid en Wetenschap : Brûlures](https://www.gezondheidenwetensch
 ### Brûlure électrique
 
 1. Ne touchez pas la victime tant qu'elle est en contact avec la source de courant. Coupez d'abord le courant (voir le sujet 13).
-2. Appelez le 112.
+2. Appelez le 112 ou faites appeler.
 3. Refroidissez et couvrez les brûlures visibles comme ci-dessus.
 4. Tenez compte du fait qu'il peut y avoir des lésions internes.
 
@@ -121,9 +125,14 @@ Source : [IFRC Guidelines 2020](https://www.ifrc.org/sites/default/files/2022-02
 
 Consultez un médecin en cas de grande brûlure du premier degré, de brûlure du deuxième ou du troisième degré plus grande qu'une pièce de 2 euros, de brûlure au visage, aux mains, aux pieds, aux articulations ou aux organes génitaux, de brûlure par des flammes, ou si la douleur persiste après 15 minutes de refroidissement.
 
-En cas de produit chimique, appelez toujours aussi le Centre Antipoisons : 070 245 245.
+Si le téléphone fonctionne, en cas de produit chimique, appelez toujours aussi le Centre Antipoisons : 070 245 245.
 
-Source : [Gezondheid en Wetenschap : Brûlures](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-brandwonden) · [Centre Antipoisons : Quand appeler ?](https://www.centreantipoisons.be/quand-appeler/)
+**Si l'appel ne passe pas**
+
+- Ne laissez la victime seule que s'il n'y a pas d'autre possibilité. Désignez directement un témoin pour aller chercher de l'aide et indiquez-lui où c'est, ce qui s'est passé, combien de victimes il y a et dans quel état elles sont.
+- Voir aussi le sujet 1 (Si l'appel ne passe pas : chercher de l'aide sans téléphone) et Numéros d'urgence dans l'application, Si l'appel ne passe pas.
+
+Source : [Gezondheid en Wetenschap : Brûlures](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-brandwonden) · [Centre Antipoisons : Quand appeler ?](https://www.centreantipoisons.be/quand-appeler/) · [ERC Guidelines 2021 : First aid](https://cprguidelines-old.erc.edu/assets/guidelines/European-Resuscitation-Council-Guidelines-2021-Fi.pdf) · [112.be : Questions fréquentes](https://112.be/fr/questions-frequentes)
 
 ## À ne pas faire
 
@@ -132,7 +141,7 @@ Source : [Gezondheid en Wetenschap : Brûlures](https://www.gezondheidenwetensch
 - N'arrachez pas les vêtements ou les bijoux qui collent à la peau.
 - N'enroulez pas le film alimentaire serré autour d'un bras ou d'une jambe.
 - Ne touchez pas un produit chimique à mains nues.
-- N'essayez pas de diluer un produit corrosif avalé. Appelez le Centre Antipoisons ou le 112.
+- N'essayez pas de diluer un produit corrosif avalé. Appelez le 112 ou le Centre Antipoisons. Si l'appel ne passe pas, voir Appelez le 112 si.
 - Sans avis médical, ne mettez rien d'autre que de l'eau propre dans un œil atteint par un produit chimique.
 - Ne touchez pas une victime d'un accident électrique tant que le courant n'est pas coupé.
 - N'utilisez pas de pommade à la sulfadiazine argentique. L'IFRC indique qu'elle est associée à une moins bonne cicatrisation.

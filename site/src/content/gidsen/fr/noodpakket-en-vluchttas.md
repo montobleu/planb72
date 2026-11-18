@@ -4,7 +4,7 @@ module: voorbereiding
 volgorde: 2
 kort: "Ce que vous préparez pour partir rapidement et ce que vous gardez à la maison, dans la voiture et au travail, avec des listes distinctes pour les enfants, les personnes âgées, les personnes en situation de handicap et les animaux de compagnie, ainsi que les documents et l'argent liquide."
 status: concept
-datum: "2026-11-17"
+datum: "2026-11-18"
 bronnen:
   - naam: "Centre de crise National : Un kit d'urgence chez vous"
     url: "https://centredecrise.be/fr/que-pouvez-vous-faire/preparez-un-kit-durgence/un-kit-durgence-la-maison"
@@ -42,8 +42,10 @@ bronnen:
     url: "https://www.ready.gov/winter-weather"
   - naam: "Diereninrampen.nl: Red je dier bij een ramp"
     url: "https://www.diereninrampen.nl/red-je-dier-bij-een-ramp"
+  - naam: "Centre de crise National : un plan à la maison"
+    url: "https://centredecrise.be/fr/que-pouvez-vous-faire/faites-un-plan/un-plan-la-maison"
 vertaling: machine
-origineel_datum: "2026-11-17"
+origineel_datum: "2026-11-18"
 ---
 
 Le Centre de crise National divise le kit d'urgence en deux parties : un sac à dos ou un sac que vous pouvez emporter rapidement, et une réserve à la maison pour le cas où vous devez vous mettre à l'abri ou rester un certain temps sans électricité, eau, téléphone ni internet. Ce guide porte sur le sac à dos et sur les kits plus petits pour la voiture et le travail. La réserve à la maison figure dans le guide sur la réserve d'urgence.
@@ -59,7 +61,7 @@ La liste belge pour le sac à dos, tirée de la brochure et du site web du Centr
 **Argent et documents**
 
 - Des copies des documents importants comme votre carte d'identité, votre permis de conduire et vos documents d'assurance. Le site web cite aussi des copies des contrats d'assurance et de toutes les cartes d'identité.
-- Votre plan d'urgence ou une liste des numéros de téléphone importants : famille et amis, numéros d'urgence, votre fournisseur de gaz, d'eau et d'électricité, la centrale de votre système d'alarme, votre médecin traitant, votre assureur.
+- Votre plan d'urgence ou une liste des numéros de téléphone importants, sur papier : famille et amis, numéros d'urgence, votre fournisseur de gaz, d'eau et d'électricité, la centrale de votre système d'alarme, votre médecin traitant, votre assureur. Notez aussi l'adresse de vos personnes de contact. Ainsi, vous vous retrouvez, même si votre GSM est vide ou si le réseau ne fonctionne pas. Indiquez aussi dans votre plan d'urgence le lieu de rendez-vous convenu avec les membres de votre ménage.
 - Un stylo et du papier.
 - Un peu d'argent liquide (voir la section sur l'argent liquide).
 
@@ -77,9 +79,9 @@ Le Centre de crise déconseille de mettre des conserves dans le sac à dos, car 
 - Des produits d'hygiène : lingettes humides, gel désinfectant, dentifrice, brosse à dents, papier toilette, mouchoirs, serviettes hygiéniques.
 - Un couteau de poche multifonction.
 - Un sifflet pour signaler aux services de secours où vous êtes.
-- Une batterie externe chargée et un chargeur de GSM.
+- Une batterie externe chargée et un chargeur de GSM. Ne comptez pas sur le fait de toujours pouvoir appeler : lors d'une coupure de courant, internet et les réseaux mobiles peuvent aussi tomber en panne.
 
-Source : [Centre de crise National : brochure Samen voorbereid](https://centredecrise.be/sites/default/files/documents/files/WEB-Brochure-Pr%C3%AAts.%20Ensemble-FR.pdf) · [Centre de crise National : Un kit d'urgence chez vous](https://centredecrise.be/fr/que-pouvez-vous-faire/preparez-un-kit-durgence/un-kit-durgence-la-maison)
+Source : [Centre de crise National : brochure Samen voorbereid](https://centredecrise.be/sites/default/files/documents/files/WEB-Brochure-Pr%C3%AAts.%20Ensemble-FR.pdf) · [Centre de crise National : Un kit d'urgence chez vous](https://centredecrise.be/fr/que-pouvez-vous-faire/preparez-un-kit-durgence/un-kit-durgence-la-maison) · [Centre de crise National : un plan à la maison](https://centredecrise.be/fr/que-pouvez-vous-faire/faites-un-plan/un-plan-la-maison)
 
 ## Ce qu'ajoutent d'autres pays
 
@@ -189,7 +191,7 @@ Ready.gov donne ces compléments pour les personnes âgées :
 - Une réserve d'oxygène, si vous en utilisez.
 - Une liste avec le type et le numéro de série des appareils médicaux, avec les éventuelles instructions d'utilisation.
 - Des copies des cartes d'assurance.
-- Les coordonnées des médecins, de la famille ou des amis qui doivent être prévenus si vous êtes blessé.
+- Les coordonnées des médecins, de la famille ou des amis qui doivent être prévenus si vous êtes blessé, sur une liste dans un emballage étanche.
 - De la nourriture, de l'eau, un collier avec plaque d'identité et les données médicales pour un chien d'aide ou d'assistance.
 
 Le Centre de crise demande une liste de médicaments à votre médecin traitant ou à votre pharmacien et recommande de la ranger avec vos documents importants. En cas de démence, Ready.gov recommande d'emporter un oreiller et une couverture ou d'autres objets familiers.
@@ -198,7 +200,7 @@ Source : [Ready.gov: People with Disabilities](https://www.ready.gov/disability)
 
 ## Personnes en situation de handicap
 
-Complétez la liste de base avec ce qui est essentiel pour vous, par exemple des médicaments ou des aides techniques (Centre de crise). Le BBK cite des piles, des batteries et des chargeurs de réserve pour les aides techniques, les aides à la mobilité, un plan de médication et une réserve de médicaments, de la nourriture et de l'eau pour un animal d'assistance, une liste de contacts d'urgence et une carte d'urgence avec des informations sur les maladies, les allergies, les aides techniques et votre manière de communiquer.
+Complétez la liste de base avec ce qui est essentiel pour vous, par exemple des médicaments ou des aides techniques (Centre de crise). Pensez à d'autres moyens de communiquer avec les autres, même si vous n'avez ni téléphone ni internet (Centre de crise). Le BBK cite des piles, des batteries et des chargeurs de réserve pour les aides techniques, les aides à la mobilité, un plan de médication et une réserve de médicaments, de la nourriture et de l'eau pour un animal d'assistance, une liste de contacts d'urgence et une carte d'urgence avec des informations sur les maladies, les allergies, les aides techniques et votre manière de communiquer.
 
 Selon le handicap, d'après Ready.gov :
 
@@ -289,7 +291,7 @@ Source : [Centre de crise National : Un kit d'urgence chez vous](https://centred
 ## Liste de contrôle du sac d'évacuation
 
 - [ ] Copie de la carte d'identité, du permis de conduire, des assurances.
-- [ ] Plan d'urgence ou liste des numéros de téléphone sur papier.
+- [ ] Plan d'urgence ou liste des numéros de téléphone et des adresses sur papier, avec le lieu de rendez-vous convenu.
 - [ ] Stylo et papier.
 - [ ] Argent liquide pour environ 72 heures, en petites coupures.
 - [ ] Environ un litre d'eau par personne.

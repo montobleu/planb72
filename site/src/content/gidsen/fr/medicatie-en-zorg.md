@@ -2,9 +2,9 @@
 titel: "Médicaments et soins en situation d'urgence"
 module: gezondheid
 volgorde: 2
-kort: "Comment constituer une réserve de vos médicaments habituels, que faire de l'insuline et des autres médicaments sensibles à la chaleur sans électricité, oxygène à domicile et dialyse, où vous adresser si vos médicaments viennent à manquer, et comment prendre soin des personnes dépendantes de soins. Sans posologies."
+kort: "Comment constituer une réserve de vos médicaments habituels, que faire de l'insuline et des autres médicaments sensibles à la chaleur sans électricité, oxygène à domicile et dialyse, ce que vous convenez à l'avance pour le cas où vous ne pourriez pas appeler votre soignant, où vous adresser si vos médicaments viennent à manquer, et comment prendre soin des personnes dépendantes de soins. Sans posologies."
 status: concept
-datum: "2026-11-17"
+datum: "2026-11-18"
 bronnen:
   - naam: "Centre de crise National : Un kit d'urgence chez vous"
     url: "https://centredecrise.be/fr/que-pouvez-vous-faire/preparez-un-kit-durgence/un-kit-durgence-la-maison"
@@ -40,8 +40,16 @@ bronnen:
     url: "https://www.ready.gov/kit"
   - naam: "OMS, War Trauma Foundation et World Vision International : Psychological first aid, guide for field workers (2011)"
     url: "https://psychiatry.uw.edu/wp-content/uploads/2020/04/1.-WHO_PFA_2011.pdf"
+  - naam: "SPF Économie : questions des ménages sur la pénurie d'électricité"
+    url: "https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door"
+  - naam: "Centre de crise National : un plan à la maison"
+    url: "https://centredecrise.be/fr/que-pouvez-vous-faire/faites-un-plan/un-plan-la-maison"
+  - naam: "Centre de crise National : un plan dans votre quartier ou association"
+    url: "https://centredecrise.be/fr/que-pouvez-vous-faire/faites-un-plan/un-plan-dans-votre-quartier-ou-votre-association"
+  - naam: "112.be : Questions fréquentes"
+    url: "https://112.be/fr/questions-frequentes"
 vertaling: machine
-origineel_datum: "2026-11-17"
+origineel_datum: "2026-11-18"
 ---
 
 Le Centre de crise demande explicitement de tenir compte des médicaments que vous prenez chaque jour quand vous composez votre kit d'urgence. Le BBK explique pourquoi : en cas de crise, les services d'ambulance, les hôpitaux et les pharmacies peuvent être temporairement indisponibles. Ce guide traite de vos propres médicaments et aides techniques, et des soins aux personnes qui dépendent d'autres personnes ou d'appareils électriques.
@@ -186,12 +194,14 @@ Source : [FDA: Safe Drug Use After a Natural Disaster](https://www.fda.gov/drugs
 - Gardez une réserve d'oxygène (Ready.gov).
 - Faites une liste avec le type et le numéro de série de vos appareils médicaux, avec les éventuelles instructions d'utilisation (Ready.gov).
 - Achetez une batterie supplémentaire pour les appareils à batterie et gardez-la chargée (Ready.gov).
+- N'attendez pas une coupure de courant. Vérifiez combien de temps dure la batterie interne entièrement chargée de votre appareil. Si c'est moins longtemps que la coupure peut durer, vous avez besoin d'un accueil ailleurs : examinez ces possibilités à l'avance (SPF Économie).
+- Si vous utilisez un appareil par intermittence, comme pour la dialyse à domicile, veillez à ce qu'il ne soit pas branché au moment d'un délestage annoncé (SPF Économie).
 
 **Ce que dit le BBK sur les soins à domicile.** Lors d'une panne de courant, des appareils de soins à domicile qui peuvent être vitaux, comme les respirateurs, peuvent tomber en panne. Des services comme la téléassistance et les repas à domicile peuvent être perturbés ou interrompus. Si vous utilisez de tels services, demandez s'ils continuent et comment lors d'une panne de courant prolongée.
 
-Voir aussi le guide sur l'éclairage et l'énergie pour les piles, les batteries externes et les groupes électrogènes.
+Voir aussi le guide sur l'éclairage et l'énergie pour les piles, les batteries externes et les groupes électrogènes, et ci-dessous ce que vous faites si vous ne pouvez pas appeler votre soignant.
 
-Source : [Centre de crise National : Un plan pour les personnes qui ont besoin d'une aide supplémentaire](https://centredecrise.be/fr/que-pouvez-vous-faire/faites-un-plan/un-plan-pour-ceux-qui-ont-besoin-dune-aide-supplementaire) · [Ready.gov: People with Disabilities](https://www.ready.gov/disability) · [Ready.gov: Power Outages](https://www.ready.gov/power-outages) · [BBK: Stromausfall, Vorsorge und Selbsthilfe](https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/Buergerinformationen/stromausfall-vorsorge-selbsthilfe.pdf?__blob=publicationFile&v=17)
+Source : [Centre de crise National : Un plan pour les personnes qui ont besoin d'une aide supplémentaire](https://centredecrise.be/fr/que-pouvez-vous-faire/faites-un-plan/un-plan-pour-ceux-qui-ont-besoin-dune-aide-supplementaire) · [SPF Économie : questions des ménages sur la pénurie d'électricité](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door) · [Ready.gov: People with Disabilities](https://www.ready.gov/disability) · [Ready.gov: Power Outages](https://www.ready.gov/power-outages) · [BBK: Stromausfall, Vorsorge und Selbsthilfe](https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/Buergerinformationen/stromausfall-vorsorge-selbsthilfe.pdf?__blob=publicationFile&v=17)
 
 ## Dialyse et autres traitements en centre
 
@@ -203,6 +213,39 @@ Les sources belges consultées ne donnent pas de directives séparées pour la d
 
 Source : [Ready.gov: People with Disabilities](https://www.ready.gov/disability) · [Ready.gov: Older Adults](https://www.ready.gov/older-adults)
 
+## Si vous ne pouvez pas appeler votre soignant
+
+Lors d'une coupure de courant, les antennes GSM tiennent une à deux heures, l'internet mobile tombe vite et la plupart des lignes fixes ne fonctionnent plus (SPF Économie). La téléassistance peut aussi tomber en panne (BBK). Les personnes qui dépendent de l'oxygène, de la dialyse, de la ventilation à domicile ou d'un autre appareil règlent donc à l'avance ce qui se passe si personne n'est joignable.
+
+**Convenir à l'avance**
+
+- Discutez avec vos soignants de ce que vous faites en cas de panne de votre appareil (Centre de crise). Convenez aussi de la façon de vous joindre en cas d'urgence et pensez à des alternatives si vous n'avez ni téléphone ni internet (Centre de crise).
+- Si vous faites appel à des soins à domicile ou à la téléassistance, demandez si ces services continuent et comment lors d'une longue panne de courant (BBK).
+- Si vous recevez un traitement dans une clinique ou un hôpital, renseignez-vous sur leur plan d'urgence et cherchez ensemble une adresse de réserve (Ready.gov). Connaissez l'emplacement de plus d'un endroit qui peut vous aider (Ready.gov).
+- Vérifiez combien de temps dure la batterie de votre appareil et où vous pourriez être accueilli autrement (SPF Économie).
+- Demandez à votre commune quelles solutions elle prévoit lors d'une coupure de courant, par exemple un point d'information et d'accueil pour la population (SPF Économie). En Allemagne, le BBK conseille de demander à la commune où vous pouvez signaler une urgence si le réseau téléphonique tombe en panne.
+- Convenez avec vos voisins de la façon de vous joindre sans téléphone ni internet, et de qui a besoin d'une aide supplémentaire (Centre de crise, plan dans votre quartier).
+- Veillez à ce qu'au moins une personne de votre réseau de soutien ait une clé, sache où se trouve votre réserve et sache comment utiliser vos appareils vitaux (Ready.gov). Voir ci-dessous sous personnes dépendantes de soins.
+
+**Sur papier**
+
+- Une liste avec le nom, l'adresse et le numéro de téléphone de vos soignants et de vos personnes de contact. Ainsi, vous vous retrouvez, même si votre GSM est vide (Centre de crise).
+- Une liste des structures médicales et des hôpitaux les plus proches et du transport adapté (Ready.gov).
+- Le type et le numéro de série de vos appareils, avec les instructions d'utilisation (Ready.gov), et votre liste de médicaments.
+- Conservez votre liste de contacts dans un emballage étanche avec votre kit d'urgence (Ready.gov).
+
+**Le moment venu, si l'appel ne passe pas**
+
+1. Suivez les accords que vous avez pris à l'avance.
+2. Demandez de l'aide dans votre quartier (SPF Économie), auprès des voisins, de la famille et des personnes de votre réseau de soutien (Ready.gov). Le BBK conseille d'aller parler à vos voisins : peut-être ont-ils besoin d'aide ou peuvent-ils vous aider.
+3. Suivez les informations des autorités via une radio à piles ou l'autoradio (SPF Économie). La commune peut ouvrir un point d'information et d'accueil pour la population (SPF Économie).
+4. Si la batterie d'un appareil vital dure moins longtemps que la coupure, vous avez besoin d'un accueil ailleurs (SPF Économie). Rendez-vous à l'endroit convenu à l'avance.
+5. En cas de danger de mort : appelez le 112 ou faites appeler quelqu'un. Si cela ne fonctionne pas, voir Numéros d'urgence dans l'application, Si l'appel ne passe pas. La carte de l'application (bouton Le plus proche) montre les hôpitaux, les pompiers, la police et les maisons communales.
+
+À savoir : les hôpitaux généraux et psychiatriques font partie des utilisateurs prioritaires. Lors d'un délestage, ils ne sont en principe pas délestés, ou ils sont réalimentés en priorité. Les maisons de repos et les centres de soins n'en font pas partie (SPF Économie). En Allemagne, le BBK conseille, si les numéros d'urgence ne fonctionnent pas, de vous rendre si possible en cas d'urgence au commissariat de police ou à l'hôpital le plus proche.
+
+Source : [SPF Économie : questions des ménages sur la pénurie d'électricité](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door) · [Centre de crise National : Un plan pour les personnes qui ont besoin d'une aide supplémentaire](https://centredecrise.be/fr/que-pouvez-vous-faire/faites-un-plan/un-plan-pour-ceux-qui-ont-besoin-dune-aide-supplementaire) · [Centre de crise National : un plan à la maison](https://centredecrise.be/fr/que-pouvez-vous-faire/faites-un-plan/un-plan-la-maison) · [Centre de crise National : un plan dans votre quartier ou association](https://centredecrise.be/fr/que-pouvez-vous-faire/faites-un-plan/un-plan-dans-votre-quartier-ou-votre-association) · [112.be : Questions fréquentes](https://112.be/fr/questions-frequentes) · [BBK: Stromausfall, Vorsorge und Selbsthilfe](https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/Buergerinformationen/stromausfall-vorsorge-selbsthilfe.pdf?__blob=publicationFile&v=17) · [BBK: Vorsorgen für Krisen und Katastrophen](https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/Buergerinformationen/Ratgeber/BBK-Vorsorgen-fuer-Krisen-und-Katastrophen.pdf?__blob=publicationFile&v=44) · [Ready.gov: People with Disabilities](https://www.ready.gov/disability) · [Ready.gov: Older Adults](https://www.ready.gov/older-adults)
+
 ## Si vos médicaments viennent à manquer
 
 **Fonctionnement normal : la pharmacie de garde.** En dehors des heures d'ouverture, vous trouvez toujours en Belgique une pharmacie de garde à proximité (APB, apotheek.be) :
@@ -213,20 +256,20 @@ Source : [Ready.gov: People with Disabilities](https://www.ready.gov/disability)
 | Samedi | de 13h00 au lendemain matin 9h00 |
 | Dimanches et jours fériés | de 9h00 au lendemain matin 9h00 |
 
-- Cherchez la pharmacie de garde sur apotheek.be. Dans certaines régions, après 22h00, vous devez appeler un numéro de téléphone gratuit pour savoir quelle pharmacie est de garde.
-- **Sans internet.** Chaque pharmacie affiche une liste de garde avec le nom, l'adresse et le numéro de téléphone des pharmacies de garde à proximité. Vous pouvez la lire de l'extérieur.
+- **Sans internet.** Chaque pharmacie affiche une liste de garde avec le nom, l'adresse et le numéro de téléphone des pharmacies de garde à proximité. Vous pouvez la lire de l'extérieur. Rendez-vous donc d'abord à la pharmacie la plus proche.
+- **Si le réseau fonctionne.** Cherchez alors aussi la pharmacie de garde sur apotheek.be. Dans certaines régions, après 22h00, vous devez appeler un numéro de téléphone gratuit pour savoir quelle pharmacie est de garde.
 - La nuit, beaucoup de pharmaciens servent par un guichet de garde.
 - Avec une ordonnance, le pharmacien ne peut pas facturer d'honoraires de garde ; sans ordonnance, il peut demander un supplément raisonnable, affiché de manière visible.
 
-**Le médecin généraliste de garde** est joignable au 1733 (Centre de crise).
+**Le médecin généraliste de garde** est joignable au 1733 (Centre de crise), si le réseau fonctionne. Notez le numéro à l'avance sur votre liste papier.
 
 **En cas de pénurie de médicaments** (Centre de crise)
 
-- Inscrivez-vous à Farmastatus (PharmaStatus) pour recevoir automatiquement des e-mails quand la disponibilité d'un médicament change.
-- Demandez conseil à votre médecin généraliste ou à votre pharmacien sur votre traitement. Lisez ce que vous pouvez faire vous-même sur farmainfo.be.
+- Demandez conseil à votre médecin généraliste ou à votre pharmacien sur votre traitement.
+- En préparation, tant qu'internet fonctionne : inscrivez-vous à Farmastatus (PharmaStatus) pour recevoir automatiquement des e-mails quand la disponibilité d'un médicament change, et lisez ce que vous pouvez faire vous-même sur farmainfo.be.
 - L'Agence fédérale des médicaments et des produits de santé (AFMPS) veille à l'approvisionnement ; les fabricants doivent signaler les indisponibilités.
 
-**Si les soins sont temporairement inaccessibles.** Le BBK écrit : si les numéros d'urgence ne fonctionnent plus, rendez-vous si possible en cas d'urgence au commissariat de police ou à l'hôpital le plus proche. L'OMS cite les soins des affections chroniques parmi les choses dont les gens ont souvent besoin après une catastrophe (voir le guide sur l'évacuation).
+**Si les soins sont temporairement inaccessibles.** Voir la section Si vous ne pouvez pas appeler votre soignant. En Allemagne, le BBK écrit : si les numéros d'urgence ne fonctionnent plus, rendez-vous si possible en cas d'urgence au commissariat de police ou à l'hôpital le plus proche. L'OMS cite les soins des affections chroniques parmi les choses dont les gens ont souvent besoin après une catastrophe (voir le guide sur l'évacuation).
 
 **Concertation.** Pour l'insuline, la FDA dit explicitement que le passage à un autre produit ne se fait que sous la surveillance d'un médecin.
 
@@ -252,7 +295,7 @@ Source : [BBK: Vorsorgen für Krisen und Katastrophen](https://www.bbk.bund.de/S
 
 - Préparez-vous à soigner vous-même pendant un certain temps, si nécessaire, les membres de la famille dépendants (BBK).
 - Construisez un réseau de soutien de famille, d'amis et d'autres personnes qui peuvent aider. Veillez à ce qu'au moins une personne ait une clé du logement, sache où se trouve la réserve d'urgence et sache comment utiliser les appareils vitaux ou administrer les médicaments (Ready.gov, personnes âgées).
-- Convenez de la façon de vous joindre en cas d'urgence. Des personnes de votre entourage peuvent enregistrer votre adresse dans BE-Alert (Centre de crise).
+- Convenez de la façon de vous joindre en cas d'urgence, même si le téléphone et internet ne fonctionnent pas (Centre de crise). Des personnes de votre entourage peuvent enregistrer votre adresse dans BE-Alert, pour qu'elles reçoivent aussi un message tant que le réseau fonctionne (Centre de crise).
 - Si vous recevez de l'aide de la commune ou des soins à domicile, parlez avec votre famille, vos voisins, vos assistants ou votre responsable de soins de l'aide dont vous aurez besoin, et faites un plan avec vos médicaments et vos aides techniques (MCF).
 
 **En maison de repos et de soins.** Renseignez-vous sur la planification de l'alimentation de secours ou sur un raccordement à une alimentation de secours (BBK).
@@ -272,9 +315,12 @@ Source : [BBK: Stromausfall, Vorsorge und Selbsthilfe](https://www.bbk.bund.de/S
 - [ ] Médicaments dans des boîtes étanches, rangés en hauteur.
 - [ ] Glacière et blocs réfrigérants pour les médicaments à conserver au froid.
 - [ ] Notice de votre insuline relue pour la conservation hors du réfrigérateur.
-- [ ] Plan pour chaque appareil médical électrique, discuté avec votre soignant.
+- [ ] Plan pour chaque appareil médical électrique, discuté avec votre soignant, aussi pour le cas où l'appel ne passe pas.
+- [ ] Autonomie de la batterie de chaque appareil vital connue, et un endroit où vous pouvez aller autrement.
+- [ ] Sur papier : soignants et personnes de contact avec adresse et numéro de téléphone, et les hôpitaux les plus proches.
 - [ ] Piles de rechange et chargeurs pour les aides techniques.
 - [ ] En cas de dialyse ou d'autre traitement : une deuxième adresse et le plan d'urgence du centre.
 - [ ] Savoir où trouver la pharmacie de garde, même sans internet.
+- [ ] Le numéro du médecin généraliste de garde (1733) sur votre liste papier.
 
-Source : [Centre de crise National : Un kit d'urgence chez vous](https://centredecrise.be/fr/que-pouvez-vous-faire/preparez-un-kit-durgence/un-kit-durgence-la-maison) · [FDA: Safe Drug Use After a Natural Disaster](https://www.fda.gov/drugs/emergency-preparedness-drugs/safe-drug-use-after-natural-disaster) · [Ready.gov: People with Disabilities](https://www.ready.gov/disability) · [APB, apotheek.be : pharmacie de garde](https://www.pharmacie.be/Pharmacy/Article/ce-quil-faut-savoir-sur-la-pharmacie-de-garde~1235)
+Source : [Centre de crise National : Un kit d'urgence chez vous](https://centredecrise.be/fr/que-pouvez-vous-faire/preparez-un-kit-durgence/un-kit-durgence-la-maison) · [SPF Économie : questions des ménages sur la pénurie d'électricité](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door) · [Centre de crise National : un plan à la maison](https://centredecrise.be/fr/que-pouvez-vous-faire/faites-un-plan/un-plan-la-maison) · [FDA: Safe Drug Use After a Natural Disaster](https://www.fda.gov/drugs/emergency-preparedness-drugs/safe-drug-use-after-natural-disaster) · [Ready.gov: People with Disabilities](https://www.ready.gov/disability) · [APB, apotheek.be : pharmacie de garde](https://www.pharmacie.be/Pharmacy/Article/ce-quil-faut-savoir-sur-la-pharmacie-de-garde~1235)

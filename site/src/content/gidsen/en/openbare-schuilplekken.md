@@ -4,7 +4,7 @@ module: schuilen
 volgorde: 3
 kort: "What exists in Belgium, what the possible shelters from OpenStreetMap are, how reliable they are, how to explore them and how neighbouring countries organise it."
 status: concept
-datum: "2026-11-17"
+datum: "2026-11-18"
 bronnen:
   - naam: "National Crisis Center: Sheltering"
     url: https://crisiscenter.be/en/what-can-you-do/right-reflex/seeking-shelter
@@ -12,6 +12,10 @@ bronnen:
     url: https://crisiscenter.be/en/what-can-you-do/right-reflex/evacuate
   - naam: "National Crisis Center: Fire or collapse of a tunnel"
     url: https://crisiscenter.be/en/risks-belgium/technological-risks/fire-or-collapse-tunnel
+  - naam: "112.be: Frequently asked questions"
+    url: https://112.be/en/frequently-asked-questions
+  - naam: "FPS Economy: questions from households about electricity shortage"
+    url: https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door
   - naam: "Nuclear risk: Iodine tablets for communities"
     url: https://nuclearrisk.be/en/iodine-tablets/communities
   - naam: "OpenStreetMap: copyright and licence"
@@ -53,20 +57,21 @@ bronnen:
   - naam: "National Crisis Center: brochure Prepared together"
     url: https://crisiscenter.be/sites/default/files/documents/files/WEB-Brochure%20Prepared%20Together-EN.pdf
 vertaling: machine
-origineel_datum: "2026-11-17"
+origineel_datum: "2026-11-18"
 ---
 
 ## What exists in Belgium
 
-Belgium has no network of public air-raid shelters. The sheltering page of the National Crisis Center contains no list or map of public shelters. The Belgian sheltering advice is: go inside the nearest accessible building, your own home, your workplace or another building, and stay there until the danger is over. If you are on the road, go into the nearest accessible building. If you cannot reach a safe building, for example on foot in a rural area or a nature area, call 112.
+Belgium has no network of public air-raid shelters. The sheltering page of the National Crisis Center contains no list or map of public shelters. The Belgian sheltering advice is: go inside the nearest accessible building, your own home, your workplace or another building, and stay there until the danger is over. If you are on the road, go into the nearest accessible building. If you cannot reach a safe building, for example on foot in a rural area or a nature area, call 112. If you cannot get through, have someone else call or ask for help nearby (see Emergency numbers in the app, If you cannot call). For people on the move with no building nearby, the Crisis Center also says: move further away from the emergency until you come across a safe and accessible building.
 
 What does exist in Belgium:
 
-- **Reception centres in an evacuation.** In larger emergencies, the municipality or province provides a place to receive evacuees, for example a sports hall or function hall. That is accommodation after an evacuation, not protection against an explosion.
+- **Reception centres in an evacuation.** In larger emergencies, the municipality or province provides a place to receive evacuees, for example a sports hall or function hall. On site, a contact person provides information. That is accommodation after an evacuation, not protection against an explosion.
+- **An information and reception point of the municipality.** For load shedding (a planned power cut), mayors and governors have prepared emergency measures, for example an information and reception point for the population (FPS Economy). Ask your municipal administration in advance which solutions your municipality has. The map in the app (Nearest button) shows the town halls.
 - **Emergency plans of schools and communities.** Schools, companies, hospitals, sports centres and other places where many people gather are encouraged to have an internal emergency plan and to practise it. Within the nuclear emergency planning zones, they are also asked to provide iodine tablets for staff and visitors.
 - **Let others shelter with you.** The Crisis Center explicitly asks you to let people who need a place shelter with you.
 
-Source: [National Crisis Center: Sheltering](https://crisiscenter.be/en/what-can-you-do/right-reflex/seeking-shelter) · [National Crisis Center: Evacuating](https://crisiscenter.be/en/what-can-you-do/right-reflex/evacuate) · [Nuclear risk: Iodine tablets for communities](https://nuclearrisk.be/en/iodine-tablets/communities)
+Source: [National Crisis Center: Sheltering](https://crisiscenter.be/en/what-can-you-do/right-reflex/seeking-shelter) · [National Crisis Center: Evacuating](https://crisiscenter.be/en/what-can-you-do/right-reflex/evacuate) · [Nuclear risk: Iodine tablets for communities](https://nuclearrisk.be/en/iodine-tablets/communities) · [112.be: Frequently asked questions](https://112.be/en/frequently-asked-questions) · [FPS Economy: questions from households about electricity shortage](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door)
 
 ## What the possible shelters on the map are
 

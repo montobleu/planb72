@@ -4,7 +4,7 @@ module: nucleair
 volgorde: 2
 kort: "What iodine tablets do and do not do, who in Belgium should keep them at home, where to get them, how to store them and why you only take them when instructed. Without dosages."
 status: concept
-datum: "2026-11-17"
+datum: "2026-11-18"
 bronnen:
   - naam: "Nuclear risk: Iodine tablets"
     url: https://nuclearrisk.be/en/iodine-tablets
@@ -22,6 +22,8 @@ bronnen:
     url: https://nuclearrisk.be/en/what-can-you-do/intake-stable-iodine
   - naam: "Nuclear risk: Emergency planning zones"
     url: https://nuclearrisk.be/en/what-are-authorities-doing/emergency-planning-zones
+  - naam: "Nuclear risk: Warning and protecting the population"
+    url: https://nuclearrisk.be/en/what-are-authorities-doing/warning-and-protecting-population
   - naam: "Nuclear risk: frequently asked questions"
     url: https://nuclearrisk.be/en/faq
   - naam: "National Crisis Center: Incident at a nuclear power plant"
@@ -37,7 +39,7 @@ bronnen:
   - naam: "Suomi.fi: Radiation hazards"
     url: https://www.suomi.fi/guides/preparedness/how-to-prepare-for-incidents-and-crises/radiation-hazards
 vertaling: machine
-origineel_datum: "2026-11-17"
+origineel_datum: "2026-11-18"
 ---
 
 ## About this guide
@@ -109,7 +111,7 @@ Source: [Nuclear risk: For whom](https://nuclearrisk.be/en/iodine-tablets/whom) 
 
 ## Where to get them
 
-1. Go to a pharmacy. In every municipality within the zone, all pharmacists have iodine tablets. Outside the zones, pharmacists throughout the country also have boxes.
+1. Collect them in advance as a precaution: go to a pharmacy. In every municipality within the zone, all pharmacists have iodine tablets. Outside the zones, pharmacists throughout the country also have boxes.
 2. Take your identity card with you.
 3. The pharmacist gives you one box per four people.
 4. The tablets are free.
@@ -141,11 +143,11 @@ Source: [Nuclear risk: Collecting iodine tablets from the pharmacy](https://nucl
 
 - **Why the timing matters:** iodine only works if you take it at the right moment, ideally just before or as soon as possible after a release of radioactive iodine. The authorities choose the moment at which the tablets are most effective, on the advice of experts. Finland says: taking them too early or too late reduces the protection.
 - **What the WHO says about the time window:** the best period is from less than 24 hours before to 2 hours after the expected start of exposure. Up to 8 hours afterwards is still reasonable. Later than 24 hours after exposure it no longer offers protection. In Belgium, the authorities decide when.
-- **How you hear about it:** via BE-Alert, radio, TV and the media. The recommendation may be limited to a certain zone or a certain group, for example pregnant women or young children.
+- **How you hear about it:** the authorities announce it via radio and TV. When you shelter, you are inside with windows closed: so keep a battery-powered or wind-up radio ready. Police loudspeaker vans also drive through the streets, so that you receive the information even without a landline or mobile phone. If the network works, the recommendation also comes via BE-Alert. It may be limited to a certain zone or a certain group, for example pregnant women or young children.
 - **Accident in a neighbouring country:** only take the tablets if the Belgian authorities explicitly recommend it.
 - **How long you are protected:** after taking them you remain protected for at least 24 hours. Even in a serious accident, it is very likely that taking them once is enough. Keep sheltering in the meantime.
 
-Source: [Nuclear risk: When to take them](https://nuclearrisk.be/en/iodine-tablets/when-should-you-take-them) · [Nuclear risk: frequently asked questions](https://nuclearrisk.be/en/faq) · [WHO: Use of potassium iodide](https://www.who.int/news-room/questions-and-answers/item/use-of-potassium-iodide-for-thyroid-protection-during-nuclear-or-radiological-emergencies) · [Suomi.fi: Radiation hazards](https://www.suomi.fi/guides/preparedness/how-to-prepare-for-incidents-and-crises/radiation-hazards)
+Source: [Nuclear risk: When to take them](https://nuclearrisk.be/en/iodine-tablets/when-should-you-take-them) · [Nuclear risk: frequently asked questions](https://nuclearrisk.be/en/faq) · [Nuclear risk: Warning and protecting the population](https://nuclearrisk.be/en/what-are-authorities-doing/warning-and-protecting-population) · [WHO: Use of potassium iodide](https://www.who.int/news-room/questions-and-answers/item/use-of-potassium-iodide-for-thyroid-protection-during-nuclear-or-radiological-emergencies) · [Suomi.fi: Radiation hazards](https://www.suomi.fi/guides/preparedness/how-to-prepare-for-incidents-and-crises/radiation-hazards) · [National Crisis Center: brochure Prepared together](https://crisiscenter.be/sites/default/files/documents/files/WEB-Brochure%20Prepared%20Together-EN.pdf)
 
 ## How to take them
 
@@ -166,7 +168,7 @@ Source: [Nuclear risk: frequently asked questions](https://nuclearrisk.be/en/faq
 
 ## Side effects and who had better not take them
 
-- Iodine tablets have low toxicity. If a child takes several, do what you would do with any medicine: consult your doctor or pharmacist or call the Poison Centre (070 245 245).
+- Iodine tablets have low toxicity. If a child takes several, do what you would do with any medicine: consult your doctor or pharmacist, or call the Poison Centre (070 245 245) if the network works.
 - Side effects are usually temporary and harmless, such as vomiting or a bad taste. In exceptional cases there are hypersensitivity reactions: red skin, fluid retention, pain in the neck, watering eyes, cold symptoms, swollen salivary glands, fever. These normally disappear by themselves. Do not take iodine again. If the problem persists or the condition worsens, contact your doctor.
 - The small risk of hypersensitivity is not a reason not to take the tablets.
 - A small minority had better not take them: people who are allergic to iodine, people with a rare skin disease and people who have or have had thyroid problems. The package leaflet gives the full list. If in doubt, talk to your GP or specialist now.
@@ -179,7 +181,8 @@ Source: [Nuclear risk: frequently asked questions](https://nuclearrisk.be/en/faq
 ## If you have no tablets
 
 - **Stay indoors.** Sheltering offers the fastest and most effective protection.
-- The authorities use the time between the first signs of a problem and the release to issue warnings, distribute stocks and, if necessary, ask the population to collect tablets from the pharmacy. Listen to the recommendations.
+- The authorities use the time between the first signs of a problem and the release to issue warnings, distribute stocks and, if necessary, ask the population to collect tablets from the pharmacy. Listen to the recommendations on the radio.
+- If you have no tablets, you can also get them from the emergency services: there are stocks throughout the country, and in an accident the emergency services can distribute them to the population at risk.
 - If at the time of the accident you are at a football match, in a cinema, shop or petrol station: institutions in the zones are asked to keep tablets and distribute them when the authorities recommend it. The Civil Protection also has a stock that it can hand out.
 - Finland says: do not go to the pharmacy to collect tablets if a recommendation to take them has already been issued.
 
@@ -207,7 +210,7 @@ Source: [WHO: Use of potassium iodide](https://www.who.int/news-room/questions-a
 2. Keep them in the original packaging in a fixed place.
 3. Read the package leaflet now and discuss any doubts with your GP.
 4. In an accident: go indoors first and stay indoors.
-5. Only take the tablets if the Belgian authorities say so, at the moment they say.
+5. Only take the tablets if the Belgian authorities say so, at the moment they say. You will hear it on the radio, via police loudspeaker vans or, if the network works, via BE-Alert.
 6. After that, stay indoors until the authorities say it is safe.
 
-Source: [Nuclear risk: Iodine tablets](https://nuclearrisk.be/en/iodine-tablets) · [Nuclear risk: When to take them](https://nuclearrisk.be/en/iodine-tablets/when-should-you-take-them) · [National Crisis Center: Incident at a nuclear power plant](https://crisiscenter.be/en/risks-belgium/technological-risks/nuclear-plant-incident)
+Source: [Nuclear risk: Iodine tablets](https://nuclearrisk.be/en/iodine-tablets) · [Nuclear risk: When to take them](https://nuclearrisk.be/en/iodine-tablets/when-should-you-take-them) · [Nuclear risk: frequently asked questions](https://nuclearrisk.be/en/faq) · [Nuclear risk: Warning and protecting the population](https://nuclearrisk.be/en/what-are-authorities-doing/warning-and-protecting-population) · [National Crisis Center: Incident at a nuclear power plant](https://crisiscenter.be/en/risks-belgium/technological-risks/nuclear-plant-incident)

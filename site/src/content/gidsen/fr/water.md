@@ -4,7 +4,7 @@ module: water
 volgorde: 1
 kort: "Combien d'eau il vous faut, comment la conserver, où trouver encore de l'eau dans et autour de la maison et comment la rendre sûre, avec chaque méthode étape par étape."
 status: concept
-datum: "2026-11-17"
+datum: "2026-11-18"
 bronnen:
   - naam: "Centre de crise National : Un kit d'urgence chez vous"
     url: "https://centredecrise.be/fr/que-pouvez-vous-faire/preparez-un-kit-durgence/un-kit-durgence-la-maison"
@@ -42,8 +42,10 @@ bronnen:
     url: "https://centredecrise.be/fr/que-pouvez-vous-faire/preparez-un-kit-durgence/un-kit-durgence-en-dehors-de-la-maison"
   - naam: "BZL Ernährungsvorsorge: Vorratskalkulator"
     url: "https://www.ernaehrungsvorsorge.de/private-vorsorge/notvorrat/vorratskalkulator"
+  - naam: "Centre de crise National : l'information pendant une situation d'urgence"
+    url: "https://centredecrise.be/fr/que-pouvez-vous-faire/informez-vous/linformation-pendant-une-situation-durgence"
 vertaling: machine
-origineel_datum: "2026-11-17"
+origineel_datum: "2026-11-18"
 ---
 
 L'eau est plus importante que la nourriture. Sans eau du robinet, vous ne pouvez ni boire, ni cuisiner, ni vous laver les mains, ni tirer la chasse d'eau. Ce guide suit l'ordre dans lequel vous en avez besoin : d'abord savoir combien, ensuite stocker, puis trouver de l'eau quand la réserve est épuisée, et seulement en dernier lieu rendre l'eau sûre vous-même.
@@ -178,9 +180,9 @@ L'eau peut être très chaude. Portez des gants et des lunettes de protection.
 
 - **Eau de pluie.** Les sources divergent sur ce point. La FEMA dit : n'utilisez pas l'eau de pluie récupérée pour boire. Le Waterschap Zuiderzeeland néerlandais dit que les animaux de compagnie qui sortent peuvent boire de l'eau de pluie, mais que vous ne devez pas en boire vous-même parce qu'elle n'est pas assez propre. Le Consortium range l'eau de pluie parmi les sources que vous n'utilisez qu'après traitement ou filtration. Le Centre de crise conseille de récupérer l'eau de pluie pour le jardin, afin d'économiser l'eau potable. Utilisez donc l'eau de pluie en premier lieu pour vous laver, nettoyer et tirer la chasse d'eau.
 - **Ruisseaux, rivières, étangs, lacs, sources.** Seulement après traitement ou filtration (Consortium). Le Waterschap Zuiderzeeland conseille d'éviter le contact avec l'eau des fossés et des canaux en cas de panne de courant prolongée, parce que les eaux usées sont alors moins bien épurées.
-- **Eau fournie par les autorités.** Le Centre de crise écrit qu'en cas de pénurie, un bourgmestre, un gouverneur ou un ministre peut faire distribuer de l'eau en bouteille. Le MCF dit que les communes peuvent installer des citernes d'eau. Il vous faut pour cela vos propres récipients propres.
+- **Eau fournie par les autorités.** Le Centre de crise écrit qu'en cas de pénurie, un bourgmestre, un gouverneur ou un ministre peut faire distribuer de l'eau en bouteille. Le MCF dit que les communes peuvent installer des citernes d'eau. Il vous faut pour cela vos propres récipients propres. Où et quand l'eau est distribuée, vous l'apprenez par la radio et les autres canaux des autorités, comme les véhicules de police avec haut-parleur, les panneaux d'information, les dépliants ou le porte-à-porte (Centre de crise).
 
-Source : [FEMA: emergency water sources](https://fema.gov/node/what-are-emergency-water-sources-if-im-running-out-clean-water) · [Regional Water Providers Consortium: Emergency Water Sources](https://regionalh2o.org/node/39) · [CDC: How to Make Water Safe in an Emergency](https://www.cdc.gov/water-emergency/about/index.html) · [Waterschap Zuiderzeeland : dépliant](https://bijlagen.nos.nl/artikel-24778431/260226_digitaal_toegankelijke_versie_folder_noodsituatie_Waterschap_Zuiderzeeland.pdf) · [Centre de crise National : Perturbation de l'eau potable](https://centredecrise.be/fr/risques-en-belgique/risques-societaux/defaillance-de-lapprovisionnement-en-eau-potable) · [MCF : In case of crisis or war](https://rib.msb.se/filer/pdf/31523.pdf)
+Source : [FEMA: emergency water sources](https://fema.gov/node/what-are-emergency-water-sources-if-im-running-out-clean-water) · [Regional Water Providers Consortium: Emergency Water Sources](https://regionalh2o.org/node/39) · [CDC: How to Make Water Safe in an Emergency](https://www.cdc.gov/water-emergency/about/index.html) · [Waterschap Zuiderzeeland : dépliant](https://bijlagen.nos.nl/artikel-24778431/260226_digitaal_toegankelijke_versie_folder_noodsituatie_Waterschap_Zuiderzeeland.pdf) · [Centre de crise National : Perturbation de l'eau potable](https://centredecrise.be/fr/risques-en-belgique/risques-societaux/defaillance-de-lapprovisionnement-en-eau-potable) · [MCF : In case of crisis or war](https://rib.msb.se/filer/pdf/31523.pdf) · [Centre de crise National : l'information pendant une situation d'urgence](https://centredecrise.be/fr/que-pouvez-vous-faire/informez-vous/linformation-pendant-une-situation-durgence) · [Centre de crise National : brochure Préparés ensemble](https://centredecrise.be/sites/default/files/documents/files/WEB-Brochure-Pr%C3%AAts.%20Ensemble-FR.pdf)
 
 ## Purifier l'eau : aperçu des méthodes
 
@@ -213,7 +215,7 @@ Source : [OMS/WEDC : Technical notes](https://wedc-knowledge.lboro.ac.uk/resourc
 
 Ready.gov considère l'ébullition comme la méthode la plus sûre. L'OMS la dit très efficace, mais elle demande beaucoup d'énergie.
 
-**Combien de temps.** Les sources divergent sur ce point. En Belgique, suivez toujours l'avis de faire bouillir l'eau de votre compagnie de distribution d'eau.
+**Combien de temps.** Les sources divergent sur ce point. En Belgique, suivez toujours l'avis de faire bouillir l'eau de votre compagnie de distribution d'eau. Suivez-le à la radio ; si le réseau fonctionne, aussi via BE-Alert et les sites officiels (Centre de crise).
 
 | Source | Durée d'ébullition |
 | --- | --- |
@@ -235,7 +237,7 @@ Ready.gov considère l'ébullition comme la méthode la plus sûre. L'OMS la dit
 
 **Si ce n'est pas possible.** Si vous n'avez ni combustible ni moyen de cuisson, passez au chlore (méthode 2).
 
-Source : [VRT NWS : avis de faire bouillir l'eau de De Watergroep](https://www.vrt.be/vrtnws/nl/2026/03/20/roeselare-vraagt-om-drinkwater-in-enkele-centrumsteden-tijdelijk/) · [RIVM : Explication de l'avis de faire bouillir l'eau potable](https://www.rivm.nl/drinkwater/toelichting-kookadvies-drinkwater) · [CDC: How to Make Water Safe in an Emergency](https://www.cdc.gov/water-emergency/about/index.html) · [Ready.gov: Water](https://www.ready.gov/water) · [OMS/WEDC : Technical notes](https://wedc-knowledge.lboro.ac.uk/resources/who_notes/WHO_TNE_ALL.pdf)
+Source : [VRT NWS : avis de faire bouillir l'eau de De Watergroep](https://www.vrt.be/vrtnws/nl/2026/03/20/roeselare-vraagt-om-drinkwater-in-enkele-centrumsteden-tijdelijk/) · [RIVM : Explication de l'avis de faire bouillir l'eau potable](https://www.rivm.nl/drinkwater/toelichting-kookadvies-drinkwater) · [CDC: How to Make Water Safe in an Emergency](https://www.cdc.gov/water-emergency/about/index.html) · [Ready.gov: Water](https://www.ready.gov/water) · [OMS/WEDC : Technical notes](https://wedc-knowledge.lboro.ac.uk/resources/who_notes/WHO_TNE_ALL.pdf) · [Centre de crise National : l'information pendant une situation d'urgence](https://centredecrise.be/fr/que-pouvez-vous-faire/informez-vous/linformation-pendant-une-situation-durgence)
 
 ## Méthode 2 : le chlore de l'eau de Javel ménagère
 
@@ -349,14 +351,14 @@ Source : [Ready.gov: Water](https://www.ready.gov/water)
 
 ## Ce qui n'aide pas contre la pollution chimique
 
-- Le CDC : l'eau contenant du carburant, des produits chimiques toxiques ou des substances radioactives ne devient pas sûre en la faisant bouillir ou en la désinfectant. Utilisez de l'eau en bouteille ou une autre source et contactez le service de santé.
+- Le CDC : l'eau contenant du carburant, des produits chimiques toxiques ou des substances radioactives ne devient pas sûre en la faisant bouillir ou en la désinfectant. Utilisez de l'eau en bouteille ou une autre source et, si le réseau fonctionne, contactez le service de santé.
 - L'OMS : les méthodes domestiques éliminent la pollution physique et microbiologique, pas la pollution chimique.
 - Le Regional Water Providers Consortium : l'eau dont vous savez ou soupçonnez qu'elle contient du carburant, des métaux lourds ou des substances toxiques est dangereuse à boire, même après traitement ou filtration.
 - Ready.gov : seule la distillation élimine la plupart des substances chimiques (voir la méthode 7).
 
-En cas d'accident impliquant des matières dangereuses ou d'incident nucléaire, suivez les instructions des autorités sur l'utilisation de l'eau du robinet. Voir les fiches de scénario et les guides sur la mise à l'abri et les situations d'urgence nucléaire.
+En cas d'accident impliquant des matières dangereuses ou d'incident nucléaire, suivez les instructions des autorités sur l'utilisation de l'eau du robinet. Elles passent notamment par la radio, la télévision et les véhicules de police avec haut-parleur (Centre de crise). Voir les fiches de scénario et les guides sur la mise à l'abri et les situations d'urgence nucléaire.
 
-Source : [CDC: How to Make Water Safe in an Emergency](https://www.cdc.gov/water-emergency/about/index.html) · [OMS/WEDC : Technical notes](https://wedc-knowledge.lboro.ac.uk/resources/who_notes/WHO_TNE_ALL.pdf) · [Regional Water Providers Consortium: Emergency Water Sources](https://regionalh2o.org/node/39) · [Ready.gov: Water](https://www.ready.gov/water)
+Source : [CDC: How to Make Water Safe in an Emergency](https://www.cdc.gov/water-emergency/about/index.html) · [OMS/WEDC : Technical notes](https://wedc-knowledge.lboro.ac.uk/resources/who_notes/WHO_TNE_ALL.pdf) · [Regional Water Providers Consortium: Emergency Water Sources](https://regionalh2o.org/node/39) · [Ready.gov: Water](https://www.ready.gov/water) · [Centre de crise National : l'information pendant une situation d'urgence](https://centredecrise.be/fr/que-pouvez-vous-faire/informez-vous/linformation-pendant-une-situation-durgence)
 
 ## Après l'interruption
 
@@ -365,11 +367,11 @@ Le Centre de crise :
 - Si de l'eau brune ou trouble sort du robinet, laissez-la couler quelques minutes.
 - S'il sort peu d'eau du robinet, la pression doit encore se rétablir. Elle augmente lentement.
 - Restez économe en eau. Ne la gaspillez pas.
-- Après une inondation : écoutez les recommandations des autorités sur l'utilisation de l'eau de distribution.
+- Après une inondation : écoutez les recommandations des autorités sur l'utilisation de l'eau de distribution, par exemple via une radio à piles.
 
 Le RIVM : un avis de faire bouillir l'eau reste valable jusqu'à ce que des contrôles montrent que l'eau n'est plus polluée.
 
-Source : [Centre de crise National : Perturbation de l'eau potable](https://centredecrise.be/fr/risques-en-belgique/risques-societaux/defaillance-de-lapprovisionnement-en-eau-potable) · [RIVM : Explication de l'avis de faire bouillir l'eau potable](https://www.rivm.nl/drinkwater/toelichting-kookadvies-drinkwater)
+Source : [Centre de crise National : Perturbation de l'eau potable](https://centredecrise.be/fr/risques-en-belgique/risques-societaux/defaillance-de-lapprovisionnement-en-eau-potable) · [RIVM : Explication de l'avis de faire bouillir l'eau potable](https://www.rivm.nl/drinkwater/toelichting-kookadvies-drinkwater) · [Centre de crise National : l'information pendant une situation d'urgence](https://centredecrise.be/fr/que-pouvez-vous-faire/informez-vous/linformation-pendant-une-situation-durgence)
 
 ## Par personne et par situation
 

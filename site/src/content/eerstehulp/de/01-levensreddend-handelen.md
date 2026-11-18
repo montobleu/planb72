@@ -1,9 +1,9 @@
 ---
 titel: Lebensrettende Maßnahmen
 volgorde: 1
-kort: "Die vier Schritte des Roten Kreuzes: Sicherheit, Zustand beurteilen, 112 anrufen, weitere Erste Hilfe."
+kort: "Die vier Schritte des Roten Kreuzes: Sicherheit, Zustand beurteilen, Hilfe alarmieren (112 oder jemanden schicken), weitere Erste Hilfe."
 status: concept
-datum: "2026-11-17"
+datum: "2026-11-18"
 bronnen:
   - naam: "Rode Kruis-Vlaanderen: Plakat Vier Schritte der Ersten Hilfe (Mai 2026)"
     url: https://www.rodekruis.be/storage/main/2026-affiche-vier-stappen-in-eerste-hulp.pdf
@@ -19,8 +19,22 @@ bronnen:
     url: https://ready.gov/sites/default/files/2020-07/until-help-arrives-instructor-guide.pdf
   - naam: "112.be: Notrufnummern"
     url: https://112.be/de
+  - naam: "Gezondheid en Wetenschap (Rode Kruis-Vlaanderen): Wie führt man eine Wiederbelebung durch?"
+    url: https://www.gezondheidenwetenschap.be/eerste-hulp/hoe-moet-je-reanimeren
+  - naam: "European Resuscitation Council Guidelines 2021: First aid"
+    url: https://cprguidelines-old.erc.edu/assets/guidelines/European-Resuscitation-Council-Guidelines-2021-Fi.pdf
+  - naam: "112.be: Häufig gestellte Fragen"
+    url: https://112.be/de/haeufig-gestellte-fragen
+  - naam: "112.be: Wie rufe ich die 112 an?"
+    url: https://112.be/de/how-call/wie-rufe-ich-die-112
+  - naam: "FÖD Wirtschaft: Fragen von Haushalten zur Stromknappheit"
+    url: https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door
+  - naam: "BBK: Vorsorgen für Krisen und Katastrophen"
+    url: https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/Buergerinformationen/Ratgeber/BBK-Vorsorgen-fuer-Krisen-und-Katastrophen.pdf?__blob=publicationFile&v=44
+  - naam: "Niederländische Aufsichtsbehörden: Nichterreichbarkeit der 112 am 24. Juni 2019"
+    url: https://zoek.officielebekendmakingen.nl/blg-942150.pdf
 vertaling: machine
-origineel_datum: "2026-11-17"
+origineel_datum: "2026-11-18"
 ---
 
 ## Erkennen
@@ -59,16 +73,16 @@ Quelle: [Rode Kruis-Vlaanderen: Vier Schritte der Ersten Hilfe](https://www.rode
 4. Nähern Sie sich, wenn möglich, von der Seite, in die die Person blickt. So erschrickt sie nicht und bewegt sich nicht unnötig.
 5. Prüfen Sie das Bewusstsein. Rütteln Sie sanft an beiden Schultern und fragen Sie laut: "Ist alles in Ordnung?" Bei einem Säugling klopfen Sie auf die Fußsohle oder nehmen den Säugling hoch.
 6. Reagiert die Person, lassen Sie sie in der Lage liegen, in der Sie sie gefunden haben, solange sie nicht in Gefahr ist. Sprechen Sie ruhig. Fragen Sie, was passiert ist, was sie spürt, ob sie schwere Allergien hat und welche Krankheiten sie hat. Bitten Sie um Erlaubnis, bevor Sie sie untersuchen.
-7. Reagiert die Person nicht, rufen Sie laut um Hilfe. Bestimmen Sie jemanden, der hilft. Drehen Sie die Person auf den Rücken.
+7. Reagiert die Person nicht, rufen Sie laut um Hilfe, auch wenn Sie allein sind. Bestimmen Sie jemanden und bitten Sie diese Person direkt, zu helfen. Drehen Sie die Person auf den Rücken.
 8. Machen Sie die Atemwege frei. Knien Sie sich neben den Brustkorb. Legen Sie eine Hand auf die Stirn und neigen Sie den Kopf vorsichtig nach hinten. Legen Sie zwei Fingerspitzen der anderen Hand unter die Kinnspitze. Drücken Sie nicht auf den weichen Teil unter dem Kinn. Heben Sie das Kinn an und halten Sie es oben. Bei einem Säugling bringen Sie den Kopf in eine neutrale Position, nicht weiter nach hinten. Vermuten Sie eine Wirbelsäulenverletzung, neigen Sie den Kopf nicht nach hinten (siehe Thema 9).
 9. Prüfen Sie die Atmung. Halten Sie die Atemwege offen. Bringen Sie Ihr Ohr und Ihre Wange an Mund und Nase. Schauen Sie, ob sich der Brustkorb hebt und senkt, hören Sie auf Atemgeräusche und fühlen Sie, ob Luft kommt. Tun Sie dies nicht länger als 10 Sekunden. Zweifeln Sie, ob die Atmung normal ist, handeln Sie so, als wäre sie nicht normal.
-10. Rufen Sie 112 an oder lassen Sie jemanden anrufen und bitten Sie diese Person, Ihnen danach Bescheid zu geben, dass es geschehen ist. Sind Sie allein, schalten Sie Ihr Telefon auf Lautsprecher, damit Ihre Hände frei bleiben. Das Rote Kreuz fasst die Informationen in drei Fragen zusammen: wo, was und wer. Geben Sie bei einer bewusstlosen Person ihren Zustand, Ihren Namen und die genaue Adresse an. Beantworten Sie die Fragen der Leitstelle ruhig. Die Leitstelle hilft Ihnen bei den weiteren Schritten.
+10. Rufen Sie 112 an oder lassen Sie jemanden anrufen und bitten Sie diese Person, Ihnen danach Bescheid zu geben, dass es geschehen ist. Sind Sie allein, schalten Sie Ihr Telefon auf Lautsprecher, damit Ihre Hände frei bleiben. Das Rote Kreuz fasst die Informationen in drei Fragen zusammen: wo, was und wer. Geben Sie bei einer bewusstlosen Person ihren Zustand, Ihren Namen und die genaue Adresse an. Beantworten Sie die Fragen der Leitstelle ruhig. Funktioniert die Verbindung, hilft Ihnen die Leitstelle bei den weiteren Schritten. Kommt kein Anruf zustande, schicken Sie jemanden mit denselben Informationen um Hilfe (siehe Rufen Sie 112 an, wenn).
 11. Atmet die Person nicht normal: Beginnen Sie sofort mit der Wiederbelebung und lassen Sie einen AED holen (siehe Thema 2).
 12. Atmet die Person normal, reagiert aber nicht: Bringen Sie sie in die stabile Seitenlage, außer Sie vermuten eine Wirbelsäulenverletzung. Prüfen Sie jede Minute, ob die Atmung normal bleibt (siehe Thema 5).
 13. Leisten Sie weitere Erste Hilfe in dieser Reihenfolge: Halten Sie die Atemwege frei, stillen Sie schwere Blutungen (Thema 3), kühlen Sie Brandwunden (Thema 7), versorgen Sie große Wunden und decken Sie sie ab, versorgen Sie Verletzungen an Knochen, Muskeln und Gelenken (Thema 8) und versorgen Sie danach die weniger schweren Verletzungen.
 14. Bleiben Sie bei der betroffenen Person. Prüfen Sie regelmäßig erneut Bewusstsein und Atmung, denn der Zustand kann sich plötzlich verschlechtern. Beginnen Sie dann wieder bei Schritt 1 der vier Schritte.
 15. Geben Sie einer Person bei Bewusstsein nichts zu essen oder zu trinken. Erklären Sie, was passiert ist und was noch geschehen wird.
-16. Gibt es mehrere Betroffene: Rufen Sie zuerst 112 an, um das Ausmaß zu melden, und rufen Sie erneut an, sobald Sie mehr wissen. Helfen Sie zuerst denen, die Probleme mit der Atmung oder dem Kreislauf haben.
+16. Gibt es mehrere Betroffene: Rufen Sie zuerst 112 an, um das Ausmaß zu melden, und rufen Sie erneut an, sobald Sie mehr wissen. Können Sie nicht anrufen, zählen Sie die Betroffenen und geben Sie diese Zahl der Person mit, die Hilfe holt. Helfen Sie zuerst denen, die Probleme mit der Atmung oder dem Kreislauf haben.
 17. Waschen oder desinfizieren Sie nach der Ersten Hilfe Ihre Hände.
 
 Der ERC empfiehlt, bei jeder betroffenen Person kurz die ABCDE-Reihenfolge durchzugehen:
@@ -79,7 +93,7 @@ Der ERC empfiehlt, bei jeder betroffenen Person kurz die ABCDE-Reihenfolge durch
 - D (Bewusstsein): Ist die Person wach, reagiert sie auf Ihre Stimme, nur auf Schmerz oder gar nicht?
 - E (Untersuchung des Körpers): Untersuchen Sie den ganzen Körper auf Verletzungen. Stoppen Sie schwere Blutungen. Verhindern Sie eine Unterkühlung, indem Sie nasse Kleidung ausziehen und Decken verwenden. Bei Überhitzung: Beginnen Sie aktiv zu kühlen.
 
-Quelle: [Rode Kruis-Vlaanderen: Vier Schritte der Ersten Hilfe](https://www.rodekruis.be/storage/main/2026-affiche-vier-stappen-in-eerste-hulp.pdf) · [Jeugd Rode Kruis: ResQ](https://jeugd.rodekruis.be/storage/jrk/jrk-resq-watermerk.pdf) · [Gezondheid en Wetenschap: Bewusstlosigkeit](https://www.gezondheidenwetenschap.be/richtlijnen/bewusteloosheid) · [ERC Guidelines 2025 for Everyone](https://www.erc.edu/media/p5ymaeej/gl2025_layperson_book_ipdf-v11-e.pdf) · [IFRC Guidelines 2020](https://www.ifrc.org/sites/default/files/2022-02/EN_GFARC_GUIDELINES_2020.pdf)
+Quelle: [Rode Kruis-Vlaanderen: Vier Schritte der Ersten Hilfe](https://www.rodekruis.be/storage/main/2026-affiche-vier-stappen-in-eerste-hulp.pdf) · [Jeugd Rode Kruis: ResQ](https://jeugd.rodekruis.be/storage/jrk/jrk-resq-watermerk.pdf) · [Gezondheid en Wetenschap: Bewusstlosigkeit](https://www.gezondheidenwetenschap.be/richtlijnen/bewusteloosheid) · [Gezondheid en Wetenschap: Wie führt man eine Wiederbelebung durch?](https://www.gezondheidenwetenschap.be/eerste-hulp/hoe-moet-je-reanimeren) · [ERC Guidelines 2025 for Everyone](https://www.erc.edu/media/p5ymaeej/gl2025_layperson_book_ipdf-v11-e.pdf) · [IFRC Guidelines 2020](https://www.ifrc.org/sites/default/files/2022-02/EN_GFARC_GUIDELINES_2020.pdf)
 
 ## Wenn Hilfe lange auf sich warten lässt
 
@@ -90,10 +104,12 @@ Die IFRC beschreibt besondere Umstände, in denen medizinische Hilfe Stunden ode
 - Achten Sie in einer unbekannten oder instabilen Umgebung besonders auf Ihre eigene Sicherheit, zum Beispiel bei Nachbeben nach einem Erdbeben.
 - Bei einem schweren Unfall wird der Transport wichtig. Sorgen Sie dafür, dass die Erste Hilfe während des Transports weitergehen kann.
 - Manchmal können Sie unter Anleitung eines Arztes oder einer Pflegekraft per Telefon oder Funk weiterhelfen.
-- Müssen Sie jemanden zu Fuß oder mit dem Auto um Hilfe schicken, geben Sie dieser Person genaue Informationen mit: wo, wie viele Betroffene und in welchem Zustand. So kann der Rettungsdienst das Richtige schicken.
+- Müssen Sie jemanden zu Fuß oder mit dem Auto um Hilfe schicken, geben Sie dieser Person genaue Informationen mit: wo, wie viele Betroffene und in welchem Zustand. So kann der Rettungsdienst das Richtige schicken (siehe Rufen Sie 112 an, wenn).
+- Medizinische Hilfe kann auch von anderswo kommen als vom Krankenwagen, zum Beispiel von einem Feldlazarett, einer örtlichen Pflegekraft oder dem Roten Kreuz.
 - In abgelegenen Gebieten kann es sinnvoll sein, in Richtung des nächstgelegenen Krankenhauses zu fahren und den Krankenwagen unterwegs zu treffen.
 - Versorgen Sie die Person weiter, bis professionelle Hilfe übernimmt oder bis die Person und ihre Umgebung sich selbst helfen können. Beobachten Sie weiter Bewusstsein und Atmung und notieren Sie Veränderungen.
 - Verhindern Sie Infektionen und weitere Verletzungen.
+- Bereiten Sie sich vor: Wissen Sie, welche Rettungsdienste es in Ihrer Nähe gibt, wo sie sind und wie Sie sie erreichen. Die Karte in der App (Schaltfläche Am nächsten) zeigt Feuerwehr, Polizei, Krankenhäuser und Gemeindehäuser. Wissen Sie in einem abgelegenen Gebiet auch, wie Sie ein Hilfesignal geben (siehe den Leitfaden Signale und Notcodes).
 
 Halten Sie die betroffene Person warm, denn schwer Verletzte kühlen schnell aus und das erhöht das Sterberisiko. FEMA nennt diese Schritte:
 
@@ -104,9 +120,7 @@ Halten Sie die betroffene Person warm, denn schwer Verletzte kühlen schnell aus
 
 Bleiben Sie bei der betroffenen Person. Halten Sie eine Hand und halten Sie Blickkontakt. Müssen Sie weg, um einer anderen Person zu helfen, sagen Sie das und bitten Sie jemand anderen, zu bleiben.
 
-Ist 112 über einen normalen Anruf nicht erreichbar: 112 ist in ganz Europa kostenlos, und mit der App 112 BE können Sie die Feuerwehr, den Krankenwagen oder die Polizei mit einem Tippen auf das richtige Symbol rufen. Versuchen Sie es erneut und leisten Sie in der Zwischenzeit weiter Erste Hilfe.
-
-Quelle: [IFRC Guidelines 2020](https://www.ifrc.org/sites/default/files/2022-02/EN_GFARC_GUIDELINES_2020.pdf) · [FEMA: Until Help Arrives](https://ready.gov/sites/default/files/2020-07/until-help-arrives-instructor-guide.pdf) · [112.be](https://112.be/de)
+Quelle: [IFRC Guidelines 2020](https://www.ifrc.org/sites/default/files/2022-02/EN_GFARC_GUIDELINES_2020.pdf) · [FEMA: Until Help Arrives](https://ready.gov/sites/default/files/2020-07/until-help-arrives-instructor-guide.pdf)
 
 ## Rufen Sie 112 an, wenn
 
@@ -117,9 +131,23 @@ Quelle: [IFRC Guidelines 2020](https://www.ifrc.org/sites/default/files/2022-02/
 - eine Gefahr besteht, die Sie selbst nicht beseitigen können, zum Beispiel Brand, Gas oder Chemikalien;
 - Sie unsicher sind.
 
-112 ist die Nummer für den Krankenwagen und die Feuerwehr. Für dringende Polizeihilfe ist es die 101. Rufen Sie 112 nicht bei gewöhnlichen Sturmschäden an.
+112 ist die Nummer für den Krankenwagen und die Feuerwehr. Für dringende Polizeihilfe ist es die 101. 112 ist in ganz Europa kostenlos. Rufen Sie 112 nicht bei gewöhnlichen Sturmschäden an.
 
-Quelle: [Gezondheid en Wetenschap: Bewusstlosigkeit](https://www.gezondheidenwetenschap.be/richtlijnen/bewusteloosheid) · [IFRC Guidelines 2020](https://www.ifrc.org/sites/default/files/2022-02/EN_GFARC_GUIDELINES_2020.pdf) · [112.be](https://112.be/de)
+**Kommt kein Anruf zustande: Hilfe holen ohne Telefon**
+
+- Versuchen Sie ein anderes Gerät oder lassen Sie Nachbarn oder Umstehende anrufen. Ein anderer Netzbetreiber kann helfen. Gehen Sie einige Meter weiter oder drehen Sie sich um und versuchen Sie es erneut.
+- Können Sie noch telefonieren, ist die 112 aber nicht erreichbar, versuchen Sie die 101.
+- Funktioniert das Netz, können Sie auch die App 112 BE verwenden: Damit rufen Sie die Feuerwehr, den Krankenwagen oder die Polizei mit einem Tippen auf das richtige Symbol. Installieren Sie die App im Voraus.
+- Funktioniert Telefonieren gar nicht: Bleiben Sie bei der betroffenen Person und lassen Sie jemand anderen Hilfe holen. Lassen Sie die betroffene Person nur allein, wenn es keine andere Möglichkeit gibt.
+- Warten Sie nicht, bis jemand von selbst geht. Gehen Sie nicht davon aus, dass jemand anderes schon Hilfe holt. Sprechen Sie Umstehende direkt an und geben Sie jedem eine Aufgabe: Hilfe holen, einen AED holen, die Gefahr oder den Verkehr fernhalten oder bei der Versorgung helfen.
+- Geben Sie der Person, die Hilfe holt, genaue Informationen mit: wo es ist, was passiert ist, wie viele Betroffene es gibt und in welchem Zustand sie sind. Bitten Sie diese Person, Ihnen danach Bescheid zu geben, dass die Hilfe verständigt ist.
+- Kann diese Person von anderswo die 112 anrufen, sagt sie der Leitstelle, dass sie nicht vom Ort des Geschehens aus anruft.
+- Sind Sie allein und müssen Sie selbst weg, um Hilfe zu holen: Bringen Sie eine bewusstlose Person, die normal atmet, zuerst in die stabile Seitenlage (siehe Thema 5). Für die Wiederbelebung gilt eine eigene Regel für Erwachsene und Kinder (siehe Thema 2).
+- In Belgien sagen die Behörden: Ist Telefonieren nicht mehr möglich, bitten Sie in Ihrer Nähe um Hilfe. In Deutschland empfehlen die Behörden, sich im Notfall, wenn möglich, zur nächsten Polizeidienststelle oder zum nächsten Krankenhaus zu begeben. In den Niederlanden schickten die Behörden die Bevölkerung bei der landesweiten 112-Störung von 2019 zur nächsten Feuerwache oder Polizeidienststelle und bei medizinischen Notfällen zum Krankenhaus. Die Karte in der App (Schaltfläche Am nächsten) zeigt diese.
+- Leisten Sie in der Zwischenzeit weiter Erste Hilfe.
+- Siehe auch Notrufnummern in der App, Wenn kein Anruf möglich ist.
+
+Quelle: [Gezondheid en Wetenschap: Bewusstlosigkeit](https://www.gezondheidenwetenschap.be/richtlijnen/bewusteloosheid) · [Gezondheid en Wetenschap: Wie führt man eine Wiederbelebung durch?](https://www.gezondheidenwetenschap.be/eerste-hulp/hoe-moet-je-reanimeren) · [IFRC Guidelines 2020](https://www.ifrc.org/sites/default/files/2022-02/EN_GFARC_GUIDELINES_2020.pdf) · [ERC Guidelines 2021: First aid](https://cprguidelines-old.erc.edu/assets/guidelines/European-Resuscitation-Council-Guidelines-2021-Fi.pdf) · [FEMA: Until Help Arrives](https://ready.gov/sites/default/files/2020-07/until-help-arrives-instructor-guide.pdf) · [112.be](https://112.be/de) · [112.be: Häufig gestellte Fragen](https://112.be/de/haeufig-gestellte-fragen) · [112.be: Wie rufe ich die 112 an?](https://112.be/de/how-call/wie-rufe-ich-die-112) · [FÖD Wirtschaft: Fragen von Haushalten zur Stromknappheit](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door) · [BBK: Vorsorgen für Krisen und Katastrophen](https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/Buergerinformationen/Ratgeber/BBK-Vorsorgen-fuer-Krisen-und-Katastrophen.pdf?__blob=publicationFile&v=44) · [Niederländische Aufsichtsbehörden: Nichterreichbarkeit der 112 am 24. Juni 2019](https://zoek.officielebekendmakingen.nl/blg-942150.pdf)
 
 ## Nicht tun
 

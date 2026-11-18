@@ -4,7 +4,7 @@ module: warmte
 volgorde: 1
 kort: "Comment rester au chaud par temps froid sans chauffage (une seule pièce, vêtements en couches, dormir au chaud), comment vous chauffer en sécurité sans intoxication au monoxyde de carbone, et comment rester au frais par forte chaleur quand il n'y a pas d'électricité."
 status: concept
-datum: "2026-11-17"
+datum: "2026-11-18"
 bronnen:
   - naam: "Centre de crise National : Vague de froid"
     url: "https://centredecrise.be/fr/risques-en-belgique/risques-naturels/vague-de-froid"
@@ -38,8 +38,18 @@ bronnen:
     url: "https://www.ready.gov/power-outages"
   - naam: "Ready.gov: People with Disabilities"
     url: "https://www.ready.gov/disability"
+  - naam: "SPF Économie : questions des ménages sur la pénurie d'électricité"
+    url: "https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door"
+  - naam: "Croix-Rouge de Flandre : panne de courant et de communication"
+    url: "https://www.rodekruis.be/wat-doen-we/hulp-in-vlaanderen/goed-voorbereid/stroom-en-communicatie-uitval/"
+  - naam: "112.be : Questions fréquentes"
+    url: "https://112.be/fr/questions-frequentes"
+  - naam: "ERC Guidelines 2021 : First aid"
+    url: "https://cprguidelines-old.erc.edu/assets/guidelines/European-Resuscitation-Council-Guidelines-2021-Fi.pdf"
+  - naam: "IFRC : International First Aid, Resuscitation and Education Guidelines 2020"
+    url: "https://www.ifrc.org/sites/default/files/2022-02/EN_GFARC_GUIDELINES_2020.pdf"
 vertaling: machine
-origineel_datum: "2026-11-17"
+origineel_datum: "2026-11-18"
 ---
 
 Quand le courant est coupé, le chauffage tombe souvent aussi en panne. La brochure OFF ON du Centre de crise cite explicitement l'arrêt des chaudières et des circulateurs comme conséquence d'une coupure de courant. Le BBK écrit : sans électricité, votre chauffage ne fonctionne peut-être pas, et en hiver les pièces se refroidissent vite. En été, les ventilateurs et la climatisation ne fonctionnent pas. Ce guide traite des deux situations.
@@ -77,9 +87,10 @@ Dans l'ordre de ce que les sources citent en premier.
 
 **2. Vivre dans une seule pièce**
 
+- Fermez les fenêtres et les portes et restez autant que possible dans une seule pièce (Croix-Rouge de Flandre).
 - Choisissez autant que possible une seule pièce pour y séjourner et gardez les portes fermées, pour que la chaleur ne s'échappe pas (BBK).
 - Réunissez-vous dans une seule pièce (MCF).
-- Lors d'une coupure de courant, vous pouvez vous réunir à plusieurs pour partager la lumière et la chaleur (Centre de crise).
+- Lors d'une coupure de courant, vous pouvez vous réunir à plusieurs pour partager la lumière et la chaleur. Convenez à l'avance avec vos voisins chez qui vous pouvez aller et quelles affaires vous partagez (Centre de crise).
 
 Les sources ne disent pas quelle pièce elles conseillent. Choisissez une pièce que vous pouvez aérer : même dans une seule pièce, il reste nécessaire d'aérer régulièrement (voir ci-dessous).
 
@@ -97,7 +108,8 @@ Les sources ne disent pas quelle pièce elles conseillent. Choisissez une pièce
 
 **5. Aller dans un endroit chaud**
 
-- Allez dans un endroit de la commune où il y a de l'électricité si la chaleur ou le froid est extrême (Ready.gov). Demandez aux autorités locales quels endroits chauds ou frais sont ouverts.
+- Allez dans un endroit de la commune où il y a de l'électricité si la chaleur ou le froid est extrême (Ready.gov). Ready.gov conseille de vérifier auprès des autorités locales quels endroits chauds ou frais sont ouverts.
+- En Belgique, les bourgmestres et les gouverneurs ont préparé des mesures d'urgence en vue d'un délestage, comme un point d'information et d'accueil pour la population. Demandez à l'avance à votre commune quelles solutions elle prévoit. Pendant la coupure, suivez les informations des autorités via une radio à piles ou l'autoradio, ou demandez de l'aide dans votre quartier (SPF Économie).
 
 **Ce qu'il ne faut pas faire**
 
@@ -105,7 +117,7 @@ Les sources ne disent pas quelle pièce elles conseillent. Choisissez une pièce
 - Ne rentrez pas de barbecue dans la maison pour chauffer (Centre Antipoisons).
 - N'utilisez les groupes électrogènes qu'à l'extérieur (Ready.gov). Voir le guide sur l'éclairage et l'énergie.
 
-Source : [Centre de crise National : OFF ON](https://centredecrise.be/sites/default/files/documents/files/OffOn-triptyque-F.pdf) · [Centre de crise National : Vague de froid](https://centredecrise.be/fr/risques-en-belgique/risques-naturels/vague-de-froid) · [Centre de crise National : Un kit d'urgence chez vous](https://centredecrise.be/fr/que-pouvez-vous-faire/preparez-un-kit-durgence/un-kit-durgence-la-maison) · [BBK: Vorsorgen für Krisen und Katastrophen](https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/Buergerinformationen/Ratgeber/BBK-Vorsorgen-fuer-Krisen-und-Katastrophen.pdf?__blob=publicationFile&v=44) · [BBK: Vorsorge und Handeln bei Stromausfall](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Vorsorge/Stromausfall/stromausfall_node.html) · [MCF: In case of crisis or war](https://rib.msb.se/filer/pdf/31523.pdf) · [Denk vooruit : livret d'information](https://www.denkvooruit.nl/site/binaries/site-content/collections/documents/2025/11/17/informatieboekje-bereid-je-voor-op-een-noodsituatie/informatieboekje-bereid-je-voor-op-een-noodsituatie.pdf) · [Ready.gov: Power Outages](https://www.ready.gov/power-outages) · [Centre Antipoisons : Prévenir l'intoxication au CO](https://www.centreantipoisons.be/app/uploads/2026/06/Prevenir-lintoxication-au-monoxyde-de-carbone.pdf)
+Source : [Centre de crise National : OFF ON](https://centredecrise.be/sites/default/files/documents/files/OffOn-triptyque-F.pdf) · [Centre de crise National : Vague de froid](https://centredecrise.be/fr/risques-en-belgique/risques-naturels/vague-de-froid) · [Centre de crise National : Un kit d'urgence chez vous](https://centredecrise.be/fr/que-pouvez-vous-faire/preparez-un-kit-durgence/un-kit-durgence-la-maison) · [BBK: Vorsorgen für Krisen und Katastrophen](https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/Buergerinformationen/Ratgeber/BBK-Vorsorgen-fuer-Krisen-und-Katastrophen.pdf?__blob=publicationFile&v=44) · [BBK: Vorsorge und Handeln bei Stromausfall](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Vorsorge/Stromausfall/stromausfall_node.html) · [MCF: In case of crisis or war](https://rib.msb.se/filer/pdf/31523.pdf) · [Denk vooruit : livret d'information](https://www.denkvooruit.nl/site/binaries/site-content/collections/documents/2025/11/17/informatieboekje-bereid-je-voor-op-een-noodsituatie/informatieboekje-bereid-je-voor-op-een-noodsituatie.pdf) · [Ready.gov: Power Outages](https://www.ready.gov/power-outages) · [Centre Antipoisons : Prévenir l'intoxication au CO](https://www.centreantipoisons.be/app/uploads/2026/06/Prevenir-lintoxication-au-monoxyde-de-carbone.pdf) · [Croix-Rouge de Flandre : panne de courant et de communication](https://www.rodekruis.be/wat-doen-we/hulp-in-vlaanderen/goed-voorbereid/stroom-en-communicatie-uitval/) · [SPF Économie : questions des ménages sur la pénurie d'électricité](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door)
 
 ## Aérer, même quand il fait froid
 
@@ -175,14 +187,16 @@ Source : [Centre Antipoisons : Prévenir l'intoxication au CO](https://www.centr
 **Ce que vous faites (Centre Antipoisons)**
 
 1. N'entrez jamais dans une pièce où se trouve une victime inconsciente. Protégez-vous.
-2. Appelez immédiatement les services de secours.
+2. Appelez immédiatement les services de secours, ou faites appeler quelqu'un. Si l'appel ne passe pas, voir Numéros d'urgence dans l'application, Si l'appel ne passe pas.
 3. Ouvrez les fenêtres et les portes, si vous pouvez le faire sans risque pour vous.
 4. Si la victime est inconsciente : appelez le 112 et dites qu'il s'agit probablement de CO. Si possible, éteignez l'appareil. Sortez la victime de la pièce. Si la victime ne respire plus, pratiquez le bouche-à-bouche ; selon le Centre Antipoisons, c'est sans danger. Si elle respire encore, couchez-la sur le côté sans oreiller.
-5. Si la victime est consciente : appelez le médecin généraliste.
+5. Si la victime est consciente : appelez le médecin généraliste, si le réseau fonctionne.
 
-Le Centre Antipoisons est joignable gratuitement 24 heures sur 24 au 070 245 245. Voir aussi la fiche scénario sur le CO.
+Si l'appel ne passe pas : ne laissez la victime seule que s'il n'y a pas d'autre possibilité, et désignez un témoin ou un voisin pour aller chercher de l'aide. Indiquez où c'est, ce qui s'est passé (probablement du CO), combien il y a de victimes et dans quel état elles sont.
 
-Source : [Centre Antipoisons : Prévenir l'intoxication au CO](https://www.centreantipoisons.be/app/uploads/2026/06/Prevenir-lintoxication-au-monoxyde-de-carbone.pdf)
+Le Centre Antipoisons est joignable gratuitement 24 heures sur 24 au 070 245 245, si le réseau fonctionne. Notez le numéro à l'avance sur votre liste papier. Voir aussi la fiche scénario sur le CO.
+
+Source : [Centre Antipoisons : Prévenir l'intoxication au CO](https://www.centreantipoisons.be/app/uploads/2026/06/Prevenir-lintoxication-au-monoxyde-de-carbone.pdf) · [ERC Guidelines 2021 : First aid](https://cprguidelines-old.erc.edu/assets/guidelines/European-Resuscitation-Council-Guidelines-2021-Fi.pdf) · [IFRC Guidelines 2020](https://www.ifrc.org/sites/default/files/2022-02/EN_GFARC_GUIDELINES_2020.pdf) · [112.be : Questions fréquentes](https://112.be/fr/questions-frequentes)
 
 ## Incendie lié au chauffage et aux bougies
 
@@ -233,7 +247,7 @@ Selon le Centre de crise, une vague de chaleur est une période d'au moins cinq 
 
 **Avant la chaleur (Centre de crise)**
 
-- Suivez les prévisions météo de l'IRM.
+- Suivez les prévisions météo de l'IRM, par exemple à la radio ou à la télévision.
 - Si vous êtes une personne à risque, comme un patient cardiaque ou une personne âgée, interrogez votre médecin généraliste sur les risques.
 - Demandez à votre médecin ou à votre pharmacien si vos médicaments peuvent avoir un effet défavorable par temps chaud.
 - Rendez visite aux personnes qui ont besoin d'aide, pour les aider à se préparer.
@@ -272,13 +286,13 @@ Ready.gov :
 
 | | Signes | Ce que vous faites |
 | --- | --- | --- |
-| Crampes de chaleur | douleurs ou crampes musculaires au ventre, aux bras ou aux jambes | allez dans un endroit plus frais, retirez les vêtements superflus, buvez de petites gorgées d'eau ou de boisson pour sportifs ; appelez votre soignant si cela s'aggrave ou dure plus d'une heure |
+| Crampes de chaleur | douleurs ou crampes musculaires au ventre, aux bras ou aux jambes | allez dans un endroit plus frais, retirez les vêtements superflus, buvez de petites gorgées d'eau ou de boisson pour sportifs ; appelez votre soignant si cela s'aggrave ou dure plus d'une heure, si le réseau fonctionne |
 | Épuisement dû à la chaleur | transpiration abondante, pâleur, crampes musculaires, fatigue, faiblesse, pouls rapide ou faible, vertiges, maux de tête, évanouissement, nausées, vomissements | comme pour les crampes de chaleur |
 | Coup de chaleur | la source ne cite pas ici de signes distincts | appelez le 112 ou emmenez la personne à l'hôpital ; amenez-la dans un endroit frais et ombragé ; retirez les vêtements du dessus ; posez des linges froids et mouillés ou de la glace sur la tête, la nuque, les aisselles et l'aine, ou mouillez les vêtements avec de l'eau fraîche ; surélevez les pieds |
 
-Le Centre de crise : si vous avez des crampes, une forte fièvre, des maux de tête ou si vous vous sentez défaillir, appelez votre médecin généraliste. N'appelez le 112 qu'en cas de situation mettant la vie en danger.
+Le Centre de crise : si vous avez des crampes, une forte fièvre, des maux de tête ou si vous vous sentez défaillir, appelez votre médecin généraliste. N'appelez le 112 qu'en cas de situation mettant la vie en danger. Si l'appel ne passe pas, demandez à quelqu'un d'autre d'appeler ou demandez de l'aide dans votre quartier (voir Numéros d'urgence, Si l'appel ne passe pas). Pour un coup de chaleur, Ready.gov cite aussi : emmenez la personne à l'hôpital.
 
-Source : [Ready.gov: Extreme Heat](https://www.ready.gov/heat) · [Centre de crise National : Vague de chaleur](https://centredecrise.be/fr/risques-en-belgique/risques-naturels/vague-de-chaleur-canicule)
+Source : [Ready.gov: Extreme Heat](https://www.ready.gov/heat) · [Centre de crise National : Vague de chaleur](https://centredecrise.be/fr/risques-en-belgique/risques-naturels/vague-de-chaleur-canicule) · [SPF Économie : questions des ménages sur la pénurie d'électricité](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door) · [112.be : Questions fréquentes](https://112.be/fr/questions-frequentes)
 
 ## La chaleur selon la personne
 
@@ -286,7 +300,7 @@ Source : [Ready.gov: Extreme Heat](https://www.ready.gov/heat) · [Centre de cri
 - **Lésion de la moelle épinière.** Le corps ne peut parfois pas se refroidir en transpirant (Ready.gov).
 - **Troubles psychiques graves.** Des médicaments peuvent perturber le refroidissement du corps (Ready.gov).
 - **Démence et déficience intellectuelle.** La personne peut avoir du mal à comprendre ou à expliquer comment la chaleur l'affecte (Ready.gov). Demandez aux aidants proches, à la famille et aux amis de passer régulièrement.
-- **Appareils médicaux électriques.** Demandez à votre fournisseur d'énergie une priorité en cas de panne de courant (Ready.gov). Voir le guide sur les médicaments et les soins.
+- **Appareils médicaux électriques.** Demandez à votre fournisseur d'énergie une priorité en cas de panne de courant (Ready.gov). Si, avec vos besoins médicaux, vous ne pouvez pas rester chez vous ni aller dans un endroit frais ordinaire, faites à l'avance un plan avec un hôpital ou une maison de repos et de soins à proximité (Ready.gov). Voir le guide sur les médicaments et les soins.
 - **Animaux domestiques.** Prévoyez beaucoup d'eau fraîche et de l'ombre. L'asphalte peut être trop chaud pour les pattes (Ready.gov).
 - **Voisins.** Prenez des nouvelles de la famille, des personnes âgées et des voisins (Ready.gov).
 

@@ -4,7 +4,7 @@ module: water
 volgorde: 1
 kort: "Wie viel Wasser Sie brauchen, wie Sie es aufbewahren, wo Sie im und um das Haus noch Wasser finden und wie Sie es sicher machen, mit jeder Methode Schritt für Schritt."
 status: concept
-datum: "2026-11-17"
+datum: "2026-11-18"
 bronnen:
   - naam: "Nationales Krisenzentrum: Ein Notfallpaket zu Hause"
     url: "https://krisenzentrum.be/de/was-koennen-sie-tun/stelle-ein-notfallpaket-zusammen/ein-notfallset-fuer-zu-hause"
@@ -42,8 +42,10 @@ bronnen:
     url: "https://krisenzentrum.be/de/was-koennen-sie-tun/stelle-ein-notfallpaket-zusammen/ein-notfallset-vor-ort"
   - naam: "BZL Ernährungsvorsorge: Vorratskalkulator"
     url: "https://www.ernaehrungsvorsorge.de/private-vorsorge/notvorrat/vorratskalkulator"
+  - naam: "Nationales Krisenzentrum: Informationen während einer Notsituation"
+    url: "https://krisenzentrum.be/de/was-koennen-sie-tun/informieren-sie-sich/information-notsituationen"
 vertaling: machine
-origineel_datum: "2026-11-17"
+origineel_datum: "2026-11-18"
 ---
 
 Wasser ist wichtiger als Nahrung. Ohne Wasser aus dem Hahn können Sie nicht trinken, nicht kochen, sich nicht die Hände waschen und die Toilette nicht spülen. Dieser Leitfaden folgt der Reihenfolge, in der Sie es brauchen: zuerst wissen, wie viel, dann lagern, dann Wasser finden, wenn der Vorrat aufgebraucht ist, und erst zuletzt Wasser selbst sicher machen.
@@ -178,9 +180,9 @@ Das Wasser kann sehr heiß sein. Tragen Sie Handschuhe und eine Schutzbrille.
 
 - **Regenwasser.** Hier unterscheiden sich die Quellen. Die FEMA sagt: Verwenden Sie aufgefangenes Regenwasser nicht zum Trinken. Das niederländische Waterschap Zuiderzeeland sagt, dass Haustiere, die nach draußen gehen, Regenwasser trinken können, Sie selbst es aber nicht trinken sollten, weil es nicht sauber genug ist. Das Consortium zählt Regenwasser zu den Quellen, die Sie erst nach dem Behandeln oder Filtern verwenden. Das Krisenzentrum empfiehlt, Regenwasser für den Garten aufzufangen, damit Sie Trinkwasser sparen. Verwenden Sie Regenwasser also in erster Linie zum Waschen, Putzen und Spülen der Toilette.
 - **Bäche, Flüsse, Teiche, Seen, Quellen.** Nur nach dem Behandeln oder Filtern (Consortium). Das Waterschap Zuiderzeeland empfiehlt, bei einem langen Stromausfall den Kontakt mit Wasser aus Gräben und Kanälen zu vermeiden, weil Abwasser dann weniger gut gereinigt wird.
-- **Wasser von den Behörden.** Das Krisenzentrum schreibt, dass ein Bürgermeister, Gouverneur oder Minister bei Knappheit Wasser in Flaschen verteilen lassen kann. Die MCF sagt, dass Gemeinden Wassertanks aufstellen können. Dafür brauchen Sie selbst saubere Behälter.
+- **Wasser von den Behörden.** Das Krisenzentrum schreibt, dass ein Bürgermeister, Gouverneur oder Minister bei Knappheit Wasser in Flaschen verteilen lassen kann. Die MCF sagt, dass Gemeinden Wassertanks aufstellen können. Dafür brauchen Sie selbst saubere Behälter. Wo und wann Wasser verteilt wird, erfahren Sie über das Radio und die anderen Kanäle der Behörden, etwa Lautsprecherwagen der Polizei, Informationstafeln, Faltblätter oder von Tür zu Tür (Krisenzentrum).
 
-Quelle: [FEMA: emergency water sources](https://fema.gov/node/what-are-emergency-water-sources-if-im-running-out-clean-water) · [Regional Water Providers Consortium: Emergency Water Sources](https://regionalh2o.org/node/39) · [CDC: How to Make Water Safe in an Emergency](https://www.cdc.gov/water-emergency/about/index.html) · [Waterschap Zuiderzeeland: Faltblatt](https://bijlagen.nos.nl/artikel-24778431/260226_digitaal_toegankelijke_versie_folder_noodsituatie_Waterschap_Zuiderzeeland.pdf) · [Nationales Krisenzentrum: Störung der Trinkwasserversorgung](https://krisenzentrum.be/de/risiken-belgien/maatschappelijke-risicos/ausfall-der-trinkwasserversorgung) · [MCF: In case of crisis or war](https://rib.msb.se/filer/pdf/31523.pdf)
+Quelle: [FEMA: emergency water sources](https://fema.gov/node/what-are-emergency-water-sources-if-im-running-out-clean-water) · [Regional Water Providers Consortium: Emergency Water Sources](https://regionalh2o.org/node/39) · [CDC: How to Make Water Safe in an Emergency](https://www.cdc.gov/water-emergency/about/index.html) · [Waterschap Zuiderzeeland: Faltblatt](https://bijlagen.nos.nl/artikel-24778431/260226_digitaal_toegankelijke_versie_folder_noodsituatie_Waterschap_Zuiderzeeland.pdf) · [Nationales Krisenzentrum: Störung der Trinkwasserversorgung](https://krisenzentrum.be/de/risiken-belgien/maatschappelijke-risicos/ausfall-der-trinkwasserversorgung) · [MCF: In case of crisis or war](https://rib.msb.se/filer/pdf/31523.pdf) · [Nationales Krisenzentrum: Informationen während einer Notsituation](https://krisenzentrum.be/de/was-koennen-sie-tun/informieren-sie-sich/information-notsituationen) · [Nationales Krisenzentrum: Broschüre Gemeinsam vorbereitet](https://krisenzentrum.be/sites/default/files/documents/files/WEB-Brosch%C3%BCre%20Gemeinsam%20Vorbereitet-DE.pdf)
 
 ## Wasser aufbereiten: Überblick über die Methoden
 
@@ -213,7 +215,7 @@ Quelle: [WHO/WEDC: Technical notes](https://wedc-knowledge.lboro.ac.uk/resources
 
 Ready.gov nennt Abkochen die sicherste Methode. Die WHO nennt es sehr wirksam, aber es kostet viel Energie.
 
-**Wie lange.** Hier unterscheiden sich die Quellen. In Belgien folgen Sie immer der Abkochempfehlung Ihres Trinkwasserversorgers.
+**Wie lange.** Hier unterscheiden sich die Quellen. In Belgien folgen Sie immer der Abkochempfehlung Ihres Trinkwasserversorgers. Verfolgen Sie sie über das Radio; funktioniert das Netz, auch über BE-Alert und die offiziellen Websites (Krisenzentrum).
 
 | Quelle | Kochzeit |
 | --- | --- |
@@ -235,7 +237,7 @@ Ready.gov nennt Abkochen die sicherste Methode. Die WHO nennt es sehr wirksam, a
 
 **Wenn es nicht geht.** Haben Sie keinen Brennstoff oder keine Kochmöglichkeit, gehen Sie zu Chlor über (Methode 2).
 
-Quelle: [VRT NWS: Abkochempfehlung De Watergroep](https://www.vrt.be/vrtnws/nl/2026/03/20/roeselare-vraagt-om-drinkwater-in-enkele-centrumsteden-tijdelijk/) · [RIVM: Erläuterung zur Abkochempfehlung](https://www.rivm.nl/drinkwater/toelichting-kookadvies-drinkwater) · [CDC: How to Make Water Safe in an Emergency](https://www.cdc.gov/water-emergency/about/index.html) · [Ready.gov: Water](https://www.ready.gov/water) · [WHO/WEDC: Technical notes](https://wedc-knowledge.lboro.ac.uk/resources/who_notes/WHO_TNE_ALL.pdf)
+Quelle: [VRT NWS: Abkochempfehlung De Watergroep](https://www.vrt.be/vrtnws/nl/2026/03/20/roeselare-vraagt-om-drinkwater-in-enkele-centrumsteden-tijdelijk/) · [RIVM: Erläuterung zur Abkochempfehlung](https://www.rivm.nl/drinkwater/toelichting-kookadvies-drinkwater) · [CDC: How to Make Water Safe in an Emergency](https://www.cdc.gov/water-emergency/about/index.html) · [Ready.gov: Water](https://www.ready.gov/water) · [WHO/WEDC: Technical notes](https://wedc-knowledge.lboro.ac.uk/resources/who_notes/WHO_TNE_ALL.pdf) · [Nationales Krisenzentrum: Informationen während einer Notsituation](https://krisenzentrum.be/de/was-koennen-sie-tun/informieren-sie-sich/information-notsituationen)
 
 ## Methode 2: Chlor aus Haushaltsbleichmittel
 
@@ -349,14 +351,14 @@ Quelle: [Ready.gov: Water](https://www.ready.gov/water)
 
 ## Was gegen chemische Verunreinigung nicht hilft
 
-- Die CDC: Wasser mit Treibstoff, giftigen chemischen Stoffen oder radioaktiven Stoffen wird durch Abkochen oder Desinfizieren nicht sicher. Verwenden Sie Flaschenwasser oder eine andere Quelle und wenden Sie sich an den Gesundheitsdienst.
+- Die CDC: Wasser mit Treibstoff, giftigen chemischen Stoffen oder radioaktiven Stoffen wird durch Abkochen oder Desinfizieren nicht sicher. Verwenden Sie Flaschenwasser oder eine andere Quelle und wenden Sie sich, wenn das Netz funktioniert, an den Gesundheitsdienst.
 - Die WHO: Die Methoden im Haushalt entfernen physikalische und mikrobiologische Verunreinigungen, keine chemischen.
 - Das Regional Water Providers Consortium: Wasser, von dem Sie wissen oder vermuten, dass es Treibstoff, Schwermetalle oder giftige Stoffe enthält, ist nicht sicher zum Trinken, auch nicht nach dem Behandeln oder Filtern.
 - Ready.gov: Nur Destillieren entfernt die meisten chemischen Stoffe (siehe Methode 7).
 
-Bei einem Unfall mit gefährlichen Stoffen oder einem nuklearen Zwischenfall folgen Sie den Anweisungen der Behörden zur Verwendung von Leitungswasser. Siehe die Szenariokarten und die Leitfäden über Schutzsuchen und nukleare Notfälle.
+Bei einem Unfall mit gefährlichen Stoffen oder einem nuklearen Zwischenfall folgen Sie den Anweisungen der Behörden zur Verwendung von Leitungswasser. Diese kommen unter anderem über Radio, Fernsehen und Lautsprecherwagen der Polizei (Krisenzentrum). Siehe die Szenariokarten und die Leitfäden über Schutzsuchen und nukleare Notfälle.
 
-Quelle: [CDC: How to Make Water Safe in an Emergency](https://www.cdc.gov/water-emergency/about/index.html) · [WHO/WEDC: Technical notes](https://wedc-knowledge.lboro.ac.uk/resources/who_notes/WHO_TNE_ALL.pdf) · [Regional Water Providers Consortium: Emergency Water Sources](https://regionalh2o.org/node/39) · [Ready.gov: Water](https://www.ready.gov/water)
+Quelle: [CDC: How to Make Water Safe in an Emergency](https://www.cdc.gov/water-emergency/about/index.html) · [WHO/WEDC: Technical notes](https://wedc-knowledge.lboro.ac.uk/resources/who_notes/WHO_TNE_ALL.pdf) · [Regional Water Providers Consortium: Emergency Water Sources](https://regionalh2o.org/node/39) · [Ready.gov: Water](https://www.ready.gov/water) · [Nationales Krisenzentrum: Informationen während einer Notsituation](https://krisenzentrum.be/de/was-koennen-sie-tun/informieren-sie-sich/information-notsituationen)
 
 ## Nach der Unterbrechung
 
@@ -365,11 +367,11 @@ Das Krisenzentrum:
 - Kommt braunes oder trübes Wasser aus dem Hahn, lassen Sie es einige Minuten laufen.
 - Kommt wenig Wasser aus dem Hahn, muss sich der Druck noch wieder aufbauen. Er nimmt langsam zu.
 - Gehen Sie weiterhin sparsam mit Wasser um. Verschwenden Sie es nicht.
-- Nach einer Überschwemmung: Hören Sie auf die Empfehlungen der Behörden zur Verwendung von Leitungswasser.
+- Nach einer Überschwemmung: Hören Sie auf die Empfehlungen der Behörden zur Verwendung von Leitungswasser, zum Beispiel über ein batteriebetriebenes Radio.
 
 Das RIVM: Eine Abkochempfehlung bleibt gültig, bis Kontrollen zeigen, dass das Wasser nicht mehr verunreinigt ist.
 
-Quelle: [Nationales Krisenzentrum: Störung der Trinkwasserversorgung](https://krisenzentrum.be/de/risiken-belgien/maatschappelijke-risicos/ausfall-der-trinkwasserversorgung) · [RIVM: Erläuterung zur Abkochempfehlung](https://www.rivm.nl/drinkwater/toelichting-kookadvies-drinkwater)
+Quelle: [Nationales Krisenzentrum: Störung der Trinkwasserversorgung](https://krisenzentrum.be/de/risiken-belgien/maatschappelijke-risicos/ausfall-der-trinkwasserversorgung) · [RIVM: Erläuterung zur Abkochempfehlung](https://www.rivm.nl/drinkwater/toelichting-kookadvies-drinkwater) · [Nationales Krisenzentrum: Informationen während einer Notsituation](https://krisenzentrum.be/de/was-koennen-sie-tun/informieren-sie-sich/information-notsituationen)
 
 ## Nach Person und Situation
 

@@ -4,7 +4,7 @@ module: nucleair
 volgorde: 1
 kort: "Was bei einem nuklearen Unfall geschieht, die belgischen Zonen, wie Sie Schutz suchen, wie Sie sich selbst dekontaminieren und was Sie mit Lebensmitteln, Tieren und Kindern tun."
 status: concept
-datum: "2026-11-17"
+datum: "2026-11-18"
 bronnen:
   - naam: "Nationales Krisenzentrum: Zwischenfall in einem Kernkraftwerk"
     url: https://krisenzentrum.be/de/risiken-belgien/technologische-risiken/zwischenfall-einer-nuklearanlage
@@ -14,6 +14,14 @@ bronnen:
     url: https://krisenzentrum.be/de/was-koennen-sie-tun/der-richtige-reflex/schutz-suchen
   - naam: "Nationales Krisenzentrum: Broschüre Gemeinsam vorbereitet"
     url: https://krisenzentrum.be/sites/default/files/documents/files/WEB-Brosch%C3%BCre%20Gemeinsam%20Vorbereitet-DE.pdf
+  - naam: "Nationales Krisenzentrum: Ein Notfallpaket bei Ihnen zu Hause"
+    url: https://krisenzentrum.be/de/was-koennen-sie-tun/stelle-ein-notfallpaket-zusammen/ein-notfallset-fuer-zu-hause
+  - naam: "Nationales Krisenzentrum: Störung der digitalen Infrastruktur"
+    url: https://krisenzentrum.be/de/risiken-belgien/maatschappelijke-risicos/ausfall-der-digitalen-infrastruktur
+  - naam: "112.be: Häufig gestellte Fragen"
+    url: https://112.be/de/haeufig-gestellte-fragen
+  - naam: "FÖD Wirtschaft: Fragen von Haushalten zur Stromknappheit"
+    url: https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door
   - naam: "Nuklearrisiko: Schutz suchen, der beste Schutz"
     url: https://nuklearrisiko.be/de/was-koennen-sie-tun/aufenthalt-geschlossenen-raeumen-die-beste-schutzmassnahme
   - naam: "Nuklearrisiko: Sich selbst dekontaminieren"
@@ -57,7 +65,7 @@ bronnen:
   - naam: "CDC: How to self-decontaminate after a radiation emergency"
     url: https://cdc.gov/radiation-emergencies/prevention/self-decontaminate.html
 vertaling: machine
-origineel_datum: "2026-11-17"
+origineel_datum: "2026-11-18"
 ---
 
 ## Was bei einem nuklearen Unfall geschieht
@@ -105,23 +113,22 @@ Der nukleare Notfallplan sieht auch Erweiterungszonen vor, in denen die Maßnahm
 
 ### Die Zone im Ernstfall
 
-In einer Notsituation bestimmt die Bewertung der Lage die Zone für Schutzmaßnahmen. Sie kann kleiner oder größer als die Notfallplanungszone sein. Auf nucleairrisico.be gibt es eine Karte, auf der Sie prüfen können, ob Ihre Gemeinde in einer Notfallplanungszone liegt. Die Zonen hindern niemanden außerhalb der Zonen daran, sich ebenfalls vorzubereiten.
+In einer Notsituation bestimmt die Bewertung der Lage die Zone für Schutzmaßnahmen. Sie kann kleiner oder größer als die Notfallplanungszone sein. Prüfen Sie im Voraus, ob Ihre Gemeinde in einer Notfallplanungszone liegt: Auf nucleairrisico.be gibt es dafür eine Karte. Die Zonen hindern niemanden außerhalb der Zonen daran, sich ebenfalls vorzubereiten.
 
 Quelle: [Nuklearrisiko: Nukleare Standorte](https://nuklearrisiko.be/de/nukleares-risiko/kerntechnische-anlagen) · [Nuklearrisiko: Notfallplanungszonen](https://nuklearrisiko.be/de/was-tun-die-behoerden/noteinsatzplanungs-zonen) · [Nuklearrisiko: Nukleare Notfallplanungszonen (Karte)](https://nuklearrisiko.be/de/nuklearen-noteinsatzplanungszonen) · [Nationales Krisenzentrum: Pressedatenblätter nuklearer Notfallplan](https://crisiscentrum.be/sites/default/files/documents/files/2021-04/fr_fiches_confpresse.pdf) · [Nuklearrisiko: häufig gestellte Fragen](https://nuklearrisiko.be/de/faq)
 
 ## Wie Sie gewarnt werden
 
-Die Behörden benachrichtigen die Anwohner über:
+Wer Schutz sucht, bleibt drinnen bei geschlossenen Fenstern und Türen. Die Informationen der Behörden kommen dann vor allem über das Radio. Die Behörden benachrichtigen die Anwohner über:
 
-- **BE-Alert:** SMS von der Nummer 1789, E-Mail von no-reply@be-alert.be oder einen Sprachanruf von 0477 77 77 55. Registrieren Sie sich vorab auf be-alert.be. Sie können mehrere Adressen registrieren, auch die der Schule Ihrer Kinder.
-- **Radio und Fernsehen.**
-- **Die Website des Nationalen Krisenzentrums oder der Gemeinde.**
-- **Soziale Medien.**
+- **Radio und Fernsehen.** Sorgen Sie im Voraus für ein Radio mit Batterien oder ein Kurbelradio, am besten mit DAB+ und UKW. So können Sie auch bei einem Stromausfall die Medien hören.
 - **Lautsprecherwagen der Polizei**, die durch die Straßen fahren.
+- **BE-Alert**, wenn das Netz funktioniert: SMS von der Nummer 1789, E-Mail von no-reply@be-alert.be oder einen Sprachanruf von 0477 77 77 55. Registrieren Sie sich vorab auf be-alert.be. Sie können mehrere Adressen registrieren, auch die der Schule Ihrer Kinder.
+- **Die Website des Nationalen Krisenzentrums oder der Gemeinde und soziale Medien**, wenn das Internet funktioniert.
 
-Haben Sie kein Telefon, erhalten Sie die Informationen über Lautsprecherwagen, Radio, Fernsehen und Websites. Sorgen Sie für ein Radio mit Batterien oder ein Kurbelradio, am besten mit DAB+ und UKW. Telefonieren Sie nicht unnötig: Ein überlastetes Netz kann die Hilfeleistung stören.
+Haben Sie kein Telefon oder Handy, erhalten Sie die nötigen Informationen trotzdem: über Lautsprecherwagen, Radio und Fernsehen. Telefonieren Sie nicht unnötig, es sei denn, Sie sind zum Beispiel in einer medizinischen Notsituation: Ein überlastetes Netz kann die Hilfeleistung stören.
 
-Quelle: [Nuklearrisiko: Warnung und Schutz der Bevölkerung](https://nuklearrisiko.be/de/was-tun-die-behoerden/warnung-und-schutz-der-bevoelkerung) · [Nuklearrisiko: häufig gestellte Fragen](https://nuklearrisiko.be/de/faq) · [Nationales Krisenzentrum: Broschüre Gemeinsam vorbereitet](https://krisenzentrum.be/sites/default/files/documents/files/WEB-Brosch%C3%BCre%20Gemeinsam%20Vorbereitet-DE.pdf)
+Quelle: [Nuklearrisiko: Warnung und Schutz der Bevölkerung](https://nuklearrisiko.be/de/was-tun-die-behoerden/warnung-und-schutz-der-bevoelkerung) · [Nuklearrisiko: häufig gestellte Fragen](https://nuklearrisiko.be/de/faq) · [Nationales Krisenzentrum: Broschüre Gemeinsam vorbereitet](https://krisenzentrum.be/sites/default/files/documents/files/WEB-Brosch%C3%BCre%20Gemeinsam%20Vorbereitet-DE.pdf) · [Nationales Krisenzentrum: Ein Notfallpaket bei Ihnen zu Hause](https://krisenzentrum.be/de/was-koennen-sie-tun/stelle-ein-notfallpaket-zusammen/ein-notfallset-fuer-zu-hause)
 
 ## Die vier Schutzmaßnahmen
 
@@ -150,7 +157,7 @@ Schutz suchen in einem Gebäude ist bei einem nuklearen Notfall die beste Art, s
 6. Sorgen Sie aber dafür, dass die Luft erneuert wird, damit Ihnen nicht unwohl wird.
 7. Halten Sie sich in einem zentralen Raum im Erdgeschoss auf. Wände und Decken schützen besser als Fenster.
 8. Holen Sie Ihre Haustiere herein.
-9. Hören Sie auf die Empfehlungen über Radio, Fernsehen, offizielle Websites und soziale Medien.
+9. Hören Sie auf die Empfehlungen im Radio. Funktioniert das Internet, sehen Sie auch auf den offiziellen Websites und in den sozialen Medien nach.
 
 ### Wenn Sie draußen waren, als die Wolke vorbeizog
 
@@ -167,7 +174,7 @@ Gehen Sie über einen Raum hinein, den Sie nicht nutzen. Ziehen Sie sich aus, du
 | Zu Fuß | Gehen Sie so schnell wie möglich in das nächstgelegene Gebäude und schließen Sie Fenster und Türen; das schützt besser als ein Auto |
 | Im Auto, in der Nähe von Wohnung, Arbeitsplatz oder einem öffentlichen Gebäude | Gehen Sie sofort hinein |
 | Im Auto, kein Gebäude erreichbar | Parken Sie an einem sicheren Ort oder fahren Sie weg, senkrecht zur Windrichtung. Motor aus, wenn Sie stehen, Fenster zu, Klimaanlage und Lüftung aus, Radio an. Fahren Sie vorsichtig und beachten Sie die Straßenverkehrsordnung |
-| Zu Fuß in einem Gebiet ohne Gebäude | Rufen Sie 112 an (allgemeine Richtlinie des Krisenzentrums zum Schutz suchen) |
+| Zu Fuß in einem Gebiet ohne Gebäude | Rufen Sie 112 an (allgemeine Richtlinie des Krisenzentrums zum Schutz suchen). Kommt kein Anruf zustande: Entfernen Sie sich weiter von der Notsituation, bis Sie ein sicheres und zugängliches Gebäude finden (Krisenzentrum, Schutz suchen unterwegs) |
 
 ### Was ausländische Quellen anders über den Ort sagen
 
@@ -265,10 +272,10 @@ Quelle: [Nuklearrisiko: häufig gestellte Fragen](https://nuklearrisiko.be/de/fa
 ## Schutzbedürftige Personen und medizinische Notfälle
 
 - Menschen, die bei einer Evakuierung die Zone nicht aus eigener Kraft verlassen können, erhalten Hilfe von den Hilfsdiensten. Bei einer Evakuierung wird kontrolliert, ob alle ihre Wohnung verlassen haben.
-- Brauchen Sie während des Schutzsuchens medizinische Hilfe, zum Beispiel bei einer Geburt, rufen Sie wie immer 112 an. Die Polizei kontrolliert den Zugang zur Zone. Unter bestimmten Bedingungen und mit dem nötigen Schutz können Hilfsdienste in der Zone helfen.
+- Brauchen Sie während des Schutzsuchens medizinische Hilfe, zum Beispiel bei einer Geburt, rufen Sie wie immer 112 an. Kommt kein Anruf zustande, lassen Sie jemand anderen anrufen oder bitten Sie in Ihrer Umgebung um Hilfe (siehe Notrufnummern in der App, Wenn kein Anruf möglich ist). Die Polizei kontrolliert den Zugang zur Zone. Unter bestimmten Bedingungen und mit dem nötigen Schutz können Hilfsdienste in der Zone helfen.
 - Besprechen Sie vorab mit Ihrem Hausarzt, was Sie mit Ihren Medikamenten tun und ob Sie Jodtabletten einnehmen dürfen (siehe den Leitfaden zu Jod).
 
-Quelle: [Nuklearrisiko: häufig gestellte Fragen](https://nuklearrisiko.be/de/faq)
+Quelle: [Nuklearrisiko: häufig gestellte Fragen](https://nuklearrisiko.be/de/faq) · [112.be: Häufig gestellte Fragen](https://112.be/de/haeufig-gestellte-fragen) · [FÖD Wirtschaft: Fragen von Haushalten zur Stromknappheit](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door)
 
 ## Evakuierung
 
@@ -309,10 +316,12 @@ Quelle: [Nuklearrisiko: häufig gestellte Fragen](https://nuklearrisiko.be/de/fa
 ## Vorbereiten
 
 - Prüfen Sie, ob Sie in einer Notfallplanungszone wohnen.
+- Legen Sie ein Radio mit Batterien oder ein Kurbelradio bereit, mit Ersatzbatterien.
 - Registrieren Sie sich bei BE-Alert, für Ihre Wohnadresse und die von Schule und Arbeitsplatz.
+- Vereinbaren Sie mit Ihrer Familie, wo Sie sich wiederfinden, wenn Sie einander nicht erreichen können.
 - Holen Sie Jodtabletten ins Haus, wenn Sie zu einer Zielgruppe gehören (siehe den Leitfaden zu Jod).
 - Lernen Sie, wie Sie zu Hause die Lüftung ausschalten, und besprechen Sie die Schritte des Schutzsuchens mit Ihrer Familie (Finnland).
 - Halten Sie Klebeband bereit, um Fenster, Türen und Öffnungen abzudichten (Finnland).
 - Legen Sie pro Familienmitglied einen Satz Ersatzkleidung und einen Müllsack für kontaminierte Kleidung bereit, zusammen mit verpackten Lebensmitteln, Wasser und Medikamenten (Ready.gov).
 
-Quelle: [Nationales Krisenzentrum: Zwischenfall in einem Kernkraftwerk](https://krisenzentrum.be/de/risiken-belgien/technologische-risiken/zwischenfall-einer-nuklearanlage) · [Nationales Krisenzentrum: Broschüre Gemeinsam vorbereitet](https://krisenzentrum.be/sites/default/files/documents/files/WEB-Brosch%C3%BCre%20Gemeinsam%20Vorbereitet-DE.pdf) · [Suomi.fi: Radiation hazards](https://www.suomi.fi/guides/preparedness/how-to-prepare-for-incidents-and-crises/radiation-hazards) · [Ready.gov: Radiation emergencies](https://www.ready.gov/radiation)
+Quelle: [Nationales Krisenzentrum: Zwischenfall in einem Kernkraftwerk](https://krisenzentrum.be/de/risiken-belgien/technologische-risiken/zwischenfall-einer-nuklearanlage) · [Nationales Krisenzentrum: Broschüre Gemeinsam vorbereitet](https://krisenzentrum.be/sites/default/files/documents/files/WEB-Brosch%C3%BCre%20Gemeinsam%20Vorbereitet-DE.pdf) · [Suomi.fi: Radiation hazards](https://www.suomi.fi/guides/preparedness/how-to-prepare-for-incidents-and-crises/radiation-hazards) · [Ready.gov: Radiation emergencies](https://www.ready.gov/radiation) · [Nationales Krisenzentrum: Störung der digitalen Infrastruktur](https://krisenzentrum.be/de/risiken-belgien/maatschappelijke-risicos/ausfall-der-digitalen-infrastruktur)

@@ -1,9 +1,9 @@
 ---
 titel: Schock
 volgorde: 6
-kort: "Schock ist ein Versagen des Kreislaufs. Legen Sie die Person hin, behandeln Sie die Ursache, rufen Sie 112 an und halten Sie sie warm und ruhig."
+kort: "Schock ist ein Versagen des Kreislaufs. Legen Sie die Person hin, behandeln Sie die Ursache, lassen Sie 112 anrufen oder Hilfe holen und halten Sie sie warm und ruhig."
 status: concept
-datum: "2026-11-17"
+datum: "2026-11-18"
 bronnen:
   - naam: "Gezondheid en Wetenschap (Rode Kruis-Vlaanderen): Erste Hilfe bei Schock"
     url: https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-shock
@@ -17,8 +17,12 @@ bronnen:
     url: https://www.erc.edu/media/p5ymaeej/gl2025_layperson_book_ipdf-v11-e.pdf
   - naam: "FEMA: Until Help Arrives, instructor guide"
     url: https://ready.gov/sites/default/files/2020-07/until-help-arrives-instructor-guide.pdf
+  - naam: "European Resuscitation Council Guidelines 2021: First aid"
+    url: https://cprguidelines-old.erc.edu/assets/guidelines/European-Resuscitation-Council-Guidelines-2021-Fi.pdf
+  - naam: "112.be: Häufig gestellte Fragen"
+    url: https://112.be/de/haeufig-gestellte-fragen
 vertaling: machine
-origineel_datum: "2026-11-17"
+origineel_datum: "2026-11-18"
 ---
 
 ## Erkennen
@@ -51,7 +55,7 @@ Quelle: [Gezondheid en Wetenschap: Schock](https://www.gezondheidenwetenschap.be
 1. Sorgen Sie für Sicherheit. Ziehen Sie Einmalhandschuhe an, wenn Sie welche haben.
 2. Helfen Sie der betroffenen Person, sich auf den Rücken zu legen.
 3. Beurteilen Sie den Zustand: Finden Sie heraus, was los ist, prüfen Sie das Bewusstsein und machen Sie wenn nötig die Atemwege frei und prüfen Sie die Atmung.
-4. Rufen Sie sofort 112 an.
+4. Rufen Sie sofort 112 an oder lassen Sie jemanden anrufen. Kommt kein Anruf zustande, siehe Rufen Sie 112 an, wenn.
 5. Behandeln Sie die Ursache, wenn Sie sie kennen:
    - Schwere äußere Blutung: Drücken Sie 10 Minuten lang mit Ihren Händen auf die Wunde, halten Sie die Gliedmaße hoch, wenn möglich, legen Sie danach einen Druckverband an oder drücken Sie auf ein sauberes Tuch, und drücken Sie weiter, bis Hilfe da ist (siehe Thema 3).
    - Schwere allergische Reaktion: Helfen Sie der Person, ihren eigenen Adrenalin-Autoinjektor zu verwenden (siehe Thema 15).
@@ -85,7 +89,7 @@ Schock ist lebensbedrohlich und braucht immer medizinische Versorgung. Was Sie t
 - Lassen Sie die Person liegen und ruhig bleiben. Lassen Sie sie nicht aufstehen oder herumgehen.
 - Sprechen Sie mit der Person, halten Sie eine Hand und halten Sie Blickkontakt. Müssen Sie weg, um einer anderen Person zu helfen, sagen Sie das und bitten Sie jemanden, zu bleiben.
 - Prüfen Sie jede Minute Bewusstsein und Atmung. Notieren Sie Veränderungen.
-- Ändert sich der Zustand, melden Sie das erneut bei 112. Muss jemand Hilfe holen, geben Sie dieser Person genaue Informationen über den Ort und den Zustand mit.
+- Ändert sich der Zustand und funktioniert das Telefon, melden Sie das erneut bei 112. Muss jemand Hilfe holen, geben Sie dieser Person genaue Informationen über den Ort und den Zustand mit.
 
 Quelle: [IFRC Guidelines 2020](https://www.ifrc.org/sites/default/files/2022-02/EN_GFARC_GUIDELINES_2020.pdf) · [FEMA: Until Help Arrives](https://ready.gov/sites/default/files/2020-07/until-help-arrives-instructor-guide.pdf) · [Gezondheid en Wetenschap: Schock](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-shock)
 
@@ -98,7 +102,12 @@ Quelle: [IFRC Guidelines 2020](https://www.ifrc.org/sites/default/files/2022-02/
 
 Erklären Sie dem Rettungsdienst deutlich, wie der Zustand ist, welche Zeichen eines Schocks Sie sehen und was die Ursache sein kann.
 
-Quelle: [Gezondheid en Wetenschap: Schock](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-shock) · [Gezondheid en Wetenschap: Innere Blutung im Bauch](https://www.gezondheidenwetenschap.be/eerste-hulp/inwendige-bloeding-in-de-buik) · [IFRC Guidelines 2020](https://www.ifrc.org/sites/default/files/2022-02/EN_GFARC_GUIDELINES_2020.pdf)
+**Kommt kein Anruf zustande**
+
+- Lassen Sie die betroffene Person nur allein, wenn es keine andere Möglichkeit gibt. Sprechen Sie Umstehende direkt an, damit sie Hilfe holen, und geben Sie mit, wo es ist, was passiert ist, wie viele Betroffene es gibt und in welchem Zustand sie sind.
+- Siehe auch Thema 1 (Kommt kein Anruf zustande: Hilfe holen ohne Telefon) und Notrufnummern in der App, Wenn kein Anruf möglich ist.
+
+Quelle: [Gezondheid en Wetenschap: Schock](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-shock) · [Gezondheid en Wetenschap: Innere Blutung im Bauch](https://www.gezondheidenwetenschap.be/eerste-hulp/inwendige-bloeding-in-de-buik) · [IFRC Guidelines 2020](https://www.ifrc.org/sites/default/files/2022-02/EN_GFARC_GUIDELINES_2020.pdf) · [ERC Guidelines 2021: First aid](https://cprguidelines-old.erc.edu/assets/guidelines/European-Resuscitation-Council-Guidelines-2021-Fi.pdf) · [112.be: Häufig gestellte Fragen](https://112.be/de/haeufig-gestellte-fragen)
 
 ## Nicht tun
 

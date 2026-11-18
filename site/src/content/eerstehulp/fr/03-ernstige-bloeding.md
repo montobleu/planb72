@@ -3,7 +3,7 @@ titel: Hémorragie grave
 volgorde: 3
 kort: "Appuyez fort sur la plaie pendant 10 minutes, posez ensuite un pansement compressif et continuez à appuyer jusqu'à l'arrivée des services de secours."
 status: concept
-datum: "2026-11-17"
+datum: "2026-11-18"
 bronnen:
   - naam: "Gezondheid en Wetenschap (Rode Kruis-Vlaanderen) : Premiers secours en cas d'hémorragie grave (externe)"
     url: https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-een-ernstige-bloeding-uitwendig
@@ -23,8 +23,12 @@ bronnen:
     url: https://secure.in.gov/dhs/get-prepared/emergencies/stop-the-bleed-bleeding-control-for-the-injured
   - naam: "FEMA : Until Help Arrives, instructor guide"
     url: https://ready.gov/sites/default/files/2020-07/until-help-arrives-instructor-guide.pdf
+  - naam: "European Resuscitation Council Guidelines 2021 : First aid"
+    url: https://cprguidelines-old.erc.edu/assets/guidelines/European-Resuscitation-Council-Guidelines-2021-Fi.pdf
+  - naam: "112.be : Questions fréquentes"
+    url: https://112.be/fr/questions-frequentes
 vertaling: machine
-origineel_datum: "2026-11-17"
+origineel_datum: "2026-11-18"
 ---
 
 ## Reconnaître
@@ -42,7 +46,7 @@ Source : [Gezondheid en Wetenschap : Hémorragie grave](https://www.gezondheiden
 1. Mettez des gants jetables. Si vous n'en avez pas, utilisez des sachets en plastique, un tissu ou un pansement entre votre main et la plaie.
 2. Laissez la victime appuyer elle-même sur la plaie si elle le peut. Si elle ne le peut pas, laissez-la guider vos mains ou garder ses mains sur la plaie pendant que vous appuyez. Vous réduisez ainsi aussi le risque de contamination.
 3. Aidez la victime à se coucher sur le sol.
-4. Appelez le 112. Si vous êtes seul, appelez avec le haut-parleur activé pendant que vous appuyez.
+4. Appelez le 112 ou faites appeler quelqu'un. Si vous êtes seul, appelez avec le haut-parleur activé pendant que vous appuyez. Si l'appel ne passe pas, envoyez quelqu'un chercher de l'aide et continuez vous-même à appuyer (voir Appelez le 112 si).
 5. Dégagez la plaie. Déchirez ou découpez les vêtements s'ils gênent.
 6. Appuyez avec les mains sur la plaie pendant 10 minutes. Utilisez une compresse ou un tissu propre si vous en avez, sinon votre main.
 7. Gardez un bras ou une jambe blessé(e) en hauteur si possible.
@@ -57,7 +61,7 @@ Le programme américain de la FEMA recommande de ne pas garder d'épaisses couch
 
 1. Laissez l'objet en place. Ne le retirez pas.
 2. Appuyez autour de l'objet et essayez de le maintenir immobile.
-3. Prévenez le plus vite possible les services de secours.
+3. Prévenez le plus vite possible les services de secours : appelez le 112 ou faites chercher de l'aide par quelqu'un.
 
 ### Si la pression n'arrête pas l'hémorragie d'un bras ou d'une jambe : garrot (tourniquet)
 
@@ -122,7 +126,12 @@ Source : [Gezondheid en Wetenschap : Hémorragie grave](https://www.gezondheiden
 
 Expliquez clairement comment la blessure s'est produite et dans quel état se trouve la victime, pour que le service de secours donne la bonne priorité.
 
-Source : [Gezondheid en Wetenschap : Hémorragie grave](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-een-ernstige-bloeding-uitwendig) · [IFRC Guidelines 2020](https://www.ifrc.org/sites/default/files/2022-02/EN_GFARC_GUIDELINES_2020.pdf) · [Indiana DHS : Stop the Bleed](https://secure.in.gov/dhs/get-prepared/emergencies/stop-the-bleed-bleeding-control-for-the-injured)
+**Si l'appel ne passe pas**
+
+- Ne laissez la victime seule que s'il n'y a pas d'autre possibilité. Désignez directement un témoin pour aller chercher de l'aide et indiquez-lui où c'est, ce qui s'est passé, combien de victimes il y a et dans quel état elles sont.
+- Voir aussi le sujet 1 (Si l'appel ne passe pas : chercher de l'aide sans téléphone) et Numéros d'urgence dans l'application, Si l'appel ne passe pas.
+
+Source : [Gezondheid en Wetenschap : Hémorragie grave](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-een-ernstige-bloeding-uitwendig) · [IFRC Guidelines 2020](https://www.ifrc.org/sites/default/files/2022-02/EN_GFARC_GUIDELINES_2020.pdf) · [Indiana DHS : Stop the Bleed](https://secure.in.gov/dhs/get-prepared/emergencies/stop-the-bleed-bleeding-control-for-the-injured) · [ERC Guidelines 2021 : First aid](https://cprguidelines-old.erc.edu/assets/guidelines/European-Resuscitation-Council-Guidelines-2021-Fi.pdf) · [112.be : Questions fréquentes](https://112.be/fr/questions-frequentes)
 
 ## À ne pas faire
 

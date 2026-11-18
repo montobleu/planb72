@@ -1,9 +1,9 @@
 ---
 titel: Brandwunden
 volgorde: 7
-kort: "Kühlen Sie eine Brandwunde sofort mit fließendem Leitungswasser, mindestens 10 und am besten 20 Minuten. Chemische und elektrische Brandwunden: immer 112."
+kort: "Kühlen Sie eine Brandwunde sofort mit fließendem Leitungswasser, mindestens 10 und am besten 20 Minuten. Chemische und elektrische Brandwunden: immer 112 anrufen oder Hilfe holen lassen."
 status: concept
-datum: "2026-11-17"
+datum: "2026-11-18"
 bronnen:
   - naam: "Gezondheid en Wetenschap (Rode Kruis-Vlaanderen): Erste Hilfe bei Brandwunden"
     url: https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-brandwonden
@@ -17,8 +17,12 @@ bronnen:
     url: https://www.antigifcentrum.be/wanneer-bellen/
   - naam: "IFRC: International first aid, resuscitation, and education guidelines 2020"
     url: https://www.ifrc.org/sites/default/files/2022-02/EN_GFARC_GUIDELINES_2020.pdf
+  - naam: "European Resuscitation Council Guidelines 2021: First aid"
+    url: https://cprguidelines-old.erc.edu/assets/guidelines/European-Resuscitation-Council-Guidelines-2021-Fi.pdf
+  - naam: "112.be: Häufig gestellte Fragen"
+    url: https://112.be/de/haeufig-gestellte-fragen
 vertaling: machine
-origineel_datum: "2026-11-17"
+origineel_datum: "2026-11-18"
 ---
 
 ## Erkennen
@@ -53,7 +57,7 @@ Quelle: [Gezondheid en Wetenschap: Brandwunden](https://www.gezondheidenwetensch
 8. Decken Sie die Brandwunde nach dem Kühlen je nach Schwere ab:
    - Kleine Brandwunde ersten Grades: Tragen Sie ein feuchtigkeitsspendendes Produkt auf, zum Beispiel ein Hydrogel oder Aftersun, und decken Sie sie mit einem Pflaster oder einer sterilen Kompresse ab.
    - Kleine Brandwunde zweiten Grades mit intakter Haut: Decken Sie sie mit einem Brandwundenverband ab. Haben Sie keinen, tragen Sie Hydrogel auf und decken Sie sie mit einer Kompresse ab.
-   - Große Brandwunde zweiten oder dritten Grades: Legen Sie nach dem Kühlen einen nassen Wundverband an, so steril wie möglich, mit einem Dreiecktuch, einer Kompresse oder einem sauberen Tuch. Frischhaltefolie kann vorläufig dienen. Legen Sie die Folie über einen Arm oder ein Bein, nicht eng darum herum, denn es kann anschwellen. Rufen Sie 112 an.
+   - Große Brandwunde zweiten oder dritten Grades: Legen Sie nach dem Kühlen einen nassen Wundverband an, so steril wie möglich, mit einem Dreiecktuch, einer Kompresse oder einem sauberen Tuch. Frischhaltefolie kann vorläufig dienen. Legen Sie die Folie über einen Arm oder ein Bein, nicht eng darum herum, denn es kann anschwellen. Rufen Sie 112 an oder lassen Sie anrufen. Kommt kein Anruf zustande, siehe Rufen Sie 112 an, wenn.
 9. Lassen Sie Blasen intakt. Stechen Sie sie nicht auf.
 10. Fragen Sie, ob die betroffene Person gegen Tetanus geimpft ist.
 11. Achten Sie nach einem Brand auf Zeichen einer Vergiftung: Es können giftige Gase freigesetzt worden sein.
@@ -64,12 +68,12 @@ Quelle: [Gezondheid en Wetenschap: Brandwunden](https://www.gezondheidenwetensch
 1. Lassen Sie die betroffene Person sich hinlegen.
 2. Halten Sie sie warm.
 3. Verhindern Sie, dass die Brandwunde mit dem Boden in Kontakt kommt, damit sie sauber bleibt.
-4. Rufen Sie 112 an (siehe Thema 6).
+4. Rufen Sie 112 an oder lassen Sie anrufen (siehe Thema 6).
 
 ### Chemische Verbrennung
 
 1. Sorgen Sie für Ihre eigene Sicherheit. Berühren Sie das Produkt nicht ohne Handschuhe, die dagegen beständig sind. Lüften Sie, wenn Dämpfe vorhanden sind.
-2. Rufen Sie 112 an. Rufen Sie danach das Antigiftzentrum unter 070 245 245 an, um Rat zur Ersten Hilfe zu erhalten. Halten Sie die Verpackung bereit.
+2. Rufen Sie 112 an oder lassen Sie anrufen. Funktioniert das Telefon, rufen Sie danach auch das Antigiftzentrum unter 070 245 245 an, um Rat zur Ersten Hilfe zu erhalten. Halten Sie die Verpackung bereit.
 3. Spülen Sie die Haut mit fließendem Wasser, bis der Schmerz nachlässt.
 4. Achten Sie darauf, dass das verdünnte Produkt nicht über gesunde Haut oder in das andere Auge läuft.
 5. Ziehen Sie verunreinigte Kleidung und Schmuck aus, außer sie kleben fest.
@@ -85,7 +89,7 @@ Quelle: [Gezondheid en Wetenschap: Brandwunden](https://www.gezondheidenwetensch
 ### Elektrische Brandwunde
 
 1. Berühren Sie die betroffene Person nicht, solange sie Kontakt mit der Stromquelle hat. Schalten Sie zuerst den Strom ab (siehe Thema 13).
-2. Rufen Sie 112 an.
+2. Rufen Sie 112 an oder lassen Sie anrufen.
 3. Kühlen Sie die sichtbaren Brandwunden und decken Sie sie wie oben beschrieben ab.
 4. Rechnen Sie damit, dass innere Verletzungen vorliegen können.
 
@@ -121,9 +125,14 @@ Quelle: [IFRC Guidelines 2020](https://www.ifrc.org/sites/default/files/2022-02/
 
 Suchen Sie einen Arzt auf bei einer großen Brandwunde ersten Grades, einer Brandwunde zweiten oder dritten Grades, die größer als eine 2-Euro-Münze ist, einer Brandwunde an Gesicht, Händen, Füßen, Gelenken oder Geschlechtsteilen, einer Brandwunde durch Flammen oder wenn der Schmerz nach 15 Minuten Kühlen anhält.
 
-Rufen Sie bei einem chemischen Produkt immer auch das Antigiftzentrum an: 070 245 245.
+Funktioniert das Telefon, rufen Sie bei einem chemischen Produkt immer auch das Antigiftzentrum an: 070 245 245.
 
-Quelle: [Gezondheid en Wetenschap: Brandwunden](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-brandwonden) · [Antigiftzentrum: Wann anrufen?](https://www.antigifcentrum.be/wanneer-bellen/)
+**Kommt kein Anruf zustande**
+
+- Lassen Sie die betroffene Person nur allein, wenn es keine andere Möglichkeit gibt. Sprechen Sie Umstehende direkt an, damit sie Hilfe holen, und geben Sie mit, wo es ist, was passiert ist, wie viele Betroffene es gibt und in welchem Zustand sie sind.
+- Siehe auch Thema 1 (Kommt kein Anruf zustande: Hilfe holen ohne Telefon) und Notrufnummern in der App, Wenn kein Anruf möglich ist.
+
+Quelle: [Gezondheid en Wetenschap: Brandwunden](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-brandwonden) · [Antigiftzentrum: Wann anrufen?](https://www.antigifcentrum.be/wanneer-bellen/) · [ERC Guidelines 2021: First aid](https://cprguidelines-old.erc.edu/assets/guidelines/European-Resuscitation-Council-Guidelines-2021-Fi.pdf) · [112.be: Häufig gestellte Fragen](https://112.be/de/haeufig-gestellte-fragen)
 
 ## Nicht tun
 
@@ -132,7 +141,7 @@ Quelle: [Gezondheid en Wetenschap: Brandwunden](https://www.gezondheidenwetensch
 - Ziehen Sie keine Kleidung und keinen Schmuck weg, die an der Haut festkleben.
 - Wickeln Sie Frischhaltefolie nicht eng um einen Arm oder ein Bein.
 - Berühren Sie ein chemisches Produkt nicht mit bloßen Händen.
-- Versuchen Sie nicht, ein verschlucktes ätzendes Produkt zu verdünnen. Rufen Sie das Antigiftzentrum oder 112 an.
+- Versuchen Sie nicht, ein verschlucktes ätzendes Produkt zu verdünnen. Rufen Sie 112 oder das Antigiftzentrum an. Kommt kein Anruf zustande, siehe Rufen Sie 112 an, wenn.
 - Bringen Sie ohne ärztlichen Rat nichts anderes als sauberes Wasser in ein Auge mit einem chemischen Produkt.
 - Berühren Sie eine Person nach einem Stromunfall nicht, solange der Strom nicht abgeschaltet ist.
 - Verwenden Sie keine Salbe mit Silbersulfadiazin. Die IFRC sagt, dass sie mit einer schlechteren Heilung einhergeht.

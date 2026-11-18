@@ -7,15 +7,15 @@ stappen:
   - "Was vaak je handen met water en zeep, minstens 20 seconden."
   - "Hoest en nies in een papieren zakdoek of in je elleboog. Gooi de zakdoek in een gesloten vuilnisbak."
   - "Ben je ziek: blijf thuis, weg van school, werk en openbare plaatsen. Draag een mondmasker als je bij anderen moet zijn."
-  - "Bel je huisarts als je ziek bent of je niet goed voelt. Ga niet onaangekondigd langs."
+  - "Bel je huisarts als je ziek bent of je niet goed voelt. Ga niet onaangekondigd langs, tenzij het een noodgeval is."
   - "Verlucht je woning regelmatig."
-  - "Bel 112 bij ademnood of pijn op de borst."
+  - "Bel 112 bij ademnood of pijn op de borst. Lukt dat niet, laat iemand anders bellen of vraag hulp in je buurt (zie Noodnummers, Als bellen niet lukt)."
 niet:
   - "Raak geen dode of zieke wilde vogels aan."
   - "Deel geen glazen of borden met een zieke."
   - "Verspreid geen onbevestigde informatie."
 status: concept
-datum: "2026-11-17"
+datum: "2026-11-18"
 bronnen:
   - naam: "Nationaal Crisiscentrum: besmettelijke ziekten"
     url: https://crisiscentrum.be/nl/risicos-belgie/gezondheidsrisicos/besmettelijke-ziekten
@@ -33,6 +33,14 @@ bronnen:
     url: https://www.cdc.gov/respiratory-viruses/prevention/precautions-when-sick.html
   - naam: "CDC: About Handwashing"
     url: https://www.cdc.gov/clean-hands/about/index.html
+  - naam: "Nationaal Crisiscentrum: informatie tijdens een noodsituatie"
+    url: https://crisiscentrum.be/nl/wat-kan-jij-doen/informeer-je/informatie-tijdens-een-noodsituatie
+  - naam: "Nationaal Crisiscentrum: een plan bij je thuis"
+    url: https://crisiscentrum.be/nl/wat-kan-jij-doen/maak-een-plan/een-plan-bij-je-thuis
+  - naam: "112.be: Veelgestelde vragen"
+    url: https://112.be/nl/veelgestelde-vragen
+  - naam: "FOD Economie: vragen van gezinnen over elektriciteitsschaarste"
+    url: https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door
 ---
 
 ## Herkennen
@@ -41,11 +49,11 @@ Virussen verspreiden zich van mens tot mens, via voorwerpen, en ook via mensen d
 
 **Klachten van een luchtweginfectie** zijn onder meer: koorts, rillingen, vermoeidheid, hoest, loopneus en hoofdpijn. Ook mogelijk: last op de borst, minder eetlust, diarree, spier- of lichaamspijn, plots geen smaak of geur meer, niezen, keelpijn, braken, zwakte en een piepende ademhaling.
 
-**Alarmsignalen.** Zoek meteen dringende medische hulp bij ademhalingsproblemen of pijn op de borst. Bel 112.
+**Alarmsignalen.** Zoek meteen dringende medische hulp bij ademhalingsproblemen of pijn op de borst. Bel 112. Lukt dat niet, laat iemand anders bellen of vraag hulp in je buurt (zie Noodnummers, Als bellen niet lukt).
 
-**Hoe je hoort over een uitbraak.** Volg de officiële kanalen: de overheid, de gezondheidsdiensten en je huisarts. In Vlaanderen publiceert het Departement Zorg de epidemiologische toestand en de kleurcode van de Respi-radar.
+**Hoe je hoort over een uitbraak.** Volg de officiële kanalen: de overheid, de gezondheidsdiensten en je huisarts. De overheid informeert via radio en tv, en als het netwerk werkt ook via BE-Alert, websites en sociale media. In Vlaanderen publiceert het Departement Zorg op zijn website de epidemiologische toestand en de kleurcode van de Respi-radar.
 
-Bron: [Ready.gov](https://www.ready.gov/pandemic) · [CDC: als je ziek bent](https://www.cdc.gov/respiratory-viruses/prevention/precautions-when-sick.html) · [Departement Zorg](https://www.departementzorg.be/nl/infectieziekten-en-vaccinaties)
+Bron: [Ready.gov](https://www.ready.gov/pandemic) · [CDC: als je ziek bent](https://www.cdc.gov/respiratory-viruses/prevention/precautions-when-sick.html) · [Departement Zorg](https://www.departementzorg.be/nl/infectieziekten-en-vaccinaties) · [Nationaal Crisiscentrum: informatie tijdens een noodsituatie](https://crisiscentrum.be/nl/wat-kan-jij-doen/informeer-je/informatie-tijdens-een-noodsituatie) · [112.be: Veelgestelde vragen](https://112.be/nl/veelgestelde-vragen) · [FOD Economie: vragen van gezinnen over elektriciteitsschaarste](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door)
 
 ## Voorbereiden
 
@@ -67,10 +75,11 @@ Bron: [Ready.gov](https://www.ready.gov/pandemic) · [CDC: als je ziek bent](htt
 
 - Bereid je voor op het sluiten van scholen, werkplekken en ontmoetingsplaatsen. Regel hoe je thuis kunt werken en hoe kinderen les kunnen volgen.
 - Maak een gezinsplan: wat doe je, wat heb je nodig, wie zorgt voor wie als iemand ziek wordt.
+- Zet het nummer van je huisarts en van de huisartsenwachtdienst op een papieren lijst met contactpersonen.
 - Bekijk wat je ziekteverzekering dekt, ook raadplegingen op afstand.
 - Bewaar een beveiligde digitale kopie van je belangrijke documenten. Let op oplichting en fraude.
 
-Bron: [Nationaal Crisiscentrum: besmettelijke ziekten](https://crisiscentrum.be/nl/risicos-belgie/gezondheidsrisicos/besmettelijke-ziekten) · [Nationaal Crisiscentrum: noodpakket](https://crisiscentrum.be/nl/wat-kan-jij-doen/maak-een-noodpakket/een-noodpakket-bij-je-thuis) · [Ready.gov](https://www.ready.gov/pandemic)
+Bron: [Nationaal Crisiscentrum: besmettelijke ziekten](https://crisiscentrum.be/nl/risicos-belgie/gezondheidsrisicos/besmettelijke-ziekten) · [Nationaal Crisiscentrum: noodpakket](https://crisiscentrum.be/nl/wat-kan-jij-doen/maak-een-noodpakket/een-noodpakket-bij-je-thuis) · [Ready.gov](https://www.ready.gov/pandemic) · [Nationaal Crisiscentrum: plan bij je thuis](https://crisiscentrum.be/nl/wat-kan-jij-doen/maak-een-plan/een-plan-bij-je-thuis)
 
 ## Tijdens
 
@@ -92,6 +101,7 @@ Is er geen water en zeep, gebruik dan handgel met minstens 60 procent alcohol. W
 
 - Raadpleeg je huisarts als je griepklachten hebt of je niet goed voelt. Bel eerst.
 - Buiten de uren van je huisarts kun je terecht bij de huisartsenwachtdienst. In Gent bel je daarvoor 1733.
+- Lukt bellen niet en is het dringend, zie Noodnummers in de app, Als bellen niet lukt.
 - Blijf weg van school, werk en openbare plaatsen zolang je ziek bent.
 - Blijf thuis ook zoveel mogelijk weg van huisgenoten die niet ziek zijn.
 - Draag een mondmasker als je bij anderen bent of het huis uit moet.
@@ -122,7 +132,7 @@ Is er geen water en zeep, gebruik dan handgel met minstens 60 procent alcohol. W
 ### In de auto
 
 - Moet je naar een arts, bel dan eerst.
-- Bij een medisch noodgeval bel je 112. Blijf waar je bent, met een mondmasker als dat kan, tot de hulp er is.
+- Bij een medisch noodgeval bel je 112. Lukt dat niet, laat iemand anders bellen of vraag hulp in je buurt (zie Noodnummers, Als bellen niet lukt). Blijf waar je bent, met een mondmasker als dat kan, tot de hulp er is.
 
 ### Op het werk of op school
 
@@ -148,10 +158,10 @@ Is er geen water en zeep, gebruik dan handgel met minstens 60 procent alcohol. W
 - Was je handen na contact met dieren, dierenvoer en uitwerpselen.
 - Vogelgriep kan andere diersoorten besmetten, ook de mens, al gebeurt dat weinig. Ook wilde zoogdieren, zoals vossen, raakten al besmet door zieke en dode vogels te eten.
 - Raak geen dode of zieke wilde vogels aan.
-- Meld dode vogels en dode vossen aan de gratis influenzalijn van het FAVV: 0800 99 777. Dat nummer is alleen bereikbaar in de voormiddag op weekdagen. Je kunt ook terecht bij het provinciaal aangeduide vogelopvangcentrum (VOC), bereikbaar van 8 tot 22 uur, ook in het weekend en op feestdagen.
+- Werkt de telefoon, meld dan dode vogels en dode vossen aan de gratis influenzalijn van het FAVV: 0800 99 777. Dat nummer is alleen bereikbaar in de voormiddag op weekdagen. Je kunt ook terecht bij het provinciaal aangeduide vogelopvangcentrum (VOC), bereikbaar van 8 tot 22 uur, ook in het weekend en op feestdagen.
 - Hou huisdieren weg van dode en zieke vogels.
 
-Bron: [Nationaal Crisiscentrum: besmettelijke ziekten](https://crisiscentrum.be/nl/risicos-belgie/gezondheidsrisicos/besmettelijke-ziekten) · [CDC: handen wassen](https://www.cdc.gov/clean-hands/about/index.html) · [CDC: als je ziek bent](https://www.cdc.gov/respiratory-viruses/prevention/precautions-when-sick.html) · [Ready.gov](https://www.ready.gov/pandemic) · [Stad Gent](https://stad.gent/nl/samenleven-welzijn-gezondheid/gezondheid/wachtdiensten) · [Agentschap Natuur en Bos](https://natuurenbos.be/sites/default/files/2025-11/briefvogelgriepaanpakvoorgemeenten20251125.pdf) · [Nationaal Crisiscentrum: noodpakket](https://crisiscentrum.be/nl/wat-kan-jij-doen/maak-een-noodpakket/een-noodpakket-bij-je-thuis)
+Bron: [Nationaal Crisiscentrum: besmettelijke ziekten](https://crisiscentrum.be/nl/risicos-belgie/gezondheidsrisicos/besmettelijke-ziekten) · [CDC: handen wassen](https://www.cdc.gov/clean-hands/about/index.html) · [CDC: als je ziek bent](https://www.cdc.gov/respiratory-viruses/prevention/precautions-when-sick.html) · [Ready.gov](https://www.ready.gov/pandemic) · [Stad Gent](https://stad.gent/nl/samenleven-welzijn-gezondheid/gezondheid/wachtdiensten) · [Agentschap Natuur en Bos](https://natuurenbos.be/sites/default/files/2025-11/briefvogelgriepaanpakvoorgemeenten20251125.pdf) · [Nationaal Crisiscentrum: noodpakket](https://crisiscentrum.be/nl/wat-kan-jij-doen/maak-een-noodpakket/een-noodpakket-bij-je-thuis) · [112.be: Veelgestelde vragen](https://112.be/nl/veelgestelde-vragen) · [FOD Economie: vragen van gezinnen over elektriciteitsschaarste](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door)
 
 ## Daarna
 
@@ -176,6 +186,8 @@ Bron: [Nationaal Crisiscentrum: besmettelijke ziekten](https://crisiscentrum.be/
 Bron: [Nationaal Crisiscentrum: besmettelijke ziekten](https://crisiscentrum.be/nl/risicos-belgie/gezondheidsrisicos/besmettelijke-ziekten) · [Ready.gov](https://www.ready.gov/pandemic) · [Agentschap Natuur en Bos](https://natuurenbos.be/sites/default/files/2025-11/briefvogelgriepaanpakvoorgemeenten20251125.pdf)
 
 ## Meer informatie
+
+Vooraf te lezen, of als het internet werkt:
 
 - Risico en tips: [Nationaal Crisiscentrum: besmettelijke ziekten](https://crisiscentrum.be/nl/risicos-belgie/gezondheidsrisicos/besmettelijke-ziekten)
 - Infectieziekten en de Respi-radar in Vlaanderen: [Departement Zorg](https://www.departementzorg.be/nl/infectieziekten-en-vaccinaties)

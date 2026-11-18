@@ -4,7 +4,7 @@ module: schuilen
 volgorde: 2
 kort: "Comment choisir et aménager à l'avance le meilleur endroit de votre logement : critères, fenêtres, portes, ventilation, réserves, enfants et animaux."
 status: concept
-datum: "2026-11-17"
+datum: "2026-11-18"
 bronnen:
   - naam: "Centre de crise National : Se mettre à l'abri"
     url: https://centredecrise.be/fr/que-pouvez-vous-faire/le-bon-reflexe/se-mettre-labri
@@ -43,14 +43,14 @@ bronnen:
   - naam: "Risque nucléaire : Se mettre à l'abri, la meilleure protection"
     url: https://risquenucleaire.be/fr/que-pouvez-vous-faire/mise-labri-la-meilleure-action-de-protection
 vertaling: machine
-origineel_datum: "2026-11-17"
+origineel_datum: "2026-11-18"
 ---
 
 ## Pourquoi choisir l'endroit à l'avance
 
 Face à de nombreuses menaces, vous avez peu de temps. La Finlande indique qu'en cas de menace aérienne, il y a très peu de temps entre l'alerte et le danger réel, et que vous vous abritez donc là où vous vous trouvez à ce moment-là. Dans les régions peu peuplées et dans les quartiers de maisons individuelles, les gens s'abritent presque toujours sur place, selon les autorités finlandaises. Celui qui sait à l'avance quelle pièce de la maison est la meilleure ne perd pas de temps.
 
-Le Centre de crise National recommande d'établir un plan d'urgence avec les personnes qui vivent sous votre toit, de discuter à l'avance des trois étapes de la mise à l'abri avec la famille, les voisins ou les collègues, et d'exercer régulièrement le plan. La Finlande recommande d'apprendre à couper la ventilation, à la maison et dans les bâtiments où vous allez souvent.
+Le Centre de crise National recommande d'établir un plan d'urgence avec les personnes qui vivent sous votre toit, de discuter à l'avance des trois étapes de la mise à l'abri avec la famille, les voisins ou les collègues, et d'exercer régulièrement le plan. La Finlande recommande d'apprendre à couper la ventilation, à la maison et dans les bâtiments où vous allez souvent. Convenez aussi avec vos voisins de la manière de vous joindre si le téléphone ou Internet ne fonctionne pas (Centre de crise).
 
 Un abri dans la maison ne remplace pas un véritable abri de protection civile. Les autorités tchèques ont justement élaboré leur guide parce que les abris permanents ne couvrent qu'une petite partie de la population et qu'un abri improvisé (improvizovaný úkryt) est alors la solution. La protection civile ukrainienne indique que la règle des deux murs n'offre pas une sécurité totale.
 
@@ -213,7 +213,8 @@ Source : [Centre de crise National : Se mettre à l'abri](https://centredecrise.
 
 - Eau potable : entre 3 et 10 litres par personne et par jour. 3 litres suffisent tout juste pour boire et cuisiner.
 - De la nourriture de longue conservation que vous pouvez préparer sans eau, gaz ni électricité, et un ouvre-boîte ou un couteau de poche.
-- Une radio à piles ou une radio à manivelle, de préférence avec DAB+ et FM, des piles rechargeables et des piles de rechange.
+- Une radio à piles ou une radio à manivelle, de préférence avec DAB+ et FM, des piles rechargeables et des piles de rechange. Vous restez ainsi informé même sans électricité : lors d'une coupure de courant, Internet et les réseaux mobiles peuvent aussi tomber en panne.
+- Une liste papier des numéros de téléphone importants.
 - Une lampe de poche, de préférence à manivelle. Des vêtements chauds ou des couvertures.
 - Des comprimés d'iode. Ne les prenez jamais de votre propre initiative.
 - De l'alimentation pour bébé, des langes et des jouets si vous avez de jeunes enfants. De la nourriture et du matériel pour les animaux de compagnie.
@@ -262,7 +263,7 @@ Source : [Centre de crise National : Se mettre à l'abri](https://centredecrise.
 
 ## Comportement pendant la mise à l'abri
 
-- Suivez les instructions des autorités via la radio, la télévision, BE-Alert et les sites web officiels (Centre de crise).
+- Suivez les instructions des autorités sur une radio à piles ou une radio à manivelle. Soyez aussi attentif aux véhicules de police équipés de haut-parleurs dans la rue. Si le réseau fonctionne, les instructions arrivent aussi via BE-Alert et les sites web officiels (Centre de crise).
 - N'appelez pas inutilement. Un réseau surchargé peut perturber les secours (Risque nucléaire).
 - Ne fumez pas dans l'abri (Tchéquie).
 - Soyez attentif aux autres : ne faites pas de bruit et évitez les disputes. Un abri exige beaucoup des personnes, physiquement et psychologiquement (Tchéquie). L'Ukraine demande de la discipline et le moins d'allées et venues possible.
@@ -270,7 +271,7 @@ Source : [Centre de crise National : Se mettre à l'abri](https://centredecrise.
 - Avant de vous rendre dans un abri en dehors de votre logement, coupez le gaz, l'électricité et l'eau et fermez les fenêtres et les grilles d'aération (Ukraine). La Suisse cite aussi : éteindre les appareils électriques, éteindre les feux ouverts, prévenir les voisins, installer les animaux de compagnie le mieux possible avec de l'eau et de la nourriture.
 - Si vous ne pouvez pas quitter la pièce par vous-même, dites-le à vos voisins (Ukraine).
 
-Source : [Centre de crise National : Se mettre à l'abri](https://centredecrise.be/fr/que-pouvez-vous-faire/le-bon-reflexe/se-mettre-labri) · [Risque nucléaire : Se mettre à l'abri, la meilleure protection](https://risquenucleaire.be/fr/que-pouvez-vous-faire/mise-labri-la-meilleure-action-de-protection) · [Sebeochrana ukrytím](https://mv.gov.cz/clanek/sebeochrana-ukrytim.aspx) · [Dovidka.info: What is a shelter](https://dovidka.info/en/what-is-shelter/) · [Suomi.fi: Military conflicts and civil defence](https://www.suomi.fi/guides/preparedness/how-to-prepare-for-incidents-and-crises/military-conflicts-and-civil-defence) · [BABS: Der Schutzraum](https://www.sz.ch/public/upload/assets/87489/Der_Schutzraum.pdf?fp=2)
+Source : [Centre de crise National : Se mettre à l'abri](https://centredecrise.be/fr/que-pouvez-vous-faire/le-bon-reflexe/se-mettre-labri) · [Centre de crise National : brochure Samen voorbereid](https://centredecrise.be/sites/default/files/documents/files/WEB-Brochure-Pr%C3%AAts.%20Ensemble-FR.pdf) · [Risque nucléaire : Se mettre à l'abri, la meilleure protection](https://risquenucleaire.be/fr/que-pouvez-vous-faire/mise-labri-la-meilleure-action-de-protection) · [Sebeochrana ukrytím](https://mv.gov.cz/clanek/sebeochrana-ukrytim.aspx) · [Dovidka.info: What is a shelter](https://dovidka.info/en/what-is-shelter/) · [Suomi.fi: Military conflicts and civil defence](https://www.suomi.fi/guides/preparedness/how-to-prepare-for-incidents-and-crises/military-conflicts-and-civil-defence) · [BABS: Der Schutzraum](https://www.sz.ch/public/upload/assets/87489/Der_Schutzraum.pdf?fp=2)
 
 ## Enfants
 

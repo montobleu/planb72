@@ -1,9 +1,9 @@
 ---
 titel: État de choc
 volgorde: 6
-kort: "Le choc est une défaillance de la circulation sanguine. Allongez la personne, traitez la cause, appelez le 112 et gardez-la au chaud et au calme."
+kort: "Le choc est une défaillance de la circulation sanguine. Allongez la personne, traitez la cause, faites appeler le 112 ou chercher de l'aide et gardez-la au chaud et au calme."
 status: concept
-datum: "2026-11-17"
+datum: "2026-11-18"
 bronnen:
   - naam: "Gezondheid en Wetenschap (Rode Kruis-Vlaanderen) : Premiers secours en cas de choc"
     url: https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-shock
@@ -17,8 +17,12 @@ bronnen:
     url: https://www.erc.edu/media/p5ymaeej/gl2025_layperson_book_ipdf-v11-e.pdf
   - naam: "FEMA : Until Help Arrives, instructor guide"
     url: https://ready.gov/sites/default/files/2020-07/until-help-arrives-instructor-guide.pdf
+  - naam: "European Resuscitation Council Guidelines 2021 : First aid"
+    url: https://cprguidelines-old.erc.edu/assets/guidelines/European-Resuscitation-Council-Guidelines-2021-Fi.pdf
+  - naam: "112.be : Questions fréquentes"
+    url: https://112.be/fr/questions-frequentes
 vertaling: machine
-origineel_datum: "2026-11-17"
+origineel_datum: "2026-11-18"
 ---
 
 ## Reconnaître
@@ -51,7 +55,7 @@ Source : [Gezondheid en Wetenschap : Choc](https://www.gezondheidenwetenschap.be
 1. Assurez la sécurité. Mettez des gants jetables si vous en avez.
 2. Aidez la victime à se coucher sur le dos.
 3. Évaluez l'état : cherchez ce qui ne va pas, vérifiez la conscience et, si nécessaire, libérez les voies respiratoires et vérifiez la respiration.
-4. Appelez immédiatement le 112.
+4. Appelez immédiatement le 112 ou faites appeler quelqu'un. Si l'appel ne passe pas, voir Appelez le 112 si.
 5. Traitez la cause si vous la connaissez :
    - Hémorragie externe grave : appuyez avec les mains sur la plaie pendant 10 minutes, gardez le membre en hauteur si possible, posez ensuite un pansement compressif ou appuyez sur un tissu propre, et continuez à appuyer jusqu'à l'arrivée des secours (voir le sujet 3).
    - Réaction allergique grave : aidez la personne à utiliser son propre auto-injecteur d'adrénaline (voir le sujet 15).
@@ -85,7 +89,7 @@ Le choc met la vie en danger et nécessite toujours des soins médicaux. Ce que 
 - Gardez la victime couchée et calme. Ne la laissez pas se lever ou marcher.
 - Parlez à la victime, tenez-lui la main et regardez-la dans les yeux. Si vous devez partir pour aider une autre victime, dites-le et demandez à quelqu'un de rester.
 - Vérifiez chaque minute la conscience et la respiration. Notez les changements.
-- Si l'état change, signalez-le à nouveau au 112. Si quelqu'un doit aller chercher de l'aide, donnez-lui des informations précises sur le lieu et l'état de la victime.
+- Si l'état change et que le téléphone fonctionne, signalez-le à nouveau au 112. Si quelqu'un doit aller chercher de l'aide, donnez-lui des informations précises sur le lieu et l'état de la victime.
 
 Source : [IFRC Guidelines 2020](https://www.ifrc.org/sites/default/files/2022-02/EN_GFARC_GUIDELINES_2020.pdf) · [FEMA : Until Help Arrives](https://ready.gov/sites/default/files/2020-07/until-help-arrives-instructor-guide.pdf) · [Gezondheid en Wetenschap : Choc](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-shock)
 
@@ -98,7 +102,12 @@ Source : [IFRC Guidelines 2020](https://www.ifrc.org/sites/default/files/2022-02
 
 Expliquez clairement au service de secours quel est l'état de la victime, quels signes de choc vous voyez et quelle peut être la cause.
 
-Source : [Gezondheid en Wetenschap : Choc](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-shock) · [Gezondheid en Wetenschap : Hémorragie interne dans le ventre](https://www.gezondheidenwetenschap.be/eerste-hulp/inwendige-bloeding-in-de-buik) · [IFRC Guidelines 2020](https://www.ifrc.org/sites/default/files/2022-02/EN_GFARC_GUIDELINES_2020.pdf)
+**Si l'appel ne passe pas**
+
+- Ne laissez la victime seule que s'il n'y a pas d'autre possibilité. Désignez directement un témoin pour aller chercher de l'aide et indiquez-lui où c'est, ce qui s'est passé, combien de victimes il y a et dans quel état elles sont.
+- Voir aussi le sujet 1 (Si l'appel ne passe pas : chercher de l'aide sans téléphone) et Numéros d'urgence dans l'application, Si l'appel ne passe pas.
+
+Source : [Gezondheid en Wetenschap : Choc](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-shock) · [Gezondheid en Wetenschap : Hémorragie interne dans le ventre](https://www.gezondheidenwetenschap.be/eerste-hulp/inwendige-bloeding-in-de-buik) · [IFRC Guidelines 2020](https://www.ifrc.org/sites/default/files/2022-02/EN_GFARC_GUIDELINES_2020.pdf) · [ERC Guidelines 2021 : First aid](https://cprguidelines-old.erc.edu/assets/guidelines/European-Resuscitation-Council-Guidelines-2021-Fi.pdf) · [112.be : Questions fréquentes](https://112.be/fr/questions-frequentes)
 
 ## À ne pas faire
 

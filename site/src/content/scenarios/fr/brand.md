@@ -6,9 +6,9 @@ stappen:
   - "Sortez dès que vous entendez un détecteur de fumée ou voyez de la fumée. En chemin, prévenez tout le monde dans la maison et dans le bâtiment."
   - "Fermez toutes les portes derrière vous. Une porte fermée retient la fumée jusqu'à 10 minutes de plus."
   - "Restez près du sol s'il y a de la fumée. C'est là que l'air est le plus clair et reste respirable le plus longtemps."
-  - "Appelez le 112 depuis l'extérieur. Dites qui vous êtes, ce qui se passe, où c'est et s'il y a des blessés."
+  - "Appelez le 112 depuis l'extérieur. Dites qui vous êtes, ce qui se passe, où c'est et s'il y a des blessés. Si vous n'y arrivez pas, demandez à quelqu'un d'autre d'appeler ou demandez de l'aide dans votre voisinage (voir Numéros d'urgence, Si l'appel ne passe pas)."
   - "Allez à l'avant du bâtiment ou à un autre endroit où les pompiers vous voient. Ne retournez jamais à l'intérieur."
-  - "Si vous ne pouvez pas sortir : allez dans une pièce sans fumée, fermez la porte, appelez le 112 et indiquez où vous êtes."
+  - "Si vous ne pouvez pas sortir : allez dans une pièce sans fumée, fermez la porte et rendez-vous visible à la fenêtre. Appelez le 112 et dites où vous êtes."
   - "N'éteignez qu'un petit feu naissant, et seulement si vous savez comment faire. N'éteignez jamais une poêle ou une friteuse en feu avec de l'eau."
 niet:
   - "Jamais d'eau sur une poêle ou une friteuse en feu."
@@ -16,7 +16,7 @@ niet:
   - "Ne pas ouvrir une porte chaude ou sous laquelle passe de la fumée."
   - "Ne pas se cacher des pompiers."
 status: concept
-datum: "2026-11-17"
+datum: "2026-11-18"
 bronnen:
   - naam: "Ne jouez pas avec le feu : plan d'évacuation"
     url: https://speelnietmetvuur.be/vluchtplan/
@@ -42,8 +42,16 @@ bronnen:
     url: https://www.ready.gov/home-fires
   - naam: "U.S. Fire Administration: cooking fire safety"
     url: https://www.usfa.fema.gov/prevention/home-fires/prevent-fires/cooking/
+  - naam: "112.be : questions fréquentes"
+    url: https://112.be/fr/questions-frequentes
+  - naam: "112.be : comment appeler le 112 ?"
+    url: https://112.be/fr/how-call/comment-appeler-le-112
+  - naam: "SPF Économie : questions des ménages sur la pénurie d'électricité"
+    url: https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door
+  - naam: "Inspections (Pays-Bas) : indisponibilité du 112 le 24 juin 2019"
+    url: https://zoek.officielebekendmakingen.nl/blg-942150.pdf
 vertaling: machine
-origineel_datum: "2026-11-17"
+origineel_datum: "2026-11-18"
 ---
 
 ## Reconnaître
@@ -113,15 +121,22 @@ Source : [Ne jouez pas avec le feu : détecteurs de fumée](https://speelnietmet
 4. S'il y a de la fumée, restez bas. Rampez sous la fumée jusqu'à la sortie.
 5. Touchez la poignée et la porte avant d'ouvrir une porte. Si elle est chaude ou si de la fumée passe autour de la porte, laissez-la fermée et utilisez votre deuxième chemin d'évacuation. Si vous ouvrez une porte, faites-le lentement et soyez prêt à la refermer immédiatement.
 6. Allez au point de rassemblement à l'avant du bâtiment.
-7. Appelez le 112 depuis l'extérieur. Dites qui vous êtes, ce qui se passe, où c'est et s'il y a des blessés.
+7. Appelez le 112 depuis l'extérieur. Dites qui vous êtes, ce qui se passe, où c'est et s'il y a des blessés. Si vous n'appelez pas depuis le lieu de l'incendie, dites-le à l'opérateur.
 8. Ne retournez jamais à l'intérieur, même pour quelque chose que vous avez oublié.
+
+**Si l'appel ne passe pas**
+
+- Demandez à des voisins ou à des passants d'appeler, ou essayez un autre appareil. Déplacez-vous de quelques mètres et réessayez.
+- Si vous pouvez encore appeler mais que le 112 est injoignable, essayez le 101.
+- Si l'appel ne fonctionne pas du tout : demandez de l'aide dans votre voisinage. Voir Numéros d'urgence dans l'app, Si l'appel ne passe pas.
+- Aux Pays-Bas, lors de la panne nationale du 112 en 2019, les autorités ont envoyé les citoyens vers la caserne de pompiers ou le commissariat de police le plus proche. La carte de l'app (bouton Le plus proche) les affiche.
 
 **Votre chemin d'évacuation est bloqué**
 
 1. Allez dans une pièce sans fumée et fermez la porte. Fermez si possible d'autres portes entre vous et le feu.
 2. Bouchez les fentes et les ouvertures de ventilation avec un tissu ou du ruban adhésif.
-3. Appelez le 112 et dites où vous êtes.
-4. Ouvrez une fenêtre et rendez-vous visible, par exemple avec un tissu clair ou une lampe de poche, pour que les pompiers ou les voisins sachent que vous êtes là.
+3. Ouvrez une fenêtre et rendez-vous visible, par exemple avec un tissu clair ou une lampe de poche, pour que les pompiers ou les voisins sachent que vous êtes là.
+4. Appelez le 112 et dites où vous êtes.
 
 **Éteindre vous-même : seulement si c'est sans danger**
 
@@ -139,16 +154,16 @@ Source : [Ne jouez pas avec le feu : détecteurs de fumée](https://speelnietmet
 
 - Refroidissez la brûlure pendant environ 20 minutes sous de l'eau courante tiède d'environ 20 °C. Refroidissez seulement la plaie, pour que la victime ne soit pas en hypothermie.
 - N'appliquez rien sur la plaie.
-- Allez chez un médecin si la plaie est plus grande qu'une pièce de 2 euros. Appelez les services de secours en cas de cloques grandes ou graves, ou si la peau est brune ou noire.
+- Allez chez un médecin si la plaie est plus grande qu'une pièce de 2 euros. Appelez les services de secours en cas de cloques grandes ou graves, ou si la peau est brune ou noire. Si l'appel ne passe pas, voir plus haut. Voir aussi la fiche de premiers secours Brûlures.
 
-Source : [Ne jouez pas avec le feu : plan d'évacuation](https://speelnietmetvuur.be/vluchtplan/) · [Ne jouez pas avec le feu : fermez la porte](https://speelnietmetvuur.be/doededeurdicht/) · [Ne jouez pas avec le feu : cuisine](https://speelnietmetvuur.be/brandveiligheid-keuken/) · [KCCE : Sécurité incendie pour les personnes âgées](https://kcce.eu/sites/default/files/explorer/partie_s_incendie/la_securite_incendie_pour_les_seniors_2017.pdf) · [Ready.gov: home fires](https://www.ready.gov/home-fires) · [U.S. Fire Administration: cooking](https://www.usfa.fema.gov/prevention/home-fires/prevent-fires/cooking/) · [Centre de crise National : évacuer](https://centredecrise.be/fr/que-pouvez-vous-faire/le-bon-reflexe/evacuer)
+Source : [Ne jouez pas avec le feu : plan d'évacuation](https://speelnietmetvuur.be/vluchtplan/) · [Ne jouez pas avec le feu : fermez la porte](https://speelnietmetvuur.be/doededeurdicht/) · [Ne jouez pas avec le feu : cuisine](https://speelnietmetvuur.be/brandveiligheid-keuken/) · [KCCE : Sécurité incendie pour les personnes âgées](https://kcce.eu/sites/default/files/explorer/partie_s_incendie/la_securite_incendie_pour_les_seniors_2017.pdf) · [Ready.gov: home fires](https://www.ready.gov/home-fires) · [U.S. Fire Administration: cooking](https://www.usfa.fema.gov/prevention/home-fires/prevent-fires/cooking/) · [Centre de crise National : évacuer](https://centredecrise.be/fr/que-pouvez-vous-faire/le-bon-reflexe/evacuer) · [112.be : questions fréquentes](https://112.be/fr/questions-frequentes) · [112.be : comment appeler le 112 ?](https://112.be/fr/how-call/comment-appeler-le-112) · [SPF Économie : questions des ménages sur la pénurie d'électricité](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door) · [Inspections : indisponibilité du 112 le 24 juin 2019](https://zoek.officielebekendmakingen.nl/blg-942150.pdf)
 
 ### À l'extérieur ou en déplacement
 
-- Si vous voyez de la fumée ou du feu dans un autre bâtiment, appelez le 112. Dites où c'est et ce que vous voyez.
-- Si vous ne pouvez pas atteindre une personne à l'intérieur, n'entrez pas. Appelez le 112 et dites aux services de secours où se trouve cette personne.
+- Si vous voyez de la fumée ou du feu dans un autre bâtiment, appelez le 112. Dites où c'est et ce que vous voyez. Si l'appel ne passe pas, demandez à quelqu'un d'autre d'appeler ou demandez de l'aide dans votre voisinage (voir À la maison, Si l'appel ne passe pas).
+- Si vous ne pouvez pas atteindre une personne à l'intérieur, n'entrez pas. Dites aux pompiers où se trouve cette personne : via le 112, ou dès leur arrivée.
 
-Source : [Ready.gov: home fires](https://www.ready.gov/home-fires) · [Ne jouez pas avec le feu : plan d'évacuation](https://speelnietmetvuur.be/vluchtplan/) · [1722](https://www.1722.be/fr/index.html)
+Source : [Ready.gov: home fires](https://www.ready.gov/home-fires) · [Ne jouez pas avec le feu : plan d'évacuation](https://speelnietmetvuur.be/vluchtplan/) · [1722](https://www.1722.be/fr/index.html) · [112.be : questions fréquentes](https://112.be/fr/questions-frequentes)
 
 ### Au travail ou à l'école
 
@@ -173,7 +188,7 @@ Source : [Ready.gov: home fires](https://www.ready.gov/home-fires) · [Ne jouez 
 - La nuit, posez près du lit un téléphone contenant les numéros d'urgence, une lampe de poche, vos lunettes et votre appareil auditif.
 - Si vous utilisez un déambulateur ou un fauteuil roulant, vérifiez que toutes les sorties sont assez larges.
 - Personnes sourdes et malentendantes : choisissez des détecteurs avec signal lumineux ou coussin vibrant. Pour les personnes aveugles et malvoyantes, il existe des détecteurs avec un signal sonore.
-- Si vous ne pouvez pas sortir par vos propres moyens : restez dans une pièce sans fumée, fermez la porte, ouvrez une fenêtre, gardez un téléphone à portée de main et veillez à ce que les services de secours ou les voisins sachent que vous êtes là.
+- Si vous ne pouvez pas sortir par vos propres moyens : restez dans une pièce sans fumée, fermez la porte, ouvrez une fenêtre et veillez à ce que les voisins ou les services de secours sachent que vous êtes là. Gardez un téléphone à portée de main.
 - Ne fumez pas pendant l'utilisation d'oxygène médical.
 - Utilisez une couverture chauffante comme l'indique le mode d'emploi, pas pliée, et éteignez-la avant de vous endormir.
 

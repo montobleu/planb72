@@ -4,7 +4,7 @@ module: dieren
 volgorde: 1
 kort: "Animaux de compagnie, animaux d'assistance, animaux d'aquarium et de terrarium, chevaux et bétail : le plan d'urgence, la réserve, évacuer ou laisser sur place, le froid et la chaleur, et ce que les autorités imposent en cas d'incident nucléaire ou chimique."
 status: concept
-datum: "2026-11-17"
+datum: "2026-11-18"
 bronnen:
   - naam: "Centre de crise National : Un plan pour les animaux"
     url: "https://centredecrise.be/fr/que-pouvez-vous-faire/faites-un-plan/un-plan-pour-vos-animaux"
@@ -49,7 +49,7 @@ bronnen:
   - naam: "CDC: About Handwashing"
     url: "https://www.cdc.gov/clean-hands/about/index.html"
 vertaling: machine
-origineel_datum: "2026-11-17"
+origineel_datum: "2026-11-18"
 ---
 
 Le Centre de crise vous demande d'intégrer vos animaux dans votre plan d'urgence et votre kit d'urgence. Ready.gov explique pourquoi : celui qui a prévu un plan à l'avance pour lui-même et ses animaux a moins de difficultés, de stress et de soucis quand il faut décider vite. Le MCF le dit brièvement : vous êtes responsable des soins et du bien-être de votre animal en cas de crise.
@@ -65,7 +65,7 @@ Le Centre de crise demande ces étapes :
 3. **Identification.** Veillez à ce que votre animal puisse être identifié, de préférence par une puce. Tenez à jour votre nom et votre adresse dans l'enregistrement en ligne (CatID, DogID).
 4. **Vaccination.** Veillez à ce que votre animal soit vacciné et mettez une copie du carnet de vaccination dans votre kit d'urgence.
 5. **Transport.** Prévoyez comment transporter votre animal en sécurité, avec un panier de transport ou un sac, et habituez-le à celui-ci.
-6. **Personnes de contact.** Ajoutez le numéro de téléphone de votre vétérinaire à vos numéros importants.
+6. **Personnes de contact.** Ajoutez le numéro de téléphone de votre vétérinaire à vos numéros importants. Un appel ne passe que si le réseau fonctionne.
 
 Ce qu'ajoutent d'autres sources :
 
@@ -75,7 +75,7 @@ Ce qu'ajoutent d'autres sources :
 - **Un autocollant** sur une fenêtre ou la porte d'entrée indiquant quels animaux de compagnie vous avez et combien. Selon Diereninrampen.nl, on peut s'en procurer aux Pays-Bas auprès des organisations d'aide aux animaux et des communes.
 - **Pourquoi la vaccination.** Diereninrampen.nl : si, lors d'une évacuation, vous ne pouvez pas prouver que votre animal est vacciné, il peut être refusé et placé en quarantaine, surtout pour des maladies comme la rage.
 - **Pas de place assurée dans un refuge pour animaux.** Les refuges veulent aider mais ont souvent à peine de la place ; organisez-vous vous-même (Diereninrampen.nl).
-- **Sur papier.** Imprimez les numéros de téléphone, les adresses et les itinéraires importants, pour les avoir en cas de panne de courant et d'internet (Diereninrampen.nl).
+- **Sur papier.** Imprimez les numéros de téléphone, les adresses et les itinéraires importants, pour les avoir en cas de panne de courant et d'internet (Diereninrampen.nl). Notez aussi l'adresse de votre vétérinaire. La carte de l'application (bouton Le plus proche) indique les vétérinaires.
 
 Source : [Centre de crise National : Un plan pour les animaux](https://centredecrise.be/fr/que-pouvez-vous-faire/faites-un-plan/un-plan-pour-vos-animaux) · [Ready.gov: Pets](https://www.ready.gov/pets) · [Diereninrampen.nl : Sauvez votre animal en cas de catastrophe](https://www.diereninrampen.nl/red-je-dier-bij-een-ramp)
 
@@ -148,7 +148,7 @@ Source : [Ready.gov: Pets](https://www.ready.gov/pets)
 
 **Si votre animal ne peut pas ou ne doit pas venir** (Centre de crise)
 
-1. Signalez aux services de secours qu'il y a un ou plusieurs animaux dans votre logement.
+1. Signalez aux services de secours qu'il y a un ou plusieurs animaux dans votre logement. Un autocollant sur une fenêtre ou la porte d'entrée indique quels animaux il y a et combien (Diereninrampen.nl, voir Le plan pour vos animaux).
 2. Dites où l'animal se cache souvent et comment il réagit en général face aux inconnus.
 3. Préparez suffisamment d'eau et de nourriture pour 24 heures.
 4. Posez des journaux sur le sol pour les déjections.
@@ -294,7 +294,7 @@ Source : [Centre de crise National : brochure Préparés ensemble](https://centr
 - [ ] Médicaments et une trousse de premiers secours pour l'animal.
 - [ ] Panier ou cage de transport par animal, et l'animal habitué à celui-ci.
 - [ ] Photo de vous avec votre animal.
-- [ ] Vétérinaire parmi les numéros importants.
+- [ ] Vétérinaire parmi les numéros importants, avec son adresse, sur papier.
 - [ ] Pour le bétail et les chevaux : identification, itinéraires, transport et une destination.
 
-Source : [Centre de crise National : Un plan pour les animaux](https://centredecrise.be/fr/que-pouvez-vous-faire/faites-un-plan/un-plan-pour-vos-animaux) · [Centre de crise National : brochure Préparés ensemble](https://centredecrise.be/sites/default/files/documents/files/WEB-Brochure-Pr%C3%AAts.%20Ensemble-FR.pdf) · [Ready.gov: Pets](https://www.ready.gov/pets) · [MCF : In case of crisis or war](https://rib.msb.se/filer/pdf/31523.pdf)
+Source : [Centre de crise National : Un plan pour les animaux](https://centredecrise.be/fr/que-pouvez-vous-faire/faites-un-plan/un-plan-pour-vos-animaux) · [Centre de crise National : brochure Préparés ensemble](https://centredecrise.be/sites/default/files/documents/files/WEB-Brochure-Pr%C3%AAts.%20Ensemble-FR.pdf) · [Ready.gov: Pets](https://www.ready.gov/pets) · [MCF : In case of crisis or war](https://rib.msb.se/filer/pdf/31523.pdf) · [Diereninrampen.nl : Sauvez votre animal en cas de catastrophe](https://www.diereninrampen.nl/red-je-dier-bij-een-ramp)

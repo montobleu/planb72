@@ -3,7 +3,7 @@ titel: Choking
 volgorde: 4
 kort: "If someone can no longer cough, speak or breathe: give 5 back blows, then 5 abdominal thrusts (5 chest thrusts for a baby), and alternate."
 status: concept
-datum: "2026-11-17"
+datum: "2026-11-18"
 bronnen:
   - naam: "Gezondheid en Wetenschap (Rode Kruis-Vlaanderen): First aid for choking"
     url: https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-verslikking
@@ -15,8 +15,14 @@ bronnen:
     url: https://www.erc.edu/media/p5ymaeej/gl2025_layperson_book_ipdf-v11-e.pdf
   - naam: "IFRC: International first aid, resuscitation, and education guidelines 2020"
     url: https://www.ifrc.org/sites/default/files/2022-02/EN_GFARC_GUIDELINES_2020.pdf
+  - naam: "European Resuscitation Council Guidelines 2021: First aid"
+    url: https://cprguidelines-old.erc.edu/assets/guidelines/European-Resuscitation-Council-Guidelines-2021-Fi.pdf
+  - naam: "European Resuscitation Council Guidelines 2021: Paediatric Life Support"
+    url: https://cprguidelines-old.erc.edu/assets/guidelines/European-Resuscitation-Council-Guidelines-2021-Pa.pdf
+  - naam: "112.be: Frequently asked questions"
+    url: https://112.be/en/frequently-asked-questions
 vertaling: machine
-origineel_datum: "2026-11-17"
+origineel_datum: "2026-11-18"
 ---
 
 ## Recognise
@@ -52,7 +58,7 @@ Source: [Gezondheid en Wetenschap: Choking](https://www.gezondheidenwetenschap.b
 
 ### Severe choking in an adult or child
 
-1. Call 112 or have someone call, or do so as soon as the first round does not help.
+1. Call 112 or have someone call, or do so as soon as the first round does not help. If you cannot get through, have someone else get help (see Call 112 if).
 2. Stand to the side and slightly behind the casualty. Have them lean forward. Support the chest with one hand.
 3. Give up to 5 sharp back blows with the heel of your hand between the shoulder blades.
 4. If the back blows do not help, give up to 5 abdominal thrusts. Stand behind the casualty and put your arms around the upper part of the abdomen. Have them lean forward. Place a fist on the upper part of the abdomen, between the navel and the ribs. Grasp your fist with your other hand and pull sharply inwards and upwards.
@@ -63,7 +69,7 @@ Source: [Gezondheid en Wetenschap: Choking](https://www.gezondheidenwetenschap.b
 1. Lay the baby along your forearm, face down with the head slightly lower. Support the lower jaw with your hand.
 2. Give up to 5 back blows with the heel of your hand between the shoulder blades.
 3. If they do not help, turn the baby onto their back. Place both hands around the chest with the thumbs on the breastbone. Give up to 5 chest thrusts: press the breastbone in with your thumbs to at least one third of the depth of the chest.
-4. Call 112 if the chest thrusts do not help.
+4. Call 112 or have someone call if the chest thrusts do not help. If you cannot get through, have someone else get help and stay with the baby yourself.
 5. Alternate 5 back blows with 5 chest thrusts until the object is dislodged or until the baby no longer responds.
 
 With a baby, give chest thrusts, not abdominal thrusts.
@@ -86,12 +92,12 @@ With a baby, give chest thrusts, not abdominal thrusts.
 ### If the casualty becomes unconscious
 
 1. Carefully lower the casualty to the ground.
-2. Call 112 if this has not yet been done. Have someone fetch an AED if there is one nearby.
+2. Call 112 or have someone call if this has not yet been done. Have someone fetch an AED if there is one nearby. If you cannot get through, see Call 112 if and topic 2.
 3. Start CPR immediately, with chest compressions and rescue breaths (see topic 2). The compressions increase the pressure in the airway and can dislodge the object. Continue, even if the object does not come loose, until the emergency services arrive.
 4. With a baby: give rescue breaths and chest compressions as in CPR for a baby.
 5. If you see the object in the mouth, carefully remove it.
 
-Source: [Gezondheid en Wetenschap: Choking](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-verslikking) · [IFRC Guidelines 2020](https://www.ifrc.org/sites/default/files/2022-02/EN_GFARC_GUIDELINES_2020.pdf) · [ERC Guidelines 2025 for Everyone](https://www.erc.edu/media/p5ymaeej/gl2025_layperson_book_ipdf-v11-e.pdf) · [VRT NWS: Red Cross on choking](https://www.vrt.be/vrtnws/nl/2026/09/23/rode-kruis-eerste-hulp-bij-iemand-die-stikt-heimlich/)
+Source: [Gezondheid en Wetenschap: Choking](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-verslikking) · [IFRC Guidelines 2020](https://www.ifrc.org/sites/default/files/2022-02/EN_GFARC_GUIDELINES_2020.pdf) · [ERC Guidelines 2025 for Everyone](https://www.erc.edu/media/p5ymaeej/gl2025_layperson_book_ipdf-v11-e.pdf) · [VRT NWS: Red Cross on choking](https://www.vrt.be/vrtnws/nl/2026/09/23/rode-kruis-eerste-hulp-bij-iemand-die-stikt-heimlich/) · [ERC Guidelines 2021: Paediatric Life Support](https://cprguidelines-old.erc.edu/assets/guidelines/European-Resuscitation-Council-Guidelines-2021-Pa.pdf)
 
 ## If help is a long time coming
 
@@ -111,7 +117,13 @@ Source: [IFRC Guidelines 2020](https://www.ifrc.org/sites/default/files/2022-02/
 
 Also see a doctor if the casualty keeps coughing, has difficulty swallowing, has the feeling that something is in the throat, or has received abdominal thrusts. The Croix-Rouge de Belgique recommends medical advice or a call to 112, even if the object has come out.
 
-Source: [Gezondheid en Wetenschap: Choking](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-verslikking) · [Croix-Rouge de Belgique: 2024 update](https://formations.croix-rouge.be/files/files/espace-relais/Relais-BEPS-Mise-jour-2024.pdf) · [IFRC Guidelines 2020](https://www.ifrc.org/sites/default/files/2022-02/EN_GFARC_GUIDELINES_2020.pdf)
+**If you cannot get through**
+
+- Only leave the casualty alone if there is no other option. Point directly at a bystander to get help and tell them where it is, what happened, how many casualties there are and what condition they are in.
+- If a child is choking severely, stay with the child and do not leave to get help yourself.
+- See also topic 1 (If you cannot get through: getting help without a phone) and Emergency numbers in the app, If you cannot call.
+
+Source: [Gezondheid en Wetenschap: Choking](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-verslikking) · [Croix-Rouge de Belgique: 2024 update](https://formations.croix-rouge.be/files/files/espace-relais/Relais-BEPS-Mise-jour-2024.pdf) · [IFRC Guidelines 2020](https://www.ifrc.org/sites/default/files/2022-02/EN_GFARC_GUIDELINES_2020.pdf) · [ERC Guidelines 2021: First aid](https://cprguidelines-old.erc.edu/assets/guidelines/European-Resuscitation-Council-Guidelines-2021-Fi.pdf) · [ERC Guidelines 2021: Paediatric Life Support](https://cprguidelines-old.erc.edu/assets/guidelines/European-Resuscitation-Council-Guidelines-2021-Pa.pdf) · [112.be: Frequently asked questions](https://112.be/en/frequently-asked-questions)
 
 ## Do not
 

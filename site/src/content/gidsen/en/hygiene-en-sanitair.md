@@ -4,7 +4,7 @@ module: hygiene
 volgorde: 1
 kort: "All variants of an emergency toilet, what to do with waste and excrement, washing your hands with little or no water, menstruation and nappies, and how to prevent diarrhoea."
 status: concept
-datum: "2026-11-17"
+datum: "2026-11-18"
 bronnen:
   - naam: "National Crisis Center: An emergency kit at home"
     url: "https://crisiscenter.be/en/what-can-you-do/build-emergency-kit/emergency-kit-home"
@@ -40,8 +40,12 @@ bronnen:
     url: "https://www.ready.gov/food"
   - naam: "Ready.gov: Pets"
     url: "https://www.ready.gov/pets"
+  - naam: "National Crisis Center: Information during an emergency"
+    url: "https://crisiscenter.be/en/what-can-you-do/stay-informed/get-informed-emergency-situation"
+  - naam: "National Crisis Center: A plan for people who need extra help"
+    url: "https://crisiscenter.be/en/what-can-you-do/make-plan/people-who-need-additional-help"
 vertaling: machine
-origineel_datum: "2026-11-17"
+origineel_datum: "2026-11-18"
 ---
 
 The Crisis Center briefly describes what happens without water: you can no longer shower, wash your hands or flush the toilet. The WHO points out that too little water and contaminated water are usually the first and most important causes of illness after a disaster. Hygiene is therefore not a luxury. This guide gives the options per topic, from best choice to emergency solution.
@@ -114,9 +118,9 @@ Compiled from the Swedish MCF, the public health department of Seattle and King 
 
 **Location.** Place the emergency toilet far from where you eat or prepare food (King County). Supervise young children who use it (King County).
 
-**Where to dispose of it.** The municipality will announce where you can dispose of the waste (MCF). King County writes that during a declared emergency the bags may go out with the ordinary waste if the authorities announce this publicly. So wait for that announcement.
+**Where to dispose of it.** The municipality will announce where you can dispose of the waste (MCF). King County writes that during a declared emergency the bags may go out with the ordinary waste if the authorities announce this publicly. So wait for that announcement. Follow it on the radio; the authorities can also inform you with police loudspeaker vans, information boards, leaflets or door-to-door visits (Crisis Center).
 
-Source: [MCF: In case of crisis or war](https://rib.msb.se/filer/pdf/31523.pdf) · [King County: emergency toilet](https://kingcounty.gov/en/dept/dph/health-safety/safety-injury-prevention/emergency-preparedness/personal-preparedness/emergency-toilets) · [Seattle Public Utilities: Emergency Sanitation](https://seattle.gov/Documents/Departments/Emergency/Preparedness/SPU%20Emergency%20Sanitation%20Trifold.pdf)
+Source: [MCF: In case of crisis or war](https://rib.msb.se/filer/pdf/31523.pdf) · [National Crisis Center: Information during an emergency](https://crisiscenter.be/en/what-can-you-do/stay-informed/get-informed-emergency-situation) · [National Crisis Center: brochure Prepared together](https://crisiscenter.be/sites/default/files/documents/files/WEB-Brochure%20Prepared%20Together-EN.pdf) · [King County: emergency toilet](https://kingcounty.gov/en/dept/dph/health-safety/safety-injury-prevention/emergency-preparedness/personal-preparedness/emergency-toilets) · [Seattle Public Utilities: Emergency Sanitation](https://seattle.gov/Documents/Departments/Emergency/Preparedness/SPU%20Emergency%20Sanitation%20Trifold.pdf)
 
 ## Outdoors: latrines
 
@@ -222,12 +226,12 @@ What to do:
 
 - Do not let waste pile up indoors, because of fire and hygiene (Ready.gov).
 - Store bags containing excrement separately, well sealed, in a place where people cannot reach them and protected against rats and vermin (Seattle Public Utilities).
-- Wait for the municipality's announcement about where and how you can dispose of waste (MCF, King County).
+- Wait for the municipality's announcement about where and how you can dispose of waste (MCF, King County). Without a network, it will come via the radio and the other channels of the authorities (Crisis Center).
 - Do not burn or bury excrement in the city. Seattle Public Utilities calls this not legal and not recommended.
 
 On wastewater disposal, the Crisis Center says there are no specific tips beyond the general tips for before, during and after emergencies.
 
-Source: [WHO/WEDC: Technical notes](https://wedc-knowledge.lboro.ac.uk/resources/who_notes/WHO_TNE_ALL.pdf) · [Ready.gov: Food](https://www.ready.gov/food) · [Seattle Public Utilities: Emergency Sanitation](https://seattle.gov/Documents/Departments/Emergency/Preparedness/SPU%20Emergency%20Sanitation%20Trifold.pdf) · [MCF: In case of crisis or war](https://rib.msb.se/filer/pdf/31523.pdf) · [King County: emergency toilet](https://kingcounty.gov/en/dept/dph/health-safety/safety-injury-prevention/emergency-preparedness/personal-preparedness/emergency-toilets) · [National Crisis Center: Disruption of wastewater disposal](https://crisiscenter.be/en/risks-belgium/societal-risks/failure-sewage-disposal)
+Source: [WHO/WEDC: Technical notes](https://wedc-knowledge.lboro.ac.uk/resources/who_notes/WHO_TNE_ALL.pdf) · [Ready.gov: Food](https://www.ready.gov/food) · [Seattle Public Utilities: Emergency Sanitation](https://seattle.gov/Documents/Departments/Emergency/Preparedness/SPU%20Emergency%20Sanitation%20Trifold.pdf) · [MCF: In case of crisis or war](https://rib.msb.se/filer/pdf/31523.pdf) · [King County: emergency toilet](https://kingcounty.gov/en/dept/dph/health-safety/safety-injury-prevention/emergency-preparedness/personal-preparedness/emergency-toilets) · [National Crisis Center: Disruption of wastewater disposal](https://crisiscenter.be/en/risks-belgium/societal-risks/failure-sewage-disposal) · [National Crisis Center: Information during an emergency](https://crisiscenter.be/en/what-can-you-do/stay-informed/get-informed-emergency-situation)
 
 ## Preventing diarrhoea
 
@@ -240,7 +244,7 @@ The measures are in this and other guides. Summarised according to the sources:
 5. **Excrement away from water and food.** The emergency toilet far from food and drink, a latrine far from water sources (King County, WHO).
 6. **Pets.** Clean up their excrement with bags, newspapers and kitchen roll and use bleach for their sanitation needs (Ready.gov).
 
-If someone gets diarrhoea: see the first aid pages and contact a doctor if it is severe or lasts a long time.
+If someone gets diarrhoea: see the first aid pages. If it is severe or lasts a long time, find a doctor. If the network is not working, see Emergency numbers in the app, If you cannot call.
 
 Source: [WHO/WEDC: Technical notes](https://wedc-knowledge.lboro.ac.uk/resources/who_notes/WHO_TNE_ALL.pdf) · [CDC: About Handwashing](https://www.cdc.gov/clean-hands/about/index.html) · [CDC: How to Make Water Safe in an Emergency](https://www.cdc.gov/water-emergency/about/index.html) · [Ready.gov: Food](https://www.ready.gov/food) · [King County: emergency toilet](https://kingcounty.gov/en/dept/dph/health-safety/safety-injury-prevention/emergency-preparedness/personal-preparedness/emergency-toilets) · [Ready.gov: Pets](https://www.ready.gov/pets)
 

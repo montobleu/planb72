@@ -1,21 +1,21 @@
 ---
 titel: Nuclear alert
 volgorde: 11
-kort: "An incident at a nuclear power plant or other nuclear installation. You receive a BE-Alert or the authorities ask you to shelter."
+kort: "An incident at a nuclear power plant or other nuclear installation. The authorities ask you to shelter via radio, loudspeaker vans or BE-Alert."
 stappen:
   - "Go inside and stay inside. That is the best protection."
   - "Close windows, doors and the chimney air inlet. Switch off ventilation, heating and air conditioning."
   - "Go to a central room on the ground floor, away from windows."
   - "Leave children at school or childcare. They follow the same recommendations there."
   - "If you were outside when the cloud passed: take off your clothes, put them in a plastic bag and take a shower."
-  - "Follow BE-Alert, radio, TV and crisiscentrum.be. Only phone in a medical emergency."
+  - "Listen to the radio, battery-powered or wind-up if the power fails, and watch for police loudspeaker vans. If the network is working, also follow BE-Alert and crisiscentrum.be. Do not phone to ask for information. Only call 112 in a medical emergency."
   - "Only take iodine if the authorities say so. Only evacuate when ordered to."
 niet:
   - "Never take iodine tablets on your own initiative."
   - "Never evacuate on your own initiative."
   - "Do not eat vegetables from the garden until the authorities say it is safe."
 status: concept
-datum: "2026-11-17"
+datum: "2026-11-18"
 bronnen:
   - naam: "National Crisis Center: incident at a nuclear power plant"
     url: https://crisiscenter.be/en/risks-belgium/technological-risks/nuclear-plant-incident
@@ -43,13 +43,25 @@ bronnen:
     url: https://www.be-alert.be/en/how-does-be-alert-work/notified-wherever-you-are
   - naam: "Ready.gov: Radiation Emergencies"
     url: https://www.ready.gov/radiation
+  - naam: "Nucleairrisico.be: warning and protecting the population"
+    url: https://nuclearrisk.be/en/what-are-authorities-doing/warning-and-protecting-population
+  - naam: "National Crisis Center: information during an emergency"
+    url: https://crisiscenter.be/en/what-can-you-do/stay-informed/get-informed-emergency-situation
+  - naam: "National Crisis Center: brochure Prepared together"
+    url: https://crisiscenter.be/sites/default/files/documents/files/WEB-Brochure%20Prepared%20Together-EN.pdf
+  - naam: "National Crisis Center: a plan at home"
+    url: https://crisiscenter.be/en/what-can-you-do/make-plan/emergency-plan-home
+  - naam: "112.be: Frequently asked questions"
+    url: https://112.be/en/frequently-asked-questions
 vertaling: machine
-origineel_datum: "2026-11-17"
+origineel_datum: "2026-11-18"
 ---
 
 ## Recognise
 
-**How you are warned.** The authorities warn you via BE-Alert (text message, email or phone call), radio and TV, social media, the official websites and an information number. They can also deploy vehicles with loudspeakers. People who have no landline or mobile phone receive the information through those other channels. In a major emergency the authorities send an Alert-SMS to everyone who is in the affected zone with a mobile phone. You do not need to be registered for this.
+**How you are warned.** The authorities warn you via radio and TV and via police loudspeaker vans driving through the streets. If the network is working, also via BE-Alert (text message, email or phone call), social media, the official websites and an information number. People who have no landline or mobile phone receive the information through the other channels. In a major emergency the authorities send an Alert-SMS to everyone who is in the affected zone with a mobile phone. You do not need to be registered for this.
+
+During a power cut, the internet and mobile networks can fail. With a battery-powered or wind-up radio you can still stay informed.
 
 **What can happen.** In a nuclear emergency radioactive substances can be released, including radioactive iodine. An emergency can begin with a threat phase, before anything is released. Iodine is also not always released.
 
@@ -61,14 +73,14 @@ origineel_datum: "2026-11-17"
 - protecting the food chain;
 - exceptionally: evacuating a particular zone.
 
-Source: [Nucleairrisico.be: what can you do](https://nuclearrisk.be/en/what-can-you-do) · [Nucleairrisico.be: FAQ](https://nuclearrisk.be/en/faq) · [Nucleairrisico.be: when to take them](https://nuclearrisk.be/en/iodine-tablets/when-should-you-take-them) · [BE-Alert](https://www.be-alert.be/en/how-does-be-alert-work/notified-wherever-you-are)
+Source: [Nucleairrisico.be: what can you do](https://nuclearrisk.be/en/what-can-you-do) · [Nucleairrisico.be: FAQ](https://nuclearrisk.be/en/faq) · [Nucleairrisico.be: when to take them](https://nuclearrisk.be/en/iodine-tablets/when-should-you-take-them) · [Nucleairrisico.be: warning and protecting](https://nuclearrisk.be/en/what-are-authorities-doing/warning-and-protecting-population) · [National Crisis Center: Prepared together](https://crisiscenter.be/sites/default/files/documents/files/WEB-Brochure%20Prepared%20Together-EN.pdf) · [BE-Alert](https://www.be-alert.be/en/how-does-be-alert-work/notified-wherever-you-are)
 
 ## Prepare
 
-- **Know your zone.** Check on nucleairrisico.be whether you live, work or go to school in a nuclear emergency planning zone.
+- **Know your zone.** Check on nucleairrisico.be in advance whether you live, work or go to school in a nuclear emergency planning zone.
 - **Register with BE-Alert.** Also add the address of your work, your children's school or a vulnerable family member.
-- **Follow the official channels** of your municipality, your governor and the National Crisis Center on social media.
-- **Make an emergency plan** for your family, for example with the template of the National Crisis Center (crisiscentrum.be, "Make a plan").
+- **Follow the official channels** of your municipality, your governor and the National Crisis Center on social media. They only work if the network is working.
+- **Make an emergency plan** for your family, for example with the template of the National Crisis Center (crisiscentrum.be, "Make a plan"). Make sure you have a list of contacts, addresses and phone numbers on paper.
 - **Make an emergency kit** for at least 3 days: drinking water (3 to 10 litres per person per day, of which 1.5 to 2 litres for drinking), long-life food that needs no water, gas or electricity, a tin opener, a battery-powered or wind-up radio, a torch, your essential medication and a charged power bank. Keep it in a dry place.
 - **Choose your shelter room:** a central room on the ground floor, away from windows.
 
@@ -81,7 +93,7 @@ Source: [Nucleairrisico.be: what can you do](https://nuclearrisk.be/en/what-can-
 - You collect the tablets free of charge from the pharmacy. Residents of the zones can collect them with their eID.
 - Keep the package leaflet in the box. If you are unsure about allergies or an illness, ask your doctor or pharmacist.
 
-Source: [National Crisis Center: nuclear power plant](https://crisiscenter.be/en/risks-belgium/technological-risks/nuclear-plant-incident) · [Nucleairrisico.be: what can you do](https://nuclearrisk.be/en/what-can-you-do) · [Nucleairrisico.be: for whom](https://nuclearrisk.be/en/iodine-tablets/whom) · [Nucleairrisico.be: FAQ](https://nuclearrisk.be/en/faq) · [National Crisis Center: emergency kit](https://crisiscenter.be/en/what-can-you-do/build-emergency-kit/emergency-kit-home)
+Source: [National Crisis Center: nuclear power plant](https://crisiscenter.be/en/risks-belgium/technological-risks/nuclear-plant-incident) · [Nucleairrisico.be: what can you do](https://nuclearrisk.be/en/what-can-you-do) · [Nucleairrisico.be: for whom](https://nuclearrisk.be/en/iodine-tablets/whom) · [Nucleairrisico.be: FAQ](https://nuclearrisk.be/en/faq) · [National Crisis Center: emergency kit](https://crisiscenter.be/en/what-can-you-do/build-emergency-kit/emergency-kit-home) · [National Crisis Center: a plan at home](https://crisiscenter.be/en/what-can-you-do/make-plan/emergency-plan-home)
 
 ## During
 
@@ -96,8 +108,8 @@ Source: [National Crisis Center: nuclear power plant](https://crisiscenter.be/en
 5. Seal the bottom of doors with damp cloths. Make sure some air still circulates, so that you do not feel unwell.
 6. Go to a central room on the ground floor, away from windows.
 7. Bring pets inside.
-8. Follow the instructions of the authorities via radio, TV, websites and social media.
-9. Only phone in a medical emergency (112). Unnecessary calls overload the network and hinder the emergency services. Warn others by text message, WhatsApp or Signal.
+8. Follow the instructions of the authorities via the radio, or the TV if there is power. If the power fails, use a battery-powered or wind-up radio. Also watch for police loudspeaker vans. If the network is working, also follow BE-Alert and the authorities' websites and social media.
+9. Do not phone to ask for information. Only phone in a medical emergency (112). Unnecessary calls overload the network and hinder the emergency services. If you cannot get through, see Emergency numbers, If you cannot call. If the network is working, warn others by text message, WhatsApp or Signal.
 
 **Do you have a cellar?** The Belgian sources speak of a central room on the ground floor. The American Ready.gov names a cellar or the middle of a large building as the best protected place, with as many walls as possible between you and the outside. Brick or concrete buildings and underground car parks also offer good protection.
 
@@ -143,7 +155,7 @@ Source: [National Crisis Center: nuclear power plant](https://crisiscenter.be/en
 
 - Pregnant women and women who are breastfeeding belong to the group for whom iodine tablets are recommended. Only take them if the authorities say so.
 - People older than 40 do not in principle take iodine, unless the authorities expressly recommend it. Ask your doctor for advice in advance.
-- If you are ill or injured, follow the instructions about where you can get medical care. Call 112 in a medical emergency.
+- If you are ill or injured, follow the instructions about where you can get medical care. Call 112 in a medical emergency. If that does not work, have a member of your household or a neighbour call or fetch help (see Emergency numbers, If you cannot call).
 
 ### Pets and animals
 
@@ -168,16 +180,16 @@ Source: [National Crisis Center: nuclear power plant](https://crisiscenter.be/en
 - Evacuation is the most exceptional measure. Never evacuate on your own initiative.
 - Evacuation does not take place while the cloud is passing. It can take place as a precaution, before the release reaches the zone, or later, after sheltering.
 - If you have to leave: stay calm, shut off the water, gas and electricity and take the minimum with you: identity card, money, a few bottles of water, mobile phone and charger.
-- Follow the designated routes and assembly points. Who goes, where to and how will be announced at the time.
+- Follow the designated routes and assembly points. Who goes, where to and how will be announced at the time, among other ways via the radio and police loudspeaker vans.
 - The police cordon off a safety zone. You may no longer enter an evacuated zone.
 
-Source: [Nucleairrisico.be: sheltering](https://nuclearrisk.be/en/what-can-you-do/sheltering) · [Nucleairrisico.be: FAQ](https://nuclearrisk.be/en/faq) · [Nucleairrisico.be: decontaminating](https://nuclearrisk.be/en/what-can-you-do/decontamination) · [Nucleairrisico.be: when to take them](https://nuclearrisk.be/en/iodine-tablets/when-should-you-take-them) · [Nucleairrisico.be: for whom](https://nuclearrisk.be/en/iodine-tablets/whom) · [Nucleairrisico.be: evacuation](https://nuclearrisk.be/en/what-can-you-do/evacuation) · [Nucleairrisico.be: food chain](https://nuclearrisk.be/en/what-can-you-do/protection-food-chain) · [National Crisis Center: sheltering](https://crisiscenter.be/en/what-can-you-do/right-reflex/seeking-shelter) · [Ready.gov](https://www.ready.gov/radiation)
+Source: [Nucleairrisico.be: sheltering](https://nuclearrisk.be/en/what-can-you-do/sheltering) · [Nucleairrisico.be: FAQ](https://nuclearrisk.be/en/faq) · [Nucleairrisico.be: decontaminating](https://nuclearrisk.be/en/what-can-you-do/decontamination) · [Nucleairrisico.be: when to take them](https://nuclearrisk.be/en/iodine-tablets/when-should-you-take-them) · [Nucleairrisico.be: for whom](https://nuclearrisk.be/en/iodine-tablets/whom) · [Nucleairrisico.be: evacuation](https://nuclearrisk.be/en/what-can-you-do/evacuation) · [Nucleairrisico.be: food chain](https://nuclearrisk.be/en/what-can-you-do/protection-food-chain) · [National Crisis Center: sheltering](https://crisiscenter.be/en/what-can-you-do/right-reflex/seeking-shelter) · [Nucleairrisico.be: warning and protecting](https://nuclearrisk.be/en/what-are-authorities-doing/warning-and-protecting-population) · [National Crisis Center: Prepared together](https://crisiscenter.be/sites/default/files/documents/files/WEB-Brochure%20Prepared%20Together-EN.pdf) · [112.be: Frequently asked questions](https://112.be/en/frequently-asked-questions) · [Ready.gov](https://www.ready.gov/radiation)
 
 ## Afterwards
 
 - Only go outside when the authorities announce that it is safe.
 - If you were evacuated, only return when the local authorities say so.
-- Medical advice may follow. Follow the media and the official channels.
+- Medical advice may follow. Follow the radio and, if the network is working, the official channels.
 - The authorities may take measures for the food chain:
   - restricting or banning the use of fresh crops, including from your vegetable garden;
   - banning the use of drinking water and surface water;
@@ -187,14 +199,14 @@ Source: [Nucleairrisico.be: sheltering](https://nuclearrisk.be/en/what-can-you-d
 - Do not eat anything from your garden until the authorities say it is safe.
 - Also look after your mental health. Talk to someone if you are upset.
 
-Source: [National Crisis Center: nuclear power plant](https://crisiscenter.be/en/risks-belgium/technological-risks/nuclear-plant-incident) · [Nucleairrisico.be: food chain](https://nuclearrisk.be/en/what-can-you-do/protection-food-chain) · [Ready.gov](https://www.ready.gov/radiation)
+Source: [National Crisis Center: nuclear power plant](https://crisiscenter.be/en/risks-belgium/technological-risks/nuclear-plant-incident) · [Nucleairrisico.be: food chain](https://nuclearrisk.be/en/what-can-you-do/protection-food-chain) · [National Crisis Center: information during an emergency](https://crisiscenter.be/en/what-can-you-do/stay-informed/get-informed-emergency-situation) · [Ready.gov](https://www.ready.gov/radiation)
 
 ## Do not
 
 - Never take iodine tablets on your own initiative.
 - Never evacuate on your own initiative.
 - Do not collect your children from school or childcare.
-- Do not phone unless necessary.
+- Do not phone to ask for information. Listen to the radio.
 - Do not go outside to look or to do your shopping.
 - Do not leave ventilation or air conditioning on.
 - Do not eat anything from the vegetable garden or anything that was left uncovered outside.
@@ -204,10 +216,12 @@ Source: [National Crisis Center: nuclear power plant](https://crisiscenter.be/en
 
 ## More information
 
+Read these pages in advance. During a power cut, the internet and mobile networks can fail.
+
 - Zones, iodine and recommendations: [nucleairrisico.be](https://nuclearrisk.be/en/what-can-you-do)
 - Risk and measures: [National Crisis Center: incident at a nuclear power plant](https://crisiscenter.be/en/risks-belgium/technological-risks/nuclear-plant-incident)
 - Federal Agency for Nuclear Control (FANC): [fanc.be](https://fanc.fgov.be/nl)
 - Radiation monitoring network: [telerad.be](https://telerad.be)
 - See also the module **Nuclear** for the sites, the zones and the distance to your address, and the guide **Sheltering by threat**.
 
-Source: [National Crisis Center: nuclear power plant](https://crisiscenter.be/en/risks-belgium/technological-risks/nuclear-plant-incident)
+Source: [National Crisis Center: nuclear power plant](https://crisiscenter.be/en/risks-belgium/technological-risks/nuclear-plant-incident) · [National Crisis Center: Prepared together](https://crisiscenter.be/sites/default/files/documents/files/WEB-Brochure%20Prepared%20Together-EN.pdf)

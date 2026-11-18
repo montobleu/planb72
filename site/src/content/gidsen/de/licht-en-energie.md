@@ -2,9 +2,9 @@
 titel: "Licht und Energie ohne Netzstrom"
 module: energie
 volgorde: 1
-kort: "Alle Licht- und Stromquellen für einen Stromausfall mit ihren Vor- und Nachteilen: Taschenlampe, Kerzen, Batterien, Powerbank, Solarladegerät, das Auto, ein Generator und ein Heimspeicher, und wie Ihr Telefon so lange wie möglich durchhält."
+kort: "Alle Licht- und Stromquellen für einen Stromausfall mit ihren Vor- und Nachteilen: Taschenlampe, Kerzen, Batterien, Powerbank, Solarladegerät, das Auto, ein Generator und ein Heimspeicher, was Sie von Ihrem Telefon erwarten können, wenn das Netz ausfällt, und wie Sie Licht und Wärme mit Ihren Nachbarn teilen."
 status: concept
-datum: "2026-11-17"
+datum: "2026-11-18"
 bronnen:
   - naam: "Nationales Krisenzentrum: Störung der Stromversorgung"
     url: "https://krisenzentrum.be/de/risiken-belgien/maatschappelijke-risicos/ausfall-der-elektrizitaetsversorgung"
@@ -34,11 +34,21 @@ bronnen:
     url: "https://www.ready.gov/evacuation"
   - naam: "Ready.gov: People with Disabilities"
     url: "https://www.ready.gov/disability"
+  - naam: "FÖD Wirtschaft: Häufig gestellte Fragen von Haushalten zur Stromknappheit"
+    url: "https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door"
+  - naam: "Rotes Kreuz Flandern: Strom- und Kommunikationsausfall"
+    url: "https://www.rodekruis.be/wat-doen-we/hulp-in-vlaanderen/goed-voorbereid/stroom-en-communicatie-uitval/"
+  - naam: "Nationales Krisenzentrum: Informationen während einer Notsituation"
+    url: "https://krisenzentrum.be/de/was-koennen-sie-tun/informieren-sie-sich/information-notsituationen"
+  - naam: "112.be: Häufig gestellte Fragen"
+    url: "https://112.be/de/haeufig-gestellte-fragen"
+  - naam: "Nationales Krisenzentrum: Ein Plan in Ihrem Viertel oder Verein"
+    url: "https://krisenzentrum.be/de/was-koennen-sie-tun/erstellen-sie-einen-plan/ein-plan-ihrem-viertel-oder-ihrem-verein"
 vertaling: machine
-origineel_datum: "2026-11-17"
+origineel_datum: "2026-11-18"
 ---
 
-Bei einem Stromausfall fällt laut Krisenzentrum vieles gleichzeitig aus: Beleuchtung, Kühlschrank und Gefrierschrank, Elektroherde, Fernseher und Computer, Heizkessel und Umwälzpumpen, Aufzüge, automatische Türen und Garagentore, Geldautomaten und Tankstellen sowie Züge, Straßenbahnen und U-Bahnen. Auch das Telefonnetz kann gestört sein. Dieser Leitfaden behandelt Licht und Strom für die Geräte, die Sie wirklich brauchen.
+Bei einem Stromausfall fällt laut Krisenzentrum vieles gleichzeitig aus: Beleuchtung, Kühlschrank und Gefrierschrank, Elektroherde, Fernseher und Computer, Heizkessel und Umwälzpumpen, Aufzüge, automatische Türen und Garagentore, Geldautomaten und Tankstellen sowie Züge, Straßenbahnen und U-Bahnen. Auch das Telefonnetz kann gestört sein: Rechnen Sie damit, dass Telefonieren und Internet nach kurzer Zeit nicht mehr funktionieren (siehe Das Telefon: aufladen, aber sich nicht darauf verlassen). Dieser Leitfaden behandelt Licht und Strom für die Geräte, die Sie wirklich brauchen.
 
 Ready.gov empfiehlt, im Voraus eine Liste von allem zu erstellen, was Sie brauchen und was mit Strom funktioniert, und für jedes Gerät mit Batterien oder einer anderen Quelle zu planen.
 
@@ -139,28 +149,40 @@ Quelle: [MCF: In case of crisis or war](https://rib.msb.se/filer/pdf/31523.pdf) 
 
 Quelle: [BBK: Stromausfall, Vorsorge und Selbsthilfe](https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/Buergerinformationen/stromausfall-vorsorge-selbsthilfe.pdf?__blob=publicationFile&v=17) · [Ready.gov: Power Outages](https://www.ready.gov/power-outages) · [Ready.gov: Evacuation](https://www.ready.gov/evacuation)
 
-## Das Telefon so lange wie möglich am Laufen halten
-
-**Energiesparmodus**
-
-- Verringern Sie die Bildschirmhelligkeit und schließen Sie Apps (Denk vooruit).
-- Lassen Sie immer ein Telefon im Haus eingeschaltet, um wichtige Nachrichten empfangen zu können (Denk vooruit; in Belgien geht es um BE-Alert).
-- Halten Sie Ihr Handy auch nachts empfangsbereit, wenn Sie betroffen sind (BBK).
-
-**Das Netz schonen**
-
-- Telefonieren Sie nur, wenn es wirklich nötig ist, und verwenden Sie vorzugsweise SMS (OFF ON).
-- Verwenden Sie bei einer großen Notsituation Messenger-Apps statt zu telefonieren; eine Überlastung des Netzes kann die Hilfeleistung stören (Broschüre Krisenzentrum).
+## Das Telefon: aufladen, aber sich nicht darauf verlassen
 
 **Was Sie wissen müssen**
 
-- Bei einem Stromausfall ist nach kurzer Zeit auch das Festnetz nicht mehr verfügbar: Bei Internettelefonie brauchen Router, Glasfaseranschluss und Telefon Strom (BBK).
+- Mobilfunkmasten halten ein bis zwei Stunden ohne Strom durch. Mobiles Internet (4G und 5G) fällt schnell aus, vermutlich sofort (FÖD Wirtschaft).
+- Die meisten Festnetzleitungen funktionieren ohne Strom nicht mehr, weil Modem oder Leitungstechnik Strom brauchen. Eine klassische Telefonleitung mit einem Telefon ohne eigene Stromversorgung funktioniert noch etwa vier Stunden (FÖD Wirtschaft). Bei Internettelefonie brauchen Router, Glasfaseranschluss und Telefon Strom (BBK).
+- Auch wenn Sie selbst Strom haben, kann das Mobilfunknetz ausfallen, weil der Mast in einer Zone ohne Strom steht. Auch das Umgekehrte ist möglich (FÖD Wirtschaft).
 - Mobilfunknetze haben nur teilweise und kurzzeitig Notstrom und werden schnell überlastet (BBK).
-- Ready.gov empfiehlt zu prüfen, ob Ihr Festnetztelefon bei einem Stromausfall funktioniert und wie lange die Reservebatterie hält.
+- Kommt der Strom zurück, kann es einige Stunden dauern, bis Sie wieder mobil telefonieren können (FÖD Wirtschaft).
+- Ready.gov empfiehlt, im Voraus zu prüfen, ob Ihr Festnetztelefon bei einem Stromausfall funktioniert und wie lange die Reservebatterie hält.
+
+**Laden Sie es trotzdem auf**
+
+- Laden Sie Ihr Handy auf, denken Sie aber daran, dass die Mobilfunk- und Festnetze gestört sein können (OFF ON). Halten Sie Ihr Handy aufgeladen, damit Sie erreichbar bleiben, solange es Empfang gibt (Rotes Kreuz Flandern).
+- Verringern Sie die Bildschirmhelligkeit und schließen Sie Apps (Denk vooruit).
+- Lassen Sie immer ein Telefon im Haus eingeschaltet, um wichtige Nachrichten empfangen zu können, solange das Netz funktioniert (Denk vooruit; in Belgien geht es um BE-Alert).
+- Halten Sie Ihr Handy auch nachts empfangsbereit, wenn Sie betroffen sind (BBK).
+
+**Solange das Netz funktioniert: schonen Sie es**
+
+- Rufen Sie die 112 nur bei unmittelbarer Gefahr an und schränken Sie Ihre Telefonnutzung ein, um das Netz nicht zu überlasten (Rotes Kreuz Flandern).
+- Telefonieren Sie nur, wenn es wirklich nötig ist, und verwenden Sie vorzugsweise SMS (OFF ON).
+- Verwenden Sie bei einer großen Notsituation Messenger-Apps statt zu telefonieren; eine Überlastung des Netzes kann die Hilfeleistung stören (Broschüre Krisenzentrum). Messenger-Apps brauchen mobiles Internet, und das fällt bei einem Stromausfall schnell aus (FÖD Wirtschaft).
+
+**Wenn Telefon und Internet nicht mehr funktionieren**
+
+- Verfolgen Sie die Nachrichten über ein batteriebetriebenes Radio, ein Kurbelradio oder das Autoradio (OFF ON, FÖD Wirtschaft).
+- Die Behörden können auch mit Lautsprecherwagen der Polizei, Informationstafeln, Faltblättern und von Tür zu Tür informieren (Krisenzentrum).
+- Können Sie nicht mehr telefonieren, sehen Sie sich die allgemeinen Informationen der Behörden an oder bitten Sie in Ihrer Nachbarschaft um Hilfe (FÖD Wirtschaft). Gemeinden können bei einer Abschaltung eine Informations- und Anlaufstelle für die Bevölkerung öffnen. Fragen Sie Ihre Gemeinde im Voraus, welche Lösungen sie vorsieht (FÖD Wirtschaft).
+- Müssen Sie die Notdienste erreichen: siehe Notrufnummern in der App, Wenn kein Anruf möglich ist. Die Karte in der App (Schaltfläche Am nächsten) zeigt Feuerwehr, Polizei, Krankenhäuser und Gemeindehäuser.
 
 Mehr im Leitfaden über Kommunikation und Alarmierung.
 
-Quelle: [Denk vooruit: Informationsheft](https://www.denkvooruit.nl/site/binaries/site-content/collections/documents/2025/11/17/informatieboekje-bereid-je-voor-op-een-noodsituatie/informatieboekje-bereid-je-voor-op-een-noodsituatie.pdf) · [BBK: Vorsorgen für Krisen und Katastrophen](https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/Buergerinformationen/Ratgeber/BBK-Vorsorgen-fuer-Krisen-und-Katastrophen.pdf?__blob=publicationFile&v=44) · [BBK: Stromausfall, Vorsorge und Selbsthilfe](https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/Buergerinformationen/stromausfall-vorsorge-selbsthilfe.pdf?__blob=publicationFile&v=17) · [Nationales Krisenzentrum: OFF ON](https://krisenzentrum.be/sites/default/files/documents/files/OffOn-triptyque-D.pdf) · [Nationales Krisenzentrum: Broschüre Gemeinsam vorbereitet](https://krisenzentrum.be/sites/default/files/documents/files/WEB-Brosch%C3%BCre%20Gemeinsam%20Vorbereitet-DE.pdf) · [Ready.gov: Power Outages](https://www.ready.gov/power-outages)
+Quelle: [Denk vooruit: Informationsheft](https://www.denkvooruit.nl/site/binaries/site-content/collections/documents/2025/11/17/informatieboekje-bereid-je-voor-op-een-noodsituatie/informatieboekje-bereid-je-voor-op-een-noodsituatie.pdf) · [BBK: Vorsorgen für Krisen und Katastrophen](https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/Buergerinformationen/Ratgeber/BBK-Vorsorgen-fuer-Krisen-und-Katastrophen.pdf?__blob=publicationFile&v=44) · [BBK: Stromausfall, Vorsorge und Selbsthilfe](https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/Buergerinformationen/stromausfall-vorsorge-selbsthilfe.pdf?__blob=publicationFile&v=17) · [Nationales Krisenzentrum: OFF ON](https://krisenzentrum.be/sites/default/files/documents/files/OffOn-triptyque-D.pdf) · [Nationales Krisenzentrum: Broschüre Gemeinsam vorbereitet](https://krisenzentrum.be/sites/default/files/documents/files/WEB-Brosch%C3%BCre%20Gemeinsam%20Vorbereitet-DE.pdf) · [Nationales Krisenzentrum: Informationen während einer Notsituation](https://krisenzentrum.be/de/was-koennen-sie-tun/informieren-sie-sich/information-notsituationen) · [FÖD Wirtschaft: Fragen von Haushalten zur Stromknappheit](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door) · [Rotes Kreuz Flandern: Strom- und Kommunikationsausfall](https://www.rodekruis.be/wat-doen-we/hulp-in-vlaanderen/goed-voorbereid/stroom-en-communicatie-uitval/) · [Ready.gov: Power Outages](https://www.ready.gov/power-outages)
 
 ## Während des Stromausfalls
 
@@ -171,11 +193,12 @@ Quelle: [Denk vooruit: Informationsheft](https://www.denkvooruit.nl/site/binarie
 5. Verwenden Sie Taschenlampen statt Kerzen (Krisenzentrum).
 6. Verfolgen Sie die Nachrichten über ein batteriebetriebenes Radio oder das Autoradio (OFF ON).
 7. Halten Sie Kühlschrank und Gefrierschrank geschlossen (siehe den Leitfaden über Lebensmittel ohne Strom).
-8. Erkundigen Sie sich bei gefährdeten Angehörigen und Nachbarn, ob alles in Ordnung ist (OFF ON).
+8. Erkundigen Sie sich bei gefährdeten Angehörigen und Nachbarn, ob alles in Ordnung ist (OFF ON). Kümmern Sie sich um Nachbarn oder Familienmitglieder, die zusätzliche Hilfe brauchen (Rotes Kreuz Flandern).
+9. Kommen Sie mit Nachbarn oder Familie zusammen, um Licht und Wärme zu teilen. Vereinbaren Sie im Voraus, bei wem Sie unterkommen können und welche Dinge Sie teilen (Krisenzentrum, Notfallpaket).
 
-Das BBK sagt: Ein Stromausfall an sich ist kein Notfall. Rufen Sie die Notrufnummern nicht an, um Informationen zu erfragen; das überlastet die Notrufzentralen.
+Das BBK sagt: Ein Stromausfall an sich ist kein Notfall. Rufen Sie die Notrufnummern nicht an, um Informationen zu erfragen; das überlastet die Notrufzentralen. Rufen Sie die 112 nur bei unmittelbarer Gefahr an (Rotes Kreuz Flandern). Kommt kein Anruf zustande, lassen Sie jemand anderen anrufen oder bitten Sie in Ihrer Nachbarschaft um Hilfe (siehe Notrufnummern, Wenn kein Anruf möglich ist).
 
-Quelle: [Nationales Krisenzentrum: Störung der Stromversorgung](https://krisenzentrum.be/de/risiken-belgien/maatschappelijke-risicos/ausfall-der-elektrizitaetsversorgung) · [Nationales Krisenzentrum: OFF ON](https://krisenzentrum.be/sites/default/files/documents/files/OffOn-triptyque-D.pdf) · [BBK: Stromausfall, Vorsorge und Selbsthilfe](https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/Buergerinformationen/stromausfall-vorsorge-selbsthilfe.pdf?__blob=publicationFile&v=17)
+Quelle: [Nationales Krisenzentrum: Störung der Stromversorgung](https://krisenzentrum.be/de/risiken-belgien/maatschappelijke-risicos/ausfall-der-elektrizitaetsversorgung) · [Nationales Krisenzentrum: OFF ON](https://krisenzentrum.be/sites/default/files/documents/files/OffOn-triptyque-D.pdf) · [Nationales Krisenzentrum: Ein Notfallpaket zu Hause](https://krisenzentrum.be/de/was-koennen-sie-tun/stelle-ein-notfallpaket-zusammen/ein-notfallset-fuer-zu-hause) · [Rotes Kreuz Flandern: Strom- und Kommunikationsausfall](https://www.rodekruis.be/wat-doen-we/hulp-in-vlaanderen/goed-voorbereid/stroom-en-communicatie-uitval/) · [FÖD Wirtschaft: Fragen von Haushalten zur Stromknappheit](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door) · [112.be: Häufig gestellte Fragen](https://112.be/de/haeufig-gestellte-fragen) · [BBK: Stromausfall, Vorsorge und Selbsthilfe](https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/Buergerinformationen/stromausfall-vorsorge-selbsthilfe.pdf?__blob=publicationFile&v=17)
 
 ## Wenn der Strom zurückkommt
 
@@ -193,9 +216,10 @@ Bei Stromknappheit können Gemeinden laut Krisenzentrum eine Zeit lang vom Strom
 - Schalten Sie Geräte im Standby-Modus aus.
 - Verwenden Sie Bügeleisen, Waschmaschine, Wäschetrockner, Elektroherd, Mikrowelle, Geschirrspüler und Staubsauger nur, wenn es nötig ist, und vorzugsweise nach 22 Uhr.
 - Verwenden Sie so wenige Kochplatten wie möglich und die Mikrowelle statt des normalen Backofens.
-- Melden Sie sich bei BE-Alert an, damit Sie rechtzeitig wissen, dass Ihre Gemeinde abgeschaltet wird.
+- Melden Sie sich im Voraus bei BE-Alert an, damit Sie rechtzeitig wissen, dass Ihre Gemeinde abgeschaltet wird.
+- Die Regierung gibt am Vortag bekannt, welche Abschaltgruppen abgeschaltet werden können. Diese Informationen gehen auch über Fernsehen, Radio und Presse (FÖD Wirtschaft).
 
-Quelle: [Nationales Krisenzentrum: OFF ON](https://krisenzentrum.be/sites/default/files/documents/files/OffOn-triptyque-D.pdf) · [Nationales Krisenzentrum: Störung der Stromversorgung](https://krisenzentrum.be/de/risiken-belgien/maatschappelijke-risicos/ausfall-der-elektrizitaetsversorgung)
+Quelle: [Nationales Krisenzentrum: OFF ON](https://krisenzentrum.be/sites/default/files/documents/files/OffOn-triptyque-D.pdf) · [Nationales Krisenzentrum: Störung der Stromversorgung](https://krisenzentrum.be/de/risiken-belgien/maatschappelijke-risicos/ausfall-der-elektrizitaetsversorgung) · [FÖD Wirtschaft: Fragen von Haushalten zur Stromknappheit](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door)
 
 ## Wer auf Strom angewiesen ist
 
@@ -203,10 +227,12 @@ Quelle: [Nationales Krisenzentrum: OFF ON](https://krisenzentrum.be/sites/defaul
 - Besprechen Sie mit Ihrem Arzt einen Plan für strombetriebene medizinische Geräte und für gekühlte Arzneimittel (Ready.gov).
 - Fragen Sie Ihren Energieversorger, ob Sie auf eine Liste für den Vorrang bei der Wiederherstellung der Stromversorgung kommen können (Ready.gov).
 - In der häuslichen Pflege können lebensnotwendige Geräte wie Beatmungsgeräte ausfallen, und Dienste wie Hausnotruf und Essen auf Rädern können eingestellt werden. Fragen Sie Ihren Pflegedienst, ob und wie diese Dienste bei einem langen Stromausfall weiterlaufen. Wohnt ein Familienmitglied in einem Wohn- und Pflegezentrum, fragen Sie nach dem Notstromplan (BBK).
+- Verwenden Sie zu Hause Sauerstoffgeräte, Pumpensysteme, Heimdialyse oder ein anderes strombetriebenes Gerät: Warten Sie nicht auf einen Ausfall. Prüfen Sie, wie lange der vollständig aufgeladene interne Akku Ihres Geräts hält, und klären Sie, wo Sie sonst aufgenommen werden können (FÖD Wirtschaft).
+- Verwenden Sie das Gerät mit Unterbrechungen, wie bei der Heimdialyse, sorgen Sie dafür, dass es zum Zeitpunkt einer angekündigten Abschaltung nicht angeschlossen ist (FÖD Wirtschaft).
 
-Mehr im Leitfaden über Medikamente und Pflege.
+Was Sie tun, wenn Sie Ihre Behandelnden nicht anrufen können, steht im Leitfaden über Medikamente und Pflege.
 
-Quelle: [Nationales Krisenzentrum: Ein Plan für Menschen, die zusätzliche Hilfe brauchen](https://krisenzentrum.be/de/was-koennen-sie-tun/bereiten-sie-sich-vor/ein-plan-fuer-personen-die-zusaetzliche-hilfe-benoetigen) · [Ready.gov: Power Outages](https://www.ready.gov/power-outages) · [Ready.gov: People with Disabilities](https://www.ready.gov/disability) · [BBK: Stromausfall, Vorsorge und Selbsthilfe](https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/Buergerinformationen/stromausfall-vorsorge-selbsthilfe.pdf?__blob=publicationFile&v=17)
+Quelle: [Nationales Krisenzentrum: Ein Plan für Menschen, die zusätzliche Hilfe brauchen](https://krisenzentrum.be/de/was-koennen-sie-tun/bereiten-sie-sich-vor/ein-plan-fuer-personen-die-zusaetzliche-hilfe-benoetigen) · [FÖD Wirtschaft: Fragen von Haushalten zur Stromknappheit](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door) · [Ready.gov: Power Outages](https://www.ready.gov/power-outages) · [Ready.gov: People with Disabilities](https://www.ready.gov/disability) · [BBK: Stromausfall, Vorsorge und Selbsthilfe](https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/Buergerinformationen/stromausfall-vorsorge-selbsthilfe.pdf?__blob=publicationFile&v=17)
 
 ## Elektrische Türen, Tore und Aufzüge
 
@@ -228,5 +254,7 @@ Quelle: [Nationales Krisenzentrum: Ein Notfallpaket zu Hause](https://krisenzent
 - [ ] Feuerlöscher oder Löschdecke.
 - [ ] Wissen, wie Sie Tore und Rollläden ohne Strom öffnen.
 - [ ] Ein Plan für jedes strombetriebene Gerät, von dem jemand abhängig ist.
+- [ ] Eine Liste wichtiger Telefonnummern auf Papier.
+- [ ] Absprachen mit Ihren Nachbarn: wie Sie einander ohne Telefon oder Internet erreichen und bei wem Sie zusammenkommen, um Licht und Wärme zu teilen.
 
-Quelle: [Nationales Krisenzentrum: Broschüre Gemeinsam vorbereitet](https://krisenzentrum.be/sites/default/files/documents/files/WEB-Brosch%C3%BCre%20Gemeinsam%20Vorbereitet-DE.pdf) · [Nationales Krisenzentrum: Ein Notfallpaket zu Hause](https://krisenzentrum.be/de/was-koennen-sie-tun/stelle-ein-notfallpaket-zusammen/ein-notfallset-fuer-zu-hause) · [MCF: In case of crisis or war](https://rib.msb.se/filer/pdf/31523.pdf) · [BBK: Vorsorgen für Krisen und Katastrophen](https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/Buergerinformationen/Ratgeber/BBK-Vorsorgen-fuer-Krisen-und-Katastrophen.pdf?__blob=publicationFile&v=44)
+Quelle: [Nationales Krisenzentrum: Broschüre Gemeinsam vorbereitet](https://krisenzentrum.be/sites/default/files/documents/files/WEB-Brosch%C3%BCre%20Gemeinsam%20Vorbereitet-DE.pdf) · [Nationales Krisenzentrum: Ein Notfallpaket zu Hause](https://krisenzentrum.be/de/was-koennen-sie-tun/stelle-ein-notfallpaket-zusammen/ein-notfallset-fuer-zu-hause) · [Nationales Krisenzentrum: Ein Plan in Ihrem Viertel oder Verein](https://krisenzentrum.be/de/was-koennen-sie-tun/erstellen-sie-einen-plan/ein-plan-ihrem-viertel-oder-ihrem-verein) · [MCF: In case of crisis or war](https://rib.msb.se/filer/pdf/31523.pdf) · [BBK: Vorsorgen für Krisen und Katastrophen](https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/Buergerinformationen/Ratgeber/BBK-Vorsorgen-fuer-Krisen-und-Katastrophen.pdf?__blob=publicationFile&v=44)

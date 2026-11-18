@@ -4,7 +4,7 @@ module: buiten
 volgorde: 3
 kort: "What can happen to you in Belgian nature and what to do then: ticks and Lyme disease, the adder, wasps and bees, oak processionary caterpillars, poisonous plants and mushrooms, jellyfish, thunderstorms, heat and cold, water and currents, wild boar and the wolf."
 status: concept
-datum: "2026-11-17"
+datum: "2026-11-18"
 bronnen:
   - naam: "Poison Centre: Tick bites"
     url: https://www.antigifcentrum.be/Toxinfos/tekenbeten/
@@ -54,8 +54,18 @@ bronnen:
     url: https://natuurenbos.be/sites/default/files/2024-04/Veelgestelde_vragen_over_wolf_versie_04-2024.pdf
   - naam: "Vlaanderen.be: What are you allowed to do as a visitor in Flemish nature?"
     url: https://www.vlaanderen.be/natuur-milieu-en-klimaat/wat-mag-u-als-bezoeker-doen-in-de-vlaamse-natuur
+  - naam: "National Park Service: Outdoor Emergency Plan"
+    url: https://www.nps.gov/subjects/healthandsafety/upload/NPS-Outdoor-Emergency-Plan-508c.pdf
+  - naam: "National Crisis Center: Wildfire"
+    url: https://crisiscenter.be/en/risks-belgium/natural-risks/wildfires
+  - naam: "ERC Guidelines 2021: First aid"
+    url: https://cprguidelines-old.erc.edu/assets/guidelines/European-Resuscitation-Council-Guidelines-2021-Fi.pdf
+  - naam: "112.be: Frequently asked questions"
+    url: https://112.be/en/frequently-asked-questions
+  - naam: "National Crisis Center: brochure Prepared together"
+    url: https://crisiscenter.be/sites/default/files/documents/files/WEB-Brochure%20Prepared%20Together-EN.pdf
 vertaling: machine
-origineel_datum: "2026-11-17"
+origineel_datum: "2026-11-18"
 ---
 
 ## Overview
@@ -66,7 +76,7 @@ origineel_datum: "2026-11-17"
 | Adder (only in the Antwerp Kempen and the Upper Meuse basin) | Stay calm, keep the limb still | Always after a bite |
 | Wasp, bee, bumblebee, hornet | Remove the sting, cool | Swelling of the tongue or throat, shortness of breath, fainting |
 | Oak processionary caterpillar | Do not scratch, take clothes off, rinse | Serious symptoms, shortness of breath |
-| Poisonous plant, berry, mushroom | Remove remains from the mouth, call the Poison Centre | Serious symptoms |
+| Poisonous plant, berry, mushroom | Remove remains from the mouth, keep the plant or remains, contact the Poison Centre or the GP | Serious symptoms |
 | Jellyfish | Rinse with seawater, do not rub | General reactions |
 | Thunderstorm | Shelter indoors or in a metal car | Someone has been struck |
 | Heat | Shade, rest, cool down | Confusion, no longer sweating, above 39 °C |
@@ -74,9 +84,17 @@ origineel_datum: "2026-11-17"
 | Water | Do not swim where it is not allowed | Someone is in difficulty |
 | Wild boar, wolf | Keep your distance, dog on the lead | |
 
-Poison Centre: **070 245 245**, free, 24 hours out of 24. If life is in danger: **112**.
+Poison Centre: **070 245 245**, free, 24 hours out of 24, if the network works. Write the number down in advance on a paper list of important numbers. If life is in danger: **112**.
 
-Source: [Poison Centre: Tick bites](https://www.antigifcentrum.be/Toxinfos/tekenbeten/) · [Poison Centre: Adder bites](https://www.antigifcentrum.be/Toxinfos/adderbeten/) · [Poison Centre: Stings from wasps, bees and hornets](https://www.antigifcentrum.be/Toxinfos/steken-van-wespen-bijen-en-hoornaars/) · [Rode Kruis-Vlaanderen: oak processionary caterpillars](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-irritatie-door-eikenprocessierupsen) · [Poison Centre: Poisoning by plants](https://www.antigifcentrum.be/Toxinfos/vergiftiging-door-planten/) · [RMI: How do I protect myself against lightning?](https://www.meteo.be/nl/switch-language/634?nis=21004)
+**If you cannot get through**
+
+- Try another phone or let bystanders call. Move a few metres and try again.
+- In nature you do not always have signal. Speak to people you meet and ask them to go to a place with signal and call 112 from there.
+- Only leave the casualty alone if there is no other option. If you are in a group, send two or more people to raise the alarm; the others stay with the casualty. Tell them where it is, what happened, how many casualties there are and what state they are in.
+- If you are alone with the casualty, first help them as well as you can, then go and get help.
+- See also Emergency numbers in the app, If you cannot call, and the guide on signals and emergency codes.
+
+Source: [National Park Service: Outdoor Emergency Plan](https://www.nps.gov/subjects/healthandsafety/upload/NPS-Outdoor-Emergency-Plan-508c.pdf) · [National Crisis Center: Wildfire](https://crisiscenter.be/en/risks-belgium/natural-risks/wildfires) · [ERC Guidelines 2021: First aid](https://cprguidelines-old.erc.edu/assets/guidelines/European-Resuscitation-Council-Guidelines-2021-Fi.pdf) · [112.be: Frequently asked questions](https://112.be/en/frequently-asked-questions) · [National Crisis Center: brochure Prepared together](https://crisiscenter.be/sites/default/files/documents/files/WEB-Brochure%20Prepared%20Together-EN.pdf) · [Poison Centre: Tick bites](https://www.antigifcentrum.be/Toxinfos/tekenbeten/) · [Poison Centre: Adder bites](https://www.antigifcentrum.be/Toxinfos/adderbeten/) · [Poison Centre: Stings from wasps, bees and hornets](https://www.antigifcentrum.be/Toxinfos/steken-van-wespen-bijen-en-hoornaars/) · [Rode Kruis-Vlaanderen: oak processionary caterpillars](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-irritatie-door-eikenprocessierupsen) · [Poison Centre: Poisoning by plants](https://www.antigifcentrum.be/Toxinfos/vergiftiging-door-planten/) · [RMI: How do I protect myself against lightning?](https://www.meteo.be/nl/switch-language/634?nis=21004)
 
 ## Ticks and Lyme disease
 
@@ -116,7 +134,7 @@ Source: [Poison Centre: Tick bites](https://www.antigifcentrum.be/Toxinfos/teken
 
 **Bitten: what to do**
 
-1. An adder bite is rarely fatal, but must always be seen by a doctor quickly. **Call 112.**
+1. An adder bite is rarely fatal, but must always be seen by a doctor quickly. **Call 112** or have someone call. If you cannot get through, see Overview, If you cannot get through.
 2. Stay calm and move as little as possible.
 3. Reassure the casualty.
 4. Keep the bitten part of the body as still as possible.
@@ -138,7 +156,7 @@ Source: [Poison Centre: Adder bites](https://www.antigifcentrum.be/Toxinfos/adde
 
 ## Wasps, bees, bumblebees and hornets
 
-One sting on the arms, legs or trunk is usually not dangerous. Pain, redness, itching and swelling are normal and can last a few days. If there is only a local reaction, you do not need to call the Poison Centre.
+One sting on the arms, legs or trunk is usually not dangerous. Pain, redness, itching and swelling are normal and can last a few days. If there is only a local reaction, you do not need to contact the Poison Centre.
 
 **What to do**
 
@@ -148,7 +166,7 @@ One sting on the arms, legs or trunk is usually not dangerous. Pain, redness, it
 4. Sting in the hand or fingers: remove rings before the swelling increases.
 5. With a large swelling: keep the arm or leg raised.
 
-**Call 112 immediately** in case of a severe allergic reaction, which can occur after just one sting:
+**Call 112 immediately** or have someone call in case of a severe allergic reaction, which can occur after just one sting:
 
 - swelling of the tongue or throat;
 - difficulty swallowing, speaking or breathing;
@@ -157,7 +175,9 @@ One sting on the arms, legs or trunk is usually not dangerous. Pain, redness, it
 - severe dizziness, weakness or fainting;
 - loss of consciousness.
 
-If someone has an adrenaline pen because of a known allergy, use it according to their personal emergency plan and call 112.
+If you cannot get through, see Overview, If you cannot get through.
+
+If someone has an adrenaline pen because of a known allergy, use it according to their personal emergency plan and call 112 or have someone fetch help.
 
 **Sting in the mouth or throat.** The swelling can narrow the airway. Always have this seen by a doctor urgently. In case of shortness of breath or rapidly increasing swelling: call 112.
 
@@ -190,7 +210,7 @@ From May to July, in certain areas, hairy caterpillars live on oak trees. They h
 5. Shower and wash the hair with soap and water.
 6. Hairs that are stuck: press sticky tape onto the skin and pull it off quickly.
 7. Swallowed: drink a large glass of water.
-8. Irritated eyes: go to an **eye specialist**. Serious symptoms: **call 112**.
+8. Irritated eyes: go to an **eye specialist**. Serious symptoms: **call 112** or have someone fetch help.
 9. Notify the municipality so that the caterpillars can be removed.
 
 **Prevention.** From May to September, avoid the vicinity of affected trees (oak, beech, birch): you can recognise them by branches that have been stripped bare and nests with hairs and moulted skins. Keep playing children away. If there is no other option, wear gloves, long sleeves, long trousers, a cap and glasses.
@@ -214,7 +234,7 @@ Young children often put berries or leaves in their mouths. Usually this ends we
 **What to do after swallowing**
 
 1. Remove the plant remains from the mouth and give a glass of water.
-2. Call the Poison Centre (070 245 245) or the GP. Have the name of the plant to hand.
+2. Contact the Poison Centre (070 245 245, if the network works) or the GP. Have the name of the plant to hand.
 3. If you do not know the name: take a whole branch with leaves and flowers or fruits to a garden centre, florist, pharmacist or plant expert, or take several photos.
 4. If a child has eaten several berries, contact the GP or the Poison Centre.
 
@@ -231,7 +251,7 @@ Source: [Poison Centre: Poisoning by plants](https://www.antigifcentrum.be/Toxin
 
 **About 60 per cent** of the calls about mushrooms to the Poison Centre concern children who accidentally ate a piece. That is usually not very serious, but sometimes identification is needed. The Poison Centre works with a network of mycologists who can help quickly. A meal with mushrooms you picked yourself is less often a problem, but potentially much more serious.
 
-**Call the Poison Centre** and have this information ready: which mushrooms, where they were picked, how long between picking and eating, how they were stored and prepared, whether there are any remains (raw, cooked, peeled), which symptoms, how long after eating the first symptoms appeared, which medication and medical conditions, whether everyone who ate them is ill, what else was eaten and drunk.
+**Contact the Poison Centre** if the network works, and have this information ready: which mushrooms, where they were picked, how long between picking and eating, how they were stored and prepared, whether there are any remains (raw, cooked, peeled), which symptoms, how long after eating the first symptoms appeared, which medication and medical conditions, whether everyone who ate them is ill, what else was eaten and drunk.
 
 Source: [Poison Centre: Tips for mushroom pickers](https://www.antigifcentrum.be/Toxinfos/tips-voor-paddenstoelenplukkers/) · [Poison Centre: Calls about mushrooms](https://www.antigifcentrum.be/Toxinfos/oproepen-rond-paddenstoelen/)
 
@@ -247,7 +267,7 @@ There are no deadly jellyfish on the Belgian coast, but their stinging cells can
 4. Visible tentacles: remove them with tweezers. Not visible: apply shaving foam and scrape it off with the edge of a bank card, from the fingers or toes upwards.
 5. **Do not rub**, not even with sand. **No vinegar** on the North Sea. **No urine.** No pressure bandage.
 
-**Call 112** in case of general reactions: difficulty breathing or swallowing, heart rhythm disturbances, loss of consciousness, feeling unwell, abdominal cramps, vomiting, itching and redness all over the body.
+**Call 112** or have someone call in case of general reactions: difficulty breathing or swallowing, heart rhythm disturbances, loss of consciousness, feeling unwell, abdominal cramps, vomiting, itching and redness all over the body.
 
 Source: [Rode Kruis-Vlaanderen: First aid for a jellyfish sting](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-een-kwallenbeet)
 
@@ -276,7 +296,7 @@ Source: [Rode Kruis-Vlaanderen: First aid for a jellyfish sting](https://www.gez
 - Get off your bicycle, moped, motorbike or horse and look for shelter.
 - In a group: spread out, at least 2 metres apart.
 
-**Someone has been struck.** Call 112. A person who has been struck is **not electrically charged**: you can touch them straight away. If they are not breathing, start resuscitation: only one in three of the people struck dies, and those who are resuscitated quickly and for a long time often survive. Cool burns with cold or lukewarm water.
+**Someone has been struck.** Call 112 or have someone call (if that does not work, see Overview, If you cannot get through). A person who has been struck is **not electrically charged**: you can touch them straight away. If they are not breathing, start resuscitation: only one in three of the people struck dies, and those who are resuscitated quickly and for a long time often survive. Cool burns with cold or lukewarm water.
 
 **After the thunderstorm:** do not touch cables lying on the ground.
 
@@ -290,13 +310,13 @@ Source: [RMI: How do I protect myself against lightning?](https://www.meteo.be/n
 - Put on a cap or hat, wear light clothing in light colours, use sun cream with a high protection factor.
 - Avoid heavy exertion, especially in the hottest part of the day. Wet your forehead and neck regularly.
 - Never leave people or animals behind in a parked car.
-- **Heatstroke** is life-threatening. Signs: headache, dizziness or fainting, vomiting, cramps, red skin, first heavy sweating and then no more sweating, convulsions, confusion. Call 112 in case of impaired consciousness, convulsions, no longer sweating, being unable to drink without vomiting, or above 39 °C. Cool down immediately in the shade, with wet cold cloths in the groin, armpits and neck, cold water, a fan.
+- **Heatstroke** is life-threatening. Signs: headache, dizziness or fainting, vomiting, cramps, red skin, first heavy sweating and then no more sweating, convulsions, confusion. Call 112 or have someone fetch help in case of impaired consciousness, convulsions, no longer sweating, being unable to drink without vomiting, or above 39 °C. Cool down immediately in the shade, with wet cold cloths in the groin, armpits and neck, cold water, a fan.
 
 **Cold**
 
 - Put on several layers and cover your whole body, including your head.
 - Keep your clothing dry and avoid sweating.
-- **Hypothermia**: uncontrollable shivering, later the shivering stops, pale cold skin, blue lips, confusion, drowsiness. Call 112 if someone stops shivering, becomes stiff or drowsy. Move them horizontally, remove wet clothing, cover them so they are dry and warm, **do not rub them warm**.
+- **Hypothermia**: uncontrollable shivering, later the shivering stops, pale cold skin, blue lips, confusion, drowsiness. Call 112 or have someone fetch help if someone stops shivering, becomes stiff or drowsy. Move them horizontally, remove wet clothing, cover them so they are dry and warm, **do not rub them warm**.
 - **Frostbite**: with mild frostbite the skin becomes dull and whitish, with deep frostbite the tissue becomes hard and immobile. Feet, hands and the face are the most vulnerable. Check each other's faces in a group. Do **not thaw** frozen parts **by an open fire**.
 
 See also the scenarios on heat and cold.
@@ -325,7 +345,7 @@ Source: [National Crisis Center: Heatwave](https://crisiscenter.be/en/risks-belg
 1. First make sure you are safe yourself.
 2. Try to rescue **without going into the water yourself**.
 3. Only go into the water if you are trained for it. A drowning person who is conscious will cling to the rescuer in panic.
-4. Call 112. Every drowning casualty must be examined, even if it does not seem serious.
+4. Call 112 or have someone call. If you cannot get through, see Overview, If you cannot get through. Every drowning casualty must be examined, even if it does not seem serious.
 5. Take the casualty out of the water **horizontally**.
 6. If they are not breathing: start resuscitation. After a dive into shallow water: consider a neck injury.
 7. If conscious: to a warm place, remove wet clothing, dry them, cover them warmly, do not rub them warm.
@@ -358,7 +378,7 @@ The chance of meeting a wolf by accident is very small. Wolves are mainly active
 2. If the wolf does not leave by itself, chase it away: make yourself big and threatening, shout loudly, clap your hands, make large movements with your arms.
 3. Keep your dog on the lead. A wolf may see a dog running loose as an intruder or prey and attack it.
 4. **Never feed a wolf.**
-5. Report the sighting via wolf@inbo.be.
+5. Report the sighting later via wolf@inbo.be, if the internet works.
 
 A wolf that is no longer shy of people or behaves boldly is considered a problem wolf. The Agentschap Natuur en Bos and the INBO closely monitor the behaviour of the wolves in Flanders.
 
@@ -369,7 +389,7 @@ Source: [Agentschap Natuur en Bos: Q&A on the current wolf situation in Limburg]
 | Who | What to pay extra attention to |
 | --- | --- |
 | Children | Check yourself and others for ticks after every visit to nature. Keep them away from trees with processionary caterpillars. Small children put berries, leaves and mushrooms in their mouths. They are at greater risk from an adder bite. More than 5 wasp stings in a small child: observation in hospital. |
-| People with an insect venom allergy | Carry your adrenaline pen and follow your personal emergency plan. Call 112 in case of a reaction. |
+| People with an insect venom allergy | Carry your adrenaline pen and follow your personal emergency plan. Call 112 or have someone fetch help in case of a reaction. |
 | Older people and people with a chronic illness | In hot weather: ask your GP about your risks and whether your medication has an effect. |
 | People who take medication | Ask your doctor or pharmacist whether it can have a negative effect in hot weather. |
 | Dogs | On the lead in nature reserves, and certainly where wild boar or wolves are present. |

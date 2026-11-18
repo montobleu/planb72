@@ -4,7 +4,7 @@ module: voedsel
 volgorde: 1
 kort: "Wat je doet met koelkast en diepvries bij een stroomonderbreking, wat je bewaart en wat je weggooit, hoe je veilig kookt zonder stroom en hoe je baby's voedt."
 status: concept
-datum: "2026-11-17"
+datum: "2026-11-18"
 bronnen:
   - naam: "Nationaal Crisiscentrum: Verstoring van elektriciteit"
     url: "https://crisiscentrum.be/nl/risicos-belgie/maatschappelijke-risicos/verstoring-van-elektriciteit"
@@ -40,6 +40,8 @@ bronnen:
     url: "https://www.vrt.be/vrtnws/nl/2026/03/20/roeselare-vraagt-om-drinkwater-in-enkele-centrumsteden-tijdelijk/"
   - naam: "Denk vooruit: informatieboekje Bereid je voor op een noodsituatie"
     url: "https://www.denkvooruit.nl/site/binaries/site-content/collections/documents/2025/11/17/informatieboekje-bereid-je-voor-op-een-noodsituatie/informatieboekje-bereid-je-voor-op-een-noodsituatie.pdf"
+  - naam: "Ready.gov: Water"
+    url: "https://www.ready.gov/water"
 ---
 
 Zonder stroom vallen koelkast, diepvries, elektrisch fornuis, oven en microgolfoven uit. Deze gids gaat over drie vragen: hoe hou je wat koud is zo lang mogelijk koud, wat mag je daarna nog eten, en hoe maak je veilig eten klaar. Welke voorraad je best in huis hebt, staat in de gids over de noodvoorraad.
@@ -231,7 +233,7 @@ Het BBK maakt het onderscheid dat je moet onthouden: sommige toestellen mogen bi
 - Het Antigifcentrum: een barbecue in huis halen voor warmte is geen goed idee. De smeulende kolen geven veel CO vrij, zelfs met een open garagepoort.
 - Ready.gov: gebruik geen gasfornuis of oven om je huis te verwarmen.
 
-**Brandstof sparen.** Het BBK raadt voedsel aan dat met weinig energie gaart, zodat je brandstof langer meegaat, en voedsel dat je koud kunt eten. Het BBK heeft daarvoor een noodkookboek met recepten zonder stroom. Denk vooruit verwijst naar het Voedingscentrum voor recepten met houdbaar eten; print ze of schrijf ze op.
+**Brandstof sparen.** Het BBK raadt voedsel aan dat met weinig energie gaart, zodat je brandstof langer meegaat, en voedsel dat je koud kunt eten. Het BBK heeft daarvoor een noodkookboek met recepten zonder stroom. Denk vooruit verwijst naar het Voedingscentrum voor recepten met houdbaar eten en raadt aan ze vooraf te printen of op te schrijven: zonder internet kun je ze niet meer opzoeken.
 
 **Als stroom beperkt is maar niet weg.** Bij elektriciteitsschaarste raadt de OFF ON-brochure aan zo weinig mogelijk kookplaten te gebruiken, de microgolfoven te gebruiken in plaats van de gewone oven, en elektrische toestellen bij voorkeur na 22 uur te gebruiken.
 

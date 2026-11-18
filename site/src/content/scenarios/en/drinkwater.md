@@ -3,17 +3,17 @@ titel: Drinking water unsafe
 volgorde: 16
 kort: "The water company announces that tap water is not drinkable, or the water supply is cut off."
 stappen:
-  - "Read the message from your water company carefully. May you drink the water after boiling it, or not at all?"
+  - "Read the notice from your water company in your letterbox carefully. May you drink the water after boiling it, or not at all? Also listen to the radio. If the internet works, also check your water company's website."
   - "Use bottled water or boiled water for drinking, cooking, making up formula and making ice cubes."
   - "Boiling: bring the water to a full, rolling boil for at least 1 minute or as long as your water company says. Let it cool in a clean, closed container."
   - "Boiling does not help against chemical or radioactive contamination. In that case use only bottled water."
-  - "If the water supply is cut off: use your stock. Drink what you need and save water for everything else."
+  - "If the water supply is cut off: use your stock. Drink what you need and save water for everything else. The water company may set up water distribution points and the authorities may have bottled water distributed."
   - "If the water is brown or cloudy after the disruption, let the tap run for a few minutes."
 niet:
   - "Never use water from the heating system or the water heater for drinking or cooking."
   - "Do not ration drinking water unless the authorities ask you to."
 status: concept
-datum: "2026-11-17"
+datum: "2026-11-18"
 bronnen:
   - naam: "National Crisis Center: disruption of drinking water"
     url: https://crisiscenter.be/en/risks-belgium/societal-risks/failure-drinking-water-supply
@@ -29,13 +29,19 @@ bronnen:
     url: https://www.cdc.gov/water-emergency/about/how-to-create-and-store-an-emergency-water-supply.html
   - naam: "Ready.gov: Water"
     url: https://www.ready.gov/water
+  - naam: "National Crisis Center: information during an emergency"
+    url: https://crisiscenter.be/en/what-can-you-do/stay-informed/get-informed-emergency-situation
+  - naam: "National Crisis Center: brochure Prepared together"
+    url: https://crisiscenter.be/sites/default/files/documents/files/WEB-Brochure%20Prepared%20Together-EN.pdf
 vertaling: machine
-origineel_datum: "2026-11-17"
+origineel_datum: "2026-11-18"
 ---
 
 ## Recognise
 
-**Types of message.** Your water company announces a problem on its website and with a notice through your letterbox. The Walloon water company SWDE uses three colours:
+**How you hear about it.** Your water company announces a problem with a notice through your letterbox and on its website. In an emergency the authorities also inform you via radio, TV and police loudspeaker vans driving through the streets. If the network works, also via BE-Alert, websites and social media.
+
+**Types of message.** The Walloon water company SWDE uses three colours for the notice through your letterbox:
 
 - **Orange:** the water is not drinkable, but you may use it if you boil it first.
 - **Red:** the water is temporarily not drinkable, not even after boiling. You may not use it for drinking.
@@ -51,7 +57,7 @@ Other water companies may use different words. Read the message from your water 
 
 **How long.** A boil-water advice stays in force until tests show that the water is no longer contaminated. No fixed duration can be given in advance.
 
-Source: [SWDE](https://www.swde.be/en/water-quality-non-potable-water) · [RIVM](https://www.rivm.nl/drinkwater/toelichting-kookadvies-drinkwater) · [CDC](https://www.cdc.gov/water-emergency/about/index.html) · [National Crisis Center](https://crisiscenter.be/en/risks-belgium/societal-risks/failure-drinking-water-supply)
+Source: [SWDE](https://www.swde.be/en/water-quality-non-potable-water) · [RIVM](https://www.rivm.nl/drinkwater/toelichting-kookadvies-drinkwater) · [CDC](https://www.cdc.gov/water-emergency/about/index.html) · [National Crisis Center](https://crisiscenter.be/en/risks-belgium/societal-risks/failure-drinking-water-supply) · [National Crisis Center: information during an emergency](https://crisiscenter.be/en/what-can-you-do/stay-informed/get-informed-emergency-situation)
 
 ## Prepare
 
@@ -77,6 +83,11 @@ Source: [SWDE](https://www.swde.be/en/water-quality-non-potable-water) · [RIVM]
 - Store between about 10 and 21 °C, out of the sun and away from petrol and pesticides.
 - Do not touch the water or the inside of the container with your hands. Always use a clean scoop.
 
+### Information without a network
+
+- Keep a battery-powered or wind-up radio ready, preferably with DAB+ and FM.
+- Put the customer service number of your water company on your paper list of important phone numbers.
+
 ### Save water, always
 
 - Take a shower instead of a bath.
@@ -85,7 +96,7 @@ Source: [SWDE](https://www.swde.be/en/water-quality-non-potable-water) · [RIVM]
 - Have leaks repaired quickly.
 - Use drinking water only where it is needed.
 
-Source: [National Crisis Center: drinking water](https://crisiscenter.be/en/risks-belgium/societal-risks/failure-drinking-water-supply) · [National Crisis Center: emergency kit](https://crisiscenter.be/en/what-can-you-do/build-emergency-kit/emergency-kit-home) · [CDC: storing water](https://www.cdc.gov/water-emergency/about/how-to-create-and-store-an-emergency-water-supply.html) · [Ready.gov](https://www.ready.gov/water)
+Source: [National Crisis Center: drinking water](https://crisiscenter.be/en/risks-belgium/societal-risks/failure-drinking-water-supply) · [National Crisis Center: emergency kit](https://crisiscenter.be/en/what-can-you-do/build-emergency-kit/emergency-kit-home) · [CDC: storing water](https://www.cdc.gov/water-emergency/about/how-to-create-and-store-an-emergency-water-supply.html) · [Ready.gov](https://www.ready.gov/water) · [National Crisis Center: Prepared together](https://crisiscenter.be/sites/default/files/documents/files/WEB-Brochure%20Prepared%20Together-EN.pdf)
 
 ## During
 
@@ -106,13 +117,14 @@ How to boil water:
 **Water not drinkable, not even boiled (red).**
 
 - Use only bottled water or water from your stock.
-- The water company sometimes sets up distribution points with bottled water or a tanker. The customer service knows where.
+- The water company sets up distribution points. If the internet works, the SWDE says in the message on its website where other water can be obtained. If the phone works, the customer service also knows where the distribution points are.
 
 **Chemical or radioactive contamination.** Boiling and disinfecting do not help. Use bottled water or another source. Follow the advice of the health services.
 
 **No water from the tap.**
 
 - Use your stock. First drink the water you know for certain is safe.
+- If the water supply is interrupted, the mayor, governor or minister may have bottled water distributed. Listen to the radio and watch for notices in your letterbox and loudspeaker vans.
 - Do not ration drinking water unless the authorities ask you to. Drink what you need today and look for water for tomorrow.
 - Limit your exertion and stay cool, so that you need less water.
 - Do not drink alcohol or caffeine instead of water. They make you lose more water.
@@ -150,11 +162,11 @@ Use these only if you have no bottled water or stock left. If you cannot treat w
 
 - Include extra water for pets in your stock. The National Crisis Center recommends food, water and bowls for 72 hours.
 
-Source: [SWDE](https://www.swde.be/en/water-quality-non-potable-water) · [RIVM](https://www.rivm.nl/drinkwater/toelichting-kookadvies-drinkwater) · [CDC](https://www.cdc.gov/water-emergency/about/index.html) · [CDC: storing water](https://www.cdc.gov/water-emergency/about/how-to-create-and-store-an-emergency-water-supply.html) · [Ready.gov](https://www.ready.gov/water) · [National Crisis Center: emergency kit](https://crisiscenter.be/en/what-can-you-do/build-emergency-kit/emergency-kit-home)
+Source: [SWDE](https://www.swde.be/en/water-quality-non-potable-water) · [RIVM](https://www.rivm.nl/drinkwater/toelichting-kookadvies-drinkwater) · [CDC](https://www.cdc.gov/water-emergency/about/index.html) · [CDC: storing water](https://www.cdc.gov/water-emergency/about/how-to-create-and-store-an-emergency-water-supply.html) · [Ready.gov](https://www.ready.gov/water) · [National Crisis Center: emergency kit](https://crisiscenter.be/en/what-can-you-do/build-emergency-kit/emergency-kit-home) · [National Crisis Center: drinking water](https://crisiscenter.be/en/risks-belgium/societal-risks/failure-drinking-water-supply) · [National Crisis Center: information during an emergency](https://crisiscenter.be/en/what-can-you-do/stay-informed/get-informed-emergency-situation)
 
 ## Afterwards
 
-- Wait for the message from your water company that the water is drinkable again. With the SWDE this is a green message.
+- Wait for the message from your water company that the water is drinkable again. With the SWDE this is a green notice through your letterbox.
 - If the water is brown or cloudy after the disruption, let the tap run for a few minutes.
 - If the water pressure is low, it will recover gradually.
 - Keep saving water. Do not waste it.
@@ -175,6 +187,8 @@ Source: [National Crisis Center](https://crisiscenter.be/en/risks-belgium/societ
 Source: [CDC](https://www.cdc.gov/water-emergency/about/index.html) · [Ready.gov](https://www.ready.gov/water) · [SWDE](https://www.swde.be/en/water-quality-non-potable-water)
 
 ## More information
+
+To read beforehand, or when the internet works:
 
 - Risk and tips: [National Crisis Center: disruption of drinking water](https://crisiscenter.be/en/risks-belgium/societal-risks/failure-drinking-water-supply)
 - Messages about non-drinkable water in Wallonia: [SWDE](https://www.swde.be/en/water-quality-non-potable-water)

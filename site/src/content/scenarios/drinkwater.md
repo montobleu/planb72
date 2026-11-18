@@ -3,17 +3,17 @@ titel: Drinkwater niet veilig
 volgorde: 16
 kort: "Het waterbedrijf meldt dat kraanwater niet drinkbaar is, of de watertoevoer valt weg."
 stappen:
-  - "Lees het bericht van je waterbedrijf goed. Mag je het water na koken drinken, of helemaal niet?"
+  - "Lees het bericht van je waterbedrijf in de brievenbus goed. Mag je het water na koken drinken, of helemaal niet? Luister ook naar de radio. Werkt het internet, kijk dan ook op de website van je waterbedrijf."
   - "Gebruik flessenwater of gekookt water om te drinken, te koken, flesvoeding te maken en ijsblokjes te maken."
   - "Koken: laat het water flink doorkoken, minstens 1 minuut of zo lang als je waterbedrijf zegt. Laat het afkoelen in een schone, afgesloten pot."
   - "Koken helpt niet bij chemische of radioactieve vervuiling. Gebruik dan alleen flessenwater."
-  - "Valt het water weg: gebruik je voorraad. Drink wat je nodig hebt en spaar water voor de rest."
+  - "Valt het water weg: gebruik je voorraad. Drink wat je nodig hebt en spaar water voor de rest. Het waterbedrijf kan verdeelpunten met water opzetten en de overheid kan flessenwater laten verdelen."
   - "Is het water na de storing bruin of troebel, laat de kraan dan enkele minuten lopen."
 niet:
   - "Gebruik nooit water uit de verwarming of de boiler om te drinken of te koken."
   - "Rantsoeneer drinkwater niet, tenzij de overheid dat vraagt."
 status: concept
-datum: "2026-11-17"
+datum: "2026-11-18"
 bronnen:
   - naam: "Nationaal Crisiscentrum: verstoring van drinkwater"
     url: https://crisiscentrum.be/nl/risicos-belgie/maatschappelijke-risicos/verstoring-van-drinkwater
@@ -29,11 +29,17 @@ bronnen:
     url: https://www.cdc.gov/water-emergency/about/how-to-create-and-store-an-emergency-water-supply.html
   - naam: "Ready.gov: Water"
     url: https://www.ready.gov/water
+  - naam: "Nationaal Crisiscentrum: informatie tijdens een noodsituatie"
+    url: https://crisiscentrum.be/nl/wat-kan-jij-doen/informeer-je/informatie-tijdens-een-noodsituatie
+  - naam: "Nationaal Crisiscentrum: brochure Samen voorbereid"
+    url: https://crisiscentrum.be/sites/default/files/documents/files/WEB-Brochure%20Samen%20voorbereid-NL.pdf
 ---
 
 ## Herkennen
 
-**Soorten berichten.** Je waterbedrijf meldt een probleem op zijn website en met een bericht in de brievenbus. De Waalse watermaatschappij SWDE gebruikt drie kleuren:
+**Hoe je het hoort.** Je waterbedrijf meldt een probleem met een bericht in de brievenbus en op zijn website. In een noodsituatie informeert de overheid ook via radio, tv en omroepwagens van de politie die in de straat rondrijden. Werkt het netwerk, dan ook via BE-Alert, websites en sociale media.
+
+**Soorten berichten.** De Waalse watermaatschappij SWDE gebruikt drie kleuren voor het bericht in de brievenbus:
 
 - **Oranje:** het water is niet drinkbaar, maar je mag het gebruiken als je het eerst kookt.
 - **Rood:** het water is tijdelijk niet drinkbaar, ook niet na koken. Je mag het niet gebruiken om te drinken.
@@ -49,7 +55,7 @@ Andere waterbedrijven kunnen andere woorden gebruiken. Lees het bericht van jouw
 
 **Hoe lang.** Een kookadvies blijft gelden tot controles tonen dat het water niet meer vervuild is. Vooraf is geen vaste duur te geven.
 
-Bron: [SWDE](https://www.swde.be/en/water-quality-non-potable-water) · [RIVM](https://www.rivm.nl/drinkwater/toelichting-kookadvies-drinkwater) · [CDC](https://www.cdc.gov/water-emergency/about/index.html) · [Nationaal Crisiscentrum](https://crisiscentrum.be/nl/risicos-belgie/maatschappelijke-risicos/verstoring-van-drinkwater)
+Bron: [SWDE](https://www.swde.be/en/water-quality-non-potable-water) · [RIVM](https://www.rivm.nl/drinkwater/toelichting-kookadvies-drinkwater) · [CDC](https://www.cdc.gov/water-emergency/about/index.html) · [Nationaal Crisiscentrum](https://crisiscentrum.be/nl/risicos-belgie/maatschappelijke-risicos/verstoring-van-drinkwater) · [Nationaal Crisiscentrum: informatie tijdens een noodsituatie](https://crisiscentrum.be/nl/wat-kan-jij-doen/informeer-je/informatie-tijdens-een-noodsituatie)
 
 ## Voorbereiden
 
@@ -75,6 +81,11 @@ Bron: [SWDE](https://www.swde.be/en/water-quality-non-potable-water) · [RIVM](h
 - Bewaar tussen ongeveer 10 en 21 °C, uit de zon en weg van benzine en pesticiden.
 - Raak het water en de binnenkant van de verpakking niet aan met je handen. Gebruik telkens een schone schep.
 
+### Informatie zonder netwerk
+
+- Hou een radio op batterijen of een opwindbare radio klaar, liefst met DAB+ en FM.
+- Zet het nummer van de klantendienst van je waterbedrijf op je papieren lijst met belangrijke telefoonnummers.
+
 ### Water sparen, altijd
 
 - Neem een douche in plaats van een bad.
@@ -83,7 +94,7 @@ Bron: [SWDE](https://www.swde.be/en/water-quality-non-potable-water) · [RIVM](h
 - Laat lekken snel herstellen.
 - Gebruik drinkwater alleen waar het nodig is.
 
-Bron: [Nationaal Crisiscentrum: drinkwater](https://crisiscentrum.be/nl/risicos-belgie/maatschappelijke-risicos/verstoring-van-drinkwater) · [Nationaal Crisiscentrum: noodpakket](https://crisiscentrum.be/nl/wat-kan-jij-doen/maak-een-noodpakket/een-noodpakket-bij-je-thuis) · [CDC: water bewaren](https://www.cdc.gov/water-emergency/about/how-to-create-and-store-an-emergency-water-supply.html) · [Ready.gov](https://www.ready.gov/water)
+Bron: [Nationaal Crisiscentrum: drinkwater](https://crisiscentrum.be/nl/risicos-belgie/maatschappelijke-risicos/verstoring-van-drinkwater) · [Nationaal Crisiscentrum: noodpakket](https://crisiscentrum.be/nl/wat-kan-jij-doen/maak-een-noodpakket/een-noodpakket-bij-je-thuis) · [CDC: water bewaren](https://www.cdc.gov/water-emergency/about/how-to-create-and-store-an-emergency-water-supply.html) · [Ready.gov](https://www.ready.gov/water) · [Nationaal Crisiscentrum: Samen voorbereid](https://crisiscentrum.be/sites/default/files/documents/files/WEB-Brochure%20Samen%20voorbereid-NL.pdf)
 
 ## Tijdens
 
@@ -104,13 +115,14 @@ Zo kook je water:
 **Water niet drinkbaar, ook niet gekookt (rood).**
 
 - Gebruik alleen flessenwater of water uit je voorraad.
-- Het waterbedrijf zet soms verdeelpunten op met flessenwater of een tankwagen. De klantendienst weet waar.
+- Het waterbedrijf zet verdeelpunten op. Werkt het internet, dan staat bij de SWDE in het bericht op de website waar het andere water te krijgen is. Werkt de telefoon, dan weet ook de klantendienst waar de verdeelpunten zijn.
 
 **Chemische of radioactieve vervuiling.** Koken en ontsmetten helpen niet. Gebruik flessenwater of een andere bron. Volg het advies van de gezondheidsdiensten.
 
 **Geen water uit de kraan.**
 
 - Gebruik je voorraad. Drink eerst het water waarvan je zeker weet dat het veilig is.
+- Bij een onderbreking van de watertoevoer kunnen burgemeester, gouverneur of minister water in flessen laten verdelen. Luister naar de radio en let op berichten in de brievenbus en omroepwagens.
 - Rantsoeneer drinkwater niet, tenzij de overheid dat vraagt. Drink vandaag wat je nodig hebt en zoek water voor morgen.
 - Beperk je inspanning en blijf koel, zodat je minder water nodig hebt.
 - Drink geen alcohol of cafeïne in de plaats van water. Die doen je meer water verliezen.
@@ -148,11 +160,11 @@ Gebruik deze alleen als je geen flessenwater of voorraad meer hebt. Kun je water
 
 - Voorzie extra water voor huisdieren in je voorraad. Het Nationaal Crisiscentrum raadt voer, water en kommen voor 72 uur aan.
 
-Bron: [SWDE](https://www.swde.be/en/water-quality-non-potable-water) · [RIVM](https://www.rivm.nl/drinkwater/toelichting-kookadvies-drinkwater) · [CDC](https://www.cdc.gov/water-emergency/about/index.html) · [CDC: water bewaren](https://www.cdc.gov/water-emergency/about/how-to-create-and-store-an-emergency-water-supply.html) · [Ready.gov](https://www.ready.gov/water) · [Nationaal Crisiscentrum: noodpakket](https://crisiscentrum.be/nl/wat-kan-jij-doen/maak-een-noodpakket/een-noodpakket-bij-je-thuis)
+Bron: [SWDE](https://www.swde.be/en/water-quality-non-potable-water) · [RIVM](https://www.rivm.nl/drinkwater/toelichting-kookadvies-drinkwater) · [CDC](https://www.cdc.gov/water-emergency/about/index.html) · [CDC: water bewaren](https://www.cdc.gov/water-emergency/about/how-to-create-and-store-an-emergency-water-supply.html) · [Ready.gov](https://www.ready.gov/water) · [Nationaal Crisiscentrum: noodpakket](https://crisiscentrum.be/nl/wat-kan-jij-doen/maak-een-noodpakket/een-noodpakket-bij-je-thuis) · [Nationaal Crisiscentrum: drinkwater](https://crisiscentrum.be/nl/risicos-belgie/maatschappelijke-risicos/verstoring-van-drinkwater) · [Nationaal Crisiscentrum: informatie tijdens een noodsituatie](https://crisiscentrum.be/nl/wat-kan-jij-doen/informeer-je/informatie-tijdens-een-noodsituatie)
 
 ## Daarna
 
-- Wacht op het bericht van je waterbedrijf dat het water weer drinkbaar is. Bij de SWDE is dat een groen bericht.
+- Wacht op het bericht van je waterbedrijf dat het water weer drinkbaar is. Bij de SWDE is dat een groen bericht in de brievenbus.
 - Is het water na de storing bruin of troebel, laat de kraan dan enkele minuten lopen.
 - Is de waterdruk laag, dan herstelt die geleidelijk.
 - Blijf water sparen. Verspil het niet.
@@ -173,6 +185,8 @@ Bron: [Nationaal Crisiscentrum](https://crisiscentrum.be/nl/risicos-belgie/maats
 Bron: [CDC](https://www.cdc.gov/water-emergency/about/index.html) · [Ready.gov](https://www.ready.gov/water) · [SWDE](https://www.swde.be/en/water-quality-non-potable-water)
 
 ## Meer informatie
+
+Vooraf te lezen, of als het internet werkt:
 
 - Risico en tips: [Nationaal Crisiscentrum: verstoring van drinkwater](https://crisiscentrum.be/nl/risicos-belgie/maatschappelijke-risicos/verstoring-van-drinkwater)
 - Berichten over niet-drinkbaar water in Wallonië: [SWDE](https://www.swde.be/en/water-quality-non-potable-water)

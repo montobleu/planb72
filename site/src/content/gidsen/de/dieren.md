@@ -4,7 +4,7 @@ module: dieren
 volgorde: 1
 kort: "Haustiere, Assistenztiere, Aquarien- und Terrarientiere, Pferde und Vieh: der Notfallplan, der Vorrat, evakuieren oder zurücklassen, Kälte und Hitze, und was die Behörden bei einem nuklearen oder chemischen Zwischenfall anordnen."
 status: concept
-datum: "2026-11-17"
+datum: "2026-11-18"
 bronnen:
   - naam: "Nationales Krisenzentrum: Ein Plan für Tiere"
     url: "https://krisenzentrum.be/de/was-koennen-sie-tun/bereiten-sie-sich-vor/ein-plan-fuer-tiere"
@@ -49,7 +49,7 @@ bronnen:
   - naam: "CDC: About Handwashing"
     url: "https://www.cdc.gov/clean-hands/about/index.html"
 vertaling: machine
-origineel_datum: "2026-11-17"
+origineel_datum: "2026-11-18"
 ---
 
 Das Krisenzentrum bittet Sie, Ihre Tiere in Ihren Notfallplan und Ihr Notfallpaket aufzunehmen. Ready.gov erklärt, warum: Wer im Voraus einen Plan für sich und seine Tiere hat, hat weniger Mühe, Stress und Sorgen, wenn schnell entschieden werden muss. Die MCF sagt es kurz: Sie sind in einer Krise für die Versorgung und das Wohlergehen Ihres Tieres verantwortlich.
@@ -65,7 +65,7 @@ Das Krisenzentrum nennt diese Schritte:
 3. **Kennzeichnung.** Sorgen Sie dafür, dass Ihr Tier identifiziert werden kann, am besten mit einem Chip. Halten Sie Ihren Namen und Ihre Adresse in der Online-Registrierung (CatID, DogID) aktuell.
 4. **Impfung.** Sorgen Sie dafür, dass Ihr Tier geimpft ist, und legen Sie eine Kopie des Impfpasses in Ihr Notfallpaket.
 5. **Transport.** Planen Sie, wie Sie Ihr Tier sicher transportieren, mit einer Transportbox oder Tasche, und gewöhnen Sie es daran.
-6. **Kontaktpersonen.** Nehmen Sie die Telefonnummer Ihres Tierarztes in Ihre wichtigen Nummern auf.
+6. **Kontaktpersonen.** Nehmen Sie die Telefonnummer Ihres Tierarztes in Ihre wichtigen Nummern auf. Anrufen gelingt nur, wenn das Netz funktioniert.
 
 Was andere Quellen hinzufügen:
 
@@ -75,7 +75,7 @@ Was andere Quellen hinzufügen:
 - **Ein Aufkleber** an Fenster oder Haustür, der angibt, welche und wie viele Haustiere Sie haben. Diese sind laut Diereninrampen.nl in den Niederlanden bei Tierhilfsorganisationen und Gemeinden erhältlich.
 - **Warum impfen.** Diereninrampen.nl: Können Sie bei einer Evakuierung nicht nachweisen, dass Ihr Tier geimpft ist, kann es abgewiesen und in Quarantäne gebracht werden, vor allem bei Krankheiten wie Tollwut.
 - **Kein selbstverständlicher Platz im Tierheim.** Tierauffangstationen wollen helfen, haben aber oft kaum Platz; regeln Sie es selbst (Diereninrampen.nl).
-- **Auf Papier.** Drucken Sie wichtige Telefonnummern, Adressen und Routen aus, damit Sie sie bei Strom- und Internetausfall haben (Diereninrampen.nl).
+- **Auf Papier.** Drucken Sie wichtige Telefonnummern, Adressen und Routen aus, damit Sie sie bei Strom- und Internetausfall haben (Diereninrampen.nl). Notieren Sie auch die Adresse Ihres Tierarztes. Die Karte in der App (Schaltfläche Am nächsten) zeigt Tierärzte.
 
 Quelle: [Nationales Krisenzentrum: Ein Plan für Tiere](https://krisenzentrum.be/de/was-koennen-sie-tun/bereiten-sie-sich-vor/ein-plan-fuer-tiere) · [Ready.gov: Pets](https://www.ready.gov/pets) · [Diereninrampen.nl: Retten Sie Ihr Tier bei einer Katastrophe](https://www.diereninrampen.nl/red-je-dier-bij-een-ramp)
 
@@ -148,7 +148,7 @@ Quelle: [Ready.gov: Pets](https://www.ready.gov/pets)
 
 **Kann oder darf Ihr Tier nicht mit** (Krisenzentrum)
 
-1. Teilen Sie den Hilfsdiensten mit, dass sich ein oder mehrere Tiere in Ihrer Wohnung befinden.
+1. Teilen Sie den Hilfsdiensten mit, dass sich ein oder mehrere Tiere in Ihrer Wohnung befinden. Ein Aufkleber an Fenster oder Haustür zeigt, welche und wie viele Tiere es gibt (Diereninrampen.nl, siehe Der Plan für Ihre Tiere).
 2. Sagen Sie, wo sich das Tier oft versteckt und wie es meist auf Fremde reagiert.
 3. Stellen Sie ausreichend Wasser und Futter für 24 Stunden bereit.
 4. Legen Sie Zeitungen auf den Boden für Kot.
@@ -294,7 +294,7 @@ Quelle: [Nationales Krisenzentrum: Broschüre Gemeinsam vorbereitet](https://kri
 - [ ] Medikamente und ein Erste-Hilfe-Set für das Tier.
 - [ ] Transportbox oder Transportkäfig pro Tier, und das Tier daran gewöhnen.
 - [ ] Foto von Ihnen mit Ihrem Tier.
-- [ ] Tierarzt bei den wichtigen Nummern.
+- [ ] Tierarzt bei den wichtigen Nummern, mit Adresse, auf Papier.
 - [ ] Für Vieh und Pferde: Kennzeichnung, Routen, Transport und ein Zielort.
 
-Quelle: [Nationales Krisenzentrum: Ein Plan für Tiere](https://krisenzentrum.be/de/was-koennen-sie-tun/bereiten-sie-sich-vor/ein-plan-fuer-tiere) · [Nationales Krisenzentrum: Broschüre Gemeinsam vorbereitet](https://krisenzentrum.be/sites/default/files/documents/files/WEB-Brosch%C3%BCre%20Gemeinsam%20Vorbereitet-DE.pdf) · [Ready.gov: Pets](https://www.ready.gov/pets) · [MCF: In case of crisis or war](https://rib.msb.se/filer/pdf/31523.pdf)
+Quelle: [Nationales Krisenzentrum: Ein Plan für Tiere](https://krisenzentrum.be/de/was-koennen-sie-tun/bereiten-sie-sich-vor/ein-plan-fuer-tiere) · [Nationales Krisenzentrum: Broschüre Gemeinsam vorbereitet](https://krisenzentrum.be/sites/default/files/documents/files/WEB-Brosch%C3%BCre%20Gemeinsam%20Vorbereitet-DE.pdf) · [Ready.gov: Pets](https://www.ready.gov/pets) · [MCF: In case of crisis or war](https://rib.msb.se/filer/pdf/31523.pdf) · [Diereninrampen.nl: Retten Sie Ihr Tier bei einer Katastrophe](https://www.diereninrampen.nl/red-je-dier-bij-een-ramp)

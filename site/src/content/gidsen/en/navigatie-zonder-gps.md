@@ -4,7 +4,7 @@ module: buiten
 volgorde: 1
 kort: "Finding your way without a mobile phone or GPS: map and compass, finding direction with the sun, a shadow stick, a watch and the Pole Star, estimating distance with your paces, reading and passing on coordinates, and what to do if you are lost."
 status: concept
-datum: "2026-11-17"
+datum: "2026-11-18"
 bronnen:
   - naam: "US Army FM 3-25.26 Map Reading and Land Navigation (2001, approved for public release)"
     url: https://archive.org/details/milmanual-fm-3-25.26-map-reading-and-land-navigation
@@ -35,7 +35,7 @@ bronnen:
   - naam: "Ready.gov: Evacuation"
     url: https://www.ready.gov/evacuation
 vertaling: machine
-origineel_datum: "2026-11-17"
+origineel_datum: "2026-11-18"
 ---
 
 ## Why this is needed
@@ -52,7 +52,7 @@ Source: [National Park Service: Outdoor Emergency Plan](https://www.nps.gov/subj
 
 ## Before you set off
 
-- **Take a map.** Print it, download it, or get it in advance. For walking, take a detailed topographic map.
+- **Take a map.** Print it, download it, or get it in advance. For walking, take a detailed topographic map. Practise map reading.
 - **Look at your route on the map.** Note landmarks along the way.
 - **Practise with your compass** or your GPS before you leave. Take spare batteries for your torch.
 - **Leave a trip plan** with someone who is not coming: where you are going, which route, when you will be back.
@@ -203,16 +203,16 @@ Source: [US Army FM 3-25.26](https://archive.org/details/milmanual-fm-3-25.26-ma
 
 **Which system?** Lambert 2008 is the official Belgian coordinate system. It is aligned with the European ETRS89 system and uses the same reference model as satellite navigation. Worldwide systems such as WGS 84 also exist. The NGI offers an official conversion tool, cConvert. When passing on coordinates, always say which system you are using.
 
-**Passing on your location to the emergency services**
+**Passing on your location to the emergency services**, or to whoever goes to fetch help for you
 
 | What you have | What you pass on |
 | --- | --- |
-| The 112 BE app | Call via the app: the emergency centre sees your location. Confirm it verbally. |
+| The 112 BE app (if the network works) | Call via the app: the emergency centre sees your location. Confirm it verbally. |
 | A mobile phone with GPS | The GPS coordinates of your device |
 | A map | The name of the path or area where you set off, your last known location, coordinates from the map if you can read them |
 | Nothing | Recognisable points: paths, ponds, lookout towers, car parks, prominent features, the altitude in the mountains |
 
-Also say what clothing you are wearing (colour), what you have with you, and whether anyone has a medical problem.
+Also say what clothing you are wearing (colour), what you have with you, and whether anyone has a medical problem. If you have no signal and someone else goes to fetch help, give them the same details.
 
 Source: [US Army FM 3-25.26](https://archive.org/details/milmanual-fm-3-25.26-map-reading-and-land-navigation) · [NGI: FAQ](https://ngi.be/faq/) · [National Park Service: Outdoor Emergency Plan](https://www.nps.gov/subjects/healthandsafety/upload/NPS-Outdoor-Emergency-Plan-508c.pdf) · [National Crisis Center: Wildfire](https://crisiscenter.be/en/risks-belgium/natural-risks/wildfires) · [Deutscher Alpenverein: Erste Hilfe](https://www.forststeig.sachsen.de/download/Erste_Hilfe_2012_DAV.pdf) · [112.be: Mobile application 112 BE](https://112.be/en/mobile-application)
 
@@ -233,7 +233,7 @@ Source: [Vlaanderen.be: What may you do as a visitor in Flemish nature?](https:/
 
 **Step 3: retrace your steps**, if it is safe to do so, until you are back on your planned route.
 
-**Step 4: call for help** if that does not work. See the guide on emergency calls.
+**Step 4: ask for help** if that does not work. If you have signal, call 112 (see the guide on emergency calls). No signal: speak to someone you meet and ask them to go to a place with signal and call 112 from there. If there is nobody, stay where you are and give signals (see below).
 
 **Step 5: stay where you are.** If you move, it is harder to find you. Only move if your life is in immediate danger.
 
@@ -285,7 +285,7 @@ Source: [National Park Service: Junior Ranger Park Explorer](https://www.nps.gov
 
 | Location | What the sources say |
 | --- | --- |
-| Forest or nature area in Flanders | Stay on the paths; that is also the rule. Call 112 with recognisable points (paths, ponds, lookout towers, car parks). In a fire, flee along existing paths away from the fire, preferably across the wind, towards a public road or built-up area. |
+| Forest or nature area in Flanders | Stay on the paths; that is also the rule. Call 112 with recognisable points (paths, ponds, lookout towers, car parks). In a fire, flee along existing paths away from the fire, preferably across the wind, towards a public road or built-up area. No signal during a fire: evacuate as quickly as possible and speak to people you meet. |
 | Mountains | Give the alpine distress signal if you have no phone but are within sight or earshot of a valley or hut. When calling, give prominent terrain features, the altitude and if possible coordinates. |
 | At night | Use the Pole Star. Your pace becomes shorter in the dark. Choose steering marks with a clear shape. Stop early enough to still make a shelter. |
 | Fog, rain, snow | Your pace becomes shorter. Count more paces per 100 metres. Use the compass and handrails in the terrain. |

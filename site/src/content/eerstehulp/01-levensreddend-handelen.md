@@ -1,9 +1,9 @@
 ---
 titel: Levensreddend handelen
 volgorde: 1
-kort: "De vier stappen van het Rode Kruis: veiligheid, toestand beoordelen, 112 bellen, verdere eerste hulp."
+kort: "De vier stappen van het Rode Kruis: veiligheid, toestand beoordelen, hulp alarmeren (112 of iemand sturen), verdere eerste hulp."
 status: concept
-datum: "2026-11-17"
+datum: "2026-11-18"
 bronnen:
   - naam: "Rode Kruis-Vlaanderen: affiche Vier stappen in eerste hulp (mei 2026)"
     url: https://www.rodekruis.be/storage/main/2026-affiche-vier-stappen-in-eerste-hulp.pdf
@@ -19,6 +19,20 @@ bronnen:
     url: https://ready.gov/sites/default/files/2020-07/until-help-arrives-instructor-guide.pdf
   - naam: "112.be: Noodnummers"
     url: https://www.112.be/
+  - naam: "Gezondheid en Wetenschap (Rode Kruis-Vlaanderen): Hoe moet je reanimeren?"
+    url: https://www.gezondheidenwetenschap.be/eerste-hulp/hoe-moet-je-reanimeren
+  - naam: "European Resuscitation Council Guidelines 2021: First aid"
+    url: https://cprguidelines-old.erc.edu/assets/guidelines/European-Resuscitation-Council-Guidelines-2021-Fi.pdf
+  - naam: "112.be: Veelgestelde vragen"
+    url: https://112.be/nl/veelgestelde-vragen
+  - naam: "112.be: Hoe bel ik naar 112?"
+    url: https://112.be/nl/how-call/hoe-bel-ik-naar-112
+  - naam: "FOD Economie: vragen van gezinnen over elektriciteitsschaarste"
+    url: https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door
+  - naam: "BBK: Vorsorgen für Krisen und Katastrophen"
+    url: https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/Buergerinformationen/Ratgeber/BBK-Vorsorgen-fuer-Krisen-und-Katastrophen.pdf?__blob=publicationFile&v=44
+  - naam: "Inspecties: Onbereikbaarheid van 112 op 24 juni 2019"
+    url: https://zoek.officielebekendmakingen.nl/blg-942150.pdf
 ---
 
 ## Herkennen
@@ -57,16 +71,16 @@ Bron: [Rode Kruis-Vlaanderen: Vier stappen in eerste hulp](https://www.rodekruis
 4. Kom als het kan aan de kant waar het slachtoffer naar kijkt. Zo schrikt het niet en beweegt het niet onnodig.
 5. Controleer het bewustzijn. Schud zacht aan beide schouders en vraag luid: "Gaat het?" Bij een baby tik je op de voetzool of neem je de baby op.
 6. Reageert het slachtoffer, laat het dan liggen in de houding waarin je het vond, zolang het geen gevaar loopt. Praat rustig. Vraag wat er gebeurd is, wat het voelt, of het ernstige allergieën heeft en welke ziekten het heeft. Vraag toestemming voor je het onderzoekt.
-7. Reageert het slachtoffer niet, roep dan luid om hulp. Duid iemand aan om te helpen. Draai het slachtoffer op de rug.
+7. Reageert het slachtoffer niet, roep dan luid om hulp, ook als je alleen bent. Duid iemand aan en vraag die persoon rechtstreeks om te helpen. Draai het slachtoffer op de rug.
 8. Open de luchtweg. Ga op je knieën naast de borstkas zitten. Leg een hand op het voorhoofd en kantel het hoofd voorzichtig achterover. Leg twee vingertoppen van je andere hand onder de punt van de kin. Druk niet in het zachte deel onder de kin. Til de kin omhoog en hou ze omhoog. Bij een baby breng je het hoofd in een neutrale positie, niet verder achterover. Vermoed je een wervelletsel, kantel het hoofd dan niet achterover (zie onderwerp 9).
 9. Controleer de ademhaling. Hou de luchtweg open. Breng je oor en wang bij mond en neus. Kijk of de borstkas op en neer gaat, luister naar ademgeluiden en voel of er lucht komt. Doe dit niet langer dan 10 seconden. Twijfel je of de ademhaling normaal is, handel dan alsof ze niet normaal is.
-10. Bel 112, of laat iemand bellen en vraag die persoon om je daarna te laten weten dat het gebeurd is. Ben je alleen, zet je telefoon op luidspreker zodat je handen vrij blijven. Het Rode Kruis vat de informatie samen in drie vragen: waar, wat en wie. Geef bij een bewusteloze persoon zijn toestand, je naam en het exacte adres. Beantwoord de vragen van de operator rustig. De operator helpt je bij de verdere stappen.
+10. Bel 112, of laat iemand bellen en vraag die persoon om je daarna te laten weten dat het gebeurd is. Ben je alleen, zet je telefoon op luidspreker zodat je handen vrij blijven. Het Rode Kruis vat de informatie samen in drie vragen: waar, wat en wie. Geef bij een bewusteloze persoon zijn toestand, je naam en het exacte adres. Beantwoord de vragen van de operator rustig. Werkt de verbinding, dan helpt de operator je bij de verdere stappen. Lukt bellen niet, stuur dan iemand om hulp met dezelfde informatie (zie Bel 112 als).
 11. Ademt het slachtoffer niet normaal: start meteen met reanimeren en laat een AED halen (zie onderwerp 2).
 12. Ademt het slachtoffer normaal maar reageert het niet: leg het in stabiele zijligging, tenzij je een wervelletsel vermoedt. Controleer elke minuut of de ademhaling normaal blijft (zie onderwerp 5).
 13. Verleen verdere eerste hulp in deze volgorde: hou de luchtweg vrij, stelp ernstige bloedingen (onderwerp 3), koel brandwonden (onderwerp 7), verzorg grote wonden en dek ze af, verzorg letsels aan botten, spieren en gewrichten (onderwerp 8), en verzorg daarna de minder ernstige verwondingen.
 14. Blijf bij het slachtoffer. Controleer regelmatig opnieuw het bewustzijn en de ademhaling, want de toestand kan plots verslechteren. Begin dan opnieuw bij stap 1 van de vier stappen.
 15. Geef een bewust slachtoffer geen eten of drinken. Leg uit wat er gebeurd is en wat er nog zal gebeuren.
-16. Zijn er meerdere slachtoffers: bel 112 eerst om de ernst te melden en bel opnieuw zodra je meer weet. Help eerst wie problemen heeft met de ademhaling of de bloedsomloop.
+16. Zijn er meerdere slachtoffers: bel 112 eerst om de ernst te melden en bel opnieuw zodra je meer weet. Kan je niet bellen, tel dan de slachtoffers en geef dat aantal mee aan wie hulp gaat halen. Help eerst wie problemen heeft met de ademhaling of de bloedsomloop.
 17. Was of ontsmet na de eerste hulp je handen.
 
 De ERC raadt aan om bij elk slachtoffer kort de ABCDE-volgorde te doorlopen:
@@ -77,7 +91,7 @@ De ERC raadt aan om bij elk slachtoffer kort de ABCDE-volgorde te doorlopen:
 - D (bewustzijn): is de persoon alert, reageert hij op je stem, alleen op pijn, of helemaal niet?
 - E (blootstelling): kijk het hele lichaam na op letsels. Stop ernstige bloedingen. Voorkom onderkoeling door natte kleding uit te doen en dekens te gebruiken. Bij oververhitting: begin actief te koelen.
 
-Bron: [Rode Kruis-Vlaanderen: Vier stappen in eerste hulp](https://www.rodekruis.be/storage/main/2026-affiche-vier-stappen-in-eerste-hulp.pdf) · [Jeugd Rode Kruis: ResQ](https://jeugd.rodekruis.be/storage/jrk/jrk-resq-watermerk.pdf) · [Gezondheid en Wetenschap: Bewusteloosheid](https://www.gezondheidenwetenschap.be/richtlijnen/bewusteloosheid) · [ERC Guidelines 2025 for Everyone](https://www.erc.edu/media/p5ymaeej/gl2025_layperson_book_ipdf-v11-e.pdf) · [IFRC Guidelines 2020](https://www.ifrc.org/sites/default/files/2022-02/EN_GFARC_GUIDELINES_2020.pdf)
+Bron: [Rode Kruis-Vlaanderen: Vier stappen in eerste hulp](https://www.rodekruis.be/storage/main/2026-affiche-vier-stappen-in-eerste-hulp.pdf) · [Jeugd Rode Kruis: ResQ](https://jeugd.rodekruis.be/storage/jrk/jrk-resq-watermerk.pdf) · [Gezondheid en Wetenschap: Bewusteloosheid](https://www.gezondheidenwetenschap.be/richtlijnen/bewusteloosheid) · [Gezondheid en Wetenschap: Hoe moet je reanimeren?](https://www.gezondheidenwetenschap.be/eerste-hulp/hoe-moet-je-reanimeren) · [ERC Guidelines 2025 for Everyone](https://www.erc.edu/media/p5ymaeej/gl2025_layperson_book_ipdf-v11-e.pdf) · [IFRC Guidelines 2020](https://www.ifrc.org/sites/default/files/2022-02/EN_GFARC_GUIDELINES_2020.pdf)
 
 ## Als hulp lang op zich laat wachten
 
@@ -88,10 +102,12 @@ De IFRC beschrijft aparte omstandigheden waarin medische hulp uren of dagen weg 
 - Let extra op je eigen veiligheid in een onbekende of instabiele omgeving, bijvoorbeeld bij naschokken na een aardbeving.
 - Bij een ernstig ongeval wordt vervoer belangrijk. Zorg dat eerste hulp tijdens het vervoer kan doorgaan.
 - Soms kan je onder begeleiding van een arts of verpleegkundige verder helpen via telefoon of radio.
-- Moet je iemand te voet of met de wagen om hulp sturen, geef die persoon dan nauwkeurige informatie mee: waar, hoeveel slachtoffers en in welke toestand. Zo kan de hulpdienst het juiste sturen.
+- Moet je iemand te voet of met de wagen om hulp sturen, geef die persoon dan nauwkeurige informatie mee: waar, hoeveel slachtoffers en in welke toestand. Zo kan de hulpdienst het juiste sturen (zie Bel 112 als).
+- Medische hulp kan ook van elders komen dan de ziekenwagen, bijvoorbeeld een veldhospitaal, een plaatselijke zorgverlener of het Rode Kruis.
 - In afgelegen gebieden kan het nuttig zijn om richting het dichtstbijzijnde ziekenhuis te rijden en de ziekenwagen onderweg te ontmoeten.
 - Blijf verzorgen tot professionele hulp het overneemt of tot de persoon en zijn omgeving zichzelf kunnen redden. Blijf bewustzijn en ademhaling opvolgen en noteer veranderingen.
 - Voorkom infectie en verdere letsels.
+- Bereid je voor: weet welke hulpdiensten er in je buurt zijn, waar ze zitten en hoe je ze bereikt. De kaart in de app (knop Dichtstbij) toont brandweer, politie, ziekenhuizen en gemeentehuizen. Weet in een afgelegen gebied ook hoe je een signaal om hulp geeft (zie de gids Signalen en noodcodes).
 
 Hou het slachtoffer warm, want ernstig gewonden koelen snel af en dat verhoogt het risico op overlijden. FEMA geeft deze stappen:
 
@@ -102,9 +118,7 @@ Hou het slachtoffer warm, want ernstig gewonden koelen snel af en dat verhoogt h
 
 Blijf bij het slachtoffer. Hou een hand vast en maak oogcontact. Moet je weg om een ander slachtoffer te helpen, zeg dat dan en vraag iemand anders om te blijven.
 
-Is 112 niet bereikbaar via een gewone oproep: 112 is gratis in heel Europa en de 112 BE-app laat je de brandweer, de ziekenwagen of de politie oproepen met één tik op het juiste pictogram. Probeer het opnieuw en blijf intussen eerste hulp geven.
-
-Bron: [IFRC Guidelines 2020](https://www.ifrc.org/sites/default/files/2022-02/EN_GFARC_GUIDELINES_2020.pdf) · [FEMA: Until Help Arrives](https://ready.gov/sites/default/files/2020-07/until-help-arrives-instructor-guide.pdf) · [112.be](https://www.112.be/)
+Bron: [IFRC Guidelines 2020](https://www.ifrc.org/sites/default/files/2022-02/EN_GFARC_GUIDELINES_2020.pdf) · [FEMA: Until Help Arrives](https://ready.gov/sites/default/files/2020-07/until-help-arrives-instructor-guide.pdf)
 
 ## Bel 112 als
 
@@ -115,9 +129,23 @@ Bron: [IFRC Guidelines 2020](https://www.ifrc.org/sites/default/files/2022-02/EN
 - er een gevaar is dat je zelf niet kan wegnemen, zoals brand, gas of chemische producten;
 - je twijfelt.
 
-112 is het nummer voor de ziekenwagen en de brandweer. Voor dringende politiehulp is het 101. Bel 112 niet voor gewone stormschade.
+112 is het nummer voor de ziekenwagen en de brandweer. Voor dringende politiehulp is het 101. 112 is gratis in heel Europa. Bel 112 niet voor gewone stormschade.
 
-Bron: [Gezondheid en Wetenschap: Bewusteloosheid](https://www.gezondheidenwetenschap.be/richtlijnen/bewusteloosheid) · [IFRC Guidelines 2020](https://www.ifrc.org/sites/default/files/2022-02/EN_GFARC_GUIDELINES_2020.pdf) · [112.be](https://www.112.be/)
+**Lukt bellen niet: hulp halen zonder telefoon**
+
+- Probeer een ander toestel of laat buren of omstanders bellen. Een andere operator kan helpen. Verplaats je enkele meters of draai je om en probeer opnieuw.
+- Kun je nog bellen maar is 112 onbereikbaar, probeer dan 101.
+- Werkt het netwerk, dan kan je ook de 112 BE-app gebruiken: daarmee roep je de brandweer, de ziekenwagen of de politie op met één tik op het juiste pictogram. Installeer de app vooraf.
+- Werkt bellen helemaal niet: blijf bij het slachtoffer en laat iemand anders hulp halen. Laat het slachtoffer alleen als er geen andere mogelijkheid is.
+- Wacht niet tot iemand vanzelf gaat. Ga er niet van uit dat iemand anders al hulp haalt. Wijs een omstander rechtstreeks aan en geef elk een taak: hulp halen, een AED halen, het gevaar of het verkeer op afstand houden, of helpen verzorgen.
+- Geef wie hulp gaat halen nauwkeurige informatie mee: waar het is, wat er gebeurd is, hoeveel slachtoffers er zijn en hoe ze eraan toe zijn. Vraag die persoon om je daarna te laten weten dat de hulp verwittigd is.
+- Kan die persoon van ergens anders 112 bellen, dan zegt hij aan de operator dat hij niet vanop de plaats van het incident belt.
+- Ben je alleen en moet je zelf weg om hulp te halen: leg een bewusteloos slachtoffer dat normaal ademt eerst in stabiele zijligging (zie onderwerp 5). Voor reanimatie geldt een aparte regel voor volwassenen en kinderen (zie onderwerp 2).
+- In België zegt de overheid: is bellen niet meer mogelijk, vraag dan hulp in je buurt. In Duitsland raadt de overheid aan om bij een noodgeval, als het kan, naar het dichtstbijzijnde politiebureau of ziekenhuis te gaan. In Nederland stuurde de overheid burgers bij de landelijke 112-storing van 2019 naar de dichtstbijzijnde brandweerkazerne of het politiebureau, en bij medische nood naar het ziekenhuis. De kaart in de app (knop Dichtstbij) toont die.
+- Blijf intussen eerste hulp geven.
+- Zie ook Noodnummers in de app, Als bellen niet lukt.
+
+Bron: [Gezondheid en Wetenschap: Bewusteloosheid](https://www.gezondheidenwetenschap.be/richtlijnen/bewusteloosheid) · [Gezondheid en Wetenschap: Hoe moet je reanimeren?](https://www.gezondheidenwetenschap.be/eerste-hulp/hoe-moet-je-reanimeren) · [IFRC Guidelines 2020](https://www.ifrc.org/sites/default/files/2022-02/EN_GFARC_GUIDELINES_2020.pdf) · [ERC Guidelines 2021: First aid](https://cprguidelines-old.erc.edu/assets/guidelines/European-Resuscitation-Council-Guidelines-2021-Fi.pdf) · [FEMA: Until Help Arrives](https://ready.gov/sites/default/files/2020-07/until-help-arrives-instructor-guide.pdf) · [112.be](https://www.112.be/) · [112.be: Veelgestelde vragen](https://112.be/nl/veelgestelde-vragen) · [112.be: Hoe bel ik naar 112?](https://112.be/nl/how-call/hoe-bel-ik-naar-112) · [FOD Economie: vragen van gezinnen over elektriciteitsschaarste](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door) · [BBK: Vorsorgen für Krisen und Katastrophen](https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/Buergerinformationen/Ratgeber/BBK-Vorsorgen-fuer-Krisen-und-Katastrophen.pdf?__blob=publicationFile&v=44) · [Inspecties: Onbereikbaarheid van 112 op 24 juni 2019](https://zoek.officielebekendmakingen.nl/blg-942150.pdf)
 
 ## Niet doen
 

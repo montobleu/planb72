@@ -1,9 +1,9 @@
 ---
 titel: Lésions à la tête, à la nuque et au dos
 volgorde: 9
-kort: "Si vous soupçonnez une lésion à la nuque ou au dos : ne déplacez pas la victime, ne basculez pas la tête et appelez le 112. Après un coup à la tête : continuez à surveiller."
+kort: "Si vous soupçonnez une lésion à la nuque ou au dos : ne déplacez pas la victime, ne basculez pas la tête et faites appeler le 112 ou chercher de l'aide. Après un coup à la tête : continuez à surveiller."
 status: concept
-datum: "2026-11-17"
+datum: "2026-11-18"
 bronnen:
   - naam: "Gezondheid en Wetenschap (Rode Kruis-Vlaanderen) : Premiers secours en cas de lésions de la colonne vertébrale"
     url: https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-wervelletsels
@@ -15,8 +15,12 @@ bronnen:
     url: https://www.ifrc.org/sites/default/files/2022-02/EN_GFARC_GUIDELINES_2020.pdf
   - naam: "FEMA : Until Help Arrives, instructor guide"
     url: https://ready.gov/sites/default/files/2020-07/until-help-arrives-instructor-guide.pdf
+  - naam: "European Resuscitation Council Guidelines 2021 : First aid"
+    url: https://cprguidelines-old.erc.edu/assets/guidelines/European-Resuscitation-Council-Guidelines-2021-Fi.pdf
+  - naam: "112.be : Questions fréquentes"
+    url: https://112.be/fr/questions-frequentes
 vertaling: machine
-origineel_datum: "2026-11-17"
+origineel_datum: "2026-11-18"
 ---
 
 ## Reconnaître
@@ -64,7 +68,7 @@ Source : [Gezondheid en Wetenschap : Lésions de la colonne vertébrale](https:/
 
 1. Ne déplacez pas la victime, sauf en cas de danger immédiat.
 2. Vérifiez la conscience. Si nécessaire, libérez les voies respiratoires et vérifiez la respiration, mais ne basculez pas la tête en arrière.
-3. Appelez le 112.
+3. Appelez le 112 ou faites appeler. Si l'appel ne passe pas, voir Appelez le 112 si.
 4. Victime consciente qui respire normalement : calmez-la et convainquez-la de ne pas bouger. Demandez-lui de garder elle-même la tête et la nuque immobiles. Si ce n'est pas possible (par exemple chez un enfant ou une personne qui a bu), soutenez doucement la tête avec vos mains. Ne le faites que si la victime coopère, pas chez une personne agitée ou qui se débat.
 5. Inconsciente mais respire normalement : laissez la victime dans la position où vous l'avez trouvée, sur le dos ou sur le côté. Soutenez doucement la tête pour qu'elle ne bouge pas. Vérifiez chaque minute la conscience et la respiration.
 6. Difficultés respiratoires : poussez uniquement la mâchoire vers le haut, sans basculer la tête en arrière.
@@ -78,7 +82,7 @@ Signes : douleur à la hanche, au bassin, à l'aine ou au genou qui s'aggrave au
 
 1. Aidez la victime à se coucher sur le dos, immobile, les jambes tendues.
 2. Placez un rembourrage entre les jambes et attachez les jambes ensemble au niveau des genoux et des pieds.
-3. Appelez le 112.
+3. Appelez le 112 ou faites appeler.
 4. Surveillez la respiration, la circulation sanguine et la conscience et soyez attentif au choc.
 5. Ne balancez pas et ne tournez pas le bassin. Cela peut relancer ou aggraver une hémorragie.
 
@@ -95,7 +99,7 @@ Signes : douleur à la hanche, au bassin, à l'aine ou au genou qui s'aggrave au
 
 1. Faites arrêter son activité à la personne, comme le sport, et faites-la se reposer.
 2. Surveillez-la : soyez attentif aux signes de lésion cérébrale et aux changements de conscience et de respiration.
-3. En cas de signes de traumatisme crânien grave : appelez le 112. Rassurez la personne et demandez-lui de garder la tête et la nuque immobiles. Si elle est couchée, vous pouvez maintenir la tête immobile avec vos mains ou vos genoux.
+3. En cas de signes de traumatisme crânien grave : appelez le 112 ou faites appeler. Rassurez la personne et demandez-lui de garder la tête et la nuque immobiles. Si elle est couchée, vous pouvez maintenir la tête immobile avec vos mains ou vos genoux.
 4. S'il n'y a pas de plaintes ou seulement des plaintes légères (une bosse, un léger mal de tête, un peu de nausée), faites-la se reposer et continuez à la surveiller.
 
 Source : [Gezondheid en Wetenschap : Lésions de la colonne vertébrale](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-wervelletsels) · [Gezondheid en Wetenschap : Plaie à la tête](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-een-hoofdwonde) · [Croix-Rouge de Belgique : mise à jour 2024](https://formations.croix-rouge.be/files/files/espace-relais/Relais-BEPS-Mise-jour-2024.pdf) · [IFRC Guidelines 2020](https://www.ifrc.org/sites/default/files/2022-02/EN_GFARC_GUIDELINES_2020.pdf)
@@ -121,7 +125,12 @@ Source : [IFRC Guidelines 2020](https://www.ifrc.org/sites/default/files/2022-02
 
 Consultez un médecin en cas de plaie grave à la tête, si la victime se sent mal après l'accident ou si son état se dégrade (maux de tête croissants, nausées, somnolence), et en cas de doute.
 
-Source : [Gezondheid en Wetenschap : Plaie à la tête](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-een-hoofdwonde) · [Gezondheid en Wetenschap : Lésions de la colonne vertébrale](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-wervelletsels) · [IFRC Guidelines 2020](https://www.ifrc.org/sites/default/files/2022-02/EN_GFARC_GUIDELINES_2020.pdf)
+**Si l'appel ne passe pas**
+
+- Ne laissez la victime seule que s'il n'y a pas d'autre possibilité. Désignez directement un témoin pour aller chercher de l'aide et indiquez-lui où c'est, ce qui s'est passé, combien de victimes il y a et dans quel état elles sont.
+- Voir aussi le sujet 1 (Si l'appel ne passe pas : chercher de l'aide sans téléphone) et Numéros d'urgence dans l'application, Si l'appel ne passe pas.
+
+Source : [Gezondheid en Wetenschap : Plaie à la tête](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-een-hoofdwonde) · [Gezondheid en Wetenschap : Lésions de la colonne vertébrale](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-wervelletsels) · [IFRC Guidelines 2020](https://www.ifrc.org/sites/default/files/2022-02/EN_GFARC_GUIDELINES_2020.pdf) · [ERC Guidelines 2021 : First aid](https://cprguidelines-old.erc.edu/assets/guidelines/European-Resuscitation-Council-Guidelines-2021-Fi.pdf) · [112.be : Questions fréquentes](https://112.be/fr/questions-frequentes)
 
 ## À ne pas faire
 

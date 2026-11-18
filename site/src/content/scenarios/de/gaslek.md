@@ -8,6 +8,7 @@ stappen:
   - "Öffnen Sie Fenster und Türen weit."
   - "Verlassen Sie das Gebäude mit allen. Klopfen Sie bei den Nachbarn, um sie zu warnen."
   - "Rufen Sie von draußen die kostenlose Gasgeruch-Nummer Ihres Netzbetreibers an: Fluvius 0800 65 0 65, ORES 0800 87 087. Bei Brand, einer Explosion oder Verletzten: Rufen Sie die 112 an."
+  - "Kommt kein Anruf zustande, lassen Sie jemand anderen anrufen oder bitten Sie in Ihrer Nachbarschaft um Hilfe (siehe Notrufnummern, Wenn kein Anruf möglich ist)."
   - "Warten Sie draußen in sicherem Abstand, bis das Einsatzteam da ist."
 niet:
   - "Keinen Schalter und kein Elektrogerät im Raum bedienen."
@@ -16,7 +17,7 @@ niet:
   - "Einen Gasbrand an einem Leck nicht selbst löschen."
   - "Keine Propan- oder Butanflaschen im Keller aufbewahren."
 status: concept
-datum: "2026-11-17"
+datum: "2026-11-18"
 bronnen:
   - naam: "Fluvius: Gasgeruch"
     url: https://www.fluvius.be/nl/gasgeur
@@ -36,8 +37,16 @@ bronnen:
     url: https://krisenzentrum.be/de/was-koennen-sie-tun/stelle-ein-notfallpaket-zusammen/ein-notfallset-fuer-zu-hause
   - naam: "Denk vooruit: Fragen und Antworten (Quelldatei November 2025)"
     url: https://www.denkvooruit.nl/site/binaries/site-content/collections/documents/2025/10/27/toolkit-denk-vooruit-campagne-najaar-2025/20251111-qa-denkvooruit-bronbestand.pdf
+  - naam: "112.be: Häufig gestellte Fragen"
+    url: https://112.be/de/haeufig-gestellte-fragen
+  - naam: "Nationales Krisenzentrum: ein Plan für Menschen, die zusätzliche Hilfe brauchen"
+    url: https://krisenzentrum.be/de/was-koennen-sie-tun/bereiten-sie-sich-vor/ein-plan-fuer-personen-die-zusaetzliche-hilfe-benoetigen
+  - naam: "FÖD Wirtschaft: Fragen von Haushalten zur Stromknappheit"
+    url: https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door
+  - naam: "Nationales Krisenzentrum: Informationen während einer Notsituation"
+    url: https://krisenzentrum.be/de/was-koennen-sie-tun/informieren-sie-sich/information-notsituationen
 vertaling: machine
-origineel_datum: "2026-11-17"
+origineel_datum: "2026-11-18"
 ---
 
 ## Erkennen
@@ -73,8 +82,8 @@ Quelle: [Nationales Krisenzentrum: Brand oder Explosion](https://krisenzentrum.b
 - Notieren Sie die Gasgeruch-Nummer Ihres Netzbetreibers auf Ihrer Papierliste mit Notrufnummern:
   - Fluvius (Flandern): 0800 65 0 65, kostenlos, Tag und Nacht. Anrufe an diese Nummer haben Vorrang.
   - ORES (größter Teil der Wallonie): 0800 87 087, kostenlos, Tag und Nacht.
-  - Wohnen Sie in Brüssel (Sibelga) oder in einem Teil der Provinz Lüttich (RESA), suchen Sie die Gasgeruch-Nummer auf der Website Ihres Netzbetreibers.
-- Gehörlos oder schwerhörig: Fluvius hat ein Kontaktformular, um Gasgeruch zu melden, für alle, die nicht telefonieren können.
+  - Wohnen Sie in Brüssel (Sibelga) oder in einem Teil der Provinz Lüttich (RESA), suchen Sie im Voraus die Gasgeruch-Nummer auf der Website Ihres Netzbetreibers und notieren Sie sie.
+- Gehörlos oder schwerhörig: Fluvius hat ein Kontaktformular, um Gasgeruch zu melden, für alle, die nicht telefonieren können. Es funktioniert nur, wenn das Internet funktioniert. Vereinbaren Sie deshalb auch mit Mitbewohnern oder Nachbarn, dass sie für Sie anrufen.
 
 **Wartung**
 
@@ -90,7 +99,7 @@ Quelle: [Nationales Krisenzentrum: Brand oder Explosion](https://krisenzentrum.b
 
 - Vereinbaren Sie, wer wem nach draußen hilft und wo Sie sich draußen sammeln.
 
-Quelle: [Fluvius: Gasgeruch](https://www.fluvius.be/nl/gasgeur) · [ORES](https://www.ores.be/faq/plus-delectricite-ou-de-gaz) · [Speel niet met vuur: CO](https://speelnietmetvuur.be/co/) · [KCCE: Brandschutz für ältere Menschen](http://kcce.eu/sites/default/files/explorer/partie_s_incendie/brandveiligheid_ouderen_2017.pdf) · [Nationales Krisenzentrum: evakuieren](https://krisenzentrum.be/de/was-koennen-sie-tun/der-richtige-reflex/evakuierung) · [Nationales Krisenzentrum: Notfallpaket](https://krisenzentrum.be/de/was-koennen-sie-tun/stelle-ein-notfallpaket-zusammen/ein-notfallset-fuer-zu-hause) · [Denk vooruit: Fragen und Antworten](https://www.denkvooruit.nl/site/binaries/site-content/collections/documents/2025/10/27/toolkit-denk-vooruit-campagne-najaar-2025/20251111-qa-denkvooruit-bronbestand.pdf)
+Quelle: [Fluvius: Gasgeruch](https://www.fluvius.be/nl/gasgeur) · [ORES](https://www.ores.be/faq/plus-delectricite-ou-de-gaz) · [Speel niet met vuur: CO](https://speelnietmetvuur.be/co/) · [KCCE: Brandschutz für ältere Menschen](http://kcce.eu/sites/default/files/explorer/partie_s_incendie/brandveiligheid_ouderen_2017.pdf) · [Nationales Krisenzentrum: evakuieren](https://krisenzentrum.be/de/was-koennen-sie-tun/der-richtige-reflex/evakuierung) · [Nationales Krisenzentrum: Notfallpaket](https://krisenzentrum.be/de/was-koennen-sie-tun/stelle-ein-notfallpaket-zusammen/ein-notfallset-fuer-zu-hause) · [Denk vooruit: Fragen und Antworten](https://www.denkvooruit.nl/site/binaries/site-content/collections/documents/2025/10/27/toolkit-denk-vooruit-campagne-najaar-2025/20251111-qa-denkvooruit-bronbestand.pdf) · [Nationales Krisenzentrum: ein Plan für Menschen, die zusätzliche Hilfe brauchen](https://krisenzentrum.be/de/was-koennen-sie-tun/bereiten-sie-sich-vor/ein-plan-fuer-personen-die-zusaetzliche-hilfe-benoetigen) · [112.be: Häufig gestellte Fragen](https://112.be/de/haeufig-gestellte-fragen)
 
 ## Während
 
@@ -109,16 +118,22 @@ Quelle: [Fluvius: Gasgeruch](https://www.fluvius.be/nl/gasgeur) · [ORES](https:
 
 Das Einsatzteam rückt sofort nach Ihrem Anruf aus, misst vor Ort die Gaskonzentration und sucht das Leck.
 
+**Kommt kein Anruf zustande**
+
+- Lassen Sie Nachbarn oder Umstehende anrufen oder versuchen Sie es mit einem anderen Gerät. Gehen Sie einige Meter weiter und versuchen Sie es erneut, immer an einer Stelle, an der Sie kein Gas riechen.
+- Bei Brand, einer Explosion oder Verletzten: Ist die 112 nicht erreichbar, können Sie aber noch telefonieren, versuchen Sie die 101.
+- Funktioniert gar kein Anruf: Bitten Sie in Ihrer Nachbarschaft um Hilfe. Siehe Notrufnummern in der App, Wenn kein Anruf möglich ist.
+
 **Gasbrand oder Explosion**
 
 - Halten Sie sich fern.
 - Lassen Sie das Feuer brennen, solange das Leck nicht behoben ist. Versuchen Sie nicht, es zu löschen.
-- Rufen Sie die 112 an und danach die Gasgeruch-Nummer Ihres Netzbetreibers.
+- Rufen Sie die 112 an und danach die Gasgeruch-Nummer Ihres Netzbetreibers. Kommt kein Anruf zustande, siehe oben.
 
 **Zu hoher oder zu niedriger Druck, oder kein Erdgas**
 
 - Drehen Sie den Gaszählerhahn zu und schalten Sie Ihre Gasgeräte aus.
-- Melden Sie die Störung Ihrem Netzbetreiber. Bei Fluvius ist das die Störungsnummer 078 35 35 00.
+- Melden Sie die Störung Ihrem Netzbetreiber, wenn ein Anruf möglich ist. Bei Fluvius ist das die Störungsnummer 078 35 35 00.
 
 **Verdacht auf CO-Vergiftung**
 
@@ -126,11 +141,11 @@ Das Einsatzteam rückt sofort nach Ihrem Anruf aus, misst vor Ort die Gaskonzent
 2. Öffnen Sie Fenster und Türen.
 3. Schalten Sie das Gasgerät aus, wenn das sicher möglich ist.
 4. Verlassen Sie den Raum und bringen Sie die betroffene Person nach draußen.
-5. Rufen Sie die 112 an. Sagen Sie, dass es sich möglicherweise um CO handelt und ob jemand bewusstlos ist.
+5. Rufen Sie die 112 an oder lassen Sie jemanden anrufen. Sagen Sie, dass es sich möglicherweise um CO handelt und ob jemand bewusstlos ist. Kommt kein Anruf zustande, siehe oben und die Karte CO-Alarm.
 6. Beginnen Sie mit der Wiederbelebung, wenn die Person nicht atmet. Bringen Sie jemanden, der bewusstlos ist, aber atmet, in die stabile Seitenlage.
-7. Für Fragen ohne unmittelbare Gefahr: Antigiftzentrum 070 245 245 oder ein zugelassener Installateur.
+7. Für Fragen ohne unmittelbare Gefahr, wenn das Netz funktioniert: Antigiftzentrum 070 245 245 oder ein zugelassener Installateur.
 
-Quelle: [Fluvius: Gasgeruch](https://www.fluvius.be/nl/gasgeur) · [ORES](https://www.ores.be/faq/plus-delectricite-ou-de-gaz) · [Speel niet met vuur: CO](https://speelnietmetvuur.be/co/) · [Antigiftzentrum: CO-Vergiftung](https://www.antigifcentrum.be/Toxinfos/co-vergiftiging/)
+Quelle: [Fluvius: Gasgeruch](https://www.fluvius.be/nl/gasgeur) · [ORES](https://www.ores.be/faq/plus-delectricite-ou-de-gaz) · [Speel niet met vuur: CO](https://speelnietmetvuur.be/co/) · [Antigiftzentrum: CO-Vergiftung](https://www.antigifcentrum.be/Toxinfos/co-vergiftiging/) · [112.be: Häufig gestellte Fragen](https://112.be/de/haeufig-gestellte-fragen) · [FÖD Wirtschaft: Fragen von Haushalten zur Stromknappheit](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door)
 
 ### Draußen oder unterwegs
 
@@ -138,16 +153,17 @@ Quelle: [Fluvius: Gasgeruch](https://www.fluvius.be/nl/gasgeur) · [ORES](https:
 
 - Vermeiden Sie Funken, Feuer und alles, was eine Zündung auslösen kann.
 - Halten Sie sich fern.
-- Rufen Sie die Gasgeruch-Nummer Ihres Netzbetreibers an.
+- Rufen Sie die Gasgeruch-Nummer Ihres Netzbetreibers an. Gelingt das nicht, lassen Sie jemand anderen anrufen oder bitten Sie in Ihrer Nachbarschaft um Hilfe.
 
 **Ein größeres Gasleck in Ihrer Umgebung**
 
 - Warten Sie auf die Anweisungen der Behörden oder der Rettungsdienste. Manchmal ist drinnen bleiben sicherer als aufbrechen.
+- Diese Anweisungen kommen unter anderem über das Radio und über Lautsprecherwagen der Polizei, die durch die Straße fahren. Funktioniert das Netz, auch über BE-Alert und die Websites der Behörden.
 - Müssen Sie evakuieren, nehmen Sie Ihren Personalausweis, Geld, Wasser, Handy und Ladegerät, Schlüssel, Ihre Liste mit Telefonnummern, notwendige Medikamente und Hygieneartikel mit. Besteht unmittelbare Gefahr und haben Sie keine Notfalltasche bereit, brechen Sie sofort auf, ohne etwas mitzunehmen.
 - Helfen Sie Nachbarn, die weniger mobil sind.
 - Kehren Sie erst zurück, wenn die Behörden sagen, dass es sicher ist.
 
-Quelle: [Fluvius: Gasgeruch](https://www.fluvius.be/nl/gasgeur) · [Nationales Krisenzentrum: evakuieren](https://krisenzentrum.be/de/was-koennen-sie-tun/der-richtige-reflex/evakuierung)
+Quelle: [Fluvius: Gasgeruch](https://www.fluvius.be/nl/gasgeur) · [Nationales Krisenzentrum: evakuieren](https://krisenzentrum.be/de/was-koennen-sie-tun/der-richtige-reflex/evakuierung) · [Nationales Krisenzentrum: Informationen während einer Notsituation](https://krisenzentrum.be/de/was-koennen-sie-tun/informieren-sie-sich/information-notsituationen) · [112.be: Häufig gestellte Fragen](https://112.be/de/haeufig-gestellte-fragen)
 
 ### Im Auto
 
@@ -173,10 +189,10 @@ Quelle: [Nationales Krisenzentrum: evakuieren](https://krisenzentrum.be/de/was-k
 ### Schutzbedürftige Personen
 
 - Vereinbaren Sie, wer Mitbewohnern oder Nachbarn hilft, die weniger mobil sind, und wer sie warnt.
-- Gehörlose und Schwerhörige, die Gas riechen: Gehen Sie an eine Stelle, an der Sie kein Gas mehr riechen, und füllen Sie das Kontaktformular von Fluvius für Gehörlose und Schwerhörige aus.
+- Gehörlose und Schwerhörige, die Gas riechen: Gehen Sie an eine Stelle, an der Sie kein Gas mehr riechen, und bitten Sie Nachbarn oder Umstehende, anzurufen. Funktioniert das Internet, füllen Sie auch das Kontaktformular von Fluvius für Gehörlose und Schwerhörige aus.
 - Schwangere Frauen, ältere Menschen und Menschen mit Herz-Kreislauf-Erkrankungen, Schilddrüsenproblemen, Asthma oder Blutarmut reagieren besonders empfindlich auf CO.
 
-Quelle: [Nationales Krisenzentrum: evakuieren](https://krisenzentrum.be/de/was-koennen-sie-tun/der-richtige-reflex/evakuierung) · [Fluvius: Gasgeruch](https://www.fluvius.be/nl/gasgeur) · [Antigiftzentrum: CO-Vergiftung](https://www.antigifcentrum.be/Toxinfos/co-vergiftiging/)
+Quelle: [Nationales Krisenzentrum: evakuieren](https://krisenzentrum.be/de/was-koennen-sie-tun/der-richtige-reflex/evakuierung) · [Fluvius: Gasgeruch](https://www.fluvius.be/nl/gasgeur) · [Antigiftzentrum: CO-Vergiftung](https://www.antigifcentrum.be/Toxinfos/co-vergiftiging/) · [112.be: Häufig gestellte Fragen](https://112.be/de/haeufig-gestellte-fragen)
 
 ### Haustiere und Tiere
 

@@ -4,7 +4,7 @@ module: nucleair
 volgorde: 1
 kort: "What happens in a nuclear accident, the Belgian zones, how to shelter, how to decontaminate yourself and what to do about food, animals and children."
 status: concept
-datum: "2026-11-17"
+datum: "2026-11-18"
 bronnen:
   - naam: "National Crisis Center: Incident at a nuclear power plant"
     url: https://crisiscenter.be/en/risks-belgium/technological-risks/nuclear-plant-incident
@@ -14,6 +14,14 @@ bronnen:
     url: https://crisiscenter.be/en/what-can-you-do/right-reflex/seeking-shelter
   - naam: "National Crisis Center: brochure Prepared together"
     url: https://crisiscenter.be/sites/default/files/documents/files/WEB-Brochure%20Prepared%20Together-EN.pdf
+  - naam: "National Crisis Center: An emergency kit at home"
+    url: https://crisiscenter.be/en/what-can-you-do/build-emergency-kit/emergency-kit-home
+  - naam: "National Crisis Center: Disruption of the digital infrastructure"
+    url: https://crisiscenter.be/en/risks-belgium/societal-risks/failure-digital-infrastructure
+  - naam: "112.be: Frequently asked questions"
+    url: https://112.be/en/frequently-asked-questions
+  - naam: "FPS Economy: questions from households about electricity shortage"
+    url: https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door
   - naam: "Nuclear risk: Sheltering, the best protection"
     url: https://nuclearrisk.be/en/what-can-you-do/sheltering
   - naam: "Nuclear risk: Decontaminating yourself"
@@ -57,7 +65,7 @@ bronnen:
   - naam: "CDC: How to self-decontaminate after a radiation emergency"
     url: https://cdc.gov/radiation-emergencies/prevention/self-decontaminate.html
 vertaling: machine
-origineel_datum: "2026-11-17"
+origineel_datum: "2026-11-18"
 ---
 
 ## What happens in a nuclear accident
@@ -105,23 +113,22 @@ The nuclear emergency plan also provides for extension zones, in which the measu
 
 ### The zone at the time itself
 
-In an emergency, the assessment of the situation determines the zone for protective measures. It can be smaller or larger than the emergency planning zone. On nucleairrisico.be there is a map on which you can check whether your municipality lies in an emergency planning zone. The zones do not prevent anyone outside them from preparing as well.
+In an emergency, the assessment of the situation determines the zone for protective measures. It can be smaller or larger than the emergency planning zone. Check in advance whether your municipality lies in an emergency planning zone: nucleairrisico.be has a map for this. The zones do not prevent anyone outside them from preparing as well.
 
 Source: [Nuclear risk: Nuclear sites](https://nuclearrisk.be/en/nuclear-risk/nuclear-sites) · [Nuclear risk: Emergency planning zones](https://nuclearrisk.be/en/what-are-authorities-doing/emergency-planning-zones) · [Nuclear risk: Nuclear emergency planning zones (map)](https://nuclearrisk.be/en/nuclear-emergency-planning-zones) · [National Crisis Center: press fact sheets on the nuclear emergency plan](https://crisiscentrum.be/sites/default/files/documents/files/2021-04/fr_fiches_confpresse.pdf) · [Nuclear risk: frequently asked questions](https://nuclearrisk.be/en/faq)
 
 ## How you are warned
 
-The authorities alert local residents via:
+When you shelter, you are inside with windows and doors closed. The information from the authorities then comes mainly via the radio. The authorities alert local residents via:
 
-- **BE-Alert:** a text message from the number 1789, an email from no-reply@be-alert.be or a voice call from 0477 77 77 55. Register in advance on be-alert.be. You can register several addresses, including that of your children's school.
-- **Radio and TV.**
-- **The website of the National Crisis Center or the municipality.**
-- **Social media.**
+- **Radio and TV.** Make sure in advance that you have a battery-powered or wind-up radio, preferably with DAB+ and FM. That way you can listen to the media even during a power cut.
 - **Police loudspeaker vans** driving through the streets.
+- **BE-Alert**, if the network works: a text message from the number 1789, an email from no-reply@be-alert.be or a voice call from 0477 77 77 55. Register in advance on be-alert.be. You can register several addresses, including that of your children's school.
+- **The website of the National Crisis Center or the municipality and social media**, if the internet works.
 
-If you have no phone, you receive the information via loudspeaker vans, radio, TV and websites. Make sure you have a battery-powered or wind-up radio, preferably with DAB+ and FM. Do not make unnecessary phone calls: an overloaded network can disrupt the emergency response.
+If you have no landline or mobile phone, you still receive the necessary information: via loudspeaker vans, radio and TV. Do not make unnecessary phone calls, unless you are in a medical emergency, for example: an overloaded network can disrupt the emergency response.
 
-Source: [Nuclear risk: Warning and protecting the population](https://nuclearrisk.be/en/what-are-authorities-doing/warning-and-protecting-population) · [Nuclear risk: frequently asked questions](https://nuclearrisk.be/en/faq) · [National Crisis Center: brochure Prepared together](https://crisiscenter.be/sites/default/files/documents/files/WEB-Brochure%20Prepared%20Together-EN.pdf)
+Source: [Nuclear risk: Warning and protecting the population](https://nuclearrisk.be/en/what-are-authorities-doing/warning-and-protecting-population) · [Nuclear risk: frequently asked questions](https://nuclearrisk.be/en/faq) · [National Crisis Center: brochure Prepared together](https://crisiscenter.be/sites/default/files/documents/files/WEB-Brochure%20Prepared%20Together-EN.pdf) · [National Crisis Center: An emergency kit at home](https://crisiscenter.be/en/what-can-you-do/build-emergency-kit/emergency-kit-home)
 
 ## The four protective measures
 
@@ -150,7 +157,7 @@ In a nuclear emergency, sheltering is the best way to protect yourself, against 
 6. Do make sure the air is refreshed, so that you do not feel unwell.
 7. Settle in a central room on the ground floor. Walls and ceilings protect better than windows.
 8. Bring your pets indoors.
-9. Listen to the recommendations via radio, TV, official websites and social media.
+9. Listen to the recommendations on the radio. If the internet works, also check the official websites and social media.
 
 ### If you were outside when the cloud passed
 
@@ -167,7 +174,7 @@ Go in through a room you do not use. Undress, take a shower and put on other clo
 | On foot | Go into the nearest building as quickly as possible and close windows and doors; that protects better than a car |
 | In the car, close to home, work or a public building | Go indoors immediately |
 | In the car, no building within reach | Park in a safe place or drive away, perpendicular to the wind direction. Engine off when you are stationary, windows closed, air conditioning and ventilation off, radio on. Drive carefully and follow the highway code |
-| On foot in an area without buildings | Call 112 (general sheltering guideline of the Crisis Center) |
+| On foot in an area without buildings | Call 112 (general sheltering guideline of the Crisis Center). If you cannot get through: move further away from the emergency until you find a safe and accessible building (Crisis Center, sheltering on the move) |
 
 ### What foreign sources say differently about the location
 
@@ -265,10 +272,10 @@ Source: [Nuclear risk: frequently asked questions](https://nuclearrisk.be/en/faq
 ## Vulnerable people and medical emergencies
 
 - People who cannot leave the zone under their own steam during an evacuation receive help from the emergency services. During an evacuation, checks are made that everyone has left their home.
-- If you need medical help while sheltering, for example for a birth, call 112 as always. The police control access to the zone. Under certain conditions and with the necessary protection, emergency services can help in the zone.
+- If you need medical help while sheltering, for example for a birth, call 112 as always. If you cannot get through, have someone else call or ask for help nearby (see Emergency numbers in the app, If you cannot call). The police control access to the zone. Under certain conditions and with the necessary protection, emergency services can help in the zone.
 - Discuss with your GP in advance what to do with your medication and whether you may take iodine tablets (see the guide on iodine).
 
-Source: [Nuclear risk: frequently asked questions](https://nuclearrisk.be/en/faq)
+Source: [Nuclear risk: frequently asked questions](https://nuclearrisk.be/en/faq) · [112.be: Frequently asked questions](https://112.be/en/frequently-asked-questions) · [FPS Economy: questions from households about electricity shortage](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door)
 
 ## Evacuation
 
@@ -309,10 +316,12 @@ Source: [Nuclear risk: frequently asked questions](https://nuclearrisk.be/en/faq
 ## Preparing
 
 - Check whether you live in an emergency planning zone.
+- Keep a battery-powered or wind-up radio ready, with spare batteries.
 - Register with BE-Alert, for your home address and those of school and work.
+- Agree with your family where you will meet if you cannot reach each other.
 - Get iodine tablets in the house if you belong to a target group (see the guide on iodine).
 - Learn how to switch off the ventilation at home and go through the sheltering steps with your family (Finland).
 - Keep tape ready to seal windows, doors and openings (Finland).
 - Prepare a set of spare clothing per family member and a bin bag for contaminated clothing, together with packaged food, water and medication (Ready.gov).
 
-Source: [National Crisis Center: Incident at a nuclear power plant](https://crisiscenter.be/en/risks-belgium/technological-risks/nuclear-plant-incident) · [National Crisis Center: brochure Prepared together](https://crisiscenter.be/sites/default/files/documents/files/WEB-Brochure%20Prepared%20Together-EN.pdf) · [Suomi.fi: Radiation hazards](https://www.suomi.fi/guides/preparedness/how-to-prepare-for-incidents-and-crises/radiation-hazards) · [Ready.gov: Radiation emergencies](https://www.ready.gov/radiation)
+Source: [National Crisis Center: Incident at a nuclear power plant](https://crisiscenter.be/en/risks-belgium/technological-risks/nuclear-plant-incident) · [National Crisis Center: brochure Prepared together](https://crisiscenter.be/sites/default/files/documents/files/WEB-Brochure%20Prepared%20Together-EN.pdf) · [Suomi.fi: Radiation hazards](https://www.suomi.fi/guides/preparedness/how-to-prepare-for-incidents-and-crises/radiation-hazards) · [Ready.gov: Radiation emergencies](https://www.ready.gov/radiation) · [National Crisis Center: Disruption of the digital infrastructure](https://crisiscenter.be/en/risks-belgium/societal-risks/failure-digital-infrastructure)

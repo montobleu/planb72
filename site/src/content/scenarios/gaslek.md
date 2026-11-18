@@ -8,6 +8,7 @@ stappen:
   - "Zet ramen en deuren wijd open."
   - "Verlaat het gebouw met iedereen. Klop bij de buren aan om hen te verwittigen."
   - "Bel van buiten het gratis gasgeurnummer van je netbeheerder: Fluvius 0800 65 0 65, ORES 0800 87 087. Bij brand, een ontploffing of gewonden: bel 112."
+  - "Lukt bellen niet, laat iemand anders bellen of vraag hulp in je buurt (zie Noodnummers, Als bellen niet lukt)."
   - "Wacht buiten, op veilige afstand, tot het interventieteam er is."
 niet:
   - "Geen schakelaar of elektrisch toestel bedienen in de ruimte."
@@ -16,7 +17,7 @@ niet:
   - "Een gasbrand aan een lek niet zelf doven."
   - "Geen propaan- of butaanflessen in de kelder bewaren."
 status: concept
-datum: "2026-11-17"
+datum: "2026-11-18"
 bronnen:
   - naam: "Fluvius: gasgeur"
     url: https://www.fluvius.be/nl/gasgeur
@@ -36,6 +37,14 @@ bronnen:
     url: https://crisiscentrum.be/nl/wat-kan-jij-doen/maak-een-noodpakket/een-noodpakket-bij-je-thuis
   - naam: "Denk vooruit: vragen en antwoorden (bronbestand november 2025)"
     url: https://www.denkvooruit.nl/site/binaries/site-content/collections/documents/2025/10/27/toolkit-denk-vooruit-campagne-najaar-2025/20251111-qa-denkvooruit-bronbestand.pdf
+  - naam: "112.be: Veelgestelde vragen"
+    url: https://112.be/nl/veelgestelde-vragen
+  - naam: "Nationaal Crisiscentrum: een plan voor wie extra hulp nodig heeft"
+    url: https://crisiscentrum.be/nl/wat-kan-jij-doen/maak-een-plan/een-plan-voor-wie-extra-hulp-nodig-heeft
+  - naam: "FOD Economie: vragen van gezinnen over elektriciteitsschaarste"
+    url: https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door
+  - naam: "Nationaal Crisiscentrum: informatie tijdens een noodsituatie"
+    url: https://crisiscentrum.be/nl/wat-kan-jij-doen/informeer-je/informatie-tijdens-een-noodsituatie
 ---
 
 ## Herkennen
@@ -71,8 +80,8 @@ Bron: [Nationaal Crisiscentrum: brand of explosie](https://crisiscentrum.be/nl/r
 - Noteer het gasgeurnummer van je netbeheerder op je papieren lijst met noodnummers:
   - Fluvius (Vlaanderen): 0800 65 0 65, gratis, dag en nacht. Oproepen naar dit nummer krijgen voorrang.
   - ORES (grootste deel van Wallonië): 0800 87 087, gratis, dag en nacht.
-  - Woon je in Brussel (Sibelga) of in een deel van de provincie Luik (RESA), zoek dan het gasgeurnummer op de website van je netbeheerder.
-- Doof of slechthorend: Fluvius heeft een contactformulier om gasgeur te melden voor wie niet kan bellen.
+  - Woon je in Brussel (Sibelga) of in een deel van de provincie Luik (RESA), zoek dan vooraf het gasgeurnummer op de website van je netbeheerder en noteer het.
+- Doof of slechthorend: Fluvius heeft een contactformulier om gasgeur te melden voor wie niet kan bellen. Het werkt alleen als het internet werkt. Spreek daarom ook met huisgenoten of buren af dat zij voor jou bellen.
 
 **Onderhoud**
 
@@ -88,7 +97,7 @@ Bron: [Nationaal Crisiscentrum: brand of explosie](https://crisiscentrum.be/nl/r
 
 - Spreek af wie wie naar buiten helpt, en waar jullie buiten verzamelen.
 
-Bron: [Fluvius: gasgeur](https://www.fluvius.be/nl/gasgeur) · [ORES](https://www.ores.be/faq/plus-delectricite-ou-de-gaz) · [Speel niet met vuur: CO](https://speelnietmetvuur.be/co/) · [KCCE: Brandveiligheid voor ouderen](http://kcce.eu/sites/default/files/explorer/partie_s_incendie/brandveiligheid_ouderen_2017.pdf) · [Nationaal Crisiscentrum: evacueren](https://crisiscentrum.be/nl/wat-kan-jij-doen/reageer-correct/evacueren) · [Nationaal Crisiscentrum: noodpakket](https://crisiscentrum.be/nl/wat-kan-jij-doen/maak-een-noodpakket/een-noodpakket-bij-je-thuis) · [Denk vooruit: vragen en antwoorden](https://www.denkvooruit.nl/site/binaries/site-content/collections/documents/2025/10/27/toolkit-denk-vooruit-campagne-najaar-2025/20251111-qa-denkvooruit-bronbestand.pdf)
+Bron: [Fluvius: gasgeur](https://www.fluvius.be/nl/gasgeur) · [ORES](https://www.ores.be/faq/plus-delectricite-ou-de-gaz) · [Speel niet met vuur: CO](https://speelnietmetvuur.be/co/) · [KCCE: Brandveiligheid voor ouderen](http://kcce.eu/sites/default/files/explorer/partie_s_incendie/brandveiligheid_ouderen_2017.pdf) · [Nationaal Crisiscentrum: evacueren](https://crisiscentrum.be/nl/wat-kan-jij-doen/reageer-correct/evacueren) · [Nationaal Crisiscentrum: noodpakket](https://crisiscentrum.be/nl/wat-kan-jij-doen/maak-een-noodpakket/een-noodpakket-bij-je-thuis) · [Denk vooruit: vragen en antwoorden](https://www.denkvooruit.nl/site/binaries/site-content/collections/documents/2025/10/27/toolkit-denk-vooruit-campagne-najaar-2025/20251111-qa-denkvooruit-bronbestand.pdf) · [Nationaal Crisiscentrum: een plan voor wie extra hulp nodig heeft](https://crisiscentrum.be/nl/wat-kan-jij-doen/maak-een-plan/een-plan-voor-wie-extra-hulp-nodig-heeft) · [112.be: Veelgestelde vragen](https://112.be/nl/veelgestelde-vragen)
 
 ## Tijdens
 
@@ -107,16 +116,22 @@ Bron: [Fluvius: gasgeur](https://www.fluvius.be/nl/gasgeur) · [ORES](https://ww
 
 Het interventieteam vertrekt meteen na je oproep, meet ter plaatse de gasconcentratie en zoekt het lek.
 
+**Lukt bellen niet**
+
+- Laat buren of omstanders bellen of probeer een ander toestel. Verplaats je enkele meters en probeer opnieuw, altijd op een plek waar je geen gas ruikt.
+- Bij brand, een ontploffing of gewonden: is 112 onbereikbaar maar kun je nog bellen, probeer dan 101.
+- Werkt bellen helemaal niet: vraag hulp in je buurt. Zie Noodnummers in de app, Als bellen niet lukt.
+
 **Gasbrand of ontploffing**
 
 - Blijf uit de buurt.
 - Laat het vuur branden zolang het lek niet hersteld is. Probeer het niet te doven.
-- Bel 112 en daarna het gasgeurnummer van je netbeheerder.
+- Bel 112 en daarna het gasgeurnummer van je netbeheerder. Lukt bellen niet, zie hierboven.
 
 **Te hoge of te lage druk, of geen aardgas**
 
 - Draai de gasmeterkraan dicht en schakel je gastoestellen uit.
-- Meld de storing bij je netbeheerder. Bij Fluvius is dat het storingsnummer 078 35 35 00.
+- Meld de storing bij je netbeheerder als bellen lukt. Bij Fluvius is dat het storingsnummer 078 35 35 00.
 
 **Vermoeden van CO-vergiftiging**
 
@@ -124,11 +139,11 @@ Het interventieteam vertrekt meteen na je oproep, meet ter plaatse de gasconcent
 2. Open ramen en deuren.
 3. Schakel het gastoestel uit als dat veilig kan.
 4. Verlaat de ruimte en breng het slachtoffer naar buiten.
-5. Bel 112. Zeg dat het mogelijk om CO gaat en of er iemand bewusteloos is.
+5. Bel 112 of laat iemand bellen. Zeg dat het mogelijk om CO gaat en of er iemand bewusteloos is. Lukt bellen niet, zie hierboven en de kaart CO-alarm.
 6. Start reanimatie als het slachtoffer niet ademt. Leg iemand die bewusteloos is maar ademt in stabiele zijligging.
-7. Voor vragen zonder direct gevaar: Antigifcentrum 070 245 245, of een erkend installateur.
+7. Voor vragen zonder direct gevaar, als het netwerk werkt: Antigifcentrum 070 245 245, of een erkend installateur.
 
-Bron: [Fluvius: gasgeur](https://www.fluvius.be/nl/gasgeur) · [ORES](https://www.ores.be/faq/plus-delectricite-ou-de-gaz) · [Speel niet met vuur: CO](https://speelnietmetvuur.be/co/) · [Antigifcentrum: CO-vergiftiging](https://www.antigifcentrum.be/Toxinfos/co-vergiftiging/)
+Bron: [Fluvius: gasgeur](https://www.fluvius.be/nl/gasgeur) · [ORES](https://www.ores.be/faq/plus-delectricite-ou-de-gaz) · [Speel niet met vuur: CO](https://speelnietmetvuur.be/co/) · [Antigifcentrum: CO-vergiftiging](https://www.antigifcentrum.be/Toxinfos/co-vergiftiging/) · [112.be: Veelgestelde vragen](https://112.be/nl/veelgestelde-vragen) · [FOD Economie: vragen van gezinnen over elektriciteitsschaarste](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door)
 
 ### Buiten of onderweg
 
@@ -136,16 +151,17 @@ Bron: [Fluvius: gasgeur](https://www.fluvius.be/nl/gasgeur) · [ORES](https://ww
 
 - Vermijd vonken, vuur en alles wat kan ontsteken.
 - Blijf uit de buurt.
-- Bel het gasgeurnummer van je netbeheerder.
+- Bel het gasgeurnummer van je netbeheerder. Lukt dat niet, laat iemand anders bellen of vraag hulp in je buurt.
 
 **Een groter gaslek in je buurt**
 
 - Wacht op de instructies van de overheid of de hulpdiensten. Soms is binnen blijven veiliger dan vertrekken.
+- Die instructies komen onder meer via de radio en via omroepwagens van de politie die in de straat rondrijden. Werkt het netwerk, dan ook via BE-Alert en de websites van de overheid.
 - Moet je evacueren, neem dan je identiteitskaart, geld, water, gsm en lader, sleutels, je lijst met telefoonnummers, noodzakelijke geneesmiddelen en hygiëneproducten mee. Is er direct gevaar en heb je geen noodtas klaar, vertrek dan meteen zonder iets mee te nemen.
 - Help buren die minder mobiel zijn.
 - Ga pas terug als de overheid zegt dat het veilig is.
 
-Bron: [Fluvius: gasgeur](https://www.fluvius.be/nl/gasgeur) · [Nationaal Crisiscentrum: evacueren](https://crisiscentrum.be/nl/wat-kan-jij-doen/reageer-correct/evacueren)
+Bron: [Fluvius: gasgeur](https://www.fluvius.be/nl/gasgeur) · [Nationaal Crisiscentrum: evacueren](https://crisiscentrum.be/nl/wat-kan-jij-doen/reageer-correct/evacueren) · [Nationaal Crisiscentrum: informatie tijdens een noodsituatie](https://crisiscentrum.be/nl/wat-kan-jij-doen/informeer-je/informatie-tijdens-een-noodsituatie) · [112.be: Veelgestelde vragen](https://112.be/nl/veelgestelde-vragen)
 
 ### In de auto
 
@@ -171,10 +187,10 @@ Bron: [Nationaal Crisiscentrum: evacueren](https://crisiscentrum.be/nl/wat-kan-j
 ### Kwetsbare personen
 
 - Spreek af wie helpt bij huisgenoten of buren die minder mobiel zijn, en wie hen verwittigt.
-- Doven en slechthorenden die gas ruiken: ga naar een plek waar je geen gas meer ruikt en vul het contactformulier van Fluvius voor doven en slechthorenden in.
+- Doven en slechthorenden die gas ruiken: ga naar een plek waar je geen gas meer ruikt en vraag buren of omstanders om te bellen. Werkt het internet, vul dan ook het contactformulier van Fluvius voor doven en slechthorenden in.
 - Zwangere vrouwen, ouderen en mensen met hart- en vaatziekten, schildklierproblemen, astma of bloedarmoede zijn extra gevoelig voor CO.
 
-Bron: [Nationaal Crisiscentrum: evacueren](https://crisiscentrum.be/nl/wat-kan-jij-doen/reageer-correct/evacueren) · [Fluvius: gasgeur](https://www.fluvius.be/nl/gasgeur) · [Antigifcentrum: CO-vergiftiging](https://www.antigifcentrum.be/Toxinfos/co-vergiftiging/)
+Bron: [Nationaal Crisiscentrum: evacueren](https://crisiscentrum.be/nl/wat-kan-jij-doen/reageer-correct/evacueren) · [Fluvius: gasgeur](https://www.fluvius.be/nl/gasgeur) · [Antigifcentrum: CO-vergiftiging](https://www.antigifcentrum.be/Toxinfos/co-vergiftiging/) · [112.be: Veelgestelde vragen](https://112.be/nl/veelgestelde-vragen)
 
 ### Huisdieren en dieren
 

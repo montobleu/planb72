@@ -4,7 +4,7 @@ module: buiten
 volgorde: 2
 kort: "Als je buiten vastzit: wat eerst komt (koude), een onderkomen maken, isoleren van de grond, vuur veilig en volgens de Belgische regels, water vinden en zuiveren, waarom je geen wilde planten of paddenstoelen eet, en hoe je gevonden wordt."
 status: concept
-datum: "2026-11-17"
+datum: "2026-11-18"
 bronnen:
   - naam: "US Army FM 21-76 Survival Manual (publiek domein, kopie op archive.org)"
     url: https://archive.org/details/fm-21-76-survival-manual
@@ -57,9 +57,17 @@ Er is geen vaste volgorde die altijd geldt. De Amerikaanse overlevingshandboeken
 - In koude kan beschutting belangrijker zijn dan voedsel, en mogelijk zelfs dan water. Langdurige blootstelling aan kou maakt je uitgeput en zwak, en een uitgeput mens kan de wil om te overleven verliezen.
 - Ook in de kou heb je minstens 2 liter water per dag nodig om goed te blijven functioneren.
 - Je kunt meerdere weken zonder voedsel, maar je wordt zonder eten snel zwakker, lichamelijk en mentaal.
-- Bel om hulp als je kunt. Zie de gids over de noodoproep. Laat altijd een tochtplan achter bij iemand die thuisblijft.
+- Laat altijd een tochtplan achter bij iemand die thuisblijft.
 
-Bron: [US Army FM 21-76](https://archive.org/details/fm-21-76-survival-manual) · [US Army ATP 3-50.21](https://archive.org/details/survival-atp-3-50-21) · [National Park Service: Outdoor Emergency Plan](https://www.nps.gov/subjects/healthandsafety/upload/NPS-Outdoor-Emergency-Plan-508c.pdf)
+**Hulp halen.** Buiten kan hulp uren of dagen op zich laten wachten, afhankelijk van de plek, het weer en de middelen. Reken er niet op dat je bereik hebt.
+
+1. Heb je bereik: bel 112. Zie de gids over de noodoproep.
+2. Geen bereik, wel iemand in de buurt: spreek mensen aan die je tegenkomt en vraag hen naar een plek met bereik te gaan en daar 112 te bellen.
+3. In een groep met een gewonde: stuur twee of meer mensen om alarm te slaan. De anderen blijven bij de gewonde.
+4. Alleen met de gewonde: help hem eerst zo goed mogelijk en ga dan hulp zoeken.
+5. Niemand in de buurt: blijf op je plaats en geef signalen (zie Gevonden worden).
+
+Bron: [US Army FM 21-76](https://archive.org/details/fm-21-76-survival-manual) · [US Army ATP 3-50.21](https://archive.org/details/survival-atp-3-50-21) · [National Park Service: Outdoor Emergency Plan](https://www.nps.gov/subjects/healthandsafety/upload/NPS-Outdoor-Emergency-Plan-508c.pdf) · [Nationaal Crisiscentrum: Natuurbrand](https://crisiscentrum.be/nl/risicos-belgie/natuurlijke-risicos/natuurbrand)
 
 ## Onderkoeling herkennen
 
@@ -74,7 +82,7 @@ Onderkoeling (hypothermie) ontstaat als je lichaam meer warmte verliest dan het 
 - Moeite met bewegen en spreken.
 - Verwardheid, sufheid, geheugenverlies, vreemd gedrag, vermoeidheid.
 
-**Bel 112 als** de persoon niet meer rilt, de spieren verstijven, of er bewustzijnsstoornissen zijn.
+**Bel 112 als** de persoon niet meer rilt, de spieren verstijven, of er bewustzijnsstoornissen zijn. Lukt bellen niet: laat twee of meer mensen hulp halen en blijf zelf bij de persoon (zie Wat eerst komt, Hulp halen).
 
 **Wat je doet**
 
@@ -95,7 +103,7 @@ Onderkoeling (hypothermie) ontstaat als je lichaam meer warmte verliest dan het 
 
 Bedek altijd je hoofd: je verliest er veel warmte. Alcohol maakt de bloedvaatjes in de huid wijder, waardoor je meer warmte verliest.
 
-Bron: [Rode Kruis-Vlaanderen: Wat doen bij onderkoeling](https://www.gezondheidenwetenschap.be/eerste-hulp/wat-doen-bij-onderkoeling) · [Rode Kruis-Vlaanderen: Eerste hulp bij wintersport](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-wintersport) · [US Army FM 21-76](https://archive.org/details/fm-21-76-survival-manual) · [Nationaal Crisiscentrum: Koudegolf](https://crisiscentrum.be/nl/risicos-belgie/natuurlijke-risicos/koudegolf)
+Bron: [Rode Kruis-Vlaanderen: Wat doen bij onderkoeling](https://www.gezondheidenwetenschap.be/eerste-hulp/wat-doen-bij-onderkoeling) · [Rode Kruis-Vlaanderen: Eerste hulp bij wintersport](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-wintersport) · [US Army FM 21-76](https://archive.org/details/fm-21-76-survival-manual) · [Nationaal Crisiscentrum: Koudegolf](https://crisiscentrum.be/nl/risicos-belgie/natuurlijke-risicos/koudegolf) · [National Park Service: Outdoor Emergency Plan](https://www.nps.gov/subjects/healthandsafety/upload/NPS-Outdoor-Emergency-Plan-508c.pdf)
 
 ## Een plek kiezen voor je onderkomen
 
@@ -187,7 +195,7 @@ Ook op een toegelaten plek beslist de **risicocode voor natuurbranden** van het 
 | Oranje | Algemeen vuurverbod, behalve kookvuren als gas- of kuilvuur |
 | Rood | Vuurverbod in eender welke vorm |
 
-In Wallonië en Brussel gelden eigen regels. Het Crisiscentrum verwijst naar de website van het Agentschap Natuur en Bos, Wallonie.be, de gemeente of het natuurdomein voor de actuele kleurcode.
+In Wallonië en Brussel gelden eigen regels. Het Crisiscentrum raadt aan je vooraf te informeren over het brandgevaar en de kleurcode op de website van het Agentschap Natuur en Bos, Wallonie.be, de gemeente of het natuurdomein. Ter plaatse: hou je aan de regels en richtlijnen die aan de rand van het natuurgebied staan.
 
 **Veilig stoken**
 
@@ -203,7 +211,7 @@ In Wallonië en Brussel gelden eigen regels. Het Crisiscentrum verwijst naar de 
 
 **Hoe een vuur werkt.** Een vuur heeft drie dingen nodig: lucht, warmte en brandstof. Haal je er één weg, dan dooft het. Je hebt drie soorten materiaal nodig: **aanmaakmateriaal** dat met een vonk vlam vat (helemaal droog), **aanmaakhout** dat snel brandt, en **brandhout** dat langzaam en gelijkmatig brandt. Bouw ze in die volgorde op, bijvoorbeeld als een tipi.
 
-**Als je een natuurbrand ziet:** bel 112. Volg bestaande paden weg van het vuur en de rook, als het kan dwars op de windrichting. Vlucht naar een openbare weg, een groot verhard terrein of de bebouwde kom.
+**Als je een natuurbrand ziet:** breng jezelf in veiligheid. Volg bestaande paden weg van het vuur en de rook, als het kan dwars op de windrichting. Vlucht naar een openbare weg, een groot verhard terrein of de bebouwde kom. Help anderen naar een veilige plek. Bel zo snel mogelijk 112 en geef herkenbare punten door, zoals paden, vennen, uitkijktorens of parkings. Heb je geen bereik, evacueer dan zo snel mogelijk en spreek mensen aan die je tegenkomt.
 
 Bron: [Vlaanderen.be: Vuur maken in of nabij een natuurgebied](https://www.vlaanderen.be/natuur-milieu-en-klimaat/wat-mag-u-als-bezoeker-doen-in-de-vlaamse-natuur/vuur-maken-in-of-nabij-een-natuurgebied-kampvuur-kookvuur-fakkeltocht) · [Nationaal Crisiscentrum: Natuurbrand](https://crisiscentrum.be/nl/risicos-belgie/natuurlijke-risicos/natuurbrand) · [US Army FM 21-76](https://archive.org/details/fm-21-76-survival-manual)
 
@@ -262,10 +270,10 @@ Bron: [CDC Yellow Book: Water disinfection for travelers](https://www.cdc.gov/ye
 **Heeft iemand toch iets gegeten?**
 
 1. Haal de plantenresten uit de mond en geef een glas water.
-2. Bel het Antigifcentrum (070 245 245) of de huisarts.
+2. Neem contact op met het Antigifcentrum (070 245 245, als het netwerk werkt) of de huisarts.
 3. Hou de plant bij: neem een volledige tak mee met bladeren en bloemen of vruchten, of maak foto's.
 4. Bij paddenstoelen: bewaar de restjes (rauw, gekookt, geschild). Het Antigifcentrum vraagt welke paddenstoelen, waar geplukt, hoe bewaard en bereid, hoeveel tijd tussen eten en klachten, en of iedereen die meegegeten heeft ziek is.
-5. Bij ernstige klachten: bel 112.
+5. Bij ernstige klachten: bel 112. Lukt bellen niet, laat dan hulp halen (zie Wat eerst komt, Hulp halen).
 
 Bron: [US Army FM 21-76](https://archive.org/details/fm-21-76-survival-manual) · [Antigifcentrum: Tips voor plukkers van paddenstoelen](https://www.antigifcentrum.be/Toxinfos/tips-voor-paddenstoelenplukkers/) · [Antigifcentrum: Vergiftiging door planten](https://www.antigifcentrum.be/Toxinfos/vergiftiging-door-planten/) · [Antigifcentrum: Bessen](https://www.antigifcentrum.be/Toxinfos/bessen/) · [Vlaanderen.be: Wat mag u als bezoeker doen in de Vlaamse natuur?](https://www.vlaanderen.be/natuur-milieu-en-klimaat/wat-mag-u-als-bezoeker-doen-in-de-vlaamse-natuur)
 
@@ -274,7 +282,7 @@ Bron: [US Army FM 21-76](https://archive.org/details/fm-21-76-survival-manual) �
 1. **Voor je vertrekt:** laat een tochtplan achter bij iemand die thuisblijft. Moet je bij een noodsituatie je huis verlaten, laat dan een briefje achter met wanneer je vertrok en waar je heen gaat.
 2. **Blijf waar je bent** als je verdwaald bent. Verplaats je alleen bij onmiddellijk levensgevaar.
 3. **Maak jezelf zichtbaar:** draag heldere kleding, leg je zeil of stenen in een vorm die je van boven ziet.
-4. **Geef signalen:** fluit drie keer, pauze, opnieuw drie keer. Flits SOS met een lamp. Flits met een spiegel naar vliegtuigen.
+4. **Geef signalen:** fluit drie keer, pauze, opnieuw drie keer. Flits SOS met een lamp. Flits met een spiegel naar vliegtuigen. Een spiegel heeft geen batterij nodig.
 5. **Spaar je energie.** Fluiten in plaats van roepen.
 6. Maak geen vuur bij hoog brandgevaar.
 
@@ -288,13 +296,13 @@ Ook in België kan het buiten levensgevaarlijk warm worden. Een hitteslag is lev
 
 **Herkennen:** hoofdpijn, zwarte vlekken zien, duizelig zijn of flauwvallen, misselijkheid en braken, spier- of buikkrampen, rode huid, eerst fel zweten en dan niet meer, stuipen, verwardheid of sufheid.
 
-**Bel 112 bij** bewustzijnsstoornissen, abnormaal gedrag, stuipen, als de persoon niet meer zweet of niet kan drinken zonder te braken, of bij een lichaamstemperatuur boven 39 °C.
+**Bel 112 bij** bewustzijnsstoornissen, abnormaal gedrag, stuipen, als de persoon niet meer zweet of niet kan drinken zonder te braken, of bij een lichaamstemperatuur boven 39 °C. Lukt bellen niet: laat twee of meer mensen hulp halen en begin intussen met afkoelen (zie Wat eerst komt, Hulp halen).
 
 **Wat je doet:** laat de persoon rusten op een koele plek en koel hem meteen af: een ventilator, natte koude doeken of koelzakjes in de lies, oksels en nek, besproeien met koud water, handen en voeten in koud water. Is de hitteslag het gevolg van een inspanning en is de persoon goed bij bewustzijn, geef dan iets koels te drinken. Geef geen koortswerend middel.
 
 **Voorkomen:** vermijd zware inspanningen in de hitte, drink voldoende, zoek schaduw, draag lichte kleding, drink geen alcohol. Laat nooit mensen of dieren achter in een auto in de zon.
 
-Bron: [Rode Kruis-Vlaanderen: Eerste hulp bij hitteslag of hitteberoerte](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-hitteslag-of-hitteberoerte)
+Bron: [Rode Kruis-Vlaanderen: Eerste hulp bij hitteslag of hitteberoerte](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-hitteslag-of-hitteberoerte) · [National Park Service: Outdoor Emergency Plan](https://www.nps.gov/subjects/healthandsafety/upload/NPS-Outdoor-Emergency-Plan-508c.pdf)
 
 ## Per persoon
 

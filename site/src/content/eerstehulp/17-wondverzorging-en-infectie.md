@@ -3,7 +3,7 @@ titel: Wondverzorging, infectie en tetanus
 volgorde: 17
 kort: "Stelp de bloeding, spoel de wonde met stromend water, dek ze af en kijk ze elke dag na. Denk bij vuile, diepe of bijtwonden aan tetanus."
 status: concept
-datum: "2026-11-17"
+datum: "2026-11-18"
 bronnen:
   - naam: "Gezondheid en Wetenschap (Rode Kruis-Vlaanderen): Eerste hulp bij een huidwonde"
     url: https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-een-huidwonde
@@ -19,6 +19,10 @@ bronnen:
     url: https://www.ifrc.org/sites/default/files/2022-02/EN_GFARC_GUIDELINES_2020.pdf
   - naam: "CDC: Emergency Wound Care After a Natural Disaster (gearchiveerd)"
     url: https://webharvest.gov/congress116th/20210116043740/https://www.cdc.gov/disasters/woundcare.html
+  - naam: "European Resuscitation Council Guidelines 2021: First aid"
+    url: https://cprguidelines-old.erc.edu/assets/guidelines/European-Resuscitation-Council-Guidelines-2021-Fi.pdf
+  - naam: "112.be: Veelgestelde vragen"
+    url: https://112.be/nl/veelgestelde-vragen
 ---
 
 ## Herkennen
@@ -78,7 +82,7 @@ Bron: [Gezondheid en Wetenschap: Huidwonde](https://www.gezondheidenwetenschap.b
 
 ### Steekwonde
 
-1. Contacteer altijd een arts.
+1. Laat een steekwonde altijd door een arts nakijken.
 2. Een kleine splinter mag je zelf proberen te verwijderen. Een groter voorwerp, zoals een spijker of mes, laat je zitten. Verwittig zo snel mogelijk de hulpdiensten.
 3. Stelp de bloeding, spoel en dek af zoals bij een kleine wonde.
 
@@ -123,7 +127,13 @@ Zoek meteen medische zorg bij tekens van bloedvergiftiging: verwardheid, ademhal
 
 Ga zo snel mogelijk naar een arts bij een wonde die geïnfecteerd lijkt, bij elke steekwonde en bijtwonde, bij een wonde met vuil of een voorwerp erin, bij een gapende of diepe wonde, en bij twijfel over de tetanusbescherming.
 
-Bron: [Gezondheid en Wetenschap: Huidwonde](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-een-huidwonde) · [Gezondheid en Wetenschap: Steekwonde](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-een-steekwonde) · [CDC: Emergency Wound Care After a Natural Disaster](https://webharvest.gov/congress116th/20210116043740/https://www.cdc.gov/disasters/woundcare.html)
+**Lukt bellen niet**
+
+- Laat het slachtoffer alleen als er geen andere mogelijkheid is. Wijs een omstander rechtstreeks aan om hulp te halen en geef mee waar het is, wat er gebeurd is, hoeveel slachtoffers er zijn en hoe ze eraan toe zijn.
+- Bij een ernstige bloeding: blijf zelf drukken en stuur iemand anders om hulp (zie onderwerp 3).
+- Zie ook onderwerp 1 (Lukt bellen niet: hulp halen zonder telefoon) en Noodnummers in de app, Als bellen niet lukt.
+
+Bron: [Gezondheid en Wetenschap: Huidwonde](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-een-huidwonde) · [Gezondheid en Wetenschap: Steekwonde](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-een-steekwonde) · [CDC: Emergency Wound Care After a Natural Disaster](https://webharvest.gov/congress116th/20210116043740/https://www.cdc.gov/disasters/woundcare.html) · [IFRC Guidelines 2020](https://www.ifrc.org/sites/default/files/2022-02/EN_GFARC_GUIDELINES_2020.pdf) · [ERC Guidelines 2021: First aid](https://cprguidelines-old.erc.edu/assets/guidelines/European-Resuscitation-Council-Guidelines-2021-Fi.pdf) · [112.be: Veelgestelde vragen](https://112.be/nl/veelgestelde-vragen)
 
 ## Niet doen
 

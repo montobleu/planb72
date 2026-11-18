@@ -3,7 +3,7 @@ titel: Wundversorgung, Infektion und Tetanus
 volgorde: 17
 kort: "Stillen Sie die Blutung, spülen Sie die Wunde mit fließendem Wasser, decken Sie sie ab und kontrollieren Sie sie jeden Tag. Denken Sie bei schmutzigen, tiefen oder Bisswunden an Tetanus."
 status: concept
-datum: "2026-11-17"
+datum: "2026-11-18"
 bronnen:
   - naam: "Gezondheid en Wetenschap (Rode Kruis-Vlaanderen): Erste Hilfe bei einer Hautwunde"
     url: https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-een-huidwonde
@@ -19,8 +19,12 @@ bronnen:
     url: https://www.ifrc.org/sites/default/files/2022-02/EN_GFARC_GUIDELINES_2020.pdf
   - naam: "CDC: Emergency Wound Care After a Natural Disaster (archiviert)"
     url: https://webharvest.gov/congress116th/20210116043740/https://www.cdc.gov/disasters/woundcare.html
+  - naam: "European Resuscitation Council Guidelines 2021: First aid"
+    url: https://cprguidelines-old.erc.edu/assets/guidelines/European-Resuscitation-Council-Guidelines-2021-Fi.pdf
+  - naam: "112.be: Häufig gestellte Fragen"
+    url: https://112.be/de/haeufig-gestellte-fragen
 vertaling: machine
-origineel_datum: "2026-11-17"
+origineel_datum: "2026-11-18"
 ---
 
 ## Erkennen
@@ -80,7 +84,7 @@ Quelle: [Gezondheid en Wetenschap: Hautwunde](https://www.gezondheidenwetenschap
 
 ### Stichwunde
 
-1. Wenden Sie sich immer an einen Arzt.
+1. Lassen Sie eine Stichwunde immer von einem Arzt untersuchen.
 2. Einen kleinen Splitter dürfen Sie selbst zu entfernen versuchen. Einen größeren Gegenstand, zum Beispiel einen Nagel oder ein Messer, lassen Sie stecken. Verständigen Sie so schnell wie möglich den Rettungsdienst.
 3. Stillen Sie die Blutung, spülen Sie und decken Sie ab wie bei einer kleinen Wunde.
 
@@ -125,7 +129,13 @@ Holen Sie sofort medizinische Hilfe bei Zeichen einer Blutvergiftung: Verwirrthe
 
 Gehen Sie so schnell wie möglich zu einem Arzt bei einer Wunde, die infiziert aussieht, bei jeder Stichwunde und Bisswunde, bei einer Wunde mit Schmutz oder einem Gegenstand darin, bei einer klaffenden oder tiefen Wunde und bei Zweifeln am Tetanusschutz.
 
-Quelle: [Gezondheid en Wetenschap: Hautwunde](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-een-huidwonde) · [Gezondheid en Wetenschap: Stichwunde](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-een-steekwonde) · [CDC: Emergency Wound Care After a Natural Disaster](https://webharvest.gov/congress116th/20210116043740/https://www.cdc.gov/disasters/woundcare.html)
+**Kommt kein Anruf zustande**
+
+- Lassen Sie die betroffene Person nur allein, wenn es keine andere Möglichkeit gibt. Sprechen Sie Umstehende direkt an, damit sie Hilfe holen, und geben Sie mit, wo es ist, was passiert ist, wie viele Betroffene es gibt und in welchem Zustand sie sind.
+- Bei einer schweren Blutung: Drücken Sie selbst weiter und schicken Sie jemand anderen um Hilfe (siehe Thema 3).
+- Siehe auch Thema 1 (Kommt kein Anruf zustande: Hilfe holen ohne Telefon) und Notrufnummern in der App, Wenn kein Anruf möglich ist.
+
+Quelle: [Gezondheid en Wetenschap: Hautwunde](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-een-huidwonde) · [Gezondheid en Wetenschap: Stichwunde](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-een-steekwonde) · [CDC: Emergency Wound Care After a Natural Disaster](https://webharvest.gov/congress116th/20210116043740/https://www.cdc.gov/disasters/woundcare.html) · [IFRC Guidelines 2020](https://www.ifrc.org/sites/default/files/2022-02/EN_GFARC_GUIDELINES_2020.pdf) · [ERC Guidelines 2021: First aid](https://cprguidelines-old.erc.edu/assets/guidelines/European-Resuscitation-Council-Guidelines-2021-Fi.pdf) · [112.be: Häufig gestellte Fragen](https://112.be/de/haeufig-gestellte-fragen)
 
 ## Nicht tun
 

@@ -4,7 +4,7 @@ module: nucleair
 volgorde: 2
 kort: "Was Jodtabletten bewirken und was nicht, wer sie in Belgien zu Hause haben sollte, wo Sie sie erhalten, wie Sie sie aufbewahren und warum Sie sie nur auf Anweisung einnehmen. Ohne Dosierungen."
 status: concept
-datum: "2026-11-17"
+datum: "2026-11-18"
 bronnen:
   - naam: "Nuklearrisiko: Jodtabletten"
     url: https://nuklearrisiko.be/de/jodtabletten
@@ -22,6 +22,8 @@ bronnen:
     url: https://nuklearrisiko.be/de/was-koennen-sie-tun/einnahme-von-jod
   - naam: "Nuklearrisiko: Notfallplanungszonen"
     url: https://nuklearrisiko.be/de/was-tun-die-behoerden/noteinsatzplanungs-zonen
+  - naam: "Nuklearrisiko: Warnung und Schutz der Bevölkerung"
+    url: https://nuklearrisiko.be/de/was-tun-die-behoerden/warnung-und-schutz-der-bevoelkerung
   - naam: "Nuklearrisiko: häufig gestellte Fragen"
     url: https://nuklearrisiko.be/de/faq
   - naam: "Nationales Krisenzentrum: Zwischenfall in einem Kernkraftwerk"
@@ -37,7 +39,7 @@ bronnen:
   - naam: "Suomi.fi: Radiation hazards"
     url: https://www.suomi.fi/guides/preparedness/how-to-prepare-for-incidents-and-crises/radiation-hazards
 vertaling: machine
-origineel_datum: "2026-11-17"
+origineel_datum: "2026-11-18"
 ---
 
 ## Über diesen Leitfaden
@@ -109,7 +111,7 @@ Quelle: [Nuklearrisiko: Für wen](https://nuklearrisiko.be/de/jodtabletten/fuer-
 
 ## Wo Sie sie erhalten
 
-1. Gehen Sie in eine Apotheke. In jeder Gemeinde innerhalb der Zone haben alle Apotheker Jodtabletten. Auch außerhalb der Zonen haben Apotheker im ganzen Land Schachteln vorrätig.
+1. Holen Sie sie vorsorglich im Voraus ab: Gehen Sie in eine Apotheke. In jeder Gemeinde innerhalb der Zone haben alle Apotheker Jodtabletten. Auch außerhalb der Zonen haben Apotheker im ganzen Land Schachteln vorrätig.
 2. Nehmen Sie Ihren Personalausweis mit.
 3. Der Apotheker gibt Ihnen eine Schachtel pro vier Personen.
 4. Die Tabletten sind kostenlos.
@@ -141,11 +143,11 @@ Quelle: [Nuklearrisiko: Jodtabletten in der Apotheke abholen](https://nuklearris
 
 - **Warum der Zeitpunkt zählt:** Jod wirkt nur, wenn Sie es zum richtigen Zeitpunkt einnehmen, am besten kurz vor oder so schnell wie möglich nach einer Freisetzung von radioaktivem Jod. Die Behörden wählen auf Rat von Experten den Zeitpunkt, zu dem die Tabletten am wirksamsten sind. Finnland sagt: Eine zu frühe oder zu späte Einnahme verringert den Schutz.
 - **Was die WHO zum Zeitfenster sagt:** Der beste Zeitraum liegt zwischen weniger als 24 Stunden vor und 2 Stunden nach dem erwarteten Beginn der Exposition. Bis 8 Stunden danach ist es noch vertretbar. Später als 24 Stunden nach der Exposition bietet es keinen Schutz mehr. In Belgien entscheiden die Behörden, wann.
-- **Wie Sie davon erfahren:** über BE-Alert, Radio, Fernsehen und die Medien. Die Empfehlung kann auf eine bestimmte Zone oder eine bestimmte Gruppe beschränkt bleiben, zum Beispiel auf Schwangere oder kleine Kinder.
+- **Wie Sie davon erfahren:** Die Behörden sagen es über Radio und Fernsehen. Wer Schutz sucht, bleibt drinnen bei geschlossenen Fenstern: Halten Sie deshalb ein batteriebetriebenes Radio oder ein Kurbelradio bereit. Auch Lautsprecherwagen der Polizei fahren durch die Straßen, sodass Sie die Informationen auch ohne Telefon oder Handy erhalten. Funktioniert das Netz, kommt die Empfehlung auch über BE-Alert. Sie kann auf eine bestimmte Zone oder eine bestimmte Gruppe beschränkt bleiben, zum Beispiel auf Schwangere oder kleine Kinder.
 - **Unfall in einem Nachbarland:** Nehmen Sie die Tabletten nur ein, wenn die belgischen Behörden es ausdrücklich empfehlen.
 - **Wie lange Sie geschützt sind:** Nach der Einnahme sind Sie mindestens 24 Stunden geschützt. Auch bei einem schweren Unfall ist es sehr wahrscheinlich, dass eine einzige Einnahme ausreicht. Suchen Sie in der Zwischenzeit weiter Schutz im Gebäude.
 
-Quelle: [Nuklearrisiko: Wann einnehmen](https://nuklearrisiko.be/de/jodtabletten/wann-einnehmen) · [Nuklearrisiko: häufig gestellte Fragen](https://nuklearrisiko.be/de/faq) · [WHO: Use of potassium iodide](https://www.who.int/news-room/questions-and-answers/item/use-of-potassium-iodide-for-thyroid-protection-during-nuclear-or-radiological-emergencies) · [Suomi.fi: Radiation hazards](https://www.suomi.fi/guides/preparedness/how-to-prepare-for-incidents-and-crises/radiation-hazards)
+Quelle: [Nuklearrisiko: Wann einnehmen](https://nuklearrisiko.be/de/jodtabletten/wann-einnehmen) · [Nuklearrisiko: häufig gestellte Fragen](https://nuklearrisiko.be/de/faq) · [Nuklearrisiko: Warnung und Schutz der Bevölkerung](https://nuklearrisiko.be/de/was-tun-die-behoerden/warnung-und-schutz-der-bevoelkerung) · [WHO: Use of potassium iodide](https://www.who.int/news-room/questions-and-answers/item/use-of-potassium-iodide-for-thyroid-protection-during-nuclear-or-radiological-emergencies) · [Suomi.fi: Radiation hazards](https://www.suomi.fi/guides/preparedness/how-to-prepare-for-incidents-and-crises/radiation-hazards) · [Nationales Krisenzentrum: Broschüre Gemeinsam vorbereitet](https://krisenzentrum.be/sites/default/files/documents/files/WEB-Brosch%C3%BCre%20Gemeinsam%20Vorbereitet-DE.pdf)
 
 ## Wie Sie sie einnehmen
 
@@ -166,7 +168,7 @@ Quelle: [Nuklearrisiko: häufig gestellte Fragen](https://nuklearrisiko.be/de/fa
 
 ## Nebenwirkungen und wer sie besser nicht einnimmt
 
-- Jodtabletten sind wenig giftig. Nimmt ein Kind mehrere davon ein, tun Sie, was Sie bei jedem Arzneimittel tun: Fragen Sie Ihren Arzt oder Apotheker oder rufen Sie das Antigiftzentrum an (070 245 245).
+- Jodtabletten sind wenig giftig. Nimmt ein Kind mehrere davon ein, tun Sie, was Sie bei jedem Arzneimittel tun: Fragen Sie Ihren Arzt oder Apotheker, oder rufen Sie das Antigiftzentrum an (070 245 245), wenn das Netz funktioniert.
 - Nebenwirkungen sind meist vorübergehend und harmlos, etwa Erbrechen oder ein schlechter Geschmack. In Ausnahmefällen treten Überempfindlichkeitsreaktionen auf: gerötete Haut, Wassereinlagerungen, Schmerzen im Hals, tränende Augen, Erkältungsbeschwerden, geschwollene Speicheldrüsen, Fieber. Diese verschwinden normalerweise von selbst. Nehmen Sie nicht erneut Jod ein. Bleibt das Problem bestehen oder verschlechtert sich der Zustand, wenden Sie sich an Ihren Arzt.
 - Das geringe Risiko einer Überempfindlichkeit ist kein Grund, die Tabletten nicht einzunehmen.
 - Eine kleine Minderheit nimmt sie besser nicht ein: Menschen, die allergisch gegen Jod sind, Menschen mit einer seltenen Hautkrankheit und Menschen, die Schilddrüsenprobleme haben oder hatten. Die Packungsbeilage enthält die vollständige Liste. Sind Sie unsicher, sprechen Sie schon jetzt mit Ihrem Hausarzt oder Facharzt.
@@ -179,7 +181,8 @@ Quelle: [Nuklearrisiko: häufig gestellte Fragen](https://nuklearrisiko.be/de/fa
 ## Wenn Sie keine Tabletten haben
 
 - **Bleiben Sie drinnen.** Schutz suchen in einem Gebäude bietet den schnellsten und wirksamsten Schutz.
-- Die Behörden nutzen die Zeit zwischen den ersten Anzeichen eines Problems und der Freisetzung, um zu warnen, Vorräte zu verteilen und die Bevölkerung, falls nötig, zu bitten, Tabletten in der Apotheke abzuholen. Hören Sie auf die Empfehlungen.
+- Die Behörden nutzen die Zeit zwischen den ersten Anzeichen eines Problems und der Freisetzung, um zu warnen, Vorräte zu verteilen und die Bevölkerung, falls nötig, zu bitten, Tabletten in der Apotheke abzuholen. Hören Sie auf die Empfehlungen im Radio.
+- Wer keine Tabletten hat, kann sie auch von den Hilfsdiensten erhalten: Im ganzen Land gibt es Vorräte, und die Hilfsdienste können sie bei einem Unfall an die bedrohte Bevölkerung verteilen.
 - Sind Sie zum Zeitpunkt des Unfalls bei einem Fußballspiel, in einem Kino, Geschäft oder an einer Tankstelle: Die Gemeinschaftseinrichtungen in den Zonen werden gebeten, Tabletten bereitzuhalten und sie zu verteilen, wenn die Behörden das empfehlen. Der Zivilschutz hat ebenfalls einen Vorrat, den er ausgeben kann.
 - Finnland sagt: Gehen Sie nicht in die Apotheke, um Tabletten zu holen, wenn bereits eine Empfehlung zur Einnahme ausgesprochen wurde.
 
@@ -207,7 +210,7 @@ Quelle: [WHO: Use of potassium iodide](https://www.who.int/news-room/questions-a
 2. Bewahren Sie sie in der Originalverpackung an einem festen Ort auf.
 3. Lesen Sie schon jetzt die Packungsbeilage und besprechen Sie Zweifel mit Ihrem Hausarzt.
 4. Bei einem Unfall: Gehen Sie zuerst hinein und bleiben Sie drinnen.
-5. Nehmen Sie die Tabletten nur ein, wenn die belgischen Behörden es sagen, zu dem Zeitpunkt, den sie nennen.
+5. Nehmen Sie die Tabletten nur ein, wenn die belgischen Behörden es sagen, zu dem Zeitpunkt, den sie nennen. Sie erfahren es im Radio, über Lautsprecherwagen der Polizei oder, wenn das Netz funktioniert, über BE-Alert.
 6. Bleiben Sie danach drinnen, bis die Behörden sagen, dass es sicher ist.
 
-Quelle: [Nuklearrisiko: Jodtabletten](https://nuklearrisiko.be/de/jodtabletten) · [Nuklearrisiko: Wann einnehmen](https://nuklearrisiko.be/de/jodtabletten/wann-einnehmen) · [Nationales Krisenzentrum: Zwischenfall in einem Kernkraftwerk](https://krisenzentrum.be/de/risiken-belgien/technologische-risiken/zwischenfall-einer-nuklearanlage)
+Quelle: [Nuklearrisiko: Jodtabletten](https://nuklearrisiko.be/de/jodtabletten) · [Nuklearrisiko: Wann einnehmen](https://nuklearrisiko.be/de/jodtabletten/wann-einnehmen) · [Nuklearrisiko: häufig gestellte Fragen](https://nuklearrisiko.be/de/faq) · [Nuklearrisiko: Warnung und Schutz der Bevölkerung](https://nuklearrisiko.be/de/was-tun-die-behoerden/warnung-und-schutz-der-bevoelkerung) · [Nationales Krisenzentrum: Zwischenfall in einem Kernkraftwerk](https://krisenzentrum.be/de/risiken-belgien/technologische-risiken/zwischenfall-einer-nuklearanlage)

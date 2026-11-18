@@ -10,6 +10,10 @@ const t = APP[taal].info;
 const landen = landenVoor(taal);
 const tl = APP[taal].landen;
 const l = (x: { lang: string }) => (x.lang !== taal ? x.lang : undefined);
+// De radio eerst: die werkt nog op batterijen als stroom, gsm en internet uitvallen.
+// De index blijft die uit de landinfo, zodat bewaarde vinkjes op hun plaats blijven.
+const geordend = (land: (typeof landen)[number]) =>
+  land.kanalen.map((k, i) => ({ k, i })).sort((a, b) => Number(b.k.radio) - Number(a.k.radio));
 ---
 <App taal={taal} titel={t.titel} tab="meer" vertaalmelding>
   <h1>{t.h1}</h1>
@@ -19,12 +23,12 @@ const l = (x: { lang: string }) => (x.lang !== taal ? x.lang : undefined);
       <h2>{land.naam}</h2>
       <h3>{t.voorbereiding}</h3>
       <ul class="vinklijst" data-lijst={land.code === 'be' ? 'info-voorbereiden' : `info-voorbereiden-${land.code}`}>
-        {land.kanalen.map((k, i) => (
+        {geordend(land).map(({ k, i }) => (
           <li><input type="checkbox" id={`k-${land.code}-${i}`} /><label for={`k-${land.code}-${i}`} lang={l(k.voorbereiden)}>{k.voorbereiden.tekst}</label></li>
         ))}
       </ul>
       <h3>{t.kanalen}</h3>
-      {land.kanalen.map((k) => (
+      {geordend(land).map(({ k }) => (
         <div class="kaart-blok">
           <h4 style="margin:0 0 .3rem">{k.naam} <span class="label" lang={l(k.soort)}>{k.soort.tekst}</span></h4>
           <p lang={l(k.wat)}>{k.wat.tekst}</p>

@@ -3,7 +3,7 @@ titel: Fractures, sprains and dislocations
 volgorde: 8
 kort: "Keep the injury still in the position in which you find it, cool for no more than 20 minutes and never straighten anything yourself."
 status: concept
-datum: "2026-11-17"
+datum: "2026-11-18"
 bronnen:
   - naam: "Gezondheid en Wetenschap (Rode Kruis-Vlaanderen): First aid for fractures"
     url: https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-breuken
@@ -13,8 +13,12 @@ bronnen:
     url: https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-ontwrichting
   - naam: "IFRC: International first aid, resuscitation, and education guidelines 2020"
     url: https://www.ifrc.org/sites/default/files/2022-02/EN_GFARC_GUIDELINES_2020.pdf
+  - naam: "European Resuscitation Council Guidelines 2021: First aid"
+    url: https://cprguidelines-old.erc.edu/assets/guidelines/European-Resuscitation-Council-Guidelines-2021-Fi.pdf
+  - naam: "112.be: Frequently asked questions"
+    url: https://112.be/en/frequently-asked-questions
 vertaling: machine
-origineel_datum: "2026-11-17"
+origineel_datum: "2026-11-18"
 ---
 
 ## Recognise
@@ -60,7 +64,7 @@ Source: [Gezondheid en Wetenschap: Fractures](https://www.gezondheidenwetenschap
 4. Cool the injury for no more than 20 minutes, with ice cubes in a bag of water or a cold pack. If you have no ice, use cold water. Wrap the ice in a thin cloth and never put it directly on the skin.
 5. Stop cooling if it bothers the casualty. If the pain comes back, you may cool again as soon as the skin is back to a normal temperature.
 6. Check whether there is bleeding, external or internal, and watch for signs of shock, especially with a fracture of the thigh bone (see topic 6).
-7. Call 112 for a fracture of the leg, ankle or foot. With a closed fracture of the arm, wrist or hand, the casualty may go to hospital on their own.
+7. Call 112 or have someone call for a fracture of the leg, ankle or foot. If you cannot get through, see Call 112 if. With a closed fracture of the arm, wrist or hand, the casualty may go to hospital on their own.
 8. Write down the time of the injury. That helps the doctor.
 
 ### Open fracture
@@ -69,7 +73,7 @@ Source: [Gezondheid en Wetenschap: Fractures](https://www.gezondheidenwetenschap
 2. Moisten a sterile dressing with water or with a water-based, non-staining antiseptic and cover the fracture with it.
 3. Do not put ice on an open fracture.
 4. Keep the limb still and treat for shock.
-5. Call 112.
+5. Call 112 or have someone call.
 
 ### Sprain
 
@@ -117,7 +121,12 @@ Source: [IFRC Guidelines 2020](https://www.ifrc.org/sites/default/files/2022-02/
 
 See a doctor if the swelling is very pronounced, the limb is in an abnormal position or is abnormally mobile or immobile, there are sensory disturbances (tingling, pins and needles, a foot that has gone to sleep), the pain does not go away after 20 minutes of cooling or there are signs of compartment syndrome.
 
-Source: [Gezondheid en Wetenschap: Fractures](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-breuken) · [Gezondheid en Wetenschap: Sprains](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-verstuiking) · [Gezondheid en Wetenschap: Dislocations](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-ontwrichting) · [IFRC Guidelines 2020](https://www.ifrc.org/sites/default/files/2022-02/EN_GFARC_GUIDELINES_2020.pdf)
+**If you cannot get through**
+
+- Only leave the casualty alone if there is no other option. Point directly at a bystander to get help and tell them where it is, what happened, how many casualties there are and what condition they are in.
+- See also topic 1 (If you cannot get through: getting help without a phone) and Emergency numbers in the app, If you cannot call.
+
+Source: [Gezondheid en Wetenschap: Fractures](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-breuken) · [Gezondheid en Wetenschap: Sprains](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-verstuiking) · [Gezondheid en Wetenschap: Dislocations](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-ontwrichting) · [IFRC Guidelines 2020](https://www.ifrc.org/sites/default/files/2022-02/EN_GFARC_GUIDELINES_2020.pdf) · [ERC Guidelines 2021: First aid](https://cprguidelines-old.erc.edu/assets/guidelines/European-Resuscitation-Council-Guidelines-2021-Fi.pdf) · [112.be: Frequently asked questions](https://112.be/en/frequently-asked-questions)
 
 ## Do not
 

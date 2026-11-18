@@ -4,7 +4,7 @@ module: nucleair
 volgorde: 3
 kort: "Wat officiële civiele-beschermingsgidsen zeggen over een kernwapen, een vuile bom en andere radiologische incidenten: de eerste seconden, minuten, uren en dagen."
 status: concept
-datum: "2026-11-17"
+datum: "2026-11-18"
 bronnen:
   - naam: "Nationaal Crisiscentrum: Vrijkomen van nucleaire stoffen"
     url: https://crisiscentrum.be/nl/risicos-belgie/economische-en-technologische-risicos/vrijkomen-van-nucleaire-stoffen
@@ -22,6 +22,10 @@ bronnen:
     url: https://nucleairrisico.be/nl/nucleaire-risicos/nucleaire-transporten
   - naam: "Nucleair risico: Jezelf ontsmetten"
     url: https://nucleairrisico.be/nl/wat-kan-jij-doen/jezelf-ontsmetten
+  - naam: "112.be: Veelgestelde vragen"
+    url: https://112.be/nl/veelgestelde-vragen
+  - naam: "FOD Economie: vragen van gezinnen over elektriciteitsschaarste"
+    url: https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door
   - naam: "MCF: In case of crisis or war (brochure)"
     url: https://rib.msb.se/filer/pdf/31523.pdf
   - naam: "MCF: Good to know about civil defence shelters"
@@ -63,14 +67,14 @@ Het Nationaal Crisiscentrum heeft geen aparte pagina over kernwapens. Voor het v
 - Schuilen is de beste manier om je te beschermen.
 - Ga naar binnen in het dichtstbijzijnde gebouw en blijf binnen tot je bericht krijgt dat het veilig is.
 - Sluit ramen en deuren en zet ventilatiesystemen af. Neem plaats in een centrale ruimte op het gelijkvloers. Muren en plafonds beschermen beter dan ramen.
-- Luister naar de overheid via radio, tv, officiële websites en sociale media.
+- Luister naar de overheid via de radio, liefst een radio op batterijen of een opwindbare radio. Werkt het internet, kijk dan ook op de officiële websites en sociale media.
 - Laat je kinderen op school.
 - Evacueer nooit op eigen initiatief.
 - Neem jodiumtabletten alleen op instructie van de overheid.
 
 Voor de drukgolf, het puin en de hitte van een kernwapen geeft België geen specifieke richtlijn. De rest van deze gids volgt daarom de civiele bescherming van Zweden (MCF), Finland, Zwitserland (BABS), Duitsland (BBK), Oekraïne en de Verenigde Staten (Ready.gov, CDC). Die adviezen zijn bedoeld voor oorlog of een aanslag en kunnen afwijken van het Belgische advies bij een ongeval in een kerncentrale. Volg altijd de instructies van de Belgische overheid op het moment zelf.
 
-Bron: [Nationaal Crisiscentrum: Vrijkomen van nucleaire stoffen](https://crisiscentrum.be/nl/risicos-belgie/economische-en-technologische-risicos/vrijkomen-van-nucleaire-stoffen) · [Nationaal Crisiscentrum: Vrijkomen van radioactieve stoffen](https://crisiscentrum.be/nl/risicos-belgie/economische-en-technologische-risicos/vrijkomen-van-radioactieve-stoffen) · [Nationaal Crisiscentrum: Aanval op een CBRNe-infrastructuur](https://crisiscentrum.be/nl/risicos-belgie/man-made-risicos/aanval-op-een-cbrne-infrastructuur)
+Bron: [Nationaal Crisiscentrum: Vrijkomen van nucleaire stoffen](https://crisiscentrum.be/nl/risicos-belgie/economische-en-technologische-risicos/vrijkomen-van-nucleaire-stoffen) · [Nationaal Crisiscentrum: Vrijkomen van radioactieve stoffen](https://crisiscentrum.be/nl/risicos-belgie/economische-en-technologische-risicos/vrijkomen-van-radioactieve-stoffen) · [Nationaal Crisiscentrum: Aanval op een CBRNe-infrastructuur](https://crisiscentrum.be/nl/risicos-belgie/man-made-risicos/aanval-op-een-cbrne-infrastructuur) · [Nationaal Crisiscentrum: brochure Samen voorbereid](https://crisiscentrum.be/sites/default/files/documents/files/WEB-Brochure%20Samen%20voorbereid-NL.pdf)
 
 ## De gevaren van een kernwapen
 
@@ -143,10 +147,10 @@ Bron: [Ready.gov: Radiation emergencies](https://www.ready.gov/radiation) · [CD
 - **Huisdieren en assistentiedieren binnen** (Ready.gov, CDC).
 - **Was je af** als je buiten was toen de neerslag viel (zie verder).
 - **Eet en drink veilig:** flessenwater en voedsel in gesloten verpakkingen (CDC).
-- **Blijf op de hoogte** via radio, tv, telefoon en andere kanalen. De hulpdiensten zeggen waar je je kunt laten onderzoeken op besmetting (CDC).
+- **Blijf op de hoogte** via radio en tv; werkt het netwerk, ook via je telefoon en andere kanalen. De hulpdiensten zeggen waar je je kunt laten onderzoeken op besmetting (CDC). Valt de stroom uit, dan helpt een radio op batterijen of een opwindbare radio (Crisiscentrum).
 - **Ga je familie niet ophalen.** Blijf waar je bent (CDC).
 
-Bron: [Ready.gov: Radiation emergencies](https://www.ready.gov/radiation) · [CDC: What to do, get inside](https://cdc.gov/radiation-emergencies/response/get-inside.html)
+Bron: [Ready.gov: Radiation emergencies](https://www.ready.gov/radiation) · [CDC: What to do, get inside](https://cdc.gov/radiation-emergencies/response/get-inside.html) · [Nationaal Crisiscentrum: brochure Samen voorbereid](https://crisiscentrum.be/sites/default/files/documents/files/WEB-Brochure%20Samen%20voorbereid-NL.pdf)
 
 ## De eerste 24 uur en de eerste dagen
 
@@ -248,7 +252,9 @@ Op Belgisch grondgebied worden jaarlijks ongeveer 400.000 pakjes met radioactiev
 - Raak geen lading uit de container aan.
 - Volg de instructies; de overheid kan vragen om te schuilen.
 
-Bron: [CDC: What to do for different types of radiation emergencies](https://www.cdc.gov/radiation-emergencies/about/what-to-do.html) · [Nucleair risico: Nucleaire transporten](https://nucleairrisico.be/nl/nucleaire-risicos/nucleaire-transporten) · [Nationaal Crisiscentrum: Aanval op een soft target](https://crisiscentrum.be/nl/risicos-belgie/man-made-risicos/aanval-op-een-soft-target)
+Lukt bellen niet, laat iemand anders bellen of vraag hulp in je buurt (zie Noodnummers in de app, Als bellen niet lukt).
+
+Bron: [CDC: What to do for different types of radiation emergencies](https://www.cdc.gov/radiation-emergencies/about/what-to-do.html) · [Nucleair risico: Nucleaire transporten](https://nucleairrisico.be/nl/nucleaire-risicos/nucleaire-transporten) · [Nationaal Crisiscentrum: Aanval op een soft target](https://crisiscentrum.be/nl/risicos-belgie/man-made-risicos/aanval-op-een-soft-target) · [112.be: Veelgestelde vragen](https://112.be/nl/veelgestelde-vragen) · [FOD Economie: vragen van gezinnen over elektriciteitsschaarste](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door)
 
 ## Kinderen, kwetsbare personen en dieren
 
@@ -260,13 +266,13 @@ Bron: [CDC: What to do, get inside](https://cdc.gov/radiation-emergencies/respon
 
 ## Voorbereiden
 
-- **Weet hoe je gewaarschuwd wordt.** Schrijf je in op BE-Alert. Hou een radio op batterijen of een opwindbare radio klaar (Crisiscentrum). Ready.gov raadt aan meerdere manieren te hebben om waarschuwingen te krijgen.
+- **Weet hoe je gewaarschuwd wordt.** Hou een radio op batterijen of een opwindbare radio klaar, liefst met DAB+ en FM. Schrijf je in op BE-Alert (Crisiscentrum). Ready.gov raadt aan meerdere manieren te hebben om waarschuwingen te krijgen.
 - **Ken je beste plek thuis en op het werk:** kelder of het midden van het gebouw, en een ondergrondse ruimte in de buurt.
 - **Leg klaar:** water, gesloten voedsel, medicatie, een set reservekleding per gezinslid en een vuilniszak voor besmette kleding (Ready.gov).
 - **Maak een communicatieplan:** waar je elkaar treft als je niet thuis kunt afspreken, een contactpersoon ver weg, en ken de schuil- en evacuatieplannen van school, werk en zorginstelling (Ready.gov).
 - **Finland:** leer de stappen van binnen schuilen en hoe je de ventilatie uitzet, hou tape klaar en bewaar jodiumtabletten zoals de overheid aanraadt.
 
-Bron: [Nationaal Crisiscentrum: Schuilen](https://crisiscentrum.be/nl/wat-kan-jij-doen/reageer-correct/schuilen) · [Ready.gov: Radiation emergencies](https://www.ready.gov/radiation) · [Suomi.fi: Radiation hazards](https://www.suomi.fi/guides/preparedness/how-to-prepare-for-incidents-and-crises/radiation-hazards)
+Bron: [Nationaal Crisiscentrum: Schuilen](https://crisiscentrum.be/nl/wat-kan-jij-doen/reageer-correct/schuilen) · [Nationaal Crisiscentrum: brochure Samen voorbereid](https://crisiscentrum.be/sites/default/files/documents/files/WEB-Brochure%20Samen%20voorbereid-NL.pdf) · [Ready.gov: Radiation emergencies](https://www.ready.gov/radiation) · [Suomi.fi: Radiation hazards](https://www.suomi.fi/guides/preparedness/how-to-prepare-for-incidents-and-crises/radiation-hazards)
 
 ## Niet doen
 

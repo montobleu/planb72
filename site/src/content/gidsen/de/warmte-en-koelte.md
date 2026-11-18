@@ -4,7 +4,7 @@ module: warmte
 volgorde: 1
 kort: "Wie Sie bei Kälte ohne Heizung warm bleiben (ein Raum, Kleidung in Schichten, warm schlafen), wie Sie sicher heizen ohne Kohlenmonoxidvergiftung und wie Sie bei Hitze kühl bleiben, wenn es keinen Strom gibt."
 status: concept
-datum: "2026-11-17"
+datum: "2026-11-18"
 bronnen:
   - naam: "Nationales Krisenzentrum: Kältewelle"
     url: "https://krisenzentrum.be/de/risiken-belgien/naturrisiken/kaeltewelle-0"
@@ -38,8 +38,18 @@ bronnen:
     url: "https://www.ready.gov/power-outages"
   - naam: "Ready.gov: People with Disabilities"
     url: "https://www.ready.gov/disability"
+  - naam: "FÖD Wirtschaft: Häufig gestellte Fragen von Haushalten zur Stromknappheit"
+    url: "https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door"
+  - naam: "Rotes Kreuz Flandern: Strom- und Kommunikationsausfall"
+    url: "https://www.rodekruis.be/wat-doen-we/hulp-in-vlaanderen/goed-voorbereid/stroom-en-communicatie-uitval/"
+  - naam: "112.be: Häufig gestellte Fragen"
+    url: "https://112.be/de/haeufig-gestellte-fragen"
+  - naam: "ERC Guidelines 2021: First aid"
+    url: "https://cprguidelines-old.erc.edu/assets/guidelines/European-Resuscitation-Council-Guidelines-2021-Fi.pdf"
+  - naam: "IFRC: International First Aid, Resuscitation and Education Guidelines 2020"
+    url: "https://www.ifrc.org/sites/default/files/2022-02/EN_GFARC_GUIDELINES_2020.pdf"
 vertaling: machine
-origineel_datum: "2026-11-17"
+origineel_datum: "2026-11-18"
 ---
 
 Fällt der Strom aus, fällt oft auch die Heizung aus. Die OFF-ON-Broschüre des Krisenzentrums nennt die Abschaltung von Heizkesseln und Umwälzpumpen ausdrücklich als Folge einer Stromunterbrechung. Das BBK schreibt: Ohne Strom funktioniert Ihre Heizung vielleicht nicht, und im Winter kühlen Räume schnell aus. Im Sommer funktionieren Ventilatoren und Klimaanlage nicht. Dieser Leitfaden behandelt beide Situationen.
@@ -77,9 +87,10 @@ In der Reihenfolge, in der die Quellen sie zuerst nennen.
 
 **2. In einem Raum leben**
 
+- Schließen Sie Fenster und Türen und bleiben Sie möglichst in einem Raum (Rotes Kreuz Flandern).
 - Wählen Sie möglichst einen Raum zum Aufenthalt und halten Sie die Türen geschlossen, damit die Wärme nicht entweicht (BBK).
 - Kommen Sie in einem Raum zusammen (MCF).
-- Bei einer Stromunterbrechung können Sie mit mehreren Personen zusammenkommen, um Licht und Wärme zu teilen (Krisenzentrum).
+- Bei einer Stromunterbrechung können Sie mit mehreren Personen zusammenkommen, um Licht und Wärme zu teilen. Vereinbaren Sie im Voraus mit Ihren Nachbarn, bei wem Sie unterkommen können und welche Dinge Sie teilen (Krisenzentrum).
 
 Welchen Raum die Quellen empfehlen, sagen sie nicht. Wählen Sie einen Raum, den Sie lüften können: Auch in einem einzigen Raum bleibt regelmäßiges Lüften nötig (siehe unten).
 
@@ -97,7 +108,8 @@ Welchen Raum die Quellen empfehlen, sagen sie nicht. Wählen Sie einen Raum, den
 
 **5. An einen warmen Ort gehen**
 
-- Gehen Sie an einen Ort in der Gemeinde mit Strom, wenn Hitze oder Kälte extrem sind (Ready.gov). Fragen Sie die lokalen Behörden, welche warmen oder kühlen Orte geöffnet sind.
+- Gehen Sie an einen Ort in der Gemeinde mit Strom, wenn Hitze oder Kälte extrem sind (Ready.gov). Ready.gov empfiehlt, bei den lokalen Behörden nachzufragen, welche warmen oder kühlen Orte geöffnet sind.
+- In Belgien haben Bürgermeister und Gouverneure für eine Abschaltung Notmaßnahmen vorbereitet, etwa eine Informations- und Anlaufstelle für die Bevölkerung. Fragen Sie Ihre Gemeinde im Voraus, welche Lösungen sie vorsieht. Während des Ausfalls verfolgen Sie die Informationen der Behörden über ein batteriebetriebenes Radio oder das Autoradio, oder Sie bitten in Ihrer Nachbarschaft um Hilfe (FÖD Wirtschaft).
 
 **Was nicht**
 
@@ -105,7 +117,7 @@ Welchen Raum die Quellen empfehlen, sagen sie nicht. Wählen Sie einen Raum, den
 - Holen Sie keinen Grill ins Haus, um zu heizen (Antigiftzentrum).
 - Verwenden Sie Generatoren nur im Freien (Ready.gov). Siehe den Leitfaden zu Licht und Energie.
 
-Quelle: [Nationales Krisenzentrum: OFF ON](https://krisenzentrum.be/sites/default/files/documents/files/OffOn-triptyque-D.pdf) · [Nationales Krisenzentrum: Kältewelle](https://krisenzentrum.be/de/risiken-belgien/naturrisiken/kaeltewelle-0) · [Nationales Krisenzentrum: Ein Notfallpaket bei Ihnen zu Hause](https://krisenzentrum.be/de/was-koennen-sie-tun/stelle-ein-notfallpaket-zusammen/ein-notfallset-fuer-zu-hause) · [BBK: Vorsorgen für Krisen und Katastrophen](https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/Buergerinformationen/Ratgeber/BBK-Vorsorgen-fuer-Krisen-und-Katastrophen.pdf?__blob=publicationFile&v=44) · [BBK: Vorsorge und Handeln bei Stromausfall](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Vorsorge/Stromausfall/stromausfall_node.html) · [MCF: In case of crisis or war](https://rib.msb.se/filer/pdf/31523.pdf) · [Denk vooruit: Informationsheft](https://www.denkvooruit.nl/site/binaries/site-content/collections/documents/2025/11/17/informatieboekje-bereid-je-voor-op-een-noodsituatie/informatieboekje-bereid-je-voor-op-een-noodsituatie.pdf) · [Ready.gov: Power Outages](https://www.ready.gov/power-outages) · [Antigiftzentrum: CO-Vergiftung vorbeugen](https://www.poisoncentre.be/app/uploads/2026/02/Brochure-CO-vergiftiging-voorkomen-NL-1.pdf)
+Quelle: [Nationales Krisenzentrum: OFF ON](https://krisenzentrum.be/sites/default/files/documents/files/OffOn-triptyque-D.pdf) · [Nationales Krisenzentrum: Kältewelle](https://krisenzentrum.be/de/risiken-belgien/naturrisiken/kaeltewelle-0) · [Nationales Krisenzentrum: Ein Notfallpaket bei Ihnen zu Hause](https://krisenzentrum.be/de/was-koennen-sie-tun/stelle-ein-notfallpaket-zusammen/ein-notfallset-fuer-zu-hause) · [BBK: Vorsorgen für Krisen und Katastrophen](https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/Buergerinformationen/Ratgeber/BBK-Vorsorgen-fuer-Krisen-und-Katastrophen.pdf?__blob=publicationFile&v=44) · [BBK: Vorsorge und Handeln bei Stromausfall](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Vorsorge/Stromausfall/stromausfall_node.html) · [MCF: In case of crisis or war](https://rib.msb.se/filer/pdf/31523.pdf) · [Denk vooruit: Informationsheft](https://www.denkvooruit.nl/site/binaries/site-content/collections/documents/2025/11/17/informatieboekje-bereid-je-voor-op-een-noodsituatie/informatieboekje-bereid-je-voor-op-een-noodsituatie.pdf) · [Ready.gov: Power Outages](https://www.ready.gov/power-outages) · [Antigiftzentrum: CO-Vergiftung vorbeugen](https://www.poisoncentre.be/app/uploads/2026/02/Brochure-CO-vergiftiging-voorkomen-NL-1.pdf) · [Rotes Kreuz Flandern: Strom- und Kommunikationsausfall](https://www.rodekruis.be/wat-doen-we/hulp-in-vlaanderen/goed-voorbereid/stroom-en-communicatie-uitval/) · [FÖD Wirtschaft: Fragen von Haushalten zur Stromknappheit](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door)
 
 ## Lüften, auch wenn es kalt ist
 
@@ -175,14 +187,16 @@ Quelle: [Antigiftzentrum: CO-Vergiftung vorbeugen](https://www.poisoncentre.be/a
 **Was Sie tun (Antigiftzentrum)**
 
 1. Betreten Sie nie einen Raum, in dem ein bewusstloses Opfer liegt. Schützen Sie sich selbst.
-2. Rufen Sie sofort die Hilfsdienste an.
+2. Rufen Sie sofort die Hilfsdienste an oder lassen Sie jemanden anrufen. Kommt kein Anruf zustande, siehe Notrufnummern in der App, Wenn kein Anruf möglich ist.
 3. Öffnen Sie Fenster und Türen, wenn Sie das ohne Risiko für sich selbst können.
 4. Ist das Opfer bewusstlos: Rufen Sie 112 an und sagen Sie, dass es sich vermutlich um CO handelt. Schalten Sie wenn möglich das Gerät aus. Bringen Sie das Opfer aus dem Raum. Atmet das Opfer nicht mehr, beatmen Sie es von Mund zu Mund; das ist laut Antigiftzentrum sicher. Atmet es noch, legen Sie es ohne Kopfkissen auf die Seite.
-5. Ist das Opfer bei Bewusstsein: Rufen Sie den Hausarzt an.
+5. Ist das Opfer bei Bewusstsein: Rufen Sie den Hausarzt an, wenn das Netz funktioniert.
 
-Das Antigiftzentrum ist 24/24 kostenlos unter 070 245 245 erreichbar. Siehe auch die Szenariokarte zu CO.
+Kommt kein Anruf zustande: Lassen Sie das Opfer nur allein, wenn es keine andere Möglichkeit gibt, und bestimmen Sie einen Umstehenden oder Nachbarn, der Hilfe holt. Geben Sie mit, wo es ist, was passiert ist (vermutlich CO), wie viele Opfer es gibt und in welchem Zustand sie sind.
 
-Quelle: [Antigiftzentrum: CO-Vergiftung vorbeugen](https://www.poisoncentre.be/app/uploads/2026/02/Brochure-CO-vergiftiging-voorkomen-NL-1.pdf)
+Das Antigiftzentrum ist 24/24 kostenlos unter 070 245 245 erreichbar, wenn das Netz funktioniert. Notieren Sie die Nummer im Voraus auf Ihrer Liste auf Papier. Siehe auch die Szenariokarte zu CO.
+
+Quelle: [Antigiftzentrum: CO-Vergiftung vorbeugen](https://www.poisoncentre.be/app/uploads/2026/02/Brochure-CO-vergiftiging-voorkomen-NL-1.pdf) · [ERC Guidelines 2021: First aid](https://cprguidelines-old.erc.edu/assets/guidelines/European-Resuscitation-Council-Guidelines-2021-Fi.pdf) · [IFRC Guidelines 2020](https://www.ifrc.org/sites/default/files/2022-02/EN_GFARC_GUIDELINES_2020.pdf) · [112.be: Häufig gestellte Fragen](https://112.be/de/haeufig-gestellte-fragen)
 
 ## Brand beim Heizen und durch Kerzen
 
@@ -233,7 +247,7 @@ Eine Hitzewelle ist laut Krisenzentrum ein Zeitraum von mindestens fünf aufeina
 
 **Vor der Hitze (Krisenzentrum)**
 
-- Verfolgen Sie die Wettervorhersage des KMI.
+- Verfolgen Sie die Wettervorhersage des KMI, zum Beispiel über Radio oder Fernsehen.
 - Gehören Sie zu einer Risikogruppe, etwa als Herzpatient oder älterer Mensch, fragen Sie Ihren Hausarzt nach den Risiken.
 - Fragen Sie Ihren Arzt oder Apotheker, ob Wärme Ihre Medikamente nachteilig beeinflussen kann.
 - Besuchen Sie Menschen, die Hilfe brauchen, um ihnen bei der Vorbereitung zu helfen.
@@ -272,13 +286,13 @@ Ready.gov:
 
 | | Anzeichen | Was Sie tun |
 | --- | --- | --- |
-| Hitzekrämpfe | Muskelschmerzen oder Krämpfe in Bauch, Armen oder Beinen | gehen Sie an einen kühleren Ort, ziehen Sie überflüssige Kleidung aus, trinken Sie kleine Schlucke Wasser oder Sportgetränk; rufen Sie Ihren Arzt an, wenn es schlimmer wird oder länger als eine Stunde dauert |
+| Hitzekrämpfe | Muskelschmerzen oder Krämpfe in Bauch, Armen oder Beinen | gehen Sie an einen kühleren Ort, ziehen Sie überflüssige Kleidung aus, trinken Sie kleine Schlucke Wasser oder Sportgetränk; rufen Sie Ihren Arzt an, wenn es schlimmer wird oder länger als eine Stunde dauert, wenn das Netz funktioniert |
 | Hitzeerschöpfung | starkes Schwitzen, Blässe, Muskelkrämpfe, Müdigkeit, Schwäche, schneller oder schwacher Puls, Schwindel, Kopfschmerzen, Ohnmacht, Übelkeit, Erbrechen | wie bei Hitzekrämpfen |
 | Hitzschlag | die Quelle nennt hier keine gesonderten Anzeichen | rufen Sie 112 an oder bringen Sie die Person in ein Krankenhaus; bringen Sie sie an einen kühlen, schattigen Ort; ziehen Sie die Oberbekleidung aus; legen Sie kalte nasse Tücher oder Eis auf Kopf, Nacken, Achseln und Leiste oder befeuchten Sie die Kleidung mit kühlem Wasser; lagern Sie die Füße hoch |
 
-Das Krisenzentrum: Haben Sie Krämpfe, hohes Fieber, Kopfschmerzen oder werden Sie ohnmächtig, rufen Sie Ihren Hausarzt an. Rufen Sie 112 nur in einer lebensbedrohlichen Situation an.
+Das Krisenzentrum: Haben Sie Krämpfe, hohes Fieber, Kopfschmerzen oder werden Sie ohnmächtig, rufen Sie Ihren Hausarzt an. Rufen Sie 112 nur in einer lebensbedrohlichen Situation an. Kommt kein Anruf zustande, lassen Sie jemand anderen anrufen oder bitten Sie in Ihrer Nachbarschaft um Hilfe (siehe Notrufnummern, Wenn kein Anruf möglich ist). Bei einem Hitzschlag nennt Ready.gov außerdem: Bringen Sie die Person in ein Krankenhaus.
 
-Quelle: [Ready.gov: Extreme Heat](https://www.ready.gov/heat) · [Nationales Krisenzentrum: Hitzewelle](https://krisenzentrum.be/de/risiken-belgien/naturrisiken/hitzewellesommerhitze)
+Quelle: [Ready.gov: Extreme Heat](https://www.ready.gov/heat) · [Nationales Krisenzentrum: Hitzewelle](https://krisenzentrum.be/de/risiken-belgien/naturrisiken/hitzewellesommerhitze) · [FÖD Wirtschaft: Fragen von Haushalten zur Stromknappheit](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door) · [112.be: Häufig gestellte Fragen](https://112.be/de/haeufig-gestellte-fragen)
 
 ## Hitze nach Person
 
@@ -286,7 +300,7 @@ Quelle: [Ready.gov: Extreme Heat](https://www.ready.gov/heat) · [Nationales Kri
 - **Querschnittslähmung.** Der Körper kann sich manchmal nicht durch Schwitzen abkühlen (Ready.gov).
 - **Schwere psychische Erkrankungen.** Medikamente können die Abkühlung des Körpers stören (Ready.gov).
 - **Demenz und geistige Behinderung.** Die Person kann schwer verstehen oder erklären, wie die Hitze sie betrifft (Ready.gov). Bitten Sie pflegende Angehörige, Familie und Freunde, regelmäßig vorbeizukommen.
-- **Elektrische medizinische Geräte.** Fragen Sie Ihren Energieversorger nach Vorrang bei Stromausfall (Ready.gov). Siehe den Leitfaden zu Medikamenten und Pflege.
+- **Elektrische medizinische Geräte.** Fragen Sie Ihren Energieversorger nach Vorrang bei Stromausfall (Ready.gov). Können Sie mit Ihren medizinischen Bedürfnissen nicht zu Hause bleiben und auch nicht an einen gewöhnlichen kühlen Ort gehen, erstellen Sie im Voraus einen Plan mit einem Krankenhaus oder einem Wohn- und Pflegezentrum in der Nähe (Ready.gov). Siehe den Leitfaden zu Medikamenten und Pflege.
 - **Haustiere.** Sorgen Sie für viel kühles Wasser und Schatten. Asphalt kann für die Pfoten zu heiß sein (Ready.gov).
 - **Nachbarn.** Schauen Sie nach Familie, älteren Menschen und Nachbarn (Ready.gov).
 

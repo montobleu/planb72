@@ -4,11 +4,11 @@ volgorde: 4
 kort: "Code Gelb, Orange oder Rot für Wind oder Gewitter: schwere Windböen, herabfallende Äste, Blitz."
 stappen:
   - "Stellen oder binden Sie lose Gegenstände in Garten und auf der Terrasse fest oder bringen Sie sie herein, bevor der Sturm kommt. Holen Sie Haustiere herein."
-  - "Bleiben Sie während des Sturms drinnen, schließen Sie Fenster und Türen und halten Sie sich von Fenstern fern. Verschieben Sie Fahrten."
+  - "Bleiben Sie während des Sturms drinnen, schließen Sie Fenster und Türen und halten Sie sich von Fenstern fern. Verschieben Sie Fahrten. Hören Sie den Wetterbericht im Radio, auch batteriebetrieben, wenn der Strom ausfällt."
   - "Halten Sie sich von Wäldern und Parks fern und weg von Bäumen, Gerüsten und Metallkonstruktionen. Suchen Sie nie unter einem Baum Schutz."
   - "Ziehen Sie bei Gewitter den Stecker elektronischer Geräte."
-  - "Fordern Sie nicht dringende Hilfe der Feuerwehr über 1722.be an oder unter 1722, wenn diese Nummer aktiv ist. Rufen Sie die 112 nur bei Lebensgefahr an."
   - "Berühren Sie nie eine heruntergefallene Stromleitung."
+  - "Rufen Sie die 112 nur bei Lebensgefahr an. Gelingt das nicht, lassen Sie jemand anderen anrufen oder bitten Sie in Ihrer Nachbarschaft um Hilfe (siehe Notrufnummern, Wenn kein Anruf möglich ist). Nicht dringende Hilfe der Feuerwehr: Funktioniert das Netz, fordern Sie sie über 1722.be an, oder rufen Sie die 1722 an, wenn diese Nummer aktiv ist."
   - "Fotografieren Sie die Schäden und benachrichtigen Sie so schnell wie möglich Ihren Versicherer."
 niet:
   - "Keinen Schutz unter einem Baum suchen und nicht bei Bäumen parken."
@@ -17,7 +17,7 @@ niet:
   - "Keine heruntergefallenen Leitungen berühren."
   - "Nicht die 112 für gewöhnliche Sturmschäden anrufen."
 status: concept
-datum: "2026-11-17"
+datum: "2026-11-18"
 bronnen:
   - naam: "Nationales Krisenzentrum: Wind und Sturm"
     url: https://krisenzentrum.be/de/risiken-belgien/naturrisiken/wind-und-sturm
@@ -51,8 +51,18 @@ bronnen:
     url: https://www.ready.gov/thunderstorms-lightning
   - naam: "CDC: what to do to protect yourself during a power outage"
     url: https://www.cdc.gov/natural-disasters/response/what-to-do-protect-yourself-during-a-power-outage.html
+  - naam: "Nationales Krisenzentrum: ein Plan für Ihre Nachbarschaft"
+    url: https://krisenzentrum.be/de/was-koennen-sie-tun/erstellen-sie-einen-plan/ein-plan-ihrem-viertel-oder-ihrem-verein
+  - naam: "112.be: Häufig gestellte Fragen"
+    url: https://112.be/de/haeufig-gestellte-fragen
+  - naam: "FÖD Wirtschaft: Fragen von Haushalten zur Stromknappheit"
+    url: https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door
+  - naam: "BBK: Vorsorgen für Krisen und Katastrophen"
+    url: https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/Buergerinformationen/Ratgeber/BBK-Vorsorgen-fuer-Krisen-und-Katastrophen.pdf?__blob=publicationFile&v=44
+  - naam: "Inspektionen (Niederlande): Nichterreichbarkeit der 112 am 24. Juni 2019"
+    url: https://zoek.officielebekendmakingen.nl/blg-942150.pdf
 vertaling: machine
-origineel_datum: "2026-11-17"
+origineel_datum: "2026-11-18"
 ---
 
 ## Erkennen
@@ -109,29 +119,36 @@ Quelle: [Nationales Krisenzentrum: Wind und Sturm](https://krisenzentrum.be/de/r
 
 - Bleiben Sie drinnen und schließen Sie Fenster und Türen. Drinnen ist es am sichersten.
 - Halten Sie sich von Fenstern, Türen und Außenwänden fern. Achten Sie auf umherfliegende Trümmer.
-- Hören Sie den Wetterbericht und befolgen Sie die Empfehlungen.
+- Hören Sie den Wetterbericht und befolgen Sie die Empfehlungen. Fällt der Strom aus, benutzen Sie ein batteriebetriebenes Radio oder das Autoradio.
 
 **Bei Gewitter**
 
 - Schalten Sie elektronische Geräte aus und ziehen Sie den Stecker.
 - Benutzen Sie keine Geräte, die an der Steckdose hängen, und meiden Sie fließendes Wasser.
 
-**Hilfe anfordern: Wen rufen Sie an?**
+**Hilfe anfordern: Wen benachrichtigen Sie?**
 
 | Situation | Was tun |
 |---|---|
-| Jemand ist in Lebensgefahr, oder es besteht Brandgefahr | Rufen Sie die 112 an. |
-| Sie brauchen die Feuerwehr, ohne Lebensgefahr (losgerissene Dachziegel, ein Baum, der umzustürzen droht) | Stellen Sie einen Antrag über den digitalen Schalter 1722.be oder das Formular Ihrer Hilfeleistungszone. Rufen Sie die 1722 nur an, wenn diese Nummer aktiviert ist. |
+| Jemand ist in Lebensgefahr, oder es besteht Brandgefahr | Rufen Sie die 112 an oder lassen Sie jemanden anrufen. Kommt kein Anruf zustande, siehe unten. |
+| Sie brauchen die Feuerwehr, ohne Lebensgefahr (losgerissene Dachziegel, ein Baum, der umzustürzen droht) | Funktioniert das Netz: Stellen Sie einen Antrag über den digitalen Schalter 1722.be oder das Formular Ihrer Hilfeleistungszone. Rufen Sie die 1722 nur an, wenn diese Nummer aktiviert ist. |
 | Schaden ohne Gefahr, für den Sie die Feuerwehr nicht brauchen (umgestürzter Baum im Garten, beschädigtes Gartenhaus) | Beauftragen Sie einen Fachmann, etwa einen Dachdecker, oder reparieren Sie es selbst. |
 
-- Rufen Sie nicht die 112 für gewöhnliche Sturmschäden an. Bei Sturm und heftigem Gewitter ist die Feuerwehr überlastet. Der Schalter 1722.be ist immer verfügbar.
-- Melden Sie Schäden oder besondere Erscheinungen über die App des KMI. Das hilft dem KMI, andere zu warnen.
+- Rufen Sie nicht die 112 für gewöhnliche Sturmschäden an. Bei Sturm und heftigem Gewitter ist die Feuerwehr überlastet. Der digitale Schalter 1722.be ist immer verfügbar, auch wenn kein Sturm ist. Sie brauchen dafür allerdings Internet.
+- Funktioniert das Netz, melden Sie Schäden oder besondere Erscheinungen über die App des KMI. Das hilft dem KMI, andere zu warnen.
+
+**Kommt kein Anruf zustande**
+
+- Versuchen Sie es mit einem anderen Gerät oder lassen Sie Nachbarn oder Umstehende anrufen. Ein anderer Netzbetreiber kann helfen. Gehen Sie einige Meter weiter und versuchen Sie es erneut.
+- Können Sie noch telefonieren, ist die 112 aber nicht erreichbar, versuchen Sie die 101. Bei einer Störung der Notrufzentralen können vorübergehende Nummern pro Provinz aktiv sein (siehe den Leitfaden Notruf).
+- Funktioniert Telefonieren überhaupt nicht: Bitten Sie in Ihrer Nachbarschaft um Hilfe und verfolgen Sie die Informationen der Behörden im Radio. Die Gemeinde kann eine Informations- und Anlaufstelle öffnen; fragen Sie Ihre Gemeinde im Voraus, wo sie ist.
+- In Deutschland empfehlen die Behörden, dann wenn möglich zur nächsten Polizeidienststelle oder zum nächsten Krankenhaus zu gehen. In den Niederlanden schickten die Behörden die Bürger bei der landesweiten 112-Störung von 2019 zur nächsten Feuerwache oder Polizeidienststelle und bei medizinischen Notfällen ins Krankenhaus. Die Karte in der App zeigt sie, mit der Schaltfläche Am nächsten.
 
 **Fällt der Strom aus**
 
 - Siehe die Karte Stromausfall. Benutzen Sie eine Taschenlampe statt Kerzen.
 
-Quelle: [Nationales Krisenzentrum: Wind und Sturm](https://krisenzentrum.be/de/risiken-belgien/naturrisiken/wind-und-sturm) · [Nationales Krisenzentrum: Tornado](https://krisenzentrum.be/de/risiken-belgien/naturrisiken/tornado) · [Nationales Krisenzentrum: Blitz](https://krisenzentrum.be/de/risiken-belgien/naturrisiken/blitzschlag) · [Ready.gov: thunderstorms](https://www.ready.gov/thunderstorms-lightning) · [1722](https://www.1722.be/de/index.html) · [112.be](https://112.be/de) · [Brandweer Nederland: Sturm und Wasserschäden](https://www.brandweer.nl/onderwerpen/storm-en-wateroverlast/)
+Quelle: [Nationales Krisenzentrum: Wind und Sturm](https://krisenzentrum.be/de/risiken-belgien/naturrisiken/wind-und-sturm) · [Nationales Krisenzentrum: Tornado](https://krisenzentrum.be/de/risiken-belgien/naturrisiken/tornado) · [Nationales Krisenzentrum: Blitz](https://krisenzentrum.be/de/risiken-belgien/naturrisiken/blitzschlag) · [Ready.gov: thunderstorms](https://www.ready.gov/thunderstorms-lightning) · [1722](https://www.1722.be/de/index.html) · [112.be](https://112.be/de) · [Brandweer Nederland: Sturm und Wasserschäden](https://www.brandweer.nl/onderwerpen/storm-en-wateroverlast/) · [112.be: Häufig gestellte Fragen](https://112.be/de/haeufig-gestellte-fragen) · [FÖD Wirtschaft: Fragen von Haushalten zur Stromknappheit](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door) · [BBK: Vorsorgen für Krisen und Katastrophen](https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/Buergerinformationen/Ratgeber/BBK-Vorsorgen-fuer-Krisen-und-Katastrophen.pdf?__blob=publicationFile&v=44) · [Inspektionen: Nichterreichbarkeit der 112 am 24. Juni 2019](https://zoek.officielebekendmakingen.nl/blg-942150.pdf)
 
 ### Draußen oder unterwegs
 
@@ -178,10 +195,10 @@ Quelle: [Nationales Krisenzentrum: Wind und Sturm](https://krisenzentrum.be/de/r
 
 ### Schutzbedürftige Personen
 
-- Vereinbaren Sie mit Nachbarn, wie Sie einander helfen. Prüfen Sie, ob Nachbarn, die allein wohnen oder weniger mobil sind, Hilfe brauchen.
+- Vereinbaren Sie mit Nachbarn, wie Sie einander helfen und wie Sie einander ohne Telefon oder Internet erreichen. Prüfen Sie, ob Nachbarn, die allein wohnen oder weniger mobil sind, Hilfe brauchen.
 - Sind Sie auf strombetriebene medizinische Geräte angewiesen, rechnen Sie damit, dass der Strom ausfallen kann. Siehe die Karte Stromausfall.
 
-Quelle: [Nationales Krisenzentrum: einen Plan erstellen](https://krisenzentrum.be/de/was-koennen-sie-tun/erstellen-sie-einen-plan) · [Nationales Krisenzentrum: Wind und Sturm](https://krisenzentrum.be/de/risiken-belgien/naturrisiken/wind-und-sturm)
+Quelle: [Nationales Krisenzentrum: einen Plan erstellen](https://krisenzentrum.be/de/was-koennen-sie-tun/erstellen-sie-einen-plan) · [Nationales Krisenzentrum: Plan für Ihre Nachbarschaft](https://krisenzentrum.be/de/was-koennen-sie-tun/erstellen-sie-einen-plan/ein-plan-ihrem-viertel-oder-ihrem-verein) · [Nationales Krisenzentrum: Wind und Sturm](https://krisenzentrum.be/de/risiken-belgien/naturrisiken/wind-und-sturm)
 
 ### Haustiere und Tiere
 
@@ -201,7 +218,7 @@ Quelle: [Nationales Krisenzentrum: Wind und Sturm](https://krisenzentrum.be/de/r
 
 **Schäden**
 
-- Fordern Sie bei Bedarf Hilfe der Feuerwehr über 1722.be, das Formular Ihrer Zone oder unter 1722 an, wenn diese Nummer aktiv ist. Halten Sie die 112 für Lebensgefahr frei.
+- Brauchen Sie Hilfe der Feuerwehr ohne Lebensgefahr: Funktioniert das Netz, fordern Sie sie über 1722.be, das Formular Ihrer Zone oder unter 1722 an, wenn diese Nummer aktiv ist. Halten Sie die 112 für Lebensgefahr frei.
 - Beauftragen Sie sonst einen Fachmann oder reparieren Sie es selbst, zum Beispiel bei einem umgestürzten Baum, einem beschädigten Gartenhaus oder Hagelschaden an Ihrem Fahrzeug.
 - Fotografieren Sie die Schäden für Ihre Versicherungsakte.
 - Wenden Sie sich so schnell wie möglich an Ihren Versicherer.
@@ -222,6 +239,8 @@ Quelle: [Nationales Krisenzentrum: Wind und Sturm](https://krisenzentrum.be/de/r
 Quelle: [Nationales Krisenzentrum: Wind und Sturm](https://krisenzentrum.be/de/risiken-belgien/naturrisiken/wind-und-sturm) · [Nationales Krisenzentrum: Blitz](https://krisenzentrum.be/de/risiken-belgien/naturrisiken/blitzschlag) · [Brandweer Nederland: Gewitter](https://www.brandweer.nl/onderwerpen/onweer-donder-en-bliksem/) · [112.be](https://112.be/de)
 
 ## Mehr Informationen
+
+Vorab zu lesen, oder wenn das Internet funktioniert:
 
 - KMI: Wetterwarnungen, Erläuterung der Farbcodes und die KMI-App.
 - 1722.be: digitaler Schalter für nicht dringende Hilfe der Feuerwehr.

@@ -4,7 +4,7 @@ module: schuilen
 volgorde: 1
 kort: "Wohin Sie gehen, wovon Sie sich fernhalten und wie lange Sie bleiben: je nach Gefahr und je nach Ort, in der Reihenfolge der Präferenz."
 status: concept
-datum: "2026-11-17"
+datum: "2026-11-18"
 bronnen:
   - naam: "Nationales Krisenzentrum: Schutz suchen"
     url: https://krisenzentrum.be/de/was-koennen-sie-tun/der-richtige-reflex/schutz-suchen
@@ -36,6 +36,14 @@ bronnen:
     url: https://krisenzentrum.be/de/risiken-belgien/sicherheitsrisiken/internationaler-bewaffneter-konflikt-ibk
   - naam: "Nationales Krisenzentrum: Brand oder Einsturz eines Tunnels"
     url: https://krisenzentrum.be/de/risiken-belgien/technologische-risiken/brand-oder-einsturz-einem-tunnel
+  - naam: "Nationales Krisenzentrum: Broschüre Gemeinsam vorbereitet"
+    url: https://krisenzentrum.be/sites/default/files/documents/files/WEB-Brosch%C3%BCre%20Gemeinsam%20Vorbereitet-DE.pdf
+  - naam: "Nationales Krisenzentrum: Störung der digitalen Infrastruktur"
+    url: https://krisenzentrum.be/de/risiken-belgien/maatschappelijke-risicos/ausfall-der-digitalen-infrastruktur
+  - naam: "112.be: Häufig gestellte Fragen"
+    url: https://112.be/de/haeufig-gestellte-fragen
+  - naam: "FÖD Wirtschaft: Fragen von Haushalten zur Stromknappheit"
+    url: https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door
   - naam: "Nuklearrisiko: Schutz suchen, der beste Schutz"
     url: https://nuklearrisiko.be/de/was-koennen-sie-tun/aufenthalt-geschlossenen-raeumen-die-beste-schutzmassnahme
   - naam: "KMI: Wie schütze ich mich vor Blitzschlag"
@@ -87,7 +95,7 @@ bronnen:
   - naam: "Ready.gov: Mass gatherings incidents"
     url: https://www.ready.gov/mass-gatherings-incidents
 vertaling: machine
-origineel_datum: "2026-11-17"
+origineel_datum: "2026-11-18"
 ---
 
 ## So verwenden Sie diesen Leitfaden
@@ -96,7 +104,7 @@ Schutz suchen bedeutet in Belgien: Sie gehen in das nächstgelegene zugängliche
 
 1. Bleiben Sie drinnen oder gehen Sie in das nächstgelegene zugängliche Gebäude. Bleiben Sie dort, bis Sie die Nachricht erhalten, dass es wieder sicher ist.
 2. Schließen Sie alle Fenster und Türen. Schalten Sie Lüftung, Klimaanlage und andere Systeme aus, die Außenluft hereinbringen. Gehen Sie vorzugsweise in einen zentralen Raum im Erdgeschoss, weg von Fenstern und Außentüren.
-3. Folgen Sie den Anweisungen der Behörden über BE-Alert, Radio, Fernsehen, offizielle Websites und soziale Medien.
+3. Folgen Sie den Anweisungen der Behörden. Wer Schutz sucht, bleibt drinnen bei geschlossenen Fenstern und Türen: Hören Sie ein batteriebetriebenes Radio oder ein Kurbelradio und achten Sie auf Lautsprecherwagen der Polizei in der Straße. Funktioniert das Netz, kommen die Anweisungen auch über BE-Alert, offizielle Websites und soziale Medien.
 
 Diese drei Schritte gelten für die meisten Gefahren, bei denen die Behörden Sie bitten, drinnen zu bleiben: ein Chemieleck, starker Rauch, ein schweres Gewitter, ein nuklearer Unfall. Aber nicht jede Gefahr verlangt denselben Ort. Der deutsche Bevölkerungsschutz (BBK) sagt es ausdrücklich: Was bei der einen Gefahr sicher ist, kann bei einer anderen gefährlich sein. Ein Keller schützt gut vor einer Explosion oder vor Strahlung, ist aber bei einer Überschwemmung lebensgefährlich.
 
@@ -104,7 +112,9 @@ Dieser Leitfaden gibt daher je nach Gefahr die Möglichkeiten in der Reihenfolge
 
 Das Krisenzentrum sagt auch, dass Schutz suchen eine vorübergehende Maßnahme ist: von einigen Stunden bis höchstens 24 Stunden. Ist die Lage danach noch nicht sicher oder schlimmer, dann können die Behörden Sie bitten, zu evakuieren. Evakuieren Sie nie auf eigene Initiative, es sei denn, Sie sind in unmittelbarer Gefahr.
 
-Quelle: [Nationales Krisenzentrum: Schutz suchen](https://krisenzentrum.be/de/was-koennen-sie-tun/der-richtige-reflex/schutz-suchen) · [Nationales Krisenzentrum: Evakuieren](https://krisenzentrum.be/de/was-koennen-sie-tun/der-richtige-reflex/evakuierung) · [BBK: Schutz suchen](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Vorsorge/Schutz-suchen/schutz-suchen_node.html)
+Wo dieser Leitfaden sagt, dass Sie die 112 anrufen: Rechnen Sie damit, dass das Netz ausfallen kann. Versuchen Sie es dann mit einem anderen Gerät, lassen Sie Nachbarn oder Umstehende anrufen oder gehen Sie einige Meter weiter. Ist gar kein Anruf möglich, bitten Sie in Ihrer Umgebung um Hilfe und folgen Sie den Informationen der Behörden im Radio. Siehe Notrufnummern in der App, Wenn kein Anruf möglich ist. Die Karte in der App (Schaltfläche Am nächsten) zeigt Feuerwehr, Polizei, Krankenhäuser und Gemeindehäuser.
+
+Quelle: [Nationales Krisenzentrum: Schutz suchen](https://krisenzentrum.be/de/was-koennen-sie-tun/der-richtige-reflex/schutz-suchen) · [Nationales Krisenzentrum: Evakuieren](https://krisenzentrum.be/de/was-koennen-sie-tun/der-richtige-reflex/evakuierung) · [Nationales Krisenzentrum: Broschüre Gemeinsam vorbereitet](https://krisenzentrum.be/sites/default/files/documents/files/WEB-Brosch%C3%BCre%20Gemeinsam%20Vorbereitet-DE.pdf) · [BBK: Schutz suchen](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Vorsorge/Schutz-suchen/schutz-suchen_node.html) · [112.be: Häufig gestellte Fragen](https://112.be/de/haeufig-gestellte-fragen) · [FÖD Wirtschaft: Fragen von Haushalten zur Stromknappheit](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door)
 
 ## Überblick: die Richtung je nach Gefahr
 
@@ -162,7 +172,7 @@ Finnland gibt eigene Richtlinien für Drohnen. Die Gefahrenzone von Sprengstoffe
 - Gehen Sie nach drinnen, besonders wenn die Drohne instabil oder tief fliegt.
 - Meiden Sie offenes Gelände in der Nähe der Drohne. Sind Sie im Wald oder auf offenem Feld, dann gehen Sie unter Geländeniveau, wenn das möglich ist.
 - Drinnen: Halten Sie sich von Fenstern und Türen fern, in der Mitte des Gebäudes, in einem Raum mit stabilen Wänden.
-- Rufen Sie 112 an, wenn Sie eine Drohne bei einem kritischen Ort sehen (Kraftwerk, Flughafen, Hafen, Wasseraufbereitung) oder eine abgestürzte Drohne finden.
+- Rufen Sie 112 an, wenn Sie eine Drohne bei einem kritischen Ort sehen (Kraftwerk, Flughafen, Hafen, Wasseraufbereitung) oder eine abgestürzte Drohne finden. Kommt kein Anruf zustande, lassen Sie jemand anderen anrufen oder bitten Sie in Ihrer Umgebung um Hilfe (siehe Notrufnummern in der App, Wenn kein Anruf möglich ist).
 
 ### Wo nicht
 
@@ -182,7 +192,7 @@ Finnland gibt eigene Richtlinien für Drohnen. Die Gefahrenzone von Sprengstoffe
 - Nach der Entwarnung: Helfen Sie Verletzten und Menschen, die eingeschlossen sind (MCF).
 - Nehmen Sie nur mit, was Sie direkt zur Hand haben. Schweden empfiehlt Wasser, Essen, das Sie bei Raumtemperatur essen können, Ausweis, Geld, Bankkarte, Handy und Ladegerät oder Powerbank. Rechnen Sie bei einem Schutzraum mit einigen Tagen.
 
-Quelle: [Nationales Krisenzentrum: Internationaler bewaffneter Konflikt](https://krisenzentrum.be/de/risiken-belgien/sicherheitsrisiken/internationaler-bewaffneter-konflikt-ibk) · [BBK: Explosionen, hier finden Sie Schutz](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Vorsorge/Schutz-suchen/Schutz-vor-Explosion/schutz-vor-explosion_node.html) · [MCF: In case of crisis or war](https://rib.msb.se/filer/pdf/31523.pdf) · [MCF: About the warning and information systems](https://www.mcf.se/en/advice-for-individuals/civil-defence-shelters-evacuation-and-warning-systems/public-service-announcement-and-other-varnings/about-the-warning--and-information-systems/) · [Suomi.fi: Threat from the air](https://www.suomi.fi/guides/preparedness/how-to-prepare-for-incidents-and-crises/threat-from-the-air) · [TNO: Schutzmöglichkeiten bei Luftangriffen](https://www.tweedekamer.nl/downloads/document?id=2026D56281) · [Dovidka.info: What is a shelter](https://dovidka.info/en/what-is-shelter/)
+Quelle: [Nationales Krisenzentrum: Internationaler bewaffneter Konflikt](https://krisenzentrum.be/de/risiken-belgien/sicherheitsrisiken/internationaler-bewaffneter-konflikt-ibk) · [BBK: Explosionen, hier finden Sie Schutz](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Vorsorge/Schutz-suchen/Schutz-vor-Explosion/schutz-vor-explosion_node.html) · [MCF: In case of crisis or war](https://rib.msb.se/filer/pdf/31523.pdf) · [MCF: About the warning and information systems](https://www.mcf.se/en/advice-for-individuals/civil-defence-shelters-evacuation-and-warning-systems/public-service-announcement-and-other-varnings/about-the-warning--and-information-systems/) · [Suomi.fi: Threat from the air](https://www.suomi.fi/guides/preparedness/how-to-prepare-for-incidents-and-crises/threat-from-the-air) · [TNO: Schutzmöglichkeiten bei Luftangriffen](https://www.tweedekamer.nl/downloads/document?id=2026D56281) · [Dovidka.info: What is a shelter](https://dovidka.info/en/what-is-shelter/) · [112.be: Häufig gestellte Fragen](https://112.be/de/haeufig-gestellte-fragen) · [FÖD Wirtschaft: Fragen von Haushalten zur Stromknappheit](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door)
 
 ## Explosion in der Nähe
 
@@ -201,6 +211,7 @@ Hier geht es um eine Explosion durch einen Unfall oder einen Anschlag, ohne vorh
 - Sprechen Sie andere Menschen an, um sie zu warnen, oder rufen Sie 112 an.
 - Bleiben Sie in der Nähe des Vorfalls, aber außerhalb der Gefahrenzone, damit die Rettungsdienste Sie betreuen können.
 - Sind Sie draußen: Gehen Sie an einen sicheren Ort und rufen Sie 112 an.
+- Kommt kein Anruf zustande, lassen Sie jemand anderen anrufen oder bitten Sie in Ihrer Umgebung um Hilfe (siehe Notrufnummern in der App, Wenn kein Anruf möglich ist).
 
 ### Wenn ein Gebäude beschädigt ist
 
@@ -218,9 +229,9 @@ Hier geht es um eine Explosion durch einen Unfall oder einen Anschlag, ohne vorh
 
 ### Wie lange und wann verlassen
 
-Sind Sie an einem sicheren Ort, weg vom Vorfall: Bleiben Sie, wo Sie sind, am besten drinnen. Vermeiden Sie Ortswechsel, damit Sie die Rettungsdienste nicht behindern. Gehen Sie nicht schauen. Lassen Sie Ihre Familie wissen, dass Sie in Sicherheit sind, vorzugsweise per SMS oder über soziale Medien. Folgen Sie danach den Anweisungen der Behörden: Eine Explosion kann noch weitere Folgen haben, besonders wenn chemische Stoffe beteiligt waren.
+Sind Sie an einem sicheren Ort, weg vom Vorfall: Bleiben Sie, wo Sie sind, am besten drinnen. Vermeiden Sie Ortswechsel, damit Sie die Rettungsdienste nicht behindern. Gehen Sie nicht schauen. Funktioniert das Netz, lassen Sie Ihre Familie wissen, dass Sie in Sicherheit sind, vorzugsweise per SMS oder über soziale Medien. Vereinbaren Sie deshalb im Voraus mit Ihrer Familie, wo Sie sich wiederfinden, wenn Sie einander nicht erreichen können. Folgen Sie danach den Anweisungen der Behörden im Radio: Eine Explosion kann noch weitere Folgen haben, besonders wenn chemische Stoffe beteiligt waren.
 
-Quelle: [Nationales Krisenzentrum: Explosion explosiver Stoffe](https://krisenzentrum.be/de/risiken-belgien/technologische-risiken/detonation-explosionsfaehiger-stoffe) · [Nationales Krisenzentrum: Angriff auf ein weiches Ziel](https://krisenzentrum.be/de/risiken-belgien/sicherheitsrisiken/angriff-auf-ein-soft-target-weiches-ziel) · [BBK: Explosionen, hier finden Sie Schutz](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Vorsorge/Schutz-suchen/Schutz-vor-Explosion/schutz-vor-explosion_node.html) · [Ready.gov: Explosions](https://www.ready.gov/explosions)
+Quelle: [Nationales Krisenzentrum: Explosion explosiver Stoffe](https://krisenzentrum.be/de/risiken-belgien/technologische-risiken/detonation-explosionsfaehiger-stoffe) · [Nationales Krisenzentrum: Angriff auf ein weiches Ziel](https://krisenzentrum.be/de/risiken-belgien/sicherheitsrisiken/angriff-auf-ein-soft-target-weiches-ziel) · [BBK: Explosionen, hier finden Sie Schutz](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Vorsorge/Schutz-suchen/Schutz-vor-Explosion/schutz-vor-explosion_node.html) · [Ready.gov: Explosions](https://www.ready.gov/explosions) · [Nationales Krisenzentrum: Störung der digitalen Infrastruktur](https://krisenzentrum.be/de/risiken-belgien/maatschappelijke-risicos/ausfall-der-digitalen-infrastruktur) · [112.be: Häufig gestellte Fragen](https://112.be/de/haeufig-gestellte-fragen) · [FÖD Wirtschaft: Fragen von Haushalten zur Stromknappheit](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door)
 
 ## Radioaktiver Niederschlag
 
@@ -244,7 +255,7 @@ Der belgische Rat (zentraler Raum im Erdgeschoss) und der deutsche Rat (so tief 
 | Zu Fuß | Gehen Sie in das nächstgelegene Gebäude |
 | Auto, nahe an einem Gebäude | Gehen Sie sofort nach drinnen |
 | Auto, kein Gebäude erreichbar | Parken Sie an einem sicheren Ort oder fahren Sie senkrecht zur Windrichtung; Motor aus, Fenster geschlossen, Klimaanlage aus, hören Sie Radio |
-| Offenes Gelände ohne Gebäude | Rufen Sie 112 an (Krisenzentrum, allgemeine Richtlinie zum Schutz suchen) |
+| Offenes Gelände ohne Gebäude | Rufen Sie 112 an (Krisenzentrum, allgemeine Richtlinie zum Schutz suchen). Kommt kein Anruf zustande: Entfernen Sie sich weiter von der Notsituation, bis Sie ein sicheres und zugängliches Gebäude finden (Krisenzentrum, Schutz suchen unterwegs) |
 
 ### Wie lange
 
@@ -286,7 +297,7 @@ Verlassen Sie das Gebäude (BBK). Gehen Sie möglichst nicht durch die verunrein
 
 ### Wie lange und wann verlassen
 
-Bleiben Sie drinnen, bis Sie die Nachricht erhalten, dass es sicher ist, auch um anderen zu helfen (Ready.gov). Lassen Sie Kinder in der Schule. Verwenden Sie SMS oder Internet, statt anzurufen. Manchmal müssen Sie evakuieren: Tun Sie das nur auf Anweisung der Rettungsdienste. Nach dem Unfall kann es Auswirkungen auf Trinkwasser, Gemüse aus dem Garten und Viehzucht geben: Folgen Sie den Anweisungen.
+Bleiben Sie drinnen, bis Sie die Nachricht erhalten, dass es sicher ist, auch um anderen zu helfen (Ready.gov). Hören Sie dafür Radio. Lassen Sie Kinder in der Schule. Rufen Sie nicht unnötig an; funktioniert das Netz, verwenden Sie SMS oder Internet, statt anzurufen. Manchmal müssen Sie evakuieren: Tun Sie das nur auf Anweisung der Rettungsdienste. Nach dem Unfall kann es Auswirkungen auf Trinkwasser, Gemüse aus dem Garten und Viehzucht geben: Folgen Sie den Anweisungen.
 
 Quelle: [Nationales Krisenzentrum: Freisetzung chemischer Stoffe](https://krisenzentrum.be/de/risiken-belgien/technologische-risiken/freisetzung-von-chemischen-stoffen) · [Nationales Krisenzentrum: Schutz suchen](https://krisenzentrum.be/de/was-koennen-sie-tun/der-richtige-reflex/schutz-suchen) · [BBK: Schutz suchen](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Vorsorge/Schutz-suchen/schutz-suchen_node.html) · [BBK: Die unterschiedlichen Gefahrstoffe](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Vorsorge/Schutz-suchen/Gefahrstoff-Freisetzung/_documents/gefahrstoff-unterschiede_dossier1.html?nn=20588) · [BBK: Verhalten im Freien oder im Auto](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Vorsorge/Schutz-suchen/Gefahrstoff-Freisetzung/_documents/gefahrstoff-im-auto-und-im-freien_dossier3.html?nn=20588) · [Sebeochrana ukrytím](https://mv.gov.cz/clanek/sebeochrana-ukrytim.aspx) · [Suomi.fi: Spreading of dangerous substances](https://www.suomi.fi/guides/preparedness/how-to-prepare-for-incidents-and-crises/spreading-of-dangerous-substances-into-the-environment) · [Ready.gov: Hazardous materials](https://www.ready.gov/hazmat)
 
@@ -359,7 +370,7 @@ Ready.gov sagt, dass es in einem Auto keine sichere Wahl gibt, nur weniger gefä
 
 ### Wie lange und wann verlassen
 
-Bleiben Sie drinnen, bis der Sturm vorüber ist. Finnland: Gehen Sie während des Sturms nicht nach draußen, um Schäden zu beheben. Berühren Sie danach keine Kabel, die auf dem Boden liegen (Krisenzentrum). Für nicht dringende Hilfe: 1722 oder der Online-Schalter 1722.be; halten Sie 112 für Lebensgefahr frei.
+Bleiben Sie drinnen, bis der Sturm vorüber ist. Finnland: Gehen Sie während des Sturms nicht nach draußen, um Schäden zu beheben. Berühren Sie danach keine Kabel, die auf dem Boden liegen (Krisenzentrum). Funktioniert das Netz, nutzen Sie für nicht dringende Hilfe die 1722 oder den Online-Schalter 1722.be; halten Sie 112 für Lebensgefahr frei.
 
 Quelle: [Nationales Krisenzentrum: Wind und Sturm](https://krisenzentrum.be/de/risiken-belgien/naturrisiken/wind-und-sturm) · [Nationales Krisenzentrum: Tornado](https://krisenzentrum.be/de/risiken-belgien/naturrisiken/tornado) · [KMI: Wie schütze ich mich vor Blitzschlag](https://www.meteo.be/nl/info/veelgestelde-vragen/hoe-je-beschermen-tegen-gevaarlijk-weer/hoe-bescherm-ik-me-tegen-bliksem) · [Ready.gov: Tornadoes](https://www.ready.gov/tornadoes)
 
@@ -367,14 +378,14 @@ Quelle: [Nationales Krisenzentrum: Wind und Sturm](https://krisenzentrum.be/de/r
 
 ### Reihenfolge der Präferenz
 
-1. **Wohnen Sie bei einem Wald oder Naturgebiet:** Rufen Sie 112 an, wenn Sie ein Feuer sehen. Schließen Sie Fenster und Türen. Evakuieren Sie nicht auf eigene Initiative, warten Sie auf die Empfehlungen (Krisenzentrum).
+1. **Wohnen Sie bei einem Wald oder Naturgebiet:** Rufen Sie 112 an, wenn Sie ein Feuer sehen. Kommt kein Anruf zustande, lassen Sie jemand anderen anrufen oder bitten Sie in Ihrer Umgebung um Hilfe. Schließen Sie Fenster und Türen. Evakuieren Sie nicht auf eigene Initiative, warten Sie auf die Empfehlungen (Krisenzentrum).
 2. **Sind Sie im Wald:** Bringen Sie sich in Sicherheit. Folgen Sie Wegen, die vom Feuer und von der Rauchsäule wegführen, am besten quer zur Windrichtung. Flüchten Sie zu einer öffentlichen Straße, einem großen befestigten Gelände oder in den bebauten Ortsbereich (Krisenzentrum).
 3. **Bei Rauch ohne Evakuierungsanordnung:** Bleiben Sie drinnen in einem sicheren Raum, Fenster geschlossen und Lüftung aus (Finnland), oder gehen Sie in ein Gemeinschaftsgebäude, wo weniger Rauch ist (Ready.gov).
 4. **Notlösung, wenn Sie festsitzen:** Rufen Sie 112 an und geben Sie Ihren Standort an. Hilfe kann sich verzögern. Schalten Sie Lichter ein, damit die Retter Sie finden (Ready.gov).
 
 ### Was Sie sofort tun
 
-- Geben Sie Ihren Standort so genau wie möglich mit erkennbaren Punkten durch: Wege, Weiher, Aussichtstürme, Parkplätze. Benutzen Sie die App 112, wenn das möglich ist (Krisenzentrum).
+- Geben Sie Ihren Standort so genau wie möglich mit erkennbaren Punkten durch: Wege, Weiher, Aussichtstürme, Parkplätze. Funktioniert das Netz, benutzen Sie auch die App 112 (Krisenzentrum).
 - Helfen Sie anderen an einen sicheren Ort.
 - Kein Handy oder kein Empfang: Evakuieren Sie so schnell wie möglich und sprechen Sie Menschen an.
 - Müssen Sie sich draußen bewegen: Schützen Sie Ihre Atemwege mit einer Maske oder einem Schal. Finnland fügt hinzu, dass dies nicht vor giftigen Gasen schützt.
@@ -387,7 +398,7 @@ Quelle: [Nationales Krisenzentrum: Wind und Sturm](https://krisenzentrum.be/de/r
 - Kehren Sie nicht ohne Erlaubnis der Rettungsdienste in das Gebiet zurück (Krisenzentrum).
 - Halten Sie sich von heißer Asche, verkohlten Bäumen und schwelenden Trümmern fern (Ready.gov).
 
-Quelle: [Nationales Krisenzentrum: Naturbrand](https://krisenzentrum.be/de/risiken-belgien/naturrisiken/naturbrand) · [Suomi.fi: Wildfires and major building fires](https://www.suomi.fi/guides/preparedness/how-to-prepare-for-incidents-and-crises/wildfires-and-major-building-fires) · [Ready.gov: Wildfires](https://www.ready.gov/wildfires)
+Quelle: [Nationales Krisenzentrum: Naturbrand](https://krisenzentrum.be/de/risiken-belgien/naturrisiken/naturbrand) · [Suomi.fi: Wildfires and major building fires](https://www.suomi.fi/guides/preparedness/how-to-prepare-for-incidents-and-crises/wildfires-and-major-building-fires) · [Ready.gov: Wildfires](https://www.ready.gov/wildfires) · [112.be: Häufig gestellte Fragen](https://112.be/de/haeufig-gestellte-fragen) · [FÖD Wirtschaft: Fragen von Haushalten zur Stromknappheit](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door)
 
 ## Erdbeben
 
@@ -406,7 +417,7 @@ Die Vereinigten Staaten geben eine andere Reihenfolge: Bleiben Sie drinnen und l
 
 ### Danach
 
-Seien Sie auf Nachbeben vorbereitet. Rauchen Sie nicht und machen Sie kein Feuer und keine Funken. Gehen Sie nicht in eine Wohnung zurück, die Ihnen unsicher erscheint. Stellen Sie bei der Rückkehr Gas und Strom ab und lassen Sie den Schornstein kontrollieren (Krisenzentrum). Sitzen Sie fest: Senden Sie eine Nachricht, klopfen Sie auf eine Leitung oder Wand und benutzen Sie eine Pfeife, statt zu rufen (Ready.gov).
+Seien Sie auf Nachbeben vorbereitet. Rauchen Sie nicht und machen Sie kein Feuer und keine Funken. Gehen Sie nicht in eine Wohnung zurück, die Ihnen unsicher erscheint. Stellen Sie bei der Rückkehr Gas und Strom ab und lassen Sie den Schornstein kontrollieren (Krisenzentrum). Sitzen Sie fest: Klopfen Sie auf eine Leitung oder Wand und benutzen Sie eine Pfeife, statt zu rufen. Funktioniert das Netz, senden Sie auch eine Nachricht (Ready.gov).
 
 Quelle: [Nationales Krisenzentrum: Erdbeben](https://krisenzentrum.be/de/risiken-belgien/naturrisiken/erdbeben) · [Ready.gov: Earthquakes](https://www.ready.gov/earthquakes)
 
@@ -423,7 +434,7 @@ Das Krisenzentrum gibt für den Fall einer Person mit einer Waffe drei Schritte:
    - Schließen Sie die Tür ab oder blockieren Sie sie, wenn Sie können.
    - Bleiben Sie still. Schalten Sie Ihr Handy stumm.
    - Niederlande: Verstecken Sie sich an einem Ort mit dicken Mauern oder schließen Sie sich ein.
-3. **Alarmieren:** Rufen Sie 112 an, wenn Sie können, oder benutzen Sie die App 112, mit der Sie chatten können, wenn Sie nicht sprechen können (Krisenzentrum). Geben Sie Informationen über den Täter und den Ort (Denk vooruit).
+3. **Alarmieren:** Rufen Sie 112 an, wenn Sie können. Funktioniert das Netz, aber Sie können nicht sprechen, benutzen Sie die App 112, um zu chatten (Krisenzentrum). Geben Sie Informationen über den Täter und den Ort (Denk vooruit). Kommt kein Anruf zustande, lassen Sie jemand anderen anrufen oder bitten Sie in Ihrer Umgebung um Hilfe (siehe Notrufnummern in der App, Wenn kein Anruf möglich ist).
 
 Die Vereinigten Staaten nennen als letztes Mittel auch das Stören des Angriffs. Die belgischen, niederländischen und finnischen Quellen nennen das nicht.
 
@@ -431,14 +442,14 @@ Die Vereinigten Staaten nennen als letztes Mittel auch das Stören des Angriffs.
 
 - Bleiben Sie, wo Sie sind, am besten drinnen. Wechseln Sie nicht den Ort, damit Sie die Rettungsdienste nicht behindern.
 - Gehen Sie nicht schauen, was geschieht. Finnland: Kehren Sie nicht zurück, um sich die Lage anzusehen.
-- Lassen Sie Ihre Familie wissen, dass Sie in Sicherheit sind, vorzugsweise per SMS oder über soziale Medien.
+- Funktioniert das Netz, lassen Sie Ihre Familie wissen, dass Sie in Sicherheit sind, vorzugsweise per SMS oder über soziale Medien. Funktioniert es nicht, hilft der Ort, den Sie im Voraus mit Ihrer Familie vereinbart haben, um sich wiederzufinden.
 - Folgen Sie den Anweisungen der Einsatzkräfte.
 
 ### Vorbereiten
 
 Schauen Sie an belebten Orten zuerst, wie Sie schnell wegkommen und wo die Notausgänge sind (Denk vooruit). Sehen Sie einen verdächtigen Gegenstand oder eine verdächtige Person: Rufen Sie 101 an und berühren Sie den Gegenstand nicht (Krisenzentrum).
 
-Quelle: [Nationales Krisenzentrum: Angriff auf ein weiches Ziel](https://krisenzentrum.be/de/risiken-belgien/sicherheitsrisiken/angriff-auf-ein-soft-target-weiches-ziel) · [Denk vooruit: Ein Anschlag](https://www.denkvooruit.nl/risicos/risicos-in-nederland/een-aanslag) · [Ready.gov: Mass gatherings incidents](https://www.ready.gov/mass-gatherings-incidents)
+Quelle: [Nationales Krisenzentrum: Angriff auf ein weiches Ziel](https://krisenzentrum.be/de/risiken-belgien/sicherheitsrisiken/angriff-auf-ein-soft-target-weiches-ziel) · [Denk vooruit: Ein Anschlag](https://www.denkvooruit.nl/risicos/risicos-in-nederland/een-aanslag) · [Ready.gov: Mass gatherings incidents](https://www.ready.gov/mass-gatherings-incidents) · [Nationales Krisenzentrum: Störung der digitalen Infrastruktur](https://krisenzentrum.be/de/risiken-belgien/maatschappelijke-risicos/ausfall-der-digitalen-infrastruktur) · [112.be: Häufig gestellte Fragen](https://112.be/de/haeufig-gestellte-fragen) · [FÖD Wirtschaft: Fragen von Haushalten zur Stromknappheit](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door)
 
 ## Hitzewelle
 
@@ -457,9 +468,9 @@ Quelle: [Nationales Krisenzentrum: Angriff auf ein weiches Ziel](https://krisenz
 - Lassen Sie nie Menschen oder Tiere in einem geparkten Fahrzeug zurück.
 - Ready.gov: Ein Ventilator ist kein gutes Hauptmittel zur Kühlung. Er gibt ein falsches Gefühl von Komfort, senkt aber die Körpertemperatur nicht. Schließen Sie Vorhänge und benutzen Sie den Backofen weniger.
 - Besuchen Sie Menschen, die Hilfe brauchen (Krisenzentrum).
-- Rufen Sie Ihren Hausarzt bei Krämpfen, hohem Fieber, Kopfschmerzen oder Ohnmacht an; rufen Sie 112 nur bei Lebensgefahr an.
+- Funktioniert das Netz, rufen Sie Ihren Hausarzt bei Krämpfen, hohem Fieber, Kopfschmerzen oder Ohnmacht an. Rufen Sie 112 nur bei Lebensgefahr an. Kommt kein Anruf zustande, lassen Sie jemand anderen anrufen oder bitten Sie in Ihrer Umgebung um Hilfe (siehe Notrufnummern in der App, Wenn kein Anruf möglich ist).
 
-Quelle: [Nationales Krisenzentrum: Hitzewelle](https://krisenzentrum.be/de/risiken-belgien/naturrisiken/hitzewellesommerhitze) · [Ready.gov: Extreme heat](https://www.ready.gov/heat)
+Quelle: [Nationales Krisenzentrum: Hitzewelle](https://krisenzentrum.be/de/risiken-belgien/naturrisiken/hitzewellesommerhitze) · [Ready.gov: Extreme heat](https://www.ready.gov/heat) · [112.be: Häufig gestellte Fragen](https://112.be/de/haeufig-gestellte-fragen) · [FÖD Wirtschaft: Fragen von Haushalten zur Stromknappheit](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door)
 
 ## Extreme Kälte, Schnee und Glatteis
 
@@ -508,10 +519,10 @@ Quelle: [Ready.gov: Radiation emergencies](https://www.ready.gov/radiation) · [
 
 ## Kinder, schutzbedürftige Personen und Tiere
 
-- **Kinder in der Schule oder in der Betreuung:** Lassen Sie sie dort und holen Sie sie nicht ab. Die Lehrkräfte folgen ihrem internen Notfallplan. Sie verursachen sonst Staus, behindern die Rettungsdienste und bringen sich selbst und die Kinder in Gefahr. Die Schule teilt mit, wann Sie Ihr Kind abholen können. Registrieren Sie die Adresse der Schule auch bei BE-Alert (Krisenzentrum).
+- **Kinder in der Schule oder in der Betreuung:** Lassen Sie sie dort und holen Sie sie nicht ab. Die Lehrkräfte folgen ihrem internen Notfallplan. Sie verursachen sonst Staus, behindern die Rettungsdienste und bringen sich selbst und die Kinder in Gefahr. Die Schule teilt mit, wann Sie Ihr Kind abholen können. Registrieren Sie im Voraus auch die Adresse der Schule bei BE-Alert (Krisenzentrum).
 - **Bei einem Luftalarm in der Ukraine** dürfen Eltern, die ihr Kind bringen oder abholen, mit in den Schutzraum der Schule, bis der Alarm vorüber ist.
 - **Menschen, die Hilfe brauchen:** Besprechen Sie die drei Schritte des Schutz Suchens im Voraus mit Familie, Nachbarn oder Kollegen und treffen Sie Absprachen. Lassen Sie andere bei sich Schutz suchen, wenn das nötig ist (Krisenzentrum). Schweden empfiehlt, den Transport zu einem Schutzraum im Voraus zu regeln; Assistenzhunde sind in schwedischen Schutzräumen willkommen.
 - **Haustiere:** Folgen Sie zuerst den Anweisungen für Ihre eigene Sicherheit. Können Sie Ihre Tiere ohne Risiko für sich selbst in Sicherheit bringen, dann tun Sie das (Krisenzentrum). Bei einem Luftalarm dürfen Sie in Schweden Ihr Haustier in Keller, Garagen und U-Bahn-Stationen mitnehmen.
-- **Warnen Sie andere**, dass sie Schutz suchen müssen, vorzugsweise über WhatsApp, Signal oder soziale Medien, damit das Telefonnetz nicht überlastet wird.
+- **Warnen Sie Menschen in Ihrer Umgebung**, dass sie Schutz suchen müssen. Funktioniert das Netz, nutzen Sie vorzugsweise WhatsApp, Signal oder soziale Medien, damit das Telefonnetz nicht überlastet wird (Krisenzentrum).
 
 Quelle: [Nationales Krisenzentrum: Schutz suchen](https://krisenzentrum.be/de/was-koennen-sie-tun/der-richtige-reflex/schutz-suchen) · [Dovidka.info: What is a shelter](https://dovidka.info/en/what-is-shelter/) · [MCF: In case of crisis or war](https://rib.msb.se/filer/pdf/31523.pdf)

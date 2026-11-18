@@ -4,7 +4,7 @@ module: water
 volgorde: 1
 kort: "Hoeveel water je nodig hebt, hoe je het bewaart, waar je in en rond huis nog water vindt en hoe je het veilig maakt, met elke methode stap voor stap."
 status: concept
-datum: "2026-11-17"
+datum: "2026-11-18"
 bronnen:
   - naam: "Nationaal Crisiscentrum: Een noodpakket bij je thuis"
     url: "https://crisiscentrum.be/nl/wat-kan-jij-doen/maak-een-noodpakket/een-noodpakket-bij-je-thuis"
@@ -42,6 +42,8 @@ bronnen:
     url: "https://crisiscentrum.be/nl/wat-kan-jij-doen/maak-een-noodpakket/een-noodpakket-op-locatie"
   - naam: "BZL Ernährungsvorsorge: Vorratskalkulator"
     url: "https://www.ernaehrungsvorsorge.de/private-vorsorge/notvorrat/vorratskalkulator"
+  - naam: "Nationaal Crisiscentrum: Informatie tijdens een noodsituatie"
+    url: "https://crisiscentrum.be/nl/wat-kan-jij-doen/informeer-je/informatie-tijdens-een-noodsituatie"
 ---
 
 Water is belangrijker dan voedsel. Zonder water uit de kraan kun je niet drinken, niet koken, je handen niet wassen en het toilet niet doorspoelen. Deze gids volgt de volgorde waarin je het nodig hebt: eerst weten hoeveel, dan opslaan, dan water vinden als de voorraad op is, en pas als laatste water zelf veilig maken.
@@ -176,9 +178,9 @@ Het water kan heel heet zijn. Draag handschoenen en een veiligheidsbril.
 
 - **Regenwater.** Hierover verschillen de bronnen. FEMA zegt: gebruik opgevangen regenwater niet om te drinken. Het Nederlandse Waterschap Zuiderzeeland zegt dat huisdieren die buiten komen regenwater kunnen drinken, maar dat je het zelf niet moet drinken omdat het niet schoon genoeg is. Het Consortium zet regenwater bij de bronnen die je pas na behandelen of filteren gebruikt. Het Crisiscentrum raadt aan regenwater op te vangen voor de tuin, zodat je drinkwater spaart. Gebruik regenwater dus in de eerste plaats om te wassen, schoon te maken en het toilet door te spoelen.
 - **Beken, rivieren, vijvers, meren, bronnen.** Alleen na behandelen of filteren (Consortium). Het Waterschap Zuiderzeeland raadt aan contact met water uit sloten en vaarten te vermijden bij langdurige stroomuitval, omdat afvalwater dan minder goed gezuiverd wordt.
-- **Water van de overheid.** Het Crisiscentrum schrijft dat een burgemeester, gouverneur of minister bij een tekort water in flessen kan laten verdelen. Het MCF zegt dat gemeenten watertanks kunnen plaatsen. Je hebt daarvoor zelf schone containers nodig.
+- **Water van de overheid.** Het Crisiscentrum schrijft dat een burgemeester, gouverneur of minister bij een tekort water in flessen kan laten verdelen. Het MCF zegt dat gemeenten watertanks kunnen plaatsen. Je hebt daarvoor zelf schone containers nodig. Waar en wanneer water verdeeld wordt, hoor je via de radio en de andere kanalen van de overheid, zoals omroepwagens van de politie, informatieborden, folders of deur-aan-deur (Crisiscentrum).
 
-Bron: [FEMA: emergency water sources](https://fema.gov/node/what-are-emergency-water-sources-if-im-running-out-clean-water) · [Regional Water Providers Consortium: Emergency Water Sources](https://regionalh2o.org/node/39) · [CDC: How to Make Water Safe in an Emergency](https://www.cdc.gov/water-emergency/about/index.html) · [Waterschap Zuiderzeeland: folder](https://bijlagen.nos.nl/artikel-24778431/260226_digitaal_toegankelijke_versie_folder_noodsituatie_Waterschap_Zuiderzeeland.pdf) · [Nationaal Crisiscentrum: Verstoring van drinkwater](https://crisiscentrum.be/nl/risicos-belgie/maatschappelijke-risicos/verstoring-van-drinkwater) · [MCF: In case of crisis or war](https://rib.msb.se/filer/pdf/31523.pdf)
+Bron: [FEMA: emergency water sources](https://fema.gov/node/what-are-emergency-water-sources-if-im-running-out-clean-water) · [Regional Water Providers Consortium: Emergency Water Sources](https://regionalh2o.org/node/39) · [CDC: How to Make Water Safe in an Emergency](https://www.cdc.gov/water-emergency/about/index.html) · [Waterschap Zuiderzeeland: folder](https://bijlagen.nos.nl/artikel-24778431/260226_digitaal_toegankelijke_versie_folder_noodsituatie_Waterschap_Zuiderzeeland.pdf) · [Nationaal Crisiscentrum: Verstoring van drinkwater](https://crisiscentrum.be/nl/risicos-belgie/maatschappelijke-risicos/verstoring-van-drinkwater) · [MCF: In case of crisis or war](https://rib.msb.se/filer/pdf/31523.pdf) · [Nationaal Crisiscentrum: Informatie tijdens een noodsituatie](https://crisiscentrum.be/nl/wat-kan-jij-doen/informeer-je/informatie-tijdens-een-noodsituatie) · [Nationaal Crisiscentrum: brochure Samen voorbereid](https://crisiscentrum.be/sites/default/files/documents/files/WEB-Brochure%20Samen%20voorbereid-NL.pdf)
 
 ## Water zuiveren: overzicht van de methoden
 
@@ -211,7 +213,7 @@ Bron: [WHO/WEDC: Technical notes](https://wedc-knowledge.lboro.ac.uk/resources/w
 
 Ready.gov noemt koken de veiligste methode. Het WHO noemt het zeer doeltreffend, maar het kost veel energie.
 
-**Hoe lang.** Hier verschillen de bronnen. In België volg je altijd het kookadvies van je drinkwatermaatschappij.
+**Hoe lang.** Hier verschillen de bronnen. In België volg je altijd het kookadvies van je drinkwatermaatschappij. Volg het via de radio; werkt het netwerk, dan ook via BE-Alert en de officiële websites (Crisiscentrum).
 
 | Bron | Kooktijd |
 | --- | --- |
@@ -233,7 +235,7 @@ Ready.gov noemt koken de veiligste methode. Het WHO noemt het zeer doeltreffend,
 
 **Als het niet lukt.** Heb je geen brandstof of kookgelegenheid, ga dan naar chloor (methode 2).
 
-Bron: [VRT NWS: kookadvies De Watergroep](https://www.vrt.be/vrtnws/nl/2026/03/20/roeselare-vraagt-om-drinkwater-in-enkele-centrumsteden-tijdelijk/) · [RIVM: Toelichting kookadvies drinkwater](https://www.rivm.nl/drinkwater/toelichting-kookadvies-drinkwater) · [CDC: How to Make Water Safe in an Emergency](https://www.cdc.gov/water-emergency/about/index.html) · [Ready.gov: Water](https://www.ready.gov/water) · [WHO/WEDC: Technical notes](https://wedc-knowledge.lboro.ac.uk/resources/who_notes/WHO_TNE_ALL.pdf)
+Bron: [VRT NWS: kookadvies De Watergroep](https://www.vrt.be/vrtnws/nl/2026/03/20/roeselare-vraagt-om-drinkwater-in-enkele-centrumsteden-tijdelijk/) · [RIVM: Toelichting kookadvies drinkwater](https://www.rivm.nl/drinkwater/toelichting-kookadvies-drinkwater) · [CDC: How to Make Water Safe in an Emergency](https://www.cdc.gov/water-emergency/about/index.html) · [Ready.gov: Water](https://www.ready.gov/water) · [WHO/WEDC: Technical notes](https://wedc-knowledge.lboro.ac.uk/resources/who_notes/WHO_TNE_ALL.pdf) · [Nationaal Crisiscentrum: Informatie tijdens een noodsituatie](https://crisiscentrum.be/nl/wat-kan-jij-doen/informeer-je/informatie-tijdens-een-noodsituatie)
 
 ## Methode 2: chloor uit huishoudbleekmiddel
 
@@ -347,14 +349,14 @@ Bron: [Ready.gov: Water](https://www.ready.gov/water)
 
 ## Wat niet helpt tegen chemische vervuiling
 
-- Het CDC: water met brandstof, giftige chemische stoffen of radioactieve stoffen wordt niet veilig door koken of ontsmetten. Gebruik flessenwater of een andere bron en neem contact op met de gezondheidsdienst.
+- Het CDC: water met brandstof, giftige chemische stoffen of radioactieve stoffen wordt niet veilig door koken of ontsmetten. Gebruik flessenwater of een andere bron en neem, als het netwerk werkt, contact op met de gezondheidsdienst.
 - Het WHO: de huishoudelijke methoden verwijderen fysieke en microbiologische vervuiling, geen chemische.
 - De Regional Water Providers Consortium: water waarvan je weet of vermoedt dat het brandstof, zware metalen of giftige stoffen bevat, is onveilig om te drinken, ook na behandelen of filteren.
 - Ready.gov: alleen distilleren verwijdert de meeste chemische stoffen (zie methode 7).
 
-Bij een ongeval met gevaarlijke stoffen of een nucleair incident volg je de instructies van de overheid over het gebruik van kraanwater. Zie de scenariokaarten en de gidsen over schuilen en nucleaire noodsituaties.
+Bij een ongeval met gevaarlijke stoffen of een nucleair incident volg je de instructies van de overheid over het gebruik van kraanwater. Die komen onder meer via radio, tv en omroepwagens van de politie (Crisiscentrum). Zie de scenariokaarten en de gidsen over schuilen en nucleaire noodsituaties.
 
-Bron: [CDC: How to Make Water Safe in an Emergency](https://www.cdc.gov/water-emergency/about/index.html) · [WHO/WEDC: Technical notes](https://wedc-knowledge.lboro.ac.uk/resources/who_notes/WHO_TNE_ALL.pdf) · [Regional Water Providers Consortium: Emergency Water Sources](https://regionalh2o.org/node/39) · [Ready.gov: Water](https://www.ready.gov/water)
+Bron: [CDC: How to Make Water Safe in an Emergency](https://www.cdc.gov/water-emergency/about/index.html) · [WHO/WEDC: Technical notes](https://wedc-knowledge.lboro.ac.uk/resources/who_notes/WHO_TNE_ALL.pdf) · [Regional Water Providers Consortium: Emergency Water Sources](https://regionalh2o.org/node/39) · [Ready.gov: Water](https://www.ready.gov/water) · [Nationaal Crisiscentrum: Informatie tijdens een noodsituatie](https://crisiscentrum.be/nl/wat-kan-jij-doen/informeer-je/informatie-tijdens-een-noodsituatie)
 
 ## Na de onderbreking
 
@@ -363,11 +365,11 @@ Het Crisiscentrum:
 - Komt er bruin of troebel water uit de kraan, laat het dan enkele minuten lopen.
 - Komt er weinig water uit de kraan, dan moet de druk zich nog herstellen. Dat neemt langzaam toe.
 - Blijf zuinig met water. Verspil het niet.
-- Na een overstroming: luister naar de aanbevelingen van de overheid over het gebruik van leidingwater.
+- Na een overstroming: luister naar de aanbevelingen van de overheid over het gebruik van leidingwater, bijvoorbeeld via een radio op batterijen.
 
 Het RIVM: een kookadvies blijft geldig tot uit controles blijkt dat het water niet meer vervuild is.
 
-Bron: [Nationaal Crisiscentrum: Verstoring van drinkwater](https://crisiscentrum.be/nl/risicos-belgie/maatschappelijke-risicos/verstoring-van-drinkwater) · [RIVM: Toelichting kookadvies drinkwater](https://www.rivm.nl/drinkwater/toelichting-kookadvies-drinkwater)
+Bron: [Nationaal Crisiscentrum: Verstoring van drinkwater](https://crisiscentrum.be/nl/risicos-belgie/maatschappelijke-risicos/verstoring-van-drinkwater) · [RIVM: Toelichting kookadvies drinkwater](https://www.rivm.nl/drinkwater/toelichting-kookadvies-drinkwater) · [Nationaal Crisiscentrum: Informatie tijdens een noodsituatie](https://crisiscentrum.be/nl/wat-kan-jij-doen/informeer-je/informatie-tijdens-een-noodsituatie)
 
 ## Per persoon en per situatie
 

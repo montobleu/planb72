@@ -4,7 +4,7 @@ module: nucleair
 volgorde: 3
 kort: "Ce que disent les guides officiels de protection civile sur une arme nucléaire, une bombe sale et d'autres incidents radiologiques : les premières secondes, minutes, heures et journées."
 status: concept
-datum: "2026-11-17"
+datum: "2026-11-18"
 bronnen:
   - naam: "Centre de crise National : Rejet de substances nucléaires"
     url: https://centredecrise.be/fr/risques-en-belgique/risques-economiques-et-technologiques/liberation-de-substances-nucleaires
@@ -22,6 +22,10 @@ bronnen:
     url: https://risquenucleaire.be/fr/risque-nucleaire/transports-nucleaires
   - naam: "Risque nucléaire : Se décontaminer"
     url: https://risquenucleaire.be/fr/que-pouvez-vous-faire/se-decontaminer
+  - naam: "112.be : Questions fréquentes"
+    url: https://112.be/fr/questions-frequentes
+  - naam: "SPF Économie : questions des ménages sur la pénurie d'électricité"
+    url: https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door
   - naam: "MCF: In case of crisis or war (brochure)"
     url: https://rib.msb.se/filer/pdf/31523.pdf
   - naam: "MCF: Good to know about civil defence shelters"
@@ -55,7 +59,7 @@ bronnen:
   - naam: "Centre de crise National : brochure Samen voorbereid"
     url: https://centredecrise.be/sites/default/files/documents/files/WEB-Brochure-Pr%C3%AAts.%20Ensemble-FR.pdf
 vertaling: machine
-origineel_datum: "2026-11-17"
+origineel_datum: "2026-11-18"
 ---
 
 ## Ce que disent les autorités belges
@@ -65,14 +69,14 @@ Le Centre de crise National n'a pas de page distincte sur les armes nucléaires.
 - Se mettre à l'abri est la meilleure façon de vous protéger.
 - Entrez dans le bâtiment le plus proche et restez à l'intérieur jusqu'à ce qu'on vous annonce que la situation est sûre.
 - Fermez les fenêtres et les portes et coupez les systèmes de ventilation. Installez-vous dans une pièce centrale au rez-de-chaussée. Les murs et les plafonds protègent mieux que les fenêtres.
-- Écoutez les autorités via la radio, la télévision, les sites web officiels et les réseaux sociaux.
+- Écoutez les autorités via la radio, de préférence une radio à piles ou une radio à manivelle. Si Internet fonctionne, consultez aussi les sites web officiels et les réseaux sociaux.
 - Laissez vos enfants à l'école.
 - N'évacuez jamais de votre propre initiative.
 - Ne prenez des comprimés d'iode que sur instruction des autorités.
 
 Pour l'onde de choc, les débris et la chaleur d'une arme nucléaire, la Belgique ne donne pas de directive spécifique. La suite de ce guide suit donc la protection civile de la Suède (MCF), de la Finlande, de la Suisse (BABS), de l'Allemagne (BBK), de l'Ukraine et des États-Unis (Ready.gov, CDC). Ces conseils sont destinés à la guerre ou à un attentat et peuvent différer du conseil belge en cas d'accident dans une centrale nucléaire. Suivez toujours les instructions des autorités belges au moment même.
 
-Source : [Centre de crise National : Rejet de substances nucléaires](https://centredecrise.be/fr/risques-en-belgique/risques-economiques-et-technologiques/liberation-de-substances-nucleaires) · [Centre de crise National : Rejet de substances radioactives](https://centredecrise.be/fr/risques-en-belgique/risques-economiques-et-technologiques/liberation-de-substances-radioactives) · [Centre de crise National : Attaque contre une infrastructure CBRNe](https://centredecrise.be/fr/risques-en-belgique/risques-man-made/attaque-contre-une-infrastructure-cbrne)
+Source : [Centre de crise National : Rejet de substances nucléaires](https://centredecrise.be/fr/risques-en-belgique/risques-economiques-et-technologiques/liberation-de-substances-nucleaires) · [Centre de crise National : Rejet de substances radioactives](https://centredecrise.be/fr/risques-en-belgique/risques-economiques-et-technologiques/liberation-de-substances-radioactives) · [Centre de crise National : Attaque contre une infrastructure CBRNe](https://centredecrise.be/fr/risques-en-belgique/risques-man-made/attaque-contre-une-infrastructure-cbrne) · [Centre de crise National : brochure Samen voorbereid](https://centredecrise.be/sites/default/files/documents/files/WEB-Brochure-Pr%C3%AAts.%20Ensemble-FR.pdf)
 
 ## Les dangers d'une arme nucléaire
 
@@ -145,10 +149,10 @@ Source : [Ready.gov: Radiation emergencies](https://www.ready.gov/radiation) · 
 - **Animaux de compagnie et animaux d'assistance à l'intérieur** (Ready.gov, CDC).
 - **Lavez-vous** si vous étiez dehors au moment des retombées (voir plus loin).
 - **Mangez et buvez en sécurité :** eau en bouteille et aliments dans des emballages fermés (CDC).
-- **Restez informé** via la radio, la télévision, le téléphone et d'autres canaux. Les services de secours indiquent où vous pouvez vous faire examiner pour une contamination (CDC).
+- **Restez informé** via la radio et la télévision ; si le réseau fonctionne, aussi via votre téléphone et d'autres canaux. Les services de secours indiquent où vous pouvez vous faire examiner pour une contamination (CDC). En cas de panne de courant, une radio à piles ou une radio à manivelle vous aide (Centre de crise).
 - **N'allez pas chercher votre famille.** Restez où vous êtes (CDC).
 
-Source : [Ready.gov: Radiation emergencies](https://www.ready.gov/radiation) · [CDC: What to do, get inside](https://cdc.gov/radiation-emergencies/response/get-inside.html)
+Source : [Ready.gov: Radiation emergencies](https://www.ready.gov/radiation) · [CDC: What to do, get inside](https://cdc.gov/radiation-emergencies/response/get-inside.html) · [Centre de crise National : brochure Samen voorbereid](https://centredecrise.be/sites/default/files/documents/files/WEB-Brochure-Pr%C3%AAts.%20Ensemble-FR.pdf)
 
 ## Les premières 24 heures et les premiers jours
 
@@ -250,7 +254,9 @@ Sur le territoire belge, environ 400 000 colis contenant des substances radioact
 - Ne touchez pas au chargement du conteneur.
 - Suivez les instructions ; les autorités peuvent demander de vous mettre à l'abri.
 
-Source : [CDC: What to do for different types of radiation emergencies](https://www.cdc.gov/radiation-emergencies/about/what-to-do.html) · [Risque nucléaire : Transports nucléaires](https://risquenucleaire.be/fr/risque-nucleaire/transports-nucleaires) · [Centre de crise National : Attaque contre une cible vulnérable (soft target)](https://centredecrise.be/fr/risques-en-belgique/risques-man-made/attaque-contre-une-cible-facile)
+Si l'appel ne passe pas, faites appeler quelqu'un d'autre ou demandez de l'aide dans votre voisinage (voir Numéros d'urgence dans l'app, Si l'appel ne passe pas).
+
+Source : [CDC: What to do for different types of radiation emergencies](https://www.cdc.gov/radiation-emergencies/about/what-to-do.html) · [Risque nucléaire : Transports nucléaires](https://risquenucleaire.be/fr/risque-nucleaire/transports-nucleaires) · [Centre de crise National : Attaque contre une cible vulnérable (soft target)](https://centredecrise.be/fr/risques-en-belgique/risques-man-made/attaque-contre-une-cible-facile) · [112.be : Questions fréquentes](https://112.be/fr/questions-frequentes) · [SPF Économie : questions des ménages sur la pénurie d'électricité](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door)
 
 ## Enfants, personnes vulnérables et animaux
 
@@ -262,13 +268,13 @@ Source : [CDC: What to do, get inside](https://cdc.gov/radiation-emergencies/res
 
 ## Se préparer
 
-- **Sachez comment vous serez averti.** Inscrivez-vous à BE-Alert. Gardez à portée de main une radio à piles ou une radio à manivelle (Centre de crise). Ready.gov recommande d'avoir plusieurs moyens de recevoir des alertes.
+- **Sachez comment vous serez averti.** Gardez à portée de main une radio à piles ou une radio à manivelle, de préférence avec DAB+ et FM. Inscrivez-vous à BE-Alert (Centre de crise). Ready.gov recommande d'avoir plusieurs moyens de recevoir des alertes.
 - **Connaissez votre meilleur endroit à la maison et au travail :** la cave ou le milieu du bâtiment, et un espace souterrain à proximité.
 - **Préparez :** de l'eau, de la nourriture en emballage fermé, des médicaments, un jeu de vêtements de rechange par membre de la famille et un sac poubelle pour les vêtements contaminés (Ready.gov).
 - **Établissez un plan de communication :** où vous retrouver si vous ne pouvez pas vous rejoindre à la maison, une personne de contact éloignée, et connaissez les plans de mise à l'abri et d'évacuation de l'école, du travail et de l'établissement de soins (Ready.gov).
 - **Finlande :** apprenez les étapes de la mise à l'abri à l'intérieur et comment couper la ventilation, gardez du ruban adhésif à portée de main et conservez des comprimés d'iode comme les autorités le recommandent.
 
-Source : [Centre de crise National : Se mettre à l'abri](https://centredecrise.be/fr/que-pouvez-vous-faire/le-bon-reflexe/se-mettre-labri) · [Ready.gov: Radiation emergencies](https://www.ready.gov/radiation) · [Suomi.fi: Radiation hazards](https://www.suomi.fi/guides/preparedness/how-to-prepare-for-incidents-and-crises/radiation-hazards)
+Source : [Centre de crise National : Se mettre à l'abri](https://centredecrise.be/fr/que-pouvez-vous-faire/le-bon-reflexe/se-mettre-labri) · [Centre de crise National : brochure Samen voorbereid](https://centredecrise.be/sites/default/files/documents/files/WEB-Brochure-Pr%C3%AAts.%20Ensemble-FR.pdf) · [Ready.gov: Radiation emergencies](https://www.ready.gov/radiation) · [Suomi.fi: Radiation hazards](https://www.suomi.fi/guides/preparedness/how-to-prepare-for-incidents-and-crises/radiation-hazards)
 
 ## À ne pas faire
 

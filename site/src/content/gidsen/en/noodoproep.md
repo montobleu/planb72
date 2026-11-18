@@ -2,9 +2,9 @@
 titel: Emergency call
 module: communicatie
 volgorde: 20
-kort: "Calling 112 and 101 in Belgium: what happens, which questions you are asked, how to give your location, the 112 BE app, text messages for deaf people, calling without coverage or from abroad, eCall and teaching children to call."
+kort: "Calling 112 and 101 in Belgium: what happens, which questions you are asked, how to give your location, what to do if you cannot call, the 112 BE app, text messages for deaf people, calling from abroad, eCall and teaching children to call."
 status: concept
-datum: "2026-11-17"
+datum: "2026-11-18"
 bronnen:
   - naam: "112.be: How do I call 112?"
     url: https://112.be/en/how-call/how-call-112
@@ -42,13 +42,51 @@ bronnen:
     url: https://www.alpenverein.de/artikel/so-geht-das-notfall-alpin_62bc1334-e9c7-4d8b-8a02-89dd681cbb83
   - naam: "Your Europe: eCall, automatic emergency call by your vehicle"
     url: https://europa.eu/youreurope/citizens/travel/security-and-emergencies/emergency-assistance-vehicles-ecall/index_nl.htm
+  - naam: "FPS Economy: Frequently asked questions from households about electricity shortages"
+    url: https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door
+  - naam: "National Crisis Center: Disruption of the digital infrastructure"
+    url: https://crisiscenter.be/en/risks-belgium/societal-risks/failure-digital-infrastructure
+  - naam: "National Crisis Center: Information during an emergency"
+    url: https://crisiscenter.be/en/what-can-you-do/stay-informed/get-informed-emergency-situation
+  - naam: "National Crisis Center: Evacuating"
+    url: https://crisiscenter.be/en/what-can-you-do/right-reflex/evacuate
+  - naam: "National Crisis Center: A plan in your neighbourhood or association"
+    url: https://crisiscenter.be/en/what-can-you-do/make-plan/plan-your-neighbourhood-association-or-club
+  - naam: "National Crisis Center: A plan for people who need extra help"
+    url: https://crisiscenter.be/en/what-can-you-do/make-plan/people-who-need-additional-help
+  - naam: "National Crisis Center: brochure Prepared together"
+    url: https://crisiscenter.be/sites/default/files/documents/files/WEB-Brochure%20Prepared%20Together-EN.pdf
+  - naam: "Rode Kruis-Vlaanderen: Power and communication outages"
+    url: https://www.rodekruis.be/wat-doen-we/hulp-in-vlaanderen/goed-voorbereid/stroom-en-communicatie-uitval/
+  - naam: "Jeugd Rode Kruis: poster An accident! What now? (the 4 steps of first aid)"
+    url: https://jeugd.rodekruis.be/storage/jrk/2026-034-jrk-poster-didactisch-materiaal-4-stappen-hr.pdf
+  - naam: "Gezondheid en Wetenschap (Rode Kruis-Vlaanderen): How do you resuscitate?"
+    url: https://www.gezondheidenwetenschap.be/eerste-hulp/hoe-moet-je-reanimeren
+  - naam: "ERC Guidelines 2021: First aid"
+    url: https://cprguidelines-old.erc.edu/assets/guidelines/European-Resuscitation-Council-Guidelines-2021-Fi.pdf
+  - naam: "ERC Guidelines 2021: Basic Life Support"
+    url: https://cprguidelines-old.erc.edu/assets/guidelines/European-Resuscitation-Council-Guidelines-2021-Ba.pdf
+  - naam: "ERC Guidelines 2021: Paediatric Life Support"
+    url: https://cprguidelines-old.erc.edu/assets/guidelines/European-Resuscitation-Council-Guidelines-2021-Pa.pdf
+  - naam: "IFRC: International first aid, resuscitation, and education guidelines 2020"
+    url: https://www.ifrc.org/sites/default/files/2022-02/EN_GFARC_GUIDELINES_2020.pdf
+  - naam: "BBK: Vorsorgen für Krisen und Katastrophen"
+    url: https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/Buergerinformationen/Ratgeber/BBK-Vorsorgen-fuer-Krisen-und-Katastrophen.pdf?__blob=publicationFile&v=44
+  - naam: "BBK: Stromausfall, Vorsorge und Selbsthilfe"
+    url: https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/Buergerinformationen/stromausfall-vorsorge-selbsthilfe.pdf?__blob=publicationFile&v=17
+  - naam: "Inspectorates (Netherlands): Unavailability of 112 on 24 June 2019"
+    url: https://zoek.officielebekendmakingen.nl/blg-942150.pdf
+  - naam: "Krisinformation.se: How to stay informed if the internet and telephone services go down"
+    url: https://www.krisinformation.se/en/finding-help-and-services/if-internet-and-phone-services-stop-working/
 vertaling: machine
-origineel_datum: "2026-11-17"
+origineel_datum: "2026-11-18"
 ---
 
 ## Which number for which emergency
 
-In Belgium there are two numbers for urgent help. All the other numbers in the table are for situations that are not life-threatening or for a specific problem.
+In Belgium there are two numbers for urgent help. The other numbers in the table are for situations that are not life-threatening or for a specific problem.
+
+All these numbers only work if you can call. If you cannot get through, read No coverage, no SIM card or a network outage further on in this guide. Write the numbers down on a paper list in advance.
 
 | Number | What for | Availability |
 | --- | --- | --- |
@@ -57,21 +95,18 @@ In Belgium there are two numbers for urgent help. All the other numbers in the t
 | 1722 | Non-urgent fire service assistance during storms and flooding. The online desk 1722.be is always open; the number only during storms or thunderstorms. | Only active during storms |
 | 1733 | Doctor on duty, for medical problems that cannot wait until your own doctor's surgery hours | Zonal rate |
 | 070 245 245 | Poison Centre | Free, 24 hours out of 24 |
-| 116 000 | Child Focus: report the disappearance or sexual exploitation of a child | Free, 24 hours out of 24 |
-| 1813 | Zelfmoordlijn (suicide line) | Free, anonymous, 24 hours out of 24 |
-| 106 | Tele-Onthaal | Free, anonymous, 24 hours out of 24 |
-| 102 | Awel, helpline for children and young people | Free, anonymous |
-| 1712 | Questions about violence, abuse and child abuse | Free, anonymous, working days |
 | 1711 | Infrabel: stop rail traffic in acute danger (a tree in the overhead line, a problem at a level crossing, people on the tracks) | |
 | 04 257 66 00 | Speleohulp: underground rescues | |
 
+Helplines such as Tele-Onthaal, the Zelfmoordlijn and Awel are listed at the end, in After the crisis, when the phone works again.
+
 **Call 112 or 101 if** a building, forest or car is on fire or smoke is coming out of a building, if someone is trapped, in a serious accident with injured people, if someone is unconscious, does not stop bleeding or is choking, in a suicide attempt, in aggression or a fight, and in a burglary that is in progress.
 
-**Do not call 112** to test whether the number works, as a joke, for general information, because you cannot get back into your house, or for a taxi. Do not call for ordinary storm damage either: use 1722.be or 1722 instead. If your car breaks down without danger, contact your breakdown service or insurer yourself.
+**Do not call 112** to test whether the number works, as a joke, for general information, because you cannot get back into your house, or for a taxi. Do not call for ordinary storm damage either: call 1722 instead or, if the internet works, use the online desk 1722.be. If your car breaks down without danger, contact your breakdown service or insurer yourself.
 
 **Need the police? Call 101 directly.** If you call 112 for the police, you are transferred to 101. That costs time.
 
-Source: [112.be: Other emergency numbers](https://112.be/en/other-emergency-numbers) · [112.be: Frequently asked questions](https://112.be/en/frequently-asked-questions) · [Civil Security: What do the emergency centres 112 do?](https://securitecivile.be/en/what-do-emergency-centres-112-do)
+Source: [112.be: Other emergency numbers](https://112.be/en/other-emergency-numbers) · [112.be: Frequently asked questions](https://112.be/en/frequently-asked-questions) · [Civil Security: What do the emergency centres 112 do?](https://securitecivile.be/en/what-do-emergency-centres-112-do) · [National Crisis Center: brochure Prepared together](https://crisiscenter.be/sites/default/files/documents/files/WEB-Brochure%20Prepared%20Together-EN.pdf)
 
 ## What happens when you call 112
 
@@ -82,6 +117,8 @@ Source: [112.be: Other emergency numbers](https://112.be/en/other-emergency-numb
 5. The operator asks questions. Answer briefly and precisely.
 6. Only hang up when the operator says you may. After that, keep your line free: the emergency centre must be able to call you back.
 7. If the situation gets worse or better, call back to report it.
+
+If you hear no ringing tone, no announcement, an engaged tone or an error message, follow the steps in No coverage, no SIM card or a network outage.
 
 In every provincial capital and in Brussels there is an emergency centre 112 and a communication and information centre 101. Walloon Brabant has no emergency centre 112 of its own; the surrounding centres take over those calls. About 650 operators and call takers of the FPS Home Affairs work there. In the emergency centres 112 there are also medical directors and nurses, in the centres 101 police officers. The operators reassure you and tell you what to do until help arrives.
 
@@ -114,7 +151,9 @@ The Red Cross and 112.be use three questions: **where, what, who**. Try to know 
 
 Keep your message short but meaningful. The operator can also give you instructions, for example to resuscitate. That is why an ordinary phone call is better than a message if you can speak.
 
-Source: [Rode Kruis-Vlaanderen: teaching pack on calling 112](https://www.rodekruis.be/storage/main/wehdag-2018-lespakket-112-bellen-handleiding.pdf) · [112.be: How do I call 112?](https://112.be/en/how-call/how-call-112) · [112.be: For deaf people](https://112.be/en/deaf-people)
+If someone else has to go and fetch help because you cannot call, give them the same answers: where, what, who.
+
+Source: [Rode Kruis-Vlaanderen: teaching pack on calling 112](https://www.rodekruis.be/storage/main/wehdag-2018-lespakket-112-bellen-handleiding.pdf) · [112.be: How do I call 112?](https://112.be/en/how-call/how-call-112) · [112.be: For deaf people](https://112.be/en/deaf-people) · [IFRC Guidelines 2020](https://www.ifrc.org/sites/default/files/2022-02/EN_GFARC_GUIDELINES_2020.pdf)
 
 ## Giving your location
 
@@ -141,6 +180,114 @@ Your location is the most important thing you pass on. Without a location, the e
 **Why the location matters so much.** Without automatic location, the emergency centre only sees the coverage area of the mobile phone mast for a mobile call. In the countryside that can be an area of several square kilometres. The operator then has to keep asking about landmarks until the location is known.
 
 Source: [Rode Kruis-Vlaanderen: teaching pack on calling 112](https://www.rodekruis.be/storage/main/wehdag-2018-lespakket-112-bellen-handleiding.pdf) · [112.be: Frequently asked questions](https://112.be/en/frequently-asked-questions) · [National Crisis Center: Wildfire](https://crisiscenter.be/en/risks-belgium/natural-risks/wildfires) · [FPS Home Affairs: press release on AML and the 112 BE app](http://kcce.eu/sites/default/files/persbericht_2017-07-13-localisatie_app112be_2.pdf)
+
+## No coverage, no SIM card or a network outage
+
+### Your device
+
+- If there is a SIM card in your phone, you can call 112, even if your device is still locked.
+- In Belgium a SIM card is needed to call the emergency numbers from a mobile phone. An active subscription or registration is not needed.
+- If you see "network not available, emergency calls only" on your screen, there is an outage on your own network and you can temporarily only make emergency calls. That is not a reason to call 112.
+
+Source: [112.be: Frequently asked questions](https://112.be/en/frequently-asked-questions) · [Vlaanderen.be: Emergency calls](https://www.vlaanderen.be/noodoproepen)
+
+### During a power cut
+
+- Mobile phone masts can run for one to two hours without electricity. Mobile internet drops out quickly, probably straight away.
+- As long as your landline gives a dial tone, you can call the emergency services. It is unlikely that the landline will still work then.
+- If you have enough signal, you can call 112, whichever operator you are with. Whether 101 remains reachable is not guaranteed.
+- Only call if it is really necessary. Do not call or browse unnecessarily: that keeps the network free for important calls.
+
+Source: [FPS Economy: questions from households about electricity shortages](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door) · [National Crisis Center: Disruption of the digital infrastructure](https://crisiscenter.be/en/risks-belgium/societal-risks/failure-digital-infrastructure)
+
+### If 112 does not answer
+
+112 is in principle always reachable. If it takes a while, keep waiting. If you hear no ringing tone, no announcement, an engaged tone or an error message, do the following, in this order:
+
+1. Try **another device**, landline or mobile. Another operator (Orange, Proximus, Telenet) can help. Ask neighbours or bystanders to help and to call.
+2. If you have no other device and you are calling from a mobile: **move a few metres** or turn around, and try again.
+3. If you can make calls but 112 cannot be reached: call **101**.
+4. If 112 and 101 cannot be reached because of a technical problem, **three temporary mobile numbers** can be activated per province. These only work during such an outage and are usually not active. Only use them in an emergency.
+5. If you can still make calls but those numbers cannot be reached either: call a **hospital**, the **fire service zone** or the **local police** directly, depending on what has happened.
+
+**Temporary mobile numbers per province** (only active during an outage of 112 and 101, as listed on 112.be on 17 November 2026):
+
+| Province | Temporary mobile numbers |
+| --- | --- |
+| Antwerp | 0471 51 31 46 · 0471 51 31 47 · 0471 51 31 48 |
+| Brussels | 0471 51 28 57 · 0471 51 28 58 · 0471 51 28 59 |
+| Hainaut | 0471 51 31 52 · 0471 51 31 62 · 0471 51 31 72 |
+| Limburg | 0471 51 31 28 · 0471 51 31 37 · 0471 51 31 39 |
+| Liège | 0471 51 31 56 · 0471 51 31 66 · 0471 51 31 76 |
+| Luxembourg | 0471 51 31 54 · 0471 51 31 64 · 0471 51 31 69 |
+| Namur | 0471 51 29 57 · 0471 51 31 58 · 0471 51 31 59 |
+| East Flanders | 0471 51 27 38 · 0471 51 27 81 · 0471 51 27 84 |
+| Flemish Brabant | 0471 51 28 04 · 0471 51 28 65 · 0471 51 28 77 |
+| Walloon Brabant | 0471 51 31 52 · 0471 51 31 62 · 0471 51 31 72 |
+| West Flanders | 0471 51 29 04 · 0471 51 29 70 · 0471 51 31 42 |
+
+If one of these numbers cannot be reached, try the others. Write down the numbers for your province on paper and keep them with your emergency plan.
+
+Source: [112.be: Frequently asked questions](https://112.be/en/frequently-asked-questions) · [112.be: Other emergency numbers](https://112.be/en/other-emergency-numbers) · [National Crisis Center: Disruption of the digital infrastructure](https://crisiscenter.be/en/risks-belgium/societal-risks/failure-digital-infrastructure)
+
+### If you cannot call at all
+
+If no device works any more, the Belgian government says: ask for help in your neighbourhood and follow the information the authorities put out.
+
+**With an injured or sick person**
+
+- Only leave the casualty alone if there is no other option.
+- Shout loudly for help. Speak to a bystander directly and ask them to fetch help. Do not assume that someone else is already doing so.
+- Tell whoever goes for help where it is, what has happened, how many casualties there are and what state they are in.
+- If you are with a group, send two or more people to raise the alarm. The others stay with the injured person.
+- If you are alone with the injured person, first help them as well as you can and then go and look for help.
+- If you need to resuscitate and you are alone without a phone: for an adult, fetch help first and then start resuscitation. For a child, resuscitate for 1 minute first and then go and fetch help.
+- Find a place with coverage, or ask someone you meet to go there and call. Anyone who is not calling from the place of the incident should tell the operator so.
+- In open terrain, with nobody nearby: see the guide Signals and emergency codes.
+
+Source: [ERC Guidelines 2021: First aid](https://cprguidelines-old.erc.edu/assets/guidelines/European-Resuscitation-Council-Guidelines-2021-Fi.pdf) · [ERC Guidelines 2021: Basic Life Support](https://cprguidelines-old.erc.edu/assets/guidelines/European-Resuscitation-Council-Guidelines-2021-Ba.pdf) · [ERC Guidelines 2021: Paediatric Life Support](https://cprguidelines-old.erc.edu/assets/guidelines/European-Resuscitation-Council-Guidelines-2021-Pa.pdf) · [IFRC Guidelines 2020](https://www.ifrc.org/sites/default/files/2022-02/EN_GFARC_GUIDELINES_2020.pdf) · [Gezondheid en Wetenschap: How do you resuscitate?](https://www.gezondheidenwetenschap.be/eerste-hulp/hoe-moet-je-reanimeren) · [National Park Service: Outdoor Emergency Plan](https://www.nps.gov/subjects/healthandsafety/upload/NPS-Outdoor-Emergency-Plan-508c.pdf) · [Deutscher Alpenverein: So geht das, Notfall alpin](https://www.alpenverein.de/artikel/so-geht-das-notfall-alpin_62bc1334-e9c7-4d8b-8a02-89dd681cbb83) · [112.be: How do I call 112?](https://112.be/en/how-call/how-call-112)
+
+**Help and information in your neighbourhood**
+
+- Ask your neighbours and bystanders for help.
+- Follow the news on a battery radio, a wind-up radio or the car radio.
+- The police can drive through the streets with loudspeaker vans to give information. The authorities can also use information boards, leaflets and door-to-door communication.
+- Mayors and governors have prepared emergency measures for a load-shedding power cut, for example an information and reception point for the population. Ask your municipality in advance where that point will be.
+- In larger emergencies the municipality or the province sets up a reception centre, for example in a sports hall or function room. A contact person gives information there.
+- Look out for neighbours or family who need extra help.
+
+Source: [FPS Economy: questions from households about electricity shortages](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door) · [National Crisis Center: Information during an emergency](https://crisiscenter.be/en/what-can-you-do/stay-informed/get-informed-emergency-situation) · [National Crisis Center: brochure Prepared together](https://crisiscenter.be/sites/default/files/documents/files/WEB-Brochure%20Prepared%20Together-EN.pdf) · [National Crisis Center: Evacuating](https://crisiscenter.be/en/what-can-you-do/right-reflex/evacuate) · [Rode Kruis-Vlaanderen: Power and communication outages](https://www.rodekruis.be/wat-doen-we/hulp-in-vlaanderen/goed-voorbereid/stroom-en-communicatie-uitval/)
+
+### Advice from abroad
+
+We did not find an official Belgian source that sends you to a fire station, a police station or a hospital in the event of a complete outage. Authorities in other countries do give that advice.
+
+- **Germany.** The BBK advises: if the emergency numbers 110 and 112 no longer work, go to the nearest police station or to the hospital in an emergency, if you can. Find out in advance where you can get information locally, for example at the town hall or at an emergency meeting point (Notfalltreffpunkt). Ask your municipality where you can report an emergency if the telephone network fails. A power cut in itself is not an emergency.
+- **Netherlands.** During the nationwide 112 outage of 24 June 2019, the government used NL-Alert to send anyone with an urgent report to the nearest fire station or police station. Citizens could also approach police officers in the street. For medical emergencies they had to go to the nearest hospital. Not all regions had staffed their fire stations at the time.
+- **Sweden.** The Swedish authorities advise: if 112 does not work, go to the nearest fire station. In many places fire stations are used for this. Municipalities can also designate places where you can make an emergency call.
+
+The map in the app (Nearest button) shows fire services, police, hospitals and town halls near you.
+
+Source: [BBK: Vorsorgen für Krisen und Katastrophen](https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/Buergerinformationen/Ratgeber/BBK-Vorsorgen-fuer-Krisen-und-Katastrophen.pdf?__blob=publicationFile&v=44) · [BBK: Stromausfall, Vorsorge und Selbsthilfe](https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/Buergerinformationen/stromausfall-vorsorge-selbsthilfe.pdf?__blob=publicationFile&v=17) · [Inspectorates: Unavailability of 112 on 24 June 2019](https://zoek.officielebekendmakingen.nl/blg-942150.pdf) · [Krisinformation.se: If internet and phone services stop working](https://www.krisinformation.se/en/finding-help-and-services/if-internet-and-phone-services-stop-working/)
+
+### Arrange in advance
+
+- Make a paper list of important phone numbers: the temporary mobile numbers for your province and the numbers of your hospital, your fire service zone and your local police. Keep them with your emergency plan.
+- Ask your municipality what arrangements it makes if the power is cut, for example where the information and reception point will be.
+- Agree with your family where you will meet if you cannot reach each other.
+- Agree with your neighbours how you will reach each other without a phone or internet.
+- Get a battery radio or a wind-up radio, preferably with DAB+ and FM.
+
+Source: [National Crisis Center: brochure Prepared together](https://crisiscenter.be/sites/default/files/documents/files/WEB-Brochure%20Prepared%20Together-EN.pdf) · [112.be: Frequently asked questions](https://112.be/en/frequently-asked-questions) · [FPS Economy: questions from households about electricity shortages](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door) · [National Crisis Center: Disruption of the digital infrastructure](https://crisiscenter.be/en/risks-belgium/societal-risks/failure-digital-infrastructure) · [National Crisis Center: A plan in your neighbourhood or association](https://crisiscenter.be/en/what-can-you-do/make-plan/plan-your-neighbourhood-association-or-club)
+
+## In a major disaster or storm
+
+- In large-scale disasters many people call at the same time. The operator then only asks you for additional, usable information. If you have nothing new, hang up as soon as the operator says so. This frees the lines faster.
+- If the RMI announces code orange or red for a storm or flooding and you need the fire service, but nobody's life is in danger: call 1722 or, if the internet works, use the online desk 1722.be.
+- If someone's life may be in danger, always call 112. If that fails, see No coverage, no SIM card or a network outage.
+- Keep 112 free for people whose life is in danger. Only call 112 in immediate danger and limit your phone use, so that the network does not become overloaded.
+
+Source: [112.be: How do I call 112?](https://112.be/en/how-call/how-call-112) · [112.be: Frequently asked questions](https://112.be/en/frequently-asked-questions) · [National Crisis Center: River flooding](https://crisiscenter.be/en/risks-belgium/natural-risks/fluvial-riverine-flood) · [Rode Kruis-Vlaanderen: Power and communication outages](https://www.rodekruis.be/wat-doen-we/hulp-in-vlaanderen/goed-voorbereid/stroom-en-communicatie-uitval/)
 
 ## Automatic location (AML)
 
@@ -178,6 +325,7 @@ The 112 BE app is the official app of the Belgian emergency centres, from the FP
 - The data you fill in when registering are not systematically kept in the emergency centres. They are sent along when you call via the app.
 - The app works **only in Belgium**.
 - The app is free, just like the emergency numbers. It is available in Dutch, French, German and English.
+- The app needs the mobile network: with mobile internet, or without internet via text message. If the network drops out, follow No coverage, no SIM card or a network outage.
 
 **Who benefits most from the app?** Everyone who might forget the number in a panic, people who cannot speak or hear or have difficulty doing so, people with an illness or allergy that the emergency services need to know about immediately, and those who are often in forests, in the countryside or on the move, where there is no address.
 
@@ -185,7 +333,7 @@ Source: [112.be: Mobile application 112 BE](https://112.be/en/mobile-application
 
 ## Deaf, hard of hearing or a speech disorder
 
-If you are deaf or hard of hearing or have a speech disorder, you can reach the emergency centres in two ways without speaking. Both work **only in Belgium**.
+If you are deaf or hard of hearing or have a speech disorder, you can reach the emergency centres in two ways without speaking. Both work **only in Belgium** and only if the mobile network works.
 
 **1. The 112 BE app with chat (best choice)**
 
@@ -206,7 +354,9 @@ If you are deaf or hard of hearing or have a speech disorder, you can reach the 
 
 The text message numbers themselves are not on the public page. Request them before you need them and save them in your device.
 
-Source: [112.be: For deaf people](https://112.be/en/deaf-people) · [Vlaanderen.be: Emergency calls](https://www.vlaanderen.be/noodoproepen)
+**Without a network.** Think in advance about other ways to communicate with others, including when you have no phone or internet. Agree with your neighbours how you will reach each other then. If you cannot get through, see No coverage, no SIM card or a network outage.
+
+Source: [112.be: For deaf people](https://112.be/en/deaf-people) · [Vlaanderen.be: Emergency calls](https://www.vlaanderen.be/noodoproepen) · [National Crisis Center: A plan for people who need extra help](https://crisiscenter.be/en/what-can-you-do/make-plan/people-who-need-additional-help) · [National Crisis Center: A plan in your neighbourhood or association](https://crisiscenter.be/en/what-can-you-do/make-plan/plan-your-neighbourhood-association-or-club)
 
 ## If you cannot talk
 
@@ -222,59 +372,6 @@ There are situations in which you cannot or must not speak, for example because 
 A silent emergency call without the app, as in some other countries, is not described on 112.be. So do not assume that it exists.
 
 Source: [112.be: Mobile application 112 BE](https://112.be/en/mobile-application) · [App Store: 112 BE](https://apps.apple.com/be/app/112-be/id1249304307) · [112.be: For deaf people](https://112.be/en/deaf-people)
-
-## No coverage, no SIM card or a network outage
-
-**What you need to know about your device**
-
-- If there is a SIM card in your phone, you can call 112, even if your device is still locked.
-- In Belgium a SIM card is needed to call the emergency numbers from a mobile phone. An active subscription or registration is not needed.
-- If you see "network not available, emergency calls only" on your screen, there is an outage on your own network and you can temporarily only make emergency calls. That is not a reason to call 112.
-
-**If 112 does not answer.** 112 is in principle always reachable. If it takes a while, keep waiting. If you hear no ringing tone, no announcement, an engaged tone or an error message, do the following, in this order:
-
-1. Try **another device**, landline or mobile. Another operator (Orange, Proximus, Telenet) can help. Ask neighbours or bystanders to call.
-2. If you have no other device and you are calling from a mobile: **move a few metres** or turn around, and try again.
-3. If you can make calls but 112 cannot be reached: call **101**.
-4. If 112 and 101 cannot be reached because of a technical problem, **three temporary mobile numbers** can be activated per province. These only work during such an outage and are usually not active.
-5. If nothing works: contact a **hospital**, the **fire service zone** or the **local police** directly, depending on what has happened.
-
-**Temporary mobile numbers per province** (only active during an outage of 112 and 101, as listed on 112.be on 17 November 2026):
-
-| Province | Temporary mobile numbers |
-| --- | --- |
-| Antwerp | 0471 51 31 46 · 0471 51 31 47 · 0471 51 31 48 |
-| Brussels | 0471 51 28 57 · 0471 51 28 58 · 0471 51 28 59 |
-| Hainaut | 0471 51 31 52 · 0471 51 31 62 · 0471 51 31 72 |
-| Limburg | 0471 51 31 28 · 0471 51 31 37 · 0471 51 31 39 |
-| Liège | 0471 51 31 56 · 0471 51 31 66 · 0471 51 31 76 |
-| Luxembourg | 0471 51 31 54 · 0471 51 31 64 · 0471 51 31 69 |
-| Namur | 0471 51 29 57 · 0471 51 31 58 · 0471 51 31 59 |
-| East Flanders | 0471 51 27 38 · 0471 51 27 81 · 0471 51 27 84 |
-| Flemish Brabant | 0471 51 28 04 · 0471 51 28 65 · 0471 51 28 77 |
-| Walloon Brabant | 0471 51 31 52 · 0471 51 31 62 · 0471 51 31 72 |
-| West Flanders | 0471 51 29 04 · 0471 51 29 70 · 0471 51 31 42 |
-
-If one of these numbers cannot be reached, try the others. Write down the numbers for your province on paper and keep them with your emergency plan.
-
-**Completely without a network** (no device works):
-
-- Find a place with coverage. Ask someone you meet to go to a place with coverage and call from there.
-- If you are with a group and someone is injured, send two or more people to raise the alarm. The others stay with the injured person.
-- If you are alone with the injured person, first help them as well as you can and then go and look for help.
-- Only leave an injured person alone if there is no other option.
-- See also the guide on signals and emergency codes.
-
-Source: [112.be: Frequently asked questions](https://112.be/en/frequently-asked-questions) · [112.be: Other emergency numbers](https://112.be/en/other-emergency-numbers) · [Vlaanderen.be: Emergency calls](https://www.vlaanderen.be/noodoproepen) · [National Park Service: Outdoor Emergency Plan](https://www.nps.gov/subjects/healthandsafety/upload/NPS-Outdoor-Emergency-Plan-508c.pdf) · [Deutscher Alpenverein: So geht das, Notfall alpin](https://www.alpenverein.de/artikel/so-geht-das-notfall-alpin_62bc1334-e9c7-4d8b-8a02-89dd681cbb83)
-
-## In a major disaster or storm
-
-- In large-scale disasters many people call at the same time. The operator then only asks you for additional, usable information. If you have nothing new, hang up as soon as the operator says so. This frees the lines faster.
-- If the RMI announces code orange or red for a storm or flooding, use the online desk 1722.be or call 1722 if you need the fire service but nobody's life is in danger.
-- If someone's life may be in danger, always call 112.
-- Keep 112 free for people whose life is in danger.
-
-Source: [112.be: How do I call 112?](https://112.be/en/how-call/how-call-112) · [112.be: Frequently asked questions](https://112.be/en/frequently-asked-questions) · [National Crisis Center: River flooding](https://crisiscenter.be/en/risks-belgium/natural-risks/fluvial-riverine-flood)
 
 ## From abroad
 
@@ -312,7 +409,7 @@ Source: [112.be: How do I call 112?](https://112.be/en/how-call/how-call-112) ·
 | A vehicle is a hazard or disturbs public order | 101 |
 | Breakdown without danger | Contact your breakdown service or insurer yourself. Do not call 112. |
 
-On the motorway, give the number of the road, the direction of travel, the nearest kilometre marker and exit. Do not use your phone while driving, not even in a traffic jam.
+On the motorway, give the number of the road, the direction of travel, the nearest kilometre marker and exit. Do not use your phone while driving, not even in a traffic jam. If you cannot get through, see No coverage, no SIM card or a network outage.
 
 Source: [Your Europe: eCall](https://europa.eu/youreurope/citizens/travel/security-and-emergencies/emergency-assistance-vehicles-ecall/index_nl.htm) · [European Commission: 112](https://digital-strategy.ec.europa.eu/en/policies/112) · [Vlaanderen.be: Traffic information](https://www.vlaanderen.be/verkeersinformatie) · [112.be: Frequently asked questions](https://112.be/en/frequently-asked-questions) · [Rode Kruis-Vlaanderen: teaching pack on calling 112](https://www.rodekruis.be/storage/main/wehdag-2018-lespakket-112-bellen-handleiding.pdf)
 
@@ -327,6 +424,7 @@ Research that the Red Cross refers to shows that children in the first and secon
 3. What to say: **where** you are, **what** has happened, **who** is injured.
 4. Not to hang up until the operator says so.
 5. Never to call 112 as a joke.
+6. That they can also alert an adult or a doctor. Jeugd Rode Kruis names these, alongside the emergency centre 112, as help you can alert.
 
 **How to practise**
 
@@ -336,7 +434,7 @@ Research that the Red Cross refers to shows that children in the first and secon
 - Teach a child that calling 112 by accident is not a disaster: do not hang up, but say that everything is fine.
 - Also teach older children to use a parent's mobile phone when it is locked: with a SIM card in the device, 112 still works.
 
-Source: [112.be: Kids](https://112.be/en/kids) · [Rode Kruis-Vlaanderen: teaching pack on calling 112](https://www.rodekruis.be/storage/main/wehdag-2018-lespakket-112-bellen-handleiding.pdf) · [112.be: Frequently asked questions](https://112.be/en/frequently-asked-questions)
+Source: [112.be: Kids](https://112.be/en/kids) · [Rode Kruis-Vlaanderen: teaching pack on calling 112](https://www.rodekruis.be/storage/main/wehdag-2018-lespakket-112-bellen-handleiding.pdf) · [112.be: Frequently asked questions](https://112.be/en/frequently-asked-questions) · [Jeugd Rode Kruis: poster An accident! What now?](https://jeugd.rodekruis.be/storage/jrk/2026-034-jrk-poster-didactisch-materiaal-4-stappen-hr.pdf)
 
 ## False calls and calling by accident
 
@@ -360,13 +458,27 @@ Source: [112.be: Frequently asked questions](https://112.be/en/frequently-asked-
 
 | Who | What you do now |
 | --- | --- |
-| Everyone | Install the 112 BE app and register. Switch on your location function. Write down the temporary mobile numbers for your province. Make your house number clearly visible. |
+| Everyone | Make a paper list with the temporary mobile numbers for your province and other important numbers. Agree with your family on a place where you will meet, and with your neighbours how you will reach each other without a phone. Make your house number clearly visible. Install the 112 BE app, register and switch on your location function. |
 | Children | Practise where, what, who. Hang the address template by the phone. |
-| Older people and people who live alone | Put the most important numbers on paper by the phone. Fill in your illnesses and allergies in the app. Agree with a neighbour who will wait for the emergency services. |
-| Deaf people, people who are hard of hearing, people with a speech disorder | Register in the app and tick your impairment. Request the emergency text numbers and save them. |
+| Older people and people who live alone | Put the most important numbers on paper by the phone. Agree with a neighbour who will wait for the emergency services. Fill in your illnesses and allergies in the app. |
+| Deaf people, people who are hard of hearing, people with a speech disorder | Register in the app and tick your impairment. Request the emergency text numbers and save them. Agree how you will communicate with others without a phone or internet. |
 | People with a chronic illness or allergy | Fill in this information when registering in the app, so that the emergency centre sees it immediately. |
 | Speakers of other languages and visitors | Learn 112. In Belgium you can speak English if necessary. |
 | Pets | Know where you can shut them in when the emergency services arrive. |
 | Travellers | Know that 112 works throughout the EU, but the 112 BE app and the emergency text messages do not. Outside the EU, look up the local emergency number. |
 
-Source: [112.be: Mobile application 112 BE](https://112.be/en/mobile-application) · [112.be: For deaf people](https://112.be/en/deaf-people) · [112.be: Kids](https://112.be/en/kids) · [112.be: Frequently asked questions](https://112.be/en/frequently-asked-questions)
+Source: [112.be: Mobile application 112 BE](https://112.be/en/mobile-application) · [112.be: For deaf people](https://112.be/en/deaf-people) · [112.be: Kids](https://112.be/en/kids) · [112.be: Frequently asked questions](https://112.be/en/frequently-asked-questions) · [National Crisis Center: brochure Prepared together](https://crisiscenter.be/sites/default/files/documents/files/WEB-Brochure%20Prepared%20Together-EN.pdf) · [National Crisis Center: Disruption of the digital infrastructure](https://crisiscenter.be/en/risks-belgium/societal-risks/failure-digital-infrastructure) · [National Crisis Center: A plan for people who need extra help](https://crisiscenter.be/en/what-can-you-do/make-plan/people-who-need-additional-help)
+
+## After the crisis, when the phone works again
+
+These lines are not for acute emergencies. In a life-threatening situation or a suicide attempt, call 112 (see Which number for which emergency). During the crisis, support is what people on the spot do for each other: see the guide Mental resilience.
+
+| Number | What for | Availability |
+| --- | --- | --- |
+| 116 000 | Child Focus: report the disappearance or sexual exploitation of a child | Free, 24 hours out of 24 |
+| 1813 | Zelfmoordlijn (suicide line) | Free, anonymous, 24 hours out of 24 |
+| 106 | Tele-Onthaal | Free, anonymous, 24 hours out of 24 |
+| 102 | Awel, helpline for children and young people | Free, anonymous |
+| 1712 | Questions about violence, abuse and child abuse | Free, anonymous, working days |
+
+Source: [112.be: Other emergency numbers](https://112.be/en/other-emergency-numbers) · [112.be: Frequently asked questions](https://112.be/en/frequently-asked-questions)

@@ -3,7 +3,7 @@ titel: Severe bleeding
 volgorde: 3
 kort: "Press hard on the wound for 10 minutes, then apply a pressure bandage and keep pressing until the emergency services arrive."
 status: concept
-datum: "2026-11-17"
+datum: "2026-11-18"
 bronnen:
   - naam: "Gezondheid en Wetenschap (Rode Kruis-Vlaanderen): First aid for severe (external) bleeding"
     url: https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-een-ernstige-bloeding-uitwendig
@@ -23,8 +23,12 @@ bronnen:
     url: https://secure.in.gov/dhs/get-prepared/emergencies/stop-the-bleed-bleeding-control-for-the-injured
   - naam: "FEMA: Until Help Arrives, instructor guide"
     url: https://ready.gov/sites/default/files/2020-07/until-help-arrives-instructor-guide.pdf
+  - naam: "European Resuscitation Council Guidelines 2021: First aid"
+    url: https://cprguidelines-old.erc.edu/assets/guidelines/European-Resuscitation-Council-Guidelines-2021-Fi.pdf
+  - naam: "112.be: Frequently asked questions"
+    url: https://112.be/en/frequently-asked-questions
 vertaling: machine
-origineel_datum: "2026-11-17"
+origineel_datum: "2026-11-18"
 ---
 
 ## Recognise
@@ -42,7 +46,7 @@ Source: [Gezondheid en Wetenschap: Severe bleeding](https://www.gezondheidenwete
 1. Put on disposable gloves. If you do not have any, use plastic bags, a cloth or a bandage between your hand and the wound.
 2. Let the casualty press on the wound themselves if they can. If they cannot, let them guide your hands or keep their hands on the wound while you press. This also reduces the risk of infection.
 3. Help the casualty to lie down on the ground.
-4. Call 112. If you are alone, call with the speaker on while you press.
+4. Call 112 or have someone call. If you are alone, call with the speaker on while you press. If you cannot get through, send someone for help and keep pressing yourself (see Call 112 if).
 5. Expose the wound. Tear or cut away clothing if it is in the way.
 6. Press on the wound with your hands for 10 minutes. Use a gauze pad or a clean cloth if you have one, otherwise your hand.
 7. Keep an injured arm or leg raised if possible.
@@ -57,7 +61,7 @@ The American FEMA programme advises against keeping thick layers between your ha
 
 1. Leave the object in place. Do not pull it out.
 2. Press around the object and try to keep it still.
-3. Alert the emergency services as quickly as possible.
+3. Alert the emergency services as quickly as possible: call 112 or have someone get help.
 
 ### If pressing does not stop the bleeding from an arm or leg: tourniquet
 
@@ -122,7 +126,12 @@ Source: [Gezondheid en Wetenschap: Severe bleeding](https://www.gezondheidenwete
 
 Explain clearly how the injury happened and what condition the casualty is in, so that the emergency service gives the right priority.
 
-Source: [Gezondheid en Wetenschap: Severe bleeding](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-een-ernstige-bloeding-uitwendig) · [IFRC Guidelines 2020](https://www.ifrc.org/sites/default/files/2022-02/EN_GFARC_GUIDELINES_2020.pdf) · [Indiana DHS: Stop the Bleed](https://secure.in.gov/dhs/get-prepared/emergencies/stop-the-bleed-bleeding-control-for-the-injured)
+**If you cannot get through**
+
+- Only leave the casualty alone if there is no other option. Point directly at a bystander to get help and tell them where it is, what happened, how many casualties there are and what condition they are in.
+- See also topic 1 (If you cannot get through: getting help without a phone) and Emergency numbers in the app, If you cannot call.
+
+Source: [Gezondheid en Wetenschap: Severe bleeding](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-een-ernstige-bloeding-uitwendig) · [IFRC Guidelines 2020](https://www.ifrc.org/sites/default/files/2022-02/EN_GFARC_GUIDELINES_2020.pdf) · [Indiana DHS: Stop the Bleed](https://secure.in.gov/dhs/get-prepared/emergencies/stop-the-bleed-bleeding-control-for-the-injured) · [ERC Guidelines 2021: First aid](https://cprguidelines-old.erc.edu/assets/guidelines/European-Resuscitation-Council-Guidelines-2021-Fi.pdf) · [112.be: Frequently asked questions](https://112.be/en/frequently-asked-questions)
 
 ## Do not
 

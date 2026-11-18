@@ -3,7 +3,7 @@ titel: Soins des plaies, infection et tétanos
 volgorde: 17
 kort: "Arrêtez le saignement, rincez la plaie à l'eau courante, couvrez-la et contrôlez-la chaque jour. En cas de plaie sale, profonde ou de morsure, pensez au tétanos."
 status: concept
-datum: "2026-11-17"
+datum: "2026-11-18"
 bronnen:
   - naam: "Gezondheid en Wetenschap (Rode Kruis-Vlaanderen) : Premiers secours en cas de plaie cutanée"
     url: https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-een-huidwonde
@@ -19,8 +19,12 @@ bronnen:
     url: https://www.ifrc.org/sites/default/files/2022-02/EN_GFARC_GUIDELINES_2020.pdf
   - naam: "CDC : Emergency Wound Care After a Natural Disaster (archivé)"
     url: https://webharvest.gov/congress116th/20210116043740/https://www.cdc.gov/disasters/woundcare.html
+  - naam: "European Resuscitation Council Guidelines 2021 : First aid"
+    url: https://cprguidelines-old.erc.edu/assets/guidelines/European-Resuscitation-Council-Guidelines-2021-Fi.pdf
+  - naam: "112.be : Questions fréquentes"
+    url: https://112.be/fr/questions-frequentes
 vertaling: machine
-origineel_datum: "2026-11-17"
+origineel_datum: "2026-11-18"
 ---
 
 ## Reconnaître
@@ -80,7 +84,7 @@ Source : [Gezondheid en Wetenschap : Plaie cutanée](https://www.gezondheidenwet
 
 ### Plaie par perforation
 
-1. Contactez toujours un médecin.
+1. Faites toujours examiner une plaie par perforation par un médecin.
 2. Vous pouvez essayer de retirer vous-même une petite écharde. Un objet plus grand, comme un clou ou un couteau, reste en place. Prévenez le plus vite possible les services de secours.
 3. Arrêtez le saignement, rincez et couvrez comme pour une petite plaie.
 
@@ -125,7 +129,13 @@ Cherchez immédiatement des soins médicaux en cas de signes d'empoisonnement du
 
 Consultez un médecin le plus vite possible pour une plaie qui semble infectée, pour toute plaie par perforation et toute morsure, pour une plaie contenant de la saleté ou un objet, pour une plaie béante ou profonde, et en cas de doute sur la protection contre le tétanos.
 
-Source : [Gezondheid en Wetenschap : Plaie cutanée](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-een-huidwonde) · [Gezondheid en Wetenschap : Plaie par perforation](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-een-steekwonde) · [CDC : Emergency Wound Care After a Natural Disaster](https://webharvest.gov/congress116th/20210116043740/https://www.cdc.gov/disasters/woundcare.html)
+**Si l'appel ne passe pas**
+
+- Ne laissez la victime seule que s'il n'y a pas d'autre possibilité. Désignez directement un témoin pour aller chercher de l'aide et indiquez-lui où c'est, ce qui s'est passé, combien de victimes il y a et dans quel état elles sont.
+- En cas d'hémorragie grave : continuez vous-même à appuyer et envoyez quelqu'un d'autre chercher de l'aide (voir le sujet 3).
+- Voir aussi le sujet 1 (Si l'appel ne passe pas : chercher de l'aide sans téléphone) et Numéros d'urgence dans l'application, Si l'appel ne passe pas.
+
+Source : [Gezondheid en Wetenschap : Plaie cutanée](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-een-huidwonde) · [Gezondheid en Wetenschap : Plaie par perforation](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-een-steekwonde) · [CDC : Emergency Wound Care After a Natural Disaster](https://webharvest.gov/congress116th/20210116043740/https://www.cdc.gov/disasters/woundcare.html) · [IFRC Guidelines 2020](https://www.ifrc.org/sites/default/files/2022-02/EN_GFARC_GUIDELINES_2020.pdf) · [ERC Guidelines 2021 : First aid](https://cprguidelines-old.erc.edu/assets/guidelines/European-Resuscitation-Council-Guidelines-2021-Fi.pdf) · [112.be : Questions fréquentes](https://112.be/fr/questions-frequentes)
 
 ## À ne pas faire
 

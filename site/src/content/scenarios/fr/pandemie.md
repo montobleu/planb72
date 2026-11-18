@@ -7,15 +7,15 @@ stappen:
   - "Lavez-vous souvent les mains à l'eau et au savon, pendant au moins 20 secondes."
   - "Toussez et éternuez dans un mouchoir en papier ou dans votre coude. Jetez le mouchoir dans une poubelle fermée."
   - "Si vous êtes malade : restez à la maison, à l'écart de l'école, du travail et des lieux publics. Portez un masque si vous devez être en présence d'autres personnes."
-  - "Appelez votre médecin généraliste si vous êtes malade ou ne vous sentez pas bien. Ne vous présentez pas sans prévenir."
+  - "Appelez votre médecin généraliste si vous êtes malade ou ne vous sentez pas bien. Ne vous présentez pas sans prévenir, sauf en cas d'urgence."
   - "Aérez régulièrement votre logement."
-  - "Appelez le 112 en cas de détresse respiratoire ou de douleur dans la poitrine."
+  - "Appelez le 112 en cas de détresse respiratoire ou de douleur dans la poitrine. Si l'appel ne passe pas, faites appeler quelqu'un d'autre ou demandez de l'aide dans votre voisinage (voir Numéros d'urgence, Si l'appel ne passe pas)."
 niet:
   - "Ne touchez pas aux oiseaux sauvages morts ou malades."
   - "Ne partagez pas de verres ou d'assiettes avec une personne malade."
   - "Ne diffusez pas d'informations non confirmées."
 status: concept
-datum: "2026-11-17"
+datum: "2026-11-18"
 bronnen:
   - naam: "Centre de crise National : maladies contagieuses"
     url: https://centredecrise.be/fr/risques-en-belgique/risques-sanitaires/maladies-infectieuses
@@ -33,8 +33,16 @@ bronnen:
     url: https://www.cdc.gov/respiratory-viruses/prevention/precautions-when-sick.html
   - naam: "CDC: About Handwashing"
     url: https://www.cdc.gov/clean-hands/about/index.html
+  - naam: "Centre de crise National : informations pendant une situation d'urgence"
+    url: https://centredecrise.be/fr/que-pouvez-vous-faire/informez-vous/linformation-pendant-une-situation-durgence
+  - naam: "Centre de crise National : un plan à la maison"
+    url: https://centredecrise.be/fr/que-pouvez-vous-faire/faites-un-plan/un-plan-la-maison
+  - naam: "112.be : questions fréquentes"
+    url: https://112.be/fr/questions-frequentes
+  - naam: "SPF Économie : questions des ménages sur la pénurie d'électricité"
+    url: https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door
 vertaling: machine
-origineel_datum: "2026-11-17"
+origineel_datum: "2026-11-18"
 ---
 
 ## Reconnaître
@@ -43,11 +51,11 @@ Les virus se propagent d'une personne à l'autre, par des objets, et aussi par d
 
 **Les symptômes d'une infection respiratoire** sont notamment : fièvre, frissons, fatigue, toux, nez qui coule et maux de tête. Sont aussi possibles : gêne dans la poitrine, perte d'appétit, diarrhée, douleurs musculaires ou corporelles, perte soudaine du goût ou de l'odorat, éternuements, mal de gorge, vomissements, faiblesse et respiration sifflante.
 
-**Signaux d'alarme.** Cherchez immédiatement une aide médicale urgente en cas de problèmes respiratoires ou de douleur dans la poitrine. Appelez le 112.
+**Signaux d'alarme.** Cherchez immédiatement une aide médicale urgente en cas de problèmes respiratoires ou de douleur dans la poitrine. Appelez le 112. Si l'appel ne passe pas, faites appeler quelqu'un d'autre ou demandez de l'aide dans votre voisinage (voir Numéros d'urgence, Si l'appel ne passe pas).
 
-**Comment vous êtes informé d'une épidémie.** Suivez les canaux officiels : les autorités, les services de santé et votre médecin généraliste. En Flandre, le Departement Zorg publie la situation épidémiologique et le code couleur du Respi-radar.
+**Comment vous êtes informé d'une épidémie.** Suivez les canaux officiels : les autorités, les services de santé et votre médecin généraliste. Les autorités informent via la radio et la télévision et, si le réseau fonctionne, aussi via BE-Alert, les sites web et les réseaux sociaux. En Flandre, le Departement Zorg publie sur son site web la situation épidémiologique et le code couleur du Respi-radar.
 
-Source : [Ready.gov](https://www.ready.gov/pandemic) · [CDC : si vous êtes malade](https://www.cdc.gov/respiratory-viruses/prevention/precautions-when-sick.html) · [Departement Zorg](https://www.departementzorg.be/nl/infectieziekten-en-vaccinaties)
+Source : [Ready.gov](https://www.ready.gov/pandemic) · [CDC : si vous êtes malade](https://www.cdc.gov/respiratory-viruses/prevention/precautions-when-sick.html) · [Departement Zorg](https://www.departementzorg.be/nl/infectieziekten-en-vaccinaties) · [Centre de crise National : informations pendant une situation d'urgence](https://centredecrise.be/fr/que-pouvez-vous-faire/informez-vous/linformation-pendant-une-situation-durgence) · [112.be : questions fréquentes](https://112.be/fr/questions-frequentes) · [SPF Économie : questions des ménages sur la pénurie d'électricité](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door)
 
 ## Se préparer
 
@@ -69,10 +77,11 @@ Source : [Ready.gov](https://www.ready.gov/pandemic) · [CDC : si vous êtes mal
 
 - Préparez-vous à la fermeture des écoles, des lieux de travail et des lieux de rencontre. Organisez la manière de travailler à domicile et la manière dont les enfants peuvent suivre les cours.
 - Faites un plan familial : que faites-vous, de quoi avez-vous besoin, qui s'occupe de qui si quelqu'un tombe malade.
+- Notez le numéro de votre médecin généraliste et du service de garde de médecine générale sur une liste papier de personnes de contact.
 - Vérifiez ce que couvre votre assurance maladie, y compris les consultations à distance.
 - Conservez une copie numérique sécurisée de vos documents importants. Méfiez-vous des escroqueries et des fraudes.
 
-Source : [Centre de crise National : maladies contagieuses](https://centredecrise.be/fr/risques-en-belgique/risques-sanitaires/maladies-infectieuses) · [Centre de crise National : kit d'urgence](https://centredecrise.be/fr/que-pouvez-vous-faire/preparez-un-kit-durgence/un-kit-durgence-la-maison) · [Ready.gov](https://www.ready.gov/pandemic)
+Source : [Centre de crise National : maladies contagieuses](https://centredecrise.be/fr/risques-en-belgique/risques-sanitaires/maladies-infectieuses) · [Centre de crise National : kit d'urgence](https://centredecrise.be/fr/que-pouvez-vous-faire/preparez-un-kit-durgence/un-kit-durgence-la-maison) · [Ready.gov](https://www.ready.gov/pandemic) · [Centre de crise National : un plan à la maison](https://centredecrise.be/fr/que-pouvez-vous-faire/faites-un-plan/un-plan-la-maison)
 
 ## Pendant
 
@@ -94,6 +103,7 @@ S'il n'y a pas d'eau ni de savon, utilisez un gel pour les mains contenant au mo
 
 - Consultez votre médecin généraliste si vous avez des symptômes grippaux ou ne vous sentez pas bien. Téléphonez d'abord.
 - En dehors des heures de votre médecin généraliste, vous pouvez vous adresser au service de garde de médecine générale. À Gand, appelez pour cela le 1733.
+- Si l'appel ne passe pas et que c'est urgent, voir Numéros d'urgence dans l'application, Si l'appel ne passe pas.
 - Restez à l'écart de l'école, du travail et des lieux publics tant que vous êtes malade.
 - À la maison aussi, restez autant que possible à l'écart des personnes qui ne sont pas malades.
 - Portez un masque si vous êtes en présence d'autres personnes ou si vous devez sortir.
@@ -124,7 +134,7 @@ S'il n'y a pas d'eau ni de savon, utilisez un gel pour les mains contenant au mo
 ### En voiture
 
 - Si vous devez aller chez un médecin, téléphonez d'abord.
-- En cas d'urgence médicale, appelez le 112. Restez où vous êtes, avec un masque si possible, jusqu'à l'arrivée des secours.
+- En cas d'urgence médicale, appelez le 112. Si l'appel ne passe pas, faites appeler quelqu'un d'autre ou demandez de l'aide dans votre voisinage (voir Numéros d'urgence, Si l'appel ne passe pas). Restez où vous êtes, avec un masque si possible, jusqu'à l'arrivée des secours.
 
 ### Au travail ou à l'école
 
@@ -150,10 +160,10 @@ S'il n'y a pas d'eau ni de savon, utilisez un gel pour les mains contenant au mo
 - Lavez-vous les mains après un contact avec des animaux, de la nourriture pour animaux et des excréments.
 - La grippe aviaire peut infecter d'autres espèces animales, y compris l'être humain, même si cela arrive rarement. Des mammifères sauvages, comme des renards, ont aussi déjà été infectés en mangeant des oiseaux malades et morts.
 - Ne touchez pas aux oiseaux sauvages morts ou malades.
-- Signalez les oiseaux morts et les renards morts à la ligne influenza gratuite de l'AFSCA : 0800 99 777. Ce numéro n'est joignable que le matin en semaine. Vous pouvez aussi vous adresser au centre de revalidation pour oiseaux (VOC) désigné par la province, joignable de 8 à 22 heures, aussi le week-end et les jours fériés.
+- Si le téléphone fonctionne, signalez les oiseaux morts et les renards morts à la ligne influenza gratuite de l'AFSCA : 0800 99 777. Ce numéro n'est joignable que le matin en semaine. Vous pouvez aussi vous adresser au centre de revalidation pour oiseaux (VOC) désigné par la province, joignable de 8 à 22 heures, aussi le week-end et les jours fériés.
 - Tenez les animaux domestiques à l'écart des oiseaux morts et malades.
 
-Source : [Centre de crise National : maladies contagieuses](https://centredecrise.be/fr/risques-en-belgique/risques-sanitaires/maladies-infectieuses) · [CDC : se laver les mains](https://www.cdc.gov/clean-hands/about/index.html) · [CDC : si vous êtes malade](https://www.cdc.gov/respiratory-viruses/prevention/precautions-when-sick.html) · [Ready.gov](https://www.ready.gov/pandemic) · [Ville de Gand](https://stad.gent/nl/samenleven-welzijn-gezondheid/gezondheid/wachtdiensten) · [Agentschap Natuur en Bos](https://natuurenbos.be/sites/default/files/2025-11/briefvogelgriepaanpakvoorgemeenten20251125.pdf) · [Centre de crise National : kit d'urgence](https://centredecrise.be/fr/que-pouvez-vous-faire/preparez-un-kit-durgence/un-kit-durgence-la-maison)
+Source : [Centre de crise National : maladies contagieuses](https://centredecrise.be/fr/risques-en-belgique/risques-sanitaires/maladies-infectieuses) · [CDC : se laver les mains](https://www.cdc.gov/clean-hands/about/index.html) · [CDC : si vous êtes malade](https://www.cdc.gov/respiratory-viruses/prevention/precautions-when-sick.html) · [Ready.gov](https://www.ready.gov/pandemic) · [Ville de Gand](https://stad.gent/nl/samenleven-welzijn-gezondheid/gezondheid/wachtdiensten) · [Agentschap Natuur en Bos](https://natuurenbos.be/sites/default/files/2025-11/briefvogelgriepaanpakvoorgemeenten20251125.pdf) · [Centre de crise National : kit d'urgence](https://centredecrise.be/fr/que-pouvez-vous-faire/preparez-un-kit-durgence/un-kit-durgence-la-maison) · [112.be : questions fréquentes](https://112.be/fr/questions-frequentes) · [SPF Économie : questions des ménages sur la pénurie d'électricité](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door)
 
 ## Après
 
@@ -178,6 +188,8 @@ Source : [Centre de crise National : maladies contagieuses](https://centredecris
 Source : [Centre de crise National : maladies contagieuses](https://centredecrise.be/fr/risques-en-belgique/risques-sanitaires/maladies-infectieuses) · [Ready.gov](https://www.ready.gov/pandemic) · [Agentschap Natuur en Bos](https://natuurenbos.be/sites/default/files/2025-11/briefvogelgriepaanpakvoorgemeenten20251125.pdf)
 
 ## Plus d'informations
+
+À lire à l'avance, ou quand Internet fonctionne :
 
 - Risque et conseils : [Centre de crise National : maladies contagieuses](https://centredecrise.be/fr/risques-en-belgique/risques-sanitaires/maladies-infectieuses)
 - Maladies infectieuses et Respi-radar en Flandre : [Departement Zorg](https://www.departementzorg.be/nl/infectieziekten-en-vaccinaties)

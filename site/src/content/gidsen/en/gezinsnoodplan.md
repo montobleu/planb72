@@ -2,9 +2,9 @@
 titel: "The family emergency plan"
 module: voorbereiding
 volgorde: 3
-kort: "What belongs in an emergency plan, how to choose meeting points and contact persons, which arrangements to make with school, work, neighbours and care providers, and how to register with BE-Alert."
+kort: "First the arrangements that work without a phone: a meeting point, a contact person outside the area and a note when you leave. Then what else belongs in an emergency plan, which arrangements to make with school, work, neighbours and care providers, and how to register with BE-Alert."
 status: concept
-datum: "2026-11-17"
+datum: "2026-11-18"
 bronnen:
   - naam: "National Crisis Center: brochure Prepared together"
     url: "https://crisiscenter.be/sites/default/files/documents/files/WEB-Brochure%20Prepared%20Together-EN.pdf"
@@ -24,6 +24,20 @@ bronnen:
     url: "https://crisiscenter.be/en/what-can-you-do/make-plan/animals"
   - naam: "National Crisis Center: Evacuating"
     url: "https://crisiscenter.be/en/what-can-you-do/right-reflex/evacuate"
+  - naam: "National Crisis Center: Disruption of the digital infrastructure"
+    url: "https://crisiscenter.be/en/risks-belgium/societal-risks/failure-digital-infrastructure"
+  - naam: "National Crisis Center: Information during an emergency"
+    url: "https://crisiscenter.be/en/what-can-you-do/stay-informed/get-informed-emergency-situation"
+  - naam: "National Crisis Center: An emergency kit at home"
+    url: "https://crisiscenter.be/en/what-can-you-do/build-emergency-kit/emergency-kit-home"
+  - naam: "National Crisis Center: An emergency kit on location"
+    url: "https://crisiscenter.be/en/what-can-you-do/build-emergency-kit/emergency-kit-site"
+  - naam: "112.be: Frequently asked questions"
+    url: "https://112.be/en/frequently-asked-questions"
+  - naam: "FPS Economy: questions from households about electricity shortages"
+    url: "https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door"
+  - naam: "Jeugd Rode Kruis: poster 4 steps in first aid"
+    url: "https://jeugd.rodekruis.be/storage/jrk/2026-034-jrk-poster-didactisch-materiaal-4-stappen-hr.pdf"
   - naam: "National Crisis Center: BE-Alert, warnings on your phone"
     url: "https://crisiscenter.be/en/what-can-you-do/stay-informed/be-alert-alerts-your-phone"
   - naam: "BE-Alert: Notified, wherever you are"
@@ -32,6 +46,8 @@ bronnen:
     url: "https://www.vlaanderen.be/be-alert-waarschuwingssysteem-bij-noodsituaties"
   - naam: "Denk vooruit: Emergency plan"
     url: "https://www.denkvooruit.nl/bereid-je-voor/noodplan"
+  - naam: "Denk vooruit: Put together your emergency kit"
+    url: "https://www.denkvooruit.nl/bereid-je-voor/stel-je-noodpakket-samen"
   - naam: "Denk vooruit: information booklet Prepare for an emergency"
     url: "https://www.denkvooruit.nl/site/binaries/site-content/collections/documents/2025/11/17/informatieboekje-bereid-je-voor-op-een-noodsituatie/informatieboekje-bereid-je-voor-op-een-noodsituatie.pdf"
   - naam: "Ready.gov: Make A Plan"
@@ -49,14 +65,58 @@ bronnen:
   - naam: "MCF (Sweden): In case of crisis or war"
     url: "https://rib.msb.se/filer/pdf/31523.pdf"
 vertaling: machine
-origineel_datum: "2026-11-17"
+origineel_datum: "2026-11-18"
 ---
 
 An emergency plan is a set of arrangements you make in advance with the people around you: how you reach or find each other, who does what and who needs extra help. The National Crisis Center explains why: in an emergency you sometimes have to rely on yourself for a while. The emergency services help as quickly as possible, but they have to set priorities.
 
-The Crisis Center has a simple fillable emergency plan that you can download free of charge. Denk vooruit has a separate emergency card and a detailed emergency plan. Ready.gov has a form to fill in. This guide follows the Belgian model and adds what other sources contribute.
+During a power cut, internet and mobile networks can also go down (Crisis Center). Mobile masts last one to two hours without power, and the landline will probably not work either (FPS Economy). So start with the arrangements that work without a phone: where you find each other again, who your contact person outside the area is and which note you leave behind when you leave. Write everything down on paper.
 
-Source: [National Crisis Center: A plan at home](https://crisiscenter.be/en/what-can-you-do/make-plan/emergency-plan-home) · [National Crisis Center: My own emergency plan](https://crisiscenter.be/sites/default/files/documents/files/MyEmergencyPlan_interactive%20PDF.pdf) · [Denk vooruit: Emergency plan](https://www.denkvooruit.nl/bereid-je-voor/noodplan) · [Ready.gov: Make A Plan](https://www.ready.gov/plan)
+The Crisis Center has a simple fillable emergency plan that you can download and print free of charge in advance. Denk vooruit has a separate emergency card and a detailed emergency plan. Ready.gov has a form to fill in. This guide follows the Belgian model and adds what other sources contribute.
+
+Source: [National Crisis Center: A plan at home](https://crisiscenter.be/en/what-can-you-do/make-plan/emergency-plan-home) · [National Crisis Center: My own emergency plan](https://crisiscenter.be/sites/default/files/documents/files/MyEmergencyPlan_interactive%20PDF.pdf) · [National Crisis Center: brochure Prepared together](https://crisiscenter.be/sites/default/files/documents/files/WEB-Brochure%20Prepared%20Together-EN.pdf) · [FPS Economy: questions from households about electricity shortages](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door) · [Denk vooruit: Emergency plan](https://www.denkvooruit.nl/bereid-je-voor/noodplan) · [Ready.gov: Make A Plan](https://www.ready.gov/plan)
+
+## Meeting points
+
+If telephone and internet go down, you must know where to find each other without having to discuss it.
+
+- The Crisis Center: agree in advance with your family where you can find each other again if you cannot reach each other. Discuss the safest escape route and meeting place with the people you live with and put them in your emergency plan.
+- Denk vooruit: choose with your household, family or friends a place where you meet if there is no telephone or internet connection. Also agree when you will meet there or when you will visit each other. In the example in the information booklet, someone comes to check on his parents after two days, as agreed in advance.
+- Ready.gov: choose a familiar place that is easy to find, and adapt it to the circumstances.
+
+**Options, from near to far**
+
+| Meeting point | When |
+| --- | --- |
+| Right next to the house, outside | in a fire or a sudden danger in the home; everyone must get out quickly |
+| At the contact person nearby | if you cannot stay at home but the neighbourhood is safe |
+| At the contact person somewhat further from home | if the neighbourhood or municipality cannot be reached or is being evacuated |
+| The reception centre designated by the authorities | in an evacuation; you will hear it via the radio, the emergency services or police loudspeaker vans, and via BE-Alert if the network works |
+
+Ready.gov recommends choosing destinations in different directions, so that you have options.
+
+**Leave a note.** If you have to leave your home, leave a note saying when you left and where you are going (Ready.gov).
+
+Source: [National Crisis Center: Disruption of the digital infrastructure](https://crisiscenter.be/en/risks-belgium/societal-risks/failure-digital-infrastructure) · [Denk vooruit: information booklet](https://www.denkvooruit.nl/site/binaries/site-content/collections/documents/2025/11/17/informatieboekje-bereid-je-voor-op-een-noodsituatie/informatieboekje-bereid-je-voor-op-een-noodsituatie.pdf) · [Ready.gov: Make A Plan](https://www.ready.gov/plan) · [Ready.gov: Evacuation](https://www.ready.gov/evacuation) · [National Crisis Center: brochure Prepared together](https://crisiscenter.be/sites/default/files/documents/files/WEB-Brochure%20Prepared%20Together-EN.pdf) · [National Crisis Center: Evacuating](https://crisiscenter.be/en/what-can-you-do/right-reflex/evacuate) · [National Crisis Center: Information during an emergency](https://crisiscenter.be/en/what-can-you-do/stay-informed/get-informed-emergency-situation)
+
+## Contact persons: nearby and outside the area
+
+The Crisis Center recommends two kinds of contact persons:
+
+- **A contact person nearby**, whom you can go to if something happens at your home.
+- **A contact person somewhat further from home**, for when you cannot get into your street, neighbourhood or municipality.
+
+For an evacuation, the Crisis Center also recommends asking a family member or friend who does not live in the same zone to be a contact person. As soon as you are safe, you let him or her know. That way, this person knows where everyone is if family members have become separated. Ready.gov calls this an out-of-state contact and recommends calling or emailing that person to say where you are going, if time allows.
+
+**How to make it usable, even without a phone**
+
+1. Make sure everyone in the house knows the addresses and telephone numbers and that there is a list on paper. That way you find each other again, even if you have forgotten your mobile or your battery is flat (Crisis Center).
+2. Learn the telephone numbers and email addresses of family members by heart. Help children remember important information, such as their parents' names (Rode Kruis-Vlaanderen, Restoring Family Links).
+3. Ask your contact persons whether you can stay with them, also with your pet (Crisis Center).
+4. Give a photo or copy of your completed plan to your contact persons (Crisis Center, Denk vooruit).
+5. Also programme a contact person into your phone. On some devices this is called ICE, in case of emergency (Crisis Center).
+
+Source: [National Crisis Center: A plan at home](https://crisiscenter.be/en/what-can-you-do/make-plan/emergency-plan-home) · [National Crisis Center: Evacuating](https://crisiscenter.be/en/what-can-you-do/right-reflex/evacuate) · [Ready.gov: Evacuation](https://www.ready.gov/evacuation) · [Denk vooruit: Emergency plan](https://www.denkvooruit.nl/bereid-je-voor/noodplan) · [Rode Kruis-Vlaanderen: Restoring Family Links](https://en.rodekruis.be/wat-doen-we/hulp-wereldwijd/opsporen-van-vermiste-personen/)
 
 ## Questions the plan answers
 
@@ -94,7 +154,7 @@ Source: [Denk vooruit: Emergency plan](https://www.denkvooruit.nl/bereid-je-voor
 
 **3. Learn the quickest way out.** What if the front door cannot be reached, or if there is no light? Think in advance about all the ways to get out safely.
 
-**4. Know the emergency numbers.** Download the 112 BE app. Make a list with your gas, water and electricity supplier, the monitoring centre of your alarm system, your GP, your insurer, your neighbours or contact persons.
+**4. Know the emergency numbers.** Make a list with your gas, water and electricity supplier, the monitoring centre of your alarm system, your GP, your insurer, your neighbours or contact persons. Put that list on paper (Prepared together). Also download the 112 BE app in advance.
 
 **5. Choose contact persons** (see below).
 
@@ -106,7 +166,7 @@ Source: [Denk vooruit: Emergency plan](https://www.denkvooruit.nl/bereid-je-voor
 - Adapt the plan for people with special needs, for example specific medication, a disability or limited digital skills. Practise regularly.
 - Include your animals in the plan.
 
-Source: [National Crisis Center: A plan at home](https://crisiscenter.be/en/what-can-you-do/make-plan/emergency-plan-home)
+Source: [National Crisis Center: A plan at home](https://crisiscenter.be/en/what-can-you-do/make-plan/emergency-plan-home) · [National Crisis Center: brochure Prepared together](https://crisiscenter.be/sites/default/files/documents/files/WEB-Brochure%20Prepared%20Together-EN.pdf)
 
 ## What you fill in on the Belgian emergency plan
 
@@ -126,64 +186,39 @@ The Crisis Center's fillable plan asks for:
 | Important services | internet, water, insurance, gas, electricity, telephone: name, telephone, customer number |
 | Work together | how you alert each other; who in your network can offer which help; who in your neighbourhood needs extra help |
 
-**Emergency numbers on the Belgian plan and in the brochure**
+**Emergency numbers to write down on paper in advance**
+
+These numbers are on the Belgian plan and in the brochure. They only work if the network works.
 
 | Number | For what |
 | --- | --- |
-| 112 or the 112 app | ambulance, fire service and police in life-threatening situations |
+| 112, or the 112 app if the network works | ambulance, fire service and police in life-threatening situations |
 | 101 | police |
-| 1722 or the online desk 1722.be | non-urgent fire service help in storms or flooding |
+| 1722, or the online desk 1722.be if the internet works | non-urgent fire service help in storms or flooding |
 | 1733 | GP on duty |
 | 070 245 245 | Poison Centre |
 | 078 170 170 | Card Stop |
 | 0800 65 065 | smell of gas or gas leak, Flanders |
 | 0800 19 400 | smell of gas or gas leak, Brussels-Capital Region |
 | 0800 87 087 | smell of gas or gas leak, Wallonia |
-| 106 or tele-onthaal.be | Tele-Onthaal, if you need someone to talk to |
 
 If you call 112, say as clearly as possible where you are, what has happened and how many people are injured (brochure).
 
-Source: [National Crisis Center: My own emergency plan](https://crisiscenter.be/sites/default/files/documents/files/MyEmergencyPlan_interactive%20PDF.pdf) · [National Crisis Center: brochure Prepared together](https://crisiscenter.be/sites/default/files/documents/files/WEB-Brochure%20Prepared%20Together-EN.pdf)
+**If you cannot get through.** Try another phone or have neighbours or bystanders call. Move a few metres and try again. If calling does not work at all, ask for help in your neighbourhood and follow the government information on the radio. The municipality can open an information and reception point: ask your municipality in advance where it is and write it in your plan (112.be, FPS Economy). See also Emergency numbers in the app, If you cannot call.
 
-## Contact persons: nearby and outside the region
+Source: [National Crisis Center: My own emergency plan](https://crisiscenter.be/sites/default/files/documents/files/MyEmergencyPlan_interactive%20PDF.pdf) · [National Crisis Center: brochure Prepared together](https://crisiscenter.be/sites/default/files/documents/files/WEB-Brochure%20Prepared%20Together-EN.pdf) · [112.be: Frequently asked questions](https://112.be/en/frequently-asked-questions) · [FPS Economy: questions from households about electricity shortages](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door)
 
-The Crisis Center recommends two kinds of contact persons:
+## After the crisis, when the phone works again
 
-- **A contact person nearby**, whom you can go to if something happens at your home.
-- **A contact person somewhat further from home**, for when you cannot get into your street, neighbourhood or municipality.
+The Belgian plan also lists a number for people who need someone to talk to. It is not an emergency number. Write it down separately, for when the phone or the internet works again.
 
-For an evacuation, the Crisis Center also recommends asking a family member or friend who does not live in the same zone to be a contact person. As soon as you are safe, you let him or her know. That way, this person knows where everyone is if family members have become separated. Ready.gov calls this an out-of-state contact and recommends calling or emailing that person to say where you are going, if time allows.
-
-**How to make it usable**
-
-1. Make sure everyone in the house knows the addresses and telephone numbers and that there is a list on paper. That way you find each other again, even if you have forgotten your mobile or your battery is flat (Crisis Center).
-2. Programme a contact person into your phone. On some devices this is called ICE, in case of emergency (Crisis Center).
-3. Ask your contact persons whether you can stay with them, also with your pet (Crisis Center).
-4. Give a photo or copy of your completed plan to your contact persons (Crisis Center, Denk vooruit).
-5. Learn the telephone numbers and email addresses of family members by heart. Help children remember important information, such as their parents' names (Rode Kruis-Vlaanderen, Restoring Family Links).
-
-Source: [National Crisis Center: A plan at home](https://crisiscenter.be/en/what-can-you-do/make-plan/emergency-plan-home) · [National Crisis Center: Evacuating](https://crisiscenter.be/en/what-can-you-do/right-reflex/evacuate) · [Ready.gov: Evacuation](https://www.ready.gov/evacuation) · [Denk vooruit: Emergency plan](https://www.denkvooruit.nl/bereid-je-voor/noodplan) · [Rode Kruis-Vlaanderen: Restoring Family Links](https://en.rodekruis.be/wat-doen-we/hulp-wereldwijd/opsporen-van-vermiste-personen/)
-
-## Meeting points
-
-If telephone and internet go down, you must know where to find each other without having to discuss it.
-
-- Denk vooruit: choose with your household, family or friends a place where you meet if there is no telephone or internet connection. Also agree when you will meet there or when you will visit each other. In the example in the information booklet, someone comes to check on his parents after two days, as agreed in advance.
-- Ready.gov: choose a familiar place that is easy to find, and adapt it to the circumstances.
-- The Crisis Center: discuss the safest escape route and meeting place with the people you live with and put them in your emergency plan.
-
-**Options, from near to far**
-
-| Meeting point | When |
+| Number | For what |
 | --- | --- |
-| Right next to the house, outside | in a fire or a sudden danger in the home; everyone must get out quickly |
-| At the contact person nearby | if you cannot stay at home but the neighbourhood is safe |
-| At the contact person somewhat further from home | if the neighbourhood or municipality cannot be reached or is being evacuated |
-| The reception centre designated by the authorities | in an evacuation; you will hear where it is through the official channels |
+| 106 or tele-onthaal.be | Tele-Onthaal, if you need someone to talk to |
 
-Ready.gov recommends choosing destinations in different directions, so that you have options.
+During the crisis, support each other on the spot. See the guide on mental resilience and psychological first aid; it also lists the other helplines for after the crisis.
 
-Source: [Denk vooruit: information booklet](https://www.denkvooruit.nl/site/binaries/site-content/collections/documents/2025/11/17/informatieboekje-bereid-je-voor-op-een-noodsituatie/informatieboekje-bereid-je-voor-op-een-noodsituatie.pdf) · [Ready.gov: Make A Plan](https://www.ready.gov/plan) · [Ready.gov: Evacuation](https://www.ready.gov/evacuation) · [National Crisis Center: brochure Prepared together](https://crisiscenter.be/sites/default/files/documents/files/WEB-Brochure%20Prepared%20Together-EN.pdf) · [National Crisis Center: Evacuating](https://crisiscenter.be/en/what-can-you-do/right-reflex/evacuate)
+Source: [National Crisis Center: My own emergency plan](https://crisiscenter.be/sites/default/files/documents/files/MyEmergencyPlan_interactive%20PDF.pdf) · [National Crisis Center: brochure Prepared together](https://crisiscenter.be/sites/default/files/documents/files/WEB-Brochure%20Prepared%20Together-EN.pdf)
 
 ## Dividing the tasks
 
@@ -196,7 +231,8 @@ The Crisis Center recommends dividing the tasks in advance, for example who take
 | Pets in the carrier | | |
 | Turn off gas, water and electricity if asked to | | |
 | Alert a neighbour or family member with extra care needs | | |
-| Let the contact person outside the region know where you are | | |
+| Leave a note: when you left, where to | | |
+| Let the contact person outside the area know where you are | | |
 | Check the supplies, every six months | | |
 
 Source: [National Crisis Center: Evacuating](https://crisiscenter.be/en/what-can-you-do/right-reflex/evacuate) · [Ready.gov: Evacuation](https://www.ready.gov/evacuation) · [Denk vooruit: Put together your emergency kit](https://www.denkvooruit.nl/bereid-je-voor/stel-je-noodpakket-samen)
@@ -205,10 +241,10 @@ Source: [National Crisis Center: Evacuating](https://crisiscenter.be/en/what-can
 
 **As a parent**
 
-- Register the address of your children's school in BE-Alert. That way you get a message in an emergency near the school (Crisis Center).
 - Agree who will pick up the children if you cannot and your phone does not work (Denk vooruit).
-- Make sure your children have a contact person and know how to reach them. Teach them when and how to call important numbers (Ready.gov). The Crisis Center recommends teaching young children to call 112.
 - Agree on a family password or phrase, so that your child does not go with a stranger (Ready.gov).
+- Make sure your children have a contact person and know how to reach them. Teach them when and how to call important numbers (Ready.gov). The Crisis Center recommends teaching young children to call 112. The Red Cross youth poster teaches children to get help: an adult, a doctor or the 112 emergency centre.
+- Register the address of your children's school in BE-Alert. That way you get a message in an emergency near the school, if the network works (Crisis Center).
 
 **What the school itself does (Crisis Center)**
 
@@ -223,7 +259,7 @@ For primary schools, the Crisis Center has the BE-Ready teaching pack and game.
 
 **For an activity away from school**, the Crisis Center recommends that the coordinator always carries a list of those present and thinks in advance about how to alert the parents.
 
-Source: [National Crisis Center: A plan at school](https://crisiscenter.be/en/what-can-you-do/make-plan/school) · [National Crisis Center: BE-Alert](https://crisiscenter.be/en/what-can-you-do/stay-informed/be-alert-alerts-your-phone) · [National Crisis Center: A plan for people who need extra help](https://crisiscenter.be/en/what-can-you-do/make-plan/people-who-need-additional-help) · [National Crisis Center: A plan in your neighbourhood or association](https://crisiscenter.be/en/what-can-you-do/make-plan/plan-your-neighbourhood-association-or-club) · [Denk vooruit: Emergency plan](https://www.denkvooruit.nl/bereid-je-voor/noodplan) · [Ready.gov: Extreme Heat](https://www.ready.gov/heat)
+Source: [National Crisis Center: A plan at school](https://crisiscenter.be/en/what-can-you-do/make-plan/school) · [National Crisis Center: BE-Alert](https://crisiscenter.be/en/what-can-you-do/stay-informed/be-alert-alerts-your-phone) · [National Crisis Center: A plan for people who need extra help](https://crisiscenter.be/en/what-can-you-do/make-plan/people-who-need-additional-help) · [National Crisis Center: A plan in your neighbourhood or association](https://crisiscenter.be/en/what-can-you-do/make-plan/plan-your-neighbourhood-association-or-club) · [Denk vooruit: Emergency plan](https://www.denkvooruit.nl/bereid-je-voor/noodplan) · [Ready.gov: Extreme Heat](https://www.ready.gov/heat) · [Jeugd Rode Kruis: poster 4 steps in first aid](https://jeugd.rodekruis.be/storage/jrk/2026-034-jrk-poster-didactisch-materiaal-4-stappen-hr.pdf)
 
 ## Work
 
@@ -242,23 +278,24 @@ Source: [National Crisis Center: A plan at work](https://crisiscenter.be/en/what
 
 The Crisis Center recommends building a network with neighbours, acquaintances, family and friends, and using existing networks such as a residents' association or sports club. Make arrangements about:
 
-- **How you alert each other.** Via social media or messaging apps; by telephone, with arrangements about whom you may call at night; and how you reach each other without telephone or internet.
+- **How you alert each other.** First: how you reach each other without telephone or internet. In addition, if the network works: by telephone, with arrangements about whom you may call at night, and via social media or messaging apps.
 - **Which risks.** Nuclear emergency planning zones, flood areas, Seveso sites nearby, and risks for the whole country such as hours without electricity, heating or internet.
 - **Who can offer which help.** Knowledge such as first aid or DIY skills, materials such as tools, space such as a large garage or cellar.
 - **Who needs extra help.** For example people with a disability, single parents with young children, older people.
 
-Other ways of helping each other that the Crisis Center mentions: taking a first aid course together, giving blood or plasma, spreading correct information, offering a place to sleep to people who cannot get home, lending things, doing shopping, lending your mobile or sharing a hotspot, cooking for someone.
+Other ways of helping each other that the Crisis Center mentions: taking a first aid course together, giving blood or plasma, spreading correct information, offering a place to sleep to people who cannot get home, lending things, doing shopping, lending your mobile or sharing a hotspot, cooking for someone. During a power cut, several people can get together to share light and warmth.
 
 **In a block of flats**, also discuss who has the keys, who can get to the water supply, gas tap and meters, whether there is a shared ventilation system and who can switch it off, and who helps the residents who need extra help. If you are not the owner, know the emergency exits.
 
-Source: [National Crisis Center: A plan in your neighbourhood or association](https://crisiscenter.be/en/what-can-you-do/make-plan/plan-your-neighbourhood-association-or-club) · [National Crisis Center: brochure Prepared together](https://crisiscenter.be/sites/default/files/documents/files/WEB-Brochure%20Prepared%20Together-EN.pdf)
+Source: [National Crisis Center: A plan in your neighbourhood or association](https://crisiscenter.be/en/what-can-you-do/make-plan/plan-your-neighbourhood-association-or-club) · [National Crisis Center: brochure Prepared together](https://crisiscenter.be/sites/default/files/documents/files/WEB-Brochure%20Prepared%20Together-EN.pdf) · [National Crisis Center: An emergency kit at home](https://crisiscenter.be/en/what-can-you-do/build-emergency-kit/emergency-kit-home)
 
 ## People with care needs
 
 **General (Crisis Center)**
 
 - Check whether the evacuation routes are accessible and whether you can reach the gas tap, meter and water supply.
-- Discuss with people around you how they can help you and how you will keep in touch. They can register your address in BE-Alert, so that they also get a message.
+- Discuss with people around you how they can help you and how you will keep in touch. Think of alternative ways to communicate with others, even if you have no telephone or internet.
+- They can register your address in BE-Alert, so that they also get a message.
 - Ask your GP or pharmacist for a medication list and keep it with your important documents.
 
 **Per situation (Crisis Center)**
@@ -271,7 +308,7 @@ Source: [National Crisis Center: A plan in your neighbourhood or association](ht
 | Devices that run on electricity (oxygen, electric wheelchair) | discuss with your care providers what to do in a power failure |
 | Difficulty walking | practise now and then whether you can get out quickly; who helps and how you reach them |
 | Difficulty with digital technology | have someone register you with BE-Alert; learn to recognise messages; agree how others will alert you |
-| Little or no Dutch or French | register with BE-Alert, ask people around you to translate messages, have a translation app or someone who interprets |
+| Little or no Dutch or French | register with BE-Alert, ask people around you to translate messages, have someone who interprets or a translation app |
 
 **Additions from Ready.gov**
 
@@ -320,6 +357,8 @@ Registering remains useful: then you are also alerted for addresses where you ar
 
 Registration and messages are free.
 
+**If the network goes down.** BE-Alert sends messages by text message, email or voice call. During a power cut, internet and mobile networks can go down. So also have a battery-powered radio or a wind-up radio, preferably with DAB+ and FM. The authorities can also use information boards, leaflets, door-to-door communication and police loudspeaker vans (Crisis Center).
+
 **How to recognise a genuine message**
 
 - It always starts with "BE-Alert".
@@ -329,7 +368,7 @@ Registration and messages are free.
 
 Save 1789 and 0477 77 77 55 in your phone and mark the email address as trusted, so that messages do not end up in your spam. More about BE-Alert and other channels in the guide on communication and alerts.
 
-Source: [National Crisis Center: BE-Alert, warnings on your phone](https://crisiscenter.be/en/what-can-you-do/stay-informed/be-alert-alerts-your-phone) · [National Crisis Center: brochure Prepared together](https://crisiscenter.be/sites/default/files/documents/files/WEB-Brochure%20Prepared%20Together-EN.pdf) · [BE-Alert: Notified, wherever you are](https://www.be-alert.be/en/how-does-be-alert-work/notified-wherever-you-are) · [Vlaanderen.be: BE-Alert](https://www.vlaanderen.be/be-alert-waarschuwingssysteem-bij-noodsituaties)
+Source: [National Crisis Center: BE-Alert, warnings on your phone](https://crisiscenter.be/en/what-can-you-do/stay-informed/be-alert-alerts-your-phone) · [National Crisis Center: brochure Prepared together](https://crisiscenter.be/sites/default/files/documents/files/WEB-Brochure%20Prepared%20Together-EN.pdf) · [BE-Alert: Notified, wherever you are](https://www.be-alert.be/en/how-does-be-alert-work/notified-wherever-you-are) · [Vlaanderen.be: BE-Alert](https://www.vlaanderen.be/be-alert-waarschuwingssysteem-bij-noodsituaties) · [National Crisis Center: Information during an emergency](https://crisiscenter.be/en/what-can-you-do/stay-informed/get-informed-emergency-situation)
 
 ## Keeping, updating and practising
 

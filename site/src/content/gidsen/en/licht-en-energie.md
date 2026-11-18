@@ -2,9 +2,9 @@
 titel: "Light and energy without mains electricity"
 module: energie
 volgorde: 1
-kort: "All sources of light and power for a power cut with their advantages and disadvantages: torch, candles, batteries, power bank, solar charger, the car, a generator and a home battery, plus how to make your phone last as long as possible."
+kort: "All sources of light and power for a power cut with their advantages and disadvantages: torch, candles, batteries, power bank, solar charger, the car, a generator and a home battery, plus what to expect from your phone when the network goes down and how to share light and warmth with your neighbours."
 status: concept
-datum: "2026-11-17"
+datum: "2026-11-18"
 bronnen:
   - naam: "National Crisis Center: Disruption of electricity"
     url: "https://crisiscenter.be/en/risks-belgium/societal-risks/failure-electricity-supply"
@@ -34,11 +34,21 @@ bronnen:
     url: "https://www.ready.gov/evacuation"
   - naam: "Ready.gov: People with Disabilities"
     url: "https://www.ready.gov/disability"
+  - naam: "FPS Economy: Frequently asked questions from households about electricity shortages"
+    url: "https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door"
+  - naam: "Red Cross Flanders: Power and communication failure"
+    url: "https://www.rodekruis.be/wat-doen-we/hulp-in-vlaanderen/goed-voorbereid/stroom-en-communicatie-uitval/"
+  - naam: "National Crisis Center: Information during an emergency"
+    url: "https://crisiscenter.be/en/what-can-you-do/stay-informed/get-informed-emergency-situation"
+  - naam: "112.be: Frequently asked questions"
+    url: "https://112.be/en/frequently-asked-questions"
+  - naam: "National Crisis Center: A plan for your neighbourhood or association"
+    url: "https://crisiscenter.be/en/what-can-you-do/make-plan/plan-your-neighbourhood-association-or-club"
 vertaling: machine
-origineel_datum: "2026-11-17"
+origineel_datum: "2026-11-18"
 ---
 
-According to the Crisis Center, a power cut knocks out a great deal at once: lighting, fridge and freezer, electric cookers, TV and computer, central heating boilers and circulation pumps, lifts, automatic doors and garage doors, cash machines and petrol stations, and trains, trams and metros. The telephone network can also be disrupted. This guide is about light and about power for the appliances you really need.
+According to the Crisis Center, a power cut knocks out a great deal at once: lighting, fridge and freezer, electric cookers, TV and computer, central heating boilers and circulation pumps, lifts, automatic doors and garage doors, cash machines and petrol stations, and trains, trams and metros. The telephone network can also be disrupted: expect calls and the internet to stop working after a short time (see The phone: charge it, but do not rely on it). This guide is about light and about power for the appliances you really need.
 
 Ready.gov recommends making a list in advance of everything you need that runs on electricity, and planning for each appliance with batteries or another source.
 
@@ -139,28 +149,40 @@ Source: [MCF: In case of crisis or war](https://rib.msb.se/filer/pdf/31523.pdf) 
 
 Source: [BBK: Stromausfall, Vorsorge und Selbsthilfe](https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/Buergerinformationen/stromausfall-vorsorge-selbsthilfe.pdf?__blob=publicationFile&v=17) · [Ready.gov: Power Outages](https://www.ready.gov/power-outages) · [Ready.gov: Evacuation](https://www.ready.gov/evacuation)
 
-## Making your phone last as long as possible
-
-**Power saving**
-
-- Turn down the screen brightness and close apps (Denk vooruit).
-- Always keep one phone in the house switched on so that you can receive important messages (Denk vooruit; in Belgium this means BE-Alert).
-- Keep your mobile ready to receive at night too if you are affected (BBK).
-
-**Saving the network**
-
-- Only make calls when really necessary and preferably use text messages (OFF ON).
-- In a major emergency, use messaging apps instead of calling; overloading the network can disrupt the emergency response (Crisis Center brochure).
+## The phone: charge it, but do not rely on it
 
 **What you need to know**
 
-- During a power cut, the landline network also stops working after a short time: with internet telephony, the router, fibre connection and handset all need power (BBK).
+- Mobile masts can run for one to two hours without electricity. Mobile internet (4G and 5G) drops out quickly, probably immediately (FPS Economy).
+- Most landlines stop working without power, because the modem or line equipment needs power. A traditional telephone line with a handset that has no power supply of its own keeps working for about four hours (FPS Economy). With internet telephony, the router, fibre connection and handset all need power (BBK).
+- Even if you have power yourself, the mobile network can go down because the mast is in an area without power. The reverse can also happen (FPS Economy).
 - Mobile networks have only partial and short-lived emergency power, and quickly become overloaded (BBK).
-- Ready.gov recommends checking whether your landline works during a power cut and how long its back-up battery lasts.
+- When the power comes back, it can take several hours before you can make mobile calls again (FPS Economy).
+- Ready.gov recommends checking in advance whether your landline works during a power cut and how long its back-up battery lasts.
+
+**Charge it anyway**
+
+- Charge your mobile, but bear in mind that the mobile and landline networks may be disrupted (OFF ON). Keep your mobile charged so that you can be reached for as long as there is a signal (Red Cross Flanders).
+- Turn down the screen brightness and close apps (Denk vooruit).
+- Always keep one phone in the house switched on so that you can receive important messages for as long as the network works (Denk vooruit; in Belgium this means BE-Alert).
+- Keep your mobile ready to receive at night too if you are affected (BBK).
+
+**While the network works: save it**
+
+- Only call 112 in immediate danger and limit your phone use, so as not to overload the network (Red Cross Flanders).
+- Only make calls when really necessary and preferably use text messages (OFF ON).
+- In a major emergency, use messaging apps instead of calling; overloading the network can disrupt the emergency response (Crisis Center brochure). Messaging apps need mobile internet, and that drops out quickly during a power cut (FPS Economy).
+
+**When calls and the internet no longer work**
+
+- Follow the news on a battery radio, a wind-up radio or the car radio (OFF ON, FPS Economy).
+- The authorities can also inform you with police loudspeaker vans, information boards, leaflets and door-to-door visits (Crisis Center).
+- If you can no longer call, consult the general information from the authorities or ask for help in your neighbourhood (FPS Economy). During load shedding, municipalities can open an information and reception point for the public. Ask your municipality in advance what arrangements it has made (FPS Economy).
+- If you need to reach the emergency services: see Emergency numbers in the app, If you cannot call. The map in the app (Nearest button) shows fire stations, police, hospitals and town halls.
 
 More in the guide on communication and alerts.
 
-Source: [Denk vooruit: information booklet](https://www.denkvooruit.nl/site/binaries/site-content/collections/documents/2025/11/17/informatieboekje-bereid-je-voor-op-een-noodsituatie/informatieboekje-bereid-je-voor-op-een-noodsituatie.pdf) · [BBK: Vorsorgen für Krisen und Katastrophen](https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/Buergerinformationen/Ratgeber/BBK-Vorsorgen-fuer-Krisen-und-Katastrophen.pdf?__blob=publicationFile&v=44) · [BBK: Stromausfall, Vorsorge und Selbsthilfe](https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/Buergerinformationen/stromausfall-vorsorge-selbsthilfe.pdf?__blob=publicationFile&v=17) · [National Crisis Center: OFF ON](https://crisiscentrum.be/sites/default/files/documents/files/OffOn-triptyque-N.pdf) · [National Crisis Center: brochure Prepared together](https://crisiscenter.be/sites/default/files/documents/files/WEB-Brochure%20Prepared%20Together-EN.pdf) · [Ready.gov: Power Outages](https://www.ready.gov/power-outages)
+Source: [Denk vooruit: information booklet](https://www.denkvooruit.nl/site/binaries/site-content/collections/documents/2025/11/17/informatieboekje-bereid-je-voor-op-een-noodsituatie/informatieboekje-bereid-je-voor-op-een-noodsituatie.pdf) · [BBK: Vorsorgen für Krisen und Katastrophen](https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/Buergerinformationen/Ratgeber/BBK-Vorsorgen-fuer-Krisen-und-Katastrophen.pdf?__blob=publicationFile&v=44) · [BBK: Stromausfall, Vorsorge und Selbsthilfe](https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/Buergerinformationen/stromausfall-vorsorge-selbsthilfe.pdf?__blob=publicationFile&v=17) · [National Crisis Center: OFF ON](https://crisiscentrum.be/sites/default/files/documents/files/OffOn-triptyque-N.pdf) · [National Crisis Center: brochure Prepared together](https://crisiscenter.be/sites/default/files/documents/files/WEB-Brochure%20Prepared%20Together-EN.pdf) · [National Crisis Center: Information during an emergency](https://crisiscenter.be/en/what-can-you-do/stay-informed/get-informed-emergency-situation) · [FPS Economy: questions from households about electricity shortages](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door) · [Red Cross Flanders: Power and communication failure](https://www.rodekruis.be/wat-doen-we/hulp-in-vlaanderen/goed-voorbereid/stroom-en-communicatie-uitval/) · [Ready.gov: Power Outages](https://www.ready.gov/power-outages)
 
 ## During the power cut
 
@@ -171,11 +193,12 @@ Source: [Denk vooruit: information booklet](https://www.denkvooruit.nl/site/bina
 5. Use torches instead of candles (Crisis Center).
 6. Follow the news on a battery radio or the car radio (OFF ON).
 7. Keep the fridge and freezer closed (see the guide on food without electricity).
-8. Check with vulnerable relatives and neighbours whether everything is all right (OFF ON).
+8. Check with vulnerable relatives and neighbours whether everything is all right (OFF ON). Look out for neighbours or family who need extra help (Red Cross Flanders).
+9. Get together with neighbours or family to share light and warmth. Agree in advance whose home you can go to and which supplies you will share (Crisis Center, emergency kit).
 
-The BBK says: a power cut in itself is not an emergency. Do not call the emergency numbers to ask for information; that overloads the emergency call centres.
+The BBK says: a power cut in itself is not an emergency. Do not call the emergency numbers to ask for information; that overloads the emergency call centres. Only call 112 in immediate danger (Red Cross Flanders). If you cannot get through, have someone else call or ask for help in your neighbourhood (see Emergency numbers, If you cannot call).
 
-Source: [National Crisis Center: Disruption of electricity](https://crisiscenter.be/en/risks-belgium/societal-risks/failure-electricity-supply) · [National Crisis Center: OFF ON](https://crisiscentrum.be/sites/default/files/documents/files/OffOn-triptyque-N.pdf) · [BBK: Stromausfall, Vorsorge und Selbsthilfe](https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/Buergerinformationen/stromausfall-vorsorge-selbsthilfe.pdf?__blob=publicationFile&v=17)
+Source: [National Crisis Center: Disruption of electricity](https://crisiscenter.be/en/risks-belgium/societal-risks/failure-electricity-supply) · [National Crisis Center: OFF ON](https://crisiscentrum.be/sites/default/files/documents/files/OffOn-triptyque-N.pdf) · [National Crisis Center: An emergency kit at home](https://crisiscenter.be/en/what-can-you-do/build-emergency-kit/emergency-kit-home) · [Red Cross Flanders: Power and communication failure](https://www.rodekruis.be/wat-doen-we/hulp-in-vlaanderen/goed-voorbereid/stroom-en-communicatie-uitval/) · [FPS Economy: questions from households about electricity shortages](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door) · [112.be: Frequently asked questions](https://112.be/en/frequently-asked-questions) · [BBK: Stromausfall, Vorsorge und Selbsthilfe](https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/Buergerinformationen/stromausfall-vorsorge-selbsthilfe.pdf?__blob=publicationFile&v=17)
 
 ## When the electricity comes back
 
@@ -193,9 +216,10 @@ According to the Crisis Center, during electricity shortages municipalities can 
 - Switch off appliances on standby.
 - Only use the iron, washing machine, tumble dryer, electric cooker, microwave, dishwasher and vacuum cleaner when necessary and preferably after 22:00.
 - Use as few hobs as possible and the microwave instead of the ordinary oven.
-- Register with BE-Alert, so that you know in time that your municipality is going to be cut off.
+- Register with BE-Alert in advance, so that you know in time that your municipality is going to be cut off.
+- The government announces the day before which zones may be cut off. That information is also given on TV, radio and in the press (FPS Economy).
 
-Source: [National Crisis Center: OFF ON](https://crisiscentrum.be/sites/default/files/documents/files/OffOn-triptyque-N.pdf) · [National Crisis Center: Disruption of electricity](https://crisiscenter.be/en/risks-belgium/societal-risks/failure-electricity-supply)
+Source: [National Crisis Center: OFF ON](https://crisiscentrum.be/sites/default/files/documents/files/OffOn-triptyque-N.pdf) · [National Crisis Center: Disruption of electricity](https://crisiscenter.be/en/risks-belgium/societal-risks/failure-electricity-supply) · [FPS Economy: questions from households about electricity shortages](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door)
 
 ## People who depend on electricity
 
@@ -203,10 +227,12 @@ Source: [National Crisis Center: OFF ON](https://crisiscentrum.be/sites/default/
 - Discuss with your doctor a plan for electrically powered medical devices and for refrigerated medicines (Ready.gov).
 - Ask your energy supplier whether you can be put on a list for priority when power is restored (Ready.gov).
 - In home nursing, life-sustaining devices such as ventilators can fail, and services such as personal alarms and meals on wheels can stop. Ask your care service whether and how those services continue during a long power cut. If a family member lives in a residential care home, ask about the emergency power plan (BBK).
+- If you use oxygen equipment, pump systems, home dialysis or another device that runs on electricity at home: do not wait for an interruption. Find out how long the fully charged internal battery of your device lasts, and look into where else you could be looked after (FPS Economy).
+- If you use the device intermittently, as with home dialysis, make sure it is not connected at the time of an announced load-shedding cut (FPS Economy).
 
-More in the guide on medication and care.
+What to do if you cannot call your care provider is explained in the guide on medication and care.
 
-Source: [National Crisis Center: A plan for people who need extra help](https://crisiscenter.be/en/what-can-you-do/make-plan/people-who-need-additional-help) · [Ready.gov: Power Outages](https://www.ready.gov/power-outages) · [Ready.gov: People with Disabilities](https://www.ready.gov/disability) · [BBK: Stromausfall, Vorsorge und Selbsthilfe](https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/Buergerinformationen/stromausfall-vorsorge-selbsthilfe.pdf?__blob=publicationFile&v=17)
+Source: [National Crisis Center: A plan for people who need extra help](https://crisiscenter.be/en/what-can-you-do/make-plan/people-who-need-additional-help) · [FPS Economy: questions from households about electricity shortages](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door) · [Ready.gov: Power Outages](https://www.ready.gov/power-outages) · [Ready.gov: People with Disabilities](https://www.ready.gov/disability) · [BBK: Stromausfall, Vorsorge und Selbsthilfe](https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/Buergerinformationen/stromausfall-vorsorge-selbsthilfe.pdf?__blob=publicationFile&v=17)
 
 ## Electric doors, gates and lifts
 
@@ -228,5 +254,7 @@ Source: [National Crisis Center: An emergency kit at home](https://crisiscenter.
 - [ ] Fire extinguisher or fire blanket.
 - [ ] Knowing how to open gates and roller shutters without electricity.
 - [ ] A plan for every electrical appliance someone depends on.
+- [ ] A paper list of important telephone numbers.
+- [ ] Arrangements with your neighbours: how you will reach each other without phone or internet, and whose home you will meet at to share light and warmth.
 
-Source: [National Crisis Center: brochure Prepared together](https://crisiscenter.be/sites/default/files/documents/files/WEB-Brochure%20Prepared%20Together-EN.pdf) · [National Crisis Center: An emergency kit at home](https://crisiscenter.be/en/what-can-you-do/build-emergency-kit/emergency-kit-home) · [MCF: In case of crisis or war](https://rib.msb.se/filer/pdf/31523.pdf) · [BBK: Vorsorgen für Krisen und Katastrophen](https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/Buergerinformationen/Ratgeber/BBK-Vorsorgen-fuer-Krisen-und-Katastrophen.pdf?__blob=publicationFile&v=44)
+Source: [National Crisis Center: brochure Prepared together](https://crisiscenter.be/sites/default/files/documents/files/WEB-Brochure%20Prepared%20Together-EN.pdf) · [National Crisis Center: An emergency kit at home](https://crisiscenter.be/en/what-can-you-do/build-emergency-kit/emergency-kit-home) · [National Crisis Center: A plan for your neighbourhood or association](https://crisiscenter.be/en/what-can-you-do/make-plan/plan-your-neighbourhood-association-or-club) · [MCF: In case of crisis or war](https://rib.msb.se/filer/pdf/31523.pdf) · [BBK: Vorsorgen für Krisen und Katastrophen](https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/Buergerinformationen/Ratgeber/BBK-Vorsorgen-fuer-Krisen-und-Katastrophen.pdf?__blob=publicationFile&v=44)

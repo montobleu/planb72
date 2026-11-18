@@ -4,12 +4,22 @@ module: nucleair
 volgorde: 4
 kort: "Was nach einer radioaktiven Freisetzung geschieht: Ende des Schutzsuchens, Rückkehr, Einschränkungen bei Lebensmitteln und Wasser, Messungen, Gesundheit und psychische Unterstützung."
 status: concept
-datum: "2026-11-17"
+datum: "2026-11-18"
 bronnen:
   - naam: "Nationales Krisenzentrum: Zwischenfall in einem Kernkraftwerk"
     url: https://krisenzentrum.be/de/risiken-belgien/technologische-risiken/zwischenfall-einer-nuklearanlage
   - naam: "Nationales Krisenzentrum: Evakuieren"
     url: https://krisenzentrum.be/de/was-koennen-sie-tun/der-richtige-reflex/evakuierung
+  - naam: "Nationales Krisenzentrum: Informationen während einer Notsituation"
+    url: https://krisenzentrum.be/de/was-koennen-sie-tun/informieren-sie-sich/information-notsituationen
+  - naam: "112.be: Häufig gestellte Fragen"
+    url: https://112.be/de/haeufig-gestellte-fragen
+  - naam: "FÖD Wirtschaft: Fragen von Familien zur Stromknappheit"
+    url: https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door
+  - naam: "WHO, War Trauma Foundation und World Vision International: Psychological first aid, guide for field workers (2011)"
+    url: https://psychiatry.uw.edu/wp-content/uploads/2020/04/1.-WHO_PFA_2011.pdf
+  - naam: "IFRC Reference Centre for Psychosocial Support: A Guide to Psychological First Aid (2018)"
+    url: https://mhpsshub.org/wp-content/uploads/2019/05/PFA-Guide-low-res.pdf
   - naam: "Nationales Krisenzentrum: Sprechen Sie darüber"
     url: https://krisenzentrum.be/de/was-koennen-sie-tun/zorg-voor-jezelf/sprechen-sie-darueber
   - naam: "Nationales Krisenzentrum: Angriff auf ein weiches Ziel"
@@ -55,7 +65,7 @@ bronnen:
   - naam: "CDC: How to self-decontaminate"
     url: https://cdc.gov/radiation-emergencies/prevention/self-decontaminate.html
 vertaling: machine
-origineel_datum: "2026-11-17"
+origineel_datum: "2026-11-18"
 ---
 
 ## Wann das Schutzsuchen endet
@@ -66,9 +76,9 @@ Sie bleiben drinnen, bis die Behörden melden, dass es wieder sicher ist. Das Sc
 | --- | --- |
 | Es ist sicher, das Schutzsuchen ist vorbei | Sie dürfen nach draußen. Folgen Sie den Empfehlungen zu Lebensmitteln, Wasser und Reinigung |
 | Evakuierung | Folgen Sie den Anweisungen, wer, wohin und wie. Eine Evakuierung nach der Wolke ist möglich, wenn das Schutzsuchen länger dauern müsste oder die Freisetzung sehr groß ist |
-| Bleiben Sie drinnen | Suchen Sie weiter Schutz und hören Sie weiter die offiziellen Kanäle |
+| Bleiben Sie drinnen | Suchen Sie weiter Schutz und hören Sie weiter das Radio und die anderen offiziellen Kanäle |
 
-Das Krisenzentrum sagt, dass nach einem nuklearen Unfall noch medizinische Empfehlungen folgen können. Verfolgen Sie die Medien und die offiziellen Kanäle. Finnland sagt dasselbe: Die Rettungsdienste und die Strahlenschutzbehörde melden, wann die Gefahr vorbei ist, und geben Anweisungen zur Reinigung von Räumen und zum Verzehr von Lebensmitteln.
+Das Krisenzentrum sagt, dass nach einem nuklearen Unfall noch medizinische Empfehlungen folgen können. Hören Sie das batteriebetriebene Radio oder das Autoradio und achten Sie auf Lautsprecherwagen der Polizei. Funktioniert das Netz, verfolgen Sie auch BE-Alert und die Websites der Behörden. Finnland sagt dasselbe: Die Rettungsdienste und die Strahlenschutzbehörde melden, wann die Gefahr vorbei ist, und geben Anweisungen zur Reinigung von Räumen und zum Verzehr von Lebensmitteln.
 
 Deutschland sagt beim Freiwerden gefährlicher Stoffe: Warten Sie die Entwarnung ab, bevor Sie das Gebäude verlassen oder Fenster öffnen, und verfolgen Sie die Meldungen über Radio, Internet oder die Warn-App. Öffnen Sie also auch in Belgien die Fenster nicht und schalten Sie die Lüftung nicht wieder ein, bevor die Behörden melden, dass es sicher ist.
 
@@ -76,12 +86,12 @@ Deutschland sagt beim Freiwerden gefährlicher Stoffe: Warten Sie die Entwarnung
 
 Für eine nukleare Explosion sagt Ready.gov: Bleiben Sie die ersten 24 Stunden am bestgeschützten Ort, es sei denn, es besteht unmittelbare Gefahr oder die Behörden sagen, dass Sie gehen dürfen. Müssen Sie evakuieren, hören Sie auf die Informationen zu Routen, Aufnahmeorten und Verfahren. Schweden sagt, dass Sie den Schutzraum verlassen dürfen, wenn Sie das Signal "Entwarnung" hören, ein langes ununterbrochenes Signal von 30 Sekunden, und bittet dann darum, Verletzten und eingeschlossenen Menschen zu helfen.
 
-Quelle: [Nuklearrisiko: häufig gestellte Fragen](https://nuklearrisiko.be/de/faq) · [Nationales Krisenzentrum: Zwischenfall in einem Kernkraftwerk](https://krisenzentrum.be/de/risiken-belgien/technologische-risiken/zwischenfall-einer-nuklearanlage) · [Suomi.fi: Radiation hazards](https://www.suomi.fi/guides/preparedness/how-to-prepare-for-incidents-and-crises/radiation-hazards) · [BBK: Verhalten im Haus bei Gefahrstofffreisetzung](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Vorsorge/Schutz-suchen/Gefahrstoff-Freisetzung/_documents/gefahrstoff-im-haus_dossier2.html?nn=20588) · [Ready.gov: Radiation emergencies](https://www.ready.gov/radiation) · [MCF: In case of crisis or war](https://rib.msb.se/filer/pdf/31523.pdf)
+Quelle: [Nuklearrisiko: häufig gestellte Fragen](https://nuklearrisiko.be/de/faq) · [Nationales Krisenzentrum: Zwischenfall in einem Kernkraftwerk](https://krisenzentrum.be/de/risiken-belgien/technologische-risiken/zwischenfall-einer-nuklearanlage) · [Nationales Krisenzentrum: Informationen während einer Notsituation](https://krisenzentrum.be/de/was-koennen-sie-tun/informieren-sie-sich/information-notsituationen) · [Suomi.fi: Radiation hazards](https://www.suomi.fi/guides/preparedness/how-to-prepare-for-incidents-and-crises/radiation-hazards) · [BBK: Verhalten im Haus bei Gefahrstofffreisetzung](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Vorsorge/Schutz-suchen/Gefahrstoff-Freisetzung/_documents/gefahrstoff-im-haus_dossier2.html?nn=20588) · [Ready.gov: Radiation emergencies](https://www.ready.gov/radiation) · [MCF: In case of crisis or war](https://rib.msb.se/filer/pdf/31523.pdf)
 
 ## Rückkehr nach einer Evakuierung
 
 - **Wie lange:** Das hängt von der Situation ab. Es kann nach einigen Stunden sein, aber auch mehrere Tage dauern (Krisenzentrum, Evakuieren allgemein).
-- **Wie Sie es erfahren:** Im Aufnahmezentrum gibt die Kontaktperson die Informationen. Wohnen Sie bei Familie oder Freunden, verfolgen Sie die Website der Gemeinde, hören Sie Radio oder rufen Sie die Informationsnummer an.
+- **Wie Sie es erfahren:** Im Aufnahmezentrum gibt die Kontaktperson die Informationen. Wohnen Sie bei Familie oder Freunden, hören Sie Radio. Funktioniert das Netz, schauen Sie auch auf die Website der Gemeinde oder rufen Sie die Informationsnummer an.
 - **Die Zone:** Die Polizei richtet eine Sicherheitszone ein. Ist sie einmal geräumt, dürfen Sie diese Zone nicht betreten, bis die Behörden es erlauben.
 - **Kehren Sie nicht früher zurück**, als die lokalen Behörden sagen, dass es sicher ist (Ready.gov).
 - **Konnten Sie Wasser, Gas und Strom nicht abstellen**, bevor Sie gingen, erhalten Sie bei der Rückkehr bei Bedarf Unterstützung von den zuständigen Diensten (Krisenzentrum).
@@ -197,13 +207,13 @@ Quelle: [Nuklearrisiko: häufig gestellte Fragen](https://nuklearrisiko.be/de/fa
 
 - **Langfristige Risiken:** Die Risiken für die Bevölkerung sind vor allem langfristige Risiken wie Krebs und genetische Schäden. Die Wahrscheinlichkeit, nicht die Schwere, steigt mit der Dosis (Nuklearrisiko).
 - **Akute Erscheinungen** wie Erbrechen, Verbrennungen und massiver Haarausfall treten erst nach einer massiven Exposition auf, die man grundsätzlich nur bei Arbeitern in der Anlage und eventuell bei Einsatzkräften erwartet (Nuklearrisiko). Die WHO sagt, dass die breite Öffentlichkeit wahrscheinlich keine Dosis erhält, die hoch genug für akute Wirkungen ist.
-- **Medizinische Empfehlungen:** Nach einem Unfall können noch medizinische Empfehlungen folgen. Verfolgen Sie die offiziellen Kanäle (Krisenzentrum).
-- **Krank oder verletzt:** Hören Sie auf die Anweisungen, wo Sie medizinische Hilfe erhalten. Sind Sie in einer öffentlichen Aufnahmeeinrichtung, melden Sie es sofort dem Personal (Ready.gov). In Belgien: Rufen Sie bei einem medizinischen Notfall 112 an.
+- **Medizinische Empfehlungen:** Nach einem Unfall können noch medizinische Empfehlungen folgen. Hören Sie Radio und verfolgen Sie die anderen offiziellen Kanäle (Krisenzentrum).
+- **Krank oder verletzt:** Hören Sie auf die Anweisungen, wo Sie medizinische Hilfe erhalten. Sind Sie in einer öffentlichen Aufnahmeeinrichtung, melden Sie es sofort dem Personal (Ready.gov). In Belgien: Rufen Sie bei einem medizinischen Notfall 112 an oder lassen Sie jemanden anrufen. Kommt kein Anruf zustande, versuchen Sie es mit einem anderen Gerät oder lassen Sie Nachbarn anrufen; ist überhaupt kein Anruf möglich, bitten Sie in Ihrer Nachbarschaft um Hilfe (siehe Notrufnummern in der App, Wenn kein Anruf möglich ist).
 - **Kinder:** Sie sind empfindlicher für Strahlung. Lassen Sie sie nach der Notsituation ärztlich nachuntersuchen, sobald die Behörden sagen, dass es sicher ist (WHO).
 - **Schwangere, die Jod eingenommen haben:** Teilen Sie es nach der Notsituation Ihrem Arzt mit, damit es in Ihre Krankenakte aufgenommen wird (WHO).
 - **Neugeborene, die Jod erhalten haben:** Die WHO empfiehlt, ihre Schilddrüsenwerte kontrollieren zu lassen.
 
-Quelle: [Nuklearrisiko: Radioaktivität und Exposition](https://nuklearrisiko.be/de/nukleares-risiko/radioaktivitaet-exposition) · [Nationales Krisenzentrum: Zwischenfall in einem Kernkraftwerk](https://krisenzentrum.be/de/risiken-belgien/technologische-risiken/zwischenfall-einer-nuklearanlage) · [WHO: Radiation and health](https://www.who.int/news-room/questions-and-answers/item/radiation-and-health) · [WHO: Use of potassium iodide](https://www.who.int/news-room/questions-and-answers/item/use-of-potassium-iodide-for-thyroid-protection-during-nuclear-or-radiological-emergencies) · [Ready.gov: Radiation emergencies](https://www.ready.gov/radiation)
+Quelle: [Nuklearrisiko: Radioaktivität und Exposition](https://nuklearrisiko.be/de/nukleares-risiko/radioaktivitaet-exposition) · [Nationales Krisenzentrum: Zwischenfall in einem Kernkraftwerk](https://krisenzentrum.be/de/risiken-belgien/technologische-risiken/zwischenfall-einer-nuklearanlage) · [WHO: Radiation and health](https://www.who.int/news-room/questions-and-answers/item/radiation-and-health) · [WHO: Use of potassium iodide](https://www.who.int/news-room/questions-and-answers/item/use-of-potassium-iodide-for-thyroid-protection-during-nuclear-or-radiological-emergencies) · [Ready.gov: Radiation emergencies](https://www.ready.gov/radiation) · [112.be: Häufig gestellte Fragen](https://112.be/de/haeufig-gestellte-fragen) · [FÖD Wirtschaft: Fragen von Familien zur Stromknappheit](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door)
 
 ## Psychische Unterstützung
 
@@ -218,14 +228,17 @@ Einen Strahlennotfall zu erleben, kann belastend und traumatisch sein, sagt Read
 - Bewegen Sie sich regelmäßig. Gehen Sie erst wieder nach draußen, wenn die Behörden sagen, dass es sicher ist.
 - Atmen Sie ruhig und tief, wenn Sie merken, dass die Anspannung steigt.
 
-### Wo Sie Hilfe finden
+### Einander vor Ort unterstützen
 
-| Nummer | Für wen |
-| --- | --- |
-| 106 | Tele-Onthaal: kostenloses und anonymes Gespräch, auch per Chat auf tele-onthaal.be |
-| 102 | Awel: Kinder und Jugendliche, auch über awel.be |
-| 1712 | Hilfetelefon bei Gewalt, Missbrauch und Kindesmisshandlung |
-| 1813 | Zelfmoordlijn, auch per Chat auf zelfmoord1813.be |
+Psychologische Erste Hilfe ist Hilfe von Mensch zu Mensch, vor Ort. Jeder kann sie leisten (WHO, IFRC):
+
+- Sorgen Sie für Sicherheit und Ruhe. Sprechen Sie ruhig und sanft.
+- Hören Sie zu, ohne zum Sprechen zu drängen.
+- Helfen Sie bei praktischen Dingen: Wasser, Wärme, richtige Informationen, Familie wiederfinden.
+- Bleiben Sie zusammen und lassen Sie Kinder bei ihren Eltern oder Bezugspersonen.
+- Lassen Sie niemanden allein, der sehr aufgewühlt ist oder sich selbst etwas antun könnte. Suchen Sie Hilfe bei Menschen in der Nähe oder medizinische Hilfe vor Ort.
+
+Mehr im Leitfaden über psychische Widerstandskraft und psychologische Erste Hilfe.
 
 ### Kinder
 
@@ -235,7 +248,20 @@ Einen Strahlennotfall zu erleben, kann belastend und traumatisch sein, sagt Read
 - Erklären Sie, an wen sie sich um Hilfe wenden können.
 - Behalten Sie den Tagesablauf so weit wie möglich bei.
 
-Quelle: [Ready.gov: Radiation emergencies](https://www.ready.gov/radiation) · [Nationales Krisenzentrum: Angriff auf ein weiches Ziel](https://krisenzentrum.be/de/risiken-belgien/sicherheitsrisiken/angriff-auf-ein-soft-target-weiches-ziel) · [Nationales Krisenzentrum: Sprechen Sie darüber](https://krisenzentrum.be/de/was-koennen-sie-tun/zorg-voor-jezelf/sprechen-sie-darueber) · [Nationales Krisenzentrum: Broschüre Gemeinsam vorbereitet](https://krisenzentrum.be/sites/default/files/documents/files/WEB-Brosch%C3%BCre%20Gemeinsam%20Vorbereitet-DE.pdf)
+Quelle: [Ready.gov: Radiation emergencies](https://www.ready.gov/radiation) · [Nationales Krisenzentrum: Angriff auf ein weiches Ziel](https://krisenzentrum.be/de/risiken-belgien/sicherheitsrisiken/angriff-auf-ein-soft-target-weiches-ziel) · [Nationales Krisenzentrum: Sprechen Sie darüber](https://krisenzentrum.be/de/was-koennen-sie-tun/zorg-voor-jezelf/sprechen-sie-darueber) · [Nationales Krisenzentrum: Broschüre Gemeinsam vorbereitet](https://krisenzentrum.be/sites/default/files/documents/files/WEB-Brosch%C3%BCre%20Gemeinsam%20Vorbereitet-DE.pdf) · [WHO: Psychological first aid](https://psychiatry.uw.edu/wp-content/uploads/2020/04/1.-WHO_PFA_2011.pdf) · [IFRC: A Guide to Psychological First Aid](https://mhpsshub.org/wp-content/uploads/2019/05/PFA-Guide-low-res.pdf)
+
+## Nach der Krise, wenn das Telefon wieder funktioniert
+
+Diese Hilfetelefone sind für ein Gespräch da, wenn Telefon oder Internet wieder funktionieren. Sie sind keine Notrufnummer. Bei Lebensgefahr rufen Sie 112 an (siehe Gesundheit).
+
+| Nummer | Für wen |
+| --- | --- |
+| 106 | Tele-Onthaal: kostenloses und anonymes Gespräch, auch per Chat auf tele-onthaal.be |
+| 102 | Awel: Kinder und Jugendliche, auch über awel.be |
+| 1712 | Hilfetelefon bei Gewalt, Missbrauch und Kindesmisshandlung |
+| 1813 | Zelfmoordlijn, auch per Chat auf zelfmoord1813.be |
+
+Quelle: [Nationales Krisenzentrum: Sprechen Sie darüber](https://krisenzentrum.be/de/was-koennen-sie-tun/zorg-voor-jezelf/sprechen-sie-darueber) · [Nationales Krisenzentrum: Broschüre Gemeinsam vorbereitet](https://krisenzentrum.be/sites/default/files/documents/files/WEB-Brosch%C3%BCre%20Gemeinsam%20Vorbereitet-DE.pdf)
 
 ## Richtige Informationen und Gerüchte
 
@@ -245,15 +271,15 @@ Nach einer Notsituation kursieren viele Informationen, vor allem in den sozialen
 - Prüfen Sie, ob mehrere Kanäle oder Quellen sie bestätigen.
 - Prüfen Sie, ob die Meldung vertrauenswürdig aussieht.
 
-Teilen Sie selbst nur Meldungen von Behörden oder Hilfsdiensten. Verfolgen Sie die Mitteilungen der Behörden, der Hilfsdienste und der Gemeinde, auch wenn das Schlimmste vorbei scheint.
+Teilen Sie selbst nur Meldungen von Behörden oder Hilfsdiensten. Verfolgen Sie die Mitteilungen der Behörden, der Hilfsdienste und der Gemeinde, auch wenn das Schlimmste vorbei scheint. Fällt das Netz aus, hören Sie das batteriebetriebene Radio oder das Autoradio. Die Behörden können auch Lautsprecherwagen der Polizei, Informationstafeln, Faltblätter und Kommunikation von Tür zu Tür einsetzen.
 
-Quelle: [Nationales Krisenzentrum: Broschüre Gemeinsam vorbereitet](https://krisenzentrum.be/sites/default/files/documents/files/WEB-Brosch%C3%BCre%20Gemeinsam%20Vorbereitet-DE.pdf)
+Quelle: [Nationales Krisenzentrum: Broschüre Gemeinsam vorbereitet](https://krisenzentrum.be/sites/default/files/documents/files/WEB-Brosch%C3%BCre%20Gemeinsam%20Vorbereitet-DE.pdf) · [Nationales Krisenzentrum: Informationen während einer Notsituation](https://krisenzentrum.be/de/was-koennen-sie-tun/informieren-sie-sich/information-notsituationen)
 
 ## Einander helfen
 
 - Schauen Sie regelmäßig, ob gefährdete Personen in Ihrer Nachbarschaft Hilfe brauchen, ohne sich selbst in Gefahr zu bringen.
 - Teilen Sie verlässliche Informationen der Behörden mit Menschen, die weniger gut informiert sind.
-- Verwenden Sie WhatsApp, Signal oder soziale Medien statt zu telefonieren, damit das Telefonnetz nicht überlastet wird.
+- Funktioniert das Netz, schicken Sie lieber eine Nachricht über eine Messenger-App oder soziale Medien, statt zu telefonieren, damit das Telefonnetz nicht überlastet wird.
 - Bieten Sie sich als Kontaktperson für Familie und Freunde an, die evakuiert werden mussten.
 
 Quelle: [Nationales Krisenzentrum: Broschüre Gemeinsam vorbereitet](https://krisenzentrum.be/sites/default/files/documents/files/WEB-Brosch%C3%BCre%20Gemeinsam%20Vorbereitet-DE.pdf) · [Nationales Krisenzentrum: Evakuieren](https://krisenzentrum.be/de/was-koennen-sie-tun/der-richtige-reflex/evakuierung)

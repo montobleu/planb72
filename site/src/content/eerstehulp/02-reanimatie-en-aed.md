@@ -1,9 +1,9 @@
 ---
 titel: Reanimatie en AED
 volgorde: 2
-kort: "Reageert iemand niet en ademt hij niet normaal: bel 112, druk 30 keer op de borst, geef 2 beademingen en gebruik een AED."
+kort: "Reageert iemand niet en ademt hij niet normaal: laat 112 bellen of hulp halen, druk 30 keer op de borst, geef 2 beademingen en gebruik een AED."
 status: concept
-datum: "2026-11-17"
+datum: "2026-11-18"
 bronnen:
   - naam: "Gezondheid en Wetenschap (Rode Kruis-Vlaanderen): Hoe moet je reanimeren?"
     url: https://www.gezondheidenwetenschap.be/eerste-hulp/hoe-moet-je-reanimeren
@@ -19,6 +19,16 @@ bronnen:
     url: https://formations.croix-rouge.be/files/files/espace-relais/Relais-BEPS-Mise-jour-2024.pdf
   - naam: "VRT NWS: Nieuwe richtlijnen reanimatie (Rode Kruis, november 2025)"
     url: https://www.vrt.be/vrtnws/nl/2025/11/08/nieuwe-richtlijnen-reanimatie/
+  - naam: "European Resuscitation Council Guidelines 2021: Basic Life Support"
+    url: https://cprguidelines-old.erc.edu/assets/guidelines/European-Resuscitation-Council-Guidelines-2021-Ba.pdf
+  - naam: "ERC 2021 poster: Basic Life Support Step-by-step"
+    url: https://cprguidelines-old.erc.edu/assets/posters/3.BLS-Algorithms-STEP-BY-STEP.pdf
+  - naam: "European Resuscitation Council Guidelines 2021: Paediatric Life Support"
+    url: https://cprguidelines-old.erc.edu/assets/guidelines/European-Resuscitation-Council-Guidelines-2021-Pa.pdf
+  - naam: "European Resuscitation Council Guidelines 2021: First aid"
+    url: https://cprguidelines-old.erc.edu/assets/guidelines/European-Resuscitation-Council-Guidelines-2021-Fi.pdf
+  - naam: "112.be: Veelgestelde vragen"
+    url: https://112.be/nl/veelgestelde-vragen
 ---
 
 ## Herkennen
@@ -41,7 +51,7 @@ Bron: [Gezondheid en Wetenschap: Reanimatie](https://www.gezondheidenwetenschap.
 1. Zorg voor veiligheid. Controleer het bewustzijn: spreek luid aan en schud zacht aan de schouders.
 2. Roep om hulp. Duid iemand aan.
 3. Open de luchtweg: kantel het hoofd achterover en til de kin op. Kijk, luister en voel maximaal 10 seconden of de persoon normaal ademt.
-4. Bel 112 of laat bellen, met de telefoon op luidspreker. Heeft niemand eerstehulpkennis, dan geeft de operator telefonische instructies.
+4. Bel 112 of laat bellen, met de telefoon op luidspreker. Werkt de verbinding en heeft niemand eerstehulpkennis, dan geeft de operator telefonische instructies. Lukt bellen niet, stuur dan iemand om hulp (zie Bel 112 als). Ben je alleen zonder werkende telefoon en moet je het slachtoffer verlaten om hulp te alarmeren: ga dan eerst hulp alarmeren, kom terug en begin daarna te reanimeren.
 5. Laat iemand een AED halen als er een in de buurt is. Een AED zit in een groene kast of verpakking. Ben je alleen, verlaat het slachtoffer dan niet, tenzij de AED vlakbij en zichtbaar is.
 6. Leg je handen in het midden van de borstkas, op de onderste helft van het borstbeen. Leg je sterkste hand tegen het borstbeen en de andere erbovenop. Haak de vingers in elkaar.
 7. Geef 30 borstcompressies. Druk ongeveer 5 cm diep, niet meer dan 6 cm. Druk 100 tot 120 keer per minuut. Laat de borstkas na elke compressie volledig terugveren en steun er niet op.
@@ -56,7 +66,7 @@ Bron: [Gezondheid en Wetenschap: Reanimatie](https://www.gezondheidenwetenschap.
 
 ### Met twee of meer helpers
 
-1. Begin zelf met compressies en geef intussen instructies aan de andere helper: 112 bellen en de AED halen.
+1. Begin zelf met compressies en geef intussen instructies aan de andere helper: 112 bellen, of hulp gaan halen als bellen niet lukt, en de AED halen.
 2. Komt de helper terug met de AED, laat die dan de elektroden kleven terwijl jij verder drukt. Of omgekeerd.
 3. Wissel elke 2 minuten van reanimator, zodat de compressies goed blijven. Wissel zonder de compressies te onderbreken.
 
@@ -67,21 +77,21 @@ Bij kinderen en baby's ontstaat een hartstilstand meestal door een ademhalingspr
 1. Controleer het bewustzijn. Bij een baby tik je op de voetzool of neem je de baby op. Een baby die niet reageert, is slap en heeft een afwijkende kleur.
 2. Open de luchtweg. Bij een kind kantel je het hoofd achterover en til je de kin op. Bij een baby breng je het hoofd in een neutrale positie en til je de kin op.
 3. Controleer maximaal 10 seconden de ademhaling.
-4. Laat 112 bellen of bel zelf met de luidspreker aan. Heb je geen manier om te bellen terwijl je reanimeert, reanimeer dan eerst 1 minuut en bel daarna.
+4. Laat 112 bellen of bel zelf met de luidspreker aan. Heb je geen manier om te bellen terwijl je reanimeert, reanimeer dan eerst 1 minuut en bel daarna of ga dan hulp halen.
 5. Geef eerst 5 beademingen. Bij een baby leg je je mond over mond en neus. Bij een groter kind doe je mond op mond. Blaas rustig 1 seconde tot de borstkas of buik rijst.
 6. Geef daarna 30 borstcompressies op de onderste helft van het borstbeen, 100 tot 120 per minuut.
    - Baby: gebruik twee duimen terwijl je handen de borstkas omvatten. Druk minstens een derde van de diepte van de borstkas in, ongeveer 4 cm.
    - Kind: druk met één of twee handen, afhankelijk van de grootte van het kind en van jezelf. Twee handen geven betere compressies en minder vermoeidheid. Druk een derde van de diepte van de borstkas in, ongeveer 5 cm.
    - Adolescent: gebruik de techniek met twee handen zoals bij volwassenen.
 7. Geef 2 beademingen en wissel 30 compressies af met 2 beademingen.
-8. Wil of kan je niet beademen, geef dan alleen compressies, 100 tot 120 per minuut. De operator kan je daarbij begeleiden.
+8. Wil of kan je niet beademen, geef dan alleen compressies, 100 tot 120 per minuut. Werkt de verbinding, dan kan de operator je daarbij begeleiden.
 9. AED bij een kind: volg de aanwijzingen. Kinderen tot 25 kg (ongeveer 8 jaar) en baby's: zet de AED in kindermodus of gebruik kinderelektroden als dat kan. Kleef dan één elektrode op de borst, links van het midden, en de andere op de rug tussen de schouderbladen. Zwaardere kinderen en adolescenten: gebruik de AED zoals bij volwassenen. Heeft de AED geen kinderinstructies, gebruik hem dan in de gewone stand.
 
 ### Wanneer stoppen
 
 Ga door tot de hulpdiensten het overnemen of je vragen te stoppen, tot het slachtoffer duidelijk bijkomt (hoesten, ogen openen, praten, doelbewust bewegen en normaal ademen), of tot je uitgeput bent. Stop niet als de ziekenwagen aankomt, maar pas als de zorgverleners overnemen. Komt het slachtoffer bij, blijf het dan nauw volgen: het kan opnieuw stoppen met ademen.
 
-Bron: [Gezondheid en Wetenschap: Hoe moet je reanimeren?](https://www.gezondheidenwetenschap.be/eerste-hulp/hoe-moet-je-reanimeren) · [Rode Kruis-Vlaanderen: Reanimeren en defibrilleren](https://www.rodekruis.be/storage/main/2026-affiche-reanimeren-en-defibrilleren.pdf) · [ERC Guidelines 2025 for Everyone](https://www.erc.edu/media/p5ymaeej/gl2025_layperson_book_ipdf-v11-e.pdf) · [IFRC Guidelines 2020](https://www.ifrc.org/sites/default/files/2022-02/EN_GFARC_GUIDELINES_2020.pdf) · [Croix-Rouge de Belgique: mise à jour 2024](https://formations.croix-rouge.be/files/files/espace-relais/Relais-BEPS-Mise-jour-2024.pdf) · [VRT NWS: Nieuwe richtlijnen reanimatie](https://www.vrt.be/vrtnws/nl/2025/11/08/nieuwe-richtlijnen-reanimatie/)
+Bron: [Gezondheid en Wetenschap: Hoe moet je reanimeren?](https://www.gezondheidenwetenschap.be/eerste-hulp/hoe-moet-je-reanimeren) · [Rode Kruis-Vlaanderen: Reanimeren en defibrilleren](https://www.rodekruis.be/storage/main/2026-affiche-reanimeren-en-defibrilleren.pdf) · [ERC Guidelines 2025 for Everyone](https://www.erc.edu/media/p5ymaeej/gl2025_layperson_book_ipdf-v11-e.pdf) · [IFRC Guidelines 2020](https://www.ifrc.org/sites/default/files/2022-02/EN_GFARC_GUIDELINES_2020.pdf) · [Croix-Rouge de Belgique: mise à jour 2024](https://formations.croix-rouge.be/files/files/espace-relais/Relais-BEPS-Mise-jour-2024.pdf) · [VRT NWS: Nieuwe richtlijnen reanimatie](https://www.vrt.be/vrtnws/nl/2025/11/08/nieuwe-richtlijnen-reanimatie/) · [ERC Guidelines 2021: Basic Life Support](https://cprguidelines-old.erc.edu/assets/guidelines/European-Resuscitation-Council-Guidelines-2021-Ba.pdf) · [ERC Guidelines 2021: Paediatric Life Support](https://cprguidelines-old.erc.edu/assets/guidelines/European-Resuscitation-Council-Guidelines-2021-Pa.pdf)
 
 ## Als hulp lang op zich laat wachten
 
@@ -102,9 +112,17 @@ Bron: [ERC Guidelines 2025 for Everyone](https://www.erc.edu/media/p5ymaeej/gl20
 - een kind of baby niet reageert en moeizaam of niet ademt. Zeg duidelijk dat het kind niet reageert en niet normaal ademt, zodat de oproep voorrang krijgt;
 - je een AED gebruikt: meld dat aan de operator.
 
-Bel met de luidspreker aan en blijf intussen reanimeren. De operator kan je stap voor stap begeleiden.
+Bel met de luidspreker aan en blijf intussen reanimeren. Werkt de verbinding, dan kan de operator je stap voor stap begeleiden. Werkt ze niet, volg dan de stappen op deze pagina.
 
-Bron: [Gezondheid en Wetenschap: Reanimatie](https://www.gezondheidenwetenschap.be/richtlijnen/reanimatie-cardiopulmonale-resuscitatie-of-cpr) · [IFRC Guidelines 2020](https://www.ifrc.org/sites/default/files/2022-02/EN_GFARC_GUIDELINES_2020.pdf)
+**Lukt bellen niet**
+
+- Laat het slachtoffer alleen als er geen andere mogelijkheid is. Wijs een omstander rechtstreeks aan om hulp te halen en geef mee waar het is, wat er gebeurd is, hoeveel slachtoffers er zijn en hoe ze eraan toe zijn. Stuur iemand anders om een AED te halen.
+- Zijn jullie met twee: de ene reanimeert, de andere gaat hulp halen en brengt een AED mee als dat kan.
+- Ben je alleen zonder telefoon: bij een volwassene haal je eerst hulp en begin je dan te reanimeren; bij een kind reanimeer je eerst 1 minuut en ga je dan hulp halen. Zo staat het in de richtlijnen van de ERC van 2021.
+- Ben je alleen, ga dan geen AED halen, tenzij hij vlakbij en zichtbaar is. Begin te reanimeren.
+- Zie ook onderwerp 1 (Lukt bellen niet: hulp halen zonder telefoon) en Noodnummers in de app, Als bellen niet lukt.
+
+Bron: [Gezondheid en Wetenschap: Reanimatie](https://www.gezondheidenwetenschap.be/richtlijnen/reanimatie-cardiopulmonale-resuscitatie-of-cpr) · [IFRC Guidelines 2020](https://www.ifrc.org/sites/default/files/2022-02/EN_GFARC_GUIDELINES_2020.pdf) · [ERC Guidelines 2021: First aid](https://cprguidelines-old.erc.edu/assets/guidelines/European-Resuscitation-Council-Guidelines-2021-Fi.pdf) · [ERC Guidelines 2021: Basic Life Support](https://cprguidelines-old.erc.edu/assets/guidelines/European-Resuscitation-Council-Guidelines-2021-Ba.pdf) · [ERC 2021: BLS Step-by-step](https://cprguidelines-old.erc.edu/assets/posters/3.BLS-Algorithms-STEP-BY-STEP.pdf) · [ERC Guidelines 2021: Paediatric Life Support](https://cprguidelines-old.erc.edu/assets/guidelines/European-Resuscitation-Council-Guidelines-2021-Pa.pdf) · [112.be: Veelgestelde vragen](https://112.be/nl/veelgestelde-vragen)
 
 ## Niet doen
 

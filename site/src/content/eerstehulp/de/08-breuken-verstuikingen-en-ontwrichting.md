@@ -3,7 +3,7 @@ titel: Knochenbrüche, Verstauchungen und Verrenkungen
 volgorde: 8
 kort: "Halten Sie die Verletzung in der Lage ruhig, in der Sie sie vorfinden, kühlen Sie höchstens 20 Minuten und richten Sie nie selbst etwas gerade."
 status: concept
-datum: "2026-11-17"
+datum: "2026-11-18"
 bronnen:
   - naam: "Gezondheid en Wetenschap (Rode Kruis-Vlaanderen): Erste Hilfe bei Knochenbrüchen"
     url: https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-breuken
@@ -13,8 +13,12 @@ bronnen:
     url: https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-ontwrichting
   - naam: "IFRC: International first aid, resuscitation, and education guidelines 2020"
     url: https://www.ifrc.org/sites/default/files/2022-02/EN_GFARC_GUIDELINES_2020.pdf
+  - naam: "European Resuscitation Council Guidelines 2021: First aid"
+    url: https://cprguidelines-old.erc.edu/assets/guidelines/European-Resuscitation-Council-Guidelines-2021-Fi.pdf
+  - naam: "112.be: Häufig gestellte Fragen"
+    url: https://112.be/de/haeufig-gestellte-fragen
 vertaling: machine
-origineel_datum: "2026-11-17"
+origineel_datum: "2026-11-18"
 ---
 
 ## Erkennen
@@ -60,7 +64,7 @@ Quelle: [Gezondheid en Wetenschap: Knochenbrüche](https://www.gezondheidenweten
 4. Kühlen Sie die Verletzung höchstens 20 Minuten lang, mit Eiswürfeln in einem Beutel Wasser oder mit einem Kühlbeutel. Haben Sie kein Eis, verwenden Sie kaltes Wasser. Wickeln Sie das Eis in ein dünnes Tuch und legen Sie es nie direkt auf die Haut.
 5. Hören Sie mit dem Kühlen auf, wenn es der Person unangenehm ist. Kommt der Schmerz zurück, dürfen Sie erneut kühlen, sobald die Haut wieder eine normale Temperatur hat.
 6. Prüfen Sie, ob eine Blutung vorliegt, äußerlich oder innerlich, und achten Sie auf Zeichen eines Schocks, vor allem bei einem Bruch des Oberschenkelknochens (siehe Thema 6).
-7. Rufen Sie 112 an bei einem Bruch von Bein, Knöchel oder Fuß. Bei einem geschlossenen Bruch von Arm, Handgelenk oder Hand darf die betroffene Person selbst ins Krankenhaus gehen.
+7. Rufen Sie 112 an oder lassen Sie anrufen bei einem Bruch von Bein, Knöchel oder Fuß. Kommt kein Anruf zustande, siehe Rufen Sie 112 an, wenn. Bei einem geschlossenen Bruch von Arm, Handgelenk oder Hand darf die betroffene Person selbst ins Krankenhaus gehen.
 8. Notieren Sie die Uhrzeit der Verletzung. Das hilft dem Arzt.
 
 ### Offener Bruch
@@ -69,7 +73,7 @@ Quelle: [Gezondheid en Wetenschap: Knochenbrüche](https://www.gezondheidenweten
 2. Befeuchten Sie eine sterile Kompresse mit Wasser oder mit einem wässrigen, nicht färbenden Desinfektionsmittel und decken Sie den Bruch damit ab.
 3. Legen Sie kein Eis auf einen offenen Bruch.
 4. Halten Sie die Gliedmaße ruhig und behandeln Sie den Schock.
-5. Rufen Sie 112 an.
+5. Rufen Sie 112 an oder lassen Sie anrufen.
 
 ### Verstauchung
 
@@ -117,7 +121,12 @@ Quelle: [IFRC Guidelines 2020](https://www.ifrc.org/sites/default/files/2022-02/
 
 Gehen Sie zu einem Arzt, wenn die Schwellung sehr ausgeprägt ist, die Gliedmaße abnormal steht oder abnormal (un)beweglich ist, Gefühlsstörungen vorliegen (Kribbeln, Nadelstiche, ein eingeschlafener Fuß), der Schmerz nach 20 Minuten Kühlen nicht vergeht oder Zeichen eines Kompartmentsyndroms vorliegen.
 
-Quelle: [Gezondheid en Wetenschap: Knochenbrüche](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-breuken) · [Gezondheid en Wetenschap: Verstauchung](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-verstuiking) · [Gezondheid en Wetenschap: Verrenkung](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-ontwrichting) · [IFRC Guidelines 2020](https://www.ifrc.org/sites/default/files/2022-02/EN_GFARC_GUIDELINES_2020.pdf)
+**Kommt kein Anruf zustande**
+
+- Lassen Sie die betroffene Person nur allein, wenn es keine andere Möglichkeit gibt. Sprechen Sie Umstehende direkt an, damit sie Hilfe holen, und geben Sie mit, wo es ist, was passiert ist, wie viele Betroffene es gibt und in welchem Zustand sie sind.
+- Siehe auch Thema 1 (Kommt kein Anruf zustande: Hilfe holen ohne Telefon) und Notrufnummern in der App, Wenn kein Anruf möglich ist.
+
+Quelle: [Gezondheid en Wetenschap: Knochenbrüche](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-breuken) · [Gezondheid en Wetenschap: Verstauchung](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-verstuiking) · [Gezondheid en Wetenschap: Verrenkung](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-ontwrichting) · [IFRC Guidelines 2020](https://www.ifrc.org/sites/default/files/2022-02/EN_GFARC_GUIDELINES_2020.pdf) · [ERC Guidelines 2021: First aid](https://cprguidelines-old.erc.edu/assets/guidelines/European-Resuscitation-Council-Guidelines-2021-Fi.pdf) · [112.be: Häufig gestellte Fragen](https://112.be/de/haeufig-gestellte-fragen)
 
 ## Nicht tun
 

@@ -1,21 +1,21 @@
 ---
 titel: Nuklearalarm
 volgorde: 11
-kort: "Zwischenfall in einem Kernkraftwerk oder einer anderen nuklearen Anlage. Sie erhalten eine BE-Alert-Meldung oder die Behörden fordern dazu auf, Schutz zu suchen."
+kort: "Zwischenfall in einem Kernkraftwerk oder einer anderen nuklearen Anlage. Die Behörden fordern über Radio, Lautsprecherwagen oder BE-Alert dazu auf, Schutz zu suchen."
 stappen:
   - "Gehen Sie hinein und bleiben Sie drinnen. Das ist der beste Schutz."
   - "Schließen Sie Fenster, Türen und den Lufteinlass des Kamins. Schalten Sie Lüftung, Heizung und Klimaanlage aus."
   - "Gehen Sie in einen zentralen Raum im Erdgeschoss, weg von Fenstern."
   - "Lassen Sie Kinder in der Schule oder Betreuung. Sie befolgen dort dieselben Empfehlungen."
   - "Waren Sie draußen, als die Wolke vorüberzog: Ziehen Sie Ihre Kleidung aus, stecken Sie sie in einen Plastiksack und duschen Sie."
-  - "Verfolgen Sie BE-Alert, Radio, Fernsehen und crisiscentrum.be. Telefonieren Sie nur bei einem medizinischen Notfall."
+  - "Hören Sie Radio, mit Batterien oder Kurbel, wenn der Strom ausfällt, und achten Sie auf Lautsprecherwagen der Polizei. Funktioniert das Netz, verfolgen Sie auch BE-Alert und crisiscentrum.be. Rufen Sie nicht an, um Informationen zu erfragen. Rufen Sie die 112 nur bei einem medizinischen Notfall an."
   - "Nehmen Sie Jod nur ein, wenn die Behörden es sagen. Evakuieren Sie nur auf Anordnung."
 niet:
   - "Nehmen Sie nie Jodtabletten auf eigene Initiative ein."
   - "Evakuieren Sie nie auf eigene Initiative."
   - "Essen Sie kein Gemüse aus dem Gemüsegarten, bis die Behörden sagen, dass es sicher ist."
 status: concept
-datum: "2026-11-17"
+datum: "2026-11-18"
 bronnen:
   - naam: "Nationales Krisenzentrum: Zwischenfall in einem Kernkraftwerk"
     url: https://krisenzentrum.be/de/risiken-belgien/technologische-risiken/zwischenfall-einer-nuklearanlage
@@ -43,13 +43,25 @@ bronnen:
     url: https://www.be-alert.be/de/wie-werden-sie-alarmiert/alarmiert-wo-auch-immer-sie-sich-aufhalten
   - naam: "Ready.gov: Radiation Emergencies"
     url: https://www.ready.gov/radiation
+  - naam: "Nuklearrisiko.be: Warnung und Schutz der Bevölkerung"
+    url: https://nuklearrisiko.be/de/was-tun-die-behoerden/warnung-und-schutz-der-bevoelkerung
+  - naam: "Nationales Krisenzentrum: Informationen während einer Notsituation"
+    url: https://krisenzentrum.be/de/was-koennen-sie-tun/informieren-sie-sich/information-notsituationen
+  - naam: "Nationales Krisenzentrum: Broschüre Gemeinsam vorbereitet"
+    url: https://krisenzentrum.be/sites/default/files/documents/files/WEB-Brosch%C3%BCre%20Gemeinsam%20Vorbereitet-DE.pdf
+  - naam: "Nationales Krisenzentrum: ein Plan für zu Hause"
+    url: https://krisenzentrum.be/de/was-koennen-sie-tun/make-plan/ein-notfallplan-zu-hause
+  - naam: "112.be: Häufig gestellte Fragen"
+    url: https://112.be/de/haeufig-gestellte-fragen
 vertaling: machine
-origineel_datum: "2026-11-17"
+origineel_datum: "2026-11-18"
 ---
 
 ## Erkennen
 
-**Wie Sie gewarnt werden.** Die Behörden benachrichtigen Sie über BE-Alert (SMS, E-Mail oder Telefonanruf), Radio und Fernsehen, soziale Medien, die offiziellen Websites und eine Informationsnummer. Sie können auch Wagen mit Lautsprechern einsetzen. Wer kein Festnetztelefon und kein Handy hat, erhält die Informationen über diese anderen Kanäle. Bei einem großen Notfall schicken die Behörden eine Alert-SMS an alle, die sich mit einem Handy in der betroffenen Zone befinden. Dafür müssen Sie nicht angemeldet sein.
+**Wie Sie gewarnt werden.** Die Behörden benachrichtigen Sie über Radio und Fernsehen und über Lautsprecherwagen der Polizei, die durch die Straße fahren. Funktioniert das Netz, auch über BE-Alert (SMS, E-Mail oder Telefonanruf), soziale Medien, die offiziellen Websites und eine Informationsnummer. Wer kein Festnetztelefon und kein Handy hat, erhält die Informationen über die anderen Kanäle. Bei einem großen Notfall schicken die Behörden eine Alert-SMS an alle, die sich mit einem Handy in der betroffenen Zone befinden. Dafür müssen Sie nicht angemeldet sein.
+
+Bei einer Stromunterbrechung können Internet und Mobilfunknetze ausfallen. Mit einem Radio mit Batterien oder einem Kurbelradio bleiben Sie dann trotzdem auf dem Laufenden.
 
 **Was passieren kann.** Bei einem nuklearen Notfall können radioaktive Stoffe freigesetzt werden, darunter radioaktives Jod. Ein Notfall kann mit einer Bedrohungsphase beginnen, noch bevor etwas freigesetzt wird. Es wird auch nicht immer Jod freigesetzt.
 
@@ -61,14 +73,14 @@ origineel_datum: "2026-11-17"
 - die Lebensmittelkette schützen;
 - ausnahmsweise: eine bestimmte Zone evakuieren.
 
-Quelle: [Nuklearrisiko.be: was können Sie tun](https://nuklearrisiko.be/de/was-koennen-sie-tun) · [Nuklearrisiko.be: FAQ](https://nuklearrisiko.be/de/faq) · [Nuklearrisiko.be: wann einnehmen](https://nuklearrisiko.be/de/jodtabletten/wann-einnehmen) · [BE-Alert](https://www.be-alert.be/de/wie-werden-sie-alarmiert/alarmiert-wo-auch-immer-sie-sich-aufhalten)
+Quelle: [Nuklearrisiko.be: was können Sie tun](https://nuklearrisiko.be/de/was-koennen-sie-tun) · [Nuklearrisiko.be: FAQ](https://nuklearrisiko.be/de/faq) · [Nuklearrisiko.be: wann einnehmen](https://nuklearrisiko.be/de/jodtabletten/wann-einnehmen) · [Nuklearrisiko.be: warnen und schützen](https://nuklearrisiko.be/de/was-tun-die-behoerden/warnung-und-schutz-der-bevoelkerung) · [Nationales Krisenzentrum: Gemeinsam vorbereitet](https://krisenzentrum.be/sites/default/files/documents/files/WEB-Brosch%C3%BCre%20Gemeinsam%20Vorbereitet-DE.pdf) · [BE-Alert](https://www.be-alert.be/de/wie-werden-sie-alarmiert/alarmiert-wo-auch-immer-sie-sich-aufhalten)
 
 ## Vorbereiten
 
-- **Kennen Sie Ihre Zone.** Sehen Sie auf nuklearrisiko.be nach, ob Sie in einer nuklearen Notfallplanungszone wohnen, arbeiten oder zur Schule gehen.
+- **Kennen Sie Ihre Zone.** Sehen Sie im Voraus auf nuklearrisiko.be nach, ob Sie in einer nuklearen Notfallplanungszone wohnen, arbeiten oder zur Schule gehen.
 - **Melden Sie sich bei BE-Alert an.** Fügen Sie auch die Adresse Ihrer Arbeit, der Schule Ihrer Kinder oder eines schutzbedürftigen Familienmitglieds hinzu.
-- **Verfolgen Sie die offiziellen Kanäle** Ihrer Gemeinde, Ihres Gouverneurs und des Nationalen Krisenzentrums in den sozialen Medien.
-- **Erstellen Sie einen Notfallplan** für Ihre Familie, zum Beispiel mit der Vorlage des Nationalen Krisenzentrums (crisiscentrum.be, "Maak een plan").
+- **Verfolgen Sie die offiziellen Kanäle** Ihrer Gemeinde, Ihres Gouverneurs und des Nationalen Krisenzentrums in den sozialen Medien. Sie funktionieren nur, wenn das Netz funktioniert.
+- **Erstellen Sie einen Notfallplan** für Ihre Familie, zum Beispiel mit der Vorlage des Nationalen Krisenzentrums (crisiscentrum.be, "Maak een plan"). Sorgen Sie dafür, dass Sie eine Liste mit Kontaktpersonen, Adressen und Telefonnummern auf Papier haben.
 - **Stellen Sie ein Notfallpaket zusammen** für mindestens 3 Tage: Trinkwasser (3 bis 10 Liter pro Person und Tag, davon 1,5 bis 2 Liter zum Trinken), haltbare Lebensmittel, die kein Wasser, Gas oder Strom brauchen, einen Dosenöffner, ein Radio mit Batterien oder Kurbel, eine Taschenlampe, Ihre notwendigen Medikamente und eine geladene Powerbank. Bewahren Sie es an einem trockenen Ort auf.
 - **Wählen Sie Ihren Schutzraum:** einen zentralen Raum im Erdgeschoss, weg von Fenstern.
 
@@ -81,7 +93,7 @@ Quelle: [Nuklearrisiko.be: was können Sie tun](https://nuklearrisiko.be/de/was-
 - Sie erhalten die Tabletten kostenlos in der Apotheke. Einwohner der Zonen können sie mit ihrem eID abholen.
 - Bewahren Sie den Beipackzettel in der Packung auf. Haben Sie Zweifel wegen Allergien oder einer Krankheit, fragen Sie Ihren Arzt oder Apotheker.
 
-Quelle: [Nationales Krisenzentrum: Kernkraftwerk](https://krisenzentrum.be/de/risiken-belgien/technologische-risiken/zwischenfall-einer-nuklearanlage) · [Nuklearrisiko.be: was können Sie tun](https://nuklearrisiko.be/de/was-koennen-sie-tun) · [Nuklearrisiko.be: für wen](https://nuklearrisiko.be/de/jodtabletten/fuer-wen) · [Nuklearrisiko.be: FAQ](https://nuklearrisiko.be/de/faq) · [Nationales Krisenzentrum: Notfallpaket](https://krisenzentrum.be/de/was-koennen-sie-tun/stelle-ein-notfallpaket-zusammen/ein-notfallset-fuer-zu-hause)
+Quelle: [Nationales Krisenzentrum: Kernkraftwerk](https://krisenzentrum.be/de/risiken-belgien/technologische-risiken/zwischenfall-einer-nuklearanlage) · [Nuklearrisiko.be: was können Sie tun](https://nuklearrisiko.be/de/was-koennen-sie-tun) · [Nuklearrisiko.be: für wen](https://nuklearrisiko.be/de/jodtabletten/fuer-wen) · [Nuklearrisiko.be: FAQ](https://nuklearrisiko.be/de/faq) · [Nationales Krisenzentrum: Notfallpaket](https://krisenzentrum.be/de/was-koennen-sie-tun/stelle-ein-notfallpaket-zusammen/ein-notfallset-fuer-zu-hause) · [Nationales Krisenzentrum: ein Plan für zu Hause](https://krisenzentrum.be/de/was-koennen-sie-tun/make-plan/ein-notfallplan-zu-hause)
 
 ## Während
 
@@ -96,8 +108,8 @@ Quelle: [Nationales Krisenzentrum: Kernkraftwerk](https://krisenzentrum.be/de/ri
 5. Dichten Sie die Unterseite von Türen mit feuchten Tüchern ab. Sorgen Sie dafür, dass trotzdem noch etwas Luft zirkuliert, damit Ihnen nicht unwohl wird.
 6. Gehen Sie in einen zentralen Raum im Erdgeschoss, weg von Fenstern.
 7. Holen Sie Haustiere herein.
-8. Befolgen Sie die Anweisungen der Behörden über Radio, Fernsehen, Websites und soziale Medien.
-9. Telefonieren Sie nur bei einem medizinischen Notfall (112). Überflüssige Anrufe überlasten das Netz und behindern die Rettungsdienste. Benachrichtigen Sie andere per SMS, WhatsApp oder Signal.
+8. Befolgen Sie die Anweisungen der Behörden über das Radio, oder das Fernsehen, wenn es Strom gibt. Fällt der Strom aus, benutzen Sie ein Radio mit Batterien oder Kurbel. Achten Sie auch auf Lautsprecherwagen der Polizei. Funktioniert das Netz, verfolgen Sie auch BE-Alert, die Websites und die sozialen Medien der Behörden.
+9. Rufen Sie nicht an, um Informationen zu erfragen. Telefonieren Sie nur bei einem medizinischen Notfall (112). Überflüssige Anrufe überlasten das Netz und behindern die Rettungsdienste. Kommt kein Anruf zustande, siehe Notrufnummern, Wenn kein Anruf möglich ist. Funktioniert das Netz, benachrichtigen Sie andere per SMS, WhatsApp oder Signal.
 
 **Haben Sie einen Keller?** Die belgischen Quellen sprechen von einem zentralen Raum im Erdgeschoss. Das amerikanische Ready.gov nennt einen Keller oder die Mitte eines großen Gebäudes als den am besten geschützten Ort, mit möglichst vielen Wänden zwischen Ihnen und draußen. Auch Gebäude aus Ziegel oder Beton und Tiefgaragen bieten guten Schutz.
 
@@ -143,7 +155,7 @@ Quelle: [Nationales Krisenzentrum: Kernkraftwerk](https://krisenzentrum.be/de/ri
 
 - Schwangere Frauen und stillende Frauen gehören zu der Gruppe, für die Jodtabletten empfohlen werden. Nehmen Sie sie nur ein, wenn die Behörden es sagen.
 - Wer älter als 40 ist, nimmt grundsätzlich kein Jod ein, es sei denn, die Behörden empfehlen es ausdrücklich. Fragen Sie vorher Ihren Arzt um Rat.
-- Sind Sie krank oder verletzt, befolgen Sie die Anweisungen, wo Sie medizinische Versorgung erhalten. Rufen Sie bei einem medizinischen Notfall die 112 an.
+- Sind Sie krank oder verletzt, befolgen Sie die Anweisungen, wo Sie medizinische Versorgung erhalten. Rufen Sie bei einem medizinischen Notfall die 112 an. Gelingt das nicht, lassen Sie einen Mitbewohner oder Nachbarn anrufen oder Hilfe holen (siehe Notrufnummern, Wenn kein Anruf möglich ist).
 
 ### Haustiere und Tiere
 
@@ -168,16 +180,16 @@ Quelle: [Nationales Krisenzentrum: Kernkraftwerk](https://krisenzentrum.be/de/ri
 - Die Evakuierung ist die außergewöhnlichste Maßnahme. Evakuieren Sie nie auf eigene Initiative.
 - Eine Evakuierung findet nicht statt, während die Wolke vorüberzieht. Sie kann vorbeugend erfolgen, bevor die Freisetzung die Zone erreicht, oder später, nach dem Schutzsuchen.
 - Müssen Sie aufbrechen: Bleiben Sie ruhig, stellen Sie Wasser, Gas und Strom ab und nehmen Sie das Nötigste mit: Personalausweis, Geld, einige Flaschen Wasser, Handy und Ladegerät.
-- Folgen Sie den angegebenen Routen und Sammelpunkten. Wer, wohin und wie wird im Moment selbst mitgeteilt.
+- Folgen Sie den angegebenen Routen und Sammelpunkten. Wer, wohin und wie wird im Moment selbst mitgeteilt, unter anderem über das Radio und Lautsprecherwagen der Polizei.
 - Die Polizei sperrt eine Sicherheitszone ab. Eine evakuierte Zone dürfen Sie nicht mehr betreten.
 
-Quelle: [Nuklearrisiko.be: Schutz suchen](https://nuklearrisiko.be/de/was-koennen-sie-tun/aufenthalt-geschlossenen-raeumen-die-beste-schutzmassnahme) · [Nuklearrisiko.be: FAQ](https://nuklearrisiko.be/de/faq) · [Nuklearrisiko.be: dekontaminieren](https://nuklearrisiko.be/de/was-koennen-sie-tun/sich-selbst-dekontaminieren) · [Nuklearrisiko.be: wann einnehmen](https://nuklearrisiko.be/de/jodtabletten/wann-einnehmen) · [Nuklearrisiko.be: für wen](https://nuklearrisiko.be/de/jodtabletten/fuer-wen) · [Nuklearrisiko.be: Evakuierung](https://nuklearrisiko.be/de/was-koennen-sie-tun/evakuierung) · [Nuklearrisiko.be: Lebensmittelkette](https://nuklearrisiko.be/de/was-koennen-sie-tun/schutz-der-lebensmittelversorgung) · [Nationales Krisenzentrum: Schutz suchen](https://krisenzentrum.be/de/was-koennen-sie-tun/der-richtige-reflex/schutz-suchen) · [Ready.gov](https://www.ready.gov/radiation)
+Quelle: [Nuklearrisiko.be: Schutz suchen](https://nuklearrisiko.be/de/was-koennen-sie-tun/aufenthalt-geschlossenen-raeumen-die-beste-schutzmassnahme) · [Nuklearrisiko.be: FAQ](https://nuklearrisiko.be/de/faq) · [Nuklearrisiko.be: dekontaminieren](https://nuklearrisiko.be/de/was-koennen-sie-tun/sich-selbst-dekontaminieren) · [Nuklearrisiko.be: wann einnehmen](https://nuklearrisiko.be/de/jodtabletten/wann-einnehmen) · [Nuklearrisiko.be: für wen](https://nuklearrisiko.be/de/jodtabletten/fuer-wen) · [Nuklearrisiko.be: Evakuierung](https://nuklearrisiko.be/de/was-koennen-sie-tun/evakuierung) · [Nuklearrisiko.be: Lebensmittelkette](https://nuklearrisiko.be/de/was-koennen-sie-tun/schutz-der-lebensmittelversorgung) · [Nationales Krisenzentrum: Schutz suchen](https://krisenzentrum.be/de/was-koennen-sie-tun/der-richtige-reflex/schutz-suchen) · [Nuklearrisiko.be: warnen und schützen](https://nuklearrisiko.be/de/was-tun-die-behoerden/warnung-und-schutz-der-bevoelkerung) · [Nationales Krisenzentrum: Gemeinsam vorbereitet](https://krisenzentrum.be/sites/default/files/documents/files/WEB-Brosch%C3%BCre%20Gemeinsam%20Vorbereitet-DE.pdf) · [112.be: Häufig gestellte Fragen](https://112.be/de/haeufig-gestellte-fragen) · [Ready.gov](https://www.ready.gov/radiation)
 
 ## Danach
 
 - Gehen Sie erst nach draußen, wenn die Behörden melden, dass es sicher ist.
 - Wurden Sie evakuiert, kehren Sie erst zurück, wenn die örtlichen Behörden es sagen.
-- Es kann ein medizinischer Rat folgen. Verfolgen Sie die Medien und die offiziellen Kanäle.
+- Es kann ein medizinischer Rat folgen. Verfolgen Sie das Radio und, wenn das Netz funktioniert, die offiziellen Kanäle.
 - Die Behörden können Maßnahmen für die Lebensmittelkette ergreifen:
   - den Verzehr frischer Feldfrüchte einschränken oder verbieten, auch aus Ihrem Gemüsegarten;
   - die Nutzung von Trinkwasser und Oberflächenwasser verbieten;
@@ -187,14 +199,14 @@ Quelle: [Nuklearrisiko.be: Schutz suchen](https://nuklearrisiko.be/de/was-koenne
 - Essen Sie nichts aus Ihrem Garten, bis die Behörden sagen, dass es sicher ist.
 - Sorgen Sie auch für Ihre psychische Gesundheit. Sprechen Sie mit jemandem, wenn Sie aufgewühlt sind.
 
-Quelle: [Nationales Krisenzentrum: Kernkraftwerk](https://krisenzentrum.be/de/risiken-belgien/technologische-risiken/zwischenfall-einer-nuklearanlage) · [Nuklearrisiko.be: Lebensmittelkette](https://nuklearrisiko.be/de/was-koennen-sie-tun/schutz-der-lebensmittelversorgung) · [Ready.gov](https://www.ready.gov/radiation)
+Quelle: [Nationales Krisenzentrum: Kernkraftwerk](https://krisenzentrum.be/de/risiken-belgien/technologische-risiken/zwischenfall-einer-nuklearanlage) · [Nuklearrisiko.be: Lebensmittelkette](https://nuklearrisiko.be/de/was-koennen-sie-tun/schutz-der-lebensmittelversorgung) · [Nationales Krisenzentrum: Informationen während einer Notsituation](https://krisenzentrum.be/de/was-koennen-sie-tun/informieren-sie-sich/information-notsituationen) · [Ready.gov](https://www.ready.gov/radiation)
 
 ## Nicht tun
 
 - Nehmen Sie nie Jodtabletten auf eigene Initiative ein.
 - Evakuieren Sie nie auf eigene Initiative.
 - Holen Sie Ihre Kinder nicht von der Schule oder Betreuung ab.
-- Telefonieren Sie nicht ohne Notwendigkeit.
+- Rufen Sie nicht an, um Informationen zu erfragen. Hören Sie Radio.
 - Gehen Sie nicht nach draußen, um nachzusehen oder um einzukaufen.
 - Lassen Sie Lüftung oder Klimaanlage nicht eingeschaltet.
 - Essen Sie nichts aus dem Gemüsegarten und nichts, was unbedeckt draußen stand.
@@ -204,10 +216,12 @@ Quelle: [Nationales Krisenzentrum: Kernkraftwerk](https://krisenzentrum.be/de/ri
 
 ## Mehr Informationen
 
+Lesen Sie diese Seiten im Voraus. Bei einer Stromunterbrechung können Internet und Mobilfunknetze ausfallen.
+
 - Zonen, Jod und Empfehlungen: [nuklearrisiko.be](https://nuklearrisiko.be/de/was-koennen-sie-tun)
 - Risiko und Maßnahmen: [Nationales Krisenzentrum: Zwischenfall in einem Kernkraftwerk](https://krisenzentrum.be/de/risiken-belgien/technologische-risiken/zwischenfall-einer-nuklearanlage)
 - Föderalagentur für Nuklearkontrolle (FANC): [fanc.be](https://fank.fgov.be/de)
 - Strahlungsmessnetz: [telerad.be](https://telerad.be)
 - Siehe auch das Modul **Nuklear** für die Standorte, die Zonen und die Entfernung zu Ihrer Adresse, und den Ratgeber **Schutz suchen je nach Gefahr**.
 
-Quelle: [Nationales Krisenzentrum: Kernkraftwerk](https://krisenzentrum.be/de/risiken-belgien/technologische-risiken/zwischenfall-einer-nuklearanlage)
+Quelle: [Nationales Krisenzentrum: Kernkraftwerk](https://krisenzentrum.be/de/risiken-belgien/technologische-risiken/zwischenfall-einer-nuklearanlage) · [Nationales Krisenzentrum: Gemeinsam vorbereitet](https://krisenzentrum.be/sites/default/files/documents/files/WEB-Brosch%C3%BCre%20Gemeinsam%20Vorbereitet-DE.pdf)

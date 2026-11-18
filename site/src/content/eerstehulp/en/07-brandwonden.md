@@ -1,9 +1,9 @@
 ---
 titel: Burns
 volgorde: 7
-kort: "Cool a burn immediately under running tap water, for at least 10 and preferably 20 minutes. Chemical and electrical burns: always 112."
+kort: "Cool a burn immediately under running tap water, for at least 10 and preferably 20 minutes. Chemical and electrical burns: always call 112 or have someone get help."
 status: concept
-datum: "2026-11-17"
+datum: "2026-11-18"
 bronnen:
   - naam: "Gezondheid en Wetenschap (Rode Kruis-Vlaanderen): First aid for burns"
     url: https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-brandwonden
@@ -17,8 +17,12 @@ bronnen:
     url: https://www.antigifcentrum.be/wanneer-bellen/
   - naam: "IFRC: International first aid, resuscitation, and education guidelines 2020"
     url: https://www.ifrc.org/sites/default/files/2022-02/EN_GFARC_GUIDELINES_2020.pdf
+  - naam: "European Resuscitation Council Guidelines 2021: First aid"
+    url: https://cprguidelines-old.erc.edu/assets/guidelines/European-Resuscitation-Council-Guidelines-2021-Fi.pdf
+  - naam: "112.be: Frequently asked questions"
+    url: https://112.be/en/frequently-asked-questions
 vertaling: machine
-origineel_datum: "2026-11-17"
+origineel_datum: "2026-11-18"
 ---
 
 ## Recognise
@@ -53,7 +57,7 @@ Source: [Gezondheid en Wetenschap: Burns](https://www.gezondheidenwetenschap.be/
 8. After cooling, cover the burn according to how serious it is:
    - Small first-degree burn: apply a moisturising product, such as a hydrogel or after-sun, and cover with a plaster or sterile dressing.
    - Small second-degree burn with intact skin: cover with a burn dressing. If you do not have one, apply hydrogel and cover with a dressing.
-   - Large second- or third-degree burn: after cooling, apply a wet wound dressing, as sterile as possible, with a triangular bandage, dressing or clean cloth. Cling film can be used temporarily. Lay the film over an arm or leg, not tightly around it, because it may swell. Call 112.
+   - Large second- or third-degree burn: after cooling, apply a wet wound dressing, as sterile as possible, with a triangular bandage, dressing or clean cloth. Cling film can be used temporarily. Lay the film over an arm or leg, not tightly around it, because it may swell. Call 112 or have someone call. If you cannot get through, see Call 112 if.
 9. Leave blisters intact. Do not burst them.
 10. Ask whether the casualty is vaccinated against tetanus.
 11. Watch for signs of poisoning after a fire: toxic gases may have been released.
@@ -64,12 +68,12 @@ Source: [Gezondheid en Wetenschap: Burns](https://www.gezondheidenwetenschap.be/
 1. Have the casualty lie down.
 2. Keep them warm.
 3. Prevent the burn from coming into contact with the ground, so that it stays clean.
-4. Call 112 (see topic 6).
+4. Call 112 or have someone call (see topic 6).
 
 ### Chemical burn
 
 1. Ensure your own safety. Do not touch the product without gloves that are resistant to it. Ventilate if there are fumes.
-2. Call 112. Then call the Poison Centre on 070 245 245 for advice on first aid. Keep the packaging at hand.
+2. Call 112 or have someone call. If the phone works, then also call the Poison Centre on 070 245 245 for advice on first aid. Keep the packaging at hand.
 3. Rinse the skin with running water until the pain eases.
 4. Make sure the diluted product does not run over healthy skin or into the other eye.
 5. Remove contaminated clothing and jewellery, unless they are stuck to the skin.
@@ -85,7 +89,7 @@ Source: [Gezondheid en Wetenschap: Burns](https://www.gezondheidenwetenschap.be/
 ### Electrical burn
 
 1. Do not touch the casualty as long as they are in contact with the power source. First switch off the power (see topic 13).
-2. Call 112.
+2. Call 112 or have someone call.
 3. Cool and cover the visible burns as above.
 4. Bear in mind that there may be internal injuries.
 
@@ -121,9 +125,14 @@ Source: [IFRC Guidelines 2020](https://www.ifrc.org/sites/default/files/2022-02/
 
 Consult a doctor for a large first-degree burn, a second- or third-degree burn larger than a 2 euro coin, a burn on the face, hands, feet, joints or genitals, a burn caused by flames, or if the pain persists after 15 minutes of cooling.
 
-With a chemical product, always call the Poison Centre as well: 070 245 245.
+If the phone works, always call the Poison Centre as well with a chemical product: 070 245 245.
 
-Source: [Gezondheid en Wetenschap: Burns](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-brandwonden) · [Poison Centre: When to call?](https://www.antigifcentrum.be/wanneer-bellen/)
+**If you cannot get through**
+
+- Only leave the casualty alone if there is no other option. Point directly at a bystander to get help and tell them where it is, what happened, how many casualties there are and what condition they are in.
+- See also topic 1 (If you cannot get through: getting help without a phone) and Emergency numbers in the app, If you cannot call.
+
+Source: [Gezondheid en Wetenschap: Burns](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-brandwonden) · [Poison Centre: When to call?](https://www.antigifcentrum.be/wanneer-bellen/) · [ERC Guidelines 2021: First aid](https://cprguidelines-old.erc.edu/assets/guidelines/European-Resuscitation-Council-Guidelines-2021-Fi.pdf) · [112.be: Frequently asked questions](https://112.be/en/frequently-asked-questions)
 
 ## Do not
 
@@ -132,7 +141,7 @@ Source: [Gezondheid en Wetenschap: Burns](https://www.gezondheidenwetenschap.be/
 - Do not pull away clothing or jewellery that is stuck to the skin.
 - Do not wrap cling film tightly around an arm or leg.
 - Do not touch a chemical product with bare hands.
-- Do not try to dilute a swallowed corrosive product. Call the Poison Centre or 112.
+- Do not try to dilute a swallowed corrosive product. Call 112 or the Poison Centre. If you cannot get through, see Call 112 if.
 - Without medical advice, do not put anything other than clean water into an eye with a chemical product in it.
 - Do not touch the casualty of an electrical accident as long as the power is not off.
 - Do not use an ointment containing silver sulfadiazine. The IFRC says that it is associated with poorer healing.

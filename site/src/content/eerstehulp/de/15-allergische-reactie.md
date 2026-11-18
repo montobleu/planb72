@@ -1,9 +1,9 @@
 ---
 titel: Allergische Reaktion und Anaphylaxie
 volgorde: 15
-kort: "Bei einer schweren allergischen Reaktion: Rufen Sie 112 an, helfen Sie der Person, ihren eigenen Adrenalin-Autoinjektor zu verwenden, und legen Sie sie hin, oder lassen Sie sie bei Atemnot sitzen."
+kort: "Bei einer schweren allergischen Reaktion: Rufen Sie 112 an oder lassen Sie Hilfe holen, helfen Sie der Person, ihren eigenen Adrenalin-Autoinjektor zu verwenden, und legen Sie sie hin, oder lassen Sie sie bei Atemnot sitzen."
 status: concept
-datum: "2026-11-17"
+datum: "2026-11-18"
 bronnen:
   - naam: "Gezondheid en Wetenschap (Rode Kruis-Vlaanderen): Erste Hilfe bei anaphylaktischem Schock"
     url: https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-anafylactische-shock
@@ -11,8 +11,12 @@ bronnen:
     url: https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-een-bijensteek
   - naam: "IFRC: International first aid, resuscitation, and education guidelines 2020"
     url: https://www.ifrc.org/sites/default/files/2022-02/EN_GFARC_GUIDELINES_2020.pdf
+  - naam: "European Resuscitation Council Guidelines 2021: First aid"
+    url: https://cprguidelines-old.erc.edu/assets/guidelines/European-Resuscitation-Council-Guidelines-2021-Fi.pdf
+  - naam: "112.be: Häufig gestellte Fragen"
+    url: https://112.be/de/haeufig-gestellte-fragen
 vertaling: machine
-origineel_datum: "2026-11-17"
+origineel_datum: "2026-11-18"
 ---
 
 ## Erkennen
@@ -44,7 +48,7 @@ Quelle: [Gezondheid en Wetenschap: Anaphylaktischer Schock](https://www.gezondhe
 
 1. Sorgen Sie für Ihre eigene Sicherheit und die der betroffenen Person. Bringen Sie die Person weg von dem, was die Reaktion verursacht, oder entfernen Sie es, zum Beispiel indem Sie es von der Haut abspülen.
 2. Beurteilen Sie den Zustand: Finden Sie heraus, was los ist, prüfen Sie das Bewusstsein, machen Sie wenn nötig die Atemwege frei und prüfen Sie die Atmung.
-3. Rufen Sie 112 an und sagen Sie, dass es sich um eine allergische Reaktion handelt.
+3. Rufen Sie 112 an oder lassen Sie jemanden anrufen und sagen Sie, dass es sich um eine allergische Reaktion handelt. Kommt kein Anruf zustande, siehe Rufen Sie 112 an, wenn.
 4. Versuchen Sie auch, einen Hausarzt in der Nähe zu erreichen. Er hat möglicherweise Adrenalin vorrätig und ist manchmal schneller vor Ort.
 5. Hat die betroffene Person einen eigenen Adrenalin-Autoinjektor dabei, geben Sie ihn ihr, damit sie ihn selbst verwendet. Helfen Sie ihr dabei. Die beste Stelle ist die Mitte der Außenseite des Oberschenkels. Die Injektion darf durch die Kleidung erfolgen, wenn diese nicht dick ist.
 6. Sie dürfen den Autoinjektor nicht aus eigener Initiative verabreichen. Tun Sie es nur, wenn die Person ausdrücklich darum bittet und es selbst nicht mehr kann.
@@ -62,7 +66,7 @@ Adrenalin kann Nebenwirkungen haben, die auch zur allergischen Reaktion selbst g
 
 ### Stich in Mund oder Rachen
 
-1. Rufen Sie sofort 112 an.
+1. Rufen Sie sofort 112 an oder lassen Sie jemanden anrufen. Kommt kein Anruf zustande, siehe Rufen Sie 112 an, wenn.
 2. Lassen Sie die betroffene Person Eis lutschen oder den Mund mit kaltem Wasser ausspülen. Das kann die Schwellung vorübergehend verringern.
 
 ### Bienenstich ohne schwere Reaktion
@@ -93,7 +97,7 @@ Quelle: [Gezondheid en Wetenschap: Anaphylaktischer Schock](https://www.gezondhe
 - Prüfen Sie weiterhin regelmäßig Bewusstsein und Atmung. Wird die Person bewusstlos und atmet nicht normal, beginnen Sie mit der Wiederbelebung.
 - Lassen Sie die betroffene Person liegen, wenn sie Zeichen eines Schocks hat, oder sitzen, wenn sie schwer atmet. Halten Sie sie warm.
 - Vermeiden Sie jeden erneuten Kontakt mit dem, was die Reaktion verursacht hat.
-- Wer eine Allergie hat, trägt am besten immer einen Allergiepass und die verschriebenen Medikamente bei sich und sorgt dafür, dass die Menschen in der Umgebung wissen, wo sie sich befinden. Wer mit einer bekannten Allergie an einen abgelegenen Ort reist, bereitet sich darauf besonders vor.
+- Wer eine Allergie hat, trägt am besten immer einen Allergiepass und die verschriebenen Medikamente bei sich und sorgt dafür, dass die Menschen in der Umgebung wissen, wo sie sich befinden. Wer mit einer bekannten Allergie an einen abgelegenen Ort reist, bereitet sich darauf besonders vor. Überlegen Sie im Voraus, wie Sie sich selbst helfen, wenn Sie allein sind, wenn eine Reaktion beginnt.
 
 Quelle: [IFRC Guidelines 2020](https://www.ifrc.org/sites/default/files/2022-02/EN_GFARC_GUIDELINES_2020.pdf) · [Gezondheid en Wetenschap: Anaphylaktischer Schock](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-anafylactische-shock)
 
@@ -109,7 +113,14 @@ Quelle: [IFRC Guidelines 2020](https://www.ifrc.org/sites/default/files/2022-02/
 
 Suchen Sie nach einem Stich einen Arzt auf, wenn der Stachel nicht entfernt werden kann, bei ausgedehnter Rötung oder einer schmerzhaften, juckenden Schwellung, wenn sich die Person bis zu 24 Stunden später schlecht fühlt, wenn sie sehr oft gestochen wurde, bei Zeichen einer Entzündung (Rötung, Schmerz, Wärme, Schwellung) oder wenn sie wahrscheinlich nicht ausreichend gegen Tetanus geschützt ist.
 
-Quelle: [Gezondheid en Wetenschap: Anaphylaktischer Schock](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-anafylactische-shock) · [Gezondheid en Wetenschap: Bienenstich](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-een-bijensteek) · [IFRC Guidelines 2020](https://www.ifrc.org/sites/default/files/2022-02/EN_GFARC_GUIDELINES_2020.pdf)
+**Kommt kein Anruf zustande**
+
+- Lassen Sie die betroffene Person nur allein, wenn es keine andere Möglichkeit gibt. Eine leichte Reaktion kann innerhalb weniger Minuten lebensbedrohlich werden. Sprechen Sie Umstehende direkt an, damit sie Hilfe holen, und geben Sie mit, wo es ist, was passiert ist, wie viele Betroffene es gibt und in welchem Zustand sie sind.
+- Versuchen Sie auch, einen Hausarzt in der Nähe zu erreichen (siehe Was tun).
+- Führen Sie eine Wiederbelebung durch und sind Sie allein ohne Telefon, siehe Thema 2 (Kommt kein Anruf zustande).
+- Siehe auch Thema 1 (Kommt kein Anruf zustande: Hilfe holen ohne Telefon) und Notrufnummern in der App, Wenn kein Anruf möglich ist.
+
+Quelle: [Gezondheid en Wetenschap: Anaphylaktischer Schock](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-anafylactische-shock) · [Gezondheid en Wetenschap: Bienenstich](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-een-bijensteek) · [IFRC Guidelines 2020](https://www.ifrc.org/sites/default/files/2022-02/EN_GFARC_GUIDELINES_2020.pdf) · [ERC Guidelines 2021: First aid](https://cprguidelines-old.erc.edu/assets/guidelines/European-Resuscitation-Council-Guidelines-2021-Fi.pdf) · [112.be: Häufig gestellte Fragen](https://112.be/de/haeufig-gestellte-fragen)
 
 ## Nicht tun
 

@@ -4,7 +4,7 @@ module: schuilen
 volgorde: 2
 kort: "Wie Sie im Voraus den besten Ort in Ihrer Wohnung wählen und einrichten: Kriterien, Fenster, Türen, Lüftung, Vorrat, Kinder und Tiere."
 status: concept
-datum: "2026-11-17"
+datum: "2026-11-18"
 bronnen:
   - naam: "Nationales Krisenzentrum: Schutz suchen"
     url: https://krisenzentrum.be/de/was-koennen-sie-tun/der-richtige-reflex/schutz-suchen
@@ -43,14 +43,14 @@ bronnen:
   - naam: "Nuklearrisiko: Schutz suchen, der beste Schutz"
     url: https://nuklearrisiko.be/de/was-koennen-sie-tun/aufenthalt-geschlossenen-raeumen-die-beste-schutzmassnahme
 vertaling: machine
-origineel_datum: "2026-11-17"
+origineel_datum: "2026-11-18"
 ---
 
 ## Warum Sie den Ort im Voraus wählen
 
 Bei vielen Gefahren haben Sie wenig Zeit. Finnland sagt, dass bei einer Bedrohung aus der Luft zwischen dem Alarm und der eigentlichen Gefahr sehr wenig Zeit liegt und dass Sie deshalb dort Schutz suchen, wo Sie sich in diesem Moment befinden. In dünn besiedelten Gebieten und in Vierteln mit frei stehenden Häusern suchen die Menschen laut der finnischen Regierung fast immer vor Ort Schutz. Wer im Voraus weiß, welcher Raum im Haus der beste ist, verliert keine Zeit.
 
-Das Nationale Krisenzentrum empfiehlt, mit Ihren Mitbewohnern einen Notfallplan zu erstellen, die drei Schritte des Schutz Suchens im Voraus mit Familie, Nachbarn oder Kollegen zu besprechen und den Plan regelmäßig zu üben. Finnland empfiehlt zu lernen, wie Sie die Lüftung ausschalten, zu Hause und in Gebäuden, in denen Sie sich oft aufhalten.
+Das Nationale Krisenzentrum empfiehlt, mit Ihren Mitbewohnern einen Notfallplan zu erstellen, die drei Schritte des Schutz Suchens im Voraus mit Familie, Nachbarn oder Kollegen zu besprechen und den Plan regelmäßig zu üben. Finnland empfiehlt zu lernen, wie Sie die Lüftung ausschalten, zu Hause und in Gebäuden, in denen Sie sich oft aufhalten. Vereinbaren Sie mit Ihren Nachbarn auch, wie Sie einander erreichen, wenn Telefon oder Internet nicht funktionieren (Krisenzentrum).
 
 Ein Schutzort im Haus ersetzt keinen echten Schutzraum. Die tschechische Regierung hat ihren Leitfaden gerade deshalb entwickelt, weil feste Schutzräume nur einen kleinen Teil der Bevölkerung abdecken und ein improvisierter Schutzraum (improvizovaný úkryt) dann die Lösung ist. Der ukrainische Zivilschutz sagt, dass die Regel der zwei Wände keine vollständige Sicherheit bietet.
 
@@ -213,7 +213,8 @@ Quelle: [Nationales Krisenzentrum: Schutz suchen](https://krisenzentrum.be/de/wa
 
 - Trinkwasser: zwischen 3 und 10 Liter pro Person und Tag. 3 Liter reichen gerade zum Trinken und Kochen.
 - Lange haltbare Lebensmittel, die Sie ohne Wasser, Gas oder Strom zubereiten können, und ein Dosenöffner oder Taschenmesser.
-- Ein Radio mit Batterien oder ein Kurbelradio, am besten mit DAB+ und UKW, wiederaufladbare Batterien und Ersatzbatterien.
+- Ein Radio mit Batterien oder ein Kurbelradio, am besten mit DAB+ und UKW, wiederaufladbare Batterien und Ersatzbatterien. So bleiben Sie auch ohne Strom informiert: Bei einer Stromunterbrechung können auch Internet und Mobilfunknetze ausfallen.
+- Eine Papierliste mit wichtigen Telefonnummern.
 - Eine Taschenlampe, am besten mit Kurbel. Warme Kleidung oder Decken.
 - Jodtabletten. Nehmen Sie sie nie auf eigene Initiative ein.
 - Babynahrung, Windeln und Spielzeug, wenn Sie kleine Kinder haben. Futter und Material für Haustiere.
@@ -262,7 +263,7 @@ Quelle: [Nationales Krisenzentrum: Schutz suchen](https://krisenzentrum.be/de/wa
 
 ## Verhalten während des Schutz Suchens
 
-- Folgen Sie den Anweisungen der Behörden über Radio, Fernsehen, BE-Alert und offizielle Websites (Krisenzentrum).
+- Folgen Sie den Anweisungen der Behörden über ein batteriebetriebenes Radio oder ein Kurbelradio. Achten Sie auch auf Lautsprecherwagen der Polizei in der Straße. Funktioniert das Netz, kommen die Anweisungen auch über BE-Alert und offizielle Websites (Krisenzentrum).
 - Telefonieren Sie nicht unnötig. Ein überlastetes Netz kann die Hilfeleistung stören (Nuklearrisiko).
 - Rauchen Sie nicht im Schutzraum (Tschechien).
 - Seien Sie rücksichtsvoll: Machen Sie keinen Lärm und vermeiden Sie Streit. Ein Schutzraum verlangt den Menschen viel ab, körperlich und psychisch (Tschechien). Die Ukraine verlangt Disziplin und so wenig Hin- und Herlaufen wie möglich.
@@ -270,7 +271,7 @@ Quelle: [Nationales Krisenzentrum: Schutz suchen](https://krisenzentrum.be/de/wa
 - Stellen Sie, bevor Sie zu einem Schutzraum außerhalb Ihrer Wohnung gehen, Gas, Strom und Wasser ab und schließen Sie Fenster und Lüftungsgitter (Ukraine). Die Schweiz nennt auch: elektrische Geräte aus, offenes Feuer löschen, Nachbarn benachrichtigen, Haustiere so gut wie möglich mit Wasser und Futter unterbringen.
 - Können Sie den Raum nicht selbstständig verlassen, dann sagen Sie es Ihren Nachbarn (Ukraine).
 
-Quelle: [Nationales Krisenzentrum: Schutz suchen](https://krisenzentrum.be/de/was-koennen-sie-tun/der-richtige-reflex/schutz-suchen) · [Nuklearrisiko: Schutz suchen, der beste Schutz](https://nuklearrisiko.be/de/was-koennen-sie-tun/aufenthalt-geschlossenen-raeumen-die-beste-schutzmassnahme) · [Sebeochrana ukrytím](https://mv.gov.cz/clanek/sebeochrana-ukrytim.aspx) · [Dovidka.info: What is a shelter](https://dovidka.info/en/what-is-shelter/) · [Suomi.fi: Military conflicts and civil defence](https://www.suomi.fi/guides/preparedness/how-to-prepare-for-incidents-and-crises/military-conflicts-and-civil-defence) · [BABS: Der Schutzraum](https://www.sz.ch/public/upload/assets/87489/Der_Schutzraum.pdf?fp=2)
+Quelle: [Nationales Krisenzentrum: Schutz suchen](https://krisenzentrum.be/de/was-koennen-sie-tun/der-richtige-reflex/schutz-suchen) · [Nationales Krisenzentrum: Broschüre Gemeinsam vorbereitet](https://krisenzentrum.be/sites/default/files/documents/files/WEB-Brosch%C3%BCre%20Gemeinsam%20Vorbereitet-DE.pdf) · [Nuklearrisiko: Schutz suchen, der beste Schutz](https://nuklearrisiko.be/de/was-koennen-sie-tun/aufenthalt-geschlossenen-raeumen-die-beste-schutzmassnahme) · [Sebeochrana ukrytím](https://mv.gov.cz/clanek/sebeochrana-ukrytim.aspx) · [Dovidka.info: What is a shelter](https://dovidka.info/en/what-is-shelter/) · [Suomi.fi: Military conflicts and civil defence](https://www.suomi.fi/guides/preparedness/how-to-prepare-for-incidents-and-crises/military-conflicts-and-civil-defence) · [BABS: Der Schutzraum](https://www.sz.ch/public/upload/assets/87489/Der_Schutzraum.pdf?fp=2)
 
 ## Kinder
 

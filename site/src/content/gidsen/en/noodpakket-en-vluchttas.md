@@ -4,7 +4,7 @@ module: voorbereiding
 volgorde: 2
 kort: "What to have ready so you can leave quickly, and what to keep at home, in the car and at work, with separate lists for children, older people, people with a disability and pets, plus documents and cash."
 status: concept
-datum: "2026-11-17"
+datum: "2026-11-18"
 bronnen:
   - naam: "National Crisis Center: An emergency kit at home"
     url: "https://crisiscenter.be/en/what-can-you-do/build-emergency-kit/emergency-kit-home"
@@ -42,8 +42,10 @@ bronnen:
     url: "https://www.ready.gov/winter-weather"
   - naam: "Diereninrampen.nl: Save your animal in a disaster"
     url: "https://www.diereninrampen.nl/red-je-dier-bij-een-ramp"
+  - naam: "National Crisis Center: A plan at home"
+    url: "https://crisiscenter.be/en/what-can-you-do/make-plan/emergency-plan-home"
 vertaling: machine
-origineel_datum: "2026-11-17"
+origineel_datum: "2026-11-18"
 ---
 
 The National Crisis Center divides the emergency kit into two parts: a backpack or bag that you can take with you quickly, and a supply for at home for when you have to shelter or are without electricity, water, telephone and internet for a while. This guide covers the backpack and the smaller kits for the car and for work. The supply at home is covered in the guide on the emergency supply.
@@ -59,7 +61,7 @@ The Belgian list for the backpack, from the brochure and the website of the Cris
 **Money and documents**
 
 - Copies of important documents such as your identity card, driving licence and insurance papers. The website also mentions copies of insurance contracts and of all identity cards.
-- Your emergency plan or a list of important telephone numbers: family and friends, emergency numbers, your gas, water and electricity supplier, the monitoring centre of your alarm system, your GP, your insurer.
+- Your emergency plan or a list of important telephone numbers, on paper: family and friends, emergency numbers, your gas, water and electricity supplier, the monitoring centre of your alarm system, your GP, your insurer. Write down the address of your contacts too. That way you can find each other again, even if your mobile is flat or the network is not working. Also put the meeting place you agreed with your household in your emergency plan.
 - Pen and paper.
 - A little cash (see the section on cash).
 
@@ -77,9 +79,9 @@ The Crisis Center advises against putting tinned food in the backpack, because i
 - Personal care products: wet wipes, disinfecting gel, toothpaste, toothbrush, toilet paper, tissues, sanitary towels.
 - A multi-purpose pocket knife.
 - A whistle to let the emergency services know where you are.
-- A charged power bank and mobile phone charger.
+- A charged power bank and mobile phone charger. Do not count on always being able to call: during a power cut, the internet and mobile networks can also fail.
 
-Source: [National Crisis Center: brochure Prepared together](https://crisiscenter.be/sites/default/files/documents/files/WEB-Brochure%20Prepared%20Together-EN.pdf) · [National Crisis Center: An emergency kit at home](https://crisiscenter.be/en/what-can-you-do/build-emergency-kit/emergency-kit-home)
+Source: [National Crisis Center: brochure Prepared together](https://crisiscenter.be/sites/default/files/documents/files/WEB-Brochure%20Prepared%20Together-EN.pdf) · [National Crisis Center: An emergency kit at home](https://crisiscenter.be/en/what-can-you-do/build-emergency-kit/emergency-kit-home) · [National Crisis Center: A plan at home](https://crisiscenter.be/en/what-can-you-do/make-plan/emergency-plan-home)
 
 ## What other countries add
 
@@ -189,7 +191,7 @@ Ready.gov gives these additions for older people:
 - A reserve supply of oxygen, if you use it.
 - A list with the type and serial number of medical devices, with any operating instructions.
 - Copies of insurance cards.
-- Contact details of doctors, family or friends who should be notified if you are injured.
+- Contact details of doctors, family or friends who should be notified if you are injured, on a list in waterproof packaging.
 - Food, water, a collar with name tag and medical records for a service or assistance dog.
 
 The Crisis Center recommends asking your GP or pharmacist for a medication list and putting it with your important documents. In the case of dementia, Ready.gov recommends taking a pillow and blanket or other familiar objects.
@@ -198,7 +200,7 @@ Source: [Ready.gov: People with Disabilities](https://www.ready.gov/disability) 
 
 ## People with a disability
 
-Add to the basic list what is essential for you, for example medicines or aids (Crisis Center). The BBK mentions spare batteries, rechargeable batteries and chargers for technical aids, mobility aids, a medication plan and a supply of medicines, food and water for an assistance animal, a list of emergency contacts and an emergency card with information about illnesses, allergies, aids and how you communicate.
+Add to the basic list what is essential for you, for example medicines or aids (Crisis Center). Think of alternative ways to communicate with others, even if you have no phone or internet (Crisis Center). The BBK mentions spare batteries, rechargeable batteries and chargers for technical aids, mobility aids, a medication plan and a supply of medicines, food and water for an assistance animal, a list of emergency contacts and an emergency card with information about illnesses, allergies, aids and how you communicate.
 
 Per disability, according to Ready.gov:
 
@@ -289,7 +291,7 @@ Source: [National Crisis Center: An emergency kit at home](https://crisiscenter.
 ## Grab bag checklist
 
 - [ ] Copy of identity card, driving licence, insurance.
-- [ ] Emergency plan or list of telephone numbers on paper.
+- [ ] Emergency plan or list of telephone numbers and addresses on paper, with the agreed meeting place.
 - [ ] Pen and paper.
 - [ ] Cash for about 72 hours, in small denominations.
 - [ ] About one litre of water per person.

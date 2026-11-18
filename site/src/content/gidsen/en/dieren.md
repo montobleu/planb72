@@ -4,7 +4,7 @@ module: dieren
 volgorde: 1
 kort: "Pets, assistance animals, aquarium and terrarium animals, horses and livestock: the emergency plan, supplies, evacuating or leaving them behind, cold and heat, and what the authorities impose in a nuclear or chemical incident."
 status: concept
-datum: "2026-11-17"
+datum: "2026-11-18"
 bronnen:
   - naam: "National Crisis Center: A plan for animals"
     url: "https://crisiscenter.be/en/what-can-you-do/make-plan/animals"
@@ -49,7 +49,7 @@ bronnen:
   - naam: "CDC: About Handwashing"
     url: "https://www.cdc.gov/clean-hands/about/index.html"
 vertaling: machine
-origineel_datum: "2026-11-17"
+origineel_datum: "2026-11-18"
 ---
 
 The Crisis Center asks you to include your animals in your emergency plan and your emergency kit. Ready.gov explains why: people who have a plan in advance for themselves and their animals have less trouble, stress and worry when decisions have to be made quickly. The MCF puts it briefly: you are responsible for the care and welfare of your animal in a crisis.
@@ -65,7 +65,7 @@ The Crisis Center asks for these steps:
 3. **Identification.** Make sure your animal can be identified, preferably with a microchip. Keep your name and address up to date in the online registration (CatID, DogID).
 4. **Vaccination.** Make sure your animal is vaccinated and put a copy of the vaccination booklet in your emergency kit.
 5. **Transport.** Plan how you will transport your animal safely, with a carrier or bag, and get it used to it.
-6. **Contact persons.** Put your vet's telephone number with your important numbers.
+6. **Contact persons.** Put your vet's telephone number with your important numbers. Calling only works if the network works.
 
 What other sources add:
 
@@ -75,7 +75,7 @@ What other sources add:
 - **A sticker** on a window or front door saying which and how many pets you have. According to Diereninrampen.nl, these are available in the Netherlands from animal welfare organisations and municipalities.
 - **Why vaccination.** Diereninrampen.nl: if during an evacuation you cannot prove that your animal is vaccinated, it may be refused and placed in quarantine, especially with diseases such as rabies.
 - **No guaranteed place in an animal shelter.** Animal shelters want to help but often have hardly any room; arrange it yourself (Diereninrampen.nl).
-- **On paper.** Print important telephone numbers, addresses and routes, so that you have them during power and internet outages (Diereninrampen.nl).
+- **On paper.** Print important telephone numbers, addresses and routes, so that you have them during power and internet outages (Diereninrampen.nl). Also note your vet's address. The map in the app (Nearest button) shows vets.
 
 Source: [National Crisis Center: A plan for animals](https://crisiscenter.be/en/what-can-you-do/make-plan/animals) · [Ready.gov: Pets](https://www.ready.gov/pets) · [Diereninrampen.nl: Save your animal in a disaster](https://www.diereninrampen.nl/red-je-dier-bij-een-ramp)
 
@@ -148,7 +148,7 @@ Source: [Ready.gov: Pets](https://www.ready.gov/pets)
 
 **If your animal cannot or may not come with you** (Crisis Center)
 
-1. Let the emergency services know that there are one or more animals in your home.
+1. Let the emergency services know that there are one or more animals in your home. A sticker on a window or front door shows which and how many animals there are (Diereninrampen.nl, see The plan for your animals).
 2. Tell them where the animal often hides and how it usually reacts to strangers.
 3. Put out enough water and food for 24 hours.
 4. Put newspapers on the floor for droppings.
@@ -294,7 +294,7 @@ Source: [National Crisis Center: brochure Prepared together](https://crisiscente
 - [ ] Medicines and a first aid kit for the animal.
 - [ ] A carrier or transport cage for each animal, and the animal used to it.
 - [ ] A photo of you with your animal.
-- [ ] The vet among your important numbers.
+- [ ] The vet among your important numbers, with address, on paper.
 - [ ] For livestock and horses: identification, routes, transport and a destination.
 
-Source: [National Crisis Center: A plan for animals](https://crisiscenter.be/en/what-can-you-do/make-plan/animals) · [National Crisis Center: brochure Prepared together](https://crisiscenter.be/sites/default/files/documents/files/WEB-Brochure%20Prepared%20Together-EN.pdf) · [Ready.gov: Pets](https://www.ready.gov/pets) · [MCF: In case of crisis or war](https://rib.msb.se/filer/pdf/31523.pdf)
+Source: [National Crisis Center: A plan for animals](https://crisiscenter.be/en/what-can-you-do/make-plan/animals) · [National Crisis Center: brochure Prepared together](https://crisiscenter.be/sites/default/files/documents/files/WEB-Brochure%20Prepared%20Together-EN.pdf) · [Ready.gov: Pets](https://www.ready.gov/pets) · [MCF: In case of crisis or war](https://rib.msb.se/filer/pdf/31523.pdf) · [Diereninrampen.nl: Save your animal in a disaster](https://www.diereninrampen.nl/red-je-dier-bij-een-ramp)

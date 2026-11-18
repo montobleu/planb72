@@ -2,9 +2,9 @@
 titel: Signals and emergency codes
 module: communicatie
 volgorde: 21
-kort: "Asking for help without a phone: the distress signal of three, the alpine distress signal, SOS in Morse, mirror, whistle, light and smoke, ground-to-air signals, arm signals to a helicopter, rescue team markings, sirens and BE-Alert, and the emergency frequencies on the radio."
+kort: "Asking for help without a phone: the distress signal of three, the alpine distress signal, SOS in Morse, mirror, whistle, light and smoke, ground-to-air signals, arm signals to a helicopter, rescue team markings, how you are warned without a network, and the emergency frequencies on the radio."
 status: concept
-datum: "2026-11-17"
+datum: "2026-11-18"
 bronnen:
   - naam: "US Army FM 21-76 Survival Manual, chapter 19: Signaling techniques (public domain, copy on archive.org)"
     url: https://archive.org/details/fm-21-76-survival-manual
@@ -48,25 +48,39 @@ bronnen:
     url: https://www.uba.be/en/b-ears/our-mission
   - naam: "National Crisis Center: Wildfire"
     url: https://crisiscenter.be/en/risks-belgium/natural-risks/wildfires
+  - naam: "FPS Economy: Frequently asked questions from households about electricity shortages"
+    url: https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door
+  - naam: "National Crisis Center: Information during an emergency"
+    url: https://crisiscenter.be/en/what-can-you-do/stay-informed/get-informed-emergency-situation
+  - naam: "National Crisis Center: brochure Prepared together"
+    url: https://crisiscenter.be/sites/default/files/documents/files/WEB-Brochure%20Prepared%20Together-EN.pdf
+  - naam: "National Crisis Center: Disruption of the digital infrastructure"
+    url: https://crisiscenter.be/en/risks-belgium/societal-risks/failure-digital-infrastructure
+  - naam: "National Crisis Center: Evacuating"
+    url: https://crisiscenter.be/en/what-can-you-do/right-reflex/evacuate
 vertaling: machine
-origineel_datum: "2026-11-17"
+origineel_datum: "2026-11-18"
 ---
 
-## First: can you call?
+## First: asking for help without a network
 
-A phone or the 112 BE app is always the best choice. Signals without a device are for those who have no coverage, no device or no battery left, or for those who have already been found but still need to pass something on to a helicopter or aircraft.
+This guide is for those who cannot call: no coverage, no device, no battery or a network outage. Those who have already been found but still need to pass something on to a helicopter or aircraft will also find the signs here.
+
+If there are people nearby, speak to them first. Ask for help in your neighbourhood and send someone to fetch help. What to do in a village or town if you cannot call is in the guide Emergency call, under If you cannot call at all.
+
+If your phone does work, call 112 or use the 112 BE app.
 
 | Situation | Best choice | Good choice | Last resort |
 | --- | --- | --- | --- |
-| You have coverage | Call 112 or use the 112 BE app | Have someone else call | |
-| No coverage, someone nearby | Send someone to a place with coverage | Go to a place with coverage yourself | Sound signals: whistle, shouting |
+| No coverage, someone nearby | Have someone fetch help or send them to a place with coverage | Go to a place with coverage yourself | Sound signals: whistle, shouting |
 | No coverage, nobody nearby, daytime | Whistle (three or six signals) | Mirror towards an aircraft or helicopter | Clothing or material on the ground in a large pattern |
 | No coverage, at night | Torch: SOS or the alpine distress signal | Whistle | Fire, only if it is allowed and can be done safely |
 | A helicopter or aircraft is in sight | Arm signals (Y or N) | Mirror, torch | Ground-to-air signal |
+| You do have coverage after all | Call 112 or use the 112 BE app | Have someone else call | If 112 does not answer: see the guide Emergency call |
 
 Save your energy. A whistle is better than shouting.
 
-Source: [National Park Service: Outdoor Emergency Plan](https://www.nps.gov/subjects/healthandsafety/upload/NPS-Outdoor-Emergency-Plan-508c.pdf) · [Deutscher Alpenverein: Erste Hilfe](https://www.forststeig.sachsen.de/download/Erste_Hilfe_2012_DAV.pdf) · [US Army FM 21-76, chapter 19](https://archive.org/details/fm-21-76-survival-manual)
+Source: [National Park Service: Outdoor Emergency Plan](https://www.nps.gov/subjects/healthandsafety/upload/NPS-Outdoor-Emergency-Plan-508c.pdf) · [Deutscher Alpenverein: Erste Hilfe](https://www.forststeig.sachsen.de/download/Erste_Hilfe_2012_DAV.pdf) · [US Army FM 21-76, chapter 19](https://archive.org/details/fm-21-76-survival-manual) · [FPS Economy: questions from households about electricity shortages](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door)
 
 ## The international distress signal: three
 
@@ -272,13 +286,22 @@ Source: [US Army FM 21-76, chapter 19](https://archive.org/details/fm-21-76-surv
 
 **Sirens.** Belgium had a network of warning sirens. Until December 2018 it was tested audibly four times a year: on the first Thursday of January, April, July and October. After that, BE-Alert took over these test moments. The BE-Alert page on how you are warned does not list sirens among the channels.
 
-**How you are warned now.** Via BE-Alert (text message, voice message, email, social media), via radio and television, via social media, door to door by the police, and via police loudspeakers. In serious emergencies the authorities try to reach you through as many channels as possible. Registering with BE-Alert is free.
+**How you are warned now.** In serious emergencies the authorities try to reach you through as many channels as possible. Without power or a network, these are:
+
+- the radio: a battery radio, a wind-up radio or the car radio;
+- police loudspeakers and loudspeaker vans driving through the street;
+- the police going door to door;
+- information boards and leaflets.
+
+If the network works, a warning also comes via BE-Alert (text message, voice message, email), television and social media.
+
+**In advance.** Get a battery radio or a wind-up radio, preferably with DAB+ and FM. Register with BE-Alert; it is free.
 
 **Recognising test messages.** A BE-Alert test always contains the words "BE-Alert", "This is a test message. You do not need to do anything", a link or information number, in the right language. Municipalities only test on the first Thursday of the month (except on public holidays), between 08:00 and 20:00, and inform their residents in advance.
 
 **Do you hear a siren anyway?** We did not find a Belgian instruction for people who hear a siren. In the Netherlands, where the siren network still works, the advice is: go indoors as quickly as possible, close windows, doors and other openings, switch off mechanical ventilation, and follow the news. If you cannot go indoors, stay in the car, switch off the engine and close the air vents. The Dutch sirens are tested every first Monday of the month at 12:00. That is the Dutch arrangement, not the Belgian one.
 
-Source: [National Crisis Center: National strategy for public alert tests](https://crisiscentrum.be/sites/default/files/documents/files/cc_nationale_strategie_voor_alarmeringstesten_0.pdf) · [BE-Alert: Be alerted](https://www.be-alert.be/en/be-alerted/be-alerted) · [Rijksoverheid: What should I do when the siren sounds?](https://www.rijksoverheid.nl/onderwerpen/veiligheidsregios-en-crisisbeheersing/vraag-en-antwoord/wat-moet-ik-doen-als-de-sirene-gaat)
+Source: [National Crisis Center: National strategy for public alert tests](https://crisiscentrum.be/sites/default/files/documents/files/cc_nationale_strategie_voor_alarmeringstesten_0.pdf) · [BE-Alert: Be alerted](https://www.be-alert.be/en/be-alerted/be-alerted) · [National Crisis Center: Information during an emergency](https://crisiscenter.be/en/what-can-you-do/stay-informed/get-informed-emergency-situation) · [National Crisis Center: brochure Prepared together](https://crisiscenter.be/sites/default/files/documents/files/WEB-Brochure%20Prepared%20Together-EN.pdf) · [FPS Economy: questions from households about electricity shortages](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door) · [Rijksoverheid: What should I do when the siren sounds?](https://www.rijksoverheid.nl/onderwerpen/veiligheidsregios-en-crisisbeheersing/vraag-en-antwoord/wat-moet-ik-doen-als-de-sirene-gaat)
 
 ## Rescue team markings on buildings
 
@@ -325,11 +348,13 @@ Source: [INSARAG Guidelines Volume II, Manual B](https://insarag.org/wp-content/
 
 ## Leaving a note
 
-**If you leave your home during an evacuation:** leave a note stating **when you left and where you are going**. If you have time, also contact your contact person outside the area and say where you are going. Afterwards, let family and friends know when you are leaving and when you arrive.
+**If you leave your home during an evacuation:** leave a note stating **when you left and where you are going**. Also help to warn your neighbours that they must evacuate. If the network works and you have time, contact your contact person outside the area and say where you are going, and let family and friends know when you are leaving and when you arrive.
+
+**Agree in advance:** agree with your family where you will meet if you cannot reach each other.
 
 **If you go out into nature:** make a trip plan and give it to someone who is staying at home. State where you are going and what you plan to do. Agree on when you will be back.
 
-Source: [Ready.gov: Evacuation](https://www.ready.gov/evacuation) · [National Park Service: Outdoor Emergency Plan](https://www.nps.gov/subjects/healthandsafety/upload/NPS-Outdoor-Emergency-Plan-508c.pdf) · [National Park Service: Junior Ranger Park Explorer](https://www.nps.gov/subjects/healthandsafety/junior-ranger-park-explorer.htm)
+Source: [Ready.gov: Evacuation](https://www.ready.gov/evacuation) · [National Crisis Center: Evacuating](https://crisiscenter.be/en/what-can-you-do/right-reflex/evacuate) · [National Crisis Center: Disruption of the digital infrastructure](https://crisiscenter.be/en/risks-belgium/societal-risks/failure-digital-infrastructure) · [National Park Service: Outdoor Emergency Plan](https://www.nps.gov/subjects/healthandsafety/upload/NPS-Outdoor-Emergency-Plan-508c.pdf) · [National Park Service: Junior Ranger Park Explorer](https://www.nps.gov/subjects/healthandsafety/junior-ranger-park-explorer.htm)
 
 ## On the radio: mayday and pan-pan (background)
 

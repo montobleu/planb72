@@ -2,9 +2,9 @@
 titel: "Lumière et énergie sans courant du réseau"
 module: energie
 volgorde: 1
-kort: "Toutes les sources de lumière et d'électricité pour une coupure de courant, avec leurs avantages et inconvénients : lampe de poche, bougies, piles, batterie externe, chargeur solaire, la voiture, un groupe électrogène et une batterie domestique, et comment faire durer votre téléphone le plus longtemps possible."
+kort: "Toutes les sources de lumière et d'électricité pour une coupure de courant, avec leurs avantages et inconvénients : lampe de poche, bougies, piles, batterie externe, chargeur solaire, la voiture, un groupe électrogène et une batterie domestique, ce que vous pouvez attendre de votre téléphone quand le réseau tombe, et comment partager la lumière et la chaleur avec vos voisins."
 status: concept
-datum: "2026-11-17"
+datum: "2026-11-18"
 bronnen:
   - naam: "Centre de crise National : Perturbation de l'électricité"
     url: "https://centredecrise.be/fr/risques-en-belgique/risques-societaux/defaillance-de-lapprovisionnement-en-electricite"
@@ -34,11 +34,21 @@ bronnen:
     url: "https://www.ready.gov/evacuation"
   - naam: "Ready.gov: People with Disabilities"
     url: "https://www.ready.gov/disability"
+  - naam: "SPF Économie : questions des ménages sur la pénurie d'électricité"
+    url: "https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door"
+  - naam: "Croix-Rouge de Flandre : panne de courant et de communication"
+    url: "https://www.rodekruis.be/wat-doen-we/hulp-in-vlaanderen/goed-voorbereid/stroom-en-communicatie-uitval/"
+  - naam: "Centre de crise National : l'information pendant une situation d'urgence"
+    url: "https://centredecrise.be/fr/que-pouvez-vous-faire/informez-vous/linformation-pendant-une-situation-durgence"
+  - naam: "112.be : Questions fréquentes"
+    url: "https://112.be/fr/questions-frequentes"
+  - naam: "Centre de crise National : un plan dans votre quartier ou association"
+    url: "https://centredecrise.be/fr/que-pouvez-vous-faire/faites-un-plan/un-plan-dans-votre-quartier-ou-votre-association"
 vertaling: machine
-origineel_datum: "2026-11-17"
+origineel_datum: "2026-11-18"
 ---
 
-Lors d'une coupure de courant, selon le Centre de crise, beaucoup de choses s'arrêtent en même temps : l'éclairage, le frigo et le congélateur, les cuisinières électriques, la télévision et l'ordinateur, les chaudières et les circulateurs, les ascenseurs, les portes automatiques et les portes de garage, les distributeurs de billets et les stations-service, ainsi que les trains, les trams et les métros. Le réseau téléphonique peut aussi être perturbé. Ce guide porte sur la lumière et sur l'électricité pour les appareils dont vous avez vraiment besoin.
+Lors d'une coupure de courant, selon le Centre de crise, beaucoup de choses s'arrêtent en même temps : l'éclairage, le frigo et le congélateur, les cuisinières électriques, la télévision et l'ordinateur, les chaudières et les circulateurs, les ascenseurs, les portes automatiques et les portes de garage, les distributeurs de billets et les stations-service, ainsi que les trains, les trams et les métros. Le réseau téléphonique peut aussi être perturbé : comptez sur le fait que les appels et internet ne fonctionnent plus après peu de temps (voir Le téléphone : le recharger, mais ne pas compter dessus). Ce guide porte sur la lumière et sur l'électricité pour les appareils dont vous avez vraiment besoin.
 
 Ready.gov conseille de faire à l'avance une liste de tout ce dont vous avez besoin qui fonctionne à l'électricité, et de prévoir pour chaque appareil des piles ou une autre source.
 
@@ -139,28 +149,40 @@ Source : [MCF : In case of crisis or war](https://rib.msb.se/filer/pdf/31523.pdf
 
 Source : [BBK: Stromausfall, Vorsorge und Selbsthilfe](https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/Buergerinformationen/stromausfall-vorsorge-selbsthilfe.pdf?__blob=publicationFile&v=17) · [Ready.gov: Power Outages](https://www.ready.gov/power-outages) · [Ready.gov: Evacuation](https://www.ready.gov/evacuation)
 
-## Faire fonctionner le téléphone le plus longtemps possible
-
-**Mode économie**
-
-- Baissez la luminosité de l'écran et fermez les applications (Denk vooruit).
-- Gardez toujours un téléphone allumé dans la maison pour pouvoir recevoir les messages importants (Denk vooruit ; en Belgique, il s'agit de BE-Alert).
-- Gardez aussi votre GSM prêt à recevoir la nuit si vous êtes touché (BBK).
-
-**Ménager le réseau**
-
-- Ne téléphonez que si c'est vraiment nécessaire et utilisez de préférence les SMS (OFF ON).
-- Lors d'une situation d'urgence importante, utilisez les applications de messagerie au lieu d'appeler ; la surcharge du réseau peut perturber les secours (brochure du Centre de crise).
+## Le téléphone : le recharger, mais ne pas compter dessus
 
 **Ce que vous devez savoir**
 
-- Lors d'une panne de courant, le réseau fixe n'est plus disponible non plus après peu de temps : avec la téléphonie par internet, le routeur, le raccordement à la fibre optique et l'appareil ont besoin de courant (BBK).
+- Les antennes GSM peuvent tenir une à deux heures sans électricité. L'internet mobile (4G et 5G) tombe vite, probablement immédiatement (SPF Économie).
+- La plupart des lignes fixes ne fonctionnent plus sans courant, parce que le modem ou l'équipement de ligne ont besoin d'électricité. Une ligne téléphonique classique avec un appareil sans alimentation propre fonctionne encore environ quatre heures (SPF Économie). Avec la téléphonie par internet, le routeur, le raccordement à la fibre optique et l'appareil ont besoin de courant (BBK).
+- Même si vous avez vous-même du courant, le réseau GSM peut tomber, parce que l'antenne se trouve dans une zone sans courant. L'inverse est aussi possible (SPF Économie).
 - Les réseaux mobiles n'ont qu'un courant de secours partiel et de courte durée, et sont vite surchargés (BBK).
-- Ready.gov conseille de vérifier si votre téléphone fixe fonctionne lors d'une panne de courant et combien de temps dure la batterie de secours.
+- Quand le courant revient, il peut falloir plusieurs heures avant de pouvoir à nouveau appeler avec un mobile (SPF Économie).
+- Ready.gov conseille de vérifier à l'avance si votre téléphone fixe fonctionne lors d'une panne de courant et combien de temps dure la batterie de secours.
+
+**Rechargez-le quand même**
+
+- Rechargez votre GSM, mais gardez à l'esprit que les réseaux de téléphonie mobile et fixe peuvent être perturbés (OFF ON). Gardez votre GSM chargé, pour rester joignable tant qu'il y a du réseau (Croix-Rouge de Flandre).
+- Baissez la luminosité de l'écran et fermez les applications (Denk vooruit).
+- Gardez toujours un téléphone allumé dans la maison pour pouvoir recevoir les messages importants tant que le réseau fonctionne (Denk vooruit ; en Belgique, il s'agit de BE-Alert).
+- Gardez aussi votre GSM prêt à recevoir la nuit si vous êtes touché (BBK).
+
+**Tant que le réseau fonctionne : ménagez-le**
+
+- N'appelez le 112 qu'en cas de danger immédiat et limitez votre utilisation du téléphone, pour ne pas surcharger le réseau (Croix-Rouge de Flandre).
+- Ne téléphonez que si c'est vraiment nécessaire et utilisez de préférence les SMS (OFF ON).
+- Lors d'une situation d'urgence importante, utilisez les applications de messagerie au lieu d'appeler ; la surcharge du réseau peut perturber les secours (brochure du Centre de crise). Les applications de messagerie ont besoin de l'internet mobile, qui tombe vite lors d'une coupure de courant (SPF Économie).
+
+**Quand les appels et internet ne fonctionnent plus**
+
+- Suivez les informations via une radio à piles, une radio à manivelle ou l'autoradio (OFF ON, SPF Économie).
+- Les autorités peuvent aussi informer au moyen de véhicules de police avec haut-parleur, de panneaux d'information, de dépliants et en porte-à-porte (Centre de crise).
+- Si vous ne pouvez plus appeler, consultez les informations générales des autorités ou demandez de l'aide dans votre quartier (SPF Économie). Lors d'un délestage, les communes peuvent ouvrir un point d'information et d'accueil pour la population. Demandez à l'avance à votre commune quelles solutions elle prévoit (SPF Économie).
+- Si vous devez joindre les services de secours : voir Numéros d'urgence dans l'application, Si l'appel ne passe pas. La carte de l'application (bouton Le plus proche) montre les pompiers, la police, les hôpitaux et les maisons communales.
 
 Plus d'informations dans le guide sur la communication et l'alerte.
 
-Source : [Denk vooruit : livret d'information](https://www.denkvooruit.nl/site/binaries/site-content/collections/documents/2025/11/17/informatieboekje-bereid-je-voor-op-een-noodsituatie/informatieboekje-bereid-je-voor-op-een-noodsituatie.pdf) · [BBK: Vorsorgen für Krisen und Katastrophen](https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/Buergerinformationen/Ratgeber/BBK-Vorsorgen-fuer-Krisen-und-Katastrophen.pdf?__blob=publicationFile&v=44) · [BBK: Stromausfall, Vorsorge und Selbsthilfe](https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/Buergerinformationen/stromausfall-vorsorge-selbsthilfe.pdf?__blob=publicationFile&v=17) · [Centre de crise National : OFF ON](https://centredecrise.be/sites/default/files/documents/files/OffOn-triptyque-F.pdf) · [Centre de crise National : brochure Préparés ensemble](https://centredecrise.be/sites/default/files/documents/files/WEB-Brochure-Pr%C3%AAts.%20Ensemble-FR.pdf) · [Ready.gov: Power Outages](https://www.ready.gov/power-outages)
+Source : [Denk vooruit : livret d'information](https://www.denkvooruit.nl/site/binaries/site-content/collections/documents/2025/11/17/informatieboekje-bereid-je-voor-op-een-noodsituatie/informatieboekje-bereid-je-voor-op-een-noodsituatie.pdf) · [BBK: Vorsorgen für Krisen und Katastrophen](https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/Buergerinformationen/Ratgeber/BBK-Vorsorgen-fuer-Krisen-und-Katastrophen.pdf?__blob=publicationFile&v=44) · [BBK: Stromausfall, Vorsorge und Selbsthilfe](https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/Buergerinformationen/stromausfall-vorsorge-selbsthilfe.pdf?__blob=publicationFile&v=17) · [Centre de crise National : OFF ON](https://centredecrise.be/sites/default/files/documents/files/OffOn-triptyque-F.pdf) · [Centre de crise National : brochure Préparés ensemble](https://centredecrise.be/sites/default/files/documents/files/WEB-Brochure-Pr%C3%AAts.%20Ensemble-FR.pdf) · [Centre de crise National : l'information pendant une situation d'urgence](https://centredecrise.be/fr/que-pouvez-vous-faire/informez-vous/linformation-pendant-une-situation-durgence) · [SPF Économie : questions des ménages sur la pénurie d'électricité](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door) · [Croix-Rouge de Flandre : panne de courant et de communication](https://www.rodekruis.be/wat-doen-we/hulp-in-vlaanderen/goed-voorbereid/stroom-en-communicatie-uitval/) · [Ready.gov: Power Outages](https://www.ready.gov/power-outages)
 
 ## Pendant la coupure de courant
 
@@ -171,11 +193,12 @@ Source : [Denk vooruit : livret d'information](https://www.denkvooruit.nl/site/b
 5. Utilisez des lampes de poche plutôt que des bougies (Centre de crise).
 6. Suivez les informations via une radio à piles ou l'autoradio (OFF ON).
 7. Gardez le frigo et le congélateur fermés (voir le guide sur la nourriture sans électricité).
-8. Renseignez-vous auprès de vos proches et voisins vulnérables pour savoir si tout va bien (OFF ON).
+8. Renseignez-vous auprès de vos proches et voisins vulnérables pour savoir si tout va bien (OFF ON). Veillez sur les voisins ou les membres de la famille qui ont besoin d'une aide supplémentaire (Croix-Rouge de Flandre).
+9. Réunissez-vous avec des voisins ou de la famille pour partager la lumière et la chaleur. Convenez à l'avance chez qui vous pouvez aller et quelles affaires vous partagez (Centre de crise, kit d'urgence).
 
-Le BBK dit : une panne de courant n'est pas en soi une urgence. N'appelez pas les numéros d'urgence pour demander des informations ; cela surcharge les centrales d'urgence.
+Le BBK dit : une panne de courant n'est pas en soi une urgence. N'appelez pas les numéros d'urgence pour demander des informations ; cela surcharge les centrales d'urgence. N'appelez le 112 qu'en cas de danger immédiat (Croix-Rouge de Flandre). Si l'appel ne passe pas, demandez à quelqu'un d'autre d'appeler ou demandez de l'aide dans votre quartier (voir Numéros d'urgence, Si l'appel ne passe pas).
 
-Source : [Centre de crise National : Perturbation de l'électricité](https://centredecrise.be/fr/risques-en-belgique/risques-societaux/defaillance-de-lapprovisionnement-en-electricite) · [Centre de crise National : OFF ON](https://centredecrise.be/sites/default/files/documents/files/OffOn-triptyque-F.pdf) · [BBK: Stromausfall, Vorsorge und Selbsthilfe](https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/Buergerinformationen/stromausfall-vorsorge-selbsthilfe.pdf?__blob=publicationFile&v=17)
+Source : [Centre de crise National : Perturbation de l'électricité](https://centredecrise.be/fr/risques-en-belgique/risques-societaux/defaillance-de-lapprovisionnement-en-electricite) · [Centre de crise National : OFF ON](https://centredecrise.be/sites/default/files/documents/files/OffOn-triptyque-F.pdf) · [Centre de crise National : Un kit d'urgence chez vous](https://centredecrise.be/fr/que-pouvez-vous-faire/preparez-un-kit-durgence/un-kit-durgence-la-maison) · [Croix-Rouge de Flandre : panne de courant et de communication](https://www.rodekruis.be/wat-doen-we/hulp-in-vlaanderen/goed-voorbereid/stroom-en-communicatie-uitval/) · [SPF Économie : questions des ménages sur la pénurie d'électricité](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door) · [112.be : Questions fréquentes](https://112.be/fr/questions-frequentes) · [BBK: Stromausfall, Vorsorge und Selbsthilfe](https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/Buergerinformationen/stromausfall-vorsorge-selbsthilfe.pdf?__blob=publicationFile&v=17)
 
 ## Quand le courant revient
 
@@ -193,9 +216,10 @@ En cas de pénurie d'électricité, des communes peuvent, selon le Centre de cri
 - Éteignez les appareils en veille.
 - N'utilisez le fer à repasser, la machine à laver, le séchoir, la cuisinière électrique, le four à micro-ondes, le lave-vaisselle et l'aspirateur que si c'est nécessaire et de préférence après 22 heures.
 - Utilisez le moins de plaques de cuisson possible et le four à micro-ondes plutôt que le four ordinaire.
-- Inscrivez-vous à BE-Alert, pour savoir à temps que votre commune va être délestée.
+- Inscrivez-vous à l'avance à BE-Alert, pour savoir à temps que votre commune va être délestée.
+- Le gouvernement annonce la veille quelles tranches peuvent être délestées. Cette information passe aussi par la télévision, la radio et la presse (SPF Économie).
 
-Source : [Centre de crise National : OFF ON](https://centredecrise.be/sites/default/files/documents/files/OffOn-triptyque-F.pdf) · [Centre de crise National : Perturbation de l'électricité](https://centredecrise.be/fr/risques-en-belgique/risques-societaux/defaillance-de-lapprovisionnement-en-electricite)
+Source : [Centre de crise National : OFF ON](https://centredecrise.be/sites/default/files/documents/files/OffOn-triptyque-F.pdf) · [Centre de crise National : Perturbation de l'électricité](https://centredecrise.be/fr/risques-en-belgique/risques-societaux/defaillance-de-lapprovisionnement-en-electricite) · [SPF Économie : questions des ménages sur la pénurie d'électricité](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door)
 
 ## Personnes qui dépendent de l'électricité
 
@@ -203,10 +227,12 @@ Source : [Centre de crise National : OFF ON](https://centredecrise.be/sites/defa
 - Discutez avec votre médecin d'un plan pour les appareils médicaux électriques et pour les médicaments à conserver au frais (Ready.gov).
 - Demandez à votre fournisseur d'énergie si vous pouvez figurer sur une liste prioritaire pour le rétablissement du courant (Ready.gov).
 - Dans les soins à domicile, des appareils vitaux comme les respirateurs peuvent tomber en panne, et des services comme la télévigilance et les repas à domicile peuvent s'arrêter. Demandez à votre service de soins si et comment ces services continuent lors d'une longue panne de courant. Si un membre de votre famille vit dans une maison de repos et de soins, renseignez-vous sur le plan de courant de secours (BBK).
+- Si vous utilisez à domicile un appareil à oxygène, un système de pompe, la dialyse à domicile ou un autre appareil électrique : n'attendez pas une coupure. Vérifiez combien de temps dure la batterie interne entièrement chargée de votre appareil, et voyez où vous pourriez être accueilli autrement (SPF Économie).
+- Si vous utilisez l'appareil par intermittence, comme pour la dialyse à domicile, veillez à ce qu'il ne soit pas branché au moment d'un délestage annoncé (SPF Économie).
 
-Plus d'informations dans le guide sur les médicaments et les soins.
+Ce que vous faites si vous ne pouvez pas appeler votre soignant figure dans le guide sur les médicaments et les soins.
 
-Source : [Centre de crise National : Un plan pour les personnes qui ont besoin d'une aide supplémentaire](https://centredecrise.be/fr/que-pouvez-vous-faire/faites-un-plan/un-plan-pour-ceux-qui-ont-besoin-dune-aide-supplementaire) · [Ready.gov: Power Outages](https://www.ready.gov/power-outages) · [Ready.gov: People with Disabilities](https://www.ready.gov/disability) · [BBK: Stromausfall, Vorsorge und Selbsthilfe](https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/Buergerinformationen/stromausfall-vorsorge-selbsthilfe.pdf?__blob=publicationFile&v=17)
+Source : [Centre de crise National : Un plan pour les personnes qui ont besoin d'une aide supplémentaire](https://centredecrise.be/fr/que-pouvez-vous-faire/faites-un-plan/un-plan-pour-ceux-qui-ont-besoin-dune-aide-supplementaire) · [SPF Économie : questions des ménages sur la pénurie d'électricité](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door) · [Ready.gov: Power Outages](https://www.ready.gov/power-outages) · [Ready.gov: People with Disabilities](https://www.ready.gov/disability) · [BBK: Stromausfall, Vorsorge und Selbsthilfe](https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/Buergerinformationen/stromausfall-vorsorge-selbsthilfe.pdf?__blob=publicationFile&v=17)
 
 ## Portes, portails et ascenseurs électriques
 
@@ -228,5 +254,7 @@ Source : [Centre de crise National : Un kit d'urgence chez vous](https://centred
 - [ ] Un extincteur ou une couverture anti-feu.
 - [ ] Savoir comment ouvrir les portails et les volets roulants sans électricité.
 - [ ] Un plan pour chaque appareil électrique dont quelqu'un dépend.
+- [ ] Une liste papier des numéros de téléphone importants.
+- [ ] Des accords avec vos voisins : comment vous joindre sans téléphone ni internet, et chez qui vous réunir pour partager la lumière et la chaleur.
 
-Source : [Centre de crise National : brochure Préparés ensemble](https://centredecrise.be/sites/default/files/documents/files/WEB-Brochure-Pr%C3%AAts.%20Ensemble-FR.pdf) · [Centre de crise National : Un kit d'urgence chez vous](https://centredecrise.be/fr/que-pouvez-vous-faire/preparez-un-kit-durgence/un-kit-durgence-la-maison) · [MCF : In case of crisis or war](https://rib.msb.se/filer/pdf/31523.pdf) · [BBK: Vorsorgen für Krisen und Katastrophen](https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/Buergerinformationen/Ratgeber/BBK-Vorsorgen-fuer-Krisen-und-Katastrophen.pdf?__blob=publicationFile&v=44)
+Source : [Centre de crise National : brochure Préparés ensemble](https://centredecrise.be/sites/default/files/documents/files/WEB-Brochure-Pr%C3%AAts.%20Ensemble-FR.pdf) · [Centre de crise National : Un kit d'urgence chez vous](https://centredecrise.be/fr/que-pouvez-vous-faire/preparez-un-kit-durgence/un-kit-durgence-la-maison) · [Centre de crise National : un plan dans votre quartier ou association](https://centredecrise.be/fr/que-pouvez-vous-faire/faites-un-plan/un-plan-dans-votre-quartier-ou-votre-association) · [MCF : In case of crisis or war](https://rib.msb.se/filer/pdf/31523.pdf) · [BBK: Vorsorgen für Krisen und Katastrophen](https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/Buergerinformationen/Ratgeber/BBK-Vorsorgen-fuer-Krisen-und-Katastrophen.pdf?__blob=publicationFile&v=44)

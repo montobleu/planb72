@@ -6,9 +6,9 @@ stappen:
   - "Gehen Sie nach draußen, sobald Sie einen Rauchmelder hören oder Rauch sehen. Warnen Sie unterwegs alle im Haus und im Gebäude."
   - "Schließen Sie alle Türen hinter sich. Eine geschlossene Tür hält Rauch bis zu 10 Minuten länger zurück."
   - "Bleiben Sie bei Rauch dicht am Boden. Dort ist die Luft am klarsten und am längsten atembar."
-  - "Rufen Sie die 112 von draußen an. Sagen Sie, wer Sie sind, was passiert, wo es ist und ob es Verletzte gibt."
+  - "Rufen Sie die 112 von draußen an. Sagen Sie, wer Sie sind, was passiert, wo es ist und ob es Verletzte gibt. Gelingt das nicht, lassen Sie jemand anderen anrufen oder bitten Sie in Ihrer Nachbarschaft um Hilfe (siehe Notrufnummern, Wenn kein Anruf möglich ist)."
   - "Gehen Sie zur Vorderseite des Gebäudes oder an eine andere Stelle, an der die Feuerwehr Sie sieht. Gehen Sie nie wieder hinein."
-  - "Können Sie nicht hinaus: Gehen Sie in einen Raum ohne Rauch, schließen Sie die Tür, rufen Sie die 112 an und sagen Sie, wo Sie sind."
+  - "Können Sie nicht hinaus: Gehen Sie in einen Raum ohne Rauch, schließen Sie die Tür und machen Sie sich am Fenster sichtbar. Rufen Sie die 112 an und sagen Sie, wo Sie sind."
   - "Löschen Sie nur einen kleinen, beginnenden Brand und nur, wenn Sie wissen, wie. Eine brennende Pfanne oder Fritteuse nie mit Wasser löschen."
 niet:
   - "Nie Wasser auf eine brennende Pfanne oder Fritteuse."
@@ -16,7 +16,7 @@ niet:
   - "Keine Tür öffnen, die heiß ist oder unter der Rauch hervorkommt."
   - "Sich nicht vor der Feuerwehr verstecken."
 status: concept
-datum: "2026-11-17"
+datum: "2026-11-18"
 bronnen:
   - naam: "Speel niet met vuur: Fluchtplan"
     url: https://speelnietmetvuur.be/vluchtplan/
@@ -42,8 +42,16 @@ bronnen:
     url: https://www.ready.gov/home-fires
   - naam: "U.S. Fire Administration: cooking fire safety"
     url: https://www.usfa.fema.gov/prevention/home-fires/prevent-fires/cooking/
+  - naam: "112.be: Häufig gestellte Fragen"
+    url: https://112.be/de/haeufig-gestellte-fragen
+  - naam: "112.be: Wie rufe ich die 112 an?"
+    url: https://112.be/de/how-call/wie-rufe-ich-die-112
+  - naam: "FÖD Wirtschaft: Fragen von Haushalten zur Stromknappheit"
+    url: https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door
+  - naam: "Inspektionen (Niederlande): Nichterreichbarkeit der 112 am 24. Juni 2019"
+    url: https://zoek.officielebekendmakingen.nl/blg-942150.pdf
 vertaling: machine
-origineel_datum: "2026-11-17"
+origineel_datum: "2026-11-18"
 ---
 
 ## Erkennen
@@ -113,15 +121,22 @@ Quelle: [Speel niet met vuur: Rauchmelder](https://speelnietmetvuur.be/rookmelde
 4. Ist Rauch da, bleiben Sie unten. Kriechen Sie unter dem Rauch hindurch zum Ausgang.
 5. Fühlen Sie an der Türklinke und an der Tür, bevor Sie eine Tür öffnen. Ist sie heiß oder kommt Rauch an der Tür vorbei, lassen Sie sie zu und benutzen Sie Ihren zweiten Fluchtweg. Öffnen Sie eine Tür, dann langsam, und seien Sie bereit, sie sofort wieder zu schließen.
 6. Gehen Sie zum Sammelpunkt an der Vorderseite des Gebäudes.
-7. Rufen Sie die 112 von draußen an. Sagen Sie, wer Sie sind, was los ist, wo es ist und ob es Verletzte gibt.
+7. Rufen Sie die 112 von draußen an. Sagen Sie, wer Sie sind, was los ist, wo es ist und ob es Verletzte gibt. Rufen Sie nicht vom Ort des Brandes aus an, sagen Sie das dem Disponenten.
 8. Gehen Sie nie wieder hinein, auch nicht für etwas, das Sie vergessen haben.
+
+**Kommt kein Anruf zustande**
+
+- Lassen Sie Nachbarn oder Umstehende anrufen oder versuchen Sie es mit einem anderen Gerät. Gehen Sie einige Meter weiter und versuchen Sie es erneut.
+- Können Sie noch telefonieren, ist die 112 aber nicht erreichbar, versuchen Sie die 101.
+- Funktioniert gar kein Anruf: Bitten Sie in Ihrer Nachbarschaft um Hilfe. Siehe Notrufnummern in der App, Wenn kein Anruf möglich ist.
+- In den Niederlanden schickte die Regierung die Bürger beim landesweiten Ausfall der 112 im Jahr 2019 zur nächstgelegenen Feuerwache oder Polizeidienststelle. Die Karte in der App (Schaltfläche Am nächsten) zeigt diese.
 
 **Ihr Fluchtweg ist blockiert**
 
 1. Gehen Sie in einen Raum ohne Rauch und schließen Sie die Tür. Schließen Sie, wo möglich, weitere Türen zwischen sich und dem Feuer.
 2. Dichten Sie Ritzen und Lüftungsöffnungen mit einem Tuch oder Klebeband ab.
-3. Rufen Sie die 112 an und sagen Sie, wo Sie sind.
-4. Öffnen Sie ein Fenster und machen Sie sich sichtbar, zum Beispiel mit einem hellen Tuch oder einer Taschenlampe, damit die Feuerwehr oder die Nachbarn wissen, dass Sie dort sind.
+3. Öffnen Sie ein Fenster und machen Sie sich sichtbar, zum Beispiel mit einem hellen Tuch oder einer Taschenlampe, damit die Feuerwehr oder die Nachbarn wissen, dass Sie dort sind.
+4. Rufen Sie die 112 an und sagen Sie, wo Sie sind.
 
 **Selbst löschen: nur wenn es sicher ist**
 
@@ -139,16 +154,16 @@ Quelle: [Speel niet met vuur: Rauchmelder](https://speelnietmetvuur.be/rookmelde
 
 - Kühlen Sie die Brandwunde etwa 20 Minuten unter lauwarmem fließendem Wasser von etwa 20 °C. Kühlen Sie nur die Wunde, damit die betroffene Person nicht unterkühlt.
 - Tragen Sie nichts auf die Wunde auf.
-- Gehen Sie zu einem Arzt, wenn die Wunde größer ist als eine 2-Euro-Münze. Rufen Sie die Rettungsdienste bei großen oder schweren Blasen, oder wenn die Haut braun oder schwarz ist.
+- Gehen Sie zu einem Arzt, wenn die Wunde größer ist als eine 2-Euro-Münze. Rufen Sie die Rettungsdienste bei großen oder schweren Blasen, oder wenn die Haut braun oder schwarz ist. Kommt kein Anruf zustande, siehe oben. Siehe auch die Erste-Hilfe-Karte Brandwunden.
 
-Quelle: [Speel niet met vuur: Fluchtplan](https://speelnietmetvuur.be/vluchtplan/) · [Speel niet met vuur: Tür zu](https://speelnietmetvuur.be/doededeurdicht/) · [Speel niet met vuur: Küche](https://speelnietmetvuur.be/brandveiligheid-keuken/) · [KCCE: Brandschutz für ältere Menschen](http://kcce.eu/sites/default/files/explorer/partie_s_incendie/brandveiligheid_ouderen_2017.pdf) · [Ready.gov: home fires](https://www.ready.gov/home-fires) · [U.S. Fire Administration: cooking](https://www.usfa.fema.gov/prevention/home-fires/prevent-fires/cooking/) · [Nationales Krisenzentrum: evakuieren](https://krisenzentrum.be/de/was-koennen-sie-tun/der-richtige-reflex/evakuierung)
+Quelle: [Speel niet met vuur: Fluchtplan](https://speelnietmetvuur.be/vluchtplan/) · [Speel niet met vuur: Tür zu](https://speelnietmetvuur.be/doededeurdicht/) · [Speel niet met vuur: Küche](https://speelnietmetvuur.be/brandveiligheid-keuken/) · [KCCE: Brandschutz für ältere Menschen](http://kcce.eu/sites/default/files/explorer/partie_s_incendie/brandveiligheid_ouderen_2017.pdf) · [Ready.gov: home fires](https://www.ready.gov/home-fires) · [U.S. Fire Administration: cooking](https://www.usfa.fema.gov/prevention/home-fires/prevent-fires/cooking/) · [Nationales Krisenzentrum: evakuieren](https://krisenzentrum.be/de/was-koennen-sie-tun/der-richtige-reflex/evakuierung) · [112.be: Häufig gestellte Fragen](https://112.be/de/haeufig-gestellte-fragen) · [112.be: Wie rufe ich die 112 an?](https://112.be/de/how-call/wie-rufe-ich-die-112) · [FÖD Wirtschaft: Fragen von Haushalten zur Stromknappheit](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door) · [Inspektionen: Nichterreichbarkeit der 112 am 24. Juni 2019](https://zoek.officielebekendmakingen.nl/blg-942150.pdf)
 
 ### Draußen oder unterwegs
 
-- Sehen Sie Rauch oder Feuer in einem anderen Gebäude, rufen Sie die 112 an. Sagen Sie, wo es ist und was Sie sehen.
-- Können Sie jemanden drinnen nicht erreichen, gehen Sie nicht hinein. Rufen Sie die 112 an und sagen Sie den Rettungsdiensten, wo diese Person ist.
+- Sehen Sie Rauch oder Feuer in einem anderen Gebäude, rufen Sie die 112 an. Sagen Sie, wo es ist und was Sie sehen. Kommt kein Anruf zustande, lassen Sie jemand anderen anrufen oder bitten Sie in Ihrer Nachbarschaft um Hilfe (siehe Zu Hause, Kommt kein Anruf zustande).
+- Können Sie jemanden drinnen nicht erreichen, gehen Sie nicht hinein. Sagen Sie der Feuerwehr, wo diese Person ist: über die 112 oder sofort, wenn sie eintrifft.
 
-Quelle: [Ready.gov: home fires](https://www.ready.gov/home-fires) · [Speel niet met vuur: Fluchtplan](https://speelnietmetvuur.be/vluchtplan/) · [1722](https://www.1722.be/de/index.html)
+Quelle: [Ready.gov: home fires](https://www.ready.gov/home-fires) · [Speel niet met vuur: Fluchtplan](https://speelnietmetvuur.be/vluchtplan/) · [1722](https://www.1722.be/de/index.html) · [112.be: Häufig gestellte Fragen](https://112.be/de/haeufig-gestellte-fragen)
 
 ### Bei der Arbeit oder in der Schule
 
@@ -173,7 +188,7 @@ Quelle: [Ready.gov: home fires](https://www.ready.gov/home-fires) · [Speel niet
 - Legen Sie nachts ein Telefon mit den gespeicherten Notrufnummern, eine Taschenlampe, die Brille und das Hörgerät neben das Bett.
 - Benutzen Sie einen Rollator oder Rollstuhl, prüfen Sie, ob alle Ausgänge breit genug sind.
 - Gehörlose und Schwerhörige: Wählen Sie Melder mit Lichtsignal oder Vibrationskissen. Für Blinde und Sehbehinderte gibt es Melder mit einem akustischen Signal.
-- Können Sie nicht aus eigener Kraft nach draußen: Bleiben Sie in einem Raum ohne Rauch, schließen Sie die Tür, öffnen Sie ein Fenster, halten Sie ein Telefon griffbereit und sorgen Sie dafür, dass die Rettungsdienste oder die Nachbarn wissen, dass Sie dort sind.
+- Können Sie nicht aus eigener Kraft nach draußen: Bleiben Sie in einem Raum ohne Rauch, schließen Sie die Tür, öffnen Sie ein Fenster und sorgen Sie dafür, dass die Nachbarn oder die Rettungsdienste wissen, dass Sie dort sind. Halten Sie ein Telefon griffbereit.
 - Rauchen Sie nicht während des Gebrauchs von medizinischem Sauerstoff.
 - Benutzen Sie eine Heizdecke so, wie es die Anleitung sagt, nicht zusammengefaltet, und schalten Sie sie aus, bevor Sie schlafen gehen.
 

@@ -4,7 +4,7 @@ module: voedsel
 volgorde: 1
 kort: "Was Sie bei einem Stromausfall mit Kühlschrank und Gefrierschrank tun, was Sie aufbewahren und was Sie wegwerfen, wie Sie ohne Strom sicher kochen und wie Sie Babys ernähren."
 status: concept
-datum: "2026-11-17"
+datum: "2026-11-18"
 bronnen:
   - naam: "Nationales Krisenzentrum: Störung der Stromversorgung"
     url: "https://krisenzentrum.be/de/risiken-belgien/maatschappelijke-risicos/ausfall-der-elektrizitaetsversorgung"
@@ -40,8 +40,10 @@ bronnen:
     url: "https://www.vrt.be/vrtnws/nl/2026/03/20/roeselare-vraagt-om-drinkwater-in-enkele-centrumsteden-tijdelijk/"
   - naam: "Denk vooruit: Informationsheft Bereiten Sie sich auf eine Notsituation vor"
     url: "https://www.denkvooruit.nl/site/binaries/site-content/collections/documents/2025/11/17/informatieboekje-bereid-je-voor-op-een-noodsituatie/informatieboekje-bereid-je-voor-op-een-noodsituatie.pdf"
+  - naam: "Ready.gov: Water"
+    url: "https://www.ready.gov/water"
 vertaling: machine
-origineel_datum: "2026-11-17"
+origineel_datum: "2026-11-18"
 ---
 
 Ohne Strom fallen Kühlschrank, Gefrierschrank, Elektroherd, Backofen und Mikrowelle aus. Dieser Leitfaden behandelt drei Fragen: Wie halten Sie Kaltes so lange wie möglich kalt, was dürfen Sie danach noch essen, und wie bereiten Sie Essen sicher zu? Welchen Vorrat Sie am besten im Haus haben, steht im Leitfaden über den Notvorrat.
@@ -233,7 +235,7 @@ Das BBK macht die Unterscheidung, die Sie sich merken müssen: Manche Geräte d�
 - Das Antigiftzentrum: Einen Grill zum Heizen ins Haus zu holen, ist keine gute Idee. Die glimmende Kohle setzt viel CO frei, selbst bei offenem Garagentor.
 - Ready.gov: Verwenden Sie keinen Gasherd oder Backofen, um Ihr Haus zu heizen.
 
-**Brennstoff sparen.** Das BBK empfiehlt Lebensmittel, die mit wenig Energie garen, damit Ihr Brennstoff länger reicht, und Lebensmittel, die Sie kalt essen können. Das BBK hat dafür ein Notkochbuch mit Rezepten ohne Strom. Denk vooruit verweist für Rezepte mit haltbaren Lebensmitteln auf das Voedingscentrum; drucken Sie sie aus oder schreiben Sie sie auf.
+**Brennstoff sparen.** Das BBK empfiehlt Lebensmittel, die mit wenig Energie garen, damit Ihr Brennstoff länger reicht, und Lebensmittel, die Sie kalt essen können. Das BBK hat dafür ein Notkochbuch mit Rezepten ohne Strom. Denk vooruit verweist für Rezepte mit haltbaren Lebensmitteln auf das Voedingscentrum und empfiehlt, sie im Voraus auszudrucken oder aufzuschreiben: Ohne Internet können Sie sie nicht mehr nachschlagen.
 
 **Wenn Strom knapp, aber nicht weg ist.** Bei Stromknappheit empfiehlt die OFF-ON-Broschüre, so wenige Kochplatten wie möglich zu verwenden, die Mikrowelle statt des normalen Backofens zu benutzen und Elektrogeräte vorzugsweise nach 22 Uhr zu verwenden.
 

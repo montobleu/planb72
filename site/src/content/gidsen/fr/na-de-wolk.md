@@ -4,12 +4,22 @@ module: nucleair
 volgorde: 4
 kort: "Ce qui se passe après un rejet radioactif : fin de la mise à l'abri, retour, restrictions sur la nourriture et l'eau, mesures, santé et soutien psychologique."
 status: concept
-datum: "2026-11-17"
+datum: "2026-11-18"
 bronnen:
   - naam: "Centre de crise National : Incident dans une centrale nucléaire"
     url: https://centredecrise.be/fr/risques-en-belgique/risques-economiques-et-technologiques/incident-dans-une-centrale-nucleaire
   - naam: "Centre de crise National : Évacuer"
     url: https://centredecrise.be/fr/que-pouvez-vous-faire/le-bon-reflexe/evacuer
+  - naam: "Centre de crise National : L'information pendant une situation d'urgence"
+    url: https://centredecrise.be/fr/que-pouvez-vous-faire/informez-vous/linformation-pendant-une-situation-durgence
+  - naam: "112.be : Questions fréquentes"
+    url: https://112.be/fr/questions-frequentes
+  - naam: "SPF Economie : questions des ménages sur la pénurie d'électricité"
+    url: https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door
+  - naam: "OMS, War Trauma Foundation et World Vision International : Psychological first aid, guide for field workers (2011)"
+    url: https://psychiatry.uw.edu/wp-content/uploads/2020/04/1.-WHO_PFA_2011.pdf
+  - naam: "IFRC Reference Centre for Psychosocial Support : A Guide to Psychological First Aid (2018)"
+    url: https://mhpsshub.org/wp-content/uploads/2019/05/PFA-Guide-low-res.pdf
   - naam: "Centre de crise National : Parlez-en"
     url: https://centredecrise.be/fr/que-pouvez-vous-faire/prenez-soin-de-vous/parlez-en
   - naam: "Centre de crise National : Attaque contre une cible vulnérable (soft target)"
@@ -55,7 +65,7 @@ bronnen:
   - naam: "CDC: How to self-decontaminate"
     url: https://cdc.gov/radiation-emergencies/prevention/self-decontaminate.html
 vertaling: machine
-origineel_datum: "2026-11-17"
+origineel_datum: "2026-11-18"
 ---
 
 ## Quand la mise à l'abri prend fin
@@ -66,9 +76,9 @@ Vous restez à l'intérieur jusqu'à ce que les autorités annoncent que c'est �
 | --- | --- |
 | C'est sûr, la mise à l'abri est terminée | Vous pouvez sortir. Suivez les recommandations sur la nourriture, l'eau et le nettoyage |
 | Évacuation | Suivez les instructions sur qui, où et comment. Une évacuation après le passage du nuage est possible si la mise à l'abri devait durer plus longtemps ou si le rejet est très important |
-| Restez à l'intérieur | Restez à l'abri et continuez à écouter les canaux officiels |
+| Restez à l'intérieur | Restez à l'abri et continuez à écouter la radio et les autres canaux officiels |
 
-Le Centre de crise dit qu'après un accident nucléaire, des conseils médicaux peuvent encore suivre. Suivez les médias et les canaux officiels. La Finlande dit la même chose : les services de secours et l'autorité de radioprotection annoncent quand le danger est passé, et donnent des instructions sur le nettoyage des locaux et la consommation de nourriture.
+Le Centre de crise dit qu'après un accident nucléaire, des conseils médicaux peuvent encore suivre. Écoutez la radio à piles ou l'autoradio et soyez attentif aux voitures à haut-parleur de la police. Si le réseau fonctionne, suivez aussi BE-Alert et les sites web des autorités. La Finlande dit la même chose : les services de secours et l'autorité de radioprotection annoncent quand le danger est passé, et donnent des instructions sur le nettoyage des locaux et la consommation de nourriture.
 
 L'Allemagne dit, en cas de rejet de substances dangereuses : attendez la fin de l'alerte avant de quitter le bâtiment ou d'ouvrir les fenêtres, et suivez les messages à la radio, sur internet ou via l'application d'alerte. En Belgique aussi, n'ouvrez donc pas les fenêtres et ne remettez pas la ventilation en marche avant que les autorités n'annoncent que c'est sûr.
 
@@ -76,12 +86,12 @@ L'Allemagne dit, en cas de rejet de substances dangereuses : attendez la fin de 
 
 Pour une explosion nucléaire, Ready.gov dit : restez les 24 premières heures à l'endroit le mieux protégé, sauf en cas de danger immédiat ou si les autorités disent que vous pouvez partir. Si vous devez évacuer, écoutez les informations sur les itinéraires, les lieux d'accueil et les procédures. La Suède dit que vous pouvez quitter l'abri quand vous entendez le signal « fin de danger », un long signal ininterrompu de 30 secondes, et demande alors d'aider les blessés et les personnes coincées.
 
-Source : [Risque nucléaire : questions fréquentes](https://risquenucleaire.be/fr/faq) · [Centre de crise National : Incident dans une centrale nucléaire](https://centredecrise.be/fr/risques-en-belgique/risques-economiques-et-technologiques/incident-dans-une-centrale-nucleaire) · [Suomi.fi: Radiation hazards](https://www.suomi.fi/guides/preparedness/how-to-prepare-for-incidents-and-crises/radiation-hazards) · [BBK: Verhalten im Haus bei Gefahrstofffreisetzung](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Vorsorge/Schutz-suchen/Gefahrstoff-Freisetzung/_documents/gefahrstoff-im-haus_dossier2.html?nn=20588) · [Ready.gov: Radiation emergencies](https://www.ready.gov/radiation) · [MCF: In case of crisis or war](https://rib.msb.se/filer/pdf/31523.pdf)
+Source : [Risque nucléaire : questions fréquentes](https://risquenucleaire.be/fr/faq) · [Centre de crise National : Incident dans une centrale nucléaire](https://centredecrise.be/fr/risques-en-belgique/risques-economiques-et-technologiques/incident-dans-une-centrale-nucleaire) · [Centre de crise National : L'information pendant une situation d'urgence](https://centredecrise.be/fr/que-pouvez-vous-faire/informez-vous/linformation-pendant-une-situation-durgence) · [Suomi.fi: Radiation hazards](https://www.suomi.fi/guides/preparedness/how-to-prepare-for-incidents-and-crises/radiation-hazards) · [BBK: Verhalten im Haus bei Gefahrstofffreisetzung](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Vorsorge/Schutz-suchen/Gefahrstoff-Freisetzung/_documents/gefahrstoff-im-haus_dossier2.html?nn=20588) · [Ready.gov: Radiation emergencies](https://www.ready.gov/radiation) · [MCF: In case of crisis or war](https://rib.msb.se/filer/pdf/31523.pdf)
 
 ## Retour après une évacuation
 
 - **Combien de temps :** cela dépend de la situation. Cela peut être après quelques heures, mais aussi durer plusieurs jours (Centre de crise, évacuation en général).
-- **Comment vous le savez :** au centre d'accueil, la personne de contact donne les informations. Si vous séjournez chez de la famille ou des amis, suivez le site web de la commune, écoutez la radio ou appelez le numéro d'information.
+- **Comment vous le savez :** au centre d'accueil, la personne de contact donne les informations. Si vous séjournez chez de la famille ou des amis, écoutez la radio. Si le réseau fonctionne, consultez aussi le site web de la commune ou appelez le numéro d'information.
 - **La zone :** la police établit une zone de sécurité. Une fois évacuée, vous ne pouvez pas entrer dans cette zone tant que les autorités ne l'autorisent pas.
 - **Ne rentrez pas plus tôt** que ce que les autorités locales indiquent comme sûr (Ready.gov).
 - **Si vous n'avez pas pu couper l'eau, le gaz et l'électricité** avant de partir, vous recevrez si nécessaire l'aide des services compétents à votre retour (Centre de crise).
@@ -197,13 +207,13 @@ Source : [Risque nucléaire : questions fréquentes](https://risquenucleaire.be/
 
 - **Risques à long terme :** les risques pour la population sont surtout des risques à long terme, comme le cancer et les anomalies génétiques. La probabilité, et non la gravité, augmente avec la dose (Risque nucléaire).
 - **Les symptômes aigus** comme les vomissements, les brûlures et la chute massive des cheveux n'apparaissent qu'après une exposition massive, à laquelle on ne s'attend en principe que chez les travailleurs de l'installation et éventuellement chez les intervenants (Risque nucléaire). L'OMS dit que le grand public ne recevra probablement pas une dose assez élevée pour des effets aigus.
-- **Conseils médicaux :** après un accident, des conseils médicaux peuvent encore suivre. Suivez les canaux officiels (Centre de crise).
-- **Malade ou blessé :** écoutez les instructions sur l'endroit où vous recevez des soins médicaux. Si vous êtes dans un centre d'accueil public, signalez-le immédiatement au personnel (Ready.gov). En Belgique : appelez le 112 en cas d'urgence médicale.
+- **Conseils médicaux :** après un accident, des conseils médicaux peuvent encore suivre. Écoutez la radio et suivez les autres canaux officiels (Centre de crise).
+- **Malade ou blessé :** écoutez les instructions sur l'endroit où vous recevez des soins médicaux. Si vous êtes dans un centre d'accueil public, signalez-le immédiatement au personnel (Ready.gov). En Belgique : appelez le 112 en cas d'urgence médicale, ou faites appeler quelqu'un. Si l'appel ne passe pas, essayez un autre appareil ou demandez à des voisins d'appeler ; si plus aucun appel ne passe, demandez de l'aide dans votre voisinage (voir Numéros d'urgence dans l'application, Si l'appel ne passe pas).
 - **Enfants :** ils sont plus sensibles au rayonnement. Faites-les suivre médicalement après la situation d'urgence, dès que les autorités disent que c'est sûr (OMS).
 - **Femmes enceintes qui ont pris de l'iode :** signalez-le à votre médecin après la situation d'urgence, afin que cela figure dans votre dossier médical (OMS).
 - **Nouveau-nés qui ont reçu de l'iode :** l'OMS conseille de faire suivre leurs valeurs thyroïdiennes.
 
-Source : [Risque nucléaire : Radioactivité et exposition](https://risquenucleaire.be/fr/risque-nucleaire/radioactivite-exposition) · [Centre de crise National : Incident dans une centrale nucléaire](https://centredecrise.be/fr/risques-en-belgique/risques-economiques-et-technologiques/incident-dans-une-centrale-nucleaire) · [OMS : Radiation and health](https://www.who.int/news-room/questions-and-answers/item/radiation-and-health) · [OMS : Use of potassium iodide](https://www.who.int/news-room/questions-and-answers/item/use-of-potassium-iodide-for-thyroid-protection-during-nuclear-or-radiological-emergencies) · [Ready.gov: Radiation emergencies](https://www.ready.gov/radiation)
+Source : [Risque nucléaire : Radioactivité et exposition](https://risquenucleaire.be/fr/risque-nucleaire/radioactivite-exposition) · [Centre de crise National : Incident dans une centrale nucléaire](https://centredecrise.be/fr/risques-en-belgique/risques-economiques-et-technologiques/incident-dans-une-centrale-nucleaire) · [OMS : Radiation and health](https://www.who.int/news-room/questions-and-answers/item/radiation-and-health) · [OMS : Use of potassium iodide](https://www.who.int/news-room/questions-and-answers/item/use-of-potassium-iodide-for-thyroid-protection-during-nuclear-or-radiological-emergencies) · [Ready.gov: Radiation emergencies](https://www.ready.gov/radiation) · [112.be : Questions fréquentes](https://112.be/fr/questions-frequentes) · [SPF Economie : questions des ménages sur la pénurie d'électricité](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door)
 
 ## Soutien psychologique
 
@@ -218,14 +228,17 @@ Vivre une situation d'urgence radiologique peut être pénible et traumatisant, 
 - Bougez régulièrement. Ne ressortez que quand les autorités disent que c'est sûr.
 - Respirez calmement et profondément quand vous sentez la tension monter.
 
-### Où vous adresser
+### Se soutenir mutuellement sur place
 
-| Numéro | Pour qui |
-| --- | --- |
-| 106 | Tele-Onthaal : conversation gratuite et anonyme, aussi par chat sur tele-onthaal.be |
-| 102 | Awel : enfants et jeunes, aussi via awel.be |
-| 1712 | Ligne d'aide en cas de violence, d'abus et de maltraitance d'enfants |
-| 1813 | Zelfmoordlijn, aussi par chat sur zelfmoord1813.be |
+Les premiers secours psychologiques sont une aide d'humain à humain, sur place. Tout le monde peut les apporter (OMS, IFRC) :
+
+- Veillez à la sécurité et au calme. Parlez calmement et doucement.
+- Écoutez sans forcer à parler.
+- Aidez pour les choses pratiques : eau, chaleur, informations correctes, retrouver la famille.
+- Restez ensemble et gardez les enfants auprès de leurs parents ou de ceux qui s'occupent d'eux.
+- Ne laissez pas seule une personne très bouleversée ou qui pourrait se faire du mal. Cherchez de l'aide auprès des personnes du voisinage ou une aide médicale sur place.
+
+Plus d'informations dans le guide sur la résilience mentale et les premiers secours psychologiques.
 
 ### Enfants
 
@@ -235,7 +248,20 @@ Vivre une situation d'urgence radiologique peut être pénible et traumatisant, 
 - Expliquez-leur à qui ils peuvent s'adresser pour obtenir de l'aide.
 - Maintenez autant que possible la routine quotidienne.
 
-Source : [Ready.gov: Radiation emergencies](https://www.ready.gov/radiation) · [Centre de crise National : Attaque contre une cible vulnérable (soft target)](https://centredecrise.be/fr/risques-en-belgique/risques-man-made/attaque-contre-une-cible-facile) · [Centre de crise National : Parlez-en](https://centredecrise.be/fr/que-pouvez-vous-faire/prenez-soin-de-vous/parlez-en) · [Centre de crise National : brochure Préparés ensemble](https://centredecrise.be/sites/default/files/documents/files/WEB-Brochure-Pr%C3%AAts.%20Ensemble-FR.pdf)
+Source : [Ready.gov: Radiation emergencies](https://www.ready.gov/radiation) · [Centre de crise National : Attaque contre une cible vulnérable (soft target)](https://centredecrise.be/fr/risques-en-belgique/risques-man-made/attaque-contre-une-cible-facile) · [Centre de crise National : Parlez-en](https://centredecrise.be/fr/que-pouvez-vous-faire/prenez-soin-de-vous/parlez-en) · [Centre de crise National : brochure Préparés ensemble](https://centredecrise.be/sites/default/files/documents/files/WEB-Brochure-Pr%C3%AAts.%20Ensemble-FR.pdf) · [OMS : Psychological first aid](https://psychiatry.uw.edu/wp-content/uploads/2020/04/1.-WHO_PFA_2011.pdf) · [IFRC : A Guide to Psychological First Aid](https://mhpsshub.org/wp-content/uploads/2019/05/PFA-Guide-low-res.pdf)
+
+## Après la crise, quand le téléphone fonctionne à nouveau
+
+Ces lignes d'écoute sont là pour parler à quelqu'un quand le téléphone ou internet fonctionne à nouveau. Ce ne sont pas des numéros d'urgence. En cas de danger de mort, appelez le 112 (voir Santé).
+
+| Numéro | Pour qui |
+| --- | --- |
+| 106 | Tele-Onthaal : conversation gratuite et anonyme, aussi par chat sur tele-onthaal.be |
+| 102 | Awel : enfants et jeunes, aussi via awel.be |
+| 1712 | Ligne d'aide en cas de violence, d'abus et de maltraitance d'enfants |
+| 1813 | Zelfmoordlijn, aussi par chat sur zelfmoord1813.be |
+
+Source : [Centre de crise National : Parlez-en](https://centredecrise.be/fr/que-pouvez-vous-faire/prenez-soin-de-vous/parlez-en) · [Centre de crise National : brochure Préparés ensemble](https://centredecrise.be/sites/default/files/documents/files/WEB-Brochure-Pr%C3%AAts.%20Ensemble-FR.pdf)
 
 ## Informations correctes et rumeurs
 
@@ -245,15 +271,15 @@ Après une situation d'urgence, beaucoup d'informations circulent, surtout sur l
 - Vérifiez si plusieurs canaux ou sources la confirment.
 - Regardez si le message semble fiable.
 
-Ne partagez vous-même que des messages des autorités ou des services de secours. Suivez la communication des autorités, des services de secours et de la commune, même si le pire semble passé.
+Ne partagez vous-même que des messages des autorités ou des services de secours. Suivez la communication des autorités, des services de secours et de la commune, même si le pire semble passé. Si le réseau tombe en panne, écoutez la radio à piles ou l'autoradio. Les autorités peuvent aussi utiliser les voitures à haut-parleur de la police, des panneaux d'information, des dépliants et la communication en porte-à-porte.
 
-Source : [Centre de crise National : brochure Préparés ensemble](https://centredecrise.be/sites/default/files/documents/files/WEB-Brochure-Pr%C3%AAts.%20Ensemble-FR.pdf)
+Source : [Centre de crise National : brochure Préparés ensemble](https://centredecrise.be/sites/default/files/documents/files/WEB-Brochure-Pr%C3%AAts.%20Ensemble-FR.pdf) · [Centre de crise National : L'information pendant une situation d'urgence](https://centredecrise.be/fr/que-pouvez-vous-faire/informez-vous/linformation-pendant-une-situation-durgence)
 
 ## S'entraider
 
 - Vérifiez régulièrement si des personnes vulnérables de votre quartier ont besoin d'aide, sans vous mettre vous-même en danger.
 - Partagez les informations fiables des autorités avec les personnes moins bien informées.
-- Utilisez WhatsApp, Signal ou les réseaux sociaux au lieu de téléphoner, afin de ne pas surcharger le réseau téléphonique.
+- Si le réseau fonctionne, envoyez plutôt un message par une application de messagerie ou les réseaux sociaux que de téléphoner, afin de ne pas surcharger le réseau téléphonique.
 - Proposez-vous comme personne de contact pour la famille et les amis qui ont dû évacuer.
 
 Source : [Centre de crise National : brochure Préparés ensemble](https://centredecrise.be/sites/default/files/documents/files/WEB-Brochure-Pr%C3%AAts.%20Ensemble-FR.pdf) · [Centre de crise National : Évacuer](https://centredecrise.be/fr/que-pouvez-vous-faire/le-bon-reflexe/evacuer)

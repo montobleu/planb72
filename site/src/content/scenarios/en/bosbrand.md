@@ -3,9 +3,9 @@ titel: Wildfire
 volgorde: 13
 kort: "A fire in woodland, heath, dunes or fields nearby, or the authorities warn of high fire danger."
 stappen:
-  - "Call 112 as soon as you see a fire. Give your location using landmarks: paths, ponds, lookout towers, car parks."
   - "In nature: follow the paths away from the fire and the smoke, preferably at right angles to the wind direction. Never run ahead of the fire."
-  - "Go to a public road, a large paved area or the built-up area. Help others."
+  - "Go to a public road, a large paved area or the built-up area. Help others and speak to people you meet."
+  - "Call 112 as soon as possible and give your location using landmarks: paths, ponds, lookout towers, car parks. No signal: leave and warn the people you meet on the way. See also Emergency numbers, If you cannot call."
   - "At home near nature: close windows and doors and wait for the instructions of the authorities."
   - "Leave if the authorities ask you to. Shut off the electricity and gas when you do. Do not evacuate on your own initiative."
   - "Keep roads and forest tracks clear for the emergency services. Stay away from the fire area."
@@ -14,7 +14,7 @@ niet:
   - "Do not throw away cigarette ends, not even from the car window."
   - "Do not park in long or dry grass."
 status: concept
-datum: "2026-11-17"
+datum: "2026-11-18"
 bronnen:
   - naam: "National Crisis Center: wildfire"
     url: https://crisiscenter.be/en/risks-belgium/natural-risks/wildfires
@@ -36,8 +36,14 @@ bronnen:
     url: https://www.brandweer.nl/onderwerpen/natuurbrand-voorkomen-tips-dagje-uit/
   - naam: "Ready.gov: Wildfires"
     url: https://www.ready.gov/wildfires
+  - naam: "National Crisis Center: information during an emergency"
+    url: https://crisiscenter.be/en/what-can-you-do/stay-informed/get-informed-emergency-situation
+  - naam: "112.be: Frequently asked questions"
+    url: https://112.be/en/frequently-asked-questions
+  - naam: "FPS Economy: questions from households about electricity shortages"
+    url: https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door
 vertaling: machine
-origineel_datum: "2026-11-17"
+origineel_datum: "2026-11-18"
 ---
 
 ## Recognise
@@ -46,11 +52,11 @@ A wildfire is a fire in woodland, heath, dunes, grassland or fields. Heat, droug
 
 **Fire danger in Flanders.** The Agency for Nature and Forests (Agentschap Natuur en Bos, ANB) gives a colour code per province for the fire danger in nature areas: green, yellow, orange or red. Green means little danger: there is no particular risk, and in case of fire the fire service turns out at normal strength. The higher the code, the greater the danger. When there is a danger of fire or storms, nature areas may be closed to the public. Check the code on natuurenbos.be before you set off. Owners of other public and private woodland face the same risk.
 
-**Fire danger in Wallonia.** During drought the mayor or the governor can impose a local ban. That ban is published on the municipality's website. Information signs are placed at sensitive locations.
+**Fire danger in Wallonia.** During drought the mayor or the governor can impose a local ban. Information signs are placed at sensitive locations. The ban is also published on the municipality's website.
 
-**Information.** If there is a fire nearby, follow the official channels of the municipality and the authorities, in Belgium also BE-Alert. Do not rely on rumours or messages from unknown accounts on social media.
+**Information.** If there is a fire nearby, follow the official channels of the municipality and the authorities: radio, TV and police loudspeaker vans driving through the streets. If the network works, also BE-Alert and the websites and social media of the authorities. Do not rely on rumours or messages from unknown accounts on social media.
 
-Source: [National Crisis Center](https://crisiscenter.be/en/risks-belgium/natural-risks/wildfires) · [Agency for Nature and Forests](https://natuurenbos.be/waarschuwingen) · [Service public de Wallonie](https://environnement.wallonie.be/feux) · [Brandweer Nederland](https://www.brandweer.nl/onderwerpen/natuurbrand/)
+Source: [National Crisis Center](https://crisiscenter.be/en/risks-belgium/natural-risks/wildfires) · [Agency for Nature and Forests](https://natuurenbos.be/waarschuwingen) · [Service public de Wallonie](https://environnement.wallonie.be/feux) · [Brandweer Nederland](https://www.brandweer.nl/onderwerpen/natuurbrand/) · [National Crisis Center: information during an emergency](https://crisiscenter.be/en/what-can-you-do/stay-informed/get-informed-emergency-situation)
 
 ## Prepare
 
@@ -65,7 +71,7 @@ Source: [National Crisis Center](https://crisiscenter.be/en/risks-belgium/natura
 - Place a barbecue on a stable, non-combustible surface such as stones, gravel or tiles, far from flammable plants. Keep a bucket of water or sand at hand.
 - Charcoal and briquettes can keep smouldering after use. Dispose of them carefully.
 - Take glass and rubbish home with you.
-- Always take a mobile phone with you when you go out into nature. Install the 112 app.
+- Always take a mobile phone with you when you go out into nature. Install the 112 app in advance.
 
 ### Your home on the edge of woodland or heath
 
@@ -96,13 +102,13 @@ Source: [National Crisis Center](https://crisiscenter.be/en/risks-belgium/natura
 
 ### At home
 
-- Call 112 if you see a fire or if someone is in danger.
+- Call 112 if you see a fire or if someone is in danger. If that does not work, have someone else call or ask for help nearby (see Emergency numbers, If you cannot call).
 - Close windows and doors.
-- Do not evacuate on your own initiative. Wait for the recommendations of the authorities. Follow BE-Alert, the radio and the official channels.
+- Do not evacuate on your own initiative. Wait for the recommendations of the authorities. Listen to the radio and watch for police loudspeaker vans. If the network works, also follow BE-Alert and the official channels.
 - Check whether neighbours, older people and people with a disability need help.
 - If you have to leave: shut off the electricity and gas, take your emergency kit and leave immediately.
 - If you cannot get away and there is no order to leave: stay inside with windows and doors closed. In case of smoke, Ready.gov advises staying in a room that you can seal off from the outside air, and setting the ventilation to recirculation or closing the air intake.
-- If you are really trapped: call 112 and give your location. Expect delays. Turn on the lights so that rescuers can find you.
+- If you are really trapped: turn on the lights so that rescuers can find you. Call 112 and give your location. Expect delays. This is what the American Ready.gov advises.
 
 ### Outdoors or on the move
 
@@ -114,7 +120,7 @@ Source: [National Crisis Center](https://crisiscenter.be/en/risks-belgium/natura
 4. Help other people to a safe place.
 5. Call 112 as soon as possible or use the 112 app. Give your location using landmarks: paths, ponds, lookout towers, car parks.
 
-**No signal?** Leave as quickly as possible and warn the people you meet on the way.
+**No signal, or cannot get through?** Leave as quickly as possible and warn the people you meet on the way. See also Emergency numbers in the app, If you cannot call.
 
 Do not take risks and follow the instructions of the fire service and forest rangers.
 
@@ -149,7 +155,7 @@ Do not take risks and follow the instructions of the fire service and forest ran
 - Small pets are sometimes allowed in a reception centre. Follow the official instructions.
 - If an animal has to stay behind: tell the emergency services how many animals there are and where they hide. Leave water and food for at least 24 hours.
 
-Source: [National Crisis Center](https://crisiscenter.be/en/risks-belgium/natural-risks/wildfires) · [Service public de Wallonie](https://environnement.wallonie.be/feux) · [Brandweer Nederland](https://www.brandweer.nl/onderwerpen/natuurbrand/) · [Brandweer Nederland: nearby](https://www.brandweer.nl/onderwerpen/natuurbrand-in-de-buurt/) · [National Crisis Center: sheltering](https://crisiscenter.be/en/what-can-you-do/right-reflex/seeking-shelter) · [National Crisis Center: evacuating](https://crisiscenter.be/en/what-can-you-do/right-reflex/evacuate) · [Ready.gov](https://www.ready.gov/wildfires)
+Source: [National Crisis Center](https://crisiscenter.be/en/risks-belgium/natural-risks/wildfires) · [Service public de Wallonie](https://environnement.wallonie.be/feux) · [Brandweer Nederland](https://www.brandweer.nl/onderwerpen/natuurbrand/) · [Brandweer Nederland: nearby](https://www.brandweer.nl/onderwerpen/natuurbrand-in-de-buurt/) · [National Crisis Center: sheltering](https://crisiscenter.be/en/what-can-you-do/right-reflex/seeking-shelter) · [National Crisis Center: evacuating](https://crisiscenter.be/en/what-can-you-do/right-reflex/evacuate) · [Ready.gov](https://www.ready.gov/wildfires) · [National Crisis Center: information during an emergency](https://crisiscenter.be/en/what-can-you-do/stay-informed/get-informed-emergency-situation) · [112.be: Frequently asked questions](https://112.be/en/frequently-asked-questions) · [FPS Economy: questions from households about electricity shortages](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door)
 
 ## Afterwards
 
@@ -158,7 +164,7 @@ Source: [National Crisis Center](https://crisiscenter.be/en/risks-belgium/natura
 - Stay away from hot ash, charred trees, smouldering debris and glowing remains. Heat in the ground can cause burns or a new fire.
 - When clearing up, wear long sleeves, long trousers, work gloves and sturdy shoes with thick soles. Wear a face mask and wet the debris to limit dust.
 - Take photos of the damage and contact your insurer.
-- Send messages instead of phoning, so that the network stays free for emergency calls.
+- Only phone in an emergency. If the network works, send messages instead of phoning, so that the network stays free for emergency calls.
 
 Source: [National Crisis Center](https://crisiscenter.be/en/risks-belgium/natural-risks/wildfires) · [Ready.gov](https://www.ready.gov/wildfires)
 
@@ -176,10 +182,12 @@ Source: [National Crisis Center](https://crisiscenter.be/en/risks-belgium/natura
 
 ## More information
 
+To read beforehand, or when the internet works:
+
 - Fire danger in Flemish nature areas: [natuurenbos.be/waarschuwingen](https://natuurenbos.be/waarschuwingen)
 - Fire danger and bans in Wallonia: [environnement.wallonie.be/feux](https://environnement.wallonie.be/feux)
 - Risk and recommendations: [National Crisis Center: wildfire](https://crisiscenter.be/en/risks-belgium/natural-risks/wildfires)
-- The 112 app: [112.be](https://112.be/en/mobile-application)
+- The 112 app, to install in advance: [112.be](https://112.be/en/mobile-application)
 - See also the cards **House fire** and **Heatwave**.
 
 Source: [National Crisis Center](https://crisiscenter.be/en/risks-belgium/natural-risks/wildfires)

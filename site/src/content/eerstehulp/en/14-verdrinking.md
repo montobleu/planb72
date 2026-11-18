@@ -1,9 +1,9 @@
 ---
 titel: Drowning
 volgorde: 14
-kort: "Do not go into the water yourself without training. Reach out or throw something. If the drowning person is not breathing: first give 5 rescue breaths and then perform CPR. Always call 112."
+kort: "Do not go into the water yourself without training. Reach out or throw something. If the drowning person is not breathing: first give 5 rescue breaths and then perform CPR. Always have someone call 112 or get help."
 status: concept
-datum: "2026-11-17"
+datum: "2026-11-18"
 bronnen:
   - naam: "Gezondheid en Wetenschap (Rode Kruis-Vlaanderen): First aid for drowning"
     url: https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-verdrinking
@@ -15,8 +15,12 @@ bronnen:
     url: https://www.gezondheidenwetenschap.be/eerste-hulp/wat-doen-bij-onderkoeling
   - naam: "Gezondheid en Wetenschap (Rode Kruis-Vlaanderen): First aid for spinal injuries"
     url: https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-wervelletsels
+  - naam: "European Resuscitation Council Guidelines 2021: First aid"
+    url: https://cprguidelines-old.erc.edu/assets/guidelines/European-Resuscitation-Council-Guidelines-2021-Fi.pdf
+  - naam: "112.be: Frequently asked questions"
+    url: https://112.be/en/frequently-asked-questions
 vertaling: machine
-origineel_datum: "2026-11-17"
+origineel_datum: "2026-11-18"
 ---
 
 ## Recognise
@@ -40,7 +44,7 @@ Source: [Gezondheid en Wetenschap: Drowning](https://www.gezondheidenwetenschap.
 
 ### The rescue
 
-1. Shout for help and have someone call 112.
+1. Shout for help and have someone call 112. If they cannot get through, have that person get help (see Call 112 if).
 2. Try to rescue without going into the water yourself. Use rescue equipment that is available on site, throw something that floats, or hold out a long object.
 3. Do not go into deep water if you are not a strong swimmer. Only go into the water if you are trained in rescue, and then take rescue equipment with you. A drowning person who is conscious may grab hold of the rescuer in panic.
 4. According to the ERC, a trained rescuer who reaches an unresponsive drowning person in the water immediately gives 5 rescue breaths before bringing the person to the side.
@@ -50,7 +54,7 @@ Source: [Gezondheid en Wetenschap: Drowning](https://www.gezondheidenwetenschap.
 
 1. Check for a response.
 2. Open the airway and check the breathing. If you suspect a spinal injury, do not tilt the head back.
-3. Call 112 if this has not yet been done.
+3. Call 112 or have someone call if this has not yet been done. If you cannot get through, see Call 112 if.
 4. Unconscious and not breathing normally:
    - First give 5 rescue breaths. After drowning, the outcome is better if the casualty is given rescue breaths first.
    - Then start normal CPR: 30 chest compressions and 2 rescue breaths (see topic 2).
@@ -87,7 +91,14 @@ Source: [IFRC Guidelines 2020](https://www.ifrc.org/sites/default/files/2022-02/
 
 Every drowning casualty must be examined, even if it does not seem so serious.
 
-Source: [Gezondheid en Wetenschap: Drowning](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-verdrinking) · [ERC Guidelines 2025 for Everyone](https://www.erc.edu/media/p5ymaeej/gl2025_layperson_book_ipdf-v11-e.pdf)
+**If you cannot get through**
+
+- Only leave the casualty alone if there is no other option. Point directly at a bystander to get help and tell them where it is, what happened, how many casualties there are and what condition they are in.
+- Have someone fetch an AED if there is one nearby.
+- If you are giving CPR and are alone without a phone, see topic 2 (If you cannot get through). It describes what the ERC recommends for an adult and for a child.
+- See also topic 1 (If you cannot get through: getting help without a phone) and Emergency numbers in the app, If you cannot call.
+
+Source: [Gezondheid en Wetenschap: Drowning](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-verdrinking) · [ERC Guidelines 2025 for Everyone](https://www.erc.edu/media/p5ymaeej/gl2025_layperson_book_ipdf-v11-e.pdf) · [IFRC Guidelines 2020](https://www.ifrc.org/sites/default/files/2022-02/EN_GFARC_GUIDELINES_2020.pdf) · [ERC Guidelines 2021: First aid](https://cprguidelines-old.erc.edu/assets/guidelines/European-Resuscitation-Council-Guidelines-2021-Fi.pdf) · [112.be: Frequently asked questions](https://112.be/en/frequently-asked-questions)
 
 ## Do not
 

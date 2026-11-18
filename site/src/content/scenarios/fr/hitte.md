@@ -7,16 +7,16 @@ stappen:
   - "Restez à l'intérieur pendant les heures les plus chaudes. Si ce n'est pas possible, cherchez l'ombre ou un endroit frais comme une bibliothèque ou un centre de services."
   - "Gardez votre logement au frais : protections solaires en journée, fenêtres ouvertes dès qu'il fait plus frais dehors qu'à l'intérieur."
   - "Évitez les efforts intenses aux heures les plus chaudes de la journée. Mouillez régulièrement votre front et votre nuque."
-  - "Rendez visite ou téléphonez chaque jour aux personnes âgées, aux personnes vivant seules, aux malades et aux familles avec de jeunes enfants de votre entourage."
+  - "Passez chaque jour voir les personnes âgées, les personnes vivant seules, les malades et les familles avec de jeunes enfants de votre entourage. Si vous ne pouvez pas vous-même, veillez à ce que quelqu'un d'autre passe, ou téléphonez."
   - "Ne laissez jamais un enfant, un adulte ou un animal dans une voiture garée, même pas un instant."
-  - "Appelez le 112 en cas de perte de connaissance ou de suspicion de coup de chaleur et refroidissez immédiatement la personne."
+  - "En cas de perte de connaissance ou de suspicion de coup de chaleur : refroidissez immédiatement la personne et appelez le 112. Si l'appel ne passe pas, faites appeler quelqu'un d'autre ou demandez de l'aide dans votre voisinage (voir Numéros d'urgence, Si l'appel ne passe pas)."
 niet:
   - "Ne laisser personne ni aucun animal dans une voiture garée, même à l'ombre avec une fenêtre ouverte."
   - "Pas d'alcool ni de boissons riches en sucre pour étancher la soif."
   - "Ne rien donner à boire à une personne victime d'un coup de chaleur."
   - "Ne pas conserver les médicaments dans une voiture chaude ou dans la salle de bain."
 status: concept
-datum: "2026-11-17"
+datum: "2026-11-18"
 bronnen:
   - naam: "Centre de crise National : vague de chaleur"
     url: https://centredecrise.be/fr/risques-en-belgique/risques-naturels/vague-de-chaleur-canicule
@@ -44,8 +44,16 @@ bronnen:
     url: https://www.denkvooruit.nl/risicos/risicos-in-nederland/hitte
   - naam: "CDC: what to do to protect yourself during a power outage"
     url: https://www.cdc.gov/natural-disasters/response/what-to-do-protect-yourself-during-a-power-outage.html
+  - naam: "Centre de crise National : un plan à la maison"
+    url: https://centredecrise.be/fr/que-pouvez-vous-faire/faites-un-plan/un-plan-la-maison
+  - naam: "Centre de crise National : un plan dans votre quartier"
+    url: https://centredecrise.be/fr/que-pouvez-vous-faire/faites-un-plan/un-plan-dans-votre-quartier-ou-votre-association
+  - naam: "112.be : questions fréquentes"
+    url: https://112.be/fr/questions-frequentes
+  - naam: "SPF Économie : questions des ménages sur la pénurie d'électricité"
+    url: https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door
 vertaling: machine
-origineel_datum: "2026-11-17"
+origineel_datum: "2026-11-18"
 ---
 
 ## Reconnaître
@@ -104,7 +112,8 @@ Source : [Centre de crise National : vague de chaleur](https://centredecrise.be/
 
 **Pour les autres**
 
-- Faites une liste de personnes de contact pour un proche âgé : voisins, famille, médecin généraliste, soins infirmiers à domicile.
+- Faites une liste de personnes de contact pour un proche âgé : voisins, famille, médecin généraliste, soins infirmiers à domicile. Veillez à ce que cette liste existe aussi sur papier.
+- Remettez une clé aux personnes de contact si nécessaire.
 - Renseignez-vous auprès de votre commune sur les initiatives d'entraide entre voisins.
 - Aidez les personnes qui ont besoin d'aide à se préparer.
 
@@ -112,9 +121,9 @@ Source : [Centre de crise National : vague de chaleur](https://centredecrise.be/
 
 - Les coupures d'eau et d'électricité sont particulièrement pénibles par temps chaud. Gardez à la maison des bouteilles d'eau, d'autres boissons et une batterie externe chargée.
 - Cherchez dès maintenant où vous pouvez trouver de la fraîcheur s'il fait trop chaud chez vous.
-- Convenez avec des voisins, de la famille ou des amis de rester en contact par temps chaud.
+- Convenez avec des voisins, de la famille ou des amis de rester en contact par temps chaud, même si le téléphone ou Internet ne fonctionne pas.
 
-Source : [Warme dagen : comment se rafraîchir](https://www.warmedagen.be/tips-bij-warm-weer/hoe-afkoelen-bij-warm-weer) · [Centre de crise National : vague de chaleur](https://centredecrise.be/fr/risques-en-belgique/risques-naturels/vague-de-chaleur-canicule) · [Warme dagen : malade chronique](https://www.warmedagen.be/tips-bij-warm-weer/chronisch-ziek-bij-warm-weer) · [Warme dagen : prenez soin les uns des autres](https://www.warmedagen.be/zorg-voor-elkaar) · [Denk vooruit : chaleur](https://www.denkvooruit.nl/risicos/risicos-in-nederland/hitte)
+Source : [Warme dagen : comment se rafraîchir](https://www.warmedagen.be/tips-bij-warm-weer/hoe-afkoelen-bij-warm-weer) · [Centre de crise National : vague de chaleur](https://centredecrise.be/fr/risques-en-belgique/risques-naturels/vague-de-chaleur-canicule) · [Warme dagen : malade chronique](https://www.warmedagen.be/tips-bij-warm-weer/chronisch-ziek-bij-warm-weer) · [Warme dagen : prenez soin les uns des autres](https://www.warmedagen.be/zorg-voor-elkaar) · [Denk vooruit : chaleur](https://www.denkvooruit.nl/risicos/risicos-in-nederland/hitte) · [Centre de crise National : un plan à la maison](https://centredecrise.be/fr/que-pouvez-vous-faire/faites-un-plan/un-plan-la-maison) · [Centre de crise National : un plan dans votre quartier](https://centredecrise.be/fr/que-pouvez-vous-faire/faites-un-plan/un-plan-dans-votre-quartier-ou-votre-association)
 
 ## Pendant
 
@@ -206,8 +215,9 @@ Source : [Warme dagen : manger et boire](https://www.warmedagen.be/tips-bij-warm
 
 **Personnes âgées**
 
-- Rendez visite ou téléphonez régulièrement aux personnes âgées pendant les jours chauds. Apportez des fruits et légumes pour des repas légers.
+- Pendant les jours chauds, passez plus souvent voir les personnes âgées, ou téléphonez régulièrement. Apportez des fruits et légumes pour des repas légers.
 - Convenez de qui passe si vous ne pouvez pas le faire. Veillez à ce qu'elles aient un téléphone qui fonctionne.
+- Si une personne âgée se sent mal, appelez immédiatement de l'aide. Appelez le 112 si nécessaire. Si l'appel ne passe pas, faites appeler quelqu'un d'autre ou demandez de l'aide dans votre voisinage (voir Numéros d'urgence, Si l'appel ne passe pas).
 - Encouragez-les à boire régulièrement, même sans soif, et déjà quelques jours avant la chaleur. Proposez de la variété : eau, café, thé.
 - Proposez de la fraîcheur : un brumisateur, un linge frais, une douche ou un bain de pieds.
 - Faites attention aux signes de déshydratation, à la fatigue et à la tension artérielle. Les personnes âgées peuvent se dégrader rapidement.
@@ -218,9 +228,9 @@ Source : [Warme dagen : manger et boire](https://www.warmedagen.be/tips-bij-warm
 - La chaleur et la lumière du soleil peuvent influencer l'effet des médicaments. Boire davantage peut aussi modifier la concentration dans le sang. Parlez-en à l'avance avec votre médecin.
 - Conservez les médicaments comme l'indique la notice. Si rien n'est indiqué, conservez-les au frais et au sec, pas dans la salle de bain.
 - Lors de vos courses, passez à la pharmacie en dernier et rentrez ensuite directement chez vous.
-- Demandez à des amis ou à des voisins de passer ou de téléphoner les jours de forte chaleur.
+- Demandez à des amis ou à des voisins de passer, ou de téléphoner, les jours de forte chaleur.
 
-Source : [Warme dagen : prenez soin les uns des autres](https://www.warmedagen.be/zorg-voor-elkaar) · [Warme dagen : manger et boire](https://www.warmedagen.be/tips-bij-warm-weer/eten-en-drinken-bij-warm-weer) · [Warme dagen : malade chronique](https://www.warmedagen.be/tips-bij-warm-weer/chronisch-ziek-bij-warm-weer)
+Source : [Warme dagen : prenez soin les uns des autres](https://www.warmedagen.be/zorg-voor-elkaar) · [Warme dagen : manger et boire](https://www.warmedagen.be/tips-bij-warm-weer/eten-en-drinken-bij-warm-weer) · [Warme dagen : malade chronique](https://www.warmedagen.be/tips-bij-warm-weer/chronisch-ziek-bij-warm-weer) · [112.be : questions fréquentes](https://112.be/fr/questions-frequentes) · [SPF Économie : questions des ménages sur la pénurie d'électricité](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door)
 
 ### Animaux domestiques et autres animaux
 
@@ -256,7 +266,7 @@ Source : [Vlaanderen Huisdierinfo : les animaux et la chaleur](https://www.vlaan
 
 **En cas de coup de chaleur : agir immédiatement**
 
-1. Appelez le 112 si la personne perd connaissance, et suivez les consignes des services de secours.
+1. Appelez le 112 ou faites appeler quelqu'un si la personne perd connaissance, et suivez les consignes des services de secours. Si l'appel ne passe pas, faites appeler quelqu'un d'autre ou demandez de l'aide dans votre voisinage (voir Numéros d'urgence, Si l'appel ne passe pas). Voir aussi la fiche de premiers secours Surchauffe et coup de chaleur.
 2. Emmenez la personne dans un endroit frais.
 3. Refroidissez immédiatement : aspergez ou arrosez la peau avec de l'eau et éventez-la en même temps. Des poches de glace aux aisselles, à la nuque et à l'aine aident.
 4. Ne donnez rien à boire.
@@ -267,7 +277,7 @@ Source : [Vlaanderen Huisdierinfo : les animaux et la chaleur](https://www.vlaan
 - Consultez votre médecin généraliste si vous continuez à vous sentir mal.
 - Continuez à boire suffisamment et reposez-vous suffisamment.
 
-Source : [Warme dagen : problèmes de santé](https://www.warmedagen.be/gezondheidsklachten-bij-warm-weer) · [Centre de crise National : vague de chaleur](https://centredecrise.be/fr/risques-en-belgique/risques-naturels/vague-de-chaleur-canicule) · [Warme dagen : prenez soin les uns des autres](https://www.warmedagen.be/zorg-voor-elkaar)
+Source : [Warme dagen : problèmes de santé](https://www.warmedagen.be/gezondheidsklachten-bij-warm-weer) · [Centre de crise National : vague de chaleur](https://centredecrise.be/fr/risques-en-belgique/risques-naturels/vague-de-chaleur-canicule) · [Warme dagen : prenez soin les uns des autres](https://www.warmedagen.be/zorg-voor-elkaar) · [112.be : questions fréquentes](https://112.be/fr/questions-frequentes) · [SPF Économie : questions des ménages sur la pénurie d'électricité](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door)
 
 ## À ne pas faire
 
@@ -282,6 +292,8 @@ Source : [Warme dagen : problèmes de santé](https://www.warmedagen.be/gezondhe
 Source : [Centre de crise National : vague de chaleur](https://centredecrise.be/fr/risques-en-belgique/risques-naturels/vague-de-chaleur-canicule) · [Warme dagen : manger et boire](https://www.warmedagen.be/tips-bij-warm-weer/eten-en-drinken-bij-warm-weer) · [Warme dagen : problèmes de santé](https://www.warmedagen.be/gezondheidsklachten-bij-warm-weer) · [Vlaanderen Huisdierinfo](https://www.vlaanderen.be/huisdierinfo/verzorging-van-huisdieren/dieren-en-warm-weer) · [Warme dagen : malade chronique](https://www.warmedagen.be/tips-bij-warm-weer/chronisch-ziek-bij-warm-weer)
 
 ## Plus d'informations
+
+À lire à l'avance, ou quand Internet fonctionne :
 
 - IRM : avertissements chaleur par province.
 - Warmedagen.be : conseils du gouvernement flamand pour les citoyens et les organisations.

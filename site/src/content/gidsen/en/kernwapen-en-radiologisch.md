@@ -4,7 +4,7 @@ module: nucleair
 volgorde: 3
 kort: "What official civil protection guides say about a nuclear weapon, a dirty bomb and other radiological incidents: the first seconds, minutes, hours and days."
 status: concept
-datum: "2026-11-17"
+datum: "2026-11-18"
 bronnen:
   - naam: "National Crisis Center: Release of nuclear substances"
     url: https://crisiscenter.be/en/risks-belgium/technological-risks/release-nuclear-substances
@@ -22,6 +22,10 @@ bronnen:
     url: https://nuclearrisk.be/en/nuclear-risk/nuclear-transports
   - naam: "Nuclear risk: Decontaminating yourself"
     url: https://nuclearrisk.be/en/what-can-you-do/decontamination
+  - naam: "112.be: Frequently asked questions"
+    url: https://112.be/en/frequently-asked-questions
+  - naam: "FPS Economy: questions from households about electricity shortage"
+    url: https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door
   - naam: "MCF: In case of crisis or war (brochure)"
     url: https://rib.msb.se/filer/pdf/31523.pdf
   - naam: "MCF: Good to know about civil defence shelters"
@@ -55,7 +59,7 @@ bronnen:
   - naam: "National Crisis Center: brochure Prepared together"
     url: https://crisiscenter.be/sites/default/files/documents/files/WEB-Brochure%20Prepared%20Together-EN.pdf
 vertaling: machine
-origineel_datum: "2026-11-17"
+origineel_datum: "2026-11-18"
 ---
 
 ## What the Belgian authorities say
@@ -65,14 +69,14 @@ The National Crisis Center has no separate page on nuclear weapons. For the rele
 - Sheltering is the best way to protect yourself.
 - Go inside the nearest building and stay inside until you are told that it is safe.
 - Close windows and doors and switch off ventilation systems. Take up position in a central room on the ground floor. Walls and ceilings protect better than windows.
-- Listen to the authorities via radio, TV, official websites and social media.
+- Listen to the authorities via the radio, preferably a battery-powered or wind-up radio. If the internet works, also check the official websites and social media.
 - Leave your children at school.
 - Never evacuate on your own initiative.
 - Take iodine tablets only on the instruction of the authorities.
 
 For the blast wave, the debris and the heat of a nuclear weapon, Belgium gives no specific guideline. The rest of this guide therefore follows the civil protection authorities of Sweden (MCF), Finland, Switzerland (BABS), Germany (BBK), Ukraine and the United States (Ready.gov, CDC). That advice is intended for war or an attack and may differ from the Belgian advice for an accident at a nuclear power plant. Always follow the instructions of the Belgian authorities at the time.
 
-Source: [National Crisis Center: Release of nuclear substances](https://crisiscenter.be/en/risks-belgium/technological-risks/release-nuclear-substances) · [National Crisis Center: Release of radioactive substances](https://crisiscenter.be/en/risks-belgium/technological-risks/release-radioactive-substances) · [National Crisis Center: Attack on a CBRNe infrastructure](https://crisiscenter.be/en/risks-belgium/security-risks/attack-against-cbrne-infrastructure)
+Source: [National Crisis Center: Release of nuclear substances](https://crisiscenter.be/en/risks-belgium/technological-risks/release-nuclear-substances) · [National Crisis Center: Release of radioactive substances](https://crisiscenter.be/en/risks-belgium/technological-risks/release-radioactive-substances) · [National Crisis Center: Attack on a CBRNe infrastructure](https://crisiscenter.be/en/risks-belgium/security-risks/attack-against-cbrne-infrastructure) · [National Crisis Center: brochure Prepared together](https://crisiscenter.be/sites/default/files/documents/files/WEB-Brochure%20Prepared%20Together-EN.pdf)
 
 ## The dangers of a nuclear weapon
 
@@ -145,10 +149,10 @@ Source: [Ready.gov: Radiation emergencies](https://www.ready.gov/radiation) · [
 - **Pets and assistance animals inside** (Ready.gov, CDC).
 - **Wash yourself** if you were outside when the fallout came down (see below).
 - **Eat and drink safely:** bottled water and food in sealed packaging (CDC).
-- **Stay informed** via radio, TV, telephone and other channels. The emergency services will say where you can be checked for contamination (CDC).
+- **Stay informed** via radio and TV; if the network works, also via your telephone and other channels. The emergency services will say where you can be checked for contamination (CDC). If the power fails, a battery-powered or wind-up radio helps (Crisis Center).
 - **Do not go to collect your family.** Stay where you are (CDC).
 
-Source: [Ready.gov: Radiation emergencies](https://www.ready.gov/radiation) · [CDC: What to do, get inside](https://cdc.gov/radiation-emergencies/response/get-inside.html)
+Source: [Ready.gov: Radiation emergencies](https://www.ready.gov/radiation) · [CDC: What to do, get inside](https://cdc.gov/radiation-emergencies/response/get-inside.html) · [National Crisis Center: brochure Prepared together](https://crisiscenter.be/sites/default/files/documents/files/WEB-Brochure%20Prepared%20Together-EN.pdf)
 
 ## The first 24 hours and the first days
 
@@ -250,7 +254,9 @@ On Belgian territory about 400,000 packages containing radioactive substances ar
 - Do not touch any cargo from the container.
 - Follow the instructions; the authorities may ask you to shelter.
 
-Source: [CDC: What to do for different types of radiation emergencies](https://www.cdc.gov/radiation-emergencies/about/what-to-do.html) · [Nuclear risk: Nuclear transports](https://nuclearrisk.be/en/nuclear-risk/nuclear-transports) · [National Crisis Center: Attack on a soft target](https://crisiscenter.be/en/risks-belgium/security-risks/attack-against-soft-target)
+If you cannot get through, have someone else call or ask for help nearby (see Emergency numbers in the app, If you cannot call).
+
+Source: [CDC: What to do for different types of radiation emergencies](https://www.cdc.gov/radiation-emergencies/about/what-to-do.html) · [Nuclear risk: Nuclear transports](https://nuclearrisk.be/en/nuclear-risk/nuclear-transports) · [National Crisis Center: Attack on a soft target](https://crisiscenter.be/en/risks-belgium/security-risks/attack-against-soft-target) · [112.be: Frequently asked questions](https://112.be/en/frequently-asked-questions) · [FPS Economy: questions from households about electricity shortage](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door)
 
 ## Children, vulnerable people and animals
 
@@ -262,13 +268,13 @@ Source: [CDC: What to do, get inside](https://cdc.gov/radiation-emergencies/resp
 
 ## Preparing
 
-- **Know how you will be warned.** Register with BE-Alert. Keep a battery-powered or wind-up radio ready (Crisis Center). Ready.gov recommends having several ways of receiving warnings.
+- **Know how you will be warned.** Keep a battery-powered or wind-up radio ready, preferably with DAB+ and FM. Register with BE-Alert (Crisis Center). Ready.gov recommends having several ways of receiving warnings.
 - **Know your best place at home and at work:** cellar or the middle of the building, and an underground space nearby.
 - **Have ready:** water, sealed food, medication, a set of spare clothing per family member and a bin bag for contaminated clothing (Ready.gov).
 - **Make a communication plan:** where you will meet if you cannot meet at home, a contact person far away, and know the shelter and evacuation plans of school, work and care facility (Ready.gov).
 - **Finland:** learn the steps for sheltering indoors and how to switch off the ventilation, keep tape ready and keep iodine tablets as the authorities recommend.
 
-Source: [National Crisis Center: Sheltering](https://crisiscenter.be/en/what-can-you-do/right-reflex/seeking-shelter) · [Ready.gov: Radiation emergencies](https://www.ready.gov/radiation) · [Suomi.fi: Radiation hazards](https://www.suomi.fi/guides/preparedness/how-to-prepare-for-incidents-and-crises/radiation-hazards)
+Source: [National Crisis Center: Sheltering](https://crisiscenter.be/en/what-can-you-do/right-reflex/seeking-shelter) · [National Crisis Center: brochure Prepared together](https://crisiscenter.be/sites/default/files/documents/files/WEB-Brochure%20Prepared%20Together-EN.pdf) · [Ready.gov: Radiation emergencies](https://www.ready.gov/radiation) · [Suomi.fi: Radiation hazards](https://www.suomi.fi/guides/preparedness/how-to-prepare-for-incidents-and-crises/radiation-hazards)
 
 ## Do not
 

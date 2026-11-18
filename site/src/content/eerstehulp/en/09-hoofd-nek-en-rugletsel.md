@@ -1,9 +1,9 @@
 ---
 titel: Head, neck and back injuries
 volgorde: 9
-kort: "If you suspect a neck or back injury: do not move the casualty, do not tilt the head and call 112. After a blow to the head: keep monitoring."
+kort: "If you suspect a neck or back injury: do not move the casualty, do not tilt the head and have someone call 112 or get help. After a blow to the head: keep monitoring."
 status: concept
-datum: "2026-11-17"
+datum: "2026-11-18"
 bronnen:
   - naam: "Gezondheid en Wetenschap (Rode Kruis-Vlaanderen): First aid for spinal injuries"
     url: https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-wervelletsels
@@ -15,8 +15,12 @@ bronnen:
     url: https://www.ifrc.org/sites/default/files/2022-02/EN_GFARC_GUIDELINES_2020.pdf
   - naam: "FEMA: Until Help Arrives, instructor guide"
     url: https://ready.gov/sites/default/files/2020-07/until-help-arrives-instructor-guide.pdf
+  - naam: "European Resuscitation Council Guidelines 2021: First aid"
+    url: https://cprguidelines-old.erc.edu/assets/guidelines/European-Resuscitation-Council-Guidelines-2021-Fi.pdf
+  - naam: "112.be: Frequently asked questions"
+    url: https://112.be/en/frequently-asked-questions
 vertaling: machine
-origineel_datum: "2026-11-17"
+origineel_datum: "2026-11-18"
 ---
 
 ## Recognise
@@ -64,7 +68,7 @@ Source: [Gezondheid en Wetenschap: Spinal injuries](https://www.gezondheidenwete
 
 1. Do not move the casualty, unless there is immediate danger.
 2. Check for a response. If necessary, open the airway and check the breathing, but do not tilt the head back.
-3. Call 112.
+3. Call 112 or have someone call. If you cannot get through, see Call 112 if.
 4. If conscious and breathing normally: calm the casualty and persuade them not to move. Ask them to keep their head and neck still themselves. If that does not work (for example with a child or someone who has been drinking), gently support the head with your hands. Only do this if the casualty cooperates, not with someone who is restless or agitated.
 5. Unconscious but breathing normally: leave the casualty as you found them, on their back or on their side. Gently support the head so that it does not move. Check the level of consciousness and the breathing every minute.
 6. Difficulty breathing: only push the jaw upwards, without tilting the head back.
@@ -78,7 +82,7 @@ Signs: pain in the hip, pelvis, groin or knee that gets worse on movement, being
 
 1. Help the casualty to lie on their back, still, with the legs straight.
 2. Put padding between the legs and tie the legs together at the knees and the feet.
-3. Call 112.
+3. Call 112 or have someone call.
 4. Monitor breathing, circulation and level of consciousness and watch for shock.
 5. Do not rock or turn the pelvis. That can restart or worsen bleeding.
 
@@ -95,7 +99,7 @@ Signs: pain in the hip, pelvis, groin or knee that gets worse on movement, being
 
 1. Have the person stop their activity, such as sport, and let them rest.
 2. Monitor them: watch for the signs of brain injury and for changes in the level of consciousness and the breathing.
-3. With signs of a serious head injury: call 112. Reassure the person and ask them to keep their head and neck still. If they are lying down, you may keep the head still with your hands or knees.
+3. With signs of a serious head injury: call 112 or have someone call. Reassure the person and ask them to keep their head and neck still. If they are lying down, you may keep the head still with your hands or knees.
 4. If there are no symptoms or only mild ones (a bump, a mild headache, slight nausea), let them rest and keep monitoring them.
 
 Source: [Gezondheid en Wetenschap: Spinal injuries](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-wervelletsels) · [Gezondheid en Wetenschap: Head wound](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-een-hoofdwonde) · [Croix-Rouge de Belgique: 2024 update](https://formations.croix-rouge.be/files/files/espace-relais/Relais-BEPS-Mise-jour-2024.pdf) · [IFRC Guidelines 2020](https://www.ifrc.org/sites/default/files/2022-02/EN_GFARC_GUIDELINES_2020.pdf)
@@ -121,7 +125,12 @@ Source: [IFRC Guidelines 2020](https://www.ifrc.org/sites/default/files/2022-02/
 
 Consult a doctor for a serious head wound, if the casualty feels unwell after the accident or the condition gets worse (increasing headache, nausea, drowsiness), and when in doubt.
 
-Source: [Gezondheid en Wetenschap: Head wound](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-een-hoofdwonde) · [Gezondheid en Wetenschap: Spinal injuries](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-wervelletsels) · [IFRC Guidelines 2020](https://www.ifrc.org/sites/default/files/2022-02/EN_GFARC_GUIDELINES_2020.pdf)
+**If you cannot get through**
+
+- Only leave the casualty alone if there is no other option. Point directly at a bystander to get help and tell them where it is, what happened, how many casualties there are and what condition they are in.
+- See also topic 1 (If you cannot get through: getting help without a phone) and Emergency numbers in the app, If you cannot call.
+
+Source: [Gezondheid en Wetenschap: Head wound](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-een-hoofdwonde) · [Gezondheid en Wetenschap: Spinal injuries](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-wervelletsels) · [IFRC Guidelines 2020](https://www.ifrc.org/sites/default/files/2022-02/EN_GFARC_GUIDELINES_2020.pdf) · [ERC Guidelines 2021: First aid](https://cprguidelines-old.erc.edu/assets/guidelines/European-Resuscitation-Council-Guidelines-2021-Fi.pdf) · [112.be: Frequently asked questions](https://112.be/en/frequently-asked-questions)
 
 ## Do not
 

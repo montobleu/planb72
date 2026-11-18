@@ -4,7 +4,7 @@ module: evacuatie
 volgorde: 1
 kort: "When to leave and when not to, what to take, how to leave your home, on foot, by car or without a car, with children, older people, people with a disability, pets and livestock, and what happens at the reception centre and when you return."
 status: concept
-datum: "2026-11-17"
+datum: "2026-11-18"
 bronnen:
   - naam: "National Crisis Center: Evacuating"
     url: "https://crisiscenter.be/en/what-can-you-do/right-reflex/evacuate"
@@ -30,6 +30,20 @@ bronnen:
     url: "https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/Buergerinformationen/Ratgeber/BBK-Vorsorgen-fuer-Krisen-und-Katastrophen.pdf?__blob=publicationFile&v=44"
   - naam: "Ready.gov: Evacuation"
     url: "https://www.ready.gov/evacuation"
+  - naam: "Ready.gov: Build A Kit"
+    url: "https://www.ready.gov/kit"
+  - naam: "National Crisis Center: Information during an emergency"
+    url: "https://crisiscenter.be/en/what-can-you-do/stay-informed/get-informed-emergency-situation"
+  - naam: "National Crisis Center: Disruption of the digital infrastructure"
+    url: "https://crisiscenter.be/en/risks-belgium/societal-risks/failure-digital-infrastructure"
+  - naam: "National Crisis Center: Emergency plans"
+    url: "https://crisiscentrum.be/nl/wat-doen-overheden/voorbereiding/noodplannen"
+  - naam: "National Crisis Center: A plan at home"
+    url: "https://crisiscenter.be/en/what-can-you-do/make-plan/emergency-plan-home"
+  - naam: "FPS Economy: questions from households about electricity shortage"
+    url: "https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door"
+  - naam: "Denk vooruit: information booklet Prepare for an emergency"
+    url: "https://www.denkvooruit.nl/site/binaries/site-content/collections/documents/2025/11/17/informatieboekje-bereid-je-voor-op-een-noodsituatie/informatieboekje-bereid-je-voor-op-een-noodsituatie.pdf"
   - naam: "Ready.gov: People with Disabilities"
     url: "https://www.ready.gov/disability"
   - naam: "Ready.gov: Older Adults"
@@ -43,7 +57,7 @@ bronnen:
   - naam: "WHO: Psychological first aid, guide for field workers"
     url: "https://psychiatry.uw.edu/wp-content/uploads/2020/04/1.-WHO_PFA_2011.pdf"
 vertaling: machine
-origineel_datum: "2026-11-17"
+origineel_datum: "2026-11-18"
 ---
 
 Evacuating means that you have to leave the building or area where you are because of danger. The Crisis Center says that this has to happen quickly and that you do not have much time for it. That is why preparation is important. This guide follows the order: beforehand, the decision to leave, the departure, on the way, the reception centre and the return.
@@ -63,11 +77,18 @@ Source: [National Crisis Center: Evacuating](https://crisiscenter.be/en/what-can
 - In that case, never evacuate on your own initiative. Wait for specific instructions from the authorities or emergency services. Sometimes it is safer to shelter than to go outside (Crisis Center).
 - Always follow the instructions of the emergency services and the authorities first: mayor, governor (Crisis Center).
 
-**How you hear about it.** Via the official channels: BE-Alert, radio, TV, websites of the municipality, province and Crisis Center, social media and police loudspeaker vans. In a major emergency or when urgent action is needed, such as an evacuation, the authorities can send a text message to everyone in the zone, including those who are not registered with BE-Alert (BE-Alert).
+**How you hear about it, even without a network**
+
+- Listen to a battery radio, a wind-up radio or the car radio (Crisis Center, FPS Economy). Ready.gov says the same: during an evacuation, listen to a battery-powered radio and follow local instructions.
+- The police may drive through the street with loudspeaker vans (Crisis Center).
+- The authorities may also go door to door, or use information boards and leaflets (brochure).
+- Follow the instructions of the emergency services on site (Crisis Center).
+
+**If the network works,** instructions also come via BE-Alert, TV, the websites of the municipality, province and Crisis Center, and social media. In a major emergency or when urgent action is needed, such as an evacuation, the authorities can send a text message to everyone in the zone, including those who are not registered with BE-Alert (BE-Alert). During a power cut, the internet and mobile networks may fail (brochure).
 
 **Ready.gov** recommends leaving early enough not to be trapped by severe weather.
 
-Source: [National Crisis Center: Evacuating](https://crisiscenter.be/en/what-can-you-do/right-reflex/evacuate) · [National Crisis Center: brochure Prepared together](https://crisiscenter.be/sites/default/files/documents/files/WEB-Brochure%20Prepared%20Together-EN.pdf) · [BE-Alert: Notified, wherever you are](https://www.be-alert.be/en/how-does-be-alert-work/notified-wherever-you-are) · [Ready.gov: Evacuation](https://www.ready.gov/evacuation)
+Source: [National Crisis Center: Evacuating](https://crisiscenter.be/en/what-can-you-do/right-reflex/evacuate) · [National Crisis Center: Information during an emergency](https://crisiscenter.be/en/what-can-you-do/stay-informed/get-informed-emergency-situation) · [National Crisis Center: brochure Prepared together](https://crisiscenter.be/sites/default/files/documents/files/WEB-Brochure%20Prepared%20Together-EN.pdf) · [FPS Economy: questions from households about electricity shortage](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door) · [BE-Alert: Notified, wherever you are](https://www.be-alert.be/en/how-does-be-alert-work/notified-wherever-you-are) · [Ready.gov: Evacuation](https://www.ready.gov/evacuation)
 
 ## Preparing in advance
 
@@ -75,6 +96,8 @@ The Crisis Center:
 
 - Make an emergency plan for your home. Make sure everyone knows the quickest and easiest way out.
 - Make arrangements with family or friends about where you can go if you can no longer stay in your home or neighbourhood.
+- Agree with your family where you will meet if you cannot reach each other, for example because the phone and internet are not working (Crisis Center, digital infrastructure).
+- Make sure everyone in the household knows the contact persons, with address and phone number, and keep a list on paper (Crisis Center, plan at home).
 - Think about what to do with your pets, and about their transport and care.
 - Pay extra attention to family members with specific needs. If you need help to evacuate, make arrangements with people around you.
 - Hang the house keys by the door. Always keep them in the same place.
@@ -87,8 +110,9 @@ Ready.gov adds:
 - Know several places you can go to, for example to friends in another municipality, in different directions.
 - Know alternative routes and other means of transport to leave your area.
 - Know that, depending on the disaster, your evacuation route may be on foot.
+- Agree on a meeting place in case you become separated.
 
-Source: [National Crisis Center: Evacuating](https://crisiscenter.be/en/what-can-you-do/right-reflex/evacuate) · [National Crisis Center: brochure Prepared together](https://crisiscenter.be/sites/default/files/documents/files/WEB-Brochure%20Prepared%20Together-EN.pdf) · [Ready.gov: Evacuation](https://www.ready.gov/evacuation)
+Source: [National Crisis Center: Evacuating](https://crisiscenter.be/en/what-can-you-do/right-reflex/evacuate) · [National Crisis Center: brochure Prepared together](https://crisiscenter.be/sites/default/files/documents/files/WEB-Brochure%20Prepared%20Together-EN.pdf) · [National Crisis Center: Disruption of the digital infrastructure](https://crisiscenter.be/en/risks-belgium/societal-risks/failure-digital-infrastructure) · [National Crisis Center: A plan at home](https://crisiscenter.be/en/what-can-you-do/make-plan/emergency-plan-home) · [Ready.gov: Evacuation](https://www.ready.gov/evacuation)
 
 ## What to take
 
@@ -101,7 +125,7 @@ Source: [National Crisis Center: Evacuating](https://crisiscenter.be/en/what-can
 - A few bottles of water.
 - Mobile phone and charger.
 - Keys.
-- A list of important telephone numbers.
+- A list of important telephone numbers, on paper.
 - Important medicines.
 - A small bag with hygiene products.
 
@@ -109,11 +133,13 @@ In a flood, also spare clothing and boots (Crisis Center).
 
 **Clothing (Ready.gov).** Wear sturdy shoes and clothing that gives some protection: long trousers, long sleeves, a hat.
 
+**Radio and map.** The Crisis Center's emergency kit includes a battery radio or a wind-up radio. Ready.gov also lists maps of your area in the emergency kit. Denk vooruit (Netherlands) recommends keeping a paper map of your village or town with your emergency kit.
+
 **In immediate danger**, do not waste time gathering documents or belongings. Evacuate as quickly as possible (Crisis Center).
 
 The MCF recommends making a list in advance of what you will take if you have to leave quickly and cannot return for a while.
 
-Source: [National Crisis Center: Evacuating](https://crisiscenter.be/en/what-can-you-do/right-reflex/evacuate) · [National Crisis Center: brochure Prepared together](https://crisiscenter.be/sites/default/files/documents/files/WEB-Brochure%20Prepared%20Together-EN.pdf) · [National Crisis Center: River flooding](https://crisiscenter.be/en/risks-belgium/natural-risks/fluvial-riverine-flood) · [Ready.gov: Evacuation](https://www.ready.gov/evacuation) · [MCF: In case of crisis or war](https://rib.msb.se/filer/pdf/31523.pdf)
+Source: [National Crisis Center: Evacuating](https://crisiscenter.be/en/what-can-you-do/right-reflex/evacuate) · [National Crisis Center: brochure Prepared together](https://crisiscenter.be/sites/default/files/documents/files/WEB-Brochure%20Prepared%20Together-EN.pdf) · [National Crisis Center: River flooding](https://crisiscenter.be/en/risks-belgium/natural-risks/fluvial-riverine-flood) · [Ready.gov: Evacuation](https://www.ready.gov/evacuation) · [Ready.gov: Build A Kit](https://www.ready.gov/kit) · [Denk vooruit: information booklet](https://www.denkvooruit.nl/site/binaries/site-content/collections/documents/2025/11/17/informatieboekje-bereid-je-voor-op-een-noodsituatie/informatieboekje-bereid-je-voor-op-een-noodsituatie.pdf) · [MCF: In case of crisis or war](https://rib.msb.se/filer/pdf/31523.pdf)
 
 ## Leaving your home
 
@@ -132,7 +158,7 @@ Source: [National Crisis Center: Evacuating](https://crisiscenter.be/en/what-can
 - In a flood, the Crisis Center recommends shutting off gas, electricity and water if necessary, and parking your car in a safe place, not in the garage.
 - The BBK: when high water threatens, switch off the power to the rooms that may flood.
 
-**A note.** Ready.gov recommends leaving a note stating when you left and where you are going.
+**A note.** Ready.gov recommends leaving a note stating when you left and where you are going. That way others know where you have gone.
 
 During the evacuation, the local police take security measures in the evacuation zone (Crisis Center).
 
@@ -147,11 +173,13 @@ The Crisis Center mentions two options:
 | Family or friends outside the affected zone | ask in advance whether they are willing to take you in; agree whether your pets may come |
 | A reception centre, for example a sports hall or function hall | in larger emergencies the authorities (municipality, province) provide a reception site; the emergency services give you the information |
 
-You receive information about where to go via the official communication channels (brochure). Ready.gov recommends choosing destinations in different directions, so that you have options if a road is closed.
+You receive information about where to go via the official communication channels (brochure). Without a network, these are the radio, police loudspeaker vans and the emergency services on site (see above). Ready.gov recommends choosing destinations in different directions, so that you have options if a road is closed.
+
+**Your municipality's reception.** Every municipality must set out in its general emergency and intervention plan where the reception and housing centres are and who arranges transport (Crisis Center, emergency plans). During a prolonged power cut, mayors can also open an information and reception point for the population. Ask your municipality in advance what arrangements exist (FPS Economy). The map in the app (Nearest button) shows the town halls.
 
 The MCF writes that people who cannot evacuate by themselves receive help, and on arrival at a safe place also temporary accommodation and food.
 
-Source: [National Crisis Center: Evacuating](https://crisiscenter.be/en/what-can-you-do/right-reflex/evacuate) · [National Crisis Center: brochure Prepared together](https://crisiscenter.be/sites/default/files/documents/files/WEB-Brochure%20Prepared%20Together-EN.pdf) · [Ready.gov: Evacuation](https://www.ready.gov/evacuation) · [MCF: In case of crisis or war](https://rib.msb.se/filer/pdf/31523.pdf)
+Source: [National Crisis Center: Evacuating](https://crisiscenter.be/en/what-can-you-do/right-reflex/evacuate) · [National Crisis Center: brochure Prepared together](https://crisiscenter.be/sites/default/files/documents/files/WEB-Brochure%20Prepared%20Together-EN.pdf) · [National Crisis Center: Emergency plans](https://crisiscentrum.be/nl/wat-doen-overheden/voorbereiding/noodplannen) · [FPS Economy: questions from households about electricity shortage](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door) · [Ready.gov: Evacuation](https://www.ready.gov/evacuation) · [MCF: In case of crisis or war](https://rib.msb.se/filer/pdf/31523.pdf)
 
 ## How to travel
 
@@ -161,7 +189,8 @@ Source: [National Crisis Center: Evacuating](https://crisiscenter.be/en/what-can
 
 **By car.** Over a long distance it can be done with your own vehicle (Crisis Center). Ready.gov:
 
-- Fill up the tank before you leave.
+- Fill up the tank when an evacuation becomes likely. Petrol stations may be closed in an emergency and cannot pump fuel during a power cut.
+- Follow the recommended evacuation routes. Do not take back roads: they may be blocked.
 - Take water and non-perishable food for the journey.
 - Watch out for hazards such as washed-out roads or bridges and fallen power lines.
 - Do not drive through flooded areas.
@@ -176,23 +205,28 @@ Source: [National Crisis Center: Evacuating](https://crisiscenter.be/en/what-can
 
 ## Informing and finding family
 
-**When leaving**
+**Without a network**
+
+- Go to the meeting place you agreed with your family in advance (Crisis Center, digital infrastructure; Ready.gov).
+- Leave a note at home saying when you left and where you are going (Ready.gov).
+- At the reception centre, the contact person on site gives information (Crisis Center).
+
+**If the network works**
 
 - As soon as you are safe, contact your family. Say where you are going and when you expect to arrive (Crisis Center).
 - In a large-scale emergency, preferably use text messages or messaging apps. Mass calling can overload the network (Crisis Center).
 - Let your contact person outside the zone know where you are, and whether family members have become separated (Crisis Center). Ready.gov: call or email them to say where you are going, if time allows.
-- Preferably inform others who have to evacuate by text message, so that the network stays free for important calls (Crisis Center).
 
 **If you have lost track of someone**
 
-Rode Kruis-Vlaanderen has a Restoring Family Links service that traces missing persons and restores contact between family members, including after a natural disaster. You can contact the service via the contact form, by email or by phone. The service does not deal with matters that fall under the police. The service recommends:
+Rode Kruis-Vlaanderen has a Restoring Family Links service that traces missing persons and restores contact between family members, including after a natural disaster. You can contact the service via the contact form, by email or by phone, so only if the network works. The service does not deal with matters that fall under the police. The service recommends:
 
 - Learning the phone numbers of family members by heart.
 - Having children memorise important information, such as the names of their parents.
 - Sharing your planned route with family and friends and reporting where you are at fixed times.
 - Contacting the local Red Cross immediately if you lose contact with your family.
 
-Source: [National Crisis Center: Evacuating](https://crisiscenter.be/en/what-can-you-do/right-reflex/evacuate) · [Ready.gov: Evacuation](https://www.ready.gov/evacuation) · [Rode Kruis-Vlaanderen: Restoring Family Links](https://en.rodekruis.be/wat-doen-we/hulp-wereldwijd/opsporen-van-vermiste-personen/)
+Source: [National Crisis Center: Evacuating](https://crisiscenter.be/en/what-can-you-do/right-reflex/evacuate) · [National Crisis Center: Disruption of the digital infrastructure](https://crisiscenter.be/en/risks-belgium/societal-risks/failure-digital-infrastructure) · [Ready.gov: Evacuation](https://www.ready.gov/evacuation) · [Rode Kruis-Vlaanderen: Restoring Family Links](https://en.rodekruis.be/wat-doen-we/hulp-wereldwijd/opsporen-van-vermiste-personen/)
 
 ## Children
 
@@ -211,6 +245,7 @@ Source: [National Crisis Center: Evacuating](https://crisiscenter.be/en/what-can
 **The Crisis Center**
 
 - If you have difficulty walking: practise now and then whether you can leave the house quickly, even if the lift does not work or may not be used. Think about who can help you and how to contact them.
+- Think of alternative ways to communicate with others, even if you have no phone or internet. Agree on this in advance with the people who help you.
 - If you use a wheelchair: look at which way you can evacuate if the lift does not work. Think about a wheelchair-accessible reception site.
 - Blind or partially sighted: keep your aids, such as a cane, in a place where you can find them quickly.
 - Have someone register your address in BE-Alert, so that this person is also warned.
@@ -267,7 +302,7 @@ Source: [Ready.gov: Pets](https://www.ready.gov/pets) · [National Crisis Center
 ## At the reception centre
 
 - At the reception centre, the contact person on site gives the necessary information, including about when you may go back home (Crisis Center).
-- Municipalities, provinces or the Crisis Center can open an information number to handle questions from residents. They can use the national information number 1771 for this, which can be operational within the hour, day and night. Thanks to cooperation with the FPS Public Health, it can also handle sensitive calls about possible victims (Crisis Center). The number is not always active: it is opened in an emergency.
+- Municipalities, provinces or the Crisis Center can open an information number to handle questions from residents. They can use the national information number 1771 for this, which can be operational within the hour, day and night. Thanks to cooperation with the FPS Public Health, it can also handle sensitive calls about possible victims (Crisis Center). The number is not always active: it is opened in an emergency. It is a phone number, so it only helps if the network works.
 - The WHO describes what people often need after a disaster: shelter, food, water and sanitation; care for injuries or chronic illnesses; understandable and accurate information; contact with loved ones; support suited to their culture or religion; and being involved in important decisions.
 
 Source: [National Crisis Center: Evacuating](https://crisiscenter.be/en/what-can-you-do/right-reflex/evacuate) · [National Crisis Center: Communication](https://crisiscenter.be/en/role-national-crisis-center/communication) · [National Crisis Center: Information to the population](https://crisiscenter.be/en/what-do-authorities-do/crisis-management/information-provision-citizens) · [WHO: Psychological first aid](https://psychiatry.uw.edu/wp-content/uploads/2020/04/1.-WHO_PFA_2011.pdf)
@@ -279,7 +314,7 @@ Source: [National Crisis Center: Evacuating](https://crisiscenter.be/en/what-can
 **How you know you may return (Crisis Center)**
 
 - At the reception centre: via the contact person on site.
-- With family or friends: via the municipality's website, the radio or the information number.
+- With family or friends: listen to the radio. If the network works, also check the municipality's website or call the information number.
 
 **When returning (Ready.gov)**
 
@@ -306,7 +341,8 @@ Source: [National Crisis Center: Evacuating](https://crisiscenter.be/en/what-can
 If you have to evacuate with a whole street, neighbourhood or block of flats, the Crisis Center asks you to help others:
 
 - Give a lift to the reception site.
-- Help warn others that they have to evacuate, preferably by text message.
+- Help warn others that they have to evacuate. If the network works, preferably do so by text message, so that the network stays free for important calls.
+- Look out especially for neighbours who are less mobile or have a smaller social safety net.
 - Make an evacuation plan for the building, street or neighbourhood together with other residents.
 - Make yourself available as an emergency contact for friends and family, in case they have to evacuate.
 
@@ -317,14 +353,16 @@ Source: [National Crisis Center: Evacuating](https://crisiscenter.be/en/what-can
 ## Departure checklist
 
 - [ ] Instruction from the authorities or immediate danger.
-- [ ] Grab bag, or the minimum: identity card, money, water, mobile phone and charger, keys, phone list, medicines, hygiene.
+- [ ] Grab bag, or the minimum: identity card, money, water, mobile phone and charger, keys, phone list on paper, medicines, hygiene.
+- [ ] Battery radio and a map of the area.
 - [ ] Sturdy shoes, long clothing; in a flood, boots and spare clothing.
 - [ ] Electrical appliances off; fridge and freezer on.
 - [ ] Windows and doors closed, alarm on.
 - [ ] Water and gas shut off, if possible.
 - [ ] Pets in the travel basket, or water and food for 24 hours and emergency services informed.
 - [ ] Note: when you left, where to.
-- [ ] Neighbours who need help contacted.
-- [ ] Contact person outside the zone informed, preferably by text message.
+- [ ] Neighbours who need help informed.
+- [ ] Meeting place with the family known.
+- [ ] Contact person outside the zone informed if the network works, preferably by text message.
 
-Source: [National Crisis Center: Evacuating](https://crisiscenter.be/en/what-can-you-do/right-reflex/evacuate) · [National Crisis Center: brochure Prepared together](https://crisiscenter.be/sites/default/files/documents/files/WEB-Brochure%20Prepared%20Together-EN.pdf) · [Ready.gov: Evacuation](https://www.ready.gov/evacuation)
+Source: [National Crisis Center: Evacuating](https://crisiscenter.be/en/what-can-you-do/right-reflex/evacuate) · [National Crisis Center: brochure Prepared together](https://crisiscenter.be/sites/default/files/documents/files/WEB-Brochure%20Prepared%20Together-EN.pdf) · [National Crisis Center: Disruption of the digital infrastructure](https://crisiscenter.be/en/risks-belgium/societal-risks/failure-digital-infrastructure) · [Ready.gov: Evacuation](https://www.ready.gov/evacuation) · [Ready.gov: Build A Kit](https://www.ready.gov/kit)

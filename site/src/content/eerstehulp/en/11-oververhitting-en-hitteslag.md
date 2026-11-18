@@ -1,9 +1,9 @@
 ---
 titel: Overheating and heatstroke
 volgorde: 11
-kort: "Stop all exertion, take the person to a cool place and cool them down immediately. With confusion, seizures or more than 39 °C: call 112."
+kort: "Stop all exertion, take the person to a cool place and cool them down immediately. With confusion, seizures or more than 39 °C: call 112 or have someone get help."
 status: concept
-datum: "2026-11-17"
+datum: "2026-11-18"
 bronnen:
   - naam: "Gezondheid en Wetenschap (Rode Kruis-Vlaanderen): First aid for heatstroke"
     url: https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-hitteslag-of-hitteberoerte
@@ -13,8 +13,12 @@ bronnen:
     url: https://www.ifrc.org/sites/default/files/2022-02/EN_GFARC_GUIDELINES_2020.pdf
   - naam: "European Resuscitation Council: The ERC Guidelines 2025 on Resuscitation for Everyone"
     url: https://www.erc.edu/media/p5ymaeej/gl2025_layperson_book_ipdf-v11-e.pdf
+  - naam: "European Resuscitation Council Guidelines 2021: First aid"
+    url: https://cprguidelines-old.erc.edu/assets/guidelines/European-Resuscitation-Council-Guidelines-2021-Fi.pdf
+  - naam: "112.be: Frequently asked questions"
+    url: https://112.be/en/frequently-asked-questions
 vertaling: machine
-origineel_datum: "2026-11-17"
+origineel_datum: "2026-11-18"
 ---
 
 ## Recognise
@@ -53,7 +57,7 @@ Source: [Gezondheid en Wetenschap: Heatstroke](https://www.gezondheidenwetenscha
 
 1. Have the casualty stop all exertion and let them rest. Keep them as calm as possible.
 2. Take them to a cool place. Remove excess clothing.
-3. Call 112 if there are signs of heatstroke.
+3. Call 112 or have someone call if there are signs of heatstroke. If you cannot get through, see Call 112 if.
 4. Cool them down immediately. The more serious the symptoms, the more vigorously you may cool. Choose the best method you have:
    - Best choice: immerse the casualty up to the neck in a bath of lukewarm to cold water. The IFRC gives water of 1 to 26 °C, for about 15 minutes or until the temperature drops below 39 °C. The Belgian guideline says: until the condition improves, for no more than 15 minutes.
    - If immersion is not possible, for example because there is no cold water or because the casualty is confused and refuses: put a cool, wet sheet over the casualty or wet them with cold water.
@@ -112,7 +116,14 @@ Source: [IFRC Guidelines 2020](https://www.ifrc.org/sites/default/files/2022-02/
 
 Consult a doctor if heat cramps persist.
 
-Source: [Gezondheid en Wetenschap: Heatstroke](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-hitteslag-of-hitteberoerte) · [Gezondheid en Wetenschap: Heat cramps](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-hittekrampen) · [IFRC Guidelines 2020](https://www.ifrc.org/sites/default/files/2022-02/EN_GFARC_GUIDELINES_2020.pdf)
+**If you cannot get through**
+
+- Only leave the casualty alone if there is no other option, and certainly not in a hot environment. Point directly at a bystander to get help and tell them where it is, what happened, how many casualties there are and what condition they are in.
+- Have the other bystanders help with cooling and with making shade.
+- Keep cooling in the meantime with everything you have (see If help is a long time coming).
+- See also topic 1 (If you cannot get through: getting help without a phone) and Emergency numbers in the app, If you cannot call.
+
+Source: [Gezondheid en Wetenschap: Heatstroke](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-hitteslag-of-hitteberoerte) · [Gezondheid en Wetenschap: Heat cramps](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-hittekrampen) · [IFRC Guidelines 2020](https://www.ifrc.org/sites/default/files/2022-02/EN_GFARC_GUIDELINES_2020.pdf) · [ERC Guidelines 2025 for Everyone](https://www.erc.edu/media/p5ymaeej/gl2025_layperson_book_ipdf-v11-e.pdf) · [ERC Guidelines 2021: First aid](https://cprguidelines-old.erc.edu/assets/guidelines/European-Resuscitation-Council-Guidelines-2021-Fi.pdf) · [112.be: Frequently asked questions](https://112.be/en/frequently-asked-questions)
 
 ## Do not
 

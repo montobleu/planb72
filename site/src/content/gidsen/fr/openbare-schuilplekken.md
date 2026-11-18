@@ -4,7 +4,7 @@ module: schuilen
 volgorde: 3
 kort: "Ce qui existe en Belgique, ce que sont les abris possibles issus d'OpenStreetMap, quelle est leur fiabilité, comment les repérer et comment les pays voisins s'organisent."
 status: concept
-datum: "2026-11-17"
+datum: "2026-11-18"
 bronnen:
   - naam: "Centre de crise National : Se mettre à l'abri"
     url: https://centredecrise.be/fr/que-pouvez-vous-faire/le-bon-reflexe/se-mettre-labri
@@ -12,6 +12,10 @@ bronnen:
     url: https://centredecrise.be/fr/que-pouvez-vous-faire/le-bon-reflexe/evacuer
   - naam: "Centre de crise National : Incendie ou effondrement d'un tunnel"
     url: https://centredecrise.be/fr/risques-en-belgique/risques-economiques-et-technologiques/feu-ou-effondrement-dans-un-tunnel
+  - naam: "112.be : Questions fréquentes"
+    url: https://112.be/fr/questions-frequentes
+  - naam: "SPF Économie : questions des ménages sur la pénurie d'électricité"
+    url: https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door
   - naam: "Risque nucléaire : Comprimés d'iode pour les collectivités"
     url: https://risquenucleaire.be/fr/comprimes-diode/pour-les-collectivites
   - naam: "OpenStreetMap : droits d'auteur et licence"
@@ -53,20 +57,21 @@ bronnen:
   - naam: "Centre de crise National : brochure Préparés ensemble"
     url: https://centredecrise.be/sites/default/files/documents/files/WEB-Brochure-Pr%C3%AAts.%20Ensemble-FR.pdf
 vertaling: machine
-origineel_datum: "2026-11-17"
+origineel_datum: "2026-11-18"
 ---
 
 ## Ce qui existe en Belgique
 
-La Belgique n'a pas de réseau d'abris publics. La page sur la mise à l'abri du Centre de crise National ne contient ni liste ni carte d'abris publics. Le conseil belge de mise à l'abri est : entrez dans le bâtiment accessible le plus proche, votre propre maison, votre lieu de travail ou un autre bâtiment, et restez-y jusqu'à ce que le danger soit passé. Si vous êtes en déplacement, entrez dans le bâtiment accessible le plus proche. Si vous ne pouvez atteindre aucun bâtiment sûr, par exemple à pied dans une zone rurale ou naturelle, appelez le 112.
+La Belgique n'a pas de réseau d'abris publics. La page sur la mise à l'abri du Centre de crise National ne contient ni liste ni carte d'abris publics. Le conseil belge de mise à l'abri est : entrez dans le bâtiment accessible le plus proche, votre propre maison, votre lieu de travail ou un autre bâtiment, et restez-y jusqu'à ce que le danger soit passé. Si vous êtes en déplacement, entrez dans le bâtiment accessible le plus proche. Si vous ne pouvez atteindre aucun bâtiment sûr, par exemple à pied dans une zone rurale ou naturelle, appelez le 112. Si l'appel ne passe pas, faites appeler quelqu'un d'autre ou demandez de l'aide dans votre voisinage (voir Numéros d'urgence dans l'app, Si l'appel ne passe pas). Pour les personnes en déplacement sans bâtiment à proximité, le Centre de crise dit aussi : éloignez-vous davantage de la situation d'urgence jusqu'à ce que vous trouviez un bâtiment sûr et accessible.
 
 Ce qui existe bien en Belgique :
 
-- **Des centres d'accueil en cas d'évacuation.** Lors de situations d'urgence plus importantes, la commune ou la province prévoit un lieu pour accueillir les personnes évacuées, par exemple un hall de sport ou une salle des fêtes. Il s'agit d'un accueil après une évacuation, pas d'une protection contre une explosion.
+- **Des centres d'accueil en cas d'évacuation.** Lors de situations d'urgence plus importantes, la commune ou la province prévoit un lieu pour accueillir les personnes évacuées, par exemple un hall de sport ou une salle des fêtes. Sur place, une personne de contact donne des informations. Il s'agit d'un accueil après une évacuation, pas d'une protection contre une explosion.
+- **Un point d'information et d'accueil de la commune.** En prévision d'un délestage électrique, les bourgmestres et les gouverneurs ont préparé des mesures d'urgence, par exemple un point d'information et d'accueil pour la population (SPF Économie). Demandez à l'avance à votre administration communale quelles solutions votre commune a prévues. La carte de l'app (bouton Le plus proche) montre les maisons communales.
 - **Les plans d'urgence des écoles et des collectivités.** Les écoles, les entreprises, les hôpitaux, les centres sportifs et les autres lieux où beaucoup de personnes se rassemblent sont encouragés à avoir un plan d'urgence interne et à l'exercer. Dans les zones de planification d'urgence nucléaire, il leur est aussi demandé de prévoir des comprimés d'iode pour le personnel et les visiteurs.
 - **Laissez d'autres personnes s'abriter chez vous.** Le Centre de crise demande expressément de laisser les personnes qui ont besoin d'un endroit s'abriter chez vous.
 
-Source : [Centre de crise National : Se mettre à l'abri](https://centredecrise.be/fr/que-pouvez-vous-faire/le-bon-reflexe/se-mettre-labri) · [Centre de crise National : Évacuer](https://centredecrise.be/fr/que-pouvez-vous-faire/le-bon-reflexe/evacuer) · [Risque nucléaire : Comprimés d'iode pour les collectivités](https://risquenucleaire.be/fr/comprimes-diode/pour-les-collectivites)
+Source : [Centre de crise National : Se mettre à l'abri](https://centredecrise.be/fr/que-pouvez-vous-faire/le-bon-reflexe/se-mettre-labri) · [Centre de crise National : Évacuer](https://centredecrise.be/fr/que-pouvez-vous-faire/le-bon-reflexe/evacuer) · [Risque nucléaire : Comprimés d'iode pour les collectivités](https://risquenucleaire.be/fr/comprimes-diode/pour-les-collectivites) · [112.be : Questions fréquentes](https://112.be/fr/questions-frequentes) · [SPF Économie : questions des ménages sur la pénurie d'électricité](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door)
 
 ## Ce que sont les abris possibles sur la carte
 

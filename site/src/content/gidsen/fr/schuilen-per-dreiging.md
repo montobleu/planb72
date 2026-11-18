@@ -4,7 +4,7 @@ module: schuilen
 volgorde: 1
 kort: "Où aller, où ne pas aller et combien de temps rester : par menace et par endroit, par ordre de préférence."
 status: concept
-datum: "2026-11-17"
+datum: "2026-11-18"
 bronnen:
   - naam: "Centre de crise National : Se mettre à l'abri"
     url: https://centredecrise.be/fr/que-pouvez-vous-faire/le-bon-reflexe/se-mettre-labri
@@ -36,6 +36,14 @@ bronnen:
     url: https://centredecrise.be/fr/risques-en-belgique/risques-man-made/conflit-arme-international-cai
   - naam: "Centre de crise National : Incendie ou effondrement d'un tunnel"
     url: https://centredecrise.be/fr/risques-en-belgique/risques-economiques-et-technologiques/feu-ou-effondrement-dans-un-tunnel
+  - naam: "Centre de crise National : brochure Samen voorbereid (Préparés ensemble)"
+    url: https://centredecrise.be/sites/default/files/documents/files/WEB-Brochure-Pr%C3%AAts.%20Ensemble-FR.pdf
+  - naam: "Centre de crise National : Perturbation de l'infrastructure numérique"
+    url: https://centredecrise.be/fr/risques-en-belgique/risques-societaux/defaillance-des-infrastructures-digitales
+  - naam: "112.be : Questions fréquentes"
+    url: https://112.be/fr/questions-frequentes
+  - naam: "SPF Économie : questions des ménages sur la pénurie d'électricité"
+    url: https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door
   - naam: "Risque nucléaire : Se mettre à l'abri, la meilleure protection"
     url: https://risquenucleaire.be/fr/que-pouvez-vous-faire/mise-labri-la-meilleure-action-de-protection
   - naam: "IRM : Comment me protéger de la foudre"
@@ -87,7 +95,7 @@ bronnen:
   - naam: "Ready.gov: Mass gatherings incidents"
     url: https://www.ready.gov/mass-gatherings-incidents
 vertaling: machine
-origineel_datum: "2026-11-17"
+origineel_datum: "2026-11-18"
 ---
 
 ## Comment utiliser ce guide
@@ -96,7 +104,7 @@ En Belgique, se mettre à l'abri signifie : vous entrez dans le bâtiment access
 
 1. Restez à l'intérieur ou entrez dans le bâtiment accessible le plus proche. Restez-y jusqu'à ce qu'on vous annonce que la situation est à nouveau sûre.
 2. Fermez toutes les fenêtres et portes. Coupez la ventilation, la climatisation et les autres systèmes qui font entrer l'air extérieur. Allez de préférence dans une pièce centrale au rez-de-chaussée, loin des fenêtres et des portes extérieures.
-3. Suivez les instructions des autorités via BE-Alert, la radio, la télévision, les sites web officiels et les réseaux sociaux.
+3. Suivez les instructions des autorités. Si vous êtes à l'abri, vous êtes à l'intérieur, fenêtres et portes fermées : écoutez une radio à piles ou une radio à manivelle et soyez attentif aux véhicules de police équipés de haut-parleurs dans la rue. Si le réseau fonctionne, les instructions arrivent aussi via BE-Alert, les sites web officiels et les réseaux sociaux.
 
 Ces trois étapes valent pour la plupart des menaces pour lesquelles les autorités demandent de rester à l'intérieur : une fuite chimique, une fumée importante, un orage violent, un accident nucléaire. Mais toutes les menaces ne demandent pas le même endroit. La protection civile allemande (BBK) le dit expressément : ce qui est sûr face à une menace peut être dangereux face à une autre. Une cave protège bien contre une explosion ou un rayonnement, mais elle est mortellement dangereuse en cas d'inondation.
 
@@ -104,7 +112,9 @@ Ce guide donne donc, par menace, les possibilités par ordre de préférence, se
 
 Le Centre de crise indique aussi que la mise à l'abri est une mesure temporaire : de quelques heures à 24 heures maximum. Si la situation n'est toujours pas sûre ensuite, ou s'aggrave, les autorités peuvent demander d'évacuer. N'évacuez jamais de votre propre initiative, sauf si vous êtes en danger immédiat.
 
-Source : [Centre de crise National : Se mettre à l'abri](https://centredecrise.be/fr/que-pouvez-vous-faire/le-bon-reflexe/se-mettre-labri) · [Centre de crise National : Évacuer](https://centredecrise.be/fr/que-pouvez-vous-faire/le-bon-reflexe/evacuer) · [BBK: Schutz suchen](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Vorsorge/Schutz-suchen/schutz-suchen_node.html)
+Là où ce guide dit d'appeler le 112 : partez du principe que le réseau peut tomber en panne. Essayez alors un autre appareil, faites appeler des voisins ou des passants, ou déplacez-vous de quelques mètres. Si l'appel ne passe pas du tout, demandez de l'aide dans votre voisinage et suivez les informations des autorités à la radio. Voir aussi Numéros d'urgence dans l'app, Si l'appel ne passe pas. La carte de l'app (bouton Le plus proche) montre les pompiers, la police, les hôpitaux et les maisons communales.
+
+Source : [Centre de crise National : Se mettre à l'abri](https://centredecrise.be/fr/que-pouvez-vous-faire/le-bon-reflexe/se-mettre-labri) · [Centre de crise National : Évacuer](https://centredecrise.be/fr/que-pouvez-vous-faire/le-bon-reflexe/evacuer) · [Centre de crise National : brochure Samen voorbereid](https://centredecrise.be/sites/default/files/documents/files/WEB-Brochure-Pr%C3%AAts.%20Ensemble-FR.pdf) · [BBK: Schutz suchen](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Vorsorge/Schutz-suchen/schutz-suchen_node.html) · [112.be : Questions fréquentes](https://112.be/fr/questions-frequentes) · [SPF Économie : questions des ménages sur la pénurie d'électricité](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door)
 
 ## Vue d'ensemble : la direction selon la menace
 
@@ -162,7 +172,7 @@ La Finlande donne des directives distinctes pour les drones. La zone de danger d
 - Entrez à l'intérieur, surtout si le drone vole de manière instable ou à basse altitude.
 - Évitez les terrains découverts à proximité du drone. Si vous êtes en forêt ou en plein champ, mettez-vous en dessous du niveau du sol si possible.
 - À l'intérieur : restez loin des fenêtres et des portes, au milieu du bâtiment, dans une pièce aux murs solides.
-- Appelez le 112 si vous voyez un drone près d'un site critique (centrale, aéroport, port, station d'épuration) ou si vous trouvez un drone tombé au sol.
+- Appelez le 112 si vous voyez un drone près d'un site critique (centrale, aéroport, port, station d'épuration) ou si vous trouvez un drone tombé au sol. Si l'appel ne passe pas, faites appeler quelqu'un d'autre ou demandez de l'aide dans votre voisinage (voir Numéros d'urgence dans l'app, Si l'appel ne passe pas).
 
 ### Où ne pas aller
 
@@ -182,7 +192,7 @@ La Finlande donne des directives distinctes pour les drones. La zone de danger d
 - Après la fin de l'alerte : aidez les blessés et les personnes coincées (MCF).
 - N'emportez que ce que vous avez directement sous la main. La Suède recommande de l'eau, de la nourriture que l'on peut manger à température ambiante, une pièce d'identité, de l'argent, une carte bancaire, un GSM et un chargeur ou une batterie externe. Pour un abri de protection civile, comptez quelques jours.
 
-Source : [Centre de crise National : Conflit armé international](https://centredecrise.be/fr/risques-en-belgique/risques-man-made/conflit-arme-international-cai) · [BBK: Explosionen, hier finden Sie Schutz](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Vorsorge/Schutz-suchen/Schutz-vor-Explosion/schutz-vor-explosion_node.html) · [MCF: In case of crisis or war](https://rib.msb.se/filer/pdf/31523.pdf) · [MCF: About the warning and information systems](https://www.mcf.se/en/advice-for-individuals/civil-defence-shelters-evacuation-and-warning-systems/public-service-announcement-and-other-varnings/about-the-warning--and-information-systems/) · [Suomi.fi: Threat from the air](https://www.suomi.fi/guides/preparedness/how-to-prepare-for-incidents-and-crises/threat-from-the-air) · [TNO : Schuilmogelijkheden bij luchtaanvallen](https://www.tweedekamer.nl/downloads/document?id=2026D56281) · [Dovidka.info: What is a shelter](https://dovidka.info/en/what-is-shelter/)
+Source : [Centre de crise National : Conflit armé international](https://centredecrise.be/fr/risques-en-belgique/risques-man-made/conflit-arme-international-cai) · [BBK: Explosionen, hier finden Sie Schutz](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Vorsorge/Schutz-suchen/Schutz-vor-Explosion/schutz-vor-explosion_node.html) · [MCF: In case of crisis or war](https://rib.msb.se/filer/pdf/31523.pdf) · [MCF: About the warning and information systems](https://www.mcf.se/en/advice-for-individuals/civil-defence-shelters-evacuation-and-warning-systems/public-service-announcement-and-other-varnings/about-the-warning--and-information-systems/) · [Suomi.fi: Threat from the air](https://www.suomi.fi/guides/preparedness/how-to-prepare-for-incidents-and-crises/threat-from-the-air) · [TNO : Schuilmogelijkheden bij luchtaanvallen](https://www.tweedekamer.nl/downloads/document?id=2026D56281) · [Dovidka.info: What is a shelter](https://dovidka.info/en/what-is-shelter/) · [112.be : Questions fréquentes](https://112.be/fr/questions-frequentes) · [SPF Économie : questions des ménages sur la pénurie d'électricité](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door)
 
 ## Explosion à proximité
 
@@ -201,6 +211,7 @@ Il s'agit d'une explosion due à un accident ou à un attentat, sans alerte aér
 - Interpellez d'autres personnes pour les avertir ou appelez le 112.
 - Restez à proximité de l'incident, mais en dehors de la zone de danger, pour que les services de secours puissent vous prendre en charge.
 - Si vous êtes dehors : rendez-vous dans un endroit sûr et appelez le 112.
+- Si l'appel ne passe pas, faites appeler quelqu'un d'autre ou demandez de l'aide dans votre voisinage (voir Numéros d'urgence dans l'app, Si l'appel ne passe pas).
 
 ### Si un bâtiment est endommagé
 
@@ -218,9 +229,9 @@ Il s'agit d'une explosion due à un accident ou à un attentat, sans alerte aér
 
 ### Combien de temps et quand partir
 
-Si vous êtes dans un endroit sûr, loin de l'incident : restez où vous êtes, de préférence à l'intérieur. Évitez les déplacements, pour ne pas gêner les services de secours. N'allez pas voir. Faites savoir à votre famille que vous êtes en sécurité, de préférence par SMS ou via les réseaux sociaux. Suivez ensuite les instructions des autorités : une explosion peut avoir d'autres conséquences, surtout si des substances chimiques étaient en cause.
+Si vous êtes dans un endroit sûr, loin de l'incident : restez où vous êtes, de préférence à l'intérieur. Évitez les déplacements, pour ne pas gêner les services de secours. N'allez pas voir. Si le réseau fonctionne, faites savoir à votre famille que vous êtes en sécurité, de préférence par SMS ou via les réseaux sociaux. Convenez donc à l'avance avec votre famille de l'endroit où vous vous retrouverez si vous ne pouvez pas vous joindre. Suivez ensuite les instructions des autorités à la radio : une explosion peut avoir d'autres conséquences, surtout si des substances chimiques étaient en cause.
 
-Source : [Centre de crise National : Explosion de substances explosives](https://centredecrise.be/fr/risques-en-belgique/risques-economiques-et-technologiques/decharge-de-substances-explosives) · [Centre de crise National : Attaque contre une cible vulnérable (soft target)](https://centredecrise.be/fr/risques-en-belgique/risques-man-made/attaque-contre-une-cible-facile) · [BBK: Explosionen, hier finden Sie Schutz](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Vorsorge/Schutz-suchen/Schutz-vor-Explosion/schutz-vor-explosion_node.html) · [Ready.gov: Explosions](https://www.ready.gov/explosions)
+Source : [Centre de crise National : Explosion de substances explosives](https://centredecrise.be/fr/risques-en-belgique/risques-economiques-et-technologiques/decharge-de-substances-explosives) · [Centre de crise National : Attaque contre une cible vulnérable (soft target)](https://centredecrise.be/fr/risques-en-belgique/risques-man-made/attaque-contre-une-cible-facile) · [BBK: Explosionen, hier finden Sie Schutz](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Vorsorge/Schutz-suchen/Schutz-vor-Explosion/schutz-vor-explosion_node.html) · [Ready.gov: Explosions](https://www.ready.gov/explosions) · [Centre de crise National : Perturbation de l'infrastructure numérique](https://centredecrise.be/fr/risques-en-belgique/risques-societaux/defaillance-des-infrastructures-digitales) · [112.be : Questions fréquentes](https://112.be/fr/questions-frequentes) · [SPF Économie : questions des ménages sur la pénurie d'électricité](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door)
 
 ## Retombées radioactives
 
@@ -244,7 +255,7 @@ Le conseil belge (pièce centrale au rez-de-chaussée) et le conseil allemand (l
 | À pied | Entrez dans le bâtiment le plus proche |
 | Voiture, près d'un bâtiment | Entrez immédiatement à l'intérieur |
 | Voiture, aucun bâtiment accessible | Garez-vous dans un endroit sûr ou roulez perpendiculairement à la direction du vent ; moteur coupé, fenêtres fermées, climatisation coupée, écoutez la radio |
-| Terrain découvert sans bâtiments | Appelez le 112 (Centre de crise, directive générale de mise à l'abri) |
+| Terrain découvert sans bâtiments | Appelez le 112 (Centre de crise, directive générale de mise à l'abri). Si l'appel ne passe pas : éloignez-vous davantage de la situation d'urgence jusqu'à ce que vous trouviez un bâtiment sûr et accessible (Centre de crise, se mettre à l'abri en route) |
 
 ### Combien de temps
 
@@ -286,7 +297,7 @@ Quittez le bâtiment (BBK). Si possible, ne traversez pas la zone contaminée ; 
 
 ### Combien de temps et quand partir
 
-Restez à l'intérieur jusqu'à ce qu'on vous annonce que la situation est sûre, y compris pour aider d'autres personnes (Ready.gov). Laissez les enfants à l'école. Utilisez les SMS ou internet plutôt que d'appeler. Parfois, vous devez évacuer : ne le faites que sur instruction des services de secours. Après l'accident, il peut y avoir un impact sur l'eau potable, les légumes du jardin et l'élevage : suivez les instructions.
+Restez à l'intérieur jusqu'à ce qu'on vous annonce que la situation est sûre, y compris pour aider d'autres personnes (Ready.gov). Écoutez la radio pour cela. Laissez les enfants à l'école. Ne téléphonez pas inutilement ; si le réseau fonctionne, utilisez les SMS ou internet plutôt que d'appeler. Parfois, vous devez évacuer : ne le faites que sur instruction des services de secours. Après l'accident, il peut y avoir un impact sur l'eau potable, les légumes du jardin et l'élevage : suivez les instructions.
 
 Source : [Centre de crise National : Rejet de substances chimiques](https://centredecrise.be/fr/risques-en-belgique/risques-economiques-et-technologiques/liberation-de-substances-chimiques) · [Centre de crise National : Se mettre à l'abri](https://centredecrise.be/fr/que-pouvez-vous-faire/le-bon-reflexe/se-mettre-labri) · [BBK: Schutz suchen](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Vorsorge/Schutz-suchen/schutz-suchen_node.html) · [BBK: Die unterschiedlichen Gefahrstoffe](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Vorsorge/Schutz-suchen/Gefahrstoff-Freisetzung/_documents/gefahrstoff-unterschiede_dossier1.html?nn=20588) · [BBK: Verhalten im Freien oder im Auto](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Vorsorge/Schutz-suchen/Gefahrstoff-Freisetzung/_documents/gefahrstoff-im-auto-und-im-freien_dossier3.html?nn=20588) · [Sebeochrana ukrytím](https://mv.gov.cz/clanek/sebeochrana-ukrytim.aspx) · [Suomi.fi: Spreading of dangerous substances](https://www.suomi.fi/guides/preparedness/how-to-prepare-for-incidents-and-crises/spreading-of-dangerous-substances-into-the-environment) · [Ready.gov: Hazardous materials](https://www.ready.gov/hazmat)
 
@@ -359,7 +370,7 @@ Ready.gov indique qu'en voiture, il n'y a pas de choix sûr, seulement des choix
 
 ### Combien de temps et quand partir
 
-Restez à l'intérieur jusqu'à ce que la tempête soit passée. Finlande : ne sortez pas pour réparer des dégâts pendant la tempête. Ensuite, ne touchez pas aux câbles tombés au sol (Centre de crise). Pour une aide non urgente : 1722 ou le guichet électronique 1722.be ; gardez le 112 libre pour les situations où la vie est en danger.
+Restez à l'intérieur jusqu'à ce que la tempête soit passée. Finlande : ne sortez pas pour réparer des dégâts pendant la tempête. Ensuite, ne touchez pas aux câbles tombés au sol (Centre de crise). Si le réseau fonctionne, utilisez pour une aide non urgente le 1722 ou le guichet électronique 1722.be ; gardez le 112 libre pour les situations où la vie est en danger.
 
 Source : [Centre de crise National : Vent et tempête](https://centredecrise.be/fr/risques-en-belgique/risques-naturels/vent-et-tempete) · [Centre de crise National : Tornade](https://centredecrise.be/fr/risques-en-belgique/risques-naturels/tornade) · [IRM : Comment me protéger de la foudre](https://www.meteo.be/fr/infos/faq/comment-se-proteger-contre/comment-se-proteger-de-la-foudre) · [Ready.gov: Tornadoes](https://www.ready.gov/tornadoes)
 
@@ -367,16 +378,16 @@ Source : [Centre de crise National : Vent et tempête](https://centredecrise.be/
 
 ### Ordre de préférence
 
-1. **Si vous habitez près d'une forêt ou d'une zone naturelle :** appelez le 112 si vous voyez un incendie. Fermez les fenêtres et les portes. N'évacuez pas de votre propre initiative, attendez les recommandations (Centre de crise).
+1. **Si vous habitez près d'une forêt ou d'une zone naturelle :** appelez le 112 si vous voyez un incendie. Si l'appel ne passe pas, faites appeler quelqu'un d'autre ou demandez de l'aide dans votre voisinage. Fermez les fenêtres et les portes. N'évacuez pas de votre propre initiative, attendez les recommandations (Centre de crise).
 2. **Si vous êtes en forêt :** mettez-vous en sécurité. Suivez des chemins qui s'éloignent du feu et de la colonne de fumée, de préférence perpendiculairement à la direction du vent. Fuyez vers une voie publique, un grand terrain revêtu ou l'agglomération (Centre de crise).
 3. **En cas de fumée sans ordre d'évacuation :** restez à l'intérieur dans une pièce sûre, fenêtres fermées et ventilation coupée (Finlande), ou rendez-vous dans un bâtiment communautaire où il y a moins de fumée (Ready.gov).
 4. **Solution de secours si vous êtes bloqué :** appelez le 112 et donnez votre position. Les secours peuvent être retardés. Allumez les lumières, pour que les sauveteurs vous trouvent (Ready.gov).
 
 ### Ce que vous faites immédiatement
 
-- Donnez votre position le plus précisément possible avec des points reconnaissables : chemins, mares, tours d'observation, parkings. Utilisez l'application 112 si possible (Centre de crise).
+- Donnez votre position le plus précisément possible avec des points reconnaissables : chemins, mares, tours d'observation, parkings. Si le réseau fonctionne, utilisez aussi l'application 112 (Centre de crise).
 - Aidez les autres à rejoindre un endroit sûr.
-- Pas de GSM ou pas de réseau : évacuez le plus vite possible et interpellez les gens.
+- Pas de GSM ou pas de réseau : évacuez le plus vite possible et interpellez les gens. Voir aussi Numéros d'urgence dans l'app, Si l'appel ne passe pas.
 - Si vous devez vous déplacer à l'extérieur : protégez vos voies respiratoires avec un masque ou une écharpe. La Finlande précise que cela ne protège pas contre les gaz toxiques.
 - Coupez l'électricité et le gaz si vous quittez la maison (Centre de crise).
 - Ready.gov conseille de choisir à l'avance une pièce que vous pouvez isoler de l'air extérieur.
@@ -387,7 +398,7 @@ Source : [Centre de crise National : Vent et tempête](https://centredecrise.be/
 - Ne retournez pas dans la zone sans l'autorisation des services de secours (Centre de crise).
 - Restez loin des cendres chaudes, des arbres carbonisés et des débris qui couvent (Ready.gov).
 
-Source : [Centre de crise National : Feu de forêt et de végétation](https://centredecrise.be/fr/risques-en-belgique/risques-naturels/feu-de-foret) · [Suomi.fi: Wildfires and major building fires](https://www.suomi.fi/guides/preparedness/how-to-prepare-for-incidents-and-crises/wildfires-and-major-building-fires) · [Ready.gov: Wildfires](https://www.ready.gov/wildfires)
+Source : [Centre de crise National : Feu de forêt et de végétation](https://centredecrise.be/fr/risques-en-belgique/risques-naturels/feu-de-foret) · [Suomi.fi: Wildfires and major building fires](https://www.suomi.fi/guides/preparedness/how-to-prepare-for-incidents-and-crises/wildfires-and-major-building-fires) · [Ready.gov: Wildfires](https://www.ready.gov/wildfires) · [112.be : Questions fréquentes](https://112.be/fr/questions-frequentes) · [SPF Économie : questions des ménages sur la pénurie d'électricité](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door)
 
 ## Tremblement de terre
 
@@ -406,7 +417,7 @@ Les États-Unis donnent un autre ordre : restez à l'intérieur et ne courez pas
 
 ### Ensuite
 
-Préparez-vous aux répliques. Ne fumez pas et ne faites ni feu ni étincelles. Ne retournez pas dans un logement qui vous semble dangereux. Coupez le gaz et l'électricité à votre retour et faites contrôler la cheminée (Centre de crise). Si vous êtes coincé : envoyez un message, frappez sur une conduite ou un mur et utilisez un sifflet plutôt que de crier (Ready.gov).
+Préparez-vous aux répliques. Ne fumez pas et ne faites ni feu ni étincelles. Ne retournez pas dans un logement qui vous semble dangereux. Coupez le gaz et l'électricité à votre retour et faites contrôler la cheminée (Centre de crise). Si vous êtes coincé : frappez sur une conduite ou un mur et utilisez un sifflet plutôt que de crier. Si le réseau fonctionne, envoyez aussi un message (Ready.gov).
 
 Source : [Centre de crise National : Tremblement de terre](https://centredecrise.be/fr/risques-en-belgique/risques-naturels/tremblement-de-terre) · [Ready.gov: Earthquakes](https://www.ready.gov/earthquakes)
 
@@ -423,7 +434,7 @@ Pour une personne armée, le Centre de crise donne trois étapes : fuir si c'est
    - Fermez la porte à clé ou bloquez-la si vous le pouvez.
    - Restez silencieux. Mettez votre GSM en mode silencieux.
    - Pays-Bas : cachez-vous dans un endroit aux murs épais ou enfermez-vous.
-3. **Alerter :** appelez le 112 si vous le pouvez, ou utilisez l'application 112, qui permet de chatter si vous ne pouvez pas parler (Centre de crise). Donnez des informations sur l'auteur et le lieu (Denk vooruit).
+3. **Alerter :** appelez le 112 si vous le pouvez. Si le réseau fonctionne mais que vous ne pouvez pas parler, utilisez l'application 112 pour chatter (Centre de crise). Donnez des informations sur l'auteur et le lieu (Denk vooruit). Si l'appel ne passe pas, faites appeler quelqu'un d'autre ou demandez de l'aide dans votre voisinage (voir Numéros d'urgence dans l'app, Si l'appel ne passe pas).
 
 Les États-Unis citent aussi, en dernier recours, le fait de perturber l'attaque. Les sources belges, néerlandaises et finlandaises ne le mentionnent pas.
 
@@ -431,14 +442,14 @@ Les États-Unis citent aussi, en dernier recours, le fait de perturber l'attaque
 
 - Restez où vous êtes, de préférence à l'intérieur. Ne vous déplacez pas, pour ne pas gêner les services de secours.
 - N'allez pas voir ce qui se passe. Finlande : ne retournez pas sur place pour observer la situation.
-- Faites savoir à votre famille que vous êtes en sécurité, de préférence par SMS ou via les réseaux sociaux.
+- Si le réseau fonctionne, faites savoir à votre famille que vous êtes en sécurité, de préférence par SMS ou via les réseaux sociaux. S'il ne fonctionne pas, l'endroit convenu à l'avance avec votre famille pour vous retrouver vous aide.
 - Suivez les indications des secouristes.
 
 ### Se préparer
 
 Dans les lieux très fréquentés, repérez d'abord comment partir rapidement et où se trouvent les sorties de secours (Denk vooruit). Si vous voyez un objet ou une personne suspects : appelez le 101 et ne touchez pas à l'objet (Centre de crise).
 
-Source : [Centre de crise National : Attaque contre une cible vulnérable (soft target)](https://centredecrise.be/fr/risques-en-belgique/risques-man-made/attaque-contre-une-cible-facile) · [Denk vooruit: Een aanslag](https://www.denkvooruit.nl/risicos/risicos-in-nederland/een-aanslag) · [Ready.gov: Mass gatherings incidents](https://www.ready.gov/mass-gatherings-incidents)
+Source : [Centre de crise National : Attaque contre une cible vulnérable (soft target)](https://centredecrise.be/fr/risques-en-belgique/risques-man-made/attaque-contre-une-cible-facile) · [Denk vooruit: Een aanslag](https://www.denkvooruit.nl/risicos/risicos-in-nederland/een-aanslag) · [Ready.gov: Mass gatherings incidents](https://www.ready.gov/mass-gatherings-incidents) · [Centre de crise National : Perturbation de l'infrastructure numérique](https://centredecrise.be/fr/risques-en-belgique/risques-societaux/defaillance-des-infrastructures-digitales) · [112.be : Questions fréquentes](https://112.be/fr/questions-frequentes) · [SPF Économie : questions des ménages sur la pénurie d'électricité](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door)
 
 ## Vague de chaleur
 
@@ -457,9 +468,9 @@ Source : [Centre de crise National : Attaque contre une cible vulnérable (soft 
 - Ne laissez jamais de personnes ou d'animaux dans un véhicule en stationnement.
 - Ready.gov : un ventilateur n'est pas un bon moyen de refroidissement principal. Il donne une fausse impression de confort mais ne fait pas baisser la température du corps. Fermez les rideaux et utilisez moins le four.
 - Rendez visite aux personnes qui ont besoin d'aide (Centre de crise).
-- Appelez votre médecin traitant en cas de crampes, de forte fièvre, de maux de tête ou de malaise ; n'appelez le 112 qu'en cas de danger de mort.
+- Si le réseau fonctionne, appelez votre médecin traitant en cas de crampes, de forte fièvre, de maux de tête ou de malaise. N'appelez le 112 qu'en cas de danger de mort. Si l'appel ne passe pas, faites appeler quelqu'un d'autre ou demandez de l'aide dans votre voisinage (voir Numéros d'urgence dans l'app, Si l'appel ne passe pas).
 
-Source : [Centre de crise National : Vague de chaleur](https://centredecrise.be/fr/risques-en-belgique/risques-naturels/vague-de-chaleur-canicule) · [Ready.gov: Extreme heat](https://www.ready.gov/heat)
+Source : [Centre de crise National : Vague de chaleur](https://centredecrise.be/fr/risques-en-belgique/risques-naturels/vague-de-chaleur-canicule) · [Ready.gov: Extreme heat](https://www.ready.gov/heat) · [112.be : Questions fréquentes](https://112.be/fr/questions-frequentes) · [SPF Économie : questions des ménages sur la pénurie d'électricité](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door)
 
 ## Froid extrême, neige et verglas
 
@@ -508,10 +519,10 @@ Source : [Ready.gov: Radiation emergencies](https://www.ready.gov/radiation) · 
 
 ## Enfants, personnes vulnérables et animaux
 
-- **Enfants à l'école ou à la crèche :** laissez-les là et n'allez pas les chercher. Les enseignants suivent leur plan d'urgence interne. Sinon, vous créez des embouteillages, vous gênez les services de secours et vous vous mettez en danger, vous et les enfants. L'école fait savoir quand vous pouvez venir chercher votre enfant. Enregistrez aussi l'adresse de l'école dans BE-Alert (Centre de crise).
+- **Enfants à l'école ou à la crèche :** laissez-les là et n'allez pas les chercher. Les enseignants suivent leur plan d'urgence interne. Sinon, vous créez des embouteillages, vous gênez les services de secours et vous vous mettez en danger, vous et les enfants. L'école fait savoir quand vous pouvez venir chercher votre enfant. Enregistrez aussi à l'avance l'adresse de l'école dans BE-Alert (Centre de crise).
 - **Lors d'une alerte aérienne en Ukraine**, les parents qui viennent déposer ou chercher leur enfant peuvent entrer dans l'abri de l'école jusqu'à la fin de l'alerte.
 - **Personnes qui ont besoin d'aide :** discutez à l'avance des trois étapes de la mise à l'abri avec la famille, les voisins ou les collègues et prenez des accords. Laissez d'autres personnes s'abriter chez vous si nécessaire (Centre de crise). La Suède conseille d'organiser à l'avance le transport vers un abri ; les chiens d'assistance sont les bienvenus dans les abris suédois.
 - **Animaux de compagnie :** suivez d'abord les instructions pour votre propre sécurité. Si vous pouvez mettre vos animaux à l'abri en sécurité sans risque pour vous-même, faites-le (Centre de crise). Lors d'une alerte aérienne en Suède, vous pouvez emmener votre animal de compagnie dans les caves, garages et stations de métro.
-- **Prévenez les autres** qu'ils doivent se mettre à l'abri, de préférence via WhatsApp, Signal ou les réseaux sociaux, pour que le réseau téléphonique ne soit pas surchargé.
+- **Prévenez les personnes de votre entourage** qu'elles doivent se mettre à l'abri. Si le réseau fonctionne, utilisez de préférence WhatsApp, Signal ou les réseaux sociaux, pour que le réseau téléphonique ne soit pas surchargé (Centre de crise).
 
 Source : [Centre de crise National : Se mettre à l'abri](https://centredecrise.be/fr/que-pouvez-vous-faire/le-bon-reflexe/se-mettre-labri) · [Dovidka.info: What is a shelter](https://dovidka.info/en/what-is-shelter/) · [MCF: In case of crisis or war](https://rib.msb.se/filer/pdf/31523.pdf)

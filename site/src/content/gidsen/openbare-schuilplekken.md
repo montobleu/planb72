@@ -4,7 +4,7 @@ module: schuilen
 volgorde: 3
 kort: "Wat er in België bestaat, wat de mogelijke schuilplekken uit OpenStreetMap zijn, hoe betrouwbaar ze zijn, hoe je ze verkent en hoe buurlanden het regelen."
 status: concept
-datum: "2026-11-17"
+datum: "2026-11-18"
 bronnen:
   - naam: "Nationaal Crisiscentrum: Schuilen"
     url: https://crisiscentrum.be/nl/wat-kan-jij-doen/reageer-correct/schuilen
@@ -12,6 +12,10 @@ bronnen:
     url: https://crisiscentrum.be/nl/wat-kan-jij-doen/reageer-correct/evacueren
   - naam: "Nationaal Crisiscentrum: Brand of instorting van een tunnel"
     url: https://crisiscentrum.be/nl/risicos-belgie/economische-en-technologische-risicos/brand-instorting-van-een-tunnel
+  - naam: "112.be: Veelgestelde vragen"
+    url: https://112.be/nl/veelgestelde-vragen
+  - naam: "FOD Economie: vragen van gezinnen over elektriciteitsschaarste"
+    url: https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door
   - naam: "Nucleair risico: Jodiumtabletten voor collectiviteiten"
     url: https://nucleairrisico.be/nl/jodiumtabletten/voor-collectiviteiten
   - naam: "OpenStreetMap: auteursrecht en licentie"
@@ -56,15 +60,16 @@ bronnen:
 
 ## Wat er in België bestaat
 
-België heeft geen netwerk van openbare schuilkelders. Op de schuilpagina van het Nationaal Crisiscentrum staat geen lijst of kaart van openbare schuilplaatsen. Het Belgische schuiladvies is: ga naar binnen in het dichtstbijzijnde toegankelijke gebouw, je eigen huis, je werkplaats of een ander gebouw, en blijf daar tot het gevaar voorbij is. Ben je onderweg, dan ga je het dichtstbijzijnde toegankelijke gebouw binnen. Haal je geen veilig gebouw, bijvoorbeeld te voet in een landelijk of natuurgebied, dan bel je 112.
+België heeft geen netwerk van openbare schuilkelders. Op de schuilpagina van het Nationaal Crisiscentrum staat geen lijst of kaart van openbare schuilplaatsen. Het Belgische schuiladvies is: ga naar binnen in het dichtstbijzijnde toegankelijke gebouw, je eigen huis, je werkplaats of een ander gebouw, en blijf daar tot het gevaar voorbij is. Ben je onderweg, dan ga je het dichtstbijzijnde toegankelijke gebouw binnen. Haal je geen veilig gebouw, bijvoorbeeld te voet in een landelijk of natuurgebied, dan bel je 112. Lukt bellen niet, laat iemand anders bellen of vraag hulp in je buurt (zie Noodnummers in de app, Als bellen niet lukt). Voor wie onderweg is en geen gebouw in de buurt heeft, zegt het Crisiscentrum ook: ga verder weg van de noodsituatie tot je een veilig en toegankelijk gebouw tegenkomt.
 
 Wat er wel bestaat in België:
 
-- **Onthaalcentra bij een evacuatie.** Bij grotere noodsituaties voorziet de gemeente of provincie een plek om geëvacueerden op te vangen, bijvoorbeeld een sporthal of feestzaal. Dat is opvang na een evacuatie, geen bescherming tegen een explosie.
+- **Onthaalcentra bij een evacuatie.** Bij grotere noodsituaties voorziet de gemeente of provincie een plek om geëvacueerden op te vangen, bijvoorbeeld een sporthal of feestzaal. Ter plaatse geeft een contactpersoon informatie. Dat is opvang na een evacuatie, geen bescherming tegen een explosie.
+- **Een informatie- en onthaalpunt van de gemeente.** Voor een afschakeling van de stroom hebben burgemeesters en gouverneurs noodmaatregelen voorbereid, bijvoorbeeld een informatie- en onthaalpunt voor de bevolking (FOD Economie). Vraag vooraf aan je gemeentebestuur welke oplossingen je gemeente heeft. De kaart in de app (knop Dichtstbij) toont de gemeentehuizen.
 - **Noodplannen van scholen en collectiviteiten.** Scholen, bedrijven, ziekenhuizen, sportcentra en andere plaatsen waar veel mensen samenkomen worden aangemoedigd een intern noodplan te hebben en te oefenen. Binnen de nucleaire noodplanningszones wordt hun ook gevraagd jodiumtabletten te voorzien voor personeel en bezoekers.
 - **Laat anderen bij jou schuilen.** Het Crisiscentrum vraagt uitdrukkelijk om mensen die een plek nodig hebben bij jou te laten schuilen.
 
-Bron: [Nationaal Crisiscentrum: Schuilen](https://crisiscentrum.be/nl/wat-kan-jij-doen/reageer-correct/schuilen) · [Nationaal Crisiscentrum: Evacueren](https://crisiscentrum.be/nl/wat-kan-jij-doen/reageer-correct/evacueren) · [Nucleair risico: Jodiumtabletten voor collectiviteiten](https://nucleairrisico.be/nl/jodiumtabletten/voor-collectiviteiten)
+Bron: [Nationaal Crisiscentrum: Schuilen](https://crisiscentrum.be/nl/wat-kan-jij-doen/reageer-correct/schuilen) · [Nationaal Crisiscentrum: Evacueren](https://crisiscentrum.be/nl/wat-kan-jij-doen/reageer-correct/evacueren) · [Nucleair risico: Jodiumtabletten voor collectiviteiten](https://nucleairrisico.be/nl/jodiumtabletten/voor-collectiviteiten) · [112.be: Veelgestelde vragen](https://112.be/nl/veelgestelde-vragen) · [FOD Economie: vragen van gezinnen over elektriciteitsschaarste](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door)
 
 ## Wat de mogelijke schuilplekken op de kaart zijn
 

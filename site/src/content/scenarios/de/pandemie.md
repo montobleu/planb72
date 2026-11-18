@@ -7,15 +7,15 @@ stappen:
   - "Waschen Sie sich oft die Hände mit Wasser und Seife, mindestens 20 Sekunden."
   - "Husten und niesen Sie in ein Papiertaschentuch oder in Ihre Armbeuge. Werfen Sie das Taschentuch in einen geschlossenen Mülleimer."
   - "Sind Sie krank: Bleiben Sie zu Hause, weg von Schule, Arbeit und öffentlichen Orten. Tragen Sie eine Mund-Nasen-Maske, wenn Sie bei anderen sein müssen."
-  - "Rufen Sie Ihren Hausarzt an, wenn Sie krank sind oder sich nicht wohlfühlen. Gehen Sie nicht unangemeldet hin."
+  - "Rufen Sie Ihren Hausarzt an, wenn Sie krank sind oder sich nicht wohlfühlen. Gehen Sie nicht unangemeldet hin, außer im Notfall."
   - "Lüften Sie Ihre Wohnung regelmäßig."
-  - "Rufen Sie bei Atemnot oder Schmerzen in der Brust die 112 an."
+  - "Rufen Sie bei Atemnot oder Schmerzen in der Brust die 112 an. Gelingt das nicht, lassen Sie jemand anderen anrufen oder bitten Sie in Ihrer Nachbarschaft um Hilfe (siehe Notrufnummern, Wenn kein Anruf möglich ist)."
 niet:
   - "Berühren Sie keine toten oder kranken Wildvögel."
   - "Teilen Sie keine Gläser oder Teller mit einem Kranken."
   - "Verbreiten Sie keine unbestätigten Informationen."
 status: concept
-datum: "2026-11-17"
+datum: "2026-11-18"
 bronnen:
   - naam: "Nationales Krisenzentrum: ansteckende Krankheiten"
     url: https://krisenzentrum.be/de/risiken-belgien/gesundheitsgefahren/infektionskrankheiten
@@ -33,8 +33,16 @@ bronnen:
     url: https://www.cdc.gov/respiratory-viruses/prevention/precautions-when-sick.html
   - naam: "CDC: About Handwashing"
     url: https://www.cdc.gov/clean-hands/about/index.html
+  - naam: "Nationales Krisenzentrum: Informationen während einer Notsituation"
+    url: https://krisenzentrum.be/de/was-koennen-sie-tun/informieren-sie-sich/information-notsituationen
+  - naam: "Nationales Krisenzentrum: ein Plan für Ihr Zuhause"
+    url: https://krisenzentrum.be/de/was-koennen-sie-tun/make-plan/ein-notfallplan-zu-hause
+  - naam: "112.be: Häufig gestellte Fragen"
+    url: https://112.be/de/haeufig-gestellte-fragen
+  - naam: "FÖD Wirtschaft: Fragen von Haushalten zur Stromknappheit"
+    url: https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door
 vertaling: machine
-origineel_datum: "2026-11-17"
+origineel_datum: "2026-11-18"
 ---
 
 ## Erkennen
@@ -43,11 +51,11 @@ Viren verbreiten sich von Mensch zu Mensch, über Gegenstände und auch über Me
 
 **Beschwerden einer Atemwegsinfektion** sind unter anderem: Fieber, Schüttelfrost, Müdigkeit, Husten, laufende Nase und Kopfschmerzen. Ebenfalls möglich: Beschwerden in der Brust, weniger Appetit, Durchfall, Muskel- oder Gliederschmerzen, plötzlicher Verlust von Geschmack oder Geruch, Niesen, Halsschmerzen, Erbrechen, Schwäche und pfeifende Atmung.
 
-**Alarmzeichen.** Suchen Sie bei Atemproblemen oder Schmerzen in der Brust sofort dringende medizinische Hilfe. Rufen Sie die 112 an.
+**Alarmzeichen.** Suchen Sie bei Atemproblemen oder Schmerzen in der Brust sofort dringende medizinische Hilfe. Rufen Sie die 112 an. Gelingt das nicht, lassen Sie jemand anderen anrufen oder bitten Sie in Ihrer Nachbarschaft um Hilfe (siehe Notrufnummern, Wenn kein Anruf möglich ist).
 
-**Wie Sie von einem Ausbruch erfahren.** Verfolgen Sie die offiziellen Kanäle: die Behörden, die Gesundheitsdienste und Ihren Hausarzt. In Flandern veröffentlicht das Departement Zorg die epidemiologische Lage und den Farbcode des Respi-Radars.
+**Wie Sie von einem Ausbruch erfahren.** Verfolgen Sie die offiziellen Kanäle: die Behörden, die Gesundheitsdienste und Ihren Hausarzt. Die Behörden informieren über Radio und Fernsehen, und wenn das Netz funktioniert, auch über BE-Alert, Websites und soziale Medien. In Flandern veröffentlicht das Departement Zorg auf seiner Website die epidemiologische Lage und den Farbcode des Respi-Radars.
 
-Quelle: [Ready.gov](https://www.ready.gov/pandemic) · [CDC: wenn Sie krank sind](https://www.cdc.gov/respiratory-viruses/prevention/precautions-when-sick.html) · [Departement Zorg](https://www.departementzorg.be/nl/infectieziekten-en-vaccinaties)
+Quelle: [Ready.gov](https://www.ready.gov/pandemic) · [CDC: wenn Sie krank sind](https://www.cdc.gov/respiratory-viruses/prevention/precautions-when-sick.html) · [Departement Zorg](https://www.departementzorg.be/nl/infectieziekten-en-vaccinaties) · [Nationales Krisenzentrum: Informationen während einer Notsituation](https://krisenzentrum.be/de/was-koennen-sie-tun/informieren-sie-sich/information-notsituationen) · [112.be: Häufig gestellte Fragen](https://112.be/de/haeufig-gestellte-fragen) · [FÖD Wirtschaft: Fragen von Haushalten zur Stromknappheit](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door)
 
 ## Vorbereiten
 
@@ -69,10 +77,11 @@ Quelle: [Ready.gov](https://www.ready.gov/pandemic) · [CDC: wenn Sie krank sind
 
 - Bereiten Sie sich auf die Schließung von Schulen, Arbeitsstätten und Treffpunkten vor. Regeln Sie, wie Sie von zu Hause arbeiten können und wie Kinder am Unterricht teilnehmen können.
 - Erstellen Sie einen Familienplan: Was tun Sie, was brauchen Sie, wer kümmert sich um wen, wenn jemand krank wird.
+- Schreiben Sie die Nummer Ihres Hausarztes und des hausärztlichen Bereitschaftsdienstes auf eine Papierliste mit Kontaktpersonen.
 - Prüfen Sie, was Ihre Krankenversicherung abdeckt, auch Fernkonsultationen.
 - Bewahren Sie eine gesicherte digitale Kopie Ihrer wichtigen Dokumente auf. Achten Sie auf Betrug und Täuschung.
 
-Quelle: [Nationales Krisenzentrum: ansteckende Krankheiten](https://krisenzentrum.be/de/risiken-belgien/gesundheitsgefahren/infektionskrankheiten) · [Nationales Krisenzentrum: Notfallpaket](https://krisenzentrum.be/de/was-koennen-sie-tun/stelle-ein-notfallpaket-zusammen/ein-notfallset-fuer-zu-hause) · [Ready.gov](https://www.ready.gov/pandemic)
+Quelle: [Nationales Krisenzentrum: ansteckende Krankheiten](https://krisenzentrum.be/de/risiken-belgien/gesundheitsgefahren/infektionskrankheiten) · [Nationales Krisenzentrum: Notfallpaket](https://krisenzentrum.be/de/was-koennen-sie-tun/stelle-ein-notfallpaket-zusammen/ein-notfallset-fuer-zu-hause) · [Ready.gov](https://www.ready.gov/pandemic) · [Nationales Krisenzentrum: Plan für Ihr Zuhause](https://krisenzentrum.be/de/was-koennen-sie-tun/make-plan/ein-notfallplan-zu-hause)
 
 ## Während
 
@@ -94,6 +103,7 @@ Gibt es kein Wasser und keine Seife, verwenden Sie Handgel mit mindestens 60 Pro
 
 - Wenden Sie sich an Ihren Hausarzt, wenn Sie Grippebeschwerden haben oder sich nicht wohlfühlen. Rufen Sie zuerst an.
 - Außerhalb der Sprechzeiten Ihres Hausarztes können Sie sich an den hausärztlichen Bereitschaftsdienst wenden. In Gent rufen Sie dafür die 1733 an.
+- Kommt kein Anruf zustande und ist es dringend, siehe Notrufnummern in der App, Wenn kein Anruf möglich ist.
 - Bleiben Sie Schule, Arbeit und öffentlichen Orten fern, solange Sie krank sind.
 - Halten Sie sich auch zu Hause möglichst von Mitbewohnern fern, die nicht krank sind.
 - Tragen Sie eine Mund-Nasen-Maske, wenn Sie bei anderen sind oder das Haus verlassen müssen.
@@ -124,7 +134,7 @@ Gibt es kein Wasser und keine Seife, verwenden Sie Handgel mit mindestens 60 Pro
 ### Im Auto
 
 - Müssen Sie zu einem Arzt, rufen Sie vorher an.
-- Bei einem medizinischen Notfall rufen Sie die 112 an. Bleiben Sie, wo Sie sind, mit einer Mund-Nasen-Maske, wenn möglich, bis die Hilfe da ist.
+- Bei einem medizinischen Notfall rufen Sie die 112 an. Gelingt das nicht, lassen Sie jemand anderen anrufen oder bitten Sie in Ihrer Nachbarschaft um Hilfe (siehe Notrufnummern, Wenn kein Anruf möglich ist). Bleiben Sie, wo Sie sind, mit einer Mund-Nasen-Maske, wenn möglich, bis die Hilfe da ist.
 
 ### Bei der Arbeit oder in der Schule
 
@@ -150,10 +160,10 @@ Gibt es kein Wasser und keine Seife, verwenden Sie Handgel mit mindestens 60 Pro
 - Waschen Sie Ihre Hände nach Kontakt mit Tieren, Tierfutter und Ausscheidungen.
 - Vogelgrippe kann andere Tierarten infizieren, auch den Menschen, auch wenn das selten vorkommt. Auch wilde Säugetiere wie Füchse wurden schon infiziert, weil sie kranke und tote Vögel gefressen haben.
 - Berühren Sie keine toten oder kranken Wildvögel.
-- Melden Sie tote Vögel und tote Füchse der kostenlosen Influenza-Hotline der FASNK: 0800 99 777. Diese Nummer ist nur an Werktagen vormittags erreichbar. Sie können sich auch an das von der Provinz bestimmte Vogelauffangzentrum (VOC) wenden, erreichbar von 8 bis 22 Uhr, auch am Wochenende und an Feiertagen.
+- Funktioniert das Telefon, melden Sie tote Vögel und tote Füchse der kostenlosen Influenza-Hotline der FASNK: 0800 99 777. Diese Nummer ist nur an Werktagen vormittags erreichbar. Sie können sich auch an das von der Provinz bestimmte Vogelauffangzentrum (VOC) wenden, erreichbar von 8 bis 22 Uhr, auch am Wochenende und an Feiertagen.
 - Halten Sie Haustiere von toten und kranken Vögeln fern.
 
-Quelle: [Nationales Krisenzentrum: ansteckende Krankheiten](https://krisenzentrum.be/de/risiken-belgien/gesundheitsgefahren/infektionskrankheiten) · [CDC: Hände waschen](https://www.cdc.gov/clean-hands/about/index.html) · [CDC: wenn Sie krank sind](https://www.cdc.gov/respiratory-viruses/prevention/precautions-when-sick.html) · [Ready.gov](https://www.ready.gov/pandemic) · [Stadt Gent](https://stad.gent/nl/samenleven-welzijn-gezondheid/gezondheid/wachtdiensten) · [Agentschap Natuur en Bos](https://natuurenbos.be/sites/default/files/2025-11/briefvogelgriepaanpakvoorgemeenten20251125.pdf) · [Nationales Krisenzentrum: Notfallpaket](https://krisenzentrum.be/de/was-koennen-sie-tun/stelle-ein-notfallpaket-zusammen/ein-notfallset-fuer-zu-hause)
+Quelle: [Nationales Krisenzentrum: ansteckende Krankheiten](https://krisenzentrum.be/de/risiken-belgien/gesundheitsgefahren/infektionskrankheiten) · [CDC: Hände waschen](https://www.cdc.gov/clean-hands/about/index.html) · [CDC: wenn Sie krank sind](https://www.cdc.gov/respiratory-viruses/prevention/precautions-when-sick.html) · [Ready.gov](https://www.ready.gov/pandemic) · [Stadt Gent](https://stad.gent/nl/samenleven-welzijn-gezondheid/gezondheid/wachtdiensten) · [Agentschap Natuur en Bos](https://natuurenbos.be/sites/default/files/2025-11/briefvogelgriepaanpakvoorgemeenten20251125.pdf) · [Nationales Krisenzentrum: Notfallpaket](https://krisenzentrum.be/de/was-koennen-sie-tun/stelle-ein-notfallpaket-zusammen/ein-notfallset-fuer-zu-hause) · [112.be: Häufig gestellte Fragen](https://112.be/de/haeufig-gestellte-fragen) · [FÖD Wirtschaft: Fragen von Haushalten zur Stromknappheit](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door)
 
 ## Danach
 
@@ -178,6 +188,8 @@ Quelle: [Nationales Krisenzentrum: ansteckende Krankheiten](https://krisenzentru
 Quelle: [Nationales Krisenzentrum: ansteckende Krankheiten](https://krisenzentrum.be/de/risiken-belgien/gesundheitsgefahren/infektionskrankheiten) · [Ready.gov](https://www.ready.gov/pandemic) · [Agentschap Natuur en Bos](https://natuurenbos.be/sites/default/files/2025-11/briefvogelgriepaanpakvoorgemeenten20251125.pdf)
 
 ## Mehr Informationen
+
+Vorab zu lesen, oder wenn das Internet funktioniert:
 
 - Risiko und Tipps: [Nationales Krisenzentrum: ansteckende Krankheiten](https://krisenzentrum.be/de/risiken-belgien/gesundheitsgefahren/infektionskrankheiten)
 - Infektionskrankheiten und der Respi-Radar in Flandern: [Departement Zorg](https://www.departementzorg.be/nl/infectieziekten-en-vaccinaties)

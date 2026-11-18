@@ -4,7 +4,7 @@ module: hygiene
 volgorde: 1
 kort: "Toutes les variantes de toilettes de secours, ce que vous faites des déchets et des excréments, se laver les mains avec peu ou pas d'eau, menstruations et langes, et comment prévenir la diarrhée."
 status: concept
-datum: "2026-11-17"
+datum: "2026-11-18"
 bronnen:
   - naam: "Centre de crise National : Un kit d'urgence chez vous"
     url: "https://centredecrise.be/fr/que-pouvez-vous-faire/preparez-un-kit-durgence/un-kit-durgence-la-maison"
@@ -40,8 +40,12 @@ bronnen:
     url: "https://www.ready.gov/food"
   - naam: "Ready.gov: Pets"
     url: "https://www.ready.gov/pets"
+  - naam: "Centre de crise National : l'information pendant une situation d'urgence"
+    url: "https://centredecrise.be/fr/que-pouvez-vous-faire/informez-vous/linformation-pendant-une-situation-durgence"
+  - naam: "Centre de crise National : Un plan pour les personnes qui ont besoin d'une aide supplémentaire"
+    url: "https://centredecrise.be/fr/que-pouvez-vous-faire/faites-un-plan/un-plan-pour-ceux-qui-ont-besoin-dune-aide-supplementaire"
 vertaling: machine
-origineel_datum: "2026-11-17"
+origineel_datum: "2026-11-18"
 ---
 
 Le Centre de crise résume ce qui se passe sans eau : vous ne pouvez plus vous doucher, vous laver les mains ni tirer la chasse des toilettes. L'OMS souligne que le manque d'eau et l'eau contaminée sont généralement les premières et principales causes de maladie après une catastrophe. L'hygiène n'est donc pas un luxe. Ce guide présente les possibilités par sujet, du meilleur choix à la solution de secours.
@@ -114,9 +118,9 @@ Compilé à partir du MCF suédois, du service de santé de Seattle et King Coun
 
 **Emplacement.** Placez la toilette de secours loin de l'endroit où vous mangez ou préparez les repas (King County). Surveillez les jeunes enfants qui l'utilisent (King County).
 
-**Où les déposer.** La commune fait savoir où vous pouvez vous débarrasser des déchets (MCF). King County écrit qu'en cas de situation d'urgence déclarée, les sacs peuvent être mis avec les déchets ordinaires si les autorités l'annoncent publiquement. Attendez donc cette annonce.
+**Où les déposer.** La commune fait savoir où vous pouvez vous débarrasser des déchets (MCF). King County écrit qu'en cas de situation d'urgence déclarée, les sacs peuvent être mis avec les déchets ordinaires si les autorités l'annoncent publiquement. Attendez donc cette annonce. Suivez-la à la radio ; les autorités peuvent aussi informer au moyen de véhicules de police avec haut-parleur, de panneaux d'information, de dépliants ou en porte-à-porte (Centre de crise).
 
-Source : [MCF: In case of crisis or war](https://rib.msb.se/filer/pdf/31523.pdf) · [King County: emergency toilet](https://kingcounty.gov/en/dept/dph/health-safety/safety-injury-prevention/emergency-preparedness/personal-preparedness/emergency-toilets) · [Seattle Public Utilities: Emergency Sanitation](https://seattle.gov/Documents/Departments/Emergency/Preparedness/SPU%20Emergency%20Sanitation%20Trifold.pdf)
+Source : [MCF: In case of crisis or war](https://rib.msb.se/filer/pdf/31523.pdf) · [Centre de crise National : l'information pendant une situation d'urgence](https://centredecrise.be/fr/que-pouvez-vous-faire/informez-vous/linformation-pendant-une-situation-durgence) · [Centre de crise National : brochure Samen voorbereid](https://centredecrise.be/sites/default/files/documents/files/WEB-Brochure-Pr%C3%AAts.%20Ensemble-FR.pdf) · [King County: emergency toilet](https://kingcounty.gov/en/dept/dph/health-safety/safety-injury-prevention/emergency-preparedness/personal-preparedness/emergency-toilets) · [Seattle Public Utilities: Emergency Sanitation](https://seattle.gov/Documents/Departments/Emergency/Preparedness/SPU%20Emergency%20Sanitation%20Trifold.pdf)
 
 ## À l'extérieur : latrines
 
@@ -222,12 +226,12 @@ Ce que vous faites :
 
 - Ne laissez pas les déchets s'accumuler à l'intérieur, en raison du risque d'incendie et pour l'hygiène (Ready.gov).
 - Stockez les sacs d'excréments à part, bien fermés, dans un endroit hors de portée des personnes et protégé contre les rats et la vermine (Seattle Public Utilities).
-- Attendez l'annonce de la commune sur l'endroit et la manière de vous débarrasser des déchets (MCF, King County).
+- Attendez l'annonce de la commune sur l'endroit et la manière de vous débarrasser des déchets (MCF, King County). Sans réseau, elle passe par la radio et les autres canaux des autorités (Centre de crise).
 - Ne brûlez pas et n'enterrez pas les excréments en ville. Seattle Public Utilities indique que ce n'est ni légal ni recommandé.
 
 Au sujet de l'évacuation des eaux usées, le Centre de crise indique qu'il n'y a pas de conseils spécifiques en dehors des conseils généraux avant, pendant et après les situations d'urgence.
 
-Source : [OMS/WEDC : Technical notes](https://wedc-knowledge.lboro.ac.uk/resources/who_notes/WHO_TNE_ALL.pdf) · [Ready.gov: Food](https://www.ready.gov/food) · [Seattle Public Utilities: Emergency Sanitation](https://seattle.gov/Documents/Departments/Emergency/Preparedness/SPU%20Emergency%20Sanitation%20Trifold.pdf) · [MCF: In case of crisis or war](https://rib.msb.se/filer/pdf/31523.pdf) · [King County: emergency toilet](https://kingcounty.gov/en/dept/dph/health-safety/safety-injury-prevention/emergency-preparedness/personal-preparedness/emergency-toilets) · [Centre de crise National : Perturbation de l'évacuation des eaux usées](https://centredecrise.be/fr/risques-en-belgique/risques-societaux/defaillance-de-la-gestion-des-eaux-usees)
+Source : [OMS/WEDC : Technical notes](https://wedc-knowledge.lboro.ac.uk/resources/who_notes/WHO_TNE_ALL.pdf) · [Ready.gov: Food](https://www.ready.gov/food) · [Seattle Public Utilities: Emergency Sanitation](https://seattle.gov/Documents/Departments/Emergency/Preparedness/SPU%20Emergency%20Sanitation%20Trifold.pdf) · [MCF: In case of crisis or war](https://rib.msb.se/filer/pdf/31523.pdf) · [King County: emergency toilet](https://kingcounty.gov/en/dept/dph/health-safety/safety-injury-prevention/emergency-preparedness/personal-preparedness/emergency-toilets) · [Centre de crise National : Perturbation de l'évacuation des eaux usées](https://centredecrise.be/fr/risques-en-belgique/risques-societaux/defaillance-de-la-gestion-des-eaux-usees) · [Centre de crise National : l'information pendant une situation d'urgence](https://centredecrise.be/fr/que-pouvez-vous-faire/informez-vous/linformation-pendant-une-situation-durgence)
 
 ## Prévenir la diarrhée
 
@@ -240,7 +244,7 @@ Les mesures figurent dans ce guide et dans d'autres. En résumé, selon les sour
 5. **Excréments loin de l'eau et de la nourriture.** La toilette de secours loin de la nourriture et des boissons, une latrine loin des sources d'eau (King County, OMS).
 6. **Animaux de compagnie.** Ramassez leurs excréments avec des sachets, du papier journal et de l'essuie-tout et utilisez de l'eau de Javel pour leurs besoins sanitaires (Ready.gov).
 
-En cas de diarrhée : voir les pages de premiers secours et contactez un médecin si elle est grave ou dure longtemps.
+En cas de diarrhée : voir les pages de premiers secours. Si elle est grave ou dure longtemps, cherchez un médecin. Si le réseau ne fonctionne pas, voir Numéros d'urgence dans l'application, Si l'appel ne passe pas.
 
 Source : [OMS/WEDC : Technical notes](https://wedc-knowledge.lboro.ac.uk/resources/who_notes/WHO_TNE_ALL.pdf) · [CDC: About Handwashing](https://www.cdc.gov/clean-hands/about/index.html) · [CDC: How to Make Water Safe in an Emergency](https://www.cdc.gov/water-emergency/about/index.html) · [Ready.gov: Food](https://www.ready.gov/food) · [King County: emergency toilet](https://kingcounty.gov/en/dept/dph/health-safety/safety-injury-prevention/emergency-preparedness/personal-preparedness/emergency-toilets) · [Ready.gov: Pets](https://www.ready.gov/pets)
 

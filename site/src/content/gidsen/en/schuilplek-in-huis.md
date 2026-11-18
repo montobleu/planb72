@@ -4,7 +4,7 @@ module: schuilen
 volgorde: 2
 kort: "How to choose and set up the best place in your home in advance: criteria, windows, doors, ventilation, supplies, children and animals."
 status: concept
-datum: "2026-11-17"
+datum: "2026-11-18"
 bronnen:
   - naam: "National Crisis Center: Sheltering"
     url: https://crisiscenter.be/en/what-can-you-do/right-reflex/seeking-shelter
@@ -43,14 +43,14 @@ bronnen:
   - naam: "Nuclear risk: Sheltering, the best protection"
     url: https://nuclearrisk.be/en/what-can-you-do/sheltering
 vertaling: machine
-origineel_datum: "2026-11-17"
+origineel_datum: "2026-11-18"
 ---
 
 ## Why you choose the place in advance
 
 With many threats you have little time. Finland says that in an air threat there is very little time between the alarm and the actual danger, and that you therefore shelter where you are at that moment. In sparsely populated areas and in neighbourhoods with detached houses, people almost always shelter on the spot, according to the Finnish authorities. Those who know in advance which room in the house is best lose no time.
 
-The National Crisis Center recommends making an emergency plan with the people you live with, discussing the three steps of sheltering in advance with family, neighbours or colleagues, and practising the plan regularly. Finland recommends learning how to switch off the ventilation, at home and in buildings where you often are.
+The National Crisis Center recommends making an emergency plan with the people you live with, discussing the three steps of sheltering in advance with family, neighbours or colleagues, and practising the plan regularly. Finland recommends learning how to switch off the ventilation, at home and in buildings where you often are. Also agree with your neighbours how you will reach each other if the telephone or internet does not work (Crisis Center).
 
 A shelter at home does not replace a real civil defence shelter. The Czech authorities developed their guide precisely because permanent civil defence shelters cover only a small part of the population and an improvised shelter (improvizovaný úkryt) is then the solution. The Ukrainian civil protection service says that the two-wall rule does not give complete safety.
 
@@ -213,7 +213,8 @@ Source: [National Crisis Center: Sheltering](https://crisiscenter.be/en/what-can
 
 - Drinking water: between 3 and 10 litres per person per day. 3 litres is just enough for drinking and cooking.
 - Long-life food that you can prepare without water, gas or electricity, and a tin opener or pocket knife.
-- A battery-powered or wind-up radio, preferably with DAB+ and FM, rechargeable batteries and spare batteries.
+- A battery-powered or wind-up radio, preferably with DAB+ and FM, rechargeable batteries and spare batteries. That way you stay informed even without electricity: in a power cut, the internet and mobile networks can also fail.
+- A paper list of important telephone numbers.
 - A torch, preferably wind-up. Warm clothing or blankets.
 - Iodine tablets. Never take them on your own initiative.
 - Baby food, nappies and toys if you have young children. Food and equipment for pets.
@@ -262,7 +263,7 @@ Source: [National Crisis Center: Sheltering](https://crisiscenter.be/en/what-can
 
 ## Behaviour while sheltering
 
-- Follow the instructions of the authorities via radio, TV, BE-Alert and official websites (Crisis Center).
+- Follow the instructions of the authorities on a battery-powered or wind-up radio. Also watch for police loudspeaker vans in the street. If the network works, the instructions also come via BE-Alert and official websites (Crisis Center).
 - Do not make unnecessary calls. An overloaded network can disrupt the emergency response (Nuclear risk).
 - Do not smoke in the shelter (Czechia).
 - Be considerate: do not make noise and avoid arguments. A shelter is demanding on people, physically and mentally (Czechia). Ukraine asks for discipline and as little walking back and forth as possible.
@@ -270,7 +271,7 @@ Source: [National Crisis Center: Sheltering](https://crisiscenter.be/en/what-can
 - Before you go to a civil defence shelter outside your home, shut off the gas, electricity and water and close windows and air vents (Ukraine). Switzerland also mentions: switch off electrical appliances, put out open fires, alert the neighbours, house pets as well as possible with water and food.
 - If you cannot leave the room on your own, tell your neighbours (Ukraine).
 
-Source: [National Crisis Center: Sheltering](https://crisiscenter.be/en/what-can-you-do/right-reflex/seeking-shelter) · [Nuclear risk: Sheltering, the best protection](https://nuclearrisk.be/en/what-can-you-do/sheltering) · [Sebeochrana ukrytím](https://mv.gov.cz/clanek/sebeochrana-ukrytim.aspx) · [Dovidka.info: What is a shelter](https://dovidka.info/en/what-is-shelter/) · [Suomi.fi: Military conflicts and civil defence](https://www.suomi.fi/guides/preparedness/how-to-prepare-for-incidents-and-crises/military-conflicts-and-civil-defence) · [BABS: Der Schutzraum](https://www.sz.ch/public/upload/assets/87489/Der_Schutzraum.pdf?fp=2)
+Source: [National Crisis Center: Sheltering](https://crisiscenter.be/en/what-can-you-do/right-reflex/seeking-shelter) · [National Crisis Center: brochure Prepared together](https://crisiscenter.be/sites/default/files/documents/files/WEB-Brochure%20Prepared%20Together-EN.pdf) · [Nuclear risk: Sheltering, the best protection](https://nuclearrisk.be/en/what-can-you-do/sheltering) · [Sebeochrana ukrytím](https://mv.gov.cz/clanek/sebeochrana-ukrytim.aspx) · [Dovidka.info: What is a shelter](https://dovidka.info/en/what-is-shelter/) · [Suomi.fi: Military conflicts and civil defence](https://www.suomi.fi/guides/preparedness/how-to-prepare-for-incidents-and-crises/military-conflicts-and-civil-defence) · [BABS: Der Schutzraum](https://www.sz.ch/public/upload/assets/87489/Der_Schutzraum.pdf?fp=2)
 
 ## Children
 

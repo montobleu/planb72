@@ -4,7 +4,7 @@ module: nucleair
 volgorde: 1
 kort: "Wat er gebeurt bij een nucleair ongeval, de Belgische zones, hoe je schuilt, hoe je jezelf ontsmet en wat je doet met voedsel, dieren en kinderen."
 status: concept
-datum: "2026-11-17"
+datum: "2026-11-18"
 bronnen:
   - naam: "Nationaal Crisiscentrum: Incident in een kerncentrale"
     url: https://crisiscentrum.be/nl/risicos-belgie/economische-en-technologische-risicos/incident-een-kerncentrale
@@ -14,6 +14,14 @@ bronnen:
     url: https://crisiscentrum.be/nl/wat-kan-jij-doen/reageer-correct/schuilen
   - naam: "Nationaal Crisiscentrum: brochure Samen voorbereid"
     url: https://crisiscentrum.be/sites/default/files/documents/files/WEB-Brochure%20Samen%20voorbereid-NL.pdf
+  - naam: "Nationaal Crisiscentrum: Een noodpakket bij je thuis"
+    url: https://crisiscentrum.be/nl/wat-kan-jij-doen/maak-een-noodpakket/een-noodpakket-bij-je-thuis
+  - naam: "Nationaal Crisiscentrum: Verstoring van de digitale infrastructuur"
+    url: https://crisiscentrum.be/nl/risicos-belgie/maatschappelijke-risicos/verstoring-van-de-digitale-infrastructuur
+  - naam: "112.be: Veelgestelde vragen"
+    url: https://112.be/nl/veelgestelde-vragen
+  - naam: "FOD Economie: vragen van gezinnen over elektriciteitsschaarste"
+    url: https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door
   - naam: "Nucleair risico: Schuilen, de beste bescherming"
     url: https://nucleairrisico.be/nl/wat-kan-jij-doen/schuilen-de-beste-bescherming
   - naam: "Nucleair risico: Jezelf ontsmetten"
@@ -103,23 +111,22 @@ Het nucleair noodplan voorziet ook uitbreidingszones, waarin de maatregelen op b
 
 ### De zone op het moment zelf
 
-In een noodsituatie bepaalt de evaluatie van de situatie de zone voor beschermingsmaatregelen. Die kan kleiner of groter zijn dan de noodplanningszone. Op nucleairrisico.be staat een kaart waarop je kunt nakijken of je gemeente in een noodplanningszone ligt. De zones verhinderen niemand buiten de zones om zich ook voor te bereiden.
+In een noodsituatie bepaalt de evaluatie van de situatie de zone voor beschermingsmaatregelen. Die kan kleiner of groter zijn dan de noodplanningszone. Kijk vooraf na of je gemeente in een noodplanningszone ligt: op nucleairrisico.be staat daarvoor een kaart. De zones verhinderen niemand buiten de zones om zich ook voor te bereiden.
 
 Bron: [Nucleair risico: Nucleaire sites](https://nucleairrisico.be/nl/nucleaire-risicos/nucleaire-sites) · [Nucleair risico: Noodplanningszones](https://nucleairrisico.be/nl/wat-doet-de-overheid/noodplanningszones) · [Nucleair risico: Nucleaire noodplanningszones (kaart)](https://nucleairrisico.be/nl/nucleaire-noodplanningszones) · [Nationaal Crisiscentrum: persfiches nucleair noodplan](https://crisiscentrum.be/sites/default/files/documents/files/2021-04/fr_fiches_confpresse.pdf) · [Nucleair risico: veelgestelde vragen](https://nucleairrisico.be/nl/faq)
 
 ## Hoe je gewaarschuwd wordt
 
-De overheid verwittigt de omwonenden via:
+Wie schuilt, zit binnen met ramen en deuren dicht. De informatie van de overheid komt dan vooral via de radio. De overheid verwittigt de omwonenden via:
 
-- **BE-Alert:** sms van het nummer 1789, e-mail van no-reply@be-alert.be of een gesproken oproep van 0477 77 77 55. Schrijf je vooraf in op be-alert.be. Je kunt meerdere adressen registreren, ook dat van de school van je kinderen.
-- **Radio en tv.**
-- **De website van het Nationaal Crisiscentrum of de gemeente.**
-- **Sociale media.**
+- **Radio en tv.** Zorg vooraf voor een radio op batterijen of een opwindbare radio, liefst met DAB+ en FM. Zo kun je ook bij een stroompanne naar de media luisteren.
 - **Omroepwagens van de politie** die door de straten rijden.
+- **BE-Alert**, als het netwerk werkt: sms van het nummer 1789, e-mail van no-reply@be-alert.be of een gesproken oproep van 0477 77 77 55. Schrijf je vooraf in op be-alert.be. Je kunt meerdere adressen registreren, ook dat van de school van je kinderen.
+- **De website van het Nationaal Crisiscentrum of de gemeente en sociale media**, als het internet werkt.
 
-Heb je geen telefoon, dan krijg je de informatie via omroepwagens, radio, tv en websites. Zorg voor een radio op batterijen of een opwindbare radio, liefst met DAB+ en FM. Telefoneer niet onnodig: een overbelast netwerk kan de hulpverlening verstoren.
+Heb je geen telefoon of gsm, dan krijg je de nodige informatie toch: via omroepwagens, radio en tv. Telefoneer niet onnodig, tenzij je bijvoorbeeld in een medische noodsituatie bent: een overbelast netwerk kan de hulpverlening verstoren.
 
-Bron: [Nucleair risico: Waarschuwen en beschermen van de bevolking](https://nucleairrisico.be/nl/wat-doet-de-overheid/waarschuwen-en-beschermen-van-de-bevolking) · [Nucleair risico: veelgestelde vragen](https://nucleairrisico.be/nl/faq) · [Nationaal Crisiscentrum: brochure Samen voorbereid](https://crisiscentrum.be/sites/default/files/documents/files/WEB-Brochure%20Samen%20voorbereid-NL.pdf)
+Bron: [Nucleair risico: Waarschuwen en beschermen van de bevolking](https://nucleairrisico.be/nl/wat-doet-de-overheid/waarschuwen-en-beschermen-van-de-bevolking) · [Nucleair risico: veelgestelde vragen](https://nucleairrisico.be/nl/faq) · [Nationaal Crisiscentrum: brochure Samen voorbereid](https://crisiscentrum.be/sites/default/files/documents/files/WEB-Brochure%20Samen%20voorbereid-NL.pdf) · [Nationaal Crisiscentrum: Een noodpakket bij je thuis](https://crisiscentrum.be/nl/wat-kan-jij-doen/maak-een-noodpakket/een-noodpakket-bij-je-thuis)
 
 ## De vier beschermingsmaatregelen
 
@@ -148,7 +155,7 @@ Schuilen is bij een nucleaire noodsituatie de beste manier om jezelf te bescherm
 6. Zorg wel dat de lucht ververst wordt, zodat je niet onwel wordt.
 7. Neem plaats in een centrale ruimte op het gelijkvloers. Muren en plafonds beschermen beter dan ramen.
 8. Breng je huisdieren binnen.
-9. Luister naar de aanbevelingen via radio, tv, officiële websites en sociale media.
+9. Luister naar de aanbevelingen op de radio. Werkt het internet, kijk dan ook op de officiële websites en sociale media.
 
 ### Als je buiten was toen de wolk voorbijkwam
 
@@ -165,7 +172,7 @@ Ga binnen via een ruimte die je niet gebruikt. Kleed je uit, neem een douche en 
 | Te voet | Ga zo snel mogelijk het dichtstbijzijnde gebouw binnen en sluit ramen en deuren; dat beschermt beter dan een auto |
 | In de auto, dicht bij huis, werk of een openbaar gebouw | Ga onmiddellijk naar binnen |
 | In de auto, geen gebouw bereikbaar | Parkeer op een veilige plaats of rij weg, loodrecht op de windrichting. Motor uit als je stilstaat, ramen dicht, airco en ventilatie uit, radio aan. Rij voorzichtig en volg de wegcode |
-| Te voet in een gebied zonder gebouwen | Bel 112 (algemene schuilrichtlijn van het Crisiscentrum) |
+| Te voet in een gebied zonder gebouwen | Bel 112 (algemene schuilrichtlijn van het Crisiscentrum). Lukt bellen niet: ga verder weg van de noodsituatie tot je een veilig en toegankelijk gebouw vindt (Crisiscentrum, schuilen onderweg) |
 
 ### Wat buitenlandse bronnen anders zeggen over de plek
 
@@ -263,10 +270,10 @@ Bron: [Nucleair risico: veelgestelde vragen](https://nucleairrisico.be/nl/faq) �
 ## Kwetsbare personen en medische noodgevallen
 
 - Mensen die bij een evacuatie de zone niet op eigen kracht kunnen verlaten, krijgen hulp van de hulpdiensten. Bij een evacuatie wordt gecontroleerd of iedereen zijn woning verlaten heeft.
-- Heb je tijdens het schuilen medische hulp nodig, bijvoorbeeld bij een bevalling, bel dan zoals altijd 112. De politie controleert de toegang tot de zone. Onder bepaalde voorwaarden en met de nodige bescherming kunnen hulpdiensten in de zone helpen.
+- Heb je tijdens het schuilen medische hulp nodig, bijvoorbeeld bij een bevalling, bel dan zoals altijd 112. Lukt bellen niet, laat iemand anders bellen of vraag hulp in je buurt (zie Noodnummers in de app, Als bellen niet lukt). De politie controleert de toegang tot de zone. Onder bepaalde voorwaarden en met de nodige bescherming kunnen hulpdiensten in de zone helpen.
 - Bespreek vooraf met je huisarts wat je doet met je medicatie en of je jodiumtabletten mag nemen (zie de gids over jodium).
 
-Bron: [Nucleair risico: veelgestelde vragen](https://nucleairrisico.be/nl/faq)
+Bron: [Nucleair risico: veelgestelde vragen](https://nucleairrisico.be/nl/faq) · [112.be: Veelgestelde vragen](https://112.be/nl/veelgestelde-vragen) · [FOD Economie: vragen van gezinnen over elektriciteitsschaarste](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door)
 
 ## Evacuatie
 
@@ -307,10 +314,12 @@ Bron: [Nucleair risico: veelgestelde vragen](https://nucleairrisico.be/nl/faq) �
 ## Voorbereiden
 
 - Kijk na of je in een noodplanningszone woont.
+- Leg een radio op batterijen of een opwindbare radio klaar, met reservebatterijen.
 - Schrijf je in op BE-Alert, voor je woonadres en dat van school en werk.
+- Spreek met je familie af waar jullie elkaar terugvinden als jullie elkaar niet kunnen bereiken.
 - Haal jodiumtabletten in huis als je tot een doelgroep behoort (zie de gids over jodium).
 - Leer hoe je thuis de ventilatie uitzet en bespreek de stappen van het schuilen met je gezin (Finland).
 - Hou tape klaar om ramen, deuren en openingen af te dichten (Finland).
 - Leg een set reservekleding per gezinslid en een vuilniszak voor besmette kleding klaar, samen met verpakt voedsel, water en medicatie (Ready.gov).
 
-Bron: [Nationaal Crisiscentrum: Incident in een kerncentrale](https://crisiscentrum.be/nl/risicos-belgie/economische-en-technologische-risicos/incident-een-kerncentrale) · [Nationaal Crisiscentrum: brochure Samen voorbereid](https://crisiscentrum.be/sites/default/files/documents/files/WEB-Brochure%20Samen%20voorbereid-NL.pdf) · [Suomi.fi: Radiation hazards](https://www.suomi.fi/guides/preparedness/how-to-prepare-for-incidents-and-crises/radiation-hazards) · [Ready.gov: Radiation emergencies](https://www.ready.gov/radiation)
+Bron: [Nationaal Crisiscentrum: Incident in een kerncentrale](https://crisiscentrum.be/nl/risicos-belgie/economische-en-technologische-risicos/incident-een-kerncentrale) · [Nationaal Crisiscentrum: brochure Samen voorbereid](https://crisiscentrum.be/sites/default/files/documents/files/WEB-Brochure%20Samen%20voorbereid-NL.pdf) · [Suomi.fi: Radiation hazards](https://www.suomi.fi/guides/preparedness/how-to-prepare-for-incidents-and-crises/radiation-hazards) · [Ready.gov: Radiation emergencies](https://www.ready.gov/radiation) · [Nationaal Crisiscentrum: Verstoring van de digitale infrastructuur](https://crisiscentrum.be/nl/risicos-belgie/maatschappelijke-risicos/verstoring-van-de-digitale-infrastructuur)

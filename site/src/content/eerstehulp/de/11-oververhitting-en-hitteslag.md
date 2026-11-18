@@ -1,9 +1,9 @@
 ---
 titel: Überhitzung und Hitzschlag
 volgorde: 11
-kort: "Beenden Sie jede Anstrengung, bringen Sie die Person an einen kühlen Ort und kühlen Sie sofort. Bei Verwirrtheit, Krampfanfällen oder mehr als 39 °C: Rufen Sie 112 an."
+kort: "Beenden Sie jede Anstrengung, bringen Sie die Person an einen kühlen Ort und kühlen Sie sofort. Bei Verwirrtheit, Krampfanfällen oder mehr als 39 °C: Rufen Sie 112 an oder lassen Sie Hilfe holen."
 status: concept
-datum: "2026-11-17"
+datum: "2026-11-18"
 bronnen:
   - naam: "Gezondheid en Wetenschap (Rode Kruis-Vlaanderen): Erste Hilfe bei Hitzschlag"
     url: https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-hitteslag-of-hitteberoerte
@@ -13,8 +13,12 @@ bronnen:
     url: https://www.ifrc.org/sites/default/files/2022-02/EN_GFARC_GUIDELINES_2020.pdf
   - naam: "European Resuscitation Council: The ERC Guidelines 2025 on Resuscitation for Everyone"
     url: https://www.erc.edu/media/p5ymaeej/gl2025_layperson_book_ipdf-v11-e.pdf
+  - naam: "European Resuscitation Council Guidelines 2021: First aid"
+    url: https://cprguidelines-old.erc.edu/assets/guidelines/European-Resuscitation-Council-Guidelines-2021-Fi.pdf
+  - naam: "112.be: Häufig gestellte Fragen"
+    url: https://112.be/de/haeufig-gestellte-fragen
 vertaling: machine
-origineel_datum: "2026-11-17"
+origineel_datum: "2026-11-18"
 ---
 
 ## Erkennen
@@ -53,7 +57,7 @@ Quelle: [Gezondheid en Wetenschap: Hitzschlag](https://www.gezondheidenwetenscha
 
 1. Lassen Sie die betroffene Person jede Anstrengung beenden und ruhen. Halten Sie sie so ruhig wie möglich.
 2. Bringen Sie sie an einen kühlen Ort. Ziehen Sie überflüssige Kleidung aus.
-3. Rufen Sie bei Zeichen eines Hitzschlags 112 an.
+3. Rufen Sie bei Zeichen eines Hitzschlags 112 an oder lassen Sie jemanden anrufen. Kommt kein Anruf zustande, siehe Rufen Sie 112 an, wenn.
 4. Kühlen Sie sofort. Je schwerer die Beschwerden, desto kräftiger dürfen Sie kühlen. Wählen Sie die beste Methode, die Ihnen zur Verfügung steht:
    - Beste Wahl: Tauchen Sie die Person bis zum Hals in ein Bad mit lauwarmem bis kaltem Wasser. Die IFRC nennt Wasser von 1 bis 26 °C, etwa 15 Minuten lang oder bis die Temperatur unter 39 °C sinkt. Die belgische Richtlinie sagt: bis sich der Zustand bessert, höchstens 15 Minuten.
    - Gelingt das Eintauchen nicht, zum Beispiel weil kein kaltes Wasser vorhanden ist oder weil die Person verwirrt ist und sich weigert: Legen Sie ein kühles, nasses Laken über die Person oder machen Sie sie mit kaltem Wasser nass.
@@ -112,7 +116,14 @@ Quelle: [IFRC Guidelines 2020](https://www.ifrc.org/sites/default/files/2022-02/
 
 Suchen Sie einen Arzt auf, wenn Hitzekrämpfe anhalten.
 
-Quelle: [Gezondheid en Wetenschap: Hitzschlag](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-hitteslag-of-hitteberoerte) · [Gezondheid en Wetenschap: Hitzekrämpfe](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-hittekrampen) · [IFRC Guidelines 2020](https://www.ifrc.org/sites/default/files/2022-02/EN_GFARC_GUIDELINES_2020.pdf)
+**Kommt kein Anruf zustande**
+
+- Lassen Sie die betroffene Person nur allein, wenn es keine andere Möglichkeit gibt, und auf keinen Fall in einer warmen Umgebung. Sprechen Sie Umstehende direkt an, damit sie Hilfe holen, und geben Sie mit, wo es ist, was passiert ist, wie viele Betroffene es gibt und in welchem Zustand sie sind.
+- Lassen Sie die anderen Umstehenden beim Kühlen und beim Schaffen von Schatten helfen.
+- Kühlen Sie inzwischen weiter mit allem, was Sie haben (siehe Wenn Hilfe lange auf sich warten lässt).
+- Siehe auch Thema 1 (Kommt kein Anruf zustande: Hilfe holen ohne Telefon) und Notrufnummern in der App, Wenn kein Anruf möglich ist.
+
+Quelle: [Gezondheid en Wetenschap: Hitzschlag](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-hitteslag-of-hitteberoerte) · [Gezondheid en Wetenschap: Hitzekrämpfe](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-hittekrampen) · [IFRC Guidelines 2020](https://www.ifrc.org/sites/default/files/2022-02/EN_GFARC_GUIDELINES_2020.pdf) · [ERC Guidelines 2025 for Everyone](https://www.erc.edu/media/p5ymaeej/gl2025_layperson_book_ipdf-v11-e.pdf) · [ERC Guidelines 2021: First aid](https://cprguidelines-old.erc.edu/assets/guidelines/European-Resuscitation-Council-Guidelines-2021-Fi.pdf) · [112.be: Häufig gestellte Fragen](https://112.be/de/haeufig-gestellte-fragen)
 
 ## Nicht tun
 

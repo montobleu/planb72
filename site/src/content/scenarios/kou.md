@@ -8,8 +8,8 @@ stappen:
   - "Verwarm nooit met een gasfornuis, oven of barbecue. Let op koolstofmonoxide bij kachels, open haarden en geisers."
   - "Bescherm waterleidingen en kranen tegen bevriezing."
   - "Rij voorzichtig en neem een deken, water en warme drank mee in de auto."
-  - "Kijk naar ouderen, alleenwonenden en daklozen in je omgeving. Bied warme drank aan."
-  - "Bel 112 bij vermoeden van onderkoeling of als iemand bewusteloos is."
+  - "Ga langs bij ouderen en alleenwonenden in je omgeving en kijk of ze hulp nodig hebben. Bied daklozen warme drank aan."
+  - "Bel 112 bij vermoeden van onderkoeling of als iemand bewusteloos is. Lukt dat niet, laat iemand anders bellen of vraag hulp in je buurt (zie Noodnummers, Als bellen niet lukt)."
 niet:
   - "Niet verwarmen met een gasfornuis, oven of barbecue, en geen houtskool binnen."
   - "Geen petroleum- of gaskacheltje laten branden terwijl je slaapt."
@@ -17,7 +17,7 @@ niet:
   - "Geen alcohol om op te warmen."
   - "Een dier niet in de auto laten bij vriesweer."
 status: concept
-datum: "2026-11-17"
+datum: "2026-11-18"
 bronnen:
   - naam: "Nationaal Crisiscentrum: koudegolf"
     url: https://crisiscentrum.be/nl/risicos-belgie/natuurlijke-risicos/koudegolf
@@ -49,6 +49,16 @@ bronnen:
     url: https://www.cdc.gov/carbon-monoxide/about/index.html
   - naam: "CDC: what to do to protect yourself during a power outage"
     url: https://www.cdc.gov/natural-disasters/response/what-to-do-protect-yourself-during-a-power-outage.html
+  - naam: "Nationaal Crisiscentrum: een noodpakket bij je thuis"
+    url: https://crisiscentrum.be/nl/wat-kan-jij-doen/maak-een-noodpakket/een-noodpakket-bij-je-thuis
+  - naam: "ERC Guidelines 2021: First aid"
+    url: https://cprguidelines-old.erc.edu/assets/guidelines/European-Resuscitation-Council-Guidelines-2021-Fi.pdf
+  - naam: "Rode Kruis-Vlaanderen: stroom- en communicatie-uitval"
+    url: https://www.rodekruis.be/wat-doen-we/hulp-in-vlaanderen/goed-voorbereid/stroom-en-communicatie-uitval/
+  - naam: "112.be: Veelgestelde vragen"
+    url: https://112.be/nl/veelgestelde-vragen
+  - naam: "FOD Economie: vragen van gezinnen over elektriciteitsschaarste"
+    url: https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door
 ---
 
 ## Herkennen
@@ -126,7 +136,8 @@ In volgorde van voorkeur:
 2. Kleed je in lagen en gebruik dekens en slaapzakken. Warme kleding en dekens kunnen een tijd de verwarming vervangen.
 3. Gebruik een kachel of open haard die goed is aangesloten op een schouw, met droog hout, en verlucht regelmatig.
 4. Een draagbare petroleum- of gaskachel alleen als het niet anders kan: maximaal één uur aan één stuk, nooit terwijl je slaapt, en met verluchting.
-5. Lukt het niet om warm te blijven, ga dan bij vrienden of familie, of naar een opvangplaats van je gemeente.
+5. Bij een stroomonderbreking kun je met verschillende personen samenkomen om licht en warmte te delen.
+6. Lukt het niet om warm te blijven, ga dan bij vrienden of familie, of naar een opvangplaats van je gemeente. Luister naar de radio op batterijen voor informatie van de overheid. De gemeente kan een informatie- en onthaalpunt openen.
 
 **Koolstofmonoxide vermijden**
 
@@ -142,11 +153,11 @@ In volgorde van voorkeur:
 2. Open ramen en deuren.
 3. Schakel het toestel uit als dat veilig kan.
 4. Breng het slachtoffer uit de ruimte.
-5. Bel 112. Zeg waar je bent, dat het mogelijk om CO gaat en hoeveel mensen bewusteloos zijn.
+5. Bel 112 of laat iemand bellen. Zeg waar je bent, dat het mogelijk om CO gaat en hoeveel mensen bewusteloos zijn. Lukt bellen niet, stuur dan iemand om hulp te halen en blijf zelf bij het slachtoffer als dat veilig kan. Zie ook Noodnummers in de app, Als bellen niet lukt.
 6. Start reanimatie als het slachtoffer niet ademt. Leg iemand die bewusteloos is maar ademt in stabiele zijligging.
-7. Is er geen direct gevaar, bel dan ook 112 voor hulp. Voor vragen kun je het Antigifcentrum bellen op 070 245 245.
+7. Is er geen direct gevaar, bel dan ook 112 voor hulp. Werkt het netwerk en heb je vragen, dan kun je het Antigifcentrum bellen op 070 245 245.
 
-Bron: [Nationaal Crisiscentrum: koudegolf](https://crisiscentrum.be/nl/risicos-belgie/natuurlijke-risicos/koudegolf) · [Krisinformation.se](https://www.krisinformation.se/en/hazards-and-risks/home-preparedness/heating-during-a-crisis/) · [BBK: Stromausfall](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Vorsorge/Stromausfall/stromausfall_node.html) · [Denk vooruit: geen stroom](https://www.denkvooruit.nl/risicos/risicos-in-nederland/geen-stroom) · [CDC: power outage](https://www.cdc.gov/natural-disasters/response/what-to-do-protect-yourself-during-a-power-outage.html) · [Speel niet met vuur: CO](https://speelnietmetvuur.be/co/) · [Antigifcentrum: CO-vergiftiging](https://www.antigifcentrum.be/Toxinfos/co-vergiftiging/)
+Bron: [Nationaal Crisiscentrum: koudegolf](https://crisiscentrum.be/nl/risicos-belgie/natuurlijke-risicos/koudegolf) · [Krisinformation.se](https://www.krisinformation.se/en/hazards-and-risks/home-preparedness/heating-during-a-crisis/) · [BBK: Stromausfall](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Vorsorge/Stromausfall/stromausfall_node.html) · [Denk vooruit: geen stroom](https://www.denkvooruit.nl/risicos/risicos-in-nederland/geen-stroom) · [CDC: power outage](https://www.cdc.gov/natural-disasters/response/what-to-do-protect-yourself-during-a-power-outage.html) · [Speel niet met vuur: CO](https://speelnietmetvuur.be/co/) · [Antigifcentrum: CO-vergiftiging](https://www.antigifcentrum.be/Toxinfos/co-vergiftiging/) · [Nationaal Crisiscentrum: noodpakket](https://crisiscentrum.be/nl/wat-kan-jij-doen/maak-een-noodpakket/een-noodpakket-bij-je-thuis) · [112.be: Veelgestelde vragen](https://112.be/nl/veelgestelde-vragen) · [FOD Economie: vragen van gezinnen over elektriciteitsschaarste](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door) · [ERC Guidelines 2021: First aid](https://cprguidelines-old.erc.edu/assets/guidelines/European-Resuscitation-Council-Guidelines-2021-Fi.pdf)
 
 ### Buiten of onderweg
 
@@ -159,7 +170,7 @@ Bron: [Nationaal Crisiscentrum: koudegolf](https://crisiscentrum.be/nl/risicos-b
 **Gedrag**
 
 - Beperk de tijd buiten en vermijd zware inspanning. Sneeuw ruimen of door sneeuw lopen belast het hart.
-- Let op gladheid. Meld gladheid via de KMI-app, zodat strooidiensten sneller kunnen ingrijpen.
+- Let op gladheid. Werkt het netwerk, meld gladheid dan via de KMI-app, zodat strooidiensten sneller kunnen ingrijpen.
 - Fietsers: rij trager en hou meer afstand, zodat je minder moet remmen.
 
 Bron: [Nationaal Crisiscentrum: koudegolf](https://crisiscentrum.be/nl/risicos-belgie/natuurlijke-risicos/koudegolf) · [CDC: winter weather](https://www.cdc.gov/winter-weather/prevention/index.html) · [Ready.gov: winter weather](https://www.ready.gov/winter-weather)
@@ -198,9 +209,9 @@ Bron: [CDC: winter weather](https://www.cdc.gov/winter-weather/prevention/index.
 - Hang voor wie ouder is dan 65 een goed leesbare thermometer op een plek waar die vaak gezien wordt.
 - Zwangere vrouwen, mensen met hart- en vaatziekten, schildklierproblemen, astma of bloedarmoede en ouderen zijn gevoeliger voor CO.
 - Bied daklozen warme drank aan. Bij code rood vraagt het KMI om daklozen op te vangen.
-- Ga na of buren hulp nodig hebben, zeker als verwarming of stroom uitvalt.
+- Ga bij buren langs en kijk of ze hulp nodig hebben, zeker als verwarming of stroom uitvalt.
 
-Bron: [CDC: winter weather](https://www.cdc.gov/winter-weather/prevention/index.html) · [CDC: preparing for a winter storm](https://www.cdc.gov/winter-weather/safety/index.html) · [Antigifcentrum: CO-vergiftiging](https://www.antigifcentrum.be/Toxinfos/co-vergiftiging/) · [KMI: legende koude](https://www.meteo.be/nl/weer/waarschuwingen/legenda-koude) · [Denk vooruit: geen stroom](https://www.denkvooruit.nl/risicos/risicos-in-nederland/geen-stroom)
+Bron: [CDC: winter weather](https://www.cdc.gov/winter-weather/prevention/index.html) · [CDC: preparing for a winter storm](https://www.cdc.gov/winter-weather/safety/index.html) · [Antigifcentrum: CO-vergiftiging](https://www.antigifcentrum.be/Toxinfos/co-vergiftiging/) · [KMI: legende koude](https://www.meteo.be/nl/weer/waarschuwingen/legenda-koude) · [Denk vooruit: geen stroom](https://www.denkvooruit.nl/risicos/risicos-in-nederland/geen-stroom) · [Rode Kruis-Vlaanderen: stroom- en communicatie-uitval](https://www.rodekruis.be/wat-doen-we/hulp-in-vlaanderen/goed-voorbereid/stroom-en-communicatie-uitval/)
 
 ### Huisdieren en dieren
 
@@ -232,7 +243,7 @@ Bron: [Vlaanderen Huisdierinfo: dieren en koud weer](https://www.vlaanderen.be/h
 
 **Bij onderkoeling**
 
-1. Onderkoeling is een medisch noodgeval. Bel 112 bij vermoeden van ernstige onderkoeling, zeker bij een lichaamstemperatuur onder 35 °C (95 °F).
+1. Onderkoeling is een medisch noodgeval. Bel 112 bij vermoeden van ernstige onderkoeling, zeker bij een lichaamstemperatuur onder 35 °C (95 °F). Lukt dat niet, laat iemand anders bellen of vraag hulp in je buurt (zie Noodnummers, Als bellen niet lukt). Zie ook de eerstehulpkaart Onderkoeling en bevriezing.
 2. Breng de persoon naar een warme plek en trek natte kleding uit.
 3. Warm eerst het midden van het lichaam op: borst, nek, hoofd en liezen, met droge lagen of dekens. Wikkel ook hoofd en nek in.
 4. Een warme drank kan helpen, nooit alcohol. Geef niets te drinken aan iemand die bewusteloos is.
@@ -250,7 +261,7 @@ Bron: [Vlaanderen Huisdierinfo: dieren en koud weer](https://www.vlaanderen.be/h
 
 - Let op beschadigde of lekkende leidingen. Bevroren leidingen kunnen gescheurd zijn.
 
-Bron: [CDC: winter weather](https://www.cdc.gov/winter-weather/prevention/index.html) · [Ready.gov: winter weather](https://www.ready.gov/winter-weather) · [Nationaal Crisiscentrum: koudegolf](https://crisiscentrum.be/nl/risicos-belgie/natuurlijke-risicos/koudegolf)
+Bron: [CDC: winter weather](https://www.cdc.gov/winter-weather/prevention/index.html) · [Ready.gov: winter weather](https://www.ready.gov/winter-weather) · [Nationaal Crisiscentrum: koudegolf](https://crisiscentrum.be/nl/risicos-belgie/natuurlijke-risicos/koudegolf) · [112.be: Veelgestelde vragen](https://112.be/nl/veelgestelde-vragen) · [FOD Economie: vragen van gezinnen over elektriciteitsschaarste](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door)
 
 ## Niet doen
 
@@ -266,6 +277,8 @@ Bron: [CDC: winter weather](https://www.cdc.gov/winter-weather/prevention/index.
 Bron: [Speel niet met vuur: CO](https://speelnietmetvuur.be/co/) · [CDC: winter weather](https://www.cdc.gov/winter-weather/prevention/index.html) · [Ready.gov: winter weather](https://www.ready.gov/winter-weather) · [Vlaanderen Huisdierinfo](https://www.vlaanderen.be/huisdierinfo/verzorging-van-huisdieren/dieren-en-koud-weer) · [KMI: legende koude](https://www.meteo.be/nl/weer/waarschuwingen/legenda-koude)
 
 ## Meer informatie
+
+Vooraf te lezen, of als het internet werkt:
 
 - KMI: waarschuwingen voor koude, gladheid en sneeuw, en de KMI-app.
 - Nationaal Crisiscentrum over koudegolf, ijzel en sneeuw.

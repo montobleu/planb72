@@ -3,7 +3,7 @@ titel: Hypothermie et gelures
 volgorde: 10
 kort: "Protégez contre un refroidissement supplémentaire, retirez les vêtements mouillés et réchauffez progressivement. Ne frottez jamais. Ne réchauffez une peau gelée que si elle ne peut pas geler à nouveau."
 status: concept
-datum: "2026-11-17"
+datum: "2026-11-18"
 bronnen:
   - naam: "Gezondheid en Wetenschap (Rode Kruis-Vlaanderen) : Que faire en cas d'hypothermie ?"
     url: https://www.gezondheidenwetenschap.be/eerste-hulp/wat-doen-bij-onderkoeling
@@ -15,8 +15,14 @@ bronnen:
     url: https://www.cdc.gov/winter-weather/prevention/preventing-frostbite.html
   - naam: "CDC : Prevent Hypothermia and Frostbite"
     url: https://www.cdc.gov/disasters/winter/staysafe/hypothermia.html
+  - naam: "European Resuscitation Council Guidelines 2021 : First aid"
+    url: https://cprguidelines-old.erc.edu/assets/guidelines/European-Resuscitation-Council-Guidelines-2021-Fi.pdf
+  - naam: "FEMA : Until Help Arrives, instructor guide"
+    url: https://ready.gov/sites/default/files/2020-07/until-help-arrives-instructor-guide.pdf
+  - naam: "112.be : Questions fréquentes"
+    url: https://112.be/fr/questions-frequentes
 vertaling: machine
-origineel_datum: "2026-11-17"
+origineel_datum: "2026-11-18"
 ---
 
 ## Reconnaître
@@ -69,7 +75,7 @@ Source : [Gezondheid en Wetenschap : Hypothermie](https://www.gezondheidenwetens
 8. Oui : réchauffez passivement. Mettez la victime dans un sac de couchage, ou utilisez une couverture (polaire ou polyester), si possible avec une couverture isolante. Couvrez aussi la tête. Faites-lui mettre des vêtements chauds et secs. Donnez une boisson chaude et sucrée ou des aliments énergétiques, mais seulement si elle peut bien avaler.
 9. Non : réchauffez activement, de préférence avec une couverture électrique. Si vous n'en avez pas, utilisez un coussin de noyaux de cerise, des coussinets chauffants, une bouillotte ou des pierres chaudes. Ne les posez pas directement sur la peau, pour que la victime ne se brûle pas. Ne donnez alors ni à manger ni à boire.
 10. Réchauffez d'abord le centre du corps : poitrine, nuque, tête et aine. Le contact peau contre peau sous des couches amples et sèches aide aussi.
-11. Appelez le 112.
+11. Appelez le 112 ou faites appeler quelqu'un. Si l'appel ne passe pas, voir Appelez le 112 si.
 12. Rassurez la victime et surveillez la respiration et la conscience.
 13. Quand la victime s'est réchauffée, gardez-la au sec et enveloppée dans une couverture chaude, y compris autour de la tête et de la nuque.
 14. Si elle perd connaissance et ne respire pas normalement, commencez la réanimation (voir le sujet 2). Manipulez-la avec précaution et continuez à réchauffer pendant la réanimation.
@@ -114,7 +120,15 @@ Source : [IFRC Guidelines 2020](https://www.ifrc.org/sites/default/files/2022-02
 
 L'IFRC recommande de demander une aide médicale pour toute hypothermie. Faites toujours examiner une gelure par un médecin.
 
-Source : [Gezondheid en Wetenschap : Hypothermie](https://www.gezondheidenwetenschap.be/eerste-hulp/wat-doen-bij-onderkoeling) · [IFRC Guidelines 2020](https://www.ifrc.org/sites/default/files/2022-02/EN_GFARC_GUIDELINES_2020.pdf) · [CDC : Prevent Hypothermia and Frostbite](https://www.cdc.gov/disasters/winter/staysafe/hypothermia.html)
+**Si l'appel ne passe pas**
+
+- Ne laissez la victime seule que s'il n'y a pas d'autre possibilité. Désignez directement un témoin pour aller chercher de l'aide et indiquez-lui où c'est, ce qui s'est passé, combien de victimes il y a et dans quel état elles sont.
+- Si vous devez partir vous-même, faites si possible rester quelqu'un d'autre auprès de la victime. Cette personne garde entre-temps la victime au chaud : vêtements mouillés retirés, quelque chose entre la victime et le sol, des couches sèches autour, un abri contre le vent.
+- Demandez aux témoins d'aider à arrêter le vent et la pluie, par exemple avec une bâche.
+- Si vous réanimez et êtes seul sans téléphone, voir le sujet 2 (Si l'appel ne passe pas).
+- Voir aussi le sujet 1 (Si l'appel ne passe pas : chercher de l'aide sans téléphone) et Numéros d'urgence dans l'application, Si l'appel ne passe pas.
+
+Source : [Gezondheid en Wetenschap : Hypothermie](https://www.gezondheidenwetenschap.be/eerste-hulp/wat-doen-bij-onderkoeling) · [IFRC Guidelines 2020](https://www.ifrc.org/sites/default/files/2022-02/EN_GFARC_GUIDELINES_2020.pdf) · [CDC : Prevent Hypothermia and Frostbite](https://www.cdc.gov/disasters/winter/staysafe/hypothermia.html) · [ERC Guidelines 2021 : First aid](https://cprguidelines-old.erc.edu/assets/guidelines/European-Resuscitation-Council-Guidelines-2021-Fi.pdf) · [FEMA : Until Help Arrives](https://ready.gov/sites/default/files/2020-07/until-help-arrives-instructor-guide.pdf) · [112.be : Questions fréquentes](https://112.be/fr/questions-frequentes)
 
 ## À ne pas faire
 

@@ -1,9 +1,9 @@
 ---
 titel: Bewusteloosheid en stabiele zijligging
 volgorde: 5
-kort: "Reageert iemand niet maar ademt hij normaal: bel 112, leg hem in stabiele zijligging en controleer elke minuut de ademhaling."
+kort: "Reageert iemand niet maar ademt hij normaal: laat 112 bellen of hulp halen, leg hem in stabiele zijligging en controleer elke minuut de ademhaling."
 status: concept
-datum: "2026-11-17"
+datum: "2026-11-18"
 bronnen:
   - naam: "Gezondheid en Wetenschap (Rode Kruis-Vlaanderen): Bewusteloosheid"
     url: https://www.gezondheidenwetenschap.be/richtlijnen/bewusteloosheid
@@ -21,6 +21,10 @@ bronnen:
     url: https://ready.gov/sites/default/files/2020-07/until-help-arrives-instructor-guide.pdf
   - naam: "Gezondheid en Wetenschap (Rode Kruis-Vlaanderen): Hoe moet je reanimeren?"
     url: https://www.gezondheidenwetenschap.be/eerste-hulp/hoe-moet-je-reanimeren
+  - naam: "European Resuscitation Council Guidelines 2021: First aid"
+    url: https://cprguidelines-old.erc.edu/assets/guidelines/European-Resuscitation-Council-Guidelines-2021-Fi.pdf
+  - naam: "112.be: Veelgestelde vragen"
+    url: https://112.be/nl/veelgestelde-vragen
 ---
 
 ## Herkennen
@@ -48,8 +52,8 @@ Bron: [Gezondheid en Wetenschap: Bewusteloosheid](https://www.gezondheidenwetens
 
 1. Zorg voor je eigen veiligheid en die van het slachtoffer.
 2. Schud zacht aan beide schouders en vraag luid of het gaat. Bij een baby tik je op de voetzool.
-3. Reageert de persoon, laat hem dan liggen zoals je hem vond, als hij geen gevaar loopt. Roep om hulp en blijf niet alleen. Laat iemand bij het slachtoffer en laat 112 bellen, of bel zelf. Zeg dat de persoon gedeeltelijk bij bewustzijn is maar reageert, geef je naam en het exacte adres. Ga na wat er gebeurd is en controleer regelmatig of hij bij bewustzijn blijft.
-4. Reageert de persoon niet, roep dan luid om hulp. Laat iemand 112 bellen en een AED halen. Ben je alleen, bel dan zelf en zeg dat de persoon bewusteloos is, geef je naam en het exacte adres.
+3. Reageert de persoon, laat hem dan liggen zoals je hem vond, als hij geen gevaar loopt. Roep om hulp en blijf niet alleen. Laat iemand bij het slachtoffer en laat 112 bellen, of bel zelf. Zeg dat de persoon gedeeltelijk bij bewustzijn is maar reageert, geef je naam en het exacte adres. Lukt bellen niet, laat dan iemand hulp halen met die informatie (zie Bel 112 als). Ga na wat er gebeurd is en controleer regelmatig of hij bij bewustzijn blijft.
+4. Reageert de persoon niet, roep dan luid om hulp. Laat iemand 112 bellen en een AED halen. Ben je alleen, bel dan zelf en zeg dat de persoon bewusteloos is, geef je naam en het exacte adres. Lukt bellen niet, zie Bel 112 als.
 5. Draai het slachtoffer op de rug en open de luchtweg: hand op het voorhoofd, hoofd achterover kantelen, twee vingertoppen onder de punt van de kin en de kin optillen. Bij een baby breng je het hoofd in een neutrale positie.
 6. Kijk, luister en voel maximaal 10 seconden of de persoon normaal ademt.
 7. Ademt hij niet normaal, start dan meteen reanimatie (zie onderwerp 2).
@@ -70,7 +74,7 @@ Kenmerken van de houding volgens de ERC en de IFRC:
 4. Een baby kan je in deze houding in je armen houden.
 5. Een zwangere vrouw leg je bij voorkeur op de linkerzij. Zo worden de bloedvaten naar de baarmoeder niet dichtgedrukt.
 
-Het Rode Kruis toont de handgreep stap voor stap in zijn instructiefilmpjes en in de app Eerste hulp. Oefen hem in een cursus.
+Oefen de handgreep vooraf in een cursus. Het Rode Kruis toont hem ook stap voor stap in zijn instructiefilmpjes en in de app Eerste hulp. Bekijk die voor er iets gebeurt.
 
 Daarna:
 
@@ -98,10 +102,10 @@ Denk aan een wervelletsel na een verkeersongeval, een val van een hoogte of een 
 4. Maak knellende kleding los.
 5. Leg een koud kompres of een vochtig washandje op het voorhoofd.
 6. Komt hij bij, laat hem dan nog even liggen. Laat hem daarna geleidelijk rechtzitten en opstaan.
-7. Is hij langer dan 2 minuten bewusteloos, leg hem dan in stabiele zijligging, controleer elke minuut de ademhaling en bel 112.
+7. Is hij langer dan 2 minuten bewusteloos, leg hem dan in stabiele zijligging, controleer elke minuut de ademhaling en bel 112 of laat bellen.
 8. Ga na of hij bij het vallen gewond raakte.
 
-Bron: [Gezondheid en Wetenschap: Bewusteloosheid](https://www.gezondheidenwetenschap.be/richtlijnen/bewusteloosheid) · [Jeugd Rode Kruis: ResQ](https://jeugd.rodekruis.be/storage/jrk/jrk-resq-watermerk.pdf) · [Gezondheid en Wetenschap: Flauwte](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-flauwte) · [Croix-Rouge de Belgique: mise à jour 2024](https://formations.croix-rouge.be/files/files/espace-relais/Relais-BEPS-Mise-jour-2024.pdf) · [ERC Guidelines 2025 for Everyone](https://www.erc.edu/media/p5ymaeej/gl2025_layperson_book_ipdf-v11-e.pdf) · [IFRC Guidelines 2020](https://www.ifrc.org/sites/default/files/2022-02/EN_GFARC_GUIDELINES_2020.pdf)
+Bron: [Gezondheid en Wetenschap: Bewusteloosheid](https://www.gezondheidenwetenschap.be/richtlijnen/bewusteloosheid) · [Jeugd Rode Kruis: ResQ](https://jeugd.rodekruis.be/storage/jrk/jrk-resq-watermerk.pdf) · [Gezondheid en Wetenschap: Flauwte](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-flauwte) · [Croix-Rouge de Belgique: mise à jour 2024](https://formations.croix-rouge.be/files/files/espace-relais/Relais-BEPS-Mise-jour-2024.pdf) · [ERC Guidelines 2025 for Everyone](https://www.erc.edu/media/p5ymaeej/gl2025_layperson_book_ipdf-v11-e.pdf) · [IFRC Guidelines 2020](https://www.ifrc.org/sites/default/files/2022-02/EN_GFARC_GUIDELINES_2020.pdf) · [ERC Guidelines 2021: First aid](https://cprguidelines-old.erc.edu/assets/guidelines/European-Resuscitation-Council-Guidelines-2021-Fi.pdf)
 
 ## Als hulp lang op zich laat wachten
 
@@ -127,7 +131,14 @@ Geef aan de hulpdiensten door: de omstandigheden waarin de persoon bewusteloos w
 
 Raadpleeg een arts bij een flauwte zonder duidelijke oorzaak, bij herhaaldelijk flauwvallen, bij vermoeden van hartproblemen en bij een flauwte na een val of een slag tegen het hoofd.
 
-Bron: [Gezondheid en Wetenschap: Bewusteloosheid](https://www.gezondheidenwetenschap.be/richtlijnen/bewusteloosheid) · [Gezondheid en Wetenschap: Flauwte](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-flauwte) · [IFRC Guidelines 2020](https://www.ifrc.org/sites/default/files/2022-02/EN_GFARC_GUIDELINES_2020.pdf)
+**Lukt bellen niet**
+
+- Laat het slachtoffer alleen als er geen andere mogelijkheid is. Wijs een omstander rechtstreeks aan om hulp te halen en geef mee waar het is, wat er gebeurd is, hoeveel slachtoffers er zijn en hoe ze eraan toe zijn.
+- Moet je toch weg om hulp te halen en ademt het slachtoffer normaal, leg het dan eerst in stabiele zijligging.
+- Zijn jullie met twee: de ene bewaakt het slachtoffer, de andere gaat hulp halen.
+- Zie ook onderwerp 1 (Lukt bellen niet: hulp halen zonder telefoon) en Noodnummers in de app, Als bellen niet lukt.
+
+Bron: [Gezondheid en Wetenschap: Bewusteloosheid](https://www.gezondheidenwetenschap.be/richtlijnen/bewusteloosheid) · [Gezondheid en Wetenschap: Flauwte](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-flauwte) · [IFRC Guidelines 2020](https://www.ifrc.org/sites/default/files/2022-02/EN_GFARC_GUIDELINES_2020.pdf) · [ERC Guidelines 2021: First aid](https://cprguidelines-old.erc.edu/assets/guidelines/European-Resuscitation-Council-Guidelines-2021-Fi.pdf) · [112.be: Veelgestelde vragen](https://112.be/nl/veelgestelde-vragen)
 
 ## Niet doen
 

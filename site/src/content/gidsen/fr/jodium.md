@@ -4,7 +4,7 @@ module: nucleair
 volgorde: 2
 kort: "Ce que font et ne font pas les comprimés d'iode, qui doit en avoir chez soi en Belgique, où vous les obtenez, comment les conserver et pourquoi vous ne les prenez que sur ordre. Sans posologies."
 status: concept
-datum: "2026-11-17"
+datum: "2026-11-18"
 bronnen:
   - naam: "Risque nucléaire : Comprimés d'iode"
     url: https://risquenucleaire.be/fr/comprimes-diode
@@ -22,6 +22,8 @@ bronnen:
     url: https://risquenucleaire.be/fr/que-pouvez-vous-faire/prise-de-comprimes-diode
   - naam: "Risque nucléaire : Zones de planification d'urgence"
     url: https://risquenucleaire.be/fr/que-font-les-autorites/zones-de-planification-durgence
+  - naam: "Risque nucléaire : Alerter et protéger la population"
+    url: https://risquenucleaire.be/fr/que-font-les-autorites/alerte-et-protection-de-la-population
   - naam: "Risque nucléaire : questions fréquentes"
     url: https://risquenucleaire.be/fr/faq
   - naam: "Centre de crise National : Incident dans une centrale nucléaire"
@@ -37,7 +39,7 @@ bronnen:
   - naam: "Suomi.fi: Radiation hazards"
     url: https://www.suomi.fi/guides/preparedness/how-to-prepare-for-incidents-and-crises/radiation-hazards
 vertaling: machine
-origineel_datum: "2026-11-17"
+origineel_datum: "2026-11-18"
 ---
 
 ## À propos de ce guide
@@ -109,7 +111,7 @@ Source : [Risque nucléaire : Pour qui](https://risquenucleaire.be/fr/comprimes-
 
 ## Où vous les obtenez
 
-1. Rendez-vous dans une pharmacie. Dans chaque commune de la zone, tous les pharmaciens ont des comprimés d'iode. En dehors des zones aussi, les pharmaciens de tout le pays ont des boîtes.
+1. Retirez-les à l'avance, par précaution : rendez-vous dans une pharmacie. Dans chaque commune de la zone, tous les pharmaciens ont des comprimés d'iode. En dehors des zones aussi, les pharmaciens de tout le pays ont des boîtes.
 2. Emportez votre carte d'identité.
 3. Le pharmacien vous donne une boîte pour quatre personnes.
 4. Les comprimés sont gratuits.
@@ -141,11 +143,11 @@ Source : [Risque nucléaire : Retirer des comprimés d'iode en pharmacie](https:
 
 - **Pourquoi le moment compte :** l'iode n'agit que si vous le prenez au bon moment, de préférence juste avant ou le plus vite possible après un rejet d'iode radioactif. Les autorités choisissent le moment où les comprimés sont les plus efficaces, sur l'avis d'experts. La Finlande dit : les prendre trop tôt ou trop tard réduit la protection.
 - **Ce que dit l'OMS sur la fenêtre de temps :** la meilleure période va de moins de 24 heures avant jusqu'à 2 heures après le début prévu de l'exposition. Jusqu'à 8 heures après, c'est encore raisonnable. Plus de 24 heures après l'exposition, cela n'offre plus de protection. En Belgique, ce sont les autorités qui décident quand.
-- **Comment vous l'apprenez :** via BE-Alert, la radio, la télévision et les médias. La recommandation peut se limiter à une zone déterminée ou à un groupe déterminé, par exemple les femmes enceintes ou les jeunes enfants.
+- **Comment vous l'apprenez :** les autorités l'annoncent à la radio et à la télévision. Si vous êtes à l'abri, vous êtes à l'intérieur, fenêtres fermées : gardez donc à portée de main une radio à piles ou une radio à manivelle. Des véhicules de police équipés de haut-parleurs circulent aussi dans les rues, pour que vous receviez l'information même sans téléphone ni GSM. Si le réseau fonctionne, la recommandation arrive aussi via BE-Alert. Elle peut se limiter à une zone déterminée ou à un groupe déterminé, par exemple les femmes enceintes ou les jeunes enfants.
 - **Accident dans un pays voisin :** ne prenez les comprimés que si les autorités belges le recommandent explicitement.
 - **Combien de temps vous êtes protégé :** après la prise, vous restez protégé au moins 24 heures. Même lors d'un accident grave, il est très probable qu'une seule prise suffise. Continuez entre-temps à vous mettre à l'abri.
 
-Source : [Risque nucléaire : Quand les prendre](https://risquenucleaire.be/fr/comprimes-diode/quand-les-prendre) · [Risque nucléaire : questions fréquentes](https://risquenucleaire.be/fr/faq) · [OMS : Use of potassium iodide](https://www.who.int/news-room/questions-and-answers/item/use-of-potassium-iodide-for-thyroid-protection-during-nuclear-or-radiological-emergencies) · [Suomi.fi: Radiation hazards](https://www.suomi.fi/guides/preparedness/how-to-prepare-for-incidents-and-crises/radiation-hazards)
+Source : [Risque nucléaire : Quand les prendre](https://risquenucleaire.be/fr/comprimes-diode/quand-les-prendre) · [Risque nucléaire : questions fréquentes](https://risquenucleaire.be/fr/faq) · [Risque nucléaire : Alerter et protéger la population](https://risquenucleaire.be/fr/que-font-les-autorites/alerte-et-protection-de-la-population) · [OMS : Use of potassium iodide](https://www.who.int/news-room/questions-and-answers/item/use-of-potassium-iodide-for-thyroid-protection-during-nuclear-or-radiological-emergencies) · [Suomi.fi: Radiation hazards](https://www.suomi.fi/guides/preparedness/how-to-prepare-for-incidents-and-crises/radiation-hazards) · [Centre de crise National : brochure Samen voorbereid](https://centredecrise.be/sites/default/files/documents/files/WEB-Brochure-Pr%C3%AAts.%20Ensemble-FR.pdf)
 
 ## Comment vous les prenez
 
@@ -166,7 +168,7 @@ Source : [Risque nucléaire : questions fréquentes](https://risquenucleaire.be/
 
 ## Effets indésirables et qui ferait mieux de ne pas les prendre
 
-- Les comprimés d'iode sont peu toxiques. Si un enfant en prend plusieurs, faites ce que vous feriez pour tout médicament : consultez votre médecin ou votre pharmacien ou appelez le Centre Antipoisons (070 245 245).
+- Les comprimés d'iode sont peu toxiques. Si un enfant en prend plusieurs, faites ce que vous feriez pour tout médicament : consultez votre médecin ou votre pharmacien, ou appelez le Centre Antipoisons (070 245 245) si le réseau fonctionne.
 - Les effets indésirables sont le plus souvent temporaires et sans gravité, comme des vomissements ou un mauvais goût. Exceptionnellement, il y a des réactions d'hypersensibilité : peau rouge, rétention d'eau, douleur au cou, yeux larmoyants, symptômes de rhume, glandes salivaires gonflées, fièvre. Elles disparaissent normalement d'elles-mêmes. Ne reprenez pas d'iode. Si le problème persiste ou si l'état s'aggrave, contactez votre médecin.
 - Le faible risque d'hypersensibilité n'est pas une raison pour ne pas prendre les comprimés.
 - Une petite minorité ferait mieux de ne pas les prendre : les personnes allergiques à l'iode, les personnes atteintes d'une maladie de peau rare et les personnes qui ont ou ont eu des problèmes de thyroïde. La notice donne la liste complète. En cas de doute, parlez-en dès maintenant à votre médecin généraliste ou à votre spécialiste.
@@ -179,7 +181,8 @@ Source : [Risque nucléaire : questions fréquentes](https://risquenucleaire.be/
 ## Si vous n'avez pas de comprimés
 
 - **Restez à l'intérieur.** La mise à l'abri offre la protection la plus rapide et la plus efficace.
-- Les autorités utilisent le temps entre les premiers signes d'un problème et le rejet pour alerter, distribuer des stocks et, si nécessaire, demander à la population d'aller chercher des comprimés en pharmacie. Écoutez les recommandations.
+- Les autorités utilisent le temps entre les premiers signes d'un problème et le rejet pour alerter, distribuer des stocks et, si nécessaire, demander à la population d'aller chercher des comprimés en pharmacie. Écoutez les recommandations à la radio.
+- Si vous n'avez pas de comprimés, vous pouvez aussi les recevoir des services de secours : des stocks existent dans tout le pays, et les services de secours peuvent les distribuer à la population menacée en cas d'accident.
 - Si, au moment de l'accident, vous êtes à un match de football, dans un cinéma, un magasin ou une station-service : il est demandé aux collectivités situées dans les zones de prévoir des comprimés et de les distribuer quand les autorités le recommandent. La Protection civile dispose aussi d'un stock qu'elle peut distribuer.
 - La Finlande dit : n'allez pas à la pharmacie chercher des comprimés si une recommandation de les prendre a déjà été émise.
 
@@ -207,7 +210,7 @@ Source : [OMS : Use of potassium iodide](https://www.who.int/news-room/questions
 2. Conservez-les dans leur emballage d'origine à un endroit fixe.
 3. Lisez dès maintenant la notice et discutez de vos doutes avec votre médecin généraliste.
 4. En cas d'accident : rentrez d'abord à l'intérieur et restez-y.
-5. Ne prenez les comprimés que si les autorités belges le disent, au moment qu'elles indiquent.
+5. Ne prenez les comprimés que si les autorités belges le disent, au moment qu'elles indiquent. Vous l'apprenez par la radio, par les véhicules de police équipés de haut-parleurs ou, si le réseau fonctionne, via BE-Alert.
 6. Restez ensuite à l'intérieur jusqu'à ce que les autorités disent que c'est sûr.
 
-Source : [Risque nucléaire : Comprimés d'iode](https://risquenucleaire.be/fr/comprimes-diode) · [Risque nucléaire : Quand les prendre](https://risquenucleaire.be/fr/comprimes-diode/quand-les-prendre) · [Centre de crise National : Incident dans une centrale nucléaire](https://centredecrise.be/fr/risques-en-belgique/risques-economiques-et-technologiques/incident-dans-une-centrale-nucleaire)
+Source : [Risque nucléaire : Comprimés d'iode](https://risquenucleaire.be/fr/comprimes-diode) · [Risque nucléaire : Quand les prendre](https://risquenucleaire.be/fr/comprimes-diode/quand-les-prendre) · [Risque nucléaire : questions fréquentes](https://risquenucleaire.be/fr/faq) · [Risque nucléaire : Alerter et protéger la population](https://risquenucleaire.be/fr/que-font-les-autorites/alerte-et-protection-de-la-population) · [Centre de crise National : Incident dans une centrale nucléaire](https://centredecrise.be/fr/risques-en-belgique/risques-economiques-et-technologiques/incident-dans-une-centrale-nucleaire)

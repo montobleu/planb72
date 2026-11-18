@@ -1,9 +1,9 @@
 ---
 titel: Shock
 volgorde: 6
-kort: "Shock is een falende bloedsomloop. Leg de persoon neer, behandel de oorzaak, bel 112 en hou hem warm en rustig."
+kort: "Shock is een falende bloedsomloop. Leg de persoon neer, behandel de oorzaak, laat 112 bellen of hulp halen en hou hem warm en rustig."
 status: concept
-datum: "2026-11-17"
+datum: "2026-11-18"
 bronnen:
   - naam: "Gezondheid en Wetenschap (Rode Kruis-Vlaanderen): Eerste hulp bij shock"
     url: https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-shock
@@ -17,6 +17,10 @@ bronnen:
     url: https://www.erc.edu/media/p5ymaeej/gl2025_layperson_book_ipdf-v11-e.pdf
   - naam: "FEMA: Until Help Arrives, instructor guide"
     url: https://ready.gov/sites/default/files/2020-07/until-help-arrives-instructor-guide.pdf
+  - naam: "European Resuscitation Council Guidelines 2021: First aid"
+    url: https://cprguidelines-old.erc.edu/assets/guidelines/European-Resuscitation-Council-Guidelines-2021-Fi.pdf
+  - naam: "112.be: Veelgestelde vragen"
+    url: https://112.be/nl/veelgestelde-vragen
 ---
 
 ## Herkennen
@@ -49,7 +53,7 @@ Bron: [Gezondheid en Wetenschap: Shock](https://www.gezondheidenwetenschap.be/ee
 1. Zorg voor veiligheid. Trek wegwerphandschoenen aan als je die hebt.
 2. Help het slachtoffer neerliggen op de rug.
 3. Beoordeel de toestand: ga na wat er mis is, controleer het bewustzijn en open zo nodig de luchtweg en controleer de ademhaling.
-4. Bel 112 onmiddellijk.
+4. Bel 112 onmiddellijk of laat iemand bellen. Lukt bellen niet, zie Bel 112 als.
 5. Behandel de oorzaak als je die kent:
    - Ernstige uitwendige bloeding: druk 10 minuten met je handen op de wonde, hou het ledemaat omhoog als dat kan, leg daarna een drukverband aan of druk op een propere doek, en blijf drukken tot de hulp er is (zie onderwerp 3).
    - Zware allergische reactie: help de persoon zijn eigen adrenaline-auto-injector te gebruiken (zie onderwerp 15).
@@ -83,7 +87,7 @@ Shock is levensbedreigend en heeft altijd medische zorg nodig. Wat je kan doen t
 - Hou het slachtoffer liggen en rustig. Laat het niet rechtstaan of rondlopen.
 - Praat met het slachtoffer, hou een hand vast en maak oogcontact. Moet je weg om een ander slachtoffer te helpen, zeg dat en vraag iemand om te blijven.
 - Controleer elke minuut het bewustzijn en de ademhaling. Noteer veranderingen.
-- Verandert de toestand, meld dat dan opnieuw aan 112. Moet iemand om hulp gaan, geef die persoon precieze informatie over de plaats en de toestand mee.
+- Verandert de toestand en werkt de telefoon, meld dat dan opnieuw aan 112. Moet iemand om hulp gaan, geef die persoon precieze informatie over de plaats en de toestand mee.
 
 Bron: [IFRC Guidelines 2020](https://www.ifrc.org/sites/default/files/2022-02/EN_GFARC_GUIDELINES_2020.pdf) · [FEMA: Until Help Arrives](https://ready.gov/sites/default/files/2020-07/until-help-arrives-instructor-guide.pdf) · [Gezondheid en Wetenschap: Shock](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-shock)
 
@@ -96,7 +100,12 @@ Bron: [IFRC Guidelines 2020](https://www.ifrc.org/sites/default/files/2022-02/EN
 
 Leg de hulpdienst duidelijk uit wat de toestand is, welke tekens van shock je ziet en wat de oorzaak kan zijn.
 
-Bron: [Gezondheid en Wetenschap: Shock](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-shock) · [Gezondheid en Wetenschap: Inwendige bloeding in de buik](https://www.gezondheidenwetenschap.be/eerste-hulp/inwendige-bloeding-in-de-buik) · [IFRC Guidelines 2020](https://www.ifrc.org/sites/default/files/2022-02/EN_GFARC_GUIDELINES_2020.pdf)
+**Lukt bellen niet**
+
+- Laat het slachtoffer alleen als er geen andere mogelijkheid is. Wijs een omstander rechtstreeks aan om hulp te halen en geef mee waar het is, wat er gebeurd is, hoeveel slachtoffers er zijn en hoe ze eraan toe zijn.
+- Zie ook onderwerp 1 (Lukt bellen niet: hulp halen zonder telefoon) en Noodnummers in de app, Als bellen niet lukt.
+
+Bron: [Gezondheid en Wetenschap: Shock](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-shock) · [Gezondheid en Wetenschap: Inwendige bloeding in de buik](https://www.gezondheidenwetenschap.be/eerste-hulp/inwendige-bloeding-in-de-buik) · [IFRC Guidelines 2020](https://www.ifrc.org/sites/default/files/2022-02/EN_GFARC_GUIDELINES_2020.pdf) · [ERC Guidelines 2021: First aid](https://cprguidelines-old.erc.edu/assets/guidelines/European-Resuscitation-Council-Guidelines-2021-Fi.pdf) · [112.be: Veelgestelde vragen](https://112.be/nl/veelgestelde-vragen)
 
 ## Niet doen
 

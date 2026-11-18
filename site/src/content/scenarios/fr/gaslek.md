@@ -8,6 +8,7 @@ stappen:
   - "Ouvrez grand les fenêtres et les portes."
   - "Quittez le bâtiment avec tout le monde. Frappez chez les voisins pour les prévenir."
   - "Depuis l'extérieur, appelez le numéro gratuit odeur de gaz de votre gestionnaire de réseau : Fluvius 0800 65 0 65, ORES 0800 87 087. En cas d'incendie, d'explosion ou de blessés : appelez le 112."
+  - "Si l'appel ne passe pas, demandez à quelqu'un d'autre d'appeler ou demandez de l'aide dans votre voisinage (voir Numéros d'urgence, Si l'appel ne passe pas)."
   - "Attendez dehors, à distance de sécurité, jusqu'à l'arrivée de l'équipe d'intervention."
 niet:
   - "Ne pas actionner d'interrupteur ni d'appareil électrique dans la pièce."
@@ -16,7 +17,7 @@ niet:
   - "Ne pas éteindre vous-même un feu de gaz sur une fuite."
   - "Ne pas stocker de bouteilles de propane ou de butane à la cave."
 status: concept
-datum: "2026-11-17"
+datum: "2026-11-18"
 bronnen:
   - naam: "Fluvius : odeur de gaz"
     url: https://www.fluvius.be/nl/gasgeur
@@ -36,8 +37,16 @@ bronnen:
     url: https://centredecrise.be/fr/que-pouvez-vous-faire/preparez-un-kit-durgence/un-kit-durgence-la-maison
   - naam: "Denk vooruit : questions et réponses (fichier source novembre 2025)"
     url: https://www.denkvooruit.nl/site/binaries/site-content/collections/documents/2025/10/27/toolkit-denk-vooruit-campagne-najaar-2025/20251111-qa-denkvooruit-bronbestand.pdf
+  - naam: "112.be : questions fréquentes"
+    url: https://112.be/fr/questions-frequentes
+  - naam: "Centre de crise National : un plan pour les personnes qui ont besoin d'aide supplémentaire"
+    url: https://centredecrise.be/fr/que-pouvez-vous-faire/faites-un-plan/un-plan-pour-ceux-qui-ont-besoin-dune-aide-supplementaire
+  - naam: "SPF Économie : questions des ménages sur la pénurie d'électricité"
+    url: https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door
+  - naam: "Centre de crise National : l'information pendant une situation d'urgence"
+    url: https://centredecrise.be/fr/que-pouvez-vous-faire/informez-vous/linformation-pendant-une-situation-durgence
 vertaling: machine
-origineel_datum: "2026-11-17"
+origineel_datum: "2026-11-18"
 ---
 
 ## Reconnaître
@@ -73,8 +82,8 @@ Source : [Centre de crise National : incendie ou explosion](https://centredecris
 - Notez le numéro odeur de gaz de votre gestionnaire de réseau sur votre liste papier de numéros d'urgence :
   - Fluvius (Flandre) : 0800 65 0 65, gratuit, jour et nuit. Les appels vers ce numéro sont prioritaires.
   - ORES (la plus grande partie de la Wallonie) : 0800 87 087, gratuit, jour et nuit.
-  - Si vous habitez à Bruxelles (Sibelga) ou dans une partie de la province de Liège (RESA), cherchez le numéro odeur de gaz sur le site web de votre gestionnaire de réseau.
-- Personnes sourdes ou malentendantes : Fluvius dispose d'un formulaire de contact pour signaler une odeur de gaz pour les personnes qui ne peuvent pas téléphoner.
+  - Si vous habitez à Bruxelles (Sibelga) ou dans une partie de la province de Liège (RESA), cherchez à l'avance le numéro odeur de gaz sur le site web de votre gestionnaire de réseau et notez-le.
+- Personnes sourdes ou malentendantes : Fluvius dispose d'un formulaire de contact pour signaler une odeur de gaz pour les personnes qui ne peuvent pas téléphoner. Il ne fonctionne que si internet fonctionne. Convenez donc aussi avec les personnes qui vivent avec vous ou avec les voisins qu'ils appellent pour vous.
 
 **Entretien**
 
@@ -90,7 +99,7 @@ Source : [Centre de crise National : incendie ou explosion](https://centredecris
 
 - Convenez de qui aide qui à sortir, et de l'endroit où vous vous rassemblez dehors.
 
-Source : [Fluvius : odeur de gaz](https://www.fluvius.be/nl/gasgeur) · [ORES](https://www.ores.be/faq/plus-delectricite-ou-de-gaz) · [Ne jouez pas avec le feu : CO](https://speelnietmetvuur.be/co/) · [KCCE : Sécurité incendie pour les personnes âgées](https://kcce.eu/sites/default/files/explorer/partie_s_incendie/la_securite_incendie_pour_les_seniors_2017.pdf) · [Centre de crise National : évacuer](https://centredecrise.be/fr/que-pouvez-vous-faire/le-bon-reflexe/evacuer) · [Centre de crise National : kit d'urgence](https://centredecrise.be/fr/que-pouvez-vous-faire/preparez-un-kit-durgence/un-kit-durgence-la-maison) · [Denk vooruit : questions et réponses](https://www.denkvooruit.nl/site/binaries/site-content/collections/documents/2025/10/27/toolkit-denk-vooruit-campagne-najaar-2025/20251111-qa-denkvooruit-bronbestand.pdf)
+Source : [Fluvius : odeur de gaz](https://www.fluvius.be/nl/gasgeur) · [ORES](https://www.ores.be/faq/plus-delectricite-ou-de-gaz) · [Ne jouez pas avec le feu : CO](https://speelnietmetvuur.be/co/) · [KCCE : Sécurité incendie pour les personnes âgées](https://kcce.eu/sites/default/files/explorer/partie_s_incendie/la_securite_incendie_pour_les_seniors_2017.pdf) · [Centre de crise National : évacuer](https://centredecrise.be/fr/que-pouvez-vous-faire/le-bon-reflexe/evacuer) · [Centre de crise National : kit d'urgence](https://centredecrise.be/fr/que-pouvez-vous-faire/preparez-un-kit-durgence/un-kit-durgence-la-maison) · [Denk vooruit : questions et réponses](https://www.denkvooruit.nl/site/binaries/site-content/collections/documents/2025/10/27/toolkit-denk-vooruit-campagne-najaar-2025/20251111-qa-denkvooruit-bronbestand.pdf) · [Centre de crise National : un plan pour les personnes qui ont besoin d'aide supplémentaire](https://centredecrise.be/fr/que-pouvez-vous-faire/faites-un-plan/un-plan-pour-ceux-qui-ont-besoin-dune-aide-supplementaire) · [112.be : questions fréquentes](https://112.be/fr/questions-frequentes)
 
 ## Pendant
 
@@ -109,16 +118,22 @@ Source : [Fluvius : odeur de gaz](https://www.fluvius.be/nl/gasgeur) · [ORES](h
 
 L'équipe d'intervention part immédiatement après votre appel, mesure sur place la concentration de gaz et cherche la fuite.
 
+**Si l'appel ne passe pas**
+
+- Demandez à des voisins ou à des passants d'appeler, ou essayez un autre appareil. Déplacez-vous de quelques mètres et réessayez, toujours à un endroit où vous ne sentez pas le gaz.
+- En cas d'incendie, d'explosion ou de blessés : si le 112 est injoignable mais que vous pouvez encore appeler, essayez le 101.
+- Si l'appel ne fonctionne pas du tout : demandez de l'aide dans votre voisinage. Voir Numéros d'urgence dans l'app, Si l'appel ne passe pas.
+
 **Feu de gaz ou explosion**
 
 - Restez à distance.
 - Laissez brûler le feu tant que la fuite n'est pas réparée. N'essayez pas de l'éteindre.
-- Appelez le 112, puis le numéro odeur de gaz de votre gestionnaire de réseau.
+- Appelez le 112, puis le numéro odeur de gaz de votre gestionnaire de réseau. Si l'appel ne passe pas, voir plus haut.
 
 **Pression trop élevée ou trop basse, ou pas de gaz naturel**
 
 - Fermez le robinet du compteur de gaz et éteignez vos appareils au gaz.
-- Signalez la panne à votre gestionnaire de réseau. Chez Fluvius, c'est le numéro de dépannage 078 35 35 00.
+- Signalez la panne à votre gestionnaire de réseau si l'appel passe. Chez Fluvius, c'est le numéro de dépannage 078 35 35 00.
 
 **Soupçon d'intoxication au CO**
 
@@ -126,11 +141,11 @@ L'équipe d'intervention part immédiatement après votre appel, mesure sur plac
 2. Ouvrez les fenêtres et les portes.
 3. Éteignez l'appareil au gaz si vous pouvez le faire en sécurité.
 4. Quittez la pièce et emmenez la victime dehors.
-5. Appelez le 112. Dites qu'il s'agit peut-être de CO et si quelqu'un est inconscient.
+5. Appelez le 112 ou demandez à quelqu'un d'appeler. Dites qu'il s'agit peut-être de CO et si quelqu'un est inconscient. Si l'appel ne passe pas, voir plus haut et la fiche Alarme CO.
 6. Commencez la réanimation si la victime ne respire pas. Placez une personne inconsciente qui respire en position latérale de sécurité.
-7. Pour les questions sans danger immédiat : Centre Antipoisons 070 245 245, ou un installateur agréé.
+7. Pour les questions sans danger immédiat, si le réseau fonctionne : Centre Antipoisons 070 245 245, ou un installateur agréé.
 
-Source : [Fluvius : odeur de gaz](https://www.fluvius.be/nl/gasgeur) · [ORES](https://www.ores.be/faq/plus-delectricite-ou-de-gaz) · [Ne jouez pas avec le feu : CO](https://speelnietmetvuur.be/co/) · [Centre Antipoisons : intoxication au CO](https://www.centreantipoisons.be/tox-infos/intoxication-au-co/)
+Source : [Fluvius : odeur de gaz](https://www.fluvius.be/nl/gasgeur) · [ORES](https://www.ores.be/faq/plus-delectricite-ou-de-gaz) · [Ne jouez pas avec le feu : CO](https://speelnietmetvuur.be/co/) · [Centre Antipoisons : intoxication au CO](https://www.centreantipoisons.be/tox-infos/intoxication-au-co/) · [112.be : questions fréquentes](https://112.be/fr/questions-frequentes) · [SPF Économie : questions des ménages sur la pénurie d'électricité](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door)
 
 ### À l'extérieur ou en déplacement
 
@@ -138,16 +153,17 @@ Source : [Fluvius : odeur de gaz](https://www.fluvius.be/nl/gasgeur) · [ORES](h
 
 - Évitez les étincelles, le feu et tout ce qui peut provoquer une inflammation.
 - Restez à distance.
-- Appelez le numéro odeur de gaz de votre gestionnaire de réseau.
+- Appelez le numéro odeur de gaz de votre gestionnaire de réseau. Si vous n'y arrivez pas, demandez à quelqu'un d'autre d'appeler ou demandez de l'aide dans votre voisinage.
 
 **Une fuite de gaz plus importante dans votre quartier**
 
 - Attendez les consignes des autorités ou des services de secours. Parfois, rester à l'intérieur est plus sûr que partir.
+- Ces consignes arrivent notamment par la radio et par des voitures de police équipées de haut-parleurs qui circulent dans la rue. Si le réseau fonctionne, aussi par BE-Alert et les sites web des autorités.
 - Si vous devez évacuer, emportez votre carte d'identité, de l'argent, de l'eau, votre GSM et son chargeur, vos clés, votre liste de numéros de téléphone, vos médicaments indispensables et vos produits d'hygiène. S'il y a un danger immédiat et que vous n'avez pas de sac d'urgence prêt, partez tout de suite sans rien emporter.
 - Aidez les voisins moins mobiles.
 - Ne rentrez que lorsque les autorités disent que c'est sûr.
 
-Source : [Fluvius : odeur de gaz](https://www.fluvius.be/nl/gasgeur) · [Centre de crise National : évacuer](https://centredecrise.be/fr/que-pouvez-vous-faire/le-bon-reflexe/evacuer)
+Source : [Fluvius : odeur de gaz](https://www.fluvius.be/nl/gasgeur) · [Centre de crise National : évacuer](https://centredecrise.be/fr/que-pouvez-vous-faire/le-bon-reflexe/evacuer) · [Centre de crise National : l'information pendant une situation d'urgence](https://centredecrise.be/fr/que-pouvez-vous-faire/informez-vous/linformation-pendant-une-situation-durgence) · [112.be : questions fréquentes](https://112.be/fr/questions-frequentes)
 
 ### En voiture
 
@@ -173,10 +189,10 @@ Source : [Centre de crise National : évacuer](https://centredecrise.be/fr/que-p
 ### Personnes vulnérables
 
 - Convenez de qui aide les personnes moins mobiles de la maison ou du voisinage, et de qui les prévient.
-- Personnes sourdes et malentendantes qui sentent une odeur de gaz : allez à un endroit où vous ne sentez plus le gaz et remplissez le formulaire de contact de Fluvius pour les personnes sourdes et malentendantes.
+- Personnes sourdes et malentendantes qui sentent une odeur de gaz : allez à un endroit où vous ne sentez plus le gaz et demandez à des voisins ou à des passants d'appeler. Si internet fonctionne, remplissez aussi le formulaire de contact de Fluvius pour les personnes sourdes et malentendantes.
 - Les femmes enceintes, les personnes âgées et les personnes atteintes de maladies cardiovasculaires, de problèmes de thyroïde, d'asthme ou d'anémie sont particulièrement sensibles au CO.
 
-Source : [Centre de crise National : évacuer](https://centredecrise.be/fr/que-pouvez-vous-faire/le-bon-reflexe/evacuer) · [Fluvius : odeur de gaz](https://www.fluvius.be/nl/gasgeur) · [Centre Antipoisons : intoxication au CO](https://www.centreantipoisons.be/tox-infos/intoxication-au-co/)
+Source : [Centre de crise National : évacuer](https://centredecrise.be/fr/que-pouvez-vous-faire/le-bon-reflexe/evacuer) · [Fluvius : odeur de gaz](https://www.fluvius.be/nl/gasgeur) · [Centre Antipoisons : intoxication au CO](https://www.centreantipoisons.be/tox-infos/intoxication-au-co/) · [112.be : questions fréquentes](https://112.be/fr/questions-frequentes)
 
 ### Animaux domestiques et autres animaux
 

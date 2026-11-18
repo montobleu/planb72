@@ -2,9 +2,9 @@
 titel: "Communication et alerte"
 module: communicatie
 volgorde: 10
-kort: "Comment les autorités vous avertissent (BE-Alert, sirènes, radio, 1771), sur quelle fréquence radio écouter, comment envoyer des messages sans surcharger le réseau, comment reconnaître les faux messages, et ce que permettent les talkies-walkies, la CB, les radioamateurs et Meshtastic."
+kort: "Comment les autorités vous avertissent (radio, véhicules à haut-parleurs, porte-à-porte, sirènes, BE-Alert, 1771), sur quelle fréquence radio écouter, comment envoyer des messages sans surcharger le réseau, comment reconnaître les faux messages, et ce que permettent les talkies-walkies, la CB, les radioamateurs et Meshtastic."
 status: concept
-datum: "2026-11-17"
+datum: "2026-11-18"
 bronnen:
   - naam: "Centre de crise National : brochure Samen voorbereid"
     url: "https://centredecrise.be/sites/default/files/documents/files/WEB-Brochure-Pr%C3%AAts.%20Ensemble-FR.pdf"
@@ -28,6 +28,20 @@ bronnen:
     url: "https://centredecrise.be/fr/que-pouvez-vous-faire/faites-un-plan/un-plan-dans-votre-quartier-ou-votre-association"
   - naam: "Centre de crise National : OFF ON, conseils en cas de pénurie d'électricité"
     url: "https://centredecrise.be/sites/default/files/documents/files/OffOn-triptyque-F.pdf"
+  - naam: "Centre de crise National : Un kit d'urgence à la maison"
+    url: "https://centredecrise.be/fr/que-pouvez-vous-faire/preparez-un-kit-durgence/un-kit-durgence-la-maison"
+  - naam: "Centre de crise National : Perturbation de l'infrastructure numérique"
+    url: "https://centredecrise.be/fr/risques-en-belgique/risques-societaux/defaillance-des-infrastructures-digitales"
+  - naam: "Centre de crise National : Un plan à la maison"
+    url: "https://centredecrise.be/fr/que-pouvez-vous-faire/faites-un-plan/un-plan-la-maison"
+  - naam: "SPF Économie : Questions fréquentes des ménages sur la pénurie d'électricité"
+    url: "https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door"
+  - naam: "112.be : Questions fréquentes"
+    url: "https://112.be/fr/questions-frequentes"
+  - naam: "Croix-Rouge de Flandre : Panne de courant et de communication"
+    url: "https://www.rodekruis.be/wat-doen-we/hulp-in-vlaanderen/goed-voorbereid/stroom-en-communicatie-uitval/"
+  - naam: "Inspections néerlandaises : Indisponibilité du 112 le 24 juin 2019"
+    url: "https://zoek.officielebekendmakingen.nl/blg-942150.pdf"
   - naam: "BE-Alert: What is BE-Alert?"
     url: "https://www.be-alert.be/fr/quest-ce-que-be-alert"
   - naam: "BE-Alert: Notified, wherever you are"
@@ -61,26 +75,39 @@ bronnen:
   - naam: "Meshtastic: Introduction"
     url: "https://meshtastic.org/docs/introduction/"
 vertaling: machine
-origineel_datum: "2026-11-17"
+origineel_datum: "2026-11-18"
 ---
 
-Dans une situation d'urgence, vous voulez savoir trois choses : ce qui se passe, ce que vous devez faire vous-même et comment vous pouvez aider les autres. Le Centre de crise demande donc que vous connaissiez et suiviez les canaux officiels. Ce guide décrit d'abord comment les autorités vous atteignent, ensuite comment recevoir vous-même des informations si l'électricité et le réseau tombent, et enfin comment rester en contact les uns avec les autres. Comment appeler le 112 figure dans le guide sur l'appel d'urgence ; les signaux de détresse sans appareil figurent dans le guide sur les signaux et codes de détresse.
+Dans une situation d'urgence, vous voulez savoir trois choses : ce qui se passe, ce que vous devez faire vous-même et comment vous pouvez aider les autres. Le Centre de crise demande donc que vous connaissiez et suiviez les canaux officiels. Partez du principe que l'électricité, le réseau mobile et internet peuvent tomber en même temps. Ce guide décrit donc d'abord les canaux qui fonctionnent aussi dans ce cas : la radio, les véhicules à haut-parleurs, le porte-à-porte et vos voisins. Viennent ensuite les canaux qui ont besoin d'un réseau, comme BE-Alert, les sites web et le 1771, et enfin comment rester en contact les uns avec les autres. Comment appeler le 112 et ce que vous faites si l'appel ne passe pas figure dans le guide sur l'appel d'urgence ; les signaux de détresse sans appareil figurent dans le guide sur les signaux et codes de détresse.
 
-Source : [Centre de crise National : Informations pendant une situation d'urgence](https://centredecrise.be/fr/que-pouvez-vous-faire/informez-vous/linformation-pendant-une-situation-durgence)
+Source : [Centre de crise National : Informations pendant une situation d'urgence](https://centredecrise.be/fr/que-pouvez-vous-faire/informez-vous/linformation-pendant-une-situation-durgence) · [Centre de crise National : brochure Samen voorbereid](https://centredecrise.be/sites/default/files/documents/files/WEB-Brochure-Pr%C3%AAts.%20Ensemble-FR.pdf)
 
 ## Les canaux officiels en Belgique
 
-Pendant une situation d'urgence, les autorités et les services de secours utilisent souvent plusieurs canaux en même temps :
+Pendant une situation d'urgence, les autorités et les services de secours utilisent souvent plusieurs canaux en même temps. Lors d'une coupure de courant, internet et les réseaux mobiles peuvent aussi tomber en panne. Le tableau présente donc d'abord ce qui fonctionne sans réseau.
+
+**Sans réseau mobile ni internet**
+
+| Canal | Quoi | Source |
+| --- | --- | --- |
+| Radio | radio à piles ou à manivelle, ou l'autoradio | Centre de crise, SPF Économie |
+| Voitures de police avec haut-parleurs | haut-parleurs dans la rue | Centre de crise |
+| Lors de certaines situations d'urgence | panneaux d'information, dépliants, communication de porte-à-porte | brochure |
+| Sirènes et haut-parleurs | Vlaanderen.be les cite ; aucun signal de sirène belge actuel n'est décrit officiellement (voir Les sirènes en Belgique) | Vlaanderen.be |
+| Centre d'accueil ou point d'information et d'accueil | lors de situations d'urgence plus importantes, la commune ou la province installe un centre d'accueil, par exemple une salle de sport ou une salle des fêtes, avec une personne de contact qui donne des informations ; en cas de délestage, la commune peut ouvrir un point d'information et d'accueil pour la population | Centre de crise, SPF Économie |
+| Voisins | qui a une radio à piles peut partager les informations ; prévenez les personnes isolées de votre entourage | Centre de crise |
+
+**Si le réseau fonctionne**
 
 | Canal | Quoi | Source |
 | --- | --- | --- |
 | BE-Alert | SMS, appel vocal ou e-mail ; dans certaines communes aussi sur des panneaux d'information le long de la route | Centre de crise, BE-Alert |
-| Médias | radio, télévision, médias en ligne | Centre de crise |
+| Télévision et médias en ligne | actualités et messages officiels | Centre de crise |
 | Sites web | commune, province, Centre de crise National | Centre de crise |
 | Réseaux sociaux | par exemple @CrisiscenterBE et les canaux de la commune, de la police et des pompiers | Centre de crise |
-| Voitures de police avec haut-parleurs | haut-parleurs dans la rue | Centre de crise |
 | Numéro d'information | un numéro de la commune ou de la province, ou le numéro national d'information 1771 | Centre de crise |
-| Lors de certaines situations d'urgence | panneaux d'information, dépliants, communication de porte-à-porte | brochure |
+
+Si les appels ne passent plus, consultez les informations générales diffusées par les autorités, ou demandez de l'aide dans votre voisinage (SPF Économie).
 
 **Comment trouver à l'avance les bons canaux (Centre de crise)**
 
@@ -89,73 +116,26 @@ Pendant une situation d'urgence, les autorités et les services de secours utili
 - Police : sur politie.be, vous trouvez avec votre code postal le site web de votre police locale.
 - Réseaux sociaux : cherchez sur le site web officiel les logos des réseaux sociaux ; ils mènent aux vrais profils.
 
-Abonnez-vous à l'avance aux canaux de votre commune, de votre province, de votre zone de police et de votre zone de secours, et inscrivez-vous à BE-Alert.
+Abonnez-vous à l'avance aux canaux de votre commune, de votre province, de votre zone de police et de votre zone de secours, et inscrivez-vous à BE-Alert. Demandez aussi à votre administration communale quelles solutions la commune prévoit si les appels ne passent plus, par exemple un point d'information et d'accueil (SPF Économie).
 
-Source : [Centre de crise National : Informations pendant une situation d'urgence](https://centredecrise.be/fr/que-pouvez-vous-faire/informez-vous/linformation-pendant-une-situation-durgence) · [Centre de crise National : Information à la population](https://centredecrise.be/fr/que-font-les-autorites/gestion-de-crise/informer-la-population) · [Centre de crise National : brochure Samen voorbereid](https://centredecrise.be/sites/default/files/documents/files/WEB-Brochure-Pr%C3%AAts.%20Ensemble-FR.pdf) · [BE-Alert: What is BE-Alert?](https://www.be-alert.be/fr/quest-ce-que-be-alert)
-
-## BE-Alert
-
-**Ce que c'est.** Le système d'alerte des autorités, opérationnel dans toute la Belgique depuis 2017. Un bourgmestre, un gouverneur ou le ministre de l'Intérieur peut vous envoyer un message qui dit ce qui s'est passé et ce que vous devez faire. BE-Alert annonce plus de 1,25 million d'adresses enregistrées et 93 pour cent de communes affiliées.
-
-**Trois façons de recevoir un message (BE-Alert)**
-
-1. **À vos adresses enregistrées.** Vous êtes inscrit et une situation d'urgence se produit près d'une adresse que vous avez enregistrée : votre domicile, votre travail, l'école de vos enfants ou l'adresse d'un membre vulnérable de votre famille. Vous recevez un SMS, un e-mail ou un appel vocal, même si vous n'êtes pas chez vous.
-2. **Sur la base de votre localisation.** Lors de grandes situations d'urgence ou si vous devez agir d'urgence, comme lors d'une évacuation, les autorités peuvent envoyer un SMS à toutes les personnes physiquement présentes dans la zone. Vous ne devez pas être inscrit pour cela. Les opérateurs vérifient uniquement quels téléphones se trouvent dans la zone à risque et effacent automatiquement cette liste six mois après le message.
-3. **Dans la rue.** Depuis 2022, les messages BE-Alert peuvent aussi apparaître sur d'autres écrans, comme un panneau d'information dans votre commune.
-
-**Reconnaître un vrai message (Centre de crise)**
-
-- Il commence toujours par « BE-Alert ».
-- Il provient du 1789 ou du 0477 77 77 55. Les e-mails proviennent de no-reply@be-alert.be.
-- Il est toujours gratuit et ne demande jamais de données bancaires.
-- Les messages d'intérêt général, par exemple sur la collecte des déchets, ne commencent pas par « BE-Alert » et proviennent du 8686 ou du 0477 77 77 55, si vous y avez consenti.
-
-Enregistrez le 1789 et le 0477 77 77 55 dans votre téléphone et marquez l'adresse e-mail comme fiable.
-
-**Messages de test.** Selon le Centre de crise, les villes et communes peuvent tester BE-Alert chaque premier jeudi du mois, et le Centre de crise effectue chaque premier jeudi du trimestre un test de plus grande ampleur. Selon la stratégie nationale de test, un message de test contient toujours « BE-Alert », la phrase indiquant qu'il s'agit d'un message de test et que vous ne devez rien faire, et un renvoi vers plus d'informations.
-
-**L'inscription** se fait sur be-alert.be ou via votre commune si vous n'avez pas internet. En complétant votre profil, vous pouvez indiquer si vous êtes sourd ou malentendant. Les étapes figurent dans le guide sur le plan d'urgence familial.
-
-Source : [BE-Alert: What is BE-Alert?](https://www.be-alert.be/fr/quest-ce-que-be-alert) · [BE-Alert: Notified, wherever you are](https://www.be-alert.be/fr/comment-serez-vous-alerte/alerte-ou-que-vous-soyez) · [Centre de crise National : BE-Alert](https://centredecrise.be/fr/que-pouvez-vous-faire/informez-vous/be-alert-des-alertes-sur-votre-telephone) · [Centre de crise National : Information à la population](https://centredecrise.be/fr/que-font-les-autorites/gestion-de-crise/informer-la-population) · [Centre de crise National : Stratégie nationale pour les tests d'alerte](https://centredecrise.be/sites/default/files/documents/files/cc_strategie_de_test_dalertes_de_la_population_0_0.pdf) · [Vlaanderen.be : BE-Alert](https://www.vlaanderen.be/be-alert-waarschuwingssysteem-bij-noodsituaties)
-
-## Les sirènes en Belgique
-
-La situation est moins claire que dans les pays voisins. Voici ce que disent les sources :
-
-- La stratégie nationale de test du Centre de crise indique que le réseau de sirènes a été testé de manière audible pour les citoyens quatre fois par an jusqu'en décembre 2018 : chaque premier jeudi de janvier, avril, juillet et octobre. Cette fréquence a été maintenue pour BE-Alert.
-- Vlaanderen.be cite les sirènes et les haut-parleurs de la police, à côté de la radio et de la télévision, comme moyens par lesquels les autorités avertissent, avec BE-Alert comme canal direct en plus.
-- Dans un article de la VRT de 2022, la bourgmestre de Tirlemont indique que le système de sirènes en Belgique est progressivement démantelé et remplacé par BE-Alert, et que la dernière sirène de l'entreprise Seveso de sa ville a été retirée en 2021.
-
-Aucune description officielle actuelle d'un signal de sirène belge (comment il sonne, ce qu'il signifie) n'a été trouvée dans les sources consultées. Fiez-vous donc à BE-Alert, à la radio et aux sites web officiels. Si vous entendez une sirène, cherchez des informations via ces canaux.
-
-**À la frontière.** Aux Pays-Bas, une sirène en dehors de 12h00 le premier lundi du mois signifie : entrez immédiatement à l'intérieur, fermez les fenêtres, les portes et la ventilation et suivez les informations à la radio ou à la télévision (Denk vooruit). En Allemagne, un son montant et descendant d'une minute signifie : il y a un danger, informez-vous ; un son continu d'une minute signifie que le danger est passé (BBK).
-
-Source : [Centre de crise National : Stratégie nationale pour les tests d'alerte](https://centredecrise.be/sites/default/files/documents/files/cc_strategie_de_test_dalertes_de_la_population_0_0.pdf) · [Vlaanderen.be : BE-Alert](https://www.vlaanderen.be/be-alert-waarschuwingssysteem-bij-noodsituaties) · [VRT NWS : Sirènes d'alerte aérienne](https://www.vrt.be/vrtnws/nl/2022/03/16/luchtalarmen-bestaat-dat-nog-bij-ons/) · [Denk vooruit: informatieboekje](https://www.denkvooruit.nl/site/binaries/site-content/collections/documents/2025/11/17/informatieboekje-bereid-je-voor-op-een-noodsituatie/informatieboekje-bereid-je-voor-op-een-noodsituatie.pdf) · [BBK: Vorsorgen für Krisen und Katastrophen](https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/Buergerinformationen/Ratgeber/BBK-Vorsorgen-fuer-Krisen-und-Katastrophen.pdf?__blob=publicationFile&v=44)
-
-## Le numéro d'information 1771
-
-Pour répondre aux questions des habitants, une commune, une province ou le Centre de crise peut ouvrir un numéro d'information. Ils peuvent utiliser leur propre numéro ou le numéro national d'information 1771. Ce numéro peut être opérationnel jour et nuit en moins d'une heure. Grâce à une collaboration avec le SPF Santé publique, il peut traiter aussi bien des questions générales que des appels sensibles concernant d'éventuelles victimes. Les communes doivent d'abord conclure une convention pour l'utiliser.
-
-Le 1771 n'est donc pas un numéro qui répond en permanence. Il est ouvert lors d'une situation d'urgence, et les autorités font alors savoir qu'il est actif. Pour les situations où la vie est en danger, appelez le 112.
-
-Source : [Centre de crise National : Communication](https://centredecrise.be/fr/que-fait-le-centre-de-crise-national/communication) · [Centre de crise National : Information à la population](https://centredecrise.be/fr/que-font-les-autorites/gestion-de-crise/informer-la-population)
+Source : [Centre de crise National : Informations pendant une situation d'urgence](https://centredecrise.be/fr/que-pouvez-vous-faire/informez-vous/linformation-pendant-une-situation-durgence) · [Centre de crise National : Information à la population](https://centredecrise.be/fr/que-font-les-autorites/gestion-de-crise/informer-la-population) · [Centre de crise National : brochure Samen voorbereid](https://centredecrise.be/sites/default/files/documents/files/WEB-Brochure-Pr%C3%AAts.%20Ensemble-FR.pdf) · [Centre de crise National : Évacuer](https://centredecrise.be/fr/que-pouvez-vous-faire/le-bon-reflexe/evacuer) · [Centre de crise National : Un plan dans votre quartier ou votre association](https://centredecrise.be/fr/que-pouvez-vous-faire/faites-un-plan/un-plan-dans-votre-quartier-ou-votre-association) · [Centre de crise National : Diffusez les bonnes informations](https://centredecrise.be/fr/que-pouvez-vous-faire/le-bon-reflexe/partagez-les-informations-correctes) · [Vlaanderen.be : BE-Alert](https://www.vlaanderen.be/be-alert-waarschuwingssysteem-bij-noodsituaties) · [SPF Économie : questions des ménages sur la pénurie d'électricité](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door) · [BE-Alert: What is BE-Alert?](https://www.be-alert.be/fr/quest-ce-que-be-alert)
 
 ## S'informer sans électricité : la radio
 
 Lors d'une coupure de courant, internet et les réseaux mobiles peuvent aussi tomber en panne. Le Centre de crise demande donc :
 
-- Une radio à piles ou une radio à manivelle, de préférence avec DAB+ et FM.
+- Une radio à piles ou une radio à manivelle, de préférence avec DAB+ et FM. Vous pouvez ainsi écouter les médias même lors d'une panne de courant.
 - Une batterie externe chargée.
 - Des piles de rechange.
 - Une liste papier des numéros de téléphone importants.
 
-Un autoradio fonctionne aussi lors d'une panne de courant (BBK, OFF ON). Le BBK écrit que les stations de radio continuent à fonctionner quand le réseau mobile et internet tombent en panne, et qu'une radio est donc importante dans les situations d'urgence.
+Un autoradio fonctionne aussi lors d'une panne de courant (BBK, OFF ON). En cas de délestage, le SPF Économie recommande de suivre les informations dans les médias via une radio à piles ou l'autoradio. Le BBK écrit que les stations de radio continuent à fonctionner quand le réseau mobile et internet tombent en panne, et qu'une radio est donc importante dans les situations d'urgence.
 
 **Ce que les sources belges ne disent pas.** Les sources belges consultées ne désignent pas d'émetteur d'urgence distinct. Elles renvoient à la radio, à la télévision et aux médias en ligne en général. Aux Pays-Bas, les radiodiffuseurs publics régionaux sont les émetteurs de catastrophe (Denk vooruit).
 
-**Faites-le maintenant (sur le modèle de Denk vooruit) :** recherchez la fréquence de votre station, notez-la et collez-la sur votre radio, et réglez dès à présent la radio sur cette fréquence.
+**Faites-le maintenant (sur le modèle de Denk vooruit) :** recherchez la fréquence de votre station, notez-la et collez-la sur votre radio, et réglez dès à présent la radio sur cette fréquence. Si vous n'avez pas vous-même de radio à piles, convenez avec vos voisins de qui en a une, pour que cette personne puisse partager les informations (Centre de crise, Denk vooruit).
 
-Source : [Centre de crise National : brochure Samen voorbereid](https://centredecrise.be/sites/default/files/documents/files/WEB-Brochure-Pr%C3%AAts.%20Ensemble-FR.pdf) · [BBK: Vorsorgen für Krisen und Katastrophen](https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/Buergerinformationen/Ratgeber/BBK-Vorsorgen-fuer-Krisen-und-Katastrophen.pdf?__blob=publicationFile&v=44) · [Centre de crise National : OFF ON](https://centredecrise.be/sites/default/files/documents/files/OffOn-triptyque-F.pdf) · [Denk vooruit: Radio](https://www.denkvooruit.nl/bereid-je-voor/zo-krijg-je-een-waarschuwing/radio) · [Denk vooruit: informatieboekje](https://www.denkvooruit.nl/site/binaries/site-content/collections/documents/2025/11/17/informatieboekje-bereid-je-voor-op-een-noodsituatie/informatieboekje-bereid-je-voor-op-een-noodsituatie.pdf)
+Source : [Centre de crise National : brochure Samen voorbereid](https://centredecrise.be/sites/default/files/documents/files/WEB-Brochure-Pr%C3%AAts.%20Ensemble-FR.pdf) · [Centre de crise National : Un kit d'urgence à la maison](https://centredecrise.be/fr/que-pouvez-vous-faire/preparez-un-kit-durgence/un-kit-durgence-la-maison) · [Centre de crise National : Un plan dans votre quartier ou votre association](https://centredecrise.be/fr/que-pouvez-vous-faire/faites-un-plan/un-plan-dans-votre-quartier-ou-votre-association) · [SPF Économie : questions des ménages sur la pénurie d'électricité](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door) · [BBK: Vorsorgen für Krisen und Katastrophen](https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/Buergerinformationen/Ratgeber/BBK-Vorsorgen-fuer-Krisen-und-Katastrophen.pdf?__blob=publicationFile&v=44) · [Centre de crise National : OFF ON](https://centredecrise.be/sites/default/files/documents/files/OffOn-triptyque-F.pdf) · [Denk vooruit: Radio](https://www.denkvooruit.nl/bereid-je-voor/zo-krijg-je-een-waarschuwing/radio) · [Denk vooruit: informatieboekje](https://www.denkvooruit.nl/site/binaries/site-content/collections/documents/2025/11/17/informatieboekje-bereid-je-voor-op-een-noodsituatie/informatieboekje-bereid-je-voor-op-een-noodsituatie.pdf)
 
 ## Fréquences : VRT (Flandre)
 
@@ -230,9 +210,68 @@ En DAB+, Omroep Zeeland se trouve dans le réseau 5B et Omroep Brabant et L1 dan
 
 Source : [Denk vooruit: Radio](https://www.denkvooruit.nl/bereid-je-voor/zo-krijg-je-een-waarschuwing/radio)
 
+## Les sirènes en Belgique
+
+La situation est moins claire que dans les pays voisins. Voici ce que disent les sources :
+
+- La stratégie nationale de test du Centre de crise indique que le réseau de sirènes a été testé de manière audible pour les citoyens quatre fois par an jusqu'en décembre 2018 : chaque premier jeudi de janvier, avril, juillet et octobre. Cette fréquence a été maintenue pour BE-Alert.
+- Vlaanderen.be cite les sirènes et les haut-parleurs de la police, à côté de la radio et de la télévision, comme moyens par lesquels les autorités avertissent, avec BE-Alert comme canal direct en plus.
+- Dans un article de la VRT de 2022, la bourgmestre de Tirlemont indique que le système de sirènes en Belgique est progressivement démantelé et remplacé par BE-Alert, et que la dernière sirène de l'entreprise Seveso de sa ville a été retirée en 2021.
+
+Aucune description officielle actuelle d'un signal de sirène belge (comment il sonne, ce qu'il signifie) n'a été trouvée dans les sources consultées. Si vous entendez une sirène, écoutez la radio. Si le réseau fonctionne, consultez aussi BE-Alert et les sites web officiels.
+
+**À la frontière.** Aux Pays-Bas, une sirène en dehors de 12h00 le premier lundi du mois signifie : entrez immédiatement à l'intérieur, fermez les fenêtres, les portes et la ventilation et suivez les informations à la radio ou à la télévision (Denk vooruit). En Allemagne, un son montant et descendant d'une minute signifie : il y a un danger, informez-vous ; un son continu d'une minute signifie que le danger est passé (BBK).
+
+Source : [Centre de crise National : Stratégie nationale pour les tests d'alerte](https://centredecrise.be/sites/default/files/documents/files/cc_strategie_de_test_dalertes_de_la_population_0_0.pdf) · [Vlaanderen.be : BE-Alert](https://www.vlaanderen.be/be-alert-waarschuwingssysteem-bij-noodsituaties) · [VRT NWS : Sirènes d'alerte aérienne](https://www.vrt.be/vrtnws/nl/2022/03/16/luchtalarmen-bestaat-dat-nog-bij-ons/) · [Denk vooruit: informatieboekje](https://www.denkvooruit.nl/site/binaries/site-content/collections/documents/2025/11/17/informatieboekje-bereid-je-voor-op-een-noodsituatie/informatieboekje-bereid-je-voor-op-een-noodsituatie.pdf) · [BBK: Vorsorgen für Krisen und Katastrophen](https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/Buergerinformationen/Ratgeber/BBK-Vorsorgen-fuer-Krisen-und-Katastrophen.pdf?__blob=publicationFile&v=44)
+
+## BE-Alert
+
+**Ce que c'est.** Le système d'alerte des autorités, opérationnel dans toute la Belgique depuis 2017. Un bourgmestre, un gouverneur ou le ministre de l'Intérieur peut vous envoyer un message qui dit ce qui s'est passé et ce que vous devez faire. BE-Alert annonce plus de 1,25 million d'adresses enregistrées et 93 pour cent de communes affiliées.
+
+BE-Alert fonctionne via le réseau mobile et internet. S'ils tombent, les messages n'arrivent pas. Écoutez alors la radio.
+
+**Trois façons de recevoir un message (BE-Alert)**
+
+1. **À vos adresses enregistrées.** Vous êtes inscrit et une situation d'urgence se produit près d'une adresse que vous avez enregistrée : votre domicile, votre travail, l'école de vos enfants ou l'adresse d'un membre vulnérable de votre famille. Vous recevez un SMS, un e-mail ou un appel vocal, même si vous n'êtes pas chez vous.
+2. **Sur la base de votre localisation.** Lors de grandes situations d'urgence ou si vous devez agir d'urgence, comme lors d'une évacuation, les autorités peuvent envoyer un SMS à toutes les personnes physiquement présentes dans la zone. Vous ne devez pas être inscrit pour cela. Les opérateurs vérifient uniquement quels téléphones se trouvent dans la zone à risque et effacent automatiquement cette liste six mois après le message.
+3. **Dans la rue.** Depuis 2022, les messages BE-Alert peuvent aussi apparaître sur d'autres écrans, comme un panneau d'information dans votre commune.
+
+**Reconnaître un vrai message (Centre de crise)**
+
+- Il commence toujours par « BE-Alert ».
+- Il provient du 1789 ou du 0477 77 77 55. Les e-mails proviennent de no-reply@be-alert.be.
+- Il est toujours gratuit et ne demande jamais de données bancaires.
+- Les messages d'intérêt général, par exemple sur la collecte des déchets, ne commencent pas par « BE-Alert » et proviennent du 8686 ou du 0477 77 77 55, si vous y avez consenti.
+
+Enregistrez le 1789 et le 0477 77 77 55 dans votre téléphone et marquez l'adresse e-mail comme fiable.
+
+**Messages de test.** Selon le Centre de crise, les villes et communes peuvent tester BE-Alert chaque premier jeudi du mois, et le Centre de crise effectue chaque premier jeudi du trimestre un test de plus grande ampleur. Selon la stratégie nationale de test, un message de test contient toujours « BE-Alert », la phrase indiquant qu'il s'agit d'un message de test et que vous ne devez rien faire, et un renvoi vers plus d'informations.
+
+**L'inscription** se fait sur be-alert.be ou via votre commune si vous n'avez pas internet. En complétant votre profil, vous pouvez indiquer si vous êtes sourd ou malentendant. Les étapes figurent dans le guide sur le plan d'urgence familial.
+
+Source : [Centre de crise National : brochure Samen voorbereid](https://centredecrise.be/sites/default/files/documents/files/WEB-Brochure-Pr%C3%AAts.%20Ensemble-FR.pdf) · [BE-Alert: What is BE-Alert?](https://www.be-alert.be/fr/quest-ce-que-be-alert) · [BE-Alert: Notified, wherever you are](https://www.be-alert.be/fr/comment-serez-vous-alerte/alerte-ou-que-vous-soyez) · [Centre de crise National : BE-Alert](https://centredecrise.be/fr/que-pouvez-vous-faire/informez-vous/be-alert-des-alertes-sur-votre-telephone) · [Centre de crise National : Information à la population](https://centredecrise.be/fr/que-font-les-autorites/gestion-de-crise/informer-la-population) · [Centre de crise National : Stratégie nationale pour les tests d'alerte](https://centredecrise.be/sites/default/files/documents/files/cc_strategie_de_test_dalertes_de_la_population_0_0.pdf) · [Vlaanderen.be : BE-Alert](https://www.vlaanderen.be/be-alert-waarschuwingssysteem-bij-noodsituaties)
+
+## Le numéro d'information 1771 (si le réseau fonctionne)
+
+Pour répondre aux questions des habitants, une commune, une province ou le Centre de crise peut ouvrir un numéro d'information. Ils peuvent utiliser leur propre numéro ou le numéro national d'information 1771. Ce numéro peut être opérationnel jour et nuit en moins d'une heure. Grâce à une collaboration avec le SPF Santé publique, il peut traiter aussi bien des questions générales que des appels sensibles concernant d'éventuelles victimes. Les communes doivent d'abord conclure une convention pour l'utiliser.
+
+Le 1771 n'est donc pas un numéro qui répond en permanence. Il est ouvert lors d'une situation d'urgence, et les autorités font alors savoir qu'il est actif. C'est un numéro de téléphone : il n'aide que tant que les appels passent. Si le téléphone ne fonctionne pas, écoutez la radio et demandez de l'aide dans votre voisinage (SPF Économie).
+
+Pour les situations où la vie est en danger, appelez le 112. Si l'appel ne passe pas, voir Numéros d'urgence dans l'application, Si l'appel ne passe pas.
+
+Source : [SPF Économie : questions des ménages sur la pénurie d'électricité](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door) · [Centre de crise National : Communication](https://centredecrise.be/fr/que-fait-le-centre-de-crise-national/communication) · [Centre de crise National : Information à la population](https://centredecrise.be/fr/que-font-les-autorites/gestion-de-crise/informer-la-population)
+
 ## Appeler ou envoyer des messages
 
 Lors d'une situation d'urgence de grande ampleur, le réseau téléphonique est vite surchargé. Cela peut perturber les secours.
+
+**Ce que vous devez savoir sur le réseau**
+
+- Selon le SPF Économie, les antennes GSM tiennent une à deux heures sans électricité. L'internet mobile (4G et 5G) tombe vite, probablement immédiatement. Il est peu probable que votre ligne fixe fonctionne encore.
+- Avec la téléphonie par internet, le routeur, la fibre optique et l'appareil ont besoin d'électricité, donc la ligne fixe tombe aussi en panne. Les réseaux mobiles n'ont qu'une alimentation de secours partielle et de courte durée (BBK).
+- Si vous avez assez de signal, vous pouvez appeler le 112 via n'importe quel opérateur. Les numéros 100 et 101 ne sont pas garantis en cas de pénurie d'électricité (SPF Économie).
+
+**Tant que le réseau fonctionne**
 
 - Ne téléphonez pas inutilement. Utilisez les applications de messagerie et les réseaux sociaux (brochure).
 - Ne téléphonez que si c'est vraiment nécessaire et utilisez de préférence les SMS (OFF ON).
@@ -241,9 +280,15 @@ Lors d'une situation d'urgence de grande ampleur, le réseau téléphonique est 
 - Gardez votre GSM prêt à recevoir, même la nuit, si vous êtes touché (BBK).
 - Gardez toujours un téléphone allumé pour pouvoir recevoir les alertes (Denk vooruit).
 
-**Ce que vous devez savoir sur le réseau (BBK).** Avec la téléphonie par internet, le routeur, la fibre optique et l'appareil ont besoin d'électricité, donc la ligne fixe tombe aussi en panne. Les réseaux mobiles n'ont qu'une alimentation de secours partielle et de courte durée. Si le 112 et les autres numéros d'urgence ne fonctionnent plus, rendez-vous en cas d'urgence si possible au commissariat de police ou à l'hôpital le plus proche.
+**Si l'appel ne passe pas**
 
-Source : [Centre de crise National : brochure Samen voorbereid](https://centredecrise.be/sites/default/files/documents/files/WEB-Brochure-Pr%C3%AAts.%20Ensemble-FR.pdf) · [Centre de crise National : OFF ON](https://centredecrise.be/sites/default/files/documents/files/OffOn-triptyque-F.pdf) · [Centre de crise National : Évacuer](https://centredecrise.be/fr/que-pouvez-vous-faire/le-bon-reflexe/evacuer) · [BBK: Vorsorgen für Krisen und Katastrophen](https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/Buergerinformationen/Ratgeber/BBK-Vorsorgen-fuer-Krisen-und-Katastrophen.pdf?__blob=publicationFile&v=44) · [BBK: Stromausfall, Vorsorge und Selbsthilfe](https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/Buergerinformationen/stromausfall-vorsorge-selbsthilfe.pdf?__blob=publicationFile&v=17) · [Denk vooruit: informatieboekje](https://www.denkvooruit.nl/site/binaries/site-content/collections/documents/2025/11/17/informatieboekje-bereid-je-voor-op-een-noodsituatie/informatieboekje-bereid-je-voor-op-een-noodsituatie.pdf)
+- Essayez un autre appareil ou faites appeler des voisins ou des passants. Déplacez-vous de quelques mètres et réessayez (112.be).
+- Si les appels ne fonctionnent plus du tout : suivez les informations générales des autorités à la radio, ou demandez de l'aide dans votre voisinage (SPF Économie).
+- Si vous ne parvenez pas à joindre votre famille, allez à l'endroit convenu à l'avance pour vous retrouver (Centre de crise).
+- En Allemagne, le BBK recommande, si le 112 et les autres numéros d'urgence ne fonctionnent plus, d'aller en cas d'urgence si possible au commissariat de police ou à l'hôpital le plus proche. Aux Pays-Bas, lors de la panne nationale du 112 en 2019, les autorités ont envoyé les citoyens à la caserne de pompiers ou au poste de police le plus proche, et à l'hôpital en cas d'urgence médicale. La carte de l'application les affiche, avec le bouton Le plus proche.
+- Les étapes complètes figurent dans le guide sur l'appel d'urgence et dans l'application sous Numéros d'urgence, Si l'appel ne passe pas.
+
+Source : [SPF Économie : questions des ménages sur la pénurie d'électricité](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door) · [112.be : questions fréquentes](https://112.be/fr/questions-frequentes) · [Centre de crise National : perturbation de l'infrastructure numérique](https://centredecrise.be/fr/risques-en-belgique/risques-societaux/defaillance-des-infrastructures-digitales) · [Centre de crise National : brochure Samen voorbereid](https://centredecrise.be/sites/default/files/documents/files/WEB-Brochure-Pr%C3%AAts.%20Ensemble-FR.pdf) · [Centre de crise National : OFF ON](https://centredecrise.be/sites/default/files/documents/files/OffOn-triptyque-F.pdf) · [Centre de crise National : Évacuer](https://centredecrise.be/fr/que-pouvez-vous-faire/le-bon-reflexe/evacuer) · [BBK: Vorsorgen für Krisen und Katastrophen](https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/Buergerinformationen/Ratgeber/BBK-Vorsorgen-fuer-Krisen-und-Katastrophen.pdf?__blob=publicationFile&v=44) · [BBK: Stromausfall, Vorsorge und Selbsthilfe](https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/Buergerinformationen/stromausfall-vorsorge-selbsthilfe.pdf?__blob=publicationFile&v=17) · [Inspections néerlandaises : indisponibilité du 112 le 24 juin 2019](https://zoek.officielebekendmakingen.nl/blg-942150.pdf) · [Denk vooruit: informatieboekje](https://www.denkvooruit.nl/site/binaries/site-content/collections/documents/2025/11/17/informatieboekje-bereid-je-voor-op-een-noodsituatie/informatieboekje-bereid-je-voor-op-een-noodsituatie.pdf)
 
 ## Reconnaître les messages faux et trompeurs
 
@@ -256,16 +301,16 @@ Pendant une situation d'urgence, beaucoup d'informations circulent, surtout sur 
 3. **D'autres sources fiables le confirment-elles ?** Si vous trouvez la même information ailleurs, il y a de fortes chances qu'elle soit exacte.
 4. **À quoi ressemble-t-il ?** Beaucoup de fautes d'orthographe, de points d'exclamation ou de majuscules dans le titre indiquent de la désinformation.
 5. **Quel est le but ?** Si le message joue fortement sur les émotions, il y a de fortes chances qu'il s'agisse de désinformation.
-6. **La photo est-elle correcte ?** Les photos et vidéos sont parfois sorties de leur contexte. Recherchez la photo dans un moteur de recherche.
+6. **La photo est-elle correcte ?** Les photos et vidéos sont parfois sorties de leur contexte. Si internet fonctionne, recherchez la photo dans un moteur de recherche.
 
 Le BBK ajoute : vérifiez si un site web a des mentions légales avec un vrai nom et une adresse complète, pas seulement une adresse e-mail anonyme, et s'il indique des sources et des références.
 
 **Ce que vous faites**
 
+- Prévenez les personnes de votre entourage qui sont isolées ou ont peu de moyens de s'informer (Centre de crise).
 - En cas de doute, ne le diffusez pas (Centre de crise).
 - Ne partagez vous-même que les messages des autorités et des services de secours (brochure).
 - Ne prenez pas inutilement de photos ou de vidéos d'une situation d'urgence et ne partagez pas d'images qui portent atteinte à la vie privée des victimes (Centre de crise).
-- Prévenez les personnes de votre entourage qui sont isolées ou ont peu de moyens de s'informer (Centre de crise).
 
 Source : [Centre de crise National : Attention aux informations fausses ou trompeuses](https://centredecrise.be/fr/que-pouvez-vous-faire/informez-vous/mefiez-vous-des-informations-erronees-ou-trompeuses) · [Centre de crise National : Diffusez les bonnes informations](https://centredecrise.be/fr/que-pouvez-vous-faire/le-bon-reflexe/partagez-les-informations-correctes) · [Centre de crise National : brochure Samen voorbereid](https://centredecrise.be/sites/default/files/documents/files/WEB-Brochure-Pr%C3%AAts.%20Ensemble-FR.pdf) · [BBK: Vorsorgen für Krisen und Katastrophen](https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/Buergerinformationen/Ratgeber/BBK-Vorsorgen-fuer-Krisen-und-Katastrophen.pdf?__blob=publicationFile&v=44)
 
@@ -273,9 +318,11 @@ Source : [Centre de crise National : Attention aux informations fausses ou tromp
 
 Le Centre de crise demande aux voisins et aux associations de convenir à l'avance de la manière de se joindre si le téléphone ou internet ne fonctionne pas, et de qui dispose de matériel utile, comme une radio à piles. Denk vooruit conseille de convenir d'un lieu où vous vous retrouvez s'il n'y a pas de connexion, et du moment où vous vous y réunissez. Si vous n'avez pas vous-même de radio d'urgence, regardez qui en a une dans votre entourage, pour que cette personne puisse partager les informations.
 
+Le Centre de crise recommande aussi de convenir à l'avance avec votre famille de l'endroit où vous vous retrouvez si vous ne parvenez pas à vous joindre, et d'avoir une liste papier des personnes de contact (adresses et numéros de téléphone).
+
 Voir le guide sur le plan d'urgence familial.
 
-Source : [Centre de crise National : Un plan dans votre quartier ou votre association](https://centredecrise.be/fr/que-pouvez-vous-faire/faites-un-plan/un-plan-dans-votre-quartier-ou-votre-association) · [Centre de crise National : brochure Samen voorbereid](https://centredecrise.be/sites/default/files/documents/files/WEB-Brochure-Pr%C3%AAts.%20Ensemble-FR.pdf) · [Denk vooruit: informatieboekje](https://www.denkvooruit.nl/site/binaries/site-content/collections/documents/2025/11/17/informatieboekje-bereid-je-voor-op-een-noodsituatie/informatieboekje-bereid-je-voor-op-een-noodsituatie.pdf)
+Source : [Centre de crise National : perturbation de l'infrastructure numérique](https://centredecrise.be/fr/risques-en-belgique/risques-societaux/defaillance-des-infrastructures-digitales) · [Centre de crise National : un plan à la maison](https://centredecrise.be/fr/que-pouvez-vous-faire/faites-un-plan/un-plan-la-maison) · [Centre de crise National : Un plan dans votre quartier ou votre association](https://centredecrise.be/fr/que-pouvez-vous-faire/faites-un-plan/un-plan-dans-votre-quartier-ou-votre-association) · [Centre de crise National : brochure Samen voorbereid](https://centredecrise.be/sites/default/files/documents/files/WEB-Brochure-Pr%C3%AAts.%20Ensemble-FR.pdf) · [Denk vooruit: informatieboekje](https://www.denkvooruit.nl/site/binaries/site-content/collections/documents/2025/11/17/informatieboekje-bereid-je-voor-op-een-noodsituatie/informatieboekje-bereid-je-voor-op-een-noodsituatie.pdf)
 
 ## Talkies-walkies (PMR446) et CB
 
@@ -340,7 +387,7 @@ Source : [Meshtastic: Introduction](https://meshtastic.org/docs/introduction/)
 - **Sourd ou malentendant.** Veillez à recevoir les alertes, par exemple par SMS de BE-Alert, et indiquez lors de votre inscription que vous êtes sourd ou malentendant. Pensez à la communication sans téléphone ni internet (Centre de crise, Vlaanderen.be).
 - **Aveugle ou malvoyant.** Choisissez les messages vocaux via BE-Alert (Centre de crise).
 - **Peu de compétences numériques.** Demandez à quelqu'un de vous inscrire à BE-Alert et apprenez à reconnaître les messages (Centre de crise).
-- **Peu ou pas de néerlandais ou de français.** Inscrivez-vous à BE-Alert, demandez à votre entourage de traduire les messages et téléchargez éventuellement une application de traduction (Centre de crise). La brochure est aussi disponible en français, en allemand et en anglais.
+- **Peu ou pas de néerlandais ou de français.** Inscrivez-vous à BE-Alert, demandez à votre entourage de traduire les messages et téléchargez éventuellement à l'avance une application de traduction (Centre de crise). La brochure est aussi disponible en français, en allemand et en anglais.
 - **Famille à une autre adresse.** Enregistrez leur adresse dans votre profil BE-Alert (Centre de crise).
 
 Source : [Centre de crise National : BE-Alert](https://centredecrise.be/fr/que-pouvez-vous-faire/informez-vous/be-alert-des-alertes-sur-votre-telephone) · [Vlaanderen.be : BE-Alert](https://www.vlaanderen.be/be-alert-waarschuwingssysteem-bij-noodsituaties) · [Centre de crise National : brochure Samen voorbereid](https://centredecrise.be/sites/default/files/documents/files/WEB-Brochure-Pr%C3%AAts.%20Ensemble-FR.pdf)
@@ -355,5 +402,7 @@ Source : [Centre de crise National : BE-Alert](https://centredecrise.be/fr/que-p
 - [ ] Piles de rechange et une batterie externe chargée.
 - [ ] Liste papier des numéros de téléphone.
 - [ ] Accords avec les voisins sur le contact sans téléphone.
+- [ ] Point de rencontre convenu avec votre famille si vous ne parvenez pas à vous joindre.
+- [ ] Demandé à votre commune où vous adresser si l'appel ne passe pas, par exemple un point d'information et d'accueil.
 
-Source : [Centre de crise National : brochure Samen voorbereid](https://centredecrise.be/sites/default/files/documents/files/WEB-Brochure-Pr%C3%AAts.%20Ensemble-FR.pdf) · [Denk vooruit: informatieboekje](https://www.denkvooruit.nl/site/binaries/site-content/collections/documents/2025/11/17/informatieboekje-bereid-je-voor-op-een-noodsituatie/informatieboekje-bereid-je-voor-op-een-noodsituatie.pdf)
+Source : [Centre de crise National : brochure Samen voorbereid](https://centredecrise.be/sites/default/files/documents/files/WEB-Brochure-Pr%C3%AAts.%20Ensemble-FR.pdf) · [Centre de crise National : perturbation de l'infrastructure numérique](https://centredecrise.be/fr/risques-en-belgique/risques-societaux/defaillance-des-infrastructures-digitales) · [SPF Économie : questions des ménages sur la pénurie d'électricité](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door) · [Denk vooruit: informatieboekje](https://www.denkvooruit.nl/site/binaries/site-content/collections/documents/2025/11/17/informatieboekje-bereid-je-voor-op-een-noodsituatie/informatieboekje-bereid-je-voor-op-een-noodsituatie.pdf)

@@ -4,7 +4,7 @@ module: nucleair
 volgorde: 3
 kort: "Was offizielle Leitfäden des Bevölkerungsschutzes über eine Kernwaffe, eine schmutzige Bombe und andere radiologische Zwischenfälle sagen: die ersten Sekunden, Minuten, Stunden und Tage."
 status: concept
-datum: "2026-11-17"
+datum: "2026-11-18"
 bronnen:
   - naam: "Nationales Krisenzentrum: Freisetzung nuklearer Stoffe"
     url: https://krisenzentrum.be/de/risiken-belgien/technologische-risiken/freisetzung-von-nuklearen-stoffen
@@ -22,6 +22,10 @@ bronnen:
     url: https://nuklearrisiko.be/de/nukleares-risiko/atomtransporte
   - naam: "Nuklearrisiko: Sich selbst dekontaminieren"
     url: https://nuklearrisiko.be/de/was-koennen-sie-tun/sich-selbst-dekontaminieren
+  - naam: "112.be: Häufig gestellte Fragen"
+    url: https://112.be/de/haeufig-gestellte-fragen
+  - naam: "FÖD Wirtschaft: Fragen von Haushalten zur Stromknappheit"
+    url: https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door
   - naam: "MCF: In case of crisis or war (Broschüre)"
     url: https://rib.msb.se/filer/pdf/31523.pdf
   - naam: "MCF: Good to know about civil defence shelters"
@@ -55,7 +59,7 @@ bronnen:
   - naam: "Nationales Krisenzentrum: Broschüre Gemeinsam vorbereitet"
     url: https://krisenzentrum.be/sites/default/files/documents/files/WEB-Brosch%C3%BCre%20Gemeinsam%20Vorbereitet-DE.pdf
 vertaling: machine
-origineel_datum: "2026-11-17"
+origineel_datum: "2026-11-18"
 ---
 
 ## Was die belgischen Behörden sagen
@@ -65,14 +69,14 @@ Das Nationale Krisenzentrum hat keine eigene Seite über Kernwaffen. Für die Fr
 - Schutz suchen ist die beste Art, sich zu schützen.
 - Gehen Sie in das nächstgelegene Gebäude und bleiben Sie drinnen, bis Sie die Nachricht erhalten, dass es sicher ist.
 - Schließen Sie Fenster und Türen und schalten Sie die Lüftungsanlagen ab. Halten Sie sich in einem zentralen Raum im Erdgeschoss auf. Wände und Decken schützen besser als Fenster.
-- Hören Sie auf die Behörden über Radio, Fernsehen, offizielle Websites und soziale Medien.
+- Hören Sie auf die Behörden über das Radio, am besten ein batteriebetriebenes Radio oder ein Kurbelradio. Funktioniert das Internet, sehen Sie auch auf den offiziellen Websites und in den sozialen Medien nach.
 - Lassen Sie Ihre Kinder in der Schule.
 - Evakuieren Sie nie auf eigene Initiative.
 - Nehmen Sie Jodtabletten nur auf Anweisung der Behörden ein.
 
 Für die Druckwelle, die Trümmer und die Hitze einer Kernwaffe gibt Belgien keine spezifische Richtlinie. Der Rest dieses Leitfadens folgt daher dem Bevölkerungsschutz von Schweden (MCF), Finnland, der Schweiz (BABS), Deutschland (BBK), der Ukraine und den Vereinigten Staaten (Ready.gov, CDC). Diese Ratschläge sind für Krieg oder einen Anschlag gedacht und können vom belgischen Rat bei einem Unfall in einem Kernkraftwerk abweichen. Folgen Sie immer den Anweisungen der belgischen Behörden im jeweiligen Moment.
 
-Quelle: [Nationales Krisenzentrum: Freisetzung nuklearer Stoffe](https://krisenzentrum.be/de/risiken-belgien/technologische-risiken/freisetzung-von-nuklearen-stoffen) · [Nationales Krisenzentrum: Freisetzung radioaktiver Stoffe](https://krisenzentrum.be/de/risiken-belgien/technologische-risiken/freisetzung-von-radioaktiven-stoffen) · [Nationales Krisenzentrum: Angriff auf eine CBRNe-Infrastruktur](https://krisenzentrum.be/de/risiken-belgien/sicherheitsrisiken/angriff-auf-eine-cbrne-anlage)
+Quelle: [Nationales Krisenzentrum: Freisetzung nuklearer Stoffe](https://krisenzentrum.be/de/risiken-belgien/technologische-risiken/freisetzung-von-nuklearen-stoffen) · [Nationales Krisenzentrum: Freisetzung radioaktiver Stoffe](https://krisenzentrum.be/de/risiken-belgien/technologische-risiken/freisetzung-von-radioaktiven-stoffen) · [Nationales Krisenzentrum: Angriff auf eine CBRNe-Infrastruktur](https://krisenzentrum.be/de/risiken-belgien/sicherheitsrisiken/angriff-auf-eine-cbrne-anlage) · [Nationales Krisenzentrum: Broschüre Gemeinsam vorbereitet](https://krisenzentrum.be/sites/default/files/documents/files/WEB-Brosch%C3%BCre%20Gemeinsam%20Vorbereitet-DE.pdf)
 
 ## Die Gefahren einer Kernwaffe
 
@@ -145,10 +149,10 @@ Quelle: [Ready.gov: Radiation emergencies](https://www.ready.gov/radiation) · [
 - **Haustiere und Assistenztiere nach drinnen** (Ready.gov, CDC).
 - **Waschen Sie sich**, wenn Sie draußen waren, als der Niederschlag fiel (siehe weiter unten).
 - **Essen und trinken Sie sicher:** Flaschenwasser und Lebensmittel in geschlossenen Verpackungen (CDC).
-- **Bleiben Sie informiert** über Radio, Fernsehen, Telefon und andere Kanäle. Die Rettungsdienste sagen, wo Sie sich auf Kontamination untersuchen lassen können (CDC).
+- **Bleiben Sie informiert** über Radio und Fernsehen; funktioniert das Netz, auch über Ihr Telefon und andere Kanäle. Die Rettungsdienste sagen, wo Sie sich auf Kontamination untersuchen lassen können (CDC). Fällt der Strom aus, hilft ein batteriebetriebenes Radio oder ein Kurbelradio (Krisenzentrum).
 - **Holen Sie Ihre Familie nicht ab.** Bleiben Sie, wo Sie sind (CDC).
 
-Quelle: [Ready.gov: Radiation emergencies](https://www.ready.gov/radiation) · [CDC: What to do, get inside](https://cdc.gov/radiation-emergencies/response/get-inside.html)
+Quelle: [Ready.gov: Radiation emergencies](https://www.ready.gov/radiation) · [CDC: What to do, get inside](https://cdc.gov/radiation-emergencies/response/get-inside.html) · [Nationales Krisenzentrum: Broschüre Gemeinsam vorbereitet](https://krisenzentrum.be/sites/default/files/documents/files/WEB-Brosch%C3%BCre%20Gemeinsam%20Vorbereitet-DE.pdf)
 
 ## Die ersten 24 Stunden und die ersten Tage
 
@@ -250,7 +254,9 @@ Auf belgischem Staatsgebiet werden jährlich ungefähr 400.000 Pakete mit radioa
 - Berühren Sie keine Ladung aus dem Behälter.
 - Folgen Sie den Anweisungen; die Behörden können Sie bitten, Schutz zu suchen.
 
-Quelle: [CDC: What to do for different types of radiation emergencies](https://www.cdc.gov/radiation-emergencies/about/what-to-do.html) · [Nuklearrisiko: Nukleartransporte](https://nuklearrisiko.be/de/nukleares-risiko/atomtransporte) · [Nationales Krisenzentrum: Angriff auf ein weiches Ziel](https://krisenzentrum.be/de/risiken-belgien/sicherheitsrisiken/angriff-auf-ein-soft-target-weiches-ziel)
+Kommt kein Anruf zustande, lassen Sie jemand anderen anrufen oder bitten Sie in Ihrer Umgebung um Hilfe (siehe Notrufnummern in der App, Wenn kein Anruf möglich ist).
+
+Quelle: [CDC: What to do for different types of radiation emergencies](https://www.cdc.gov/radiation-emergencies/about/what-to-do.html) · [Nuklearrisiko: Nukleartransporte](https://nuklearrisiko.be/de/nukleares-risiko/atomtransporte) · [Nationales Krisenzentrum: Angriff auf ein weiches Ziel](https://krisenzentrum.be/de/risiken-belgien/sicherheitsrisiken/angriff-auf-ein-soft-target-weiches-ziel) · [112.be: Häufig gestellte Fragen](https://112.be/de/haeufig-gestellte-fragen) · [FÖD Wirtschaft: Fragen von Haushalten zur Stromknappheit](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door)
 
 ## Kinder, schutzbedürftige Personen und Tiere
 
@@ -262,13 +268,13 @@ Quelle: [CDC: What to do, get inside](https://cdc.gov/radiation-emergencies/resp
 
 ## Vorbereiten
 
-- **Wissen Sie, wie Sie gewarnt werden.** Melden Sie sich bei BE-Alert an. Halten Sie ein Radio mit Batterien oder ein Kurbelradio bereit (Krisenzentrum). Ready.gov empfiehlt, mehrere Wege zu haben, um Warnungen zu erhalten.
+- **Wissen Sie, wie Sie gewarnt werden.** Halten Sie ein Radio mit Batterien oder ein Kurbelradio bereit, am besten mit DAB+ und UKW. Melden Sie sich bei BE-Alert an (Krisenzentrum). Ready.gov empfiehlt, mehrere Wege zu haben, um Warnungen zu erhalten.
 - **Kennen Sie Ihren besten Ort zu Hause und bei der Arbeit:** Keller oder die Mitte des Gebäudes, und einen unterirdischen Raum in der Nähe.
 - **Legen Sie bereit:** Wasser, verschlossene Lebensmittel, Medikamente, einen Satz Ersatzkleidung pro Familienmitglied und einen Müllsack für kontaminierte Kleidung (Ready.gov).
 - **Erstellen Sie einen Kommunikationsplan:** wo Sie sich treffen, wenn Sie sich nicht zu Hause treffen können, eine weit entfernt wohnende Kontaktperson, und kennen Sie die Schutz- und Evakuierungspläne von Schule, Arbeit und Pflegeeinrichtung (Ready.gov).
 - **Finnland:** Lernen Sie die Schritte des Schutz Suchens drinnen und wie Sie die Lüftung ausschalten, halten Sie Klebeband bereit und bewahren Sie Jodtabletten auf, wie die Behörden es empfehlen.
 
-Quelle: [Nationales Krisenzentrum: Schutz suchen](https://krisenzentrum.be/de/was-koennen-sie-tun/der-richtige-reflex/schutz-suchen) · [Ready.gov: Radiation emergencies](https://www.ready.gov/radiation) · [Suomi.fi: Radiation hazards](https://www.suomi.fi/guides/preparedness/how-to-prepare-for-incidents-and-crises/radiation-hazards)
+Quelle: [Nationales Krisenzentrum: Schutz suchen](https://krisenzentrum.be/de/was-koennen-sie-tun/der-richtige-reflex/schutz-suchen) · [Nationales Krisenzentrum: Broschüre Gemeinsam vorbereitet](https://krisenzentrum.be/sites/default/files/documents/files/WEB-Brosch%C3%BCre%20Gemeinsam%20Vorbereitet-DE.pdf) · [Ready.gov: Radiation emergencies](https://www.ready.gov/radiation) · [Suomi.fi: Radiation hazards](https://www.suomi.fi/guides/preparedness/how-to-prepare-for-incidents-and-crises/radiation-hazards)
 
 ## Nicht tun
 

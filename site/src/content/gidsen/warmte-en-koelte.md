@@ -4,7 +4,7 @@ module: warmte
 volgorde: 1
 kort: "Hoe je bij kou zonder verwarming warm blijft (één kamer, kleding in lagen, warm slapen), hoe je veilig stookt zonder koolstofmonoxidevergiftiging, en hoe je bij hitte koel blijft als er geen stroom is."
 status: concept
-datum: "2026-11-17"
+datum: "2026-11-18"
 bronnen:
   - naam: "Nationaal Crisiscentrum: Koudegolf"
     url: "https://crisiscentrum.be/nl/risicos-belgie/natuurlijke-risicos/koudegolf"
@@ -38,6 +38,16 @@ bronnen:
     url: "https://www.ready.gov/power-outages"
   - naam: "Ready.gov: People with Disabilities"
     url: "https://www.ready.gov/disability"
+  - naam: "FOD Economie: Veelgestelde vragen door gezinnen over elektriciteitsschaarste"
+    url: "https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door"
+  - naam: "Rode Kruis-Vlaanderen: Stroom- en communicatie-uitval"
+    url: "https://www.rodekruis.be/wat-doen-we/hulp-in-vlaanderen/goed-voorbereid/stroom-en-communicatie-uitval/"
+  - naam: "112.be: Veelgestelde vragen"
+    url: "https://112.be/nl/veelgestelde-vragen"
+  - naam: "ERC Guidelines 2021: First aid"
+    url: "https://cprguidelines-old.erc.edu/assets/guidelines/European-Resuscitation-Council-Guidelines-2021-Fi.pdf"
+  - naam: "IFRC: International First Aid, Resuscitation and Education Guidelines 2020"
+    url: "https://www.ifrc.org/sites/default/files/2022-02/EN_GFARC_GUIDELINES_2020.pdf"
 ---
 
 Valt de stroom uit, dan valt ook de verwarming vaak uit. De OFF ON-brochure van het Crisiscentrum noemt de afsluiting van verwarmingsketels en circulatiepompen uitdrukkelijk als gevolg van een stroomonderbreking. Het BBK schrijft: zonder stroom werkt je verwarming misschien niet, en in de winter koelen kamers snel af. In de zomer werken ventilatoren en airco niet. Deze gids gaat over beide situaties.
@@ -75,9 +85,10 @@ In volgorde van wat de bronnen eerst noemen.
 
 **2. In één kamer leven**
 
+- Sluit ramen en deuren en blijf zoveel mogelijk in één ruimte (Rode Kruis-Vlaanderen).
 - Kies zoveel mogelijk één kamer om in te verblijven en hou de deuren dicht, zodat de warmte niet ontsnapt (BBK).
 - Kom samen in één kamer (MCF).
-- Bij een stroomonderbreking kun je met verschillende personen samenkomen om licht en warmte te delen (Crisiscentrum).
+- Bij een stroomonderbreking kun je met verschillende personen samenkomen om licht en warmte te delen. Spreek vooraf met je buren af bij wie je terecht kunt en welke spullen je deelt (Crisiscentrum).
 
 Welke kamer de bronnen aanraden, zeggen ze niet. Kies een kamer die je kunt verluchten: ook in één kamer blijft regelmatig verluchten nodig (zie hieronder).
 
@@ -95,7 +106,8 @@ Welke kamer de bronnen aanraden, zeggen ze niet. Kies een kamer die je kunt verl
 
 **5. Naar een warme plek gaan**
 
-- Ga naar een plek in de gemeente met stroom als de hitte of kou extreem is (Ready.gov). Vraag de lokale overheid welke warme of koele plekken open zijn.
+- Ga naar een plek in de gemeente met stroom als de hitte of kou extreem is (Ready.gov). Ready.gov raadt aan bij de lokale overheid na te gaan welke warme of koele plekken open zijn.
+- In België hebben burgemeesters en gouverneurs voor een afschakeling noodmaatregelen voorbereid, zoals een informatie- en onthaalpunt voor de bevolking. Vraag vooraf aan je gemeente welke oplossingen ze voorziet. Tijdens de onderbreking volg je de informatie van de overheid via een radio op batterijen of de autoradio, of vraag je hulp in je buurt (FOD Economie).
 
 **Wat niet**
 
@@ -103,7 +115,7 @@ Welke kamer de bronnen aanraden, zeggen ze niet. Kies een kamer die je kunt verl
 - Haal geen barbecue in huis om te verwarmen (Antigifcentrum).
 - Gebruik generatoren alleen buiten (Ready.gov). Zie de gids over licht en energie.
 
-Bron: [Nationaal Crisiscentrum: OFF ON](https://crisiscentrum.be/sites/default/files/documents/files/OffOn-triptyque-N.pdf) · [Nationaal Crisiscentrum: Koudegolf](https://crisiscentrum.be/nl/risicos-belgie/natuurlijke-risicos/koudegolf) · [Nationaal Crisiscentrum: Een noodpakket bij je thuis](https://crisiscentrum.be/nl/wat-kan-jij-doen/maak-een-noodpakket/een-noodpakket-bij-je-thuis) · [BBK: Vorsorgen für Krisen und Katastrophen](https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/Buergerinformationen/Ratgeber/BBK-Vorsorgen-fuer-Krisen-und-Katastrophen.pdf?__blob=publicationFile&v=44) · [BBK: Vorsorge und Handeln bei Stromausfall](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Vorsorge/Stromausfall/stromausfall_node.html) · [MCF: In case of crisis or war](https://rib.msb.se/filer/pdf/31523.pdf) · [Denk vooruit: informatieboekje](https://www.denkvooruit.nl/site/binaries/site-content/collections/documents/2025/11/17/informatieboekje-bereid-je-voor-op-een-noodsituatie/informatieboekje-bereid-je-voor-op-een-noodsituatie.pdf) · [Ready.gov: Power Outages](https://www.ready.gov/power-outages) · [Antigifcentrum: CO-vergiftiging voorkomen](https://www.poisoncentre.be/app/uploads/2026/02/Brochure-CO-vergiftiging-voorkomen-NL-1.pdf)
+Bron: [Nationaal Crisiscentrum: OFF ON](https://crisiscentrum.be/sites/default/files/documents/files/OffOn-triptyque-N.pdf) · [Nationaal Crisiscentrum: Koudegolf](https://crisiscentrum.be/nl/risicos-belgie/natuurlijke-risicos/koudegolf) · [Nationaal Crisiscentrum: Een noodpakket bij je thuis](https://crisiscentrum.be/nl/wat-kan-jij-doen/maak-een-noodpakket/een-noodpakket-bij-je-thuis) · [BBK: Vorsorgen für Krisen und Katastrophen](https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/Buergerinformationen/Ratgeber/BBK-Vorsorgen-fuer-Krisen-und-Katastrophen.pdf?__blob=publicationFile&v=44) · [BBK: Vorsorge und Handeln bei Stromausfall](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Vorsorge/Stromausfall/stromausfall_node.html) · [MCF: In case of crisis or war](https://rib.msb.se/filer/pdf/31523.pdf) · [Denk vooruit: informatieboekje](https://www.denkvooruit.nl/site/binaries/site-content/collections/documents/2025/11/17/informatieboekje-bereid-je-voor-op-een-noodsituatie/informatieboekje-bereid-je-voor-op-een-noodsituatie.pdf) · [Ready.gov: Power Outages](https://www.ready.gov/power-outages) · [Antigifcentrum: CO-vergiftiging voorkomen](https://www.poisoncentre.be/app/uploads/2026/02/Brochure-CO-vergiftiging-voorkomen-NL-1.pdf) · [Rode Kruis-Vlaanderen: Stroom- en communicatie-uitval](https://www.rodekruis.be/wat-doen-we/hulp-in-vlaanderen/goed-voorbereid/stroom-en-communicatie-uitval/) · [FOD Economie: vragen van gezinnen over elektriciteitsschaarste](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door)
 
 ## Verluchten, ook als het koud is
 
@@ -173,14 +185,16 @@ Bron: [Antigifcentrum: CO-vergiftiging voorkomen](https://www.poisoncentre.be/ap
 **Wat je doet (Antigifcentrum)**
 
 1. Ga nooit een ruimte binnen waar een bewusteloos slachtoffer ligt. Bescherm jezelf.
-2. Bel meteen de hulpdiensten.
+2. Bel meteen de hulpdiensten, of laat iemand bellen. Lukt bellen niet, zie Noodnummers in de app, Als bellen niet lukt.
 3. Zet ramen en deuren open, als je dat kunt zonder risico voor jezelf.
 4. Is het slachtoffer bewusteloos: bel 112 en zeg dat het vermoedelijk om CO gaat. Schakel zo mogelijk het toestel uit. Breng het slachtoffer uit de kamer. Ademt het slachtoffer niet meer, geef dan mond-op-mondbeademing; dat is volgens het Antigifcentrum veilig. Ademt het nog, leg het dan op de zij zonder hoofdkussen.
-5. Is het slachtoffer bij bewustzijn: bel de huisarts.
+5. Is het slachtoffer bij bewustzijn: bel de huisarts, als het netwerk werkt.
 
-Het Antigifcentrum is 24 uur op 24 gratis bereikbaar op 070 245 245. Zie ook de scenariokaart over CO.
+Lukt bellen niet: laat het slachtoffer alleen als er geen andere mogelijkheid is, en wijs een omstander of buur aan om hulp te halen. Geef mee waar het is, wat er gebeurd is (vermoedelijk CO), hoeveel slachtoffers er zijn en hoe ze eraan toe zijn.
 
-Bron: [Antigifcentrum: CO-vergiftiging voorkomen](https://www.poisoncentre.be/app/uploads/2026/02/Brochure-CO-vergiftiging-voorkomen-NL-1.pdf)
+Het Antigifcentrum is 24 uur op 24 gratis bereikbaar op 070 245 245, als het netwerk werkt. Noteer het nummer vooraf op je papieren lijst. Zie ook de scenariokaart over CO.
+
+Bron: [Antigifcentrum: CO-vergiftiging voorkomen](https://www.poisoncentre.be/app/uploads/2026/02/Brochure-CO-vergiftiging-voorkomen-NL-1.pdf) · [ERC Guidelines 2021: First aid](https://cprguidelines-old.erc.edu/assets/guidelines/European-Resuscitation-Council-Guidelines-2021-Fi.pdf) · [IFRC Guidelines 2020](https://www.ifrc.org/sites/default/files/2022-02/EN_GFARC_GUIDELINES_2020.pdf) · [112.be: Veelgestelde vragen](https://112.be/nl/veelgestelde-vragen)
 
 ## Brand bij stoken en kaarsen
 
@@ -231,7 +245,7 @@ Een hittegolf is volgens het Crisiscentrum een periode van minstens vijf opeenvo
 
 **Voor de hitte (Crisiscentrum)**
 
-- Volg de weersvoorspelling van het KMI.
+- Volg de weersvoorspelling van het KMI, bijvoorbeeld via radio of tv.
 - Ben je een risicopersoon, zoals hartpatiënt of oudere, vraag je huisarts naar de risico's.
 - Vraag je arts of apotheker of je geneesmiddelen bij warmte een nadelige invloed kunnen hebben.
 - Ga langs bij mensen die hulp nodig hebben, om hen te helpen zich voor te bereiden.
@@ -270,13 +284,13 @@ Ready.gov:
 
 | | Tekenen | Wat je doet |
 | --- | --- | --- |
-| Hittekrampen | spierpijn of krampen in buik, armen of benen | ga naar een koelere plek, trek overtollige kleding uit, drink kleine slokjes water of sportdrank; bel je zorgverlener als het erger wordt of langer dan een uur duurt |
+| Hittekrampen | spierpijn of krampen in buik, armen of benen | ga naar een koelere plek, trek overtollige kleding uit, drink kleine slokjes water of sportdrank; bel je zorgverlener als het erger wordt of langer dan een uur duurt, als het netwerk werkt |
 | Hitte-uitputting | hevig zweten, bleekheid, spierkrampen, moeheid, zwakte, snelle of zwakke pols, duizeligheid, hoofdpijn, flauwvallen, misselijkheid, braken | zelfde als bij hittekrampen |
 | Hitteberoerte | de bron noemt hier geen aparte tekenen | bel 112 of breng de persoon naar een ziekenhuis; breng hem naar een koele, schaduwrijke plek; trek bovenkleding uit; leg koude natte doeken of ijs op hoofd, nek, oksels en lies, of maak de kleding nat met koel water; leg de voeten hoger |
 
-Het Crisiscentrum: heb je krampen, hoge koorts, hoofdpijn of word je flauw, bel je huisarts. Bel 112 alleen bij een levensbedreigende situatie.
+Het Crisiscentrum: heb je krampen, hoge koorts, hoofdpijn of word je flauw, bel je huisarts. Bel 112 alleen bij een levensbedreigende situatie. Lukt bellen niet, laat iemand anders bellen of vraag hulp in je buurt (zie Noodnummers, Als bellen niet lukt). Bij een hitteberoerte noemt Ready.gov ook: breng de persoon naar een ziekenhuis.
 
-Bron: [Ready.gov: Extreme Heat](https://www.ready.gov/heat) · [Nationaal Crisiscentrum: Hittegolf](https://crisiscentrum.be/nl/risicos-belgie/natuurlijke-risicos/hittegolf)
+Bron: [Ready.gov: Extreme Heat](https://www.ready.gov/heat) · [Nationaal Crisiscentrum: Hittegolf](https://crisiscentrum.be/nl/risicos-belgie/natuurlijke-risicos/hittegolf) · [FOD Economie: vragen van gezinnen over elektriciteitsschaarste](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door) · [112.be: Veelgestelde vragen](https://112.be/nl/veelgestelde-vragen)
 
 ## Hitte per persoon
 
@@ -284,7 +298,7 @@ Bron: [Ready.gov: Extreme Heat](https://www.ready.gov/heat) · [Nationaal Crisis
 - **Dwarslaesie.** Kan het lichaam soms niet afkoelen door te zweten (Ready.gov).
 - **Ernstige psychische aandoeningen.** Medicijnen kunnen het afkoelen van het lichaam verstoren (Ready.gov).
 - **Dementie en verstandelijke beperking.** Iemand kan moeilijk begrijpen of uitleggen hoe de hitte hem treft (Ready.gov). Vraag mantelzorgers, familie en vrienden om regelmatig langs te komen.
-- **Elektrische medische toestellen.** Vraag je energieleverancier naar voorrang bij stroomuitval (Ready.gov). Zie de gids over medicatie en zorg.
+- **Elektrische medische toestellen.** Vraag je energieleverancier naar voorrang bij stroomuitval (Ready.gov). Kun je met je medische noden niet thuis blijven en niet terecht op een gewone koele plek, maak dan vooraf een plan met een ziekenhuis of woonzorgcentrum in de buurt (Ready.gov). Zie de gids over medicatie en zorg.
 - **Huisdieren.** Zorg voor veel koel water en schaduw. Asfalt kan te heet zijn voor de poten (Ready.gov).
 - **Buren.** Kijk naar familie, ouderen en buren (Ready.gov).
 

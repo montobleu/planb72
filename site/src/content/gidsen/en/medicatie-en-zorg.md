@@ -2,9 +2,9 @@
 titel: "Medication and care in an emergency"
 module: gezondheid
 volgorde: 2
-kort: "How to build up a supply of your regular medicines, what to do with insulin and other temperature-sensitive medication without power, home oxygen and dialysis, where to go when medication runs out, and how to care for people who depend on care. Without dosages."
+kort: "How to build up a supply of your regular medicines, what to do with insulin and other temperature-sensitive medication without power, home oxygen and dialysis, what to agree in advance for when you cannot call your care provider, where to go when medication runs out, and how to care for people who depend on care. Without dosages."
 status: concept
-datum: "2026-11-17"
+datum: "2026-11-18"
 bronnen:
   - naam: "National Crisis Center: An emergency kit at home"
     url: "https://crisiscenter.be/en/what-can-you-do/build-emergency-kit/emergency-kit-home"
@@ -40,8 +40,16 @@ bronnen:
     url: "https://www.ready.gov/kit"
   - naam: "WHO, War Trauma Foundation and World Vision International: Psychological first aid, guide for field workers (2011)"
     url: "https://psychiatry.uw.edu/wp-content/uploads/2020/04/1.-WHO_PFA_2011.pdf"
+  - naam: "FPS Economy: Frequently asked questions from households about electricity shortages"
+    url: "https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door"
+  - naam: "National Crisis Center: A plan at home"
+    url: "https://crisiscenter.be/en/what-can-you-do/make-plan/emergency-plan-home"
+  - naam: "National Crisis Center: A plan for your neighbourhood or association"
+    url: "https://crisiscenter.be/en/what-can-you-do/make-plan/plan-your-neighbourhood-association-or-club"
+  - naam: "112.be: Frequently asked questions"
+    url: "https://112.be/en/frequently-asked-questions"
 vertaling: machine
-origineel_datum: "2026-11-17"
+origineel_datum: "2026-11-18"
 ---
 
 When you put together your emergency kit, the Crisis Center explicitly asks you to take into account the medication you use every day. The BBK explains why: in a crisis, ambulance services, hospitals and pharmacies may be temporarily unavailable. This guide is about your own medicines and aids, and about caring for people who depend on others or on devices that run on electricity.
@@ -186,12 +194,14 @@ Source: [FDA: Safe Drug Use After a Natural Disaster](https://www.fda.gov/drugs/
 - Keep a reserve supply of oxygen (Ready.gov).
 - Make a list of the type and serial number of your medical devices, with any operating instructions (Ready.gov).
 - Buy an extra battery for battery-powered devices and keep them charged (Ready.gov).
+- Do not wait for a power cut. Find out how long the fully charged internal battery of your device lasts. If that is shorter than the interruption could last, you will need to be looked after somewhere else: look into those options in advance (FPS Economy).
+- If you use a device intermittently, as with home dialysis, make sure it is not connected at the time of an announced load-shedding cut (FPS Economy).
 
 **What the BBK says about home nursing care.** During a power cut, devices used in home nursing care that may be vital, such as ventilators, can fail. Services such as personal alarm systems and meals on wheels may be disrupted or stop. If you use such services, ask whether and how they will continue during a longer power cut.
 
-See also the guide on light and energy for batteries, power banks and generators.
+See also the guide on light and energy for batteries, power banks and generators, and below for what to do if you cannot call your care provider.
 
-Source: [National Crisis Center: A plan for people who need extra help](https://crisiscenter.be/en/what-can-you-do/make-plan/people-who-need-additional-help) · [Ready.gov: People with Disabilities](https://www.ready.gov/disability) · [Ready.gov: Power Outages](https://www.ready.gov/power-outages) · [BBK: Stromausfall, Vorsorge und Selbsthilfe](https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/Buergerinformationen/stromausfall-vorsorge-selbsthilfe.pdf?__blob=publicationFile&v=17)
+Source: [National Crisis Center: A plan for people who need extra help](https://crisiscenter.be/en/what-can-you-do/make-plan/people-who-need-additional-help) · [FPS Economy: questions from households about electricity shortages](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door) · [Ready.gov: People with Disabilities](https://www.ready.gov/disability) · [Ready.gov: Power Outages](https://www.ready.gov/power-outages) · [BBK: Stromausfall, Vorsorge und Selbsthilfe](https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/Buergerinformationen/stromausfall-vorsorge-selbsthilfe.pdf?__blob=publicationFile&v=17)
 
 ## Dialysis and other treatments at a centre
 
@@ -203,6 +213,39 @@ The Belgian sources consulted give no separate guidelines for dialysis. Ask your
 
 Source: [Ready.gov: People with Disabilities](https://www.ready.gov/disability) · [Ready.gov: Older Adults](https://www.ready.gov/older-adults)
 
+## If you cannot call your care provider
+
+During a power cut, mobile masts last one to two hours, mobile internet drops out quickly and most landlines stop working (FPS Economy). Personal alarm systems can also fail (BBK). If you depend on oxygen, dialysis, home ventilation or another device, arrange in advance what will happen if nobody can be reached.
+
+**Agree in advance**
+
+- Discuss with your care providers what to do if your device breaks down (Crisis Center). Also agree how you will reach each other in an emergency and think of alternatives if you have no phone or internet (Crisis Center).
+- If you use home nursing care or a personal alarm system, ask whether and how those services will continue during a long power cut (BBK).
+- If you receive treatment at a clinic or hospital, ask about their emergency plan and find a back-up address together (Ready.gov). Know the location of more than one place that can help you (Ready.gov).
+- Find out how long the battery of your device lasts and where else you could be looked after (FPS Economy).
+- Ask your municipality what arrangements it has made for a power cut, for example an information and reception point for the public (FPS Economy). In Germany, the BBK recommends asking the municipality where you can report an emergency if the telephone network fails.
+- Agree with your neighbours how you will reach each other without phone or internet, and who needs extra help (Crisis Center, plan for your neighbourhood).
+- Make sure at least one person in your support network has a key, knows where your supply is and knows how to operate your life-saving devices (Ready.gov). See below under people who depend on care.
+
+**On paper**
+
+- A list with the name, address and telephone number of your care providers and contacts. That way you can find each other again, even if your mobile is flat (Crisis Center).
+- A list of the nearest medical facilities and hospitals and of adapted transport (Ready.gov).
+- The type and serial number of your devices, with the operating instructions (Ready.gov), and your medication list.
+- Keep your contact list in waterproof packaging with your emergency kit (Ready.gov).
+
+**When it happens and you cannot get through**
+
+1. Follow the arrangements you made in advance.
+2. Ask for help in your neighbourhood (FPS Economy), from neighbours, family and the people in your support network (Ready.gov). The BBK recommends talking to your neighbours: they may need help or be able to help you.
+3. Follow the information from the authorities on a battery radio or the car radio (FPS Economy). The municipality can open an information and reception point for the public (FPS Economy).
+4. If the battery of a life-sustaining device lasts less long than the interruption, you will need to be looked after somewhere else (FPS Economy). Go to the place you agreed in advance.
+5. If there is a danger to life: call 112 or have someone call. If that does not work, see Emergency numbers in the app, If you cannot call. The map in the app (Nearest button) shows hospitals, fire stations, police and town halls.
+
+Good to know: general and psychiatric hospitals are among the priority users. During load shedding, they are in principle not cut off, or are reconnected with priority. Residential care homes and care centres are not among them (FPS Economy). In Germany, the BBK recommends that, if the emergency numbers do not work, in an emergency you go to the nearest police station or hospital if possible.
+
+Source: [FPS Economy: questions from households about electricity shortages](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door) · [National Crisis Center: A plan for people who need extra help](https://crisiscenter.be/en/what-can-you-do/make-plan/people-who-need-additional-help) · [National Crisis Center: A plan at home](https://crisiscenter.be/en/what-can-you-do/make-plan/emergency-plan-home) · [National Crisis Center: A plan for your neighbourhood or association](https://crisiscenter.be/en/what-can-you-do/make-plan/plan-your-neighbourhood-association-or-club) · [112.be: Frequently asked questions](https://112.be/en/frequently-asked-questions) · [BBK: Stromausfall, Vorsorge und Selbsthilfe](https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/Buergerinformationen/stromausfall-vorsorge-selbsthilfe.pdf?__blob=publicationFile&v=17) · [BBK: Vorsorgen für Krisen und Katastrophen](https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/Buergerinformationen/Ratgeber/BBK-Vorsorgen-fuer-Krisen-und-Katastrophen.pdf?__blob=publicationFile&v=44) · [Ready.gov: People with Disabilities](https://www.ready.gov/disability) · [Ready.gov: Older Adults](https://www.ready.gov/older-adults)
+
 ## If your medication runs out
 
 **Normal operation: the pharmacy on duty.** Outside opening hours, in Belgium you can always find a pharmacy on duty nearby (APB, apotheek.be):
@@ -213,20 +256,20 @@ Source: [Ready.gov: People with Disabilities](https://www.ready.gov/disability) 
 | Saturday | from 13:00 to 9:00 the next morning |
 | Sundays and public holidays | from 9:00 to 9:00 the next morning |
 
-- Look up the pharmacy on duty on apotheek.be. In some regions, after 22:00 you have to call a free phone number to find out which pharmacy is on duty.
-- **Without internet.** Every pharmacy displays an on-duty list with the name, address and phone number of the pharmacies on duty nearby. You can read it from outside.
+- **Without internet.** Every pharmacy displays an on-duty list with the name, address and phone number of the pharmacies on duty nearby. You can read it from outside. So go to the nearest pharmacy first.
+- **If the network works.** You can then also look up the pharmacy on duty on apotheek.be. In some regions, after 22:00 you have to call a free phone number to find out which pharmacy is on duty.
 - At night, many pharmacists serve customers through a night hatch.
 - With a prescription, the pharmacist may not charge an on-duty surcharge; without a prescription, they may ask a reasonable surcharge that is visibly displayed.
 
-**The GP on duty** can be reached on 1733 (Crisis Center).
+**The GP on duty** can be reached on 1733 (Crisis Center), if the network works. Write the number down in advance on your paper list.
 
 **In a shortage of medicines** (Crisis Center)
 
-- Register with Farmastatus to receive automatic emails when the availability of a medicine changes.
-- Ask your GP or pharmacist for advice about your treatment. Read what you can do yourself on farmainfo.be.
+- Ask your GP or pharmacist for advice about your treatment.
+- As preparation, while the internet works: register with Farmastatus to receive automatic emails when the availability of a medicine changes, and read what you can do yourself on farmainfo.be.
 - The Federal Agency for Medicines and Health Products (FAMHP) monitors the supply; manufacturers must report unavailability.
 
-**If care is temporarily unavailable.** The BBK writes: if the emergency numbers no longer work, in an emergency go to the nearest police station or hospital if possible. The WHO lists care for chronic conditions among the things people often need after a disaster (see the guide on evacuation).
+**If care is temporarily unavailable.** See the section If you cannot call your care provider. In Germany, the BBK writes: if the emergency numbers no longer work, in an emergency go to the nearest police station or hospital if possible. The WHO lists care for chronic conditions among the things people often need after a disaster (see the guide on evacuation).
 
 **Consultation.** For insulin, the FDA explicitly says that switching to another product should only be done under a doctor's supervision.
 
@@ -252,7 +295,7 @@ Source: [BBK: Vorsorgen für Krisen und Katastrophen](https://www.bbk.bund.de/Sh
 
 - Prepare to care for family members who need nursing care yourself for a while if necessary (BBK).
 - Build a support network of family, friends and others who can help. Make sure at least one person has a key to the home, knows where the emergency supply is and knows how to operate life-saving devices or administer medicines (Ready.gov, older adults).
-- Agree on how you will reach each other in an emergency. People around you can register your address in BE-Alert (Crisis Center).
+- Agree on how you will reach each other in an emergency, even if phone and internet are not working (Crisis Center). People around you can register your address in BE-Alert, so that they also receive a message for as long as the network works (Crisis Center).
 - If you receive help from the municipality or home care, talk with your family, neighbours, assistants or care coordinator about what help you will need, and make a plan with your medicines and aids (MCF).
 
 **In a residential care home.** Ask about emergency power planning or a connection for emergency power (BBK).
@@ -272,9 +315,12 @@ Source: [BBK: Stromausfall, Vorsorge und Selbsthilfe](https://www.bbk.bund.de/Sh
 - [ ] Medicines in waterproof boxes, stored high up.
 - [ ] Cool box and cool packs for refrigerated medicines.
 - [ ] Package leaflet of your insulin read for storage out of the fridge.
-- [ ] Plan for every medical device that runs on electricity, discussed with your care provider.
+- [ ] Plan for every medical device that runs on electricity, discussed with your care provider, including for when you cannot call.
+- [ ] Battery life of every life-sustaining device known, and a place where you can go otherwise.
+- [ ] On paper: care providers and contacts with address and telephone number, and the nearest hospitals.
 - [ ] Spare batteries and chargers for aids.
 - [ ] For dialysis or another treatment: a second address and the centre's emergency plan.
 - [ ] Knowing where to find the pharmacy on duty, including without internet.
+- [ ] The number of the GP on duty (1733) on your paper list.
 
-Source: [National Crisis Center: An emergency kit at home](https://crisiscenter.be/en/what-can-you-do/build-emergency-kit/emergency-kit-home) · [FDA: Safe Drug Use After a Natural Disaster](https://www.fda.gov/drugs/emergency-preparedness-drugs/safe-drug-use-after-natural-disaster) · [Ready.gov: People with Disabilities](https://www.ready.gov/disability) · [APB, apotheek.be: pharmacy on duty](https://www.apotheek.be/Pharmacy/Article/wat-je-moet-weten-over-de-apotheek-van-wacht~1236)
+Source: [National Crisis Center: An emergency kit at home](https://crisiscenter.be/en/what-can-you-do/build-emergency-kit/emergency-kit-home) · [FPS Economy: questions from households about electricity shortages](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door) · [National Crisis Center: A plan at home](https://crisiscenter.be/en/what-can-you-do/make-plan/emergency-plan-home) · [FDA: Safe Drug Use After a Natural Disaster](https://www.fda.gov/drugs/emergency-preparedness-drugs/safe-drug-use-after-natural-disaster) · [Ready.gov: People with Disabilities](https://www.ready.gov/disability) · [APB, apotheek.be: pharmacy on duty](https://www.apotheek.be/Pharmacy/Article/wat-je-moet-weten-over-de-apotheek-van-wacht~1236)

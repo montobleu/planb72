@@ -3,20 +3,20 @@ titel: Flood
 volgorde: 3
 kort: "Water is rising, a river is bursting its banks, the sewers can no longer cope with the rain or there is a flood warning."
 stappen:
-  - "Follow the instructions of the authorities via BE-Alert, the radio and your municipality's website. Call 112 if someone's life is in danger."
-  - "Go to a higher floor or higher ground if the water is rising. Take water, medicines, your phone and a charger with you."
+  - "Go to a higher floor or higher ground if the water is rising. Take water, medicines, your phone and a charger with you. Only go onto the roof if it is really necessary, and signal for help from there."
   - "Place sandbags or flood barriers in front of cellar openings and outside doors. Move carpets, furniture, valuables and papers higher up."
   - "Shut off the gas, electricity and water if necessary and if it is safe to do so. Do not touch anything electrical that is under water."
-  - "Do not walk, swim or drive through flowing water. A shallow layer of flowing water can knock you over and carry a car away."
-  - "Stay out of cellars, underground garages and underpasses during high water or a cloudburst."
-  - "Ask the fire service for non-urgent help via 1722.be or 1722 if that number is active."
+  - "Do not walk, swim or drive through flowing water. Stay out of cellars, underground garages and underpasses during high water or a cloudburst."
+  - "Listen to the radio, battery-powered or in the car, and watch for police loudspeaker vans. If the network works, also follow BE-Alert and your municipality's website."
+  - "Someone's life is in danger: call 112. If that does not work, have someone else call or ask for help nearby (see Emergency numbers, If you cannot call)."
+  - "Non-urgent help from the fire service: if the network works, request it via 1722.be, or call 1722 if that number is active. Keep 112 free."
 niet:
   - "Do not shelter in a cellar, an underground car park or a tunnel."
   - "Do not drive through flooded streets or around barriers."
   - "Do not climb into a closed attic if you become trapped."
   - "Do not drink tap water until the authorities say it is safe."
 status: concept
-datum: "2026-11-17"
+datum: "2026-11-18"
 bronnen:
   - naam: "National Crisis Center: fluvial flooding (river)"
     url: https://crisiscenter.be/en/risks-belgium/natural-risks/fluvial-riverine-flood
@@ -56,8 +56,22 @@ bronnen:
     url: https://www.ready.gov/floods
   - naam: "CDC: keep food safe after a disaster or emergency"
     url: https://www.cdc.gov/food-safety/foods/keep-food-safe-after-emergency.html
+  - naam: "National Crisis Center: brochure Prepared together"
+    url: https://crisiscenter.be/sites/default/files/documents/files/WEB-Brochure%20Prepared%20Together-EN.pdf
+  - naam: "National Crisis Center: disruption of the digital infrastructure"
+    url: https://crisiscenter.be/en/risks-belgium/societal-risks/failure-digital-infrastructure
+  - naam: "National Crisis Center: a plan in your neighbourhood"
+    url: https://crisiscenter.be/en/what-can-you-do/make-plan/plan-your-neighbourhood-association-or-club
+  - naam: "112.be: Frequently asked questions"
+    url: https://112.be/en/frequently-asked-questions
+  - naam: "FPS Economy: questions from households about electricity shortages"
+    url: https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door
+  - naam: "BBK: Vorsorgen für Krisen und Katastrophen"
+    url: https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/Buergerinformationen/Ratgeber/BBK-Vorsorgen-fuer-Krisen-und-Katastrophen.pdf?__blob=publicationFile&v=44
+  - naam: "Inspectorates (Netherlands): Unavailability of 112 on 24 June 2019"
+    url: https://zoek.officielebekendmakingen.nl/blg-942150.pdf
 vertaling: machine
-origineel_datum: "2026-11-17"
+origineel_datum: "2026-11-18"
 ---
 
 ## Recognise
@@ -72,10 +86,10 @@ origineel_datum: "2026-11-17"
 
 - The RMI issues colour codes for rain. Code yellow for example for 25 to 50 litres per m² in 24 hours, code orange for 51 to 100 litres, code red for more than 100 litres per m² in 24 hours or for major flooding with more heavy rain on the way. Code orange can come up to 24 hours in advance, code red at the earliest 12 hours in advance.
 - For storm surges the RMI issues a code based on the water level in Ostend and Antwerp.
-- Waterinfo.be (Flanders) shows water levels, the rainfall radar and flood reports. In Wallonia hydrometrie.wallonie.be shows the water levels and flow rates of the rivers.
-- In case of danger the authorities warn you via BE-Alert, radio, TV, websites, social media and police loudspeaker vans.
+- In case of danger the authorities warn you via radio, TV and police loudspeaker vans driving through the streets. If the network works, also via BE-Alert, websites and social media. If the power fails, listen to a battery-powered radio or the car radio.
+- If the internet works, Waterinfo.be (Flanders) shows water levels, the rainfall radar and flood reports. In Wallonia hydrometrie.wallonie.be shows the water levels and flow rates of the rivers.
 
-Source: [National Crisis Center: pluvial flooding](https://crisiscenter.be/en/risks-belgium/natural-risks/surface-water-flooding) · [National Crisis Center: fluvial flooding](https://crisiscenter.be/en/risks-belgium/natural-risks/fluvial-riverine-flood) · [RMI: explanation of the warnings](https://www.meteo.be/en/weather/warnings/info-warnings) · [Waterinfo Vlaanderen](https://www.waterinfo.vlaanderen.be/) · [SPW: hydrométrie](https://hydrometrie.wallonie.be/) · [National Crisis Center: information during an emergency](https://crisiscenter.be/en/what-can-you-do/stay-informed/get-informed-emergency-situation)
+Source: [National Crisis Center: pluvial flooding](https://crisiscenter.be/en/risks-belgium/natural-risks/surface-water-flooding) · [National Crisis Center: fluvial flooding](https://crisiscenter.be/en/risks-belgium/natural-risks/fluvial-riverine-flood) · [RMI: explanation of the warnings](https://www.meteo.be/en/weather/warnings/info-warnings) · [Waterinfo Vlaanderen](https://www.waterinfo.vlaanderen.be/) · [SPW: hydrométrie](https://hydrometrie.wallonie.be/) · [National Crisis Center: information during an emergency](https://crisiscenter.be/en/what-can-you-do/stay-informed/get-informed-emergency-situation) · [FPS Economy: questions from households about electricity shortages](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door)
 
 ## Prepare
 
@@ -84,7 +98,8 @@ Source: [National Crisis Center: pluvial flooding](https://crisiscenter.be/en/ri
 - Use the water test (watertoets) on waterinfo.be to check whether your home is in a flood-prone area.
 - Know where to shut off the gas, electricity and water.
 - Find the floor or the attic that stays dry the longest. Also check what escape route you have if the front door is blocked, for example a roof window or a ladder.
-- Agree with whom you can stay if you have to leave your home. Make arrangements with neighbours about who helps whom.
+- Agree with whom you can stay if you have to leave your home. Make arrangements with neighbours about who helps whom, and about how you will reach each other if the phone or internet does not work.
+- Agree with your family where you will find each other again if you cannot reach each other.
 
 **Protect your home against water from outside**
 
@@ -106,6 +121,7 @@ Source: [National Crisis Center: pluvial flooding](https://crisiscenter.be/en/ri
 - Boots, buckets and floor squeegees.
 - Material to raise furniture and appliances, such as bricks or concrete blocks.
 - Batteries and emergency lighting. No candles.
+- A battery-powered or wind-up radio, preferably with DAB+ and FM, and a paper list of important phone numbers.
 - Important papers and valuables stored high up.
 - A heating oil tank that is secured and has its openings sealed.
 - An emergency kit for 72 hours in a dry place. Cellars and garages flood more quickly. Add dry, warm blankets and towels: hypothermia is a risk.
@@ -116,7 +132,7 @@ Source: [National Crisis Center: pluvial flooding](https://crisiscenter.be/en/ri
 - Keep a supply of medicines for several days and a first aid kit high up and within reach.
 - If your home dates from before 1998, have it checked for asbestos. A flood can damage such material.
 
-Source: [National Crisis Center: fluvial flooding](https://crisiscenter.be/en/risks-belgium/natural-risks/fluvial-riverine-flood) · [Waterinfo: water test](https://www.waterinfo.vlaanderen.be/Watertoets) · [VMM: tips for floods](https://vmm.vlaanderen.be/tips/water/overstromingen) · [VMM: brochure](https://vmm.vlaanderen.be/publicaties/individuele-bescherming-tegen-overstromingen) · [National Crisis Center: emergency kit](https://crisiscenter.be/en/what-can-you-do/build-emergency-kit/emergency-kit-home) · [Denk vooruit: flood](https://www.denkvooruit.nl/risicos/risicos-in-nederland/overstroming) · [Vivalis](https://www.vivalis.brussels/sites/default/files/2026-07/Overstromingen%20en%20gezondheidsrisico%27s.pdf)
+Source: [National Crisis Center: fluvial flooding](https://crisiscenter.be/en/risks-belgium/natural-risks/fluvial-riverine-flood) · [Waterinfo: water test](https://www.waterinfo.vlaanderen.be/Watertoets) · [VMM: tips for floods](https://vmm.vlaanderen.be/tips/water/overstromingen) · [VMM: brochure](https://vmm.vlaanderen.be/publicaties/individuele-bescherming-tegen-overstromingen) · [National Crisis Center: emergency kit](https://crisiscenter.be/en/what-can-you-do/build-emergency-kit/emergency-kit-home) · [Denk vooruit: flood](https://www.denkvooruit.nl/risicos/risicos-in-nederland/overstroming) · [Vivalis](https://www.vivalis.brussels/sites/default/files/2026-07/Overstromingen%20en%20gezondheidsrisico%27s.pdf) · [National Crisis Center: Prepared together](https://crisiscenter.be/sites/default/files/documents/files/WEB-Brochure%20Prepared%20Together-EN.pdf) · [National Crisis Center: digital infrastructure](https://crisiscenter.be/en/risks-belgium/societal-risks/failure-digital-infrastructure) · [National Crisis Center: plan in your neighbourhood](https://crisiscenter.be/en/what-can-you-do/make-plan/plan-your-neighbourhood-association-or-club)
 
 ## During
 
@@ -124,9 +140,16 @@ Source: [National Crisis Center: fluvial flooding](https://crisiscenter.be/en/ri
 
 **First: is anyone's life in danger?**
 
-- Someone's life is in danger: call 112.
-- You need help from the fire service but no one's life is in danger, for example water in the cellar or in the street: submit a request via 1722.be or your fire service zone's form, or call 1722 if that number is active. Keep 112 free.
+- Someone's life is in danger: call 112 or have someone call. If you cannot get through, see below.
+- You need help from the fire service but no one's life is in danger, for example water in the cellar or in the street: if the network works, submit a request via 1722.be or your fire service zone's form, or call 1722 if that number is active. Keep 112 free.
 - Damage but no help from the fire service needed: call in a professional or repair it yourself.
+
+**If you cannot get through**
+
+- Try another phone or have neighbours or bystanders call. Another operator can help. Move a few metres and try again.
+- If you can still make calls but 112 cannot be reached, try 101. If the emergency call centres fail, temporary numbers per province may be active (see the guide Emergency call).
+- If calling does not work at all: ask for help nearby and follow the information from the authorities on the radio. The municipality may open an information and reception point; ask your municipality in advance where it is.
+- In Germany the authorities advise going, if possible, to the nearest police station or hospital in that case. In the Netherlands, during the national 112 outage of 2019, the government sent people to the nearest fire station or police station, and to the hospital in a medical emergency. The map in the app shows these, with the Nearest button.
 
 **Keeping water out**
 
@@ -150,19 +173,20 @@ Source: [National Crisis Center: fluvial flooding](https://crisiscenter.be/en/ri
 
 - Best option if the authorities ask you to: evacuate in good time.
 - If you cannot or may not leave: go to the highest floor.
-- Only go onto the roof if it is really necessary, and signal for help from there.
+- Only go onto the roof if it is really necessary, and signal for help from there. This is what the American Ready.gov advises.
 - Do not climb into a closed attic that you can no longer get out of.
 
 **Evacuating**
 
-- Follow the advice of the emergency services. If there is a flood in your area, wait for their instructions. Sometimes staying inside is safer.
+- Follow the advice of the emergency services. If there is a flood in your area, wait for their instructions. Sometimes staying inside is safer. Listen to the radio and watch for police loudspeaker vans.
+- Help warn others that they need to evacuate.
 - Take your identity card, money, water, mobile phone and charger, keys, a list of phone numbers, essential medicines, hygiene products, spare clothing and boots.
 - Shut off the gas, water and electricity. Close windows and doors. The police keep watch over the homes.
-- If you have no family or friends to go to, you will be given shelter in a reception centre run by the municipality or province.
-- Let your family and a contact person outside the area know where you are. Send a text or message rather than phoning.
+- If you have no family or friends to go to, you will be given shelter in a reception centre run by the municipality or province, for example a sports hall or function room. A contact person on site provides the necessary information there.
+- Let your family and a contact person outside the area know where you are. If the network works, send a text or message rather than phoning.
 - Only return home when the authorities say it is safe.
 
-Source: [National Crisis Center: fluvial flooding](https://crisiscenter.be/en/risks-belgium/natural-risks/fluvial-riverine-flood) · [1722](https://www.1722.be/en/index.html) · [VMM: tips for floods](https://vmm.vlaanderen.be/tips/water/overstromingen) · [BBK: brochure Stromausfall](https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/Buergerinformationen/stromausfall-vorsorge-selbsthilfe.pdf?__blob=publicationFile&v=13) · [Ready.gov: floods](https://www.ready.gov/floods) · [National Crisis Center: evacuating](https://crisiscenter.be/en/what-can-you-do/right-reflex/evacuate)
+Source: [National Crisis Center: fluvial flooding](https://crisiscenter.be/en/risks-belgium/natural-risks/fluvial-riverine-flood) · [1722](https://www.1722.be/en/index.html) · [VMM: tips for floods](https://vmm.vlaanderen.be/tips/water/overstromingen) · [BBK: brochure Stromausfall](https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/Buergerinformationen/stromausfall-vorsorge-selbsthilfe.pdf?__blob=publicationFile&v=13) · [Ready.gov: floods](https://www.ready.gov/floods) · [National Crisis Center: evacuating](https://crisiscenter.be/en/what-can-you-do/right-reflex/evacuate) · [National Crisis Center: information during an emergency](https://crisiscenter.be/en/what-can-you-do/stay-informed/get-informed-emergency-situation) · [112.be: Frequently asked questions](https://112.be/en/frequently-asked-questions) · [FPS Economy: questions from households about electricity shortages](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door) · [BBK: Vorsorgen für Krisen und Katastrophen](https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/Buergerinformationen/Ratgeber/BBK-Vorsorgen-fuer-Krisen-und-Katastrophen.pdf?__blob=publicationFile&v=44) · [Inspectorates: Unavailability of 112 on 24 June 2019](https://zoek.officielebekendmakingen.nl/blg-942150.pdf)
 
 ### Outdoors or on the move
 
@@ -273,6 +297,8 @@ Source: [Ready.gov: floods](https://www.ready.gov/floods) · [Vivalis](https://w
 Source: [National Crisis Center: pluvial flooding](https://crisiscenter.be/en/risks-belgium/natural-risks/surface-water-flooding) · [Ready.gov: floods](https://www.ready.gov/floods) · [BBK: brochure Stromausfall](https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/Buergerinformationen/stromausfall-vorsorge-selbsthilfe.pdf?__blob=publicationFile&v=13) · [VMM: tips for floods](https://vmm.vlaanderen.be/tips/water/overstromingen) · [Vivalis](https://www.vivalis.brussels/sites/default/files/2026-07/Overstromingen%20en%20gezondheidsrisico%27s.pdf)
 
 ## More information
+
+To read beforehand, or when the internet works:
 
 - Waterinfo.be: water levels, rainfall radar and water test (Flanders).
 - hydrometrie.wallonie.be: water levels and flow rates (Wallonia).

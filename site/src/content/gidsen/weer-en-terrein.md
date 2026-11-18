@@ -4,7 +4,7 @@ module: buiten
 volgorde: 4
 kort: "De KMI-waarschuwingscodes en hun drempels, onweer en wolken, storm, overstromingsgevoelige plekken, kust en getijden, waarom je geen rivier oversteekt, gladheid, en voor wie op reis gaat: bergen, sneeuw en de Europese lawineschaal."
 status: concept
-datum: "2026-11-17"
+datum: "2026-11-18"
 bronnen:
   - naam: "KMI: Uitleg over onze waarschuwingen"
     url: https://www.meteo.be/nl/weer/waarschuwingen/uitleg
@@ -56,6 +56,12 @@ bronnen:
     url: https://rega.ch/en/news/news-from-the-world-of-rega/detail/how-to-raise-the-alarm-correctly
   - naam: "Rode Kruis-Vlaanderen via Gezondheid en Wetenschap: Eerste hulp bij wintersport"
     url: https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-wintersport
+  - naam: "National Park Service: Outdoor Emergency Plan"
+    url: https://www.nps.gov/subjects/healthandsafety/upload/NPS-Outdoor-Emergency-Plan-508c.pdf
+  - naam: "FOD Economie: vragen van gezinnen over elektriciteitsschaarste"
+    url: https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door
+  - naam: "Nationaal Crisiscentrum: brochure Samen voorbereid"
+    url: https://crisiscentrum.be/sites/default/files/documents/files/WEB-Brochure%20Samen%20voorbereid-NL.pdf
 ---
 
 ## De waarschuwingscodes van het KMI
@@ -70,6 +76,12 @@ Het KMI geeft meerdere keren per dag waarschuwingen voor gevaarlijke **wind, reg
 | **Rood** | **Onderneem actie en volg de raadgevingen strikt op** | Ten vroegste 12 uur vooraf |
 
 Bij grote onzekerheid kan een code ook korter vooraf komen.
+
+**Hoe je de waarschuwingen krijgt**
+
+1. **Radio.** Het Crisiscentrum noemt radio en tv als eerste manier om de weersvoorspelling te volgen. Bij een stroomonderbreking kunnen internet en mobiele netwerken uitvallen: hou dan een radio op batterijen, een opwindradio of de autoradio bij de hand (Crisiscentrum, FOD Economie).
+2. **Werkt het internet,** kijk dan ook op de website of in de app van het KMI.
+3. **Zelf het weer lezen.** Wolken en donder vertellen je ook iets, zeker buiten (zie Wolken en onweer lezen).
 
 **Hoe je een waarschuwing leest**
 
@@ -99,15 +111,15 @@ Uurhoeveelheden worden slechts één uur vooraf voorspeld.
 - **Rijmplekken**: rijm of vocht dat aanvriest op een wegdek dat niet nat was van een bui.
 - **IJsplekken**: natte stukken of sneeuwresten die later bevriezen.
 
-**Wat je doet bij oranje of rood voor storm of wateroverlast:** heb je de brandweer nodig maar is niemand in levensgevaar, gebruik dan het e-loket 1722.be of bel 1722. Bel 112 alleen bij levensgevaar of als redding nodig is.
+**Wat je doet bij oranje of rood voor storm of wateroverlast:** heb je de brandweer nodig maar is niemand in levensgevaar, gebruik dan, als het netwerk werkt, het e-loket 1722.be of bel 1722 als dat nummer actief is. Bel 112 alleen bij levensgevaar of als redding nodig is. Lukt bellen niet: laat buren of omstanders bellen of vraag hulp in je buurt (zie Noodnummers in de app, Als bellen niet lukt).
 
 **Let op:** het Agentschap Natuur en Bos heeft een **aparte** kleurcode voor het risico op natuurbranden (groen, geel, oranje, rood). Die staat los van de KMI-codes.
 
-Bron: [KMI: Uitleg over onze waarschuwingen](https://www.meteo.be/nl/weer/waarschuwingen/uitleg) · [112.be: Veelgestelde vragen](https://112.be/nl/veelgestelde-vragen) · [Nationaal Crisiscentrum: Natuurbrand](https://crisiscentrum.be/nl/risicos-belgie/natuurlijke-risicos/natuurbrand)
+Bron: [KMI: Uitleg over onze waarschuwingen](https://www.meteo.be/nl/weer/waarschuwingen/uitleg) · [Nationaal Crisiscentrum: Wind en storm](https://crisiscentrum.be/nl/risicos-belgie/natuurlijke-risicos/wind-en-storm) · [Nationaal Crisiscentrum: brochure Samen voorbereid](https://crisiscentrum.be/sites/default/files/documents/files/WEB-Brochure%20Samen%20voorbereid-NL.pdf) · [FOD Economie: vragen van gezinnen over elektriciteitsschaarste](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door) · [112.be: Veelgestelde vragen](https://112.be/nl/veelgestelde-vragen) · [Nationaal Crisiscentrum: Natuurbrand](https://crisiscentrum.be/nl/risicos-belgie/natuurlijke-risicos/natuurbrand)
 
 ## Wolken en onweer lezen
 
-PlanB72 neemt alleen weertekens op die het KMI zelf beschrijft. Volkswijsheden over het weer laten we weg.
+Buiten, of zonder radio en internet, kun je zelf op tekens in de lucht letten. PlanB72 neemt alleen weertekens op die het KMI zelf beschrijft. Volkswijsheden over het weer laten we weg.
 
 - **Kleine wolkenplukken met torentjes** (altocumulus castellanus, een soort hoge stapelwolken) wijzen erop dat er later op de dag onweer kan volgen.
 - **Wolken met een sterke, zuilvormige verticale groei** (cumulonimbus, de eigenlijke onweerswolken) kondigen aan dat er zo meteen of in de buurt onweer mogelijk is. Onweer hoort altijd bij een cumulonimbus.
@@ -130,9 +142,9 @@ Bron: [KMI: Hoe bescherm ik me tegen bliksem?](https://www.meteo.be/nl/switch-la
 | Zeer zware storm | Vanaf 103 km/u (11 Beaufort) |
 | Orkaan(kracht) | Vanaf 117 km/u (12 Beaufort) |
 
-**Voorbereiden:** zet losse voorwerpen vast of binnen (tuinmeubelen, trampoline). Hou de weersvoorspelling in het oog. Laat huisdieren binnen.
+**Voorbereiden:** zet losse voorwerpen vast of binnen (tuinmeubelen, trampoline). Hou de weersvoorspelling in het oog, bijvoorbeeld via de radio, tv, of de website of app van het KMI. Laat huisdieren binnen.
 
-**Tijdens:** ga binnen en blijf binnen. Sluit ramen en deuren. Volg het weerbericht.
+**Tijdens:** ga binnen en blijf binnen. Sluit ramen en deuren. Luister naar het weerbericht en volg de aanbevelingen.
 
 **Moet je je toch verplaatsen**
 
@@ -157,9 +169,11 @@ Bron: [Nationaal Crisiscentrum: Wind en storm](https://crisiscentrum.be/nl/risic
 
 **Weten of je in overstromingsgevoelig gebied woont of verblijft**
 
+Zoek dit vooraf op, als het internet werkt:
+
 - Op de **Watertoets-kaart** van Waterinfo Vlaanderen zie je de overstromingsgevoelige gebieden (versie 2019) en de kaarten bij het watertoetsbesluit.
-- Op **Waterinfo** vind je actuele waterstanden en voorspellingen voor overstroming, neerslag, droogte en getijden.
 - Het Crisiscentrum raadt aan je te informeren over de zones die gevoelig zijn voor overstromingen.
+- Tijdens hoogwater vind je op **Waterinfo** actuele waterstanden en voorspellingen voor overstroming, neerslag, droogte en getijden, zolang het internet werkt. Anders: luister naar de radio (zie Hoe je de waarschuwingen krijgt).
 
 **Buiten in het terrein**
 
@@ -185,8 +199,8 @@ Het weer kan de waterstand doen afwijken van het berekende getij. Bij storm kan 
 
 **Waar je de gegevens vindt voor de Belgische kust**
 
-- **kustweerbericht.be**: zee- en kustweerbericht, golven, getij, wind en zicht op zee.
-- **Getijtafels Kust**: de tijdstippen van hoog- en laagwater, per jaar gepubliceerd door de Vlaamse overheid.
+- **Getijtafels Kust**: de tijdstippen van hoog- en laagwater, per jaar gepubliceerd door de Vlaamse overheid. Zoek ze vooraf op of druk ze af: dan heb je ze ook zonder internet.
+- **kustweerbericht.be**, als het internet werkt: zee- en kustweerbericht, golven, getij, wind en zicht op zee.
 
 **Zwemmen in zee**
 
@@ -207,23 +221,23 @@ PlanB72 geeft geen technieken om een rivier over te steken. Militaire overleving
 - Bruggen over snelstromend water kunnen zonder waarschuwing wegspoelen.
 - Ook de militaire handboeken noemen plaatsen die je moet mijden: een rotsrichel dwars over de rivier (wijst vaak op gevaarlijke stroomversnellingen), een riviermonding (breed, sterke stroming, getijden), en draaikolken (die je onder water kunnen trekken).
 
-**Iemand is in het water gevallen:** zorg voor je eigen veiligheid, probeer te redden zonder zelf in het water te gaan, bel 112. Ga alleen het water in als je daarvoor getraind bent: een drenkeling die bij bewustzijn is, klampt zich in paniek aan de redder vast.
+**Iemand is in het water gevallen:** zorg voor je eigen veiligheid, probeer te redden zonder zelf in het water te gaan, bel 112 of laat iemand bellen. Lukt bellen niet, stuur dan iemand om hulp te halen (zie de gids over gevaren in de natuur, Lukt bellen niet). Ga alleen het water in als je daarvoor getraind bent: een drenkeling die bij bewustzijn is, klampt zich in paniek aan de redder vast.
 
-Bron: [Ready.gov: Floods](https://www.ready.gov/floods) · [Vlaanderen.be: Veilig zwemmen of watersporten in open water](https://www.vlaanderen.be/natuur-milieu-en-klimaat/wat-mag-u-als-bezoeker-doen-in-de-vlaamse-natuur/veilig-zwemmen-of-watersporten-in-open-water) · [US Army ATP 3-50.21](https://archive.org/details/survival-atp-3-50-21) · [Rode Kruis-Vlaanderen: Eerste hulp bij verdrinking](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-verdrinking)
+Bron: [Ready.gov: Floods](https://www.ready.gov/floods) · [Vlaanderen.be: Veilig zwemmen of watersporten in open water](https://www.vlaanderen.be/natuur-milieu-en-klimaat/wat-mag-u-als-bezoeker-doen-in-de-vlaamse-natuur/veilig-zwemmen-of-watersporten-in-open-water) · [US Army ATP 3-50.21](https://archive.org/details/survival-atp-3-50-21) · [Rode Kruis-Vlaanderen: Eerste hulp bij verdrinking](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-verdrinking) · [National Park Service: Outdoor Emergency Plan](https://www.nps.gov/subjects/healthandsafety/upload/NPS-Outdoor-Emergency-Plan-508c.pdf)
 
 ## Sneeuw, ijzel en gladheid in België
 
-- Blijf zoveel mogelijk binnen. Volg het weerbericht en de waarschuwingen over verkeersveiligheid.
+- Blijf zoveel mogelijk binnen. Luister naar het weerbericht en volg de waarschuwingen over verkeersveiligheid.
 - Moet je naar buiten: trek meerdere lagen aan, bedek je hele lichaam, draag een muts.
 - **Met de auto:** let op je snelheid, wees extra voorzichtig in bochten. Leg een deken, een krabber en een flesje water in de wagen. Neem warme dranken of water mee voor als je in de file vastzit.
 - **Met de fiets:** let op je snelheid en hou afstand, zodat je minder moet remmen.
-- Meld gladheid via de app van het KMI, zodat strooidiensten sneller kunnen optreden.
+- Werkt het netwerk, meld gladheid dan via de app van het KMI, zodat strooidiensten sneller kunnen optreden.
 
 Bron: [Nationaal Crisiscentrum: Sneeuw](https://crisiscentrum.be/nl/risicos-belgie/natuurlijke-risicos/sneeuw) · [KMI: Uitleg over onze waarschuwingen](https://www.meteo.be/nl/weer/waarschuwingen/uitleg)
 
 ## Bergen en sneeuw: voor wie op reis gaat
 
-**Noodnummers.** 112 werkt in heel de EU en in Zwitserland. In Zwitserland kun je de luchtreddingsdienst Rega ook rechtstreeks bellen op 1414, of vanuit het buitenland op +41 333 333 333; Rega raadt zelf vooral zijn noodapp aan. Het Duitse Alpenverein raadt aan de nummers van de plaatselijke bergredding in je telefoon op te slaan. Zonder bereik: het alpiene noodsignaal (zes signalen per minuut, zie de gids over signalen).
+**Noodnummers.** 112 werkt in heel de EU en in Zwitserland. In Zwitserland kun je de luchtreddingsdienst Rega ook rechtstreeks bellen op 1414, of vanuit het buitenland op +41 333 333 333; Rega raadt zelf vooral zijn noodapp aan. Het Duitse Alpenverein raadt aan de nummers van de plaatselijke bergredding in je telefoon op te slaan. Zonder bereik: het alpiene noodsignaal (zes signalen per minuut, zie de gids over signalen). Ben je met een groep en is er een gewonde, stuur dan twee of meer mensen om alarm te slaan; de anderen blijven bij de gewonde (zie de gids over de noodoproep).
 
 **De Europese lawinegevarenschaal** (EAWS, gebruikt in alle Alpenlanden)
 
@@ -260,16 +274,16 @@ Een gevarenniveau geldt voor een hele regio, niet voor één helling, en is alti
 
 **Gezondheid op wintersport.** Kou en alcohol verhogen het risico op onderkoeling; alcohol maakt de bloedvaatjes in de huid wijder. Ook in de winter kun je een zonneslag krijgen. Bij een val: behandel bij twijfel als een breuk.
 
-Bron: [EAWS: Avalanche danger scale](https://www.avalanches.org/standards/avalanche-danger-scale/) · [SLF: Danger levels](https://www.slf.ch/en/avalanche-bulletin-and-snow-situation/about-the-avalanche-bulletin/danger-levels/) · [Rega: How to raise the alarm correctly](https://rega.ch/en/news/news-from-the-world-of-rega/detail/how-to-raise-the-alarm-correctly) · [Deutscher Alpenverein: Erste Hilfe](https://www.forststeig.sachsen.de/download/Erste_Hilfe_2012_DAV.pdf) · [Deutscher Alpenverein: So geht das, Notfall alpin](https://www.alpenverein.de/artikel/so-geht-das-notfall-alpin_62bc1334-e9c7-4d8b-8a02-89dd681cbb83) · [US Army ATP 3-50.21](https://archive.org/details/survival-atp-3-50-21) · [Rode Kruis-Vlaanderen: Eerste hulp bij wintersport](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-wintersport) · [112.be: Veelgestelde vragen](https://112.be/nl/veelgestelde-vragen)
+Bron: [EAWS: Avalanche danger scale](https://www.avalanches.org/standards/avalanche-danger-scale/) · [SLF: Danger levels](https://www.slf.ch/en/avalanche-bulletin-and-snow-situation/about-the-avalanche-bulletin/danger-levels/) · [Rega: How to raise the alarm correctly](https://rega.ch/en/news/news-from-the-world-of-rega/detail/how-to-raise-the-alarm-correctly) · [Deutscher Alpenverein: Erste Hilfe](https://www.forststeig.sachsen.de/download/Erste_Hilfe_2012_DAV.pdf) · [Deutscher Alpenverein: So geht das, Notfall alpin](https://www.alpenverein.de/artikel/so-geht-das-notfall-alpin_62bc1334-e9c7-4d8b-8a02-89dd681cbb83) · [US Army ATP 3-50.21](https://archive.org/details/survival-atp-3-50-21) · [Rode Kruis-Vlaanderen: Eerste hulp bij wintersport](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-wintersport) · [112.be: Veelgestelde vragen](https://112.be/nl/veelgestelde-vragen) · [National Park Service: Outdoor Emergency Plan](https://www.nps.gov/subjects/healthandsafety/upload/NPS-Outdoor-Emergency-Plan-508c.pdf)
 
 ## Per plek
 
 | Plek | Waar je op let |
 | --- | --- |
-| Thuis | KMI-waarschuwingen volgen. Bij storm: binnen blijven, losse voorwerpen vast. Bij wateroverlast: 1722 als niemand in levensgevaar is. |
+| Thuis | KMI-waarschuwingen volgen via de radio, of via KMI-website en app als het netwerk werkt. Bij storm: binnen blijven, losse voorwerpen vast. Bij wateroverlast: 1722 als niemand in levensgevaar is en het netwerk werkt. |
 | Te voet in bos of veld | Bij onweer: weg van alleenstaande bomen, bosranden, open vlakten. Bij storm: nooit onder een boom schuilen. Geen slaapplek in de bedding van een beek. |
 | In de auto | Niet door water rijden. Niet parkeren bij bomen bij storm. Een metalen auto is een goede schuilplaats bij onweer. Deken, krabber en water in de wagen in de winter. |
-| Aan de kust | Alleen zwemmen in bewaakte zones. Getijden en stormtij volgen via kustweerbericht.be en de KMI. |
+| Aan de kust | Alleen zwemmen in bewaakte zones. Getijtafels vooraf opzoeken. Stormtij volgen via de radio, en via kustweerbericht.be en de KMI als het netwerk werkt. |
 | In de bergen | Lawinebulletin en gevarenniveau lezen. Onervaren: op de pistes blijven vanaf niveau 3. Noodnummers opslaan. |
 
 Bron: [KMI: Uitleg over onze waarschuwingen](https://www.meteo.be/nl/weer/waarschuwingen/uitleg) · [Nationaal Crisiscentrum: Wind en storm](https://crisiscentrum.be/nl/risicos-belgie/natuurlijke-risicos/wind-en-storm) · [KMI: Hoe bescherm ik me tegen bliksem?](https://www.meteo.be/nl/switch-language/634?nis=21004) · [Ready.gov: Floods](https://www.ready.gov/floods) · [Nationaal Crisiscentrum: Sneeuw](https://crisiscentrum.be/nl/risicos-belgie/natuurlijke-risicos/sneeuw) · [Vlaanderen.be: Veilig zwemmen](https://www.vlaanderen.be/natuur-milieu-en-klimaat/wat-mag-u-als-bezoeker-doen-in-de-vlaamse-natuur/veilig-zwemmen-of-watersporten-in-open-water) · [SLF: Danger levels](https://www.slf.ch/en/avalanche-bulletin-and-snow-situation/about-the-avalanche-bulletin/danger-levels/) · [US Army FM 21-76](https://archive.org/details/fm-21-76-survival-manual)

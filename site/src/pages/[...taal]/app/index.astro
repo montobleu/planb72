@@ -16,6 +16,7 @@ const politieVan = (l: (typeof landen)[number]) =>
   <h1 class="sr-only">PlanB72</h1>
   <div class="melding gevaar" style="margin-top:1rem">
     <Fragment set:html={APP[taal].algemeen.levensgevaar} />{' '}
+    <Fragment set:html={APP[taal].algemeen.nietLukt(pad(taal, '/app/noodnummers/#als-bellen-niet-lukt'))} />{' '}
     {landen.map((l) => {
       const n = politieVan(l);
       return n && <span data-land={l.code}>{tl.politie(l.naam)} <a href={`tel:${n.nummer.replace(/[\s-]/g, '')}`}>{n.nummer}</a>. </span>;

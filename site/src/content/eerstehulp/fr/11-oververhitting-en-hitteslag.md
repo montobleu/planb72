@@ -1,9 +1,9 @@
 ---
 titel: Surchauffe et coup de chaleur
 volgorde: 11
-kort: "Arrêtez tout effort, amenez la personne dans un endroit frais et refroidissez-la immédiatement. En cas de confusion, de convulsions ou de plus de 39 °C : appelez le 112."
+kort: "Arrêtez tout effort, amenez la personne dans un endroit frais et refroidissez-la immédiatement. En cas de confusion, de convulsions ou de plus de 39 °C : appelez le 112 ou faites chercher de l'aide."
 status: concept
-datum: "2026-11-17"
+datum: "2026-11-18"
 bronnen:
   - naam: "Gezondheid en Wetenschap (Rode Kruis-Vlaanderen) : Premiers secours en cas de coup de chaleur"
     url: https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-hitteslag-of-hitteberoerte
@@ -13,8 +13,12 @@ bronnen:
     url: https://www.ifrc.org/sites/default/files/2022-02/EN_GFARC_GUIDELINES_2020.pdf
   - naam: "European Resuscitation Council : The ERC Guidelines 2025 on Resuscitation for Everyone"
     url: https://www.erc.edu/media/p5ymaeej/gl2025_layperson_book_ipdf-v11-e.pdf
+  - naam: "European Resuscitation Council Guidelines 2021 : First aid"
+    url: https://cprguidelines-old.erc.edu/assets/guidelines/European-Resuscitation-Council-Guidelines-2021-Fi.pdf
+  - naam: "112.be : Questions fréquentes"
+    url: https://112.be/fr/questions-frequentes
 vertaling: machine
-origineel_datum: "2026-11-17"
+origineel_datum: "2026-11-18"
 ---
 
 ## Reconnaître
@@ -53,7 +57,7 @@ Source : [Gezondheid en Wetenschap : Coup de chaleur](https://www.gezondheidenwe
 
 1. Faites arrêter tout effort à la victime et faites-la se reposer. Gardez-la aussi calme que possible.
 2. Amenez-la dans un endroit frais. Retirez les vêtements superflus.
-3. Appelez le 112 en cas de signes de coup de chaleur.
+3. Appelez le 112 ou faites appeler quelqu'un en cas de signes de coup de chaleur. Si l'appel ne passe pas, voir Appelez le 112 si.
 4. Refroidissez immédiatement. Plus les plaintes sont graves, plus vous pouvez refroidir énergiquement. Choisissez la meilleure méthode dont vous disposez :
    - Meilleur choix : immergez la victime jusqu'au cou dans un bain d'eau tiède à froide. L'IFRC cite de l'eau de 1 à 26 °C, pendant environ 15 minutes ou jusqu'à ce que la température descende sous 39 °C. La recommandation belge dit : jusqu'à ce que l'état s'améliore, 15 minutes maximum.
    - Si l'immersion n'est pas possible, par exemple parce qu'il n'y a pas d'eau froide ou parce que la victime est confuse et refuse : posez un drap frais et mouillé sur la victime ou mouillez-la avec de l'eau froide.
@@ -112,7 +116,14 @@ Source : [IFRC Guidelines 2020](https://www.ifrc.org/sites/default/files/2022-02
 
 Consultez un médecin si les crampes de chaleur persistent.
 
-Source : [Gezondheid en Wetenschap : Coup de chaleur](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-hitteslag-of-hitteberoerte) · [Gezondheid en Wetenschap : Crampes de chaleur](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-hittekrampen) · [IFRC Guidelines 2020](https://www.ifrc.org/sites/default/files/2022-02/EN_GFARC_GUIDELINES_2020.pdf)
+**Si l'appel ne passe pas**
+
+- Ne laissez la victime seule que s'il n'y a pas d'autre possibilité, et certainement pas dans un endroit chaud. Désignez directement un témoin pour aller chercher de l'aide et indiquez-lui où c'est, ce qui s'est passé, combien de victimes il y a et dans quel état elles sont.
+- Demandez aux autres témoins d'aider à refroidir la victime et à faire de l'ombre.
+- Continuez entre-temps à refroidir avec tout ce dont vous disposez (voir Si les secours tardent à arriver).
+- Voir aussi le sujet 1 (Si l'appel ne passe pas : chercher de l'aide sans téléphone) et Numéros d'urgence dans l'application, Si l'appel ne passe pas.
+
+Source : [Gezondheid en Wetenschap : Coup de chaleur](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-hitteslag-of-hitteberoerte) · [Gezondheid en Wetenschap : Crampes de chaleur](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-hittekrampen) · [IFRC Guidelines 2020](https://www.ifrc.org/sites/default/files/2022-02/EN_GFARC_GUIDELINES_2020.pdf) · [ERC Guidelines 2025 for Everyone](https://www.erc.edu/media/p5ymaeej/gl2025_layperson_book_ipdf-v11-e.pdf) · [ERC Guidelines 2021 : First aid](https://cprguidelines-old.erc.edu/assets/guidelines/European-Resuscitation-Council-Guidelines-2021-Fi.pdf) · [112.be : Questions fréquentes](https://112.be/fr/questions-frequentes)
 
 ## À ne pas faire
 

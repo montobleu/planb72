@@ -4,7 +4,7 @@ module: nucleair
 volgorde: 1
 kort: "Ce qui se passe lors d'un accident nucléaire, les zones belges, comment vous mettre à l'abri, comment vous décontaminer et que faire de la nourriture, des animaux et des enfants."
 status: concept
-datum: "2026-11-17"
+datum: "2026-11-18"
 bronnen:
   - naam: "Centre de crise National : Incident dans une centrale nucléaire"
     url: https://centredecrise.be/fr/risques-en-belgique/risques-economiques-et-technologiques/incident-dans-une-centrale-nucleaire
@@ -14,6 +14,14 @@ bronnen:
     url: https://centredecrise.be/fr/que-pouvez-vous-faire/le-bon-reflexe/se-mettre-labri
   - naam: "Centre de crise National : brochure Samen voorbereid (Préparés ensemble)"
     url: https://centredecrise.be/sites/default/files/documents/files/WEB-Brochure-Pr%C3%AAts.%20Ensemble-FR.pdf
+  - naam: "Centre de crise National : Un kit d'urgence chez vous"
+    url: https://centredecrise.be/fr/que-pouvez-vous-faire/preparez-un-kit-durgence/un-kit-durgence-la-maison
+  - naam: "Centre de crise National : Perturbation de l'infrastructure numérique"
+    url: https://centredecrise.be/fr/risques-en-belgique/risques-societaux/defaillance-des-infrastructures-digitales
+  - naam: "112.be : Questions fréquentes"
+    url: https://112.be/fr/questions-frequentes
+  - naam: "SPF Économie : questions des ménages sur la pénurie d'électricité"
+    url: https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door
   - naam: "Risque nucléaire : Se mettre à l'abri, la meilleure protection"
     url: https://risquenucleaire.be/fr/que-pouvez-vous-faire/mise-labri-la-meilleure-action-de-protection
   - naam: "Risque nucléaire : Se décontaminer"
@@ -57,7 +65,7 @@ bronnen:
   - naam: "CDC: How to self-decontaminate after a radiation emergency"
     url: https://cdc.gov/radiation-emergencies/prevention/self-decontaminate.html
 vertaling: machine
-origineel_datum: "2026-11-17"
+origineel_datum: "2026-11-18"
 ---
 
 ## Ce qui se passe lors d'un accident nucléaire
@@ -105,23 +113,22 @@ Le plan d'urgence nucléaire prévoit aussi des zones d'extension, dans lesquell
 
 ### La zone au moment même
 
-En situation d'urgence, l'évaluation de la situation détermine la zone des mesures de protection. Elle peut être plus petite ou plus grande que la zone de planification d'urgence. Sur nucleairrisico.be, une carte vous permet de vérifier si votre commune se trouve dans une zone de planification d'urgence. Les zones n'empêchent personne en dehors de celles-ci de se préparer aussi.
+En situation d'urgence, l'évaluation de la situation détermine la zone des mesures de protection. Elle peut être plus petite ou plus grande que la zone de planification d'urgence. Vérifiez à l'avance si votre commune se trouve dans une zone de planification d'urgence : une carte est disponible à cet effet sur nucleairrisico.be. Les zones n'empêchent personne en dehors de celles-ci de se préparer aussi.
 
 Source : [Risque nucléaire : Sites nucléaires](https://risquenucleaire.be/fr/risque-nucleaire/sites-nucleaires) · [Risque nucléaire : Zones de planification d'urgence](https://risquenucleaire.be/fr/que-font-les-autorites/zones-de-planification-durgence) · [Risque nucléaire : Zones de planification d'urgence nucléaire (carte)](https://risquenucleaire.be/fr/zones-de-planification-durgence-nucleaire) · [Centre de crise National : fiches de presse plan d'urgence nucléaire](https://centredecrise.be/sites/default/files/documents/files/2021-04/fr_fiches_confpresse.pdf) · [Risque nucléaire : questions fréquentes](https://risquenucleaire.be/fr/faq)
 
 ## Comment vous êtes alerté
 
-Les autorités préviennent les riverains via :
+Si vous êtes à l'abri, vous êtes à l'intérieur, fenêtres et portes fermées. Les informations des autorités arrivent alors surtout par la radio. Les autorités préviennent les riverains via :
 
-- **BE-Alert :** SMS du numéro 1789, e-mail de no-reply@be-alert.be ou appel vocal du 0477 77 77 55. Inscrivez-vous à l'avance sur be-alert.be. Vous pouvez enregistrer plusieurs adresses, y compris celle de l'école de vos enfants.
-- **La radio et la télévision.**
-- **Le site web du Centre de crise National ou de la commune.**
-- **Les réseaux sociaux.**
+- **La radio et la télévision.** Prévoyez à l'avance une radio à piles ou une radio à manivelle, de préférence avec DAB+ et FM. Vous pouvez ainsi écouter les médias même en cas de panne de courant.
 - **Des véhicules de police équipés de haut-parleurs** qui circulent dans les rues.
+- **BE-Alert**, si le réseau fonctionne : SMS du numéro 1789, e-mail de no-reply@be-alert.be ou appel vocal du 0477 77 77 55. Inscrivez-vous à l'avance sur be-alert.be. Vous pouvez enregistrer plusieurs adresses, y compris celle de l'école de vos enfants.
+- **Le site web du Centre de crise National ou de la commune et les réseaux sociaux**, si Internet fonctionne.
 
-Si vous n'avez pas de téléphone, vous recevez les informations via les véhicules à haut-parleurs, la radio, la télévision et les sites web. Prévoyez une radio à piles ou une radio à manivelle, de préférence avec DAB+ et FM. Ne téléphonez pas inutilement : un réseau surchargé peut perturber les secours.
+Si vous n'avez pas de téléphone ni de GSM, vous recevez quand même les informations nécessaires : via les véhicules à haut-parleurs, la radio et la télévision. Ne téléphonez pas inutilement, sauf par exemple en cas d'urgence médicale : un réseau surchargé peut perturber les secours.
 
-Source : [Risque nucléaire : Alerter et protéger la population](https://risquenucleaire.be/fr/que-font-les-autorites/alerte-et-protection-de-la-population) · [Risque nucléaire : questions fréquentes](https://risquenucleaire.be/fr/faq) · [Centre de crise National : brochure Samen voorbereid](https://centredecrise.be/sites/default/files/documents/files/WEB-Brochure-Pr%C3%AAts.%20Ensemble-FR.pdf)
+Source : [Risque nucléaire : Alerter et protéger la population](https://risquenucleaire.be/fr/que-font-les-autorites/alerte-et-protection-de-la-population) · [Risque nucléaire : questions fréquentes](https://risquenucleaire.be/fr/faq) · [Centre de crise National : brochure Samen voorbereid](https://centredecrise.be/sites/default/files/documents/files/WEB-Brochure-Pr%C3%AAts.%20Ensemble-FR.pdf) · [Centre de crise National : Un kit d'urgence chez vous](https://centredecrise.be/fr/que-pouvez-vous-faire/preparez-un-kit-durgence/un-kit-durgence-la-maison)
 
 ## Les quatre mesures de protection
 
@@ -150,7 +157,7 @@ Lors d'une situation d'urgence nucléaire, se mettre à l'abri est la meilleure 
 6. Veillez cependant à ce que l'air soit renouvelé, pour ne pas vous sentir mal.
 7. Installez-vous dans une pièce centrale au rez-de-chaussée. Les murs et les plafonds protègent mieux que les fenêtres.
 8. Faites rentrer vos animaux domestiques.
-9. Écoutez les recommandations à la radio, à la télévision, sur les sites web officiels et les réseaux sociaux.
+9. Écoutez les recommandations à la radio. Si Internet fonctionne, consultez aussi les sites web officiels et les réseaux sociaux.
 
 ### Si vous étiez dehors au passage du nuage
 
@@ -167,7 +174,7 @@ Entrez par une pièce que vous n'utilisez pas. Déshabillez-vous, prenez une dou
 | À pied | Entrez le plus vite possible dans le bâtiment le plus proche et fermez fenêtres et portes ; cela protège mieux qu'une voiture |
 | En voiture, près de la maison, du travail ou d'un bâtiment public | Entrez immédiatement à l'intérieur |
 | En voiture, aucun bâtiment accessible | Garez-vous à un endroit sûr ou éloignez-vous en roulant, perpendiculairement à la direction du vent. Moteur coupé quand vous êtes à l'arrêt, fenêtres fermées, climatisation et ventilation coupées, radio allumée. Roulez prudemment et respectez le code de la route |
-| À pied dans une zone sans bâtiments | Appelez le 112 (consigne générale de mise à l'abri du Centre de crise) |
+| À pied dans une zone sans bâtiments | Appelez le 112 (consigne générale de mise à l'abri du Centre de crise). Si l'appel ne passe pas : éloignez-vous davantage de la situation d'urgence jusqu'à ce que vous trouviez un bâtiment sûr et accessible (Centre de crise, se mettre à l'abri en route) |
 
 ### Ce que disent autrement les sources étrangères sur l'endroit
 
@@ -265,10 +272,10 @@ Source : [Risque nucléaire : questions fréquentes](https://risquenucleaire.be/
 ## Personnes vulnérables et urgences médicales
 
 - Les personnes qui ne peuvent pas quitter la zone par leurs propres moyens lors d'une évacuation reçoivent l'aide des services de secours. Lors d'une évacuation, on vérifie que tout le monde a quitté son logement.
-- Si vous avez besoin d'une aide médicale pendant la mise à l'abri, par exemple pour un accouchement, appelez comme toujours le 112. La police contrôle l'accès à la zone. Sous certaines conditions et avec la protection nécessaire, les services de secours peuvent intervenir dans la zone.
+- Si vous avez besoin d'une aide médicale pendant la mise à l'abri, par exemple pour un accouchement, appelez comme toujours le 112. Si l'appel ne passe pas, faites appeler quelqu'un d'autre ou demandez de l'aide dans votre voisinage (voir Numéros d'urgence dans l'app, Si l'appel ne passe pas). La police contrôle l'accès à la zone. Sous certaines conditions et avec la protection nécessaire, les services de secours peuvent intervenir dans la zone.
 - Discutez à l'avance avec votre médecin généraliste de ce que vous faites de vos médicaments et de la question de savoir si vous pouvez prendre des comprimés d'iode (voir le guide sur l'iode).
 
-Source : [Risque nucléaire : questions fréquentes](https://risquenucleaire.be/fr/faq)
+Source : [Risque nucléaire : questions fréquentes](https://risquenucleaire.be/fr/faq) · [112.be : Questions fréquentes](https://112.be/fr/questions-frequentes) · [SPF Économie : questions des ménages sur la pénurie d'électricité](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door)
 
 ## Évacuation
 
@@ -309,10 +316,12 @@ Source : [Risque nucléaire : questions fréquentes](https://risquenucleaire.be/
 ## Se préparer
 
 - Vérifiez si vous habitez dans une zone de planification d'urgence.
+- Préparez une radio à piles ou une radio à manivelle, avec des piles de réserve.
 - Inscrivez-vous à BE-Alert, pour votre adresse de domicile et pour celle de l'école et du travail.
+- Convenez avec votre famille de l'endroit où vous vous retrouverez si vous ne pouvez pas vous joindre.
 - Procurez-vous des comprimés d'iode si vous faites partie d'un groupe cible (voir le guide sur l'iode).
 - Apprenez comment couper la ventilation chez vous et discutez des étapes de la mise à l'abri avec votre famille (Finlande).
 - Gardez du ruban adhésif à portée de main pour calfeutrer les fenêtres, les portes et les ouvertures (Finlande).
 - Préparez un jeu de vêtements de rechange par membre de la famille et un sac poubelle pour les vêtements contaminés, avec de la nourriture emballée, de l'eau et des médicaments (Ready.gov).
 
-Source : [Centre de crise National : Incident dans une centrale nucléaire](https://centredecrise.be/fr/risques-en-belgique/risques-economiques-et-technologiques/incident-dans-une-centrale-nucleaire) · [Centre de crise National : brochure Samen voorbereid](https://centredecrise.be/sites/default/files/documents/files/WEB-Brochure-Pr%C3%AAts.%20Ensemble-FR.pdf) · [Suomi.fi: Radiation hazards](https://www.suomi.fi/guides/preparedness/how-to-prepare-for-incidents-and-crises/radiation-hazards) · [Ready.gov: Radiation emergencies](https://www.ready.gov/radiation)
+Source : [Centre de crise National : Incident dans une centrale nucléaire](https://centredecrise.be/fr/risques-en-belgique/risques-economiques-et-technologiques/incident-dans-une-centrale-nucleaire) · [Centre de crise National : brochure Samen voorbereid](https://centredecrise.be/sites/default/files/documents/files/WEB-Brochure-Pr%C3%AAts.%20Ensemble-FR.pdf) · [Suomi.fi: Radiation hazards](https://www.suomi.fi/guides/preparedness/how-to-prepare-for-incidents-and-crises/radiation-hazards) · [Ready.gov: Radiation emergencies](https://www.ready.gov/radiation) · [Centre de crise National : Perturbation de l'infrastructure numérique](https://centredecrise.be/fr/risques-en-belgique/risques-societaux/defaillance-des-infrastructures-digitales)

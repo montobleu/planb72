@@ -8,14 +8,14 @@ stappen:
   - "Halten Sie sich von Fenstern, Glas und Außentüren fern. Nehmen Sie die Treppe, nie den Aufzug."
   - "Nehmen Sie Ihre Notfalltasche mit. Stellen Sie Gas, Strom und Wasser ab, wenn dafür Zeit ist."
   - "Draußen ohne Gebäude: Lassen Sie sich bei einer Explosion zu Boden fallen, am besten in eine Mulde oder einen Graben, und bedecken Sie Ihren Kopf."
-  - "Verfolgen Sie BE-Alert, Radio und die offiziellen Kanäle. Telefonieren Sie nicht, schicken Sie Nachrichten."
+  - "Hören Sie Radio, mit Batterien oder Kurbel. Achten Sie auf Sirenen und Lautsprecherwagen. Funktioniert das Netz, verfolgen Sie auch BE-Alert. Rufen Sie nicht an, um Informationen zu erfragen."
   - "Bleiben Sie im Schutz, bis der Alarm offiziell beendet ist. Berühren Sie keine unbekannten Gegenstände oder Wrackteile."
 niet:
   - "Suchen Sie keinen Schutz in Hauseingängen, unter Bögen, auf Treppen mit viel Glas oder neben Autos und Tankstellen."
   - "Filmen oder teilen Sie keine Einschläge, deren Ort oder Zeitpunkt, und keine Militärfahrzeuge oder Truppen."
   - "Berühren Sie keine nicht explodierte Munition und keine abgestürzte Drohne."
 status: concept
-datum: "2026-11-17"
+datum: "2026-11-18"
 bronnen:
   - naam: "Nationales Krisenzentrum: internationaler bewaffneter Konflikt"
     url: https://krisenzentrum.be/de/risiken-belgien/sicherheitsrisiken/internationaler-bewaffneter-konflikt-ibk
@@ -43,15 +43,29 @@ bronnen:
     url: https://krisenzentrum.be/de/was-koennen-sie-tun/stelle-ein-notfallpaket-zusammen/ein-notfallset-fuer-zu-hause
   - naam: "BE-Alert: benachrichtigt, wo immer Sie sind"
     url: https://www.be-alert.be/de/wie-werden-sie-alarmiert/alarmiert-wo-auch-immer-sie-sich-aufhalten
+  - naam: "Nationales Krisenzentrum: Informationen während einer Notsituation"
+    url: https://krisenzentrum.be/de/was-koennen-sie-tun/informieren-sie-sich/information-notsituationen
+  - naam: "Nationales Krisenzentrum: ein Plan für Ihre Nachbarschaft oder Ihren Verein"
+    url: https://krisenzentrum.be/de/was-koennen-sie-tun/erstellen-sie-einen-plan/ein-plan-ihrem-viertel-oder-ihrem-verein
+  - naam: "Nationales Krisenzentrum: Störung der digitalen Infrastruktur"
+    url: https://krisenzentrum.be/de/risiken-belgien/maatschappelijke-risicos/ausfall-der-digitalen-infrastruktur
+  - naam: "Nationales Krisenzentrum: Broschüre Gemeinsam vorbereitet"
+    url: https://krisenzentrum.be/sites/default/files/documents/files/WEB-Brosch%C3%BCre%20Gemeinsam%20Vorbereitet-DE.pdf
+  - naam: "112.be: Häufig gestellte Fragen"
+    url: https://112.be/de/haeufig-gestellte-fragen
+  - naam: "ERC Guidelines 2021: First aid"
+    url: https://cprguidelines-old.erc.edu/assets/guidelines/European-Resuscitation-Council-Guidelines-2021-Fi.pdf
+  - naam: "IFRC: International First Aid, Resuscitation and Education Guidelines 2020"
+    url: https://www.ifrc.org/sites/default/files/2022-02/EN_GFARC_GUIDELINES_2020.pdf
 vertaling: machine
-origineel_datum: "2026-11-17"
+origineel_datum: "2026-11-18"
 ---
 
 ## Erkennen
 
 **Die belgische Lage.** Das Nationale Krisenzentrum beschreibt einen internationalen bewaffneten Konflikt als Risiko mit sehr geringer Wahrscheinlichkeit. Das untersuchte Szenario spielt sich auf NATO-Gebiet außerhalb Belgiens ab. Das Krisenzentrum gibt auf dieser Seite keine eigenen Schritte für einen Luftangriff an. Die Schritte auf dieser Karte stammen deshalb aus den offiziellen Leitfäden Deutschlands, Schwedens, der Ukraine und Polens.
 
-**Wie Sie gewarnt werden.** In Belgien benachrichtigen die Behörden Sie über BE-Alert: SMS, E-Mail oder Telefonanruf. Bei einem großen Notfall erhält jeder mit einem Handy in der betroffenen Zone eine Alert-SMS, auch ohne Anmeldung. Verfolgen Sie auch Radio und Fernsehen.
+**Wie Sie gewarnt werden.** In Belgien benachrichtigen die Behörden Sie über Radio und Fernsehen und über Lautsprecherwagen der Polizei, die durch die Straße fahren. Funktioniert das Netz, auch über BE-Alert: SMS, E-Mail oder Telefonanruf. Bei einem großen Notfall erhält jeder mit einem Handy in der betroffenen Zone eine Alert-SMS, auch ohne Anmeldung. Mit einem Radio mit Batterien oder einem Kurbelradio können Sie auch bei einem Stromausfall die Medien hören.
 
 **Alarmsignale im Ausland.** Jedes Land hat sein eigenes Sirenensignal. Kennen Sie das Signal des Landes, in dem Sie sich aufhalten.
 
@@ -60,7 +74,7 @@ origineel_datum: "2026-11-17"
 
 **Worin die Gefahr besteht.** Bei einer Explosion geht die größte Gefahr von der Druckwelle und von umherfliegendem Schutt und Glas aus, nicht nur vom Einschlag selbst. Dicke Wände und Erde schützen vor Druckwelle, Splittern und Strahlung.
 
-Quelle: [Nationales Krisenzentrum: IGC](https://krisenzentrum.be/de/risiken-belgien/sicherheitsrisiken/internationaler-bewaffneter-konflikt-ibk) · [BE-Alert](https://www.be-alert.be/de/wie-werden-sie-alarmiert/alarmiert-wo-auch-immer-sie-sich-aufhalten) · [MCF: Warnung](https://www.mcf.se/en/advice-for-individuals/civil-defence-shelters-evacuation-and-warning-systems/public-service-announcement-and-other-varnings/about-the-warning--and-information-systems/) · [Polnische Regierung](https://bip.slaskie.pl/resource/232602/14d_safety_handbook_en.pdf) · [Bezirksamt Tempelhof-Schöneberg](https://www.berlin.de/ba-tempelhof-schoeneberg/service/bevoelkerungsschutz/artikel.1656638.php)
+Quelle: [Nationales Krisenzentrum: IGC](https://krisenzentrum.be/de/risiken-belgien/sicherheitsrisiken/internationaler-bewaffneter-konflikt-ibk) · [Nationales Krisenzentrum: Gemeinsam vorbereitet](https://krisenzentrum.be/sites/default/files/documents/files/WEB-Brosch%C3%BCre%20Gemeinsam%20Vorbereitet-DE.pdf) · [Nationales Krisenzentrum: Informationen während einer Notsituation](https://krisenzentrum.be/de/was-koennen-sie-tun/informieren-sie-sich/information-notsituationen) · [Nationales Krisenzentrum: Notfallpaket](https://krisenzentrum.be/de/was-koennen-sie-tun/stelle-ein-notfallpaket-zusammen/ein-notfallset-fuer-zu-hause) · [BE-Alert](https://www.be-alert.be/de/wie-werden-sie-alarmiert/alarmiert-wo-auch-immer-sie-sich-aufhalten) · [MCF: Warnung](https://www.mcf.se/en/advice-for-individuals/civil-defence-shelters-evacuation-and-warning-systems/public-service-announcement-and-other-varnings/about-the-warning--and-information-systems/) · [Polnische Regierung](https://bip.slaskie.pl/resource/232602/14d_safety_handbook_en.pdf) · [Bezirksamt Tempelhof-Schöneberg](https://www.berlin.de/ba-tempelhof-schoeneberg/service/bevoelkerungsschutz/artikel.1656638.php)
 
 ## Vorbereiten
 
@@ -69,10 +83,10 @@ Quelle: [Nationales Krisenzentrum: IGC](https://krisenzentrum.be/de/risiken-belg
 - **Legen Sie eine Notfalltasche bereit** und stellen Sie sie neben die Tür. Das schwedische MCF nennt: Wasser in Flaschen oder Dosen, Lebensmittel, die sich bei Raumtemperatur halten, Hygieneartikel und Toilettenpapier, Medikamente und einen Erste-Hilfe-Kasten, warme Kleidung, Personalausweis, Bargeld und Bankkarten, Schlüssel, Handy mit Ladegerät oder Powerbank und eine Taschenlampe. Die Ukraine ergänzt: Ersatzbatterien, Decken oder Rettungsdecken, ein batteriebetriebenes Radio und einen Feuerlöscher. Rechnen Sie mit einem Aufenthalt von mindestens zwei Tagen.
 - **Halten Sie zu Hause einen Vorrat** für mindestens 3 Tage, wie das Nationale Krisenzentrum empfiehlt: Wasser, haltbare Lebensmittel, ein Radio, eine Taschenlampe, Medikamente.
 - **Verstärken Sie Fenster** mit stark haftender Folie. Verschließen Sie sie, wenn möglich, mit Sandsäcken oder stabilen Möbeln.
-- **Erstellen Sie einen Plan** mit Ihrer Familie: Wer tut was, wo Sie sich treffen, wie Sie einander erreichen.
+- **Erstellen Sie einen Plan** mit Ihrer Familie: Wer tut was, wo Sie sich treffen, wie Sie einander erreichen. Vereinbaren Sie, wo Sie einander wiederfinden, wenn Sie einander nicht erreichen können. Vereinbaren Sie auch mit Ihren Nachbarn, wie Sie einander ohne Telefon oder Internet erreichen.
 - **Üben Sie.** Legen Sie den Weg zu Ihrem Schutzort vorher fest und folgen Sie ihm bei einem Alarm.
 
-Quelle: [dovidka.info: Shelter](https://dovidka.info/en/what-is-shelter/) · [dovidka.info: combat area](https://dovidka.info/en/in-the-combat-area/) · [MCF: shelters](https://www.mcf.se/en/advice-for-individuals/civil-defence-shelters-evacuation-and-warning-systems/good-to-know-about-civil-defence-shelters/) · [BBK](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Vorsorge/Schutz-suchen/Schutz-vor-Explosion/schutz-vor-explosion_node.html) · [Polnische Regierung](https://bip.slaskie.pl/resource/232602/14d_safety_handbook_en.pdf) · [Nationales Krisenzentrum: Notfallpaket](https://krisenzentrum.be/de/was-koennen-sie-tun/stelle-ein-notfallpaket-zusammen/ein-notfallset-fuer-zu-hause)
+Quelle: [dovidka.info: Shelter](https://dovidka.info/en/what-is-shelter/) · [dovidka.info: combat area](https://dovidka.info/en/in-the-combat-area/) · [MCF: shelters](https://www.mcf.se/en/advice-for-individuals/civil-defence-shelters-evacuation-and-warning-systems/good-to-know-about-civil-defence-shelters/) · [BBK](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Vorsorge/Schutz-suchen/Schutz-vor-Explosion/schutz-vor-explosion_node.html) · [Polnische Regierung](https://bip.slaskie.pl/resource/232602/14d_safety_handbook_en.pdf) · [Nationales Krisenzentrum: Notfallpaket](https://krisenzentrum.be/de/was-koennen-sie-tun/stelle-ein-notfallpaket-zusammen/ein-notfallset-fuer-zu-hause) · [Nationales Krisenzentrum: digitale Infrastruktur](https://krisenzentrum.be/de/risiken-belgien/maatschappelijke-risicos/ausfall-der-digitalen-infrastruktur) · [Nationales Krisenzentrum: Plan für Ihre Nachbarschaft](https://krisenzentrum.be/de/was-koennen-sie-tun/erstellen-sie-einen-plan/ein-plan-ihrem-viertel-oder-ihrem-verein)
 
 ## Während
 
@@ -134,7 +148,7 @@ Gehen Sie bei einem Alarm sofort zum nächstgelegenen Schutz.
 - Helfen Sie älteren Menschen, Kranken und Menschen mit einer Behinderung. Nicht jeder weiß, dass Gefahr droht. Geben Sie ihnen die wichtigsten Informationen und erklären Sie, was sie tun müssen.
 - Erstellen Sie vorher gemeinsam einen Plan. Helfen Sie beim Packen ihrer Notfalltasche.
 - Sorgen Sie für genug Medikamente und für Batterien für medizinische Geräte, wie Hörgeräte und Blutzuckermessgeräte.
-- Kann jemand nicht selbst weg, melden Sie das den Rettungsdiensten.
+- Kann jemand nicht selbst weg, melden Sie das den Rettungsdiensten: vor Ort oder über die 112, wenn ein Anruf möglich ist.
 
 ### Haustiere und Tiere
 
@@ -147,7 +161,7 @@ Gehen Sie bei einem Alarm sofort zum nächstgelegenen Schutz.
 
 - Rauchen Sie nicht, machen Sie keinen Lärm und zünden Sie keine Kerzen ohne Erlaubnis an. Bewegen Sie sich so wenig wie möglich.
 - Verfolgen Sie die Meldungen im Radio.
-- Telefonieren Sie nicht. Benutzen Sie SMS, um das Netz zu entlasten.
+- Rufen Sie nicht an, um Informationen zu erfragen. Funktioniert das Netz, benutzen Sie SMS, um das Netz zu entlasten.
 - Verlassen Sie den Schutzraum nicht vor dem offiziellen Ende des Alarms. Gehen Sie nur früher, wenn der Schutzraum selbst beschädigt ist.
 - Bleiben Sie nach einer Salve mindestens 10 Minuten im Schutz. Der Beschuss kann erneut beginnen.
 - Achten Sie darauf, wer in Ihrer Nähe Hilfe braucht.
@@ -167,6 +181,7 @@ Quelle: [BBK](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Vorsorge/Schutz-suchen
 - Ziehen Sie Menschen nicht selbst unter dem Schutt hervor. Rufen Sie Hilfe, halten Sie die Person still und ruhig und befolgen Sie die Anweisungen der Helfer. Graben Sie nicht selbst in Trümmern.
 - Sitzen Sie selbst unter Schutt fest: Rufen Sie um Hilfe, befreien Sie Ihre Gliedmaßen vorsichtig und berühren Sie nichts, was den Schutt stützt.
 - Rufen Sie im Notfall die 112 an. Sagen Sie, wo, was und wer anruft, und warten Sie auf Fragen. Halten Sie Anrufe kurz.
+- Kommt kein Anruf zustande: Lassen Sie jemand anderen anrufen oder versuchen Sie es mit einem anderen Gerät. Funktioniert gar kein Anruf, bestimmen Sie direkt eine umstehende Person, die Hilfe holt, und geben Sie ihr mit, wo es ist, was passiert ist, wie viele Betroffene es gibt und in welchem Zustand sie sind. Lassen Sie eine betroffene Person nur allein, wenn es keine andere Möglichkeit gibt. Siehe auch Notrufnummern in der App, Wenn kein Anruf möglich ist.
 
 **Nicht explodierte Munition, verdächtige Gegenstände und Wrackteile.**
 
@@ -186,7 +201,7 @@ Quelle: [BBK](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Vorsorge/Schutz-suchen
 - Filmen und fotografieren Sie keine Soldaten, Militärfahrzeuge oder wichtigen Gebäude wie Brücken und Bahnhöfe, und teilen Sie keine Bilder davon.
 - Teilen Sie keine Bilder von Einschlägen oder von Raketen in der Luft. Teilen Sie auch nicht, wo und wann etwas eingeschlagen ist, auch nicht in Kommentaren.
 
-Quelle: [BBK](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Vorsorge/Schutz-suchen/Schutz-vor-Explosion/schutz-vor-explosion_node.html) · [dovidka.info: combat area](https://dovidka.info/en/in-the-combat-area/) · [dovidka.info: mining](https://dovidka.info/en/a-guide-to-handling-the-threat-of-mining/) · [Polnische Regierung](https://bip.slaskie.pl/resource/232602/14d_safety_handbook_en.pdf) · [Belgische Verteidigung: DOVO](https://www.mil.be/en/our-missions/explosive-ordnance-disposal/)
+Quelle: [BBK](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Vorsorge/Schutz-suchen/Schutz-vor-Explosion/schutz-vor-explosion_node.html) · [dovidka.info: combat area](https://dovidka.info/en/in-the-combat-area/) · [dovidka.info: mining](https://dovidka.info/en/a-guide-to-handling-the-threat-of-mining/) · [Polnische Regierung](https://bip.slaskie.pl/resource/232602/14d_safety_handbook_en.pdf) · [Belgische Verteidigung: DOVO](https://www.mil.be/en/our-missions/explosive-ordnance-disposal/) · [112.be: Häufig gestellte Fragen](https://112.be/de/haeufig-gestellte-fragen) · [ERC Guidelines 2021: First aid](https://cprguidelines-old.erc.edu/assets/guidelines/European-Resuscitation-Council-Guidelines-2021-Fi.pdf) · [IFRC Guidelines 2020](https://www.ifrc.org/sites/default/files/2022-02/EN_GFARC_GUIDELINES_2020.pdf)
 
 ## Nicht tun
 
@@ -197,11 +212,13 @@ Quelle: [BBK](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Vorsorge/Schutz-suchen
 - Gehen Sie nicht vor dem offiziellen Ende des Alarms nach draußen.
 - Berühren Sie keine Munition, verdächtigen Gegenstände oder Drohnenwracks.
 - Filmen oder teilen Sie keine Einschläge, Truppen oder Verteidigungsmaßnahmen.
-- Telefonieren Sie nicht ohne Notwendigkeit.
+- Rufen Sie nicht an, um Informationen zu erfragen.
 
 Quelle: [dovidka.info: combat area](https://dovidka.info/en/in-the-combat-area/) · [dovidka.info: Shelter](https://dovidka.info/en/what-is-shelter/) · [BBK](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Vorsorge/Schutz-suchen/Schutz-vor-Explosion/schutz-vor-explosion_node.html) · [Polnische Regierung](https://bip.slaskie.pl/resource/232602/14d_safety_handbook_en.pdf)
 
 ## Mehr Informationen
+
+Lesen Sie diese Seiten im Voraus. Bei einer Stromunterbrechung können Internet und Mobilfunknetze ausfallen.
 
 - Deutsche Richtlinien zum Schutz bei Explosionen: [BBK](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Vorsorge/Schutz-suchen/Schutz-vor-Explosion/schutz-vor-explosion_node.html)
 - Schwedische Richtlinien zu Schutzräumen und Sirenen: [MCF](https://www.mcf.se/en/advice-for-individuals/civil-defence-shelters-evacuation-and-warning-systems/good-to-know-about-civil-defence-shelters/)
@@ -209,4 +226,4 @@ Quelle: [dovidka.info: combat area](https://dovidka.info/en/in-the-combat-area/)
 - Polnischer Sicherheitsleitfaden auf Englisch: [Safety Handbook](https://bip.slaskie.pl/resource/232602/14d_safety_handbook_en.pdf)
 - Siehe auch den Ratgeber **Schutz suchen je nach Gefahr**, das Modul **Schutz suchen** mit möglichen Schutzorten in Belgien und die Karte **Nuklearalarm**.
 
-Quelle: [Nationales Krisenzentrum: IGC](https://krisenzentrum.be/de/risiken-belgien/sicherheitsrisiken/internationaler-bewaffneter-konflikt-ibk)
+Quelle: [Nationales Krisenzentrum: IGC](https://krisenzentrum.be/de/risiken-belgien/sicherheitsrisiken/internationaler-bewaffneter-konflikt-ibk) · [Nationales Krisenzentrum: Gemeinsam vorbereitet](https://krisenzentrum.be/sites/default/files/documents/files/WEB-Brosch%C3%BCre%20Gemeinsam%20Vorbereitet-DE.pdf)

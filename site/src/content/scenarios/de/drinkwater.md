@@ -3,17 +3,17 @@ titel: Trinkwasser nicht sicher
 volgorde: 16
 kort: "Der Wasserversorger meldet, dass Leitungswasser nicht trinkbar ist, oder die Wasserversorgung fällt aus."
 stappen:
-  - "Lesen Sie die Meldung Ihres Wasserversorgers genau. Dürfen Sie das Wasser nach dem Abkochen trinken oder überhaupt nicht?"
+  - "Lesen Sie die Mitteilung Ihres Wasserversorgers im Briefkasten genau. Dürfen Sie das Wasser nach dem Abkochen trinken oder überhaupt nicht? Hören Sie auch Radio. Funktioniert das Internet, sehen Sie auch auf der Website Ihres Wasserversorgers nach."
   - "Verwenden Sie Flaschenwasser oder abgekochtes Wasser zum Trinken, zum Kochen, für Fläschchennahrung und für Eiswürfel."
   - "Abkochen: Lassen Sie das Wasser sprudelnd kochen, mindestens 1 Minute oder so lange, wie Ihr Wasserversorger sagt. Lassen Sie es in einem sauberen, verschlossenen Gefäß abkühlen."
   - "Abkochen hilft nicht bei chemischer oder radioaktiver Verunreinigung. Verwenden Sie dann nur Flaschenwasser."
-  - "Fällt das Wasser aus: Verwenden Sie Ihren Vorrat. Trinken Sie, was Sie brauchen, und sparen Sie Wasser für alles andere."
+  - "Fällt das Wasser aus: Verwenden Sie Ihren Vorrat. Trinken Sie, was Sie brauchen, und sparen Sie Wasser für alles andere. Der Wasserversorger kann Verteilstellen mit Wasser einrichten, und die Behörden können Flaschenwasser verteilen lassen."
   - "Ist das Wasser nach der Störung braun oder trüb, lassen Sie den Hahn einige Minuten laufen."
 niet:
   - "Verwenden Sie nie Wasser aus der Heizung oder dem Boiler zum Trinken oder Kochen."
   - "Rationieren Sie Trinkwasser nicht, es sei denn, die Behörden fordern dazu auf."
 status: concept
-datum: "2026-11-17"
+datum: "2026-11-18"
 bronnen:
   - naam: "Nationales Krisenzentrum: Störung der Trinkwasserversorgung"
     url: https://krisenzentrum.be/de/risiken-belgien/maatschappelijke-risicos/ausfall-der-trinkwasserversorgung
@@ -29,13 +29,19 @@ bronnen:
     url: https://www.cdc.gov/water-emergency/about/how-to-create-and-store-an-emergency-water-supply.html
   - naam: "Ready.gov: Water"
     url: https://www.ready.gov/water
+  - naam: "Nationales Krisenzentrum: Informationen während einer Notsituation"
+    url: https://krisenzentrum.be/de/was-koennen-sie-tun/informieren-sie-sich/information-notsituationen
+  - naam: "Nationales Krisenzentrum: Broschüre Gemeinsam vorbereitet"
+    url: https://krisenzentrum.be/sites/default/files/documents/files/WEB-Brosch%C3%BCre%20Gemeinsam%20Vorbereitet-DE.pdf
 vertaling: machine
-origineel_datum: "2026-11-17"
+origineel_datum: "2026-11-18"
 ---
 
 ## Erkennen
 
-**Arten von Meldungen.** Ihr Wasserversorger meldet ein Problem auf seiner Website und mit einer Mitteilung im Briefkasten. Die wallonische Wassergesellschaft SWDE verwendet drei Farben:
+**Wie Sie davon erfahren.** Ihr Wasserversorger meldet ein Problem mit einer Mitteilung im Briefkasten und auf seiner Website. In einer Notsituation informieren die Behörden auch über Radio, Fernsehen und Lautsprecherwagen der Polizei, die durch die Straßen fahren. Funktioniert das Netz, dann auch über BE-Alert, Websites und soziale Medien.
+
+**Arten von Meldungen.** Die wallonische Wassergesellschaft SWDE verwendet drei Farben für die Mitteilung im Briefkasten:
 
 - **Orange:** Das Wasser ist nicht trinkbar, aber Sie dürfen es verwenden, wenn Sie es vorher abkochen.
 - **Rot:** Das Wasser ist vorübergehend nicht trinkbar, auch nicht nach dem Abkochen. Sie dürfen es nicht zum Trinken verwenden.
@@ -51,7 +57,7 @@ Andere Wasserversorger können andere Begriffe verwenden. Lesen Sie die Meldung 
 
 **Wie lange.** Ein Abkochgebot gilt, bis Kontrollen zeigen, dass das Wasser nicht mehr verunreinigt ist. Eine feste Dauer lässt sich vorher nicht angeben.
 
-Quelle: [SWDE](https://www.swde.be/de/wasserqualitaet-nicht-trinkbares-wasser) · [RIVM](https://www.rivm.nl/drinkwater/toelichting-kookadvies-drinkwater) · [CDC](https://www.cdc.gov/water-emergency/about/index.html) · [Nationales Krisenzentrum](https://krisenzentrum.be/de/risiken-belgien/maatschappelijke-risicos/ausfall-der-trinkwasserversorgung)
+Quelle: [SWDE](https://www.swde.be/de/wasserqualitaet-nicht-trinkbares-wasser) · [RIVM](https://www.rivm.nl/drinkwater/toelichting-kookadvies-drinkwater) · [CDC](https://www.cdc.gov/water-emergency/about/index.html) · [Nationales Krisenzentrum](https://krisenzentrum.be/de/risiken-belgien/maatschappelijke-risicos/ausfall-der-trinkwasserversorgung) · [Nationales Krisenzentrum: Informationen während einer Notsituation](https://krisenzentrum.be/de/was-koennen-sie-tun/informieren-sie-sich/information-notsituationen)
 
 ## Vorbereiten
 
@@ -77,6 +83,11 @@ Quelle: [SWDE](https://www.swde.be/de/wasserqualitaet-nicht-trinkbares-wasser) �
 - Lagern Sie es bei etwa 10 bis 21 °C, außerhalb der Sonne und entfernt von Benzin und Pestiziden.
 - Berühren Sie das Wasser und die Innenseite des Behälters nicht mit den Händen. Verwenden Sie jedes Mal eine saubere Schöpfkelle.
 
+### Informationen ohne Netz
+
+- Halten Sie ein batteriebetriebenes Radio oder ein Kurbelradio bereit, möglichst mit DAB+ und UKW.
+- Schreiben Sie die Nummer des Kundendienstes Ihres Wasserversorgers auf Ihre Papierliste mit wichtigen Telefonnummern.
+
 ### Wasser sparen, immer
 
 - Duschen Sie, statt zu baden.
@@ -85,7 +96,7 @@ Quelle: [SWDE](https://www.swde.be/de/wasserqualitaet-nicht-trinkbares-wasser) �
 - Lassen Sie Lecks schnell reparieren.
 - Verwenden Sie Trinkwasser nur, wo es nötig ist.
 
-Quelle: [Nationales Krisenzentrum: Trinkwasser](https://krisenzentrum.be/de/risiken-belgien/maatschappelijke-risicos/ausfall-der-trinkwasserversorgung) · [Nationales Krisenzentrum: Notfallpaket](https://krisenzentrum.be/de/was-koennen-sie-tun/stelle-ein-notfallpaket-zusammen/ein-notfallset-fuer-zu-hause) · [CDC: Wasser aufbewahren](https://www.cdc.gov/water-emergency/about/how-to-create-and-store-an-emergency-water-supply.html) · [Ready.gov](https://www.ready.gov/water)
+Quelle: [Nationales Krisenzentrum: Trinkwasser](https://krisenzentrum.be/de/risiken-belgien/maatschappelijke-risicos/ausfall-der-trinkwasserversorgung) · [Nationales Krisenzentrum: Notfallpaket](https://krisenzentrum.be/de/was-koennen-sie-tun/stelle-ein-notfallpaket-zusammen/ein-notfallset-fuer-zu-hause) · [CDC: Wasser aufbewahren](https://www.cdc.gov/water-emergency/about/how-to-create-and-store-an-emergency-water-supply.html) · [Ready.gov](https://www.ready.gov/water) · [Nationales Krisenzentrum: Gemeinsam vorbereitet](https://krisenzentrum.be/sites/default/files/documents/files/WEB-Brosch%C3%BCre%20Gemeinsam%20Vorbereitet-DE.pdf)
 
 ## Während
 
@@ -106,13 +117,14 @@ So kochen Sie Wasser ab:
 **Wasser nicht trinkbar, auch nicht abgekocht (Rot).**
 
 - Verwenden Sie nur Flaschenwasser oder Wasser aus Ihrem Vorrat.
-- Der Wasserversorger richtet manchmal Verteilstellen mit Flaschenwasser oder einem Tankwagen ein. Der Kundendienst weiß, wo.
+- Der Wasserversorger richtet Verteilstellen ein. Funktioniert das Internet, steht bei der SWDE in der Meldung auf der Website, wo anderes Wasser erhältlich ist. Funktioniert das Telefon, weiß auch der Kundendienst, wo die Verteilstellen sind.
 
 **Chemische oder radioaktive Verunreinigung.** Abkochen und Desinfizieren helfen nicht. Verwenden Sie Flaschenwasser oder eine andere Quelle. Befolgen Sie den Rat der Gesundheitsdienste.
 
 **Kein Wasser aus dem Hahn.**
 
 - Verwenden Sie Ihren Vorrat. Trinken Sie zuerst das Wasser, von dem Sie sicher wissen, dass es unbedenklich ist.
+- Bei einer Unterbrechung der Wasserversorgung können Bürgermeister, Gouverneur oder Minister Wasser in Flaschen verteilen lassen. Hören Sie Radio und achten Sie auf Mitteilungen im Briefkasten und Lautsprecherwagen.
 - Rationieren Sie Trinkwasser nicht, es sei denn, die Behörden fordern dazu auf. Trinken Sie heute, was Sie brauchen, und suchen Sie Wasser für morgen.
 - Begrenzen Sie körperliche Anstrengung und bleiben Sie kühl, damit Sie weniger Wasser brauchen.
 - Trinken Sie keinen Alkohol und kein Koffein anstelle von Wasser. Dadurch verlieren Sie mehr Wasser.
@@ -150,11 +162,11 @@ Verwenden Sie diese nur, wenn Sie kein Flaschenwasser und keinen Vorrat mehr hab
 
 - Planen Sie in Ihrem Vorrat zusätzliches Wasser für Haustiere ein. Das Nationale Krisenzentrum empfiehlt Futter, Wasser und Näpfe für 72 Stunden.
 
-Quelle: [SWDE](https://www.swde.be/de/wasserqualitaet-nicht-trinkbares-wasser) · [RIVM](https://www.rivm.nl/drinkwater/toelichting-kookadvies-drinkwater) · [CDC](https://www.cdc.gov/water-emergency/about/index.html) · [CDC: Wasser aufbewahren](https://www.cdc.gov/water-emergency/about/how-to-create-and-store-an-emergency-water-supply.html) · [Ready.gov](https://www.ready.gov/water) · [Nationales Krisenzentrum: Notfallpaket](https://krisenzentrum.be/de/was-koennen-sie-tun/stelle-ein-notfallpaket-zusammen/ein-notfallset-fuer-zu-hause)
+Quelle: [SWDE](https://www.swde.be/de/wasserqualitaet-nicht-trinkbares-wasser) · [RIVM](https://www.rivm.nl/drinkwater/toelichting-kookadvies-drinkwater) · [CDC](https://www.cdc.gov/water-emergency/about/index.html) · [CDC: Wasser aufbewahren](https://www.cdc.gov/water-emergency/about/how-to-create-and-store-an-emergency-water-supply.html) · [Ready.gov](https://www.ready.gov/water) · [Nationales Krisenzentrum: Notfallpaket](https://krisenzentrum.be/de/was-koennen-sie-tun/stelle-ein-notfallpaket-zusammen/ein-notfallset-fuer-zu-hause) · [Nationales Krisenzentrum: Trinkwasser](https://krisenzentrum.be/de/risiken-belgien/maatschappelijke-risicos/ausfall-der-trinkwasserversorgung) · [Nationales Krisenzentrum: Informationen während einer Notsituation](https://krisenzentrum.be/de/was-koennen-sie-tun/informieren-sie-sich/information-notsituationen)
 
 ## Danach
 
-- Warten Sie auf die Meldung Ihres Wasserversorgers, dass das Wasser wieder trinkbar ist. Bei der SWDE ist das eine grüne Meldung.
+- Warten Sie auf die Meldung Ihres Wasserversorgers, dass das Wasser wieder trinkbar ist. Bei der SWDE ist das eine grüne Mitteilung im Briefkasten.
 - Ist das Wasser nach der Störung braun oder trüb, lassen Sie den Hahn einige Minuten laufen.
 - Ist der Wasserdruck niedrig, stellt er sich nach und nach wieder her.
 - Sparen Sie weiter Wasser. Verschwenden Sie es nicht.
@@ -175,6 +187,8 @@ Quelle: [Nationales Krisenzentrum](https://krisenzentrum.be/de/risiken-belgien/m
 Quelle: [CDC](https://www.cdc.gov/water-emergency/about/index.html) · [Ready.gov](https://www.ready.gov/water) · [SWDE](https://www.swde.be/de/wasserqualitaet-nicht-trinkbares-wasser)
 
 ## Mehr Informationen
+
+Vorab zu lesen, oder wenn das Internet funktioniert:
 
 - Risiko und Tipps: [Nationales Krisenzentrum: Störung der Trinkwasserversorgung](https://krisenzentrum.be/de/risiken-belgien/maatschappelijke-risicos/ausfall-der-trinkwasserversorgung)
 - Meldungen über nicht trinkbares Wasser in der Wallonie: [SWDE](https://www.swde.be/de/wasserqualitaet-nicht-trinkbares-wasser)

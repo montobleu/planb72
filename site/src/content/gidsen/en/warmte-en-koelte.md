@@ -4,7 +4,7 @@ module: warmte
 volgorde: 1
 kort: "How to stay warm in the cold without heating (one room, layered clothing, sleeping warm), how to heat safely without carbon monoxide poisoning, and how to stay cool in the heat when there is no power."
 status: concept
-datum: "2026-11-17"
+datum: "2026-11-18"
 bronnen:
   - naam: "National Crisis Center: Cold wave"
     url: "https://crisiscenter.be/en/risks-belgium/natural-risks/cold-wave"
@@ -38,8 +38,18 @@ bronnen:
     url: "https://www.ready.gov/power-outages"
   - naam: "Ready.gov: People with Disabilities"
     url: "https://www.ready.gov/disability"
+  - naam: "FPS Economy: Frequently asked questions from households about electricity shortages"
+    url: "https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door"
+  - naam: "Red Cross Flanders: Power and communication failure"
+    url: "https://www.rodekruis.be/wat-doen-we/hulp-in-vlaanderen/goed-voorbereid/stroom-en-communicatie-uitval/"
+  - naam: "112.be: Frequently asked questions"
+    url: "https://112.be/en/frequently-asked-questions"
+  - naam: "ERC Guidelines 2021: First aid"
+    url: "https://cprguidelines-old.erc.edu/assets/guidelines/European-Resuscitation-Council-Guidelines-2021-Fi.pdf"
+  - naam: "IFRC: International First Aid, Resuscitation and Education Guidelines 2020"
+    url: "https://www.ifrc.org/sites/default/files/2022-02/EN_GFARC_GUIDELINES_2020.pdf"
 vertaling: machine
-origineel_datum: "2026-11-17"
+origineel_datum: "2026-11-18"
 ---
 
 If the power fails, the heating often fails too. The Crisis Center's OFF ON brochure explicitly mentions the shutdown of boilers and circulation pumps as a consequence of a power cut. The BBK writes: without power your heating may not work, and in winter rooms cool down quickly. In summer, fans and air conditioning do not work. This guide covers both situations.
@@ -77,9 +87,10 @@ In the order in which the sources mention them first.
 
 **2. Living in one room**
 
+- Close windows and doors and stay in one room as much as possible (Red Cross Flanders).
 - As far as possible, choose one room to stay in and keep the doors closed, so that the heat does not escape (BBK).
 - Gather together in one room (MCF).
-- In a power cut, several people can gather together to share light and warmth (Crisis Center).
+- In a power cut, several people can gather together to share light and warmth. Agree in advance with your neighbours whose home you can go to and which supplies you will share (Crisis Center).
 
 The sources do not say which room to choose. Choose a room that you can ventilate: even in one room, regular ventilation remains necessary (see below).
 
@@ -97,7 +108,8 @@ The sources do not say which room to choose. Choose a room that you can ventilat
 
 **5. Going to a warm place**
 
-- Go to a place in the municipality with power if the heat or cold is extreme (Ready.gov). Ask the local authorities which warm or cool places are open.
+- Go to a place in the municipality with power if the heat or cold is extreme (Ready.gov). Ready.gov recommends checking with the local authorities which warm or cool places are open.
+- In Belgium, mayors and governors have prepared emergency measures for load shedding, such as an information and reception point for the public. Ask your municipality in advance what arrangements it has made. During the interruption, follow the information from the authorities on a battery radio or the car radio, or ask for help in your neighbourhood (FPS Economy).
 
 **What not to do**
 
@@ -105,7 +117,7 @@ The sources do not say which room to choose. Choose a room that you can ventilat
 - Do not bring a barbecue indoors for heating (Poison Centre).
 - Only use generators outdoors (Ready.gov). See the guide on light and energy.
 
-Source: [National Crisis Center: OFF ON](https://crisiscentrum.be/sites/default/files/documents/files/OffOn-triptyque-N.pdf) · [National Crisis Center: Cold wave](https://crisiscenter.be/en/risks-belgium/natural-risks/cold-wave) · [National Crisis Center: An emergency kit at home](https://crisiscenter.be/en/what-can-you-do/build-emergency-kit/emergency-kit-home) · [BBK: Vorsorgen für Krisen und Katastrophen](https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/Buergerinformationen/Ratgeber/BBK-Vorsorgen-fuer-Krisen-und-Katastrophen.pdf?__blob=publicationFile&v=44) · [BBK: Vorsorge und Handeln bei Stromausfall](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Vorsorge/Stromausfall/stromausfall_node.html) · [MCF: In case of crisis or war](https://rib.msb.se/filer/pdf/31523.pdf) · [Denk vooruit: information booklet](https://www.denkvooruit.nl/site/binaries/site-content/collections/documents/2025/11/17/informatieboekje-bereid-je-voor-op-een-noodsituatie/informatieboekje-bereid-je-voor-op-een-noodsituatie.pdf) · [Ready.gov: Power Outages](https://www.ready.gov/power-outages) · [Poison Centre: Preventing CO poisoning](https://www.poisoncentre.be/app/uploads/2026/02/Brochure-CO-vergiftiging-voorkomen-NL-1.pdf)
+Source: [National Crisis Center: OFF ON](https://crisiscentrum.be/sites/default/files/documents/files/OffOn-triptyque-N.pdf) · [National Crisis Center: Cold wave](https://crisiscenter.be/en/risks-belgium/natural-risks/cold-wave) · [National Crisis Center: An emergency kit at home](https://crisiscenter.be/en/what-can-you-do/build-emergency-kit/emergency-kit-home) · [BBK: Vorsorgen für Krisen und Katastrophen](https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/Buergerinformationen/Ratgeber/BBK-Vorsorgen-fuer-Krisen-und-Katastrophen.pdf?__blob=publicationFile&v=44) · [BBK: Vorsorge und Handeln bei Stromausfall](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Vorsorge/Stromausfall/stromausfall_node.html) · [MCF: In case of crisis or war](https://rib.msb.se/filer/pdf/31523.pdf) · [Denk vooruit: information booklet](https://www.denkvooruit.nl/site/binaries/site-content/collections/documents/2025/11/17/informatieboekje-bereid-je-voor-op-een-noodsituatie/informatieboekje-bereid-je-voor-op-een-noodsituatie.pdf) · [Ready.gov: Power Outages](https://www.ready.gov/power-outages) · [Poison Centre: Preventing CO poisoning](https://www.poisoncentre.be/app/uploads/2026/02/Brochure-CO-vergiftiging-voorkomen-NL-1.pdf) · [Red Cross Flanders: Power and communication failure](https://www.rodekruis.be/wat-doen-we/hulp-in-vlaanderen/goed-voorbereid/stroom-en-communicatie-uitval/) · [FPS Economy: questions from households about electricity shortages](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door)
 
 ## Ventilating, even when it is cold
 
@@ -175,14 +187,16 @@ Source: [Poison Centre: Preventing CO poisoning](https://www.poisoncentre.be/app
 **What to do (Poison Centre)**
 
 1. Never enter a room where an unconscious casualty is lying. Protect yourself.
-2. Call the emergency services immediately.
+2. Call the emergency services immediately, or have someone call. If you cannot get through, see Emergency numbers in the app, If you cannot call.
 3. Open windows and doors, if you can do so without risk to yourself.
 4. If the casualty is unconscious: call 112 and say that CO is suspected. If possible, switch off the appliance. Get the casualty out of the room. If the casualty is no longer breathing, give mouth-to-mouth ventilation; according to the Poison Centre, this is safe. If the casualty is still breathing, lay them on their side without a pillow.
-5. If the casualty is conscious: call the GP.
+5. If the casualty is conscious: call the GP, if the network works.
 
-The Poison Centre can be reached free of charge 24 hours out of 24 on 070 245 245. See also the scenario card on CO.
+If you cannot get through: leave the casualty only if there is no other option, and designate a bystander or neighbour to fetch help. Tell them where it is, what happened (probably CO), how many casualties there are and what state they are in.
 
-Source: [Poison Centre: Preventing CO poisoning](https://www.poisoncentre.be/app/uploads/2026/02/Brochure-CO-vergiftiging-voorkomen-NL-1.pdf)
+The Poison Centre can be reached free of charge 24 hours out of 24 on 070 245 245, if the network works. Write the number down in advance on your paper list. See also the scenario card on CO.
+
+Source: [Poison Centre: Preventing CO poisoning](https://www.poisoncentre.be/app/uploads/2026/02/Brochure-CO-vergiftiging-voorkomen-NL-1.pdf) · [ERC Guidelines 2021: First aid](https://cprguidelines-old.erc.edu/assets/guidelines/European-Resuscitation-Council-Guidelines-2021-Fi.pdf) · [IFRC Guidelines 2020](https://www.ifrc.org/sites/default/files/2022-02/EN_GFARC_GUIDELINES_2020.pdf) · [112.be: Frequently asked questions](https://112.be/en/frequently-asked-questions)
 
 ## Fire from heating and candles
 
@@ -233,7 +247,7 @@ According to the Crisis Center, a heatwave is a period of at least five consecut
 
 **Before the heat (Crisis Center)**
 
-- Follow the RMI weather forecast.
+- Follow the RMI weather forecast, for example on radio or TV.
 - If you are a person at risk, such as a heart patient or older person, ask your GP about the risks.
 - Ask your doctor or pharmacist whether your medicines may have an adverse effect in hot weather.
 - Visit people who need help, to help them prepare.
@@ -272,13 +286,13 @@ Ready.gov:
 
 | | Signs | What you do |
 | --- | --- | --- |
-| Heat cramps | muscle pain or cramps in the abdomen, arms or legs | go to a cooler place, remove excess clothing, drink small sips of water or a sports drink; call your care provider if it gets worse or lasts longer than an hour |
+| Heat cramps | muscle pain or cramps in the abdomen, arms or legs | go to a cooler place, remove excess clothing, drink small sips of water or a sports drink; call your care provider if it gets worse or lasts longer than an hour, if the network works |
 | Heat exhaustion | heavy sweating, paleness, muscle cramps, tiredness, weakness, fast or weak pulse, dizziness, headache, fainting, nausea, vomiting | same as for heat cramps |
 | Heat stroke | the source gives no separate signs here | call 112 or take the person to a hospital; move them to a cool, shady place; remove outer clothing; put cold wet cloths or ice on the head, neck, armpits and groin, or wet the clothing with cool water; raise the feet |
 
-The Crisis Center: if you have cramps, a high fever, a headache or feel faint, call your GP. Only call 112 in a life-threatening situation.
+The Crisis Center: if you have cramps, a high fever, a headache or feel faint, call your GP. Only call 112 in a life-threatening situation. If you cannot get through, have someone else call or ask for help in your neighbourhood (see Emergency numbers, If you cannot call). For heat stroke, Ready.gov also says: take the person to a hospital.
 
-Source: [Ready.gov: Extreme Heat](https://www.ready.gov/heat) · [National Crisis Center: Heatwave](https://crisiscenter.be/en/risks-belgium/natural-risks/heatwave)
+Source: [Ready.gov: Extreme Heat](https://www.ready.gov/heat) · [National Crisis Center: Heatwave](https://crisiscenter.be/en/risks-belgium/natural-risks/heatwave) · [FPS Economy: questions from households about electricity shortages](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door) · [112.be: Frequently asked questions](https://112.be/en/frequently-asked-questions)
 
 ## Heat by person
 
@@ -286,7 +300,7 @@ Source: [Ready.gov: Extreme Heat](https://www.ready.gov/heat) · [National Crisi
 - **Spinal cord injury.** The body sometimes cannot cool down by sweating (Ready.gov).
 - **Severe mental health conditions.** Medicines can interfere with the body's cooling (Ready.gov).
 - **Dementia and intellectual disability.** A person may find it hard to understand or explain how the heat is affecting them (Ready.gov). Ask carers, family and friends to visit regularly.
-- **Electrical medical devices.** Ask your energy supplier about priority during power cuts (Ready.gov). See the guide on medication and care.
+- **Electrical medical devices.** Ask your energy supplier about priority during power cuts (Ready.gov). If your medical needs mean you cannot stay at home and cannot go to an ordinary cool place, make a plan in advance with a nearby hospital or residential care home (Ready.gov). See the guide on medication and care.
 - **Pets.** Provide plenty of cool water and shade. Tarmac can be too hot for their paws (Ready.gov).
 - **Neighbours.** Check on family, older people and neighbours (Ready.gov).
 

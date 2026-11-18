@@ -2,9 +2,9 @@
 titel: "Medikamente und Pflege in einer Notsituation"
 module: gezondheid
 volgorde: 2
-kort: "Wie Sie einen Vorrat Ihrer regelmäßigen Medikamente anlegen, was Sie mit Insulin und anderen kühlpflichtigen Medikamenten ohne Strom tun, Heimsauerstoff und Dialyse, an wen Sie sich wenden können, wenn Medikamente ausgehen, und wie Sie für Menschen sorgen, die auf Pflege angewiesen sind. Ohne Dosierungen."
+kort: "Wie Sie einen Vorrat Ihrer regelmäßigen Medikamente anlegen, was Sie mit Insulin und anderen kühlpflichtigen Medikamenten ohne Strom tun, Heimsauerstoff und Dialyse, was Sie im Voraus für den Fall vereinbaren, dass Sie Ihre Behandelnden nicht anrufen können, an wen Sie sich wenden können, wenn Medikamente ausgehen, und wie Sie für Menschen sorgen, die auf Pflege angewiesen sind. Ohne Dosierungen."
 status: concept
-datum: "2026-11-17"
+datum: "2026-11-18"
 bronnen:
   - naam: "Nationales Krisenzentrum: Ein Notfallpaket bei Ihnen zu Hause"
     url: "https://krisenzentrum.be/de/was-koennen-sie-tun/stelle-ein-notfallpaket-zusammen/ein-notfallset-fuer-zu-hause"
@@ -40,8 +40,16 @@ bronnen:
     url: "https://www.ready.gov/kit"
   - naam: "WHO, War Trauma Foundation und World Vision International: Psychological first aid, guide for field workers (2011)"
     url: "https://psychiatry.uw.edu/wp-content/uploads/2020/04/1.-WHO_PFA_2011.pdf"
+  - naam: "FÖD Wirtschaft: Häufig gestellte Fragen von Haushalten zur Stromknappheit"
+    url: "https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door"
+  - naam: "Nationales Krisenzentrum: Ein Plan bei Ihnen zu Hause"
+    url: "https://krisenzentrum.be/de/was-koennen-sie-tun/make-plan/ein-notfallplan-zu-hause"
+  - naam: "Nationales Krisenzentrum: Ein Plan in Ihrem Viertel oder Verein"
+    url: "https://krisenzentrum.be/de/was-koennen-sie-tun/erstellen-sie-einen-plan/ein-plan-ihrem-viertel-oder-ihrem-verein"
+  - naam: "112.be: Häufig gestellte Fragen"
+    url: "https://112.be/de/haeufig-gestellte-fragen"
 vertaling: machine
-origineel_datum: "2026-11-17"
+origineel_datum: "2026-11-18"
 ---
 
 Das Krisenzentrum bittet ausdrücklich darum, beim Zusammenstellen Ihres Notfallpakets an die Medikamente zu denken, die Sie täglich einnehmen. Das BBK erklärt, warum: In einer Krise können Rettungsdienste, Krankenhäuser und Apotheken vorübergehend nicht verfügbar sein. Dieser Leitfaden behandelt Ihre eigenen Medikamente und Hilfsmittel sowie die Pflege von Menschen, die auf andere oder auf strombetriebene Geräte angewiesen sind.
@@ -186,12 +194,14 @@ Quelle: [FDA: Safe Drug Use After a Natural Disaster](https://www.fda.gov/drugs/
 - Halten Sie einen Reservevorrat an Sauerstoff (Ready.gov).
 - Erstellen Sie eine Liste mit Typ und Seriennummer Ihrer medizinischen Geräte, gegebenenfalls mit Gebrauchsanweisungen (Ready.gov).
 - Kaufen Sie einen zusätzlichen Akku für batteriebetriebene Geräte und halten Sie ihn geladen (Ready.gov).
+- Warten Sie nicht auf einen Stromausfall. Prüfen Sie, wie lange der vollständig aufgeladene interne Akku Ihres Geräts hält. Ist das kürzer, als der Ausfall dauern kann, brauchen Sie eine Aufnahme an einem anderen Ort: Klären Sie diese Möglichkeiten im Voraus (FÖD Wirtschaft).
+- Verwenden Sie ein Gerät mit Unterbrechungen, wie bei der Heimdialyse, sorgen Sie dafür, dass es zum Zeitpunkt einer angekündigten Abschaltung nicht angeschlossen ist (FÖD Wirtschaft).
 
 **Was das BBK zur häuslichen Pflege sagt.** Bei einem Stromausfall können in der häuslichen Pflege Geräte ausfallen, die lebensnotwendig sein können, etwa Beatmungsgeräte. Dienste wie Hausnotruf und Essen auf Rädern können gestört werden oder ausfallen. Nutzen Sie solche Dienste, fragen Sie, ob und wie sie bei einem längeren Stromausfall weiterlaufen.
 
-Siehe auch den Leitfaden zu Licht und Energie für Batterien, Powerbanks und Generatoren.
+Siehe auch den Leitfaden zu Licht und Energie für Batterien, Powerbanks und Generatoren, und unten, was Sie tun, wenn Sie Ihre Behandelnden nicht anrufen können.
 
-Quelle: [Nationales Krisenzentrum: Ein Plan für Menschen, die zusätzliche Hilfe brauchen](https://krisenzentrum.be/de/was-koennen-sie-tun/bereiten-sie-sich-vor/ein-plan-fuer-personen-die-zusaetzliche-hilfe-benoetigen) · [Ready.gov: People with Disabilities](https://www.ready.gov/disability) · [Ready.gov: Power Outages](https://www.ready.gov/power-outages) · [BBK: Stromausfall, Vorsorge und Selbsthilfe](https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/Buergerinformationen/stromausfall-vorsorge-selbsthilfe.pdf?__blob=publicationFile&v=17)
+Quelle: [Nationales Krisenzentrum: Ein Plan für Menschen, die zusätzliche Hilfe brauchen](https://krisenzentrum.be/de/was-koennen-sie-tun/bereiten-sie-sich-vor/ein-plan-fuer-personen-die-zusaetzliche-hilfe-benoetigen) · [FÖD Wirtschaft: Fragen von Haushalten zur Stromknappheit](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door) · [Ready.gov: People with Disabilities](https://www.ready.gov/disability) · [Ready.gov: Power Outages](https://www.ready.gov/power-outages) · [BBK: Stromausfall, Vorsorge und Selbsthilfe](https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/Buergerinformationen/stromausfall-vorsorge-selbsthilfe.pdf?__blob=publicationFile&v=17)
 
 ## Dialyse und andere Behandlungen in einem Zentrum
 
@@ -203,6 +213,39 @@ Die herangezogenen belgischen Quellen geben keine gesonderten Richtlinien für d
 
 Quelle: [Ready.gov: People with Disabilities](https://www.ready.gov/disability) · [Ready.gov: Older Adults](https://www.ready.gov/older-adults)
 
+## Wenn Sie Ihre Behandelnden nicht anrufen können
+
+Bei einem Stromausfall halten Mobilfunkmasten ein bis zwei Stunden durch, mobiles Internet fällt schnell aus und die meisten Festnetzleitungen funktionieren nicht mehr (FÖD Wirtschaft). Auch der Hausnotruf kann ausfallen (BBK). Wer auf Sauerstoff, Dialyse, Heimbeatmung oder ein anderes Gerät angewiesen ist, regelt deshalb im Voraus, was geschieht, wenn niemand zu erreichen ist.
+
+**Im Voraus vereinbaren**
+
+- Besprechen Sie mit Ihren Pflegenden und Behandelnden, was Sie bei einer Panne Ihres Geräts tun (Krisenzentrum). Vereinbaren Sie auch, wie Sie einander im Notfall erreichen, und denken Sie an Alternativen, wenn Sie kein Telefon oder Internet haben (Krisenzentrum).
+- Nutzen Sie häusliche Pflege oder einen Hausnotruf, fragen Sie, ob und wie diese Dienste bei einem langen Stromausfall weiterlaufen (BBK).
+- Erhalten Sie eine Behandlung in einer Klinik oder einem Krankenhaus, fragen Sie nach deren Notfallplan und suchen Sie gemeinsam eine Ausweichadresse (Ready.gov). Kennen Sie die Lage von mehr als einem Ort, der Ihnen helfen kann (Ready.gov).
+- Prüfen Sie, wie lange der Akku Ihres Geräts hält und wo Sie sonst aufgenommen werden können (FÖD Wirtschaft).
+- Fragen Sie Ihre Gemeinde, welche Lösungen sie bei einem Stromausfall vorsieht, zum Beispiel eine Informations- und Anlaufstelle für die Bevölkerung (FÖD Wirtschaft). In Deutschland empfiehlt das BBK, bei der Gemeinde zu fragen, wo Sie einen Notruf absetzen können, wenn das Telefonnetz ausfällt.
+- Vereinbaren Sie mit Ihren Nachbarn, wie Sie einander ohne Telefon oder Internet erreichen und wer zusätzliche Hilfe braucht (Krisenzentrum, Plan in Ihrem Viertel).
+- Sorgen Sie dafür, dass mindestens eine Person aus Ihrem Unterstützungsnetz einen Schlüssel hat, weiß, wo Ihr Vorrat liegt, und weiß, wie sie Ihre lebensrettenden Geräte bedient (Ready.gov). Siehe unten bei pflegebedürftigen Personen.
+
+**Auf Papier**
+
+- Eine Liste mit Name, Adresse und Telefonnummer Ihrer Pflegenden, Behandelnden und Kontaktpersonen. So finden Sie einander wieder, auch wenn Ihr Handy leer ist (Krisenzentrum).
+- Eine Liste der nächstgelegenen medizinischen Einrichtungen und Krankenhäuser und von geeigneter Beförderung (Ready.gov).
+- Typ und Seriennummer Ihrer Geräte, mit den Gebrauchsanweisungen (Ready.gov), und Ihre Medikamentenliste.
+- Bewahren Sie Ihre Kontaktliste in einer wasserdichten Verpackung bei Ihrem Notfallpaket auf (Ready.gov).
+
+**Wenn es so weit ist und kein Anruf zustande kommt**
+
+1. Folgen Sie den Absprachen, die Sie im Voraus getroffen haben.
+2. Bitten Sie in Ihrer Nachbarschaft um Hilfe (FÖD Wirtschaft), bei Nachbarn, Familie und den Menschen aus Ihrem Unterstützungsnetz (Ready.gov). Das BBK empfiehlt, Ihre Nachbarn anzusprechen: Vielleicht brauchen sie Hilfe oder können Ihnen helfen.
+3. Verfolgen Sie die Informationen der Behörden über ein batteriebetriebenes Radio oder das Autoradio (FÖD Wirtschaft). Die Gemeinde kann eine Informations- und Anlaufstelle für die Bevölkerung öffnen (FÖD Wirtschaft).
+4. Hält der Akku eines lebensnotwendigen Geräts weniger lange als der Ausfall, brauchen Sie eine Aufnahme an einem anderen Ort (FÖD Wirtschaft). Gehen Sie zu dem Ort, den Sie im Voraus vereinbart haben.
+5. Bei Lebensgefahr: Rufen Sie die 112 an oder lassen Sie jemanden anrufen. Kommt kein Anruf zustande, siehe Notrufnummern in der App, Wenn kein Anruf möglich ist. Die Karte in der App (Schaltfläche Am nächsten) zeigt Krankenhäuser, Feuerwehr, Polizei und Gemeindehäuser.
+
+Gut zu wissen: Allgemeine und psychiatrische Krankenhäuser gehören zu den vorrangigen Nutzern. Bei einer Abschaltung werden sie grundsätzlich nicht abgeschaltet oder vorrangig wieder versorgt. Altenheime und Pflegezentren gehören nicht dazu (FÖD Wirtschaft). In Deutschland empfiehlt das BBK, bei einem Notfall möglichst zur nächstgelegenen Polizeidienststelle oder zum nächstgelegenen Krankenhaus zu gehen, wenn die Notrufnummern nicht funktionieren.
+
+Quelle: [FÖD Wirtschaft: Fragen von Haushalten zur Stromknappheit](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door) · [Nationales Krisenzentrum: Ein Plan für Menschen, die zusätzliche Hilfe brauchen](https://krisenzentrum.be/de/was-koennen-sie-tun/bereiten-sie-sich-vor/ein-plan-fuer-personen-die-zusaetzliche-hilfe-benoetigen) · [Nationales Krisenzentrum: Ein Plan bei Ihnen zu Hause](https://krisenzentrum.be/de/was-koennen-sie-tun/make-plan/ein-notfallplan-zu-hause) · [Nationales Krisenzentrum: Ein Plan in Ihrem Viertel oder Verein](https://krisenzentrum.be/de/was-koennen-sie-tun/erstellen-sie-einen-plan/ein-plan-ihrem-viertel-oder-ihrem-verein) · [112.be: Häufig gestellte Fragen](https://112.be/de/haeufig-gestellte-fragen) · [BBK: Stromausfall, Vorsorge und Selbsthilfe](https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/Buergerinformationen/stromausfall-vorsorge-selbsthilfe.pdf?__blob=publicationFile&v=17) · [BBK: Vorsorgen für Krisen und Katastrophen](https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/Buergerinformationen/Ratgeber/BBK-Vorsorgen-fuer-Krisen-und-Katastrophen.pdf?__blob=publicationFile&v=44) · [Ready.gov: People with Disabilities](https://www.ready.gov/disability) · [Ready.gov: Older Adults](https://www.ready.gov/older-adults)
+
 ## Wenn Ihre Medikamente ausgehen
 
 **Normalbetrieb: die Bereitschaftsapotheke.** Außerhalb der Öffnungszeiten finden Sie in Belgien immer eine Bereitschaftsapotheke in der Nähe (APB, apotheek.be):
@@ -213,20 +256,20 @@ Quelle: [Ready.gov: People with Disabilities](https://www.ready.gov/disability) 
 | Samstag | von 13.00 Uhr bis 9.00 Uhr am nächsten Morgen |
 | Sonn- und Feiertage | von 9.00 Uhr bis 9.00 Uhr am nächsten Morgen |
 
-- Suchen Sie die Bereitschaftsapotheke auf apotheek.be. In manchen Regionen müssen Sie nach 22.00 Uhr eine kostenlose Telefonnummer anrufen, um zu erfahren, welche Apotheke Bereitschaft hat.
-- **Ohne Internet.** An jeder Apotheke hängt eine Bereitschaftsliste mit Name, Adresse und Telefonnummer der Bereitschaftsapotheken in der Nähe. Sie können sie von außen lesen.
+- **Ohne Internet.** An jeder Apotheke hängt eine Bereitschaftsliste mit Name, Adresse und Telefonnummer der Bereitschaftsapotheken in der Nähe. Sie können sie von außen lesen. Gehen Sie also zuerst zur nächstgelegenen Apotheke.
+- **Wenn das Netz funktioniert.** Suchen Sie die Bereitschaftsapotheke dann auch auf apotheek.be. In manchen Regionen müssen Sie nach 22.00 Uhr eine kostenlose Telefonnummer anrufen, um zu erfahren, welche Apotheke Bereitschaft hat.
 - Nachts bedienen viele Apotheker über einen Nachtschalter.
 - Mit Rezept darf der Apotheker keinen Bereitschaftszuschlag berechnen; ohne Rezept darf er einen angemessenen, sichtbar ausgehängten Zuschlag verlangen.
 
-**Den Bereitschaftsarzt** erreichen Sie unter 1733 (Krisenzentrum).
+**Den Bereitschaftsarzt** erreichen Sie unter 1733 (Krisenzentrum), wenn das Netz funktioniert. Notieren Sie die Nummer im Voraus auf Ihrer Liste auf Papier.
 
 **Bei einem Mangel an Medikamenten** (Krisenzentrum)
 
-- Melden Sie sich bei Farmastatus an, um automatisch E-Mails zu erhalten, wenn sich die Verfügbarkeit eines Medikaments ändert.
-- Fragen Sie Ihren Hausarzt oder Apotheker um Rat zu Ihrer Behandlung. Lesen Sie auf farmainfo.be, was Sie selbst tun können.
+- Fragen Sie Ihren Hausarzt oder Apotheker um Rat zu Ihrer Behandlung.
+- Zur Vorbereitung, solange das Internet funktioniert: Melden Sie sich bei Farmastatus an, um automatisch E-Mails zu erhalten, wenn sich die Verfügbarkeit eines Medikaments ändert, und lesen Sie auf farmainfo.be, was Sie selbst tun können.
 - Die Föderalagentur für Arzneimittel und Gesundheitsprodukte (FAAG) überwacht die Versorgung; Hersteller müssen Lieferengpässe melden.
 
-**Wenn Versorgung vorübergehend nicht erreichbar ist.** Das BBK schreibt: Funktionieren die Notrufnummern nicht mehr, gehen Sie bei einem Notfall möglichst zur nächstgelegenen Polizeidienststelle oder zum nächstgelegenen Krankenhaus. Die WHO nennt die Versorgung chronischer Erkrankungen unter den Dingen, die Menschen nach einer Katastrophe oft brauchen (siehe den Leitfaden zur Evakuierung).
+**Wenn Versorgung vorübergehend nicht erreichbar ist.** Siehe den Abschnitt Wenn Sie Ihre Behandelnden nicht anrufen können. In Deutschland schreibt das BBK: Funktionieren die Notrufnummern nicht mehr, gehen Sie bei einem Notfall möglichst zur nächstgelegenen Polizeidienststelle oder zum nächstgelegenen Krankenhaus. Die WHO nennt die Versorgung chronischer Erkrankungen unter den Dingen, die Menschen nach einer Katastrophe oft brauchen (siehe den Leitfaden zur Evakuierung).
 
 **Rücksprache.** Die FDA sagt bei Insulin ausdrücklich, dass die Umstellung auf ein anderes Produkt nur unter ärztlicher Aufsicht erfolgt.
 
@@ -252,7 +295,7 @@ Quelle: [BBK: Vorsorgen für Krisen und Katastrophen](https://www.bbk.bund.de/Sh
 
 - Treffen Sie Vorkehrungen, um pflegebedürftige Angehörige bei Bedarf eine Zeit lang selbst zu versorgen (BBK).
 - Bauen Sie ein Unterstützungsnetz aus Familie, Freunden und anderen auf, die helfen können. Sorgen Sie dafür, dass mindestens eine Person einen Schlüssel zur Wohnung hat, weiß, wo der Notvorrat liegt, und weiß, wie sie lebensrettende Geräte bedient oder Medikamente verabreicht (Ready.gov, ältere Menschen).
-- Vereinbaren Sie, wie Sie einander im Notfall erreichen. Menschen aus Ihrem Umfeld können Ihre Adresse bei BE-Alert registrieren (Krisenzentrum).
+- Vereinbaren Sie, wie Sie einander im Notfall erreichen, auch wenn Telefon und Internet nicht funktionieren (Krisenzentrum). Menschen aus Ihrem Umfeld können Ihre Adresse bei BE-Alert registrieren, damit auch sie eine Nachricht erhalten, solange das Netz funktioniert (Krisenzentrum).
 - Erhalten Sie Hilfe von der Gemeinde oder der häuslichen Pflege, sprechen Sie mit Ihrer Familie, Nachbarn, Assistenten oder der zuständigen Pflegeperson darüber, welche Hilfe Sie brauchen werden, und erstellen Sie einen Plan mit Ihren Medikamenten und Hilfsmitteln (MCF).
 
 **In einem Wohn- und Pflegezentrum.** Fragen Sie nach der Notstromplanung oder einem Anschluss für Notstrom (BBK).
@@ -272,9 +315,12 @@ Quelle: [BBK: Stromausfall, Vorsorge und Selbsthilfe](https://www.bbk.bund.de/Sh
 - [ ] Medikamente in wasserdichten Boxen, hoch gelagert.
 - [ ] Kühlbox und Kühlakkus für gekühlte Medikamente.
 - [ ] Packungsbeilage Ihres Insulins zur Lagerung außerhalb des Kühlschranks gelesen.
-- [ ] Plan für jedes strombetriebene medizinische Gerät, mit Ihren Pflegenden und Behandelnden besprochen.
+- [ ] Plan für jedes strombetriebene medizinische Gerät, mit Ihren Pflegenden und Behandelnden besprochen, auch für den Fall, dass kein Anruf möglich ist.
+- [ ] Akkulaufzeit jedes lebensnotwendigen Geräts bekannt, und ein Ort, an dem Sie sonst unterkommen können.
+- [ ] Auf Papier: Pflegende, Behandelnde und Kontaktpersonen mit Adresse und Telefonnummer, und die nächstgelegenen Krankenhäuser.
 - [ ] Ersatzbatterien und Ladegeräte für Hilfsmittel.
 - [ ] Bei Dialyse oder einer anderen Behandlung: eine zweite Adresse und der Notfallplan des Zentrums.
 - [ ] Wissen, wo die Bereitschaftsapotheke zu finden ist, auch ohne Internet.
+- [ ] Die Nummer des Bereitschaftsarztes (1733) auf Ihrer Liste auf Papier.
 
-Quelle: [Nationales Krisenzentrum: Ein Notfallpaket bei Ihnen zu Hause](https://krisenzentrum.be/de/was-koennen-sie-tun/stelle-ein-notfallpaket-zusammen/ein-notfallset-fuer-zu-hause) · [FDA: Safe Drug Use After a Natural Disaster](https://www.fda.gov/drugs/emergency-preparedness-drugs/safe-drug-use-after-natural-disaster) · [Ready.gov: People with Disabilities](https://www.ready.gov/disability) · [APB, apotheek.be: Bereitschaftsapotheke](https://www.apotheek.be/Pharmacy/Article/wat-je-moet-weten-over-de-apotheek-van-wacht~1236)
+Quelle: [Nationales Krisenzentrum: Ein Notfallpaket bei Ihnen zu Hause](https://krisenzentrum.be/de/was-koennen-sie-tun/stelle-ein-notfallpaket-zusammen/ein-notfallset-fuer-zu-hause) · [FÖD Wirtschaft: Fragen von Haushalten zur Stromknappheit](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door) · [Nationales Krisenzentrum: Ein Plan bei Ihnen zu Hause](https://krisenzentrum.be/de/was-koennen-sie-tun/make-plan/ein-notfallplan-zu-hause) · [FDA: Safe Drug Use After a Natural Disaster](https://www.fda.gov/drugs/emergency-preparedness-drugs/safe-drug-use-after-natural-disaster) · [Ready.gov: People with Disabilities](https://www.ready.gov/disability) · [APB, apotheek.be: Bereitschaftsapotheke](https://www.apotheek.be/Pharmacy/Article/wat-je-moet-weten-over-de-apotheek-van-wacht~1236)

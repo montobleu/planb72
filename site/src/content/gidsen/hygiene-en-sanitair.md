@@ -4,7 +4,7 @@ module: hygiene
 volgorde: 1
 kort: "Alle varianten van een noodtoilet, wat je doet met afval en uitwerpselen, handen wassen met weinig of geen water, menstruatie en luiers, en hoe je diarree voorkomt."
 status: concept
-datum: "2026-11-17"
+datum: "2026-11-18"
 bronnen:
   - naam: "Nationaal Crisiscentrum: Een noodpakket bij je thuis"
     url: "https://crisiscentrum.be/nl/wat-kan-jij-doen/maak-een-noodpakket/een-noodpakket-bij-je-thuis"
@@ -40,6 +40,10 @@ bronnen:
     url: "https://www.ready.gov/food"
   - naam: "Ready.gov: Pets"
     url: "https://www.ready.gov/pets"
+  - naam: "Nationaal Crisiscentrum: Informatie tijdens een noodsituatie"
+    url: "https://crisiscentrum.be/nl/wat-kan-jij-doen/informeer-je/informatie-tijdens-een-noodsituatie"
+  - naam: "Nationaal Crisiscentrum: Een plan voor wie extra hulp nodig heeft"
+    url: "https://crisiscentrum.be/nl/wat-kan-jij-doen/maak-een-plan/een-plan-voor-wie-extra-hulp-nodig-heeft"
 ---
 
 Het Crisiscentrum zegt kort wat er gebeurt zonder water: je kunt niet meer douchen, je handen wassen of het toilet doorspoelen. Het WHO wijst erop dat te weinig water en besmet water meestal de eerste en belangrijkste oorzaken van ziekte zijn na een ramp. Hygiëne is dus geen luxe. Deze gids geeft de mogelijkheden per onderwerp, van beste keuze tot noodoplossing.
@@ -112,9 +116,9 @@ Samengesteld uit het Zweedse MCF, de gezondheidsdienst van Seattle en King Count
 
 **Plaats.** Zet het noodtoilet ver van de plek waar je eet of eten klaarmaakt (King County). Hou toezicht op kleine kinderen die het gebruiken (King County).
 
-**Waar laten.** De gemeente laat weten waar je het afval kwijt kunt (MCF). King County schrijft dat de zakken bij een afgekondigde noodsituatie mee mogen met het gewone afval als de overheid dat publiek aankondigt. Wacht dus op die aankondiging.
+**Waar laten.** De gemeente laat weten waar je het afval kwijt kunt (MCF). King County schrijft dat de zakken bij een afgekondigde noodsituatie mee mogen met het gewone afval als de overheid dat publiek aankondigt. Wacht dus op die aankondiging. Volg ze via de radio; de overheid kan ook informeren met omroepwagens van de politie, informatieborden, folders of deur-aan-deur (Crisiscentrum).
 
-Bron: [MCF: In case of crisis or war](https://rib.msb.se/filer/pdf/31523.pdf) · [King County: emergency toilet](https://kingcounty.gov/en/dept/dph/health-safety/safety-injury-prevention/emergency-preparedness/personal-preparedness/emergency-toilets) · [Seattle Public Utilities: Emergency Sanitation](https://seattle.gov/Documents/Departments/Emergency/Preparedness/SPU%20Emergency%20Sanitation%20Trifold.pdf)
+Bron: [MCF: In case of crisis or war](https://rib.msb.se/filer/pdf/31523.pdf) · [Nationaal Crisiscentrum: Informatie tijdens een noodsituatie](https://crisiscentrum.be/nl/wat-kan-jij-doen/informeer-je/informatie-tijdens-een-noodsituatie) · [Nationaal Crisiscentrum: brochure Samen voorbereid](https://crisiscentrum.be/sites/default/files/documents/files/WEB-Brochure%20Samen%20voorbereid-NL.pdf) · [King County: emergency toilet](https://kingcounty.gov/en/dept/dph/health-safety/safety-injury-prevention/emergency-preparedness/personal-preparedness/emergency-toilets) · [Seattle Public Utilities: Emergency Sanitation](https://seattle.gov/Documents/Departments/Emergency/Preparedness/SPU%20Emergency%20Sanitation%20Trifold.pdf)
 
 ## Buiten: latrines
 
@@ -220,12 +224,12 @@ Wat je doet:
 
 - Laat geen afval binnen ophopen, om brand en hygiëne (Ready.gov).
 - Bewaar zakken met uitwerpselen apart, goed afgesloten, op een plek waar mensen niet bij kunnen en beschermd tegen ratten en ongedierte (Seattle Public Utilities).
-- Wacht op de aankondiging van de gemeente over waar en hoe je afval kwijt kunt (MCF, King County).
+- Wacht op de aankondiging van de gemeente over waar en hoe je afval kwijt kunt (MCF, King County). Zonder netwerk komt die via de radio en de andere kanalen van de overheid (Crisiscentrum).
 - Verbrand of begraaf uitwerpselen niet in de stad. Seattle Public Utilities noemt dat niet wettelijk en niet aanbevolen.
 
 Over de afvalwaterafvoer zegt het Crisiscentrum dat er geen specifieke tips zijn buiten de algemene tips voor, tijdens en na noodsituaties.
 
-Bron: [WHO/WEDC: Technical notes](https://wedc-knowledge.lboro.ac.uk/resources/who_notes/WHO_TNE_ALL.pdf) · [Ready.gov: Food](https://www.ready.gov/food) · [Seattle Public Utilities: Emergency Sanitation](https://seattle.gov/Documents/Departments/Emergency/Preparedness/SPU%20Emergency%20Sanitation%20Trifold.pdf) · [MCF: In case of crisis or war](https://rib.msb.se/filer/pdf/31523.pdf) · [King County: emergency toilet](https://kingcounty.gov/en/dept/dph/health-safety/safety-injury-prevention/emergency-preparedness/personal-preparedness/emergency-toilets) · [Nationaal Crisiscentrum: Verstoring van de afvalwaterafvoer](https://crisiscentrum.be/nl/risicos-belgie/maatschappelijke-risicos/verstoring-van-de-afvalwaterafvoer)
+Bron: [WHO/WEDC: Technical notes](https://wedc-knowledge.lboro.ac.uk/resources/who_notes/WHO_TNE_ALL.pdf) · [Ready.gov: Food](https://www.ready.gov/food) · [Seattle Public Utilities: Emergency Sanitation](https://seattle.gov/Documents/Departments/Emergency/Preparedness/SPU%20Emergency%20Sanitation%20Trifold.pdf) · [MCF: In case of crisis or war](https://rib.msb.se/filer/pdf/31523.pdf) · [King County: emergency toilet](https://kingcounty.gov/en/dept/dph/health-safety/safety-injury-prevention/emergency-preparedness/personal-preparedness/emergency-toilets) · [Nationaal Crisiscentrum: Verstoring van de afvalwaterafvoer](https://crisiscentrum.be/nl/risicos-belgie/maatschappelijke-risicos/verstoring-van-de-afvalwaterafvoer) · [Nationaal Crisiscentrum: Informatie tijdens een noodsituatie](https://crisiscentrum.be/nl/wat-kan-jij-doen/informeer-je/informatie-tijdens-een-noodsituatie)
 
 ## Diarree voorkomen
 
@@ -238,7 +242,7 @@ De maatregelen staan in deze en andere gidsen. Samengevat volgens de bronnen:
 5. **Uitwerpselen weg van water en voedsel.** Het noodtoilet ver van eten en drinken, een latrine ver van waterbronnen (King County, WHO).
 6. **Huisdieren.** Ruim hun uitwerpselen op met zakjes, kranten en keukenpapier en gebruik bleekmiddel voor hun sanitaire behoeften (Ready.gov).
 
-Wie diarree krijgt: zie de pagina's over eerste hulp en neem contact op met een arts als het ernstig is of lang duurt.
+Wie diarree krijgt: zie de pagina's over eerste hulp. Is het ernstig of duurt het lang, zoek dan een arts. Werkt het netwerk niet, zie Noodnummers in de app, Als bellen niet lukt.
 
 Bron: [WHO/WEDC: Technical notes](https://wedc-knowledge.lboro.ac.uk/resources/who_notes/WHO_TNE_ALL.pdf) · [CDC: About Handwashing](https://www.cdc.gov/clean-hands/about/index.html) · [CDC: How to Make Water Safe in an Emergency](https://www.cdc.gov/water-emergency/about/index.html) · [Ready.gov: Food](https://www.ready.gov/food) · [King County: emergency toilet](https://kingcounty.gov/en/dept/dph/health-safety/safety-injury-prevention/emergency-preparedness/personal-preparedness/emergency-toilets) · [Ready.gov: Pets](https://www.ready.gov/pets)
 

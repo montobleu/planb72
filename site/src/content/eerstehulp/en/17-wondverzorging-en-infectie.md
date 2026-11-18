@@ -3,7 +3,7 @@ titel: Wound care, infection and tetanus
 volgorde: 17
 kort: "Control the bleeding, rinse the wound under running water, cover it and check it every day. With dirty, deep or bite wounds, think of tetanus."
 status: concept
-datum: "2026-11-17"
+datum: "2026-11-18"
 bronnen:
   - naam: "Gezondheid en Wetenschap (Rode Kruis-Vlaanderen): First aid for a skin wound"
     url: https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-een-huidwonde
@@ -19,8 +19,12 @@ bronnen:
     url: https://www.ifrc.org/sites/default/files/2022-02/EN_GFARC_GUIDELINES_2020.pdf
   - naam: "CDC: Emergency Wound Care After a Natural Disaster (archived)"
     url: https://webharvest.gov/congress116th/20210116043740/https://www.cdc.gov/disasters/woundcare.html
+  - naam: "European Resuscitation Council Guidelines 2021: First aid"
+    url: https://cprguidelines-old.erc.edu/assets/guidelines/European-Resuscitation-Council-Guidelines-2021-Fi.pdf
+  - naam: "112.be: Frequently asked questions"
+    url: https://112.be/en/frequently-asked-questions
 vertaling: machine
-origineel_datum: "2026-11-17"
+origineel_datum: "2026-11-18"
 ---
 
 ## Recognise
@@ -80,7 +84,7 @@ Source: [Gezondheid en Wetenschap: Skin wound](https://www.gezondheidenwetenscha
 
 ### Puncture wound
 
-1. Always contact a doctor.
+1. Always have a puncture wound checked by a doctor.
 2. You may try to remove a small splinter yourself. Leave a larger object, such as a nail or a knife, in place. Alert the emergency services as quickly as possible.
 3. Control the bleeding, rinse and cover as for a small wound.
 
@@ -125,7 +129,13 @@ Seek medical care immediately with signs of blood poisoning: confusion, breathin
 
 See a doctor as soon as possible for a wound that looks infected, for every puncture wound and bite wound, for a wound with dirt or an object in it, for a gaping or deep wound, and when in doubt about tetanus protection.
 
-Source: [Gezondheid en Wetenschap: Skin wound](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-een-huidwonde) · [Gezondheid en Wetenschap: Puncture wound](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-een-steekwonde) · [CDC: Emergency Wound Care After a Natural Disaster](https://webharvest.gov/congress116th/20210116043740/https://www.cdc.gov/disasters/woundcare.html)
+**If you cannot get through**
+
+- Only leave the casualty alone if there is no other option. Point directly at a bystander to get help and tell them where it is, what happened, how many casualties there are and what condition they are in.
+- With severe bleeding: keep pressing yourself and send someone else for help (see topic 3).
+- See also topic 1 (If you cannot get through: getting help without a phone) and Emergency numbers in the app, If you cannot call.
+
+Source: [Gezondheid en Wetenschap: Skin wound](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-een-huidwonde) · [Gezondheid en Wetenschap: Puncture wound](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-een-steekwonde) · [CDC: Emergency Wound Care After a Natural Disaster](https://webharvest.gov/congress116th/20210116043740/https://www.cdc.gov/disasters/woundcare.html) · [IFRC Guidelines 2020](https://www.ifrc.org/sites/default/files/2022-02/EN_GFARC_GUIDELINES_2020.pdf) · [ERC Guidelines 2021: First aid](https://cprguidelines-old.erc.edu/assets/guidelines/European-Resuscitation-Council-Guidelines-2021-Fi.pdf) · [112.be: Frequently asked questions](https://112.be/en/frequently-asked-questions)
 
 ## Do not
 

@@ -3,17 +3,17 @@ titel: Eau potable non sûre
 volgorde: 16
 kort: "La compagnie des eaux annonce que l'eau du robinet n'est pas potable, ou l'alimentation en eau est coupée."
 stappen:
-  - "Lisez bien le message de votre compagnie des eaux. Pouvez-vous boire l'eau après l'avoir fait bouillir, ou pas du tout ?"
+  - "Lisez bien l'avis de votre compagnie des eaux dans la boîte aux lettres. Pouvez-vous boire l'eau après l'avoir fait bouillir, ou pas du tout ? Écoutez aussi la radio. Si Internet fonctionne, consultez aussi le site web de votre compagnie des eaux."
   - "Utilisez de l'eau en bouteille ou de l'eau bouillie pour boire, cuisiner, préparer les biberons et faire des glaçons."
   - "Faire bouillir : laissez l'eau bouillir à gros bouillons, au moins 1 minute ou aussi longtemps que l'indique votre compagnie des eaux. Laissez-la refroidir dans un récipient propre et fermé."
   - "Faire bouillir n'aide pas en cas de pollution chimique ou radioactive. Utilisez alors uniquement de l'eau en bouteille."
-  - "Si l'eau est coupée : utilisez votre réserve. Buvez ce dont vous avez besoin et économisez l'eau pour le reste."
+  - "Si l'eau est coupée : utilisez votre réserve. Buvez ce dont vous avez besoin et économisez l'eau pour le reste. La compagnie des eaux peut organiser des points de distribution d'eau et les autorités peuvent faire distribuer de l'eau en bouteille."
   - "Si l'eau est brune ou trouble après la coupure, laissez couler le robinet quelques minutes."
 niet:
   - "N'utilisez jamais l'eau du chauffage ou du chauffe-eau pour boire ou cuisiner."
   - "Ne rationnez pas l'eau potable, sauf si les autorités le demandent."
 status: concept
-datum: "2026-11-17"
+datum: "2026-11-18"
 bronnen:
   - naam: "Centre de crise National : perturbation de l'eau potable"
     url: https://centredecrise.be/fr/risques-en-belgique/risques-societaux/defaillance-de-lapprovisionnement-en-eau-potable
@@ -29,13 +29,19 @@ bronnen:
     url: https://www.cdc.gov/water-emergency/about/how-to-create-and-store-an-emergency-water-supply.html
   - naam: "Ready.gov: Water"
     url: https://www.ready.gov/water
+  - naam: "Centre de crise National : informations pendant une situation d'urgence"
+    url: https://centredecrise.be/fr/que-pouvez-vous-faire/informez-vous/linformation-pendant-une-situation-durgence
+  - naam: "Centre de crise National : brochure Préparés ensemble"
+    url: https://centredecrise.be/sites/default/files/documents/files/WEB-Brochure-Pr%C3%AAts.%20Ensemble-FR.pdf
 vertaling: machine
-origineel_datum: "2026-11-17"
+origineel_datum: "2026-11-18"
 ---
 
 ## Reconnaître
 
-**Types de messages.** Votre compagnie des eaux annonce un problème sur son site web et par un avis dans la boîte aux lettres. La société wallonne des eaux SWDE utilise trois couleurs :
+**Comment vous l'apprenez.** Votre compagnie des eaux annonce un problème par un avis dans la boîte aux lettres et sur son site web. En situation d'urgence, les autorités informent aussi via la radio, la télévision et les véhicules de la police équipés de haut-parleurs qui circulent dans la rue. Si le réseau fonctionne, aussi via BE-Alert, les sites web et les réseaux sociaux.
+
+**Types de messages.** La société wallonne des eaux SWDE utilise trois couleurs pour l'avis dans la boîte aux lettres :
 
 - **Orange :** l'eau n'est pas potable, mais vous pouvez l'utiliser si vous la faites d'abord bouillir.
 - **Rouge :** l'eau est temporairement non potable, même après ébullition. Vous ne pouvez pas l'utiliser pour boire.
@@ -51,7 +57,7 @@ D'autres compagnies des eaux peuvent utiliser d'autres termes. Lisez bien le mes
 
 **Combien de temps.** Un avis d'ébullition reste valable jusqu'à ce que des contrôles montrent que l'eau n'est plus polluée. Il n'est pas possible d'indiquer une durée fixe à l'avance.
 
-Source : [SWDE](https://www.swde.be/fr/qualite-de-leau-eau-non-potable) · [RIVM](https://www.rivm.nl/drinkwater/toelichting-kookadvies-drinkwater) · [CDC](https://www.cdc.gov/water-emergency/about/index.html) · [Centre de crise National](https://centredecrise.be/fr/risques-en-belgique/risques-societaux/defaillance-de-lapprovisionnement-en-eau-potable)
+Source : [SWDE](https://www.swde.be/fr/qualite-de-leau-eau-non-potable) · [RIVM](https://www.rivm.nl/drinkwater/toelichting-kookadvies-drinkwater) · [CDC](https://www.cdc.gov/water-emergency/about/index.html) · [Centre de crise National](https://centredecrise.be/fr/risques-en-belgique/risques-societaux/defaillance-de-lapprovisionnement-en-eau-potable) · [Centre de crise National : informations pendant une situation d'urgence](https://centredecrise.be/fr/que-pouvez-vous-faire/informez-vous/linformation-pendant-une-situation-durgence)
 
 ## Se préparer
 
@@ -77,6 +83,11 @@ Source : [SWDE](https://www.swde.be/fr/qualite-de-leau-eau-non-potable) · [RIVM
 - Conservez-la entre environ 10 et 21 °C, à l'abri du soleil et loin de l'essence et des pesticides.
 - Ne touchez pas l'eau ni l'intérieur du récipient avec les mains. Utilisez chaque fois une louche propre.
 
+### S'informer sans réseau
+
+- Gardez prête une radio à piles ou à manivelle, de préférence avec DAB+ et FM.
+- Notez le numéro du service clientèle de votre compagnie des eaux sur votre liste papier des numéros de téléphone importants.
+
 ### Économiser l'eau, toujours
 
 - Prenez une douche plutôt qu'un bain.
@@ -85,7 +96,7 @@ Source : [SWDE](https://www.swde.be/fr/qualite-de-leau-eau-non-potable) · [RIVM
 - Faites réparer rapidement les fuites.
 - N'utilisez l'eau potable que là où c'est nécessaire.
 
-Source : [Centre de crise National : eau potable](https://centredecrise.be/fr/risques-en-belgique/risques-societaux/defaillance-de-lapprovisionnement-en-eau-potable) · [Centre de crise National : kit d'urgence](https://centredecrise.be/fr/que-pouvez-vous-faire/preparez-un-kit-durgence/un-kit-durgence-la-maison) · [CDC : conserver l'eau](https://www.cdc.gov/water-emergency/about/how-to-create-and-store-an-emergency-water-supply.html) · [Ready.gov](https://www.ready.gov/water)
+Source : [Centre de crise National : eau potable](https://centredecrise.be/fr/risques-en-belgique/risques-societaux/defaillance-de-lapprovisionnement-en-eau-potable) · [Centre de crise National : kit d'urgence](https://centredecrise.be/fr/que-pouvez-vous-faire/preparez-un-kit-durgence/un-kit-durgence-la-maison) · [CDC : conserver l'eau](https://www.cdc.gov/water-emergency/about/how-to-create-and-store-an-emergency-water-supply.html) · [Ready.gov](https://www.ready.gov/water) · [Centre de crise National : Préparés ensemble](https://centredecrise.be/sites/default/files/documents/files/WEB-Brochure-Pr%C3%AAts.%20Ensemble-FR.pdf)
 
 ## Pendant
 
@@ -106,13 +117,14 @@ Voici comment faire bouillir l'eau :
 **Eau non potable, même bouillie (rouge).**
 
 - Utilisez uniquement de l'eau en bouteille ou l'eau de votre réserve.
-- La compagnie des eaux organise parfois des points de distribution d'eau en bouteille ou un camion-citerne. Le service clientèle sait où.
+- La compagnie des eaux organise des points de distribution. Si Internet fonctionne, l'avis de la SWDE sur son site web indique où obtenir une autre eau. Si le téléphone fonctionne, le service clientèle sait aussi où se trouvent les points de distribution.
 
 **Pollution chimique ou radioactive.** Faire bouillir et désinfecter n'aident pas. Utilisez de l'eau en bouteille ou une autre source. Suivez l'avis des services de santé.
 
 **Pas d'eau au robinet.**
 
 - Utilisez votre réserve. Buvez d'abord l'eau dont vous êtes sûr qu'elle est sûre.
+- En cas d'interruption de l'alimentation en eau, le bourgmestre, le gouverneur ou le ministre peut faire distribuer de l'eau en bouteille. Écoutez la radio et soyez attentif aux avis dans la boîte aux lettres et aux véhicules équipés de haut-parleurs.
 - Ne rationnez pas l'eau potable, sauf si les autorités le demandent. Buvez aujourd'hui ce dont vous avez besoin et cherchez de l'eau pour demain.
 - Limitez vos efforts et restez au frais, pour avoir besoin de moins d'eau.
 - Ne buvez pas d'alcool ou de caféine à la place de l'eau. Ils vous font perdre plus d'eau.
@@ -150,11 +162,11 @@ Utilisez-les uniquement si vous n'avez plus d'eau en bouteille ni de réserve. S
 
 - Prévoyez de l'eau supplémentaire pour les animaux domestiques dans votre réserve. Le Centre de crise National recommande de la nourriture, de l'eau et des gamelles pour 72 heures.
 
-Source : [SWDE](https://www.swde.be/fr/qualite-de-leau-eau-non-potable) · [RIVM](https://www.rivm.nl/drinkwater/toelichting-kookadvies-drinkwater) · [CDC](https://www.cdc.gov/water-emergency/about/index.html) · [CDC : conserver l'eau](https://www.cdc.gov/water-emergency/about/how-to-create-and-store-an-emergency-water-supply.html) · [Ready.gov](https://www.ready.gov/water) · [Centre de crise National : kit d'urgence](https://centredecrise.be/fr/que-pouvez-vous-faire/preparez-un-kit-durgence/un-kit-durgence-la-maison)
+Source : [SWDE](https://www.swde.be/fr/qualite-de-leau-eau-non-potable) · [RIVM](https://www.rivm.nl/drinkwater/toelichting-kookadvies-drinkwater) · [CDC](https://www.cdc.gov/water-emergency/about/index.html) · [CDC : conserver l'eau](https://www.cdc.gov/water-emergency/about/how-to-create-and-store-an-emergency-water-supply.html) · [Ready.gov](https://www.ready.gov/water) · [Centre de crise National : kit d'urgence](https://centredecrise.be/fr/que-pouvez-vous-faire/preparez-un-kit-durgence/un-kit-durgence-la-maison) · [Centre de crise National : eau potable](https://centredecrise.be/fr/risques-en-belgique/risques-societaux/defaillance-de-lapprovisionnement-en-eau-potable) · [Centre de crise National : informations pendant une situation d'urgence](https://centredecrise.be/fr/que-pouvez-vous-faire/informez-vous/linformation-pendant-une-situation-durgence)
 
 ## Après
 
-- Attendez le message de votre compagnie des eaux indiquant que l'eau est à nouveau potable. À la SWDE, c'est un avis vert.
+- Attendez le message de votre compagnie des eaux indiquant que l'eau est à nouveau potable. À la SWDE, c'est un avis vert dans la boîte aux lettres.
 - Si l'eau est brune ou trouble après la coupure, laissez couler le robinet quelques minutes.
 - Si la pression de l'eau est faible, elle se rétablit progressivement.
 - Continuez à économiser l'eau. Ne la gaspillez pas.
@@ -175,6 +187,8 @@ Source : [Centre de crise National](https://centredecrise.be/fr/risques-en-belgi
 Source : [CDC](https://www.cdc.gov/water-emergency/about/index.html) · [Ready.gov](https://www.ready.gov/water) · [SWDE](https://www.swde.be/fr/qualite-de-leau-eau-non-potable)
 
 ## Plus d'informations
+
+À lire à l'avance, ou quand Internet fonctionne :
 
 - Risque et conseils : [Centre de crise National : perturbation de l'eau potable](https://centredecrise.be/fr/risques-en-belgique/risques-societaux/defaillance-de-lapprovisionnement-en-eau-potable)
 - Avis d'eau non potable en Wallonie : [SWDE](https://www.swde.be/fr/qualite-de-leau-eau-non-potable)

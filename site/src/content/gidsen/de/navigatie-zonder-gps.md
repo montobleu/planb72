@@ -4,7 +4,7 @@ module: buiten
 volgorde: 1
 kort: "Den Weg finden ohne Handy oder GPS: Karte und Kompass, Richtung bestimmen mit Sonne, Schattenstab, Uhr und Polarstern, Entfernungen mit Schritten schätzen, Koordinaten lesen und durchgeben und was Sie tun, wenn Sie sich verirrt haben."
 status: concept
-datum: "2026-11-17"
+datum: "2026-11-18"
 bronnen:
   - naam: "US Army FM 3-25.26 Map Reading and Land Navigation (2001, für die öffentliche Nutzung freigegeben)"
     url: https://archive.org/details/milmanual-fm-3-25.26-map-reading-and-land-navigation
@@ -35,7 +35,7 @@ bronnen:
   - naam: "Ready.gov: Evacuation"
     url: https://www.ready.gov/evacuation
 vertaling: machine
-origineel_datum: "2026-11-17"
+origineel_datum: "2026-11-18"
 ---
 
 ## Warum das nötig ist
@@ -52,7 +52,7 @@ Quelle: [National Park Service: Outdoor Emergency Plan](https://www.nps.gov/subj
 
 ## Bevor Sie aufbrechen
 
-- **Nehmen Sie eine Karte mit.** Drucken Sie sie aus, laden Sie sie herunter oder besorgen Sie sie im Voraus. Nehmen Sie zum Wandern eine detaillierte topografische Karte.
+- **Nehmen Sie eine Karte mit.** Drucken Sie sie aus, laden Sie sie herunter oder besorgen Sie sie im Voraus. Nehmen Sie zum Wandern eine detaillierte topografische Karte. Üben Sie das Kartenlesen.
 - **Sehen Sie sich Ihre Route auf der Karte an.** Notieren Sie Orientierungspunkte unterwegs.
 - **Üben Sie mit Ihrem Kompass** oder Ihrem GPS, bevor Sie aufbrechen. Nehmen Sie Ersatzbatterien für Ihre Lampe mit.
 - **Hinterlassen Sie einen Tourenplan** bei jemandem, der nicht mitkommt: wohin Sie gehen, welche Route, wann Sie zurück sind.
@@ -203,16 +203,16 @@ Quelle: [US Army FM 3-25.26](https://archive.org/details/milmanual-fm-3-25.26-ma
 
 **Welches System?** Lambert 2008 ist das offizielle belgische Koordinatensystem. Es schließt an das europäische System ETRS89 an und verwendet dasselbe Referenzmodell wie die Satellitennavigation. Es gibt auch weltweite Systeme wie WGS 84. Das NGI bietet mit cConvert ein offizielles Umrechnungswerkzeug an. Sagen Sie beim Durchgeben immer, welches System Sie verwenden.
 
-**Ihren Standort an die Hilfsdienste durchgeben**
+**Ihren Standort an die Hilfsdienste durchgeben, oder an die Person, die für Sie Hilfe holt**
 
 | Was Sie haben | Was Sie durchgeben |
 | --- | --- |
-| Die App 112 BE | Rufen Sie über die App an: Die Notrufzentrale sieht Ihren Standort. Bestätigen Sie ihn mündlich. |
+| Die App 112 BE (wenn das Netz funktioniert) | Rufen Sie über die App an: Die Notrufzentrale sieht Ihren Standort. Bestätigen Sie ihn mündlich. |
 | Ein Handy mit GPS | Die GPS-Koordinaten Ihres Geräts |
 | Eine Karte | Den Namen des Weges oder Gebiets, von dem Sie aufgebrochen sind, Ihren letzten bekannten Standort, Koordinaten von der Karte, wenn Sie diese lesen können |
 | Nichts | Erkennbare Punkte: Wege, Weiher, Aussichtstürme, Parkplätze, markante Punkte, in den Bergen die Höhe |
 
-Sagen Sie auch, welche Kleidung Sie tragen (Farbe), was Sie bei sich haben und ob jemand ein medizinisches Problem hat.
+Sagen Sie auch, welche Kleidung Sie tragen (Farbe), was Sie bei sich haben und ob jemand ein medizinisches Problem hat. Haben Sie keinen Empfang und holt jemand anderes Hilfe, geben Sie ihm dieselben Angaben mit.
 
 Quelle: [US Army FM 3-25.26](https://archive.org/details/milmanual-fm-3-25.26-map-reading-and-land-navigation) · [NGI: FAQ](https://ngi.be/faq/) · [National Park Service: Outdoor Emergency Plan](https://www.nps.gov/subjects/healthandsafety/upload/NPS-Outdoor-Emergency-Plan-508c.pdf) · [Nationales Krisenzentrum: Naturbrand](https://krisenzentrum.be/de/risiken-belgien/naturrisiken/naturbrand) · [Deutscher Alpenverein: Erste Hilfe](https://www.forststeig.sachsen.de/download/Erste_Hilfe_2012_DAV.pdf) · [112.be: Mobile Anwendung 112 BE](https://112.be/de/mobile-anwendung)
 
@@ -233,7 +233,7 @@ Quelle: [Vlaanderen.be: Wat mag u als bezoeker doen in de Vlaamse natuur?](https
 
 **Schritt 3: Gehen Sie Ihren Weg zurück**, wenn das sicher möglich ist, bis Sie wieder auf Ihrer geplanten Route sind.
 
-**Schritt 4: Rufen Sie um Hilfe**, wenn das nicht gelingt. Siehe den Leitfaden zum Notruf.
+**Schritt 4: Bitten Sie um Hilfe**, wenn das nicht gelingt. Haben Sie Empfang, rufen Sie 112 an (siehe den Leitfaden zum Notruf). Kein Empfang: Sprechen Sie jemanden an, dem Sie begegnen, und bitten Sie ihn, an einen Ort mit Empfang zu gehen und dort 112 anzurufen. Ist niemand da, bleiben Sie, wo Sie sind, und geben Sie Signale (siehe weiter unten).
 
 **Schritt 5: Bleiben Sie, wo Sie sind.** Wenn Sie sich fortbewegen, ist es schwieriger, Sie zu finden. Bewegen Sie sich nur bei unmittelbarer Lebensgefahr fort.
 
@@ -285,7 +285,7 @@ Quelle: [National Park Service: Junior Ranger Park Explorer](https://www.nps.gov
 
 | Ort | Was die Quellen sagen |
 | --- | --- |
-| Wald oder Naturgebiet in Flandern | Bleiben Sie auf den Wegen; das ist auch die Regel. Rufen Sie 112 an und nennen Sie erkennbare Punkte (Wege, Weiher, Aussichtstürme, Parkplätze). Fliehen Sie bei einem Brand über bestehende Wege vom Feuer weg, am besten quer zum Wind, zu einer öffentlichen Straße oder einer geschlossenen Ortschaft. |
+| Wald oder Naturgebiet in Flandern | Bleiben Sie auf den Wegen; das ist auch die Regel. Rufen Sie 112 an und nennen Sie erkennbare Punkte (Wege, Weiher, Aussichtstürme, Parkplätze). Fliehen Sie bei einem Brand über bestehende Wege vom Feuer weg, am besten quer zum Wind, zu einer öffentlichen Straße oder einer geschlossenen Ortschaft. Kein Empfang bei einem Brand: Evakuieren Sie so schnell wie möglich und sprechen Sie Menschen an, denen Sie begegnen. |
 | Berge | Geben Sie das alpine Notsignal, wenn Sie kein Telefon haben, aber in Sicht- oder Hörweite eines Tals oder einer Hütte sind. Nennen Sie bei einem Notruf markante Geländepunkte, die Höhe und möglichst Koordinaten. |
 | Nachts | Verwenden Sie den Polarstern. Ihre Schritte werden im Dunkeln kürzer. Wählen Sie Zielpunkte mit einer deutlichen Form. Halten Sie früh genug an, um noch einen Unterschlupf zu bauen. |
 | Nebel, Regen, Schnee | Ihre Schritte werden kürzer. Zählen Sie mehr Schritte pro 100 Meter. Verwenden Sie den Kompass und Leitlinien im Gelände. |

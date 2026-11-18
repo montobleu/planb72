@@ -1,9 +1,9 @@
 ---
 titel: Beroerte en hartinfarct herkennen
 volgorde: 16
-kort: "Scheve mond, zwakke arm, moeilijk spreken: bel 112 en noteer het uur. Drukkende pijn op de borst: bel 112, ook als het na 5 minuten overgaat."
+kort: "Scheve mond, zwakke arm, moeilijk spreken: bel 112 of laat hulp halen en noteer het uur. Drukkende pijn op de borst: bel 112, ook als het na 5 minuten overgaat."
 status: concept
-datum: "2026-11-17"
+datum: "2026-11-18"
 bronnen:
   - naam: "Gezondheid en Wetenschap (Rode Kruis-Vlaanderen): Eerste hulp bij een beroerte"
     url: https://www.gezondheidenwetenschap.be/eerste-hulp/bij-een-beroerte-telt-elke-minuut
@@ -13,6 +13,10 @@ bronnen:
     url: https://www.ifrc.org/sites/default/files/2022-02/EN_GFARC_GUIDELINES_2020.pdf
   - naam: "European Resuscitation Council: The ERC Guidelines 2025 on Resuscitation for Everyone"
     url: https://www.erc.edu/media/p5ymaeej/gl2025_layperson_book_ipdf-v11-e.pdf
+  - naam: "European Resuscitation Council Guidelines 2021: First aid"
+    url: https://cprguidelines-old.erc.edu/assets/guidelines/European-Resuscitation-Council-Guidelines-2021-Fi.pdf
+  - naam: "112.be: Veelgestelde vragen"
+    url: https://112.be/nl/veelgestelde-vragen
 ---
 
 ## Herkennen
@@ -36,7 +40,7 @@ Doe de FAST-test. Laat het slachtoffer daarvoor zitten.
 - F (Face, gezicht): vraag om te lachen of de tanden te tonen. Is de mond scheef of hangt één mondhoek naar beneden?
 - A (Arm): vraag om beide armen tegelijk voor zich uit te strekken met de handpalmen naar boven. Blijven ze op gelijke hoogte, of zakt of draait één arm weg?
 - S (Speech, spraak): spreekt het slachtoffer onduidelijk of vindt het de woorden niet? Vraag het aan het slachtoffer zelf of aan omstaanders die het kennen. Laat het eventueel een eenvoudige zin herhalen.
-- T (Time, tijd): probeer te achterhalen wanneer de klachten begonnen, of wanneer het slachtoffer het laatst normaal gezien werd. Bel 112.
+- T (Time, tijd): probeer te achterhalen wanneer de klachten begonnen, of wanneer het slachtoffer het laatst normaal gezien werd. Bel 112 of laat bellen.
 
 Lichte klachten die maar enkele minuten duren, kunnen wijzen op een kleine, voorbijgaande beroerte (TIA). Ook dan is snel medische zorg nodig. Klachten die op een beroerte lijken, kunnen ook door een te hoge of te lage bloedsuiker komen.
 
@@ -61,7 +65,7 @@ Bron: [Gezondheid en Wetenschap: Beroerte](https://www.gezondheidenwetenschap.be
 ### Beroerte
 
 1. Zorg voor veiligheid. Moet je het slachtoffer verplaatsen, ondersteun het dan aan de verlamde kant.
-2. Bel 112 zodra je de eerste klachten herkent. Zeg dat je een beroerte vermoedt en wanneer de klachten begonnen.
+2. Bel 112 of laat iemand bellen zodra je de eerste klachten herkent. Zeg dat je een beroerte vermoedt en wanneer de klachten begonnen. Lukt bellen niet, zie Bel 112 als.
 3. Noteer het tijdstip waarop de klachten begonnen.
 4. Controleer bewustzijn en ademhaling. Open zo nodig de luchtweg.
 5. Laat het slachtoffer rusten en geen inspanning meer doen.
@@ -73,7 +77,7 @@ Bron: [Gezondheid en Wetenschap: Beroerte](https://www.gezondheidenwetenschap.be
 
 ### Hartaanval
 
-1. Bel 112. Doe dat ook als de klachten binnen 5 minuten overgaan. Zeg dat je een hartaanval vermoedt, zodat de oproep de juiste voorrang krijgt.
+1. Bel 112 of laat iemand bellen. Doe dat ook als de klachten binnen 5 minuten overgaan. Zeg dat je een hartaanval vermoedt, zodat de oproep de juiste voorrang krijgt. Lukt bellen niet, zie Bel 112 als.
 2. Controleer bewustzijn en ademhaling.
 3. Laat het slachtoffer stoppen met elke inspanning en rusten.
 4. Help het een comfortabele houding aan te nemen, bijvoorbeeld zittend.
@@ -81,7 +85,7 @@ Bron: [Gezondheid en Wetenschap: Beroerte](https://www.gezondheidenwetenschap.be
 6. Vraag of het deze pijn eerder had en of het daarvoor medicatie neemt. Laat het slachtoffer die eigen medicatie innemen als het dat wil.
 7. Laat iemand een AED halen en dicht bij het slachtoffer leggen, voor het geval dat nodig is.
 8. Stel het slachtoffer gerust. Blijf bij het tot de hulpdiensten er zijn en volg ademhaling en bewustzijn op.
-9. Verandert de toestand, bijvoorbeeld als het slachtoffer in elkaar zakt, meld dat dan aan 112.
+9. Verandert de toestand, bijvoorbeeld als het slachtoffer in elkaar zakt, meld dat dan aan 112 als de verbinding werkt, of aan de hulpverleners als ze aankomen.
 10. Wordt het slachtoffer bewusteloos en ademt het niet normaal, start reanimatie en gebruik de AED (zie onderwerp 2).
 
 Bron: [Gezondheid en Wetenschap: Beroerte](https://www.gezondheidenwetenschap.be/eerste-hulp/bij-een-beroerte-telt-elke-minuut) · [Gezondheid en Wetenschap: Hartaanval](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-een-hartaanval) · [IFRC Guidelines 2020](https://www.ifrc.org/sites/default/files/2022-02/EN_GFARC_GUIDELINES_2020.pdf) · [ERC Guidelines 2025 for Everyone](https://www.erc.edu/media/p5ymaeej/gl2025_layperson_book_ipdf-v11-e.pdf)
@@ -89,7 +93,7 @@ Bron: [Gezondheid en Wetenschap: Beroerte](https://www.gezondheidenwetenschap.be
 ## Als hulp lang op zich laat wachten
 
 - Bij een beroerte en een hartaanval telt elke minuut. Hoe sneller medische hulp, hoe minder schade aan hersenen of hart. Zoek dus de snelste weg naar zorg.
-- In een afgelegen gebied kan het nuttig zijn om richting het dichtstbijzijnde ziekenhuis te rijden en de ziekenwagen onderweg te ontmoeten.
+- Bij een beroerte zegt de IFRC dat de helper het slachtoffer soms zelf naar een ziekenhuis moet brengen, met de wagen of een ander middel, als er geen ziekenwagen snel ter plaatse kan zijn. Kies dan de snelste manier en zorg dat de verplaatsing veilig kan. De kaart in de app (knop Dichtstbij) toont ziekenhuizen.
 - Duurt het lang voor de hulpdiensten er zijn, laat dan een AED halen en hou die dicht bij het slachtoffer. Een hartaanval kan overgaan in een hartstilstand.
 - Hou het slachtoffer in rust, zonder inspanning.
 - Volg ademhaling en bewustzijn voortdurend op. Noteer het uur waarop de klachten begonnen en elke verandering. Geef dat door aan de zorgverleners.
@@ -106,7 +110,16 @@ Bron: [IFRC Guidelines 2020](https://www.ifrc.org/sites/default/files/2022-02/EN
 - de pijn op de borst blijft na het nemen van de eigen medicatie;
 - het slachtoffer bewusteloos wordt.
 
-Bron: [Gezondheid en Wetenschap: Beroerte](https://www.gezondheidenwetenschap.be/eerste-hulp/bij-een-beroerte-telt-elke-minuut) · [Gezondheid en Wetenschap: Hartaanval](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-een-hartaanval) · [IFRC Guidelines 2020](https://www.ifrc.org/sites/default/files/2022-02/EN_GFARC_GUIDELINES_2020.pdf)
+**Lukt bellen niet**
+
+- Tijd telt: wacht niet af. Laat het slachtoffer alleen als er geen andere mogelijkheid is. Wijs een omstander rechtstreeks aan om hulp te halen en geef mee waar het is, wat er gebeurd is, hoeveel slachtoffers er zijn en hoe ze eraan toe zijn. Bij een beroerte: ook wanneer de klachten begonnen.
+- Verdeel de taken onder de omstanders: hulp halen, het slachtoffer in het oog houden, de eigen medicatie of een AED halen.
+- Hartaanval: blijf bij het slachtoffer tot er hulp is. Laat het geen inspanning doen.
+- Beroerte: kan er geen ziekenwagen snel komen, dan moet je het slachtoffer volgens de IFRC soms zelf naar een ziekenhuis brengen (zie Als hulp lang op zich laat wachten).
+- Reanimeer je en ben je alleen zonder telefoon, zie dan onderwerp 2 (Lukt bellen niet).
+- Zie ook onderwerp 1 (Lukt bellen niet: hulp halen zonder telefoon) en Noodnummers in de app, Als bellen niet lukt.
+
+Bron: [Gezondheid en Wetenschap: Beroerte](https://www.gezondheidenwetenschap.be/eerste-hulp/bij-een-beroerte-telt-elke-minuut) · [Gezondheid en Wetenschap: Hartaanval](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-een-hartaanval) · [IFRC Guidelines 2020](https://www.ifrc.org/sites/default/files/2022-02/EN_GFARC_GUIDELINES_2020.pdf) · [ERC Guidelines 2025 for Everyone](https://www.erc.edu/media/p5ymaeej/gl2025_layperson_book_ipdf-v11-e.pdf) · [ERC Guidelines 2021: First aid](https://cprguidelines-old.erc.edu/assets/guidelines/European-Resuscitation-Council-Guidelines-2021-Fi.pdf) · [112.be: Veelgestelde vragen](https://112.be/nl/veelgestelde-vragen)
 
 ## Niet doen
 

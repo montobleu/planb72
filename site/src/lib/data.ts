@@ -89,6 +89,8 @@ export function landVoor(taal: Taal, code = STANDAARD_LAND) {
         voorbereiden: t(kv.voorbereiden, k.voorbereiden),
         url: kv.url ?? k.url,
         bron: kv.bron ?? k.bron,
+        /** Werkt zonder stroomnet en internet (radio op batterijen): komt bovenaan. */
+        radio: k.soort === 'radio en tv',
       };
     }),
     nucleair: {

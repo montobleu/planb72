@@ -3,7 +3,7 @@ titel: Ernstige bloeding
 volgorde: 3
 kort: "Druk 10 minuten hard op de wonde, leg daarna een drukverband aan en blijf drukken tot de hulpdiensten er zijn."
 status: concept
-datum: "2026-11-17"
+datum: "2026-11-18"
 bronnen:
   - naam: "Gezondheid en Wetenschap (Rode Kruis-Vlaanderen): Eerste hulp bij een ernstige bloeding (uitwendig)"
     url: https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-een-ernstige-bloeding-uitwendig
@@ -23,6 +23,10 @@ bronnen:
     url: https://secure.in.gov/dhs/get-prepared/emergencies/stop-the-bleed-bleeding-control-for-the-injured
   - naam: "FEMA: Until Help Arrives, instructor guide"
     url: https://ready.gov/sites/default/files/2020-07/until-help-arrives-instructor-guide.pdf
+  - naam: "European Resuscitation Council Guidelines 2021: First aid"
+    url: https://cprguidelines-old.erc.edu/assets/guidelines/European-Resuscitation-Council-Guidelines-2021-Fi.pdf
+  - naam: "112.be: Veelgestelde vragen"
+    url: https://112.be/nl/veelgestelde-vragen
 ---
 
 ## Herkennen
@@ -40,7 +44,7 @@ Bron: [Gezondheid en Wetenschap: Ernstige bloeding](https://www.gezondheidenwete
 1. Trek wegwerphandschoenen aan. Heb je die niet, gebruik dan plastic zakjes, een doek of verband tussen je hand en de wonde.
 2. Laat het slachtoffer zelf op de wonde drukken als het dat kan. Kan het dat niet, laat het dan je handen leiden of zijn handen op de wonde houden terwijl jij drukt. Zo verklein je ook het risico op besmetting.
 3. Help het slachtoffer neerliggen op de grond.
-4. Bel 112. Ben je alleen, bel dan met de luidspreker aan terwijl je drukt.
+4. Bel 112 of laat iemand bellen. Ben je alleen, bel dan met de luidspreker aan terwijl je drukt. Lukt bellen niet, stuur dan iemand om hulp en blijf zelf drukken (zie Bel 112 als).
 5. Maak de wonde vrij. Scheur of knip kleding weg als ze in de weg zit.
 6. Druk 10 minuten met je handen op de wonde. Gebruik een gaasje of een propere doek als je die hebt, anders je hand.
 7. Hou een gewonde arm of been omhoog als dat kan.
@@ -55,7 +59,7 @@ Het Amerikaanse FEMA-programma raadt aan om geen dikke lagen tussen je handen en
 
 1. Laat het voorwerp zitten. Trek het er niet uit.
 2. Druk rond het voorwerp en probeer het stil te houden.
-3. Verwittig zo snel mogelijk de hulpdiensten.
+3. Verwittig zo snel mogelijk de hulpdiensten: bel 112 of laat iemand hulp halen.
 
 ### Als drukken de bloeding aan een arm of been niet stopt: tourniquet (knelverband)
 
@@ -120,7 +124,12 @@ Bron: [Gezondheid en Wetenschap: Ernstige bloeding](https://www.gezondheidenwete
 
 Leg duidelijk uit hoe het letsel ontstond en hoe het slachtoffer eraan toe is, zodat de hulpdienst de juiste voorrang geeft.
 
-Bron: [Gezondheid en Wetenschap: Ernstige bloeding](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-een-ernstige-bloeding-uitwendig) · [IFRC Guidelines 2020](https://www.ifrc.org/sites/default/files/2022-02/EN_GFARC_GUIDELINES_2020.pdf) · [Indiana DHS: Stop the Bleed](https://secure.in.gov/dhs/get-prepared/emergencies/stop-the-bleed-bleeding-control-for-the-injured)
+**Lukt bellen niet**
+
+- Laat het slachtoffer alleen als er geen andere mogelijkheid is. Wijs een omstander rechtstreeks aan om hulp te halen en geef mee waar het is, wat er gebeurd is, hoeveel slachtoffers er zijn en hoe ze eraan toe zijn.
+- Zie ook onderwerp 1 (Lukt bellen niet: hulp halen zonder telefoon) en Noodnummers in de app, Als bellen niet lukt.
+
+Bron: [Gezondheid en Wetenschap: Ernstige bloeding](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-een-ernstige-bloeding-uitwendig) · [IFRC Guidelines 2020](https://www.ifrc.org/sites/default/files/2022-02/EN_GFARC_GUIDELINES_2020.pdf) · [Indiana DHS: Stop the Bleed](https://secure.in.gov/dhs/get-prepared/emergencies/stop-the-bleed-bleeding-control-for-the-injured) · [ERC Guidelines 2021: First aid](https://cprguidelines-old.erc.edu/assets/guidelines/European-Resuscitation-Council-Guidelines-2021-Fi.pdf) · [112.be: Veelgestelde vragen](https://112.be/nl/veelgestelde-vragen)
 
 ## Niet doen
 

@@ -6,9 +6,9 @@ stappen:
   - "Go outside as soon as you hear a smoke alarm or see smoke. Warn everyone in the house and in the building on the way."
   - "Close all doors behind you. A closed door holds back smoke for up to 10 minutes longer."
   - "Stay low to the ground if there is smoke. The air there is clearest and stays breathable longest."
-  - "Call 112 from outside. Say who you are, what is happening, where it is and whether anyone is injured."
+  - "Call 112 from outside. Say who you are, what is happening, where it is and whether anyone is injured. If that does not work, have someone else call or ask for help nearby (see Emergency numbers, If you cannot call)."
   - "Go to the front of the building or another place where the fire service can see you. Never go back inside."
-  - "If you cannot get out: go into a room without smoke, close the door, call 112 and tell them where you are."
+  - "If you cannot get out: go into a room without smoke, close the door and make yourself visible at the window. Call 112 and say where you are."
   - "Only put out a small fire that has just started, and only if you know how. Never put out a burning pan or deep fryer with water."
 niet:
   - "Never put water on a burning pan or deep fryer."
@@ -16,7 +16,7 @@ niet:
   - "Do not open a door that is hot or has smoke coming under it."
   - "Do not hide from the fire service."
 status: concept
-datum: "2026-11-17"
+datum: "2026-11-18"
 bronnen:
   - naam: "Speel niet met vuur: escape plan"
     url: https://speelnietmetvuur.be/vluchtplan/
@@ -42,8 +42,16 @@ bronnen:
     url: https://www.ready.gov/home-fires
   - naam: "U.S. Fire Administration: cooking fire safety"
     url: https://www.usfa.fema.gov/prevention/home-fires/prevent-fires/cooking/
+  - naam: "112.be: Frequently asked questions"
+    url: https://112.be/en/frequently-asked-questions
+  - naam: "112.be: How do I call 112?"
+    url: https://112.be/en/how-call/how-call-112
+  - naam: "FPS Economy: questions from households about electricity shortages"
+    url: https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door
+  - naam: "Inspectorates (Netherlands): Unavailability of 112 on 24 June 2019"
+    url: https://zoek.officielebekendmakingen.nl/blg-942150.pdf
 vertaling: machine
-origineel_datum: "2026-11-17"
+origineel_datum: "2026-11-18"
 ---
 
 ## Recognise
@@ -113,15 +121,22 @@ Source: [Speel niet met vuur: smoke alarms](https://speelnietmetvuur.be/rookmeld
 4. If there is smoke, stay low. Crawl under the smoke to the exit.
 5. Feel the door handle and the door before you open a door. If it is hot or smoke is coming round the door, keep it closed and use your second escape route. If you open a door, do it slowly and be ready to close it again immediately.
 6. Go to the assembly point at the front of the building.
-7. Call 112 from outside. Say who you are, what is going on, where it is and whether anyone is injured.
+7. Call 112 from outside. Say who you are, what is going on, where it is and whether anyone is injured. If you are not calling from the scene of the fire, tell the operator.
 8. Never go back inside, not even for something you have forgotten.
+
+**If you cannot get through**
+
+- Have neighbours or bystanders call, or try another phone. Move a few metres and try again.
+- If you can still make calls but 112 cannot be reached, try 101.
+- If calling does not work at all: ask for help nearby. See Emergency numbers in the app, If you cannot call.
+- In the Netherlands, during the national 112 outage of 2019, the government sent people to the nearest fire station or police station. The map in the app (Nearest button) shows these.
 
 **Your escape route is blocked**
 
 1. Go to a room without smoke and close the door. Where possible, close other doors between you and the fire.
 2. Seal gaps and air vents with a cloth or tape.
-3. Call 112 and say where you are.
-4. Open a window and make yourself visible, for example with a light-coloured cloth or a torch, so that the fire service or the neighbours know you are there.
+3. Open a window and make yourself visible, for example with a light-coloured cloth or a torch, so that the fire service or the neighbours know you are there.
+4. Call 112 and say where you are.
 
 **Putting it out yourself: only if it is safe**
 
@@ -139,16 +154,16 @@ Source: [Speel niet met vuur: smoke alarms](https://speelnietmetvuur.be/rookmeld
 
 - Cool the burn for about 20 minutes under lukewarm running water of about 20 °C. Cool only the wound, so that the casualty does not become hypothermic.
 - Do not put anything on the wound.
-- See a doctor if the wound is larger than a 2 euro coin. Call the emergency services for large or severe blisters, or if the skin is brown or black.
+- See a doctor if the wound is larger than a 2 euro coin. Call the emergency services for large or severe blisters, or if the skin is brown or black. If you cannot get through, see above. See also the first aid card Burns.
 
-Source: [Speel niet met vuur: escape plan](https://speelnietmetvuur.be/vluchtplan/) · [Speel niet met vuur: close the door](https://speelnietmetvuur.be/doededeurdicht/) · [Speel niet met vuur: kitchen](https://speelnietmetvuur.be/brandveiligheid-keuken/) · [KCCE: Fire safety for older people](http://kcce.eu/sites/default/files/explorer/partie_s_incendie/brandveiligheid_ouderen_2017.pdf) · [Ready.gov: home fires](https://www.ready.gov/home-fires) · [U.S. Fire Administration: cooking](https://www.usfa.fema.gov/prevention/home-fires/prevent-fires/cooking/) · [National Crisis Center: evacuating](https://crisiscenter.be/en/what-can-you-do/right-reflex/evacuate)
+Source: [Speel niet met vuur: escape plan](https://speelnietmetvuur.be/vluchtplan/) · [Speel niet met vuur: close the door](https://speelnietmetvuur.be/doededeurdicht/) · [Speel niet met vuur: kitchen](https://speelnietmetvuur.be/brandveiligheid-keuken/) · [KCCE: Fire safety for older people](http://kcce.eu/sites/default/files/explorer/partie_s_incendie/brandveiligheid_ouderen_2017.pdf) · [Ready.gov: home fires](https://www.ready.gov/home-fires) · [U.S. Fire Administration: cooking](https://www.usfa.fema.gov/prevention/home-fires/prevent-fires/cooking/) · [National Crisis Center: evacuating](https://crisiscenter.be/en/what-can-you-do/right-reflex/evacuate) · [112.be: Frequently asked questions](https://112.be/en/frequently-asked-questions) · [112.be: How do I call 112?](https://112.be/en/how-call/how-call-112) · [FPS Economy: questions from households about electricity shortages](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door) · [Inspectorates: Unavailability of 112 on 24 June 2019](https://zoek.officielebekendmakingen.nl/blg-942150.pdf)
 
 ### Outdoors or on the move
 
-- If you see smoke or fire in another building, call 112. Say where it is and what you see.
-- If you cannot reach someone inside, do not go in. Call 112 and tell the emergency services where that person is.
+- If you see smoke or fire in another building, call 112. Say where it is and what you see. If you cannot get through, have someone else call or ask for help nearby (see At home, If you cannot get through).
+- If you cannot reach someone inside, do not go in. Tell the fire service where that person is: via 112, or as soon as they arrive.
 
-Source: [Ready.gov: home fires](https://www.ready.gov/home-fires) · [Speel niet met vuur: escape plan](https://speelnietmetvuur.be/vluchtplan/) · [1722](https://www.1722.be/en/index.html)
+Source: [Ready.gov: home fires](https://www.ready.gov/home-fires) · [Speel niet met vuur: escape plan](https://speelnietmetvuur.be/vluchtplan/) · [1722](https://www.1722.be/en/index.html) · [112.be: Frequently asked questions](https://112.be/en/frequently-asked-questions)
 
 ### At work or at school
 
@@ -173,7 +188,7 @@ Source: [Ready.gov: home fires](https://www.ready.gov/home-fires) · [Speel niet
 - At night, keep a phone with the emergency numbers in it, a torch, glasses and hearing aid by the bed.
 - If you use a rollator or wheelchair, check that all exits are wide enough.
 - Deaf and hard-of-hearing people: choose alarms with a light signal or vibrating pad. For blind and partially sighted people there are alarms with a sound signal.
-- If you cannot get out on your own: stay in a room without smoke, close the door, open a window, keep a phone at hand and make sure the emergency services or the neighbours know you are there.
+- If you cannot get out on your own: stay in a room without smoke, close the door, open a window and make sure the neighbours or the emergency services know you are there. Keep a phone at hand.
 - Do not smoke while using medical oxygen.
 - Use an electric blanket as the instructions say, not folded, and switch it off before you go to sleep.
 

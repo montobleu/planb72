@@ -1,21 +1,21 @@
 ---
 titel: Nucleair alarm
 volgorde: 11
-kort: "Incident in een kerncentrale of andere nucleaire installatie. Je krijgt een BE-Alert of de overheid vraagt om te schuilen."
+kort: "Incident in een kerncentrale of andere nucleaire installatie. De overheid vraagt via radio, omroepwagens of BE-Alert om te schuilen."
 stappen:
   - "Ga binnen en blijf binnen. Dat is de beste bescherming."
   - "Sluit ramen, deuren en de luchtinlaat van de schouw. Zet ventilatie, verwarming en airco uit."
   - "Ga naar een centrale kamer op het gelijkvloers, weg van ramen."
   - "Laat kinderen op school of in de opvang. Ze volgen daar dezelfde aanbevelingen."
   - "Was je buiten toen de wolk voorbijkwam: trek je kleren uit, stop ze in een plastic zak en neem een douche."
-  - "Volg BE-Alert, radio, tv en crisiscentrum.be. Bel alleen bij een medisch noodgeval."
+  - "Luister naar de radio, op batterijen of met een slinger als de stroom uitvalt, en let op omroepwagens van de politie. Werkt het netwerk, volg dan ook BE-Alert en crisiscentrum.be. Bel niet om informatie te vragen. Bel 112 alleen bij een medisch noodgeval."
   - "Neem jodium alleen als de overheid het zegt. Evacueer alleen op bevel."
 niet:
   - "Neem nooit jodiumtabletten op eigen initiatief."
   - "Evacueer nooit op eigen initiatief."
   - "Eet geen groenten uit de moestuin tot de overheid zegt dat het veilig is."
 status: concept
-datum: "2026-11-17"
+datum: "2026-11-18"
 bronnen:
   - naam: "Nationaal Crisiscentrum: incident in een kerncentrale"
     url: https://crisiscentrum.be/nl/risicos-belgie/economische-en-technologische-risicos/incident-een-kerncentrale
@@ -43,11 +43,23 @@ bronnen:
     url: https://www.be-alert.be/en/notified-wherever-you-are
   - naam: "Ready.gov: Radiation Emergencies"
     url: https://www.ready.gov/radiation
+  - naam: "Nucleairrisico.be: waarschuwen en beschermen van de bevolking"
+    url: https://nucleairrisico.be/nl/wat-doet-de-overheid/waarschuwen-en-beschermen-van-de-bevolking
+  - naam: "Nationaal Crisiscentrum: informatie tijdens een noodsituatie"
+    url: https://crisiscentrum.be/nl/wat-kan-jij-doen/informeer-je/informatie-tijdens-een-noodsituatie
+  - naam: "Nationaal Crisiscentrum: brochure Samen voorbereid"
+    url: https://crisiscentrum.be/sites/default/files/documents/files/WEB-Brochure%20Samen%20voorbereid-NL.pdf
+  - naam: "Nationaal Crisiscentrum: een plan bij je thuis"
+    url: https://crisiscentrum.be/nl/wat-kan-jij-doen/maak-een-plan/een-plan-bij-je-thuis
+  - naam: "112.be: Veelgestelde vragen"
+    url: https://112.be/nl/veelgestelde-vragen
 ---
 
 ## Herkennen
 
-**Hoe je gewaarschuwd wordt.** De overheid verwittigt je via BE-Alert (sms, e-mail of telefoonoproep), radio en tv, sociale media, de officiële websites en een informatienummer. Ze kan ook wagens met luidsprekers inzetten. Wie geen vaste telefoon of gsm heeft, krijgt de informatie via die andere kanalen. Bij een groot noodgeval stuurt de overheid een Alert-SMS naar iedereen die met een gsm in de getroffen zone is. Daarvoor hoef je niet ingeschreven te zijn.
+**Hoe je gewaarschuwd wordt.** De overheid verwittigt je via radio en tv en via omroepwagens van de politie die in de straat rondrijden. Werkt het netwerk, dan ook via BE-Alert (sms, e-mail of telefoonoproep), sociale media, de officiële websites en een informatienummer. Wie geen vaste telefoon of gsm heeft, krijgt de informatie via de andere kanalen. Bij een groot noodgeval stuurt de overheid een Alert-SMS naar iedereen die met een gsm in de getroffen zone is. Daarvoor hoef je niet ingeschreven te zijn.
+
+Bij een stroomonderbreking kunnen internet en mobiele netwerken uitvallen. Met een radio op batterijen of een opwindbare radio blijf je dan toch op de hoogte.
 
 **Wat er kan gebeuren.** Bij een nucleair noodgeval kunnen radioactieve stoffen vrijkomen, waaronder radioactief jodium. Een noodgeval kan beginnen met een dreigingsfase, nog voor er iets vrijkomt. Er komt ook niet altijd jodium vrij.
 
@@ -59,14 +71,14 @@ bronnen:
 - de voedselketen beschermen;
 - uitzonderlijk: een bepaalde zone evacueren.
 
-Bron: [Nucleairrisico.be: wat kan jij doen](https://www.nucleairrisico.be/nl/wat-kan-jij-doen) · [Nucleairrisico.be: FAQ](https://www.nucleairrisico.be/nl/faq) · [Nucleairrisico.be: wanneer innemen](https://www.nucleairrisico.be/nl/jodiumtabletten/wanneer-innemen) · [BE-Alert](https://www.be-alert.be/en/notified-wherever-you-are)
+Bron: [Nucleairrisico.be: wat kan jij doen](https://www.nucleairrisico.be/nl/wat-kan-jij-doen) · [Nucleairrisico.be: FAQ](https://www.nucleairrisico.be/nl/faq) · [Nucleairrisico.be: wanneer innemen](https://www.nucleairrisico.be/nl/jodiumtabletten/wanneer-innemen) · [Nucleairrisico.be: waarschuwen en beschermen](https://nucleairrisico.be/nl/wat-doet-de-overheid/waarschuwen-en-beschermen-van-de-bevolking) · [Nationaal Crisiscentrum: Samen voorbereid](https://crisiscentrum.be/sites/default/files/documents/files/WEB-Brochure%20Samen%20voorbereid-NL.pdf) · [BE-Alert](https://www.be-alert.be/en/notified-wherever-you-are)
 
 ## Voorbereiden
 
-- **Ken je zone.** Kijk op nucleairrisico.be of je in een nucleaire noodplanningszone woont, werkt of naar school gaat.
+- **Ken je zone.** Kijk vooraf op nucleairrisico.be of je in een nucleaire noodplanningszone woont, werkt of naar school gaat.
 - **Schrijf je in op BE-Alert.** Voeg ook het adres van je werk, de school van je kinderen of een kwetsbaar familielid toe.
-- **Volg de officiële kanalen** van je gemeente, je gouverneur en het Nationaal Crisiscentrum op sociale media.
-- **Maak een noodplan** voor je gezin, bijvoorbeeld met het model van het Nationaal Crisiscentrum (crisiscentrum.be, "Maak een plan").
+- **Volg de officiële kanalen** van je gemeente, je gouverneur en het Nationaal Crisiscentrum op sociale media. Ze werken alleen als het netwerk werkt.
+- **Maak een noodplan** voor je gezin, bijvoorbeeld met het model van het Nationaal Crisiscentrum (crisiscentrum.be, "Maak een plan"). Zorg dat je een lijst met contactpersonen, adressen en telefoonnummers op papier hebt.
 - **Maak een noodpakket** voor minstens 3 dagen: drinkwater (3 tot 10 liter per persoon per dag, waarvan 1,5 tot 2 liter om te drinken), houdbaar eten dat geen water, gas of elektriciteit nodig heeft, een blikopener, een radio op batterijen of met een slinger, een zaklamp, je noodzakelijke medicatie en een opgeladen powerbank. Bewaar het op een droge plek.
 - **Kies je schuilkamer:** een centrale kamer op het gelijkvloers, weg van ramen.
 
@@ -79,7 +91,7 @@ Bron: [Nucleairrisico.be: wat kan jij doen](https://www.nucleairrisico.be/nl/wat
 - Je haalt de tabletten gratis bij de apotheek. Inwoners van de zones kunnen ze ophalen met hun eID.
 - Bewaar de bijsluiter in de doos. Twijfel je over allergieën of een ziekte, vraag het dan aan je arts of apotheker.
 
-Bron: [Nationaal Crisiscentrum: kerncentrale](https://crisiscentrum.be/nl/risicos-belgie/economische-en-technologische-risicos/incident-een-kerncentrale) · [Nucleairrisico.be: wat kan jij doen](https://www.nucleairrisico.be/nl/wat-kan-jij-doen) · [Nucleairrisico.be: voor wie](https://www.nucleairrisico.be/nl/jodiumtabletten/voor-wie) · [Nucleairrisico.be: FAQ](https://www.nucleairrisico.be/nl/faq) · [Nationaal Crisiscentrum: noodpakket](https://crisiscentrum.be/nl/wat-kan-jij-doen/maak-een-noodpakket/een-noodpakket-bij-je-thuis)
+Bron: [Nationaal Crisiscentrum: kerncentrale](https://crisiscentrum.be/nl/risicos-belgie/economische-en-technologische-risicos/incident-een-kerncentrale) · [Nucleairrisico.be: wat kan jij doen](https://www.nucleairrisico.be/nl/wat-kan-jij-doen) · [Nucleairrisico.be: voor wie](https://www.nucleairrisico.be/nl/jodiumtabletten/voor-wie) · [Nucleairrisico.be: FAQ](https://www.nucleairrisico.be/nl/faq) · [Nationaal Crisiscentrum: noodpakket](https://crisiscentrum.be/nl/wat-kan-jij-doen/maak-een-noodpakket/een-noodpakket-bij-je-thuis) · [Nationaal Crisiscentrum: een plan bij je thuis](https://crisiscentrum.be/nl/wat-kan-jij-doen/maak-een-plan/een-plan-bij-je-thuis)
 
 ## Tijdens
 
@@ -94,8 +106,8 @@ Bron: [Nationaal Crisiscentrum: kerncentrale](https://crisiscentrum.be/nl/risico
 5. Dicht de onderkant van deuren af met vochtige doeken. Zorg dat er toch nog wat lucht circuleert, zodat je niet onwel wordt.
 6. Ga naar een centrale kamer op het gelijkvloers, weg van ramen.
 7. Haal huisdieren binnen.
-8. Volg de instructies van de overheid via radio, tv, websites en sociale media.
-9. Bel alleen bij een medisch noodgeval (112). Overbodige oproepen overbelasten het net en hinderen de hulpdiensten. Verwittig anderen met sms, WhatsApp of Signal.
+8. Volg de instructies van de overheid via de radio, of de tv als er stroom is. Valt de stroom uit, gebruik dan een radio op batterijen of met een slinger. Let ook op omroepwagens van de politie. Werkt het netwerk, volg dan ook BE-Alert, de websites en sociale media van de overheid.
+9. Bel niet om informatie te vragen. Bel alleen bij een medisch noodgeval (112). Overbodige oproepen overbelasten het net en hinderen de hulpdiensten. Lukt bellen niet, zie Noodnummers, Als bellen niet lukt. Werkt het netwerk, verwittig anderen dan met sms, WhatsApp of Signal.
 
 **Heb je een kelder?** De Belgische bronnen spreken over een centrale kamer op het gelijkvloers. Het Amerikaanse Ready.gov noemt een kelder of het midden van een groot gebouw als de best beschermde plek, met zoveel mogelijk muren tussen jou en buiten. Ook gebouwen in baksteen of beton en ondergrondse parkings bieden goede bescherming.
 
@@ -141,7 +153,7 @@ Bron: [Nationaal Crisiscentrum: kerncentrale](https://crisiscentrum.be/nl/risico
 
 - Zwangere vrouwen en vrouwen die borstvoeding geven, horen bij de groep voor wie jodiumtabletten worden aangeraden. Neem ze alleen in als de overheid het zegt.
 - Wie ouder is dan 40, neemt in principe geen jodium, tenzij de overheid het uitdrukkelijk aanraadt. Vraag je arts vooraf om advies.
-- Ben je ziek of gewond, volg dan de instructies over waar je medische zorg krijgt. Bel 112 bij een medisch noodgeval.
+- Ben je ziek of gewond, volg dan de instructies over waar je medische zorg krijgt. Bel 112 bij een medisch noodgeval. Lukt dat niet, laat een huisgenoot of buur bellen of hulp vragen (zie Noodnummers, Als bellen niet lukt).
 
 ### Huisdieren en dieren
 
@@ -166,16 +178,16 @@ Bron: [Nationaal Crisiscentrum: kerncentrale](https://crisiscentrum.be/nl/risico
 - Evacuatie is de meest uitzonderlijke maatregel. Evacueer nooit op eigen initiatief.
 - Evacuatie gebeurt niet terwijl de wolk voorbijtrekt. Ze kan preventief gebeuren, voor de uitstoot de zone bereikt, of later, na het schuilen.
 - Moet je vertrekken: blijf kalm, sluit water, gas en elektriciteit af en neem het minimum mee: identiteitskaart, geld, enkele flessen water, gsm en lader.
-- Volg de aangeduide routes en verzamelpunten. Wie, waarheen en hoe wordt op het moment zelf meegedeeld.
+- Volg de aangeduide routes en verzamelpunten. Wie, waarheen en hoe wordt op het moment zelf meegedeeld, onder meer via de radio en omroepwagens van de politie.
 - De politie zet een veiligheidszone af. Een geëvacueerde zone mag je niet meer in.
 
-Bron: [Nucleairrisico.be: schuilen](https://nucleairrisico.be/nl/wat-kan-jij-doen/schuilen-de-beste-bescherming) · [Nucleairrisico.be: FAQ](https://www.nucleairrisico.be/nl/faq) · [Nucleairrisico.be: ontsmetten](https://nucleairrisico.be/nl/wat-kan-jij-doen/jezelf-ontsmetten) · [Nucleairrisico.be: wanneer innemen](https://www.nucleairrisico.be/nl/jodiumtabletten/wanneer-innemen) · [Nucleairrisico.be: voor wie](https://www.nucleairrisico.be/nl/jodiumtabletten/voor-wie) · [Nucleairrisico.be: evacuatie](https://nucleairrisico.be/nl/wat-kan-jij-doen/evacuatie) · [Nucleairrisico.be: voedselketen](https://nucleairrisico.be/nl/wat-kan-jij-doen/bescherming-van-de-voedselketen) · [Nationaal Crisiscentrum: schuilen](https://crisiscentrum.be/nl/wat-kan-jij-doen/reageer-correct/schuilen) · [Ready.gov](https://www.ready.gov/radiation)
+Bron: [Nucleairrisico.be: schuilen](https://nucleairrisico.be/nl/wat-kan-jij-doen/schuilen-de-beste-bescherming) · [Nucleairrisico.be: FAQ](https://www.nucleairrisico.be/nl/faq) · [Nucleairrisico.be: ontsmetten](https://nucleairrisico.be/nl/wat-kan-jij-doen/jezelf-ontsmetten) · [Nucleairrisico.be: wanneer innemen](https://www.nucleairrisico.be/nl/jodiumtabletten/wanneer-innemen) · [Nucleairrisico.be: voor wie](https://www.nucleairrisico.be/nl/jodiumtabletten/voor-wie) · [Nucleairrisico.be: evacuatie](https://nucleairrisico.be/nl/wat-kan-jij-doen/evacuatie) · [Nucleairrisico.be: voedselketen](https://nucleairrisico.be/nl/wat-kan-jij-doen/bescherming-van-de-voedselketen) · [Nationaal Crisiscentrum: schuilen](https://crisiscentrum.be/nl/wat-kan-jij-doen/reageer-correct/schuilen) · [Nucleairrisico.be: waarschuwen en beschermen](https://nucleairrisico.be/nl/wat-doet-de-overheid/waarschuwen-en-beschermen-van-de-bevolking) · [Nationaal Crisiscentrum: Samen voorbereid](https://crisiscentrum.be/sites/default/files/documents/files/WEB-Brochure%20Samen%20voorbereid-NL.pdf) · [112.be: Veelgestelde vragen](https://112.be/nl/veelgestelde-vragen) · [Ready.gov](https://www.ready.gov/radiation)
 
 ## Daarna
 
 - Ga pas naar buiten als de overheid meldt dat het veilig is.
 - Ben je geëvacueerd, ga dan pas terug als de lokale overheid het zegt.
-- Er kan medisch advies volgen. Volg de media en de officiële kanalen.
+- Er kan medisch advies volgen. Volg de radio en, als het netwerk werkt, de officiële kanalen.
 - De overheid kan maatregelen nemen voor de voedselketen:
   - het gebruik van verse gewassen beperken of verbieden, ook uit je moestuin;
   - het gebruik van drinkwater en oppervlaktewater verbieden;
@@ -185,14 +197,14 @@ Bron: [Nucleairrisico.be: schuilen](https://nucleairrisico.be/nl/wat-kan-jij-doe
 - Eet niets uit je tuin tot de overheid zegt dat het veilig is.
 - Zorg ook voor je mentale gezondheid. Praat met iemand als je overstuur bent.
 
-Bron: [Nationaal Crisiscentrum: kerncentrale](https://crisiscentrum.be/nl/risicos-belgie/economische-en-technologische-risicos/incident-een-kerncentrale) · [Nucleairrisico.be: voedselketen](https://nucleairrisico.be/nl/wat-kan-jij-doen/bescherming-van-de-voedselketen) · [Ready.gov](https://www.ready.gov/radiation)
+Bron: [Nationaal Crisiscentrum: kerncentrale](https://crisiscentrum.be/nl/risicos-belgie/economische-en-technologische-risicos/incident-een-kerncentrale) · [Nucleairrisico.be: voedselketen](https://nucleairrisico.be/nl/wat-kan-jij-doen/bescherming-van-de-voedselketen) · [Nationaal Crisiscentrum: informatie tijdens een noodsituatie](https://crisiscentrum.be/nl/wat-kan-jij-doen/informeer-je/informatie-tijdens-een-noodsituatie) · [Ready.gov](https://www.ready.gov/radiation)
 
 ## Niet doen
 
 - Neem nooit jodiumtabletten op eigen initiatief.
 - Evacueer nooit op eigen initiatief.
 - Haal je kinderen niet op van school of opvang.
-- Bel niet zonder noodzaak.
+- Bel niet om informatie te vragen. Luister naar de radio.
 - Ga niet naar buiten om te kijken of om boodschappen te doen.
 - Laat ventilatie of airco niet aan staan.
 - Eet niets uit de moestuin en niets dat onbedekt buiten stond.
@@ -202,10 +214,12 @@ Bron: [Nationaal Crisiscentrum: kerncentrale](https://crisiscentrum.be/nl/risico
 
 ## Meer informatie
 
+Lees deze pagina's vooraf. Bij een stroomonderbreking kunnen internet en mobiele netwerken uitvallen.
+
 - Zones, jodium en aanbevelingen: [nucleairrisico.be](https://www.nucleairrisico.be/nl/wat-kan-jij-doen)
 - Risico en maatregelen: [Nationaal Crisiscentrum: incident in een kerncentrale](https://crisiscentrum.be/nl/risicos-belgie/economische-en-technologische-risicos/incident-een-kerncentrale)
 - Federaal Agentschap voor Nucleaire Controle (FANC): [fanc.be](https://fanc.fgov.be/nl)
 - Meetnet voor straling: [telerad.be](https://telerad.be)
 - Zie ook de module **Nucleair** voor de sites, de zones en de afstand tot jouw adres, en de gids **Schuilen per dreiging**.
 
-Bron: [Nationaal Crisiscentrum: kerncentrale](https://crisiscentrum.be/nl/risicos-belgie/economische-en-technologische-risicos/incident-een-kerncentrale)
+Bron: [Nationaal Crisiscentrum: kerncentrale](https://crisiscentrum.be/nl/risicos-belgie/economische-en-technologische-risicos/incident-een-kerncentrale) · [Nationaal Crisiscentrum: Samen voorbereid](https://crisiscentrum.be/sites/default/files/documents/files/WEB-Brochure%20Samen%20voorbereid-NL.pdf)

@@ -61,8 +61,8 @@ const nagekekenVertaling = nagekeken;
   </div>
 )}
 
-{item.soort === 'scenarios' && <div class="melding gevaar" set:html={A.algemeen.levensgevaar} />}
-{item.soort === 'eerstehulp' && <div class="melding gevaar"><Fragment set:html={A.eerstehulp.bel} /> {A.eerstehulp.volgMeldkamer}</div>}
+{item.soort === 'scenarios' && <div class="melding gevaar"><Fragment set:html={A.algemeen.levensgevaar} /> <Fragment set:html={A.algemeen.nietLukt(pad(taal, '/app/noodnummers/#als-bellen-niet-lukt'))} /></div>}
+{item.soort === 'eerstehulp' && <div class="melding gevaar"><Fragment set:html={A.eerstehulp.bel} /> {A.eerstehulp.volgMeldkamer} <Fragment set:html={A.eerstehulp.nietLukt(pad(taal, '/app/noodnummers/#als-bellen-niet-lukt'))} /></div>}
 
 {(vorm === 'gevoelig' || vorm === 'ontbreekt') ? (
   // De Nederlandse tekst staat al op het toestel (/app/...); de pagina haalt hem daar op in plaats

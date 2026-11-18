@@ -4,7 +4,7 @@ module: schuilen
 volgorde: 3
 kort: "Was es in Belgien gibt, was die möglichen Schutzorte aus OpenStreetMap sind, wie zuverlässig sie sind, wie Sie sie erkunden und wie die Nachbarländer es regeln."
 status: concept
-datum: "2026-11-17"
+datum: "2026-11-18"
 bronnen:
   - naam: "Nationales Krisenzentrum: Schutz suchen"
     url: https://krisenzentrum.be/de/was-koennen-sie-tun/der-richtige-reflex/schutz-suchen
@@ -12,6 +12,10 @@ bronnen:
     url: https://krisenzentrum.be/de/was-koennen-sie-tun/der-richtige-reflex/evakuierung
   - naam: "Nationales Krisenzentrum: Brand oder Einsturz eines Tunnels"
     url: https://krisenzentrum.be/de/risiken-belgien/technologische-risiken/brand-oder-einsturz-einem-tunnel
+  - naam: "112.be: Häufig gestellte Fragen"
+    url: https://112.be/de/haeufig-gestellte-fragen
+  - naam: "FÖD Wirtschaft: Fragen von Haushalten zur Stromknappheit"
+    url: https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door
   - naam: "Nuklearrisiko: Jodtabletten für Gemeinschaftseinrichtungen"
     url: https://nuklearrisiko.be/de/jodtabletten/fuer-gemeinschaftliche-einrichtungen
   - naam: "OpenStreetMap: Urheberrecht und Lizenz"
@@ -53,20 +57,21 @@ bronnen:
   - naam: "Nationales Krisenzentrum: Broschüre Gemeinsam vorbereitet"
     url: https://krisenzentrum.be/sites/default/files/documents/files/WEB-Brosch%C3%BCre%20Gemeinsam%20Vorbereitet-DE.pdf
 vertaling: machine
-origineel_datum: "2026-11-17"
+origineel_datum: "2026-11-18"
 ---
 
 ## Was es in Belgien gibt
 
-Belgien hat kein Netz öffentlicher Schutzräume. Auf der Seite des Nationalen Krisenzentrums zum Schutzsuchen gibt es keine Liste oder Karte öffentlicher Schutzorte. Die belgische Empfehlung zum Schutzsuchen lautet: Gehen Sie in das nächstgelegene zugängliche Gebäude, Ihr eigenes Haus, Ihren Arbeitsplatz oder ein anderes Gebäude, und bleiben Sie dort, bis die Gefahr vorbei ist. Sind Sie unterwegs, gehen Sie in das nächstgelegene zugängliche Gebäude. Erreichen Sie kein sicheres Gebäude, zum Beispiel zu Fuß in einem ländlichen Gebiet oder Naturgebiet, rufen Sie 112 an.
+Belgien hat kein Netz öffentlicher Schutzräume. Auf der Seite des Nationalen Krisenzentrums zum Schutzsuchen gibt es keine Liste oder Karte öffentlicher Schutzorte. Die belgische Empfehlung zum Schutzsuchen lautet: Gehen Sie in das nächstgelegene zugängliche Gebäude, Ihr eigenes Haus, Ihren Arbeitsplatz oder ein anderes Gebäude, und bleiben Sie dort, bis die Gefahr vorbei ist. Sind Sie unterwegs, gehen Sie in das nächstgelegene zugängliche Gebäude. Erreichen Sie kein sicheres Gebäude, zum Beispiel zu Fuß in einem ländlichen Gebiet oder Naturgebiet, rufen Sie 112 an. Kommt kein Anruf zustande, lassen Sie jemand anderen anrufen oder bitten Sie in Ihrer Umgebung um Hilfe (siehe Notrufnummern in der App, Wenn kein Anruf möglich ist). Für alle, die unterwegs sind und kein Gebäude in der Nähe haben, sagt das Krisenzentrum außerdem: Entfernen Sie sich weiter von der Notsituation, bis Sie auf ein sicheres und zugängliches Gebäude stoßen.
 
 Was es in Belgien gibt:
 
-- **Aufnahmezentren bei einer Evakuierung.** Bei größeren Notsituationen stellt die Gemeinde oder Provinz einen Ort zur Aufnahme Evakuierter bereit, zum Beispiel eine Sporthalle oder einen Festsaal. Das ist eine Unterbringung nach einer Evakuierung, kein Schutz vor einer Explosion.
+- **Aufnahmezentren bei einer Evakuierung.** Bei größeren Notsituationen stellt die Gemeinde oder Provinz einen Ort zur Aufnahme Evakuierter bereit, zum Beispiel eine Sporthalle oder einen Festsaal. Vor Ort gibt eine Kontaktperson Informationen. Das ist eine Unterbringung nach einer Evakuierung, kein Schutz vor einer Explosion.
+- **Eine Informations- und Anlaufstelle der Gemeinde.** Für eine Abschaltung des Stroms haben Bürgermeister und Gouverneure Notmaßnahmen vorbereitet, zum Beispiel eine Informations- und Anlaufstelle für die Bevölkerung (FÖD Wirtschaft). Fragen Sie im Voraus bei Ihrer Gemeindeverwaltung nach, welche Lösungen Ihre Gemeinde hat. Die Karte in der App (Schaltfläche Am nächsten) zeigt die Gemeindehäuser.
 - **Notfallpläne von Schulen und Gemeinschaftseinrichtungen.** Schulen, Unternehmen, Krankenhäuser, Sportzentren und andere Orte, an denen viele Menschen zusammenkommen, werden ermutigt, einen internen Notfallplan zu haben und zu üben. Innerhalb der nuklearen Notfallplanungszonen werden sie außerdem gebeten, Jodtabletten für Personal und Besucher bereitzuhalten.
 - **Lassen Sie andere bei sich Schutz suchen.** Das Krisenzentrum bittet ausdrücklich darum, Menschen, die einen Platz brauchen, bei Ihnen Schutz suchen zu lassen.
 
-Quelle: [Nationales Krisenzentrum: Schutz suchen](https://krisenzentrum.be/de/was-koennen-sie-tun/der-richtige-reflex/schutz-suchen) · [Nationales Krisenzentrum: Evakuieren](https://krisenzentrum.be/de/was-koennen-sie-tun/der-richtige-reflex/evakuierung) · [Nuklearrisiko: Jodtabletten für Gemeinschaftseinrichtungen](https://nuklearrisiko.be/de/jodtabletten/fuer-gemeinschaftliche-einrichtungen)
+Quelle: [Nationales Krisenzentrum: Schutz suchen](https://krisenzentrum.be/de/was-koennen-sie-tun/der-richtige-reflex/schutz-suchen) · [Nationales Krisenzentrum: Evakuieren](https://krisenzentrum.be/de/was-koennen-sie-tun/der-richtige-reflex/evakuierung) · [Nuklearrisiko: Jodtabletten für Gemeinschaftseinrichtungen](https://nuklearrisiko.be/de/jodtabletten/fuer-gemeinschaftliche-einrichtungen) · [112.be: Häufig gestellte Fragen](https://112.be/de/haeufig-gestellte-fragen) · [FÖD Wirtschaft: Fragen von Haushalten zur Stromknappheit](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door)
 
 ## Was die möglichen Schutzorte auf der Karte sind
 

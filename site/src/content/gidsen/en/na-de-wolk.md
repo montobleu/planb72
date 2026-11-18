@@ -4,12 +4,22 @@ module: nucleair
 volgorde: 4
 kort: "What happens after a radioactive release: the end of sheltering, returning home, restrictions on food and water, measurements, health and psychological support."
 status: concept
-datum: "2026-11-17"
+datum: "2026-11-18"
 bronnen:
   - naam: "National Crisis Center: Incident at a nuclear power plant"
     url: https://crisiscenter.be/en/risks-belgium/technological-risks/nuclear-plant-incident
   - naam: "National Crisis Center: Evacuating"
     url: https://crisiscenter.be/en/what-can-you-do/right-reflex/evacuate
+  - naam: "National Crisis Center: Information during an emergency"
+    url: https://crisiscenter.be/en/what-can-you-do/stay-informed/get-informed-emergency-situation
+  - naam: "112.be: Frequently asked questions"
+    url: https://112.be/en/frequently-asked-questions
+  - naam: "FPS Economy: questions from households about electricity shortages"
+    url: https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door
+  - naam: "WHO, War Trauma Foundation and World Vision International: Psychological first aid, guide for field workers (2011)"
+    url: https://psychiatry.uw.edu/wp-content/uploads/2020/04/1.-WHO_PFA_2011.pdf
+  - naam: "IFRC Reference Centre for Psychosocial Support: A Guide to Psychological First Aid (2018)"
+    url: https://mhpsshub.org/wp-content/uploads/2019/05/PFA-Guide-low-res.pdf
   - naam: "National Crisis Center: Talk about it"
     url: https://crisiscenter.be/en/what-can-you-do/zorg-voor-jezelf/talk-about-it
   - naam: "National Crisis Center: Attack on a soft target"
@@ -55,7 +65,7 @@ bronnen:
   - naam: "CDC: How to self-decontaminate"
     url: https://cdc.gov/radiation-emergencies/prevention/self-decontaminate.html
 vertaling: machine
-origineel_datum: "2026-11-17"
+origineel_datum: "2026-11-18"
 ---
 
 ## When sheltering ends
@@ -66,9 +76,9 @@ You stay indoors until the authorities announce that it is safe again. In princi
 | --- | --- |
 | It is safe, sheltering is over | You may go outside. Follow the recommendations on food, water and cleaning |
 | Evacuation | Follow the instructions on who, where to and how. An evacuation after the cloud is possible if sheltering would have to last longer or if the release is very large |
-| Stay indoors | Keep sheltering and keep listening to the official channels |
+| Stay indoors | Keep sheltering and keep listening to the radio and the other official channels |
 
-The Crisis Center says that medical advice may still follow after a nuclear accident. Follow the media and the official channels. Finland says the same: the rescue services and the radiation authority announce when the danger is over, and give instructions on cleaning rooms and eating food.
+The Crisis Center says that medical advice may still follow after a nuclear accident. Listen to a battery-powered radio or the car radio and look out for police loudspeaker vans. If the network works, also follow BE-Alert and the government websites. Finland says the same: the rescue services and the radiation authority announce when the danger is over, and give instructions on cleaning rooms and eating food.
 
 For a release of hazardous substances, Germany says: wait for the end of the alarm before you leave the building or open windows, and follow the announcements via radio, internet or the warning app. So in Belgium too, do not open the windows and do not switch the ventilation back on before the authorities announce that it is safe.
 
@@ -76,12 +86,12 @@ For a release of hazardous substances, Germany says: wait for the end of the ala
 
 For a nuclear detonation, Ready.gov says: stay in the best-protected place for the first 24 hours, unless there is immediate danger or the authorities say you may leave. If you have to evacuate, listen to the information about routes, reception sites and procedures. Sweden says that you may leave the shelter when you hear the "all clear" signal, a long continuous signal of 30 seconds, and then asks you to help the injured and people who are trapped.
 
-Source: [Nuclear risk: frequently asked questions](https://nuclearrisk.be/en/faq) · [National Crisis Center: Incident at a nuclear power plant](https://crisiscenter.be/en/risks-belgium/technological-risks/nuclear-plant-incident) · [Suomi.fi: Radiation hazards](https://www.suomi.fi/guides/preparedness/how-to-prepare-for-incidents-and-crises/radiation-hazards) · [BBK: Verhalten im Haus bei Gefahrstofffreisetzung](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Vorsorge/Schutz-suchen/Gefahrstoff-Freisetzung/_documents/gefahrstoff-im-haus_dossier2.html?nn=20588) · [Ready.gov: Radiation emergencies](https://www.ready.gov/radiation) · [MCF: In case of crisis or war](https://rib.msb.se/filer/pdf/31523.pdf)
+Source: [Nuclear risk: frequently asked questions](https://nuclearrisk.be/en/faq) · [National Crisis Center: Incident at a nuclear power plant](https://crisiscenter.be/en/risks-belgium/technological-risks/nuclear-plant-incident) · [National Crisis Center: Information during an emergency](https://crisiscenter.be/en/what-can-you-do/stay-informed/get-informed-emergency-situation) · [Suomi.fi: Radiation hazards](https://www.suomi.fi/guides/preparedness/how-to-prepare-for-incidents-and-crises/radiation-hazards) · [BBK: Verhalten im Haus bei Gefahrstofffreisetzung](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Vorsorge/Schutz-suchen/Gefahrstoff-Freisetzung/_documents/gefahrstoff-im-haus_dossier2.html?nn=20588) · [Ready.gov: Radiation emergencies](https://www.ready.gov/radiation) · [MCF: In case of crisis or war](https://rib.msb.se/filer/pdf/31523.pdf)
 
 ## Returning after an evacuation
 
 - **How long:** that depends on the situation. It can be after a few hours, but it can also take several days (Crisis Center, evacuation in general).
-- **How you will know:** at the reception centre, the contact person gives the information. If you are staying with family or friends, follow the municipality's website, listen to the radio or call the information number.
+- **How you will know:** at the reception centre, the contact person gives the information. If you are staying with family or friends, listen to the radio. If the network works, also check the municipality's website or call the information number.
 - **The zone:** the police set up a safety zone. Once it has been cleared, you may not enter that zone until the authorities allow it.
 - **Do not go back earlier** than the local authorities say it is safe (Ready.gov).
 - **If you could not turn off the water, gas and electricity** before you left, you will get support from the competent services on your return if necessary (Crisis Center).
@@ -197,13 +207,13 @@ Source: [Nuclear risk: frequently asked questions](https://nuclearrisk.be/en/faq
 
 - **Long-term risks:** the risks to the population are mainly long-term risks, such as cancer and genetic abnormalities. The probability, not the severity, increases with the dose (Nuclear risk).
 - **Acute symptoms** such as vomiting, burns and massive hair loss only occur after massive exposure, which in principle is only expected among workers at the installation and possibly emergency responders (Nuclear risk). The WHO says that the general public is unlikely to receive a dose high enough for acute effects.
-- **Medical advice:** medical advice may still follow after an accident. Follow the official channels (Crisis Center).
-- **Sick or injured:** listen to the instructions on where to get medical help. If you are in a public shelter, tell the staff immediately (Ready.gov). In Belgium: call 112 in a medical emergency.
+- **Medical advice:** medical advice may still follow after an accident. Listen to the radio and follow the other official channels (Crisis Center).
+- **Sick or injured:** listen to the instructions on where to get medical help. If you are in a public shelter, tell the staff immediately (Ready.gov). In Belgium: call 112 in a medical emergency, or have someone call. If you cannot get through, try another phone or have neighbours call; if calling does not work at all, ask for help in your neighbourhood (see Emergency numbers in the app, If you cannot call).
 - **Children:** they are more sensitive to radiation. Have them followed up medically after the emergency as soon as the authorities say it is safe (WHO).
 - **Pregnant women who took iodine:** tell your doctor after the emergency, so that it is recorded in your medical file (WHO).
 - **Newborns who were given iodine:** the WHO recommends having their thyroid levels monitored.
 
-Source: [Nuclear risk: Radioactivity and exposure](https://nuclearrisk.be/en/nuclear-risk/radioactivity-exposure) · [National Crisis Center: Incident at a nuclear power plant](https://crisiscenter.be/en/risks-belgium/technological-risks/nuclear-plant-incident) · [WHO: Radiation and health](https://www.who.int/news-room/questions-and-answers/item/radiation-and-health) · [WHO: Use of potassium iodide](https://www.who.int/news-room/questions-and-answers/item/use-of-potassium-iodide-for-thyroid-protection-during-nuclear-or-radiological-emergencies) · [Ready.gov: Radiation emergencies](https://www.ready.gov/radiation)
+Source: [Nuclear risk: Radioactivity and exposure](https://nuclearrisk.be/en/nuclear-risk/radioactivity-exposure) · [National Crisis Center: Incident at a nuclear power plant](https://crisiscenter.be/en/risks-belgium/technological-risks/nuclear-plant-incident) · [WHO: Radiation and health](https://www.who.int/news-room/questions-and-answers/item/radiation-and-health) · [WHO: Use of potassium iodide](https://www.who.int/news-room/questions-and-answers/item/use-of-potassium-iodide-for-thyroid-protection-during-nuclear-or-radiological-emergencies) · [Ready.gov: Radiation emergencies](https://www.ready.gov/radiation) · [112.be: Frequently asked questions](https://112.be/en/frequently-asked-questions) · [FPS Economy: questions from households about electricity shortages](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door)
 
 ## Psychological support
 
@@ -218,14 +228,17 @@ Going through a radiation emergency can be hard and traumatic, says Ready.gov. T
 - Move regularly. Only go outside again when the authorities say it is safe.
 - Breathe calmly and deeply when you notice the tension rising.
 
-### Where you can turn
+### Supporting each other on the spot
 
-| Number | For whom |
-| --- | --- |
-| 106 | Tele-Onthaal: free and anonymous conversation, also via chat on tele-onthaal.be |
-| 102 | Awel: children and young people, also via awel.be |
-| 1712 | Helpline for violence, abuse and child abuse |
-| 1813 | Zelfmoordlijn (suicide line), also via chat on zelfmoord1813.be |
+Psychological first aid is help from person to person, on the spot. Anyone can give it (WHO, IFRC):
+
+- Provide safety and calm. Speak calmly and softly.
+- Listen without forcing people to talk.
+- Help with practical things: water, warmth, correct information, finding family.
+- Stay together and keep children with their parents or carers.
+- Do not leave anyone who is very distressed or could harm themselves alone. Look for help from people nearby or medical help on the spot.
+
+More in the guide on mental resilience and psychological first aid.
 
 ### Children
 
@@ -235,7 +248,20 @@ Going through a radiation emergency can be hard and traumatic, says Ready.gov. T
 - Explain who they can turn to for help.
 - Keep to the daily routine as much as possible.
 
-Source: [Ready.gov: Radiation emergencies](https://www.ready.gov/radiation) · [National Crisis Center: Attack on a soft target](https://crisiscenter.be/en/risks-belgium/security-risks/attack-against-soft-target) · [National Crisis Center: Talk about it](https://crisiscenter.be/en/what-can-you-do/zorg-voor-jezelf/talk-about-it) · [National Crisis Center: brochure Prepared together](https://crisiscenter.be/sites/default/files/documents/files/WEB-Brochure%20Prepared%20Together-EN.pdf)
+Source: [Ready.gov: Radiation emergencies](https://www.ready.gov/radiation) · [National Crisis Center: Attack on a soft target](https://crisiscenter.be/en/risks-belgium/security-risks/attack-against-soft-target) · [National Crisis Center: Talk about it](https://crisiscenter.be/en/what-can-you-do/zorg-voor-jezelf/talk-about-it) · [National Crisis Center: brochure Prepared together](https://crisiscenter.be/sites/default/files/documents/files/WEB-Brochure%20Prepared%20Together-EN.pdf) · [WHO: Psychological first aid](https://psychiatry.uw.edu/wp-content/uploads/2020/04/1.-WHO_PFA_2011.pdf) · [IFRC: A Guide to Psychological First Aid](https://mhpsshub.org/wp-content/uploads/2019/05/PFA-Guide-low-res.pdf)
+
+## After the crisis, when the phone works again
+
+These helplines are there for a conversation once the phone or the internet works again. They are not emergency numbers. If life is in danger, call 112 (see Health).
+
+| Number | For whom |
+| --- | --- |
+| 106 | Tele-Onthaal: free and anonymous conversation, also via chat on tele-onthaal.be |
+| 102 | Awel: children and young people, also via awel.be |
+| 1712 | Helpline for violence, abuse and child abuse |
+| 1813 | Zelfmoordlijn (suicide line), also via chat on zelfmoord1813.be |
+
+Source: [National Crisis Center: Talk about it](https://crisiscenter.be/en/what-can-you-do/zorg-voor-jezelf/talk-about-it) · [National Crisis Center: brochure Prepared together](https://crisiscenter.be/sites/default/files/documents/files/WEB-Brochure%20Prepared%20Together-EN.pdf)
 
 ## Correct information and rumours
 
@@ -245,15 +271,15 @@ After an emergency, a lot of information circulates, especially on social media.
 - Check whether several channels or sources confirm it.
 - See whether the message looks reliable.
 
-Only share messages from the authorities or emergency services yourself. Follow the communication from the authorities, the emergency services and the municipality, even if the worst seems to be over.
+Only share messages from the authorities or emergency services yourself. Follow the communication from the authorities, the emergency services and the municipality, even if the worst seems to be over. If the network goes down, listen to a battery-powered radio or the car radio. The authorities can also use police loudspeaker vans, information boards, leaflets and door-to-door communication.
 
-Source: [National Crisis Center: brochure Prepared together](https://crisiscenter.be/sites/default/files/documents/files/WEB-Brochure%20Prepared%20Together-EN.pdf)
+Source: [National Crisis Center: brochure Prepared together](https://crisiscenter.be/sites/default/files/documents/files/WEB-Brochure%20Prepared%20Together-EN.pdf) · [National Crisis Center: Information during an emergency](https://crisiscenter.be/en/what-can-you-do/stay-informed/get-informed-emergency-situation)
 
 ## Helping each other
 
 - Regularly check whether vulnerable people in your neighbourhood need help, without putting yourself in danger.
 - Share reliable information from the authorities with people who are less well informed.
-- Use WhatsApp, Signal or social media instead of calling, so that the telephone network does not become overloaded.
+- If the network works, send a message via a messaging app or social media rather than calling, so that the telephone network does not become overloaded.
 - Offer to be a contact person for family and friends who had to evacuate.
 
 Source: [National Crisis Center: brochure Prepared together](https://crisiscenter.be/sites/default/files/documents/files/WEB-Brochure%20Prepared%20Together-EN.pdf) · [National Crisis Center: Evacuating](https://crisiscenter.be/en/what-can-you-do/right-reflex/evacuate)

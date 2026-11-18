@@ -8,8 +8,8 @@ stappen:
   - "Ne chauffez jamais avec une cuisinière au gaz, un four ou un barbecue. Faites attention au monoxyde de carbone avec les poêles, les feux ouverts et les chauffe-eau."
   - "Protégez les conduites d'eau et les robinets contre le gel."
   - "Roulez prudemment et emportez une couverture, de l'eau et une boisson chaude dans la voiture."
-  - "Veillez sur les personnes âgées, les personnes vivant seules et les sans-abri de votre entourage. Proposez des boissons chaudes."
-  - "Appelez le 112 en cas de suspicion d'hypothermie ou si quelqu'un est inconscient."
+  - "Passez voir les personnes âgées et les personnes vivant seules de votre entourage et vérifiez si elles ont besoin d'aide. Proposez des boissons chaudes aux sans-abri."
+  - "Appelez le 112 en cas de suspicion d'hypothermie ou si quelqu'un est inconscient. Si l'appel ne passe pas, faites appeler quelqu'un d'autre ou demandez de l'aide dans votre voisinage (voir Numéros d'urgence, Si l'appel ne passe pas)."
 niet:
   - "Ne pas chauffer avec une cuisinière au gaz, un four ou un barbecue, et pas de charbon de bois à l'intérieur."
   - "Ne pas laisser brûler un petit poêle au pétrole ou au gaz pendant que vous dormez."
@@ -17,7 +17,7 @@ niet:
   - "Pas d'alcool pour se réchauffer."
   - "Ne pas laisser un animal dans la voiture par temps de gel."
 status: concept
-datum: "2026-11-17"
+datum: "2026-11-18"
 bronnen:
   - naam: "Centre de crise National : vague de froid"
     url: https://centredecrise.be/fr/risques-en-belgique/risques-naturels/vague-de-froid
@@ -49,8 +49,18 @@ bronnen:
     url: https://www.cdc.gov/carbon-monoxide/about/index.html
   - naam: "CDC: what to do to protect yourself during a power outage"
     url: https://www.cdc.gov/natural-disasters/response/what-to-do-protect-yourself-during-a-power-outage.html
+  - naam: "Centre de crise National : un kit d'urgence à la maison"
+    url: https://centredecrise.be/fr/que-pouvez-vous-faire/preparez-un-kit-durgence/un-kit-durgence-la-maison
+  - naam: "ERC Guidelines 2021: First aid"
+    url: https://cprguidelines-old.erc.edu/assets/guidelines/European-Resuscitation-Council-Guidelines-2021-Fi.pdf
+  - naam: "Croix-Rouge (Rode Kruis-Vlaanderen) : panne de courant et de communication"
+    url: https://www.rodekruis.be/wat-doen-we/hulp-in-vlaanderen/goed-voorbereid/stroom-en-communicatie-uitval/
+  - naam: "112.be : questions fréquentes"
+    url: https://112.be/fr/questions-frequentes
+  - naam: "SPF Économie : questions des ménages sur la pénurie d'électricité"
+    url: https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door
 vertaling: machine
-origineel_datum: "2026-11-17"
+origineel_datum: "2026-11-18"
 ---
 
 ## Reconnaître
@@ -128,7 +138,8 @@ Par ordre de préférence :
 2. Habillez-vous en couches et utilisez des couvertures et des sacs de couchage. Des vêtements chauds et des couvertures peuvent remplacer le chauffage pendant un certain temps.
 3. Utilisez un poêle ou un feu ouvert bien raccordé à une cheminée, avec du bois sec, et aérez régulièrement.
 4. Un poêle portable au pétrole ou au gaz seulement s'il n'y a pas d'autre solution : au maximum une heure d'affilée, jamais pendant que vous dormez, et avec aération.
-5. Si vous n'arrivez pas à rester au chaud, allez chez des amis ou de la famille, ou dans un lieu d'accueil de votre commune.
+5. Lors d'une coupure de courant, vous pouvez vous réunir à plusieurs pour partager la lumière et la chaleur.
+6. Si vous n'arrivez pas à rester au chaud, allez chez des amis ou de la famille, ou dans un lieu d'accueil de votre commune. Écoutez la radio à piles pour les informations des autorités. La commune peut ouvrir un point d'information et d'accueil.
 
 **Éviter le monoxyde de carbone**
 
@@ -144,11 +155,11 @@ Par ordre de préférence :
 2. Ouvrez les fenêtres et les portes.
 3. Éteignez l'appareil si vous pouvez le faire en sécurité.
 4. Sortez la victime de la pièce.
-5. Appelez le 112. Dites où vous êtes, qu'il s'agit peut-être de CO et combien de personnes sont inconscientes.
+5. Appelez le 112 ou faites appeler quelqu'un. Dites où vous êtes, qu'il s'agit peut-être de CO et combien de personnes sont inconscientes. Si l'appel ne passe pas, envoyez quelqu'un chercher de l'aide et restez vous-même auprès de la victime si c'est possible en sécurité. Voir aussi Numéros d'urgence dans l'application, Si l'appel ne passe pas.
 6. Commencez la réanimation si la victime ne respire pas. Placez une personne inconsciente qui respire en position latérale de sécurité.
-7. S'il n'y a pas de danger immédiat, appelez aussi le 112 pour obtenir de l'aide. Pour vos questions, vous pouvez appeler le Centre Antipoisons au 070 245 245.
+7. S'il n'y a pas de danger immédiat, appelez aussi le 112 pour obtenir de l'aide. Si le réseau fonctionne et que vous avez des questions, vous pouvez appeler le Centre Antipoisons au 070 245 245.
 
-Source : [Centre de crise National : vague de froid](https://centredecrise.be/fr/risques-en-belgique/risques-naturels/vague-de-froid) · [Krisinformation.se](https://www.krisinformation.se/en/hazards-and-risks/home-preparedness/heating-during-a-crisis/) · [BBK: Stromausfall](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Vorsorge/Stromausfall/stromausfall_node.html) · [Denk vooruit : pas d'électricité](https://www.denkvooruit.nl/risicos/risicos-in-nederland/geen-stroom) · [CDC: power outage](https://www.cdc.gov/natural-disasters/response/what-to-do-protect-yourself-during-a-power-outage.html) · [Ne jouez pas avec le feu : CO](https://speelnietmetvuur.be/co/) · [Centre Antipoisons : intoxication au CO](https://www.centreantipoisons.be/tox-infos/intoxication-au-co/)
+Source : [Centre de crise National : vague de froid](https://centredecrise.be/fr/risques-en-belgique/risques-naturels/vague-de-froid) · [Krisinformation.se](https://www.krisinformation.se/en/hazards-and-risks/home-preparedness/heating-during-a-crisis/) · [BBK: Stromausfall](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Vorsorge/Stromausfall/stromausfall_node.html) · [Denk vooruit : pas d'électricité](https://www.denkvooruit.nl/risicos/risicos-in-nederland/geen-stroom) · [CDC: power outage](https://www.cdc.gov/natural-disasters/response/what-to-do-protect-yourself-during-a-power-outage.html) · [Ne jouez pas avec le feu : CO](https://speelnietmetvuur.be/co/) · [Centre Antipoisons : intoxication au CO](https://www.centreantipoisons.be/tox-infos/intoxication-au-co/) · [Centre de crise National : kit d'urgence](https://centredecrise.be/fr/que-pouvez-vous-faire/preparez-un-kit-durgence/un-kit-durgence-la-maison) · [112.be : questions fréquentes](https://112.be/fr/questions-frequentes) · [SPF Économie : questions des ménages sur la pénurie d'électricité](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door) · [ERC Guidelines 2021: First aid](https://cprguidelines-old.erc.edu/assets/guidelines/European-Resuscitation-Council-Guidelines-2021-Fi.pdf)
 
 ### À l'extérieur ou en déplacement
 
@@ -161,7 +172,7 @@ Source : [Centre de crise National : vague de froid](https://centredecrise.be/fr
 **Comportement**
 
 - Limitez le temps passé dehors et évitez les efforts intenses. Déblayer la neige ou marcher dans la neige sollicite le cœur.
-- Faites attention aux surfaces glissantes. Signalez-les via l'application de l'IRM, pour que les services d'épandage puissent intervenir plus vite.
+- Faites attention aux surfaces glissantes. Si le réseau fonctionne, signalez-les via l'application de l'IRM, pour que les services d'épandage puissent intervenir plus vite.
 - Cyclistes : roulez plus lentement et gardez plus de distance, pour devoir freiner moins.
 
 Source : [Centre de crise National : vague de froid](https://centredecrise.be/fr/risques-en-belgique/risques-naturels/vague-de-froid) · [CDC: winter weather](https://www.cdc.gov/winter-weather/prevention/index.html) · [Ready.gov: winter weather](https://www.ready.gov/winter-weather)
@@ -200,9 +211,9 @@ Source : [CDC: winter weather](https://www.cdc.gov/winter-weather/prevention/ind
 - Pour les personnes de plus de 65 ans, accrochez un thermomètre bien lisible à un endroit où il est souvent vu.
 - Les femmes enceintes, les personnes atteintes de maladies cardiovasculaires, de problèmes de thyroïde, d'asthme ou d'anémie et les personnes âgées sont plus sensibles au CO.
 - Proposez des boissons chaudes aux sans-abri. En code rouge, l'IRM demande d'accueillir les sans-abri.
-- Vérifiez si vos voisins ont besoin d'aide, surtout si le chauffage ou l'électricité tombe en panne.
+- Passez chez vos voisins et vérifiez s'ils ont besoin d'aide, surtout si le chauffage ou l'électricité tombe en panne.
 
-Source : [CDC: winter weather](https://www.cdc.gov/winter-weather/prevention/index.html) · [CDC: preparing for a winter storm](https://www.cdc.gov/winter-weather/safety/index.html) · [Centre Antipoisons : intoxication au CO](https://www.centreantipoisons.be/tox-infos/intoxication-au-co/) · [IRM : légende froid](https://www.meteo.be/fr/meteo/avertissements/legende-froid) · [Denk vooruit : pas d'électricité](https://www.denkvooruit.nl/risicos/risicos-in-nederland/geen-stroom)
+Source : [CDC: winter weather](https://www.cdc.gov/winter-weather/prevention/index.html) · [CDC: preparing for a winter storm](https://www.cdc.gov/winter-weather/safety/index.html) · [Centre Antipoisons : intoxication au CO](https://www.centreantipoisons.be/tox-infos/intoxication-au-co/) · [IRM : légende froid](https://www.meteo.be/fr/meteo/avertissements/legende-froid) · [Denk vooruit : pas d'électricité](https://www.denkvooruit.nl/risicos/risicos-in-nederland/geen-stroom) · [Croix-Rouge (Rode Kruis-Vlaanderen) : panne de courant et de communication](https://www.rodekruis.be/wat-doen-we/hulp-in-vlaanderen/goed-voorbereid/stroom-en-communicatie-uitval/)
 
 ### Animaux domestiques et autres animaux
 
@@ -234,7 +245,7 @@ Source : [Vlaanderen Huisdierinfo : les animaux et le froid](https://www.vlaande
 
 **En cas d'hypothermie**
 
-1. L'hypothermie est une urgence médicale. Appelez le 112 en cas de suspicion d'hypothermie grave, surtout si la température corporelle est inférieure à 35 °C (95 °F).
+1. L'hypothermie est une urgence médicale. Appelez le 112 en cas de suspicion d'hypothermie grave, surtout si la température corporelle est inférieure à 35 °C (95 °F). Si l'appel ne passe pas, faites appeler quelqu'un d'autre ou demandez de l'aide dans votre voisinage (voir Numéros d'urgence, Si l'appel ne passe pas). Voir aussi la fiche de premiers secours Hypothermie et gelures.
 2. Emmenez la personne dans un endroit chaud et retirez ses vêtements mouillés.
 3. Réchauffez d'abord le centre du corps : la poitrine, le cou, la tête et l'aine, avec des couches sèches ou des couvertures. Enveloppez aussi la tête et le cou.
 4. Une boisson chaude peut aider, jamais d'alcool. Ne donnez rien à boire à une personne inconsciente.
@@ -252,7 +263,7 @@ Source : [Vlaanderen Huisdierinfo : les animaux et le froid](https://www.vlaande
 
 - Faites attention aux conduites endommagées ou qui fuient. Des conduites gelées peuvent être fissurées.
 
-Source : [CDC: winter weather](https://www.cdc.gov/winter-weather/prevention/index.html) · [Ready.gov: winter weather](https://www.ready.gov/winter-weather) · [Centre de crise National : vague de froid](https://centredecrise.be/fr/risques-en-belgique/risques-naturels/vague-de-froid)
+Source : [CDC: winter weather](https://www.cdc.gov/winter-weather/prevention/index.html) · [Ready.gov: winter weather](https://www.ready.gov/winter-weather) · [Centre de crise National : vague de froid](https://centredecrise.be/fr/risques-en-belgique/risques-naturels/vague-de-froid) · [112.be : questions fréquentes](https://112.be/fr/questions-frequentes) · [SPF Économie : questions des ménages sur la pénurie d'électricité](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door)
 
 ## À ne pas faire
 
@@ -268,6 +279,8 @@ Source : [CDC: winter weather](https://www.cdc.gov/winter-weather/prevention/ind
 Source : [Ne jouez pas avec le feu : CO](https://speelnietmetvuur.be/co/) · [CDC: winter weather](https://www.cdc.gov/winter-weather/prevention/index.html) · [Ready.gov: winter weather](https://www.ready.gov/winter-weather) · [Vlaanderen Huisdierinfo](https://www.vlaanderen.be/huisdierinfo/verzorging-van-huisdieren/dieren-en-koud-weer) · [IRM : légende froid](https://www.meteo.be/fr/meteo/avertissements/legende-froid)
 
 ## Plus d'informations
+
+À lire à l'avance, ou quand Internet fonctionne :
 
 - IRM : avertissements pour le froid, les routes glissantes et la neige, et l'application de l'IRM.
 - Centre de crise National sur la vague de froid, le verglas et la neige.

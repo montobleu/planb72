@@ -3,7 +3,7 @@ titel: Onderkoeling en bevriezing
 volgorde: 10
 kort: "Bescherm tegen verdere afkoeling, doe natte kleding uit en warm geleidelijk op. Wrijf nooit. Bevroren huid warm je alleen op als ze niet opnieuw kan bevriezen."
 status: concept
-datum: "2026-11-17"
+datum: "2026-11-18"
 bronnen:
   - naam: "Gezondheid en Wetenschap (Rode Kruis-Vlaanderen): Wat doen bij onderkoeling?"
     url: https://www.gezondheidenwetenschap.be/eerste-hulp/wat-doen-bij-onderkoeling
@@ -15,6 +15,12 @@ bronnen:
     url: https://www.cdc.gov/winter-weather/prevention/preventing-frostbite.html
   - naam: "CDC: Prevent Hypothermia and Frostbite"
     url: https://www.cdc.gov/disasters/winter/staysafe/hypothermia.html
+  - naam: "European Resuscitation Council Guidelines 2021: First aid"
+    url: https://cprguidelines-old.erc.edu/assets/guidelines/European-Resuscitation-Council-Guidelines-2021-Fi.pdf
+  - naam: "FEMA: Until Help Arrives, instructor guide"
+    url: https://ready.gov/sites/default/files/2020-07/until-help-arrives-instructor-guide.pdf
+  - naam: "112.be: Veelgestelde vragen"
+    url: https://112.be/nl/veelgestelde-vragen
 ---
 
 ## Herkennen
@@ -67,7 +73,7 @@ Bron: [Gezondheid en Wetenschap: Onderkoeling](https://www.gezondheidenwetenscha
 8. Ja: warm passief op. Stop het slachtoffer in een slaapzak, of gebruik een deken (fleece of polyester), zo mogelijk met een isolatiedeken. Bedek ook het hoofd. Trek het warme, droge kleding aan. Geef een warme, suikerrijke drank of energierijk voedsel, maar alleen als het goed kan slikken.
 9. Nee: warm actief op, bij voorkeur met een elektrische deken. Heb je die niet, gebruik dan een kersenpittenkussen, warmtepads, een warmwaterkruik of warme stenen. Leg die niet rechtstreeks op de huid, zodat het slachtoffer zich niet verbrandt. Geef dan geen eten of drinken.
 10. Warm eerst het midden van het lichaam op: borst, nek, hoofd en lies. Huid-op-huidcontact onder losse, droge lagen helpt ook.
-11. Bel 112.
+11. Bel 112 of laat iemand bellen. Lukt bellen niet, zie Bel 112 als.
 12. Stel het slachtoffer gerust en volg ademhaling en bewustzijn op.
 13. Is het slachtoffer warmer, hou het droog en gewikkeld in een warme deken, ook rond hoofd en nek.
 14. Wordt het bewusteloos en ademt het niet normaal, start dan reanimatie (zie onderwerp 2). Behandel het voorzichtig en blijf opwarmen tijdens de reanimatie.
@@ -112,7 +118,15 @@ Bron: [IFRC Guidelines 2020](https://www.ifrc.org/sites/default/files/2022-02/EN
 
 De IFRC raadt aan om bij elke onderkoeling medische hulp te vragen. Laat bevriezing altijd door een arts nakijken.
 
-Bron: [Gezondheid en Wetenschap: Onderkoeling](https://www.gezondheidenwetenschap.be/eerste-hulp/wat-doen-bij-onderkoeling) · [IFRC Guidelines 2020](https://www.ifrc.org/sites/default/files/2022-02/EN_GFARC_GUIDELINES_2020.pdf) · [CDC: Prevent Hypothermia and Frostbite](https://www.cdc.gov/disasters/winter/staysafe/hypothermia.html)
+**Lukt bellen niet**
+
+- Laat het slachtoffer alleen als er geen andere mogelijkheid is. Wijs een omstander rechtstreeks aan om hulp te halen en geef mee waar het is, wat er gebeurd is, hoeveel slachtoffers er zijn en hoe ze eraan toe zijn.
+- Moet je zelf weg, laat dan als het kan iemand anders bij het slachtoffer blijven. Die persoon houdt het slachtoffer intussen warm: natte kleding uit, iets tussen het slachtoffer en de grond, droge lagen errond, beschutting tegen de wind.
+- Laat omstanders helpen om wind en regen tegen te houden, bijvoorbeeld met een zeil.
+- Reanimeer je en ben je alleen zonder telefoon, zie dan onderwerp 2 (Lukt bellen niet).
+- Zie ook onderwerp 1 (Lukt bellen niet: hulp halen zonder telefoon) en Noodnummers in de app, Als bellen niet lukt.
+
+Bron: [Gezondheid en Wetenschap: Onderkoeling](https://www.gezondheidenwetenschap.be/eerste-hulp/wat-doen-bij-onderkoeling) · [IFRC Guidelines 2020](https://www.ifrc.org/sites/default/files/2022-02/EN_GFARC_GUIDELINES_2020.pdf) · [CDC: Prevent Hypothermia and Frostbite](https://www.cdc.gov/disasters/winter/staysafe/hypothermia.html) · [ERC Guidelines 2021: First aid](https://cprguidelines-old.erc.edu/assets/guidelines/European-Resuscitation-Council-Guidelines-2021-Fi.pdf) · [FEMA: Until Help Arrives](https://ready.gov/sites/default/files/2020-07/until-help-arrives-instructor-guide.pdf) · [112.be: Veelgestelde vragen](https://112.be/nl/veelgestelde-vragen)
 
 ## Niet doen
 

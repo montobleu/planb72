@@ -1,9 +1,9 @@
 ---
 titel: Unconsciousness and the recovery position
 volgorde: 5
-kort: "If someone does not respond but is breathing normally: call 112, place them in the recovery position and check the breathing every minute."
+kort: "If someone does not respond but is breathing normally: have someone call 112 or get help, place them in the recovery position and check the breathing every minute."
 status: concept
-datum: "2026-11-17"
+datum: "2026-11-18"
 bronnen:
   - naam: "Gezondheid en Wetenschap (Rode Kruis-Vlaanderen): Unconsciousness"
     url: https://www.gezondheidenwetenschap.be/richtlijnen/bewusteloosheid
@@ -21,8 +21,12 @@ bronnen:
     url: https://ready.gov/sites/default/files/2020-07/until-help-arrives-instructor-guide.pdf
   - naam: "Gezondheid en Wetenschap (Rode Kruis-Vlaanderen): How do you perform CPR?"
     url: https://www.gezondheidenwetenschap.be/eerste-hulp/hoe-moet-je-reanimeren
+  - naam: "European Resuscitation Council Guidelines 2021: First aid"
+    url: https://cprguidelines-old.erc.edu/assets/guidelines/European-Resuscitation-Council-Guidelines-2021-Fi.pdf
+  - naam: "112.be: Frequently asked questions"
+    url: https://112.be/en/frequently-asked-questions
 vertaling: machine
-origineel_datum: "2026-11-17"
+origineel_datum: "2026-11-18"
 ---
 
 ## Recognise
@@ -50,8 +54,8 @@ Source: [Gezondheid en Wetenschap: Unconsciousness](https://www.gezondheidenwete
 
 1. Ensure your own safety and that of the casualty.
 2. Gently shake both shoulders and ask loudly whether they are all right. With a baby, tap the sole of the foot.
-3. If the person responds, leave them lying as you found them, if they are not in danger. Shout for help and do not stay alone. Have someone stay with the casualty and have someone call 112, or call yourself. Say that the person is partially conscious but responding, give your name and the exact address. Find out what happened and check regularly that they remain conscious.
-4. If the person does not respond, shout loudly for help. Have someone call 112 and fetch an AED. If you are alone, call yourself and say that the person is unconscious, give your name and the exact address.
+3. If the person responds, leave them lying as you found them, if they are not in danger. Shout for help and do not stay alone. Have someone stay with the casualty and have someone call 112, or call yourself. Say that the person is partially conscious but responding, give your name and the exact address. If you cannot get through, have someone get help with that information (see Call 112 if). Find out what happened and check regularly that they remain conscious.
+4. If the person does not respond, shout loudly for help. Have someone call 112 and fetch an AED. If you are alone, call yourself and say that the person is unconscious, give your name and the exact address. If you cannot get through, see Call 112 if.
 5. Turn the casualty onto their back and open the airway: hand on the forehead, tilt the head back, two fingertips under the point of the chin and lift the chin. With a baby, bring the head into a neutral position.
 6. Look, listen and feel for no more than 10 seconds to see whether the person is breathing normally.
 7. If they are not breathing normally, start CPR immediately (see topic 2).
@@ -72,7 +76,7 @@ Features of the position according to the ERC and the IFRC:
 4. You can hold a baby in this position in your arms.
 5. Preferably place a pregnant woman on her left side. That way the blood vessels to the womb are not compressed.
 
-The Red Cross shows the technique step by step in its instruction videos and in the First Aid app. Practise it on a course.
+Practise the technique on a course beforehand. The Red Cross also shows it step by step in its instruction videos and in the First Aid app. Watch them before anything happens.
 
 Afterwards:
 
@@ -100,10 +104,10 @@ Think of a spinal injury after a road traffic accident, a fall from height or a 
 4. Loosen tight clothing.
 5. Put a cold compress or a damp flannel on the forehead.
 6. When they come round, let them lie a little longer. Then let them gradually sit up and stand up.
-7. If they are unconscious for longer than 2 minutes, place them in the recovery position, check the breathing every minute and call 112.
+7. If they are unconscious for longer than 2 minutes, place them in the recovery position, check the breathing every minute and call 112 or have someone call.
 8. Check whether they were injured when they fell.
 
-Source: [Gezondheid en Wetenschap: Unconsciousness](https://www.gezondheidenwetenschap.be/richtlijnen/bewusteloosheid) · [Jeugd Rode Kruis: ResQ](https://jeugd.rodekruis.be/storage/jrk/jrk-resq-watermerk.pdf) · [Gezondheid en Wetenschap: Fainting](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-flauwte) · [Croix-Rouge de Belgique: 2024 update](https://formations.croix-rouge.be/files/files/espace-relais/Relais-BEPS-Mise-jour-2024.pdf) · [ERC Guidelines 2025 for Everyone](https://www.erc.edu/media/p5ymaeej/gl2025_layperson_book_ipdf-v11-e.pdf) · [IFRC Guidelines 2020](https://www.ifrc.org/sites/default/files/2022-02/EN_GFARC_GUIDELINES_2020.pdf)
+Source: [Gezondheid en Wetenschap: Unconsciousness](https://www.gezondheidenwetenschap.be/richtlijnen/bewusteloosheid) · [Jeugd Rode Kruis: ResQ](https://jeugd.rodekruis.be/storage/jrk/jrk-resq-watermerk.pdf) · [Gezondheid en Wetenschap: Fainting](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-flauwte) · [Croix-Rouge de Belgique: 2024 update](https://formations.croix-rouge.be/files/files/espace-relais/Relais-BEPS-Mise-jour-2024.pdf) · [ERC Guidelines 2025 for Everyone](https://www.erc.edu/media/p5ymaeej/gl2025_layperson_book_ipdf-v11-e.pdf) · [IFRC Guidelines 2020](https://www.ifrc.org/sites/default/files/2022-02/EN_GFARC_GUIDELINES_2020.pdf) · [ERC Guidelines 2021: First aid](https://cprguidelines-old.erc.edu/assets/guidelines/European-Resuscitation-Council-Guidelines-2021-Fi.pdf)
 
 ## If help is a long time coming
 
@@ -129,7 +133,14 @@ Pass on to the emergency services: the circumstances in which the person became 
 
 Consult a doctor for fainting without a clear cause, for repeated fainting, if heart problems are suspected and for fainting after a fall or a blow to the head.
 
-Source: [Gezondheid en Wetenschap: Unconsciousness](https://www.gezondheidenwetenschap.be/richtlijnen/bewusteloosheid) · [Gezondheid en Wetenschap: Fainting](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-flauwte) · [IFRC Guidelines 2020](https://www.ifrc.org/sites/default/files/2022-02/EN_GFARC_GUIDELINES_2020.pdf)
+**If you cannot get through**
+
+- Only leave the casualty alone if there is no other option. Point directly at a bystander to get help and tell them where it is, what happened, how many casualties there are and what condition they are in.
+- If you do have to leave to get help and the casualty is breathing normally, first place them in the recovery position.
+- If there are two of you: one watches the casualty, the other goes to get help.
+- See also topic 1 (If you cannot get through: getting help without a phone) and Emergency numbers in the app, If you cannot call.
+
+Source: [Gezondheid en Wetenschap: Unconsciousness](https://www.gezondheidenwetenschap.be/richtlijnen/bewusteloosheid) · [Gezondheid en Wetenschap: Fainting](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-flauwte) · [IFRC Guidelines 2020](https://www.ifrc.org/sites/default/files/2022-02/EN_GFARC_GUIDELINES_2020.pdf) · [ERC Guidelines 2021: First aid](https://cprguidelines-old.erc.edu/assets/guidelines/European-Resuscitation-Council-Guidelines-2021-Fi.pdf) · [112.be: Frequently asked questions](https://112.be/en/frequently-asked-questions)
 
 ## Do not
 

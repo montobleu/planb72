@@ -4,7 +4,7 @@ module: water
 volgorde: 1
 kort: "How much water you need, how to store it, where you can still find water in and around the house and how to make it safe, with each method step by step."
 status: concept
-datum: "2026-11-17"
+datum: "2026-11-18"
 bronnen:
   - naam: "National Crisis Center: An emergency kit at home"
     url: "https://crisiscenter.be/en/what-can-you-do/build-emergency-kit/emergency-kit-home"
@@ -42,8 +42,10 @@ bronnen:
     url: "https://crisiscenter.be/en/what-can-you-do/build-emergency-kit/emergency-kit-site"
   - naam: "BZL Ernährungsvorsorge: Vorratskalkulator"
     url: "https://www.ernaehrungsvorsorge.de/private-vorsorge/notvorrat/vorratskalkulator"
+  - naam: "National Crisis Center: Information during an emergency"
+    url: "https://crisiscenter.be/en/what-can-you-do/stay-informed/get-informed-emergency-situation"
 vertaling: machine
-origineel_datum: "2026-11-17"
+origineel_datum: "2026-11-18"
 ---
 
 Water is more important than food. Without water from the tap you cannot drink, cannot cook, cannot wash your hands and cannot flush the toilet. This guide follows the order in which you need it: first know how much, then store it, then find water when your supply runs out, and only as a last step make water safe yourself.
@@ -178,9 +180,9 @@ The water can be very hot. Wear gloves and safety glasses.
 
 - **Rainwater.** The sources differ on this. FEMA says: do not use collected rainwater for drinking. The Dutch Waterschap Zuiderzeeland says that pets that go outside can drink rainwater, but that you should not drink it yourself because it is not clean enough. The Consortium lists rainwater among the sources you only use after treating or filtering. The Crisis Center recommends collecting rainwater for the garden, so that you save drinking water. So use rainwater first and foremost for washing, cleaning and flushing the toilet.
 - **Streams, rivers, ponds, lakes, springs.** Only after treating or filtering (Consortium). The Waterschap Zuiderzeeland advises avoiding contact with water from ditches and canals during a prolonged power cut, because waste water is then treated less well.
-- **Water from the authorities.** The Crisis Center writes that in case of a shortage a mayor, governor or minister can have bottled water distributed. The MCF says that municipalities can set up water tanks. You need your own clean containers for this.
+- **Water from the authorities.** The Crisis Center writes that in case of a shortage a mayor, governor or minister can have bottled water distributed. The MCF says that municipalities can set up water tanks. You need your own clean containers for this. Where and when water is distributed will be announced on the radio and through the other channels of the authorities, such as police loudspeaker vans, information boards, leaflets or door-to-door visits (Crisis Center).
 
-Source: [FEMA: emergency water sources](https://fema.gov/node/what-are-emergency-water-sources-if-im-running-out-clean-water) · [Regional Water Providers Consortium: Emergency Water Sources](https://regionalh2o.org/node/39) · [CDC: How to Make Water Safe in an Emergency](https://www.cdc.gov/water-emergency/about/index.html) · [Waterschap Zuiderzeeland: leaflet](https://bijlagen.nos.nl/artikel-24778431/260226_digitaal_toegankelijke_versie_folder_noodsituatie_Waterschap_Zuiderzeeland.pdf) · [National Crisis Center: Disruption of drinking water](https://crisiscenter.be/en/risks-belgium/societal-risks/failure-drinking-water-supply) · [MCF: In case of crisis or war](https://rib.msb.se/filer/pdf/31523.pdf)
+Source: [FEMA: emergency water sources](https://fema.gov/node/what-are-emergency-water-sources-if-im-running-out-clean-water) · [Regional Water Providers Consortium: Emergency Water Sources](https://regionalh2o.org/node/39) · [CDC: How to Make Water Safe in an Emergency](https://www.cdc.gov/water-emergency/about/index.html) · [Waterschap Zuiderzeeland: leaflet](https://bijlagen.nos.nl/artikel-24778431/260226_digitaal_toegankelijke_versie_folder_noodsituatie_Waterschap_Zuiderzeeland.pdf) · [National Crisis Center: Disruption of drinking water](https://crisiscenter.be/en/risks-belgium/societal-risks/failure-drinking-water-supply) · [MCF: In case of crisis or war](https://rib.msb.se/filer/pdf/31523.pdf) · [National Crisis Center: Information during an emergency](https://crisiscenter.be/en/what-can-you-do/stay-informed/get-informed-emergency-situation) · [National Crisis Center: brochure Prepared together](https://crisiscenter.be/sites/default/files/documents/files/WEB-Brochure%20Prepared%20Together-EN.pdf)
 
 ## Purifying water: overview of the methods
 
@@ -213,7 +215,7 @@ Source: [WHO/WEDC: Technical notes](https://wedc-knowledge.lboro.ac.uk/resources
 
 Ready.gov calls boiling the safest method. The WHO calls it very effective, but it uses a lot of energy.
 
-**How long.** The sources differ here. In Belgium, always follow the boil water advice of your water supply company.
+**How long.** The sources differ here. In Belgium, always follow the boil water advice of your water supply company. Follow it on the radio; if the network works, also via BE-Alert and the official websites (Crisis Center).
 
 | Source | Boiling time |
 | --- | --- |
@@ -235,7 +237,7 @@ Ready.gov calls boiling the safest method. The WHO calls it very effective, but 
 
 **If it is not possible.** If you have no fuel or no way to cook, go to chlorine (method 2).
 
-Source: [VRT NWS: De Watergroep boil water advice](https://www.vrt.be/vrtnws/nl/2026/03/20/roeselare-vraagt-om-drinkwater-in-enkele-centrumsteden-tijdelijk/) · [RIVM: Explanation of boil water advice](https://www.rivm.nl/drinkwater/toelichting-kookadvies-drinkwater) · [CDC: How to Make Water Safe in an Emergency](https://www.cdc.gov/water-emergency/about/index.html) · [Ready.gov: Water](https://www.ready.gov/water) · [WHO/WEDC: Technical notes](https://wedc-knowledge.lboro.ac.uk/resources/who_notes/WHO_TNE_ALL.pdf)
+Source: [VRT NWS: De Watergroep boil water advice](https://www.vrt.be/vrtnws/nl/2026/03/20/roeselare-vraagt-om-drinkwater-in-enkele-centrumsteden-tijdelijk/) · [RIVM: Explanation of boil water advice](https://www.rivm.nl/drinkwater/toelichting-kookadvies-drinkwater) · [CDC: How to Make Water Safe in an Emergency](https://www.cdc.gov/water-emergency/about/index.html) · [Ready.gov: Water](https://www.ready.gov/water) · [WHO/WEDC: Technical notes](https://wedc-knowledge.lboro.ac.uk/resources/who_notes/WHO_TNE_ALL.pdf) · [National Crisis Center: Information during an emergency](https://crisiscenter.be/en/what-can-you-do/stay-informed/get-informed-emergency-situation)
 
 ## Method 2: chlorine from household bleach
 
@@ -349,14 +351,14 @@ Source: [Ready.gov: Water](https://www.ready.gov/water)
 
 ## What does not help against chemical contamination
 
-- The CDC: water with fuel, toxic chemicals or radioactive substances does not become safe by boiling or disinfecting. Use bottled water or another source and contact the health authorities.
+- The CDC: water with fuel, toxic chemicals or radioactive substances does not become safe by boiling or disinfecting. Use bottled water or another source and, if the network works, contact the health authorities.
 - The WHO: household methods remove physical and microbiological contamination, not chemical contamination.
 - The Regional Water Providers Consortium: water that you know or suspect contains fuel, heavy metals or toxic substances is unsafe to drink, even after treating or filtering.
 - Ready.gov: only distilling removes most chemicals (see method 7).
 
-In an accident involving hazardous substances or a nuclear incident, follow the instructions of the authorities on the use of tap water. See the scenario cards and the guides on sheltering and nuclear emergencies.
+In an accident involving hazardous substances or a nuclear incident, follow the instructions of the authorities on the use of tap water. These come via radio, TV and police loudspeaker vans, among other channels (Crisis Center). See the scenario cards and the guides on sheltering and nuclear emergencies.
 
-Source: [CDC: How to Make Water Safe in an Emergency](https://www.cdc.gov/water-emergency/about/index.html) · [WHO/WEDC: Technical notes](https://wedc-knowledge.lboro.ac.uk/resources/who_notes/WHO_TNE_ALL.pdf) · [Regional Water Providers Consortium: Emergency Water Sources](https://regionalh2o.org/node/39) · [Ready.gov: Water](https://www.ready.gov/water)
+Source: [CDC: How to Make Water Safe in an Emergency](https://www.cdc.gov/water-emergency/about/index.html) · [WHO/WEDC: Technical notes](https://wedc-knowledge.lboro.ac.uk/resources/who_notes/WHO_TNE_ALL.pdf) · [Regional Water Providers Consortium: Emergency Water Sources](https://regionalh2o.org/node/39) · [Ready.gov: Water](https://www.ready.gov/water) · [National Crisis Center: Information during an emergency](https://crisiscenter.be/en/what-can-you-do/stay-informed/get-informed-emergency-situation)
 
 ## After the interruption
 
@@ -365,11 +367,11 @@ The Crisis Center:
 - If brown or cloudy water comes out of the tap, let it run for a few minutes.
 - If little water comes out of the tap, the pressure still has to recover. It increases slowly.
 - Keep using water sparingly. Do not waste it.
-- After a flood: listen to the recommendations of the authorities on the use of tap water.
+- After a flood: listen to the recommendations of the authorities on the use of tap water, for example on a battery radio.
 
 The RIVM: a boil water advice remains valid until checks show that the water is no longer contaminated.
 
-Source: [National Crisis Center: Disruption of drinking water](https://crisiscenter.be/en/risks-belgium/societal-risks/failure-drinking-water-supply) · [RIVM: Explanation of boil water advice](https://www.rivm.nl/drinkwater/toelichting-kookadvies-drinkwater)
+Source: [National Crisis Center: Disruption of drinking water](https://crisiscenter.be/en/risks-belgium/societal-risks/failure-drinking-water-supply) · [RIVM: Explanation of boil water advice](https://www.rivm.nl/drinkwater/toelichting-kookadvies-drinkwater) · [National Crisis Center: Information during an emergency](https://crisiscenter.be/en/what-can-you-do/stay-informed/get-informed-emergency-situation)
 
 ## Per person and per situation
 

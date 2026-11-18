@@ -4,11 +4,11 @@ volgorde: 4
 kort: "Code yellow, orange or red for wind or thunderstorms: severe gusts, falling branches, lightning."
 stappen:
   - "Secure or tie down loose objects in the garden and on the terrace, or bring them inside before the storm arrives. Bring pets inside."
-  - "Stay indoors during the storm, close windows and doors and stay away from windows. Postpone journeys."
+  - "Stay indoors during the storm, close windows and doors and stay away from windows. Postpone journeys. Listen to the weather forecast on the radio, also battery-powered if the power fails."
   - "Stay out of woods and parks and away from trees, scaffolding and metal structures. Never shelter under a tree."
   - "During a thunderstorm, unplug electronic devices."
-  - "Ask the fire service for non-urgent help via 1722.be or 1722 if that number is active. Only call 112 if someone's life is in danger."
   - "Never touch a fallen power line."
+  - "Only call 112 if someone's life is in danger. If that does not work, have someone else call or ask for help nearby (see Emergency numbers, If you cannot call). Non-urgent help from the fire service: if the network works, request it via 1722.be, or call 1722 if that number is active."
   - "Take photos of the damage and notify your insurer as soon as possible."
 niet:
   - "Do not shelter under a tree and do not park near trees."
@@ -17,7 +17,7 @@ niet:
   - "Do not touch fallen cables."
   - "Do not call 112 for ordinary storm damage."
 status: concept
-datum: "2026-11-17"
+datum: "2026-11-18"
 bronnen:
   - naam: "National Crisis Center: wind and storm"
     url: https://crisiscenter.be/en/risks-belgium/natural-risks/wind
@@ -51,8 +51,18 @@ bronnen:
     url: https://www.ready.gov/thunderstorms-lightning
   - naam: "CDC: what to do to protect yourself during a power outage"
     url: https://www.cdc.gov/natural-disasters/response/what-to-do-protect-yourself-during-a-power-outage.html
+  - naam: "National Crisis Center: a plan in your neighbourhood"
+    url: https://crisiscenter.be/en/what-can-you-do/make-plan/plan-your-neighbourhood-association-or-club
+  - naam: "112.be: Frequently asked questions"
+    url: https://112.be/en/frequently-asked-questions
+  - naam: "FPS Economy: questions from households about electricity shortages"
+    url: https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door
+  - naam: "BBK: Vorsorgen für Krisen und Katastrophen"
+    url: https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/Buergerinformationen/Ratgeber/BBK-Vorsorgen-fuer-Krisen-und-Katastrophen.pdf?__blob=publicationFile&v=44
+  - naam: "Inspectorates (Netherlands): Unavailability of 112 on 24 June 2019"
+    url: https://zoek.officielebekendmakingen.nl/blg-942150.pdf
 vertaling: machine
-origineel_datum: "2026-11-17"
+origineel_datum: "2026-11-18"
 ---
 
 ## Recognise
@@ -109,29 +119,36 @@ Source: [National Crisis Center: wind and storm](https://crisiscenter.be/en/risk
 
 - Stay indoors and close windows and doors. Indoors is safest.
 - Stay away from windows, doors and outside walls. Watch out for flying debris.
-- Listen to the weather forecast and follow the recommendations.
+- Listen to the weather forecast and follow the recommendations. If the power fails, use a battery-powered radio or the car radio.
 
 **During a thunderstorm**
 
 - Switch off electronic devices and unplug them.
 - Do not use appliances that are plugged into the mains and avoid running water.
 
-**Asking for help: whom do you call?**
+**Asking for help: whom do you alert?**
 
 | Situation | What to do |
 |---|---|
-| Someone's life is in danger, or there is a risk of fire | Call 112. |
-| You need the fire service, but no one's life is in danger (roof tiles blown loose, a tree about to fall) | Submit a request via the online service 1722.be or your fire service zone's form. Only call 1722 if that number has been activated. |
+| Someone's life is in danger, or there is a risk of fire | Call 112 or have someone call. If you cannot get through, see below. |
+| You need the fire service, but no one's life is in danger (roof tiles blown loose, a tree about to fall) | If the network works: submit a request via the online service 1722.be or your fire service zone's form. Only call 1722 if that number has been activated. |
 | Damage without danger, for which you do not need the fire service (fallen tree in the garden, damaged garden shed) | Call in a professional, such as a roofer, or repair it yourself. |
 
-- Do not call 112 for ordinary storm damage. In storms and severe thunderstorms the fire service becomes overloaded. The 1722.be online service is always available.
-- Report damage or unusual phenomena via the RMI app. This helps the RMI to warn others.
+- Do not call 112 for ordinary storm damage. In storms and severe thunderstorms the fire service becomes overloaded. The 1722.be online service is always available, also when there is no storm. You do need the internet for it.
+- If the network works, report damage or unusual phenomena via the RMI app. This helps the RMI to warn others.
+
+**If you cannot get through**
+
+- Try another phone or have neighbours or bystanders call. Another operator can help. Move a few metres and try again.
+- If you can still make calls but 112 cannot be reached, try 101. If the emergency call centres fail, temporary numbers per province may be active (see the guide Emergency call).
+- If calling does not work at all: ask for help nearby and follow the information from the authorities on the radio. The municipality may open an information and reception point; ask your municipality in advance where it is.
+- In Germany the authorities advise going, if possible, to the nearest police station or hospital in that case. In the Netherlands, during the national 112 outage of 2019, the government sent people to the nearest fire station or police station, and to the hospital in a medical emergency. The map in the app shows these, with the Nearest button.
 
 **If the power goes off**
 
 - See the card Power cut. Use a torch instead of candles.
 
-Source: [National Crisis Center: wind and storm](https://crisiscenter.be/en/risks-belgium/natural-risks/wind) · [National Crisis Center: tornado](https://crisiscenter.be/en/risks-belgium/natural-risks/tornado) · [National Crisis Center: lightning](https://crisiscenter.be/en/risks-belgium/natural-risks/lightning) · [Ready.gov: thunderstorms](https://www.ready.gov/thunderstorms-lightning) · [1722](https://www.1722.be/en/index.html) · [112.be](https://112.be/en) · [Brandweer Nederland: storms and flooding](https://www.brandweer.nl/onderwerpen/storm-en-wateroverlast/)
+Source: [National Crisis Center: wind and storm](https://crisiscenter.be/en/risks-belgium/natural-risks/wind) · [National Crisis Center: tornado](https://crisiscenter.be/en/risks-belgium/natural-risks/tornado) · [National Crisis Center: lightning](https://crisiscenter.be/en/risks-belgium/natural-risks/lightning) · [Ready.gov: thunderstorms](https://www.ready.gov/thunderstorms-lightning) · [1722](https://www.1722.be/en/index.html) · [112.be](https://112.be/en) · [Brandweer Nederland: storms and flooding](https://www.brandweer.nl/onderwerpen/storm-en-wateroverlast/) · [112.be: Frequently asked questions](https://112.be/en/frequently-asked-questions) · [FPS Economy: questions from households about electricity shortages](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door) · [BBK: Vorsorgen für Krisen und Katastrophen](https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/Buergerinformationen/Ratgeber/BBK-Vorsorgen-fuer-Krisen-und-Katastrophen.pdf?__blob=publicationFile&v=44) · [Inspectorates: Unavailability of 112 on 24 June 2019](https://zoek.officielebekendmakingen.nl/blg-942150.pdf)
 
 ### Outdoors or on the move
 
@@ -178,10 +195,10 @@ Source: [National Crisis Center: wind and storm](https://crisiscenter.be/en/risk
 
 ### Vulnerable people
 
-- Agree with neighbours how you will help each other. Check whether neighbours who live alone or have reduced mobility need help.
+- Agree with neighbours how you will help each other, and how you will reach each other without phone or internet. Check whether neighbours who live alone or have reduced mobility need help.
 - If you depend on electrically powered medical equipment, bear in mind that the power may fail. See the card Power cut.
 
-Source: [National Crisis Center: make a plan](https://crisiscenter.be/en/what-can-you-do/make-plan) · [National Crisis Center: wind and storm](https://crisiscenter.be/en/risks-belgium/natural-risks/wind)
+Source: [National Crisis Center: make a plan](https://crisiscenter.be/en/what-can-you-do/make-plan) · [National Crisis Center: plan in your neighbourhood](https://crisiscenter.be/en/what-can-you-do/make-plan/plan-your-neighbourhood-association-or-club) · [National Crisis Center: wind and storm](https://crisiscenter.be/en/risks-belgium/natural-risks/wind)
 
 ### Pets and animals
 
@@ -201,7 +218,7 @@ Source: [National Crisis Center: wind and storm](https://crisiscenter.be/en/risk
 
 **Damage**
 
-- If necessary, ask the fire service for help via 1722.be, your zone's form or 1722 if that number is active. Keep 112 free for situations where someone's life is in danger.
+- If you need help from the fire service and no one's life is in danger: if the network works, request it via 1722.be, your zone's form or 1722 if that number is active. Keep 112 free for situations where someone's life is in danger.
 - Otherwise call in a professional or repair it yourself, for example for a fallen tree, a damaged garden shed or hail damage to your car.
 - Take photos of the damage for your insurance claim.
 - Contact your insurer as soon as possible.
@@ -222,6 +239,8 @@ Source: [National Crisis Center: wind and storm](https://crisiscenter.be/en/risk
 Source: [National Crisis Center: wind and storm](https://crisiscenter.be/en/risks-belgium/natural-risks/wind) · [National Crisis Center: lightning](https://crisiscenter.be/en/risks-belgium/natural-risks/lightning) · [Brandweer Nederland: thunderstorms](https://www.brandweer.nl/onderwerpen/onweer-donder-en-bliksem/) · [112.be](https://112.be/en)
 
 ## More information
+
+To read beforehand, or when the internet works:
 
 - RMI: weather warnings, explanation of the colour codes and the RMI app.
 - 1722.be: online service for non-urgent help from the fire service.

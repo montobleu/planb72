@@ -4,12 +4,22 @@ module: nucleair
 volgorde: 4
 kort: "Wat er gebeurt na een radioactieve uitstoot: einde van het schuilen, terugkeer, beperkingen op voedsel en water, metingen, gezondheid en mentale opvang."
 status: concept
-datum: "2026-11-17"
+datum: "2026-11-18"
 bronnen:
   - naam: "Nationaal Crisiscentrum: Incident in een kerncentrale"
     url: https://crisiscentrum.be/nl/risicos-belgie/economische-en-technologische-risicos/incident-een-kerncentrale
   - naam: "Nationaal Crisiscentrum: Evacueren"
     url: https://crisiscentrum.be/nl/wat-kan-jij-doen/reageer-correct/evacueren
+  - naam: "Nationaal Crisiscentrum: Informatie tijdens een noodsituatie"
+    url: https://crisiscentrum.be/nl/wat-kan-jij-doen/informeer-je/informatie-tijdens-een-noodsituatie
+  - naam: "112.be: Veelgestelde vragen"
+    url: https://112.be/nl/veelgestelde-vragen
+  - naam: "FOD Economie: vragen van gezinnen over elektriciteitsschaarste"
+    url: https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door
+  - naam: "WHO, War Trauma Foundation en World Vision International: Psychological first aid, guide for field workers (2011)"
+    url: https://psychiatry.uw.edu/wp-content/uploads/2020/04/1.-WHO_PFA_2011.pdf
+  - naam: "IFRC Reference Centre for Psychosocial Support: A Guide to Psychological First Aid (2018)"
+    url: https://mhpsshub.org/wp-content/uploads/2019/05/PFA-Guide-low-res.pdf
   - naam: "Nationaal Crisiscentrum: Praat erover"
     url: https://crisiscentrum.be/nl/wat-kan-jij-doen/zorg-voor-jezelf/praat-erover
   - naam: "Nationaal Crisiscentrum: Aanval op een soft target"
@@ -64,9 +74,9 @@ Je blijft binnen tot de overheid meldt dat het opnieuw veilig is. Schuilen duurt
 | --- | --- |
 | Het is veilig, het schuilen is voorbij | Je mag naar buiten. Volg de aanbevelingen over voedsel, water en schoonmaken |
 | Evacuatie | Volg de instructies over wie, waarheen en hoe. Een evacuatie na de wolk kan, als het schuilen langer zou moeten duren of de uitstoot zeer groot is |
-| Blijf binnen | Blijf schuilen en blijf luisteren naar de officiële kanalen |
+| Blijf binnen | Blijf schuilen en blijf luisteren naar de radio en de andere officiële kanalen |
 
-Het Crisiscentrum zegt dat er na een nucleair ongeval nog medisch advies kan volgen. Volg de media en de officiële kanalen. Finland zegt hetzelfde: de reddingsdiensten en de stralingsautoriteit melden wanneer het gevaar voorbij is, en geven instructies over het schoonmaken van ruimtes en het eten van voedsel.
+Het Crisiscentrum zegt dat er na een nucleair ongeval nog medisch advies kan volgen. Luister naar de radio op batterijen of de autoradio en let op omroepwagens van de politie. Werkt het netwerk, volg dan ook BE-Alert en de websites van de overheid. Finland zegt hetzelfde: de reddingsdiensten en de stralingsautoriteit melden wanneer het gevaar voorbij is, en geven instructies over het schoonmaken van ruimtes en het eten van voedsel.
 
 Duitsland zegt bij het vrijkomen van gevaarlijke stoffen: wacht op het einde van het alarm voor je het gebouw verlaat of ramen opent, en volg de berichten via radio, internet of de waarschuwingsapp. Open dus ook in België de ramen niet en zet de ventilatie niet weer aan voor de overheid meldt dat het veilig is.
 
@@ -74,12 +84,12 @@ Duitsland zegt bij het vrijkomen van gevaarlijke stoffen: wacht op het einde van
 
 Voor een nucleaire ontploffing zegt Ready.gov: blijf de eerste 24 uur op de best beschermde plek, tenzij er onmiddellijk gevaar is of de overheid zegt dat je mag vertrekken. Moet je evacueren, luister dan naar de informatie over routes, opvangplaatsen en procedures. Zweden zegt dat je de schuilkelder mag verlaten als je het signaal "einde gevaar" hoort, een lang onafgebroken signaal van 30 seconden, en vraagt dan gewonden en mensen die vastzitten te helpen.
 
-Bron: [Nucleair risico: veelgestelde vragen](https://nucleairrisico.be/nl/faq) · [Nationaal Crisiscentrum: Incident in een kerncentrale](https://crisiscentrum.be/nl/risicos-belgie/economische-en-technologische-risicos/incident-een-kerncentrale) · [Suomi.fi: Radiation hazards](https://www.suomi.fi/guides/preparedness/how-to-prepare-for-incidents-and-crises/radiation-hazards) · [BBK: Verhalten im Haus bei Gefahrstofffreisetzung](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Vorsorge/Schutz-suchen/Gefahrstoff-Freisetzung/_documents/gefahrstoff-im-haus_dossier2.html?nn=20588) · [Ready.gov: Radiation emergencies](https://www.ready.gov/radiation) · [MCF: In case of crisis or war](https://rib.msb.se/filer/pdf/31523.pdf)
+Bron: [Nucleair risico: veelgestelde vragen](https://nucleairrisico.be/nl/faq) · [Nationaal Crisiscentrum: Incident in een kerncentrale](https://crisiscentrum.be/nl/risicos-belgie/economische-en-technologische-risicos/incident-een-kerncentrale) · [Nationaal Crisiscentrum: Informatie tijdens een noodsituatie](https://crisiscentrum.be/nl/wat-kan-jij-doen/informeer-je/informatie-tijdens-een-noodsituatie) · [Suomi.fi: Radiation hazards](https://www.suomi.fi/guides/preparedness/how-to-prepare-for-incidents-and-crises/radiation-hazards) · [BBK: Verhalten im Haus bei Gefahrstofffreisetzung](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Vorsorge/Schutz-suchen/Gefahrstoff-Freisetzung/_documents/gefahrstoff-im-haus_dossier2.html?nn=20588) · [Ready.gov: Radiation emergencies](https://www.ready.gov/radiation) · [MCF: In case of crisis or war](https://rib.msb.se/filer/pdf/31523.pdf)
 
 ## Terugkeer na een evacuatie
 
 - **Hoe lang:** dat hangt af van de situatie. Het kan na enkele uren zijn, maar ook meerdere dagen duren (Crisiscentrum, evacueren algemeen).
-- **Hoe je het weet:** in het opvangcentrum geeft de contactpersoon de informatie. Verblijf je bij familie of vrienden, volg dan de website van de gemeente, luister naar de radio of bel het informatienummer.
+- **Hoe je het weet:** in het opvangcentrum geeft de contactpersoon de informatie. Verblijf je bij familie of vrienden, luister dan naar de radio. Werkt het netwerk, kijk dan ook op de website van de gemeente of bel het informatienummer.
 - **De zone:** de politie stelt een veiligheidszone in. Eenmaal ontruimd mag je die zone niet betreden tot de overheid het toelaat.
 - **Ga niet eerder terug** dan de lokale overheid zegt dat het veilig is (Ready.gov).
 - **Kon je water, gas en elektriciteit niet afsluiten** voor je vertrok, dan krijg je bij terugkeer indien nodig steun van de bevoegde diensten (Crisiscentrum).
@@ -195,13 +205,13 @@ Bron: [Nucleair risico: veelgestelde vragen](https://nucleairrisico.be/nl/faq) �
 
 - **Risico's op lange termijn:** de risico's voor de bevolking zijn vooral risico's op lange termijn, zoals kanker en genetische afwijkingen. De kans, niet de ernst, stijgt met de dosis (Nucleair risico).
 - **Acute verschijnselen** zoals braken, brandwonden en massale haaruitval komen pas na een massale blootstelling, die men in principe alleen verwacht bij arbeiders in de installatie en eventueel hulpverleners (Nucleair risico). De WHO zegt dat het grote publiek waarschijnlijk geen dosis krijgt die hoog genoeg is voor acute effecten.
-- **Medisch advies:** na een ongeval kan nog medisch advies volgen. Volg de officiële kanalen (Crisiscentrum).
-- **Ziek of gewond:** luister naar de instructies over waar je medische hulp krijgt. Ben je in een openbare opvang, meld het dan meteen aan het personeel (Ready.gov). In België: bel 112 bij een medische noodsituatie.
+- **Medisch advies:** na een ongeval kan nog medisch advies volgen. Luister naar de radio en volg de andere officiële kanalen (Crisiscentrum).
+- **Ziek of gewond:** luister naar de instructies over waar je medische hulp krijgt. Ben je in een openbare opvang, meld het dan meteen aan het personeel (Ready.gov). In België: bel 112 bij een medische noodsituatie, of laat iemand bellen. Lukt bellen niet, probeer dan een ander toestel of laat buren bellen; werkt bellen helemaal niet, vraag hulp in je buurt (zie Noodnummers in de app, Als bellen niet lukt).
 - **Kinderen:** zij zijn gevoeliger voor straling. Laat hen na de noodsituatie medisch opvolgen zodra de overheid zegt dat het veilig is (WHO).
 - **Zwangere vrouwen die jodium namen:** meld het aan je arts na de noodsituatie, zodat het in je medisch dossier komt (WHO).
 - **Pasgeborenen die jodium kregen:** de WHO raadt aan hun schildklierwaarden te laten opvolgen.
 
-Bron: [Nucleair risico: Radioactiviteit en blootstelling](https://nucleairrisico.be/nl/nucleaire-risicos/radioactiviteit-blootstelling) · [Nationaal Crisiscentrum: Incident in een kerncentrale](https://crisiscentrum.be/nl/risicos-belgie/economische-en-technologische-risicos/incident-een-kerncentrale) · [WHO: Radiation and health](https://www.who.int/news-room/questions-and-answers/item/radiation-and-health) · [WHO: Use of potassium iodide](https://www.who.int/news-room/questions-and-answers/item/use-of-potassium-iodide-for-thyroid-protection-during-nuclear-or-radiological-emergencies) · [Ready.gov: Radiation emergencies](https://www.ready.gov/radiation)
+Bron: [Nucleair risico: Radioactiviteit en blootstelling](https://nucleairrisico.be/nl/nucleaire-risicos/radioactiviteit-blootstelling) · [Nationaal Crisiscentrum: Incident in een kerncentrale](https://crisiscentrum.be/nl/risicos-belgie/economische-en-technologische-risicos/incident-een-kerncentrale) · [WHO: Radiation and health](https://www.who.int/news-room/questions-and-answers/item/radiation-and-health) · [WHO: Use of potassium iodide](https://www.who.int/news-room/questions-and-answers/item/use-of-potassium-iodide-for-thyroid-protection-during-nuclear-or-radiological-emergencies) · [Ready.gov: Radiation emergencies](https://www.ready.gov/radiation) · [112.be: Veelgestelde vragen](https://112.be/nl/veelgestelde-vragen) · [FOD Economie: vragen van gezinnen over elektriciteitsschaarste](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door)
 
 ## Mentale opvang
 
@@ -216,14 +226,17 @@ Een stralingsnoodsituatie meemaken kan zwaar en traumatisch zijn, zegt Ready.gov
 - Beweeg regelmatig. Ga pas weer naar buiten als de overheid zegt dat het veilig is.
 - Adem rustig en diep als je merkt dat de spanning oploopt.
 
-### Waar je terechtkunt
+### Elkaar ter plaatse steunen
 
-| Nummer | Voor wie |
-| --- | --- |
-| 106 | Tele-Onthaal: gratis en anoniem gesprek, ook via chat op tele-onthaal.be |
-| 102 | Awel: kinderen en jongeren, ook via awel.be |
-| 1712 | Hulplijn bij geweld, misbruik en kindermishandeling |
-| 1813 | Zelfmoordlijn, ook via chat op zelfmoord1813.be |
+Psychologische eerste hulp is hulp van mens tot mens, ter plaatse. Iedereen kan ze geven (WHO, IFRC):
+
+- Zorg voor veiligheid en rust. Spreek rustig en zacht.
+- Luister zonder te dwingen om te praten.
+- Help met praktische dingen: water, warmte, juiste informatie, familie terugvinden.
+- Blijf samen en hou kinderen bij hun ouders of verzorgers.
+- Laat wie erg overstuur is of zichzelf iets kan aandoen niet alleen. Zoek hulp bij mensen in de buurt of medische hulp ter plaatse.
+
+Meer in de gids over mentale veerkracht en psychologische eerste hulp.
 
 ### Kinderen
 
@@ -233,7 +246,20 @@ Een stralingsnoodsituatie meemaken kan zwaar en traumatisch zijn, zegt Ready.gov
 - Leg uit bij wie ze terechtkunnen voor hulp.
 - Behoud zoveel mogelijk de dagelijkse routine.
 
-Bron: [Ready.gov: Radiation emergencies](https://www.ready.gov/radiation) · [Nationaal Crisiscentrum: Aanval op een soft target](https://crisiscentrum.be/nl/risicos-belgie/man-made-risicos/aanval-op-een-soft-target) · [Nationaal Crisiscentrum: Praat erover](https://crisiscentrum.be/nl/wat-kan-jij-doen/zorg-voor-jezelf/praat-erover) · [Nationaal Crisiscentrum: brochure Samen voorbereid](https://crisiscentrum.be/sites/default/files/documents/files/WEB-Brochure%20Samen%20voorbereid-NL.pdf)
+Bron: [Ready.gov: Radiation emergencies](https://www.ready.gov/radiation) · [Nationaal Crisiscentrum: Aanval op een soft target](https://crisiscentrum.be/nl/risicos-belgie/man-made-risicos/aanval-op-een-soft-target) · [Nationaal Crisiscentrum: Praat erover](https://crisiscentrum.be/nl/wat-kan-jij-doen/zorg-voor-jezelf/praat-erover) · [Nationaal Crisiscentrum: brochure Samen voorbereid](https://crisiscentrum.be/sites/default/files/documents/files/WEB-Brochure%20Samen%20voorbereid-NL.pdf) · [WHO: Psychological first aid](https://psychiatry.uw.edu/wp-content/uploads/2020/04/1.-WHO_PFA_2011.pdf) · [IFRC: A Guide to Psychological First Aid](https://mhpsshub.org/wp-content/uploads/2019/05/PFA-Guide-low-res.pdf)
+
+## Na de crisis, als de telefoon weer werkt
+
+Deze hulplijnen zijn er voor een gesprek als de telefoon of het internet weer werkt. Ze zijn geen noodnummer. Bij levensgevaar bel je 112 (zie Gezondheid).
+
+| Nummer | Voor wie |
+| --- | --- |
+| 106 | Tele-Onthaal: gratis en anoniem gesprek, ook via chat op tele-onthaal.be |
+| 102 | Awel: kinderen en jongeren, ook via awel.be |
+| 1712 | Hulplijn bij geweld, misbruik en kindermishandeling |
+| 1813 | Zelfmoordlijn, ook via chat op zelfmoord1813.be |
+
+Bron: [Nationaal Crisiscentrum: Praat erover](https://crisiscentrum.be/nl/wat-kan-jij-doen/zorg-voor-jezelf/praat-erover) · [Nationaal Crisiscentrum: brochure Samen voorbereid](https://crisiscentrum.be/sites/default/files/documents/files/WEB-Brochure%20Samen%20voorbereid-NL.pdf)
 
 ## Juiste informatie en geruchten
 
@@ -243,15 +269,15 @@ Na een noodsituatie circuleert veel informatie, vooral op sociale media. Die kan
 - Controleer of meerdere kanalen of bronnen ze bevestigen.
 - Kijk of het bericht er betrouwbaar uitziet.
 
-Deel zelf alleen berichten van overheden of hulpdiensten. Volg de communicatie van de overheid, de hulpdiensten en de gemeente, ook als het ergste voorbij lijkt.
+Deel zelf alleen berichten van overheden of hulpdiensten. Volg de communicatie van de overheid, de hulpdiensten en de gemeente, ook als het ergste voorbij lijkt. Valt het netwerk weg, luister dan naar de radio op batterijen of de autoradio. De overheid kan ook omroepwagens van de politie, informatieborden, folders en deur-aan-deurcommunicatie inzetten.
 
-Bron: [Nationaal Crisiscentrum: brochure Samen voorbereid](https://crisiscentrum.be/sites/default/files/documents/files/WEB-Brochure%20Samen%20voorbereid-NL.pdf)
+Bron: [Nationaal Crisiscentrum: brochure Samen voorbereid](https://crisiscentrum.be/sites/default/files/documents/files/WEB-Brochure%20Samen%20voorbereid-NL.pdf) · [Nationaal Crisiscentrum: Informatie tijdens een noodsituatie](https://crisiscentrum.be/nl/wat-kan-jij-doen/informeer-je/informatie-tijdens-een-noodsituatie)
 
 ## Elkaar helpen
 
 - Kijk regelmatig of kwetsbare personen in je buurt hulp nodig hebben, zonder jezelf in gevaar te brengen.
 - Deel betrouwbare informatie van de overheid met mensen die minder goed geïnformeerd zijn.
-- Gebruik WhatsApp, Signal of sociale media in plaats van te bellen, zodat het telefoonnetwerk niet overbelast raakt.
+- Werkt het netwerk, stuur dan liever een bericht via een berichtenapp of sociale media dan te bellen, zodat het telefoonnetwerk niet overbelast raakt.
 - Bied je aan als contactpersoon voor familie en vrienden die moesten evacueren.
 
 Bron: [Nationaal Crisiscentrum: brochure Samen voorbereid](https://crisiscentrum.be/sites/default/files/documents/files/WEB-Brochure%20Samen%20voorbereid-NL.pdf) · [Nationaal Crisiscentrum: Evacueren](https://crisiscentrum.be/nl/wat-kan-jij-doen/reageer-correct/evacueren)

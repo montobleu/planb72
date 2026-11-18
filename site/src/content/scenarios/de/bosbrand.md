@@ -3,9 +3,9 @@ titel: Wald- und Flächenbrand
 volgorde: 13
 kort: "Brand in Wald, Heide, Dünen oder Feld in der Nähe, oder die Behörden warnen vor hoher Brandgefahr."
 stappen:
-  - "Rufen Sie die 112 an, sobald Sie einen Brand sehen. Geben Sie Ihren Standort mit Orientierungspunkten durch: Wege, Teiche, Aussichtstürme, Parkplätze."
   - "In der Natur: Folgen Sie den Wegen weg vom Feuer und vom Rauch, vorzugsweise quer zur Windrichtung. Laufen Sie nie vor dem Feuer her."
-  - "Gehen Sie zu einer öffentlichen Straße, einer großen befestigten Fläche oder in den bebauten Ortsbereich. Helfen Sie anderen."
+  - "Gehen Sie zu einer öffentlichen Straße, einer großen befestigten Fläche oder in den bebauten Ortsbereich. Helfen Sie anderen und sprechen Sie Menschen an, denen Sie begegnen."
+  - "Rufen Sie so schnell wie möglich die 112 an und geben Sie Ihren Standort mit Orientierungspunkten durch: Wege, Teiche, Aussichtstürme, Parkplätze. Kein Empfang: Brechen Sie auf und warnen Sie die Menschen, denen Sie unterwegs begegnen. Siehe auch Notrufnummern, Wenn kein Anruf möglich ist."
   - "Zu Hause in der Nähe der Natur: Schließen Sie Fenster und Türen und warten Sie auf die Anweisungen der Behörden."
   - "Brechen Sie auf, wenn die Behörden Sie dazu auffordern. Stellen Sie dann Strom und Gas ab. Evakuieren Sie nicht auf eigene Initiative."
   - "Halten Sie Straßen und Waldwege für die Rettungsdienste frei. Halten Sie sich vom Brandgebiet fern."
@@ -14,7 +14,7 @@ niet:
   - "Werfen Sie keine Zigarettenstummel weg, auch nicht aus dem Autofenster."
   - "Parken Sie nicht in hohem oder trockenem Gras."
 status: concept
-datum: "2026-11-17"
+datum: "2026-11-18"
 bronnen:
   - naam: "Nationales Krisenzentrum: Wald- und Flächenbrand"
     url: https://krisenzentrum.be/de/risiken-belgien/naturrisiken/naturbrand
@@ -36,8 +36,14 @@ bronnen:
     url: https://www.brandweer.nl/onderwerpen/natuurbrand-voorkomen-tips-dagje-uit/
   - naam: "Ready.gov: Wildfires"
     url: https://www.ready.gov/wildfires
+  - naam: "Nationales Krisenzentrum: Informationen während einer Notsituation"
+    url: https://krisenzentrum.be/de/was-koennen-sie-tun/informieren-sie-sich/information-notsituationen
+  - naam: "112.be: Häufig gestellte Fragen"
+    url: https://112.be/de/haeufig-gestellte-fragen
+  - naam: "FÖD Wirtschaft: Fragen von Haushalten zur Stromknappheit"
+    url: https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door
 vertaling: machine
-origineel_datum: "2026-11-17"
+origineel_datum: "2026-11-18"
 ---
 
 ## Erkennen
@@ -46,11 +52,11 @@ Ein Wald- und Flächenbrand ist ein Brand in Wald, Heide, Dünen, Grasland oder 
 
 **Brandgefahr in Flandern.** Die flämische Agentur für Natur und Wald (Agentschap Natuur en Bos, ANB) gibt pro Provinz einen Farbcode für die Brandgefahr in Naturgebieten heraus: Grün, Gelb, Orange oder Rot. Grün bedeutet geringe Gefahr: Es besteht kein besonderes Risiko, und bei einem Brand rückt die Feuerwehr in normaler Stärke aus. Je höher der Code, desto größer die Gefahr. Bei Brand- oder Sturmgefahr können Naturgebiete gesperrt werden. Sehen Sie sich den Code auf natuurenbos.be an, bevor Sie losgehen. Auch Eigentümer anderer öffentlicher und privater Wälder tragen dasselbe Risiko.
 
-**Brandgefahr in der Wallonie.** Bei Trockenheit können der Bürgermeister oder der Gouverneur ein örtliches Verbot erlassen. Dieses Verbot steht auf der Website der Gemeinde. An gefährdeten Orten stehen Informationstafeln.
+**Brandgefahr in der Wallonie.** Bei Trockenheit können der Bürgermeister oder der Gouverneur ein örtliches Verbot erlassen. An gefährdeten Orten stehen Informationstafeln. Das Verbot steht auch auf der Website der Gemeinde.
 
-**Informationen.** Folgen Sie bei einem Brand in der Nähe den offiziellen Kanälen von Gemeinde und Behörden, in Belgien auch BE-Alert. Verlassen Sie sich nicht auf Gerüchte oder Nachrichten unbekannter Konten in sozialen Medien.
+**Informationen.** Folgen Sie bei einem Brand in der Nähe den offiziellen Kanälen von Gemeinde und Behörden: Radio, Fernsehen und Lautsprecherwagen der Polizei, die durch die Straßen fahren. Funktioniert das Netz, dann auch BE-Alert und den Websites und sozialen Medien der Behörden. Verlassen Sie sich nicht auf Gerüchte oder Nachrichten unbekannter Konten in sozialen Medien.
 
-Quelle: [Nationales Krisenzentrum](https://krisenzentrum.be/de/risiken-belgien/naturrisiken/naturbrand) · [Agentschap Natuur en Bos](https://natuurenbos.be/waarschuwingen) · [Service public de Wallonie](https://environnement.wallonie.be/feux) · [Brandweer Nederland](https://www.brandweer.nl/onderwerpen/natuurbrand/)
+Quelle: [Nationales Krisenzentrum](https://krisenzentrum.be/de/risiken-belgien/naturrisiken/naturbrand) · [Agentschap Natuur en Bos](https://natuurenbos.be/waarschuwingen) · [Service public de Wallonie](https://environnement.wallonie.be/feux) · [Brandweer Nederland](https://www.brandweer.nl/onderwerpen/natuurbrand/) · [Nationales Krisenzentrum: Informationen während einer Notsituation](https://krisenzentrum.be/de/was-koennen-sie-tun/informieren-sie-sich/information-notsituationen)
 
 ## Vorbereiten
 
@@ -65,7 +71,7 @@ Quelle: [Nationales Krisenzentrum](https://krisenzentrum.be/de/risiken-belgien/n
 - Stellen Sie einen Grill auf einen stabilen, nicht brennbaren Untergrund wie Steine, Kies oder Fliesen, weit weg von brennbaren Pflanzen. Halten Sie einen Eimer Wasser oder Sand bereit.
 - Holzkohle und Briketts können nach dem Gebrauch weiterglimmen. Entsorgen Sie sie vorsichtig.
 - Nehmen Sie Glas und Abfall mit nach Hause.
-- Nehmen Sie immer ein Handy mit, wenn Sie in die Natur gehen. Installieren Sie die 112-App.
+- Nehmen Sie immer ein Handy mit, wenn Sie in die Natur gehen. Installieren Sie vorab die 112-App.
 
 ### Ihre Wohnung am Rand von Wald oder Heide
 
@@ -96,13 +102,13 @@ Quelle: [Nationales Krisenzentrum](https://krisenzentrum.be/de/risiken-belgien/n
 
 ### Zu Hause
 
-- Rufen Sie die 112 an, wenn Sie einen Brand sehen oder wenn jemand in Gefahr ist.
+- Rufen Sie die 112 an, wenn Sie einen Brand sehen oder wenn jemand in Gefahr ist. Gelingt das nicht, lassen Sie jemand anderen anrufen oder bitten Sie in Ihrer Nachbarschaft um Hilfe (siehe Notrufnummern, Wenn kein Anruf möglich ist).
 - Schließen Sie Fenster und Türen.
-- Evakuieren Sie nicht auf eigene Initiative. Warten Sie auf die Empfehlungen der Behörden. Verfolgen Sie BE-Alert, Radio und die offiziellen Kanäle.
+- Evakuieren Sie nicht auf eigene Initiative. Warten Sie auf die Empfehlungen der Behörden. Hören Sie Radio und achten Sie auf Lautsprecherwagen der Polizei. Funktioniert das Netz, verfolgen Sie auch BE-Alert und die offiziellen Kanäle.
 - Prüfen Sie, ob Nachbarn, ältere Menschen und Menschen mit einer Behinderung Hilfe brauchen.
 - Müssen Sie aufbrechen: Stellen Sie Strom und Gas ab, nehmen Sie Ihr Notfallpaket und brechen Sie sofort auf.
 - Können Sie nicht weg und gibt es keine Anordnung zum Verlassen: Bleiben Sie mit geschlossenen Fenstern und Türen drinnen. Bei Rauch empfiehlt Ready.gov, in einem Raum zu bleiben, den Sie von der Außenluft abschließen können, und die Lüftung auf Umluft zu stellen oder den Lufteinlass zu schließen.
-- Sitzen Sie wirklich fest: Rufen Sie die 112 an und geben Sie Ihren Standort durch. Rechnen Sie mit Verzögerung. Schalten Sie das Licht ein, damit die Helfer Sie finden.
+- Sitzen Sie wirklich fest: Schalten Sie das Licht ein, damit die Helfer Sie finden. Rufen Sie die 112 an und geben Sie Ihren Standort durch. Rechnen Sie mit Verzögerung. Das empfiehlt das amerikanische Ready.gov.
 
 ### Draußen oder unterwegs
 
@@ -114,7 +120,7 @@ Quelle: [Nationales Krisenzentrum](https://krisenzentrum.be/de/risiken-belgien/n
 4. Helfen Sie anderen Menschen an einen sicheren Ort.
 5. Rufen Sie so schnell wie möglich die 112 an oder nutzen Sie die 112-App. Geben Sie Ihren Standort mit Orientierungspunkten an: Wege, Teiche, Aussichtstürme, Parkplätze.
 
-**Kein Empfang?** Brechen Sie so schnell wie möglich auf und warnen Sie die Menschen, denen Sie unterwegs begegnen.
+**Kein Empfang oder kommt kein Anruf zustande?** Brechen Sie so schnell wie möglich auf und warnen Sie die Menschen, denen Sie unterwegs begegnen. Siehe auch Notrufnummern in der App, Wenn kein Anruf möglich ist.
 
 Gehen Sie keine Risiken ein und befolgen Sie die Anweisungen von Feuerwehr und Förstern.
 
@@ -149,7 +155,7 @@ Gehen Sie keine Risiken ein und befolgen Sie die Anweisungen von Feuerwehr und F
 - Kleine Haustiere sind in einem Aufnahmezentrum manchmal erlaubt. Befolgen Sie die offiziellen Anweisungen.
 - Muss ein Tier zurückbleiben: Sagen Sie den Rettungsdiensten, wie viele Tiere es sind und wo sie sich verstecken. Lassen Sie Wasser und Futter für mindestens 24 Stunden da.
 
-Quelle: [Nationales Krisenzentrum](https://krisenzentrum.be/de/risiken-belgien/naturrisiken/naturbrand) · [Service public de Wallonie](https://environnement.wallonie.be/feux) · [Brandweer Nederland](https://www.brandweer.nl/onderwerpen/natuurbrand/) · [Brandweer Nederland: in der Nähe](https://www.brandweer.nl/onderwerpen/natuurbrand-in-de-buurt/) · [Nationales Krisenzentrum: Schutz suchen](https://krisenzentrum.be/de/was-koennen-sie-tun/der-richtige-reflex/schutz-suchen) · [Nationales Krisenzentrum: evakuieren](https://krisenzentrum.be/de/was-koennen-sie-tun/der-richtige-reflex/evakuierung) · [Ready.gov](https://www.ready.gov/wildfires)
+Quelle: [Nationales Krisenzentrum](https://krisenzentrum.be/de/risiken-belgien/naturrisiken/naturbrand) · [Service public de Wallonie](https://environnement.wallonie.be/feux) · [Brandweer Nederland](https://www.brandweer.nl/onderwerpen/natuurbrand/) · [Brandweer Nederland: in der Nähe](https://www.brandweer.nl/onderwerpen/natuurbrand-in-de-buurt/) · [Nationales Krisenzentrum: Schutz suchen](https://krisenzentrum.be/de/was-koennen-sie-tun/der-richtige-reflex/schutz-suchen) · [Nationales Krisenzentrum: evakuieren](https://krisenzentrum.be/de/was-koennen-sie-tun/der-richtige-reflex/evakuierung) · [Ready.gov](https://www.ready.gov/wildfires) · [Nationales Krisenzentrum: Informationen während einer Notsituation](https://krisenzentrum.be/de/was-koennen-sie-tun/informieren-sie-sich/information-notsituationen) · [112.be: Häufig gestellte Fragen](https://112.be/de/haeufig-gestellte-fragen) · [FÖD Wirtschaft: Fragen von Haushalten zur Stromknappheit](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door)
 
 ## Danach
 
@@ -158,7 +164,7 @@ Quelle: [Nationales Krisenzentrum](https://krisenzentrum.be/de/risiken-belgien/n
 - Halten Sie sich fern von heißer Asche, verkohlten Bäumen, glimmendem Abfall und glühenden Resten. Hitze im Boden kann Verbrennungen oder einen neuen Brand verursachen.
 - Tragen Sie beim Aufräumen lange Ärmel, eine lange Hose, Arbeitshandschuhe und feste Schuhe mit dicken Sohlen. Tragen Sie eine Atemschutzmaske und machen Sie den Schutt nass, um Staub zu begrenzen.
 - Fotografieren Sie die Schäden und wenden Sie sich an Ihren Versicherer.
-- Schicken Sie Nachrichten, statt zu telefonieren, damit das Netz für Notrufe frei bleibt.
+- Telefonieren Sie nur im Notfall. Funktioniert das Netz, schicken Sie Nachrichten, statt zu telefonieren, damit das Netz für Notrufe frei bleibt.
 
 Quelle: [Nationales Krisenzentrum](https://krisenzentrum.be/de/risiken-belgien/naturrisiken/naturbrand) · [Ready.gov](https://www.ready.gov/wildfires)
 
@@ -176,10 +182,12 @@ Quelle: [Nationales Krisenzentrum](https://krisenzentrum.be/de/risiken-belgien/n
 
 ## Mehr Informationen
 
+Vorab zu lesen, oder wenn das Internet funktioniert:
+
 - Brandgefahr in flämischen Naturgebieten: [natuurenbos.be/waarschuwingen](https://natuurenbos.be/waarschuwingen)
 - Brandgefahr und Verbote in der Wallonie: [environnement.wallonie.be/feux](https://environnement.wallonie.be/feux)
 - Risiko und Empfehlungen: [Nationales Krisenzentrum: Wald- und Flächenbrand](https://krisenzentrum.be/de/risiken-belgien/naturrisiken/naturbrand)
-- Die 112-App: [112.be](https://112.be/de/mobile-anwendung)
+- Die 112-App, vorab zu installieren: [112.be](https://112.be/de/mobile-anwendung)
 - Siehe auch die Karten **Brand** und **Hitze**.
 
 Quelle: [Nationales Krisenzentrum](https://krisenzentrum.be/de/risiken-belgien/naturrisiken/naturbrand)

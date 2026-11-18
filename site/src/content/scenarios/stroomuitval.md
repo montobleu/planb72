@@ -7,16 +7,16 @@ stappen:
   - "Schakel warmtetoestellen uit (kookplaat, oven, strijkijzer, waterkoker, elektrische verwarming) en trek de stekker uit gevoelige toestellen. Laat één schakelaar aan zodat je merkt wanneer de stroom terug is."
   - "Hou koelkast en diepvries dicht. Een dichte diepvries blijft volgens het Crisiscentrum 24 tot 36 uur bevroren."
   - "Gebruik een zaklamp in plaats van kaarsen. Brandt er toch een kaars, zet die in een houder op een onbrandbare ondergrond en laat ze nooit alleen."
-  - "Volg het nieuws via een radio op batterijen of de autoradio. Bel en surf alleen als het nodig is, en stuur liever een sms."
+  - "Volg het nieuws via een radio op batterijen of de autoradio. Werkt het net nog, bel en surf dan alleen als het nodig is en stuur liever een sms."
   - "Gebruik nooit een generator, barbecue, gasvuurtje of kachel zonder afvoer binnen of in de garage. Koolstofmonoxide is onzichtbaar en reukloos."
-  - "Ga na of buren, ouderen en mensen met medische apparatuur hulp nodig hebben."
+  - "Ga langs bij buren, ouderen en mensen met medische apparatuur om te zien of ze hulp nodig hebben."
 niet:
   - "Geen generator, barbecue, campingvuur of motor laten draaien binnen, in de kelder of in een gesloten garage."
   - "Niet verwarmen met een gasfornuis of oven."
-  - "Niet 112 bellen om te vragen wanneer de stroom terugkomt. Bel 112 alleen bij gevaar voor mensen."
+  - "Niet 112 bellen om te vragen wanneer de stroom terugkomt. Bel 112 alleen bij gevaar voor mensen. Lukt dat niet, laat iemand anders bellen of vraag hulp in je buurt (zie Noodnummers, Als bellen niet lukt)."
   - "Niet alle toestellen tegelijk aanzetten wanneer de stroom terug is."
 status: concept
-datum: "2026-11-17"
+datum: "2026-11-18"
 bronnen:
   - naam: "Nationaal Crisiscentrum: verstoring van elektriciteit"
     url: https://crisiscentrum.be/nl/risicos-belgie/maatschappelijke-risicos/verstoring-van-elektriciteit
@@ -26,6 +26,8 @@ bronnen:
     url: https://crisiscentrum.be/nl/wat-kan-jij-doen/maak-een-noodpakket/een-noodpakket-bij-je-thuis
   - naam: "Nationaal Crisiscentrum: maak een plan"
     url: https://crisiscentrum.be/nl/wat-kan-jij-doen/maak-een-plan
+  - naam: "Nationaal Crisiscentrum: een plan in jouw buurt of vereniging"
+    url: https://crisiscentrum.be/nl/wat-kan-jij-doen/maak-een-plan/een-plan-jouw-buurt-vereniging
   - naam: BE-Alert
     url: https://www.be-alert.be/nl
   - naam: "FOD Economie: wat is een afschakelplan?"
@@ -34,6 +36,12 @@ bronnen:
     url: https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/afschakeling/wanneer-wordt-het
   - naam: "FOD Economie: tot welke schijf behoort uw gemeente?"
     url: https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/afschakelplan/tot-welke-schijf-behoort-uw
+  - naam: "FOD Economie: vragen van gezinnen over elektriciteitsschaarste"
+    url: https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door
+  - naam: "112.be: Veelgestelde vragen"
+    url: https://112.be/nl/veelgestelde-vragen
+  - naam: "Rode Kruis-Vlaanderen: stroom- en communicatie-uitval"
+    url: https://www.rodekruis.be/wat-doen-we/hulp-in-vlaanderen/goed-voorbereid/stroom-en-communicatie-uitval/
   - naam: "ORES: plus d'électricité ou de gaz"
     url: https://www.ores.be/faq/plus-delectricite-ou-de-gaz
   - naam: "Speel niet met vuur: CO"
@@ -64,7 +72,7 @@ Een stroomuitval duurt meestal enkele uren. Bij grote schade kan hij dagen duren
 
 - Kijk of je buren nog stroom hebben en of de straatlampen 's avonds branden.
 - Zit alleen jouw woning zonder stroom, dan ligt de oorzaak waarschijnlijk in je eigen installatie. Zet dan de hoofdschakelaar uit, daarna de verliesstroomschakelaar en de zekeringen, en zet ze in dezelfde volgorde weer aan.
-- Blijft de stroom weg, of zit de hele straat zonder, dan is het een storing op het net. Meld die bij je netbeheerder.
+- Blijft de stroom weg, of zit de hele straat zonder, dan is het een storing op het net. Meld die bij je netbeheerder als telefoon of internet nog werkt.
 
 **Wat valt uit tijdens een stroomuitval**
 
@@ -72,7 +80,8 @@ Een stroomuitval duurt meestal enkele uren. Bij grote schade kan hij dagen duren
 - De centrale verwarming: de verwarmingsketel en de circulatiepomp vallen stil.
 - Liften, automatische deuren en poorten, bijvoorbeeld van de garage.
 - De waterdruk kan dalen. Hoe hoger je woont, hoe groter de kans dat er minder water uit de kraan komt.
-- Vaste telefoon en internet: een vaste lijn via internet werkt alleen als router en toestel stroom hebben. Het gsm-net heeft maar gedeeltelijk en kort noodstroom en raakt snel overbelast.
+- Vaste telefoon en internet: een vaste lijn via internet werkt alleen als router en toestel stroom hebben. Volgens FOD Economie is het weinig waarschijnlijk dat je vaste lijn nog werkt.
+- Gsm-net: gsm-masten houden het volgens FOD Economie één tot twee uur vol zonder stroom. Mobiel internet valt snel weg, wellicht meteen. Het net raakt ook snel overbelast.
 - Geldautomaten, betaalterminals en tankstations.
 - Verkeerslichten, treinen, trams en metro's.
 - Hulpmiddelen voor thuiszorg, zoals beademingstoestellen, en diensten zoals een personenalarm.
@@ -87,7 +96,7 @@ Bij een ernstig tekort aan elektriciteit kan de federale overheid delen van het 
 - Ziekenhuizen en noodcentrales krijgen voorrang en worden niet of als eerste weer aangesloten.
 - De schijven volgen geen gemeentegrenzen. Eén gemeente, of zelfs één straat, kan over meerdere schijven verdeeld zijn.
 
-Bron: [Nationaal Crisiscentrum: verstoring van elektriciteit](https://crisiscentrum.be/nl/risicos-belgie/maatschappelijke-risicos/verstoring-van-elektriciteit) · [Nationaal Crisiscentrum: brochure OFF/ON](https://crisiscentrum.be/sites/default/files/documents/files/OffOn-triptyque-N.pdf) · [ORES](https://www.ores.be/faq/plus-delectricite-ou-de-gaz) · [FOD Economie: wat is een afschakelplan?](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/afschakeling/wat-een-afschakelplan) · [FOD Economie: wanneer wordt het afschakelplan geactiveerd?](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/afschakeling/wanneer-wordt-het) · [BBK: brochure Stromausfall](https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/Buergerinformationen/stromausfall-vorsorge-selbsthilfe.pdf?__blob=publicationFile&v=13)
+Bron: [Nationaal Crisiscentrum: verstoring van elektriciteit](https://crisiscentrum.be/nl/risicos-belgie/maatschappelijke-risicos/verstoring-van-elektriciteit) · [Nationaal Crisiscentrum: brochure OFF/ON](https://crisiscentrum.be/sites/default/files/documents/files/OffOn-triptyque-N.pdf) · [ORES](https://www.ores.be/faq/plus-delectricite-ou-de-gaz) · [FOD Economie: vragen van gezinnen over elektriciteitsschaarste](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door) · [FOD Economie: wat is een afschakelplan?](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/afschakeling/wat-een-afschakelplan) · [FOD Economie: wanneer wordt het afschakelplan geactiveerd?](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/afschakeling/wanneer-wordt-het) · [BBK: brochure Stromausfall](https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/Buergerinformationen/stromausfall-vorsorge-selbsthilfe.pdf?__blob=publicationFile&v=13)
 
 ## Voorbereiden
 
@@ -95,7 +104,8 @@ Bron: [Nationaal Crisiscentrum: verstoring van elektriciteit](https://crisiscent
 
 - Maak een lijst van alles in huis dat op stroom werkt en bedenk wat je doet als het uitvalt.
 - Zoek op tot welke schijf van het afschakelplan je adres behoort. De betrouwbaarste weg is de website van je netbeheerder. FOD Economie heeft daarnaast een interactieve kaart per gemeente.
-- Schrijf je in op BE-Alert. Zo hoor je tijdig van een dreigend tekort of een afschakeling.
+- Schrijf je in op BE-Alert. Zo hoor je tijdig van een dreigend tekort of een afschakeling, zolang het gsm-net of internet werkt.
+- Vraag aan je gemeentebestuur welke oplossingen je gemeente voorziet bij een afschakeling. Burgemeesters en gouverneurs hebben noodmaatregelen voorbereid, bijvoorbeeld een informatie- en onthaalpunt voor de bevolking.
 
 **Noodpakket voor minstens 72 uur**
 
@@ -117,7 +127,7 @@ Het Crisiscentrum raadt aan dat je minstens drie dagen zelf kunt rondkomen. De D
 - Laad je gsm en powerbank volledig op. Weet dat ook het telefoonnet verstoord kan raken.
 - Leg een zak ijsblokjes in de diepvries. Daarmee controleer je achteraf of het voedsel ontdooid is geweest.
 - Zet koude maaltijden en thermosflessen met warm water klaar, bijvoorbeeld voor babyflessen.
-- Verwittig naasten en buren.
+- Verwittig naasten en buren. Spreek af hoe jullie elkaar bereiken als de telefoon niet werkt.
 - Tank je auto vol: zo blijf je mobiel als tankstations uitvallen.
 
 **Brand en koolstofmonoxide**
@@ -132,7 +142,7 @@ Het Crisiscentrum raadt aan dat je minstens drie dagen zelf kunt rondkomen. De D
 - Een generator aansluiten op de huisinstallatie mag alleen een erkende elektricien. Verwittig ook je netbeheerder.
 - Een batterijsysteem of een bestaande installatie met zonnepanelen kan noodstroom leveren, maar alleen als ze daarvoor ontworpen is.
 
-Bron: [Nationaal Crisiscentrum: verstoring van elektriciteit](https://crisiscentrum.be/nl/risicos-belgie/maatschappelijke-risicos/verstoring-van-elektriciteit) · [Nationaal Crisiscentrum: brochure OFF/ON](https://crisiscentrum.be/sites/default/files/documents/files/OffOn-triptyque-N.pdf) · [Nationaal Crisiscentrum: noodpakket](https://crisiscentrum.be/nl/wat-kan-jij-doen/maak-een-noodpakket/een-noodpakket-bij-je-thuis) · [FOD Economie: tot welke schijf behoort uw gemeente?](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/afschakelplan/tot-welke-schijf-behoort-uw) · [BBK: Stromausfall](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Vorsorge/Stromausfall/stromausfall_node.html) · [BBK: brochure Stromausfall](https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/Buergerinformationen/stromausfall-vorsorge-selbsthilfe.pdf?__blob=publicationFile&v=13) · [Denk vooruit: vragen en antwoorden](https://www.denkvooruit.nl/site/binaries/site-content/collections/documents/2025/10/27/toolkit-denk-vooruit-campagne-najaar-2025/20251111-qa-denkvooruit-bronbestand.pdf) · [Ready.gov: power outages](https://www.ready.gov/power-outages)
+Bron: [Nationaal Crisiscentrum: verstoring van elektriciteit](https://crisiscentrum.be/nl/risicos-belgie/maatschappelijke-risicos/verstoring-van-elektriciteit) · [Nationaal Crisiscentrum: brochure OFF/ON](https://crisiscentrum.be/sites/default/files/documents/files/OffOn-triptyque-N.pdf) · [Nationaal Crisiscentrum: noodpakket](https://crisiscentrum.be/nl/wat-kan-jij-doen/maak-een-noodpakket/een-noodpakket-bij-je-thuis) · [Nationaal Crisiscentrum: een plan in jouw buurt](https://crisiscentrum.be/nl/wat-kan-jij-doen/maak-een-plan/een-plan-jouw-buurt-vereniging) · [FOD Economie: vragen van gezinnen over elektriciteitsschaarste](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door) · [FOD Economie: tot welke schijf behoort uw gemeente?](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/afschakelplan/tot-welke-schijf-behoort-uw) · [BBK: Stromausfall](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Vorsorge/Stromausfall/stromausfall_node.html) · [BBK: brochure Stromausfall](https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/Buergerinformationen/stromausfall-vorsorge-selbsthilfe.pdf?__blob=publicationFile&v=13) · [Denk vooruit: vragen en antwoorden](https://www.denkvooruit.nl/site/binaries/site-content/collections/documents/2025/10/27/toolkit-denk-vooruit-campagne-najaar-2025/20251111-qa-denkvooruit-bronbestand.pdf) · [Ready.gov: power outages](https://www.ready.gov/power-outages)
 
 ## Tijdens
 
@@ -162,6 +172,7 @@ Bron: [Nationaal Crisiscentrum: verstoring van elektriciteit](https://crisiscent
 - Leef in één kamer en hou de deuren ervan dicht. Verwarm vooral de kleinste ruimte.
 - Warme kleding en dekens kunnen een tijd de verwarming vervangen.
 - Verlucht toch regelmatig, zeker als er kaarsen branden.
+- Je kunt met verschillende mensen samenkomen om licht en warmte te delen.
 
 **Koken**
 
@@ -179,10 +190,11 @@ Bron: [Nationaal Crisiscentrum: verstoring van elektriciteit](https://crisiscent
 **Telefoon en informatie**
 
 - Volg het nieuws via een radio op batterijen of de autoradio.
-- Bel alleen als het echt nodig is en stuur liever een sms. Zo blijft het net vrij voor noodoproepen.
+- Werkt het gsm-net nog, bel dan alleen als het echt nodig is en stuur liever een sms. Zo blijft het net vrij voor noodoproepen.
 - Een stroomuitval op zich is geen noodgeval. Bel 112 alleen als iemand in gevaar is.
+- Lukt bellen niet, probeer dan een ander toestel of laat buren of omstanders bellen. Werkt bellen helemaal niet, vraag dan hulp in je buurt en volg de informatie van de overheid op de radio. De gemeente kan een informatie- en onthaalpunt openen. Zie ook Noodnummers in de app, Als bellen niet lukt.
 
-Bron: [Nationaal Crisiscentrum: verstoring van elektriciteit](https://crisiscentrum.be/nl/risicos-belgie/maatschappelijke-risicos/verstoring-van-elektriciteit) · [Nationaal Crisiscentrum: brochure OFF/ON](https://crisiscentrum.be/sites/default/files/documents/files/OffOn-triptyque-N.pdf) · [BBK: Stromausfall](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Vorsorge/Stromausfall/stromausfall_node.html) · [BBK: brochure Stromausfall](https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/Buergerinformationen/stromausfall-vorsorge-selbsthilfe.pdf?__blob=publicationFile&v=13) · [Denk vooruit: geen stroom](https://www.denkvooruit.nl/risicos/risicos-in-nederland/geen-stroom) · [CDC: power outage](https://www.cdc.gov/natural-disasters/response/what-to-do-protect-yourself-during-a-power-outage.html) · [CDC: food safety](https://www.cdc.gov/food-safety/foods/keep-food-safe-after-emergency.html) · [Ready.gov: power outages](https://www.ready.gov/power-outages) · [Speel niet met vuur: CO](https://speelnietmetvuur.be/co/)
+Bron: [Nationaal Crisiscentrum: verstoring van elektriciteit](https://crisiscentrum.be/nl/risicos-belgie/maatschappelijke-risicos/verstoring-van-elektriciteit) · [Nationaal Crisiscentrum: brochure OFF/ON](https://crisiscentrum.be/sites/default/files/documents/files/OffOn-triptyque-N.pdf) · [Nationaal Crisiscentrum: noodpakket](https://crisiscentrum.be/nl/wat-kan-jij-doen/maak-een-noodpakket/een-noodpakket-bij-je-thuis) · [FOD Economie: vragen van gezinnen over elektriciteitsschaarste](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door) · [112.be: Veelgestelde vragen](https://112.be/nl/veelgestelde-vragen) · [BBK: Stromausfall](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Vorsorge/Stromausfall/stromausfall_node.html) · [BBK: brochure Stromausfall](https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/Buergerinformationen/stromausfall-vorsorge-selbsthilfe.pdf?__blob=publicationFile&v=13) · [Denk vooruit: geen stroom](https://www.denkvooruit.nl/risicos/risicos-in-nederland/geen-stroom) · [CDC: power outage](https://www.cdc.gov/natural-disasters/response/what-to-do-protect-yourself-during-a-power-outage.html) · [CDC: food safety](https://www.cdc.gov/food-safety/foods/keep-food-safe-after-emergency.html) · [Ready.gov: power outages](https://www.ready.gov/power-outages) · [Speel niet met vuur: CO](https://speelnietmetvuur.be/co/)
 
 ### Buiten of onderweg
 
@@ -221,9 +233,9 @@ Bron: [Nationaal Crisiscentrum: noodpakket](https://crisiscentrum.be/nl/wat-kan-
 **Afhankelijk van medische apparatuur**
 
 - Maak vooraf met je arts of zorgverlener een plan voor elektrische medische toestellen en voor geneesmiddelen die koel moeten blijven.
-- Neem contact op met de leverancier van je medische hulpmiddelen om te bespreken wat er gebeurt bij een stroomuitval.
-- Vraag je arts hoe lang je geneesmiddelen hogere temperaturen verdragen.
-- Gebruik je thuiszorg, een personenalarm of maaltijden aan huis, vraag dan of en hoe die diensten blijven werken bij een lange uitval. Woont iemand in een woonzorgcentrum, vraag dan naar de noodstroomvoorziening.
+- Neem vooraf contact op met de leverancier van je medische hulpmiddelen om te bespreken wat er gebeurt bij een stroomuitval.
+- Vraag je arts vooraf hoe lang je geneesmiddelen hogere temperaturen verdragen.
+- Gebruik je thuiszorg, een personenalarm of maaltijden aan huis, vraag dan vooraf of en hoe die diensten blijven werken bij een lange uitval. Een personenalarm kan uitvallen als telefoon of stroom wegvalt. Woont iemand in een woonzorgcentrum, vraag dan naar de noodstroomvoorziening.
 - Volg tijdens de uitval het plan dat je met je zorgverlener maakte.
 
 **Geneesmiddelen die koel moeten blijven**
@@ -233,9 +245,10 @@ Bron: [Nationaal Crisiscentrum: noodpakket](https://crisiscentrum.be/nl/wat-kan-
 
 **Buren**
 
-- Ga na of buren hulp nodig hebben. Je kunt bijvoorbeeld een powerbank lenen om een telefoon op te laden.
+- Kijk om naar buren of familie die extra hulp nodig hebben. Lukt bellen niet, ga dan bij hen langs.
+- Je kunt bijvoorbeeld een powerbank lenen om een telefoon op te laden.
 
-Bron: [Ready.gov: power outages](https://www.ready.gov/power-outages) · [Denk vooruit: geen stroom](https://www.denkvooruit.nl/risicos/risicos-in-nederland/geen-stroom) · [BBK: brochure Stromausfall](https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/Buergerinformationen/stromausfall-vorsorge-selbsthilfe.pdf?__blob=publicationFile&v=13) · [CDC: power outage](https://www.cdc.gov/natural-disasters/response/what-to-do-protect-yourself-during-a-power-outage.html)
+Bron: [Ready.gov: power outages](https://www.ready.gov/power-outages) · [Denk vooruit: geen stroom](https://www.denkvooruit.nl/risicos/risicos-in-nederland/geen-stroom) · [BBK: brochure Stromausfall](https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/Buergerinformationen/stromausfall-vorsorge-selbsthilfe.pdf?__blob=publicationFile&v=13) · [CDC: power outage](https://www.cdc.gov/natural-disasters/response/what-to-do-protect-yourself-during-a-power-outage.html) · [Rode Kruis-Vlaanderen: stroom- en communicatie-uitval](https://www.rodekruis.be/wat-doen-we/hulp-in-vlaanderen/goed-voorbereid/stroom-en-communicatie-uitval/) · [Nationaal Crisiscentrum: brochure OFF/ON](https://crisiscentrum.be/sites/default/files/documents/files/OffOn-triptyque-N.pdf)
 
 ### Huisdieren en dieren
 
@@ -272,15 +285,18 @@ Bron: [Nationaal Crisiscentrum: verstoring van elektriciteit](https://crisiscent
 - Geen kaarsen onbewaakt laten branden.
 - Een generator niet zelf op de huisinstallatie aansluiten.
 - Niet 112 bellen voor informatie over de stroomuitval. In het verleden raakten noodnummers daardoor overbelast.
+- Niet 112 bellen alleen omdat je gsm de melding "netwerk niet beschikbaar, alleen noodnummer" toont.
 - Niet alle toestellen tegelijk aanzetten na het herstel.
 
-Bron: [Speel niet met vuur: CO](https://speelnietmetvuur.be/co/) · [CDC: power outage](https://www.cdc.gov/natural-disasters/response/what-to-do-protect-yourself-during-a-power-outage.html) · [BBK: brochure Stromausfall](https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/Buergerinformationen/stromausfall-vorsorge-selbsthilfe.pdf?__blob=publicationFile&v=13) · [Nationaal Crisiscentrum: brochure OFF/ON](https://crisiscentrum.be/sites/default/files/documents/files/OffOn-triptyque-N.pdf)
+Bron: [Speel niet met vuur: CO](https://speelnietmetvuur.be/co/) · [CDC: power outage](https://www.cdc.gov/natural-disasters/response/what-to-do-protect-yourself-during-a-power-outage.html) · [BBK: brochure Stromausfall](https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/Buergerinformationen/stromausfall-vorsorge-selbsthilfe.pdf?__blob=publicationFile&v=13) · [Nationaal Crisiscentrum: brochure OFF/ON](https://crisiscentrum.be/sites/default/files/documents/files/OffOn-triptyque-N.pdf) · [112.be: Veelgestelde vragen](https://112.be/nl/veelgestelde-vragen)
 
 ## Meer informatie
 
+Raadpleeg deze bronnen vooraf, of tijdens de uitval als het internet werkt.
+
 - Nationaal Crisiscentrum over verstoring van elektriciteit en het afschakelplan.
-- FOD Economie: hoe het afschakelplan werkt en tot welke schijf je gemeente behoort.
+- FOD Economie: hoe het afschakelplan werkt, tot welke schijf je gemeente behoort en wat er met telefonie gebeurt.
 - Je netbeheerder (Fluvius, ORES, Sibelga of RESA) voor storingen en de kaart met lopende onderbrekingen.
 - BE-Alert om gewaarschuwd te worden.
 
-Bron: [Nationaal Crisiscentrum: verstoring van elektriciteit](https://crisiscentrum.be/nl/risicos-belgie/maatschappelijke-risicos/verstoring-van-elektriciteit) · [FOD Economie: wat is een afschakelplan?](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/afschakeling/wat-een-afschakelplan) · [ORES](https://www.ores.be/faq/plus-delectricite-ou-de-gaz) · [BE-Alert](https://www.be-alert.be/nl)
+Bron: [Nationaal Crisiscentrum: verstoring van elektriciteit](https://crisiscentrum.be/nl/risicos-belgie/maatschappelijke-risicos/verstoring-van-elektriciteit) · [FOD Economie: wat is een afschakelplan?](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/afschakeling/wat-een-afschakelplan) · [FOD Economie: vragen van gezinnen over elektriciteitsschaarste](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door) · [ORES](https://www.ores.be/faq/plus-delectricite-ou-de-gaz) · [BE-Alert](https://www.be-alert.be/nl)

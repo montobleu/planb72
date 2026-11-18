@@ -1,9 +1,9 @@
 ---
 titel: Electrocution and electrical accidents
 volgorde: 13
-kort: "Do not touch anyone who is still in contact with the current. Switch off the power first. With high voltage: stay at least 10 metres away and call 112."
+kort: "Do not touch anyone who is still in contact with the current. Switch off the power first. With high voltage: stay at least 10 metres away and call 112 or have someone get help."
 status: concept
-datum: "2026-11-17"
+datum: "2026-11-18"
 bronnen:
   - naam: "Gezondheid en Wetenschap (Rode Kruis-Vlaanderen): First aid for an electrical accident"
     url: https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-een-elektriciteitsongeval
@@ -13,8 +13,12 @@ bronnen:
     url: https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-brandwonden
   - naam: "IFRC: International first aid, resuscitation, and education guidelines 2020"
     url: https://www.ifrc.org/sites/default/files/2022-02/EN_GFARC_GUIDELINES_2020.pdf
+  - naam: "European Resuscitation Council Guidelines 2021: First aid"
+    url: https://cprguidelines-old.erc.edu/assets/guidelines/European-Resuscitation-Council-Guidelines-2021-Fi.pdf
+  - naam: "112.be: Frequently asked questions"
+    url: https://112.be/en/frequently-asked-questions
 vertaling: machine
-origineel_datum: "2026-11-17"
+origineel_datum: "2026-11-18"
 ---
 
 ## Recognise
@@ -60,7 +64,7 @@ High voltage:
 1. Do not go near the power source or the casualty. Stay at least 10 metres away. The zone up to 10 metres around the power source is live. High voltage can jump 3 to 5 metres, so you can be electrocuted without touching the conductor.
 2. A broken cable on the ground may still be live.
 3. Do not try to remove the power source, not even with an object that does not conduct. The voltage is too high.
-4. Call 112 and leave the rescue to the emergency services.
+4. Call 112 or have someone call, and leave the rescue to the emergency services. If you cannot get through, see Call 112 if.
 5. In a railway accident: if you are on the train, wait for the instructions of the staff. If you are outside, keep a sufficient distance.
 
 ### Step 2: assess the condition
@@ -68,12 +72,13 @@ High voltage:
 1. Make first contact with the casualty by briefly touching them with the back of your hand, and only when the power is off or the casualty is no longer connected.
 2. Find out what is wrong.
 3. Check for a response: ask loudly "Are you all right?" and gently shake the shoulders.
-4. If they do not respond: alert 112, open the airway (tilt the head, lift the chin) and check the breathing: look, listen and feel, for no more than 10 seconds.
+4. If they do not respond: alert 112 or have someone do so (if you cannot get through, see Call 112 if), open the airway (tilt the head, lift the chin) and check the breathing: look, listen and feel, for no more than 10 seconds.
 
 ### Step 3: get specialised help
 
-- Unconscious: call 112.
-- Serious injuries or doubt: call 112.
+- Unconscious: call 112 or have someone call.
+- Serious injuries or doubt: call 112 or have someone call.
+- If you cannot get through: see Call 112 if.
 - If the casualty felt "strange" for a moment after a low-voltage accident: have them examined by a doctor, even if it does not seem serious.
 
 ### Step 4: give further first aid
@@ -107,7 +112,14 @@ Source: [Gezondheid en Wetenschap: Electrical accident](https://www.gezondheiden
 
 Consult a doctor after a low-voltage accident if the casualty says they felt "strange" for a moment. There may be internal injuries or symptoms that appear later.
 
-Source: [Gezondheid en Wetenschap: Electrical accident](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-een-elektriciteitsongeval) · [Gezondheid en Wetenschap: Burns](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-brandwonden) · [Rode Kruis-Vlaanderen: First aid for electrical accidents](https://www.rodekruis.be/storage/main/2026-affiche-elektriciteitsongevallen.pdf)
+**If you cannot get through**
+
+- Only leave the casualty alone if there is no other option. Point directly at a bystander to get help and tell them where it is, what happened, how many casualties there are and what condition they are in.
+- Ask other bystanders to guard the danger: with high voltage, they keep everyone at least 10 metres away.
+- Have someone fetch an AED. If you are giving CPR and are alone without a phone, see topic 2 (If you cannot get through).
+- See also topic 1 (If you cannot get through: getting help without a phone) and Emergency numbers in the app, If you cannot call.
+
+Source: [Gezondheid en Wetenschap: Electrical accident](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-een-elektriciteitsongeval) · [Gezondheid en Wetenschap: Burns](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-brandwonden) · [Rode Kruis-Vlaanderen: First aid for electrical accidents](https://www.rodekruis.be/storage/main/2026-affiche-elektriciteitsongevallen.pdf) · [IFRC Guidelines 2020](https://www.ifrc.org/sites/default/files/2022-02/EN_GFARC_GUIDELINES_2020.pdf) · [ERC Guidelines 2021: First aid](https://cprguidelines-old.erc.edu/assets/guidelines/European-Resuscitation-Council-Guidelines-2021-Fi.pdf) · [112.be: Frequently asked questions](https://112.be/en/frequently-asked-questions)
 
 ## Do not
 

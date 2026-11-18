@@ -4,7 +4,7 @@ module: voedsel
 volgorde: 1
 kort: "What to do with the fridge and freezer during a power cut, what to keep and what to throw away, how to cook safely without electricity and how to feed babies."
 status: concept
-datum: "2026-11-17"
+datum: "2026-11-18"
 bronnen:
   - naam: "National Crisis Center: Disruption of electricity"
     url: "https://crisiscenter.be/en/risks-belgium/societal-risks/failure-electricity-supply"
@@ -40,8 +40,10 @@ bronnen:
     url: "https://www.vrt.be/vrtnws/nl/2026/03/20/roeselare-vraagt-om-drinkwater-in-enkele-centrumsteden-tijdelijk/"
   - naam: "Denk vooruit: information booklet Prepare for an emergency"
     url: "https://www.denkvooruit.nl/site/binaries/site-content/collections/documents/2025/11/17/informatieboekje-bereid-je-voor-op-een-noodsituatie/informatieboekje-bereid-je-voor-op-een-noodsituatie.pdf"
+  - naam: "Ready.gov: Water"
+    url: "https://www.ready.gov/water"
 vertaling: machine
-origineel_datum: "2026-11-17"
+origineel_datum: "2026-11-18"
 ---
 
 Without electricity, the fridge, freezer, electric cooker, oven and microwave stop working. This guide deals with three questions: how do you keep what is cold cold for as long as possible, what can you still eat afterwards, and how do you prepare food safely. Which supplies you should keep at home is covered in the guide on emergency supplies.
@@ -233,7 +235,7 @@ The BBK makes the distinction you need to remember: some appliances may be used 
 - The Poison Centre: bringing a barbecue into the house for warmth is not a good idea. The smouldering coals release a lot of CO, even with the garage door open.
 - Ready.gov: do not use a gas cooker or oven to heat your home.
 
-**Saving fuel.** The BBK recommends food that cooks with little energy, so that your fuel lasts longer, and food that you can eat cold. The BBK has an emergency cookbook with recipes without electricity for this. Denk vooruit refers to the Voedingscentrum for recipes with long-life food; print them out or write them down.
+**Saving fuel.** The BBK recommends food that cooks with little energy, so that your fuel lasts longer, and food that you can eat cold. The BBK has an emergency cookbook with recipes without electricity for this. Denk vooruit refers to the Voedingscentrum for recipes with long-life food and recommends printing them out or writing them down in advance: without the internet you can no longer look them up.
 
 **If electricity is limited but not gone.** In case of electricity shortages, the OFF ON brochure recommends using as few hobs as possible, using the microwave instead of the ordinary oven, and preferably using electrical appliances after 22:00.
 

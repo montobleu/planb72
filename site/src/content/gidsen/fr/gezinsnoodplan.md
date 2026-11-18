@@ -2,9 +2,9 @@
 titel: "Le plan d'urgence familial"
 module: voorbereiding
 volgorde: 3
-kort: "Ce qui doit figurer dans un plan d'urgence, comment choisir des points de rencontre et des personnes de contact, quels accords conclure avec l'école, le travail, les voisins et les soignants, et comment vous inscrire à BE-Alert."
+kort: "D'abord les accords qui fonctionnent sans téléphone : un point de rencontre, une personne de contact hors de la région et un mot si vous partez. Ensuite ce qui doit encore figurer dans un plan d'urgence, quels accords conclure avec l'école, le travail, les voisins et les soignants, et comment vous inscrire à BE-Alert."
 status: concept
-datum: "2026-11-17"
+datum: "2026-11-18"
 bronnen:
   - naam: "Centre de crise National : brochure Préparés ensemble"
     url: "https://centredecrise.be/sites/default/files/documents/files/WEB-Brochure-Pr%C3%AAts.%20Ensemble-FR.pdf"
@@ -24,6 +24,20 @@ bronnen:
     url: "https://centredecrise.be/fr/que-pouvez-vous-faire/faites-un-plan/un-plan-pour-vos-animaux"
   - naam: "Centre de crise National : Évacuer"
     url: "https://centredecrise.be/fr/que-pouvez-vous-faire/le-bon-reflexe/evacuer"
+  - naam: "Centre de crise National : Perturbation de l'infrastructure numérique"
+    url: "https://centredecrise.be/fr/risques-en-belgique/risques-societaux/defaillance-des-infrastructures-digitales"
+  - naam: "Centre de crise National : L'information pendant une situation d'urgence"
+    url: "https://centredecrise.be/fr/que-pouvez-vous-faire/informez-vous/linformation-pendant-une-situation-durgence"
+  - naam: "Centre de crise National : Un kit d'urgence chez vous"
+    url: "https://centredecrise.be/fr/que-pouvez-vous-faire/preparez-un-kit-durgence/un-kit-durgence-la-maison"
+  - naam: "Centre de crise National : Un kit d'urgence sur place"
+    url: "https://centredecrise.be/fr/que-pouvez-vous-faire/preparez-un-kit-durgence/un-kit-durgence-en-dehors-de-la-maison"
+  - naam: "112.be : Questions fréquentes"
+    url: "https://112.be/fr/questions-frequentes"
+  - naam: "SPF Economie : questions des ménages sur la pénurie d'électricité"
+    url: "https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door"
+  - naam: "Jeugd Rode Kruis : affiche 4 étapes des premiers secours"
+    url: "https://jeugd.rodekruis.be/storage/jrk/2026-034-jrk-poster-didactisch-materiaal-4-stappen-hr.pdf"
   - naam: "Centre de crise National : BE-Alert, des alertes sur votre téléphone"
     url: "https://centredecrise.be/fr/que-pouvez-vous-faire/informez-vous/be-alert-des-alertes-sur-votre-telephone"
   - naam: "BE-Alert: Notified, wherever you are"
@@ -32,6 +46,8 @@ bronnen:
     url: "https://www.vlaanderen.be/be-alert-waarschuwingssysteem-bij-noodsituaties"
   - naam: "Denk vooruit : Plan d'urgence"
     url: "https://www.denkvooruit.nl/bereid-je-voor/noodplan"
+  - naam: "Denk vooruit : Composez votre kit d'urgence"
+    url: "https://www.denkvooruit.nl/bereid-je-voor/stel-je-noodpakket-samen"
   - naam: "Denk vooruit : livret d'information Bereid je voor op een noodsituatie"
     url: "https://www.denkvooruit.nl/site/binaries/site-content/collections/documents/2025/11/17/informatieboekje-bereid-je-voor-op-een-noodsituatie/informatieboekje-bereid-je-voor-op-een-noodsituatie.pdf"
   - naam: "Ready.gov: Make A Plan"
@@ -49,14 +65,58 @@ bronnen:
   - naam: "MCF (Suède) : In case of crisis or war"
     url: "https://rib.msb.se/filer/pdf/31523.pdf"
 vertaling: machine
-origineel_datum: "2026-11-17"
+origineel_datum: "2026-11-18"
 ---
 
 Un plan d'urgence, ce sont des accords que vous concluez à l'avance avec les personnes qui vous entourent : comment vous joindre ou vous retrouver, qui fait quoi et qui a besoin d'une aide supplémentaire. Le Centre de crise National explique pourquoi : dans une situation d'urgence, vous devez parfois vous débrouiller seul pendant un certain temps. Les services de secours aident le plus vite possible, mais doivent fixer des priorités.
 
-Le Centre de crise propose un plan d'urgence simple à compléter que vous pouvez télécharger gratuitement. Denk vooruit propose une carte d'urgence séparée et un plan d'urgence détaillé. Ready.gov propose un formulaire à remplir. Ce guide suit le modèle belge et le complète avec ce qu'ajoutent d'autres sources.
+Lors d'une coupure de courant, internet et les réseaux mobiles peuvent aussi tomber en panne (Centre de crise). Les antennes GSM tiennent une à deux heures sans courant, et la ligne fixe ne fonctionnera alors probablement pas (SPF Economie). Commencez donc par les accords qui fonctionnent sans téléphone : où vous vous retrouvez, qui est votre personne de contact hors de la région et quel mot vous laissez si vous partez. Notez tout sur papier.
 
-Source : [Centre de crise National : Un plan chez vous](https://centredecrise.be/fr/que-pouvez-vous-faire/faites-un-plan/un-plan-la-maison) · [Centre de crise National : Mon propre plan d'urgence](https://centredecrise.be/sites/default/files/documents/files/MonPlandurgence_PDF%20interactif.pdf) · [Denk vooruit : Plan d'urgence](https://www.denkvooruit.nl/bereid-je-voor/noodplan) · [Ready.gov: Make A Plan](https://www.ready.gov/plan)
+Le Centre de crise propose un plan d'urgence simple à compléter que vous pouvez télécharger gratuitement et imprimer à l'avance. Denk vooruit propose une carte d'urgence séparée et un plan d'urgence détaillé. Ready.gov propose un formulaire à remplir. Ce guide suit le modèle belge et le complète avec ce qu'ajoutent d'autres sources.
+
+Source : [Centre de crise National : Un plan chez vous](https://centredecrise.be/fr/que-pouvez-vous-faire/faites-un-plan/un-plan-la-maison) · [Centre de crise National : Mon propre plan d'urgence](https://centredecrise.be/sites/default/files/documents/files/MonPlandurgence_PDF%20interactif.pdf) · [Centre de crise National : brochure Préparés ensemble](https://centredecrise.be/sites/default/files/documents/files/WEB-Brochure-Pr%C3%AAts.%20Ensemble-FR.pdf) · [SPF Economie : questions des ménages sur la pénurie d'électricité](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door) · [Denk vooruit : Plan d'urgence](https://www.denkvooruit.nl/bereid-je-voor/noodplan) · [Ready.gov: Make A Plan](https://www.ready.gov/plan)
+
+## Points de rencontre
+
+Si le téléphone et internet tombent en panne, vous devez savoir sans vous concerter où vous vous retrouvez.
+
+- Le Centre de crise : convenez à l'avance avec votre famille de l'endroit où vous pouvez vous retrouver si vous ne parvenez pas à vous joindre. Discutez du chemin de fuite le plus sûr et du lieu de rencontre avec les personnes qui vivent avec vous et notez-les dans votre plan d'urgence.
+- Denk vooruit : choisissez avec votre ménage, votre famille ou vos amis un endroit où vous vous retrouvez s'il n'y a pas de connexion téléphonique ni internet. Convenez aussi du moment où vous vous y rejoignez ou où vous passez les uns chez les autres. Dans l'exemple du livret d'information, quelqu'un passe voir ses parents après deux jours, comme convenu à l'avance.
+- Ready.gov : choisissez un endroit familier facile à trouver, et adaptez-le aux circonstances.
+
+**Options, du plus proche au plus éloigné**
+
+| Point de rencontre | Quand |
+| --- | --- |
+| Tout près de la maison, dehors | en cas d'incendie ou de danger soudain dans le logement ; tout le monde doit être dehors rapidement |
+| Chez la personne de contact du voisinage | si vous ne pouvez pas rester chez vous mais que le quartier est sûr |
+| Chez la personne de contact un peu plus loin de chez vous | si le quartier ou la commune n'est pas accessible ou est évacué |
+| Le centre d'accueil désigné par les autorités | en cas d'évacuation ; vous l'apprenez par la radio, les services de secours ou les voitures à haut-parleur de la police, et par BE-Alert si le réseau fonctionne |
+
+Ready.gov conseille de choisir des destinations dans des directions différentes, afin d'avoir des options.
+
+**Laissez un mot.** Si vous devez quitter votre logement, laissez un mot indiquant quand vous êtes parti et où vous allez (Ready.gov).
+
+Source : [Centre de crise National : Perturbation de l'infrastructure numérique](https://centredecrise.be/fr/risques-en-belgique/risques-societaux/defaillance-des-infrastructures-digitales) · [Denk vooruit : livret d'information](https://www.denkvooruit.nl/site/binaries/site-content/collections/documents/2025/11/17/informatieboekje-bereid-je-voor-op-een-noodsituatie/informatieboekje-bereid-je-voor-op-een-noodsituatie.pdf) · [Ready.gov: Make A Plan](https://www.ready.gov/plan) · [Ready.gov: Evacuation](https://www.ready.gov/evacuation) · [Centre de crise National : brochure Préparés ensemble](https://centredecrise.be/sites/default/files/documents/files/WEB-Brochure-Pr%C3%AAts.%20Ensemble-FR.pdf) · [Centre de crise National : Évacuer](https://centredecrise.be/fr/que-pouvez-vous-faire/le-bon-reflexe/evacuer) · [Centre de crise National : L'information pendant une situation d'urgence](https://centredecrise.be/fr/que-pouvez-vous-faire/informez-vous/linformation-pendant-une-situation-durgence)
+
+## Personnes de contact : à proximité et hors de la région
+
+Le Centre de crise conseille deux types de personnes de contact :
+
+- **Une personne de contact dans le voisinage**, chez qui vous pouvez aller s'il se passe quelque chose chez vous.
+- **Une personne de contact un peu plus loin de chez vous**, pour le cas où vous ne pouvez pas atteindre votre rue, votre quartier ou votre commune.
+
+En cas d'évacuation, le Centre de crise conseille aussi de demander à un membre de la famille ou à un ami qui n'habite pas dans la même zone d'être personne de contact. Dès que vous êtes en sécurité, vous le lui faites savoir. Ainsi, cette personne sait où se trouve chacun si des membres de la famille ont été séparés. Ready.gov appelle cela un contact hors de l'État et conseille d'appeler cette personne ou de lui envoyer un e-mail pour lui dire où vous allez, si le temps le permet.
+
+**Comment le rendre utilisable, même sans téléphone**
+
+1. Veillez à ce que toutes les personnes de la maison connaissent les adresses et les numéros de téléphone et qu'il y ait une liste sur papier. Ainsi, vous vous retrouvez, même si vous avez oublié votre GSM ou si votre batterie est vide (Centre de crise).
+2. Apprenez par cœur les numéros de téléphone et les adresses e-mail des membres de votre famille. Aidez les enfants à retenir des informations importantes, comme le nom de leurs parents (Rode Kruis-Vlaanderen, Restoring Family Links).
+3. Demandez à vos personnes de contact si vous pouvez aller chez elles, aussi avec votre animal de compagnie (Centre de crise).
+4. Donnez une photo ou une copie de votre plan complété à vos personnes de contact (Centre de crise, Denk vooruit).
+5. Enregistrez aussi une personne de contact dans votre téléphone. Sur certains appareils, cela s'appelle ICE, in case of emergency (Centre de crise).
+
+Source : [Centre de crise National : Un plan chez vous](https://centredecrise.be/fr/que-pouvez-vous-faire/faites-un-plan/un-plan-la-maison) · [Centre de crise National : Évacuer](https://centredecrise.be/fr/que-pouvez-vous-faire/le-bon-reflexe/evacuer) · [Ready.gov: Evacuation](https://www.ready.gov/evacuation) · [Denk vooruit : Plan d'urgence](https://www.denkvooruit.nl/bereid-je-voor/noodplan) · [Rode Kruis-Vlaanderen : Restoring Family Links](https://fr.rodekruis.be/wat-doen-we/hulp-wereldwijd/opsporen-van-vermiste-personen/)
 
 ## Les questions auxquelles le plan répond
 
@@ -94,7 +154,7 @@ Source : [Denk vooruit : Plan d'urgence](https://www.denkvooruit.nl/bereid-je-vo
 
 **3. Apprenez le chemin le plus rapide vers l'extérieur.** Et si la porte d'entrée n'est pas accessible, ou s'il n'y a pas de lumière ? Réfléchissez à l'avance à toutes les manières de sortir en sécurité.
 
-**4. Connaissez les numéros d'urgence.** Téléchargez l'application 112 BE. Faites une liste avec votre fournisseur de gaz, d'eau et d'électricité, la centrale de votre système d'alarme, votre médecin généraliste, votre assureur, vos voisins ou vos personnes de contact.
+**4. Connaissez les numéros d'urgence.** Faites une liste avec votre fournisseur de gaz, d'eau et d'électricité, la centrale de votre système d'alarme, votre médecin généraliste, votre assureur, vos voisins ou vos personnes de contact. Mettez cette liste sur papier (Préparés ensemble). Téléchargez aussi à l'avance l'application 112 BE.
 
 **5. Désignez des personnes de contact** (voir ci-dessous).
 
@@ -106,7 +166,7 @@ Source : [Denk vooruit : Plan d'urgence](https://www.denkvooruit.nl/bereid-je-vo
 - Adaptez le plan pour les personnes qui ont des besoins particuliers, par exemple des médicaments spécifiques, un handicap ou des compétences numériques limitées. Exercez-vous régulièrement.
 - Intégrez vos animaux dans le plan.
 
-Source : [Centre de crise National : Un plan chez vous](https://centredecrise.be/fr/que-pouvez-vous-faire/faites-un-plan/un-plan-la-maison)
+Source : [Centre de crise National : Un plan chez vous](https://centredecrise.be/fr/que-pouvez-vous-faire/faites-un-plan/un-plan-la-maison) · [Centre de crise National : brochure Préparés ensemble](https://centredecrise.be/sites/default/files/documents/files/WEB-Brochure-Pr%C3%AAts.%20Ensemble-FR.pdf)
 
 ## Ce que vous remplissez dans le plan d'urgence belge
 
@@ -126,64 +186,39 @@ Le plan à compléter du Centre de crise demande :
 | Services importants | internet, eau, assurance, gaz, électricité, téléphone : nom, téléphone, numéro de client |
 | Collaborer | comment vous vous prévenez mutuellement ; qui dans votre réseau peut offrir quelle aide ; qui dans votre quartier a besoin d'une aide supplémentaire |
 
-**Numéros d'urgence qui figurent sur le plan belge et dans la brochure**
+**Numéros d'urgence à noter à l'avance sur papier**
+
+Ces numéros figurent sur le plan belge et dans la brochure. Ils ne fonctionnent que si le réseau fonctionne.
 
 | Numéro | Pour quoi |
 | --- | --- |
-| 112 ou l'application 112 | ambulance, pompiers et police en cas de situation mettant la vie en danger |
+| 112, ou l'application 112 si le réseau fonctionne | ambulance, pompiers et police en cas de situation mettant la vie en danger |
 | 101 | police |
-| 1722 ou le guichet en ligne 1722.be | aide non urgente des pompiers en cas de tempête ou d'inondation |
+| 1722, ou le guichet en ligne 1722.be si internet fonctionne | aide non urgente des pompiers en cas de tempête ou d'inondation |
 | 1733 | médecin généraliste de garde |
 | 070 245 245 | Centre Antipoisons |
 | 078 170 170 | Card Stop |
 | 0800 65 065 | odeur de gaz ou fuite de gaz, Flandre |
 | 0800 19 400 | odeur de gaz ou fuite de gaz, Région de Bruxelles-Capitale |
 | 0800 87 087 | odeur de gaz ou fuite de gaz, Wallonie |
-| 106 ou tele-onthaal.be | Tele-Onthaal, si vous avez besoin de parler à quelqu'un |
 
 Si vous appelez le 112, indiquez le plus clairement possible où vous êtes, ce qui s'est passé et combien il y a de blessés (brochure).
 
-Source : [Centre de crise National : Mon propre plan d'urgence](https://centredecrise.be/sites/default/files/documents/files/MonPlandurgence_PDF%20interactif.pdf) · [Centre de crise National : brochure Préparés ensemble](https://centredecrise.be/sites/default/files/documents/files/WEB-Brochure-Pr%C3%AAts.%20Ensemble-FR.pdf)
+**Si l'appel ne passe pas.** Essayez un autre appareil ou demandez à des voisins ou à des passants d'appeler. Déplacez-vous de quelques mètres et réessayez. Si plus aucun appel ne passe, demandez de l'aide dans votre voisinage et suivez les informations des autorités à la radio. La commune peut ouvrir un point d'information et d'accueil : demandez à l'avance à votre commune où il se trouve et notez-le dans votre plan (112.be, SPF Economie). Voir aussi Numéros d'urgence dans l'application, Si l'appel ne passe pas.
 
-## Personnes de contact : à proximité et hors de la région
+Source : [Centre de crise National : Mon propre plan d'urgence](https://centredecrise.be/sites/default/files/documents/files/MonPlandurgence_PDF%20interactif.pdf) · [Centre de crise National : brochure Préparés ensemble](https://centredecrise.be/sites/default/files/documents/files/WEB-Brochure-Pr%C3%AAts.%20Ensemble-FR.pdf) · [112.be : Questions fréquentes](https://112.be/fr/questions-frequentes) · [SPF Economie : questions des ménages sur la pénurie d'électricité](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door)
 
-Le Centre de crise conseille deux types de personnes de contact :
+## Après la crise, quand le téléphone fonctionne à nouveau
 
-- **Une personne de contact dans le voisinage**, chez qui vous pouvez aller s'il se passe quelque chose chez vous.
-- **Une personne de contact un peu plus loin de chez vous**, pour le cas où vous ne pouvez pas atteindre votre rue, votre quartier ou votre commune.
+Le plan belge mentionne aussi un numéro pour les personnes qui ont besoin de parler à quelqu'un. Ce n'est pas un numéro d'urgence. Notez-le à part, pour quand le téléphone ou internet fonctionne à nouveau.
 
-En cas d'évacuation, le Centre de crise conseille aussi de demander à un membre de la famille ou à un ami qui n'habite pas dans la même zone d'être personne de contact. Dès que vous êtes en sécurité, vous le lui faites savoir. Ainsi, cette personne sait où se trouve chacun si des membres de la famille ont été séparés. Ready.gov appelle cela un contact hors de l'État et conseille d'appeler cette personne ou de lui envoyer un e-mail pour lui dire où vous allez, si le temps le permet.
-
-**Comment le rendre utilisable**
-
-1. Veillez à ce que toutes les personnes de la maison connaissent les adresses et les numéros de téléphone et qu'il y ait une liste sur papier. Ainsi, vous vous retrouvez, même si vous avez oublié votre GSM ou si votre batterie est vide (Centre de crise).
-2. Enregistrez une personne de contact dans votre téléphone. Sur certains appareils, cela s'appelle ICE, in case of emergency (Centre de crise).
-3. Demandez à vos personnes de contact si vous pouvez aller chez elles, aussi avec votre animal de compagnie (Centre de crise).
-4. Donnez une photo ou une copie de votre plan complété à vos personnes de contact (Centre de crise, Denk vooruit).
-5. Apprenez par cœur les numéros de téléphone et les adresses e-mail des membres de votre famille. Aidez les enfants à retenir des informations importantes, comme le nom de leurs parents (Rode Kruis-Vlaanderen, Restoring Family Links).
-
-Source : [Centre de crise National : Un plan chez vous](https://centredecrise.be/fr/que-pouvez-vous-faire/faites-un-plan/un-plan-la-maison) · [Centre de crise National : Évacuer](https://centredecrise.be/fr/que-pouvez-vous-faire/le-bon-reflexe/evacuer) · [Ready.gov: Evacuation](https://www.ready.gov/evacuation) · [Denk vooruit : Plan d'urgence](https://www.denkvooruit.nl/bereid-je-voor/noodplan) · [Rode Kruis-Vlaanderen : Restoring Family Links](https://fr.rodekruis.be/wat-doen-we/hulp-wereldwijd/opsporen-van-vermiste-personen/)
-
-## Points de rencontre
-
-Si le téléphone et internet tombent en panne, vous devez savoir sans vous concerter où vous vous retrouvez.
-
-- Denk vooruit : choisissez avec votre ménage, votre famille ou vos amis un endroit où vous vous retrouvez s'il n'y a pas de connexion téléphonique ni internet. Convenez aussi du moment où vous vous y rejoignez ou où vous passez les uns chez les autres. Dans l'exemple du livret d'information, quelqu'un passe voir ses parents après deux jours, comme convenu à l'avance.
-- Ready.gov : choisissez un endroit familier facile à trouver, et adaptez-le aux circonstances.
-- Le Centre de crise : discutez du chemin de fuite le plus sûr et du lieu de rencontre avec les personnes qui vivent avec vous et notez-les dans votre plan d'urgence.
-
-**Options, du plus proche au plus éloigné**
-
-| Point de rencontre | Quand |
+| Numéro | Pour quoi |
 | --- | --- |
-| Tout près de la maison, dehors | en cas d'incendie ou de danger soudain dans le logement ; tout le monde doit être dehors rapidement |
-| Chez la personne de contact du voisinage | si vous ne pouvez pas rester chez vous mais que le quartier est sûr |
-| Chez la personne de contact un peu plus loin de chez vous | si le quartier ou la commune n'est pas accessible ou est évacué |
-| Le centre d'accueil désigné par les autorités | en cas d'évacuation ; vous apprenez par les canaux officiels où il se trouve |
+| 106 ou tele-onthaal.be | Tele-Onthaal, si vous avez besoin de parler à quelqu'un |
 
-Ready.gov conseille de choisir des destinations dans des directions différentes, afin d'avoir des options.
+Pendant la crise, soutenez-vous mutuellement sur place. Voir le guide sur la résilience mentale et les premiers secours psychologiques ; vous y trouverez aussi les autres lignes d'écoute pour après la crise.
 
-Source : [Denk vooruit : livret d'information](https://www.denkvooruit.nl/site/binaries/site-content/collections/documents/2025/11/17/informatieboekje-bereid-je-voor-op-een-noodsituatie/informatieboekje-bereid-je-voor-op-een-noodsituatie.pdf) · [Ready.gov: Make A Plan](https://www.ready.gov/plan) · [Ready.gov: Evacuation](https://www.ready.gov/evacuation) · [Centre de crise National : brochure Préparés ensemble](https://centredecrise.be/sites/default/files/documents/files/WEB-Brochure-Pr%C3%AAts.%20Ensemble-FR.pdf) · [Centre de crise National : Évacuer](https://centredecrise.be/fr/que-pouvez-vous-faire/le-bon-reflexe/evacuer)
+Source : [Centre de crise National : Mon propre plan d'urgence](https://centredecrise.be/sites/default/files/documents/files/MonPlandurgence_PDF%20interactif.pdf) · [Centre de crise National : brochure Préparés ensemble](https://centredecrise.be/sites/default/files/documents/files/WEB-Brochure-Pr%C3%AAts.%20Ensemble-FR.pdf)
 
 ## Répartir les tâches
 
@@ -196,6 +231,7 @@ Le Centre de crise conseille de répartir les tâches à l'avance, par exemple q
 | Mettre les animaux de compagnie dans le panier de transport | | |
 | Couper le gaz, l'eau et l'électricité si on le demande | | |
 | Prévenir un voisin ou un membre de la famille qui a des besoins de soins particuliers | | |
+| Laisser un mot : quand vous êtes parti, où vous allez | | |
 | Faire savoir à la personne de contact hors de la région où vous êtes | | |
 | Contrôler la réserve, tous les six mois | | |
 
@@ -205,10 +241,10 @@ Source : [Centre de crise National : Évacuer](https://centredecrise.be/fr/que-p
 
 **En tant que parent**
 
-- Enregistrez l'adresse de l'école de vos enfants dans BE-Alert. Ainsi, vous recevez un message en cas de situation d'urgence près de l'école (Centre de crise).
 - Convenez de qui va chercher les enfants si vous ne pouvez pas et que votre téléphone ne fonctionne pas (Denk vooruit).
-- Veillez à ce que vos enfants aient une personne de contact et sachent comment la joindre. Apprenez-leur quand et comment appeler des numéros importants (Ready.gov). Le Centre de crise conseille d'apprendre aux jeunes enfants à appeler le 112.
 - Convenez d'un mot de passe ou d'une phrase de famille, afin que votre enfant ne parte pas avec un inconnu (Ready.gov).
+- Veillez à ce que vos enfants aient une personne de contact et sachent comment la joindre. Apprenez-leur quand et comment appeler des numéros importants (Ready.gov). Le Centre de crise conseille d'apprendre aux jeunes enfants à appeler le 112. L'affiche pour les jeunes de la Croix-Rouge apprend aux enfants à prévenir les secours : un adulte, un médecin ou la centrale d'urgence 112.
+- Enregistrez l'adresse de l'école de vos enfants dans BE-Alert. Ainsi, vous recevez un message en cas de situation d'urgence près de l'école, si le réseau fonctionne (Centre de crise).
 
 **Ce que l'école fait elle-même (Centre de crise)**
 
@@ -223,7 +259,7 @@ Le Centre de crise propose pour les écoles primaires le dossier pédagogique et
 
 **Lors d'une activité à l'extérieur de l'école**, le Centre de crise conseille que le coordinateur ait toujours sur lui une liste des présents et réfléchisse à l'avance à la manière de prévenir les parents.
 
-Source : [Centre de crise National : Un plan à l'école](https://centredecrise.be/fr/que-pouvez-vous-faire/faites-un-plan/un-plan-lecole) · [Centre de crise National : BE-Alert](https://centredecrise.be/fr/que-pouvez-vous-faire/informez-vous/be-alert-des-alertes-sur-votre-telephone) · [Centre de crise National : Un plan pour les personnes qui ont besoin d'une aide supplémentaire](https://centredecrise.be/fr/que-pouvez-vous-faire/faites-un-plan/un-plan-pour-ceux-qui-ont-besoin-dune-aide-supplementaire) · [Centre de crise National : Un plan dans votre quartier ou votre association](https://centredecrise.be/fr/que-pouvez-vous-faire/faites-un-plan/un-plan-dans-votre-quartier-ou-votre-association) · [Denk vooruit : Plan d'urgence](https://www.denkvooruit.nl/bereid-je-voor/noodplan) · [Ready.gov: Extreme Heat](https://www.ready.gov/heat)
+Source : [Centre de crise National : Un plan à l'école](https://centredecrise.be/fr/que-pouvez-vous-faire/faites-un-plan/un-plan-lecole) · [Centre de crise National : BE-Alert](https://centredecrise.be/fr/que-pouvez-vous-faire/informez-vous/be-alert-des-alertes-sur-votre-telephone) · [Centre de crise National : Un plan pour les personnes qui ont besoin d'une aide supplémentaire](https://centredecrise.be/fr/que-pouvez-vous-faire/faites-un-plan/un-plan-pour-ceux-qui-ont-besoin-dune-aide-supplementaire) · [Centre de crise National : Un plan dans votre quartier ou votre association](https://centredecrise.be/fr/que-pouvez-vous-faire/faites-un-plan/un-plan-dans-votre-quartier-ou-votre-association) · [Denk vooruit : Plan d'urgence](https://www.denkvooruit.nl/bereid-je-voor/noodplan) · [Ready.gov: Extreme Heat](https://www.ready.gov/heat) · [Jeugd Rode Kruis : affiche 4 étapes des premiers secours](https://jeugd.rodekruis.be/storage/jrk/2026-034-jrk-poster-didactisch-materiaal-4-stappen-hr.pdf)
 
 ## Travail
 
@@ -242,23 +278,24 @@ Source : [Centre de crise National : Un plan au travail](https://centredecrise.b
 
 Le Centre de crise conseille de constituer un réseau avec les voisins, les connaissances, la famille et les amis, et de faire appel aux réseaux existants comme un comité de quartier ou un club sportif. Convenez :
 
-- **De la manière de vous prévenir.** Par les réseaux sociaux ou les applications de messagerie ; par téléphone, en convenant de qui vous pouvez appeler la nuit ; et de la manière de vous joindre sans téléphone ni internet.
+- **De la manière de vous prévenir.** D'abord : comment vous vous joignez sans téléphone ni internet. Ensuite, si le réseau fonctionne : par téléphone, en convenant de qui vous pouvez appeler la nuit, et par les réseaux sociaux ou les applications de messagerie.
 - **Des risques.** Zones de planification d'urgence nucléaire, zones inondables, entreprises Seveso dans les environs, et risques pour tout le pays comme des heures sans électricité, sans chauffage ou sans internet.
 - **De qui peut offrir quelle aide.** Des connaissances comme les premiers secours ou le bricolage, du matériel comme des outils, de l'espace comme un grand garage ou une cave.
 - **De qui a besoin d'une aide supplémentaire.** Par exemple les personnes handicapées, les parents seuls avec de jeunes enfants, les personnes âgées.
 
-Autres manières de s'entraider que cite le Centre de crise : suivre ensemble une formation aux premiers secours, donner du sang ou du plasma, diffuser des informations correctes, offrir un lit à quelqu'un qui ne peut pas rentrer chez lui, prêter des affaires, faire des courses, prêter votre GSM ou partager un point d'accès, cuisiner pour quelqu'un.
+Autres manières de s'entraider que cite le Centre de crise : suivre ensemble une formation aux premiers secours, donner du sang ou du plasma, diffuser des informations correctes, offrir un lit à quelqu'un qui ne peut pas rentrer chez lui, prêter des affaires, faire des courses, prêter votre GSM ou partager un point d'accès, cuisiner pour quelqu'un. Lors d'une coupure de courant, vous pouvez vous réunir à plusieurs pour partager la lumière et la chaleur.
 
 **Dans un immeuble à appartements**, discutez aussi de qui a les clés, de qui a accès à l'arrivée d'eau, au robinet de gaz et aux compteurs, de l'existence éventuelle d'un système de ventilation commun et de qui peut le couper, et de qui aide les habitants qui ont besoin d'une aide supplémentaire. Si vous n'êtes pas propriétaire, connaissez les sorties de secours.
 
-Source : [Centre de crise National : Un plan dans votre quartier ou votre association](https://centredecrise.be/fr/que-pouvez-vous-faire/faites-un-plan/un-plan-dans-votre-quartier-ou-votre-association) · [Centre de crise National : brochure Préparés ensemble](https://centredecrise.be/sites/default/files/documents/files/WEB-Brochure-Pr%C3%AAts.%20Ensemble-FR.pdf)
+Source : [Centre de crise National : Un plan dans votre quartier ou votre association](https://centredecrise.be/fr/que-pouvez-vous-faire/faites-un-plan/un-plan-dans-votre-quartier-ou-votre-association) · [Centre de crise National : brochure Préparés ensemble](https://centredecrise.be/sites/default/files/documents/files/WEB-Brochure-Pr%C3%AAts.%20Ensemble-FR.pdf) · [Centre de crise National : Un kit d'urgence chez vous](https://centredecrise.be/fr/que-pouvez-vous-faire/preparez-un-kit-durgence/un-kit-durgence-la-maison)
 
 ## Personnes ayant des besoins de soins
 
 **En général (Centre de crise)**
 
 - Vérifiez si les itinéraires d'évacuation sont accessibles et si vous avez accès au robinet de gaz, au compteur et à l'arrivée d'eau.
-- Discutez avec les personnes de votre entourage de la manière dont elles peuvent vous aider et dont vous restez en contact. Elles peuvent enregistrer votre adresse dans BE-Alert, pour recevoir elles aussi un message.
+- Discutez avec les personnes de votre entourage de la manière dont elles peuvent vous aider et dont vous restez en contact. Pensez à d'autres moyens de communiquer avec les autres, même sans téléphone ni internet.
+- Elles peuvent enregistrer votre adresse dans BE-Alert, pour recevoir elles aussi un message.
 - Demandez une liste de vos médicaments à votre médecin généraliste ou à votre pharmacien et rangez-la avec vos documents importants.
 
 **Par situation (Centre de crise)**
@@ -320,6 +357,8 @@ S'inscrire reste utile : vous êtes alors aussi prévenu pour des adresses où v
 
 L'inscription et les messages sont gratuits.
 
+**Si le réseau tombe en panne.** BE-Alert envoie les messages par SMS, e-mail ou appel vocal. Lors d'une coupure de courant, internet et les réseaux mobiles peuvent tomber en panne. Prévoyez donc aussi une radio à piles ou une radio à manivelle, de préférence avec DAB+ et FM. Les autorités peuvent aussi utiliser des panneaux d'information, des dépliants, la communication en porte-à-porte et les voitures à haut-parleur de la police (Centre de crise).
+
 **Comment reconnaître un vrai message**
 
 - Il commence toujours par « BE-Alert ».
@@ -329,7 +368,7 @@ L'inscription et les messages sont gratuits.
 
 Enregistrez le 1789 et le 0477 77 77 55 dans votre téléphone et marquez l'adresse e-mail comme fiable, afin que les messages n'arrivent pas dans vos spams. Plus d'informations sur BE-Alert et d'autres canaux dans le guide sur la communication et l'alerte.
 
-Source : [Centre de crise National : BE-Alert, des alertes sur votre téléphone](https://centredecrise.be/fr/que-pouvez-vous-faire/informez-vous/be-alert-des-alertes-sur-votre-telephone) · [Centre de crise National : brochure Préparés ensemble](https://centredecrise.be/sites/default/files/documents/files/WEB-Brochure-Pr%C3%AAts.%20Ensemble-FR.pdf) · [BE-Alert: Notified, wherever you are](https://www.be-alert.be/fr/comment-serez-vous-alerte/alerte-ou-que-vous-soyez) · [Vlaanderen.be : BE-Alert](https://www.vlaanderen.be/be-alert-waarschuwingssysteem-bij-noodsituaties)
+Source : [Centre de crise National : BE-Alert, des alertes sur votre téléphone](https://centredecrise.be/fr/que-pouvez-vous-faire/informez-vous/be-alert-des-alertes-sur-votre-telephone) · [Centre de crise National : brochure Préparés ensemble](https://centredecrise.be/sites/default/files/documents/files/WEB-Brochure-Pr%C3%AAts.%20Ensemble-FR.pdf) · [BE-Alert: Notified, wherever you are](https://www.be-alert.be/fr/comment-serez-vous-alerte/alerte-ou-que-vous-soyez) · [Vlaanderen.be : BE-Alert](https://www.vlaanderen.be/be-alert-waarschuwingssysteem-bij-noodsituaties) · [Centre de crise National : L'information pendant une situation d'urgence](https://centredecrise.be/fr/que-pouvez-vous-faire/informez-vous/linformation-pendant-une-situation-durgence)
 
 ## Conserver, mettre à jour et s'exercer
 

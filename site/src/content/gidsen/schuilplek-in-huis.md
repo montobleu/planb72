@@ -4,7 +4,7 @@ module: schuilen
 volgorde: 2
 kort: "Hoe je vooraf de beste plek in je woning kiest en inricht: criteria, ramen, deuren, ventilatie, voorraad, kinderen en dieren."
 status: concept
-datum: "2026-11-17"
+datum: "2026-11-18"
 bronnen:
   - naam: "Nationaal Crisiscentrum: Schuilen"
     url: https://crisiscentrum.be/nl/wat-kan-jij-doen/reageer-correct/schuilen
@@ -48,7 +48,7 @@ bronnen:
 
 Bij veel dreigingen heb je weinig tijd. Finland zegt dat er bij een luchtdreiging zeer weinig tijd zit tussen het alarm en het eigenlijke gevaar, en dat je daarom schuilt waar je op dat moment bent. In dunbevolkte gebieden en in wijken met vrijstaande huizen schuilen mensen volgens de Finse overheid bijna altijd ter plaatse. Wie vooraf weet welke ruimte in huis de beste is, verliest geen tijd.
 
-Het Nationaal Crisiscentrum raadt aan om een noodplan te maken met je huisgenoten, de drie stappen van schuilen vooraf te bespreken met familie, buren of collega's, en het plan regelmatig te oefenen. Finland raadt aan te leren hoe je de ventilatie uitschakelt, thuis en in gebouwen waar je vaak bent.
+Het Nationaal Crisiscentrum raadt aan om een noodplan te maken met je huisgenoten, de drie stappen van schuilen vooraf te bespreken met familie, buren of collega's, en het plan regelmatig te oefenen. Finland raadt aan te leren hoe je de ventilatie uitschakelt, thuis en in gebouwen waar je vaak bent. Spreek met je buren ook af hoe jullie elkaar bereiken als telefoon of internet niet werkt (Crisiscentrum).
 
 Een schuilplek in huis vervangt geen echte schuilkelder. De Tsjechische overheid ontwikkelde haar gids juist omdat vaste schuilkelders maar een klein deel van de bevolking dekken en een geïmproviseerde schuilplaats (improvizovaný úkryt) dan de oplossing is. De Oekraïense civiele bescherming zegt dat de regel van twee muren geen volledige veiligheid geeft.
 
@@ -211,7 +211,8 @@ Bron: [Nationaal Crisiscentrum: Schuilen](https://crisiscentrum.be/nl/wat-kan-ji
 
 - Drinkwater: tussen 3 en 10 liter per persoon per dag. 3 liter is net genoeg om te drinken en te koken.
 - Lang houdbaar voedsel dat je zonder water, gas of elektriciteit kunt bereiden, en een blikopener of zakmes.
-- Een radio op batterijen of een opwindbare radio, liefst met DAB+ en FM, oplaadbare batterijen en reservebatterijen.
+- Een radio op batterijen of een opwindbare radio, liefst met DAB+ en FM, oplaadbare batterijen en reservebatterijen. Zo blijf je ook zonder stroom geïnformeerd: bij een stroomonderbreking kunnen ook internet en mobiele netwerken uitvallen.
+- Een papieren lijst met belangrijke telefoonnummers.
 - Een zaklamp, liefst opwindbaar. Warme kleding of dekens.
 - Jodiumtabletten. Neem ze nooit in op eigen initiatief.
 - Babyvoeding, luiers en speelgoed als je kleine kinderen hebt. Eten en materiaal voor huisdieren.
@@ -260,7 +261,7 @@ Bron: [Nationaal Crisiscentrum: Schuilen](https://crisiscentrum.be/nl/wat-kan-ji
 
 ## Gedrag tijdens het schuilen
 
-- Volg de instructies van de overheid via radio, tv, BE-Alert en officiële websites (Crisiscentrum).
+- Volg de instructies van de overheid op een radio op batterijen of een opwindbare radio. Let ook op omroepwagens van de politie in de straat. Werkt het netwerk, dan komen de instructies ook via BE-Alert en officiële websites (Crisiscentrum).
 - Bel niet onnodig. Een overbelast netwerk kan de hulpverlening verstoren (Nucleair risico).
 - Rook niet in de schuilruimte (Tsjechië).
 - Wees rekening houdend: maak geen lawaai en vermijd ruzie. Een schuilplaats vraagt veel van mensen, lichamelijk en psychisch (Tsjechië). Oekraïne vraagt discipline en zo weinig mogelijk heen en weer lopen.
@@ -268,7 +269,7 @@ Bron: [Nationaal Crisiscentrum: Schuilen](https://crisiscentrum.be/nl/wat-kan-ji
 - Sluit voor je naar een schuilkelder buiten je woning gaat gas, elektriciteit en water af en sluit ramen en ventilatieroosters (Oekraïne). Zwitserland noemt ook: elektrische toestellen uit, open vuur doven, buren verwittigen, huisdieren zo goed mogelijk onderbrengen met water en voer.
 - Kun je de ruimte niet zelfstandig verlaten, zeg het dan tegen je buren (Oekraïne).
 
-Bron: [Nationaal Crisiscentrum: Schuilen](https://crisiscentrum.be/nl/wat-kan-jij-doen/reageer-correct/schuilen) · [Nucleair risico: Schuilen, de beste bescherming](https://nucleairrisico.be/nl/wat-kan-jij-doen/schuilen-de-beste-bescherming) · [Sebeochrana ukrytím](https://mv.gov.cz/clanek/sebeochrana-ukrytim.aspx) · [Dovidka.info: What is a shelter](https://dovidka.info/en/what-is-shelter/) · [Suomi.fi: Military conflicts and civil defence](https://www.suomi.fi/guides/preparedness/how-to-prepare-for-incidents-and-crises/military-conflicts-and-civil-defence) · [BABS: Der Schutzraum](https://www.sz.ch/public/upload/assets/87489/Der_Schutzraum.pdf?fp=2)
+Bron: [Nationaal Crisiscentrum: Schuilen](https://crisiscentrum.be/nl/wat-kan-jij-doen/reageer-correct/schuilen) · [Nationaal Crisiscentrum: brochure Samen voorbereid](https://crisiscentrum.be/sites/default/files/documents/files/WEB-Brochure%20Samen%20voorbereid-NL.pdf) · [Nucleair risico: Schuilen, de beste bescherming](https://nucleairrisico.be/nl/wat-kan-jij-doen/schuilen-de-beste-bescherming) · [Sebeochrana ukrytím](https://mv.gov.cz/clanek/sebeochrana-ukrytim.aspx) · [Dovidka.info: What is a shelter](https://dovidka.info/en/what-is-shelter/) · [Suomi.fi: Military conflicts and civil defence](https://www.suomi.fi/guides/preparedness/how-to-prepare-for-incidents-and-crises/military-conflicts-and-civil-defence) · [BABS: Der Schutzraum](https://www.sz.ch/public/upload/assets/87489/Der_Schutzraum.pdf?fp=2)
 
 ## Kinderen
 

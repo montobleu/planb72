@@ -2,9 +2,9 @@
 titel: "Het gezinsnoodplan"
 module: voorbereiding
 volgorde: 3
-kort: "Wat in een noodplan hoort, hoe je ontmoetingspunten en contactpersonen kiest, welke afspraken je maakt met school, werk, buren en zorgverleners, en hoe je je inschrijft op BE-Alert."
+kort: "Eerst de afspraken die zonder telefoon werken: een ontmoetingspunt, een contactpersoon buiten de streek en een briefje als je vertrekt. Daarna wat verder in een noodplan hoort, welke afspraken je maakt met school, werk, buren en zorgverleners, en hoe je je inschrijft op BE-Alert."
 status: concept
-datum: "2026-11-17"
+datum: "2026-11-18"
 bronnen:
   - naam: "Nationaal Crisiscentrum: brochure Samen voorbereid"
     url: "https://crisiscentrum.be/sites/default/files/documents/files/WEB-Brochure%20Samen%20voorbereid-NL.pdf"
@@ -24,6 +24,20 @@ bronnen:
     url: "https://crisiscentrum.be/nl/wat-kan-jij-doen/maak-een-plan/een-plan-voor-dieren"
   - naam: "Nationaal Crisiscentrum: Evacueren"
     url: "https://crisiscentrum.be/nl/wat-kan-jij-doen/reageer-correct/evacueren"
+  - naam: "Nationaal Crisiscentrum: Verstoring van de digitale infrastructuur"
+    url: "https://crisiscentrum.be/nl/risicos-belgie/maatschappelijke-risicos/verstoring-van-de-digitale-infrastructuur"
+  - naam: "Nationaal Crisiscentrum: Informatie tijdens een noodsituatie"
+    url: "https://crisiscentrum.be/nl/wat-kan-jij-doen/informeer-je/informatie-tijdens-een-noodsituatie"
+  - naam: "Nationaal Crisiscentrum: Een noodpakket bij je thuis"
+    url: "https://crisiscentrum.be/nl/wat-kan-jij-doen/maak-een-noodpakket/een-noodpakket-bij-je-thuis"
+  - naam: "Nationaal Crisiscentrum: Een noodpakket op locatie"
+    url: "https://crisiscentrum.be/nl/wat-kan-jij-doen/maak-een-noodpakket/een-noodpakket-op-locatie"
+  - naam: "112.be: Veelgestelde vragen"
+    url: "https://112.be/nl/veelgestelde-vragen"
+  - naam: "FOD Economie: vragen van gezinnen over elektriciteitsschaarste"
+    url: "https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door"
+  - naam: "Jeugd Rode Kruis: poster 4 stappen in eerste hulp"
+    url: "https://jeugd.rodekruis.be/storage/jrk/2026-034-jrk-poster-didactisch-materiaal-4-stappen-hr.pdf"
   - naam: "Nationaal Crisiscentrum: BE-Alert, waarschuwingen op je telefoon"
     url: "https://crisiscentrum.be/nl/wat-kan-jij-doen/informeer-je/be-alert-waarschuwingen-op-je-telefoon"
   - naam: "BE-Alert: Notified, wherever you are"
@@ -32,6 +46,8 @@ bronnen:
     url: "https://www.vlaanderen.be/be-alert-waarschuwingssysteem-bij-noodsituaties"
   - naam: "Denk vooruit: Noodplan"
     url: "https://www.denkvooruit.nl/bereid-je-voor/noodplan"
+  - naam: "Denk vooruit: Stel je noodpakket samen"
+    url: "https://www.denkvooruit.nl/bereid-je-voor/stel-je-noodpakket-samen"
   - naam: "Denk vooruit: informatieboekje Bereid je voor op een noodsituatie"
     url: "https://www.denkvooruit.nl/site/binaries/site-content/collections/documents/2025/11/17/informatieboekje-bereid-je-voor-op-een-noodsituatie/informatieboekje-bereid-je-voor-op-een-noodsituatie.pdf"
   - naam: "Ready.gov: Make A Plan"
@@ -52,9 +68,53 @@ bronnen:
 
 Een noodplan zijn afspraken die je vooraf maakt met de mensen om je heen: hoe je elkaar bereikt of terugvindt, wie wat doet en wie extra hulp nodig heeft. Het Nationaal Crisiscentrum legt uit waarom: in een noodsituatie ben je soms een tijd op jezelf aangewezen. De hulpdiensten helpen zo snel mogelijk, maar moeten prioriteiten stellen.
 
-Het Crisiscentrum heeft een eenvoudig invulbaar noodplan dat je gratis kunt downloaden. Denk vooruit heeft een losse noodkaart en een uitgebreid noodplan. Ready.gov heeft een invulformulier. Deze gids volgt het Belgische model en vult aan met wat andere bronnen toevoegen.
+Bij een stroomonderbreking kunnen ook internet en mobiele netwerken uitvallen (Crisiscentrum). Gsm-masten houden het één tot twee uur zonder stroom, en de vaste lijn werkt dan waarschijnlijk niet (FOD Economie). Begin daarom met de afspraken die zonder telefoon werken: waar je elkaar terugvindt, wie je contactpersoon buiten de streek is en welk briefje je achterlaat als je vertrekt. Schrijf alles op papier.
 
-Bron: [Nationaal Crisiscentrum: Een plan bij je thuis](https://crisiscentrum.be/nl/wat-kan-jij-doen/maak-een-plan/een-plan-bij-je-thuis) · [Nationaal Crisiscentrum: Mijn eigen noodplan](https://crisiscentrum.be/sites/default/files/documents/files/MijnEigenNoodplan_interactievePDF.pdf) · [Denk vooruit: Noodplan](https://www.denkvooruit.nl/bereid-je-voor/noodplan) · [Ready.gov: Make A Plan](https://www.ready.gov/plan)
+Het Crisiscentrum heeft een eenvoudig invulbaar noodplan dat je vooraf gratis kunt downloaden en afdrukken. Denk vooruit heeft een losse noodkaart en een uitgebreid noodplan. Ready.gov heeft een invulformulier. Deze gids volgt het Belgische model en vult aan met wat andere bronnen toevoegen.
+
+Bron: [Nationaal Crisiscentrum: Een plan bij je thuis](https://crisiscentrum.be/nl/wat-kan-jij-doen/maak-een-plan/een-plan-bij-je-thuis) · [Nationaal Crisiscentrum: Mijn eigen noodplan](https://crisiscentrum.be/sites/default/files/documents/files/MijnEigenNoodplan_interactievePDF.pdf) · [Nationaal Crisiscentrum: brochure Samen voorbereid](https://crisiscentrum.be/sites/default/files/documents/files/WEB-Brochure%20Samen%20voorbereid-NL.pdf) · [FOD Economie: vragen van gezinnen over elektriciteitsschaarste](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door) · [Denk vooruit: Noodplan](https://www.denkvooruit.nl/bereid-je-voor/noodplan) · [Ready.gov: Make A Plan](https://www.ready.gov/plan)
+
+## Ontmoetingspunten
+
+Als telefoon en internet wegvallen, moet je zonder overleg weten waar je elkaar vindt.
+
+- Het Crisiscentrum: spreek op voorhand met je familie af waar je elkaar kunt terugvinden als jullie elkaar niet kunnen bereiken. Bespreek de veiligste vluchtweg en ontmoetingsplaats met je huisgenoten en zet die in je noodplan.
+- Denk vooruit: kies met je gezin, familie of vrienden een plek waar je elkaar ontmoet als er geen telefoon- of internetverbinding is. Spreek ook af wanneer je daar samenkomt of wanneer je bij elkaar langsgaat. In het voorbeeld van het informatieboekje komt iemand na twee dagen bij zijn ouders kijken, zoals vooraf afgesproken.
+- Ready.gov: kies een vertrouwde plek die makkelijk te vinden is, en pas ze aan de omstandigheden aan.
+
+**Opties, van dichtbij naar ver**
+
+| Ontmoetingspunt | Wanneer |
+| --- | --- |
+| Vlak bij huis, buiten | bij brand of een plots gevaar in de woning; iedereen moet snel buiten zijn |
+| Bij de contactpersoon in de buurt | als je niet thuis kunt blijven maar de buurt veilig is |
+| Bij de contactpersoon wat verder van huis | als de wijk of gemeente niet bereikbaar is of geëvacueerd wordt |
+| Het opvangcentrum dat de overheid aanwijst | bij een evacuatie; je hoort het via de radio, de hulpdiensten of omroepwagens van de politie, en als het netwerk werkt via BE-Alert |
+
+Ready.gov raadt aan bestemmingen in verschillende richtingen te kiezen, zodat je opties hebt.
+
+**Laat een briefje achter.** Moet je je huis verlaten, laat dan een briefje achter waarop staat wanneer je vertrok en waar je naartoe gaat (Ready.gov).
+
+Bron: [Nationaal Crisiscentrum: Verstoring van de digitale infrastructuur](https://crisiscentrum.be/nl/risicos-belgie/maatschappelijke-risicos/verstoring-van-de-digitale-infrastructuur) · [Denk vooruit: informatieboekje](https://www.denkvooruit.nl/site/binaries/site-content/collections/documents/2025/11/17/informatieboekje-bereid-je-voor-op-een-noodsituatie/informatieboekje-bereid-je-voor-op-een-noodsituatie.pdf) · [Ready.gov: Make A Plan](https://www.ready.gov/plan) · [Ready.gov: Evacuation](https://www.ready.gov/evacuation) · [Nationaal Crisiscentrum: brochure Samen voorbereid](https://crisiscentrum.be/sites/default/files/documents/files/WEB-Brochure%20Samen%20voorbereid-NL.pdf) · [Nationaal Crisiscentrum: Evacueren](https://crisiscentrum.be/nl/wat-kan-jij-doen/reageer-correct/evacueren) · [Nationaal Crisiscentrum: Informatie tijdens een noodsituatie](https://crisiscentrum.be/nl/wat-kan-jij-doen/informeer-je/informatie-tijdens-een-noodsituatie)
+
+## Contactpersonen: dichtbij en buiten de streek
+
+Het Crisiscentrum raadt twee soorten contactpersonen aan:
+
+- **Een contactpersoon in de buurt**, bij wie je terecht kunt als er iets bij jou thuis gebeurt.
+- **Een contactpersoon wat verder van huis**, voor als je niet tot in je straat, wijk of gemeente geraakt.
+
+Bij een evacuatie raadt het Crisiscentrum ook aan een familielid of vriend die niet in dezelfde zone woont te vragen om contactpersoon te zijn. Zodra je in veiligheid bent, laat je het hem of haar weten. Zo weet die persoon waar iedereen is als familieleden gescheiden zijn geraakt. Ready.gov noemt dit een contact buiten de staat en raadt aan die persoon te bellen of te mailen waar je naartoe gaat, als de tijd het toelaat.
+
+**Zo maak je het bruikbaar, ook zonder telefoon**
+
+1. Zorg dat iedereen in huis de adressen en telefoonnummers kent en dat er een lijst op papier is. Zo vind je elkaar terug, ook als je je gsm vergeten bent of je batterij leeg is (Crisiscentrum).
+2. Leer telefoonnummers en e-mailadressen van familieleden uit het hoofd. Help kinderen belangrijke informatie te onthouden, zoals de naam van hun ouders (Rode Kruis-Vlaanderen, Restoring Family Links).
+3. Vraag je contactpersonen of je bij hen terecht kunt, ook met je huisdier (Crisiscentrum).
+4. Geef een foto of kopie van je ingevulde plan aan je contactpersonen (Crisiscentrum, Denk vooruit).
+5. Programmeer een contactpersoon ook in je telefoon. In sommige toestellen heet dat ICE, in case of emergency (Crisiscentrum).
+
+Bron: [Nationaal Crisiscentrum: Een plan bij je thuis](https://crisiscentrum.be/nl/wat-kan-jij-doen/maak-een-plan/een-plan-bij-je-thuis) · [Nationaal Crisiscentrum: Evacueren](https://crisiscentrum.be/nl/wat-kan-jij-doen/reageer-correct/evacueren) · [Ready.gov: Evacuation](https://www.ready.gov/evacuation) · [Denk vooruit: Noodplan](https://www.denkvooruit.nl/bereid-je-voor/noodplan) · [Rode Kruis-Vlaanderen: Restoring Family Links](https://www.rodekruis.be/restoringfamilylinks/en/about-us)
 
 ## Vragen die het plan beantwoordt
 
@@ -92,7 +152,7 @@ Bron: [Denk vooruit: Noodplan](https://www.denkvooruit.nl/bereid-je-voor/noodpla
 
 **3. Leer de snelste weg naar buiten.** Wat als de voordeur niet bereikbaar is, of als er geen licht is. Denk vooraf na over alle manieren om veilig buiten te komen.
 
-**4. Ken de noodnummers.** Download de app 112 BE. Maak een lijst met je leverancier van gas, water en elektriciteit, de centrale van je alarmsysteem, je huisarts, je verzekeraar, je buren of contactpersonen.
+**4. Ken de noodnummers.** Maak een lijst met je leverancier van gas, water en elektriciteit, de centrale van je alarmsysteem, je huisarts, je verzekeraar, je buren of contactpersonen. Zet die lijst op papier (Samen voorbereid). Download vooraf ook de app 112 BE.
 
 **5. Bepaal contactpersonen** (zie hieronder).
 
@@ -104,7 +164,7 @@ Bron: [Denk vooruit: Noodplan](https://www.denkvooruit.nl/bereid-je-voor/noodpla
 - Pas het plan aan voor wie speciale noden heeft, bijvoorbeeld specifieke medicatie, een handicap of beperkte digitale vaardigheden. Oefen regelmatig.
 - Neem je dieren op in het plan.
 
-Bron: [Nationaal Crisiscentrum: Een plan bij je thuis](https://crisiscentrum.be/nl/wat-kan-jij-doen/maak-een-plan/een-plan-bij-je-thuis)
+Bron: [Nationaal Crisiscentrum: Een plan bij je thuis](https://crisiscentrum.be/nl/wat-kan-jij-doen/maak-een-plan/een-plan-bij-je-thuis) · [Nationaal Crisiscentrum: brochure Samen voorbereid](https://crisiscentrum.be/sites/default/files/documents/files/WEB-Brochure%20Samen%20voorbereid-NL.pdf)
 
 ## Wat je invult op het Belgische noodplan
 
@@ -124,64 +184,39 @@ Het invulbare plan van het Crisiscentrum vraagt:
 | Belangrijke diensten | internet, water, verzekering, gas, elektriciteit, telefoon: naam, telefoon, klantnummer |
 | Werk samen | hoe je elkaar verwittigt; wie in je netwerk welke hulp kan bieden; wie in je buurt extra hulp nodig heeft |
 
-**Noodnummers die op het Belgische plan en in de brochure staan**
+**Noodnummers om vooraf op papier te noteren**
+
+Deze nummers staan op het Belgische plan en in de brochure. Ze werken alleen als het netwerk werkt.
 
 | Nummer | Waarvoor |
 | --- | --- |
-| 112 of de app 112 | ziekenwagen, brandweer en politie bij levensbedreigende situaties |
+| 112, of de app 112 als het netwerk werkt | ziekenwagen, brandweer en politie bij levensbedreigende situaties |
 | 101 | politie |
-| 1722 of het e-loket 1722.be | niet-dringende brandweerhulp bij storm of wateroverlast |
+| 1722, of het e-loket 1722.be als het internet werkt | niet-dringende brandweerhulp bij storm of wateroverlast |
 | 1733 | huisarts van wacht |
 | 070 245 245 | Antigifcentrum |
 | 078 170 170 | Card Stop |
 | 0800 65 065 | gasgeur of gaslek, Vlaanderen |
 | 0800 19 400 | gasgeur of gaslek, Brussels Hoofdstedelijk Gewest |
 | 0800 87 087 | gasgeur of gaslek, Wallonië |
-| 106 of tele-onthaal.be | Tele-Onthaal, als je nood hebt aan een gesprek |
 
 Bel je 112, geef dan zo duidelijk mogelijk door waar je bent, wat er gebeurd is en hoeveel gewonden er zijn (brochure).
 
-Bron: [Nationaal Crisiscentrum: Mijn eigen noodplan](https://crisiscentrum.be/sites/default/files/documents/files/MijnEigenNoodplan_interactievePDF.pdf) · [Nationaal Crisiscentrum: brochure Samen voorbereid](https://crisiscentrum.be/sites/default/files/documents/files/WEB-Brochure%20Samen%20voorbereid-NL.pdf)
+**Lukt bellen niet.** Probeer een ander toestel of laat buren of omstanders bellen. Verplaats je enkele meters en probeer opnieuw. Werkt bellen helemaal niet, vraag dan hulp in je buurt en volg de informatie van de overheid op de radio. De gemeente kan een informatie- en onthaalpunt openen: vraag vooraf aan je gemeente waar dat is en schrijf het in je plan (112.be, FOD Economie). Zie ook Noodnummers in de app, Als bellen niet lukt.
 
-## Contactpersonen: dichtbij en buiten de regio
+Bron: [Nationaal Crisiscentrum: Mijn eigen noodplan](https://crisiscentrum.be/sites/default/files/documents/files/MijnEigenNoodplan_interactievePDF.pdf) · [Nationaal Crisiscentrum: brochure Samen voorbereid](https://crisiscentrum.be/sites/default/files/documents/files/WEB-Brochure%20Samen%20voorbereid-NL.pdf) · [112.be: Veelgestelde vragen](https://112.be/nl/veelgestelde-vragen) · [FOD Economie: vragen van gezinnen over elektriciteitsschaarste](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door)
 
-Het Crisiscentrum raadt twee soorten contactpersonen aan:
+## Na de crisis, als de telefoon weer werkt
 
-- **Een contactpersoon in de buurt**, bij wie je terecht kunt als er iets bij jou thuis gebeurt.
-- **Een contactpersoon wat verder van huis**, voor als je niet tot in je straat, wijk of gemeente geraakt.
+Het Belgische plan vermeldt ook een nummer voor wie nood heeft aan een gesprek. Dat is geen noodnummer. Noteer het apart, voor als de telefoon of het internet weer werkt.
 
-Bij een evacuatie raadt het Crisiscentrum ook aan een familielid of vriend die niet in dezelfde zone woont te vragen om contactpersoon te zijn. Zodra je in veiligheid bent, laat je het hem of haar weten. Zo weet die persoon waar iedereen is als familieleden gescheiden zijn geraakt. Ready.gov noemt dit een contact buiten de staat en raadt aan die persoon te bellen of te mailen waar je naartoe gaat, als de tijd het toelaat.
-
-**Zo maak je het bruikbaar**
-
-1. Zorg dat iedereen in huis de adressen en telefoonnummers kent en dat er een lijst op papier is. Zo vind je elkaar terug, ook als je je gsm vergeten bent of je batterij leeg is (Crisiscentrum).
-2. Programmeer een contactpersoon in je telefoon. In sommige toestellen heet dat ICE, in case of emergency (Crisiscentrum).
-3. Vraag je contactpersonen of je bij hen terecht kunt, ook met je huisdier (Crisiscentrum).
-4. Geef een foto of kopie van je ingevulde plan aan je contactpersonen (Crisiscentrum, Denk vooruit).
-5. Leer telefoonnummers en e-mailadressen van familieleden uit het hoofd. Help kinderen belangrijke informatie te onthouden, zoals de naam van hun ouders (Rode Kruis-Vlaanderen, Restoring Family Links).
-
-Bron: [Nationaal Crisiscentrum: Een plan bij je thuis](https://crisiscentrum.be/nl/wat-kan-jij-doen/maak-een-plan/een-plan-bij-je-thuis) · [Nationaal Crisiscentrum: Evacueren](https://crisiscentrum.be/nl/wat-kan-jij-doen/reageer-correct/evacueren) · [Ready.gov: Evacuation](https://www.ready.gov/evacuation) · [Denk vooruit: Noodplan](https://www.denkvooruit.nl/bereid-je-voor/noodplan) · [Rode Kruis-Vlaanderen: Restoring Family Links](https://www.rodekruis.be/restoringfamilylinks/en/about-us)
-
-## Ontmoetingspunten
-
-Als telefoon en internet wegvallen, moet je zonder overleg weten waar je elkaar vindt.
-
-- Denk vooruit: kies met je gezin, familie of vrienden een plek waar je elkaar ontmoet als er geen telefoon- of internetverbinding is. Spreek ook af wanneer je daar samenkomt of wanneer je bij elkaar langsgaat. In het voorbeeld van het informatieboekje komt iemand na twee dagen bij zijn ouders kijken, zoals vooraf afgesproken.
-- Ready.gov: kies een vertrouwde plek die makkelijk te vinden is, en pas ze aan de omstandigheden aan.
-- Het Crisiscentrum: bespreek de veiligste vluchtweg en ontmoetingsplaats met je huisgenoten en zet die in je noodplan.
-
-**Opties, van dichtbij naar ver**
-
-| Ontmoetingspunt | Wanneer |
+| Nummer | Waarvoor |
 | --- | --- |
-| Vlak bij huis, buiten | bij brand of een plots gevaar in de woning; iedereen moet snel buiten zijn |
-| Bij de contactpersoon in de buurt | als je niet thuis kunt blijven maar de buurt veilig is |
-| Bij de contactpersoon wat verder van huis | als de wijk of gemeente niet bereikbaar is of geëvacueerd wordt |
-| Het opvangcentrum dat de overheid aanwijst | bij een evacuatie; je hoort via de officiële kanalen waar het is |
+| 106 of tele-onthaal.be | Tele-Onthaal, als je nood hebt aan een gesprek |
 
-Ready.gov raadt aan bestemmingen in verschillende richtingen te kiezen, zodat je opties hebt.
+Tijdens de crisis steun je elkaar ter plaatse. Zie de gids over mentale veerkracht en psychologische eerste hulp; daar staan ook de andere hulplijnen voor na de crisis.
 
-Bron: [Denk vooruit: informatieboekje](https://www.denkvooruit.nl/site/binaries/site-content/collections/documents/2025/11/17/informatieboekje-bereid-je-voor-op-een-noodsituatie/informatieboekje-bereid-je-voor-op-een-noodsituatie.pdf) · [Ready.gov: Make A Plan](https://www.ready.gov/plan) · [Ready.gov: Evacuation](https://www.ready.gov/evacuation) · [Nationaal Crisiscentrum: brochure Samen voorbereid](https://crisiscentrum.be/sites/default/files/documents/files/WEB-Brochure%20Samen%20voorbereid-NL.pdf) · [Nationaal Crisiscentrum: Evacueren](https://crisiscentrum.be/nl/wat-kan-jij-doen/reageer-correct/evacueren)
+Bron: [Nationaal Crisiscentrum: Mijn eigen noodplan](https://crisiscentrum.be/sites/default/files/documents/files/MijnEigenNoodplan_interactievePDF.pdf) · [Nationaal Crisiscentrum: brochure Samen voorbereid](https://crisiscentrum.be/sites/default/files/documents/files/WEB-Brochure%20Samen%20voorbereid-NL.pdf)
 
 ## Taken verdelen
 
@@ -194,7 +229,8 @@ Het Crisiscentrum raadt aan de taken vooraf te verdelen, bijvoorbeeld wie de kin
 | Huisdieren in de reismand | | |
 | Gas, water en elektriciteit afsluiten als dat gevraagd wordt | | |
 | Buur of familielid met extra zorgnoden verwittigen | | |
-| Contactpersoon buiten de regio laten weten waar je bent | | |
+| Briefje achterlaten: wanneer vertrokken, waarheen | | |
+| Contactpersoon buiten de streek laten weten waar je bent | | |
 | Voorraad controleren, elk half jaar | | |
 
 Bron: [Nationaal Crisiscentrum: Evacueren](https://crisiscentrum.be/nl/wat-kan-jij-doen/reageer-correct/evacueren) · [Ready.gov: Evacuation](https://www.ready.gov/evacuation) · [Denk vooruit: Stel je noodpakket samen](https://www.denkvooruit.nl/bereid-je-voor/stel-je-noodpakket-samen)
@@ -203,10 +239,10 @@ Bron: [Nationaal Crisiscentrum: Evacueren](https://crisiscentrum.be/nl/wat-kan-j
 
 **Als ouder**
 
-- Registreer het adres van de school van je kinderen in BE-Alert. Zo krijg je een bericht bij een noodsituatie in de buurt van de school (Crisiscentrum).
 - Spreek af wie de kinderen ophaalt als jij niet kunt en je telefoon niet werkt (Denk vooruit).
-- Zorg dat je kinderen een contactpersoon hebben en weten hoe ze die bereiken. Leer ze wanneer en hoe ze belangrijke nummers bellen (Ready.gov). Het Crisiscentrum raadt aan jonge kinderen 112 te leren bellen.
 - Spreek een gezinswachtwoord of zin af, zodat je kind niet met een vreemde meegaat (Ready.gov).
+- Zorg dat je kinderen een contactpersoon hebben en weten hoe ze die bereiken. Leer ze wanneer en hoe ze belangrijke nummers bellen (Ready.gov). Het Crisiscentrum raadt aan jonge kinderen 112 te leren bellen. De jeugdposter van het Rode Kruis leert kinderen hulp te verwittigen: een volwassene, een dokter of de noodcentrale 112.
+- Registreer het adres van de school van je kinderen in BE-Alert. Zo krijg je een bericht bij een noodsituatie in de buurt van de school, als het netwerk werkt (Crisiscentrum).
 
 **Wat de school zelf doet (Crisiscentrum)**
 
@@ -221,7 +257,7 @@ Het Crisiscentrum heeft voor lagere scholen het lessenpakket en spel BE-Ready.
 
 **Bij een activiteit op verplaatsing** raadt het Crisiscentrum aan dat de coördinator altijd een lijst van de aanwezigen bij zich heeft en vooraf nadenkt over hoe hij de ouders verwittigt.
 
-Bron: [Nationaal Crisiscentrum: Een plan op school](https://crisiscentrum.be/nl/wat-kan-jij-doen/maak-een-plan/een-plan-op-school) · [Nationaal Crisiscentrum: BE-Alert](https://crisiscentrum.be/nl/wat-kan-jij-doen/informeer-je/be-alert-waarschuwingen-op-je-telefoon) · [Nationaal Crisiscentrum: Een plan voor wie extra hulp nodig heeft](https://crisiscentrum.be/nl/wat-kan-jij-doen/maak-een-plan/een-plan-voor-wie-extra-hulp-nodig-heeft) · [Nationaal Crisiscentrum: Een plan in jouw buurt of vereniging](https://crisiscentrum.be/nl/wat-kan-jij-doen/maak-een-plan/een-plan-jouw-buurt-vereniging) · [Denk vooruit: Noodplan](https://www.denkvooruit.nl/bereid-je-voor/noodplan) · [Ready.gov: Extreme Heat](https://www.ready.gov/heat)
+Bron: [Nationaal Crisiscentrum: Een plan op school](https://crisiscentrum.be/nl/wat-kan-jij-doen/maak-een-plan/een-plan-op-school) · [Nationaal Crisiscentrum: BE-Alert](https://crisiscentrum.be/nl/wat-kan-jij-doen/informeer-je/be-alert-waarschuwingen-op-je-telefoon) · [Nationaal Crisiscentrum: Een plan voor wie extra hulp nodig heeft](https://crisiscentrum.be/nl/wat-kan-jij-doen/maak-een-plan/een-plan-voor-wie-extra-hulp-nodig-heeft) · [Nationaal Crisiscentrum: Een plan in jouw buurt of vereniging](https://crisiscentrum.be/nl/wat-kan-jij-doen/maak-een-plan/een-plan-jouw-buurt-vereniging) · [Denk vooruit: Noodplan](https://www.denkvooruit.nl/bereid-je-voor/noodplan) · [Ready.gov: Extreme Heat](https://www.ready.gov/heat) · [Jeugd Rode Kruis: poster 4 stappen in eerste hulp](https://jeugd.rodekruis.be/storage/jrk/2026-034-jrk-poster-didactisch-materiaal-4-stappen-hr.pdf)
 
 ## Werk
 
@@ -240,23 +276,24 @@ Bron: [Nationaal Crisiscentrum: Een plan op het werk](https://crisiscentrum.be/n
 
 Het Crisiscentrum raadt aan een netwerk op te bouwen met buren, kennissen, familie en vrienden, en bestaande netwerken zoals een buurtvereniging of sportclub in te zetten. Maak afspraken over:
 
-- **Hoe je elkaar verwittigt.** Via sociale media of berichtenapps; via de telefoon, met afspraken wie je 's nachts mag bellen; en hoe je elkaar bereikt zonder telefoon of internet.
+- **Hoe je elkaar verwittigt.** Eerst: hoe je elkaar bereikt zonder telefoon of internet. Daarnaast, als het netwerk werkt: via de telefoon, met afspraken wie je 's nachts mag bellen, en via sociale media of berichtenapps.
 - **Welke risico's.** Nucleaire noodplanningszones, overstromingsgebieden, sevesobedrijven in de buurt, en risico's voor het hele land zoals urenlang geen elektriciteit, verwarming of internet.
 - **Wie welke hulp kan bieden.** Kennis zoals EHBO of klusvaardigheid, materiaal zoals gereedschap, ruimte zoals een grote garage of kelder.
 - **Wie extra hulp nodig heeft.** Bijvoorbeeld mensen met een handicap, alleenstaanden met jonge kinderen, ouderen.
 
-Andere manieren om elkaar te helpen die het Crisiscentrum noemt: samen een EHBO-cursus volgen, bloed of plasma geven, juiste informatie verspreiden, een slaapplaats aanbieden aan wie niet naar huis kan, spullen uitlenen, boodschappen doen, je gsm uitlenen of een hotspot delen, koken voor iemand.
+Andere manieren om elkaar te helpen die het Crisiscentrum noemt: samen een EHBO-cursus volgen, bloed of plasma geven, juiste informatie verspreiden, een slaapplaats aanbieden aan wie niet naar huis kan, spullen uitlenen, boodschappen doen, je gsm uitlenen of een hotspot delen, koken voor iemand. Bij een stroomonderbreking kun je met verschillende mensen samenkomen om licht en warmte te delen.
 
 **In een appartementsgebouw** bespreek je ook wie de sleutels heeft, wie aan de watertoevoer, gaskraan en meters kan, of er een gemeenschappelijk ventilatiesysteem is en wie het kan uitschakelen, en wie de bewoners helpt die extra hulp nodig hebben. Ben je geen eigenaar, ken dan de nooduitgangen.
 
-Bron: [Nationaal Crisiscentrum: Een plan in jouw buurt of vereniging](https://crisiscentrum.be/nl/wat-kan-jij-doen/maak-een-plan/een-plan-jouw-buurt-vereniging) · [Nationaal Crisiscentrum: brochure Samen voorbereid](https://crisiscentrum.be/sites/default/files/documents/files/WEB-Brochure%20Samen%20voorbereid-NL.pdf)
+Bron: [Nationaal Crisiscentrum: Een plan in jouw buurt of vereniging](https://crisiscentrum.be/nl/wat-kan-jij-doen/maak-een-plan/een-plan-jouw-buurt-vereniging) · [Nationaal Crisiscentrum: brochure Samen voorbereid](https://crisiscentrum.be/sites/default/files/documents/files/WEB-Brochure%20Samen%20voorbereid-NL.pdf) · [Nationaal Crisiscentrum: Een noodpakket bij je thuis](https://crisiscentrum.be/nl/wat-kan-jij-doen/maak-een-noodpakket/een-noodpakket-bij-je-thuis)
 
 ## Mensen met zorgnoden
 
 **Algemeen (Crisiscentrum)**
 
 - Kijk of de evacuatieroutes toegankelijk zijn en of je aan de gaskraan, meter en watertoevoer kunt.
-- Bespreek met mensen uit je omgeving hoe ze je kunnen helpen en hoe jullie contact houden. Zij kunnen jouw adres registreren in BE-Alert, zodat ook zij een bericht krijgen.
+- Bespreek met mensen uit je omgeving hoe ze je kunnen helpen en hoe jullie contact houden. Denk aan alternatieven om met anderen te communiceren, ook als je geen telefoon of internet hebt.
+- Zij kunnen jouw adres registreren in BE-Alert, zodat ook zij een bericht krijgen.
 - Vraag een medicatielijst aan je huisarts of apotheker en steek die bij je belangrijke documenten.
 
 **Per situatie (Crisiscentrum)**
@@ -269,7 +306,7 @@ Bron: [Nationaal Crisiscentrum: Een plan in jouw buurt of vereniging](https://cr
 | Toestellen op elektriciteit (zuurstof, elektrische rolstoel) | bespreek met je zorgverleners wat je doet bij een panne |
 | Slecht te been | oefen af en toe of je snel buiten raakt; wie helpt en hoe je ze bereikt |
 | Moeite met digitale technologie | laat iemand je inschrijven op BE-Alert; leer berichten herkennen; spreek af hoe anderen je verwittigen |
-| Weinig of geen Nederlands of Frans | schrijf je in op BE-Alert, vraag je omgeving om berichten te vertalen, voorzie een vertaalapp of iemand die tolkt |
+| Weinig of geen Nederlands of Frans | schrijf je in op BE-Alert, vraag je omgeving om berichten te vertalen, voorzie iemand die tolkt of een vertaalapp |
 
 **Aanvullingen van Ready.gov**
 
@@ -318,6 +355,8 @@ Inschrijven blijft nuttig: dan word je ook verwittigd voor adressen waar je op d
 
 Inschrijven en berichten zijn gratis.
 
+**Als het netwerk wegvalt.** BE-Alert stuurt berichten via sms, e-mail of een gesproken oproep. Bij een stroomonderbreking kunnen internet en mobiele netwerken uitvallen. Zorg daarom ook voor een radio op batterijen of een opwindradio, liefst met DAB+ en FM. De overheid kan ook informatieborden, folders, deur-aan-deurcommunicatie en omroepwagens van de politie inzetten (Crisiscentrum).
+
 **Zo herken je een echt bericht**
 
 - Het begint altijd met "BE-Alert".
@@ -327,7 +366,7 @@ Inschrijven en berichten zijn gratis.
 
 Sla 1789 en 0477 77 77 55 op in je telefoon en markeer het e-mailadres als betrouwbaar, zodat berichten niet in je spam belanden. Meer over BE-Alert en andere kanalen in de gids over communicatie en alarmering.
 
-Bron: [Nationaal Crisiscentrum: BE-Alert, waarschuwingen op je telefoon](https://crisiscentrum.be/nl/wat-kan-jij-doen/informeer-je/be-alert-waarschuwingen-op-je-telefoon) · [Nationaal Crisiscentrum: brochure Samen voorbereid](https://crisiscentrum.be/sites/default/files/documents/files/WEB-Brochure%20Samen%20voorbereid-NL.pdf) · [BE-Alert: Notified, wherever you are](https://www.be-alert.be/en/how-does-be-alert-work/notified-wherever-you-are) · [Vlaanderen.be: BE-Alert](https://www.vlaanderen.be/be-alert-waarschuwingssysteem-bij-noodsituaties)
+Bron: [Nationaal Crisiscentrum: BE-Alert, waarschuwingen op je telefoon](https://crisiscentrum.be/nl/wat-kan-jij-doen/informeer-je/be-alert-waarschuwingen-op-je-telefoon) · [Nationaal Crisiscentrum: brochure Samen voorbereid](https://crisiscentrum.be/sites/default/files/documents/files/WEB-Brochure%20Samen%20voorbereid-NL.pdf) · [BE-Alert: Notified, wherever you are](https://www.be-alert.be/en/how-does-be-alert-work/notified-wherever-you-are) · [Vlaanderen.be: BE-Alert](https://www.vlaanderen.be/be-alert-waarschuwingssysteem-bij-noodsituaties) · [Nationaal Crisiscentrum: Informatie tijdens een noodsituatie](https://crisiscentrum.be/nl/wat-kan-jij-doen/informeer-je/informatie-tijdens-een-noodsituatie)
 
 ## Bewaren, bijwerken en oefenen
 

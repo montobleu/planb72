@@ -2,9 +2,9 @@
 titel: Signaux et codes de détresse
 module: communicatie
 volgorde: 21
-kort: "Demander de l'aide sans téléphone : le signal de détresse par trois, le signal de détresse alpin, SOS en morse, miroir, sifflet, lumière et fumée, signaux sol-air, gestes des bras vers un hélicoptère, marquages des équipes de sauvetage, sirènes et BE-Alert, et les fréquences de détresse à la radio."
+kort: "Demander de l'aide sans téléphone : le signal de détresse par trois, le signal de détresse alpin, SOS en morse, miroir, sifflet, lumière et fumée, signaux sol-air, gestes des bras vers un hélicoptère, marquages des équipes de sauvetage, comment vous êtes alerté sans réseau, et les fréquences de détresse à la radio."
 status: concept
-datum: "2026-11-17"
+datum: "2026-11-18"
 bronnen:
   - naam: "US Army FM 21-76 Survival Manual, chapitre 19 : Signaling techniques (domaine public, copie sur archive.org)"
     url: https://archive.org/details/fm-21-76-survival-manual
@@ -48,25 +48,39 @@ bronnen:
     url: https://www.uba.be/fr/b-ears/notre-mission
   - naam: "Centre de crise National : Feu de forêt et de végétation"
     url: https://centredecrise.be/fr/risques-en-belgique/risques-naturels/feu-de-foret
+  - naam: "SPF Economie : Questions fréquentes des ménages sur la pénurie d'électricité"
+    url: https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door
+  - naam: "Centre de crise National : Informations pendant une situation d'urgence"
+    url: https://centredecrise.be/fr/que-pouvez-vous-faire/informez-vous/linformation-pendant-une-situation-durgence
+  - naam: "Centre de crise National : brochure Préparés ensemble"
+    url: https://centredecrise.be/sites/default/files/documents/files/WEB-Brochure-Pr%C3%AAts.%20Ensemble-FR.pdf
+  - naam: "Centre de crise National : Perturbation de l'infrastructure numérique"
+    url: https://centredecrise.be/fr/risques-en-belgique/risques-societaux/defaillance-des-infrastructures-digitales
+  - naam: "Centre de crise National : Évacuer"
+    url: https://centredecrise.be/fr/que-pouvez-vous-faire/le-bon-reflexe/evacuer
 vertaling: machine
-origineel_datum: "2026-11-17"
+origineel_datum: "2026-11-18"
 ---
 
-## D'abord : pouvez-vous appeler ?
+## D'abord : demander de l'aide sans réseau
 
-Un téléphone ou l'app 112 BE est toujours le meilleur choix. Les signaux sans appareil sont pour ceux qui n'ont plus de réseau, plus d'appareil ou plus de batterie, ou pour ceux qui ont déjà été trouvés mais doivent encore transmettre quelque chose à un hélicoptère ou un avion.
+Ce guide s'adresse à ceux qui ne peuvent pas appeler : pas de réseau, pas d'appareil, plus de batterie ou une panne de réseau. Ceux qui ont déjà été trouvés mais doivent encore transmettre quelque chose à un hélicoptère ou un avion y trouvent aussi les signes.
+
+S'il y a des gens à proximité, adressez-vous d'abord à eux. Demandez de l'aide dans votre voisinage et envoyez quelqu'un chercher de l'aide. Ce que vous faites dans un village ou une ville si l'appel ne passe pas figure dans le guide Appel d'urgence, sous Si aucun appel ne passe.
+
+Si votre téléphone fonctionne malgré tout, appelez le 112 ou utilisez l'app 112 BE.
 
 | Situation | Meilleur choix | Bon choix | Solution de secours |
 | --- | --- | --- | --- |
-| Vous avez du réseau | Appeler le 112 ou l'app 112 BE | Faire appeler quelqu'un d'autre | |
-| Pas de réseau, quelqu'un à proximité | Envoyer quelqu'un à un endroit avec du réseau | Aller vous-même à un endroit avec du réseau | Signaux sonores : sifflet, appels à la voix |
+| Pas de réseau, quelqu'un à proximité | Faire chercher de l'aide par quelqu'un ou l'envoyer à un endroit avec du réseau | Aller vous-même à un endroit avec du réseau | Signaux sonores : sifflet, appels à la voix |
 | Pas de réseau, personne à proximité, de jour | Sifflet (trois ou six signaux) | Miroir vers un avion ou un hélicoptère | Vêtements ou matériel au sol selon un grand motif |
 | Pas de réseau, la nuit | Lampe de poche : SOS ou le signal de détresse alpin | Sifflet | Feu, uniquement si c'est permis et possible en sécurité |
 | Un hélicoptère ou un avion est en vue | Gestes des bras (Y ou N) | Miroir, lampe de poche | Signal sol-air |
+| Vous avez quand même du réseau | Appeler le 112 ou l'app 112 BE | Faire appeler quelqu'un d'autre | Si le 112 ne répond pas : voir le guide Appel d'urgence |
 
 Économisez votre énergie. Un sifflet vaut mieux que crier.
 
-Source : [National Park Service: Outdoor Emergency Plan](https://www.nps.gov/subjects/healthandsafety/upload/NPS-Outdoor-Emergency-Plan-508c.pdf) · [Deutscher Alpenverein: Erste Hilfe](https://www.forststeig.sachsen.de/download/Erste_Hilfe_2012_DAV.pdf) · [US Army FM 21-76, chapitre 19](https://archive.org/details/fm-21-76-survival-manual)
+Source : [National Park Service: Outdoor Emergency Plan](https://www.nps.gov/subjects/healthandsafety/upload/NPS-Outdoor-Emergency-Plan-508c.pdf) · [Deutscher Alpenverein: Erste Hilfe](https://www.forststeig.sachsen.de/download/Erste_Hilfe_2012_DAV.pdf) · [US Army FM 21-76, chapitre 19](https://archive.org/details/fm-21-76-survival-manual) · [SPF Economie : questions des ménages sur la pénurie d'électricité](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door)
 
 ## Le signal de détresse international : trois
 
@@ -272,13 +286,22 @@ Source : [US Army FM 21-76, chapitre 19](https://archive.org/details/fm-21-76-su
 
 **Sirènes.** La Belgique avait un réseau de sirènes d'alerte. Jusqu'en décembre 2018, il était testé de manière audible quatre fois par an : le premier jeudi de janvier, avril, juillet et octobre. Ensuite, BE-Alert a repris ces moments de test. Sur la page de BE-Alert qui explique comment vous êtes alerté, les sirènes ne figurent pas parmi les canaux.
 
-**Comment vous êtes alerté aujourd'hui.** Via BE-Alert (SMS, message vocal, e-mail, réseaux sociaux), via la radio et la télévision, via les réseaux sociaux, en porte-à-porte par la police, et via des haut-parleurs de la police. En cas de situation d'urgence grave, les autorités essaient de vous joindre par le plus de canaux possible. L'inscription à BE-Alert est gratuite.
+**Comment vous êtes alerté aujourd'hui.** En cas de situation d'urgence grave, les autorités essaient de vous joindre par le plus de canaux possible. Sans courant ni réseau, ce sont :
+
+- la radio : une radio à piles, une radio à manivelle ou l'autoradio ;
+- les haut-parleurs et les véhicules d'annonce de la police qui circulent dans la rue ;
+- la police qui fait du porte-à-porte ;
+- des panneaux d'information et des dépliants.
+
+Si le réseau fonctionne, une alerte arrive aussi via BE-Alert (SMS, message vocal, e-mail), la télévision et les réseaux sociaux.
+
+**À l'avance.** Prévoyez une radio à piles ou une radio à manivelle, de préférence avec DAB+ et FM. Inscrivez-vous à BE-Alert ; c'est gratuit.
 
 **Reconnaître les messages de test.** Un test BE-Alert contient toujours les mots "BE-Alert", "Ceci est un message de test. Vous ne devez rien faire", un lien ou un numéro d'information, dans la bonne langue. Les communes ne testent que le premier jeudi du mois (sauf les jours fériés), entre 8 et 20 heures, et préviennent leurs habitants à l'avance.
 
 **Vous entendez quand même une sirène ?** Nous n'avons pas trouvé d'instruction belge pour qui entend une sirène. Aux Pays-Bas, où le réseau de sirènes fonctionne encore, le conseil est : rentrez le plus vite possible, fermez les fenêtres, les portes et les autres ouvertures, coupez la ventilation mécanique, et suivez les informations. Si vous ne pouvez pas rentrer, restez dans la voiture, coupez le moteur et fermez les grilles d'aération. Les sirènes néerlandaises sont testées chaque premier lundi du mois à 12 heures. C'est la règle néerlandaise, pas la règle belge.
 
-Source : [Centre de crise National : Stratégie nationale pour les tests d'alerte](https://centredecrise.be/sites/default/files/documents/files/cc_strategie_de_test_dalertes_de_la_population_0_0.pdf) · [BE-Alert: Be alerted](https://www.be-alert.be/fr/soyez-alerte/soyez-alerte) · [Rijksoverheid : Wat moet ik doen als de sirene gaat?](https://www.rijksoverheid.nl/onderwerpen/veiligheidsregios-en-crisisbeheersing/vraag-en-antwoord/wat-moet-ik-doen-als-de-sirene-gaat)
+Source : [Centre de crise National : Stratégie nationale pour les tests d'alerte](https://centredecrise.be/sites/default/files/documents/files/cc_strategie_de_test_dalertes_de_la_population_0_0.pdf) · [BE-Alert: Be alerted](https://www.be-alert.be/fr/soyez-alerte/soyez-alerte) · [Centre de crise National : Informations pendant une situation d'urgence](https://centredecrise.be/fr/que-pouvez-vous-faire/informez-vous/linformation-pendant-une-situation-durgence) · [Centre de crise National : brochure Préparés ensemble](https://centredecrise.be/sites/default/files/documents/files/WEB-Brochure-Pr%C3%AAts.%20Ensemble-FR.pdf) · [SPF Economie : questions des ménages sur la pénurie d'électricité](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door) · [Rijksoverheid : Wat moet ik doen als de sirene gaat?](https://www.rijksoverheid.nl/onderwerpen/veiligheidsregios-en-crisisbeheersing/vraag-en-antwoord/wat-moet-ik-doen-als-de-sirene-gaat)
 
 ## Marquages des équipes de sauvetage sur les bâtiments
 
@@ -325,11 +348,13 @@ Source : [INSARAG Guidelines Volume II, Manual B](https://insarag.org/wp-content
 
 ## Laisser un mot
 
-**Si vous quittez votre maison lors d'une évacuation :** laissez un mot indiquant **quand vous êtes parti et où vous allez**. Si vous avez le temps, contactez aussi votre personne de contact hors de la zone et dites-lui où vous allez. Après coup, faites savoir à la famille et aux amis quand vous partez et quand vous arrivez.
+**Si vous quittez votre maison lors d'une évacuation :** laissez un mot indiquant **quand vous êtes parti et où vous allez**. Aidez aussi à prévenir vos voisins qu'ils doivent évacuer. Si le réseau fonctionne et que vous avez le temps, contactez votre personne de contact hors de la zone et dites-lui où vous allez, et faites savoir à la famille et aux amis quand vous partez et quand vous arrivez.
+
+**Convenir à l'avance :** convenez avec votre famille d'un endroit où vous vous retrouverez si vous ne pouvez pas vous joindre.
 
 **Si vous partez dans la nature :** faites un plan d'itinéraire et donnez-le à quelqu'un qui reste à la maison. Indiquez où vous allez et ce que vous avez l'intention de faire. Convenez de l'heure de votre retour.
 
-Source : [Ready.gov: Evacuation](https://www.ready.gov/evacuation) · [National Park Service: Outdoor Emergency Plan](https://www.nps.gov/subjects/healthandsafety/upload/NPS-Outdoor-Emergency-Plan-508c.pdf) · [National Park Service: Junior Ranger Park Explorer](https://www.nps.gov/subjects/healthandsafety/junior-ranger-park-explorer.htm)
+Source : [Ready.gov: Evacuation](https://www.ready.gov/evacuation) · [Centre de crise National : Évacuer](https://centredecrise.be/fr/que-pouvez-vous-faire/le-bon-reflexe/evacuer) · [Centre de crise National : Perturbation de l'infrastructure numérique](https://centredecrise.be/fr/risques-en-belgique/risques-societaux/defaillance-des-infrastructures-digitales) · [National Park Service: Outdoor Emergency Plan](https://www.nps.gov/subjects/healthandsafety/upload/NPS-Outdoor-Emergency-Plan-508c.pdf) · [National Park Service: Junior Ranger Park Explorer](https://www.nps.gov/subjects/healthandsafety/junior-ranger-park-explorer.htm)
 
 ## À la radio : mayday et pan-pan (contexte)
 

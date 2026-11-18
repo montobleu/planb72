@@ -2,9 +2,9 @@
 titel: "Psychische Widerstandskraft und psychologische Erste Hilfe"
 module: gezondheid
 volgorde: 1
-kort: "Wie Sie vor, während und nach einer Notsituation mit Stress und Angst umgehen, wie Sie Kinder beruhigen, wie Sie schlafen und einen Tagesrhythmus beibehalten, wie Sie jemand anderem mit psychologischer Erster Hilfe beistehen und wann und wo Sie Hilfe suchen."
+kort: "Wie Sie vor, während und nach einer Notsituation mit Stress und Angst umgehen, wie Sie jemandem vor Ort mit psychologischer Erster Hilfe beistehen, wie Sie Kinder beruhigen, wie Sie schlafen und einen Tagesrhythmus beibehalten und wohin Sie sich nach der Krise wenden können."
 status: concept
-datum: "2026-11-17"
+datum: "2026-11-18"
 bronnen:
   - naam: "Nationales Krisenzentrum: Broschüre Gemeinsam vorbereitet"
     url: "https://krisenzentrum.be/sites/default/files/documents/files/WEB-Brosch%C3%BCre%20Gemeinsam%20Vorbereitet-DE.pdf"
@@ -12,6 +12,8 @@ bronnen:
     url: "https://krisenzentrum.be/de/was-koennen-sie-tun/zorg-voor-jezelf/sprechen-sie-darueber"
   - naam: "Nationales Krisenzentrum: Mein eigener Notfallplan (ausfüllbar)"
     url: "https://krisenzentrum.be/sites/default/files/documents/files/MeinNotfallplan_PDF.pdf"
+  - naam: "Nationales Krisenzentrum: Ein Notfallpaket zu Hause"
+    url: "https://krisenzentrum.be/de/was-koennen-sie-tun/stelle-ein-notfallpaket-zusammen/ein-notfallset-fuer-zu-hause"
   - naam: "Denk vooruit: Informationsheft Bereid je voor op een noodsituatie"
     url: "https://www.denkvooruit.nl/site/binaries/site-content/collections/documents/2025/11/17/informatieboekje-bereid-je-voor-op-een-noodsituatie/informatieboekje-bereid-je-voor-op-een-noodsituatie.pdf"
   - naam: "BBK: Vorsorgen für Krisen und Katastrophen"
@@ -22,6 +24,26 @@ bronnen:
     url: "https://psychiatry.uw.edu/wp-content/uploads/2020/04/1.-WHO_PFA_2011.pdf"
   - naam: "WHO: Publikationsseite Psychological first aid"
     url: "https://www.who.int/publications/i/item/9789241548205"
+  - naam: "IFRC Reference Centre for Psychosocial Support: A Guide to Psychological First Aid (2018)"
+    url: "https://mhpsshub.org/wp-content/uploads/2019/05/PFA-Guide-low-res.pdf"
+  - naam: "IFRC: International first aid, resuscitation, and education guidelines 2020"
+    url: "https://www.ifrc.org/sites/default/files/2022-02/EN_GFARC_GUIDELINES_2020.pdf"
+  - naam: "Impact (Arq): Multidisziplinäre Leitlinie psychosoziale Hilfe bei Katastrophen und Krisen (2014)"
+    url: "https://arq.org/sites/default/files/2022-09/Richtlijn%20-%20Psychosociale%20hulp%20bij%20rampen%20en%20crises%20%28herziene%20uitgave%29.pdf"
+  - naam: "Rode Kruis-Vlaanderen: Broschüre Wie gehen Sie mit einem erschütternden Ereignis um?"
+    url: "https://www.rodekruis.be/storage/main/2018-031-brochure-schokkende-gebeurtenissen-lr.pdf"
+  - naam: "Gezondheid en Wetenschap: Erste Hilfe bei einem erschütternden Ereignis"
+    url: "https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-een-schokkende-gebeurtenis"
+  - naam: "Gezondheid en Wetenschap: Erste Hilfe bei Suizidgedanken"
+    url: "https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-zelfmoordgedachten"
+  - naam: "Gezondheid en Wetenschap: Erste Hilfe bei Trauer"
+    url: "https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-rouw"
+  - naam: "Gezondheid en Wetenschap: Erste Hilfe bei einer Panikattacke"
+    url: "https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-paniekaanval"
+  - naam: "112.be: Häufig gestellte Fragen"
+    url: "https://112.be/de/haeufig-gestellte-fragen"
+  - naam: "FÖD Wirtschaft: Fragen von Familien zur Stromknappheit"
+    url: "https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door"
   - naam: "Ready.gov: People with Disabilities"
     url: "https://www.ready.gov/disability"
   - naam: "Ready.gov: Extreme Heat (Tipps für Familien)"
@@ -29,14 +51,14 @@ bronnen:
   - naam: "Rode Kruis-Vlaanderen: Restoring Family Links"
     url: "https://www.rodekruis.be/restoringfamilylinks/en/about-us"
 vertaling: machine
-origineel_datum: "2026-11-17"
+origineel_datum: "2026-11-18"
 ---
 
 Über Notsituationen und Risiken nachzudenken, kann Stress, Sorgen und Angst auslösen. Das Krisenzentrum sagt, dass das normal ist. Eine gute Vorbereitung hilft nicht nur praktisch, sondern gibt auch Ruhe: Wer weiß, was zu tun ist, fühlt sich weniger machtlos. Das BBK sagt dasselbe: In Gefahr oder in einer extremen Situation ist es normal, sich hilflos zu fühlen, und vorbereitet zu sein hilft, Angst und Sorgen zu verringern.
 
-Dieser Leitfaden handelt von Ihnen selbst, von Kindern und davon, wie Sie anderen beistehen.
+Dieser Leitfaden handelt von Ihnen selbst, von Kindern und davon, wie Sie anderen beistehen. Während einer Katastrophe funktionieren Telefon und Internet möglicherweise nicht. Psychische Unterstützung ist dann das, was Menschen vor Ort füreinander tun: psychologische Erste Hilfe. Die Hilfetelefone stehen gesondert ganz unten, für die Zeit nach der Krise.
 
-Quelle: [Nationales Krisenzentrum: Broschüre Gemeinsam vorbereitet](https://krisenzentrum.be/sites/default/files/documents/files/WEB-Brosch%C3%BCre%20Gemeinsam%20Vorbereitet-DE.pdf) · [BBK: Vorsorgen für Krisen und Katastrophen](https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/Buergerinformationen/Ratgeber/BBK-Vorsorgen-fuer-Krisen-und-Katastrophen.pdf?__blob=publicationFile&v=44)
+Quelle: [Nationales Krisenzentrum: Broschüre Gemeinsam vorbereitet](https://krisenzentrum.be/sites/default/files/documents/files/WEB-Brosch%C3%BCre%20Gemeinsam%20Vorbereitet-DE.pdf) · [BBK: Vorsorgen für Krisen und Katastrophen](https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/Buergerinformationen/Ratgeber/BBK-Vorsorgen-fuer-Krisen-und-Katastrophen.pdf?__blob=publicationFile&v=44) · [FÖD Wirtschaft: Fragen von Familien zur Stromknappheit](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door) · [WHO: Psychological first aid](https://psychiatry.uw.edu/wp-content/uploads/2020/04/1.-WHO_PFA_2011.pdf)
 
 ## Vor der Notsituation: wenn Sie beunruhigt sind
 
@@ -72,9 +94,150 @@ Die WHO nennt diese Reaktionen auf eine Krise. Sie kommen häufig vor:
 - Schuld und Scham, zum Beispiel weil Sie überlebt haben oder anderen nicht helfen oder sie nicht retten konnten.
 - Verwirrt sein, emotional betäubt, sich unwirklich oder benommen fühlen.
 
-Manche Menschen sind nur leicht aufgewühlt oder gar nicht. Die meisten Menschen erholen sich mit der Zeit gut, vor allem wenn ihre Grundbedürfnisse wieder erfüllt sind und sie Unterstützung von den Menschen um sie herum erhalten (WHO).
+Manche Menschen sind nur leicht aufgewühlt oder gar nicht. Die meisten Menschen erholen sich mit der Zeit gut, vor allem wenn ihre Grundbedürfnisse wieder erfüllt sind und sie Unterstützung von den Menschen um sie herum erhalten (WHO). Auch die Broschüre des Roten Kreuzes sagt, dass unerwartete Reaktionen von Körper und Geist nach einem solchen Ereignis normal sind. Der weitaus größte Teil der Betroffenen übersteht eine Katastrophe ohne professionelle Hilfe (Impact).
 
-Quelle: [WHO: Psychological first aid](https://psychiatry.uw.edu/wp-content/uploads/2020/04/1.-WHO_PFA_2011.pdf)
+Quelle: [WHO: Psychological first aid](https://psychiatry.uw.edu/wp-content/uploads/2020/04/1.-WHO_PFA_2011.pdf) · [Rode Kruis-Vlaanderen: Wie gehen Sie mit einem erschütternden Ereignis um?](https://www.rodekruis.be/storage/main/2018-031-brochure-schokkende-gebeurtenissen-lr.pdf) · [Impact: Leitlinie psychosoziale Hilfe bei Katastrophen und Krisen](https://arq.org/sites/default/files/2022-09/Richtlijn%20-%20Psychosociale%20hulp%20bij%20rampen%20en%20crises%20%28herziene%20uitgave%29.pdf)
+
+## Psychologische Erste Hilfe: was sie ist
+
+**Was sie ist.** Psychologische Erste Hilfe (PEH, auf Englisch psychological first aid) ist laut WHO eine menschliche, unterstützende Reaktion auf jemanden, der leidet und Unterstützung brauchen könnte. Sie umfasst:
+
+- Praktische Versorgung und Unterstützung anbieten, ohne sich aufzudrängen.
+- Klären, was jemand braucht und worüber er sich Sorgen macht.
+- Helfen, Grundbedürfnisse wie Essen, Wasser und Informationen zu decken.
+- Zuhören, ohne zum Sprechen zu drängen.
+- Trösten und helfen, ruhig zu werden.
+- Helfen, Kontakt zu Informationen, Diensten und sozialer Unterstützung herzustellen.
+- Vor weiterem Schaden schützen.
+
+**Was sie nicht ist.** Sie ist nichts, was nur Fachleute können. Sie ist keine professionelle Beratung. Sie erfordert keine ausführliche Besprechung dessen, was geschehen ist (WHO).
+
+**Wer und wann.** Jeder kann sie leisten: Freiwillige, Ersthelfer und gewöhnliche Bürger (IFRC). Meist geht es um den ersten Kontakt, während oder kurz nach dem Ereignis, überall dort, wo es sicher genug ist (WHO). Oft ist es ein einziges Gespräch von 30 bis 60 Minuten (IFRC).
+
+**Was der Erholung hilft.** Die IFRC und die niederländische Leitlinie von Impact nennen fünf Grundsätze, über die sich Fachleute einig sind: Sicherheit, Ruhe und Beruhigung, Selbstwirksamkeit (daran glauben, dass man es selbst und gemeinsam bewältigen kann), soziale Verbundenheit und Hoffnung.
+
+Quelle: [WHO: Psychological first aid](https://psychiatry.uw.edu/wp-content/uploads/2020/04/1.-WHO_PFA_2011.pdf) · [WHO: Publikationsseite](https://www.who.int/publications/i/item/9789241548205) · [IFRC: A Guide to Psychological First Aid](https://mhpsshub.org/wp-content/uploads/2019/05/PFA-Guide-low-res.pdf) · [Impact: Leitlinie psychosoziale Hilfe bei Katastrophen und Krisen](https://arq.org/sites/default/files/2022-09/Richtlijn%20-%20Psychosociale%20hulp%20bij%20rampen%20en%20crises%20%28herziene%20uitgave%29.pdf)
+
+## Während der Krise: psychologische Erste Hilfe vor Ort
+
+Die WHO baut die psychologische Erste Hilfe auf drei Grundsätzen auf: hinschauen, zuhören und verbinden. Die Quellen beschreiben sie als Hilfe von Mensch zu Mensch, vor Ort. Leisten Sie sie möglichst gemeinsam mit anderen, zum Beispiel mit einer Nachbarschaftsgruppe oder einer Hilfsorganisation: Wer allein handelt, kann sich selbst in Gefahr bringen. Folgen Sie den Anweisungen der Behörden und behindern Sie die Such- und Rettungsarbeiten nicht (WHO).
+
+**1. Sorgen Sie für Sicherheit**
+
+- Prüfen Sie, ob der Ort sicher ist. Sind Sie nicht sicher, gehen Sie nicht hin. Versuchen Sie, aus sicherer Entfernung Hilfe zu organisieren oder Menschen anzusprechen (WHO, IFRC).
+- Schauen Sie, wer dringend etwas braucht, etwa jemand mit schweren Verletzungen, und wer sehr heftig reagiert (WHO). Ist jemand körperlich verletzt, geht medizinische Hilfe immer vor (IFRC). Siehe die Erste-Hilfe-Karten.
+- Bringen Sie die Person aus unmittelbarer Gefahr, wenn das sicher möglich ist. Schirmen Sie sie von den Medien ab (WHO).
+
+**2. Sorgen Sie für Ruhe und hören Sie zu**
+
+1. Stellen Sie sich mit Ihrem Namen vor. Fragen Sie, ob Sie helfen können. Gehen Sie respektvoll und ihrer Kultur entsprechend auf Menschen zu. Suchen Sie möglichst einen sicheren, ruhigen Ort. Bieten Sie zum Beispiel Wasser an (WHO).
+2. Setzen oder stellen Sie sich auf dieselbe Höhe. Sitzt jemand auf dem Boden, knien Sie sich hin (IFRC).
+3. Fragen Sie, was jemand braucht und worüber er sich Sorgen macht, auch wenn es offensichtlich scheint (WHO).
+4. Bleiben Sie in der Nähe. Drängen Sie nicht zum Sprechen. Hören Sie zu, wenn jemand erzählen möchte. Will jemand nicht sprechen, kann es schon Unterstützung sein, still bei ihm zu bleiben oder etwas Praktisches anzubieten (WHO).
+5. Lassen Sie Menschen auf ihre eigene Weise und in ihrem eigenen Tempo reagieren. Sagen Sie nicht „Hör auf" oder „Beruhige dich", wenn jemand weint oder schreit (IFRC 2020).
+
+Hören Sie laut WHO mit Ihren Augen (ungeteilte Aufmerksamkeit), Ihren Ohren (wirklich hören, was jemanden beschäftigt) und Ihrem Herzen (mit Fürsorge und Respekt) zu.
+
+**Jemandem helfen, sich zu beruhigen**
+
+- Bleiben Sie selbst ruhig. Wer selbst ruhig ist, beruhigt andere (Rode Kruis-Vlaanderen).
+- Sprechen Sie ruhig und sanft, in kurzen, klaren Sätzen (WHO, IFRC).
+- Halten Sie, wenn es kulturell angemessen ist, etwas Blickkontakt (WHO).
+- Erinnern Sie daran, dass Sie da sind, um zu helfen, und dass die Person in Sicherheit ist, wenn das stimmt (WHO).
+- Fühlt sich jemand unwirklich oder losgelöst von der Umgebung, bitten Sie ihn, die Füße auf den Boden zu stellen und zu spüren, mit den Fingern auf den Schoß zu tippen oder zu sagen, was er sieht und hört, das nicht beunruhigend ist (WHO).
+- Helfen Sie, langsam und ruhig zu atmen. Machen Sie es vor und lassen Sie die Person Ihrem Rhythmus folgen (WHO, Gezondheid en Wetenschap).
+- Achtung: Schmerzen in der Brust und Atemnot können auch von einem Herzinfarkt oder Asthma kommen. Im Zweifel sorgen Sie so schnell wie möglich für medizinische Hilfe (IFRC).
+- Berühren Sie jemanden nur, wenn Sie vorher um Erlaubnis gefragt haben (IFRC).
+
+**3. Helfen Sie bei praktischen Dingen**
+
+- Schauen Sie, ob jemand Wasser, Kleidung oder eine Decke braucht, und sorgen Sie so schnell wie möglich dafür. Wer friert oder Durst hat, kann sich nur schwer auf Probleme konzentrieren (IFRC).
+- Helfen Sie zu entscheiden, was jetzt sein muss und was warten kann. Fragen Sie, wie jemand früher schwierige Situationen bewältigt hat (WHO).
+- Praktische Hilfe ist zum Beispiel: jemanden holen, der bei der Person bleiben kann, dafür sorgen, dass die Kinder abgeholt werden oder etwas zu essen bekommen, beim Transport nach Hause oder an einen sicheren Ort helfen, jemanden in ein Krankenhaus oder zu einem anderen Dienst begleiten oder bei ihm warten, bis mehr Hilfe da ist (IFRC).
+- Geben Sie der Person ein Gefühl von Kontrolle. Lassen Sie sie kleine Dinge selbst tun und selbst entscheiden, wo das möglich ist (Gezondheid en Wetenschap, IFRC 2020).
+- Geben Sie nur Informationen weiter, die Sie haben, und sagen Sie, was Sie nicht wissen. Sagen Sie, woher Ihre Informationen stammen. Halten Sie es einfach, wiederholen Sie es und geben Sie es am besten einer Gruppe gleichzeitig, damit alle dasselbe hören. Sagen Sie, ob und wann Sie mit Neuigkeiten zurückkommen, und kommen Sie dann auch zurück (WHO).
+- Sorgen Sie dafür, dass schutzbedürftige Menschen nicht übersehen werden (WHO).
+
+**4. Bleiben Sie zusammen**
+
+- Halten Sie Familien zusammen (WHO, Impact).
+- Kontakt zu Familie oder Freunden hat Vorrang, auch persönlich (IFRC 2020). Helfen Sie Menschen, mit ihren Angehörigen in Kontakt zu kommen (WHO).
+- Bringen Sie Betroffene zusammen, damit sie einander helfen. Bitten Sie Menschen zum Beispiel, sich um ältere Menschen zu kümmern. Bringen Sie Menschen ohne Familie mit anderen aus der Nachbarschaft in Kontakt (WHO).
+- Helfen Sie Menschen möglichst in Gruppen, die bereits bestehen, etwa einer Familie oder einer Schulklasse (IFRC).
+- Bei einer Stromunterbrechung können Sie mit mehreren Menschen zusammenkommen, um Licht und Wärme zu teilen (Krisenzentrum).
+
+**5. Lassen Sie Kinder bei ihren Eltern**
+
+- Lassen Sie Kinder bei ihren Eltern, Bezugspersonen und Angehörigen. Lassen Sie sie nicht getrennt werden (WHO). Ein Kind zu seinen Bezugspersonen zu bringen, hat Vorrang (IFRC 2020).
+- Ist ein Kind mit seinen Eltern zusammen, fragen Sie zuerst diese um Erlaubnis, bevor Sie mit dem Kind sprechen, und helfen Sie den Eltern, selbst für ihr Kind zu sorgen (IFRC).
+- Wird ein Elternteil zur medizinischen Versorgung weggebracht, lassen Sie die Kinder bei diesem Elternteil, oder notieren Sie, wohin der Elternteil gebracht wird, damit sie wieder zusammengeführt werden können (WHO).
+- Finden Sie ein Kind allein: Lassen Sie es nicht allein. Sprechen Sie auf Augenhöhe. Notieren Sie den Namen des Kindes und woher es kommt. Bringen Sie es zu einer Kinderschutzorganisation oder einem Hilfsdienst, wenn es eine gibt. Gibt es keine, suchen Sie selbst die Bezugspersonen oder andere Familienangehörige, die für das Kind sorgen können (WHO).
+
+Mehr über Kinder steht weiter unten in diesem Leitfaden.
+
+**6. Trauer und Verlust**
+
+Erkennen Sie den Verlust an und hören Sie zu. Siehe den Abschnitt Trauer und Verlust.
+
+**7. Wer mehr Hilfe braucht**
+
+Lassen Sie jemanden, der sehr aufgewühlt ist oder sich selbst etwas antun könnte, nicht allein, und suchen Sie Hilfe bei Menschen in der Nähe oder medizinische Hilfe vor Ort. Siehe den Abschnitt Wer sofort mehr Hilfe braucht.
+
+Quelle: [WHO: Psychological first aid](https://psychiatry.uw.edu/wp-content/uploads/2020/04/1.-WHO_PFA_2011.pdf) · [IFRC: A Guide to Psychological First Aid](https://mhpsshub.org/wp-content/uploads/2019/05/PFA-Guide-low-res.pdf) · [IFRC Guidelines 2020](https://www.ifrc.org/sites/default/files/2022-02/EN_GFARC_GUIDELINES_2020.pdf) · [Impact: Leitlinie psychosoziale Hilfe bei Katastrophen und Krisen](https://arq.org/sites/default/files/2022-09/Richtlijn%20-%20Psychosociale%20hulp%20bij%20rampen%20en%20crises%20%28herziene%20uitgave%29.pdf) · [Rode Kruis-Vlaanderen: Wie gehen Sie mit einem erschütternden Ereignis um?](https://www.rodekruis.be/storage/main/2018-031-brochure-schokkende-gebeurtenissen-lr.pdf) · [Gezondheid en Wetenschap: Erste Hilfe bei einem erschütternden Ereignis](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-een-schokkende-gebeurtenis) · [Gezondheid en Wetenschap: Erste Hilfe bei einer Panikattacke](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-paniekaanval) · [Nationales Krisenzentrum: Ein Notfallpaket zu Hause](https://krisenzentrum.be/de/was-koennen-sie-tun/stelle-ein-notfallpaket-zusammen/ein-notfallset-fuer-zu-hause)
+
+## Was Sie sagen und nicht sagen
+
+Aus den Richtlinien der WHO:
+
+| Tun | Nicht tun |
+| --- | --- |
+| Einen ruhigen Ort mit wenig Ablenkung suchen | jemanden unter Druck setzen, seine Geschichte zu erzählen |
+| Die Privatsphäre respektieren und die Geschichte vertraulich behandeln, wenn das angemessen ist | unterbrechen oder hetzen, zum Beispiel auf die Uhr schauen oder schnell sprechen |
+| In der Nähe bleiben, mit einem Abstand, der zu Alter, Geschlecht und Kultur passt | jemanden berühren, wenn Sie nicht sicher sind, dass es angemessen ist |
+| Zeigen, dass Sie zuhören, zum Beispiel durch Nicken | darüber urteilen, was jemand getan hat oder fühlt |
+| Geduldig und ruhig sein | Dinge erfinden, die Sie nicht wissen |
+| Sachliche Informationen geben, wenn Sie welche haben; ehrlich sein über das, was Sie nicht wissen | zu technische Begriffe verwenden |
+| Informationen einfach und verständlich geben | die Geschichte eines anderen erzählen oder Ihre eigenen Sorgen |
+| Gefühle und Verluste anerkennen | falsche Versprechen oder falsche Beruhigung geben |
+| Die Stärken der Person anerkennen | so tun, als müssten Sie alle Probleme lösen |
+| Stille zulassen | jemandem seine Kraft und Selbstständigkeit nehmen; negativ über Menschen sprechen |
+
+Die IFRC ergänzt: Benutzen Sie Ihr Telefon nicht, während Sie mit jemandem sprechen.
+
+**Abschließen.** Erklären Sie, dass Sie gehen. Übernimmt jemand anderes, stellen Sie diese Person vor. Haben Sie jemanden weiterverwiesen, sorgen Sie dafür, dass er weiß, was ihn erwartet, und die Kontaktdaten hat. Verabschieden Sie sich positiv (WHO).
+
+Quelle: [WHO: Psychological first aid](https://psychiatry.uw.edu/wp-content/uploads/2020/04/1.-WHO_PFA_2011.pdf) · [IFRC: A Guide to Psychological First Aid](https://mhpsshub.org/wp-content/uploads/2019/05/PFA-Guide-low-res.pdf)
+
+## Wer sofort mehr Hilfe braucht
+
+Die WHO nennt Menschen, die sofort mehr Hilfe brauchen als psychologische Erste Hilfe:
+
+- Menschen mit schweren, lebensbedrohlichen Verletzungen, die dringend medizinische Versorgung brauchen.
+- Menschen, die so aufgewühlt sind, dass sie nicht für sich selbst oder ihre Kinder sorgen können.
+- Menschen, die sich selbst etwas antun könnten.
+- Menschen, die anderen etwas antun könnten.
+
+**Was Sie tun**
+
+- Kennen Sie Ihre Grenzen und ziehen Sie andere hinzu: medizinisches Personal, wenn vorhanden, andere Helfer, Menschen aus der Nachbarschaft, die örtlichen Behörden, Verantwortliche aus der Gemeinschaft (WHO).
+- Lassen Sie jemanden, der stark aufgewühlt ist, nicht allein. Halten Sie ihn in Sicherheit, bis die Reaktion vorbei ist oder bis Sie Hilfe bei medizinischen Fachkräften, örtlichen Verantwortlichen oder anderen Menschen in der Nähe finden (WHO).
+- Körperlich verletzt: zuerst medizinische Hilfe (IFRC). Siehe die Erste-Hilfe-Karten.
+
+**Wenn sich jemand selbst etwas antun könnte**
+
+- Fragen Sie direkt, ob er daran denkt, sich etwas anzutun, und ob er einen konkreten Plan hat. Eine solche Frage verschafft Erleichterung und bringt niemanden auf Ideen (IFRC).
+- Schätzen Sie den Ernst der Lage ein. Das Risiko ist größer bei einem klaren Plan (wie, wo, wann), wenn die Mittel bereitliegen, nach einem früheren Versuch und bei Konsum von Alkohol oder Drogen (Gezondheid en Wetenschap).
+- Besteht eine konkrete Gefahr: Sorgen Sie zuerst für Sicherheit. Lassen Sie die Person nicht allein. Bleiben Sie bei ihr, bis sie die Hilfe erhält, die sie braucht (IFRC, Gezondheid en Wetenschap).
+- Entfernen Sie Gegenstände, mit denen sich die Person verletzen könnte, möglichst in Absprache mit ihr (Gezondheid en Wetenschap).
+- Sagen Sie, dass Sie die Verantwortung nicht allein tragen können. Fragen Sie, wen aus ihrem Umfeld Sie hinzuziehen können (Gezondheid en Wetenschap).
+- Versuchen Sie nicht, die Person zu überzeugen, für andere weiterzuleben: Das kann Schuldgefühle verstärken. Versprechen Sie keine Geheimhaltung (Gezondheid en Wetenschap).
+- Suchen Sie Hilfe bei einer medizinischen Fachkraft oder anderen Menschen in der Nähe und bleiben Sie, bis sie da sind (WHO, IFRC).
+
+**Aggression.** Bleiben Sie nicht allein mit der Person: Holen Sie sofort andere dazu. Halten Sie Abstand und eine offene Haltung, berühren Sie die Person nicht, sprechen Sie ruhig und bringen Sie andere bei Bedarf in Sicherheit (IFRC).
+
+**Bei Lebensgefahr.** Rufen Sie 112 an oder lassen Sie jemanden anrufen. Kommt kein Anruf zustande: Versuchen Sie es mit einem anderen Gerät oder lassen Sie Nachbarn oder Umstehende anrufen. Ist überhaupt kein Anruf möglich, bitten Sie in Ihrer Nachbarschaft um Hilfe. Bleiben Sie selbst bei der Person und schicken Sie jemand anderen, um Hilfe zu holen (siehe Notrufnummern in der App, Wenn kein Anruf möglich ist).
+
+Quelle: [WHO: Psychological first aid](https://psychiatry.uw.edu/wp-content/uploads/2020/04/1.-WHO_PFA_2011.pdf) · [IFRC: A Guide to Psychological First Aid](https://mhpsshub.org/wp-content/uploads/2019/05/PFA-Guide-low-res.pdf) · [Gezondheid en Wetenschap: Erste Hilfe bei Suizidgedanken](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-zelfmoordgedachten) · [IFRC Guidelines 2020](https://www.ifrc.org/sites/default/files/2022-02/EN_GFARC_GUIDELINES_2020.pdf) · [112.be: Häufig gestellte Fragen](https://112.be/de/haeufig-gestellte-fragen) · [FÖD Wirtschaft: Fragen von Familien zur Stromknappheit](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door)
 
 ## Was während und nach einer Notsituation hilft
 
@@ -103,16 +266,16 @@ Das BBK, die WHO und das Krisenzentrum nennen größtenteils dieselben Dinge.
 - Die grundlegende Hygiene vernachlässigen.
 - Gewalt.
 
-**Gemeinsam.** Das BBK sagt, dass schon das Gefühl, mit seinen Ängsten nicht allein zu sein, helfen kann. Schauen Sie nicht nur auf den Schaden, sondern planen und besprechen Sie gemeinsam die nächsten Schritte. Einander zu helfen gibt das Gefühl, etwas Sinnvolles zu tun, wodurch Sie sich weniger hilflos fühlen.
+**Gemeinsam.** Das BBK sagt, dass schon das Gefühl, mit seinen Ängsten nicht allein zu sein, helfen kann. Schauen Sie nicht nur auf den Schaden, sondern planen und besprechen Sie gemeinsam die nächsten Schritte. Einander zu helfen gibt das Gefühl, etwas Sinnvolles zu tun, wodurch Sie sich weniger hilflos fühlen. Die Broschüre des Roten Kreuzes sagt es so: Gemeinsam verarbeitet man besser als allein. Suchen Sie Kontakt zu Menschen, die dasselbe erlebt haben.
 
-Quelle: [BBK: Vorsorgen für Krisen und Katastrophen](https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/Buergerinformationen/Ratgeber/BBK-Vorsorgen-fuer-Krisen-und-Katastrophen.pdf?__blob=publicationFile&v=44) · [WHO: Psychological first aid](https://psychiatry.uw.edu/wp-content/uploads/2020/04/1.-WHO_PFA_2011.pdf) · [Nationales Krisenzentrum: Broschüre Gemeinsam vorbereitet](https://krisenzentrum.be/sites/default/files/documents/files/WEB-Brosch%C3%BCre%20Gemeinsam%20Vorbereitet-DE.pdf)
+Quelle: [BBK: Vorsorgen für Krisen und Katastrophen](https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/Buergerinformationen/Ratgeber/BBK-Vorsorgen-fuer-Krisen-und-Katastrophen.pdf?__blob=publicationFile&v=44) · [WHO: Psychological first aid](https://psychiatry.uw.edu/wp-content/uploads/2020/04/1.-WHO_PFA_2011.pdf) · [Nationales Krisenzentrum: Broschüre Gemeinsam vorbereitet](https://krisenzentrum.be/sites/default/files/documents/files/WEB-Brosch%C3%BCre%20Gemeinsam%20Vorbereitet-DE.pdf) · [Rode Kruis-Vlaanderen: Wie gehen Sie mit einem erschütternden Ereignis um?](https://www.rodekruis.be/storage/main/2018-031-brochure-schokkende-gebeurtenissen-lr.pdf)
 
 ## Schlaf und Tagesrhythmus
 
 - Sorgen Sie möglichst für ausreichend Schlaf (Krisenzentrum, BBK, MCF). Die WHO empfiehlt, sich ausreichend auszuruhen, aber nicht den ganzen Tag zu schlafen.
 - Behalten Sie tägliche Routinen bei und machen Sie einen Plan für den Tag (BBK). Für Kinder: Behalten Sie so weit wie möglich den Tagesablauf bei, denn vertraute Gewohnheiten geben Halt (Krisenzentrum).
 - Legen Sie feste Zeiten fest, um Nachrichten zu verfolgen (BBK).
-- Schlaflosigkeit und Albträume sind häufige Reaktionen (WHO). Halten sie an, lesen Sie den Abschnitt darüber, wann Sie Hilfe suchen.
+- Schlaflosigkeit und Albträume sind häufige Reaktionen (WHO). Halten sie an, siehe den Abschnitt Wann Sie später mehr Hilfe suchen.
 
 Praktische Hilfe zum warmen Schlafen ohne Heizung finden Sie im Leitfaden zu Wärme und Kühle.
 
@@ -170,136 +333,37 @@ Kinder können auch dieselben Reaktionen zeigen wie Erwachsene. Im Allgemeinen g
 - Schützen Sie sie vor den Medien und vor Menschen, die sie interviewen wollen und nicht zu den Hilfskräften gehören.
 - Sprechen Sie ruhig, sanft und freundlich, auf ihrer Augenhöhe, mit Worten, die sie verstehen.
 
-Quelle: [WHO: Psychological first aid](https://psychiatry.uw.edu/wp-content/uploads/2020/04/1.-WHO_PFA_2011.pdf)
+**Was die Broschüre des Roten Kreuzes ergänzt**
+
+- Sorgen Sie dafür, dass Ihr Kind sich an Sie oder einen anderen Erwachsenen wenden kann.
+- Antworten Sie ehrlich und klar, und halten Sie es eher kurz. Sie dürfen sagen, dass Sie etwas nicht wissen.
+- Zwingen Sie ein Kind nicht zum Sprechen. Das Geschehene nachzuspielen ist normal, solange es sicher bleibt.
+
+Quelle: [WHO: Psychological first aid](https://psychiatry.uw.edu/wp-content/uploads/2020/04/1.-WHO_PFA_2011.pdf) · [Rode Kruis-Vlaanderen: Wie gehen Sie mit einem erschütternden Ereignis um?](https://www.rodekruis.be/storage/main/2018-031-brochure-schokkende-gebeurtenissen-lr.pdf)
 
 ## Menschen mit einer Behinderung, Demenz oder einer psychischen Erkrankung
 
 - Bei Demenz: Lassen Sie die Person nicht allein; auch wer normalerweise nicht wegläuft, kann das in einer unbekannten Umgebung tun. Nehmen Sie ein Kissen, eine Decke oder einen anderen vertrauten Gegenstand mit. Suchen Sie in der Notunterkunft eine ruhige Ecke, weg von den Ausgängen. Reagieren Sie bei Unruhe auf das Gefühl, das die Person ausdrückt (Ready.gov).
 - Für Menschen, die mit einer unbekannten oder chaotischen Umgebung Mühe haben: ein Kopfhörer, der Geräusche dämpft, ein kleines Pop-up-Zelt oder Laken, um Reize zu verringern, vertraute Snacks, aufgeladene Geräte mit Videos und Beschäftigungen (Ready.gov).
 - Die WHO nennt Menschen mit schweren psychischen Erkrankungen, gebrechliche ältere Menschen, Schwangere und Menschen mit Seh- oder Hörproblemen als Gruppen, die zusätzliche Hilfe brauchen können, um an einen sicheren Ort zu gelangen, geschützt zu werden und Versorgung zu erhalten.
+- Helfen Sie jemandem mit einer Erkrankung oder Behinderung an einen sicheren Ort. Fragen Sie nach seiner Erkrankung und seinen Medikamenten. Bleiben Sie bei ihm, oder sorgen Sie dafür, dass jemand anderes bei ihm bleibt, wenn Sie weg müssen (WHO).
 
 Quelle: [Ready.gov: People with Disabilities](https://www.ready.gov/disability) · [WHO: Psychological first aid](https://psychiatry.uw.edu/wp-content/uploads/2020/04/1.-WHO_PFA_2011.pdf)
 
 ## Trauer und Verlust
 
-Die herangezogenen Quellen geben keine gesonderten Richtlinien zur Trauerverarbeitung. Was sie sagen:
-
-- Traurigkeit und Trauer gehören zu den gewöhnlichen Reaktionen auf eine Krise (WHO).
-- Erkennen Sie die Gefühle und Verluste eines Menschen an, etwa den Verlust eines Hauses oder den Tod eines Angehörigen. Die WHO gibt als Beispiel: Sagen Sie, dass es Ihnen leidtut und dass Sie sich vorstellen können, dass es sehr traurig ist.
+- Traurigkeit und Trauer gehören zu den gewöhnlichen Reaktionen auf eine Krise (WHO). Jeder Mensch trauert anders, und Trauer folgt keinem festen Zeitplan. Die meisten Menschen passen sich mit der Zeit an (IFRC).
+- Erkennen Sie den Verlust an und sagen Sie, dass Sie besorgt sind (Gezondheid en Wetenschap). Erkennen Sie die Gefühle und Verluste eines Menschen an, etwa den Verlust eines Hauses oder den Tod eines Angehörigen. Die WHO gibt als Beispiel: Sagen Sie, dass es Ihnen leidtut und dass Sie sich vorstellen können, dass es sehr traurig ist.
+- Geben Sie Zeit und Raum. Hören Sie zu, ohne zu urteilen, und lassen Sie die Person auf ihre Weise erzählen. Suchen Sie nicht zu schnell nach Lösungen (Gezondheid en Wetenschap, Rode Kruis-Vlaanderen).
 - Sagen Sie nicht, wie sich jemand fühlen sollte. Sagen Sie zum Beispiel nicht: Sie sollten froh sein, dass Sie überlebt haben (WHO).
-- Helfen Sie Menschen, mit Angehörigen und sozialer Unterstützung in Kontakt zu kommen (WHO).
+- Kleine Aufmerksamkeiten können Halt geben, etwa eine Schale Suppe. Fragen Sie, was Sie tun können, und halten Sie Ihre Versprechen (Gezondheid en Wetenschap, Rode Kruis-Vlaanderen).
+- Will jemand nicht sprechen, respektieren Sie das, bleiben Sie aber in Kontakt. Ermutigen Sie die Person, mit Menschen zu sprechen, die ihr nahestehen (Gezondheid en Wetenschap).
+- Helfen Sie Menschen, mit Angehörigen und sozialer Unterstützung in Kontakt zu kommen (WHO). Melden Sie sich nach einigen Wochen und Monaten erneut: Die Unterstützung aus dem Umfeld nimmt nach ein paar Wochen ab, während die Betroffenen sie dann noch brauchen (Rode Kruis-Vlaanderen, Impact).
+- Kleine Kinder verstehen noch nicht immer, dass jemand, der stirbt, nicht zurückkommt, und können sich selbst die Schuld geben. Erklären Sie, dass es nicht ihre Schuld ist (IFRC, WHO).
 - Haben Sie nach einer Katastrophe jemanden aus den Augen verloren, kann der Dienst Restoring Family Links von Rode Kruis-Vlaanderen bei der Suche helfen (siehe den Leitfaden zur Evakuierung).
-- Grübeln Sie weiter oder brauchen Sie ein Gespräch, suchen Sie Hilfe (Krisenzentrum; siehe unten).
+- Grübeln Sie weiter oder brauchen Sie ein Gespräch, suchen Sie Unterstützung bei Menschen, denen Sie vertrauen. Siehe auch Wann Sie später mehr Hilfe suchen.
 
-Quelle: [WHO: Psychological first aid](https://psychiatry.uw.edu/wp-content/uploads/2020/04/1.-WHO_PFA_2011.pdf) · [Rode Kruis-Vlaanderen: Restoring Family Links](https://www.rodekruis.be/restoringfamilylinks/en/about-us) · [Nationales Krisenzentrum: Broschüre Gemeinsam vorbereitet](https://krisenzentrum.be/sites/default/files/documents/files/WEB-Brosch%C3%BCre%20Gemeinsam%20Vorbereitet-DE.pdf)
-
-## Psychologische Erste Hilfe: jemand anderem beistehen
-
-**Was es ist.** Psychologische Erste Hilfe (PEH, auf Englisch psychological first aid) ist laut WHO eine menschliche, unterstützende Reaktion auf jemanden, der leidet und Unterstützung brauchen könnte. Sie umfasst:
-
-- Praktische Versorgung und Unterstützung anbieten, ohne sich aufzudrängen.
-- Klären, was jemand braucht und worüber er sich Sorgen macht.
-- Helfen, Grundbedürfnisse wie Essen, Wasser und Informationen zu decken.
-- Zuhören, ohne zum Sprechen zu drängen.
-- Trösten und helfen, ruhig zu werden.
-- Helfen, Kontakt zu Informationen, Diensten und sozialer Unterstützung herzustellen.
-- Vor weiterem Schaden schützen.
-
-**Was es nicht ist.** Es ist nichts, was nur Fachleute können. Es ist keine professionelle Beratung. Es erfordert keine ausführliche Besprechung dessen, was geschehen ist.
-
-Quelle: [WHO: Psychological first aid](https://psychiatry.uw.edu/wp-content/uploads/2020/04/1.-WHO_PFA_2011.pdf) · [WHO: Publikationsseite](https://www.who.int/publications/i/item/9789241548205)
-
-## Hinschauen, zuhören, verbinden
-
-Die WHO baut die psychologische Erste Hilfe auf drei Grundsätzen auf.
-
-**1. Hinschauen**
-
-- Prüfen Sie, ob es sicher ist. Sind Sie nicht sicher, gehen Sie nicht hin; schauen Sie, ob Sie anderen helfen können.
-- Suchen Sie Menschen mit dringenden Grundbedürfnissen, etwa schweren Verletzungen.
-- Suchen Sie Menschen mit schweren Stressreaktionen.
-
-**2. Zuhören**
-
-1. Gehen Sie respektvoll und ihrer Kultur entsprechend auf Menschen zu. Stellen Sie sich mit Ihrem Namen vor. Fragen Sie, ob Sie helfen können. Suchen Sie möglichst einen sicheren, ruhigen Ort. Bieten Sie zum Beispiel Wasser an. Bringen Sie die Person aus unmittelbarer Gefahr, wenn das sicher möglich ist. Lassen Sie jemanden, der sehr aufgewühlt ist, nicht allein.
-2. Fragen Sie, was jemand braucht und worüber er sich Sorgen macht, auch wenn es offensichtlich scheint. Helfen Sie, Prioritäten zu setzen.
-3. Hören Sie zu und helfen Sie, ruhig zu werden. Bleiben Sie in der Nähe, drängen Sie nicht zum Sprechen, hören Sie zu, wenn jemand erzählen möchte.
-
-Hören Sie laut WHO mit Ihren Augen (ungeteilte Aufmerksamkeit), Ihren Ohren (wirklich hören, was jemanden beschäftigt) und Ihrem Herzen (mit Fürsorge und Respekt) zu.
-
-**Jemandem helfen, sich zu beruhigen (WHO)**
-
-- Sprechen Sie ruhig und sanft.
-- Halten Sie, wenn es kulturell angemessen ist, etwas Blickkontakt.
-- Erinnern Sie daran, dass Sie da sind, um zu helfen, und dass die Person in Sicherheit ist, wenn das stimmt.
-- Fühlt sich jemand unwirklich oder losgelöst von der Umgebung, bitten Sie ihn, die Füße auf den Boden zu stellen und zu spüren, mit den Fingern auf den Schoß zu tippen oder zu sagen, was er sieht und hört, das nicht beunruhigend ist.
-- Ermutigen Sie dazu, auf die Atmung zu achten und langsam zu atmen.
-
-**3. Verbinden**
-
-- Helfen Sie, Grundbedürfnisse zu decken und Zugang zu Diensten zu erhalten. Sorgen Sie dafür, dass schutzbedürftige Menschen nicht übersehen werden. Kommen Sie zurück, wenn Sie das versprochen haben.
-- Helfen Sie, Probleme anzugehen: Was muss jetzt sein, was kann warten. Fragen Sie, wie jemand früher schwierige Situationen bewältigt hat. Helfen Sie, Unterstützung im eigenen Umfeld zu finden.
-- Geben Sie korrekte Informationen, auch darüber, was Sie nicht wissen.
-- Bringen Sie Menschen mit Angehörigen und sozialer Unterstützung in Kontakt.
-
-Quelle: [WHO: Psychological first aid](https://psychiatry.uw.edu/wp-content/uploads/2020/04/1.-WHO_PFA_2011.pdf)
-
-## Was Sie sagen und nicht sagen
-
-Aus den Richtlinien der WHO:
-
-| Tun | Nicht tun |
-| --- | --- |
-| Einen ruhigen Ort mit wenig Ablenkung suchen | jemanden unter Druck setzen, seine Geschichte zu erzählen |
-| Die Privatsphäre respektieren und die Geschichte vertraulich behandeln, wenn das angemessen ist | unterbrechen oder hetzen, zum Beispiel auf die Uhr schauen oder schnell sprechen |
-| In der Nähe bleiben, mit einem Abstand, der zu Alter, Geschlecht und Kultur passt | jemanden berühren, wenn Sie nicht sicher sind, dass es angemessen ist |
-| Zeigen, dass Sie zuhören, zum Beispiel durch Nicken | darüber urteilen, was jemand getan hat oder fühlt |
-| Geduldig und ruhig sein | Dinge erfinden, die Sie nicht wissen |
-| Sachliche Informationen geben, wenn Sie welche haben; ehrlich sein über das, was Sie nicht wissen | zu technische Begriffe verwenden |
-| Informationen einfach und verständlich geben | die Geschichte eines anderen erzählen oder Ihre eigenen Sorgen |
-| Gefühle und Verluste anerkennen | falsche Versprechen oder falsche Beruhigung geben |
-| Die Stärken der Person anerkennen | so tun, als müssten Sie alle Probleme lösen |
-| Stille zulassen | jemandem seine Kraft und Selbstständigkeit nehmen; negativ über Menschen sprechen |
-
-**Abschließen.** Erklären Sie, dass Sie gehen. Übernimmt jemand anderes, stellen Sie diese Person vor. Haben Sie jemanden weiterverwiesen, sorgen Sie dafür, dass er weiß, was ihn erwartet, und die Kontaktdaten hat. Verabschieden Sie sich positiv (WHO).
-
-Quelle: [WHO: Psychological first aid](https://psychiatry.uw.edu/wp-content/uploads/2020/04/1.-WHO_PFA_2011.pdf)
-
-## Wer sofort mehr Hilfe braucht
-
-Die WHO nennt Menschen, die sofort weitergehende spezialisierte Hilfe brauchen:
-
-- Menschen mit schweren, lebensbedrohlichen Verletzungen, die dringend medizinische Versorgung brauchen.
-- Menschen, die so aufgewühlt sind, dass sie nicht für sich selbst oder ihre Kinder sorgen können.
-- Menschen, die sich selbst etwas antun könnten.
-- Menschen, die anderen etwas antun könnten.
-
-Lassen Sie jemanden, der stark aufgewühlt ist, nicht allein und versuchen Sie, ihn in Sicherheit zu halten, bis die Reaktion vorbei ist oder bis Sie Hilfe bei medizinischem Personal oder anderen in der Nähe finden (WHO). Bei Lebensgefahr rufen Sie 112 an.
-
-Quelle: [WHO: Psychological first aid](https://psychiatry.uw.edu/wp-content/uploads/2020/04/1.-WHO_PFA_2011.pdf)
-
-## Wann und wo Sie Hilfe suchen
-
-**Wann**
-
-- Grübeln Sie weiter oder brauchen Sie ein Gespräch, zögern Sie nicht, Hilfe zu suchen (Krisenzentrum).
-- Die WHO nennt Helfern diese Warnzeichen: Haben Sie nach der Katastrophe beunruhigende Gedanken oder Erinnerungen, sind Sie sehr nervös oder traurig, schlafen Sie schlecht oder trinken Sie viel Alkohol oder nehmen Sie Drogen, suchen Sie Unterstützung bei jemandem, dem Sie vertrauen. Dauern die Beschwerden länger als einen Monat, wenden Sie sich an eine medizinische Fachperson.
-- Die WHO sagt auch, dass Menschen mit schweren oder lang anhaltenden Stressreaktionen mehr Unterstützung brauchen können als psychologische Erste Hilfe, vor allem wenn sie im Alltag nicht mehr zurechtkommen oder eine Gefahr für sich selbst oder andere sind.
-- Machen Sie sich große Sorgen um Ihr Kind, holen Sie Rat beim Kinderarzt oder bei einer Fachkraft ein (BBK).
-
-**Wo, in Belgien**
-
-| Wer | Wie | Für |
-| --- | --- | --- |
-| Ihr Hausarzt | | über Ihre Gefühle sprechen |
-| Tele-Onthaal | rufen Sie 106 an oder chatten Sie über tele-onthaal.be | alle, die ein Gespräch brauchen |
-| Awel | 102 oder awel.be | Kinder und Jugendliche |
-| Zelfmoordlijn 1813 | 1813 oder zelfmoord1813.be; auch Chat mit Freiwilligen und E-Mail | |
-| Hulplijn geweld | 1712 oder 1712.be | Spannungen in Beziehungen und Gewalt, alle Altersgruppen |
-| Bereitschaftsarzt | 1733 | außerhalb der Sprechzeiten |
-| Hilfsdienste | 112 | Lebensgefahr |
-
-Quelle: [Nationales Krisenzentrum: Broschüre Gemeinsam vorbereitet](https://krisenzentrum.be/sites/default/files/documents/files/WEB-Brosch%C3%BCre%20Gemeinsam%20Vorbereitet-DE.pdf) · [Nationales Krisenzentrum: Sprechen Sie darüber](https://krisenzentrum.be/de/was-koennen-sie-tun/zorg-voor-jezelf/sprechen-sie-darueber) · [Nationales Krisenzentrum: Mein eigener Notfallplan](https://krisenzentrum.be/sites/default/files/documents/files/MeinNotfallplan_PDF.pdf) · [WHO: Psychological first aid](https://psychiatry.uw.edu/wp-content/uploads/2020/04/1.-WHO_PFA_2011.pdf) · [BBK: Vorsorgen für Krisen und Katastrophen](https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/Buergerinformationen/Ratgeber/BBK-Vorsorgen-fuer-Krisen-und-Katastrophen.pdf?__blob=publicationFile&v=44)
+Quelle: [WHO: Psychological first aid](https://psychiatry.uw.edu/wp-content/uploads/2020/04/1.-WHO_PFA_2011.pdf) · [IFRC: A Guide to Psychological First Aid](https://mhpsshub.org/wp-content/uploads/2019/05/PFA-Guide-low-res.pdf) · [Gezondheid en Wetenschap: Erste Hilfe bei Trauer](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-rouw) · [Rode Kruis-Vlaanderen: Wie gehen Sie mit einem erschütternden Ereignis um?](https://www.rodekruis.be/storage/main/2018-031-brochure-schokkende-gebeurtenissen-lr.pdf) · [Impact: Leitlinie psychosoziale Hilfe bei Katastrophen und Krisen](https://arq.org/sites/default/files/2022-09/Richtlijn%20-%20Psychosociale%20hulp%20bij%20rampen%20en%20crises%20%28herziene%20uitgave%29.pdf) · [Rode Kruis-Vlaanderen: Restoring Family Links](https://www.rodekruis.be/restoringfamilylinks/en/about-us) · [Nationales Krisenzentrum: Broschüre Gemeinsam vorbereitet](https://krisenzentrum.be/sites/default/files/documents/files/WEB-Brosch%C3%BCre%20Gemeinsam%20Vorbereitet-DE.pdf)
 
 ## Für sich selbst sorgen, wenn Sie anderen helfen
 
@@ -315,4 +379,31 @@ Die WHO gibt Helfern, auch Freiwilligen und Nachbarn, diesen Rat:
 - Sprechen Sie mit Freunden, Angehörigen oder Menschen, denen Sie vertrauen.
 - Nehmen Sie sich danach Zeit, um sich auszuruhen und zurückzublicken. Erkennen Sie an, was Sie tun konnten, auch in kleinen Dingen, und die Grenzen dessen, was möglich war.
 
-Quelle: [WHO: Psychological first aid](https://psychiatry.uw.edu/wp-content/uploads/2020/04/1.-WHO_PFA_2011.pdf)
+Die IFRC ergänzt: Achten Sie auf Ihre eigenen Stresssignale und akzeptieren Sie Ihre eigenen Reaktionen. Teil eines Teams zu sein, Ihre täglichen Routinen beizubehalten und die Arbeit loslassen zu können, schützt Sie. Bei Katastrophen werden Sie häufiger mit dem Tod konfrontiert; achten Sie dann auch auf Ihr eigenes Wohlbefinden.
+
+Quelle: [WHO: Psychological first aid](https://psychiatry.uw.edu/wp-content/uploads/2020/04/1.-WHO_PFA_2011.pdf) · [IFRC: A Guide to Psychological First Aid](https://mhpsshub.org/wp-content/uploads/2019/05/PFA-Guide-low-res.pdf) · [IFRC Guidelines 2020](https://www.ifrc.org/sites/default/files/2022-02/EN_GFARC_GUIDELINES_2020.pdf)
+
+## Wann Sie später mehr Hilfe suchen
+
+- Grübeln Sie weiter oder brauchen Sie ein Gespräch, zögern Sie nicht, Hilfe zu suchen (Krisenzentrum).
+- Die WHO nennt Helfern diese Warnzeichen: Haben Sie nach der Katastrophe beunruhigende Gedanken oder Erinnerungen, sind Sie sehr nervös oder traurig, schlafen Sie schlecht oder trinken Sie viel Alkohol oder nehmen Sie Drogen, suchen Sie Unterstützung bei jemandem, dem Sie vertrauen. Dauern die Beschwerden länger als einen Monat, wenden Sie sich an eine medizinische Fachperson.
+- Die WHO sagt auch, dass Menschen mit schweren oder lang anhaltenden Stressreaktionen mehr Unterstützung brauchen können als psychologische Erste Hilfe, vor allem wenn sie im Alltag nicht mehr zurechtkommen oder eine Gefahr für sich selbst oder andere sind.
+- Bleiben die Reaktionen auf einen Verlust etwa sechs Monate später unverändert, kann es sich um anhaltende Trauer handeln, und spezialisierte Hilfe ist angezeigt (IFRC).
+- Machen Sie sich große Sorgen um Ihr Kind, holen Sie Rat beim Kinderarzt oder bei einer Fachkraft ein (BBK).
+
+Quelle: [Nationales Krisenzentrum: Sprechen Sie darüber](https://krisenzentrum.be/de/was-koennen-sie-tun/zorg-voor-jezelf/sprechen-sie-darueber) · [WHO: Psychological first aid](https://psychiatry.uw.edu/wp-content/uploads/2020/04/1.-WHO_PFA_2011.pdf) · [IFRC: A Guide to Psychological First Aid](https://mhpsshub.org/wp-content/uploads/2019/05/PFA-Guide-low-res.pdf) · [BBK: Vorsorgen für Krisen und Katastrophen](https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/Buergerinformationen/Ratgeber/BBK-Vorsorgen-fuer-Krisen-und-Katastrophen.pdf?__blob=publicationFile&v=44)
+
+## Nach der Krise, wenn das Telefon wieder funktioniert
+
+Diese Hilfetelefone sind für ein Gespräch da, wenn Telefon oder Internet wieder funktionieren. Sie sind keine Notrufnummer. Notieren Sie sie vorab auf Papier bei Ihrem Notfallplan. Bei Lebensgefahr rufen Sie 112 an; siehe Wer sofort mehr Hilfe braucht.
+
+| Wer | Wie | Für |
+| --- | --- | --- |
+| Ihr Hausarzt | | über Ihre Gefühle sprechen |
+| Bereitschaftsarzt | 1733 | außerhalb der Sprechzeiten |
+| Tele-Onthaal | rufen Sie 106 an oder chatten Sie über tele-onthaal.be | alle, die ein Gespräch brauchen |
+| Awel | 102 oder awel.be | Kinder und Jugendliche |
+| Zelfmoordlijn 1813 | 1813 oder zelfmoord1813.be; auch Chat mit Freiwilligen und E-Mail | |
+| Hulplijn geweld | 1712 oder 1712.be | Spannungen in Beziehungen und Gewalt, alle Altersgruppen |
+
+Quelle: [Nationales Krisenzentrum: Broschüre Gemeinsam vorbereitet](https://krisenzentrum.be/sites/default/files/documents/files/WEB-Brosch%C3%BCre%20Gemeinsam%20Vorbereitet-DE.pdf) · [Nationales Krisenzentrum: Sprechen Sie darüber](https://krisenzentrum.be/de/was-koennen-sie-tun/zorg-voor-jezelf/sprechen-sie-darueber) · [Nationales Krisenzentrum: Mein eigener Notfallplan](https://krisenzentrum.be/sites/default/files/documents/files/MeinNotfallplan_PDF.pdf)

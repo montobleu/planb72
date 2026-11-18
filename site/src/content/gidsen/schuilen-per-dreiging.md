@@ -4,7 +4,7 @@ module: schuilen
 volgorde: 1
 kort: "Waar je heen gaat, waar je wegblijft en hoe lang je blijft: per dreiging en per plek, in volgorde van voorkeur."
 status: concept
-datum: "2026-11-17"
+datum: "2026-11-18"
 bronnen:
   - naam: "Nationaal Crisiscentrum: Schuilen"
     url: https://crisiscentrum.be/nl/wat-kan-jij-doen/reageer-correct/schuilen
@@ -36,6 +36,14 @@ bronnen:
     url: https://crisiscentrum.be/nl/risicos-belgie/man-made-risicos/internationaal-gewapend-conflict-igc
   - naam: "Nationaal Crisiscentrum: Brand of instorting van een tunnel"
     url: https://crisiscentrum.be/nl/risicos-belgie/economische-en-technologische-risicos/brand-instorting-van-een-tunnel
+  - naam: "Nationaal Crisiscentrum: brochure Samen voorbereid"
+    url: https://crisiscentrum.be/sites/default/files/documents/files/WEB-Brochure%20Samen%20voorbereid-NL.pdf
+  - naam: "Nationaal Crisiscentrum: Verstoring van de digitale infrastructuur"
+    url: https://crisiscentrum.be/nl/risicos-belgie/maatschappelijke-risicos/verstoring-van-de-digitale-infrastructuur
+  - naam: "112.be: Veelgestelde vragen"
+    url: https://112.be/nl/veelgestelde-vragen
+  - naam: "FOD Economie: vragen van gezinnen over elektriciteitsschaarste"
+    url: https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door
   - naam: "Nucleair risico: Schuilen, de beste bescherming"
     url: https://nucleairrisico.be/nl/wat-kan-jij-doen/schuilen-de-beste-bescherming
   - naam: "KMI: Hoe bescherm ik me tegen bliksem"
@@ -94,7 +102,7 @@ Schuilen betekent in België: je gaat binnen in het dichtstbijzijnde toegankelij
 
 1. Blijf binnen of ga naar binnen in het dichtstbijzijnde toegankelijke gebouw. Blijf daar tot je bericht krijgt dat het opnieuw veilig is.
 2. Sluit alle ramen en deuren. Zet ventilatie, airco en andere systemen die buitenlucht binnenbrengen uit. Ga bij voorkeur naar een centrale ruimte op het gelijkvloers, weg van ramen en buitendeuren.
-3. Volg de instructies van de overheid via BE-Alert, radio, tv, officiële websites en sociale media.
+3. Volg de instructies van de overheid. Wie schuilt, zit binnen met ramen en deuren dicht: luister naar een radio op batterijen of een opwindbare radio en let op omroepwagens van de politie in de straat. Werkt het netwerk, dan komen de instructies ook via BE-Alert, officiële websites en sociale media.
 
 Die drie stappen gelden voor de meeste dreigingen waarbij de overheid vraagt om binnen te blijven: een chemisch lek, hevige rook, zwaar onweer, een nucleair ongeval. Maar niet elke dreiging vraagt dezelfde plek. De Duitse civiele bescherming (BBK) zegt het uitdrukkelijk: wat bij de ene dreiging veilig is, kan bij een andere gevaarlijk zijn. Een kelder beschermt goed tegen een explosie of straling, maar is levensgevaarlijk bij een overstroming.
 
@@ -102,7 +110,9 @@ Deze gids geeft daarom per dreiging de mogelijkheden in volgorde van voorkeur, p
 
 Het Crisiscentrum zegt ook dat schuilen een tijdelijke maatregel is: van enkele uren tot maximaal 24 uur. Is de situatie daarna nog niet veilig of erger, dan kan de overheid vragen om te evacueren. Evacueer nooit op eigen initiatief, tenzij je onmiddellijk gevaar loopt.
 
-Bron: [Nationaal Crisiscentrum: Schuilen](https://crisiscentrum.be/nl/wat-kan-jij-doen/reageer-correct/schuilen) · [Nationaal Crisiscentrum: Evacueren](https://crisiscentrum.be/nl/wat-kan-jij-doen/reageer-correct/evacueren) · [BBK: Schutz suchen](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Vorsorge/Schutz-suchen/schutz-suchen_node.html)
+Waar deze gids zegt dat je 112 belt: ga ervan uit dat het netwerk kan uitvallen. Probeer dan een ander toestel, laat buren of omstanders bellen of verplaats je enkele meters. Werkt bellen helemaal niet, vraag dan hulp in je buurt en volg de informatie van de overheid op de radio. Zie ook Noodnummers in de app, Als bellen niet lukt. De kaart in de app (knop Dichtstbij) toont brandweer, politie, ziekenhuizen en gemeentehuizen.
+
+Bron: [Nationaal Crisiscentrum: Schuilen](https://crisiscentrum.be/nl/wat-kan-jij-doen/reageer-correct/schuilen) · [Nationaal Crisiscentrum: Evacueren](https://crisiscentrum.be/nl/wat-kan-jij-doen/reageer-correct/evacueren) · [Nationaal Crisiscentrum: brochure Samen voorbereid](https://crisiscentrum.be/sites/default/files/documents/files/WEB-Brochure%20Samen%20voorbereid-NL.pdf) · [BBK: Schutz suchen](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Vorsorge/Schutz-suchen/schutz-suchen_node.html) · [112.be: Veelgestelde vragen](https://112.be/nl/veelgestelde-vragen) · [FOD Economie: vragen van gezinnen over elektriciteitsschaarste](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door)
 
 ## Overzicht: de richting per dreiging
 
@@ -160,7 +170,7 @@ Finland geeft aparte richtlijnen voor drones. De gevarenzone van explosieven kan
 - Ga binnen, zeker als de drone onstabiel of laag vliegt.
 - Mijd open terrein in de buurt van de drone. Ben je in het bos of open veld, ga dan onder het maaiveld als dat kan.
 - Binnen: blijf weg van ramen en deuren, in het midden van het gebouw, in een ruimte met stevige muren.
-- Bel 112 als je een drone ziet bij een kritieke plek (centrale, luchthaven, haven, waterzuivering) of een neergestorte drone vindt.
+- Bel 112 als je een drone ziet bij een kritieke plek (centrale, luchthaven, haven, waterzuivering) of een neergestorte drone vindt. Lukt bellen niet, laat iemand anders bellen of vraag hulp in je buurt (zie Noodnummers in de app, Als bellen niet lukt).
 
 ### Waar niet
 
@@ -180,7 +190,7 @@ Finland geeft aparte richtlijnen voor drones. De gevarenzone van explosieven kan
 - Na het einde van het alarm: help gewonden en mensen die vastzitten (MCF).
 - Neem alleen mee wat je direct bij de hand hebt. Zweden raadt water, eten dat je op kamertemperatuur kunt eten, identiteitsbewijs, geld, bankkaart, gsm en lader of powerbank aan. Houd bij een schuilkelder rekening met enkele dagen.
 
-Bron: [Nationaal Crisiscentrum: Internationaal gewapend conflict](https://crisiscentrum.be/nl/risicos-belgie/man-made-risicos/internationaal-gewapend-conflict-igc) · [BBK: Explosionen, hier finden Sie Schutz](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Vorsorge/Schutz-suchen/Schutz-vor-Explosion/schutz-vor-explosion_node.html) · [MCF: In case of crisis or war](https://rib.msb.se/filer/pdf/31523.pdf) · [MCF: About the warning and information systems](https://www.mcf.se/en/advice-for-individuals/civil-defence-shelters-evacuation-and-warning-systems/public-service-announcement-and-other-varnings/about-the-warning--and-information-systems/) · [Suomi.fi: Threat from the air](https://www.suomi.fi/guides/preparedness/how-to-prepare-for-incidents-and-crises/threat-from-the-air) · [TNO: Schuilmogelijkheden bij luchtaanvallen](https://www.tweedekamer.nl/downloads/document?id=2026D56281) · [Dovidka.info: What is a shelter](https://dovidka.info/en/what-is-shelter/)
+Bron: [Nationaal Crisiscentrum: Internationaal gewapend conflict](https://crisiscentrum.be/nl/risicos-belgie/man-made-risicos/internationaal-gewapend-conflict-igc) · [BBK: Explosionen, hier finden Sie Schutz](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Vorsorge/Schutz-suchen/Schutz-vor-Explosion/schutz-vor-explosion_node.html) · [MCF: In case of crisis or war](https://rib.msb.se/filer/pdf/31523.pdf) · [MCF: About the warning and information systems](https://www.mcf.se/en/advice-for-individuals/civil-defence-shelters-evacuation-and-warning-systems/public-service-announcement-and-other-varnings/about-the-warning--and-information-systems/) · [Suomi.fi: Threat from the air](https://www.suomi.fi/guides/preparedness/how-to-prepare-for-incidents-and-crises/threat-from-the-air) · [TNO: Schuilmogelijkheden bij luchtaanvallen](https://www.tweedekamer.nl/downloads/document?id=2026D56281) · [Dovidka.info: What is a shelter](https://dovidka.info/en/what-is-shelter/) · [112.be: Veelgestelde vragen](https://112.be/nl/veelgestelde-vragen) · [FOD Economie: vragen van gezinnen over elektriciteitsschaarste](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door)
 
 ## Explosie in de buurt
 
@@ -199,6 +209,7 @@ Dit gaat over een ontploffing door een ongeval of een aanslag, zonder luchtalarm
 - Spreek andere mensen aan om hen te verwittigen of bel 112.
 - Blijf in de buurt van het incident, maar buiten de gevarenzone, zodat de hulpdiensten je kunnen opvangen.
 - Ben je buiten: ga naar een veilige plaats en bel 112.
+- Lukt bellen niet, laat iemand anders bellen of vraag hulp in je buurt (zie Noodnummers in de app, Als bellen niet lukt).
 
 ### Als een gebouw beschadigd is
 
@@ -216,9 +227,9 @@ Dit gaat over een ontploffing door een ongeval of een aanslag, zonder luchtalarm
 
 ### Hoe lang en wanneer verlaten
 
-Ben je op een veilige plaats, weg van het incident: blijf waar je bent, liefst binnen. Vermijd verplaatsingen, zodat je de hulpdiensten niet hindert. Ga niet kijken. Laat je familie weten dat je veilig bent, bij voorkeur via sms of sociale media. Volg daarna de instructies van de overheid: een ontploffing kan nog andere gevolgen hebben, zeker als er chemische stoffen bij betrokken waren.
+Ben je op een veilige plaats, weg van het incident: blijf waar je bent, liefst binnen. Vermijd verplaatsingen, zodat je de hulpdiensten niet hindert. Ga niet kijken. Werkt het netwerk, laat je familie dan weten dat je veilig bent, bij voorkeur via sms of sociale media. Spreek daarom vooraf met je familie af waar jullie elkaar terugvinden als jullie elkaar niet kunnen bereiken. Volg daarna de instructies van de overheid op de radio: een ontploffing kan nog andere gevolgen hebben, zeker als er chemische stoffen bij betrokken waren.
 
-Bron: [Nationaal Crisiscentrum: Ontploffen van explosieve stoffen](https://crisiscentrum.be/nl/risicos-belgie/economische-en-technologische-risicos/ontploffen-van-explosieve-stoffen) · [Nationaal Crisiscentrum: Aanval op een soft target](https://crisiscentrum.be/nl/risicos-belgie/man-made-risicos/aanval-op-een-soft-target) · [BBK: Explosionen, hier finden Sie Schutz](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Vorsorge/Schutz-suchen/Schutz-vor-Explosion/schutz-vor-explosion_node.html) · [Ready.gov: Explosions](https://www.ready.gov/explosions)
+Bron: [Nationaal Crisiscentrum: Ontploffen van explosieve stoffen](https://crisiscentrum.be/nl/risicos-belgie/economische-en-technologische-risicos/ontploffen-van-explosieve-stoffen) · [Nationaal Crisiscentrum: Aanval op een soft target](https://crisiscentrum.be/nl/risicos-belgie/man-made-risicos/aanval-op-een-soft-target) · [BBK: Explosionen, hier finden Sie Schutz](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Vorsorge/Schutz-suchen/Schutz-vor-Explosion/schutz-vor-explosion_node.html) · [Ready.gov: Explosions](https://www.ready.gov/explosions) · [Nationaal Crisiscentrum: Verstoring van de digitale infrastructuur](https://crisiscentrum.be/nl/risicos-belgie/maatschappelijke-risicos/verstoring-van-de-digitale-infrastructuur) · [112.be: Veelgestelde vragen](https://112.be/nl/veelgestelde-vragen) · [FOD Economie: vragen van gezinnen over elektriciteitsschaarste](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door)
 
 ## Radioactieve neerslag
 
@@ -242,7 +253,7 @@ Het Belgische advies (centrale ruimte op het gelijkvloers) en het Duitse advies 
 | Te voet | Ga het dichtstbijzijnde gebouw binnen |
 | Auto, dicht bij een gebouw | Ga onmiddellijk naar binnen |
 | Auto, geen gebouw bereikbaar | Parkeer op een veilige plaats of rij loodrecht op de windrichting; motor uit, ramen dicht, airco uit, luister naar de radio |
-| Open terrein zonder gebouwen | Bel 112 (Crisiscentrum, algemene schuilrichtlijn) |
+| Open terrein zonder gebouwen | Bel 112 (Crisiscentrum, algemene schuilrichtlijn). Lukt bellen niet: ga verder weg van de noodsituatie tot je een veilig en toegankelijk gebouw vindt (Crisiscentrum, schuilen onderweg) |
 
 ### Hoe lang
 
@@ -284,7 +295,7 @@ Verlaat het gebouw (BBK). Ga zo mogelijk niet door de besmette zone; kan dat nie
 
 ### Hoe lang en wanneer verlaten
 
-Blijf binnen tot je bericht krijgt dat het veilig is, ook om anderen te helpen (Ready.gov). Laat kinderen op school. Gebruik sms of internet in plaats van te bellen. Soms moet je evacueren: doe dat alleen op instructie van de hulpdiensten. Na het ongeval kan er een impact zijn op drinkwater, groenten uit de tuin en veeteelt: volg de instructies.
+Blijf binnen tot je bericht krijgt dat het veilig is, ook om anderen te helpen (Ready.gov). Luister daarvoor naar de radio. Laat kinderen op school. Bel niet onnodig; werkt het netwerk, gebruik dan sms of internet in plaats van te bellen. Soms moet je evacueren: doe dat alleen op instructie van de hulpdiensten. Na het ongeval kan er een impact zijn op drinkwater, groenten uit de tuin en veeteelt: volg de instructies.
 
 Bron: [Nationaal Crisiscentrum: Vrijkomen van chemische stoffen](https://crisiscentrum.be/nl/risicos-belgie/economische-en-technologische-risicos/vrijkomen-van-chemische-stoffen) · [Nationaal Crisiscentrum: Schuilen](https://crisiscentrum.be/nl/wat-kan-jij-doen/reageer-correct/schuilen) · [BBK: Schutz suchen](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Vorsorge/Schutz-suchen/schutz-suchen_node.html) · [BBK: Die unterschiedlichen Gefahrstoffe](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Vorsorge/Schutz-suchen/Gefahrstoff-Freisetzung/_documents/gefahrstoff-unterschiede_dossier1.html?nn=20588) · [BBK: Verhalten im Freien oder im Auto](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Vorsorge/Schutz-suchen/Gefahrstoff-Freisetzung/_documents/gefahrstoff-im-auto-und-im-freien_dossier3.html?nn=20588) · [Sebeochrana ukrytím](https://mv.gov.cz/clanek/sebeochrana-ukrytim.aspx) · [Suomi.fi: Spreading of dangerous substances](https://www.suomi.fi/guides/preparedness/how-to-prepare-for-incidents-and-crises/spreading-of-dangerous-substances-into-the-environment) · [Ready.gov: Hazardous materials](https://www.ready.gov/hazmat)
 
@@ -357,7 +368,7 @@ Ready.gov zegt dat er in een auto geen veilige keuze is, alleen minder gevaarlij
 
 ### Hoe lang en wanneer verlaten
 
-Blijf binnen tot de storm voorbij is. Finland: ga niet naar buiten om schade te herstellen tijdens de storm. Raak daarna geen kabels aan die op de grond liggen (Crisiscentrum). Voor niet-dringende hulp: 1722 of het e-loket 1722.be; hou 112 vrij voor levensgevaar.
+Blijf binnen tot de storm voorbij is. Finland: ga niet naar buiten om schade te herstellen tijdens de storm. Raak daarna geen kabels aan die op de grond liggen (Crisiscentrum). Werkt het netwerk, gebruik dan voor niet-dringende hulp 1722 of het e-loket 1722.be; hou 112 vrij voor levensgevaar.
 
 Bron: [Nationaal Crisiscentrum: Wind en storm](https://crisiscentrum.be/nl/risicos-belgie/natuurlijke-risicos/wind-en-storm) · [Nationaal Crisiscentrum: Tornado](https://crisiscentrum.be/nl/risicos-belgie/natuurlijke-risicos/tornado) · [KMI: Hoe bescherm ik me tegen bliksem](https://www.meteo.be/nl/info/veelgestelde-vragen/hoe-je-beschermen-tegen-gevaarlijk-weer/hoe-bescherm-ik-me-tegen-bliksem) · [Ready.gov: Tornadoes](https://www.ready.gov/tornadoes)
 
@@ -365,16 +376,16 @@ Bron: [Nationaal Crisiscentrum: Wind en storm](https://crisiscentrum.be/nl/risic
 
 ### Volgorde van voorkeur
 
-1. **Woon je bij een bos of natuurgebied:** bel 112 als je brand ziet. Sluit ramen en deuren. Evacueer niet op eigen initiatief, wacht op de aanbevelingen (Crisiscentrum).
+1. **Woon je bij een bos of natuurgebied:** bel 112 als je brand ziet. Lukt bellen niet, laat iemand anders bellen of vraag hulp in je buurt. Sluit ramen en deuren. Evacueer niet op eigen initiatief, wacht op de aanbevelingen (Crisiscentrum).
 2. **Ben je in het bos:** breng jezelf in veiligheid. Volg paden die van het vuur en de rookkolom weglopen, liefst dwars op de windrichting. Vlucht naar een openbare weg, een groot verhard terrein of de bebouwde kom (Crisiscentrum).
 3. **Bij rook zonder bevel om te evacueren:** blijf binnen in een veilige ruimte, ramen dicht en ventilatie uit (Finland), of ga naar een gemeenschapsgebouw waar minder rook is (Ready.gov).
 4. **Noodoplossing als je vastzit:** bel 112 en geef je locatie. Hulp kan vertraagd zijn. Doe lichten aan, zodat redders je vinden (Ready.gov).
 
 ### Wat je meteen doet
 
-- Geef je locatie zo goed mogelijk door met herkenbare punten: paden, vennen, uitkijktorens, parkings. Gebruik de app 112 als dat kan (Crisiscentrum).
+- Geef je locatie zo goed mogelijk door met herkenbare punten: paden, vennen, uitkijktorens, parkings. Werkt het netwerk, gebruik dan ook de app 112 (Crisiscentrum).
 - Help anderen naar een veilige plek.
-- Geen gsm of bereik: evacueer zo snel mogelijk en spreek mensen aan.
+- Geen gsm of bereik: evacueer zo snel mogelijk en spreek mensen aan. Zie ook Noodnummers in de app, Als bellen niet lukt.
 - Moet je buiten bewegen: bescherm je luchtwegen met een masker of sjaal. Finland zegt erbij dat dit niet beschermt tegen giftige gassen.
 - Sluit elektriciteit en gas af als je het huis verlaat (Crisiscentrum).
 - Ready.gov raadt aan vooraf een kamer te kiezen die je van de buitenlucht kunt afsluiten.
@@ -385,7 +396,7 @@ Bron: [Nationaal Crisiscentrum: Wind en storm](https://crisiscentrum.be/nl/risic
 - Ga niet terug naar het gebied zonder toestemming van de hulpdiensten (Crisiscentrum).
 - Blijf weg van hete as, verkoolde bomen en smeulend puin (Ready.gov).
 
-Bron: [Nationaal Crisiscentrum: Natuurbrand](https://crisiscentrum.be/nl/risicos-belgie/natuurlijke-risicos/natuurbrand) · [Suomi.fi: Wildfires and major building fires](https://www.suomi.fi/guides/preparedness/how-to-prepare-for-incidents-and-crises/wildfires-and-major-building-fires) · [Ready.gov: Wildfires](https://www.ready.gov/wildfires)
+Bron: [Nationaal Crisiscentrum: Natuurbrand](https://crisiscentrum.be/nl/risicos-belgie/natuurlijke-risicos/natuurbrand) · [Suomi.fi: Wildfires and major building fires](https://www.suomi.fi/guides/preparedness/how-to-prepare-for-incidents-and-crises/wildfires-and-major-building-fires) · [Ready.gov: Wildfires](https://www.ready.gov/wildfires) · [112.be: Veelgestelde vragen](https://112.be/nl/veelgestelde-vragen) · [FOD Economie: vragen van gezinnen over elektriciteitsschaarste](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door)
 
 ## Aardbeving
 
@@ -404,7 +415,7 @@ De Verenigde Staten geven een andere volgorde: blijf binnen en loop niet naar bu
 
 ### Daarna
 
-Wees voorbereid op naschokken. Rook niet en maak geen vuur of vonken. Ga niet terug in een woning die je onveilig lijkt. Sluit gas en elektriciteit af bij terugkeer en laat de schoorsteen controleren (Crisiscentrum). Zit je vast: stuur een bericht, klop op een leiding of muur en gebruik een fluitje in plaats van te roepen (Ready.gov).
+Wees voorbereid op naschokken. Rook niet en maak geen vuur of vonken. Ga niet terug in een woning die je onveilig lijkt. Sluit gas en elektriciteit af bij terugkeer en laat de schoorsteen controleren (Crisiscentrum). Zit je vast: klop op een leiding of muur en gebruik een fluitje in plaats van te roepen. Werkt het netwerk, stuur dan ook een bericht (Ready.gov).
 
 Bron: [Nationaal Crisiscentrum: Aardbeving](https://crisiscentrum.be/nl/risicos-belgie/natuurlijke-risicos/aardbeving) · [Ready.gov: Earthquakes](https://www.ready.gov/earthquakes)
 
@@ -421,7 +432,7 @@ Het Crisiscentrum geeft voor iemand met een wapen drie stappen: weglopen als dat
    - Doe de deur op slot of blokkeer ze als je kunt.
    - Blijf stil. Zet je gsm op stil.
    - Nederland: verstop je op een plek met dikke muren of sluit jezelf op.
-3. **Alarmeren:** bel 112 als je kunt, of gebruik de app 112 waarmee je kunt chatten als je niet kunt spreken (Crisiscentrum). Geef informatie over de dader en de plek (Denk vooruit).
+3. **Alarmeren:** bel 112 als je kunt. Werkt het netwerk maar kun je niet spreken, gebruik dan de app 112 om te chatten (Crisiscentrum). Geef informatie over de dader en de plek (Denk vooruit). Lukt bellen niet, laat iemand anders bellen of vraag hulp in je buurt (zie Noodnummers in de app, Als bellen niet lukt).
 
 De Verenigde Staten noemen als laatste middel ook het verstoren van de aanval. De Belgische, Nederlandse en Finse bronnen noemen dat niet.
 
@@ -429,14 +440,14 @@ De Verenigde Staten noemen als laatste middel ook het verstoren van de aanval. D
 
 - Blijf waar je bent, liefst binnen. Verplaats je niet, zodat je de hulpdiensten niet hindert.
 - Ga niet kijken wat er gebeurt. Finland: ga niet terug om de situatie te bekijken.
-- Laat je familie weten dat je veilig bent, bij voorkeur via sms of sociale media.
+- Werkt het netwerk, laat je familie dan weten dat je veilig bent, bij voorkeur via sms of sociale media. Werkt het niet, dan helpt de plek die je vooraf met je familie afsprak om elkaar terug te vinden.
 - Volg de aanwijzingen van de hulpverleners.
 
 ### Voorbereiden
 
 Kijk op drukke plaatsen eerst hoe je snel weg kunt en waar de nooduitgangen zijn (Denk vooruit). Zie je een verdacht voorwerp of persoon: bel 101 en raak het voorwerp niet aan (Crisiscentrum).
 
-Bron: [Nationaal Crisiscentrum: Aanval op een soft target](https://crisiscentrum.be/nl/risicos-belgie/man-made-risicos/aanval-op-een-soft-target) · [Denk vooruit: Een aanslag](https://www.denkvooruit.nl/risicos/risicos-in-nederland/een-aanslag) · [Ready.gov: Mass gatherings incidents](https://www.ready.gov/mass-gatherings-incidents)
+Bron: [Nationaal Crisiscentrum: Aanval op een soft target](https://crisiscentrum.be/nl/risicos-belgie/man-made-risicos/aanval-op-een-soft-target) · [Denk vooruit: Een aanslag](https://www.denkvooruit.nl/risicos/risicos-in-nederland/een-aanslag) · [Ready.gov: Mass gatherings incidents](https://www.ready.gov/mass-gatherings-incidents) · [Nationaal Crisiscentrum: Verstoring van de digitale infrastructuur](https://crisiscentrum.be/nl/risicos-belgie/maatschappelijke-risicos/verstoring-van-de-digitale-infrastructuur) · [112.be: Veelgestelde vragen](https://112.be/nl/veelgestelde-vragen) · [FOD Economie: vragen van gezinnen over elektriciteitsschaarste](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door)
 
 ## Hittegolf
 
@@ -455,9 +466,9 @@ Bron: [Nationaal Crisiscentrum: Aanval op een soft target](https://crisiscentrum
 - Laat nooit mensen of dieren achter in een geparkeerd voertuig.
 - Ready.gov: een ventilator is geen goede hoofdkoeling. Hij geeft een vals gevoel van comfort maar verlaagt de lichaamstemperatuur niet. Sluit gordijnen en gebruik de oven minder.
 - Ga langs bij mensen die hulp nodig hebben (Crisiscentrum).
-- Bel je huisarts bij krampen, hoge koorts, hoofdpijn of flauwte; bel 112 enkel bij levensgevaar.
+- Werkt het netwerk, bel dan je huisarts bij krampen, hoge koorts, hoofdpijn of flauwte. Bel 112 enkel bij levensgevaar. Lukt bellen niet, laat iemand anders bellen of vraag hulp in je buurt (zie Noodnummers in de app, Als bellen niet lukt).
 
-Bron: [Nationaal Crisiscentrum: Hittegolf](https://crisiscentrum.be/nl/risicos-belgie/natuurlijke-risicos/hittegolf) · [Ready.gov: Extreme heat](https://www.ready.gov/heat)
+Bron: [Nationaal Crisiscentrum: Hittegolf](https://crisiscentrum.be/nl/risicos-belgie/natuurlijke-risicos/hittegolf) · [Ready.gov: Extreme heat](https://www.ready.gov/heat) · [112.be: Veelgestelde vragen](https://112.be/nl/veelgestelde-vragen) · [FOD Economie: vragen van gezinnen over elektriciteitsschaarste](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door)
 
 ## Extreme kou, sneeuw en ijzel
 
@@ -506,10 +517,10 @@ Bron: [Ready.gov: Radiation emergencies](https://www.ready.gov/radiation) · [Do
 
 ## Kinderen, kwetsbare personen en dieren
 
-- **Kinderen op school of in de opvang:** laat ze daar en ga ze niet ophalen. Leerkrachten volgen hun intern noodplan. Je creëert anders files, hindert de hulpdiensten en brengt jezelf en de kinderen in gevaar. De school laat weten wanneer je je kind kunt ophalen. Registreer het adres van de school ook in BE-Alert (Crisiscentrum).
+- **Kinderen op school of in de opvang:** laat ze daar en ga ze niet ophalen. Leerkrachten volgen hun intern noodplan. Je creëert anders files, hindert de hulpdiensten en brengt jezelf en de kinderen in gevaar. De school laat weten wanneer je je kind kunt ophalen. Registreer vooraf ook het adres van de school in BE-Alert (Crisiscentrum).
 - **Bij een luchtalarm in Oekraïne** mogen ouders die hun kind komen brengen of ophalen mee in de schuilplaats van de school tot het alarm voorbij is.
 - **Mensen die hulp nodig hebben:** bespreek de drie stappen van schuilen vooraf met familie, buren of collega's en maak afspraken. Laat anderen bij jou schuilen als dat nodig is (Crisiscentrum). Zweden raadt aan het vervoer naar een schuilplaats vooraf te regelen; assistentiehonden zijn welkom in Zweedse schuilkelders.
 - **Huisdieren:** volg eerst de instructies voor je eigen veiligheid. Kun je je dieren veilig laten schuilen zonder risico voor jezelf, doe dat dan (Crisiscentrum). Bij een luchtalarm mag je in Zweden je huisdier meenemen naar kelders, garages en metrostations.
-- **Verwittig anderen** dat ze moeten schuilen, bij voorkeur via WhatsApp, Signal of sociale media, zodat het telefoonnetwerk niet overbelast raakt.
+- **Verwittig mensen in je omgeving** dat ze moeten schuilen. Werkt het netwerk, gebruik dan bij voorkeur WhatsApp, Signal of sociale media, zodat het telefoonnetwerk niet overbelast raakt (Crisiscentrum).
 
 Bron: [Nationaal Crisiscentrum: Schuilen](https://crisiscentrum.be/nl/wat-kan-jij-doen/reageer-correct/schuilen) · [Dovidka.info: What is a shelter](https://dovidka.info/en/what-is-shelter/) · [MCF: In case of crisis or war](https://rib.msb.se/filer/pdf/31523.pdf)

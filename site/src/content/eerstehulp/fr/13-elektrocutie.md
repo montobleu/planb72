@@ -1,9 +1,9 @@
 ---
 titel: Électrocution et accidents électriques
 volgorde: 13
-kort: "Ne touchez personne qui est encore en contact avec le courant. Coupez d'abord le courant. En cas de haute tension : restez à au moins 10 mètres et appelez le 112."
+kort: "Ne touchez personne qui est encore en contact avec le courant. Coupez d'abord le courant. En cas de haute tension : restez à au moins 10 mètres et appelez le 112 ou faites chercher de l'aide."
 status: concept
-datum: "2026-11-17"
+datum: "2026-11-18"
 bronnen:
   - naam: "Gezondheid en Wetenschap (Rode Kruis-Vlaanderen) : Premiers secours en cas d'accident électrique"
     url: https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-een-elektriciteitsongeval
@@ -13,8 +13,12 @@ bronnen:
     url: https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-brandwonden
   - naam: "IFRC : International first aid, resuscitation, and education guidelines 2020"
     url: https://www.ifrc.org/sites/default/files/2022-02/EN_GFARC_GUIDELINES_2020.pdf
+  - naam: "European Resuscitation Council Guidelines 2021 : First aid"
+    url: https://cprguidelines-old.erc.edu/assets/guidelines/European-Resuscitation-Council-Guidelines-2021-Fi.pdf
+  - naam: "112.be : Questions fréquentes"
+    url: https://112.be/fr/questions-frequentes
 vertaling: machine
-origineel_datum: "2026-11-17"
+origineel_datum: "2026-11-18"
 ---
 
 ## Reconnaître
@@ -60,7 +64,7 @@ Haute tension :
 1. N'approchez pas de la source de courant ni de la victime. Restez à au moins 10 mètres. La zone jusqu'à 10 mètres autour de la source de courant est sous tension. La haute tension peut former un arc sur 3 à 5 mètres, vous pouvez donc être électrocuté sans toucher le conducteur.
 2. Un câble rompu au sol peut encore être sous tension.
 3. N'essayez pas d'écarter la source de courant, même avec un objet non conducteur. La tension est trop élevée.
-4. Appelez le 112 et laissez le sauvetage aux services de secours.
+4. Appelez le 112 ou faites appeler quelqu'un, et laissez le sauvetage aux services de secours. Si l'appel ne passe pas, voir Appelez le 112 si.
 5. En cas d'accident de train : si vous êtes dans le train, attendez les instructions du personnel. Si vous êtes à l'extérieur, gardez une distance suffisante.
 
 ### Étape 2 : évaluez l'état de la victime
@@ -68,12 +72,13 @@ Haute tension :
 1. Établissez le premier contact avec la victime en la touchant brièvement du dos de la main, et seulement lorsque le courant est coupé ou que la victime n'est plus reliée.
 2. Cherchez ce qui ne va pas.
 3. Vérifiez la conscience : demandez à voix haute "Ça va ?" et secouez doucement les épaules.
-4. Si elle ne réagit pas : alertez le 112, libérez les voies respiratoires (bascule de la tête, élévation du menton) et vérifiez la respiration : regardez, écoutez et sentez, 10 secondes maximum.
+4. Si elle ne réagit pas : alertez le 112 ou faites alerter quelqu'un (si l'appel ne passe pas, voir Appelez le 112 si), libérez les voies respiratoires (bascule de la tête, élévation du menton) et vérifiez la respiration : regardez, écoutez et sentez, 10 secondes maximum.
 
 ### Étape 3 : faites appel à une aide spécialisée
 
-- Inconsciente : appelez le 112.
-- Blessures graves ou doute : appelez le 112.
+- Inconsciente : appelez le 112 ou faites appeler quelqu'un.
+- Blessures graves ou doute : appelez le 112 ou faites appeler quelqu'un.
+- Si l'appel ne passe pas : voir Appelez le 112 si.
 - Si la victime s'est sentie brièvement "bizarre" après un accident à basse tension : faites-la examiner par un médecin, même si cela ne semble pas grave.
 
 ### Étape 4 : donnez les autres premiers secours
@@ -107,7 +112,14 @@ Source : [Gezondheid en Wetenschap : Accident électrique](https://www.gezondhei
 
 Consultez un médecin après un accident à basse tension si la victime dit qu'elle s'est sentie brièvement "bizarre". Il peut y avoir des lésions internes ou des plaintes qui apparaissent plus tard.
 
-Source : [Gezondheid en Wetenschap : Accident électrique](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-een-elektriciteitsongeval) · [Gezondheid en Wetenschap : Brûlures](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-brandwonden) · [Rode Kruis-Vlaanderen : Premiers secours en cas d'accidents électriques](https://www.rodekruis.be/storage/main/2026-affiche-elektriciteitsongevallen.pdf)
+**Si l'appel ne passe pas**
+
+- Ne laissez la victime seule que s'il n'y a pas d'autre possibilité. Désignez directement un témoin pour aller chercher de l'aide et indiquez-lui où c'est, ce qui s'est passé, combien de victimes il y a et dans quel état elles sont.
+- Demandez à d'autres témoins de surveiller le danger : en cas de haute tension, ils maintiennent tout le monde à au moins 10 mètres.
+- Faites chercher un DEA par quelqu'un. Si vous réanimez et êtes seul sans téléphone, voir le sujet 2 (Si l'appel ne passe pas).
+- Voir aussi le sujet 1 (Si l'appel ne passe pas : chercher de l'aide sans téléphone) et Numéros d'urgence dans l'application, Si l'appel ne passe pas.
+
+Source : [Gezondheid en Wetenschap : Accident électrique](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-een-elektriciteitsongeval) · [Gezondheid en Wetenschap : Brûlures](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-brandwonden) · [Rode Kruis-Vlaanderen : Premiers secours en cas d'accidents électriques](https://www.rodekruis.be/storage/main/2026-affiche-elektriciteitsongevallen.pdf) · [IFRC Guidelines 2020](https://www.ifrc.org/sites/default/files/2022-02/EN_GFARC_GUIDELINES_2020.pdf) · [ERC Guidelines 2021 : First aid](https://cprguidelines-old.erc.edu/assets/guidelines/European-Resuscitation-Council-Guidelines-2021-Fi.pdf) · [112.be : Questions fréquentes](https://112.be/fr/questions-frequentes)
 
 ## À ne pas faire
 

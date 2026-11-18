@@ -7,15 +7,15 @@ stappen:
   - "Wash your hands often with soap and water, for at least 20 seconds."
   - "Cough and sneeze into a paper tissue or into your elbow. Throw the tissue into a closed bin."
   - "If you are ill: stay at home, away from school, work and public places. Wear a face mask if you have to be around others."
-  - "Phone your GP if you are ill or do not feel well. Do not turn up unannounced."
+  - "Phone your GP if you are ill or do not feel well. Do not turn up unannounced, unless it is an emergency."
   - "Air your home regularly."
-  - "Call 112 if you are short of breath or have chest pain."
+  - "Call 112 if you are short of breath or have chest pain. If that does not work, have someone else call or ask for help nearby (see Emergency numbers, If you cannot call)."
 niet:
   - "Do not touch dead or sick wild birds."
   - "Do not share glasses or plates with someone who is ill."
   - "Do not spread unconfirmed information."
 status: concept
-datum: "2026-11-17"
+datum: "2026-11-18"
 bronnen:
   - naam: "National Crisis Center: infectious diseases"
     url: https://crisiscenter.be/en/risks-belgium/health-risks/infectious-diseases
@@ -33,8 +33,16 @@ bronnen:
     url: https://www.cdc.gov/respiratory-viruses/prevention/precautions-when-sick.html
   - naam: "CDC: About Handwashing"
     url: https://www.cdc.gov/clean-hands/about/index.html
+  - naam: "National Crisis Center: information during an emergency"
+    url: https://crisiscenter.be/en/what-can-you-do/stay-informed/get-informed-emergency-situation
+  - naam: "National Crisis Center: a plan at home"
+    url: https://crisiscenter.be/en/what-can-you-do/make-plan/emergency-plan-home
+  - naam: "112.be: Frequently asked questions"
+    url: https://112.be/en/frequently-asked-questions
+  - naam: "FPS Economy: questions from households about electricity shortages"
+    url: https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door
 vertaling: machine
-origineel_datum: "2026-11-17"
+origineel_datum: "2026-11-18"
 ---
 
 ## Recognise
@@ -43,11 +51,11 @@ Viruses spread from person to person, via objects, and also via people who are i
 
 **Symptoms of a respiratory infection** include: fever, chills, tiredness, cough, runny nose and headache. Also possible: chest discomfort, reduced appetite, diarrhoea, muscle or body aches, sudden loss of taste or smell, sneezing, sore throat, vomiting, weakness and wheezing.
 
-**Warning signs.** Seek urgent medical help immediately if you have breathing problems or chest pain. Call 112.
+**Warning signs.** Seek urgent medical help immediately if you have breathing problems or chest pain. Call 112. If that does not work, have someone else call or ask for help nearby (see Emergency numbers, If you cannot call).
 
-**How you hear about an outbreak.** Follow the official channels: the authorities, the health services and your GP. In Flanders the Department of Care (Departement Zorg) publishes the epidemiological situation and the colour code of the Respi-radar.
+**How you hear about an outbreak.** Follow the official channels: the authorities, the health services and your GP. The authorities inform you via radio and TV, and if the network works also via BE-Alert, websites and social media. In Flanders the Department of Care (Departement Zorg) publishes on its website the epidemiological situation and the colour code of the Respi-radar.
 
-Source: [Ready.gov](https://www.ready.gov/pandemic) · [CDC: when you are sick](https://www.cdc.gov/respiratory-viruses/prevention/precautions-when-sick.html) · [Departement Zorg](https://www.departementzorg.be/nl/infectieziekten-en-vaccinaties)
+Source: [Ready.gov](https://www.ready.gov/pandemic) · [CDC: when you are sick](https://www.cdc.gov/respiratory-viruses/prevention/precautions-when-sick.html) · [Departement Zorg](https://www.departementzorg.be/nl/infectieziekten-en-vaccinaties) · [National Crisis Center: information during an emergency](https://crisiscenter.be/en/what-can-you-do/stay-informed/get-informed-emergency-situation) · [112.be: Frequently asked questions](https://112.be/en/frequently-asked-questions) · [FPS Economy: questions from households about electricity shortages](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door)
 
 ## Prepare
 
@@ -69,10 +77,11 @@ Source: [Ready.gov](https://www.ready.gov/pandemic) · [CDC: when you are sick](
 
 - Prepare for the closure of schools, workplaces and meeting places. Arrange how you can work from home and how children can follow lessons.
 - Make a family plan: what will you do, what will you need, who looks after whom if someone becomes ill.
+- Put the number of your GP and of the GP out-of-hours service on a paper list of contact people.
 - Check what your health insurance covers, including remote consultations.
 - Keep a secure digital copy of your important documents. Watch out for scams and fraud.
 
-Source: [National Crisis Center: infectious diseases](https://crisiscenter.be/en/risks-belgium/health-risks/infectious-diseases) · [National Crisis Center: emergency kit](https://crisiscenter.be/en/what-can-you-do/build-emergency-kit/emergency-kit-home) · [Ready.gov](https://www.ready.gov/pandemic)
+Source: [National Crisis Center: infectious diseases](https://crisiscenter.be/en/risks-belgium/health-risks/infectious-diseases) · [National Crisis Center: emergency kit](https://crisiscenter.be/en/what-can-you-do/build-emergency-kit/emergency-kit-home) · [Ready.gov](https://www.ready.gov/pandemic) · [National Crisis Center: plan at home](https://crisiscenter.be/en/what-can-you-do/make-plan/emergency-plan-home)
 
 ## During
 
@@ -94,6 +103,7 @@ If there is no soap and water, use hand gel with at least 60 per cent alcohol. S
 
 - Consult your GP if you have flu symptoms or do not feel well. Phone first.
 - Outside your GP's hours you can go to the GP out-of-hours service. In Ghent you call 1733 for this.
+- If you cannot get through and it is urgent, see Emergency numbers in the app, If you cannot call.
 - Stay away from school, work and public places as long as you are ill.
 - At home, also stay away as much as possible from members of the household who are not ill.
 - Wear a face mask if you are around others or have to leave the house.
@@ -124,7 +134,7 @@ If there is no soap and water, use hand gel with at least 60 per cent alcohol. S
 ### In the car
 
 - If you need to see a doctor, phone first.
-- In a medical emergency, call 112. Stay where you are, wearing a face mask if possible, until help arrives.
+- In a medical emergency, call 112. If that does not work, have someone else call or ask for help nearby (see Emergency numbers, If you cannot call). Stay where you are, wearing a face mask if possible, until help arrives.
 
 ### At work or at school
 
@@ -150,10 +160,10 @@ If there is no soap and water, use hand gel with at least 60 per cent alcohol. S
 - Wash your hands after contact with animals, animal food and droppings.
 - Bird flu can infect other animal species, including humans, although this rarely happens. Wild mammals, such as foxes, have also been infected by eating sick and dead birds.
 - Do not touch dead or sick wild birds.
-- Report dead birds and dead foxes to the free influenza line of the FASFC (Federal Agency for the Safety of the Food Chain): 0800 99 777. This number can only be reached in the morning on weekdays. You can also contact the bird rescue centre (VOC) designated by the province, reachable from 08:00 to 22:00, also at weekends and on public holidays.
+- If the phone works, report dead birds and dead foxes to the free influenza line of the FASFC (Federal Agency for the Safety of the Food Chain): 0800 99 777. This number can only be reached in the morning on weekdays. You can also contact the bird rescue centre (VOC) designated by the province, reachable from 08:00 to 22:00, also at weekends and on public holidays.
 - Keep pets away from dead and sick birds.
 
-Source: [National Crisis Center: infectious diseases](https://crisiscenter.be/en/risks-belgium/health-risks/infectious-diseases) · [CDC: handwashing](https://www.cdc.gov/clean-hands/about/index.html) · [CDC: when you are sick](https://www.cdc.gov/respiratory-viruses/prevention/precautions-when-sick.html) · [Ready.gov](https://www.ready.gov/pandemic) · [City of Ghent](https://stad.gent/nl/samenleven-welzijn-gezondheid/gezondheid/wachtdiensten) · [Agency for Nature and Forests](https://natuurenbos.be/sites/default/files/2025-11/briefvogelgriepaanpakvoorgemeenten20251125.pdf) · [National Crisis Center: emergency kit](https://crisiscenter.be/en/what-can-you-do/build-emergency-kit/emergency-kit-home)
+Source: [National Crisis Center: infectious diseases](https://crisiscenter.be/en/risks-belgium/health-risks/infectious-diseases) · [CDC: handwashing](https://www.cdc.gov/clean-hands/about/index.html) · [CDC: when you are sick](https://www.cdc.gov/respiratory-viruses/prevention/precautions-when-sick.html) · [Ready.gov](https://www.ready.gov/pandemic) · [City of Ghent](https://stad.gent/nl/samenleven-welzijn-gezondheid/gezondheid/wachtdiensten) · [Agency for Nature and Forests](https://natuurenbos.be/sites/default/files/2025-11/briefvogelgriepaanpakvoorgemeenten20251125.pdf) · [National Crisis Center: emergency kit](https://crisiscenter.be/en/what-can-you-do/build-emergency-kit/emergency-kit-home) · [112.be: Frequently asked questions](https://112.be/en/frequently-asked-questions) · [FPS Economy: questions from households about electricity shortages](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door)
 
 ## Afterwards
 
@@ -178,6 +188,8 @@ Source: [National Crisis Center: infectious diseases](https://crisiscenter.be/en
 Source: [National Crisis Center: infectious diseases](https://crisiscenter.be/en/risks-belgium/health-risks/infectious-diseases) · [Ready.gov](https://www.ready.gov/pandemic) · [Agency for Nature and Forests](https://natuurenbos.be/sites/default/files/2025-11/briefvogelgriepaanpakvoorgemeenten20251125.pdf)
 
 ## More information
+
+To read beforehand, or when the internet works:
 
 - Risk and tips: [National Crisis Center: infectious diseases](https://crisiscenter.be/en/risks-belgium/health-risks/infectious-diseases)
 - Infectious diseases and the Respi-radar in Flanders: [Departement Zorg](https://www.departementzorg.be/nl/infectieziekten-en-vaccinaties)

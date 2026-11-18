@@ -4,7 +4,7 @@ module: dieren
 volgorde: 1
 kort: "Huisdieren, assistentiedieren, aquarium- en terrariumdieren, paarden en vee: het noodplan, de voorraad, evacueren of achterlaten, kou en hitte, en wat de overheid oplegt bij een nucleair of chemisch incident."
 status: concept
-datum: "2026-11-17"
+datum: "2026-11-18"
 bronnen:
   - naam: "Nationaal Crisiscentrum: Een plan voor dieren"
     url: "https://crisiscentrum.be/nl/wat-kan-jij-doen/maak-een-plan/een-plan-voor-dieren"
@@ -63,7 +63,7 @@ Het Crisiscentrum vraagt deze stappen:
 3. **Identificatie.** Zorg dat je dier geïdentificeerd kan worden, liefst met een chip. Hou je naam en adres up-to-date in de online registratie (CatID, DogID).
 4. **Vaccinatie.** Zorg dat je dier gevaccineerd is en steek een kopie van het vaccinatieboekje in je noodpakket.
 5. **Vervoer.** Plan hoe je je dier veilig vervoert, met een reismand of tas, en laat het eraan wennen.
-6. **Contactpersonen.** Zet het telefoonnummer van je dierenarts bij je belangrijke nummers.
+6. **Contactpersonen.** Zet het telefoonnummer van je dierenarts bij je belangrijke nummers. Bellen lukt alleen als het netwerk werkt.
 
 Wat andere bronnen toevoegen:
 
@@ -73,7 +73,7 @@ Wat andere bronnen toevoegen:
 - **Een sticker** op raam of voordeur met welke en hoeveel huisdieren je hebt. Die zijn volgens Diereninrampen.nl in Nederland verkrijgbaar bij dierenhulporganisaties en gemeenten.
 - **Waarom vaccinatie.** Diereninrampen.nl: kun je bij een evacuatie niet bewijzen dat je dier gevaccineerd is, dan kan het geweigerd en in quarantaine geplaatst worden, zeker bij ziekten als rabiës.
 - **Geen vanzelfsprekende plek in een dierenasiel.** Dierenopvangcentra willen helpen maar hebben vaak nauwelijks plaats; regel het zelf (Diereninrampen.nl).
-- **Op papier.** Print belangrijke telefoonnummers, adressen en routes, zodat je ze hebt bij stroom- en internetuitval (Diereninrampen.nl).
+- **Op papier.** Print belangrijke telefoonnummers, adressen en routes, zodat je ze hebt bij stroom- en internetuitval (Diereninrampen.nl). Noteer ook het adres van je dierenarts. De kaart in de app (knop Dichtstbij) toont dierenartsen.
 
 Bron: [Nationaal Crisiscentrum: Een plan voor dieren](https://crisiscentrum.be/nl/wat-kan-jij-doen/maak-een-plan/een-plan-voor-dieren) · [Ready.gov: Pets](https://www.ready.gov/pets) · [Diereninrampen.nl: Red je dier bij een ramp](https://www.diereninrampen.nl/red-je-dier-bij-een-ramp)
 
@@ -146,7 +146,7 @@ Bron: [Ready.gov: Pets](https://www.ready.gov/pets)
 
 **Kan of mag je dier niet mee** (Crisiscentrum)
 
-1. Laat de hulpdiensten weten dat er een of meer dieren in je woning zijn.
+1. Laat de hulpdiensten weten dat er een of meer dieren in je woning zijn. Een sticker op raam of voordeur toont welke en hoeveel dieren er zijn (Diereninrampen.nl, zie Het plan voor je dieren).
 2. Vertel waar het dier zich vaak verstopt en hoe het meestal reageert op onbekenden.
 3. Zet voldoende water en voer klaar voor 24 uur.
 4. Leg kranten op de vloer voor uitwerpselen.
@@ -292,7 +292,7 @@ Bron: [Nationaal Crisiscentrum: brochure Samen voorbereid](https://crisiscentrum
 - [ ] Medicijnen en een EHBO-set voor het dier.
 - [ ] Reismand of transportkooi per dier, en het dier eraan laten wennen.
 - [ ] Foto van jou met je dier.
-- [ ] Dierenarts bij de belangrijke nummers.
+- [ ] Dierenarts bij de belangrijke nummers, met adres, op papier.
 - [ ] Voor vee en paarden: identificatie, routes, vervoer en een bestemming.
 
-Bron: [Nationaal Crisiscentrum: Een plan voor dieren](https://crisiscentrum.be/nl/wat-kan-jij-doen/maak-een-plan/een-plan-voor-dieren) · [Nationaal Crisiscentrum: brochure Samen voorbereid](https://crisiscentrum.be/sites/default/files/documents/files/WEB-Brochure%20Samen%20voorbereid-NL.pdf) · [Ready.gov: Pets](https://www.ready.gov/pets) · [MCF: In case of crisis or war](https://rib.msb.se/filer/pdf/31523.pdf)
+Bron: [Nationaal Crisiscentrum: Een plan voor dieren](https://crisiscentrum.be/nl/wat-kan-jij-doen/maak-een-plan/een-plan-voor-dieren) · [Nationaal Crisiscentrum: brochure Samen voorbereid](https://crisiscentrum.be/sites/default/files/documents/files/WEB-Brochure%20Samen%20voorbereid-NL.pdf) · [Ready.gov: Pets](https://www.ready.gov/pets) · [MCF: In case of crisis or war](https://rib.msb.se/filer/pdf/31523.pdf) · [Diereninrampen.nl: Red je dier bij een ramp](https://www.diereninrampen.nl/red-je-dier-bij-een-ramp)

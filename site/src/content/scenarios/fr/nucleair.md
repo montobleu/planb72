@@ -1,21 +1,21 @@
 ---
 titel: Alerte nucléaire
 volgorde: 11
-kort: "Incident dans une centrale nucléaire ou une autre installation nucléaire. Vous recevez un BE-Alert ou les autorités demandent de vous mettre à l'abri."
+kort: "Incident dans une centrale nucléaire ou une autre installation nucléaire. Les autorités demandent, via la radio, des voitures à haut-parleurs ou BE-Alert, de vous mettre à l'abri."
 stappen:
   - "Entrez à l'intérieur et restez-y. C'est la meilleure protection."
   - "Fermez les fenêtres, les portes et l'arrivée d'air de la cheminée. Arrêtez la ventilation, le chauffage et la climatisation."
   - "Allez dans une pièce centrale au rez-de-chaussée, loin des fenêtres."
   - "Laissez les enfants à l'école ou à la garderie. Ils y suivent les mêmes recommandations."
   - "Si vous étiez dehors au passage du nuage : retirez vos vêtements, mettez-les dans un sac en plastique et prenez une douche."
-  - "Suivez BE-Alert, la radio, la télévision et centredecrise.be. N'appelez qu'en cas d'urgence médicale."
+  - "Écoutez la radio, à piles ou à manivelle si le courant est coupé, et soyez attentif aux voitures à haut-parleurs de la police. Si le réseau fonctionne, suivez aussi BE-Alert et centredecrise.be. N'appelez pas pour demander des informations. N'appelez le 112 qu'en cas d'urgence médicale."
   - "Ne prenez de l'iode que si les autorités le disent. N'évacuez que sur ordre."
 niet:
   - "Ne prenez jamais de comprimés d'iode de votre propre initiative."
   - "N'évacuez jamais de votre propre initiative."
   - "Ne mangez pas de légumes du potager tant que les autorités n'ont pas dit que c'est sûr."
 status: concept
-datum: "2026-11-17"
+datum: "2026-11-18"
 bronnen:
   - naam: "Centre de crise National : incident dans une centrale nucléaire"
     url: https://centredecrise.be/fr/risques-en-belgique/risques-economiques-et-technologiques/incident-dans-une-centrale-nucleaire
@@ -43,13 +43,25 @@ bronnen:
     url: https://www.be-alert.be/fr/comment-serez-vous-alerte/alerte-ou-que-vous-soyez
   - naam: "Ready.gov: Radiation Emergencies"
     url: https://www.ready.gov/radiation
+  - naam: "Risquenucleaire.be : alerter et protéger la population"
+    url: https://risquenucleaire.be/fr/que-font-les-autorites/alerte-et-protection-de-la-population
+  - naam: "Centre de crise National : l'information pendant une situation d'urgence"
+    url: https://centredecrise.be/fr/que-pouvez-vous-faire/informez-vous/linformation-pendant-une-situation-durgence
+  - naam: "Centre de crise National : brochure Préparés ensemble"
+    url: https://centredecrise.be/sites/default/files/documents/files/WEB-Brochure-Pr%C3%AAts.%20Ensemble-FR.pdf
+  - naam: "Centre de crise National : un plan à la maison"
+    url: https://centredecrise.be/fr/que-pouvez-vous-faire/faites-un-plan/un-plan-la-maison
+  - naam: "112.be : questions fréquentes"
+    url: https://112.be/fr/questions-frequentes
 vertaling: machine
-origineel_datum: "2026-11-17"
+origineel_datum: "2026-11-18"
 ---
 
 ## Reconnaître
 
-**Comment vous êtes alerté.** Les autorités vous préviennent via BE-Alert (SMS, e-mail ou appel téléphonique), la radio et la télévision, les réseaux sociaux, les sites web officiels et un numéro d'information. Elles peuvent aussi utiliser des véhicules équipés de haut-parleurs. Les personnes qui n'ont pas de téléphone fixe ni de GSM reçoivent l'information par ces autres canaux. Lors d'une urgence importante, les autorités envoient un Alert-SMS à toutes les personnes qui se trouvent avec un GSM dans la zone touchée. Pour cela, vous ne devez pas être inscrit.
+**Comment vous êtes alerté.** Les autorités vous préviennent via la radio et la télévision et via des voitures à haut-parleurs de la police qui circulent dans la rue. Si le réseau fonctionne, aussi via BE-Alert (SMS, e-mail ou appel téléphonique), les réseaux sociaux, les sites web officiels et un numéro d'information. Les personnes qui n'ont pas de téléphone fixe ni de GSM reçoivent l'information par les autres canaux. Lors d'une urgence importante, les autorités envoient un Alert-SMS à toutes les personnes qui se trouvent avec un GSM dans la zone touchée. Pour cela, vous ne devez pas être inscrit.
+
+Lors d'une coupure de courant, internet et les réseaux mobiles peuvent tomber en panne. Avec une radio à piles ou une radio à manivelle, vous restez quand même informé.
 
 **Ce qui peut se passer.** Lors d'une urgence nucléaire, des substances radioactives peuvent être rejetées, dont de l'iode radioactif. Une urgence peut commencer par une phase de menace, avant même qu'un rejet ait lieu. De l'iode n'est pas non plus toujours rejeté.
 
@@ -61,14 +73,14 @@ origineel_datum: "2026-11-17"
 - protéger la chaîne alimentaire ;
 - exceptionnellement : évacuer une zone déterminée.
 
-Source : [Risquenucleaire.be : que pouvez-vous faire](https://risquenucleaire.be/fr/que-pouvez-vous-faire) · [Risquenucleaire.be : FAQ](https://risquenucleaire.be/fr/faq) · [Risquenucleaire.be : quand les prendre](https://risquenucleaire.be/fr/comprimes-diode/quand-les-prendre) · [BE-Alert](https://www.be-alert.be/fr/comment-serez-vous-alerte/alerte-ou-que-vous-soyez)
+Source : [Risquenucleaire.be : que pouvez-vous faire](https://risquenucleaire.be/fr/que-pouvez-vous-faire) · [Risquenucleaire.be : FAQ](https://risquenucleaire.be/fr/faq) · [Risquenucleaire.be : quand les prendre](https://risquenucleaire.be/fr/comprimes-diode/quand-les-prendre) · [Risquenucleaire.be : alerter et protéger](https://risquenucleaire.be/fr/que-font-les-autorites/alerte-et-protection-de-la-population) · [Centre de crise National : Préparés ensemble](https://centredecrise.be/sites/default/files/documents/files/WEB-Brochure-Pr%C3%AAts.%20Ensemble-FR.pdf) · [BE-Alert](https://www.be-alert.be/fr/comment-serez-vous-alerte/alerte-ou-que-vous-soyez)
 
 ## Se préparer
 
-- **Connaissez votre zone.** Vérifiez sur risquenucleaire.be si vous habitez, travaillez ou allez à l'école dans une zone de planification d'urgence nucléaire.
+- **Connaissez votre zone.** Vérifiez à l'avance sur risquenucleaire.be si vous habitez, travaillez ou allez à l'école dans une zone de planification d'urgence nucléaire.
 - **Inscrivez-vous à BE-Alert.** Ajoutez aussi l'adresse de votre travail, de l'école de vos enfants ou d'un proche vulnérable.
-- **Suivez les canaux officiels** de votre commune, de votre gouverneur et du Centre de crise National sur les réseaux sociaux.
-- **Faites un plan d'urgence** pour votre famille, par exemple avec le modèle du Centre de crise National (centredecrise.be, « Faites un plan »).
+- **Suivez les canaux officiels** de votre commune, de votre gouverneur et du Centre de crise National sur les réseaux sociaux. Ils ne fonctionnent que si le réseau fonctionne.
+- **Faites un plan d'urgence** pour votre famille, par exemple avec le modèle du Centre de crise National (centredecrise.be, « Faites un plan »). Ayez une liste papier de personnes de contact, d'adresses et de numéros de téléphone.
 - **Préparez un kit d'urgence** pour au moins 3 jours : de l'eau potable (3 à 10 litres par personne et par jour, dont 1,5 à 2 litres pour boire), de la nourriture de longue conservation qui ne nécessite ni eau, ni gaz, ni électricité, un ouvre-boîte, une radio à piles ou à manivelle, une lampe de poche, vos médicaments indispensables et une batterie externe chargée. Conservez-le dans un endroit sec.
 - **Choisissez votre pièce de mise à l'abri :** une pièce centrale au rez-de-chaussée, loin des fenêtres.
 
@@ -81,7 +93,7 @@ Source : [Risquenucleaire.be : que pouvez-vous faire](https://risquenucleaire.be
 - Vous obtenez les comprimés gratuitement en pharmacie. Les habitants des zones peuvent les retirer avec leur eID.
 - Gardez la notice dans la boîte. En cas de doute sur des allergies ou une maladie, demandez conseil à votre médecin ou à votre pharmacien.
 
-Source : [Centre de crise National : centrale nucléaire](https://centredecrise.be/fr/risques-en-belgique/risques-economiques-et-technologiques/incident-dans-une-centrale-nucleaire) · [Risquenucleaire.be : que pouvez-vous faire](https://risquenucleaire.be/fr/que-pouvez-vous-faire) · [Risquenucleaire.be : pour qui](https://risquenucleaire.be/fr/comprimes-diode/pour-qui) · [Risquenucleaire.be : FAQ](https://risquenucleaire.be/fr/faq) · [Centre de crise National : kit d'urgence](https://centredecrise.be/fr/que-pouvez-vous-faire/preparez-un-kit-durgence/un-kit-durgence-la-maison)
+Source : [Centre de crise National : centrale nucléaire](https://centredecrise.be/fr/risques-en-belgique/risques-economiques-et-technologiques/incident-dans-une-centrale-nucleaire) · [Risquenucleaire.be : que pouvez-vous faire](https://risquenucleaire.be/fr/que-pouvez-vous-faire) · [Risquenucleaire.be : pour qui](https://risquenucleaire.be/fr/comprimes-diode/pour-qui) · [Risquenucleaire.be : FAQ](https://risquenucleaire.be/fr/faq) · [Centre de crise National : kit d'urgence](https://centredecrise.be/fr/que-pouvez-vous-faire/preparez-un-kit-durgence/un-kit-durgence-la-maison) · [Centre de crise National : un plan à la maison](https://centredecrise.be/fr/que-pouvez-vous-faire/faites-un-plan/un-plan-la-maison)
 
 ## Pendant
 
@@ -96,8 +108,8 @@ Source : [Centre de crise National : centrale nucléaire](https://centredecrise.
 5. Bouchez le bas des portes avec des linges humides. Veillez à ce qu'un peu d'air circule quand même, pour ne pas vous sentir mal.
 6. Allez dans une pièce centrale au rez-de-chaussée, loin des fenêtres.
 7. Rentrez les animaux domestiques.
-8. Suivez les consignes des autorités via la radio, la télévision, les sites web et les réseaux sociaux.
-9. N'appelez qu'en cas d'urgence médicale (112). Les appels inutiles surchargent le réseau et gênent les services de secours. Prévenez les autres par SMS, WhatsApp ou Signal.
+8. Suivez les consignes des autorités via la radio, ou la télévision s'il y a du courant. Si le courant est coupé, utilisez une radio à piles ou à manivelle. Soyez aussi attentif aux voitures à haut-parleurs de la police. Si le réseau fonctionne, suivez aussi BE-Alert, les sites web et les réseaux sociaux des autorités.
+9. N'appelez pas pour demander des informations. N'appelez qu'en cas d'urgence médicale (112). Les appels inutiles surchargent le réseau et gênent les services de secours. Si l'appel ne passe pas, voir Numéros d'urgence, Si l'appel ne passe pas. Si le réseau fonctionne, prévenez les autres par SMS, WhatsApp ou Signal.
 
 **Vous avez une cave ?** Les sources belges parlent d'une pièce centrale au rez-de-chaussée. Le site américain Ready.gov cite une cave ou le centre d'un grand bâtiment comme l'endroit le mieux protégé, avec le plus de murs possible entre vous et l'extérieur. Les bâtiments en brique ou en béton et les parkings souterrains offrent aussi une bonne protection.
 
@@ -143,7 +155,7 @@ Source : [Centre de crise National : centrale nucléaire](https://centredecrise.
 
 - Les femmes enceintes et les femmes qui allaitent font partie du groupe pour lequel les comprimés d'iode sont recommandés. Ne les prenez que si les autorités le disent.
 - Les personnes de plus de 40 ans ne prennent en principe pas d'iode, sauf si les autorités le recommandent expressément. Demandez conseil à votre médecin à l'avance.
-- Si vous êtes malade ou blessé, suivez les consignes sur l'endroit où vous recevrez des soins médicaux. Appelez le 112 en cas d'urgence médicale.
+- Si vous êtes malade ou blessé, suivez les consignes sur l'endroit où vous recevrez des soins médicaux. Appelez le 112 en cas d'urgence médicale. Si vous n'y arrivez pas, demandez à une personne qui vit avec vous ou à un voisin d'appeler ou de chercher de l'aide (voir Numéros d'urgence, Si l'appel ne passe pas).
 
 ### Animaux domestiques et autres animaux
 
@@ -168,16 +180,16 @@ Source : [Centre de crise National : centrale nucléaire](https://centredecrise.
 - L'évacuation est la mesure la plus exceptionnelle. N'évacuez jamais de votre propre initiative.
 - L'évacuation n'a pas lieu pendant le passage du nuage. Elle peut avoir lieu à titre préventif, avant que le rejet n'atteigne la zone, ou plus tard, après la mise à l'abri.
 - Si vous devez partir : restez calme, coupez l'eau, le gaz et l'électricité et emportez le minimum : carte d'identité, argent, quelques bouteilles d'eau, GSM et chargeur.
-- Suivez les itinéraires et les points de rassemblement indiqués. Qui, vers où et comment est communiqué sur le moment.
+- Suivez les itinéraires et les points de rassemblement indiqués. Qui, vers où et comment est communiqué sur le moment, notamment via la radio et les voitures à haut-parleurs de la police.
 - La police boucle une zone de sécurité. Vous ne pouvez plus entrer dans une zone évacuée.
 
-Source : [Risquenucleaire.be : se mettre à l'abri](https://risquenucleaire.be/fr/que-pouvez-vous-faire/mise-labri-la-meilleure-action-de-protection) · [Risquenucleaire.be : FAQ](https://risquenucleaire.be/fr/faq) · [Risquenucleaire.be : se décontaminer](https://risquenucleaire.be/fr/que-pouvez-vous-faire/se-decontaminer) · [Risquenucleaire.be : quand les prendre](https://risquenucleaire.be/fr/comprimes-diode/quand-les-prendre) · [Risquenucleaire.be : pour qui](https://risquenucleaire.be/fr/comprimes-diode/pour-qui) · [Risquenucleaire.be : évacuation](https://risquenucleaire.be/fr/que-pouvez-vous-faire/evacuation) · [Risquenucleaire.be : chaîne alimentaire](https://risquenucleaire.be/fr/que-pouvez-vous-faire/protection-de-lapprovisionnement-alimentaire) · [Centre de crise National : se mettre à l'abri](https://centredecrise.be/fr/que-pouvez-vous-faire/le-bon-reflexe/se-mettre-labri) · [Ready.gov](https://www.ready.gov/radiation)
+Source : [Risquenucleaire.be : se mettre à l'abri](https://risquenucleaire.be/fr/que-pouvez-vous-faire/mise-labri-la-meilleure-action-de-protection) · [Risquenucleaire.be : FAQ](https://risquenucleaire.be/fr/faq) · [Risquenucleaire.be : se décontaminer](https://risquenucleaire.be/fr/que-pouvez-vous-faire/se-decontaminer) · [Risquenucleaire.be : quand les prendre](https://risquenucleaire.be/fr/comprimes-diode/quand-les-prendre) · [Risquenucleaire.be : pour qui](https://risquenucleaire.be/fr/comprimes-diode/pour-qui) · [Risquenucleaire.be : évacuation](https://risquenucleaire.be/fr/que-pouvez-vous-faire/evacuation) · [Risquenucleaire.be : chaîne alimentaire](https://risquenucleaire.be/fr/que-pouvez-vous-faire/protection-de-lapprovisionnement-alimentaire) · [Centre de crise National : se mettre à l'abri](https://centredecrise.be/fr/que-pouvez-vous-faire/le-bon-reflexe/se-mettre-labri) · [Risquenucleaire.be : alerter et protéger](https://risquenucleaire.be/fr/que-font-les-autorites/alerte-et-protection-de-la-population) · [Centre de crise National : Préparés ensemble](https://centredecrise.be/sites/default/files/documents/files/WEB-Brochure-Pr%C3%AAts.%20Ensemble-FR.pdf) · [112.be : questions fréquentes](https://112.be/fr/questions-frequentes) · [Ready.gov](https://www.ready.gov/radiation)
 
 ## Après
 
 - Ne sortez que lorsque les autorités annoncent que c'est sûr.
 - Si vous avez été évacué, ne rentrez que lorsque les autorités locales le disent.
-- Un avis médical peut suivre. Suivez les médias et les canaux officiels.
+- Un avis médical peut suivre. Suivez la radio et, si le réseau fonctionne, les canaux officiels.
 - Les autorités peuvent prendre des mesures pour la chaîne alimentaire :
   - limiter ou interdire la consommation de cultures fraîches, aussi celles de votre potager ;
   - interdire l'utilisation de l'eau potable et des eaux de surface ;
@@ -187,14 +199,14 @@ Source : [Risquenucleaire.be : se mettre à l'abri](https://risquenucleaire.be/f
 - Ne mangez rien de votre jardin tant que les autorités n'ont pas dit que c'est sûr.
 - Prenez aussi soin de votre santé mentale. Parlez à quelqu'un si vous êtes bouleversé.
 
-Source : [Centre de crise National : centrale nucléaire](https://centredecrise.be/fr/risques-en-belgique/risques-economiques-et-technologiques/incident-dans-une-centrale-nucleaire) · [Risquenucleaire.be : chaîne alimentaire](https://risquenucleaire.be/fr/que-pouvez-vous-faire/protection-de-lapprovisionnement-alimentaire) · [Ready.gov](https://www.ready.gov/radiation)
+Source : [Centre de crise National : centrale nucléaire](https://centredecrise.be/fr/risques-en-belgique/risques-economiques-et-technologiques/incident-dans-une-centrale-nucleaire) · [Risquenucleaire.be : chaîne alimentaire](https://risquenucleaire.be/fr/que-pouvez-vous-faire/protection-de-lapprovisionnement-alimentaire) · [Centre de crise National : l'information pendant une situation d'urgence](https://centredecrise.be/fr/que-pouvez-vous-faire/informez-vous/linformation-pendant-une-situation-durgence) · [Ready.gov](https://www.ready.gov/radiation)
 
 ## À ne pas faire
 
 - Ne prenez jamais de comprimés d'iode de votre propre initiative.
 - N'évacuez jamais de votre propre initiative.
 - N'allez pas chercher vos enfants à l'école ou à la garderie.
-- N'appelez pas sans nécessité.
+- N'appelez pas pour demander des informations. Écoutez la radio.
 - Ne sortez pas pour regarder ou pour faire des courses.
 - Ne laissez pas la ventilation ou la climatisation allumée.
 - Ne mangez rien du potager ni rien de ce qui était dehors sans protection.
@@ -204,10 +216,12 @@ Source : [Centre de crise National : centrale nucléaire](https://centredecrise.
 
 ## Plus d'informations
 
+Lisez ces pages à l'avance. Lors d'une coupure de courant, internet et les réseaux mobiles peuvent tomber en panne.
+
 - Zones, iode et recommandations : [risquenucleaire.be](https://risquenucleaire.be/fr/que-pouvez-vous-faire)
 - Risque et mesures : [Centre de crise National : incident dans une centrale nucléaire](https://centredecrise.be/fr/risques-en-belgique/risques-economiques-et-technologiques/incident-dans-une-centrale-nucleaire)
 - Agence fédérale de Contrôle nucléaire (AFCN) : [afcn.fgov.be](https://afcn.fgov.be/fr)
 - Réseau de mesure de la radioactivité : [telerad.be](https://telerad.be/pageFR.html)
 - Voir aussi le module **Nucléaire** pour les sites, les zones et la distance jusqu'à votre adresse, et le guide **Se mettre à l'abri selon la menace**.
 
-Source : [Centre de crise National : centrale nucléaire](https://centredecrise.be/fr/risques-en-belgique/risques-economiques-et-technologiques/incident-dans-une-centrale-nucleaire)
+Source : [Centre de crise National : centrale nucléaire](https://centredecrise.be/fr/risques-en-belgique/risques-economiques-et-technologiques/incident-dans-une-centrale-nucleaire) · [Centre de crise National : Préparés ensemble](https://centredecrise.be/sites/default/files/documents/files/WEB-Brochure-Pr%C3%AAts.%20Ensemble-FR.pdf)

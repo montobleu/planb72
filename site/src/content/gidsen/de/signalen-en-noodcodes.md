@@ -2,9 +2,9 @@
 titel: Signale und Notcodes
 module: communicatie
 volgorde: 21
-kort: "Hilfe rufen ohne Telefon: das Notsignal der Drei, das alpine Notsignal, SOS im Morsecode, Spiegel, Pfeife, Licht und Rauch, Boden-Luft-Signale, Armzeichen für einen Hubschrauber, Markierungen von Rettungsteams, Sirenen und BE-Alert und die Notfrequenzen im Funk."
+kort: "Hilfe rufen ohne Telefon: das Notsignal der Drei, das alpine Notsignal, SOS im Morsecode, Spiegel, Pfeife, Licht und Rauch, Boden-Luft-Signale, Armzeichen für einen Hubschrauber, Markierungen von Rettungsteams, wie Sie ohne Netz gewarnt werden, und die Notfrequenzen im Funk."
 status: concept
-datum: "2026-11-17"
+datum: "2026-11-18"
 bronnen:
   - naam: "US Army FM 21-76 Survival Manual, Kapitel 19: Signaling techniques (gemeinfrei, Kopie auf archive.org)"
     url: https://archive.org/details/fm-21-76-survival-manual
@@ -48,25 +48,39 @@ bronnen:
     url: https://www.uba.be/nl/b-ears/onze-missie
   - naam: "Nationales Krisenzentrum: Naturbrand"
     url: https://krisenzentrum.be/de/risiken-belgien/naturrisiken/naturbrand
+  - naam: "FÖD Wirtschaft: Häufig gestellte Fragen von Haushalten zur Stromknappheit"
+    url: https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door
+  - naam: "Nationales Krisenzentrum: Informationen während einer Notsituation"
+    url: https://krisenzentrum.be/de/was-koennen-sie-tun/informieren-sie-sich/information-notsituationen
+  - naam: "Nationales Krisenzentrum: Broschüre Gemeinsam vorbereitet"
+    url: https://krisenzentrum.be/sites/default/files/documents/files/WEB-Brosch%C3%BCre%20Gemeinsam%20Vorbereitet-DE.pdf
+  - naam: "Nationales Krisenzentrum: Störung der digitalen Infrastruktur"
+    url: https://krisenzentrum.be/de/risiken-belgien/maatschappelijke-risicos/ausfall-der-digitalen-infrastruktur
+  - naam: "Nationales Krisenzentrum: Evakuieren"
+    url: https://krisenzentrum.be/de/was-koennen-sie-tun/der-richtige-reflex/evakuierung
 vertaling: machine
-origineel_datum: "2026-11-17"
+origineel_datum: "2026-11-18"
 ---
 
-## Zuerst: Können Sie telefonieren?
+## Zuerst: Hilfe rufen ohne Netz
 
-Ein Telefon oder die App 112 BE ist immer die beste Wahl. Signale ohne Gerät sind für alle, die keinen Empfang, kein Gerät oder keinen Akku mehr haben, oder für alle, die schon gefunden wurden, aber einem Hubschrauber oder Flugzeug noch etwas mitteilen müssen.
+Dieser Leitfaden ist für alle, die nicht telefonieren können: kein Empfang, kein Gerät, kein Akku oder eine Netzstörung. Auch wer schon gefunden wurde, aber einem Hubschrauber oder Flugzeug noch etwas mitteilen muss, findet hier die Zeichen.
+
+Sind Menschen in der Nähe, sprechen Sie sie zuerst an. Bitten Sie in Ihrer Umgebung um Hilfe und schicken Sie jemanden los, um Hilfe zu holen. Was Sie in einem Dorf oder einer Stadt tun, wenn kein Anruf möglich ist, steht im Leitfaden Notruf unter Wenn überhaupt kein Anruf möglich ist.
+
+Funktioniert Ihr Telefon doch, rufen Sie 112 an oder verwenden Sie die App 112 BE.
 
 | Situation | Beste Wahl | Gute Wahl | Notlösung |
 | --- | --- | --- | --- |
-| Sie haben Empfang | 112 anrufen oder die App 112 BE | Jemand anderen anrufen lassen | |
-| Kein Empfang, jemand in der Nähe | Jemanden an einen Ort mit Empfang schicken | Selbst an einen Ort mit Empfang gehen | Akustische Signale: Pfeife, Rufen |
+| Kein Empfang, jemand in der Nähe | Jemanden Hilfe holen lassen oder an einen Ort mit Empfang schicken | Selbst an einen Ort mit Empfang gehen | Akustische Signale: Pfeife, Rufen |
 | Kein Empfang, niemand in der Nähe, tagsüber | Pfeife (drei oder sechs Signale) | Spiegel in Richtung eines Flugzeugs oder Hubschraubers | Kleidung oder Material in einem großen Muster auf dem Boden |
 | Kein Empfang, nachts | Taschenlampe: SOS oder das alpine Notsignal | Pfeife | Feuer, nur wenn es erlaubt und sicher möglich ist |
 | Ein Hubschrauber oder Flugzeug ist in Sicht | Armzeichen (Y oder N) | Spiegel, Taschenlampe | Boden-Luft-Signal |
+| Sie haben doch Empfang | 112 anrufen oder die App 112 BE | Jemand anderen anrufen lassen | Antwortet 112 nicht: siehe den Leitfaden Notruf |
 
 Sparen Sie Ihre Kräfte. Eine Pfeife ist besser als Rufen.
 
-Quelle: [National Park Service: Outdoor Emergency Plan](https://www.nps.gov/subjects/healthandsafety/upload/NPS-Outdoor-Emergency-Plan-508c.pdf) · [Deutscher Alpenverein: Erste Hilfe](https://www.forststeig.sachsen.de/download/Erste_Hilfe_2012_DAV.pdf) · [US Army FM 21-76, Kapitel 19](https://archive.org/details/fm-21-76-survival-manual)
+Quelle: [National Park Service: Outdoor Emergency Plan](https://www.nps.gov/subjects/healthandsafety/upload/NPS-Outdoor-Emergency-Plan-508c.pdf) · [Deutscher Alpenverein: Erste Hilfe](https://www.forststeig.sachsen.de/download/Erste_Hilfe_2012_DAV.pdf) · [US Army FM 21-76, Kapitel 19](https://archive.org/details/fm-21-76-survival-manual) · [FÖD Wirtschaft: Fragen von Haushalten zur Stromknappheit](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door)
 
 ## Das internationale Notsignal: drei
 
@@ -272,13 +286,22 @@ Quelle: [US Army FM 21-76, Kapitel 19](https://archive.org/details/fm-21-76-surv
 
 **Sirenen.** Belgien hatte ein Netz von Alarmsirenen. Bis Dezember 2018 wurde es viermal im Jahr hörbar getestet: am ersten Donnerstag im Januar, April, Juli und Oktober. Danach übernahm BE-Alert diese Testtermine. Auf der BE-Alert-Seite darüber, wie Sie gewarnt werden, stehen keine Sirenen unter den Kanälen.
 
-**Wie Sie heute gewarnt werden.** Über BE-Alert (SMS, Sprachnachricht, E-Mail, soziale Medien), über Radio und Fernsehen, über soziale Medien, von Tür zu Tür durch die Polizei und über Lautsprecher der Polizei. Bei schweren Notsituationen versuchen die Behörden, Sie über möglichst viele Kanäle zu erreichen. Die Anmeldung bei BE-Alert ist kostenlos.
+**Wie Sie heute gewarnt werden.** Bei schweren Notsituationen versuchen die Behörden, Sie über möglichst viele Kanäle zu erreichen. Ohne Strom oder Netz sind das:
+
+- das Radio: ein batteriebetriebenes Radio, ein Kurbelradio oder das Autoradio;
+- Lautsprecher und Lautsprecherwagen der Polizei, die durch die Straße fahren;
+- die Polizei, die von Tür zu Tür geht;
+- Informationstafeln und Faltblätter.
+
+Funktioniert das Netz, kommt eine Warnung auch über BE-Alert (SMS, Sprachnachricht, E-Mail), Fernsehen und soziale Medien.
+
+**Vorab.** Besorgen Sie ein batteriebetriebenes Radio oder ein Kurbelradio, vorzugsweise mit DAB+ und FM. Melden Sie sich bei BE-Alert an; das ist kostenlos.
 
 **Testnachrichten erkennen.** Ein BE-Alert-Test enthält immer die Wörter „BE-Alert“, „Dies ist eine Testnachricht. Sie müssen nichts tun“, einen Link oder eine Infonummer, in der richtigen Sprache. Gemeinden testen nur am ersten Donnerstag des Monats (außer an Feiertagen), zwischen 8 und 20 Uhr, und informieren ihre Einwohner vorab.
 
 **Hören Sie trotzdem eine Sirene?** Eine belgische Anweisung für Menschen, die eine Sirene hören, haben wir nicht gefunden. In den Niederlanden, wo das Sirenennetz noch in Betrieb ist, lautet der Rat: Gehen Sie so schnell wie möglich hinein, schließen Sie Fenster, Türen und andere Öffnungen, schalten Sie die mechanische Lüftung aus und verfolgen Sie die Nachrichten. Können Sie nicht hinein, bleiben Sie im Auto, stellen Sie den Motor ab und schließen Sie die Lüftungsschlitze. Die niederländischen Sirenen werden jeden ersten Montag im Monat um 12 Uhr getestet. Das ist die niederländische Regelung, nicht die belgische.
 
-Quelle: [Nationales Krisenzentrum: Nationale Strategie für Alarmierungstests](https://crisiscentrum.be/sites/default/files/documents/files/cc_nationale_strategie_voor_alarmeringstesten_0.pdf) · [BE-Alert: Be alerted](https://www.be-alert.be/de/lassen-sie-sich-benachrichtigen/lassen-sie-sich-benachrichtigen) · [Rijksoverheid: Wat moet ik doen als de sirene gaat?](https://www.rijksoverheid.nl/onderwerpen/veiligheidsregios-en-crisisbeheersing/vraag-en-antwoord/wat-moet-ik-doen-als-de-sirene-gaat)
+Quelle: [Nationales Krisenzentrum: Nationale Strategie für Alarmierungstests](https://crisiscentrum.be/sites/default/files/documents/files/cc_nationale_strategie_voor_alarmeringstesten_0.pdf) · [BE-Alert: Be alerted](https://www.be-alert.be/de/lassen-sie-sich-benachrichtigen/lassen-sie-sich-benachrichtigen) · [Nationales Krisenzentrum: Informationen während einer Notsituation](https://krisenzentrum.be/de/was-koennen-sie-tun/informieren-sie-sich/information-notsituationen) · [Nationales Krisenzentrum: Broschüre Gemeinsam vorbereitet](https://krisenzentrum.be/sites/default/files/documents/files/WEB-Brosch%C3%BCre%20Gemeinsam%20Vorbereitet-DE.pdf) · [FÖD Wirtschaft: Fragen von Haushalten zur Stromknappheit](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door) · [Rijksoverheid: Wat moet ik doen als de sirene gaat?](https://www.rijksoverheid.nl/onderwerpen/veiligheidsregios-en-crisisbeheersing/vraag-en-antwoord/wat-moet-ik-doen-als-de-sirene-gaat)
 
 ## Markierungen von Rettungsteams an Gebäuden
 
@@ -325,11 +348,13 @@ Quelle: [INSARAG Guidelines Volume II, Manual B](https://insarag.org/wp-content/
 
 ## Eine Nachricht hinterlassen
 
-**Wenn Sie Ihr Haus bei einer Evakuierung verlassen:** Hinterlassen Sie eine Nachricht, auf der steht, **wann Sie aufgebrochen sind und wohin Sie gehen**. Kontaktieren Sie, wenn Sie Zeit haben, auch Ihre Kontaktperson außerhalb des Gebiets und sagen Sie, wohin Sie gehen. Teilen Sie Familie und Freunden danach mit, wann Sie aufbrechen und wann Sie ankommen.
+**Wenn Sie Ihr Haus bei einer Evakuierung verlassen:** Hinterlassen Sie eine Nachricht, auf der steht, **wann Sie aufgebrochen sind und wohin Sie gehen**. Helfen Sie auch mit, Ihre Nachbarn zu benachrichtigen, dass sie evakuieren müssen. Funktioniert das Netz und haben Sie Zeit, kontaktieren Sie Ihre Kontaktperson außerhalb des Gebiets und sagen Sie, wohin Sie gehen, und teilen Sie Familie und Freunden mit, wann Sie aufbrechen und wann Sie ankommen.
+
+**Vorab vereinbaren:** Vereinbaren Sie mit Ihrer Familie, wo Sie sich wiederfinden, wenn Sie einander nicht erreichen können.
 
 **Wenn Sie in die Natur gehen:** Erstellen Sie einen Tourenplan und geben Sie ihn jemandem, der zu Hause bleibt. Geben Sie an, wohin Sie gehen und was Sie vorhaben. Vereinbaren Sie, wann Sie zurück sind.
 
-Quelle: [Ready.gov: Evacuation](https://www.ready.gov/evacuation) · [National Park Service: Outdoor Emergency Plan](https://www.nps.gov/subjects/healthandsafety/upload/NPS-Outdoor-Emergency-Plan-508c.pdf) · [National Park Service: Junior Ranger Park Explorer](https://www.nps.gov/subjects/healthandsafety/junior-ranger-park-explorer.htm)
+Quelle: [Ready.gov: Evacuation](https://www.ready.gov/evacuation) · [Nationales Krisenzentrum: Evakuieren](https://krisenzentrum.be/de/was-koennen-sie-tun/der-richtige-reflex/evakuierung) · [Nationales Krisenzentrum: Störung der digitalen Infrastruktur](https://krisenzentrum.be/de/risiken-belgien/maatschappelijke-risicos/ausfall-der-digitalen-infrastruktur) · [National Park Service: Outdoor Emergency Plan](https://www.nps.gov/subjects/healthandsafety/upload/NPS-Outdoor-Emergency-Plan-508c.pdf) · [National Park Service: Junior Ranger Park Explorer](https://www.nps.gov/subjects/healthandsafety/junior-ranger-park-explorer.htm)
 
 ## Über Funk: Mayday und Pan-Pan (Hintergrund)
 

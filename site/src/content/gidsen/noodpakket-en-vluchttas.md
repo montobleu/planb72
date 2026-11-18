@@ -4,7 +4,7 @@ module: voorbereiding
 volgorde: 2
 kort: "Wat je klaarzet om snel te vertrekken en wat je thuis, in de auto en op het werk bewaart, met aparte lijsten voor kinderen, ouderen, mensen met een beperking en huisdieren, plus documenten en cash."
 status: concept
-datum: "2026-11-17"
+datum: "2026-11-18"
 bronnen:
   - naam: "Nationaal Crisiscentrum: Een noodpakket bij je thuis"
     url: "https://crisiscentrum.be/nl/wat-kan-jij-doen/maak-een-noodpakket/een-noodpakket-bij-je-thuis"
@@ -42,6 +42,8 @@ bronnen:
     url: "https://www.ready.gov/winter-weather"
   - naam: "Diereninrampen.nl: Red je dier bij een ramp"
     url: "https://www.diereninrampen.nl/red-je-dier-bij-een-ramp"
+  - naam: "Nationaal Crisiscentrum: Een plan bij je thuis"
+    url: "https://crisiscentrum.be/nl/wat-kan-jij-doen/maak-een-plan/een-plan-bij-je-thuis"
 ---
 
 Het Nationaal Crisiscentrum deelt het noodpakket in twee delen: een rugzak of tas die je snel kunt meenemen, en een voorraad voor in huis voor als je moet schuilen of een tijd zonder elektriciteit, water, telefonie en internet zit. Deze gids gaat over de rugzak en over de kleinere pakketten voor auto en werk. De voorraad thuis staat in de gids over de noodvoorraad.
@@ -57,7 +59,7 @@ De Belgische lijst voor de rugzak, uit de brochure en de website van het Crisisc
 **Geld en documenten**
 
 - Kopieën van belangrijke documenten zoals je identiteitskaart, rijbewijs en verzekeringspapieren. De website noemt ook kopieën van verzekeringscontracten en van alle identiteitskaarten.
-- Je noodplan of een lijst met belangrijke telefoonnummers: familie en vrienden, noodnummers, je leverancier van gas, water en elektriciteit, de centrale van je alarmsysteem, je huisarts, je verzekeraar.
+- Je noodplan of een lijst met belangrijke telefoonnummers, op papier: familie en vrienden, noodnummers, je leverancier van gas, water en elektriciteit, de centrale van je alarmsysteem, je huisarts, je verzekeraar. Noteer bij je contactpersonen ook het adres. Zo vinden jullie elkaar terug, ook als je gsm leeg is of het netwerk niet werkt. Zet ook de ontmoetingsplaats die je met je huisgenoten afsprak in je noodplan.
 - Pen en papier.
 - Een beetje contant geld (zie de sectie over cash).
 
@@ -75,9 +77,9 @@ Het Crisiscentrum raadt af om conserven in de rugzak te steken, omdat hij niet t
 - Verzorgingsproducten: vochtige doekjes, desinfecterende gel, tandpasta, tandenborstel, toiletpapier, zakdoeken, maandverband.
 - Een multifunctioneel zakmes.
 - Een fluitje om de hulpdiensten te laten weten waar je bent.
-- Een opgeladen powerbank en gsm-oplader.
+- Een opgeladen powerbank en gsm-oplader. Reken er niet op dat je altijd kunt bellen: bij een stroomonderbreking kunnen ook internet en mobiele netwerken uitvallen.
 
-Bron: [Nationaal Crisiscentrum: brochure Samen voorbereid](https://crisiscentrum.be/sites/default/files/documents/files/WEB-Brochure%20Samen%20voorbereid-NL.pdf) · [Nationaal Crisiscentrum: Een noodpakket bij je thuis](https://crisiscentrum.be/nl/wat-kan-jij-doen/maak-een-noodpakket/een-noodpakket-bij-je-thuis)
+Bron: [Nationaal Crisiscentrum: brochure Samen voorbereid](https://crisiscentrum.be/sites/default/files/documents/files/WEB-Brochure%20Samen%20voorbereid-NL.pdf) · [Nationaal Crisiscentrum: Een noodpakket bij je thuis](https://crisiscentrum.be/nl/wat-kan-jij-doen/maak-een-noodpakket/een-noodpakket-bij-je-thuis) · [Nationaal Crisiscentrum: Een plan bij je thuis](https://crisiscentrum.be/nl/wat-kan-jij-doen/maak-een-plan/een-plan-bij-je-thuis)
 
 ## Wat andere landen toevoegen
 
@@ -187,7 +189,7 @@ Ready.gov geeft voor ouderen deze aanvullingen:
 - Een reservevoorraad zuurstof, als je die gebruikt.
 - Een lijst met type en serienummer van medische toestellen, met eventuele gebruiksinstructies.
 - Kopieën van verzekeringskaarten.
-- Contactgegevens van artsen, familie of vrienden die verwittigd moeten worden als je gewond raakt.
+- Contactgegevens van artsen, familie of vrienden die verwittigd moeten worden als je gewond raakt, op een lijst in een waterdichte verpakking.
 - Voer, water, halsband met naamplaatje en medische gegevens voor een hulp- of assistentiehond.
 
 Het Crisiscentrum vraagt een medicatielijst aan je huisarts of apotheker en raadt aan die bij je belangrijke documenten te steken. Bij dementie raadt Ready.gov aan een kussen en deken of andere vertrouwde voorwerpen mee te nemen.
@@ -196,7 +198,7 @@ Bron: [Ready.gov: People with Disabilities](https://www.ready.gov/disability) ·
 
 ## Mensen met een beperking
 
-Vul de basislijst aan met wat voor jou essentieel is, bijvoorbeeld medicijnen of hulpmiddelen (Crisiscentrum). Het BBK noemt reservebatterijen, accu's en laders voor technische hulpmiddelen, mobiliteitshulpmiddelen, een medicatieplan en een voorraad medicijnen, voer en water voor een assistentiedier, een lijst met noodcontacten en een noodpas met informatie over ziekten, allergieën, hulpmiddelen en hoe je communiceert.
+Vul de basislijst aan met wat voor jou essentieel is, bijvoorbeeld medicijnen of hulpmiddelen (Crisiscentrum). Denk aan alternatieven om met anderen te communiceren, ook als je geen telefoon of internet hebt (Crisiscentrum). Het BBK noemt reservebatterijen, accu's en laders voor technische hulpmiddelen, mobiliteitshulpmiddelen, een medicatieplan en een voorraad medicijnen, voer en water voor een assistentiedier, een lijst met noodcontacten en een noodpas met informatie over ziekten, allergieën, hulpmiddelen en hoe je communiceert.
 
 Per beperking, volgens Ready.gov:
 
@@ -287,7 +289,7 @@ Bron: [Nationaal Crisiscentrum: Een noodpakket bij je thuis](https://crisiscentr
 ## Checklist vluchttas
 
 - [ ] Kopie identiteitskaart, rijbewijs, verzekeringen.
-- [ ] Noodplan of lijst met telefoonnummers op papier.
+- [ ] Noodplan of lijst met telefoonnummers en adressen op papier, met de afgesproken ontmoetingsplaats.
 - [ ] Pen en papier.
 - [ ] Cash voor ongeveer 72 uur, in kleine coupures.
 - [ ] Ongeveer een liter water per persoon.

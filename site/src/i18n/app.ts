@@ -20,6 +20,7 @@ const nl = {
     afdrukken: 'Afdrukken',
     bron: 'bron',
     levensgevaar: '<strong>Levensgevaar: bel <a href="tel:112">112</a>.</strong>',
+    nietLukt: (href: string) => `Lukt bellen niet: laat iemand anders bellen of vraag hulp in je buurt. Zie <a href="${href}">Als bellen niet lukt</a>.`,
     interfaceVertaald: '',
   },
   landen: {
@@ -56,7 +57,7 @@ const nl = {
       ['Bij nood', [
         ['/app/wat-nu/', 'Wat nu?', 'Eerste stappen per situatie'],
         ['/app/noodnummers/', 'Noodnummers', '112, 101, antigif, wachtdiensten'],
-        ['/app/info/', 'Officiële informatie', 'BE-Alert, radio, 1771'],
+        ['/app/info/', 'Officiële informatie', 'Radio, BE-Alert, 1771'],
       ]],
       ['Kaart en risico', [
         ['/app/kaart/', 'Kaart', 'Ziekenhuizen, politie, brandweer, water, AED'],
@@ -105,7 +106,8 @@ const nl = {
     titel: 'Eerste hulp',
     alle: 'Alle onderwerpen',
     belEerst: '<strong>Bel eerst <a href="tel:112">112</a>.</strong>',
-    meldkamer: 'De meldkamer begeleidt telefonisch, ook bij reanimatie.',
+    meldkamer: 'Werkt het netwerk, dan begeleidt de meldkamer je telefonisch, ook bij reanimatie.',
+    nietLukt: (href: string) => `Lukt bellen niet: blijf bij het slachtoffer als het kan en stuur iemand om hulp. Zie <a href="${href}">Als bellen niet lukt</a>.`,
     antigif: 'Antigifcentrum:',
     concept: '<strong>Status: concept.</strong> Deze teksten zijn samengesteld uit de richtlijnen van het Rode Kruis, de European Resuscitation Council en andere erkende bronnen, en worden nagelezen door een zorgverlener. Een cursus eerste hulp blijft de beste voorbereiding.',
     leeg: 'De onderwerpen worden samengesteld.',
@@ -147,7 +149,7 @@ const nl = {
   meer: {
     titel: 'Meer',
     items: [
-      ['/app/info/', 'Officiële informatie', 'BE-Alert, radio, crisiscentrum, 1771'],
+      ['/app/info/', 'Officiële informatie', 'Radio, BE-Alert, crisiscentrum, 1771'],
       ['/app/nucleair/', 'Nucleair', 'Sites, zones, hoe ver woon ik'],
       ['/app/schuilen/', 'Schuilen', 'Keuzehulp per dreiging, eigen huis'],
       ['/app/eerste-hulp/', 'Eerste hulp', 'Reanimatie, bloeding, verslikking en meer'],
@@ -166,16 +168,35 @@ const nl = {
   info: {
     titel: 'Officiële informatie',
     h1: 'Officiële informatiekanalen',
-    uitleg: 'PlanB72 toont zelf geen live waarschuwingen. Bij een ramp communiceert de overheid via deze kanalen.',
+    uitleg: 'PlanB72 toont zelf geen live waarschuwingen. Bij een ramp communiceert de overheid via deze kanalen. Zonder stroom, gsm-netwerk en internet werkt een radio op batterijen of de autoradio nog: daarom staat de radio bovenaan.',
     voorbereiding: 'Voorbereiding',
     kanalen: 'De kanalen',
-    echtheid: '<strong>Echtheid van berichten.</strong> Een echt BE-Alert-bericht begint altijd met "BE-Alert". Twijfel je, kijk dan op crisiscentrum.be of de site van je gemeente.',
-    tijdelijk: 'Bij een echte crisis zet de overheid soms een tijdelijk nummer of een extra pagina op. Die staan niet vooraf in dit pakket; kijk dan op de kanalen hierboven.',
+    echtheid: '<strong>Echtheid van berichten.</strong> Een echt BE-Alert-bericht begint altijd met "BE-Alert". Twijfel je, luister dan naar de radio of kijk, als het internet werkt, op crisiscentrum.be of de site van je gemeente.',
+    tijdelijk: 'Bij een echte crisis zet de overheid soms een tijdelijk nummer of een extra pagina op. Die staan niet vooraf in dit pakket; luister dan naar de radio of volg de kanalen hierboven.',
   },
   nummers: {
     titel: 'Noodnummers',
     h1: (land: string) => `Noodnummers ${land}`,
-    uitleg: 'Tik op een nummer om te bellen. Het nummer 112 is in de hele Europese Unie bereikbaar.',
+    uitleg: 'Tik op een nummer om te bellen. Het nummer 112 is in de hele Europese Unie bereikbaar. Lukt bellen niet, zie Als bellen niet lukt hieronder.',
+    andereTitel: 'Andere nummers, als het netwerk werkt',
+    andereUitleg: 'Antigifcentrum, wachtdiensten, informatienummers en hulplijnen. Noteer de nummers die je nodig hebt vooraf op papier.',
+    nietLuktTitel: 'Als bellen niet lukt',
+    nietLukt: [
+      'Probeer een ander toestel, vast of mobiel, of laat buren of omstanders bellen. Een andere operator kan helpen. Verplaats je enkele meters en probeer opnieuw.',
+      'Kun je bellen maar is 112 onbereikbaar, probeer dan 101. Bij een storing van de noodcentrales kunnen in België tijdelijke gsm-nummers per provincie actief zijn (zie de gids Noodoproep).',
+      'Werkt bellen helemaal niet: vraag hulp in je buurt en volg de informatie van de overheid op de radio. De gemeente kan een informatie- en onthaalpunt openen; vraag vooraf waar.',
+      'Blijf bij een slachtoffer als dat kan. Stuur iemand om hulp te halen en geef mee waar het is, wat er gebeurd is en hoeveel mensen betrokken zijn.',
+      'In Duitsland raadt de overheid aan om dan, als het kan, naar het dichtstbijzijnde politiebureau of ziekenhuis te gaan. In Nederland stuurde de overheid burgers bij de landelijke 112-storing van 2019 naar de dichtstbijzijnde brandweerkazerne of het politiebureau, en bij medische nood naar het ziekenhuis.',
+    ],
+    nietLuktKaart: (href: string) => `De <a href="${href}">kaart</a> toont brandweer, politie, ziekenhuizen en gemeentehuizen, ook zonder internet als het pakket op je toestel staat. Met Dichtstbij zie je wat het dichtst bij je is.`,
+    nietLuktVooraf: 'Druk deze pagina vooraf af en bewaar ze bij je noodplan.',
+    nietLuktBronnen: [
+      { naam: '112.be: veelgestelde vragen', url: 'https://112.be/nl/veelgestelde-vragen' },
+      { naam: 'FOD Economie: elektriciteitsschaarste, vragen van gezinnen', url: 'https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door' },
+      { naam: 'ERC Guidelines 2021: First aid', url: 'https://cprguidelines-old.erc.edu/assets/guidelines/European-Resuscitation-Council-Guidelines-2021-Fi.pdf' },
+      { naam: 'BBK: Vorsorgen für Krisen und Katastrophen', url: 'https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/Buergerinformationen/Ratgeber/BBK-Vorsorgen-fuer-Krisen-und-Katastrophen.pdf?__blob=publicationFile&v=44' },
+      { naam: 'Inspecties: Onbereikbaarheid van 112 op 24 juni 2019', url: 'https://zoek.officielebekendmakingen.nl/blg-942150.pdf' },
+    ] as { naam: string; url: string }[],
     oproepTitel: 'Informatie bij een noodoproep',
     oproep: [
       'Wie je bent en het nummer waarop ze je kunnen terugbellen.',
@@ -427,6 +448,7 @@ const fr: Teksten = {
     afdrukken: 'Imprimer',
     bron: 'source',
     levensgevaar: '<strong>Danger de mort : appelez le <a href="tel:112">112</a>.</strong>',
+    nietLukt: (href: string) => `Si l’appel ne passe pas : faites appeler quelqu’un d’autre ou demandez de l’aide dans votre voisinage. Voir <a href="${href}">Si l’appel ne passe pas</a>.`,
     interfaceVertaald: "Les textes de l'application ont été traduits automatiquement et n'ont pas encore été relus.",
   },
   landen: {
@@ -463,7 +485,7 @@ const fr: Teksten = {
       ['En cas d’urgence', [
         ['/app/wat-nu/', 'Que faire ?', 'Premières mesures par situation'],
         ['/app/noodnummers/', "Numéros d'urgence", '112, 101, antipoisons, services de garde'],
-        ['/app/info/', 'Informations officielles', 'BE-Alert, radio, 1771'],
+        ['/app/info/', 'Informations officielles', 'Radio, BE-Alert, 1771'],
       ]],
       ['Carte et risques', [
         ['/app/kaart/', 'Carte', 'Hôpitaux, police, pompiers, eau, DEA'],
@@ -512,7 +534,8 @@ const fr: Teksten = {
     titel: 'Premiers secours',
     alle: 'Tous les sujets',
     belEerst: '<strong>Appelez d’abord le <a href="tel:112">112</a>.</strong>',
-    meldkamer: 'La centrale d’urgence vous guide par téléphone, y compris pour une réanimation.',
+    meldkamer: 'Si le réseau fonctionne, la centrale d’urgence vous guide par téléphone, y compris pour une réanimation.',
+    nietLukt: (href: string) => `Si l’appel ne passe pas : restez auprès de la victime si possible et envoyez quelqu’un chercher de l’aide. Voir <a href="${href}">Si l’appel ne passe pas</a>.`,
     antigif: 'Centre Antipoisons :',
     concept: "<strong>Statut : brouillon.</strong> Ces textes sont rassemblés à partir des recommandations de la Croix-Rouge, de l'European Resuscitation Council et d'autres sources reconnues, et sont relus par un professionnel de santé. Une formation aux premiers secours reste la meilleure préparation.",
     leeg: 'Les sujets sont en cours de rédaction.',
@@ -552,7 +575,7 @@ const fr: Teksten = {
   meer: {
     titel: 'Plus',
     items: [
-      ['/app/info/', 'Informations officielles', 'BE-Alert, radio, Centre de crise, 1771'],
+      ['/app/info/', 'Informations officielles', 'Radio, BE-Alert, Centre de crise, 1771'],
       ['/app/nucleair/', 'Nucléaire', 'Sites, zones, à quelle distance j’habite'],
       ['/app/schuilen/', "S'abriter", 'Aide au choix par menace, propre logement'],
       ['/app/eerste-hulp/', 'Premiers secours', 'Réanimation, hémorragie, étouffement et plus'],
@@ -571,16 +594,35 @@ const fr: Teksten = {
   info: {
     titel: 'Informations officielles',
     h1: "Canaux d'information officiels",
-    uitleg: "PlanB72 n'affiche pas lui-même d'alertes en direct. En cas de catastrophe, les autorités communiquent par ces canaux.",
+    uitleg: "PlanB72 n'affiche pas lui-même d'alertes en direct. En cas de catastrophe, les autorités communiquent par ces canaux. Sans électricité, réseau mobile ni internet, une radio à piles ou l'autoradio fonctionne encore : c'est pourquoi la radio figure en premier.",
     voorbereiding: 'Préparation',
     kanalen: 'Les canaux',
-    echtheid: "<strong>Authenticité des messages.</strong> Un vrai message BE-Alert commence toujours par « BE-Alert ». En cas de doute, consultez centredecrise.be ou le site de votre commune.",
-    tijdelijk: "Lors d'une véritable crise, les autorités ouvrent parfois un numéro temporaire ou une page supplémentaire. Ils ne figurent pas à l'avance dans ce paquet ; consultez alors les canaux ci-dessus.",
+    echtheid: "<strong>Authenticité des messages.</strong> Un vrai message BE-Alert commence toujours par « BE-Alert ». En cas de doute, écoutez la radio ou, si internet fonctionne, consultez centredecrise.be ou le site de votre commune.",
+    tijdelijk: "Lors d'une véritable crise, les autorités ouvrent parfois un numéro temporaire ou une page supplémentaire. Ils ne figurent pas à l'avance dans ce paquet ; écoutez alors la radio ou suivez les canaux ci-dessus.",
   },
   nummers: {
     titel: "Numéros d'urgence",
     h1: (land: string) => `Numéros d'urgence ${land}`,
-    uitleg: "Touchez un numéro pour appeler. Le 112 est joignable dans toute l'Union européenne.",
+    uitleg: "Touchez un numéro pour appeler. Le 112 est joignable dans toute l'Union européenne. Si l’appel ne passe pas, voir plus bas.",
+    andereTitel: 'Autres numéros, si le réseau fonctionne',
+    andereUitleg: 'Centre antipoisons, services de garde, numéros d’information et lignes d’écoute. Notez à l’avance sur papier les numéros dont vous avez besoin.',
+    nietLuktTitel: 'Si l’appel ne passe pas',
+    nietLukt: [
+      'Essayez un autre appareil, fixe ou mobile, ou demandez à des voisins ou à des passants d’appeler. Un autre opérateur peut aider. Déplacez-vous de quelques mètres et réessayez.',
+      'Si vous pouvez téléphoner mais que le 112 est injoignable, essayez le 101. En cas de panne des centrales d’urgence, des numéros GSM temporaires par province peuvent être activés en Belgique (voir le guide Appel d’urgence).',
+      'Si plus aucun appel ne passe : demandez de l’aide dans votre voisinage et suivez les informations des autorités à la radio. La commune peut ouvrir un point d’information et d’accueil ; demandez à l’avance où il se trouve.',
+      'Restez auprès d’une victime si possible. Envoyez quelqu’un chercher de l’aide et indiquez-lui où c’est, ce qui s’est passé et combien de personnes sont concernées.',
+      'En Allemagne, les autorités conseillent alors de se rendre, si possible, au poste de police ou à l’hôpital le plus proche. Aux Pays-Bas, lors de la panne nationale du 112 en 2019, les autorités ont envoyé les citoyens à la caserne de pompiers ou au bureau de police le plus proche, et à l’hôpital en cas d’urgence médicale.',
+    ],
+    nietLuktKaart: (href: string) => `La <a href="${href}">carte</a> montre les pompiers, la police, les hôpitaux et les maisons communales, même sans internet si le paquet est sur votre appareil. Le bouton Le plus proche indique ce qui est le plus près de vous.`,
+    nietLuktVooraf: 'Imprimez cette page à l’avance et gardez-la avec votre plan d’urgence.',
+    nietLuktBronnen: [
+      { naam: '112.be: veelgestelde vragen', url: 'https://112.be/fr/questions-frequentes' },
+      { naam: 'FOD Economie: elektriciteitsschaarste, vragen van gezinnen', url: 'https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door' },
+      { naam: 'ERC Guidelines 2021: First aid', url: 'https://cprguidelines-old.erc.edu/assets/guidelines/European-Resuscitation-Council-Guidelines-2021-Fi.pdf' },
+      { naam: 'BBK: Vorsorgen für Krisen und Katastrophen', url: 'https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/Buergerinformationen/Ratgeber/BBK-Vorsorgen-fuer-Krisen-und-Katastrophen.pdf?__blob=publicationFile&v=44' },
+      { naam: 'Inspections néerlandaises : injoignabilité du 112 le 24 juin 2019', url: 'https://zoek.officielebekendmakingen.nl/blg-942150.pdf' },
+    ] as { naam: string; url: string }[],
     oproepTitel: "Informations à donner lors d'un appel d'urgence",
     oproep: [
       'Qui vous êtes et le numéro auquel on peut vous rappeler.',
@@ -830,6 +872,7 @@ const de: Teksten = {
     afdrukken: 'Drucken',
     bron: 'Quelle',
     levensgevaar: '<strong>Lebensgefahr: Rufen Sie die <a href="tel:112">112</a> an.</strong>',
+    nietLukt: (href: string) => `Kommt kein Anruf zustande: Lassen Sie jemand anderen anrufen oder bitten Sie in Ihrer Nachbarschaft um Hilfe. Siehe <a href="${href}">Wenn kein Anruf möglich ist</a>.`,
     interfaceVertaald: 'Die Texte der App wurden automatisch übersetzt und noch nicht Korrektur gelesen.',
   },
   landen: {
@@ -866,7 +909,7 @@ const de: Teksten = {
       ['Im Notfall', [
         ['/app/wat-nu/', 'Was tun?', 'Erste Schritte je nach Lage'],
         ['/app/noodnummers/', 'Notrufnummern', '112, 101, Giftnotruf, Bereitschaftsdienste'],
-        ['/app/info/', 'Offizielle Informationen', 'BE-Alert, Radio, 1771'],
+        ['/app/info/', 'Offizielle Informationen', 'Radio, BE-Alert, 1771'],
       ]],
       ['Karte und Risiken', [
         ['/app/kaart/', 'Karte', 'Krankenhäuser, Polizei, Feuerwehr, Wasser, AED'],
@@ -915,7 +958,8 @@ const de: Teksten = {
     titel: 'Erste Hilfe',
     alle: 'Alle Themen',
     belEerst: '<strong>Rufen Sie zuerst die <a href="tel:112">112</a> an.</strong>',
-    meldkamer: 'Die Notrufzentrale leitet Sie am Telefon an, auch bei einer Wiederbelebung.',
+    meldkamer: 'Funktioniert das Netz, leitet die Notrufzentrale Sie am Telefon an, auch bei einer Wiederbelebung.',
+    nietLukt: (href: string) => `Kommt kein Anruf zustande: Bleiben Sie wenn möglich bei der verletzten Person und schicken Sie jemanden, um Hilfe zu holen. Siehe <a href="${href}">Wenn kein Anruf möglich ist</a>.`,
     antigif: 'Giftnotruf (Antigiftzentrum):',
     concept: '<strong>Status: Entwurf.</strong> Diese Texte sind aus den Leitlinien des Roten Kreuzes, des European Resuscitation Council und anderer anerkannter Quellen zusammengestellt und werden von einer medizinischen Fachkraft geprüft. Ein Erste-Hilfe-Kurs bleibt die beste Vorbereitung.',
     leeg: 'Die Themen werden zusammengestellt.',
@@ -958,7 +1002,7 @@ const de: Teksten = {
   meer: {
     titel: 'Mehr',
     items: [
-      ['/app/info/', 'Offizielle Informationen', 'BE-Alert, Radio, Krisenzentrum, 1771'],
+      ['/app/info/', 'Offizielle Informationen', 'Radio, BE-Alert, Krisenzentrum, 1771'],
       ['/app/nucleair/', 'Nuklear', 'Standorte, Zonen, wie weit ich entfernt wohne'],
       ['/app/schuilen/', 'Schutz suchen', 'Entscheidungshilfe je Gefahr, eigene Wohnung'],
       ['/app/eerste-hulp/', 'Erste Hilfe', 'Wiederbelebung, Blutung, Ersticken und mehr'],
@@ -977,16 +1021,35 @@ const de: Teksten = {
   info: {
     titel: 'Offizielle Informationen',
     h1: 'Offizielle Informationskanäle',
-    uitleg: 'PlanB72 zeigt selbst keine Live-Warnungen. Bei einer Katastrophe informieren die Behörden über diese Kanäle.',
+    uitleg: 'PlanB72 zeigt selbst keine Live-Warnungen. Bei einer Katastrophe informieren die Behörden über diese Kanäle. Ohne Strom, Mobilfunk und Internet funktioniert ein Radio mit Batterien oder das Autoradio noch: Deshalb steht das Radio an erster Stelle.',
     voorbereiding: 'Vorbereitung',
     kanalen: 'Die Kanäle',
-    echtheid: '<strong>Echtheit von Meldungen.</strong> Eine echte BE-Alert-Meldung beginnt immer mit „BE-Alert“. Im Zweifel sehen Sie auf crisiszentrum.be oder der Website Ihrer Gemeinde nach.',
-    tijdelijk: 'Bei einer echten Krise richten die Behörden manchmal eine vorübergehende Nummer oder eine zusätzliche Seite ein. Diese sind nicht im Voraus in diesem Paket enthalten; sehen Sie dann bei den oben genannten Kanälen nach.',
+    echtheid: '<strong>Echtheit von Meldungen.</strong> Eine echte BE-Alert-Meldung beginnt immer mit „BE-Alert“. Im Zweifel hören Sie Radio oder sehen Sie, wenn das Internet funktioniert, auf crisiszentrum.be oder der Website Ihrer Gemeinde nach.',
+    tijdelijk: 'Bei einer echten Krise richten die Behörden manchmal eine vorübergehende Nummer oder eine zusätzliche Seite ein. Diese sind nicht im Voraus in diesem Paket enthalten; hören Sie dann Radio oder folgen Sie den oben genannten Kanälen.',
   },
   nummers: {
     titel: 'Notrufnummern',
     h1: (land: string) => `Notrufnummern ${land}`,
-    uitleg: 'Tippen Sie auf eine Nummer, um anzurufen. Die 112 ist in der gesamten Europäischen Union erreichbar.',
+    uitleg: 'Tippen Sie auf eine Nummer, um anzurufen. Die 112 ist in der gesamten Europäischen Union erreichbar. Kommt kein Anruf zustande, siehe unten.',
+    andereTitel: 'Weitere Nummern, wenn das Netz funktioniert',
+    andereUitleg: 'Giftnotruf, Bereitschaftsdienste, Informationsnummern und Beratungstelefone. Notieren Sie die Nummern, die Sie brauchen, im Voraus auf Papier.',
+    nietLuktTitel: 'Wenn kein Anruf möglich ist',
+    nietLukt: [
+      'Versuchen Sie es mit einem anderen Gerät, Festnetz oder Mobiltelefon, oder bitten Sie Nachbarn oder Umstehende anzurufen. Ein anderer Anbieter kann helfen. Gehen Sie einige Meter weiter und versuchen Sie es erneut.',
+      'Können Sie telefonieren, ist die 112 aber nicht erreichbar, versuchen Sie die 101. Bei einer Störung der Notrufzentralen können in Belgien vorübergehende Mobilnummern je Provinz aktiv sein (siehe den Leitfaden Notruf).',
+      'Funktioniert gar kein Anruf: Bitten Sie in Ihrer Nachbarschaft um Hilfe und folgen Sie den Informationen der Behörden im Radio. Die Gemeinde kann eine Informations- und Anlaufstelle einrichten; fragen Sie im Voraus, wo.',
+      'Bleiben Sie wenn möglich bei einer verletzten Person. Schicken Sie jemanden, um Hilfe zu holen, und geben Sie mit, wo es ist, was passiert ist und wie viele Menschen betroffen sind.',
+      'In Deutschland raten die Behörden, dann wenn möglich zur nächsten Polizeiwache oder ins Krankenhaus zu gehen. In den Niederlanden schickten die Behörden die Menschen beim landesweiten Ausfall der 112 im Jahr 2019 zur nächsten Feuerwache oder Polizeiwache, bei medizinischen Notfällen ins Krankenhaus.',
+    ],
+    nietLuktKaart: (href: string) => `Die <a href="${href}">Karte</a> zeigt Feuerwehr, Polizei, Krankenhäuser und Gemeindehäuser, auch ohne Internet, wenn das Paket auf Ihrem Gerät ist. Mit Am nächsten sehen Sie, was Ihnen am nächsten liegt.`,
+    nietLuktVooraf: 'Drucken Sie diese Seite im Voraus aus und bewahren Sie sie bei Ihrem Notfallplan auf.',
+    nietLuktBronnen: [
+      { naam: '112.be: veelgestelde vragen', url: 'https://112.be/nl/veelgestelde-vragen' },
+      { naam: 'FOD Economie: elektriciteitsschaarste, vragen van gezinnen', url: 'https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door' },
+      { naam: 'ERC Guidelines 2021: First aid', url: 'https://cprguidelines-old.erc.edu/assets/guidelines/European-Resuscitation-Council-Guidelines-2021-Fi.pdf' },
+      { naam: 'BBK: Vorsorgen für Krisen und Katastrophen', url: 'https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/Buergerinformationen/Ratgeber/BBK-Vorsorgen-fuer-Krisen-und-Katastrophen.pdf?__blob=publicationFile&v=44' },
+      { naam: 'Niederländische Aufsichtsbehörden: Unerreichbarkeit der 112 am 24. Juni 2019', url: 'https://zoek.officielebekendmakingen.nl/blg-942150.pdf' },
+    ] as { naam: string; url: string }[],
     oproepTitel: 'Angaben bei einem Notruf',
     oproep: [
       'Wer Sie sind und unter welcher Nummer man Sie zurückrufen kann.',
@@ -1236,6 +1299,7 @@ const en: Teksten = {
     afdrukken: 'Print',
     bron: 'source',
     levensgevaar: '<strong>Danger to life: call <a href="tel:112">112</a>.</strong>',
+    nietLukt: (href: string) => `If you cannot get through: ask someone else to call or ask for help nearby. See <a href="${href}">If you cannot call</a>.`,
     interfaceVertaald: 'The app texts were translated automatically and have not been reviewed yet.',
   },
   landen: {
@@ -1272,7 +1336,7 @@ const en: Teksten = {
       ['In an emergency', [
         ['/app/wat-nu/', 'What now?', 'First steps for each situation'],
         ['/app/noodnummers/', 'Emergency numbers', '112, 101, poison centre, on-call services'],
-        ['/app/info/', 'Official information', 'BE-Alert, radio, 1771'],
+        ['/app/info/', 'Official information', 'Radio, BE-Alert, 1771'],
       ]],
       ['Map and risks', [
         ['/app/kaart/', 'Map', 'Hospitals, police, fire service, water, AED'],
@@ -1321,7 +1385,8 @@ const en: Teksten = {
     titel: 'First aid',
     alle: 'All topics',
     belEerst: '<strong>First call <a href="tel:112">112</a>.</strong>',
-    meldkamer: 'The emergency call centre will guide you by phone, including through resuscitation.',
+    meldkamer: 'If the network works, the emergency call centre will guide you by phone, including through resuscitation.',
+    nietLukt: (href: string) => `If you cannot get through: stay with the casualty if you can and send someone for help. See <a href="${href}">If you cannot call</a>.`,
     antigif: 'Poison Centre:',
     concept: '<strong>Status: draft.</strong> These texts are compiled from the guidelines of the Red Cross, the European Resuscitation Council and other recognised sources, and are being reviewed by a healthcare professional. A first aid course remains the best preparation.',
     leeg: 'The topics are being compiled.',
@@ -1361,7 +1426,7 @@ const en: Teksten = {
   meer: {
     titel: 'More',
     items: [
-      ['/app/info/', 'Official information', 'BE-Alert, radio, Crisis Center, 1771'],
+      ['/app/info/', 'Official information', 'Radio, BE-Alert, Crisis Center, 1771'],
       ['/app/nucleair/', 'Nuclear', 'Sites, zones, how far away I live'],
       ['/app/schuilen/', 'Shelter', 'Guide by threat, your own home'],
       ['/app/eerste-hulp/', 'First aid', 'Resuscitation, bleeding, choking and more'],
@@ -1380,16 +1445,35 @@ const en: Teksten = {
   info: {
     titel: 'Official information',
     h1: 'Official information channels',
-    uitleg: 'PlanB72 does not show live alerts itself. In a disaster, the authorities communicate through these channels.',
+    uitleg: 'PlanB72 does not show live alerts itself. In a disaster, the authorities communicate through these channels. Without power, mobile network and internet, a battery radio or the car radio still works: that is why the radio comes first.',
     voorbereiding: 'Preparation',
     kanalen: 'The channels',
-    echtheid: '<strong>Authenticity of messages.</strong> A genuine BE-Alert message always starts with "BE-Alert". If in doubt, check crisiscenter.be or your municipality’s website.',
-    tijdelijk: 'In a real crisis, the authorities sometimes set up a temporary number or an extra page. These are not included in this package in advance; check the channels above.',
+    echtheid: '<strong>Authenticity of messages.</strong> A genuine BE-Alert message always starts with "BE-Alert". If in doubt, listen to the radio or, if the internet works, check crisiscenter.be or your municipality’s website.',
+    tijdelijk: 'In a real crisis, the authorities sometimes set up a temporary number or an extra page. These are not included in this package in advance; listen to the radio or follow the channels above.',
   },
   nummers: {
     titel: 'Emergency numbers',
     h1: (land: string) => `Emergency numbers ${land}`,
-    uitleg: 'Tap a number to call. The number 112 works throughout the European Union.',
+    uitleg: 'Tap a number to call. The number 112 works throughout the European Union. If you cannot call, see below.',
+    andereTitel: 'Other numbers, if the network works',
+    andereUitleg: 'Poison centre, on-call services, information numbers and helplines. Write down the numbers you need on paper in advance.',
+    nietLuktTitel: 'If you cannot call',
+    nietLukt: [
+      'Try another phone, landline or mobile, or ask neighbours or bystanders to call. Another operator may help. Move a few metres and try again.',
+      'If you can make calls but 112 cannot be reached, try 101. If the emergency call centres fail, temporary mobile numbers per province may be active in Belgium (see the Emergency call guide).',
+      'If no calls get through at all: ask for help nearby and follow the information from the authorities on the radio. The municipality may open an information and reception point; ask in advance where it is.',
+      'Stay with a casualty if you can. Send someone for help and tell them where it is, what happened and how many people are involved.',
+      'In Germany, the authorities advise going, if possible, to the nearest police station or hospital. In the Netherlands, during the national 112 outage of 2019, the authorities sent people to the nearest fire station or police station, and to hospital for medical emergencies.',
+    ],
+    nietLuktKaart: (href: string) => `The <a href="${href}">map</a> shows fire stations, police, hospitals and town halls, even without internet if the package is on your device. Nearest shows what is closest to you.`,
+    nietLuktVooraf: 'Print this page in advance and keep it with your emergency plan.',
+    nietLuktBronnen: [
+      { naam: '112.be: veelgestelde vragen', url: 'https://112.be/nl/veelgestelde-vragen' },
+      { naam: 'FOD Economie: elektriciteitsschaarste, vragen van gezinnen', url: 'https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door' },
+      { naam: 'ERC Guidelines 2021: First aid', url: 'https://cprguidelines-old.erc.edu/assets/guidelines/European-Resuscitation-Council-Guidelines-2021-Fi.pdf' },
+      { naam: 'BBK: Vorsorgen für Krisen und Katastrophen', url: 'https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/Buergerinformationen/Ratgeber/BBK-Vorsorgen-fuer-Krisen-und-Katastrophen.pdf?__blob=publicationFile&v=44' },
+      { naam: 'Dutch inspectorates: 112 unreachable on 24 June 2019', url: 'https://zoek.officielebekendmakingen.nl/blg-942150.pdf' },
+    ] as { naam: string; url: string }[],
     oproepTitel: 'Information for an emergency call',
     oproep: [
       'Who you are and the number on which they can call you back.',

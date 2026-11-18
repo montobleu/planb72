@@ -3,7 +3,7 @@ titel: Verschlucken
 volgorde: 4
 kort: "Kann jemand nicht mehr husten, sprechen oder atmen: Geben Sie 5 Rückenschläge, dann 5 Oberbauchkompressionen (bei einem Säugling 5 Bruststöße), und wechseln Sie ab."
 status: concept
-datum: "2026-11-17"
+datum: "2026-11-18"
 bronnen:
   - naam: "Gezondheid en Wetenschap (Rode Kruis-Vlaanderen): Erste Hilfe bei Verschlucken"
     url: https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-verslikking
@@ -15,8 +15,14 @@ bronnen:
     url: https://www.erc.edu/media/p5ymaeej/gl2025_layperson_book_ipdf-v11-e.pdf
   - naam: "IFRC: International first aid, resuscitation, and education guidelines 2020"
     url: https://www.ifrc.org/sites/default/files/2022-02/EN_GFARC_GUIDELINES_2020.pdf
+  - naam: "European Resuscitation Council Guidelines 2021: First aid"
+    url: https://cprguidelines-old.erc.edu/assets/guidelines/European-Resuscitation-Council-Guidelines-2021-Fi.pdf
+  - naam: "European Resuscitation Council Guidelines 2021: Paediatric Life Support"
+    url: https://cprguidelines-old.erc.edu/assets/guidelines/European-Resuscitation-Council-Guidelines-2021-Pa.pdf
+  - naam: "112.be: Häufig gestellte Fragen"
+    url: https://112.be/de/haeufig-gestellte-fragen
 vertaling: machine
-origineel_datum: "2026-11-17"
+origineel_datum: "2026-11-18"
 ---
 
 ## Erkennen
@@ -52,7 +58,7 @@ Quelle: [Gezondheid en Wetenschap: Verschlucken](https://www.gezondheidenwetensc
 
 ### Schweres Verschlucken bei einem Erwachsenen oder Kind
 
-1. Rufen Sie 112 an oder lassen Sie anrufen, oder tun Sie das, sobald die erste Serie nicht hilft.
+1. Rufen Sie 112 an oder lassen Sie anrufen, oder tun Sie das, sobald die erste Serie nicht hilft. Kommt kein Anruf zustande, lassen Sie jemand anderen Hilfe holen (siehe Rufen Sie 112 an, wenn).
 2. Stellen Sie sich seitlich, etwas hinter die betroffene Person. Lassen Sie sie sich nach vorn beugen. Stützen Sie den Brustkorb mit einer Hand.
 3. Geben Sie bis zu 5 kräftige Schläge mit dem Handballen zwischen die Schulterblätter.
 4. Helfen die Rückenschläge nicht, geben Sie bis zu 5 Oberbauchkompressionen. Stellen Sie sich hinter die betroffene Person und legen Sie Ihre Arme um den oberen Teil des Bauches. Lassen Sie sie sich nach vorn lehnen. Setzen Sie eine Faust auf den oberen Teil des Bauches, zwischen Nabel und Rippen. Fassen Sie Ihre Faust mit der anderen Hand und ziehen Sie kräftig zu sich hin und nach oben.
@@ -63,7 +69,7 @@ Quelle: [Gezondheid en Wetenschap: Verschlucken](https://www.gezondheidenwetensc
 1. Legen Sie den Säugling auf Ihren Unterarm, mit dem Bauch nach unten und dem Kopf etwas tiefer. Stützen Sie den Unterkiefer mit Ihrer Hand.
 2. Geben Sie bis zu 5 Rückenschläge mit dem Handballen zwischen die Schulterblätter.
 3. Helfen sie nicht, drehen Sie den Säugling auf den Rücken. Legen Sie beide Hände um den Brustkorb, mit den Daumen auf dem Brustbein. Geben Sie bis zu 5 Bruststöße: Drücken Sie mit den Daumen das Brustbein mindestens ein Drittel der Tiefe des Brustkorbs ein.
-4. Rufen Sie 112 an, wenn die Bruststöße nicht helfen.
+4. Rufen Sie 112 an oder lassen Sie anrufen, wenn die Bruststöße nicht helfen. Kommt kein Anruf zustande, lassen Sie jemand anderen Hilfe holen und bleiben Sie selbst beim Säugling.
 5. Wechseln Sie 5 Rückenschläge mit 5 Bruststößen ab, bis sich der Gegenstand gelöst hat oder bis der Säugling nicht mehr reagiert.
 
 Bei einem Säugling geben Sie Bruststöße, keine Oberbauchkompressionen.
@@ -86,12 +92,12 @@ Bei einem Säugling geben Sie Bruststöße, keine Oberbauchkompressionen.
 ### Wenn die Person bewusstlos wird
 
 1. Legen Sie die Person vorsichtig auf den Boden.
-2. Rufen Sie 112 an, wenn das noch nicht geschehen ist. Lassen Sie jemanden einen AED holen, wenn einer in der Nähe ist.
+2. Rufen Sie 112 an oder lassen Sie anrufen, wenn das noch nicht geschehen ist. Lassen Sie jemanden einen AED holen, wenn einer in der Nähe ist. Kommt kein Anruf zustande, siehe Rufen Sie 112 an, wenn und Thema 2.
 3. Beginnen Sie sofort mit der Wiederbelebung, mit Herzdruckmassage und Beatmungen (siehe Thema 2). Die Kompressionen erhöhen den Druck in den Atemwegen und können den Gegenstand lösen. Machen Sie weiter, auch wenn sich der Gegenstand nicht löst, bis der Rettungsdienst da ist.
 4. Bei einem Säugling: Geben Sie Beatmungen und Herzdruckmassage wie bei der Wiederbelebung eines Säuglings.
 5. Sehen Sie den Gegenstand im Mund, entfernen Sie ihn vorsichtig.
 
-Quelle: [Gezondheid en Wetenschap: Verschlucken](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-verslikking) · [IFRC Guidelines 2020](https://www.ifrc.org/sites/default/files/2022-02/EN_GFARC_GUIDELINES_2020.pdf) · [ERC Guidelines 2025 for Everyone](https://www.erc.edu/media/p5ymaeej/gl2025_layperson_book_ipdf-v11-e.pdf) · [VRT NWS: Rotes Kreuz über Ersticken](https://www.vrt.be/vrtnws/nl/2026/09/23/rode-kruis-eerste-hulp-bij-iemand-die-stikt-heimlich/)
+Quelle: [Gezondheid en Wetenschap: Verschlucken](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-verslikking) · [IFRC Guidelines 2020](https://www.ifrc.org/sites/default/files/2022-02/EN_GFARC_GUIDELINES_2020.pdf) · [ERC Guidelines 2025 for Everyone](https://www.erc.edu/media/p5ymaeej/gl2025_layperson_book_ipdf-v11-e.pdf) · [VRT NWS: Rotes Kreuz über Ersticken](https://www.vrt.be/vrtnws/nl/2026/09/23/rode-kruis-eerste-hulp-bij-iemand-die-stikt-heimlich/) · [ERC Guidelines 2021: Paediatric Life Support](https://cprguidelines-old.erc.edu/assets/guidelines/European-Resuscitation-Council-Guidelines-2021-Pa.pdf)
 
 ## Wenn Hilfe lange auf sich warten lässt
 
@@ -111,7 +117,13 @@ Quelle: [IFRC Guidelines 2020](https://www.ifrc.org/sites/default/files/2022-02/
 
 Gehen Sie auch zu einem Arzt, wenn die Person weiter hustet, schlecht schlucken kann, das Gefühl hat, dass etwas im Hals steckt, oder Oberbauchkompressionen erhalten hat. Die Croix-Rouge de Belgique empfiehlt eine ärztliche Beratung oder einen Anruf bei 112, auch wenn der Gegenstand heraus ist.
 
-Quelle: [Gezondheid en Wetenschap: Verschlucken](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-verslikking) · [Croix-Rouge de Belgique: mise à jour 2024](https://formations.croix-rouge.be/files/files/espace-relais/Relais-BEPS-Mise-jour-2024.pdf) · [IFRC Guidelines 2020](https://www.ifrc.org/sites/default/files/2022-02/EN_GFARC_GUIDELINES_2020.pdf)
+**Kommt kein Anruf zustande**
+
+- Lassen Sie die betroffene Person nur allein, wenn es keine andere Möglichkeit gibt. Sprechen Sie Umstehende direkt an, damit sie Hilfe holen, und geben Sie mit, wo es ist, was passiert ist, wie viele Betroffene es gibt und in welchem Zustand sie sind.
+- Verschluckt sich ein Kind schwer, bleiben Sie beim Kind und gehen Sie nicht selbst weg, um Hilfe zu holen.
+- Siehe auch Thema 1 (Kommt kein Anruf zustande: Hilfe holen ohne Telefon) und Notrufnummern in der App, Wenn kein Anruf möglich ist.
+
+Quelle: [Gezondheid en Wetenschap: Verschlucken](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-verslikking) · [Croix-Rouge de Belgique: mise à jour 2024](https://formations.croix-rouge.be/files/files/espace-relais/Relais-BEPS-Mise-jour-2024.pdf) · [IFRC Guidelines 2020](https://www.ifrc.org/sites/default/files/2022-02/EN_GFARC_GUIDELINES_2020.pdf) · [ERC Guidelines 2021: First aid](https://cprguidelines-old.erc.edu/assets/guidelines/European-Resuscitation-Council-Guidelines-2021-Fi.pdf) · [ERC Guidelines 2021: Paediatric Life Support](https://cprguidelines-old.erc.edu/assets/guidelines/European-Resuscitation-Council-Guidelines-2021-Pa.pdf) · [112.be: Häufig gestellte Fragen](https://112.be/de/haeufig-gestellte-fragen)
 
 ## Nicht tun
 

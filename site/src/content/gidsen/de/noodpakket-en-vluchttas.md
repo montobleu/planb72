@@ -4,7 +4,7 @@ module: voorbereiding
 volgorde: 2
 kort: "Was Sie bereitstellen, um schnell aufzubrechen, und was Sie zu Hause, im Auto und bei der Arbeit aufbewahren, mit eigenen Listen für Kinder, ältere Menschen, Menschen mit einer Behinderung und Haustiere sowie Dokumente und Bargeld."
 status: concept
-datum: "2026-11-17"
+datum: "2026-11-18"
 bronnen:
   - naam: "Nationales Krisenzentrum: Ein Notpaket bei Ihnen zu Hause"
     url: "https://krisenzentrum.be/de/was-koennen-sie-tun/stelle-ein-notfallpaket-zusammen/ein-notfallset-fuer-zu-hause"
@@ -42,8 +42,10 @@ bronnen:
     url: "https://www.ready.gov/winter-weather"
   - naam: "Diereninrampen.nl: Retten Sie Ihr Tier bei einer Katastrophe"
     url: "https://www.diereninrampen.nl/red-je-dier-bij-een-ramp"
+  - naam: "Nationales Krisenzentrum: Ein Plan bei Ihnen zu Hause"
+    url: "https://krisenzentrum.be/de/was-koennen-sie-tun/make-plan/ein-notfallplan-zu-hause"
 vertaling: machine
-origineel_datum: "2026-11-17"
+origineel_datum: "2026-11-18"
 ---
 
 Das Nationale Krisenzentrum teilt das Notpaket in zwei Teile: einen Rucksack oder eine Tasche, die Sie schnell mitnehmen können, und einen Vorrat für zu Hause für den Fall, dass Sie Schutz suchen müssen oder eine Zeit lang ohne Strom, Wasser, Telefon und Internet sind. Dieser Leitfaden behandelt den Rucksack und die kleineren Pakete für Auto und Arbeit. Der Vorrat zu Hause steht im Leitfaden zum Notvorrat.
@@ -59,7 +61,7 @@ Die belgische Liste für den Rucksack, aus der Broschüre und von der Website de
 **Geld und Dokumente**
 
 - Kopien wichtiger Dokumente wie Ihres Personalausweises, Führerscheins und Ihrer Versicherungsunterlagen. Die Website nennt auch Kopien von Versicherungsverträgen und von allen Personalausweisen.
-- Ihr Notfallplan oder eine Liste mit wichtigen Telefonnummern: Familie und Freunde, Notrufnummern, Ihr Gas-, Wasser- und Stromversorger, die Zentrale Ihrer Alarmanlage, Ihr Hausarzt, Ihr Versicherer.
+- Ihr Notfallplan oder eine Liste mit wichtigen Telefonnummern, auf Papier: Familie und Freunde, Notrufnummern, Ihr Gas-, Wasser- und Stromversorger, die Zentrale Ihrer Alarmanlage, Ihr Hausarzt, Ihr Versicherer. Notieren Sie bei Ihren Kontaktpersonen auch die Adresse. So finden Sie einander wieder, auch wenn Ihr Handy leer ist oder das Netz nicht funktioniert. Tragen Sie auch den Treffpunkt, den Sie mit Ihren Mitbewohnern vereinbart haben, in Ihren Notfallplan ein.
 - Stift und Papier.
 - Ein wenig Bargeld (siehe den Abschnitt zum Bargeld).
 
@@ -77,9 +79,9 @@ Das Krisenzentrum rät davon ab, Konserven in den Rucksack zu packen, weil er ni
 - Pflegeprodukte: Feuchttücher, Desinfektionsgel, Zahnpasta, Zahnbürste, Toilettenpapier, Taschentücher, Damenbinden.
 - Ein Multifunktions-Taschenmesser.
 - Eine Pfeife, um den Rettungsdiensten zu zeigen, wo Sie sind.
-- Eine aufgeladene Powerbank und ein Handy-Ladegerät.
+- Eine aufgeladene Powerbank und ein Handy-Ladegerät. Verlassen Sie sich nicht darauf, dass Sie immer telefonieren können: Bei einem Stromausfall können auch Internet und Mobilfunknetze ausfallen.
 
-Quelle: [Nationales Krisenzentrum: Broschüre Gemeinsam vorbereitet](https://krisenzentrum.be/sites/default/files/documents/files/WEB-Brosch%C3%BCre%20Gemeinsam%20Vorbereitet-DE.pdf) · [Nationales Krisenzentrum: Ein Notpaket bei Ihnen zu Hause](https://krisenzentrum.be/de/was-koennen-sie-tun/stelle-ein-notfallpaket-zusammen/ein-notfallset-fuer-zu-hause)
+Quelle: [Nationales Krisenzentrum: Broschüre Gemeinsam vorbereitet](https://krisenzentrum.be/sites/default/files/documents/files/WEB-Brosch%C3%BCre%20Gemeinsam%20Vorbereitet-DE.pdf) · [Nationales Krisenzentrum: Ein Notpaket bei Ihnen zu Hause](https://krisenzentrum.be/de/was-koennen-sie-tun/stelle-ein-notfallpaket-zusammen/ein-notfallset-fuer-zu-hause) · [Nationales Krisenzentrum: Ein Plan bei Ihnen zu Hause](https://krisenzentrum.be/de/was-koennen-sie-tun/make-plan/ein-notfallplan-zu-hause)
 
 ## Was andere Länder ergänzen
 
@@ -189,7 +191,7 @@ Ready.gov nennt für ältere Menschen diese Ergänzungen:
 - Ein Reservevorrat an Sauerstoff, wenn Sie welchen verwenden.
 - Eine Liste mit Typ und Seriennummer medizinischer Geräte, mit eventuellen Gebrauchsanweisungen.
 - Kopien von Versicherungskarten.
-- Kontaktdaten von Ärzten, Familie oder Freunden, die benachrichtigt werden müssen, wenn Sie verletzt werden.
+- Kontaktdaten von Ärzten, Familie oder Freunden, die benachrichtigt werden müssen, wenn Sie verletzt werden, auf einer Liste in einer wasserdichten Verpackung.
 - Futter, Wasser, Halsband mit Namensschild und medizinische Angaben für einen Hilfs- oder Assistenzhund.
 
 Das Krisenzentrum empfiehlt, bei Ihrem Hausarzt oder Apotheker eine Medikamentenliste anzufragen und diese zu Ihren wichtigen Dokumenten zu legen. Bei Demenz empfiehlt Ready.gov, ein Kissen und eine Decke oder andere vertraute Gegenstände mitzunehmen.
@@ -198,7 +200,7 @@ Quelle: [Ready.gov: People with Disabilities](https://www.ready.gov/disability) 
 
 ## Menschen mit einer Behinderung
 
-Ergänzen Sie die Grundliste mit dem, was für Sie unverzichtbar ist, zum Beispiel Medikamente oder Hilfsmittel (Krisenzentrum). Das BBK nennt Ersatzbatterien, Akkus und Ladegeräte für technische Hilfsmittel, Mobilitätshilfen, einen Medikationsplan und einen Medikamentenvorrat, Futter und Wasser für ein Assistenztier, eine Liste mit Notfallkontakten und einen Notfallausweis mit Informationen über Krankheiten, Allergien, Hilfsmittel und darüber, wie Sie kommunizieren.
+Ergänzen Sie die Grundliste mit dem, was für Sie unverzichtbar ist, zum Beispiel Medikamente oder Hilfsmittel (Krisenzentrum). Denken Sie an Alternativen, um mit anderen zu kommunizieren, auch wenn Sie kein Telefon oder Internet haben (Krisenzentrum). Das BBK nennt Ersatzbatterien, Akkus und Ladegeräte für technische Hilfsmittel, Mobilitätshilfen, einen Medikationsplan und einen Medikamentenvorrat, Futter und Wasser für ein Assistenztier, eine Liste mit Notfallkontakten und einen Notfallausweis mit Informationen über Krankheiten, Allergien, Hilfsmittel und darüber, wie Sie kommunizieren.
 
 Je nach Behinderung, laut Ready.gov:
 
@@ -289,7 +291,7 @@ Quelle: [Nationales Krisenzentrum: Ein Notpaket bei Ihnen zu Hause](https://kris
 ## Checkliste Fluchttasche
 
 - [ ] Kopie von Personalausweis, Führerschein, Versicherungen.
-- [ ] Notfallplan oder Liste mit Telefonnummern auf Papier.
+- [ ] Notfallplan oder Liste mit Telefonnummern und Adressen auf Papier, mit dem vereinbarten Treffpunkt.
 - [ ] Stift und Papier.
 - [ ] Bargeld für ungefähr 72 Stunden, in kleinen Stückelungen.
 - [ ] Ungefähr ein Liter Wasser pro Person.

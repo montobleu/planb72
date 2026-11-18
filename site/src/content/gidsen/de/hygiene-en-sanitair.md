@@ -4,7 +4,7 @@ module: hygiene
 volgorde: 1
 kort: "Alle Varianten einer Nottoilette, was Sie mit Abfall und Ausscheidungen tun, Händewaschen mit wenig oder ohne Wasser, Menstruation und Windeln und wie Sie Durchfall vorbeugen."
 status: concept
-datum: "2026-11-17"
+datum: "2026-11-18"
 bronnen:
   - naam: "Nationales Krisenzentrum: Ein Notpaket bei Ihnen zu Hause"
     url: "https://krisenzentrum.be/de/was-koennen-sie-tun/stelle-ein-notfallpaket-zusammen/ein-notfallset-fuer-zu-hause"
@@ -40,8 +40,12 @@ bronnen:
     url: "https://www.ready.gov/food"
   - naam: "Ready.gov: Pets"
     url: "https://www.ready.gov/pets"
+  - naam: "Nationales Krisenzentrum: Informationen während einer Notsituation"
+    url: "https://krisenzentrum.be/de/was-koennen-sie-tun/informieren-sie-sich/information-notsituationen"
+  - naam: "Nationales Krisenzentrum: Ein Plan für Menschen, die zusätzliche Hilfe brauchen"
+    url: "https://krisenzentrum.be/de/was-koennen-sie-tun/bereiten-sie-sich-vor/ein-plan-fuer-personen-die-zusaetzliche-hilfe-benoetigen"
 vertaling: machine
-origineel_datum: "2026-11-17"
+origineel_datum: "2026-11-18"
 ---
 
 Das Krisenzentrum sagt kurz, was ohne Wasser geschieht: Sie können nicht mehr duschen, sich nicht die Hände waschen und die Toilette nicht spülen. Die WHO weist darauf hin, dass zu wenig Wasser und verunreinigtes Wasser nach einer Katastrophe meist die ersten und wichtigsten Ursachen von Krankheit sind. Hygiene ist also kein Luxus. Dieser Leitfaden gibt die Möglichkeiten nach Thema an, von der besten Wahl bis zur Notlösung.
@@ -114,9 +118,9 @@ Zusammengestellt aus dem schwedischen MCF, dem Gesundheitsdienst von Seattle und
 
 **Standort.** Stellen Sie die Nottoilette weit entfernt von dem Ort auf, an dem Sie essen oder Essen zubereiten (King County). Beaufsichtigen Sie kleine Kinder, die sie benutzen (King County).
 
-**Wohin damit.** Die Gemeinde teilt mit, wo Sie den Abfall loswerden können (MCF). King County schreibt, dass die Säcke bei einer ausgerufenen Notsituation mit dem gewöhnlichen Müll mitgegeben werden dürfen, wenn die Behörden das öffentlich bekanntgeben. Warten Sie also auf diese Bekanntgabe.
+**Wohin damit.** Die Gemeinde teilt mit, wo Sie den Abfall loswerden können (MCF). King County schreibt, dass die Säcke bei einer ausgerufenen Notsituation mit dem gewöhnlichen Müll mitgegeben werden dürfen, wenn die Behörden das öffentlich bekanntgeben. Warten Sie also auf diese Bekanntgabe. Verfolgen Sie sie über das Radio; die Behörden können auch mit Lautsprecherwagen der Polizei, Informationstafeln, Faltblättern oder von Tür zu Tür informieren (Krisenzentrum).
 
-Quelle: [MCF: In case of crisis or war](https://rib.msb.se/filer/pdf/31523.pdf) · [King County: emergency toilet](https://kingcounty.gov/en/dept/dph/health-safety/safety-injury-prevention/emergency-preparedness/personal-preparedness/emergency-toilets) · [Seattle Public Utilities: Emergency Sanitation](https://seattle.gov/Documents/Departments/Emergency/Preparedness/SPU%20Emergency%20Sanitation%20Trifold.pdf)
+Quelle: [MCF: In case of crisis or war](https://rib.msb.se/filer/pdf/31523.pdf) · [Nationales Krisenzentrum: Informationen während einer Notsituation](https://krisenzentrum.be/de/was-koennen-sie-tun/informieren-sie-sich/information-notsituationen) · [Nationales Krisenzentrum: Broschüre Gemeinsam vorbereitet](https://krisenzentrum.be/sites/default/files/documents/files/WEB-Brosch%C3%BCre%20Gemeinsam%20Vorbereitet-DE.pdf) · [King County: emergency toilet](https://kingcounty.gov/en/dept/dph/health-safety/safety-injury-prevention/emergency-preparedness/personal-preparedness/emergency-toilets) · [Seattle Public Utilities: Emergency Sanitation](https://seattle.gov/Documents/Departments/Emergency/Preparedness/SPU%20Emergency%20Sanitation%20Trifold.pdf)
 
 ## Draußen: Latrinen
 
@@ -222,12 +226,12 @@ Was Sie tun:
 
 - Lassen Sie drinnen keinen Abfall anhäufen, wegen Brandgefahr und Hygiene (Ready.gov).
 - Bewahren Sie Säcke mit Ausscheidungen getrennt und gut verschlossen auf, an einem Ort, an den Menschen nicht herankommen und der vor Ratten und Ungeziefer geschützt ist (Seattle Public Utilities).
-- Warten Sie auf die Bekanntgabe der Gemeinde, wo und wie Sie Abfall loswerden können (MCF, King County).
+- Warten Sie auf die Bekanntgabe der Gemeinde, wo und wie Sie Abfall loswerden können (MCF, King County). Ohne Netz kommt sie über das Radio und die anderen Kanäle der Behörden (Krisenzentrum).
 - Verbrennen oder vergraben Sie Ausscheidungen in der Stadt nicht. Seattle Public Utilities bezeichnet das als nicht gesetzlich zulässig und nicht empfohlen.
 
 Zur Abwasserentsorgung sagt das Krisenzentrum, dass es keine spezifischen Tipps gibt, abgesehen von den allgemeinen Tipps vor, während und nach Notsituationen.
 
-Quelle: [WHO/WEDC: Technical notes](https://wedc-knowledge.lboro.ac.uk/resources/who_notes/WHO_TNE_ALL.pdf) · [Ready.gov: Food](https://www.ready.gov/food) · [Seattle Public Utilities: Emergency Sanitation](https://seattle.gov/Documents/Departments/Emergency/Preparedness/SPU%20Emergency%20Sanitation%20Trifold.pdf) · [MCF: In case of crisis or war](https://rib.msb.se/filer/pdf/31523.pdf) · [King County: emergency toilet](https://kingcounty.gov/en/dept/dph/health-safety/safety-injury-prevention/emergency-preparedness/personal-preparedness/emergency-toilets) · [Nationales Krisenzentrum: Störung der Abwasserentsorgung](https://krisenzentrum.be/de/risiken-belgien/maatschappelijke-risicos/ausfall-von-abwasser-behandlungssystemen)
+Quelle: [WHO/WEDC: Technical notes](https://wedc-knowledge.lboro.ac.uk/resources/who_notes/WHO_TNE_ALL.pdf) · [Ready.gov: Food](https://www.ready.gov/food) · [Seattle Public Utilities: Emergency Sanitation](https://seattle.gov/Documents/Departments/Emergency/Preparedness/SPU%20Emergency%20Sanitation%20Trifold.pdf) · [MCF: In case of crisis or war](https://rib.msb.se/filer/pdf/31523.pdf) · [King County: emergency toilet](https://kingcounty.gov/en/dept/dph/health-safety/safety-injury-prevention/emergency-preparedness/personal-preparedness/emergency-toilets) · [Nationales Krisenzentrum: Störung der Abwasserentsorgung](https://krisenzentrum.be/de/risiken-belgien/maatschappelijke-risicos/ausfall-von-abwasser-behandlungssystemen) · [Nationales Krisenzentrum: Informationen während einer Notsituation](https://krisenzentrum.be/de/was-koennen-sie-tun/informieren-sie-sich/information-notsituationen)
 
 ## Durchfall vorbeugen
 
@@ -240,7 +244,7 @@ Die Maßnahmen stehen in diesem und in anderen Leitfäden. Zusammengefasst nach 
 5. **Ausscheidungen weg von Wasser und Lebensmitteln.** Die Nottoilette weit weg von Essen und Trinken, eine Latrine weit weg von Wasserquellen (King County, WHO).
 6. **Haustiere.** Beseitigen Sie ihren Kot mit Beuteln, Zeitungen und Küchenpapier und verwenden Sie Bleichmittel für ihre Hygiene (Ready.gov).
 
-Wer Durchfall bekommt: Siehe die Seiten zur Ersten Hilfe und wenden Sie sich an einen Arzt, wenn es schwer ist oder lange dauert.
+Wer Durchfall bekommt: Siehe die Seiten zur Ersten Hilfe. Ist es schwer oder dauert es lange, suchen Sie einen Arzt auf. Funktioniert das Netz nicht, siehe Notrufnummern in der App, Wenn kein Anruf möglich ist.
 
 Quelle: [WHO/WEDC: Technical notes](https://wedc-knowledge.lboro.ac.uk/resources/who_notes/WHO_TNE_ALL.pdf) · [CDC: About Handwashing](https://www.cdc.gov/clean-hands/about/index.html) · [CDC: How to Make Water Safe in an Emergency](https://www.cdc.gov/water-emergency/about/index.html) · [Ready.gov: Food](https://www.ready.gov/food) · [King County: emergency toilet](https://kingcounty.gov/en/dept/dph/health-safety/safety-injury-prevention/emergency-preparedness/personal-preparedness/emergency-toilets) · [Ready.gov: Pets](https://www.ready.gov/pets)
 

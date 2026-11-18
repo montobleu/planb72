@@ -4,7 +4,7 @@ module: voedsel
 volgorde: 1
 kort: "Ce que vous faites avec le frigo et le congélateur lors d'une coupure de courant, ce que vous gardez et ce que vous jetez, comment cuisiner en sécurité sans électricité et comment nourrir les bébés."
 status: concept
-datum: "2026-11-17"
+datum: "2026-11-18"
 bronnen:
   - naam: "Centre de crise National : Perturbation de l'électricité"
     url: "https://centredecrise.be/fr/risques-en-belgique/risques-societaux/defaillance-de-lapprovisionnement-en-electricite"
@@ -40,8 +40,10 @@ bronnen:
     url: "https://www.vrt.be/vrtnws/nl/2026/03/20/roeselare-vraagt-om-drinkwater-in-enkele-centrumsteden-tijdelijk/"
   - naam: "Denk vooruit : livret d'information Bereid je voor op een noodsituatie"
     url: "https://www.denkvooruit.nl/site/binaries/site-content/collections/documents/2025/11/17/informatieboekje-bereid-je-voor-op-een-noodsituatie/informatieboekje-bereid-je-voor-op-een-noodsituatie.pdf"
+  - naam: "Ready.gov: Water"
+    url: "https://www.ready.gov/water"
 vertaling: machine
-origineel_datum: "2026-11-17"
+origineel_datum: "2026-11-18"
 ---
 
 Sans électricité, le frigo, le congélateur, la cuisinière électrique, le four et le four à micro-ondes s'arrêtent. Ce guide porte sur trois questions : comment garder froid le plus longtemps possible ce qui est froid, ce que vous pouvez encore manger ensuite, et comment préparer les repas en sécurité. La réserve qu'il vaut mieux avoir à la maison est décrite dans le guide sur la réserve d'urgence.
@@ -233,7 +235,7 @@ Le BBK fait la distinction à retenir : certains appareils peuvent s'utiliser à
 - Le Centre Antipoisons : rentrer un barbecue dans la maison pour se chauffer n'est pas une bonne idée. Les braises qui se consument dégagent beaucoup de CO, même avec une porte de garage ouverte.
 - Ready.gov : n'utilisez pas une cuisinière ou un four au gaz pour chauffer votre maison.
 
-**Économiser le combustible.** Le BBK conseille des aliments qui cuisent avec peu d'énergie, pour que votre combustible dure plus longtemps, et des aliments qui se mangent froids. Le BBK propose pour cela un livre de cuisine d'urgence avec des recettes sans électricité. Denk vooruit renvoie au Voedingscentrum pour des recettes à base d'aliments de longue conservation ; imprimez-les ou recopiez-les.
+**Économiser le combustible.** Le BBK conseille des aliments qui cuisent avec peu d'énergie, pour que votre combustible dure plus longtemps, et des aliments qui se mangent froids. Le BBK propose pour cela un livre de cuisine d'urgence avec des recettes sans électricité. Denk vooruit renvoie au Voedingscentrum pour des recettes à base d'aliments de longue conservation et conseille de les imprimer ou de les recopier à l'avance : sans internet, vous ne pouvez plus les chercher.
 
 **Si l'électricité est limitée mais pas coupée.** En cas de pénurie d'électricité, la brochure OFF ON conseille d'utiliser le moins de plaques de cuisson possible, d'utiliser le four à micro-ondes plutôt que le four ordinaire, et d'utiliser les appareils électriques de préférence après 22 heures.
 

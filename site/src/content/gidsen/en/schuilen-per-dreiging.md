@@ -4,7 +4,7 @@ module: schuilen
 volgorde: 1
 kort: "Where to go, what to stay away from and how long to stay: per threat and per place, in order of preference."
 status: concept
-datum: "2026-11-17"
+datum: "2026-11-18"
 bronnen:
   - naam: "National Crisis Center: Sheltering"
     url: https://crisiscenter.be/en/what-can-you-do/right-reflex/seeking-shelter
@@ -36,6 +36,14 @@ bronnen:
     url: https://crisiscenter.be/en/risks-belgium/security-risks/international-armed-conflict-iac
   - naam: "National Crisis Center: Fire or collapse of a tunnel"
     url: https://crisiscenter.be/en/risks-belgium/technological-risks/fire-or-collapse-tunnel
+  - naam: "National Crisis Center: brochure Prepared together"
+    url: https://crisiscenter.be/sites/default/files/documents/files/WEB-Brochure%20Prepared%20Together-EN.pdf
+  - naam: "National Crisis Center: Disruption of the digital infrastructure"
+    url: https://crisiscenter.be/en/risks-belgium/societal-risks/failure-digital-infrastructure
+  - naam: "112.be: Frequently asked questions"
+    url: https://112.be/en/frequently-asked-questions
+  - naam: "FPS Economy: questions from households about electricity shortage"
+    url: https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door
   - naam: "Nuclear risk: Sheltering, the best protection"
     url: https://nuclearrisk.be/en/what-can-you-do/sheltering
   - naam: "RMI: How do I protect myself against lightning"
@@ -87,7 +95,7 @@ bronnen:
   - naam: "Ready.gov: Mass gatherings incidents"
     url: https://www.ready.gov/mass-gatherings-incidents
 vertaling: machine
-origineel_datum: "2026-11-17"
+origineel_datum: "2026-11-18"
 ---
 
 ## How to use this guide
@@ -96,7 +104,7 @@ In Belgium, sheltering means: you go inside the nearest accessible building and 
 
 1. Stay inside or go inside the nearest accessible building. Stay there until you are told that it is safe again.
 2. Close all windows and doors. Switch off ventilation, air conditioning and other systems that bring in outside air. Preferably go to a central room on the ground floor, away from windows and outside doors.
-3. Follow the instructions of the authorities via BE-Alert, radio, TV, official websites and social media.
+3. Follow the instructions of the authorities. When you shelter, you are inside with windows and doors closed: listen to a battery-powered or wind-up radio and watch for police loudspeaker vans in the street. If the network works, the instructions also come via BE-Alert, official websites and social media.
 
 These three steps apply to most threats for which the authorities ask you to stay inside: a chemical leak, heavy smoke, a severe thunderstorm, a nuclear accident. But not every threat calls for the same place. The German civil protection authority (BBK) says so explicitly: what is safe for one threat can be dangerous for another. A cellar protects well against an explosion or radiation, but is life-threatening in a flood.
 
@@ -104,7 +112,9 @@ This guide therefore gives the options per threat in order of preference, per pl
 
 The Crisis Center also says that sheltering is a temporary measure: from a few hours up to a maximum of 24 hours. If the situation is still not safe after that or has become worse, the authorities may ask you to evacuate. Never evacuate on your own initiative, unless you are in immediate danger.
 
-Source: [National Crisis Center: Sheltering](https://crisiscenter.be/en/what-can-you-do/right-reflex/seeking-shelter) · [National Crisis Center: Evacuating](https://crisiscenter.be/en/what-can-you-do/right-reflex/evacuate) · [BBK: Schutz suchen](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Vorsorge/Schutz-suchen/schutz-suchen_node.html)
+Where this guide says to call 112: assume that the network may fail. Then try another phone, have neighbours or bystanders call, or move a few metres. If calling does not work at all, ask for help nearby and follow the information from the authorities on the radio. See also Emergency numbers in the app, If you cannot call. The map in the app (Nearest button) shows fire stations, police, hospitals and town halls.
+
+Source: [National Crisis Center: Sheltering](https://crisiscenter.be/en/what-can-you-do/right-reflex/seeking-shelter) · [National Crisis Center: Evacuating](https://crisiscenter.be/en/what-can-you-do/right-reflex/evacuate) · [National Crisis Center: brochure Prepared together](https://crisiscenter.be/sites/default/files/documents/files/WEB-Brochure%20Prepared%20Together-EN.pdf) · [BBK: Schutz suchen](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Vorsorge/Schutz-suchen/schutz-suchen_node.html) · [112.be: Frequently asked questions](https://112.be/en/frequently-asked-questions) · [FPS Economy: questions from households about electricity shortage](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door)
 
 ## Overview: the direction per threat
 
@@ -162,7 +172,7 @@ Finland gives separate guidelines for drones. The danger zone of explosives can 
 - Go inside, especially if the drone is flying unsteadily or low.
 - Avoid open ground near the drone. If you are in a forest or open field, get below ground level if you can.
 - Inside: stay away from windows and doors, in the middle of the building, in a room with solid walls.
-- Call 112 if you see a drone near a critical site (power station, airport, port, water treatment plant) or find a crashed drone.
+- Call 112 if you see a drone near a critical site (power station, airport, port, water treatment plant) or find a crashed drone. If you cannot get through, have someone else call or ask for help nearby (see Emergency numbers in the app, If you cannot call).
 
 ### Where not to go
 
@@ -182,7 +192,7 @@ Finland gives separate guidelines for drones. The danger zone of explosives can 
 - After the all-clear: help injured people and people who are trapped (MCF).
 - Take only what you have immediately to hand. Sweden recommends water, food that you can eat at room temperature, identity document, money, bank card, mobile phone and charger or power bank. For a civil defence shelter, allow for a few days.
 
-Source: [National Crisis Center: International armed conflict](https://crisiscenter.be/en/risks-belgium/security-risks/international-armed-conflict-iac) · [BBK: Explosionen, hier finden Sie Schutz](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Vorsorge/Schutz-suchen/Schutz-vor-Explosion/schutz-vor-explosion_node.html) · [MCF: In case of crisis or war](https://rib.msb.se/filer/pdf/31523.pdf) · [MCF: About the warning and information systems](https://www.mcf.se/en/advice-for-individuals/civil-defence-shelters-evacuation-and-warning-systems/public-service-announcement-and-other-varnings/about-the-warning--and-information-systems/) · [Suomi.fi: Threat from the air](https://www.suomi.fi/guides/preparedness/how-to-prepare-for-incidents-and-crises/threat-from-the-air) · [TNO: Sheltering options during air attacks](https://www.tweedekamer.nl/downloads/document?id=2026D56281) · [Dovidka.info: What is a shelter](https://dovidka.info/en/what-is-shelter/)
+Source: [National Crisis Center: International armed conflict](https://crisiscenter.be/en/risks-belgium/security-risks/international-armed-conflict-iac) · [BBK: Explosionen, hier finden Sie Schutz](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Vorsorge/Schutz-suchen/Schutz-vor-Explosion/schutz-vor-explosion_node.html) · [MCF: In case of crisis or war](https://rib.msb.se/filer/pdf/31523.pdf) · [MCF: About the warning and information systems](https://www.mcf.se/en/advice-for-individuals/civil-defence-shelters-evacuation-and-warning-systems/public-service-announcement-and-other-varnings/about-the-warning--and-information-systems/) · [Suomi.fi: Threat from the air](https://www.suomi.fi/guides/preparedness/how-to-prepare-for-incidents-and-crises/threat-from-the-air) · [TNO: Sheltering options during air attacks](https://www.tweedekamer.nl/downloads/document?id=2026D56281) · [Dovidka.info: What is a shelter](https://dovidka.info/en/what-is-shelter/) · [112.be: Frequently asked questions](https://112.be/en/frequently-asked-questions) · [FPS Economy: questions from households about electricity shortage](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door)
 
 ## Explosion nearby
 
@@ -201,6 +211,7 @@ This is about an explosion caused by an accident or an attack, without an air ra
 - Speak to other people to warn them or call 112.
 - Stay near the incident, but outside the danger zone, so that the emergency services can take care of you.
 - If you are outside: go to a safe place and call 112.
+- If you cannot get through, have someone else call or ask for help nearby (see Emergency numbers in the app, If you cannot call).
 
 ### If a building is damaged
 
@@ -218,9 +229,9 @@ This is about an explosion caused by an accident or an attack, without an air ra
 
 ### How long and when to leave
 
-If you are in a safe place, away from the incident: stay where you are, preferably inside. Avoid moving around, so that you do not obstruct the emergency services. Do not go and look. Let your family know that you are safe, preferably by text message or social media. Then follow the instructions of the authorities: an explosion can have other consequences, especially if chemical substances were involved.
+If you are in a safe place, away from the incident: stay where you are, preferably inside. Avoid moving around, so that you do not obstruct the emergency services. Do not go and look. If the network works, let your family know that you are safe, preferably by text message or social media. That is why you should agree in advance with your family where you will meet if you cannot reach each other. Then follow the instructions of the authorities on the radio: an explosion can have other consequences, especially if chemical substances were involved.
 
-Source: [National Crisis Center: Explosion of explosive substances](https://crisiscenter.be/en/risks-belgium/technological-risks/discharge-explosive-substances) · [National Crisis Center: Attack on a soft target](https://crisiscenter.be/en/risks-belgium/security-risks/attack-against-soft-target) · [BBK: Explosionen, hier finden Sie Schutz](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Vorsorge/Schutz-suchen/Schutz-vor-Explosion/schutz-vor-explosion_node.html) · [Ready.gov: Explosions](https://www.ready.gov/explosions)
+Source: [National Crisis Center: Explosion of explosive substances](https://crisiscenter.be/en/risks-belgium/technological-risks/discharge-explosive-substances) · [National Crisis Center: Attack on a soft target](https://crisiscenter.be/en/risks-belgium/security-risks/attack-against-soft-target) · [BBK: Explosionen, hier finden Sie Schutz](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Vorsorge/Schutz-suchen/Schutz-vor-Explosion/schutz-vor-explosion_node.html) · [Ready.gov: Explosions](https://www.ready.gov/explosions) · [National Crisis Center: Disruption of the digital infrastructure](https://crisiscenter.be/en/risks-belgium/societal-risks/failure-digital-infrastructure) · [112.be: Frequently asked questions](https://112.be/en/frequently-asked-questions) · [FPS Economy: questions from households about electricity shortage](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door)
 
 ## Radioactive fallout
 
@@ -244,7 +255,7 @@ The Belgian advice (central room on the ground floor) and the German advice (as 
 | On foot | Go into the nearest building |
 | Car, close to a building | Go inside immediately |
 | Car, no building within reach | Park in a safe place or drive at right angles to the wind direction; engine off, windows closed, air conditioning off, listen to the radio |
-| Open ground without buildings | Call 112 (Crisis Center, general sheltering guideline) |
+| Open ground without buildings | Call 112 (Crisis Center, general sheltering guideline). If you cannot get through: move further away from the emergency until you find a safe and accessible building (Crisis Center, sheltering on the move) |
 
 ### How long
 
@@ -286,7 +297,7 @@ Leave the building (BBK). If possible, do not go through the contaminated zone; 
 
 ### How long and when to leave
 
-Stay inside until you are told that it is safe, also in order to help others (Ready.gov). Leave children at school. Use text messages or the internet instead of calling. Sometimes you have to evacuate: do so only on the instructions of the emergency services. After the accident there may be an impact on drinking water, vegetables from the garden and livestock: follow the instructions.
+Stay inside until you are told that it is safe, also in order to help others (Ready.gov). Listen to the radio for this. Leave children at school. Do not make unnecessary calls; if the network works, use text messages or the internet instead of calling. Sometimes you have to evacuate: do so only on the instructions of the emergency services. After the accident there may be an impact on drinking water, vegetables from the garden and livestock: follow the instructions.
 
 Source: [National Crisis Center: Release of chemical substances](https://crisiscenter.be/en/risks-belgium/technological-risks/release-chemical-substances) · [National Crisis Center: Sheltering](https://crisiscenter.be/en/what-can-you-do/right-reflex/seeking-shelter) · [BBK: Schutz suchen](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Vorsorge/Schutz-suchen/schutz-suchen_node.html) · [BBK: Die unterschiedlichen Gefahrstoffe](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Vorsorge/Schutz-suchen/Gefahrstoff-Freisetzung/_documents/gefahrstoff-unterschiede_dossier1.html?nn=20588) · [BBK: Verhalten im Freien oder im Auto](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Vorsorge/Schutz-suchen/Gefahrstoff-Freisetzung/_documents/gefahrstoff-im-auto-und-im-freien_dossier3.html?nn=20588) · [Sebeochrana ukrytím](https://mv.gov.cz/clanek/sebeochrana-ukrytim.aspx) · [Suomi.fi: Spreading of dangerous substances](https://www.suomi.fi/guides/preparedness/how-to-prepare-for-incidents-and-crises/spreading-of-dangerous-substances-into-the-environment) · [Ready.gov: Hazardous materials](https://www.ready.gov/hazmat)
 
@@ -359,7 +370,7 @@ Ready.gov says that in a car there is no safe option, only less dangerous ones. 
 
 ### How long and when to leave
 
-Stay inside until the storm has passed. Finland: do not go outside to repair damage during the storm. Afterwards, do not touch cables lying on the ground (Crisis Center). For non-urgent help: 1722 or the online counter 1722.be; keep 112 free for life-threatening situations.
+Stay inside until the storm has passed. Finland: do not go outside to repair damage during the storm. Afterwards, do not touch cables lying on the ground (Crisis Center). If the network works, use 1722 or the online counter 1722.be for non-urgent help; keep 112 free for life-threatening situations.
 
 Source: [National Crisis Center: Wind and storm](https://crisiscenter.be/en/risks-belgium/natural-risks/wind) · [National Crisis Center: Tornado](https://crisiscenter.be/en/risks-belgium/natural-risks/tornado) · [RMI: How do I protect myself against lightning](https://www.meteo.be/nl/info/veelgestelde-vragen/hoe-je-beschermen-tegen-gevaarlijk-weer/hoe-bescherm-ik-me-tegen-bliksem) · [Ready.gov: Tornadoes](https://www.ready.gov/tornadoes)
 
@@ -367,16 +378,16 @@ Source: [National Crisis Center: Wind and storm](https://crisiscenter.be/en/risk
 
 ### Order of preference
 
-1. **If you live near a forest or nature area:** call 112 if you see a fire. Close windows and doors. Do not evacuate on your own initiative, wait for the recommendations (Crisis Center).
+1. **If you live near a forest or nature area:** call 112 if you see a fire. If you cannot get through, have someone else call or ask for help nearby. Close windows and doors. Do not evacuate on your own initiative, wait for the recommendations (Crisis Center).
 2. **If you are in the forest:** get yourself to safety. Follow paths that lead away from the fire and the column of smoke, preferably at right angles to the wind direction. Flee to a public road, a large paved area or a built-up area (Crisis Center).
 3. **If there is smoke but no order to evacuate:** stay inside in a safe room, windows closed and ventilation off (Finland), or go to a community building where there is less smoke (Ready.gov).
 4. **Emergency solution if you are trapped:** call 112 and give your location. Help may be delayed. Turn on lights so that rescuers can find you (Ready.gov).
 
 ### What to do immediately
 
-- Give your location as accurately as possible with recognisable landmarks: paths, pools, lookout towers, car parks. Use the 112 app if you can (Crisis Center).
+- Give your location as accurately as possible with recognisable landmarks: paths, pools, lookout towers, car parks. If the network works, also use the 112 app (Crisis Center).
 - Help others to a safe place.
-- No mobile phone or signal: evacuate as quickly as possible and alert people.
+- No mobile phone or signal: evacuate as quickly as possible and alert people. See also Emergency numbers in the app, If you cannot call.
 - If you have to move outside: protect your airways with a mask or scarf. Finland adds that this does not protect against toxic gases.
 - Shut off the electricity and gas if you leave the house (Crisis Center).
 - Ready.gov recommends choosing a room in advance that you can seal off from the outside air.
@@ -387,7 +398,7 @@ Source: [National Crisis Center: Wind and storm](https://crisiscenter.be/en/risk
 - Do not go back to the area without permission from the emergency services (Crisis Center).
 - Stay away from hot ash, charred trees and smouldering debris (Ready.gov).
 
-Source: [National Crisis Center: Wildfire](https://crisiscenter.be/en/risks-belgium/natural-risks/wildfires) · [Suomi.fi: Wildfires and major building fires](https://www.suomi.fi/guides/preparedness/how-to-prepare-for-incidents-and-crises/wildfires-and-major-building-fires) · [Ready.gov: Wildfires](https://www.ready.gov/wildfires)
+Source: [National Crisis Center: Wildfire](https://crisiscenter.be/en/risks-belgium/natural-risks/wildfires) · [Suomi.fi: Wildfires and major building fires](https://www.suomi.fi/guides/preparedness/how-to-prepare-for-incidents-and-crises/wildfires-and-major-building-fires) · [Ready.gov: Wildfires](https://www.ready.gov/wildfires) · [112.be: Frequently asked questions](https://112.be/en/frequently-asked-questions) · [FPS Economy: questions from households about electricity shortage](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door)
 
 ## Earthquake
 
@@ -406,7 +417,7 @@ The United States gives a different order: stay inside and do not run outside; a
 
 ### Afterwards
 
-Be prepared for aftershocks. Do not smoke and do not make fire or sparks. Do not go back into a home that seems unsafe to you. Shut off the gas and electricity when you return and have the chimney checked (Crisis Center). If you are trapped: send a message, knock on a pipe or wall and use a whistle instead of shouting (Ready.gov).
+Be prepared for aftershocks. Do not smoke and do not make fire or sparks. Do not go back into a home that seems unsafe to you. Shut off the gas and electricity when you return and have the chimney checked (Crisis Center). If you are trapped: knock on a pipe or wall and use a whistle instead of shouting. If the network works, also send a message (Ready.gov).
 
 Source: [National Crisis Center: Earthquake](https://crisiscenter.be/en/risks-belgium/natural-risks/earthquake) · [Ready.gov: Earthquakes](https://www.ready.gov/earthquakes)
 
@@ -423,7 +434,7 @@ For someone with a weapon, the Crisis Center gives three steps: run away if it i
    - Lock the door or block it if you can.
    - Stay quiet. Put your mobile phone on silent.
    - The Netherlands: hide in a place with thick walls or lock yourself in.
-3. **Raise the alarm:** call 112 if you can, or use the 112 app, which lets you chat if you cannot speak (Crisis Center). Give information about the attacker and the location (Denk vooruit).
+3. **Raise the alarm:** call 112 if you can. If the network works but you cannot speak, use the 112 app to chat (Crisis Center). Give information about the attacker and the location (Denk vooruit). If you cannot get through, have someone else call or ask for help nearby (see Emergency numbers in the app, If you cannot call).
 
 The United States also mentions disrupting the attack as a last resort. The Belgian, Dutch and Finnish sources do not mention this.
 
@@ -431,14 +442,14 @@ The United States also mentions disrupting the attack as a last resort. The Belg
 
 - Stay where you are, preferably inside. Do not move around, so that you do not obstruct the emergency services.
 - Do not go and look at what is happening. Finland: do not go back to look at the situation.
-- Let your family know that you are safe, preferably by text message or social media.
+- If the network works, let your family know that you are safe, preferably by text message or social media. If it does not, the place you agreed with your family in advance helps you find each other again.
 - Follow the directions of the emergency responders.
 
 ### Preparing
 
 In crowded places, first check how you can get away quickly and where the emergency exits are (Denk vooruit). If you see a suspicious object or person: call 101 and do not touch the object (Crisis Center).
 
-Source: [National Crisis Center: Attack on a soft target](https://crisiscenter.be/en/risks-belgium/security-risks/attack-against-soft-target) · [Denk vooruit: An attack](https://www.denkvooruit.nl/risicos/risicos-in-nederland/een-aanslag) · [Ready.gov: Mass gatherings incidents](https://www.ready.gov/mass-gatherings-incidents)
+Source: [National Crisis Center: Attack on a soft target](https://crisiscenter.be/en/risks-belgium/security-risks/attack-against-soft-target) · [Denk vooruit: An attack](https://www.denkvooruit.nl/risicos/risicos-in-nederland/een-aanslag) · [Ready.gov: Mass gatherings incidents](https://www.ready.gov/mass-gatherings-incidents) · [National Crisis Center: Disruption of the digital infrastructure](https://crisiscenter.be/en/risks-belgium/societal-risks/failure-digital-infrastructure) · [112.be: Frequently asked questions](https://112.be/en/frequently-asked-questions) · [FPS Economy: questions from households about electricity shortage](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door)
 
 ## Heatwave
 
@@ -457,9 +468,9 @@ Source: [National Crisis Center: Attack on a soft target](https://crisiscenter.b
 - Never leave people or animals in a parked vehicle.
 - Ready.gov: a fan is not a good primary means of cooling. It gives a false sense of comfort but does not lower body temperature. Close curtains and use the oven less.
 - Call on people who need help (Crisis Center).
-- Call your GP in case of cramps, high fever, headache or fainting; call 112 only if a life is in danger.
+- If the network works, call your GP in case of cramps, high fever, headache or fainting. Call 112 only if a life is in danger. If you cannot get through, have someone else call or ask for help nearby (see Emergency numbers in the app, If you cannot call).
 
-Source: [National Crisis Center: Heatwave](https://crisiscenter.be/en/risks-belgium/natural-risks/heatwave) · [Ready.gov: Extreme heat](https://www.ready.gov/heat)
+Source: [National Crisis Center: Heatwave](https://crisiscenter.be/en/risks-belgium/natural-risks/heatwave) · [Ready.gov: Extreme heat](https://www.ready.gov/heat) · [112.be: Frequently asked questions](https://112.be/en/frequently-asked-questions) · [FPS Economy: questions from households about electricity shortage](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door)
 
 ## Extreme cold, snow and freezing rain
 
@@ -508,10 +519,10 @@ Source: [Ready.gov: Radiation emergencies](https://www.ready.gov/radiation) · [
 
 ## Children, vulnerable people and animals
 
-- **Children at school or in childcare:** leave them there and do not go to collect them. Teachers follow their internal emergency plan. Otherwise you create traffic jams, obstruct the emergency services and put yourself and the children in danger. The school will let you know when you can collect your child. Also register the school's address in BE-Alert (Crisis Center).
+- **Children at school or in childcare:** leave them there and do not go to collect them. Teachers follow their internal emergency plan. Otherwise you create traffic jams, obstruct the emergency services and put yourself and the children in danger. The school will let you know when you can collect your child. Also register the school's address in BE-Alert in advance (Crisis Center).
 - **During an air raid alert in Ukraine**, parents who come to drop off or collect their child may go into the school's shelter until the alert is over.
 - **People who need help:** discuss the three steps of sheltering in advance with family, neighbours or colleagues and make arrangements. Let others shelter with you if necessary (Crisis Center). Sweden recommends arranging transport to a shelter in advance; assistance dogs are welcome in Swedish civil defence shelters.
 - **Pets:** first follow the instructions for your own safety. If you can let your animals shelter safely without risk to yourself, do so (Crisis Center). During an air raid alert in Sweden you may take your pet to cellars, garages and metro stations.
-- **Warn others** that they need to shelter, preferably via WhatsApp, Signal or social media, so that the telephone network does not become overloaded.
+- **Warn the people around you** that they need to shelter. If the network works, preferably use WhatsApp, Signal or social media, so that the telephone network does not become overloaded (Crisis Center).
 
 Source: [National Crisis Center: Sheltering](https://crisiscenter.be/en/what-can-you-do/right-reflex/seeking-shelter) · [Dovidka.info: What is a shelter](https://dovidka.info/en/what-is-shelter/) · [MCF: In case of crisis or war](https://rib.msb.se/filer/pdf/31523.pdf)
