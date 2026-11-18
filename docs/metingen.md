@@ -6,7 +6,7 @@ De laag dierenartsen kwam alleen uit OpenStreetMap: 846 punten, en in 214 van de
 
 - VKBO: 2.376 records. 399 zetels vallen weg omdat hun vestigingen apart op de kaart staan. 162 inschrijvingen op hetzelfde adres als een andere zijn samengevoegd. Er blijven 1.815 plekken over, waarvan 11 waarvan het adres niet gevonden werd.
 - Op de kaart: **2.423 punten** (was 846). Daarvan 1.804 uit de VKBO, waarvan 227 ook in OpenStreetMap stonden, en 619 alleen uit OpenStreetMap (vooral eenmanszaken, die niet in de VKBO staan, en Wallonië en Brussel).
-- Zekerheid: 639 VKBO-punten zijn zeker een praktijk (handelsnaam, vennootschap met personeel, of ook in OSM). 1.165 zijn onzeker: een inschrijving zonder handelsnaam, vaak de vennootschap van één dierenarts op het woonadres. Die staan als open ring op de kaart, met "Bel eerst" in de pop-up.
+- Zekerheid: 664 VKBO-punten zijn zeker een praktijk (handelsnaam, vennootschap met personeel, een vestiging op het adres van zo'n vennootschap, of ook in OSM). 1.140 zijn onzeker: een inschrijving zonder handelsnaam, vaak de vennootschap van één dierenarts op het woonadres. Die staan als open ring op de kaart, met "Bel eerst" in de pop-up.
 - Vlaanderen: 446 punten voor, 2.023 na; gemeenten zonder dierenarts van 98 naar 8 (Baarle-Hertog, Drogenbos, Linkebeek, Wemmel, Boortmeerbeek, Nieuwerkerken, Dilsen-Stokkem, Herstappe). Daar staat geen vennootschap met NACE 75.000 ingeschreven; een dierenarts als eenmanszaak kan er wel zijn.
 - Wallonië en Brussel: ongewijzigd. De volledige KBO (ook eenmanszaken, heel België) vraagt een account en schriftelijke toestemming voor publicatie (aanvraag 11 in kaartdata.md).
 
@@ -14,18 +14,18 @@ De laag dierenartsen kwam alleen uit OpenStreetMap: 846 punten, en in 214 van de
 
 | Provincie | Gemeenten | Zonder punt voor | Zonder punt na | Voor (OSM) | Na | Officieel | OSM | Waarvan onzeker |
 | --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
-| Antwerpen | 67 | 20 | 1 | 113 | 559 | 514 | 45 | 343 |
+| Antwerpen | 67 | 20 | 1 | 113 | 559 | 514 | 45 | 337 |
 | Brussels Hoofdstedelijk Gewest | 19 | 2 | 2 | 47 | 47 | 0 | 47 | 0 |
 | Henegouwen | 69 | 19 | 19 | 129 | 129 | 0 | 129 | 0 |
-| Limburg | 38 | 14 | 3 | 47 | 267 | 250 | 17 | 134 |
+| Limburg | 38 | 14 | 3 | 47 | 267 | 250 | 17 | 128 |
 | Luik | 84 | 48 | 48 | 84 | 84 | 0 | 84 | 0 |
 | Luxemburg | 43 | 26 | 26 | 47 | 47 | 0 | 47 | 0 |
 | Namen | 38 | 18 | 18 | 43 | 43 | 0 | 43 | 0 |
-| Oost-Vlaanderen | 55 | 21 | 0 | 106 | 456 | 402 | 54 | 271 |
-| Vlaams-Brabant | 63 | 20 | 4 | 95 | 322 | 267 | 55 | 164 |
+| Oost-Vlaanderen | 55 | 21 | 0 | 106 | 456 | 402 | 54 | 265 |
+| Vlaams-Brabant | 63 | 20 | 4 | 95 | 322 | 267 | 55 | 161 |
 | Waals-Brabant | 27 | 3 | 3 | 50 | 50 | 0 | 50 | 0 |
-| West-Vlaanderen | 62 | 23 | 0 | 85 | 419 | 371 | 48 | 253 |
-| **totaal** | **565** | **214** | **124** | **846** | **2423** | **1804** | **619** | **1165** |
+| West-Vlaanderen | 62 | 23 | 0 | 85 | 419 | 371 | 48 | 249 |
+| **totaal** | **565** | **214** | **124** | **846** | **2423** | **1804** | **619** | **1140** |
 
 "Onzeker" telt de punten met `praktijk = onzeker`. De punten alleen uit OpenStreetMap hebben geen zekerheidslabel.
 

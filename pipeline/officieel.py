@@ -484,6 +484,7 @@ def _vkbo_vet(b, vernieuw):
 
     Wat zeker is en wat niet ('praktijk'):
       vestigingseenheid met handelsnaam               -> "praktijk"
+      vestigingseenheid op het adres van een zetel met personeel -> "praktijk"
       vestigingseenheid zonder handelsnaam            -> "onzeker"
       maatschappelijke zetel zonder vestigingseenheid -> "praktijk" met handelsnaam of personeel, anders "onzeker"
                                                           (vaak de vennootschap van één dierenarts op het woonadres)
@@ -503,6 +504,12 @@ def _vkbo_vet(b, vernieuw):
                      if not _tekst(f["properties"].get("Type_onderneming"))}
     ondernemingen = {_tekst(f["properties"].get("Ondernemingsnr")) for f in fs
                      if _tekst(f["properties"].get("Type_onderneming"))}
+    # Zetels met personeel, en hun adres: een vestiging op hetzelfde adres is dan de praktijk zelf.
+    def _adres_sleutel(q):
+        return (_tekst(q.get("KBO_Straat")).lower(), _tekst(q.get("KBO_Huisnr")).lower(), _tekst(q.get("KBO_Postcode")))
+    zetel_personeel = {_tekst(f["properties"].get("Ondernemingsnr")): _adres_sleutel(f["properties"]) for f in fs
+                       if _tekst(f["properties"].get("Type_onderneming"))
+                       and _tekst(f["properties"].get("Personeelsklasse")) not in ("", "0 tot 0")}
     uit, weg = [], 0
     for f in fs:
         p = f["properties"]
@@ -525,7 +532,9 @@ def _vkbo_vet(b, vernieuw):
             naam = naam.title()
         personeel = _tekst(p.get("Personeelsklasse")) not in ("", "0 tot 0")
         if vestiging:
-            praktijk = "praktijk" if handelsnaam else "onzeker"
+            zetel = _tekst(p.get("Ondernemingsnr_maatsch_zetel"))
+            met_personeel = zetel_personeel.get(zetel) == _adres_sleutel(p)
+            praktijk = "praktijk" if (handelsnaam or met_personeel) else "onzeker"
         else:
             praktijk = "praktijk" if (handelsnaam or personeel) else "onzeker"
         straat, huisnr = _tekst(p.get("KBO_Straat")), _tekst(p.get("KBO_Huisnr"))

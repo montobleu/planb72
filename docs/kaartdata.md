@@ -63,7 +63,7 @@ Een ondernemingsregister zegt waar een dierenarts ingeschreven is, niet of daar 
 
 | `praktijk` | Wanneer | Op de kaart | Pop-up |
 | --- | --- | --- | --- |
-| `praktijk` | vestigingseenheid met handelsnaam; zetel van een vennootschap met handelsnaam of personeel; of dezelfde plek staat ook in OpenStreetMap | volle stip | "Zeker: ingeschreven vestiging met een handelsnaam of van een vennootschap. Niet zeker: openingsuren en of ze nu open is." |
+| `praktijk` | vestigingseenheid met handelsnaam of op het adres van een vennootschap met personeel; zetel van een vennootschap met handelsnaam of personeel; of dezelfde plek staat ook in OpenStreetMap | volle stip | "Zeker: ingeschreven vestiging met een handelsnaam of van een vennootschap. Niet zeker: openingsuren en of ze nu open is." |
 | `onzeker` | vestigingseenheid zonder handelsnaam; zetel zonder vestiging, handelsnaam of personeel | open ring | "Zeker: hier is een dierenarts ingeschreven. Niet zeker: of hier een praktijk is die je kunt bezoeken (mogelijk een thuisadres of een dierenarts zonder vaste praktijk). Bel eerst." |
 | (niet op de kaart) | maatschappelijke zetel van een vennootschap die elders vestigingseenheden heeft | | |
 
