@@ -8,7 +8,7 @@ const nl = {
     titel: 'PlanB72 — noodinformatie die werkt zonder internet',
     beschrijving: 'Gratis, open-source noodbibliotheek die werkt zonder internet: wat nu te doen, noodnummers, offline kaarten en nucleaire informatie.',
   },
-  menu: { app: 'App', download: 'Downloaden', meehelpen: 'Bijdragen', bronnen: 'Bronnen', over: 'Over PlanB72', licht: 'Licht', donker: 'Donker', taal: 'Taal', navigatie: 'Hoofdmenu' },
+  menu: { app: 'App', gidsen: 'Gidsen', download: 'Downloaden', meehelpen: 'Bijdragen', bronnen: 'Bronnen', over: 'Over PlanB72', licht: 'Licht', donker: 'Donker', taal: 'Taal', navigatie: 'Hoofdmenu' },
   voet: {
     over: 'Onafhankelijk open-sourceproject. Geen overheidsdienst en geen vervanging van de hulpdiensten. Bij levensgevaar: bel 112.',
     project: 'Project', meedoen: 'Meedoen',
@@ -167,7 +167,7 @@ const fr: Teksten = {
     titel: 'PlanB72 — informations d\'urgence disponibles sans internet',
     beschrijving: 'Bibliothèque d\'urgence gratuite et open source qui fonctionne sans internet : que faire, numéros d\'urgence, cartes hors ligne et informations nucléaires.',
   },
-  menu: { app: 'Application', download: 'Télécharger', meehelpen: 'Contribuer', bronnen: 'Sources', over: 'À propos', licht: 'Clair', donker: 'Sombre', taal: 'Langue', navigatie: 'Menu principal' },
+  menu: { app: 'Application', gidsen: 'Guides', download: 'Télécharger', meehelpen: 'Contribuer', bronnen: 'Sources', over: 'À propos', licht: 'Clair', donker: 'Sombre', taal: 'Langue', navigatie: 'Menu principal' },
   voet: {
     over: 'Projet open source indépendant. Ni service public, ni substitut aux services de secours. En cas de danger de mort : appelez le 112.',
     project: 'Projet', meedoen: 'Participer',
@@ -324,7 +324,7 @@ const de: Teksten = {
     titel: 'PlanB72 — Notfallinformationen ohne Internet',
     beschrijving: 'Kostenlose Open-Source-Notfallbibliothek, die ohne Internet funktioniert: was jetzt zu tun ist, Notrufnummern, Offline-Karten und Informationen zu Kernanlagen.',
   },
-  menu: { app: 'App', download: 'Download', meehelpen: 'Mitwirken', bronnen: 'Quellen', over: 'Über PlanB72', licht: 'Hell', donker: 'Dunkel', taal: 'Sprache', navigatie: 'Hauptmenü' },
+  menu: { app: 'App', gidsen: 'Ratgeber', download: 'Download', meehelpen: 'Mitwirken', bronnen: 'Quellen', over: 'Über PlanB72', licht: 'Hell', donker: 'Dunkel', taal: 'Sprache', navigatie: 'Hauptmenü' },
   voet: {
     over: 'Unabhängiges Open-Source-Projekt. Kein behördlicher Dienst und kein Ersatz für die Rettungsdienste. Bei Lebensgefahr: 112 anrufen.',
     project: 'Projekt', meedoen: 'Mitmachen',
@@ -481,7 +481,7 @@ const en: Teksten = {
     titel: 'PlanB72 — emergency information that works offline',
     beschrijving: 'Free, open-source emergency library that works without internet: what to do now, emergency numbers, offline maps and nuclear information.',
   },
-  menu: { app: 'App', download: 'Download', meehelpen: 'Contribute', bronnen: 'Sources', over: 'About', licht: 'Light', donker: 'Dark', taal: 'Language', navigatie: 'Main menu' },
+  menu: { app: 'App', gidsen: 'Guides', download: 'Download', meehelpen: 'Contribute', bronnen: 'Sources', over: 'About', licht: 'Light', donker: 'Dark', taal: 'Language', navigatie: 'Main menu' },
   voet: {
     over: 'Independent open-source project. Not a government service and not a substitute for the emergency services. In a life-threatening emergency, call 112.',
     project: 'Project', meedoen: 'Get involved',

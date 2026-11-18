@@ -29,7 +29,7 @@ const gidsen = defineCollection({
   loader: glob({ pattern: '*.md', base: './src/content/gidsen' }),
   schema: z.object({
     ...basis,
-    module: z.enum(['schuilen', 'nucleair', 'water', 'voedsel', 'warmte', 'energie', 'hygiene', 'evacuatie', 'communicatie', 'dieren', 'voorbereiding', 'gezondheid', 'buiten']),
+    module: z.enum(['schuilen', 'nucleair', 'water', 'voedsel', 'warmte', 'energie', 'hygiene', 'evacuatie', 'communicatie', 'dieren', 'voorbereiding', 'gezondheid', 'buiten', 'kinderen']),
   }),
 });
 

@@ -89,7 +89,8 @@ export default function rehypeBron() {
     if (!lijst.length) return;
     tree.children.push({
       type: 'element', tagName: 'section',
-      properties: { className: ['bronvermelding'], ariaLabelledby: 'bronnen-kop' },
+      // Niet in de zoekindex: de bronnenlijst staat op elke pagina en maakt de offline kern groter.
+      properties: { className: ['bronvermelding'], ariaLabelledby: 'bronnen-kop', dataPagefindIgnore: '' },
       children: [
         { type: 'element', tagName: 'h2', properties: { id: 'bronnen-kop' }, children: [{ type: 'text', value: TITEL[taal] }] },
         {

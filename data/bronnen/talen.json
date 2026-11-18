@@ -1161,6 +1161,41 @@
       "de": null,
       "en": null,
       "opmerking": "Via de taalkiezer (switch-language/1607). DE/EN vallen terug op de startpagina, dus null."
+    },
+    "https://www.unicef.org/parenting/emergencies/how-support-your-child-during-conflict-and-crisis-situations": {
+      "nl_actueel": "https://www.unicef.org/parenting/emergencies/how-support-your-child-during-conflict-and-crisis-situations",
+      "fr": "https://www.unicef.org/parenting/fr/urgences/comment-soutenir-votre-enfant-durant-les-situations-de-crise-et-de-conflit",
+      "de": null,
+      "en": "https://www.unicef.org/parenting/emergencies/how-support-your-child-during-conflict-and-crisis-situations",
+      "opmerking": "Franse versie via hreflang (UNICEF Parenting); geen Duitse versie. Nagekeken op HTTP 200 op 2026-11-18."
+    },
+    "https://www.unicef.org/parenting/child-care/how-to-recognize-signs-of-distress": {
+      "nl_actueel": "https://www.unicef.org/parenting/child-care/how-to-recognize-signs-of-distress",
+      "fr": "https://www.unicef.org/parenting/fr/soins-attentifs/reconnaitre-les-signes-de-stress-chez-les-enfants",
+      "de": null,
+      "en": "https://www.unicef.org/parenting/child-care/how-to-recognize-signs-of-distress",
+      "opmerking": "Franse versie via hreflang (UNICEF Parenting); geen Duitse versie. Nagekeken op HTTP 200 op 2026-11-18."
+    },
+    "https://www.unicef.org/parenting/child-care/how-talk-your-children-about-conflict-and-war": {
+      "nl_actueel": "https://www.unicef.org/parenting/child-care/how-talk-your-children-about-conflict-and-war",
+      "fr": "https://www.unicef.org/parenting/fr/soins-attentifs/comment-parler-des-conflits-et-de-la-guerre-a-vos-enfants",
+      "de": null,
+      "en": "https://www.unicef.org/parenting/child-care/how-talk-your-children-about-conflict-and-war",
+      "opmerking": "Franse versie via hreflang (UNICEF Parenting); geen Duitse versie. Nagekeken op HTTP 200 op 2026-11-18."
+    },
+    "https://www.meteo.be/nl/info/weerwoorden/beaufortschaal": {
+      "nl_actueel": "https://www.meteo.be/nl/info/weerwoorden/beaufortschaal",
+      "fr": "https://www.meteo.be/fr/infos/dico-meteo/beaufort",
+      "de": null,
+      "en": null,
+      "opmerking": "Franse versie via de taalkeuze van meteo.be; Duits en Engels leiden naar de startpagina. Nagekeken op HTTP 200 op 2026-11-18."
+    },
+    "https://www.meteo.be/nl/info/weerwoorden/wolkengeslachten": {
+      "nl_actueel": "https://www.meteo.be/nl/info/weerwoorden/wolkengeslachten",
+      "fr": "https://www.meteo.be/fr/infos/dico-meteo/types-de-nuages",
+      "de": null,
+      "en": null,
+      "opmerking": "Franse versie via de taalkeuze van meteo.be; Duits en Engels leiden naar de startpagina. Nagekeken op HTTP 200 op 2026-11-18."
     }
   },
   "domeinen": {
