@@ -4,7 +4,7 @@ import { landenVoor, APP_VERSIE } from '../../../../lib/data';
 import { LAGEN } from '../../../../lib/lagen';
 import KleurschemaKeuze from '../../../../components/KleurschemaKeuze.astro';
 import { APP } from '../../../../i18n/app';
-import { TALEN, TAALNAMEN, VERTAALSTATUS, pad, taalPaden, taalVan } from '../../../../i18n/talen';
+import { TALEN, TAALNAMEN, pad, taalPaden, taalVan } from '../../../../i18n/talen';
 export const getStaticPaths = taalPaden;
 const taal = taalVan(Astro.params);
 const t = APP[taal].pakket;
@@ -47,7 +47,6 @@ import RoutePakketten from '../../../../components/RoutePakketten.astro';
       {TALEN.map((l) => (
         <li>
           <a href={pad(l, '/app/pakket/')} hreflang={l} lang={l} data-taalkeuze={l} aria-current={l === taal ? 'true' : undefined}>{TAALNAMEN[l]}</a>
-          <span class="klein">{VERTAALSTATUS[l] === 'bron' ? t.taalStatus.bron : t.taalStatus.machine}</span>
         </li>
       ))}
     </ul>

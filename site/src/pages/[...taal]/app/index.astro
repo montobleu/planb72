@@ -28,7 +28,6 @@ const tl = APP[taal].landen;
     </section>
   ))}
 
-  {taal !== 'nl' && <p class="vertaalmelding klein" role="note" style="margin-top:1.5rem">{APP[taal].algemeen.interfaceVertaald}</p>}
   <p class="klein" style="margin-top:1.5rem">
     {landen.map((l) => <span data-land={l.code}>{t.voet(l.naam, l.bijgewerkt)} · </span>)}
     <a href={pad(taal, '/app/pakket/#landen')}>{tl.anderLand}</a>

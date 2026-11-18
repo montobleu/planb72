@@ -14,7 +14,7 @@ const planning = Object.fromEntries(landen.map((x) => [x.code, { naam: x.naam, c
 const kmTekst = (x: number | null) => (x === null ? '—' : `${x} km`);
 const l = (x: { lang: string }) => (x.lang !== taal ? x.lang : undefined);
 ---
-<App taal={taal} titel={t.titel} tab="meer" vertaalmelding>
+<App taal={taal} titel={t.titel} tab="meer">
   <h1>{t.titel}</h1>
   {landen.map((x) => (
     <div class="melding waarschuwing" data-land={x.code}>

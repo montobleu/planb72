@@ -7,7 +7,7 @@ export const getStaticPaths = taalPaden;
 const taal = taalVan(Astro.params);
 const t = APP[taal].checklists;
 ---
-<App taal={taal} titel={t.titel} tab="meer" vertaalmelding>
+<App taal={taal} titel={t.titel} tab="meer">
   <h1>{t.titel}</h1>
   <p class="dempen">{t.uitleg}</p>
   <p class="dempen">{t.herkomst}</p>

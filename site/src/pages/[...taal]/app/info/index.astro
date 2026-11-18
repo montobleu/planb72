@@ -11,7 +11,7 @@ const landen = landenVoor(taal);
 const tl = APP[taal].landen;
 const l = (x: { lang: string }) => (x.lang !== taal ? x.lang : undefined);
 ---
-<App taal={taal} titel={t.titel} tab="meer" vertaalmelding>
+<App taal={taal} titel={t.titel} tab="meer">
   <h1>{t.h1}</h1>
   <p class="dempen">{t.uitleg} <Fragment set:html={tl.welke(pad(taal, '/app/pakket/#landen'))} /></p>
   {landen.map((land) => (

@@ -42,11 +42,7 @@ Getallen, telefoonnummers, frequenties, eenheden en uren blijven gelijk aan het 
 
 ## Medisch, nucleair en chemisch
 
-Medische, nucleaire en chemische instructies worden niet stilzwijgend vertaald. Voor deze teksten toont de app in het Frans, Duits en Engels eerst de Nederlandse tekst en de officiële bron in de taal van de gebruiker, en de vertaling pas na een extra waarschuwing. Welke teksten dat zijn, staat in `site/src/lib/inhoud.ts`: alle eerste hulp, de scenario's nucleair, chemisch, CO, drinkwater en pandemie, de gidsen over nucleair en gezondheid, en de gidsen water, jodium, hygiëne en sanitair, en gevaren in de natuur. Een tekst kan er ook bij met `gevoelig: true` in de Nederlandse frontmatter.
-
-De Nederlandse tekst wordt daarbij uit de Nederlandse pagina gehaald, die al op het toestel staat, zodat hij niet twee keer in het offline pakket zit. Boven eerste hulp staat ook de erkende hulporganisatie in de taal van de gebruiker (`site/src/i18n/app.ts`, `eerstehulp.officieel`).
-
-Zo'n vertaling verschijnt pas zonder waarschuwing wanneer `vertaling: nagekeken` en `status: nagekeken` beide gelden en een zorgverlener of deskundige de vertaling heeft goedgekeurd (zie `docs/nazicht.md`).
+Medische, nucleaire en chemische teksten verschijnen in het Frans, Duits en Engels zoals elke andere vertaalde pagina: de vertaling, met onderaan bij de bronnen de link naar de Nederlandse tekst. Bij eerste hulp staat daar ook de erkende hulporganisatie in de taal van de gebruiker (`site/src/i18n/app.ts`, `eerstehulp.officieel`). Het veld `gevoelig` in de frontmatter heeft geen invloed meer op de weergave.
 
 ## Toon
 

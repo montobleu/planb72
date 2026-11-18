@@ -13,7 +13,7 @@ const water = Object.fromEntries(landen.map((x) => [x.code, x.voorraad.water_lit
 const namen = Object.fromEntries(landen.map((x) => [x.code, x.naam]));
 const isUrl = (s: string) => /^https?:\/\//.test(s);
 ---
-<App taal={taal} titel={t.titel} tab="meer" vertaalmelding>
+<App taal={taal} titel={t.titel} tab="meer">
   <h1>{t.titel}</h1>
   <p class="dempen">{t.uitleg}</p>
   <form id="planner" class="kaart-blok" data-water={JSON.stringify(water)} data-namen={JSON.stringify(namen)}>
