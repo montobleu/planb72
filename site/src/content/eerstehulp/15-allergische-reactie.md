@@ -1,9 +1,9 @@
 ---
 titel: Allergische reactie en anafylaxie
 volgorde: 15
-kort: "Bij een zware allergische reactie: bel 112, help de persoon zijn eigen adrenaline-auto-injector te gebruiken en leg hem neer, of laat hem zitten bij ademnood."
+kort: "Bij een zware allergische reactie: bel 112 of laat hulp halen, help de persoon zijn eigen adrenaline-auto-injector te gebruiken en leg hem neer, of laat hem zitten bij ademnood."
 status: concept
-datum: "2026-11-17"
+datum: "2026-11-18"
 bronnen:
   - naam: "Gezondheid en Wetenschap (Rode Kruis-Vlaanderen): Eerste hulp bij anafylactische shock"
     url: https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-anafylactische-shock
@@ -11,6 +11,10 @@ bronnen:
     url: https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-een-bijensteek
   - naam: "IFRC: International first aid, resuscitation, and education guidelines 2020"
     url: https://www.ifrc.org/sites/default/files/2022-02/EN_GFARC_GUIDELINES_2020.pdf
+  - naam: "European Resuscitation Council Guidelines 2021: First aid"
+    url: https://cprguidelines-old.erc.edu/assets/guidelines/European-Resuscitation-Council-Guidelines-2021-Fi.pdf
+  - naam: "112.be: Veelgestelde vragen"
+    url: https://112.be/nl/veelgestelde-vragen
 ---
 
 ## Herkennen
@@ -42,7 +46,7 @@ Bron: [Gezondheid en Wetenschap: Anafylactische shock](https://www.gezondheidenw
 
 1. Zorg voor je eigen veiligheid en die van het slachtoffer. Haal het slachtoffer weg van wat de reactie veroorzaakt, of verwijder dat, bijvoorbeeld door het van de huid te spoelen.
 2. Beoordeel de toestand: ga na wat er mis is, controleer het bewustzijn, open zo nodig de luchtweg en controleer de ademhaling.
-3. Bel 112 en zeg dat het om een allergische reactie gaat.
+3. Bel 112 of laat iemand bellen en zeg dat het om een allergische reactie gaat. Lukt bellen niet, zie Bel 112 als.
 4. Probeer ook een huisarts in de buurt te bereiken. Die heeft mogelijk adrenaline in voorraad en is soms sneller ter plaatse.
 5. Heeft het slachtoffer een eigen adrenaline-auto-injector bij zich, geef die dan aan het slachtoffer zodat het die zelf gebruikt. Help het daarbij. De beste plek is het midden van de buitenkant van de dij. Het mag door de kleding, als die niet dik is.
 6. Je mag de auto-injector niet op eigen initiatief toedienen. Doe het alleen als het slachtoffer er uitdrukkelijk om vraagt en het zelf niet meer kan.
@@ -60,7 +64,7 @@ Adrenaline kan bijwerkingen geven die ook bij de allergische reactie zelf kunnen
 
 ### Steek in mond of keel
 
-1. Bel direct 112.
+1. Bel direct 112 of laat iemand bellen. Lukt bellen niet, zie Bel 112 als.
 2. Laat het slachtoffer op ijs zuigen of de mond spoelen met koud water. Dat kan de zwelling tijdelijk verminderen.
 
 ### Bijensteek zonder zware reactie
@@ -85,13 +89,13 @@ Bron: [Gezondheid en Wetenschap: Anafylactische shock](https://www.gezondheidenw
 
 ## Als hulp lang op zich laat wachten
 
-- Volgens de IFRC kan een tweede auto-injector overwogen worden als de hulpdiensten er nog niet zijn en het slachtoffer binnen 5 tot 10 minuten na de eerste niet beter wordt. Dat geldt alleen voor de eigen, voorgeschreven auto-injector van het slachtoffer. Ook dan geldt de Belgische regel: het slachtoffer gebruikt die zelf, en jij dient hem alleen toe op uitdrukkelijke vraag als het dat zelf niet meer kan.
+- Een tweede auto-injector kan overwogen worden als de hulpdiensten er nog niet zijn en het slachtoffer binnen 5 tot 10 minuten na de eerste niet beter wordt. Dat geldt alleen voor de eigen, voorgeschreven auto-injector van het slachtoffer. Ook dan gebruikt het slachtoffer die zelf, en dien jij hem alleen toe op uitdrukkelijke vraag als het dat zelf niet meer kan.
 - Heeft het slachtoffer geen auto-injector, probeer dan op alle manieren medische hulp te bereiken: 112 en een huisarts in de buurt.
 - Een zware allergische reactie kan terugkomen nadat alles over leek, tussen 1 en 78 uur na het begin. Dat gebeurt vaker na een zware reactie of als er meer dan één auto-injector nodig was. Volg iemand die een zware reactie had of een auto-injector kreeg daarom de 3 dagen erna op.
 - Blijf bewustzijn en ademhaling regelmatig controleren. Wordt het slachtoffer bewusteloos en ademt het niet normaal, reanimeer dan.
 - Hou het slachtoffer liggend als het tekens van shock heeft, of zittend als het moeilijk ademt. Hou het warm.
 - Vermijd elk nieuw contact met wat de reactie veroorzaakte.
-- Wie een allergie heeft, draagt best altijd een allergiekaart en zijn voorgeschreven medicatie bij zich, en zorgt dat de mensen rond hem weten waar die zit. Wie met een gekende allergie naar een afgelegen plek reist, bereidt zich daar extra op voor.
+- Wie een allergie heeft, draagt best altijd een allergiekaart en zijn voorgeschreven medicatie bij zich, en zorgt dat de mensen rond hem weten waar die zit. Wie met een gekende allergie naar een afgelegen plek reist, bereidt zich daar extra op voor. Denk vooraf na hoe je jezelf helpt als je alleen bent wanneer een reactie begint.
 
 Bron: [IFRC Guidelines 2020](https://www.ifrc.org/sites/default/files/2022-02/EN_GFARC_GUIDELINES_2020.pdf) · [Gezondheid en Wetenschap: Anafylactische shock](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-anafylactische-shock)
 
@@ -107,7 +111,14 @@ Bron: [IFRC Guidelines 2020](https://www.ifrc.org/sites/default/files/2022-02/EN
 
 Raadpleeg een arts na een steek als de angel niet weg kan, bij uitgebreide roodheid of een pijnlijke, jeukende zwelling, als het slachtoffer zich tot 24 uur later slecht voelt, als het erg vaak gestoken werd, bij tekens van ontsteking (roodheid, pijn, warmte, zwelling) of als het waarschijnlijk niet voldoende tegen tetanus beschermd is.
 
-Bron: [Gezondheid en Wetenschap: Anafylactische shock](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-anafylactische-shock) · [Gezondheid en Wetenschap: Bijensteek](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-een-bijensteek) · [IFRC Guidelines 2020](https://www.ifrc.org/sites/default/files/2022-02/EN_GFARC_GUIDELINES_2020.pdf)
+**Lukt bellen niet**
+
+- Laat het slachtoffer alleen als er geen andere mogelijkheid is. Een lichte reactie kan op enkele minuten levensbedreigend worden. Wijs een omstander rechtstreeks aan om hulp te halen en geef mee waar het is, wat er gebeurd is, hoeveel slachtoffers er zijn en hoe ze eraan toe zijn.
+- Probeer ook een huisarts in de buurt te bereiken (zie Wat doen).
+- Reanimeer je en ben je alleen zonder telefoon, zie dan onderwerp 2 (Lukt bellen niet).
+- Zie ook onderwerp 1 (Lukt bellen niet: hulp halen zonder telefoon) en Noodnummers in de app, Als bellen niet lukt.
+
+Bron: [Gezondheid en Wetenschap: Anafylactische shock](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-anafylactische-shock) · [Gezondheid en Wetenschap: Bijensteek](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-een-bijensteek) · [IFRC Guidelines 2020](https://www.ifrc.org/sites/default/files/2022-02/EN_GFARC_GUIDELINES_2020.pdf) · [ERC Guidelines 2021: First aid](https://cprguidelines-old.erc.edu/assets/guidelines/European-Resuscitation-Council-Guidelines-2021-Fi.pdf) · [112.be: Veelgestelde vragen](https://112.be/nl/veelgestelde-vragen)
 
 ## Niet doen
 

@@ -3,20 +3,20 @@ titel: Overstroming
 volgorde: 3
 kort: "Water stijgt, een rivier treedt buiten haar oevers, de riolering kan de regen niet meer slikken of er is een waarschuwing voor overstroming."
 stappen:
-  - "Volg de instructies van de overheid via BE-Alert, radio en de website van je gemeente. Bel 112 als iemand in levensgevaar is."
-  - "Ga naar een hogere verdieping of hoger gelegen terrein als het water stijgt. Neem water, geneesmiddelen, je telefoon en een lader mee."
+  - "Ga naar een hogere verdieping of hoger gelegen terrein als het water stijgt. Neem water, geneesmiddelen, je telefoon en een lader mee. Ga alleen het dak op als het echt nodig is, en geef van daar een teken voor hulp."
   - "Leg zandzakjes of schotten voor kelderopeningen en buitendeuren. Zet tapijten, meubels, waardevolle spullen en papieren hoger."
   - "Sluit gas, elektriciteit en water af als dat nodig is en veilig kan. Raak niets elektrisch aan dat onder water staat."
-  - "Loop, zwem of rij niet door stromend water. Een kleine laag stromend water kan je omverduwen en een auto meenemen."
-  - "Blijf uit kelders, ondergrondse garages en onderdoorgangen bij hoogwater of wolkbreuk."
-  - "Vraag niet-dringende hulp van de brandweer via 1722.be of 1722 als dat nummer actief is."
+  - "Loop, zwem of rij niet door stromend water. Blijf uit kelders, ondergrondse garages en onderdoorgangen bij hoogwater of wolkbreuk."
+  - "Luister naar de radio, op batterijen of in de auto, en let op omroepwagens van de politie. Werkt het netwerk, volg dan ook BE-Alert en de website van je gemeente."
+  - "Iemand in levensgevaar: bel 112. Lukt dat niet, laat iemand anders bellen of vraag hulp in je buurt (zie Noodnummers, Als bellen niet lukt)."
+  - "Niet-dringende hulp van de brandweer: werkt het netwerk, vraag die dan via 1722.be, of bel 1722 als dat nummer actief is. Hou 112 vrij."
 niet:
   - "Niet schuilen in een kelder, een ondergrondse parking of een tunnel."
   - "Niet door overstroomde straten rijden of rond afsluitingen rijden."
   - "Niet in een gesloten zolder kruipen als je opgesloten raakt."
   - "Geen kraanwater drinken tot de overheid zegt dat het veilig is."
 status: concept
-datum: "2026-11-17"
+datum: "2026-11-18"
 bronnen:
   - naam: "Nationaal Crisiscentrum: fluviale overstroming (rivier)"
     url: https://crisiscentrum.be/nl/risicos-belgie/natuurlijke-risicos/fluviale-overstroming-rivier
@@ -56,6 +56,16 @@ bronnen:
     url: https://www.ready.gov/floods
   - naam: "CDC: keep food safe after a disaster or emergency"
     url: https://www.cdc.gov/food-safety/foods/keep-food-safe-after-emergency.html
+  - naam: "Nationaal Crisiscentrum: brochure Samen voorbereid"
+    url: https://crisiscentrum.be/sites/default/files/documents/files/WEB-Brochure%20Samen%20voorbereid-NL.pdf
+  - naam: "Nationaal Crisiscentrum: verstoring van de digitale infrastructuur"
+    url: https://crisiscentrum.be/nl/risicos-belgie/maatschappelijke-risicos/verstoring-van-de-digitale-infrastructuur
+  - naam: "Nationaal Crisiscentrum: een plan in jouw buurt"
+    url: https://crisiscentrum.be/nl/wat-kan-jij-doen/maak-een-plan/een-plan-jouw-buurt-vereniging
+  - naam: "112.be: Veelgestelde vragen"
+    url: https://112.be/nl/veelgestelde-vragen
+  - naam: "FOD Economie: vragen van gezinnen over elektriciteitsschaarste"
+    url: https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door
 ---
 
 ## Herkennen
@@ -70,8 +80,8 @@ bronnen:
 
 - Het KMI geeft kleurcodes voor regen. Code geel bij bijvoorbeeld 25 tot 50 liter per m² in 24 uur, code oranje bij 51 tot 100 liter, code rood bij meer dan 100 liter per m² in 24 uur of bij grote wateroverlast met nog zware regen op komst. Code oranje kan tot 24 uur vooraf komen, code rood ten vroegste 12 uur vooraf.
 - Voor stormtij geeft het KMI een code op basis van de waterstand in Oostende en Antwerpen.
-- Waterinfo.be (Vlaanderen) toont waterstanden, de neerslagradar en berichten over overstromingen. In Wallonië toont hydrometrie.wallonie.be de waterstanden en debieten van de rivieren.
-- Bij gevaar verwittigt de overheid je via BE-Alert, radio, tv, websites, sociale media en omroepwagens van de politie.
+- Bij gevaar verwittigt de overheid je via radio, tv en omroepwagens van de politie, en als het netwerk werkt ook via BE-Alert, websites en sociale media.
+- Werkt het internet, dan toont Waterinfo.be (Vlaanderen) waterstanden, de neerslagradar en berichten over overstromingen. In Wallonië toont hydrometrie.wallonie.be de waterstanden en debieten van de rivieren.
 
 Bron: [Nationaal Crisiscentrum: pluviale overstroming](https://crisiscentrum.be/nl/risicos-belgie/natuurlijke-risicos/pluviale-overstroming-oppervlaktewater) · [Nationaal Crisiscentrum: fluviale overstroming](https://crisiscentrum.be/nl/risicos-belgie/natuurlijke-risicos/fluviale-overstroming-rivier) · [KMI: uitleg bij de waarschuwingen](https://www.meteo.be/nl/weer/waarschuwingen/uitleg) · [Waterinfo Vlaanderen](https://www.waterinfo.vlaanderen.be/) · [SPW: hydrométrie](https://hydrometrie.wallonie.be/) · [Nationaal Crisiscentrum: informatie tijdens een noodsituatie](https://crisiscentrum.be/nl/wat-kan-jij-doen/informeer-je/informatie-tijdens-een-noodsituatie)
 
@@ -82,7 +92,7 @@ Bron: [Nationaal Crisiscentrum: pluviale overstroming](https://crisiscentrum.be/
 - Kijk met de watertoets op waterinfo.be of je woning in overstromingsgevoelig gebied ligt.
 - Weet waar je gas, elektriciteit en water afsluit.
 - Zoek de verdieping of de zolder die het langst droog blijft. Kijk ook welke vluchtweg je hebt als de voordeur geblokkeerd is, bijvoorbeeld een dakraam of een ladder.
-- Spreek af bij wie je terecht kunt als je je huis moet verlaten. Maak met buren afspraken over wie wie helpt.
+- Spreek af bij wie je terecht kunt als je je huis moet verlaten. Maak met buren afspraken over wie wie helpt en hoe jullie elkaar bereiken zonder telefoon of internet. Spreek met je familie af waar jullie elkaar terugvinden.
 
 **Bescherm je woning tegen water van buiten**
 
@@ -104,6 +114,7 @@ Bron: [Nationaal Crisiscentrum: pluviale overstroming](https://crisiscentrum.be/
 - Laarzen, emmers en aftrekkers.
 - Materiaal om meubels en toestellen hoger te zetten, zoals bakstenen of betonblokken.
 - Batterijen en noodverlichting. Geen kaarsen.
+- Een radio op batterijen of een opwindbare radio, liefst met DAB+ en FM, en een papieren lijst met belangrijke telefoonnummers.
 - Belangrijke papieren en waardevolle spullen hoog opgeborgen.
 - Een stookolietank vastgemaakt en met afgesloten openingen.
 - Een noodpakket voor 72 uur op een droge plek. Kelders en garages lopen sneller onder water. Voeg droge, warme dekens en handdoeken toe: onderkoeling is een risico.
@@ -114,7 +125,7 @@ Bron: [Nationaal Crisiscentrum: pluviale overstroming](https://crisiscentrum.be/
 - Bewaar een voorraad geneesmiddelen voor meerdere dagen en een EHBO-doos hoog en bereikbaar.
 - Is je woning van voor 1998, laat dan nagaan of er asbest in zit. Een overstroming kan zulk materiaal beschadigen.
 
-Bron: [Nationaal Crisiscentrum: fluviale overstroming](https://crisiscentrum.be/nl/risicos-belgie/natuurlijke-risicos/fluviale-overstroming-rivier) · [Waterinfo: watertoets](https://www.waterinfo.vlaanderen.be/Watertoets) · [VMM: tips bij overstromingen](https://vmm.vlaanderen.be/tips/water/overstromingen) · [VMM: brochure](https://vmm.vlaanderen.be/publicaties/individuele-bescherming-tegen-overstromingen) · [Nationaal Crisiscentrum: noodpakket](https://crisiscentrum.be/nl/wat-kan-jij-doen/maak-een-noodpakket/een-noodpakket-bij-je-thuis) · [Denk vooruit: overstroming](https://www.denkvooruit.nl/risicos/risicos-in-nederland/overstroming) · [Vivalis](https://www.vivalis.brussels/sites/default/files/2026-07/Overstromingen%20en%20gezondheidsrisico%27s.pdf)
+Bron: [Nationaal Crisiscentrum: fluviale overstroming](https://crisiscentrum.be/nl/risicos-belgie/natuurlijke-risicos/fluviale-overstroming-rivier) · [Waterinfo: watertoets](https://www.waterinfo.vlaanderen.be/Watertoets) · [VMM: tips bij overstromingen](https://vmm.vlaanderen.be/tips/water/overstromingen) · [VMM: brochure](https://vmm.vlaanderen.be/publicaties/individuele-bescherming-tegen-overstromingen) · [Nationaal Crisiscentrum: noodpakket](https://crisiscentrum.be/nl/wat-kan-jij-doen/maak-een-noodpakket/een-noodpakket-bij-je-thuis) · [Denk vooruit: overstroming](https://www.denkvooruit.nl/risicos/risicos-in-nederland/overstroming) · [Vivalis](https://www.vivalis.brussels/sites/default/files/2026-07/Overstromingen%20en%20gezondheidsrisico%27s.pdf) · [Nationaal Crisiscentrum: Samen voorbereid](https://crisiscentrum.be/sites/default/files/documents/files/WEB-Brochure%20Samen%20voorbereid-NL.pdf) · [Nationaal Crisiscentrum: digitale infrastructuur](https://crisiscentrum.be/nl/risicos-belgie/maatschappelijke-risicos/verstoring-van-de-digitale-infrastructuur) · [Nationaal Crisiscentrum: plan in jouw buurt](https://crisiscentrum.be/nl/wat-kan-jij-doen/maak-een-plan/een-plan-jouw-buurt-vereniging)
 
 ## Tijdens
 
@@ -122,8 +133,8 @@ Bron: [Nationaal Crisiscentrum: fluviale overstroming](https://crisiscentrum.be/
 
 **Eerst: is er levensgevaar?**
 
-- Iemand in levensgevaar: bel 112.
-- Hulp van de brandweer nodig zonder levensgevaar, bijvoorbeeld water in de kelder of in de straat: dien een aanvraag in via 1722.be of het formulier van je brandweerzone, of bel 1722 als dat nummer actief is. Hou 112 vrij.
+- Iemand in levensgevaar: bel 112 of laat iemand bellen. Lukt bellen niet, vraag hulp in je buurt en volg de informatie van de overheid op de radio. Zie Noodnummers in de app, Als bellen niet lukt.
+- Hulp van de brandweer nodig zonder levensgevaar, bijvoorbeeld water in de kelder of in de straat: werkt het netwerk, dien dan een aanvraag in via 1722.be of het formulier van je brandweerzone, of bel 1722 als dat nummer actief is. Hou 112 vrij.
 - Schade maar geen hulp van de brandweer nodig: schakel een vakman in of herstel het zelf.
 
 **Water buiten houden**
@@ -153,19 +164,20 @@ Bron: [Nationaal Crisiscentrum: fluviale overstroming](https://crisiscentrum.be/
 
 **Evacueren**
 
-- Volg de raad van de hulpdiensten. Bij een overstroming in je buurt wacht je op hun instructies. Soms is binnen blijven veiliger.
+- Volg de raad van de hulpdiensten en wacht op hun instructies via de radio of omroepwagens van de politie. Soms is binnen blijven veiliger.
+- Help anderen verwittigen dat ze moeten evacueren.
 - Neem je identiteitskaart, geld, water, gsm en lader, sleutels, een lijst met telefoonnummers, noodzakelijke geneesmiddelen, hygiëneproducten, reservekleding en laarzen mee.
 - Sluit gas, water en elektriciteit af. Sluit ramen en deuren. De politie bewaakt de woningen.
-- Heb je geen familie of vrienden om naartoe te gaan, dan krijg je onderdak in een opvangcentrum van gemeente of provincie.
-- Laat je familie en een contactpersoon buiten het gebied weten waar je bent. Stuur liever een sms of bericht dan te bellen.
+- Heb je geen familie of vrienden om naartoe te gaan, dan krijg je onderdak in een opvangcentrum van gemeente of provincie, bijvoorbeeld een sporthal of feestzaal. Daar geeft een contactpersoon ter plaatse de nodige informatie.
+- Laat je familie en een contactpersoon buiten het gebied weten waar je bent. Werkt het netwerk, stuur dan liever een sms of bericht dan te bellen.
 - Ga pas terug naar huis als de overheid zegt dat het veilig is.
 
-Bron: [Nationaal Crisiscentrum: fluviale overstroming](https://crisiscentrum.be/nl/risicos-belgie/natuurlijke-risicos/fluviale-overstroming-rivier) · [1722](https://www.1722.be/nl/index.html) · [VMM: tips bij overstromingen](https://vmm.vlaanderen.be/tips/water/overstromingen) · [BBK: brochure Stromausfall](https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/Buergerinformationen/stromausfall-vorsorge-selbsthilfe.pdf?__blob=publicationFile&v=13) · [Ready.gov: floods](https://www.ready.gov/floods) · [Nationaal Crisiscentrum: evacueren](https://crisiscentrum.be/nl/wat-kan-jij-doen/reageer-correct/evacueren)
+Bron: [Nationaal Crisiscentrum: fluviale overstroming](https://crisiscentrum.be/nl/risicos-belgie/natuurlijke-risicos/fluviale-overstroming-rivier) · [1722](https://www.1722.be/nl/index.html) · [VMM: tips bij overstromingen](https://vmm.vlaanderen.be/tips/water/overstromingen) · [BBK: brochure Stromausfall](https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/Buergerinformationen/stromausfall-vorsorge-selbsthilfe.pdf?__blob=publicationFile&v=13) · [Ready.gov: floods](https://www.ready.gov/floods) · [Nationaal Crisiscentrum: evacueren](https://crisiscentrum.be/nl/wat-kan-jij-doen/reageer-correct/evacueren) · [Nationaal Crisiscentrum: informatie tijdens een noodsituatie](https://crisiscentrum.be/nl/wat-kan-jij-doen/informeer-je/informatie-tijdens-een-noodsituatie) · [112.be: Veelgestelde vragen](https://112.be/nl/veelgestelde-vragen) · [FOD Economie: vragen van gezinnen over elektriciteitsschaarste](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door)
 
 ### Buiten of onderweg
 
 - Beperk je verplaatsingen en vermijd gevaarlijke zones.
-- Loop, zwem of rij niet door het water. Volgens Ready.gov kan 15 centimeter (6 inch) stromend water je omverduwen.
+- Loop, zwem of rij niet door het water. 15 centimeter stromend water kan je al omverduwen.
 - Blijf van bruggen over snelstromend water.
 - Moet je toch door een overstroomde straat lopen, gebruik dan een stok om de grond af te tasten. Putdeksels en stukken wegdek kunnen weggespoeld zijn.
 - Overstromingswater kan vervuild zijn en puin verbergen. Afgevallen elektriciteitskabels kunnen het water onder stroom zetten.
@@ -175,7 +187,7 @@ Bron: [Nationaal Crisiscentrum: fluviale overstroming](https://crisiscentrum.be/
 ### In de auto
 
 - Zet je auto op voorhand op een veilige plek, en niet in je garage.
-- Rij nooit door een overstroomde weg en nooit rond een afsluiting. Volgens Ready.gov kan 30 centimeter (1 voet) water een voertuig meenemen.
+- Rij nooit door een overstroomde weg en nooit rond een afsluiting. 30 centimeter water kan een voertuig meenemen.
 - Zit je vast in de auto, blijf er dan in. Stijgt het water in de auto, klim dan op het dak.
 
 Bron: [Nationaal Crisiscentrum: pluviale overstroming](https://crisiscentrum.be/nl/risicos-belgie/natuurlijke-risicos/pluviale-overstroming-oppervlaktewater) · [Ready.gov: floods](https://www.ready.gov/floods)
@@ -254,7 +266,7 @@ Bron: [Denk vooruit: overstroming](https://www.denkvooruit.nl/risicos/risicos-in
 **Schade en verzekering**
 
 - Neem foto's van de schade voor je verzekeringsdossier.
-- Neem zo snel mogelijk contact op met je verzekeraar. Volgens de VMM is overstromingsschade gedekt door de brandverzekering, ook als de overstroming niet erkend wordt als ramp.
+- Neem zo snel mogelijk contact op met je verzekeraar. Overstromingsschade is gedekt door de brandverzekering, ook als de overstroming niet erkend wordt als ramp.
 - In Vlaanderen kan het Vlaams Rampenfonds in uitzonderlijke gevallen een deel van de schade vergoeden, alleen na een door de Vlaamse Regering erkende ramp. Meld de schade eerst aan je verzekeraar. Bij het Rampenfonds meld je de schade binnen 60 dagen na de schadedatum.
 
 Bron: [Ready.gov: floods](https://www.ready.gov/floods) · [Vivalis](https://www.vivalis.brussels/sites/default/files/2026-07/Overstromingen%20en%20gezondheidsrisico%27s.pdf) · [Nationaal Crisiscentrum: fluviale overstroming](https://crisiscentrum.be/nl/risicos-belgie/natuurlijke-risicos/fluviale-overstroming-rivier) · [VMM: tips bij overstromingen](https://vmm.vlaanderen.be/tips/water/overstromingen) · [CDC: food safety](https://www.cdc.gov/food-safety/foods/keep-food-safe-after-emergency.html) · [Vlaams Rampenfonds](https://www.vlaanderen.be/schadevergoeding-vlaams-rampenfonds-aanvragen)
@@ -271,6 +283,8 @@ Bron: [Ready.gov: floods](https://www.ready.gov/floods) · [Vivalis](https://www
 Bron: [Nationaal Crisiscentrum: pluviale overstroming](https://crisiscentrum.be/nl/risicos-belgie/natuurlijke-risicos/pluviale-overstroming-oppervlaktewater) · [Ready.gov: floods](https://www.ready.gov/floods) · [BBK: brochure Stromausfall](https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/Buergerinformationen/stromausfall-vorsorge-selbsthilfe.pdf?__blob=publicationFile&v=13) · [VMM: tips bij overstromingen](https://vmm.vlaanderen.be/tips/water/overstromingen) · [Vivalis](https://www.vivalis.brussels/sites/default/files/2026-07/Overstromingen%20en%20gezondheidsrisico%27s.pdf)
 
 ## Meer informatie
+
+Vooraf te lezen, of als het internet werkt:
 
 - Waterinfo.be: waterstanden, neerslagradar en watertoets (Vlaanderen).
 - hydrometrie.wallonie.be: waterstanden en debieten (Wallonië).

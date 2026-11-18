@@ -4,11 +4,11 @@ volgorde: 4
 kort: "Code geel, oranje of rood voor wind of onweer: zware windstoten, vallende takken, bliksem."
 stappen:
   - "Zet of bind losse voorwerpen in tuin en op terras vast of zet ze binnen voor de storm komt. Haal huisdieren binnen."
-  - "Blijf binnen tijdens de storm, sluit ramen en deuren en blijf weg van ramen. Stel verplaatsingen uit."
+  - "Blijf binnen tijdens de storm, sluit ramen en deuren en blijf weg van ramen. Stel verplaatsingen uit. Luister naar het weerbericht op de radio, ook op batterijen als de stroom uitvalt."
   - "Blijf uit bossen en parken en weg van bomen, steigers en metalen constructies. Schuil nooit onder een boom."
   - "Trek bij onweer de stekker uit elektronische toestellen."
-  - "Vraag niet-dringende hulp van de brandweer via 1722.be of 1722 als dat nummer actief is. Bel 112 alleen bij levensgevaar."
   - "Raak nooit een afgevallen elektriciteitskabel aan."
+  - "Bel 112 alleen bij levensgevaar. Lukt dat niet, laat iemand anders bellen of vraag hulp in je buurt (zie Noodnummers, Als bellen niet lukt). Niet-dringende hulp van de brandweer: werkt het netwerk, vraag die dan via 1722.be, of bel 1722 als dat nummer actief is."
   - "Neem foto's van de schade en verwittig zo snel mogelijk je verzekeraar."
 niet:
   - "Niet schuilen onder een boom en niet parkeren bij bomen."
@@ -17,7 +17,7 @@ niet:
   - "Geen afgevallen kabels aanraken."
   - "Niet 112 bellen voor gewone stormschade."
 status: concept
-datum: "2026-11-17"
+datum: "2026-11-18"
 bronnen:
   - naam: "Nationaal Crisiscentrum: wind en storm"
     url: https://crisiscentrum.be/nl/risicos-belgie/natuurlijke-risicos/wind-en-storm
@@ -51,6 +51,12 @@ bronnen:
     url: https://www.ready.gov/thunderstorms-lightning
   - naam: "CDC: what to do to protect yourself during a power outage"
     url: https://www.cdc.gov/natural-disasters/response/what-to-do-protect-yourself-during-a-power-outage.html
+  - naam: "Nationaal Crisiscentrum: een plan in jouw buurt"
+    url: https://crisiscentrum.be/nl/wat-kan-jij-doen/maak-een-plan/een-plan-jouw-buurt-vereniging
+  - naam: "112.be: Veelgestelde vragen"
+    url: https://112.be/nl/veelgestelde-vragen
+  - naam: "FOD Economie: vragen van gezinnen over elektriciteitsschaarste"
+    url: https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door
 ---
 
 ## Herkennen
@@ -107,29 +113,31 @@ Bron: [Nationaal Crisiscentrum: wind en storm](https://crisiscentrum.be/nl/risic
 
 - Blijf binnen en sluit ramen en deuren. Binnen is het veiligst.
 - Blijf weg van ramen, deuren en buitenmuren. Let op rondvliegend puin.
-- Luister naar het weerbericht en volg de aanbevelingen.
+- Luister naar het weerbericht en volg de aanbevelingen. Valt de stroom uit, gebruik dan een radio op batterijen of de autoradio.
 
 **Bij onweer**
 
 - Schakel elektronische toestellen uit en trek de stekker uit.
 - Gebruik geen toestellen die aan het stopcontact hangen en vermijd stromend water.
 
-**Hulp vragen: wie bel je?**
+**Hulp vragen: wie verwittig je?**
 
 | Situatie | Wat doen |
 |---|---|
-| Iemand is in levensgevaar, of er is gevaar voor brand | Bel 112. |
-| Je hebt de brandweer nodig, zonder levensgevaar (losgewaaide dakpannen, een boom die dreigt te vallen) | Dien een aanvraag in via het digitaal loket 1722.be of het formulier van je brandweerzone. Bel 1722 alleen als dat nummer geactiveerd is. |
+| Iemand is in levensgevaar, of er is gevaar voor brand | Bel 112 of laat iemand bellen. Lukt bellen niet, zie hieronder. |
+| Je hebt de brandweer nodig, zonder levensgevaar (losgewaaide dakpannen, een boom die dreigt te vallen) | Werkt het netwerk: dien een aanvraag in via het digitaal loket 1722.be of het formulier van je brandweerzone. Bel 1722 alleen als dat nummer geactiveerd is. |
 | Schade zonder gevaar, waarvoor je de brandweer niet nodig hebt (omgevallen boom in de tuin, beschadigd tuinhuis) | Schakel een vakman in, zoals een dakdekker, of herstel het zelf. |
 
-- Bel niet naar 112 voor gewone stormschade. Bij storm en hevig onweer raakt de brandweer overbelast. Het loket 1722.be is altijd beschikbaar.
-- Meld schade of bijzondere verschijnselen via de app van het KMI. Dat helpt het KMI om anderen te waarschuwen.
+- Bel niet naar 112 voor gewone stormschade. Bij storm en hevig onweer raakt de brandweer overbelast. Het digitaal loket 1722.be is altijd beschikbaar, maar alleen via internet.
+- Werkt het netwerk, meld dan schade of bijzondere verschijnselen via de app van het KMI. Dat helpt het KMI om anderen te waarschuwen.
+
+Lukt bellen niet, laat iemand anders bellen of vraag hulp in je buurt, en volg de informatie van de overheid op de radio. Zie Noodnummers in de app, Als bellen niet lukt.
 
 **Valt de stroom uit**
 
 - Zie de kaart Stroomuitval. Gebruik een zaklamp in plaats van kaarsen.
 
-Bron: [Nationaal Crisiscentrum: wind en storm](https://crisiscentrum.be/nl/risicos-belgie/natuurlijke-risicos/wind-en-storm) · [Nationaal Crisiscentrum: tornado](https://crisiscentrum.be/nl/risicos-belgie/natuurlijke-risicos/tornado) · [Nationaal Crisiscentrum: bliksem](https://crisiscentrum.be/nl/risicos-belgie/natuurlijke-risicos/bliksem) · [Ready.gov: thunderstorms](https://www.ready.gov/thunderstorms-lightning) · [1722](https://www.1722.be/nl/index.html) · [112.be](https://www.112.be/nl) · [Brandweer Nederland: storm- en wateroverlast](https://www.brandweer.nl/onderwerpen/storm-en-wateroverlast/)
+Bron: [Nationaal Crisiscentrum: wind en storm](https://crisiscentrum.be/nl/risicos-belgie/natuurlijke-risicos/wind-en-storm) · [Nationaal Crisiscentrum: tornado](https://crisiscentrum.be/nl/risicos-belgie/natuurlijke-risicos/tornado) · [Nationaal Crisiscentrum: bliksem](https://crisiscentrum.be/nl/risicos-belgie/natuurlijke-risicos/bliksem) · [Ready.gov: thunderstorms](https://www.ready.gov/thunderstorms-lightning) · [1722](https://www.1722.be/nl/index.html) · [112.be](https://www.112.be/nl) · [Brandweer Nederland: storm- en wateroverlast](https://www.brandweer.nl/onderwerpen/storm-en-wateroverlast/) · [112.be: Veelgestelde vragen](https://112.be/nl/veelgestelde-vragen) · [FOD Economie: vragen van gezinnen over elektriciteitsschaarste](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door)
 
 ### Buiten of onderweg
 
@@ -153,7 +161,7 @@ Bron: [Denk vooruit: extreem weer](https://www.denkvooruit.nl/risicos/risicos-in
 
 - Stel je rit uit als het kan.
 - Parkeer niet in de buurt van bomen.
-- Rij niet op overstroomde wegen. Volgens Ready.gov kan een paar centimeter snelstromend water je omverduwen en ongeveer 30 cm water een voertuig meenemen.
+- Rij niet op overstroomde wegen. Een paar centimeter snelstromend water kan je omverduwen, ongeveer 30 cm water kan een voertuig meenemen.
 - Bij onweer is een auto met een dak een veilige schuilplaats. Wordt je auto getroffen, dan leidt de metalen carrosserie de stroom via dak en zijkanten naar de grond. Je hoeft geen paal of vangrail aan te raken.
 
 Bron: [Nationaal Crisiscentrum: wind en storm](https://crisiscentrum.be/nl/risicos-belgie/natuurlijke-risicos/wind-en-storm) · [Ready.gov: thunderstorms](https://www.ready.gov/thunderstorms-lightning) · [Brandweer Nederland: onweer](https://www.brandweer.nl/onderwerpen/onweer-donder-en-bliksem/) · [Nationaal Crisiscentrum: bliksem](https://crisiscentrum.be/nl/risicos-belgie/natuurlijke-risicos/bliksem)
@@ -176,10 +184,10 @@ Bron: [Nationaal Crisiscentrum: wind en storm](https://crisiscentrum.be/nl/risic
 
 ### Kwetsbare personen
 
-- Spreek met buren af hoe jullie elkaar helpen. Ga na of buren die alleen wonen of minder mobiel zijn hulp nodig hebben.
+- Spreek met buren af hoe jullie elkaar helpen, en hoe jullie elkaar bereiken zonder telefoon of internet. Ga na of buren die alleen wonen of minder mobiel zijn hulp nodig hebben.
 - Ben je afhankelijk van medische apparatuur op stroom, hou er dan rekening mee dat de stroom kan uitvallen. Zie de kaart Stroomuitval.
 
-Bron: [Nationaal Crisiscentrum: maak een plan](https://crisiscentrum.be/nl/wat-kan-jij-doen/maak-een-plan) · [Nationaal Crisiscentrum: wind en storm](https://crisiscentrum.be/nl/risicos-belgie/natuurlijke-risicos/wind-en-storm)
+Bron: [Nationaal Crisiscentrum: maak een plan](https://crisiscentrum.be/nl/wat-kan-jij-doen/maak-een-plan) · [Nationaal Crisiscentrum: plan in jouw buurt](https://crisiscentrum.be/nl/wat-kan-jij-doen/maak-een-plan/een-plan-jouw-buurt-vereniging) · [Nationaal Crisiscentrum: wind en storm](https://crisiscentrum.be/nl/risicos-belgie/natuurlijke-risicos/wind-en-storm)
 
 ### Huisdieren en dieren
 
@@ -199,7 +207,7 @@ Bron: [Nationaal Crisiscentrum: wind en storm](https://crisiscentrum.be/nl/risic
 
 **Schade**
 
-- Vraag hulp van de brandweer als dat nodig is via 1722.be, het formulier van je zone of 1722 als dat nummer actief is. Hou 112 vrij voor levensgevaar.
+- Heb je hulp van de brandweer nodig zonder levensgevaar: werkt het netwerk, vraag die dan via 1722.be, het formulier van je zone of 1722 als dat nummer actief is. Hou 112 vrij voor levensgevaar.
 - Schakel anders een vakman in of herstel het zelf, bijvoorbeeld bij een omgevallen boom, een beschadigd tuinhuis of hagelschade aan je wagen.
 - Neem foto's van de schade voor je verzekeringsdossier.
 - Neem zo snel mogelijk contact op met je verzekeraar.
@@ -220,6 +228,8 @@ Bron: [Nationaal Crisiscentrum: wind en storm](https://crisiscentrum.be/nl/risic
 Bron: [Nationaal Crisiscentrum: wind en storm](https://crisiscentrum.be/nl/risicos-belgie/natuurlijke-risicos/wind-en-storm) · [Nationaal Crisiscentrum: bliksem](https://crisiscentrum.be/nl/risicos-belgie/natuurlijke-risicos/bliksem) · [Brandweer Nederland: onweer](https://www.brandweer.nl/onderwerpen/onweer-donder-en-bliksem/) · [112.be](https://www.112.be/nl)
 
 ## Meer informatie
+
+Vooraf te lezen, of als het internet werkt:
 
 - KMI: weerwaarschuwingen, uitleg bij de kleurcodes en de KMI-app.
 - 1722.be: digitaal loket voor niet-dringende hulp van de brandweer.

@@ -4,7 +4,7 @@ module: buiten
 volgorde: 2
 kort: "Wenn Sie draußen festsitzen: was zuerst kommt (Kälte), einen Unterschlupf bauen, sich gegen den Boden isolieren, Feuer sicher und nach den belgischen Regeln, Wasser finden und aufbereiten, warum Sie keine Wildpflanzen oder Pilze essen und wie Sie gefunden werden."
 status: concept
-datum: "2026-11-17"
+datum: "2026-11-18"
 bronnen:
   - naam: "US Army FM 21-76 Survival Manual (gemeinfrei, Kopie auf archive.org)"
     url: https://archive.org/details/fm-21-76-survival-manual
@@ -43,12 +43,12 @@ bronnen:
   - naam: "Ready.gov: Evacuation"
     url: https://www.ready.gov/evacuation
 vertaling: machine
-origineel_datum: "2026-11-17"
+origineel_datum: "2026-11-18"
 ---
 
 ## Was zuerst kommt
 
-Es gibt keine feste Reihenfolge, die immer gilt. Die amerikanischen Überlebenshandbücher lehren ein "Überlebensmuster": Sie ordnen Ihre Bedürfnisse nach Wichtigkeit, abhängig davon, wo Sie sind, und passen diese Reihenfolge an, wenn sich die Umstände ändern.
+Es gibt keine feste Reihenfolge, die immer gilt. Ordnen Sie Ihre Bedürfnisse nach Wichtigkeit, abhängig davon, wo Sie sind, und passen Sie diese Reihenfolge an, wenn sich die Umstände ändern.
 
 | Situation | Erste Priorität | Danach |
 | --- | --- | --- |
@@ -59,9 +59,17 @@ Es gibt keine feste Reihenfolge, die immer gilt. Die amerikanischen Überlebensh
 - Bei Kälte kann Schutz wichtiger sein als Nahrung und möglicherweise sogar als Wasser. Langes Ausgesetztsein gegenüber Kälte macht Sie erschöpft und schwach, und ein erschöpfter Mensch kann den Willen zum Überleben verlieren.
 - Auch bei Kälte brauchen Sie mindestens 2 Liter Wasser pro Tag, um gut zu funktionieren.
 - Sie können mehrere Wochen ohne Nahrung auskommen, werden aber ohne Essen schnell schwächer, körperlich und geistig.
-- Rufen Sie Hilfe, wenn Sie können. Siehe den Leitfaden zum Notruf. Hinterlassen Sie immer einen Tourenplan bei jemandem, der zu Hause bleibt.
+- Hinterlassen Sie immer einen Tourenplan bei jemandem, der zu Hause bleibt.
 
-Quelle: [US Army FM 21-76](https://archive.org/details/fm-21-76-survival-manual) · [US Army ATP 3-50.21](https://archive.org/details/survival-atp-3-50-21) · [National Park Service: Outdoor Emergency Plan](https://www.nps.gov/subjects/healthandsafety/upload/NPS-Outdoor-Emergency-Plan-508c.pdf)
+**Hilfe holen.** Draußen kann Hilfe Stunden oder Tage auf sich warten lassen. Verlassen Sie sich nicht darauf, dass Sie Empfang haben.
+
+1. Haben Sie Empfang: Rufen Sie 112 an. Siehe den Leitfaden zum Notruf.
+2. Kein Empfang, aber jemand in der Nähe: Sprechen Sie Menschen an, denen Sie begegnen, und bitten Sie sie, an einen Ort mit Empfang zu gehen und dort 112 anzurufen.
+3. In einer Gruppe mit einem Verletzten: Schicken Sie zwei oder mehr Personen los, um Alarm zu schlagen. Die anderen bleiben bei dem Verletzten.
+4. Allein mit dem Verletzten: Helfen Sie ihm zuerst so gut wie möglich und holen Sie dann Hilfe.
+5. Niemand in der Nähe: Bleiben Sie, wo Sie sind, und geben Sie Signale (siehe Gefunden werden).
+
+Quelle: [US Army FM 21-76](https://archive.org/details/fm-21-76-survival-manual) · [US Army ATP 3-50.21](https://archive.org/details/survival-atp-3-50-21) · [National Park Service: Outdoor Emergency Plan](https://www.nps.gov/subjects/healthandsafety/upload/NPS-Outdoor-Emergency-Plan-508c.pdf) · [Nationales Krisenzentrum: Natur- und Waldbrand](https://krisenzentrum.be/de/risiken-belgien/naturrisiken/naturbrand)
 
 ## Unterkühlung erkennen
 
@@ -76,7 +84,7 @@ Unterkühlung (Hypothermie) entsteht, wenn Ihr Körper mehr Wärme verliert, als
 - Schwierigkeiten beim Bewegen und Sprechen.
 - Verwirrtheit, Benommenheit, Gedächtnisverlust, seltsames Verhalten, Müdigkeit.
 
-**Rufen Sie 112 an, wenn** die Person nicht mehr zittert, die Muskeln steif werden oder Bewusstseinsstörungen auftreten.
+**Rufen Sie 112 an, wenn** die Person nicht mehr zittert, die Muskeln steif werden oder Bewusstseinsstörungen auftreten. Kommt kein Anruf zustande, siehe Was zuerst kommt, Hilfe holen.
 
 **Was Sie tun**
 
@@ -88,7 +96,7 @@ Unterkühlung (Hypothermie) entsteht, wenn Ihr Körper mehr Wärme verliert, als
 6. Zittert die Person noch und ist sie gut bei Bewusstsein: Lassen Sie sie sich in einem Schlafsack oder unter einer Decke aufwärmen (mit einer Rettungsdecke, wenn Sie eine haben), bedecken Sie auch den Kopf, geben Sie trockene Kleidung und ein warmes, zuckerreiches Getränk oder Essen.
 7. Zittert sie nicht mehr oder ist sie nicht gut bei Bewusstsein: Wärmen Sie aktiv, vorzugsweise mit einer Heizdecke, sonst mit Wärmekissen, Kirschkernkissen oder einer Wärmflasche. Achten Sie auf Verbrennungen. Geben Sie dann **nichts zu essen oder zu trinken**.
 
-**Vorbeugen: die Eselsbrücke COLD der amerikanischen Armee**
+**Vorbeugen: die Eselsbrücke COLD**
 
 - **C**lean: Halten Sie die Kleidung sauber. Schmutzige Kleidung isoliert schlechter.
 - **O**verheating vermeiden: Schweiß macht Ihre Kleidung nass und kühlt Sie ab. Ziehen Sie eine Schicht aus oder öffnen Sie Ihre Jacke, bevor Sie schwitzen.
@@ -97,7 +105,7 @@ Unterkühlung (Hypothermie) entsteht, wenn Ihr Körper mehr Wärme verliert, als
 
 Bedecken Sie immer Ihren Kopf: Sie verlieren dort viel Wärme. Alkohol erweitert die kleinen Blutgefäße in der Haut, wodurch Sie mehr Wärme verlieren.
 
-Quelle: [Rode Kruis-Vlaanderen: Was tun bei Unterkühlung](https://www.gezondheidenwetenschap.be/eerste-hulp/wat-doen-bij-onderkoeling) · [Rode Kruis-Vlaanderen: Erste Hilfe beim Wintersport](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-wintersport) · [US Army FM 21-76](https://archive.org/details/fm-21-76-survival-manual) · [Nationales Krisenzentrum: Kältewelle](https://krisenzentrum.be/de/risiken-belgien/naturrisiken/kaeltewelle-0)
+Quelle: [Rode Kruis-Vlaanderen: Was tun bei Unterkühlung](https://www.gezondheidenwetenschap.be/eerste-hulp/wat-doen-bij-onderkoeling) · [Rode Kruis-Vlaanderen: Erste Hilfe beim Wintersport](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-wintersport) · [US Army FM 21-76](https://archive.org/details/fm-21-76-survival-manual) · [Nationales Krisenzentrum: Kältewelle](https://krisenzentrum.be/de/risiken-belgien/naturrisiken/kaeltewelle-0) · [National Park Service: Outdoor Emergency Plan](https://www.nps.gov/subjects/healthandsafety/upload/NPS-Outdoor-Emergency-Plan-508c.pdf)
 
 ## Einen Platz für den Unterschlupf wählen
 
@@ -162,7 +170,7 @@ Quelle: [US Army FM 21-76](https://archive.org/details/fm-21-76-survival-manual)
 
 ## Gegen den Boden isolieren
 
-- **Schlafen Sie nie direkt auf dem Boden.** Laut der amerikanischen Armee verlieren Sie in Ruhe bis zu 80 Prozent Ihrer Körperwärme an den Boden.
+- **Schlafen Sie nie direkt auf dem Boden.** In Ruhe verlieren Sie bis zu 80 Prozent Ihrer Körperwärme an den Boden.
 - Legen Sie Tannenzweige, Gras, Blätter, Kiefernnadeln oder anderes Isoliermaterial unter sich.
 - In einer Hütte aus Ästen und Blättern: eine Schicht von 30 cm.
 - In einer Schneehöhle oder Grube: Legen Sie grüne Nadelzweige auf den Boden.
@@ -189,7 +197,7 @@ Auch an einem erlaubten Ort entscheidet der **Risikocode für Naturbrände** des
 | Orange | Allgemeines Feuerverbot, außer Kochfeuer als Gas- oder Grubenfeuer |
 | Rot | Feuerverbot in jeder Form |
 
-In der Wallonie und in Brüssel gelten eigene Regeln. Das Krisenzentrum verweist für den aktuellen Farbcode auf die Website des Agentschap Natuur en Bos, Wallonie.be, die Gemeinde oder das Naturgebiet.
+In der Wallonie und in Brüssel gelten eigene Regeln. Informieren Sie sich vorab über die Brandgefahr und den Farbcode auf der Website des Agentschap Natuur en Bos, Wallonie.be, der Gemeinde oder des Naturgebiets. Vor Ort: Halten Sie sich an die Regeln und Richtlinien, die am Rand des Naturgebiets stehen.
 
 **Sicher Feuer machen**
 
@@ -205,7 +213,7 @@ In der Wallonie und in Brüssel gelten eigene Regeln. Das Krisenzentrum verweist
 
 **Wie ein Feuer funktioniert.** Ein Feuer braucht drei Dinge: Luft, Wärme und Brennstoff. Nehmen Sie eines davon weg, erlischt es. Sie brauchen drei Arten von Material: **Zunder**, der mit einem Funken Feuer fängt (ganz trocken), **Anzündholz**, das schnell brennt, und **Brennholz**, das langsam und gleichmäßig brennt. Bauen Sie sie in dieser Reihenfolge auf, zum Beispiel als Tipi.
 
-**Wenn Sie einen Naturbrand sehen:** Rufen Sie 112 an. Folgen Sie vorhandenen Wegen weg vom Feuer und vom Rauch, wenn möglich quer zur Windrichtung. Flüchten Sie zu einer öffentlichen Straße, einer großen befestigten Fläche oder in die geschlossene Ortschaft.
+**Wenn Sie einen Naturbrand sehen:** Bringen Sie sich in Sicherheit. Folgen Sie vorhandenen Wegen weg vom Feuer und vom Rauch, wenn möglich quer zur Windrichtung. Flüchten Sie zu einer öffentlichen Straße, einer großen befestigten Fläche oder in die geschlossene Ortschaft. Helfen Sie anderen an einen sicheren Ort. Rufen Sie so schnell wie möglich 112 an und geben Sie erkennbare Punkte durch, etwa Wege, Weiher, Aussichtstürme oder Parkplätze. Haben Sie keinen Empfang, evakuieren Sie so schnell wie möglich und sprechen Sie Menschen an, denen Sie begegnen.
 
 Quelle: [Vlaanderen.be: Feuer machen in oder nahe einem Naturgebiet](https://www.vlaanderen.be/natuur-milieu-en-klimaat/wat-mag-u-als-bezoeker-doen-in-de-vlaamse-natuur/vuur-maken-in-of-nabij-een-natuurgebied-kampvuur-kookvuur-fakkeltocht) · [Nationales Krisenzentrum: Natur- und Waldbrand](https://krisenzentrum.be/de/risiken-belgien/naturrisiken/naturbrand) · [US Army FM 21-76](https://archive.org/details/fm-21-76-survival-manual)
 
@@ -215,7 +223,7 @@ Quelle: [Vlaanderen.be: Feuer machen in oder nahe einem Naturgebiet](https://www
 - Tau: Binden Sie Tücher oder Büschel feinen Grases um Ihre Knöchel und gehen Sie vor Sonnenaufgang durch taunasses Gras. Wringen Sie das Wasser in einen Behälter aus.
 - Wasser sammelt sich manchmal in Astgabeln oder Felsspalten.
 - Grasende Tiere (auch Hirsche) weisen besser den Weg zum Wasser als Raubtiere. Bienen fliegen selten weiter als etwa sechs Kilometer (vier Meilen) von ihrem Nest und haben meist Wasser in dieser Entfernung.
-- Regenwasser, das Sie in sauberen Behältern auffangen, ist laut dem amerikanischen Handbuch meist sicher. Wasser aus Seen, Teichen, Sümpfen, Quellen und Bächen müssen Sie aufbereiten, vor allem in der Nähe von Siedlungen.
+- Regenwasser, das Sie in sauberen Behältern auffangen, ist meist sicher. Wasser aus Seen, Teichen, Sümpfen, Quellen und Bächen müssen Sie aufbereiten, vor allem in der Nähe von Siedlungen.
 - In Flandern sind viele Gewässer verschmutzt, zu tief, zu kalt oder auf andere Weise gefährlich. Achten Sie auf Schilder zu Blaualgen.
 
 **Trinken Sie nie**: Meerwasser, Urin oder Alkohol.
@@ -226,7 +234,7 @@ Quelle: [US Army FM 21-76](https://archive.org/details/fm-21-76-survival-manual)
 
 | Methode | Was sie bewirkt | Einschränkungen |
 | --- | --- | --- |
-| **Abkochen** (beste Wahl) | Die CDC empfiehlt, Wasser eine volle Minute kochen zu lassen. Das tötet Krankheitserreger, auch in den Höhen, in die Reisende meist kommen. | Sie brauchen Feuer oder einen Brenner. Chemische Stoffe bleiben. |
+| **Abkochen** (beste Wahl) | Lassen Sie Wasser eine volle Minute kochen. Das tötet Krankheitserreger, auch in den Höhen, in die Reisende meist kommen. | Sie brauchen Feuer oder einen Brenner. Chemische Stoffe bleiben. |
 | **Filter** mit Poren kleiner als 1 µm | Entfernt Bakterien und Parasiten (Protozoen) | Entfernt Viren (zum Beispiel Norovirus) nicht zuverlässig |
 | **Chlor oder Jod** | Wirkt gegen Bakterien und Viren | Wirkt bei praxisüblichen Konzentrationen schlecht gegen Cryptosporidium. Folgen Sie immer der Gebrauchsanweisung des Produkts. |
 | **Chlordioxid** | Wirkt gegen alle Krankheitserreger im Wasser, auch Cryptosporidium | Folgen Sie der Gebrauchsanweisung des Produkts |
@@ -244,12 +252,12 @@ Quelle: [CDC Yellow Book: Water disinfection for travelers](https://www.cdc.gov/
 
 ## Nahrung: Seien Sie äußerst vorsichtig
 
-**Sie brauchen sie weniger dringend, als Sie denken.** Sie können mehrere Wochen ohne Nahrung auskommen. Wasser, Wärme und gefunden werden kommen zuerst. Das amerikanische Handbuch rät sogar davon ab zu essen, wenn Sie kein Wasser haben.
+**Sie brauchen sie weniger dringend, als Sie denken.** Sie können mehrere Wochen ohne Nahrung auskommen. Wasser, Wärme und gefunden werden kommen zuerst. Essen Sie besser nicht, wenn Sie kein Wasser haben.
 
 **Pilze: Essen Sie sie nicht.**
 
-- Die amerikanische Armee ist eindeutig: Essen Sie in einer Überlebenssituation keine Pilze. Nur eine sichere Bestimmung reicht aus, und es gibt keinen Raum zum Experimentieren. Manche Pilze töten schnell, für manche gibt es kein Gegengift.
-- Das Antigiftzentrum sagt dasselbe: Es gibt **keine Tricks**, um einen essbaren von einem giftigen Pilz zu unterscheiden. Junge Pilze sind nicht immer essbar. Weiße Pilze können giftig sein. Ein giftiger Pilz kann gut schmecken. Schnecken fressen auch giftige Arten. Kochen, Trocknen oder Einfrieren macht das Gift des Grünen Knollenblätterpilzes nicht unschädlich. Ein einziges Exemplar kann schon sehr ernst sein.
+- Essen Sie in einer Überlebenssituation keine Pilze. Nur eine sichere Bestimmung reicht aus, und es gibt keinen Raum zum Experimentieren. Manche Pilze töten schnell, für manche gibt es kein Gegengift.
+- Es gibt **keine Tricks**, um einen essbaren von einem giftigen Pilz zu unterscheiden. Junge Pilze sind nicht immer essbar. Weiße Pilze können giftig sein. Ein giftiger Pilz kann gut schmecken. Schnecken fressen auch giftige Arten. Kochen, Trocknen oder Einfrieren macht das Gift des Grünen Knollenblätterpilzes nicht unschädlich. Ein einziges Exemplar kann schon sehr ernst sein.
 - Das Bestimmen mit einem Buch oder einem Foto ist sehr gefährlich.
 - **In Flandern und Brüssel ist das Pilzesammeln auf öffentlichem Gelände verboten.** In der Wallonie ist es eingeschränkt: mit Zustimmung des Eigentümers, zwischen Sonnenaufgang und Sonnenuntergang, höchstens 10 Liter pro Person und nicht während der Jagdsaison in Staatswäldern.
 
@@ -264,10 +272,10 @@ Quelle: [CDC Yellow Book: Water disinfection for travelers](https://www.cdc.gov/
 **Hat doch jemand etwas gegessen?**
 
 1. Entfernen Sie die Pflanzenreste aus dem Mund und geben Sie ein Glas Wasser.
-2. Rufen Sie das Antigiftzentrum (070 245 245) oder den Hausarzt an.
+2. Nehmen Sie Kontakt mit dem Antigiftzentrum (070 245 245, wenn das Netz funktioniert) oder dem Hausarzt auf.
 3. Bewahren Sie die Pflanze auf: Nehmen Sie einen ganzen Zweig mit Blättern und Blüten oder Früchten mit oder machen Sie Fotos.
 4. Bei Pilzen: Bewahren Sie die Reste auf (roh, gekocht, geschält). Das Antigiftzentrum fragt, welche Pilze, wo gesammelt, wie aufbewahrt und zubereitet, wie viel Zeit zwischen Essen und Beschwerden lag und ob alle, die mitgegessen haben, krank sind.
-5. Bei schweren Beschwerden: Rufen Sie 112 an.
+5. Bei schweren Beschwerden: Rufen Sie 112 an. Kommt kein Anruf zustande, siehe Was zuerst kommt, Hilfe holen.
 
 Quelle: [US Army FM 21-76](https://archive.org/details/fm-21-76-survival-manual) · [Antigiftzentrum: Tipps für Pilzsammler](https://www.antigifcentrum.be/Toxinfos/tips-voor-paddenstoelenplukkers/) · [Antigiftzentrum: Vergiftung durch Pflanzen](https://www.antigifcentrum.be/Toxinfos/vergiftiging-door-planten/) · [Antigiftzentrum: Beeren](https://www.antigifcentrum.be/Toxinfos/bessen/) · [Vlaanderen.be: Was dürfen Sie als Besucher in der flämischen Natur tun?](https://www.vlaanderen.be/natuur-milieu-en-klimaat/wat-mag-u-als-bezoeker-doen-in-de-vlaamse-natuur)
 
@@ -276,7 +284,7 @@ Quelle: [US Army FM 21-76](https://archive.org/details/fm-21-76-survival-manual)
 1. **Bevor Sie aufbrechen:** Hinterlassen Sie einen Tourenplan bei jemandem, der zu Hause bleibt. Müssen Sie in einer Notsituation Ihr Haus verlassen, hinterlassen Sie einen Zettel, wann Sie aufgebrochen sind und wohin Sie gehen.
 2. **Bleiben Sie, wo Sie sind**, wenn Sie sich verirrt haben. Bewegen Sie sich nur bei unmittelbarer Lebensgefahr fort.
 3. **Machen Sie sich sichtbar:** Tragen Sie leuchtende Kleidung, legen Sie Ihre Plane oder Steine in eine Form, die man von oben sieht.
-4. **Geben Sie Signale:** Pfeifen Sie dreimal, Pause, wieder dreimal. Blinken Sie SOS mit einer Lampe. Blinken Sie mit einem Spiegel zu Flugzeugen.
+4. **Geben Sie Signale:** Pfeifen Sie dreimal, Pause, wieder dreimal. Blinken Sie SOS mit einer Lampe. Blinken Sie mit einem Spiegel zu Flugzeugen. Ein Spiegel braucht keine Batterie.
 5. **Sparen Sie Ihre Energie.** Pfeifen statt rufen.
 6. Machen Sie kein Feuer bei hoher Brandgefahr.
 
@@ -290,17 +298,17 @@ Auch in Belgien kann es draußen lebensgefährlich heiß werden. Ein Hitzschlag 
 
 **Erkennen:** Kopfschmerzen, schwarze Flecken sehen, Schwindel oder Ohnmacht, Übelkeit und Erbrechen, Muskel- oder Bauchkrämpfe, rote Haut, zuerst starkes Schwitzen und dann keines mehr, Krampfanfälle, Verwirrtheit oder Benommenheit.
 
-**Rufen Sie 112 an bei** Bewusstseinsstörungen, abnormalem Verhalten, Krampfanfällen, wenn die Person nicht mehr schwitzt oder nicht trinken kann, ohne zu erbrechen, oder bei einer Körpertemperatur über 39 °C.
+**Rufen Sie 112 an bei** Bewusstseinsstörungen, abnormalem Verhalten, Krampfanfällen, wenn die Person nicht mehr schwitzt oder nicht trinken kann, ohne zu erbrechen, oder bei einer Körpertemperatur über 39 °C. Kommt kein Anruf zustande: Lassen Sie Hilfe holen und beginnen Sie inzwischen mit dem Kühlen (siehe Was zuerst kommt, Hilfe holen).
 
 **Was Sie tun:** Lassen Sie die Person an einem kühlen Ort ruhen und kühlen Sie sie sofort: ein Ventilator, nasse kalte Tücher oder Kühlpacks in Leiste, Achseln und Nacken, mit kaltem Wasser besprühen, Hände und Füße in kaltes Wasser. Ist der Hitzschlag die Folge einer Anstrengung und ist die Person gut bei Bewusstsein, geben Sie ihr etwas Kühles zu trinken. Geben Sie kein fiebersenkendes Mittel.
 
 **Vorbeugen:** Vermeiden Sie schwere Anstrengungen in der Hitze, trinken Sie ausreichend, suchen Sie Schatten, tragen Sie leichte Kleidung, trinken Sie keinen Alkohol. Lassen Sie nie Menschen oder Tiere in einem Auto in der Sonne zurück.
 
-Quelle: [Rode Kruis-Vlaanderen: Erste Hilfe bei Hitzschlag](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-hitteslag-of-hitteberoerte)
+Quelle: [Rode Kruis-Vlaanderen: Erste Hilfe bei Hitzschlag](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-hitteslag-of-hitteberoerte) · [National Park Service: Outdoor Emergency Plan](https://www.nps.gov/subjects/healthandsafety/upload/NPS-Outdoor-Emergency-Plan-508c.pdf)
 
 ## Nach Person
 
-| Wer | Was die Quellen sagen |
+| Wer | Was Sie tun |
 | --- | --- |
 | Kinder | Bringen Sie ihnen bei: Bleib, wo du bist, wenn du dich verirrt hast, such dir einen Baum (oder eine Bank, einen Laternenmast, einen großen Stein), hör, ob jemand deinen Namen ruft, wink, pfeif, blink mit einer Lampe. Kleine Kinder stecken oft Beeren, Blätter oder Pilze in den Mund; behalten Sie sie im Auge. |
 | Gruppen | Bleiben Sie zusammen. Muss jemand die Gruppe verlassen, dann mit einem Partner. Achten Sie gegenseitig auf Kälte- und Hitzeschäden. Bei einem Verletzten: Zwei oder mehr Personen holen Hilfe, die anderen bleiben. |

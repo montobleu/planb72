@@ -1,9 +1,9 @@
 ---
 titel: Allergic reaction and anaphylaxis
 volgorde: 15
-kort: "With a severe allergic reaction: call 112, help the person use their own adrenaline auto-injector and lay them down, or let them sit if they have difficulty breathing."
+kort: "With a severe allergic reaction: call 112 or have someone get help, help the person use their own adrenaline auto-injector and lay them down, or let them sit if they have difficulty breathing."
 status: concept
-datum: "2026-11-17"
+datum: "2026-11-18"
 bronnen:
   - naam: "Gezondheid en Wetenschap (Rode Kruis-Vlaanderen): First aid for anaphylactic shock"
     url: https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-anafylactische-shock
@@ -11,8 +11,12 @@ bronnen:
     url: https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-een-bijensteek
   - naam: "IFRC: International first aid, resuscitation, and education guidelines 2020"
     url: https://www.ifrc.org/sites/default/files/2022-02/EN_GFARC_GUIDELINES_2020.pdf
+  - naam: "European Resuscitation Council Guidelines 2021: First aid"
+    url: https://cprguidelines-old.erc.edu/assets/guidelines/European-Resuscitation-Council-Guidelines-2021-Fi.pdf
+  - naam: "112.be: Frequently asked questions"
+    url: https://112.be/en/frequently-asked-questions
 vertaling: machine
-origineel_datum: "2026-11-17"
+origineel_datum: "2026-11-18"
 ---
 
 ## Recognise
@@ -44,7 +48,7 @@ Source: [Gezondheid en Wetenschap: Anaphylactic shock](https://www.gezondheidenw
 
 1. Ensure your own safety and that of the casualty. Move the casualty away from what is causing the reaction, or remove it, for example by rinsing it off the skin.
 2. Assess the condition: find out what is wrong, check for a response, open the airway if necessary and check the breathing.
-3. Call 112 and say that it is an allergic reaction.
+3. Call 112 or have someone call and say that it is an allergic reaction. If you cannot get through, see Call 112 if.
 4. Also try to reach a GP nearby. They may have adrenaline in stock and are sometimes on the scene sooner.
 5. If the casualty has their own adrenaline auto-injector with them, give it to the casualty so that they use it themselves. Help them with it. The best place is the middle of the outer side of the thigh. It may go through clothing, if the clothing is not thick.
 6. You must not administer the auto-injector on your own initiative. Only do so if the casualty explicitly asks for it and can no longer do it themselves.
@@ -62,7 +66,7 @@ Adrenaline can cause side effects that can also be part of the allergic reaction
 
 ### Sting in the mouth or throat
 
-1. Call 112 immediately.
+1. Call 112 immediately or have someone call. If you cannot get through, see Call 112 if.
 2. Let the casualty suck on ice or rinse their mouth with cold water. That can temporarily reduce the swelling.
 
 ### Bee sting without a severe reaction
@@ -87,13 +91,13 @@ Source: [Gezondheid en Wetenschap: Anaphylactic shock](https://www.gezondheidenw
 
 ## If help is a long time coming
 
-- According to the IFRC, a second auto-injector may be considered if the emergency services have not yet arrived and the casualty does not improve within 5 to 10 minutes of the first. This only applies to the casualty's own prescribed auto-injector. Even then the Belgian rule applies: the casualty uses it themselves, and you only administer it at their explicit request if they can no longer do it themselves.
+- A second auto-injector may be considered if the emergency services have not yet arrived and the casualty does not improve within 5 to 10 minutes of the first. This only applies to the casualty's own prescribed auto-injector. Even then the casualty uses it themselves, and you only administer it at their explicit request if they can no longer do it themselves.
 - If the casualty has no auto-injector, try every way of reaching medical help: 112 and a GP nearby.
 - A severe allergic reaction can come back after everything seemed to be over, between 1 and 78 hours after the start. This happens more often after a severe reaction or if more than one auto-injector was needed. So monitor someone who has had a severe reaction or received an auto-injector for the 3 days afterwards.
 - Keep checking the level of consciousness and the breathing regularly. If the casualty becomes unconscious and is not breathing normally, perform CPR.
 - Keep the casualty lying down if they have signs of shock, or sitting if they have difficulty breathing. Keep them warm.
 - Avoid any new contact with what caused the reaction.
-- Anyone with an allergy should always carry an allergy card and their prescribed medication, and make sure the people around them know where these are. Anyone with a known allergy who travels to a remote place should prepare extra carefully for this.
+- Anyone with an allergy should always carry an allergy card and their prescribed medication, and make sure the people around them know where these are. Anyone with a known allergy who travels to a remote place should prepare extra carefully for this. Think in advance about how you will help yourself if you are alone when a reaction starts.
 
 Source: [IFRC Guidelines 2020](https://www.ifrc.org/sites/default/files/2022-02/EN_GFARC_GUIDELINES_2020.pdf) · [Gezondheid en Wetenschap: Anaphylactic shock](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-anafylactische-shock)
 
@@ -109,7 +113,14 @@ Source: [IFRC Guidelines 2020](https://www.ifrc.org/sites/default/files/2022-02/
 
 Consult a doctor after a sting if the sting cannot be removed, with extensive redness or a painful, itchy swelling, if the casualty feels unwell up to 24 hours later, if they have been stung very many times, with signs of inflammation (redness, pain, warmth, swelling) or if they are probably not sufficiently protected against tetanus.
 
-Source: [Gezondheid en Wetenschap: Anaphylactic shock](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-anafylactische-shock) · [Gezondheid en Wetenschap: Bee sting](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-een-bijensteek) · [IFRC Guidelines 2020](https://www.ifrc.org/sites/default/files/2022-02/EN_GFARC_GUIDELINES_2020.pdf)
+**If you cannot get through**
+
+- Only leave the casualty alone if there is no other option. A mild reaction can become life-threatening within a few minutes. Point directly at a bystander to get help and tell them where it is, what happened, how many casualties there are and what condition they are in.
+- Also try to reach a GP nearby (see What to do).
+- If you are giving CPR and are alone without a phone, see topic 2 (If you cannot get through).
+- See also topic 1 (If you cannot get through: getting help without a phone) and Emergency numbers in the app, If you cannot call.
+
+Source: [Gezondheid en Wetenschap: Anaphylactic shock](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-anafylactische-shock) · [Gezondheid en Wetenschap: Bee sting](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-een-bijensteek) · [IFRC Guidelines 2020](https://www.ifrc.org/sites/default/files/2022-02/EN_GFARC_GUIDELINES_2020.pdf) · [ERC Guidelines 2021: First aid](https://cprguidelines-old.erc.edu/assets/guidelines/European-Resuscitation-Council-Guidelines-2021-Fi.pdf) · [112.be: Frequently asked questions](https://112.be/en/frequently-asked-questions)
 
 ## Do not
 

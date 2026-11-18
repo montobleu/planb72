@@ -7,16 +7,16 @@ stappen:
   - "Stay indoors during the hottest hours. If that is not possible, find shade or a cool place such as a library or community centre."
   - "Keep your home cool: sun shading during the day, windows open as soon as it is cooler outside than inside."
   - "Avoid heavy exertion in the heat of the day. Wet your forehead and neck regularly."
-  - "Visit or phone older people, people living alone, sick people and families with young children around you every day."
+  - "Call round every day on older people, people living alone, sick people and families with young children around you. If you cannot go yourself, make sure someone else calls round, or phone."
   - "Never leave a child, an adult or an animal in a parked car, not even for a moment."
-  - "Call 112 in case of loss of consciousness or suspected heatstroke and cool the person down immediately."
+  - "In case of loss of consciousness or suspected heatstroke: cool the person down immediately and call 112. If that does not work, have someone else call or ask for help nearby (see Emergency numbers, If you cannot call)."
 niet:
   - "Do not leave anyone or any animal in a parked car, not even in the shade with a window open."
   - "No alcohol or sugary drinks to quench thirst."
   - "Do not give anyone with heatstroke anything to drink."
   - "Do not store medicines in a hot car or in the bathroom."
 status: concept
-datum: "2026-11-17"
+datum: "2026-11-18"
 bronnen:
   - naam: "National Crisis Center: heatwave"
     url: https://crisiscenter.be/en/risks-belgium/natural-risks/heatwave
@@ -44,8 +44,16 @@ bronnen:
     url: https://www.denkvooruit.nl/risicos/risicos-in-nederland/hitte
   - naam: "CDC: what to do to protect yourself during a power outage"
     url: https://www.cdc.gov/natural-disasters/response/what-to-do-protect-yourself-during-a-power-outage.html
+  - naam: "National Crisis Center: a plan at home"
+    url: https://crisiscenter.be/en/what-can-you-do/make-plan/emergency-plan-home
+  - naam: "National Crisis Center: a plan in your neighbourhood"
+    url: https://crisiscenter.be/en/what-can-you-do/make-plan/plan-your-neighbourhood-association-or-club
+  - naam: "112.be: Frequently asked questions"
+    url: https://112.be/en/frequently-asked-questions
+  - naam: "FPS Economy: questions from households about electricity shortages"
+    url: https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door
 vertaling: machine
-origineel_datum: "2026-11-17"
+origineel_datum: "2026-11-18"
 ---
 
 ## Recognise
@@ -56,7 +64,7 @@ origineel_datum: "2026-11-17"
 
 **RMI heat warnings**
 
-| Code | Threshold | What to do according to the RMI |
+| Code | Threshold | What to do |
 |---|---|---|
 | Yellow | maximum temperature of 32 °C or more, or the warning phase of the ozone and heat plan is active | Protect older and frailer people, drink more, keep vulnerable people out of the sun. |
 | Orange | maximum temperature of 35 °C or more | Drink regularly, wear lighter clothing, spend the day in cooler rooms, eat light meals, keep doors and windows closed. |
@@ -104,17 +112,18 @@ Source: [National Crisis Center: heatwave](https://crisiscenter.be/en/risks-belg
 
 **For others**
 
-- Make a list of contact people for an older relative: neighbours, family, GP, home nursing.
+- Make a paper list of contact people for an older relative: neighbours, family, GP, home nursing.
+- Give the contact people a key if necessary.
 - Ask your municipality about neighbourhood help initiatives.
 - Help people who need help to prepare.
 
 **Water and power**
 
-- Water and power cuts are particularly difficult in hot weather. Keep bottles of water, other drinks and a charged power bank in the house.
+- Water and power cuts are particularly difficult in hot weather. Keep bottles of water and a charged power bank in the house.
 - Find out now where you can cool off if it gets too hot at home.
-- Make arrangements with neighbours, family or friends to keep in touch in hot weather.
+- Make arrangements with neighbours, family or friends to keep in touch in hot weather, also if the phone or internet does not work.
 
-Source: [Warme dagen: how to cool down](https://www.warmedagen.be/tips-bij-warm-weer/hoe-afkoelen-bij-warm-weer) · [National Crisis Center: heatwave](https://crisiscenter.be/en/risks-belgium/natural-risks/heatwave) · [Warme dagen: chronically ill](https://www.warmedagen.be/tips-bij-warm-weer/chronisch-ziek-bij-warm-weer) · [Warme dagen: look after each other](https://www.warmedagen.be/zorg-voor-elkaar) · [Denk vooruit: heat](https://www.denkvooruit.nl/risicos/risicos-in-nederland/hitte)
+Source: [Warme dagen: how to cool down](https://www.warmedagen.be/tips-bij-warm-weer/hoe-afkoelen-bij-warm-weer) · [National Crisis Center: heatwave](https://crisiscenter.be/en/risks-belgium/natural-risks/heatwave) · [Warme dagen: chronically ill](https://www.warmedagen.be/tips-bij-warm-weer/chronisch-ziek-bij-warm-weer) · [Warme dagen: look after each other](https://www.warmedagen.be/zorg-voor-elkaar) · [Denk vooruit: heat](https://www.denkvooruit.nl/risicos/risicos-in-nederland/hitte) · [National Crisis Center: plan at home](https://crisiscenter.be/en/what-can-you-do/make-plan/emergency-plan-home) · [National Crisis Center: plan in your neighbourhood](https://crisiscenter.be/en/what-can-you-do/make-plan/plan-your-neighbourhood-association-or-club)
 
 ## During
 
@@ -138,7 +147,7 @@ Source: [Warme dagen: how to cool down](https://www.warmedagen.be/tips-bij-warm-
 
 - Open the windows as soon as it is cooler outside than inside, usually in the evening and at night. Be aware of the risk of burglary.
 - During the day, keep sun shading, windows and doors closed when it is warmer outside.
-- If you cannot get your home cool enough, go to a cooler place. Possible cool places are libraries, community centres, covered shopping centres, places of worship, parks and woods. Some municipalities set up cool spaces.
+- If you cannot get your home cool enough, go to a cooler place. For example a library, a community centre or a park. Some municipalities set up cool spaces.
 - Do not rely on a fan alone. A cool shower or a cool place helps more.
 
 Source: [Warme dagen: eating and drinking](https://www.warmedagen.be/tips-bij-warm-weer/eten-en-drinken-bij-warm-weer) · [Warme dagen: how to cool down](https://www.warmedagen.be/tips-bij-warm-weer/hoe-afkoelen-bij-warm-weer) · [Warme dagen](https://www.warmedagen.be/) · [National Crisis Center: heatwave](https://crisiscenter.be/en/risks-belgium/natural-risks/heatwave) · [RMI: heat legend](https://www.meteo.be/en/weather/warnings/legend-heat) · [CDC: power outage](https://www.cdc.gov/natural-disasters/response/what-to-do-protect-yourself-during-a-power-outage.html)
@@ -198,7 +207,6 @@ Source: [FPS Employment](https://werk.belgie.be/nl/themas/welzijn-op-het-werk/om
 - Breastfeed more often. The mother drinks extra herself.
 - Seek medical advice if a baby has fewer than 4 wet nappies in 24 hours, or in case of sunken eyes, extreme drowsiness or irritability, fever, vomiting, diarrhoea or difficulty breathing.
 - Provide water toys or a paddling pool to cool off.
-- Never leave a child in a parked car.
 
 Source: [Warme dagen: eating and drinking](https://www.warmedagen.be/tips-bij-warm-weer/eten-en-drinken-bij-warm-weer) · [Warme dagen: look after each other](https://www.warmedagen.be/zorg-voor-elkaar) · [Warme dagen: how to cool down](https://www.warmedagen.be/tips-bij-warm-weer/hoe-afkoelen-bij-warm-weer) · [National Crisis Center: heatwave](https://crisiscenter.be/en/risks-belgium/natural-risks/heatwave)
 
@@ -206,8 +214,9 @@ Source: [Warme dagen: eating and drinking](https://www.warmedagen.be/tips-bij-wa
 
 **Older people**
 
-- Visit or phone older people regularly on hot days. Bring vegetables and fruit for light meals.
+- On hot days, call round on older people more often, or phone regularly. Bring vegetables and fruit for light meals.
 - Agree who will call round if you cannot. Make sure they have a working phone.
+- If an older person feels unwell, get help immediately, via 112 if necessary. If you cannot get through, have someone else call or ask for help nearby (see Emergency numbers, If you cannot call).
 - Encourage them to drink regularly, even when not thirsty, starting a few days before the heat. Offer variety: water, coffee, tea.
 - Offer ways to cool down: a water spray, a cool cloth, a shower or a footbath.
 - Watch for signs of dehydration, tiredness and blood pressure. Older people can deteriorate quickly.
@@ -218,9 +227,9 @@ Source: [Warme dagen: eating and drinking](https://www.warmedagen.be/tips-bij-wa
 - Heat and sunlight can affect how medicines work. Drinking more can also change the concentration in the blood. Discuss this with your doctor in advance.
 - Store medicines as the package leaflet says. If it says nothing, store them in a cool, dry place, not in the bathroom.
 - When shopping, go to the pharmacy last and then straight home.
-- Ask friends or neighbours to call round or phone on hot days.
+- Ask friends or neighbours to call round on hot days, or to phone.
 
-Source: [Warme dagen: look after each other](https://www.warmedagen.be/zorg-voor-elkaar) · [Warme dagen: eating and drinking](https://www.warmedagen.be/tips-bij-warm-weer/eten-en-drinken-bij-warm-weer) · [Warme dagen: chronically ill](https://www.warmedagen.be/tips-bij-warm-weer/chronisch-ziek-bij-warm-weer)
+Source: [Warme dagen: look after each other](https://www.warmedagen.be/zorg-voor-elkaar) · [Warme dagen: eating and drinking](https://www.warmedagen.be/tips-bij-warm-weer/eten-en-drinken-bij-warm-weer) · [Warme dagen: chronically ill](https://www.warmedagen.be/tips-bij-warm-weer/chronisch-ziek-bij-warm-weer) · [112.be: Frequently asked questions](https://112.be/en/frequently-asked-questions) · [FPS Economy: questions from households about electricity shortages](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door)
 
 ### Pets and animals
 
@@ -256,7 +265,7 @@ Source: [Vlaanderen Huisdierinfo: animals and hot weather](https://www.vlaandere
 
 **In case of heatstroke: act immediately**
 
-1. Call 112 if the person loses consciousness, and follow the instructions of the emergency services.
+1. Call 112 if the person loses consciousness, and follow the instructions of the emergency services. If that does not work, have someone else call or ask for help nearby (see Emergency numbers, If you cannot call). See also the first aid card Overheating and heatstroke.
 2. Bring the person to a cool place.
 3. Cool them down immediately: spray or pour water over the skin and fan them at the same time. Ice packs in the armpits, the neck and the groin help.
 4. Do not give them anything to drink.
@@ -267,7 +276,7 @@ Source: [Vlaanderen Huisdierinfo: animals and hot weather](https://www.vlaandere
 - Consult your GP if you continue to feel unwell.
 - Keep drinking enough and get enough rest.
 
-Source: [Warme dagen: health complaints](https://www.warmedagen.be/gezondheidsklachten-bij-warm-weer) · [National Crisis Center: heatwave](https://crisiscenter.be/en/risks-belgium/natural-risks/heatwave) · [Warme dagen: look after each other](https://www.warmedagen.be/zorg-voor-elkaar)
+Source: [Warme dagen: health complaints](https://www.warmedagen.be/gezondheidsklachten-bij-warm-weer) · [National Crisis Center: heatwave](https://crisiscenter.be/en/risks-belgium/natural-risks/heatwave) · [Warme dagen: look after each other](https://www.warmedagen.be/zorg-voor-elkaar) · [112.be: Frequently asked questions](https://112.be/en/frequently-asked-questions) · [FPS Economy: questions from households about electricity shortages](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door)
 
 ## Do not
 
@@ -282,6 +291,8 @@ Source: [Warme dagen: health complaints](https://www.warmedagen.be/gezondheidskl
 Source: [National Crisis Center: heatwave](https://crisiscenter.be/en/risks-belgium/natural-risks/heatwave) · [Warme dagen: eating and drinking](https://www.warmedagen.be/tips-bij-warm-weer/eten-en-drinken-bij-warm-weer) · [Warme dagen: health complaints](https://www.warmedagen.be/gezondheidsklachten-bij-warm-weer) · [Vlaanderen Huisdierinfo](https://www.vlaanderen.be/huisdierinfo/verzorging-van-huisdieren/dieren-en-warm-weer) · [Warme dagen: chronically ill](https://www.warmedagen.be/tips-bij-warm-weer/chronisch-ziek-bij-warm-weer)
 
 ## More information
+
+To read beforehand, or when the internet works:
 
 - RMI: heat warnings per province.
 - Warmedagen.be: tips from the Flemish government for citizens and organisations.

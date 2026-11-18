@@ -1,9 +1,9 @@
 ---
 titel: Oververhitting en hitteslag
 volgorde: 11
-kort: "Stop elke inspanning, breng de persoon naar een koele plek en koel meteen af. Bij verwardheid, stuipen of meer dan 39 °C: bel 112."
+kort: "Stop elke inspanning, breng de persoon naar een koele plek en koel meteen af. Bij verwardheid, stuipen of meer dan 39 °C: bel 112 of laat hulp halen."
 status: concept
-datum: "2026-11-17"
+datum: "2026-11-18"
 bronnen:
   - naam: "Gezondheid en Wetenschap (Rode Kruis-Vlaanderen): Eerste hulp bij hitteslag of hitteberoerte"
     url: https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-hitteslag-of-hitteberoerte
@@ -13,11 +13,15 @@ bronnen:
     url: https://www.ifrc.org/sites/default/files/2022-02/EN_GFARC_GUIDELINES_2020.pdf
   - naam: "European Resuscitation Council: The ERC Guidelines 2025 on Resuscitation for Everyone"
     url: https://www.erc.edu/media/p5ymaeej/gl2025_layperson_book_ipdf-v11-e.pdf
+  - naam: "European Resuscitation Council Guidelines 2021: First aid"
+    url: https://cprguidelines-old.erc.edu/assets/guidelines/European-Resuscitation-Council-Guidelines-2021-Fi.pdf
+  - naam: "112.be: Veelgestelde vragen"
+    url: https://112.be/nl/veelgestelde-vragen
 ---
 
 ## Herkennen
 
-Oververhitting ontstaat na lange blootstelling aan hoge temperaturen of na een zware inspanning in de warmte. De IFRC onderscheidt twee niveaus. Hitteslag is levensbedreigend.
+Oververhitting ontstaat na lange blootstelling aan hoge temperaturen of na een zware inspanning in de warmte. Er zijn twee niveaus. Hitteslag is levensbedreigend.
 
 Lichte tot matige oververhitting (hitte-uitputting):
 
@@ -33,7 +37,7 @@ Hitteslag:
 - het slachtoffer is in een warme omgeving, komt er net vandaan of heeft net een zware inspanning geleverd;
 - eerst hevig zweten, daarna niet meer zweten;
 - een rode, droge, hete huid;
-- een hoge lichaamstemperatuur: de Belgische richtlijn noemt 39 °C als grens om 112 te bellen, de IFRC spreekt van meer dan 40 °C bij hitteslag;
+- een hoge lichaamstemperatuur: bel 112 vanaf 39 °C;
 - hoofdpijn, zwarte vlekken zien, duizeligheid, flauwvallen;
 - misselijkheid en braken, spier- of buikkrampen, pijn in het hele lichaam;
 - verwardheid, sufheid of vreemd gedrag;
@@ -51,9 +55,9 @@ Bron: [Gezondheid en Wetenschap: Hitteslag](https://www.gezondheidenwetenschap.b
 
 1. Laat het slachtoffer stoppen met elke inspanning en laat het rusten. Hou het zo rustig mogelijk.
 2. Breng het naar een koele plek. Doe overtollige kleding uit.
-3. Bel 112 bij de tekens van hitteslag.
+3. Bel 112 of laat iemand bellen bij de tekens van hitteslag. Lukt bellen niet, zie Bel 112 als.
 4. Koel onmiddellijk af. Hoe ernstiger de klachten, hoe krachtiger je mag koelen. Kies de beste methode die je hebt:
-   - Beste keuze: dompel het slachtoffer tot aan de nek onder in een bad met lauw tot koud water. De IFRC noemt water van 1 tot 26 °C, ongeveer 15 minuten of tot de temperatuur onder 39 °C zakt. De Belgische richtlijn zegt: tot de toestand verbetert, maximaal 15 minuten.
+   - Beste keuze: dompel het slachtoffer tot aan de nek onder in een bad met lauw tot koud water, tot de toestand verbetert en maximaal 15 minuten.
    - Lukt onderdompelen niet, bijvoorbeeld omdat er geen koud water is of omdat het slachtoffer verward is en weigert: leg een koel, nat laken over het slachtoffer of maak het nat met koud water.
    - Leg ijsblokjes in een zakje water, koelzakjes of natte, koude doeken op plaatsen met grote bloedvaten: in de liezen, onder de oksels en in de nek.
    - Besprenkel of overgiet het slachtoffer met koud water. Een plantenspuit kan helpen.
@@ -88,11 +92,11 @@ Bron: [Gezondheid en Wetenschap: Hitteslag](https://www.gezondheidenwetenschap.b
 
 ## Als hulp lang op zich laat wachten
 
-- Blijf koelen met elk middel dat je hebt: water, natte doeken, schaduw, wapperen. De ERC zegt: begin actief te koelen met alles wat beschikbaar is, zoals kleding uitdoen, natte doeken, ventilatoren en koel water.
+- Blijf actief koelen met alles wat je hebt: kleding uitdoen, koel water, natte doeken, schaduw, wapperen of een ventilator.
 - Zorg dat koelmiddelen klaarliggen op plaatsen waar het risico op oververhitting groot is, zodat er geen vertraging is.
 - Volg de temperatuur en het bewustzijn op. Probeer de temperatuur onder 39 °C te brengen en te houden.
 - Hou de persoon na het afkoelen koel en laat hem rusten. De meeste mensen met lichte tot matige oververhitting herstellen volledig.
-- Uitdroging: laat iemand die goed bij bewustzijn is voldoende drinken. Bij lichte uitdroging volstaat water. Bij ernstigere uitdroging raadt de IFRC een orale rehydratieoplossing aan. Heb je die niet, geef dan appelsap, kokoswater of water.
+- Uitdroging: laat iemand die goed bij bewustzijn is voldoende drinken. Bij lichte uitdroging volstaat water. Bij ernstigere uitdroging geef je een orale rehydratieoplossing. Heb je die niet, geef dan appelsap, kokoswater of water.
 - Zoek medisch advies bij uitdroging als de toestand niet snel verbetert, bij een baby, kind of oudere, als iemand meer vocht verliest dan hij kan drinken, als iemand weinig of niet plast en de urine donker is, of bij koorts of tekens van oververhitting.
 - Neem op reis in afgelegen gebieden met weinig water genoeg drinken mee. Vermijd zware inspanning op het heetste moment van de dag.
 
@@ -110,7 +114,14 @@ Bron: [IFRC Guidelines 2020](https://www.ifrc.org/sites/default/files/2022-02/EN
 
 Raadpleeg een arts als hittekrampen blijven aanhouden.
 
-Bron: [Gezondheid en Wetenschap: Hitteslag](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-hitteslag-of-hitteberoerte) · [Gezondheid en Wetenschap: Hittekrampen](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-hittekrampen) · [IFRC Guidelines 2020](https://www.ifrc.org/sites/default/files/2022-02/EN_GFARC_GUIDELINES_2020.pdf)
+**Lukt bellen niet**
+
+- Laat het slachtoffer alleen als er geen andere mogelijkheid is, en zeker niet in een warme omgeving. Wijs een omstander rechtstreeks aan om hulp te halen en geef mee waar het is, wat er gebeurd is, hoeveel slachtoffers er zijn en hoe ze eraan toe zijn.
+- Laat de andere omstanders helpen met koelen en met schaduw maken.
+- Blijf intussen koelen met alles wat je hebt (zie Als hulp lang op zich laat wachten).
+- Zie ook onderwerp 1 (Lukt bellen niet: hulp halen zonder telefoon) en Noodnummers in de app, Als bellen niet lukt.
+
+Bron: [Gezondheid en Wetenschap: Hitteslag](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-hitteslag-of-hitteberoerte) · [Gezondheid en Wetenschap: Hittekrampen](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-hittekrampen) · [IFRC Guidelines 2020](https://www.ifrc.org/sites/default/files/2022-02/EN_GFARC_GUIDELINES_2020.pdf) · [ERC Guidelines 2025 for Everyone](https://www.erc.edu/media/p5ymaeej/gl2025_layperson_book_ipdf-v11-e.pdf) · [ERC Guidelines 2021: First aid](https://cprguidelines-old.erc.edu/assets/guidelines/European-Resuscitation-Council-Guidelines-2021-Fi.pdf) · [112.be: Veelgestelde vragen](https://112.be/nl/veelgestelde-vragen)
 
 ## Niet doen
 

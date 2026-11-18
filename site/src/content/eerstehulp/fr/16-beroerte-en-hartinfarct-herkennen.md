@@ -1,9 +1,9 @@
 ---
 titel: Reconnaître un AVC et un infarctus
 volgorde: 16
-kort: "Bouche de travers, bras faible, difficulté à parler : appelez le 112 et notez l'heure. Douleur oppressante dans la poitrine : appelez le 112, même si elle passe après 5 minutes."
+kort: "Bouche de travers, bras faible, difficulté à parler : appelez le 112 ou faites chercher de l'aide et notez l'heure. Douleur oppressante dans la poitrine : appelez le 112, même si elle passe après 5 minutes."
 status: concept
-datum: "2026-11-17"
+datum: "2026-11-18"
 bronnen:
   - naam: "Gezondheid en Wetenschap (Rode Kruis-Vlaanderen) : Premiers secours en cas d'AVC"
     url: https://www.gezondheidenwetenschap.be/eerste-hulp/bij-een-beroerte-telt-elke-minuut
@@ -13,8 +13,12 @@ bronnen:
     url: https://www.ifrc.org/sites/default/files/2022-02/EN_GFARC_GUIDELINES_2020.pdf
   - naam: "European Resuscitation Council : The ERC Guidelines 2025 on Resuscitation for Everyone"
     url: https://www.erc.edu/media/p5ymaeej/gl2025_layperson_book_ipdf-v11-e.pdf
+  - naam: "European Resuscitation Council Guidelines 2021 : First aid"
+    url: https://cprguidelines-old.erc.edu/assets/guidelines/European-Resuscitation-Council-Guidelines-2021-Fi.pdf
+  - naam: "112.be : Questions fréquentes"
+    url: https://112.be/fr/questions-frequentes
 vertaling: machine
-origineel_datum: "2026-11-17"
+origineel_datum: "2026-11-18"
 ---
 
 ## Reconnaître
@@ -38,7 +42,7 @@ Faites le test FAST. Faites asseoir la victime pour cela.
 - F (Face, visage) : demandez-lui de sourire ou de montrer les dents. La bouche est-elle de travers ou un coin de la bouche tombe-t-il ?
 - A (Arm, bras) : demandez-lui de tendre les deux bras en même temps devant elle, paumes vers le haut. Restent-ils à la même hauteur, ou un bras descend-il ou tourne-t-il ?
 - S (Speech, parole) : la victime parle-t-elle de façon confuse ou ne trouve-t-elle pas ses mots ? Demandez-le à la victime elle-même ou aux témoins qui la connaissent. Faites-lui éventuellement répéter une phrase simple.
-- T (Time, temps) : essayez de savoir quand les plaintes ont commencé, ou quand la victime a été vue pour la dernière fois dans son état normal. Appelez le 112.
+- T (Time, temps) : essayez de savoir quand les plaintes ont commencé, ou quand la victime a été vue pour la dernière fois dans son état normal. Appelez le 112 ou faites appeler.
 
 Des plaintes légères qui ne durent que quelques minutes peuvent indiquer un petit AVC passager (accident ischémique transitoire, AIT). Dans ce cas aussi, des soins médicaux rapides sont nécessaires. Des plaintes qui ressemblent à un AVC peuvent aussi être dues à un taux de sucre dans le sang trop élevé ou trop bas.
 
@@ -63,7 +67,7 @@ Source : [Gezondheid en Wetenschap : AVC](https://www.gezondheidenwetenschap.be/
 ### AVC
 
 1. Assurez la sécurité. Si vous devez déplacer la victime, soutenez-la du côté paralysé.
-2. Appelez le 112 dès que vous reconnaissez les premières plaintes. Dites que vous soupçonnez un AVC et quand les plaintes ont commencé.
+2. Appelez le 112 ou faites appeler quelqu'un dès que vous reconnaissez les premières plaintes. Dites que vous soupçonnez un AVC et quand les plaintes ont commencé. Si l'appel ne passe pas, voir Appelez le 112 si.
 3. Notez l'heure à laquelle les plaintes ont commencé.
 4. Vérifiez la conscience et la respiration. Si nécessaire, libérez les voies respiratoires.
 5. Faites reposer la victime et ne lui faites plus faire d'effort.
@@ -75,7 +79,7 @@ Source : [Gezondheid en Wetenschap : AVC](https://www.gezondheidenwetenschap.be/
 
 ### Crise cardiaque
 
-1. Appelez le 112. Faites-le même si les plaintes passent dans les 5 minutes. Dites que vous soupçonnez une crise cardiaque, pour que l'appel reçoive la bonne priorité.
+1. Appelez le 112 ou faites appeler quelqu'un. Faites-le même si les plaintes passent dans les 5 minutes. Dites que vous soupçonnez une crise cardiaque, pour que l'appel reçoive la bonne priorité. Si l'appel ne passe pas, voir Appelez le 112 si.
 2. Vérifiez la conscience et la respiration.
 3. Faites arrêter tout effort à la victime et faites-la se reposer.
 4. Aidez-la à prendre une position confortable, par exemple assise.
@@ -83,7 +87,7 @@ Source : [Gezondheid en Wetenschap : AVC](https://www.gezondheidenwetenschap.be/
 6. Demandez-lui si elle a déjà eu cette douleur et si elle prend des médicaments pour cela. Laissez la victime prendre ses propres médicaments si elle le souhaite.
 7. Faites chercher un DEA par quelqu'un et faites-le placer près de la victime, au cas où il serait nécessaire.
 8. Rassurez la victime. Restez auprès d'elle jusqu'à l'arrivée des services de secours et surveillez la respiration et la conscience.
-9. Si l'état change, par exemple si la victime s'effondre, signalez-le au 112.
+9. Si l'état change, par exemple si la victime s'effondre, signalez-le au 112 si la communication passe, ou aux secouristes à leur arrivée.
 10. Si la victime perd connaissance et ne respire pas normalement, commencez la réanimation et utilisez le DEA (voir le sujet 2).
 
 Source : [Gezondheid en Wetenschap : AVC](https://www.gezondheidenwetenschap.be/eerste-hulp/bij-een-beroerte-telt-elke-minuut) · [Gezondheid en Wetenschap : Crise cardiaque](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-een-hartaanval) · [IFRC Guidelines 2020](https://www.ifrc.org/sites/default/files/2022-02/EN_GFARC_GUIDELINES_2020.pdf) · [ERC Guidelines 2025 for Everyone](https://www.erc.edu/media/p5ymaeej/gl2025_layperson_book_ipdf-v11-e.pdf)
@@ -91,7 +95,7 @@ Source : [Gezondheid en Wetenschap : AVC](https://www.gezondheidenwetenschap.be/
 ## Si les secours tardent à arriver
 
 - En cas d'AVC et de crise cardiaque, chaque minute compte. Plus l'aide médicale arrive vite, moins le cerveau ou le cœur sont endommagés. Cherchez donc le chemin le plus rapide vers les soins.
-- Dans une région isolée, il peut être utile de rouler en direction de l'hôpital le plus proche et de rejoindre l'ambulance en chemin.
+- En cas d'AVC, vous devez parfois conduire vous-même la victime à l'hôpital, en voiture ou par un autre moyen, si aucune ambulance ne peut arriver rapidement. Choisissez alors le moyen le plus rapide et veillez à ce que le déplacement puisse se faire en sécurité. La carte de l'application (bouton Le plus proche) indique les hôpitaux.
 - Si les services de secours mettent longtemps à arriver, faites chercher un DEA et gardez-le près de la victime. Une crise cardiaque peut évoluer en arrêt cardiaque.
 - Gardez la victime au repos, sans effort.
 - Surveillez en permanence la respiration et la conscience. Notez l'heure à laquelle les plaintes ont commencé et chaque changement. Transmettez-le aux soignants.
@@ -108,7 +112,16 @@ Source : [IFRC Guidelines 2020](https://www.ifrc.org/sites/default/files/2022-02
 - la douleur dans la poitrine persiste après la prise des propres médicaments de la victime ;
 - la victime perd connaissance.
 
-Source : [Gezondheid en Wetenschap : AVC](https://www.gezondheidenwetenschap.be/eerste-hulp/bij-een-beroerte-telt-elke-minuut) · [Gezondheid en Wetenschap : Crise cardiaque](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-een-hartaanval) · [IFRC Guidelines 2020](https://www.ifrc.org/sites/default/files/2022-02/EN_GFARC_GUIDELINES_2020.pdf)
+**Si l'appel ne passe pas**
+
+- Le temps compte : n'attendez pas. Ne laissez la victime seule que s'il n'y a pas d'autre possibilité. Désignez directement un témoin pour aller chercher de l'aide et indiquez-lui où c'est, ce qui s'est passé, combien de victimes il y a et dans quel état elles sont. En cas d'AVC : également quand les plaintes ont commencé.
+- Répartissez les tâches entre les témoins : aller chercher de l'aide, garder un œil sur la victime, aller chercher ses propres médicaments ou un DEA.
+- Crise cardiaque : restez auprès de la victime jusqu'à l'arrivée de l'aide. Ne la laissez faire aucun effort.
+- AVC : si aucune ambulance ne peut venir rapidement, vous devez parfois conduire vous-même la victime à l'hôpital (voir Si les secours tardent à arriver).
+- Si vous réanimez et êtes seul sans téléphone, voir le sujet 2 (Si l'appel ne passe pas).
+- Voir aussi le sujet 1 (Si l'appel ne passe pas : chercher de l'aide sans téléphone) et Numéros d'urgence dans l'application, Si l'appel ne passe pas.
+
+Source : [Gezondheid en Wetenschap : AVC](https://www.gezondheidenwetenschap.be/eerste-hulp/bij-een-beroerte-telt-elke-minuut) · [Gezondheid en Wetenschap : Crise cardiaque](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-een-hartaanval) · [IFRC Guidelines 2020](https://www.ifrc.org/sites/default/files/2022-02/EN_GFARC_GUIDELINES_2020.pdf) · [ERC Guidelines 2025 for Everyone](https://www.erc.edu/media/p5ymaeej/gl2025_layperson_book_ipdf-v11-e.pdf) · [ERC Guidelines 2021 : First aid](https://cprguidelines-old.erc.edu/assets/guidelines/European-Resuscitation-Council-Guidelines-2021-Fi.pdf) · [112.be : Questions fréquentes](https://112.be/fr/questions-frequentes)
 
 ## À ne pas faire
 

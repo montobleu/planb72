@@ -3,7 +3,7 @@ titel: Breuken, verstuikingen en ontwrichting
 volgorde: 8
 kort: "Hou het letsel stil in de houding waarin je het vindt, koel maximaal 20 minuten en zet nooit zelf iets recht."
 status: concept
-datum: "2026-11-17"
+datum: "2026-11-18"
 bronnen:
   - naam: "Gezondheid en Wetenschap (Rode Kruis-Vlaanderen): Eerste hulp bij breuken"
     url: https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-breuken
@@ -13,6 +13,10 @@ bronnen:
     url: https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-ontwrichting
   - naam: "IFRC: International first aid, resuscitation, and education guidelines 2020"
     url: https://www.ifrc.org/sites/default/files/2022-02/EN_GFARC_GUIDELINES_2020.pdf
+  - naam: "European Resuscitation Council Guidelines 2021: First aid"
+    url: https://cprguidelines-old.erc.edu/assets/guidelines/European-Resuscitation-Council-Guidelines-2021-Fi.pdf
+  - naam: "112.be: Veelgestelde vragen"
+    url: https://112.be/nl/veelgestelde-vragen
 ---
 
 ## Herkennen
@@ -58,7 +62,7 @@ Bron: [Gezondheid en Wetenschap: Breuken](https://www.gezondheidenwetenschap.be/
 4. Koel het letsel maximaal 20 minuten, met ijsblokjes in een zakje water of een koelzakje. Heb je geen ijs, gebruik dan koud water. Wikkel het ijs in een dunne doek en leg het nooit rechtstreeks op de huid.
 5. Stop met koelen als het slachtoffer er last van heeft. Komt de pijn terug, dan mag je opnieuw koelen zodra de huid weer een normale temperatuur heeft.
 6. Kijk na of er een bloeding is, uitwendig of inwendig, en let op tekens van shock, vooral bij een breuk van het dijbeen (zie onderwerp 6).
-7. Bel 112 bij een breuk van been, enkel of voet. Bij een gesloten breuk van arm, pols of hand mag het slachtoffer zelf naar het ziekenhuis.
+7. Bel 112 of laat bellen bij een breuk van been, enkel of voet. Lukt bellen niet, zie Bel 112 als. Bij een gesloten breuk van arm, pols of hand mag het slachtoffer zelf naar het ziekenhuis.
 8. Noteer het tijdstip van het letsel. Dat helpt de arts.
 
 ### Open breuk
@@ -67,7 +71,7 @@ Bron: [Gezondheid en Wetenschap: Breuken](https://www.gezondheidenwetenschap.be/
 2. Maak een steriel kompres nat met water of met een waterig, niet-verkleurend ontsmettingsmiddel en dek de breuk daarmee af.
 3. Leg geen ijs op een open breuk.
 4. Hou het ledemaat stil en behandel de shock.
-5. Bel 112.
+5. Bel 112 of laat bellen.
 
 ### Verstuiking
 
@@ -100,7 +104,7 @@ Bron: [Gezondheid en Wetenschap: Breuken](https://www.gezondheidenwetenschap.be/
 - Koel herhaaldelijk als de pijn terugkomt, telkens maximaal 20 minuten en pas als de huid weer normaal warm is.
 - Volg bij een breuk van een groot bot de tekens van shock op en hou het slachtoffer liggend en warm.
 - Let op gevoelsstoornissen, zoals tintelingen, speldenprikken of een slapende voet, en op tekens van compartimentsyndroom. Dat zijn redenen om een arts te raadplegen.
-- De IFRC vermeldt dat een getrainde hulpverlener in een afgelegen omgeving overweegt om een sterk verbogen breuk recht te zetten als het ledemaat voorbij de breuk koud en bleek is. De Belgische richtlijn zegt: zet een gewricht of ledemaat in een abnormale stand nooit recht. Volg de Belgische richtlijn.
+- Zet een gewricht of ledemaat in een abnormale stand nooit recht.
 - Ontwrichtingen en breuken moeten altijd door een zorgverlener behandeld worden. Zoek die zorg zodra het kan.
 
 Bron: [IFRC Guidelines 2020](https://www.ifrc.org/sites/default/files/2022-02/EN_GFARC_GUIDELINES_2020.pdf) · [Gezondheid en Wetenschap: Breuken](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-breuken) · [Gezondheid en Wetenschap: Ontwrichting](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-ontwrichting)
@@ -115,7 +119,12 @@ Bron: [IFRC Guidelines 2020](https://www.ifrc.org/sites/default/files/2022-02/EN
 
 Ga naar een arts als de zwelling erg uitgesproken is, het ledemaat abnormaal staat of abnormaal (on)beweeglijk is, er gevoelsstoornissen zijn (tintelingen, speldenprikken, een slapende voet), de pijn na 20 minuten koelen niet overgaat of er tekens van compartimentsyndroom zijn.
 
-Bron: [Gezondheid en Wetenschap: Breuken](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-breuken) · [Gezondheid en Wetenschap: Verstuiking](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-verstuiking) · [Gezondheid en Wetenschap: Ontwrichting](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-ontwrichting) · [IFRC Guidelines 2020](https://www.ifrc.org/sites/default/files/2022-02/EN_GFARC_GUIDELINES_2020.pdf)
+**Lukt bellen niet**
+
+- Laat het slachtoffer alleen als er geen andere mogelijkheid is. Wijs een omstander rechtstreeks aan om hulp te halen en geef mee waar het is, wat er gebeurd is, hoeveel slachtoffers er zijn en hoe ze eraan toe zijn.
+- Zie ook onderwerp 1 (Lukt bellen niet: hulp halen zonder telefoon) en Noodnummers in de app, Als bellen niet lukt.
+
+Bron: [Gezondheid en Wetenschap: Breuken](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-breuken) · [Gezondheid en Wetenschap: Verstuiking](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-verstuiking) · [Gezondheid en Wetenschap: Ontwrichting](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-ontwrichting) · [IFRC Guidelines 2020](https://www.ifrc.org/sites/default/files/2022-02/EN_GFARC_GUIDELINES_2020.pdf) · [ERC Guidelines 2021: First aid](https://cprguidelines-old.erc.edu/assets/guidelines/European-Resuscitation-Council-Guidelines-2021-Fi.pdf) · [112.be: Veelgestelde vragen](https://112.be/nl/veelgestelde-vragen)
 
 ## Niet doen
 

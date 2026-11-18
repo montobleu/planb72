@@ -4,7 +4,7 @@ module: buiten
 volgorde: 3
 kort: "Was Ihnen in der belgischen Natur passieren kann und was Sie dann tun: Zecken und Borreliose, die Kreuzotter, Wespen und Bienen, Eichenprozessionsspinner, giftige Pflanzen und Pilze, Quallen, Gewitter, Hitze und Kälte, Wasser und Strömung, Wildschweine und der Wolf."
 status: concept
-datum: "2026-11-17"
+datum: "2026-11-18"
 bronnen:
   - naam: "Antigiftzentrum: Zeckenstiche"
     url: https://www.antigifcentrum.be/Toxinfos/tekenbeten/
@@ -54,8 +54,18 @@ bronnen:
     url: https://natuurenbos.be/sites/default/files/2024-04/Veelgestelde_vragen_over_wolf_versie_04-2024.pdf
   - naam: "Vlaanderen.be: Was dürfen Sie als Besucher in der flämischen Natur tun?"
     url: https://www.vlaanderen.be/natuur-milieu-en-klimaat/wat-mag-u-als-bezoeker-doen-in-de-vlaamse-natuur
+  - naam: "National Park Service: Outdoor Emergency Plan"
+    url: https://www.nps.gov/subjects/healthandsafety/upload/NPS-Outdoor-Emergency-Plan-508c.pdf
+  - naam: "Nationales Krisenzentrum: Natur- und Waldbrand"
+    url: https://krisenzentrum.be/de/risiken-belgien/naturrisiken/naturbrand
+  - naam: "ERC Guidelines 2021: First aid"
+    url: https://cprguidelines-old.erc.edu/assets/guidelines/European-Resuscitation-Council-Guidelines-2021-Fi.pdf
+  - naam: "112.be: Häufig gestellte Fragen"
+    url: https://112.be/de/haeufig-gestellte-fragen
+  - naam: "Nationales Krisenzentrum: Broschüre Gemeinsam vorbereitet"
+    url: https://krisenzentrum.be/sites/default/files/documents/files/WEB-Brosch%C3%BCre%20Gemeinsam%20Vorbereitet-DE.pdf
 vertaling: machine
-origineel_datum: "2026-11-17"
+origineel_datum: "2026-11-18"
 ---
 
 ## Überblick
@@ -66,7 +76,7 @@ origineel_datum: "2026-11-17"
 | Kreuzotter (nur im Antwerpener Kempenland und im Einzugsgebiet der oberen Maas) | Ruhig bleiben, Gliedmaße ruhig halten | Immer nach einem Biss |
 | Wespe, Biene, Hummel, Hornisse | Stachel entfernen, kühlen | Schwellung von Zunge oder Rachen, Atemnot, Ohnmacht |
 | Eichenprozessionsspinner | Nicht kratzen, Kleidung ausziehen, abspülen | Schwere Beschwerden, Atemnot |
-| Giftige Pflanze, Beere, Pilz | Reste aus dem Mund entfernen, Antigiftzentrum anrufen | Schwere Beschwerden |
+| Giftige Pflanze, Beere, Pilz | Reste aus dem Mund entfernen, Pflanze oder Reste aufbewahren, Antigiftzentrum oder Hausarzt kontaktieren | Schwere Beschwerden |
 | Qualle | Mit Meerwasser abspülen, nicht reiben | Allgemeine Reaktionen |
 | Gewitter | In einem Gebäude oder einem Auto aus Metall Schutz suchen | Jemand wurde getroffen |
 | Hitze | Schatten, Ruhe, abkühlen | Verwirrtheit, kein Schwitzen mehr, über 39 °C |
@@ -74,9 +84,11 @@ origineel_datum: "2026-11-17"
 | Wasser | Nicht schwimmen, wo es nicht erlaubt ist | Jemand ist in Schwierigkeiten |
 | Wildschwein, Wolf | Abstand halten, Hund an der Leine | |
 
-Antigiftzentrum: **070 245 245**, kostenlos, 24 Stunden auf 24. Bei Lebensgefahr: **112**.
+Antigiftzentrum: **070 245 245**, kostenlos, 24 Stunden auf 24, wenn das Netz funktioniert. Notieren Sie die Nummer vorab auf einer Papierliste mit wichtigen Nummern. Bei Lebensgefahr: **112**.
 
-Quelle: [Antigiftzentrum: Zeckenstiche](https://www.antigifcentrum.be/Toxinfos/tekenbeten/) · [Antigiftzentrum: Kreuzotterbisse](https://www.antigifcentrum.be/Toxinfos/adderbeten/) · [Antigiftzentrum: Stiche von Wespen, Bienen und Hornissen](https://www.antigifcentrum.be/Toxinfos/steken-van-wespen-bijen-en-hoornaars/) · [Rode Kruis-Vlaanderen: Eichenprozessionsspinner](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-irritatie-door-eikenprocessierupsen) · [Antigiftzentrum: Vergiftung durch Pflanzen](https://www.antigifcentrum.be/Toxinfos/vergiftiging-door-planten/) · [KMI: Wie schütze ich mich vor Blitzen?](https://www.meteo.be/nl/switch-language/634?nis=21004)
+**Kommt kein Anruf zustande.** Versuchen Sie es mit einem anderen Gerät oder lassen Sie Umstehende anrufen. In der Natur haben Sie nicht immer Empfang: Bitten Sie Menschen, denen Sie begegnen, an einen Ort mit Empfang zu gehen und 112 anzurufen. In einer Gruppe schicken Sie zwei oder mehr Personen los, um Alarm zu schlagen, und die anderen bleiben beim Opfer; sind Sie allein, helfen Sie zuerst und holen Sie danach Hilfe. Siehe Notrufnummern in der App, Wenn kein Anruf möglich ist, und den Leitfaden zu Signalen und Notcodes.
+
+Quelle: [National Park Service: Outdoor Emergency Plan](https://www.nps.gov/subjects/healthandsafety/upload/NPS-Outdoor-Emergency-Plan-508c.pdf) · [Nationales Krisenzentrum: Natur- und Waldbrand](https://krisenzentrum.be/de/risiken-belgien/naturrisiken/naturbrand) · [ERC Guidelines 2021: First aid](https://cprguidelines-old.erc.edu/assets/guidelines/European-Resuscitation-Council-Guidelines-2021-Fi.pdf) · [112.be: Häufig gestellte Fragen](https://112.be/de/haeufig-gestellte-fragen) · [Nationales Krisenzentrum: Broschüre Gemeinsam vorbereitet](https://krisenzentrum.be/sites/default/files/documents/files/WEB-Brosch%C3%BCre%20Gemeinsam%20Vorbereitet-DE.pdf) · [Antigiftzentrum: Zeckenstiche](https://www.antigifcentrum.be/Toxinfos/tekenbeten/) · [Antigiftzentrum: Kreuzotterbisse](https://www.antigifcentrum.be/Toxinfos/adderbeten/) · [Antigiftzentrum: Stiche von Wespen, Bienen und Hornissen](https://www.antigifcentrum.be/Toxinfos/steken-van-wespen-bijen-en-hoornaars/) · [Rode Kruis-Vlaanderen: Eichenprozessionsspinner](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-irritatie-door-eikenprocessierupsen) · [Antigiftzentrum: Vergiftung durch Pflanzen](https://www.antigifcentrum.be/Toxinfos/vergiftiging-door-planten/) · [KMI: Wie schütze ich mich vor Blitzen?](https://www.meteo.be/nl/switch-language/634?nis=21004)
 
 ## Zecken und Borreliose (Lyme-Krankheit)
 
@@ -116,7 +128,7 @@ Quelle: [Antigiftzentrum: Zeckenstiche](https://www.antigifcentrum.be/Toxinfos/t
 
 **Gebissen: was tun**
 
-1. Ein Kreuzotterbiss ist selten tödlich, muss aber immer schnell ärztlich untersucht werden. **Rufen Sie 112 an.**
+1. Ein Kreuzotterbiss ist selten tödlich, muss aber immer schnell ärztlich untersucht werden. **Rufen Sie 112 an** oder lassen Sie jemanden anrufen. Kommt kein Anruf zustande, siehe Überblick, Kommt kein Anruf zustande.
 2. Bleiben Sie ruhig und bewegen Sie sich so wenig wie möglich.
 3. Beruhigen Sie das Opfer.
 4. Halten Sie den gebissenen Körperteil so ruhig wie möglich.
@@ -138,7 +150,7 @@ Quelle: [Antigiftzentrum: Kreuzotterbisse](https://www.antigifcentrum.be/Toxinfo
 
 ## Wespen, Bienen, Hummeln und Hornissen
 
-Ein Stich in Arme, Beine oder Rumpf ist meist nicht gefährlich. Schmerz, Rötung, Juckreiz und Schwellung sind normal und können einige Tage dauern. Bei einer rein örtlichen Reaktion müssen Sie das Antigiftzentrum nicht anrufen.
+Ein Stich in Arme, Beine oder Rumpf ist meist nicht gefährlich. Schmerz, Rötung, Juckreiz und Schwellung sind normal und können einige Tage dauern. Bei einer rein örtlichen Reaktion müssen Sie das Antigiftzentrum nicht kontaktieren.
 
 **Was tun**
 
@@ -148,7 +160,7 @@ Ein Stich in Arme, Beine oder Rumpf ist meist nicht gefährlich. Schmerz, Rötun
 4. Stich in Hand oder Finger: Ziehen Sie Ringe aus, bevor die Schwellung zunimmt.
 5. Bei einer großen Schwellung: Halten Sie den Arm oder das Bein hoch.
 
-**Rufen Sie sofort 112 an** bei einer schweren allergischen Reaktion, die schon nach einem einzigen Stich auftreten kann:
+**Rufen Sie sofort 112 an** oder lassen Sie jemanden anrufen bei einer schweren allergischen Reaktion, die schon nach einem einzigen Stich auftreten kann:
 
 - Schwellung von Zunge oder Rachen;
 - Schwierigkeiten beim Schlucken, Sprechen oder Atmen;
@@ -157,7 +169,9 @@ Ein Stich in Arme, Beine oder Rumpf ist meist nicht gefährlich. Schmerz, Rötun
 - starker Schwindel, Schwäche oder Ohnmacht;
 - Bewusstlosigkeit.
 
-Hat jemand wegen einer bekannten Allergie einen Adrenalin-Autoinjektor, verwenden Sie ihn nach dessen persönlichem Notfallplan und rufen Sie 112 an.
+Kommt kein Anruf zustande, siehe Überblick, Kommt kein Anruf zustande.
+
+Hat jemand wegen einer bekannten Allergie einen Adrenalin-Autoinjektor, verwenden Sie ihn nach dessen persönlichem Notfallplan und rufen Sie 112 an oder lassen Sie Hilfe holen.
 
 **Stich in Mund oder Rachen.** Die Schwellung kann die Atemwege verengen. Lassen Sie dies immer dringend ärztlich untersuchen. Bei Atemnot oder schnell zunehmender Schwellung: Rufen Sie 112 an.
 
@@ -190,7 +204,7 @@ Von Mai bis Juli sitzen in bestimmten Gegenden behaarte Raupen auf Eichen. Sie h
 5. Duschen Sie und waschen Sie die Haare mit Wasser und Seife.
 6. Festsitzende Härchen: Kleben Sie Klebeband auf die Haut und ziehen Sie es schnell ab.
 7. Verschluckt: Trinken Sie ein großes Glas Wasser.
-8. Gereizte Augen: zum **Augenarzt**. Schwere Beschwerden: **Rufen Sie 112 an**.
+8. Gereizte Augen: zum **Augenarzt**. Schwere Beschwerden: **Rufen Sie 112 an** oder lassen Sie Hilfe holen.
 9. Benachrichtigen Sie die Gemeinde, damit die Raupen entfernt werden.
 
 **Vorbeugen.** Meiden Sie von Mai bis September die Nähe befallener Bäume (Eiche, Buche, Birke): Sie erkennen sie an kahl gefressenen Zweigen und Nestern mit Härchen und Häutungsresten. Halten Sie spielende Kinder fern. Geht es nicht anders, tragen Sie Handschuhe, lange Ärmel, eine lange Hose, eine Mütze und eine Brille.
@@ -203,7 +217,7 @@ Kleine Kinder stecken oft Beeren oder Blätter in den Mund. Meist geht das gut a
 
 **Wie Pflanzen schaden**
 
-| Art | Beispiele aus der Quelle |
+| Art | Beispiele |
 | --- | --- |
 | Verschlucken | Viele Pflanzen sind beim Verzehr giftig, ganz oder teilweise (Blätter, Beeren, Früchte, Zwiebeln) |
 | Hautreizung durch Pflanzensaft | Wolfsmilch, Schöllkraut |
@@ -214,7 +228,7 @@ Kleine Kinder stecken oft Beeren oder Blätter in den Mund. Meist geht das gut a
 **Was tun nach dem Verschlucken**
 
 1. Entfernen Sie die Pflanzenreste aus dem Mund und geben Sie ein Glas Wasser.
-2. Rufen Sie das Antigiftzentrum (070 245 245) oder den Hausarzt an. Halten Sie den Namen der Pflanze bereit.
+2. Nehmen Sie Kontakt mit dem Antigiftzentrum (070 245 245, wenn das Netz funktioniert) oder dem Hausarzt auf. Halten Sie den Namen der Pflanze bereit.
 3. Kennen Sie den Namen nicht: Bringen Sie einen ganzen Zweig mit Blättern und Blüten oder Früchten zu einem Gartencenter, Blumengeschäft, Apotheker oder Pflanzenkenner, oder machen Sie mehrere Fotos.
 4. Hat ein Kind mehrere Beeren gegessen, wenden Sie sich an den Hausarzt oder das Antigiftzentrum.
 
@@ -231,7 +245,7 @@ Quelle: [Antigiftzentrum: Vergiftung durch Pflanzen](https://www.antigifcentrum.
 
 **Etwa 60 Prozent** der Anrufe zu Pilzen beim Antigiftzentrum betreffen Kinder, die versehentlich ein Stückchen gegessen haben. Das ist meist wenig ernst, aber manchmal ist eine Bestimmung nötig. Das Antigiftzentrum arbeitet mit einem Netzwerk von Mykologen, die schnell helfen können. Eine Mahlzeit mit selbst gesammelten Pilzen ist seltener ein Problem, aber potenziell viel ernster.
 
-**Rufen Sie das Antigiftzentrum an** und halten Sie diese Angaben bereit: welche Pilze, wo gesammelt, wie lange zwischen Sammeln und Essen, wie aufbewahrt und zubereitet, ob es noch Reste gibt (roh, gekocht, geschält), welche Beschwerden, wie lange nach dem Essen die ersten Beschwerden kamen, welche Medikamente und Erkrankungen, ob alle, die mitgegessen haben, krank sind, was sonst noch gegessen und getrunken wurde.
+**Kontaktieren Sie das Antigiftzentrum**, wenn das Netz funktioniert, und halten Sie diese Angaben bereit: welche Pilze, wo gesammelt, wie lange zwischen Sammeln und Essen, wie aufbewahrt und zubereitet, ob es noch Reste gibt (roh, gekocht, geschält), welche Beschwerden, wie lange nach dem Essen die ersten Beschwerden kamen, welche Medikamente und Erkrankungen, ob alle, die mitgegessen haben, krank sind, was sonst noch gegessen und getrunken wurde.
 
 Quelle: [Antigiftzentrum: Tipps für Pilzsammler](https://www.antigifcentrum.be/Toxinfos/tips-voor-paddenstoelenplukkers/) · [Antigiftzentrum: Anrufe zu Pilzen](https://www.antigifcentrum.be/Toxinfos/oproepen-rond-paddenstoelen/)
 
@@ -247,7 +261,7 @@ An der belgischen Küste kommen keine tödlichen Quallen vor, aber ihre Nesselze
 4. Sichtbare Tentakel: Entfernen Sie sie mit einer Pinzette. Nicht sichtbar: Rasierschaum auftragen und mit dem Rand einer Bankkarte abschaben, von den Fingern oder Zehen nach oben.
 5. **Nicht reiben**, auch nicht mit Sand. **Kein Essig** an der Nordsee. **Kein Urin.** Kein Druckverband.
 
-**Rufen Sie 112 an** bei allgemeinen Reaktionen: Schwierigkeiten beim Atmen oder Schlucken, Herzrhythmusstörungen, Bewusstlosigkeit, Unwohlsein, Bauchkrämpfe, Erbrechen, Juckreiz und Rötung am ganzen Körper.
+**Rufen Sie 112 an** oder lassen Sie jemanden anrufen bei allgemeinen Reaktionen: Schwierigkeiten beim Atmen oder Schlucken, Herzrhythmusstörungen, Bewusstlosigkeit, Unwohlsein, Bauchkrämpfe, Erbrechen, Juckreiz und Rötung am ganzen Körper.
 
 Quelle: [Rode Kruis-Vlaanderen: Erste Hilfe bei einem Quallenstich](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-een-kwallenbeet)
 
@@ -276,7 +290,7 @@ Quelle: [Rode Kruis-Vlaanderen: Erste Hilfe bei einem Quallenstich](https://www.
 - Steigen Sie von Fahrrad, Moped, Motorrad oder Pferd ab und suchen Sie Schutz.
 - In einer Gruppe: Verteilen Sie sich, mindestens 2 Meter voneinander entfernt.
 
-**Jemand wurde getroffen.** Rufen Sie 112 an. Eine getroffene Person ist **nicht elektrisch geladen**: Sie dürfen sie sofort berühren. Atmet sie nicht, beginnen Sie mit der Wiederbelebung: Von den getroffenen Menschen stirbt nur einer von drei, und wer schnell und lange wiederbelebt wird, überlebt oft. Kühlen Sie Verbrennungen mit kaltem oder lauwarmem Wasser.
+**Jemand wurde getroffen.** Rufen Sie 112 an oder lassen Sie jemanden anrufen (kommt kein Anruf zustande, siehe Überblick, Kommt kein Anruf zustande). Eine getroffene Person ist **nicht elektrisch geladen**: Sie dürfen sie sofort berühren. Atmet sie nicht, beginnen Sie mit der Wiederbelebung: Von den getroffenen Menschen stirbt nur einer von drei, und wer schnell und lange wiederbelebt wird, überlebt oft. Kühlen Sie Verbrennungen mit kaltem oder lauwarmem Wasser.
 
 **Nach dem Gewitter:** Berühren Sie keine Kabel, die auf dem Boden liegen.
 
@@ -290,13 +304,13 @@ Quelle: [KMI: Wie schütze ich mich vor Blitzen?](https://www.meteo.be/nl/switch
 - Setzen Sie eine Mütze oder einen Hut auf, tragen Sie leichte Kleidung in hellen Farben, verwenden Sie Sonnencreme mit hohem Lichtschutzfaktor.
 - Vermeiden Sie schwere Anstrengungen, vor allem in der heißesten Zeit des Tages. Befeuchten Sie Stirn und Nacken regelmäßig.
 - Lassen Sie nie Menschen oder Tiere in einem geparkten Auto zurück.
-- **Hitzschlag** ist lebensbedrohlich. Anzeichen: Kopfschmerzen, Schwindel oder Ohnmacht, Erbrechen, Krämpfe, rote Haut, zuerst starkes Schwitzen und dann keines mehr, Krampfanfälle, Verwirrtheit. Rufen Sie 112 an bei Bewusstseinsstörungen, Krampfanfällen, wenn die Person nicht mehr schwitzt, nicht trinken kann, ohne zu erbrechen, oder über 39 °C. Kühlen Sie sofort im Schatten, mit nassen kalten Tüchern in Leiste, Achseln und Nacken, kaltem Wasser, einem Ventilator.
+- **Hitzschlag** ist lebensbedrohlich. Anzeichen: Kopfschmerzen, Schwindel oder Ohnmacht, Erbrechen, Krämpfe, rote Haut, zuerst starkes Schwitzen und dann keines mehr, Krampfanfälle, Verwirrtheit. Rufen Sie 112 an oder lassen Sie Hilfe holen bei Bewusstseinsstörungen, Krampfanfällen, wenn die Person nicht mehr schwitzt, nicht trinken kann, ohne zu erbrechen, oder über 39 °C. Kühlen Sie sofort im Schatten, mit nassen kalten Tüchern in Leiste, Achseln und Nacken, kaltem Wasser, einem Ventilator.
 
 **Kälte**
 
 - Ziehen Sie mehrere Schichten an und bedecken Sie den ganzen Körper, auch den Kopf.
 - Halten Sie Ihre Kleidung trocken und vermeiden Sie Schwitzen.
-- **Unterkühlung**: unkontrollierbares Zittern, später Aufhören des Zitterns, blasse kalte Haut, blaue Lippen, Verwirrtheit, Benommenheit. Rufen Sie 112 an, wenn jemand nicht mehr zittert, steif oder benommen wird. Waagerecht transportieren, nasse Kleidung ausziehen, trocken und warm zudecken, **nicht warm reiben**.
+- **Unterkühlung**: unkontrollierbares Zittern, später Aufhören des Zitterns, blasse kalte Haut, blaue Lippen, Verwirrtheit, Benommenheit. Rufen Sie 112 an oder lassen Sie Hilfe holen, wenn jemand nicht mehr zittert, steif oder benommen wird. Waagerecht transportieren, nasse Kleidung ausziehen, trocken und warm zudecken, **nicht warm reiben**.
 - **Erfrierung**: Bei leichter Erfrierung wird die Haut matt und weißlich, bei tiefer Erfrierung wird das Gewebe hart und unbeweglich. Füße, Hände und Gesicht sind am empfindlichsten. Kontrollieren Sie in einer Gruppe gegenseitig Ihre Gesichter. Tauen Sie erfrorene Körperteile **nicht an einem offenen Feuer** auf.
 
 Siehe auch die Szenarien zu Hitze und Kälte.
@@ -325,7 +339,7 @@ Quelle: [Nationales Krisenzentrum: Hitzewelle](https://krisenzentrum.be/de/risik
 1. Sorgen Sie zuerst für Ihre eigene Sicherheit.
 2. Versuchen Sie zu retten, **ohne selbst ins Wasser zu gehen**.
 3. Gehen Sie nur ins Wasser, wenn Sie dafür ausgebildet sind. Ein Ertrinkender, der bei Bewusstsein ist, klammert sich in Panik an den Retter.
-4. Rufen Sie 112 an. Jedes Opfer eines Ertrinkungsunfalls muss untersucht werden, auch wenn es nicht ernst aussieht.
+4. Rufen Sie 112 an oder lassen Sie jemanden anrufen. Kommt kein Anruf zustande, siehe Überblick, Kommt kein Anruf zustande. Jedes Opfer eines Ertrinkungsunfalls muss untersucht werden, auch wenn es nicht ernst aussieht.
 5. Holen Sie das Opfer **waagerecht** aus dem Wasser.
 6. Atmet es nicht: Beginnen Sie mit der Wiederbelebung. Bei einem Sprung in flaches Wasser: Denken Sie an eine Nackenverletzung.
 7. Bei Bewusstsein: an einen warmen Ort, nasse Kleidung ausziehen, abtrocknen, warm zudecken, nicht warm reiben.
@@ -336,7 +350,7 @@ Quelle: [Vlaanderen.be: Sicher schwimmen oder Wassersport treiben in offenen Gew
 
 Seit Anfang der 2000er Jahre gibt es in Flandern immer mehr Wildschweine, auch in Wohngebieten. Sie sind von Natur aus menschenscheu, aber intelligent. Wer sie füttert, bringt ihnen bei, Menschen mit Futter zu verbinden; dann verlieren sie ihre Scheu. Sie bleiben **wilde Tiere, die unvorhersehbar reagieren können**. Sie überqueren oft unvermittelt die Straße. Sie können Krankheitserreger tragen: **Vermeiden Sie engen Kontakt**.
 
-**Was das Agentschap Natuur en Bos empfiehlt**
+**Was Sie tun**
 
 - Füttern Sie sie nicht. Lassen Sie keine Abfälle oder Essensreste zurück.
 - Schirmen Sie Müllsäcke und Komposthaufen ab.
@@ -350,7 +364,7 @@ Quelle: [Agentschap Natuur en Bos: Wildschweine in der Nähe?](https://natuurenb
 
 ## Der Wolf in Flandern
 
-Die Wahrscheinlichkeit, dass Sie zufällig einem Wolf begegnen, ist sehr gering. Wölfe sind vor allem nachts aktiv, scheu und gut getarnt. Laut dem Agentschap Natuur en Bos und dem INBO ist die Zahl der Zwischenfälle in unserer westlichen Umgebung äußerst gering. Die Wahrscheinlichkeit, von einem Hund verletzt zu werden, ist viel größer als durch einen Wolf. Gefährlich sind vor allem Wölfe, die von Menschen gefüttert wurden und Menschen mit Futter verbinden.
+Die Wahrscheinlichkeit, dass Sie zufällig einem Wolf begegnen, ist sehr gering. Wölfe sind vor allem nachts aktiv, scheu und gut getarnt. Die Zahl der Zwischenfälle in unserer westlichen Umgebung ist äußerst gering. Die Wahrscheinlichkeit, von einem Hund verletzt zu werden, ist viel größer als durch einen Wolf. Gefährlich sind vor allem Wölfe, die von Menschen gefüttert wurden und Menschen mit Futter verbinden.
 
 **Stehen Sie einem Wolf Auge in Auge gegenüber**
 
@@ -358,7 +372,7 @@ Die Wahrscheinlichkeit, dass Sie zufällig einem Wolf begegnen, ist sehr gering.
 2. Geht der Wolf nicht von selbst, verjagen Sie ihn: Machen Sie sich groß und drohend, rufen Sie laut, klatschen Sie in die Hände, machen Sie große Bewegungen mit den Armen.
 3. Halten Sie Ihren Hund an der Leine. Ein Wolf kann einen frei laufenden Hund als Eindringling oder Beute sehen und angreifen.
 4. **Füttern Sie nie einen Wolf.**
-5. Melden Sie die Beobachtung über wolf@inbo.be.
+5. Melden Sie die Beobachtung später über wolf@inbo.be, wenn das Internet funktioniert.
 
 Ein Wolf, der nicht mehr menschenscheu ist oder dreistes Verhalten zeigt, gilt als Problemwolf. Das Agentschap Natuur en Bos und das INBO verfolgen das Verhalten der Wölfe in Flandern genau.
 
@@ -369,7 +383,7 @@ Quelle: [Agentschap Natuur en Bos: Fragen und Antworten zum Wolf in Limburg](htt
 | Wer | Worauf besonders achten |
 | --- | --- |
 | Kinder | Kontrollieren Sie sich selbst und andere nach jedem Aufenthalt in der Natur auf Zecken. Halten Sie Kinder von Bäumen mit Prozessionsspinnern fern. Kleine Kinder stecken Beeren, Blätter und Pilze in den Mund. Bei einem Kreuzotterbiss sind sie stärker gefährdet. Mehr als 5 Wespenstiche bei einem kleinen Kind: Beobachtung im Krankenhaus. |
-| Menschen mit einer Insektengiftallergie | Tragen Sie Ihren Adrenalin-Autoinjektor bei sich und folgen Sie Ihrem persönlichen Notfallplan. Rufen Sie bei einer Reaktion 112 an. |
+| Menschen mit einer Insektengiftallergie | Tragen Sie Ihren Adrenalin-Autoinjektor bei sich und folgen Sie Ihrem persönlichen Notfallplan. Rufen Sie bei einer Reaktion 112 an oder lassen Sie Hilfe holen. |
 | Ältere Menschen und Menschen mit einer chronischen Krankheit | Bei Hitze: Fragen Sie Ihren Hausarzt nach Ihren Risiken und ob Ihre Medikamente einen Einfluss haben. |
 | Wer Medikamente nimmt | Fragen Sie Ihren Arzt oder Apotheker, ob sie sich bei Wärme negativ auswirken können. |
 | Hunde | An der Leine in Naturgebieten, und vor allem dort, wo Wildschweine oder Wölfe vorkommen. |

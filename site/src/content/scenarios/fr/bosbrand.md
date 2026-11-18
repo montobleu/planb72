@@ -3,9 +3,9 @@ titel: Feu de nature
 volgorde: 13
 kort: "Un incendie dans un bois, une lande, des dunes ou un champ à proximité, ou les autorités avertissent d'un risque d'incendie élevé."
 stappen:
-  - "Appelez le 112 dès que vous voyez un incendie. Indiquez votre position avec des points de repère : chemins, étangs, tours d'observation, parkings."
   - "Dans la nature : suivez les chemins pour vous éloigner du feu et de la fumée, de préférence perpendiculairement à la direction du vent. Ne courez jamais devant le feu."
-  - "Allez vers une voie publique, un grand espace revêtu ou une zone bâtie. Aidez les autres."
+  - "Allez vers une voie publique, un grand espace revêtu ou une zone bâtie. Aidez les autres et adressez-vous aux personnes que vous croisez."
+  - "Appelez le 112 le plus vite possible et indiquez votre position avec des points de repère : chemins, étangs, tours d'observation, parkings. Pas de réseau : partez et prévenez les personnes que vous croisez en chemin. Voir aussi Numéros d'urgence, Si l'appel ne passe pas."
   - "À la maison près de la nature : fermez les fenêtres et les portes et attendez les consignes des autorités."
   - "Partez si les autorités le demandent. Coupez alors l'électricité et le gaz. N'évacuez pas de votre propre initiative."
   - "Laissez les routes et les chemins forestiers libres pour les services de secours. Restez à l'écart de la zone de l'incendie."
@@ -14,7 +14,7 @@ niet:
   - "Ne jetez pas de mégots, pas même par la fenêtre de la voiture."
   - "Ne vous garez pas dans de l'herbe haute ou sèche."
 status: concept
-datum: "2026-11-17"
+datum: "2026-11-18"
 bronnen:
   - naam: "Centre de crise National : feu de nature"
     url: https://centredecrise.be/fr/risques-en-belgique/risques-naturels/feu-de-foret
@@ -36,8 +36,14 @@ bronnen:
     url: https://www.brandweer.nl/onderwerpen/natuurbrand-voorkomen-tips-dagje-uit/
   - naam: "Ready.gov: Wildfires"
     url: https://www.ready.gov/wildfires
+  - naam: "Centre de crise National : informations pendant une situation d'urgence"
+    url: https://centredecrise.be/fr/que-pouvez-vous-faire/informez-vous/linformation-pendant-une-situation-durgence
+  - naam: "112.be : questions fréquentes"
+    url: https://112.be/fr/questions-frequentes
+  - naam: "SPF Économie : questions des ménages sur la pénurie d'électricité"
+    url: https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door
 vertaling: machine
-origineel_datum: "2026-11-17"
+origineel_datum: "2026-11-18"
 ---
 
 ## Reconnaître
@@ -46,11 +52,11 @@ Un feu de nature est un incendie dans un bois, une lande, des dunes, une prairie
 
 **Risque d'incendie en Flandre.** L'Agentschap Natuur en Bos (ANB) attribue par province un code couleur au risque d'incendie dans les zones naturelles : vert, jaune, orange ou rouge. Vert signifie peu de danger : il n'y a pas de risque particulier et, en cas d'incendie, les pompiers interviennent avec des effectifs normaux. Plus le code est élevé, plus le danger est grand. En cas de risque d'incendie ou de tempête, les zones naturelles peuvent être fermées au public. Consultez le code sur natuurenbos.be avant de partir. Les propriétaires d'autres bois publics et privés courent le même risque.
 
-**Risque d'incendie en Wallonie.** En cas de sécheresse, le bourgmestre ou le gouverneur peut imposer une interdiction locale. Cette interdiction figure sur le site web de la commune. Des panneaux d'information sont placés aux endroits sensibles.
+**Risque d'incendie en Wallonie.** En cas de sécheresse, le bourgmestre ou le gouverneur peut imposer une interdiction locale. Des panneaux d'information sont placés aux endroits sensibles. L'interdiction figure aussi sur le site web de la commune.
 
-**Information.** En cas d'incendie à proximité, suivez les canaux officiels de la commune et des autorités, en Belgique aussi BE-Alert. Ne vous fiez pas aux rumeurs ni aux messages de comptes inconnus sur les réseaux sociaux.
+**Information.** En cas d'incendie à proximité, suivez les canaux officiels de la commune et des autorités : la radio, la télévision et les véhicules de la police équipés de haut-parleurs, et si le réseau fonctionne aussi BE-Alert, les sites web et les réseaux sociaux. Ne vous fiez pas aux rumeurs ni aux messages de comptes inconnus sur les réseaux sociaux.
 
-Source : [Centre de crise National](https://centredecrise.be/fr/risques-en-belgique/risques-naturels/feu-de-foret) · [Agentschap Natuur en Bos](https://natuurenbos.be/waarschuwingen) · [Service public de Wallonie](https://environnement.wallonie.be/feux) · [Brandweer Nederland](https://www.brandweer.nl/onderwerpen/natuurbrand/)
+Source : [Centre de crise National](https://centredecrise.be/fr/risques-en-belgique/risques-naturels/feu-de-foret) · [Agentschap Natuur en Bos](https://natuurenbos.be/waarschuwingen) · [Service public de Wallonie](https://environnement.wallonie.be/feux) · [Brandweer Nederland](https://www.brandweer.nl/onderwerpen/natuurbrand/) · [Centre de crise National : informations pendant une situation d'urgence](https://centredecrise.be/fr/que-pouvez-vous-faire/informez-vous/linformation-pendant-une-situation-durgence)
 
 ## Se préparer
 
@@ -65,11 +71,11 @@ Source : [Centre de crise National](https://centredecrise.be/fr/risques-en-belgi
 - Placez un barbecue sur un sol stable et incombustible, comme des pierres, du gravier ou des dalles, loin des plantes inflammables. Gardez un seau d'eau ou de sable à portée de main.
 - Le charbon de bois et les briquettes peuvent continuer à couver après usage. Jetez-les avec précaution.
 - Rapportez le verre et les déchets chez vous.
-- Emportez toujours un GSM quand vous allez dans la nature. Installez l'application 112.
+- Emportez toujours un GSM quand vous allez dans la nature. Installez à l'avance l'application 112.
 
 ### Votre logement en bordure d'un bois ou d'une lande
 
-Les pompiers néerlandais donnent ces conseils pour les logements proches de la nature :
+Si vous habitez près de la nature :
 
 - Nettoyez le toit et les gouttières au moins deux fois par an, au printemps et en automne. Faites-le plus souvent pendant les périodes sèches.
 - Faites ramoner le conduit de cheminée et installez un pare-étincelles.
@@ -88,7 +94,7 @@ Les pompiers néerlandais donnent ces conseils pour les logements proches de la 
 - Rassemblez les cartes d'identité, les médicaments, de l'eau, les affaires pour les animaux domestiques et les téléphones à un endroit fixe.
 - Connaissez votre itinéraire d'évacuation, même quand la circulation est dense. À pied ou à vélo, cela peut être plus rapide et plus sûr qu'en voiture.
 - Convenez à l'avance avec de la famille ou des amis de l'endroit où vous pouvez aller.
-- Préparez un kit d'urgence. Ready.gov conseille de garder aussi un masque N95 contre la fumée.
+- Préparez un kit d'urgence, avec aussi un masque N95 contre la fumée.
 
 Source : [Centre de crise National](https://centredecrise.be/fr/risques-en-belgique/risques-naturels/feu-de-foret) · [Service public de Wallonie](https://environnement.wallonie.be/feux) · [Brandweer Nederland : logement](https://www.brandweer.nl/onderwerpen/natuurbrand-voorkomen-tips-vakantieverblijf/) · [Brandweer Nederland : excursion](https://www.brandweer.nl/onderwerpen/natuurbrand-voorkomen-tips-dagje-uit/) · [Brandweer Nederland : à proximité](https://www.brandweer.nl/onderwerpen/natuurbrand-in-de-buurt/) · [Centre de crise National : évacuer](https://centredecrise.be/fr/que-pouvez-vous-faire/le-bon-reflexe/evacuer) · [Ready.gov](https://www.ready.gov/wildfires)
 
@@ -96,13 +102,13 @@ Source : [Centre de crise National](https://centredecrise.be/fr/risques-en-belgi
 
 ### À la maison
 
-- Appelez le 112 si vous voyez un incendie ou si quelqu'un est en danger.
+- Appelez le 112 si vous voyez un incendie ou si quelqu'un est en danger. Si l'appel ne passe pas, faites appeler quelqu'un d'autre ou demandez de l'aide dans votre voisinage (voir Numéros d'urgence, Si l'appel ne passe pas).
 - Fermez les fenêtres et les portes.
-- N'évacuez pas de votre propre initiative. Attendez les recommandations des autorités. Suivez BE-Alert, la radio et les canaux officiels.
+- N'évacuez pas de votre propre initiative. Attendez les recommandations des autorités via la radio et les véhicules à haut-parleurs, et si le réseau fonctionne via BE-Alert.
 - Vérifiez si vos voisins, les personnes âgées et les personnes en situation de handicap ont besoin d'aide.
 - Si vous devez partir : coupez l'électricité et le gaz, prenez votre kit d'urgence et partez immédiatement.
-- Si vous ne pouvez pas partir et qu'il n'y a pas d'ordre de départ : restez à l'intérieur, fenêtres et portes fermées. En cas de fumée, Ready.gov conseille de rester dans une pièce que vous pouvez isoler de l'air extérieur, et de mettre la ventilation en recirculation ou de fermer l'entrée d'air.
-- Si vous êtes vraiment bloqué : appelez le 112 et indiquez votre position. Attendez-vous à un délai. Allumez les lumières pour que les secouristes vous trouvent.
+- Si vous ne pouvez pas partir et qu'il n'y a pas d'ordre de départ : restez à l'intérieur, fenêtres et portes fermées. En cas de fumée : restez dans une pièce que vous pouvez isoler de l'air extérieur, et mettez la ventilation en recirculation ou fermez l'entrée d'air.
+- Si vous êtes vraiment bloqué : allumez les lumières pour que les secouristes vous trouvent. Appelez le 112 et indiquez votre position. Attendez-vous à un délai.
 
 ### À l'extérieur ou en déplacement
 
@@ -114,14 +120,13 @@ Source : [Centre de crise National](https://centredecrise.be/fr/risques-en-belgi
 4. Aidez les autres personnes à rejoindre un endroit sûr.
 5. Appelez le 112 le plus vite possible ou utilisez l'application 112. Indiquez votre position avec des points de repère : chemins, étangs, tours d'observation, parkings.
 
-**Pas de réseau ?** Partez le plus vite possible et prévenez les personnes que vous croisez en chemin.
+**Pas de réseau ou l'appel ne passe pas ?** Partez le plus vite possible et prévenez les personnes que vous croisez en chemin (voir Numéros d'urgence, Si l'appel ne passe pas).
 
 Ne prenez pas de risques et suivez les consignes des pompiers et des gardes forestiers.
 
 ### En voiture
 
 - Ne bloquez pas les chemins, les routes forestières ni les accès. Laissez la voie libre pour les pompiers et l'ambulance.
-- Ne vous garez jamais dans de l'herbe haute.
 - Suivez les consignes de la police et des pompiers. Si vous devez partir, prenez l'itinéraire indiqué par les autorités.
 - Si la route est encombrée ou fermée, envisagez de partir à pied ou à vélo.
 
@@ -138,7 +143,7 @@ Ne prenez pas de risques et suivez les consignes des pompiers et des gardes fore
 
 ### Personnes vulnérables
 
-- Les personnes souffrant d'asthme, de BPCO ou d'une autre maladie pulmonaire sont particulièrement sensibles à la fumée. Limitez leur exposition. Ready.gov conseille un masque N95 ou une pièce fermée avec un purificateur d'air.
+- Les personnes souffrant d'asthme, de BPCO ou d'une autre maladie pulmonaire sont particulièrement sensibles à la fumée. Limitez leur exposition avec un masque N95 ou une pièce fermée avec un purificateur d'air.
 - Si vous êtes malade, contactez votre médecin.
 - Prévoyez dans votre plan d'urgence des personnes à proximité pour aider les personnes moins mobiles. Proposez-leur de les emmener en cas d'évacuation.
 
@@ -149,7 +154,7 @@ Ne prenez pas de risques et suivez les consignes des pompiers et des gardes fore
 - Les petits animaux domestiques sont parfois admis dans un centre d'accueil. Suivez les consignes officielles.
 - Si un animal doit rester sur place : dites aux services de secours combien d'animaux il y a et où ils se cachent. Laissez de l'eau et de la nourriture pour au moins 24 heures.
 
-Source : [Centre de crise National](https://centredecrise.be/fr/risques-en-belgique/risques-naturels/feu-de-foret) · [Service public de Wallonie](https://environnement.wallonie.be/feux) · [Brandweer Nederland](https://www.brandweer.nl/onderwerpen/natuurbrand/) · [Brandweer Nederland : à proximité](https://www.brandweer.nl/onderwerpen/natuurbrand-in-de-buurt/) · [Centre de crise National : se mettre à l'abri](https://centredecrise.be/fr/que-pouvez-vous-faire/le-bon-reflexe/se-mettre-labri) · [Centre de crise National : évacuer](https://centredecrise.be/fr/que-pouvez-vous-faire/le-bon-reflexe/evacuer) · [Ready.gov](https://www.ready.gov/wildfires)
+Source : [Centre de crise National](https://centredecrise.be/fr/risques-en-belgique/risques-naturels/feu-de-foret) · [Service public de Wallonie](https://environnement.wallonie.be/feux) · [Brandweer Nederland](https://www.brandweer.nl/onderwerpen/natuurbrand/) · [Brandweer Nederland : à proximité](https://www.brandweer.nl/onderwerpen/natuurbrand-in-de-buurt/) · [Centre de crise National : se mettre à l'abri](https://centredecrise.be/fr/que-pouvez-vous-faire/le-bon-reflexe/se-mettre-labri) · [Centre de crise National : évacuer](https://centredecrise.be/fr/que-pouvez-vous-faire/le-bon-reflexe/evacuer) · [Ready.gov](https://www.ready.gov/wildfires) · [Centre de crise National : informations pendant une situation d'urgence](https://centredecrise.be/fr/que-pouvez-vous-faire/informez-vous/linformation-pendant-une-situation-durgence) · [112.be : questions fréquentes](https://112.be/fr/questions-frequentes) · [SPF Économie : questions des ménages sur la pénurie d'électricité](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door)
 
 ## Après
 
@@ -158,7 +163,7 @@ Source : [Centre de crise National](https://centredecrise.be/fr/risques-en-belgi
 - Restez à l'écart des cendres chaudes, des arbres calcinés, des débris qui couvent et des restes incandescents. La chaleur dans le sol peut causer des brûlures ou un nouvel incendie.
 - Pour le nettoyage, portez des manches longues, un pantalon long, des gants de travail et des chaussures solides à semelles épaisses. Portez un masque et mouillez les débris pour limiter la poussière.
 - Prenez des photos des dégâts et contactez votre assureur.
-- Envoyez des messages plutôt que d'appeler, pour que le réseau reste libre pour les appels d'urgence.
+- N'appelez qu'en cas d'urgence. Si le réseau fonctionne, envoyez plutôt des messages, pour que le réseau reste libre.
 
 Source : [Centre de crise National](https://centredecrise.be/fr/risques-en-belgique/risques-naturels/feu-de-foret) · [Ready.gov](https://www.ready.gov/wildfires)
 
@@ -176,10 +181,12 @@ Source : [Centre de crise National](https://centredecrise.be/fr/risques-en-belgi
 
 ## Plus d'informations
 
+À lire à l'avance, ou quand Internet fonctionne :
+
 - Risque d'incendie dans les zones naturelles flamandes : [natuurenbos.be/waarschuwingen](https://natuurenbos.be/waarschuwingen)
 - Risque d'incendie et interdictions en Wallonie : [environnement.wallonie.be/feux](https://environnement.wallonie.be/feux)
 - Risque et recommandations : [Centre de crise National : feu de nature](https://centredecrise.be/fr/risques-en-belgique/risques-naturels/feu-de-foret)
-- L'application 112 : [112.be](https://112.be/fr/application-mobile)
+- L'application 112, à installer à l'avance : [112.be](https://112.be/fr/application-mobile)
 - Voir aussi les fiches **Incendie** et **Chaleur**.
 
 Source : [Centre de crise National](https://centredecrise.be/fr/risques-en-belgique/risques-naturels/feu-de-foret)

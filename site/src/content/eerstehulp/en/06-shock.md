@@ -1,9 +1,9 @@
 ---
 titel: Shock
 volgorde: 6
-kort: "Shock is a failing circulation. Lay the person down, treat the cause, call 112 and keep them warm and calm."
+kort: "Shock is a failing circulation. Lay the person down, treat the cause, have someone call 112 or get help and keep them warm and calm."
 status: concept
-datum: "2026-11-17"
+datum: "2026-11-18"
 bronnen:
   - naam: "Gezondheid en Wetenschap (Rode Kruis-Vlaanderen): First aid for shock"
     url: https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-shock
@@ -17,13 +17,17 @@ bronnen:
     url: https://www.erc.edu/media/p5ymaeej/gl2025_layperson_book_ipdf-v11-e.pdf
   - naam: "FEMA: Until Help Arrives, instructor guide"
     url: https://ready.gov/sites/default/files/2020-07/until-help-arrives-instructor-guide.pdf
+  - naam: "European Resuscitation Council Guidelines 2021: First aid"
+    url: https://cprguidelines-old.erc.edu/assets/guidelines/European-Resuscitation-Council-Guidelines-2021-Fi.pdf
+  - naam: "112.be: Frequently asked questions"
+    url: https://112.be/en/frequently-asked-questions
 vertaling: machine
-origineel_datum: "2026-11-17"
+origineel_datum: "2026-11-18"
 ---
 
 ## Recognise
 
-Shock means that the circulation is failing: organs and tissues do not get enough blood and therefore not enough oxygen. Shock is always caused by something else. The IFRC lists these causes:
+Shock means that the circulation is failing: organs and tissues do not get enough blood and therefore not enough oxygen. Shock is always caused by something else. Possible causes are:
 
 - severe bleeding, external or internal (the most common cause);
 - very severe burns, where fluid leaks from the blood vessels into the burn;
@@ -51,7 +55,7 @@ Source: [Gezondheid en Wetenschap: Shock](https://www.gezondheidenwetenschap.be/
 1. Make sure the scene is safe. Put on disposable gloves if you have them.
 2. Help the casualty to lie down on their back.
 3. Assess the condition: find out what is wrong, check for a response and, if necessary, open the airway and check the breathing.
-4. Call 112 immediately.
+4. Call 112 immediately or have someone call. If you cannot get through, see Call 112 if.
 5. Treat the cause if you know it:
    - Severe external bleeding: press on the wound with your hands for 10 minutes, keep the limb raised if possible, then apply a pressure bandage or press on a clean cloth, and keep pressing until help arrives (see topic 3).
    - Severe allergic reaction: help the person use their own adrenaline auto-injector (see topic 15).
@@ -85,7 +89,7 @@ Shock is life-threatening and always needs medical care. What you can do while y
 - Keep the casualty lying down and calm. Do not let them stand up or walk around.
 - Talk to the casualty, hold their hand and make eye contact. If you have to leave to help another casualty, say so and ask someone to stay.
 - Check the level of consciousness and the breathing every minute. Write down any changes.
-- If the condition changes, report this to 112 again. If someone has to go for help, give that person precise information to take with them about the location and the condition.
+- If the condition changes and the phone works, report this to 112 again. If someone has to go for help, give that person precise information to take with them about the location and the condition.
 
 Source: [IFRC Guidelines 2020](https://www.ifrc.org/sites/default/files/2022-02/EN_GFARC_GUIDELINES_2020.pdf) · [FEMA: Until Help Arrives](https://ready.gov/sites/default/files/2020-07/until-help-arrives-instructor-guide.pdf) · [Gezondheid en Wetenschap: Shock](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-shock)
 
@@ -98,7 +102,12 @@ Source: [IFRC Guidelines 2020](https://www.ifrc.org/sites/default/files/2022-02/
 
 Explain clearly to the emergency service what the condition is, which signs of shock you see and what the cause might be.
 
-Source: [Gezondheid en Wetenschap: Shock](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-shock) · [Gezondheid en Wetenschap: Internal bleeding in the abdomen](https://www.gezondheidenwetenschap.be/eerste-hulp/inwendige-bloeding-in-de-buik) · [IFRC Guidelines 2020](https://www.ifrc.org/sites/default/files/2022-02/EN_GFARC_GUIDELINES_2020.pdf)
+**If you cannot get through**
+
+- Only leave the casualty alone if there is no other option. Point directly at a bystander to get help and tell them where it is, what happened, how many casualties there are and what condition they are in.
+- See also topic 1 (If you cannot get through: getting help without a phone) and Emergency numbers in the app, If you cannot call.
+
+Source: [Gezondheid en Wetenschap: Shock](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-shock) · [Gezondheid en Wetenschap: Internal bleeding in the abdomen](https://www.gezondheidenwetenschap.be/eerste-hulp/inwendige-bloeding-in-de-buik) · [IFRC Guidelines 2020](https://www.ifrc.org/sites/default/files/2022-02/EN_GFARC_GUIDELINES_2020.pdf) · [ERC Guidelines 2021: First aid](https://cprguidelines-old.erc.edu/assets/guidelines/European-Resuscitation-Council-Guidelines-2021-Fi.pdf) · [112.be: Frequently asked questions](https://112.be/en/frequently-asked-questions)
 
 ## Do not
 

@@ -1,9 +1,9 @@
 ---
 titel: Stromschlag und Elektrounfälle
 volgorde: 13
-kort: "Berühren Sie niemanden, der noch Kontakt mit dem Strom hat. Schalten Sie zuerst den Strom ab. Bei Hochspannung: Bleiben Sie mindestens 10 Meter entfernt und rufen Sie 112 an."
+kort: "Berühren Sie niemanden, der noch Kontakt mit dem Strom hat. Schalten Sie zuerst den Strom ab. Bei Hochspannung: Bleiben Sie mindestens 10 Meter entfernt und rufen Sie 112 an oder lassen Sie Hilfe holen."
 status: concept
-datum: "2026-11-17"
+datum: "2026-11-18"
 bronnen:
   - naam: "Gezondheid en Wetenschap (Rode Kruis-Vlaanderen): Erste Hilfe bei einem Stromunfall"
     url: https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-een-elektriciteitsongeval
@@ -13,8 +13,12 @@ bronnen:
     url: https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-brandwonden
   - naam: "IFRC: International first aid, resuscitation, and education guidelines 2020"
     url: https://www.ifrc.org/sites/default/files/2022-02/EN_GFARC_GUIDELINES_2020.pdf
+  - naam: "European Resuscitation Council Guidelines 2021: First aid"
+    url: https://cprguidelines-old.erc.edu/assets/guidelines/European-Resuscitation-Council-Guidelines-2021-Fi.pdf
+  - naam: "112.be: Häufig gestellte Fragen"
+    url: https://112.be/de/haeufig-gestellte-fragen
 vertaling: machine
-origineel_datum: "2026-11-17"
+origineel_datum: "2026-11-18"
 ---
 
 ## Erkennen
@@ -60,7 +64,7 @@ Hochspannung:
 1. Nähern Sie sich weder der Stromquelle noch der betroffenen Person. Bleiben Sie mindestens 10 Meter entfernt. Der Bereich bis 10 Meter um die Stromquelle steht unter Spannung. Hochspannung kann 3 bis 5 Meter überspringen, Sie können also einen Stromschlag erleiden, ohne den Leiter zu berühren.
 2. Ein abgerissenes Kabel am Boden kann noch unter Spannung stehen.
 3. Versuchen Sie nicht, die Stromquelle zu entfernen, auch nicht mit einem Gegenstand, der nicht leitet. Die Spannung ist zu hoch.
-4. Rufen Sie 112 an und überlassen Sie die Rettung dem Rettungsdienst.
+4. Rufen Sie 112 an oder lassen Sie jemanden anrufen, und überlassen Sie die Rettung dem Rettungsdienst. Kommt kein Anruf zustande, siehe Rufen Sie 112 an, wenn.
 5. Bei einem Zugunglück: Sitzen Sie im Zug, warten Sie auf die Anweisungen des Personals. Stehen Sie draußen, halten Sie ausreichend Abstand.
 
 ### Schritt 2: Beurteilen Sie den Zustand
@@ -68,12 +72,13 @@ Hochspannung:
 1. Nehmen Sie den ersten Kontakt mit der betroffenen Person auf, indem Sie sie kurz mit dem Handrücken berühren, und erst, wenn der Strom abgeschaltet ist oder die Person nicht mehr verbunden ist.
 2. Finden Sie heraus, was los ist.
 3. Prüfen Sie das Bewusstsein: Fragen Sie laut "Ist alles in Ordnung?" und rütteln Sie sanft an den Schultern.
-4. Reagiert sie nicht: Alarmieren Sie 112, machen Sie die Atemwege frei (Kopf nach hinten neigen, Kinn anheben) und prüfen Sie die Atmung: sehen, hören und fühlen, höchstens 10 Sekunden.
+4. Reagiert sie nicht: Alarmieren Sie 112 oder lassen Sie jemanden alarmieren (kommt kein Anruf zustande, siehe Rufen Sie 112 an, wenn), machen Sie die Atemwege frei (Kopf nach hinten neigen, Kinn anheben) und prüfen Sie die Atmung: sehen, hören und fühlen, höchstens 10 Sekunden.
 
 ### Schritt 3: Holen Sie fachkundige Hilfe
 
-- Bewusstlos: Rufen Sie 112 an.
-- Schwere Verletzungen oder Zweifel: Rufen Sie 112 an.
+- Bewusstlos: Rufen Sie 112 an oder lassen Sie jemanden anrufen.
+- Schwere Verletzungen oder Zweifel: Rufen Sie 112 an oder lassen Sie jemanden anrufen.
+- Kommt kein Anruf zustande: siehe Rufen Sie 112 an, wenn.
 - Fühlte sich die betroffene Person nach einem Unfall mit Niederspannung kurz "seltsam": Lassen Sie sie von einem Arzt untersuchen, auch wenn es nicht schwerwiegend erscheint.
 
 ### Schritt 4: Leisten Sie weitere Erste Hilfe
@@ -107,7 +112,14 @@ Quelle: [Gezondheid en Wetenschap: Stromunfall](https://www.gezondheidenwetensch
 
 Suchen Sie nach einem Unfall mit Niederspannung einen Arzt auf, wenn die betroffene Person sagt, dass sie sich kurz "seltsam" gefühlt hat. Es können innere Verletzungen vorliegen oder Beschwerden, die später auftreten.
 
-Quelle: [Gezondheid en Wetenschap: Stromunfall](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-een-elektriciteitsongeval) · [Gezondheid en Wetenschap: Brandwunden](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-brandwonden) · [Rode Kruis-Vlaanderen: Erste Hilfe bei Elektrounfällen](https://www.rodekruis.be/storage/main/2026-affiche-elektriciteitsongevallen.pdf)
+**Kommt kein Anruf zustande**
+
+- Lassen Sie die betroffene Person nur allein, wenn es keine andere Möglichkeit gibt. Sprechen Sie Umstehende direkt an, damit sie Hilfe holen, und geben Sie mit, wo es ist, was passiert ist, wie viele Betroffene es gibt und in welchem Zustand sie sind.
+- Bitten Sie andere Umstehende, die Gefahrenstelle zu bewachen: Bei Hochspannung halten sie alle in mindestens 10 Metern Abstand.
+- Lassen Sie jemanden einen AED holen. Führen Sie eine Wiederbelebung durch und sind Sie allein ohne Telefon, siehe Thema 2 (Kommt kein Anruf zustande).
+- Siehe auch Thema 1 (Kommt kein Anruf zustande: Hilfe holen ohne Telefon) und Notrufnummern in der App, Wenn kein Anruf möglich ist.
+
+Quelle: [Gezondheid en Wetenschap: Stromunfall](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-een-elektriciteitsongeval) · [Gezondheid en Wetenschap: Brandwunden](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-brandwonden) · [Rode Kruis-Vlaanderen: Erste Hilfe bei Elektrounfällen](https://www.rodekruis.be/storage/main/2026-affiche-elektriciteitsongevallen.pdf) · [IFRC Guidelines 2020](https://www.ifrc.org/sites/default/files/2022-02/EN_GFARC_GUIDELINES_2020.pdf) · [ERC Guidelines 2021: First aid](https://cprguidelines-old.erc.edu/assets/guidelines/European-Resuscitation-Council-Guidelines-2021-Fi.pdf) · [112.be: Häufig gestellte Fragen](https://112.be/de/haeufig-gestellte-fragen)
 
 ## Nicht tun
 

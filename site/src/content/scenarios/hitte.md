@@ -7,16 +7,16 @@ stappen:
   - "Blijf binnen tijdens de heetste uren. Lukt dat niet, zoek schaduw of een koele plek zoals een bibliotheek of dienstencentrum."
   - "Hou je woning koel: zonwering overdag, ramen open zodra het buiten koeler is dan binnen."
   - "Vermijd zware inspanning in het heetst van de dag. Maak voorhoofd en nek regelmatig nat."
-  - "Bezoek of bel elke dag ouderen, alleenwonenden, zieken en gezinnen met jonge kinderen in je omgeving."
+  - "Ga elke dag langs bij ouderen, alleenwonenden, zieken en gezinnen met jonge kinderen in je omgeving. Kun je zelf niet, zorg dan dat iemand anders langsgaat, of bel."
   - "Laat nooit een kind, een volwassene of een dier achter in een geparkeerde auto, ook niet even."
-  - "Bel 112 bij bewustzijnsverlies of vermoeden van hitteslag en koel de persoon meteen af."
+  - "Bij bewustzijnsverlies of vermoeden van hitteslag: koel de persoon meteen af en bel 112. Lukt dat niet, laat iemand anders bellen of vraag hulp in je buurt (zie Noodnummers, Als bellen niet lukt)."
 niet:
   - "Niemand en geen dier in een geparkeerde auto laten, ook niet in de schaduw met een raam open."
   - "Geen alcohol of suikerrijke dranken als dorstlesser."
   - "Iemand met een hitteslag niets te drinken geven."
   - "Geneesmiddelen niet in een hete auto of in de badkamer bewaren."
 status: concept
-datum: "2026-11-17"
+datum: "2026-11-18"
 bronnen:
   - naam: "Nationaal Crisiscentrum: hittegolf"
     url: https://crisiscentrum.be/nl/risicos-belgie/natuurlijke-risicos/hittegolf
@@ -44,6 +44,14 @@ bronnen:
     url: https://www.denkvooruit.nl/risicos/risicos-in-nederland/hitte
   - naam: "CDC: what to do to protect yourself during a power outage"
     url: https://www.cdc.gov/natural-disasters/response/what-to-do-protect-yourself-during-a-power-outage.html
+  - naam: "Nationaal Crisiscentrum: een plan bij je thuis"
+    url: https://crisiscentrum.be/nl/wat-kan-jij-doen/maak-een-plan/een-plan-bij-je-thuis
+  - naam: "Nationaal Crisiscentrum: een plan in jouw buurt"
+    url: https://crisiscentrum.be/nl/wat-kan-jij-doen/maak-een-plan/een-plan-jouw-buurt-vereniging
+  - naam: "112.be: Veelgestelde vragen"
+    url: https://112.be/nl/veelgestelde-vragen
+  - naam: "FOD Economie: vragen van gezinnen over elektriciteitsschaarste"
+    url: https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door
 ---
 
 ## Herkennen
@@ -54,7 +62,7 @@ bronnen:
 
 **KMI-waarschuwingen voor hitte**
 
-| Code | Drempel | Wat doen volgens het KMI |
+| Code | Drempel | Wat doen |
 |---|---|---|
 | Geel | maximumtemperatuur 32 °C of meer, of de waarschuwingsfase van het ozon- en hitteplan is actief | Bescherm ouderen en zwakkere mensen, drink meer, hou kwetsbare mensen uit de zon. |
 | Oranje | maximumtemperatuur 35 °C of meer | Drink regelmatig, kleed je lichter, breng de dag door in koelere ruimtes, eet licht, hou deuren en ramen dicht. |
@@ -102,17 +110,18 @@ Bron: [Nationaal Crisiscentrum: hittegolf](https://crisiscentrum.be/nl/risicos-b
 
 **Voor anderen**
 
-- Maak een lijst van contactpersonen voor een oudere naaste: buren, familie, huisarts, thuisverpleging.
+- Maak een papieren lijst van contactpersonen voor een oudere naaste: buren, familie, huisarts, thuisverpleging.
+- Bezorg de contactpersonen een sleutel als dat nodig is.
 - Vraag je gemeente naar initiatieven voor burenhulp.
 - Help mensen die hulp nodig hebben om zich voor te bereiden.
 
 **Water en stroom**
 
-- Water- en stroomuitval zijn bij warm weer extra lastig. Hou flessen water, andere drank en een opgeladen powerbank in huis.
+- Water- en stroomuitval zijn bij warm weer extra lastig. Hou flessen water en een opgeladen powerbank in huis.
 - Zoek nu al uit waar je verkoeling kunt vinden als het thuis te heet wordt.
-- Maak afspraken met buren, familie of vrienden om bij warm weer contact te houden.
+- Maak afspraken met buren, familie of vrienden om bij warm weer contact te houden, ook als telefoon of internet niet werkt.
 
-Bron: [Warme dagen: hoe afkoelen](https://www.warmedagen.be/tips-bij-warm-weer/hoe-afkoelen-bij-warm-weer) · [Nationaal Crisiscentrum: hittegolf](https://crisiscentrum.be/nl/risicos-belgie/natuurlijke-risicos/hittegolf) · [Warme dagen: chronisch ziek](https://www.warmedagen.be/tips-bij-warm-weer/chronisch-ziek-bij-warm-weer) · [Warme dagen: zorg voor elkaar](https://www.warmedagen.be/zorg-voor-elkaar) · [Denk vooruit: hitte](https://www.denkvooruit.nl/risicos/risicos-in-nederland/hitte)
+Bron: [Warme dagen: hoe afkoelen](https://www.warmedagen.be/tips-bij-warm-weer/hoe-afkoelen-bij-warm-weer) · [Nationaal Crisiscentrum: hittegolf](https://crisiscentrum.be/nl/risicos-belgie/natuurlijke-risicos/hittegolf) · [Warme dagen: chronisch ziek](https://www.warmedagen.be/tips-bij-warm-weer/chronisch-ziek-bij-warm-weer) · [Warme dagen: zorg voor elkaar](https://www.warmedagen.be/zorg-voor-elkaar) · [Denk vooruit: hitte](https://www.denkvooruit.nl/risicos/risicos-in-nederland/hitte) · [Nationaal Crisiscentrum: plan bij je thuis](https://crisiscentrum.be/nl/wat-kan-jij-doen/maak-een-plan/een-plan-bij-je-thuis) · [Nationaal Crisiscentrum: plan in jouw buurt](https://crisiscentrum.be/nl/wat-kan-jij-doen/maak-een-plan/een-plan-jouw-buurt-vereniging)
 
 ## Tijdens
 
@@ -136,7 +145,7 @@ Bron: [Warme dagen: hoe afkoelen](https://www.warmedagen.be/tips-bij-warm-weer/h
 
 - Open de ramen zodra het buiten koeler is dan binnen, meestal 's avonds en 's nachts. Let op het risico op inbraak.
 - Hou overdag zonwering, ramen en deuren dicht als het buiten warmer is.
-- Kun je je woning niet koel genoeg krijgen, ga dan naar een koelere plek. Mogelijke koele plekken zijn bibliotheken, dienstencentra, overdekte winkelcentra, gebedshuizen, parken en bossen. Sommige gemeenten richten koelteplekken in.
+- Kun je je woning niet koel genoeg krijgen, ga dan naar een koelere plek. Bijvoorbeeld een bibliotheek, een dienstencentrum of een park. Sommige gemeenten richten koelteplekken in.
 - Vertrouw niet alleen op een ventilator. Een koele douche of een koele plek helpt meer.
 
 Bron: [Warme dagen: eten en drinken](https://www.warmedagen.be/tips-bij-warm-weer/eten-en-drinken-bij-warm-weer) · [Warme dagen: hoe afkoelen](https://www.warmedagen.be/tips-bij-warm-weer/hoe-afkoelen-bij-warm-weer) · [Warme dagen](https://www.warmedagen.be/) · [Nationaal Crisiscentrum: hittegolf](https://crisiscentrum.be/nl/risicos-belgie/natuurlijke-risicos/hittegolf) · [KMI: legende hitte](https://www.meteo.be/nl/weer/waarschuwingen/legenda-hitte) · [CDC: power outage](https://www.cdc.gov/natural-disasters/response/what-to-do-protect-yourself-during-a-power-outage.html)
@@ -196,7 +205,6 @@ Bron: [FOD Werkgelegenheid](https://werk.belgie.be/nl/themas/welzijn-op-het-werk
 - Geef borstvoeding vaker. De moeder drinkt zelf extra.
 - Vraag medisch advies als een baby minder dan 4 natte luiers in 24 uur heeft, of bij ingevallen ogen, extreme sufheid of prikkelbaarheid, koorts, braken, diarree of moeite met ademen.
 - Voorzie waterspeelgoed of een badje om af te koelen.
-- Laat een kind nooit achter in een geparkeerde auto.
 
 Bron: [Warme dagen: eten en drinken](https://www.warmedagen.be/tips-bij-warm-weer/eten-en-drinken-bij-warm-weer) · [Warme dagen: zorg voor elkaar](https://www.warmedagen.be/zorg-voor-elkaar) · [Warme dagen: hoe afkoelen](https://www.warmedagen.be/tips-bij-warm-weer/hoe-afkoelen-bij-warm-weer) · [Nationaal Crisiscentrum: hittegolf](https://crisiscentrum.be/nl/risicos-belgie/natuurlijke-risicos/hittegolf)
 
@@ -204,8 +212,9 @@ Bron: [Warme dagen: eten en drinken](https://www.warmedagen.be/tips-bij-warm-wee
 
 **Ouderen**
 
-- Bezoek of bel ouderen regelmatig op warme dagen. Breng groenten en fruit mee voor lichte maaltijden.
+- Ga op warme dagen extra langs bij ouderen, of bel regelmatig. Breng groenten en fruit mee voor lichte maaltijden.
 - Spreek af wie langsgaat als jij het niet kunt. Zorg dat ze een werkende telefoon hebben.
+- Voelt een oudere zich niet goed, roep dan meteen hulp in, zo nodig via 112. Lukt bellen niet, laat iemand anders bellen of vraag hulp in je buurt (zie Noodnummers, Als bellen niet lukt).
 - Moedig aan om regelmatig te drinken, ook zonder dorst, en al enkele dagen voor de hitte. Bied afwisseling aan: water, koffie, thee.
 - Bied verkoeling aan: een waterverstuiver, een koele doek, een douche of een voetbad.
 - Let op tekenen van uitdroging, vermoeidheid en bloeddruk. Ouderen kunnen snel achteruitgaan.
@@ -216,9 +225,9 @@ Bron: [Warme dagen: eten en drinken](https://www.warmedagen.be/tips-bij-warm-wee
 - Hitte en zonlicht kunnen de werking van geneesmiddelen beïnvloeden. Meer drinken kan ook de concentratie in het bloed veranderen. Bespreek dit vooraf met je arts.
 - Bewaar geneesmiddelen zoals de bijsluiter zegt. Staat er niets, bewaar ze dan koel en droog, niet in de badkamer.
 - Ga bij boodschappen het laatst naar de apotheek en dan meteen naar huis.
-- Vraag vrienden of buren om op hete dagen langs te komen of te bellen.
+- Vraag vrienden of buren om op hete dagen langs te komen, of te bellen.
 
-Bron: [Warme dagen: zorg voor elkaar](https://www.warmedagen.be/zorg-voor-elkaar) · [Warme dagen: eten en drinken](https://www.warmedagen.be/tips-bij-warm-weer/eten-en-drinken-bij-warm-weer) · [Warme dagen: chronisch ziek](https://www.warmedagen.be/tips-bij-warm-weer/chronisch-ziek-bij-warm-weer)
+Bron: [Warme dagen: zorg voor elkaar](https://www.warmedagen.be/zorg-voor-elkaar) · [Warme dagen: eten en drinken](https://www.warmedagen.be/tips-bij-warm-weer/eten-en-drinken-bij-warm-weer) · [Warme dagen: chronisch ziek](https://www.warmedagen.be/tips-bij-warm-weer/chronisch-ziek-bij-warm-weer) · [112.be: Veelgestelde vragen](https://112.be/nl/veelgestelde-vragen) · [FOD Economie: vragen van gezinnen over elektriciteitsschaarste](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door)
 
 ### Huisdieren en dieren
 
@@ -254,7 +263,7 @@ Bron: [Vlaanderen Huisdierinfo: dieren en warm weer](https://www.vlaanderen.be/h
 
 **Bij een hitteslag: meteen handelen**
 
-1. Bel 112 als de persoon het bewustzijn verliest, en volg de instructies van de hulpdiensten.
+1. Bel 112 als de persoon het bewustzijn verliest, en volg de instructies van de hulpdiensten. Lukt dat niet, laat iemand anders bellen of vraag hulp in je buurt (zie Noodnummers, Als bellen niet lukt). Zie ook de eerstehulpkaart Oververhitting en hitteslag.
 2. Breng de persoon naar een koele plek.
 3. Koel meteen af: besproei of overgiet de huid met water en waaier tegelijk koelte toe. IJspakken in de oksels, de nek en de liezen helpen.
 4. Geef niets te drinken.
@@ -265,7 +274,7 @@ Bron: [Vlaanderen Huisdierinfo: dieren en warm weer](https://www.vlaanderen.be/h
 - Raadpleeg je huisarts als je je onwel blijft voelen.
 - Blijf voldoende drinken en rust voldoende uit.
 
-Bron: [Warme dagen: gezondheidsklachten](https://www.warmedagen.be/gezondheidsklachten-bij-warm-weer) · [Nationaal Crisiscentrum: hittegolf](https://crisiscentrum.be/nl/risicos-belgie/natuurlijke-risicos/hittegolf) · [Warme dagen: zorg voor elkaar](https://www.warmedagen.be/zorg-voor-elkaar)
+Bron: [Warme dagen: gezondheidsklachten](https://www.warmedagen.be/gezondheidsklachten-bij-warm-weer) · [Nationaal Crisiscentrum: hittegolf](https://crisiscentrum.be/nl/risicos-belgie/natuurlijke-risicos/hittegolf) · [Warme dagen: zorg voor elkaar](https://www.warmedagen.be/zorg-voor-elkaar) · [112.be: Veelgestelde vragen](https://112.be/nl/veelgestelde-vragen) · [FOD Economie: vragen van gezinnen over elektriciteitsschaarste](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door)
 
 ## Niet doen
 
@@ -280,6 +289,8 @@ Bron: [Warme dagen: gezondheidsklachten](https://www.warmedagen.be/gezondheidskl
 Bron: [Nationaal Crisiscentrum: hittegolf](https://crisiscentrum.be/nl/risicos-belgie/natuurlijke-risicos/hittegolf) · [Warme dagen: eten en drinken](https://www.warmedagen.be/tips-bij-warm-weer/eten-en-drinken-bij-warm-weer) · [Warme dagen: gezondheidsklachten](https://www.warmedagen.be/gezondheidsklachten-bij-warm-weer) · [Vlaanderen Huisdierinfo](https://www.vlaanderen.be/huisdierinfo/verzorging-van-huisdieren/dieren-en-warm-weer) · [Warme dagen: chronisch ziek](https://www.warmedagen.be/tips-bij-warm-weer/chronisch-ziek-bij-warm-weer)
 
 ## Meer informatie
+
+Vooraf te lezen, of als het internet werkt:
 
 - KMI: hittewaarschuwingen per provincie.
 - Warmedagen.be: tips van de Vlaamse overheid voor burgers en organisaties.

@@ -7,16 +7,16 @@ stappen:
   - "Bleiben Sie während der heißesten Stunden drinnen. Gelingt das nicht, suchen Sie Schatten oder einen kühlen Ort wie eine Bibliothek oder ein Dienstleistungszentrum."
   - "Halten Sie Ihre Wohnung kühl: tagsüber Sonnenschutz, Fenster auf, sobald es draußen kühler ist als drinnen."
   - "Vermeiden Sie schwere Anstrengung in der größten Tageshitze. Befeuchten Sie Stirn und Nacken regelmäßig."
-  - "Besuchen oder rufen Sie jeden Tag ältere Menschen, Alleinlebende, Kranke und Familien mit kleinen Kindern in Ihrer Umgebung an."
+  - "Gehen Sie jeden Tag bei älteren Menschen, Alleinlebenden, Kranken und Familien mit kleinen Kindern in Ihrer Umgebung vorbei. Können Sie es selbst nicht, sorgen Sie dafür, dass jemand anderes vorbeigeht, oder rufen Sie an."
   - "Lassen Sie nie ein Kind, einen Erwachsenen oder ein Tier in einem geparkten Auto zurück, auch nicht kurz."
-  - "Rufen Sie bei Bewusstlosigkeit oder Verdacht auf Hitzschlag die 112 an und kühlen Sie die Person sofort ab."
+  - "Bei Bewusstlosigkeit oder Verdacht auf Hitzschlag: Kühlen Sie die Person sofort ab und rufen Sie die 112 an. Gelingt das nicht, lassen Sie jemand anderen anrufen oder bitten Sie in Ihrer Nachbarschaft um Hilfe (siehe Notrufnummern, Wenn kein Anruf möglich ist)."
 niet:
   - "Niemanden und kein Tier in einem geparkten Auto lassen, auch nicht im Schatten mit offenem Fenster."
   - "Keinen Alkohol und keine stark zuckerhaltigen Getränke als Durstlöscher."
   - "Jemandem mit Hitzschlag nichts zu trinken geben."
   - "Medikamente nicht in einem heißen Auto oder im Badezimmer aufbewahren."
 status: concept
-datum: "2026-11-17"
+datum: "2026-11-18"
 bronnen:
   - naam: "Nationales Krisenzentrum: Hitzewelle"
     url: https://krisenzentrum.be/de/risiken-belgien/naturrisiken/hitzewellesommerhitze
@@ -44,8 +44,16 @@ bronnen:
     url: https://www.denkvooruit.nl/risicos/risicos-in-nederland/hitte
   - naam: "CDC: what to do to protect yourself during a power outage"
     url: https://www.cdc.gov/natural-disasters/response/what-to-do-protect-yourself-during-a-power-outage.html
+  - naam: "Nationales Krisenzentrum: ein Plan für Ihr Zuhause"
+    url: https://krisenzentrum.be/de/was-koennen-sie-tun/make-plan/ein-notfallplan-zu-hause
+  - naam: "Nationales Krisenzentrum: ein Plan für Ihre Nachbarschaft"
+    url: https://krisenzentrum.be/de/was-koennen-sie-tun/erstellen-sie-einen-plan/ein-plan-ihrem-viertel-oder-ihrem-verein
+  - naam: "112.be: Häufig gestellte Fragen"
+    url: https://112.be/de/haeufig-gestellte-fragen
+  - naam: "FÖD Wirtschaft: Fragen von Haushalten zur Stromknappheit"
+    url: https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door
 vertaling: machine
-origineel_datum: "2026-11-17"
+origineel_datum: "2026-11-18"
 ---
 
 ## Erkennen
@@ -56,7 +64,7 @@ origineel_datum: "2026-11-17"
 
 **Hitzewarnungen des KMI**
 
-| Code | Schwelle | Was tun laut KMI |
+| Code | Schwelle | Was tun |
 |---|---|---|
 | Gelb | Höchsttemperatur 32 °C oder mehr, oder die Warnphase des Ozon- und Hitzeplans ist aktiv | Schützen Sie ältere und schwächere Menschen, trinken Sie mehr, halten Sie schutzbedürftige Menschen aus der Sonne. |
 | Orange | Höchsttemperatur 35 °C oder mehr | Trinken Sie regelmäßig, kleiden Sie sich leichter, verbringen Sie den Tag in kühleren Räumen, essen Sie leicht, halten Sie Türen und Fenster geschlossen. |
@@ -104,17 +112,18 @@ Quelle: [Nationales Krisenzentrum: Hitzewelle](https://krisenzentrum.be/de/risik
 
 **Für andere**
 
-- Erstellen Sie eine Liste von Kontaktpersonen für einen älteren Angehörigen: Nachbarn, Familie, Hausarzt, häusliche Pflege.
+- Erstellen Sie eine Papierliste von Kontaktpersonen für einen älteren Angehörigen: Nachbarn, Familie, Hausarzt, häusliche Pflege.
+- Geben Sie den Kontaktpersonen einen Schlüssel, wenn das nötig ist.
 - Fragen Sie Ihre Gemeinde nach Initiativen zur Nachbarschaftshilfe.
 - Helfen Sie Menschen, die Hilfe brauchen, sich vorzubereiten.
 
 **Wasser und Strom**
 
-- Wasser- und Stromausfälle sind bei warmem Wetter besonders belastend. Halten Sie Wasserflaschen, andere Getränke und eine geladene Powerbank im Haus.
+- Wasser- und Stromausfälle sind bei warmem Wetter besonders belastend. Halten Sie Wasserflaschen und eine geladene Powerbank im Haus.
 - Finden Sie schon jetzt heraus, wo Sie Abkühlung finden können, wenn es zu Hause zu heiß wird.
-- Vereinbaren Sie mit Nachbarn, Familie oder Freunden, bei warmem Wetter Kontakt zu halten.
+- Vereinbaren Sie mit Nachbarn, Familie oder Freunden, bei warmem Wetter Kontakt zu halten, auch wenn Telefon oder Internet nicht funktionieren.
 
-Quelle: [Warme dagen: abkühlen](https://www.warmedagen.be/tips-bij-warm-weer/hoe-afkoelen-bij-warm-weer) · [Nationales Krisenzentrum: Hitzewelle](https://krisenzentrum.be/de/risiken-belgien/naturrisiken/hitzewellesommerhitze) · [Warme dagen: chronisch krank](https://www.warmedagen.be/tips-bij-warm-weer/chronisch-ziek-bij-warm-weer) · [Warme dagen: füreinander sorgen](https://www.warmedagen.be/zorg-voor-elkaar) · [Denk vooruit: Hitze](https://www.denkvooruit.nl/risicos/risicos-in-nederland/hitte)
+Quelle: [Warme dagen: abkühlen](https://www.warmedagen.be/tips-bij-warm-weer/hoe-afkoelen-bij-warm-weer) · [Nationales Krisenzentrum: Hitzewelle](https://krisenzentrum.be/de/risiken-belgien/naturrisiken/hitzewellesommerhitze) · [Warme dagen: chronisch krank](https://www.warmedagen.be/tips-bij-warm-weer/chronisch-ziek-bij-warm-weer) · [Warme dagen: füreinander sorgen](https://www.warmedagen.be/zorg-voor-elkaar) · [Denk vooruit: Hitze](https://www.denkvooruit.nl/risicos/risicos-in-nederland/hitte) · [Nationales Krisenzentrum: Plan für Ihr Zuhause](https://krisenzentrum.be/de/was-koennen-sie-tun/make-plan/ein-notfallplan-zu-hause) · [Nationales Krisenzentrum: Plan für Ihre Nachbarschaft](https://krisenzentrum.be/de/was-koennen-sie-tun/erstellen-sie-einen-plan/ein-plan-ihrem-viertel-oder-ihrem-verein)
 
 ## Während
 
@@ -138,7 +147,7 @@ Quelle: [Warme dagen: abkühlen](https://www.warmedagen.be/tips-bij-warm-weer/ho
 
 - Öffnen Sie die Fenster, sobald es draußen kühler ist als drinnen, meist abends und nachts. Achten Sie auf die Einbruchsgefahr.
 - Halten Sie tagsüber Sonnenschutz, Fenster und Türen geschlossen, wenn es draußen wärmer ist.
-- Können Sie Ihre Wohnung nicht kühl genug bekommen, gehen Sie an einen kühleren Ort. Mögliche kühle Orte sind Bibliotheken, Dienstleistungszentren, überdachte Einkaufszentren, Gotteshäuser, Parks und Wälder. Manche Gemeinden richten Kühlorte ein.
+- Können Sie Ihre Wohnung nicht kühl genug bekommen, gehen Sie an einen kühleren Ort. Zum Beispiel eine Bibliothek, ein Dienstleistungszentrum oder ein Park. Manche Gemeinden richten Kühlorte ein.
 - Verlassen Sie sich nicht nur auf einen Ventilator. Eine kühle Dusche oder ein kühler Ort hilft mehr.
 
 Quelle: [Warme dagen: Essen und Trinken](https://www.warmedagen.be/tips-bij-warm-weer/eten-en-drinken-bij-warm-weer) · [Warme dagen: abkühlen](https://www.warmedagen.be/tips-bij-warm-weer/hoe-afkoelen-bij-warm-weer) · [Warme dagen](https://www.warmedagen.be/) · [Nationales Krisenzentrum: Hitzewelle](https://krisenzentrum.be/de/risiken-belgien/naturrisiken/hitzewellesommerhitze) · [KMI: Legende Hitze](https://www.meteo.be/de/wetter/warnungen/legende-hitze) · [CDC: power outage](https://www.cdc.gov/natural-disasters/response/what-to-do-protect-yourself-during-a-power-outage.html)
@@ -198,7 +207,6 @@ Quelle: [FÖD Beschäftigung](https://werk.belgie.be/nl/themas/welzijn-op-het-we
 - Stillen Sie häufiger. Die Mutter trinkt selbst zusätzlich.
 - Holen Sie ärztlichen Rat ein, wenn ein Baby weniger als 4 nasse Windeln in 24 Stunden hat, oder bei eingefallenen Augen, extremer Benommenheit oder Reizbarkeit, Fieber, Erbrechen, Durchfall oder Atembeschwerden.
 - Sorgen Sie für Wasserspielzeug oder ein Planschbecken zum Abkühlen.
-- Lassen Sie ein Kind nie in einem geparkten Auto zurück.
 
 Quelle: [Warme dagen: Essen und Trinken](https://www.warmedagen.be/tips-bij-warm-weer/eten-en-drinken-bij-warm-weer) · [Warme dagen: füreinander sorgen](https://www.warmedagen.be/zorg-voor-elkaar) · [Warme dagen: abkühlen](https://www.warmedagen.be/tips-bij-warm-weer/hoe-afkoelen-bij-warm-weer) · [Nationales Krisenzentrum: Hitzewelle](https://krisenzentrum.be/de/risiken-belgien/naturrisiken/hitzewellesommerhitze)
 
@@ -206,8 +214,9 @@ Quelle: [Warme dagen: Essen und Trinken](https://www.warmedagen.be/tips-bij-warm
 
 **Ältere Menschen**
 
-- Besuchen oder rufen Sie ältere Menschen an warmen Tagen regelmäßig an. Bringen Sie Gemüse und Obst für leichte Mahlzeiten mit.
+- Gehen Sie an warmen Tagen öfter bei älteren Menschen vorbei, oder rufen Sie regelmäßig an. Bringen Sie Gemüse und Obst für leichte Mahlzeiten mit.
 - Vereinbaren Sie, wer vorbeigeht, wenn Sie es nicht können. Sorgen Sie dafür, dass sie ein funktionierendes Telefon haben.
+- Fühlt sich ein älterer Mensch nicht wohl, holen Sie sofort Hilfe, wenn nötig über die 112. Kommt kein Anruf zustande, lassen Sie jemand anderen anrufen oder bitten Sie in Ihrer Nachbarschaft um Hilfe (siehe Notrufnummern, Wenn kein Anruf möglich ist).
 - Ermuntern Sie sie, regelmäßig zu trinken, auch ohne Durst, und schon einige Tage vor der Hitze. Bieten Sie Abwechslung an: Wasser, Kaffee, Tee.
 - Bieten Sie Abkühlung an: einen Wasserzerstäuber, ein kühles Tuch, eine Dusche oder ein Fußbad.
 - Achten Sie auf Anzeichen von Austrocknung, Müdigkeit und den Blutdruck. Ältere Menschen können sich schnell verschlechtern.
@@ -218,9 +227,9 @@ Quelle: [Warme dagen: Essen und Trinken](https://www.warmedagen.be/tips-bij-warm
 - Hitze und Sonnenlicht können die Wirkung von Medikamenten beeinflussen. Mehr zu trinken kann auch die Konzentration im Blut verändern. Besprechen Sie das vorher mit Ihrem Arzt.
 - Bewahren Sie Medikamente so auf, wie es der Beipackzettel sagt. Steht dort nichts, bewahren Sie sie kühl und trocken auf, nicht im Badezimmer.
 - Gehen Sie bei Einkäufen zuletzt in die Apotheke und dann sofort nach Hause.
-- Bitten Sie Freunde oder Nachbarn, an heißen Tagen vorbeizukommen oder anzurufen.
+- Bitten Sie Freunde oder Nachbarn, an heißen Tagen vorbeizukommen, oder anzurufen.
 
-Quelle: [Warme dagen: füreinander sorgen](https://www.warmedagen.be/zorg-voor-elkaar) · [Warme dagen: Essen und Trinken](https://www.warmedagen.be/tips-bij-warm-weer/eten-en-drinken-bij-warm-weer) · [Warme dagen: chronisch krank](https://www.warmedagen.be/tips-bij-warm-weer/chronisch-ziek-bij-warm-weer)
+Quelle: [Warme dagen: füreinander sorgen](https://www.warmedagen.be/zorg-voor-elkaar) · [Warme dagen: Essen und Trinken](https://www.warmedagen.be/tips-bij-warm-weer/eten-en-drinken-bij-warm-weer) · [Warme dagen: chronisch krank](https://www.warmedagen.be/tips-bij-warm-weer/chronisch-ziek-bij-warm-weer) · [112.be: Häufig gestellte Fragen](https://112.be/de/haeufig-gestellte-fragen) · [FÖD Wirtschaft: Fragen von Haushalten zur Stromknappheit](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door)
 
 ### Haustiere und Tiere
 
@@ -256,7 +265,7 @@ Quelle: [Vlaanderen Huisdierinfo: Tiere und warmes Wetter](https://www.vlaandere
 
 **Bei einem Hitzschlag: sofort handeln**
 
-1. Rufen Sie die 112 an, wenn die Person das Bewusstsein verliert, und befolgen Sie die Anweisungen der Rettungsdienste.
+1. Rufen Sie die 112 an, wenn die Person das Bewusstsein verliert, und befolgen Sie die Anweisungen der Rettungsdienste. Gelingt das nicht, lassen Sie jemand anderen anrufen oder bitten Sie in Ihrer Nachbarschaft um Hilfe (siehe Notrufnummern, Wenn kein Anruf möglich ist). Siehe auch die Erste-Hilfe-Karte Überhitzung und Hitzschlag.
 2. Bringen Sie die Person an einen kühlen Ort.
 3. Kühlen Sie sofort ab: Besprühen oder übergießen Sie die Haut mit Wasser und fächeln Sie gleichzeitig Kühlung zu. Eisbeutel in den Achseln, am Nacken und in den Leisten helfen.
 4. Geben Sie nichts zu trinken.
@@ -267,7 +276,7 @@ Quelle: [Vlaanderen Huisdierinfo: Tiere und warmes Wetter](https://www.vlaandere
 - Wenden Sie sich an Ihren Hausarzt, wenn Sie sich weiterhin unwohl fühlen.
 - Trinken Sie weiterhin ausreichend und ruhen Sie sich genug aus.
 
-Quelle: [Warme dagen: Gesundheitsbeschwerden](https://www.warmedagen.be/gezondheidsklachten-bij-warm-weer) · [Nationales Krisenzentrum: Hitzewelle](https://krisenzentrum.be/de/risiken-belgien/naturrisiken/hitzewellesommerhitze) · [Warme dagen: füreinander sorgen](https://www.warmedagen.be/zorg-voor-elkaar)
+Quelle: [Warme dagen: Gesundheitsbeschwerden](https://www.warmedagen.be/gezondheidsklachten-bij-warm-weer) · [Nationales Krisenzentrum: Hitzewelle](https://krisenzentrum.be/de/risiken-belgien/naturrisiken/hitzewellesommerhitze) · [Warme dagen: füreinander sorgen](https://www.warmedagen.be/zorg-voor-elkaar) · [112.be: Häufig gestellte Fragen](https://112.be/de/haeufig-gestellte-fragen) · [FÖD Wirtschaft: Fragen von Haushalten zur Stromknappheit](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door)
 
 ## Nicht tun
 
@@ -282,6 +291,8 @@ Quelle: [Warme dagen: Gesundheitsbeschwerden](https://www.warmedagen.be/gezondhe
 Quelle: [Nationales Krisenzentrum: Hitzewelle](https://krisenzentrum.be/de/risiken-belgien/naturrisiken/hitzewellesommerhitze) · [Warme dagen: Essen und Trinken](https://www.warmedagen.be/tips-bij-warm-weer/eten-en-drinken-bij-warm-weer) · [Warme dagen: Gesundheitsbeschwerden](https://www.warmedagen.be/gezondheidsklachten-bij-warm-weer) · [Vlaanderen Huisdierinfo](https://www.vlaanderen.be/huisdierinfo/verzorging-van-huisdieren/dieren-en-warm-weer) · [Warme dagen: chronisch krank](https://www.warmedagen.be/tips-bij-warm-weer/chronisch-ziek-bij-warm-weer)
 
 ## Mehr Informationen
+
+Vorab zu lesen, oder wenn das Internet funktioniert:
 
 - KMI: Hitzewarnungen pro Provinz.
 - Warmedagen.be: Tipps der Flämischen Regierung für Bürger und Organisationen.

@@ -4,7 +4,7 @@ module: nucleair
 volgorde: 2
 kort: "Wat jodiumtabletten doen en niet doen, wie ze in België in huis haalt, waar je ze krijgt, hoe je ze bewaart en waarom je ze alleen op bevel neemt. Zonder doseringen."
 status: concept
-datum: "2026-11-17"
+datum: "2026-11-18"
 bronnen:
   - naam: "Nucleair risico: Jodiumtabletten"
     url: https://nucleairrisico.be/nl/jodiumtabletten
@@ -22,6 +22,8 @@ bronnen:
     url: https://nucleairrisico.be/nl/wat-kan-jij-doen/inname-stabiel-jodium
   - naam: "Nucleair risico: Noodplanningszones"
     url: https://nucleairrisico.be/nl/wat-doet-de-overheid/noodplanningszones
+  - naam: "Nucleair risico: Waarschuwen en beschermen van de bevolking"
+    url: https://nucleairrisico.be/nl/wat-doet-de-overheid/waarschuwen-en-beschermen-van-de-bevolking
   - naam: "Nucleair risico: veelgestelde vragen"
     url: https://nucleairrisico.be/nl/faq
   - naam: "Nationaal Crisiscentrum: Incident in een kerncentrale"
@@ -56,22 +58,22 @@ Radioactief jodium komt op drie manieren binnen:
 | Eten of drinken van besmette voeding | De overheid neemt maatregelen, bijvoorbeeld een verbod op melk of groenten |
 | Opname via de huid | Meestal te verwaarlozen |
 
-Jodiumtabletten bevatten gewoon, niet-radioactief jodium: volgens de Belgische overheid ongeveer duizend keer de dagelijks benodigde hoeveelheid. Neem je ze op het juiste moment, dan is je schildklier verzadigd en neemt ze geen radioactief jodium meer op. Het teveel aan jodium plas je snel uit. De WHO noemt deze maatregel jodiumblokkade van de schildklier.
+Jodiumtabletten bevatten gewoon, niet-radioactief jodium: ongeveer duizend keer de dagelijks benodigde hoeveelheid. Neem je ze op het juiste moment, dan is je schildklier verzadigd en neemt ze geen radioactief jodium meer op. Het teveel aan jodium plas je snel uit. Deze maatregel heet jodiumblokkade van de schildklier.
 
 Bron: [Nucleair risico: Stabiel en radioactief jodium](https://nucleairrisico.be/nl/jodiumtabletten/stabiel-en-radioactief-jodium) · [Nucleair risico: Wanneer innemen](https://nucleairrisico.be/nl/jodiumtabletten/wanneer-innemen) · [Nucleair risico: Jodiumtabletten](https://nucleairrisico.be/nl/jodiumtabletten) · [WHO: Use of potassium iodide](https://www.who.int/news-room/questions-and-answers/item/use-of-potassium-iodide-for-thyroid-protection-during-nuclear-or-radiological-emergencies)
 
 ## Wat jodiumtabletten niet doen
 
 - **Ze beschermen alleen de schildklier.** Ze bieden geen bescherming tegen andere radioactieve stoffen.
-- **Ze beschermen niet tegen straling van buitenaf**, bijvoorbeeld van radioactiviteit op de grond, op oppervlakken of op voedsel (WHO).
-- **Ze houden radioactief jodium niet buiten je lichaam.** Ze voorkomen alleen dat het zich in de schildklier ophoopt (WHO).
-- **Ze zijn geen tegengif tegen straling** (WHO).
+- **Ze beschermen niet tegen straling van buitenaf**, bijvoorbeeld van radioactiviteit op de grond, op oppervlakken of op voedsel.
+- **Ze houden radioactief jodium niet buiten je lichaam.** Ze voorkomen alleen dat het zich in de schildklier ophoopt.
+- **Ze zijn geen tegengif tegen straling.**
 - **Niet elk nucleair ongeval brengt radioactief jodium vrij.** Jodium is maar één van de mogelijke bestanddelen van een radioactieve wolk. Een ongeval kan nog in een eerste fase zitten zonder uitstoot.
 - **Ze maken het niet veilig om naar buiten te gaan.** Ook na inname blijf je binnen.
 
-Daarom heeft schuilen altijd voorrang op het innemen van jodium, zeker als je geen tabletten in huis hebt. De aanbeveling om jodium te nemen valt altijd samen met de aanbeveling om te schuilen. Ook Finland zegt: jodium beschermt alleen de schildklier en is alleen een aanvulling op binnen schuilen.
+Daarom heeft schuilen altijd voorrang op het innemen van jodium, zeker als je geen tabletten in huis hebt. De aanbeveling om jodium te nemen valt altijd samen met de aanbeveling om te schuilen.
 
-Bron: [Nucleair risico: Inname stabiel jodium](https://nucleairrisico.be/nl/wat-kan-jij-doen/inname-stabiel-jodium) · [Nucleair risico: Wanneer innemen](https://nucleairrisico.be/nl/jodiumtabletten/wanneer-innemen) · [Nucleair risico: veelgestelde vragen](https://nucleairrisico.be/nl/faq) · [Nucleair risico: Voor wie](https://nucleairrisico.be/nl/jodiumtabletten/voor-wie) · [WHO: Use of potassium iodide](https://www.who.int/news-room/questions-and-answers/item/use-of-potassium-iodide-for-thyroid-protection-during-nuclear-or-radiological-emergencies) · [Suomi.fi: Radiation hazards](https://www.suomi.fi/guides/preparedness/how-to-prepare-for-incidents-and-crises/radiation-hazards)
+Bron: [Nucleair risico: Inname stabiel jodium](https://nucleairrisico.be/nl/wat-kan-jij-doen/inname-stabiel-jodium) · [Nucleair risico: Wanneer innemen](https://nucleairrisico.be/nl/jodiumtabletten/wanneer-innemen) · [Nucleair risico: veelgestelde vragen](https://nucleairrisico.be/nl/faq) · [Nucleair risico: Voor wie](https://nucleairrisico.be/nl/jodiumtabletten/voor-wie) · [WHO: Use of potassium iodide](https://www.who.int/news-room/questions-and-answers/item/use-of-potassium-iodide-for-thyroid-protection-during-nuclear-or-radiological-emergencies)
 
 ## Waarom je ook binnen jodium kunt moeten nemen
 
@@ -81,7 +83,7 @@ Bron: [Nucleair risico: veelgestelde vragen](https://nucleairrisico.be/nl/faq)
 
 ## Wie in België jodiumtabletten in huis haalt
 
-| Groep | Advies van de Belgische overheid |
+| Groep | Advies |
 | --- | --- |
 | Inwoners van een gemeente binnen 20 km van een nucleaire site (10 km rond IRE Fleurus) | Haal jodiumtabletten in huis, ook als je gemeente maar gedeeltelijk in de zone ligt. Nog belangrijker als je kinderen hebt of wilt |
 | Kinderen en jongeren tot 18 jaar, in heel België | Haal een doosje af |
@@ -97,17 +99,13 @@ Niemand is uitgesloten. Grootouders kunnen bijvoorbeeld tabletten in huis halen 
 
 - Het risico op schildklierkanker door radioactief jodium daalt met de leeftijd.
 - Na 40 jaar werkt de schildklier vaker ontregeld, zeker in jodiumarme streken zoals België. Het risico op bijwerkingen is dan hoger. Bij een sterk ontregelde schildklier kunnen de nadelen, zoals hartproblemen, groter zijn dan de voordelen.
-- De grens van 40 jaar volgt de kennis en aanbevelingen van de Wereldgezondheidsorganisatie. De WHO zegt dat jodiumblokkade in het algemeen niet aangewezen is bij volwassenen boven 40 jaar, met uitzondering van hulpverleners.
+- Jodiumblokkade is in het algemeen niet aangewezen bij volwassenen boven 40 jaar, met uitzondering van hulpverleners.
 
-### Verschil met andere landen
-
-Finland raadt jodium aan voor mensen van 40 jaar of jonger, en geeft bij een tekort voorrang aan kinderen, zwangere vrouwen en vrouwen die borstvoeding geven. In Finland koop je de tabletten zonder voorschrift bij de apotheek. In België zijn ze gratis. Volg in België het Belgische advies.
-
-Bron: [Nucleair risico: Voor wie](https://nucleairrisico.be/nl/jodiumtabletten/voor-wie) · [Nucleair risico: Jodiumtabletten afhalen bij de apotheek](https://nucleairrisico.be/nl/jodiumtabletten/jodiumtabletten-afhalen-bij-de-apotheek) · [Nucleair risico: Voor collectiviteiten](https://nucleairrisico.be/nl/jodiumtabletten/voor-collectiviteiten) · [Nucleair risico: veelgestelde vragen](https://nucleairrisico.be/nl/faq) · [WHO: Use of potassium iodide](https://www.who.int/news-room/questions-and-answers/item/use-of-potassium-iodide-for-thyroid-protection-during-nuclear-or-radiological-emergencies) · [Suomi.fi: Radiation hazards](https://www.suomi.fi/guides/preparedness/how-to-prepare-for-incidents-and-crises/radiation-hazards)
+Bron: [Nucleair risico: Voor wie](https://nucleairrisico.be/nl/jodiumtabletten/voor-wie) · [Nucleair risico: Jodiumtabletten afhalen bij de apotheek](https://nucleairrisico.be/nl/jodiumtabletten/jodiumtabletten-afhalen-bij-de-apotheek) · [Nucleair risico: Voor collectiviteiten](https://nucleairrisico.be/nl/jodiumtabletten/voor-collectiviteiten) · [Nucleair risico: veelgestelde vragen](https://nucleairrisico.be/nl/faq) · [WHO: Use of potassium iodide](https://www.who.int/news-room/questions-and-answers/item/use-of-potassium-iodide-for-thyroid-protection-during-nuclear-or-radiological-emergencies)
 
 ## Waar je ze haalt
 
-1. Ga langs bij een apotheek. In elke gemeente binnen de zone hebben alle apothekers jodiumtabletten. Ook buiten de zones hebben apothekers in heel het land doosjes.
+1. Haal ze uit voorzorg vooraf af: ga langs bij een apotheek. In elke gemeente binnen de zone hebben alle apothekers jodiumtabletten. Ook buiten de zones hebben apothekers in heel het land doosjes.
 2. Neem je identiteitskaart mee.
 3. De apotheker geeft je één doosje per vier personen.
 4. De tabletten zijn gratis.
@@ -123,7 +121,7 @@ Bron: [Nucleair risico: Jodiumtabletten afhalen bij de apotheek](https://nucleai
 - Bewaar de tabletten in hun originele verpakking (blister). Die beschermt tegen licht en vocht.
 - Bewaar ze op kamertemperatuur, droog en donker, zoals andere geneesmiddelen. Bescherm ze vooral tegen warmte.
 - Haal ze pas uit de verpakking als de overheid dat aanbeveelt. Buiten de verpakking worden ze vlug slecht.
-- Bewaar ze op een plaats die iedereen in huis kent, bijvoorbeeld in het geneesmiddelenkastje. Het Crisiscentrum zet ze in de lijst van het noodpakket.
+- Bewaar ze op een plaats die iedereen in huis kent, bijvoorbeeld in het geneesmiddelenkastje. Ze horen ook in je noodpakket.
 - Op de verpakking staat alleen de productiedatum. De tabletten zijn minstens 10 jaar houdbaar. Net als keukenzout verweert het jodium bijna niet.
 - De meest recente doosjes in omloop hebben productiedatum 2017.
 - Heb je nog doosjes met productiedatum 2010 of 2011, ruil ze dan gratis om bij je apotheek voor een nieuwer doosje. Laat de tabletten achter bij de apotheek; het lege doosje mag bij het oud papier.
@@ -137,34 +135,34 @@ Bron: [Nucleair risico: Jodiumtabletten afhalen bij de apotheek](https://nucleai
 
 **Neem jodiumtabletten nooit op eigen initiatief.** Neem ze alleen op uitdrukkelijk aanraden van de bevoegde overheid.
 
-- **Waarom het moment telt:** jodium werkt alleen als je het op het juiste moment neemt, best juist voor of zo snel mogelijk na een uitstoot van radioactief jodium. De overheid kiest het moment waarop de tabletten het meest doeltreffend zijn, op advies van experts. Finland zegt: te vroeg of te laat innemen vermindert de bescherming.
-- **Wat de WHO zegt over het tijdvenster:** de beste periode is minder dan 24 uur voor tot 2 uur na het verwachte begin van de blootstelling. Tot 8 uur erna is het nog redelijk. Later dan 24 uur na de blootstelling biedt het geen bescherming meer. In België beslist de overheid wanneer.
-- **Hoe je het hoort:** via BE-Alert, radio, tv en de media. De aanbeveling kan beperkt blijven tot een bepaalde zone of een bepaalde groep, bijvoorbeeld zwangere vrouwen of jonge kinderen.
+- **Waarom het moment telt:** jodium werkt alleen als je het op het juiste moment neemt, best juist voor of zo snel mogelijk na een uitstoot van radioactief jodium. De overheid kiest het moment waarop de tabletten het meest doeltreffend zijn, op advies van experts. Te vroeg of te laat innemen vermindert de bescherming.
+- **Het tijdvenster:** de beste periode is minder dan 24 uur voor tot 2 uur na het verwachte begin van de blootstelling. Tot 8 uur erna is het nog redelijk. Later dan 24 uur na de blootstelling biedt het geen bescherming meer. In België beslist de overheid wanneer.
+- **Hoe je het hoort:** de overheid zegt het via de radio en tv. Wie schuilt, zit binnen met ramen dicht: hou daarom een radio op batterijen of een opwindbare radio klaar. Ook omroepwagens van de politie rijden door de straten, zodat je de informatie ook zonder telefoon of gsm krijgt. Werkt het netwerk, dan komt de aanbeveling ook via BE-Alert. Ze kan beperkt blijven tot een bepaalde zone of een bepaalde groep, bijvoorbeeld zwangere vrouwen of jonge kinderen.
 - **Ongeval in een buurland:** neem de tabletten alleen als de Belgische overheid het uitdrukkelijk aanbeveelt.
 - **Hoe lang je beschermd bent:** na inname blijf je minstens 24 uur beschermd. Ook bij een zwaar ongeval is de kans groot dat één inname volstaat. Blijf intussen schuilen.
 
-Bron: [Nucleair risico: Wanneer innemen](https://nucleairrisico.be/nl/jodiumtabletten/wanneer-innemen) · [Nucleair risico: veelgestelde vragen](https://nucleairrisico.be/nl/faq) · [WHO: Use of potassium iodide](https://www.who.int/news-room/questions-and-answers/item/use-of-potassium-iodide-for-thyroid-protection-during-nuclear-or-radiological-emergencies) · [Suomi.fi: Radiation hazards](https://www.suomi.fi/guides/preparedness/how-to-prepare-for-incidents-and-crises/radiation-hazards)
+Bron: [Nucleair risico: Wanneer innemen](https://nucleairrisico.be/nl/jodiumtabletten/wanneer-innemen) · [Nucleair risico: veelgestelde vragen](https://nucleairrisico.be/nl/faq) · [Nucleair risico: Waarschuwen en beschermen van de bevolking](https://nucleairrisico.be/nl/wat-doet-de-overheid/waarschuwen-en-beschermen-van-de-bevolking) · [WHO: Use of potassium iodide](https://www.who.int/news-room/questions-and-answers/item/use-of-potassium-iodide-for-thyroid-protection-during-nuclear-or-radiological-emergencies) · [Suomi.fi: Radiation hazards](https://www.suomi.fi/guides/preparedness/how-to-prepare-for-incidents-and-crises/radiation-hazards) · [Nationaal Crisiscentrum: brochure Samen voorbereid](https://crisiscentrum.be/sites/default/files/documents/files/WEB-Brochure%20Samen%20voorbereid-NL.pdf)
 
 ## Hoe je ze neemt
 
 - Kijk voor elk gezinslid de dosis na op de verpakking en in de bijsluiter. Daar staan tekeningen per leeftijdsgroep. Er gelden verschillende dosissen voor volwassenen, kinderen, baby's, zwangere vrouwen en vrouwen die borstvoeding geven.
-- De Belgische overheid raadt aan de tabletten niet zomaar door te slikken, maar op te lossen in een groot glas lauw water. Melk of fruitsap maskeert de smaak. De tabletten lossen niet makkelijk op: breek of maal ze en roer.
+- Slik de tabletten niet zomaar door, maar los ze op in een groot glas lauw water. Melk of fruitsap maskeert de smaak. De tabletten lossen niet makkelijk op: breek of maal ze en roer.
 - Jodium irriteert de maag licht. Neem het niet met alcohol.
 
 Bron: [Nucleair risico: veelgestelde vragen](https://nucleairrisico.be/nl/faq) · [Nucleair risico: Wanneer innemen](https://nucleairrisico.be/nl/jodiumtabletten/wanneer-innemen)
 
 ## Baby's, zwangerschap en borstvoeding
 
-- **Baby's:** hoe jonger, hoe belangrijker de bescherming. De aanbeveling geldt zeker voor baby's. Weigert je baby het drinken, probeer het later opnieuw. Blijft hij weigeren: binnen blijven neemt het grootste deel van het risico weg, en het jodium dat de moeder neemt komt deels in de moedermelk terecht (Belgische overheid). De WHO zegt dat het jodium via moedermelk niet volstaat om een baby te beschermen en dat de baby zelf ook jodium krijgt. Volg de instructies van de overheid en de bijsluiter.
-- **Pasgeborenen jonger dan één maand:** de WHO raadt aan hun schildklierwaarden te laten opvolgen na inname, met een consultatie bij de kinderarts binnen de eerste week.
-- **Borstvoeding:** normaal is er geen reden om borstvoeding te stoppen. Voor kinderen jonger dan één maand wordt soms aangeraden om 24 uur lang de melk af te kolven en weg te gooien en in die periode flesvoeding te geven, en daarna de borstvoeding te hervatten (Belgische overheid).
-- **Zwangerschap:** zwangere vrouwen nemen de tabletten alleen op bevel. Zo beschermen ze hun eigen schildklier en die van het ongeboren kind. Na de noodsituatie meld je het aan je arts, zodat het in je dossier komt (WHO).
+- **Baby's:** hoe jonger, hoe belangrijker de bescherming. De aanbeveling geldt zeker voor baby's. Weigert je baby het drinken, probeer het later opnieuw. Blijft hij weigeren: binnen blijven neemt het grootste deel van het risico weg. Het jodium dat de moeder neemt, komt deels in de moedermelk terecht, maar dat volstaat niet om een baby te beschermen: de baby krijgt zelf ook jodium. Volg de instructies van de overheid en de bijsluiter.
+- **Pasgeborenen jonger dan één maand:** laat hun schildklierwaarden opvolgen na inname, met een consultatie bij de kinderarts binnen de eerste week.
+- **Borstvoeding:** normaal is er geen reden om borstvoeding te stoppen. Voor kinderen jonger dan één maand wordt soms aangeraden om 24 uur lang de melk af te kolven en weg te gooien en in die periode flesvoeding te geven, en daarna de borstvoeding te hervatten.
+- **Zwangerschap:** zwangere vrouwen nemen de tabletten alleen op bevel. Zo beschermen ze hun eigen schildklier en die van het ongeboren kind. Na de noodsituatie meld je het aan je arts, zodat het in je dossier komt.
 
 Bron: [Nucleair risico: veelgestelde vragen](https://nucleairrisico.be/nl/faq) · [WHO: Use of potassium iodide](https://www.who.int/news-room/questions-and-answers/item/use-of-potassium-iodide-for-thyroid-protection-during-nuclear-or-radiological-emergencies)
 
 ## Bijwerkingen en wie ze beter niet neemt
 
-- Jodiumtabletten zijn weinig toxisch. Neemt een kind er meerdere, doe dan wat je bij elk geneesmiddel doet: raadpleeg je arts of apotheker of bel het Antigifcentrum (070 245 245).
+- Jodiumtabletten zijn weinig toxisch. Neemt een kind er meerdere, doe dan wat je bij elk geneesmiddel doet: raadpleeg je arts of apotheker, of bel het Antigifcentrum (070 245 245) als het netwerk werkt.
 - Bijwerkingen zijn meestal tijdelijk en onschuldig, zoals braken of een slechte smaak. Uitzonderlijk zijn er overgevoeligheidsreacties: rode huid, vochtophoping, pijn in de hals, tranende ogen, verkoudheidsklachten, gezwollen speekselklieren, koorts. Die verdwijnen normaal vanzelf. Neem niet opnieuw jodium. Blijft het probleem of verslechtert de toestand, contacteer je arts.
 - Het kleine risico op overgevoeligheid is geen reden om de tabletten niet te nemen.
 - Een kleine minderheid neemt ze beter niet: mensen die allergisch zijn voor jodium, mensen met een zeldzame huidziekte en mensen die schildklierproblemen hebben of hadden. De bijsluiter geeft de volledige lijst. Twijfel je, spreek nu al met je huisarts of specialist.
@@ -177,17 +175,18 @@ Bron: [Nucleair risico: veelgestelde vragen](https://nucleairrisico.be/nl/faq) �
 ## Als je geen tabletten hebt
 
 - **Blijf binnen.** Schuilen biedt de snelste en meest doeltreffende bescherming.
-- De overheid gebruikt de tijd tussen de eerste tekenen van een probleem en de uitstoot om te waarschuwen, voorraden te verdelen en, als het nodig is, de bevolking te vragen tabletten bij de apotheek te halen. Luister naar de aanbevelingen.
+- De overheid gebruikt de tijd tussen de eerste tekenen van een probleem en de uitstoot om te waarschuwen, voorraden te verdelen en, als het nodig is, de bevolking te vragen tabletten bij de apotheek te halen. Luister naar de aanbevelingen op de radio.
+- Wie geen tabletten heeft, kan ze ook van de hulpdiensten krijgen: in heel het land zijn voorraden, en de hulpdiensten kunnen die bij een ongeval verdelen over de bedreigde bevolking.
 - Ben je op het moment van het ongeval bij een voetbalwedstrijd, in een bioscoop, winkel of tankstation: de collectiviteiten in de zones worden gevraagd tabletten te voorzien en ze te verdelen als de overheid dat aanbeveelt. De Civiele Bescherming heeft ook een voorraad die ze kan uitdelen.
-- Finland zegt: ga niet naar de apotheek om tabletten te halen als er al een aanbeveling om ze te nemen is uitgevaardigd.
+- Is de aanbeveling om de tabletten te nemen er al, ga dan niet meer naar de apotheek om ze te halen.
 
 Bron: [Nucleair risico: veelgestelde vragen](https://nucleairrisico.be/nl/faq) · [Suomi.fi: Radiation hazards](https://www.suomi.fi/guides/preparedness/how-to-prepare-for-incidents-and-crises/radiation-hazards)
 
 ## Wat geen vervanging is
 
-- **Jodiumzout.** Het zout dat je gewoon gebruikt bevat niet genoeg jodium om radioactief jodium te blokkeren. Veel zout eten is zelf gevaarlijk (WHO).
-- **Zeelucht en vis.** Jodium dat je aan zee inademt of in vis en schaaldieren eet, biedt wat bescherming, maar niet genoeg bij een nucleair ongeval (Belgische overheid).
-- **Andere geneesmiddelen,** tenzij je arts het uitdrukkelijk aanraadt (Belgische overheid).
+- **Jodiumzout.** Het zout dat je gewoon gebruikt bevat niet genoeg jodium om radioactief jodium te blokkeren. Veel zout eten is zelf gevaarlijk.
+- **Zeelucht en vis.** Jodium dat je aan zee inademt of in vis en schaaldieren eet, biedt wat bescherming, maar niet genoeg bij een nucleair ongeval.
+- **Andere geneesmiddelen,** tenzij je arts het uitdrukkelijk aanraadt.
 
 Jodiumrijke voeding zoals vis, schaaldieren en jodiumhoudend zout is in het algemeen wel goed, omdat onze voeding meestal te weinig jodium bevat.
 
@@ -195,7 +194,7 @@ Bron: [WHO: Use of potassium iodide](https://www.who.int/news-room/questions-and
 
 ## Waarom kinderen voorrang krijgen
 
-Hoe jonger je bent, hoe kwetsbaarder voor radioactief jodium. Bij kinderen in de omgeving van Tsjernobyl, die via besmette melk en voeding radioactief jodium binnenkregen, werd de stijging van schildklierkanker pas vier tot vijf jaar na 1986 vastgesteld (WHO). De WHO zegt dat jodium het risico op schildklierkanker vermindert bij mensen van 0 tot 18 jaar die blootgesteld zijn aan radioactief jodium. Radioactief jodium halveert zijn radioactiviteit binnen 8 dagen en is na enkele weken vervallen. Volgens de WHO is radioactief jodium in voedsel daarom vooral meteen na een ongeval een zorg, en op lange termijn geen probleem voor de consumptie.
+Hoe jonger je bent, hoe kwetsbaarder voor radioactief jodium. Bij kinderen in de omgeving van Tsjernobyl, die via besmette melk en voeding radioactief jodium binnenkregen, werd de stijging van schildklierkanker pas vier tot vijf jaar na 1986 vastgesteld. Jodium vermindert het risico op schildklierkanker bij mensen van 0 tot 18 jaar die blootgesteld zijn aan radioactief jodium. Radioactief jodium halveert zijn radioactiviteit binnen 8 dagen en is na enkele weken vervallen. Radioactief jodium in voedsel is daarom vooral meteen na een ongeval een zorg, en op lange termijn geen probleem voor de consumptie.
 
 Bron: [WHO: Use of potassium iodide](https://www.who.int/news-room/questions-and-answers/item/use-of-potassium-iodide-for-thyroid-protection-during-nuclear-or-radiological-emergencies) · [WHO: Radiation and health](https://www.who.int/news-room/questions-and-answers/item/radiation-and-health) · [WHO: Radioactivity in food after a nuclear emergency](https://www.who.int/news-room/questions-and-answers/item/radioactivity-in-food-after-a-nuclear-emergency)
 
@@ -205,7 +204,7 @@ Bron: [WHO: Use of potassium iodide](https://www.who.int/news-room/questions-and
 2. Bewaar ze in de originele verpakking op een vaste plek.
 3. Lees nu al de bijsluiter en bespreek twijfels met je huisarts.
 4. Bij een ongeval: ga eerst binnen en blijf binnen.
-5. Neem de tabletten alleen als de Belgische overheid het zegt, op het moment dat ze zegt.
+5. Neem de tabletten alleen als de Belgische overheid het zegt, op het moment dat ze zegt. Je hoort het op de radio, via omroepwagens van de politie of, als het netwerk werkt, via BE-Alert.
 6. Blijf daarna binnen tot de overheid zegt dat het veilig is.
 
-Bron: [Nucleair risico: Jodiumtabletten](https://nucleairrisico.be/nl/jodiumtabletten) · [Nucleair risico: Wanneer innemen](https://nucleairrisico.be/nl/jodiumtabletten/wanneer-innemen) · [Nationaal Crisiscentrum: Incident in een kerncentrale](https://crisiscentrum.be/nl/risicos-belgie/economische-en-technologische-risicos/incident-een-kerncentrale)
+Bron: [Nucleair risico: Jodiumtabletten](https://nucleairrisico.be/nl/jodiumtabletten) · [Nucleair risico: Wanneer innemen](https://nucleairrisico.be/nl/jodiumtabletten/wanneer-innemen) · [Nucleair risico: veelgestelde vragen](https://nucleairrisico.be/nl/faq) · [Nucleair risico: Waarschuwen en beschermen van de bevolking](https://nucleairrisico.be/nl/wat-doet-de-overheid/waarschuwen-en-beschermen-van-de-bevolking) · [Nationaal Crisiscentrum: Incident in een kerncentrale](https://crisiscentrum.be/nl/risicos-belgie/economische-en-technologische-risicos/incident-een-kerncentrale)

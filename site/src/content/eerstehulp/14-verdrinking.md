@@ -1,9 +1,9 @@
 ---
 titel: Verdrinking
 volgorde: 14
-kort: "Ga niet zelf het water in zonder training. Reik of gooi iets. Ademt de drenkeling niet: geef eerst 5 beademingen en reanimeer dan. Bel altijd 112."
+kort: "Ga niet zelf het water in zonder training. Reik of gooi iets. Ademt de drenkeling niet: geef eerst 5 beademingen en reanimeer dan. Laat altijd 112 bellen of hulp halen."
 status: concept
-datum: "2026-11-17"
+datum: "2026-11-18"
 bronnen:
   - naam: "Gezondheid en Wetenschap (Rode Kruis-Vlaanderen): Eerste hulp bij verdrinking"
     url: https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-verdrinking
@@ -15,6 +15,10 @@ bronnen:
     url: https://www.gezondheidenwetenschap.be/eerste-hulp/wat-doen-bij-onderkoeling
   - naam: "Gezondheid en Wetenschap (Rode Kruis-Vlaanderen): Eerste hulp bij wervelletsels"
     url: https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-wervelletsels
+  - naam: "European Resuscitation Council Guidelines 2021: First aid"
+    url: https://cprguidelines-old.erc.edu/assets/guidelines/European-Resuscitation-Council-Guidelines-2021-Fi.pdf
+  - naam: "112.be: Veelgestelde vragen"
+    url: https://112.be/nl/veelgestelde-vragen
 ---
 
 ## Herkennen
@@ -38,17 +42,17 @@ Bron: [Gezondheid en Wetenschap: Verdrinking](https://www.gezondheidenwetenschap
 
 ### De redding
 
-1. Roep om hulp en laat iemand 112 bellen.
+1. Roep om hulp en laat iemand 112 bellen. Lukt bellen niet, laat die persoon dan hulp halen (zie Bel 112 als).
 2. Probeer te redden zonder zelf het water in te gaan. Gebruik reddingsmateriaal dat er hangt, gooi iets toe dat drijft, of reik een lang voorwerp aan.
 3. Ga niet in diep water als je geen sterke zwemmer bent. Ga alleen het water in als je getraind bent in redden, en neem dan reddingsmateriaal mee. Een drenkeling die bij bewustzijn is, kan in paniek de redder vastgrijpen.
-4. Een getrainde redder die een niet-reagerende drenkeling in het water bereikt, geeft volgens de ERC meteen 5 beademingen voor hij de drenkeling naar de kant brengt.
+4. Een getrainde redder die een niet-reagerende drenkeling in het water bereikt, geeft meteen 5 beademingen voor hij de drenkeling naar de kant brengt.
 5. Haal het slachtoffer horizontaal uit het water. Zo vermijd je een bloeddrukval.
 
 ### Op de kant
 
 1. Controleer het bewustzijn.
 2. Open de luchtweg en controleer de ademhaling. Vermoed je een wervelletsel, kantel het hoofd dan niet achterover.
-3. Bel 112 als dat nog niet gebeurd is.
+3. Bel 112 of laat bellen als dat nog niet gebeurd is. Lukt bellen niet, zie Bel 112 als.
 4. Bewusteloos en geen normale ademhaling:
    - Geef eerst 5 beademingen. Na verdrinking is de afloop beter als het slachtoffer eerst beademd wordt.
    - Start daarna de gewone reanimatie: 30 borstcompressies en 2 beademingen (zie onderwerp 2).
@@ -66,7 +70,7 @@ Bron: [Gezondheid en Wetenschap: Verdrinking](https://www.gezondheidenwetenschap
 
 ## Als hulp lang op zich laat wachten
 
-- Na verdrinking is er een kans dat de persoon reageert op reanimatie, ook zonder defibrillator. De IFRC noemt verdrinking en onderkoeling als uitzonderingen op de regel dat je in een gebied zonder hulpdiensten kan stoppen als reanimatie na 20 minuten geen effect heeft. Bij een kind dat verdronk of onderkoeld is, is er een kans om het te redden met reanimatie alleen.
+- Na verdrinking is er een kans dat de persoon reageert op reanimatie, ook zonder defibrillator. Verdrinking en onderkoeling zijn uitzonderingen op de regel dat je in een gebied zonder hulpdiensten kan stoppen als reanimatie na 20 minuten geen effect heeft. Bij een kind dat verdronk of onderkoeld is, is er een kans om het te redden met reanimatie alleen.
 - Beademingen zijn hier bijzonder belangrijk, omdat het slachtoffer geen zuurstof kreeg. Geef ze als je dat kan.
 - Wissel met andere helpers om de 1 tot 2 minuten zonder de reanimatie te onderbreken.
 - Moet het slachtoffer vervoerd worden, reanimeer dan ononderbroken op een harde ondergrond tijdens het vervoer.
@@ -85,7 +89,14 @@ Bron: [IFRC Guidelines 2020](https://www.ifrc.org/sites/default/files/2022-02/EN
 
 Elk slachtoffer van verdrinking moet onderzocht worden, ook als het niet zo ernstig lijkt.
 
-Bron: [Gezondheid en Wetenschap: Verdrinking](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-verdrinking) · [ERC Guidelines 2025 for Everyone](https://www.erc.edu/media/p5ymaeej/gl2025_layperson_book_ipdf-v11-e.pdf)
+**Lukt bellen niet**
+
+- Laat het slachtoffer alleen als er geen andere mogelijkheid is. Wijs een omstander rechtstreeks aan om hulp te halen en geef mee waar het is, wat er gebeurd is, hoeveel slachtoffers er zijn en hoe ze eraan toe zijn.
+- Laat iemand een AED halen als er een in de buurt is.
+- Reanimeer je en ben je alleen zonder telefoon, zie dan onderwerp 2 (Lukt bellen niet). Daar staat wat je doet bij een volwassene en bij een kind.
+- Zie ook onderwerp 1 (Lukt bellen niet: hulp halen zonder telefoon) en Noodnummers in de app, Als bellen niet lukt.
+
+Bron: [Gezondheid en Wetenschap: Verdrinking](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-verdrinking) · [ERC Guidelines 2025 for Everyone](https://www.erc.edu/media/p5ymaeej/gl2025_layperson_book_ipdf-v11-e.pdf) · [IFRC Guidelines 2020](https://www.ifrc.org/sites/default/files/2022-02/EN_GFARC_GUIDELINES_2020.pdf) · [ERC Guidelines 2021: First aid](https://cprguidelines-old.erc.edu/assets/guidelines/European-Resuscitation-Council-Guidelines-2021-Fi.pdf) · [112.be: Veelgestelde vragen](https://112.be/nl/veelgestelde-vragen)
 
 ## Niet doen
 

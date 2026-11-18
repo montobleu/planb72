@@ -1,9 +1,9 @@
 ---
 titel: Hoofd-, nek- en rugletsel
 volgorde: 9
-kort: "Vermoed je een letsel aan nek of rug: verplaats het slachtoffer niet, kantel het hoofd niet en bel 112. Na een klap op het hoofd: blijf opvolgen."
+kort: "Vermoed je een letsel aan nek of rug: verplaats het slachtoffer niet, kantel het hoofd niet en laat 112 bellen of hulp halen. Na een klap op het hoofd: blijf opvolgen."
 status: concept
-datum: "2026-11-17"
+datum: "2026-11-18"
 bronnen:
   - naam: "Gezondheid en Wetenschap (Rode Kruis-Vlaanderen): Eerste hulp bij wervelletsels"
     url: https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-wervelletsels
@@ -15,6 +15,10 @@ bronnen:
     url: https://www.ifrc.org/sites/default/files/2022-02/EN_GFARC_GUIDELINES_2020.pdf
   - naam: "FEMA: Until Help Arrives, instructor guide"
     url: https://ready.gov/sites/default/files/2020-07/until-help-arrives-instructor-guide.pdf
+  - naam: "European Resuscitation Council Guidelines 2021: First aid"
+    url: https://cprguidelines-old.erc.edu/assets/guidelines/European-Resuscitation-Council-Guidelines-2021-Fi.pdf
+  - naam: "112.be: Veelgestelde vragen"
+    url: https://112.be/nl/veelgestelde-vragen
 ---
 
 ## Herkennen
@@ -62,7 +66,7 @@ Bron: [Gezondheid en Wetenschap: Wervelletsels](https://www.gezondheidenwetensch
 
 1. Verplaats het slachtoffer niet, tenzij er onmiddellijk gevaar is.
 2. Controleer het bewustzijn. Open zo nodig de luchtweg en controleer de ademhaling, maar kantel het hoofd niet achterover.
-3. Bel 112.
+3. Bel 112 of laat bellen. Lukt bellen niet, zie Bel 112 als.
 4. Bij bewustzijn en normale ademhaling: kalmeer het slachtoffer en overtuig het om niet te bewegen. Vraag om hoofd en nek zelf stil te houden. Lukt dat niet (bijvoorbeeld bij een kind of iemand die gedronken heeft), ondersteun het hoofd dan zacht met je handen. Doe dat alleen als het slachtoffer meewerkt, niet bij iemand die onrustig of woelig is.
 5. Bewusteloos maar normale ademhaling: laat het slachtoffer liggen zoals je het vond, op de rug of op de zij. Ondersteun het hoofd zacht zodat het niet beweegt. Controleer elke minuut bewustzijn en ademhaling.
 6. Ademmoeite: duw alleen de kaak omhoog, zonder het hoofd achterover te kantelen.
@@ -76,7 +80,7 @@ Tekens: pijn aan heup, bekken, lies of knie die erger wordt bij beweging, niet o
 
 1. Help het slachtoffer op de rug liggen, stil, met de benen gestrekt.
 2. Leg opvulling tussen de benen en bind de benen samen ter hoogte van de knieën en de voeten.
-3. Bel 112.
+3. Bel 112 of laat bellen.
 4. Volg ademhaling, bloedsomloop en bewustzijn op en let op shock.
 5. Wieg of draai het bekken niet. Dat kan een bloeding opnieuw doen starten of verergeren.
 
@@ -93,7 +97,7 @@ Tekens: pijn aan heup, bekken, lies of knie die erger wordt bij beweging, niet o
 
 1. Laat de persoon stoppen met zijn activiteit, zoals sporten, en laat hem rusten.
 2. Volg hem op: let op de tekens van hersenletsel en op veranderingen in bewustzijn en ademhaling.
-3. Bij tekens van ernstig hoofdletsel: bel 112. Stel de persoon gerust en vraag om hoofd en nek stil te houden. Ligt hij, dan mag je het hoofd stilhouden met je handen of knieën.
+3. Bij tekens van ernstig hoofdletsel: bel 112 of laat bellen. Stel de persoon gerust en vraag om hoofd en nek stil te houden. Ligt hij, dan mag je het hoofd stilhouden met je handen of knieën.
 4. Zijn er geen of alleen lichte klachten (een buil, lichte hoofdpijn, wat misselijk), laat hem dan rusten en blijf hem opvolgen.
 
 Bron: [Gezondheid en Wetenschap: Wervelletsels](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-wervelletsels) · [Gezondheid en Wetenschap: Hoofdwonde](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-een-hoofdwonde) · [Croix-Rouge de Belgique: mise à jour 2024](https://formations.croix-rouge.be/files/files/espace-relais/Relais-BEPS-Mise-jour-2024.pdf) · [IFRC Guidelines 2020](https://www.ifrc.org/sites/default/files/2022-02/EN_GFARC_GUIDELINES_2020.pdf)
@@ -102,7 +106,7 @@ Bron: [Gezondheid en Wetenschap: Wervelletsels](https://www.gezondheidenwetensch
 
 - Hou het slachtoffer zo stil mogelijk en hanteer het zo weinig mogelijk. Blijf ademhaling en bewustzijn opvolgen.
 - Een bewusteloos slachtoffer met een vermoed wervelletsel dat normaal ademt: komt hulp snel, hou dan alleen de luchtweg open door de kaak op te tillen of het hoofd te kantelen. Is hulp nog ver weg en zijn er minstens twee helpers, dan mag je het slachtoffer op de zij leggen terwijl één helper het hoofd in één lijn met de rug houdt.
-- De Croix-Rouge de Belgique zegt dat een vrije luchtweg voorrang heeft. Je kan een duidelijk gewond slachtoffer alleen op de rug laten liggen als het duidelijk ademt en de hulpdiensten snel ter plaatse zijn. Twijfel je over het letsel, leg het dan in stabiele zijligging.
+- Een vrije luchtweg heeft voorrang. Je kan een duidelijk gewond slachtoffer alleen op de rug laten liggen als het duidelijk ademt en de hulpdiensten snel ter plaatse zijn. Twijfel je over het letsel, leg het dan in stabiele zijligging.
 - Na een klap op het hoofd zonder alarmtekens: de persoon mag zijn dag verder zetten, maar iemand moet hem de volgende 24 uur in het oog houden voor tekens die later opduiken. Een hersenschudding kan zich over uren of dagen ontwikkelen.
 - Rust is meestal de beste eerste behandeling. Laat de persoon pas opnieuw autorijden, met machines werken of contactsport doen als alle klachten weg zijn.
 - Hou het slachtoffer warm door het toe te dekken met droge lagen en het tegen de wind te beschermen.
@@ -119,7 +123,12 @@ Bron: [IFRC Guidelines 2020](https://www.ifrc.org/sites/default/files/2022-02/EN
 
 Raadpleeg een arts bij een ernstige hoofdwonde, als het slachtoffer zich na het ongeval onwel voelt of de toestand verslechtert (toenemende hoofdpijn, misselijkheid, sufheid), en bij twijfel.
 
-Bron: [Gezondheid en Wetenschap: Hoofdwonde](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-een-hoofdwonde) · [Gezondheid en Wetenschap: Wervelletsels](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-wervelletsels) · [IFRC Guidelines 2020](https://www.ifrc.org/sites/default/files/2022-02/EN_GFARC_GUIDELINES_2020.pdf)
+**Lukt bellen niet**
+
+- Laat het slachtoffer alleen als er geen andere mogelijkheid is. Wijs een omstander rechtstreeks aan om hulp te halen en geef mee waar het is, wat er gebeurd is, hoeveel slachtoffers er zijn en hoe ze eraan toe zijn.
+- Zie ook onderwerp 1 (Lukt bellen niet: hulp halen zonder telefoon) en Noodnummers in de app, Als bellen niet lukt.
+
+Bron: [Gezondheid en Wetenschap: Hoofdwonde](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-een-hoofdwonde) · [Gezondheid en Wetenschap: Wervelletsels](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-wervelletsels) · [IFRC Guidelines 2020](https://www.ifrc.org/sites/default/files/2022-02/EN_GFARC_GUIDELINES_2020.pdf) · [ERC Guidelines 2021: First aid](https://cprguidelines-old.erc.edu/assets/guidelines/European-Resuscitation-Council-Guidelines-2021-Fi.pdf) · [112.be: Veelgestelde vragen](https://112.be/nl/veelgestelde-vragen)
 
 ## Niet doen
 

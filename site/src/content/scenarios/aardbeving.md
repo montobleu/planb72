@@ -3,19 +3,19 @@ titel: Aardbeving
 volgorde: 12
 kort: "De grond schudt. In België zijn zware aardbevingen zeldzaam, maar ze kunnen schade veroorzaken."
 stappen:
-  - "Binnen: zoek dekking onder een stevige tafel, bureau of bed en hou je vast tot het schudden stopt."
-  - "Is er geen stevig meubel, ga dan op de grond zitten tegen een binnenmuur en bescherm je hoofd en nek met je armen."
+  - "Binnen: zoek dekking onder een stevige tafel, bureau of bed en hou je vast tot het schudden stopt. Is er geen stevig meubel, ga dan op de grond zitten tegen een binnenmuur en bescherm je hoofd en nek met je armen."
   - "Blijf weg van ramen, spiegels, kasten en dingen die kunnen vallen."
   - "Buiten: ga naar een open plek, weg van gebouwen, bomen, palen, kabels en bruggen."
   - "In de auto: stop op een veilige plek zonder de weg te blokkeren en blijf in de wagen."
-  - "Na het schudden: reken op naschokken. Neem de trap, nooit de lift. Steek geen vuur aan."
+  - "Na het schudden: reken op naschokken. Neem de trap, nooit de lift. Steek geen vuur aan. Luister naar de radio voor instructies."
   - "Ruik je gas: sluit de toevoer af, zet ramen en deuren open, ga naar buiten en verwittig de hulpdiensten."
+  - "Help gewonden als je dat kunt. Bel 112. Lukt dat niet, laat iemand anders bellen of vraag hulp in je buurt (zie Noodnummers, Als bellen niet lukt)."
 niet:
   - "Gebruik geen lift om een gebouw te verlaten."
   - "Haal kinderen niet van school."
   - "Ga een beschadigd gebouw niet terug binnen."
 status: concept
-datum: "2026-11-17"
+datum: "2026-11-18"
 bronnen:
   - naam: "Nationaal Crisiscentrum: aardbeving"
     url: https://crisiscentrum.be/nl/risicos-belgie/natuurlijke-risicos/aardbeving
@@ -29,13 +29,21 @@ bronnen:
     url: https://crisiscentrum.be/nl/wat-kan-jij-doen/maak-een-noodpakket/een-noodpakket-bij-je-thuis
   - naam: "Ready.gov: Earthquakes"
     url: https://www.ready.gov/earthquakes
+  - naam: "Nationaal Crisiscentrum: verstoring van de digitale infrastructuur"
+    url: https://crisiscentrum.be/nl/risicos-belgie/maatschappelijke-risicos/verstoring-van-de-digitale-infrastructuur
+  - naam: "Nationaal Crisiscentrum: informatie tijdens een noodsituatie"
+    url: https://crisiscentrum.be/nl/wat-kan-jij-doen/informeer-je/informatie-tijdens-een-noodsituatie
+  - naam: "112.be: Veelgestelde vragen"
+    url: https://112.be/nl/veelgestelde-vragen
+  - naam: "FOD Economie: vragen van gezinnen over elektriciteitsschaarste"
+    url: https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door
 ---
 
 ## Herkennen
 
 Bij een aardbeving schudt of trilt de grond. Na de eerste schok kunnen naschokken volgen, soms veel later.
 
-**Aardbevingen in België.** België ligt in een zogenaamd stabiele zone. Toch hebben grotere aardbevingen hier in het verleden schade veroorzaakt. De Koninklijke Sterrenwacht van België noemt onder meer de bevingen van 1382 en 1449 in de Noordzee, 1580 in het Kanaal, 1692 in Verviers, 1756 in Düren (Duitsland), 1938 in Zulzeke-Nukerke en 1992 in Roermond (Nederland). Gemiddeld komt in België ongeveer één keer per 40 jaar een beving van magnitude 5 of meer voor, en ongeveer één keer per 315 jaar een beving van magnitude 6 of meer.
+**Aardbevingen in België.** België ligt in een zogenaamd stabiele zone. Toch hebben grotere aardbevingen hier in het verleden schade veroorzaakt. Voorbeelden zijn de bevingen van 1382 en 1449 in de Noordzee, 1580 in het Kanaal, 1692 in Verviers, 1756 in Düren (Duitsland), 1938 in Zulzeke-Nukerke en 1992 in Roermond (Nederland). Gemiddeld komt in België ongeveer één keer per 40 jaar een beving van magnitude 5 of meer voor, en ongeveer één keer per 315 jaar een beving van magnitude 6 of meer.
 
 **Het grootste gevaar** is schade aan gebouwen of het instorten ervan. Ook vallende voorwerpen, glas, gaslekken, beschadigde elektriciteit en brand vormen een risico. De Belgische risicoanalyse beschouwt een zware aardbeving als weinig waarschijnlijk.
 
@@ -56,13 +64,13 @@ Bron: [Koninklijke Sterrenwacht: FAQ](https://seismologie.be/nl/veel-gestelde-vr
 
 **Met je gezin.**
 
-- Spreek af hoe je je beschermt, waar je samenkomt en hoe je elkaar terugvindt.
+- Spreek af hoe je je beschermt, waar je samenkomt en hoe je elkaar terugvindt, ook als jullie elkaar niet kunnen bereiken.
 - Oefen samen hoe je dekking zoekt. Doe mee aan of volg oefeningen.
 - Ken de officiële risico-informatie en de veiligheidsinstructies.
 
-**Noodpakket.** Hou een pakket klaar met een radio op batterijen, een zaklamp, drinkwater, persoonlijke documenten, noodzakelijke medicatie, dekens, reservekleding, blikvoeding en een EHBO-doos. Het Nationaal Crisiscentrum raadt aan om minstens 3 dagen zelfredzaam te zijn. Ready.gov voegt een fluitje toe om hulp te roepen.
+**Noodpakket.** Hou een pakket klaar met een radio op batterijen, een zaklamp, drinkwater, persoonlijke documenten, noodzakelijke medicatie, dekens, reservekleding, blikvoeding, een EHBO-doos en een fluitje om hulp te roepen. Zorg dat je minstens 3 dagen zelfredzaam bent.
 
-Bron: [Nationaal Crisiscentrum](https://crisiscentrum.be/nl/risicos-belgie/natuurlijke-risicos/aardbeving) · [Koninklijke Sterrenwacht: FAQ](https://seismologie.be/nl/veel-gestelde-vragen) · [Nationaal Crisiscentrum: noodpakket](https://crisiscentrum.be/nl/wat-kan-jij-doen/maak-een-noodpakket/een-noodpakket-bij-je-thuis) · [Ready.gov](https://www.ready.gov/earthquakes)
+Bron: [Nationaal Crisiscentrum](https://crisiscentrum.be/nl/risicos-belgie/natuurlijke-risicos/aardbeving) · [Koninklijke Sterrenwacht: FAQ](https://seismologie.be/nl/veel-gestelde-vragen) · [Nationaal Crisiscentrum: noodpakket](https://crisiscentrum.be/nl/wat-kan-jij-doen/maak-een-noodpakket/een-noodpakket-bij-je-thuis) · [Ready.gov](https://www.ready.gov/earthquakes) · [Nationaal Crisiscentrum: digitale infrastructuur](https://crisiscentrum.be/nl/risicos-belgie/maatschappelijke-risicos/verstoring-van-de-digitale-infrastructuur)
 
 ## Tijdens
 
@@ -78,11 +86,11 @@ Bescherm jezelf meteen.
 4. Hou je met de andere hand vast aan het meubel. Beweegt het, beweeg dan mee.
 5. Blijf zo tot het schudden stopt.
 
-**Geen stevig meubel in de buurt.** Ga tegen een binnenmuur zitten of hurken, weg van ramen. Buig je voorover om je romp te beschermen en hou je hoofd en nek vast met beide armen. De Koninklijke Sterrenwacht noemt ook een dragende muur of een zuil als plek om te schuilen.
+**Geen stevig meubel in de buurt.** Ga tegen een binnenmuur zitten of hurken, weg van ramen. Buig je voorover om je romp te beschermen en hou je hoofd en nek vast met beide armen. Ook een dragende muur of een zuil is een plek om te schuilen.
 
 **Lig je in bed.** Draai op je buik en bedek je hoofd en nek met een kussen.
 
-**Ben je dicht bij een uitgang.** Het Nationaal Crisiscentrum zegt: is er een uitgang dichtbij, ga dan veilig naar buiten naar een open plek, weg van gebouwen. De Koninklijke Sterrenwacht en het Amerikaanse Ready.gov raden aan om te blijven waar je bent en niet naar buiten te lopen. Twijfel je of de weg naar buiten veilig is, blijf dan binnen en zoek dekking.
+**Ben je dicht bij een uitgang.** Is de uitgang vlakbij en de weg naar buiten veilig, ga dan naar een open plek, weg van gebouwen. Twijfel je, blijf dan waar je bent en zoek dekking.
 
 **Altijd.**
 
@@ -141,14 +149,15 @@ Bron: [Nationaal Crisiscentrum](https://crisiscentrum.be/nl/risicos-belgie/natuu
 **Eerste minuten.**
 
 - Reken op naschokken. Voel je er een, zoek dan opnieuw dekking en hou je vast.
-- Kijk of je zelf gewond bent. Help anderen als je dat kunt. Bel 112 bij gewonden.
+- Kijk of je zelf gewond bent. Help anderen als je dat kunt.
+- Bel 112 bij gewonden. Lukt dat niet, laat iemand anders bellen of vraag hulp in je buurt (zie Noodnummers, Als bellen niet lukt). Zie ook de eerstehulpkaarten.
 - Steek geen vuur aan, rook niet en vermijd vonken.
 - Is het gebouw beschadigd, ga dan naar buiten en weg van het gebouw. Ga niet terug binnen.
 - Neem altijd de trap, nooit de lift.
 
 **Zit je vast onder puin.**
 
-- Stuur een sms of klop op een buis of muur, zodat hulpverleners je vinden.
+- Klop op een buis of muur, zodat hulpverleners je vinden. Werkt het netwerk, stuur dan ook een sms.
 - Bedek je mond met je kleding tegen stof.
 - Gebruik een fluitje in plaats van te roepen.
 
@@ -167,13 +176,14 @@ Bron: [Nationaal Crisiscentrum](https://crisiscentrum.be/nl/risicos-belgie/natuu
 
 **Communicatie.**
 
-- Volg de instructies van radio en overheid.
-- Bel alleen bij echte nood. Stuur liever een sms: dat werkt vaak beter en spaart je batterij.
+- Luister naar de radio en volg de instructies van de overheid. Valt de stroom uit, gebruik dan een radio op batterijen of de autoradio. Let ook op omroepwagens van de politie.
+- Bel alleen bij echte nood. Werkt het netwerk, stuur dan liever een sms: dat werkt vaak beter en spaart je batterij.
 - Meld gevaarlijke situaties aan de overheid.
 - Bied je hulp aan de hulpdiensten aan.
-- Heb je de beving gevoeld, vul dan de enquête in op seismologie.be. Dat helpt de hulpdiensten.
+- Kun je niet naar huis: bij grotere noodsituaties richt de gemeente of provincie een onthaalcentrum in, bijvoorbeeld een sporthal of feestzaal. Daar geeft een contactpersoon ter plaatse informatie.
+- Heb je de beving gevoeld, vul dan de enquête in op seismologie.be zodra het internet werkt. Dat helpt de hulpdiensten.
 
-Bron: [Nationaal Crisiscentrum](https://crisiscentrum.be/nl/risicos-belgie/natuurlijke-risicos/aardbeving) · [Koninklijke Sterrenwacht: FAQ](https://seismologie.be/nl/veel-gestelde-vragen) · [Ready.gov](https://www.ready.gov/earthquakes)
+Bron: [Nationaal Crisiscentrum](https://crisiscentrum.be/nl/risicos-belgie/natuurlijke-risicos/aardbeving) · [Koninklijke Sterrenwacht: FAQ](https://seismologie.be/nl/veel-gestelde-vragen) · [Ready.gov](https://www.ready.gov/earthquakes) · [Nationaal Crisiscentrum: evacueren](https://crisiscentrum.be/nl/wat-kan-jij-doen/reageer-correct/evacueren) · [Nationaal Crisiscentrum: informatie tijdens een noodsituatie](https://crisiscentrum.be/nl/wat-kan-jij-doen/informeer-je/informatie-tijdens-een-noodsituatie) · [112.be: Veelgestelde vragen](https://112.be/nl/veelgestelde-vragen) · [FOD Economie: vragen van gezinnen over elektriciteitsschaarste](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door)
 
 ## Niet doen
 
@@ -189,6 +199,8 @@ Bron: [Nationaal Crisiscentrum](https://crisiscentrum.be/nl/risicos-belgie/natuu
 Bron: [Koninklijke Sterrenwacht: FAQ](https://seismologie.be/nl/veel-gestelde-vragen) · [Ready.gov](https://www.ready.gov/earthquakes)
 
 ## Meer informatie
+
+Vooraf te lezen, of als het internet werkt:
 
 - Recente bevingen en de enquête "Heb je een aardbeving gevoeld?": [seismologie.be](https://seismologie.be/nl)
 - Risico en aanbevelingen: [Nationaal Crisiscentrum: aardbeving](https://crisiscentrum.be/nl/risicos-belgie/natuurlijke-risicos/aardbeving)

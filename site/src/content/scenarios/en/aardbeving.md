@@ -3,19 +3,19 @@ titel: Earthquake
 volgorde: 12
 kort: "The ground shakes. Strong earthquakes are rare in Belgium, but they can cause damage."
 stappen:
-  - "Indoors: take cover under a sturdy table, desk or bed and hold on until the shaking stops."
-  - "If there is no sturdy furniture, sit on the floor against an interior wall and protect your head and neck with your arms."
+  - "Indoors: take cover under a sturdy table, desk or bed and hold on until the shaking stops. If there is no sturdy furniture, sit on the floor against an interior wall and protect your head and neck with your arms."
   - "Stay away from windows, mirrors, cupboards and things that can fall."
   - "Outdoors: go to an open space, away from buildings, trees, poles, cables and bridges."
   - "In the car: stop in a safe place without blocking the road and stay in the vehicle."
-  - "After the shaking: expect aftershocks. Take the stairs, never the lift. Do not light a fire."
+  - "After the shaking: expect aftershocks. Take the stairs, never the lift. Do not light a fire. Listen to the radio for instructions."
   - "If you smell gas: shut off the supply, open windows and doors, go outside and alert the emergency services."
+  - "Help injured people if you can. Call 112. If that does not work, have someone else call or ask for help nearby (see Emergency numbers, If you cannot call)."
 niet:
   - "Do not use a lift to leave a building."
   - "Do not collect children from school."
   - "Do not go back into a damaged building."
 status: concept
-datum: "2026-11-17"
+datum: "2026-11-18"
 bronnen:
   - naam: "National Crisis Center: earthquake"
     url: https://crisiscenter.be/en/risks-belgium/natural-risks/earthquake
@@ -29,15 +29,23 @@ bronnen:
     url: https://crisiscenter.be/en/what-can-you-do/build-emergency-kit/emergency-kit-home
   - naam: "Ready.gov: Earthquakes"
     url: https://www.ready.gov/earthquakes
+  - naam: "National Crisis Center: disruption of the digital infrastructure"
+    url: https://crisiscenter.be/en/risks-belgium/societal-risks/failure-digital-infrastructure
+  - naam: "National Crisis Center: information during an emergency"
+    url: https://crisiscenter.be/en/what-can-you-do/stay-informed/get-informed-emergency-situation
+  - naam: "112.be: Frequently asked questions"
+    url: https://112.be/en/frequently-asked-questions
+  - naam: "FPS Economy: questions from households about electricity shortages"
+    url: https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door
 vertaling: machine
-origineel_datum: "2026-11-17"
+origineel_datum: "2026-11-18"
 ---
 
 ## Recognise
 
 In an earthquake the ground shakes or trembles. Aftershocks can follow the first shock, sometimes much later.
 
-**Earthquakes in Belgium.** Belgium lies in a so-called stable zone. Even so, larger earthquakes have caused damage here in the past. The Royal Observatory of Belgium mentions, among others, the earthquakes of 1382 and 1449 in the North Sea, 1580 in the Channel, 1692 in Verviers, 1756 in Düren (Germany), 1938 in Zulzeke-Nukerke and 1992 in Roermond (the Netherlands). On average, Belgium has an earthquake of magnitude 5 or more about once every 40 years, and an earthquake of magnitude 6 or more about once every 315 years.
+**Earthquakes in Belgium.** Belgium lies in a so-called stable zone. Even so, larger earthquakes have caused damage here in the past. Examples are the earthquakes of 1382 and 1449 in the North Sea, 1580 in the Channel, 1692 in Verviers, 1756 in Düren (Germany), 1938 in Zulzeke-Nukerke and 1992 in Roermond (the Netherlands). On average, Belgium has an earthquake of magnitude 5 or more about once every 40 years, and an earthquake of magnitude 6 or more about once every 315 years.
 
 **The greatest danger** is damage to buildings or their collapse. Falling objects, glass, gas leaks, damaged electrical installations and fire are also a risk. The Belgian risk analysis considers a strong earthquake unlikely.
 
@@ -58,13 +66,13 @@ Source: [Royal Observatory: FAQ](https://seismologie.be/en/frequently-asked-ques
 
 **With your family.**
 
-- Agree how you will protect yourselves, where you will meet and how you will find each other again.
+- Agree how you will protect yourselves, where you will meet and how you will find each other again, also if you cannot reach each other.
 - Practise taking cover together. Take part in or follow drills.
 - Know the official risk information and the safety instructions.
 
-**Emergency kit.** Keep a kit ready with a battery-powered radio, a torch, drinking water, personal documents, essential medication, blankets, spare clothing, tinned food and a first aid kit. The National Crisis Center recommends being self-sufficient for at least 3 days. Ready.gov adds a whistle to call for help.
+**Emergency kit.** Keep a kit ready with a battery-powered radio, a torch, drinking water, personal documents, essential medication, blankets, spare clothing, tinned food, a first aid kit and a whistle to call for help. Make sure you are self-sufficient for at least 3 days.
 
-Source: [National Crisis Center](https://crisiscenter.be/en/risks-belgium/natural-risks/earthquake) · [Royal Observatory: FAQ](https://seismologie.be/en/frequently-asked-questions) · [National Crisis Center: emergency kit](https://crisiscenter.be/en/what-can-you-do/build-emergency-kit/emergency-kit-home) · [Ready.gov](https://www.ready.gov/earthquakes)
+Source: [National Crisis Center](https://crisiscenter.be/en/risks-belgium/natural-risks/earthquake) · [Royal Observatory: FAQ](https://seismologie.be/en/frequently-asked-questions) · [National Crisis Center: emergency kit](https://crisiscenter.be/en/what-can-you-do/build-emergency-kit/emergency-kit-home) · [Ready.gov](https://www.ready.gov/earthquakes) · [National Crisis Center: digital infrastructure](https://crisiscenter.be/en/risks-belgium/societal-risks/failure-digital-infrastructure)
 
 ## During
 
@@ -80,11 +88,11 @@ Protect yourself immediately.
 4. Hold on to the furniture with your other hand. If it moves, move with it.
 5. Stay like this until the shaking stops.
 
-**No sturdy furniture nearby.** Sit or crouch against an interior wall, away from windows. Bend forward to protect your upper body and hold your head and neck with both arms. The Royal Observatory also mentions a load-bearing wall or a pillar as a place to shelter.
+**No sturdy furniture nearby.** Sit or crouch against an interior wall, away from windows. Bend forward to protect your upper body and hold your head and neck with both arms. A load-bearing wall or a pillar is also a place to shelter.
 
 **If you are in bed.** Turn onto your stomach and cover your head and neck with a pillow.
 
-**If you are close to an exit.** The National Crisis Center says: if there is an exit nearby, go safely outside to an open space, away from buildings. The Royal Observatory and the American Ready.gov advise staying where you are and not running outside. If you are unsure whether the way out is safe, stay inside and take cover.
+**If you are close to an exit.** If the exit is very close and the way out is safe, go to an open space, away from buildings. If you are unsure, stay where you are and take cover.
 
 **Always.**
 
@@ -143,14 +151,15 @@ Source: [National Crisis Center](https://crisiscenter.be/en/risks-belgium/natura
 **First minutes.**
 
 - Expect aftershocks. If you feel one, take cover again and hold on.
-- Check whether you are injured yourself. Help others if you can. Call 112 if there are injured people.
+- Check whether you are injured yourself. Help others if you can.
+- Call 112 if there are injured people. If that does not work, have someone else call or ask for help nearby (see Emergency numbers, If you cannot call). See also the first aid cards.
 - Do not light a fire, do not smoke and avoid sparks.
 - If the building is damaged, go outside and away from the building. Do not go back in.
 - Always take the stairs, never the lift.
 
 **If you are trapped under rubble.**
 
-- Send a text message or tap on a pipe or wall so that rescuers can find you.
+- Tap on a pipe or wall so that rescuers can find you. If the network works, also send a text message.
 - Cover your mouth with your clothing against dust.
 - Use a whistle instead of shouting.
 
@@ -169,13 +178,14 @@ Source: [National Crisis Center](https://crisiscenter.be/en/risks-belgium/natura
 
 **Communication.**
 
-- Follow the instructions from the radio and the authorities.
-- Only phone in a real emergency. Send a text message instead: that often works better and saves your battery.
+- Listen to the radio and follow the instructions from the authorities. If the power fails, use a battery-powered radio or the car radio. Also watch for police loudspeaker vans.
+- Only phone in a real emergency. If the network works, send a text message instead: that often works better and saves your battery.
 - Report dangerous situations to the authorities.
 - Offer your help to the emergency services.
-- If you felt the earthquake, fill in the survey on seismologie.be. This helps the emergency services.
+- If you cannot go home: in larger emergencies the municipality or province sets up a reception centre, for example a sports hall or function room. A contact person on site provides information there.
+- If you felt the earthquake, fill in the survey on seismologie.be as soon as the internet works. This helps the emergency services.
 
-Source: [National Crisis Center](https://crisiscenter.be/en/risks-belgium/natural-risks/earthquake) · [Royal Observatory: FAQ](https://seismologie.be/en/frequently-asked-questions) · [Ready.gov](https://www.ready.gov/earthquakes)
+Source: [National Crisis Center](https://crisiscenter.be/en/risks-belgium/natural-risks/earthquake) · [Royal Observatory: FAQ](https://seismologie.be/en/frequently-asked-questions) · [Ready.gov](https://www.ready.gov/earthquakes) · [National Crisis Center: evacuating](https://crisiscenter.be/en/what-can-you-do/right-reflex/evacuate) · [National Crisis Center: information during an emergency](https://crisiscenter.be/en/what-can-you-do/stay-informed/get-informed-emergency-situation) · [112.be: Frequently asked questions](https://112.be/en/frequently-asked-questions) · [FPS Economy: questions from households about electricity shortages](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door)
 
 ## Do not
 
@@ -191,6 +201,8 @@ Source: [National Crisis Center](https://crisiscenter.be/en/risks-belgium/natura
 Source: [Royal Observatory: FAQ](https://seismologie.be/en/frequently-asked-questions) · [Ready.gov](https://www.ready.gov/earthquakes)
 
 ## More information
+
+To read beforehand, or when the internet works:
 
 - Recent earthquakes and the survey "Did you feel an earthquake?": [seismologie.be](https://seismologie.be/en)
 - Risk and recommendations: [National Crisis Center: earthquake](https://crisiscenter.be/en/risks-belgium/natural-risks/earthquake)

@@ -3,9 +3,9 @@ titel: Natuurbrand
 volgorde: 13
 kort: "Brand in bos, heide, duinen of veld in de buurt, of de overheid waarschuwt voor hoog brandgevaar."
 stappen:
-  - "Bel 112 zodra je een brand ziet. Geef je plaats door met herkenningspunten: paden, vijvers, uitkijktorens, parkings."
   - "In de natuur: volg de paden weg van het vuur en de rook, bij voorkeur dwars op de windrichting. Loop nooit voor het vuur uit."
-  - "Ga naar een openbare weg, een grote verharde plek of de bebouwde kom. Help anderen mee."
+  - "Ga naar een openbare weg, een grote verharde plek of de bebouwde kom. Help anderen mee en spreek mensen aan die je tegenkomt."
+  - "Bel zo snel mogelijk 112 en geef je plaats door met herkenningspunten: paden, vijvers, uitkijktorens, parkings. Geen bereik: vertrek en verwittig de mensen die je onderweg tegenkomt. Zie ook Noodnummers, Als bellen niet lukt."
   - "Thuis bij de natuur: sluit ramen en deuren en wacht op de instructies van de overheid."
   - "Vertrek als de overheid het vraagt. Sluit dan elektriciteit en gas af. Evacueer niet op eigen initiatief."
   - "Hou wegen en boswegen vrij voor de hulpdiensten. Blijf weg van het brandgebied."
@@ -14,7 +14,7 @@ niet:
   - "Gooi geen peuken weg, ook niet uit het autoraam."
   - "Parkeer niet in hoog of droog gras."
 status: concept
-datum: "2026-11-17"
+datum: "2026-11-18"
 bronnen:
   - naam: "Nationaal Crisiscentrum: natuurbrand"
     url: https://crisiscentrum.be/nl/risicos-belgie/natuurlijke-risicos/natuurbrand
@@ -36,6 +36,12 @@ bronnen:
     url: https://www.brandweer.nl/onderwerpen/natuurbrand-voorkomen-tips-dagje-uit/
   - naam: "Ready.gov: Wildfires"
     url: https://www.ready.gov/wildfires
+  - naam: "Nationaal Crisiscentrum: informatie tijdens een noodsituatie"
+    url: https://crisiscentrum.be/nl/wat-kan-jij-doen/informeer-je/informatie-tijdens-een-noodsituatie
+  - naam: "112.be: Veelgestelde vragen"
+    url: https://112.be/nl/veelgestelde-vragen
+  - naam: "FOD Economie: vragen van gezinnen over elektriciteitsschaarste"
+    url: https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door
 ---
 
 ## Herkennen
@@ -44,11 +50,11 @@ Een natuurbrand is een brand in bos, heide, duinen, grasland of veld. Hitte, dro
 
 **Brandgevaar in Vlaanderen.** Het Agentschap Natuur en Bos (ANB) geeft per provincie een kleurcode voor het brandgevaar in natuurgebieden: groen, geel, oranje of rood. Groen betekent weinig gevaar: er is geen bijzonder risico, en bij een brand rukt de brandweer met normale sterkte uit. Hoe hoger de code, hoe groter het gevaar. Bij brand- of stormgevaar kunnen natuurgebieden ontoegankelijk worden. Bekijk de code op natuurenbos.be voor je vertrekt. Ook eigenaars van andere openbare en private bossen lopen hetzelfde risico.
 
-**Brandgevaar in Wallonië.** Bij droogte kunnen de burgemeester of de gouverneur een plaatselijk verbod opleggen. Dat verbod staat op de website van de gemeente. Op gevoelige plaatsen staan informatieborden.
+**Brandgevaar in Wallonië.** Bij droogte kunnen de burgemeester of de gouverneur een plaatselijk verbod opleggen. Op gevoelige plaatsen staan informatieborden. Het verbod staat ook op de website van de gemeente.
 
-**Informatie.** Volg bij een brand in de buurt de officiële kanalen van gemeente en overheid, in België ook BE-Alert. Vertrouw niet op geruchten of berichten van onbekende accounts op sociale media.
+**Informatie.** Volg bij een brand in de buurt de officiële kanalen van gemeente en overheid: radio, tv en omroepwagens van de politie, en als het netwerk werkt ook BE-Alert, websites en sociale media. Vertrouw niet op geruchten of berichten van onbekende accounts op sociale media.
 
-Bron: [Nationaal Crisiscentrum](https://crisiscentrum.be/nl/risicos-belgie/natuurlijke-risicos/natuurbrand) · [Agentschap Natuur en Bos](https://natuurenbos.be/waarschuwingen) · [Service public de Wallonie](https://environnement.wallonie.be/feux) · [Brandweer Nederland](https://www.brandweer.nl/onderwerpen/natuurbrand/)
+Bron: [Nationaal Crisiscentrum](https://crisiscentrum.be/nl/risicos-belgie/natuurlijke-risicos/natuurbrand) · [Agentschap Natuur en Bos](https://natuurenbos.be/waarschuwingen) · [Service public de Wallonie](https://environnement.wallonie.be/feux) · [Brandweer Nederland](https://www.brandweer.nl/onderwerpen/natuurbrand/) · [Nationaal Crisiscentrum: informatie tijdens een noodsituatie](https://crisiscentrum.be/nl/wat-kan-jij-doen/informeer-je/informatie-tijdens-een-noodsituatie)
 
 ## Voorbereiden
 
@@ -63,11 +69,11 @@ Bron: [Nationaal Crisiscentrum](https://crisiscentrum.be/nl/risicos-belgie/natuu
 - Zet een barbecue op een stabiele, onbrandbare ondergrond zoals stenen, grind of tegels, ver van brandbare planten. Hou een emmer water of zand bij de hand.
 - Houtskool en briketten kunnen na gebruik blijven smeulen. Gooi ze voorzichtig weg.
 - Neem glas en afval mee naar huis.
-- Neem altijd een gsm mee als je de natuur in gaat. Installeer de 112-app.
+- Neem altijd een gsm mee als je de natuur in gaat. Installeer vooraf de 112-app.
 
 ### Je woning aan de rand van bos of heide
 
-De Nederlandse brandweer geeft deze tips voor woningen dicht bij de natuur:
+Woon je dicht bij de natuur:
 
 - Maak dak en dakgoten minstens twee keer per jaar schoon, in de lente en de herfst. Doe het vaker in droge periodes.
 - Laat het rookkanaal vegen en plaats een vonkenvanger.
@@ -86,7 +92,7 @@ De Nederlandse brandweer geeft deze tips voor woningen dicht bij de natuur:
 - Leg identiteitskaarten, medicatie, water, spullen voor huisdieren en telefoons samen op een vaste plek.
 - Ken je vluchtroute, ook als het druk is op de weg. Te voet of met de fiets kan sneller en veiliger zijn dan met de auto.
 - Spreek vooraf af met familie of vrienden waar je naartoe kunt.
-- Leg een noodpakket klaar. Ready.gov raadt aan om ook een N95-mondmasker te bewaren tegen rook.
+- Leg een noodpakket klaar, met ook een N95-mondmasker tegen rook.
 
 Bron: [Nationaal Crisiscentrum](https://crisiscentrum.be/nl/risicos-belgie/natuurlijke-risicos/natuurbrand) · [Service public de Wallonie](https://environnement.wallonie.be/feux) · [Brandweer Nederland: woning](https://www.brandweer.nl/onderwerpen/natuurbrand-voorkomen-tips-vakantieverblijf/) · [Brandweer Nederland: dagje uit](https://www.brandweer.nl/onderwerpen/natuurbrand-voorkomen-tips-dagje-uit/) · [Brandweer Nederland: in de buurt](https://www.brandweer.nl/onderwerpen/natuurbrand-in-de-buurt/) · [Nationaal Crisiscentrum: evacueren](https://crisiscentrum.be/nl/wat-kan-jij-doen/reageer-correct/evacueren) · [Ready.gov](https://www.ready.gov/wildfires)
 
@@ -94,13 +100,13 @@ Bron: [Nationaal Crisiscentrum](https://crisiscentrum.be/nl/risicos-belgie/natuu
 
 ### Thuis
 
-- Bel 112 als je een brand ziet of als iemand in gevaar is.
+- Bel 112 als je een brand ziet of als iemand in gevaar is. Lukt dat niet, laat iemand anders bellen of vraag hulp in je buurt (zie Noodnummers, Als bellen niet lukt).
 - Sluit ramen en deuren.
-- Evacueer niet op eigen initiatief. Wacht op de aanbevelingen van de overheid. Volg BE-Alert, radio en de officiële kanalen.
+- Evacueer niet op eigen initiatief. Wacht op de aanbevelingen van de overheid via de radio en omroepwagens, en als het netwerk werkt via BE-Alert.
 - Kijk of buren, ouderen en mensen met een beperking hulp nodig hebben.
 - Moet je vertrekken: sluit elektriciteit en gas af, neem je noodpakket en vertrek meteen.
-- Kun je niet weg en is er geen bevel om te vertrekken: blijf binnen met ramen en deuren dicht. Bij rook raadt Ready.gov aan om in een kamer te blijven die je van de buitenlucht kunt afsluiten, en ventilatie op recirculatie te zetten of de luchtinlaat te sluiten.
-- Zit je echt vast: bel 112 en geef je plaats door. Reken op vertraging. Doe de lichten aan, zodat hulpverleners je vinden.
+- Kun je niet weg en is er geen bevel om te vertrekken: blijf binnen met ramen en deuren dicht. Bij rook: blijf in een kamer die je van de buitenlucht kunt afsluiten, en zet de ventilatie op recirculatie of sluit de luchtinlaat.
+- Zit je echt vast: doe de lichten aan, zodat hulpverleners je vinden. Bel 112 en geef je plaats door. Reken op vertraging.
 
 ### Buiten of onderweg
 
@@ -112,14 +118,13 @@ Bron: [Nationaal Crisiscentrum](https://crisiscentrum.be/nl/risicos-belgie/natuu
 4. Help andere mensen naar een veilige plek.
 5. Bel zo snel mogelijk 112 of gebruik de 112-app. Geef je plaats met herkenningspunten: paden, vijvers, uitkijktorens, parkings.
 
-**Geen bereik?** Vertrek zo snel mogelijk en verwittig de mensen die je onderweg tegenkomt.
+**Geen bereik of lukt bellen niet?** Vertrek zo snel mogelijk en verwittig de mensen die je onderweg tegenkomt (zie Noodnummers, Als bellen niet lukt).
 
 Neem geen risico's en volg de instructies van brandweer en boswachters.
 
 ### In de auto
 
 - Blokkeer geen paden, boswegen of toegangen. Laat de weg vrij voor brandweer en ambulance.
-- Parkeer nooit in hoog gras.
 - Volg de instructies van politie en brandweer. Moet je vertrekken, neem dan de route die de overheid opgeeft.
 - Is de weg druk of afgesloten, overweeg dan te voet of met de fiets te vertrekken.
 
@@ -136,7 +141,7 @@ Neem geen risico's en volg de instructies van brandweer en boswachters.
 
 ### Kwetsbare personen
 
-- Mensen met astma, COPD of een andere longziekte zijn extra gevoelig voor rook. Beperk hun blootstelling. Ready.gov raadt een N95-masker of een afgesloten kamer met luchtreiniger aan.
+- Mensen met astma, COPD of een andere longziekte zijn extra gevoelig voor rook. Beperk hun blootstelling met een N95-masker of een afgesloten kamer met luchtreiniger.
 - Ben je ziek, neem dan contact op met je arts.
 - Zorg in je noodplan voor helpers in de buurt van mensen die minder mobiel zijn. Bied hen een lift aan bij een evacuatie.
 
@@ -147,7 +152,7 @@ Neem geen risico's en volg de instructies van brandweer en boswachters.
 - Kleine huisdieren zijn in een opvangcentrum soms toegelaten. Volg de officiële instructies.
 - Moet een dier achterblijven: vertel de hulpdiensten hoeveel dieren er zijn en waar ze zich verstoppen. Laat minstens 24 uur water en voer achter.
 
-Bron: [Nationaal Crisiscentrum](https://crisiscentrum.be/nl/risicos-belgie/natuurlijke-risicos/natuurbrand) · [Service public de Wallonie](https://environnement.wallonie.be/feux) · [Brandweer Nederland](https://www.brandweer.nl/onderwerpen/natuurbrand/) · [Brandweer Nederland: in de buurt](https://www.brandweer.nl/onderwerpen/natuurbrand-in-de-buurt/) · [Nationaal Crisiscentrum: schuilen](https://crisiscentrum.be/nl/wat-kan-jij-doen/reageer-correct/schuilen) · [Nationaal Crisiscentrum: evacueren](https://crisiscentrum.be/nl/wat-kan-jij-doen/reageer-correct/evacueren) · [Ready.gov](https://www.ready.gov/wildfires)
+Bron: [Nationaal Crisiscentrum](https://crisiscentrum.be/nl/risicos-belgie/natuurlijke-risicos/natuurbrand) · [Service public de Wallonie](https://environnement.wallonie.be/feux) · [Brandweer Nederland](https://www.brandweer.nl/onderwerpen/natuurbrand/) · [Brandweer Nederland: in de buurt](https://www.brandweer.nl/onderwerpen/natuurbrand-in-de-buurt/) · [Nationaal Crisiscentrum: schuilen](https://crisiscentrum.be/nl/wat-kan-jij-doen/reageer-correct/schuilen) · [Nationaal Crisiscentrum: evacueren](https://crisiscentrum.be/nl/wat-kan-jij-doen/reageer-correct/evacueren) · [Ready.gov](https://www.ready.gov/wildfires) · [Nationaal Crisiscentrum: informatie tijdens een noodsituatie](https://crisiscentrum.be/nl/wat-kan-jij-doen/informeer-je/informatie-tijdens-een-noodsituatie) · [112.be: Veelgestelde vragen](https://112.be/nl/veelgestelde-vragen) · [FOD Economie: vragen van gezinnen over elektriciteitsschaarste](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door)
 
 ## Daarna
 
@@ -156,7 +161,7 @@ Bron: [Nationaal Crisiscentrum](https://crisiscentrum.be/nl/risicos-belgie/natuu
 - Blijf weg van hete as, verkoolde bomen, smeulend afval en gloeiende resten. Hitte in de grond kan brandwonden of een nieuwe brand veroorzaken.
 - Draag bij het opruimen lange mouwen, een lange broek, werkhandschoenen en stevige schoenen met dikke zolen. Draag een mondmasker en maak het puin nat om stof te beperken.
 - Neem foto's van de schade en contacteer je verzekeraar.
-- Stuur berichten in plaats van te bellen, zodat het net vrij blijft voor noodoproepen.
+- Bel alleen in noodgevallen. Werkt het netwerk, stuur dan liever berichten, zodat het net vrij blijft.
 
 Bron: [Nationaal Crisiscentrum](https://crisiscentrum.be/nl/risicos-belgie/natuurlijke-risicos/natuurbrand) · [Ready.gov](https://www.ready.gov/wildfires)
 
@@ -174,10 +179,12 @@ Bron: [Nationaal Crisiscentrum](https://crisiscentrum.be/nl/risicos-belgie/natuu
 
 ## Meer informatie
 
+Vooraf te lezen, of als het internet werkt:
+
 - Brandgevaar in Vlaamse natuurgebieden: [natuurenbos.be/waarschuwingen](https://natuurenbos.be/waarschuwingen)
 - Brandgevaar en verboden in Wallonië: [environnement.wallonie.be/feux](https://environnement.wallonie.be/feux)
 - Risico en aanbevelingen: [Nationaal Crisiscentrum: natuurbrand](https://crisiscentrum.be/nl/risicos-belgie/natuurlijke-risicos/natuurbrand)
-- De 112-app: [112.be](https://112.be/nl/mobiele-applicatie)
+- De 112-app, vooraf te installeren: [112.be](https://112.be/nl/mobiele-applicatie)
 - Zie ook de kaarten **Brand** en **Hitte**.
 
 Bron: [Nationaal Crisiscentrum](https://crisiscentrum.be/nl/risicos-belgie/natuurlijke-risicos/natuurbrand)

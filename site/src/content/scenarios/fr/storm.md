@@ -4,11 +4,11 @@ volgorde: 4
 kort: "Code jaune, orange ou rouge pour le vent ou les orages : fortes rafales, chutes de branches, foudre."
 stappen:
   - "Fixez ou attachez les objets non fixés dans le jardin et sur la terrasse, ou rentrez-les avant l'arrivée de la tempête. Rentrez les animaux domestiques."
-  - "Restez à l'intérieur pendant la tempête, fermez les fenêtres et les portes et restez à l'écart des fenêtres. Reportez vos déplacements."
+  - "Restez à l'intérieur pendant la tempête, fermez les fenêtres et les portes et restez à l'écart des fenêtres. Reportez vos déplacements. Écoutez le bulletin météo à la radio, aussi sur une radio à piles en cas de panne de courant."
   - "Restez hors des bois et des parcs et loin des arbres, des échafaudages et des structures métalliques. Ne vous abritez jamais sous un arbre."
   - "En cas d'orage, débranchez les appareils électroniques."
-  - "Demandez l'aide non urgente des pompiers via 1722.be ou le 1722 si ce numéro est activé. N'appelez le 112 qu'en cas de danger de mort."
   - "Ne touchez jamais un câble électrique tombé au sol."
+  - "N'appelez le 112 qu'en cas de danger de mort. Si l'appel ne passe pas, faites appeler quelqu'un d'autre ou demandez de l'aide dans votre voisinage (voir Numéros d'urgence, Si l'appel ne passe pas). Aide non urgente des pompiers : si le réseau fonctionne, demandez-la via 1722.be, ou appelez le 1722 si ce numéro est activé."
   - "Prenez des photos des dégâts et prévenez votre assureur le plus vite possible."
 niet:
   - "Ne pas s'abriter sous un arbre et ne pas se garer près des arbres."
@@ -17,7 +17,7 @@ niet:
   - "Ne pas toucher de câbles tombés au sol."
   - "Ne pas appeler le 112 pour des dégâts de tempête ordinaires."
 status: concept
-datum: "2026-11-17"
+datum: "2026-11-18"
 bronnen:
   - naam: "Centre de crise National : vent et tempête"
     url: https://centredecrise.be/fr/risques-en-belgique/risques-naturels/vent-et-tempete
@@ -51,8 +51,14 @@ bronnen:
     url: https://www.ready.gov/thunderstorms-lightning
   - naam: "CDC: what to do to protect yourself during a power outage"
     url: https://www.cdc.gov/natural-disasters/response/what-to-do-protect-yourself-during-a-power-outage.html
+  - naam: "Centre de crise National : un plan dans votre quartier"
+    url: https://centredecrise.be/fr/que-pouvez-vous-faire/faites-un-plan/un-plan-dans-votre-quartier-ou-votre-association
+  - naam: "112.be : questions fréquentes"
+    url: https://112.be/fr/questions-frequentes
+  - naam: "SPF Économie : questions des ménages sur la pénurie d'électricité"
+    url: https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door
 vertaling: machine
-origineel_datum: "2026-11-17"
+origineel_datum: "2026-11-18"
 ---
 
 ## Reconnaître
@@ -109,29 +115,31 @@ Source : [Centre de crise National : vent et tempête](https://centredecrise.be/
 
 - Restez à l'intérieur et fermez les fenêtres et les portes. L'intérieur est l'endroit le plus sûr.
 - Restez à l'écart des fenêtres, des portes et des murs extérieurs. Faites attention aux débris projetés.
-- Écoutez le bulletin météo et suivez les recommandations.
+- Écoutez le bulletin météo et suivez les recommandations. En cas de panne de courant, utilisez une radio à piles ou l'autoradio.
 
 **En cas d'orage**
 
 - Éteignez les appareils électroniques et débranchez-les.
 - N'utilisez pas d'appareils branchés sur une prise et évitez l'eau courante.
 
-**Demander de l'aide : qui appeler ?**
+**Demander de l'aide : qui prévenir ?**
 
 | Situation | Que faire |
 |---|---|
-| Une personne est en danger de mort, ou il y a un risque d'incendie | Appelez le 112. |
-| Vous avez besoin des pompiers, sans danger de mort (tuiles arrachées par le vent, un arbre qui menace de tomber) | Introduisez une demande via le guichet numérique 1722.be ou le formulaire de votre zone de secours. N'appelez le 1722 que si ce numéro est activé. |
+| Une personne est en danger de mort, ou il y a un risque d'incendie | Appelez le 112 ou faites appeler quelqu'un. Si l'appel ne passe pas, voir ci-dessous. |
+| Vous avez besoin des pompiers, sans danger de mort (tuiles arrachées par le vent, un arbre qui menace de tomber) | Si le réseau fonctionne : introduisez une demande via le guichet numérique 1722.be ou le formulaire de votre zone de secours. N'appelez le 1722 que si ce numéro est activé. |
 | Des dégâts sans danger, pour lesquels vous n'avez pas besoin des pompiers (arbre tombé dans le jardin, abri de jardin endommagé) | Faites appel à un professionnel, comme un couvreur, ou réparez vous-même. |
 
-- N'appelez pas le 112 pour des dégâts de tempête ordinaires. Lors des tempêtes et des orages violents, les pompiers sont surchargés. Le guichet 1722.be est toujours disponible.
-- Signalez les dégâts ou les phénomènes particuliers via l'application de l'IRM. Cela aide l'IRM à avertir les autres.
+- N'appelez pas le 112 pour des dégâts de tempête ordinaires. Lors des tempêtes et des orages violents, les pompiers sont surchargés. Le guichet numérique 1722.be est toujours disponible, mais uniquement via Internet.
+- Si le réseau fonctionne, signalez les dégâts ou les phénomènes particuliers via l'application de l'IRM. Cela aide l'IRM à avertir les autres.
+
+Si l'appel ne passe pas, faites appeler quelqu'un d'autre ou demandez de l'aide dans votre voisinage, et suivez les informations des autorités à la radio. Voir Numéros d'urgence dans l'app, Si l'appel ne passe pas.
 
 **Si l'électricité est coupée**
 
 - Voir la fiche Panne d'électricité. Utilisez une lampe de poche plutôt que des bougies.
 
-Source : [Centre de crise National : vent et tempête](https://centredecrise.be/fr/risques-en-belgique/risques-naturels/vent-et-tempete) · [Centre de crise National : tornade](https://centredecrise.be/fr/risques-en-belgique/risques-naturels/tornade) · [Centre de crise National : foudre](https://centredecrise.be/fr/risques-en-belgique/risques-naturels/foudre) · [Ready.gov: thunderstorms](https://www.ready.gov/thunderstorms-lightning) · [1722](https://www.1722.be/fr/index.html) · [112.be](https://112.be/fr) · [Brandweer Nederland : tempête et inondations](https://www.brandweer.nl/onderwerpen/storm-en-wateroverlast/)
+Source : [Centre de crise National : vent et tempête](https://centredecrise.be/fr/risques-en-belgique/risques-naturels/vent-et-tempete) · [Centre de crise National : tornade](https://centredecrise.be/fr/risques-en-belgique/risques-naturels/tornade) · [Centre de crise National : foudre](https://centredecrise.be/fr/risques-en-belgique/risques-naturels/foudre) · [Ready.gov: thunderstorms](https://www.ready.gov/thunderstorms-lightning) · [1722](https://www.1722.be/fr/index.html) · [112.be](https://112.be/fr) · [Brandweer Nederland : tempête et inondations](https://www.brandweer.nl/onderwerpen/storm-en-wateroverlast/) · [112.be : questions fréquentes](https://112.be/fr/questions-frequentes) · [SPF Économie : questions des ménages sur la pénurie d'électricité](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door)
 
 ### À l'extérieur ou en déplacement
 
@@ -155,7 +163,7 @@ Source : [Denk vooruit : météo extrême](https://www.denkvooruit.nl/risicos/ri
 
 - Reportez votre trajet si possible.
 - Ne vous garez pas près des arbres.
-- Ne roulez pas sur des routes inondées. Selon Ready.gov, quelques centimètres d'eau à courant rapide peuvent vous renverser et environ 30 cm d'eau peuvent emporter un véhicule.
+- Ne roulez pas sur des routes inondées. Quelques centimètres d'eau à courant rapide peuvent vous renverser, environ 30 cm d'eau peuvent emporter un véhicule.
 - En cas d'orage, une voiture avec un toit est un abri sûr. Si votre voiture est touchée, la carrosserie métallique conduit le courant vers le sol par le toit et les côtés. Vous n'avez pas besoin de toucher un poteau ou une glissière de sécurité.
 
 Source : [Centre de crise National : vent et tempête](https://centredecrise.be/fr/risques-en-belgique/risques-naturels/vent-et-tempete) · [Ready.gov: thunderstorms](https://www.ready.gov/thunderstorms-lightning) · [Brandweer Nederland : orage](https://www.brandweer.nl/onderwerpen/onweer-donder-en-bliksem/) · [Centre de crise National : foudre](https://centredecrise.be/fr/risques-en-belgique/risques-naturels/foudre)
@@ -178,10 +186,10 @@ Source : [Centre de crise National : vent et tempête](https://centredecrise.be/
 
 ### Personnes vulnérables
 
-- Convenez avec vos voisins de la manière de vous entraider. Vérifiez si les voisins qui vivent seuls ou qui sont moins mobiles ont besoin d'aide.
+- Convenez avec vos voisins de la manière de vous entraider, et de la manière de vous joindre sans téléphone ni Internet. Vérifiez si les voisins qui vivent seuls ou qui sont moins mobiles ont besoin d'aide.
 - Si vous dépendez d'appareils médicaux électriques, tenez compte du fait que le courant peut être coupé. Voir la fiche Panne d'électricité.
 
-Source : [Centre de crise National : faites un plan](https://centredecrise.be/fr/que-pouvez-vous-faire/faites-un-plan) · [Centre de crise National : vent et tempête](https://centredecrise.be/fr/risques-en-belgique/risques-naturels/vent-et-tempete)
+Source : [Centre de crise National : faites un plan](https://centredecrise.be/fr/que-pouvez-vous-faire/faites-un-plan) · [Centre de crise National : un plan dans votre quartier](https://centredecrise.be/fr/que-pouvez-vous-faire/faites-un-plan/un-plan-dans-votre-quartier-ou-votre-association) · [Centre de crise National : vent et tempête](https://centredecrise.be/fr/risques-en-belgique/risques-naturels/vent-et-tempete)
 
 ### Animaux domestiques et autres animaux
 
@@ -201,7 +209,7 @@ Source : [Centre de crise National : vent et tempête](https://centredecrise.be/
 
 **Dégâts**
 
-- Si nécessaire, demandez l'aide des pompiers via 1722.be, le formulaire de votre zone ou le 1722 si ce numéro est activé. Gardez le 112 libre pour les situations de danger de mort.
+- Si vous avez besoin de l'aide des pompiers sans danger de mort : si le réseau fonctionne, demandez-la via 1722.be, le formulaire de votre zone ou le 1722 si ce numéro est activé. Gardez le 112 libre pour les situations de danger de mort.
 - Sinon, faites appel à un professionnel ou réparez vous-même, par exemple pour un arbre tombé, un abri de jardin endommagé ou des dégâts de grêle sur votre voiture.
 - Prenez des photos des dégâts pour votre dossier d'assurance.
 - Contactez votre assureur le plus vite possible.
@@ -222,6 +230,8 @@ Source : [Centre de crise National : vent et tempête](https://centredecrise.be/
 Source : [Centre de crise National : vent et tempête](https://centredecrise.be/fr/risques-en-belgique/risques-naturels/vent-et-tempete) · [Centre de crise National : foudre](https://centredecrise.be/fr/risques-en-belgique/risques-naturels/foudre) · [Brandweer Nederland : orage](https://www.brandweer.nl/onderwerpen/onweer-donder-en-bliksem/) · [112.be](https://112.be/fr)
 
 ## Plus d'informations
+
+À lire à l'avance, ou quand Internet fonctionne :
 
 - IRM : avertissements météo, explication des codes couleur et application de l'IRM.
 - 1722.be : guichet numérique pour l'aide non urgente des pompiers.

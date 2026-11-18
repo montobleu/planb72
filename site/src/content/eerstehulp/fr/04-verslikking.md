@@ -3,7 +3,7 @@ titel: Étouffement
 volgorde: 4
 kort: "Si quelqu'un ne peut plus tousser, parler ou respirer : donnez 5 tapes dans le dos, puis 5 compressions abdominales (chez un bébé, 5 compressions thoraciques), et alternez."
 status: concept
-datum: "2026-11-17"
+datum: "2026-11-18"
 bronnen:
   - naam: "Gezondheid en Wetenschap (Rode Kruis-Vlaanderen) : Premiers secours en cas d'étouffement"
     url: https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-verslikking
@@ -15,8 +15,14 @@ bronnen:
     url: https://www.erc.edu/media/p5ymaeej/gl2025_layperson_book_ipdf-v11-e.pdf
   - naam: "IFRC : International first aid, resuscitation, and education guidelines 2020"
     url: https://www.ifrc.org/sites/default/files/2022-02/EN_GFARC_GUIDELINES_2020.pdf
+  - naam: "European Resuscitation Council Guidelines 2021 : First aid"
+    url: https://cprguidelines-old.erc.edu/assets/guidelines/European-Resuscitation-Council-Guidelines-2021-Fi.pdf
+  - naam: "European Resuscitation Council Guidelines 2021 : Paediatric Life Support"
+    url: https://cprguidelines-old.erc.edu/assets/guidelines/European-Resuscitation-Council-Guidelines-2021-Pa.pdf
+  - naam: "112.be : Questions fréquentes"
+    url: https://112.be/fr/questions-frequentes
 vertaling: machine
-origineel_datum: "2026-11-17"
+origineel_datum: "2026-11-18"
 ---
 
 ## Reconnaître
@@ -52,7 +58,7 @@ Source : [Gezondheid en Wetenschap : Étouffement](https://www.gezondheidenweten
 
 ### Étouffement grave chez un adulte ou un enfant
 
-1. Appelez le 112 ou faites appeler, ou faites-le dès que la première série n'aide pas.
+1. Appelez le 112 ou faites appeler, ou faites-le dès que la première série n'aide pas. Si l'appel ne passe pas, faites chercher de l'aide par quelqu'un d'autre (voir Appelez le 112 si).
 2. Placez-vous sur le côté, un peu en arrière de la victime. Faites-la se pencher en avant. Soutenez la poitrine d'une main.
 3. Donnez jusqu'à 5 tapes vigoureuses dans le dos avec le talon de la main, entre les omoplates.
 4. Si les tapes dans le dos n'aident pas, faites jusqu'à 5 compressions abdominales. Placez-vous derrière la victime et passez vos bras autour de la partie supérieure du ventre. Faites-la se pencher en avant. Placez un poing sur la partie supérieure du ventre, entre le nombril et les côtes. Saisissez votre poing avec l'autre main et tirez vigoureusement vers vous et vers le haut.
@@ -63,7 +69,7 @@ Source : [Gezondheid en Wetenschap : Étouffement](https://www.gezondheidenweten
 1. Placez le bébé sur votre avant-bras, à plat ventre, la tête un peu plus basse. Soutenez la mâchoire inférieure avec votre main.
 2. Donnez jusqu'à 5 tapes dans le dos avec le talon de la main, entre les omoplates.
 3. Si elles n'aident pas, retournez le bébé sur le dos. Placez les deux mains autour de la poitrine, les pouces sur le sternum. Faites jusqu'à 5 compressions thoraciques : enfoncez le sternum avec les pouces d'au moins un tiers de la profondeur de la poitrine.
-4. Appelez le 112 si les compressions thoraciques n'aident pas.
+4. Appelez le 112 ou faites appeler si les compressions thoraciques n'aident pas. Si l'appel ne passe pas, faites chercher de l'aide par quelqu'un d'autre et restez vous-même auprès du bébé.
 5. Alternez 5 tapes dans le dos et 5 compressions thoraciques jusqu'à ce que l'objet soit délogé ou que le bébé ne réagisse plus.
 
 Chez un bébé, faites des compressions thoraciques, pas des compressions abdominales.
@@ -86,12 +92,12 @@ Chez un bébé, faites des compressions thoraciques, pas des compressions abdomi
 ### Si la victime perd connaissance
 
 1. Allongez prudemment la victime sur le sol.
-2. Appelez le 112 si ce n'est pas encore fait. Faites chercher un DEA s'il y en a un à proximité.
+2. Appelez le 112 ou faites appeler si ce n'est pas encore fait. Faites chercher un DEA s'il y en a un à proximité. Si l'appel ne passe pas, voir Appelez le 112 si et le sujet 2.
 3. Commencez immédiatement la réanimation, avec compressions thoraciques et insufflations (voir le sujet 2). Les compressions augmentent la pression dans les voies respiratoires et peuvent déloger l'objet. Continuez, même si l'objet ne se déloge pas, jusqu'à l'arrivée des services de secours.
 4. Chez un bébé : donnez des insufflations et des compressions thoraciques comme pour la réanimation d'un bébé.
 5. Si vous voyez l'objet dans la bouche, retirez-le délicatement.
 
-Source : [Gezondheid en Wetenschap : Étouffement](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-verslikking) · [IFRC Guidelines 2020](https://www.ifrc.org/sites/default/files/2022-02/EN_GFARC_GUIDELINES_2020.pdf) · [ERC Guidelines 2025 for Everyone](https://www.erc.edu/media/p5ymaeej/gl2025_layperson_book_ipdf-v11-e.pdf) · [VRT NWS : la Croix-Rouge sur l'étouffement](https://www.vrt.be/vrtnws/nl/2026/09/23/rode-kruis-eerste-hulp-bij-iemand-die-stikt-heimlich/)
+Source : [Gezondheid en Wetenschap : Étouffement](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-verslikking) · [IFRC Guidelines 2020](https://www.ifrc.org/sites/default/files/2022-02/EN_GFARC_GUIDELINES_2020.pdf) · [ERC Guidelines 2025 for Everyone](https://www.erc.edu/media/p5ymaeej/gl2025_layperson_book_ipdf-v11-e.pdf) · [VRT NWS : la Croix-Rouge sur l'étouffement](https://www.vrt.be/vrtnws/nl/2026/09/23/rode-kruis-eerste-hulp-bij-iemand-die-stikt-heimlich/) · [ERC Guidelines 2021 : Paediatric Life Support](https://cprguidelines-old.erc.edu/assets/guidelines/European-Resuscitation-Council-Guidelines-2021-Pa.pdf)
 
 ## Si les secours tardent à arriver
 
@@ -109,9 +115,15 @@ Source : [IFRC Guidelines 2020](https://www.ifrc.org/sites/default/files/2022-02
 - les tapes dans le dos et les compressions abdominales ou thoraciques n'aident pas ;
 - la victime perd connaissance.
 
-Consultez aussi un médecin si la victime continue à tousser, a du mal à avaler, a la sensation que quelque chose se trouve dans la gorge, ou a reçu des compressions abdominales. La Croix-Rouge de Belgique recommande un avis médical ou un appel au 112, même si l'objet est sorti.
+Consultez aussi un médecin si la victime continue à tousser, a du mal à avaler, a la sensation que quelque chose se trouve dans la gorge, ou a reçu des compressions abdominales. Demandez un avis médical ou appelez le 112, même si l'objet est sorti.
 
-Source : [Gezondheid en Wetenschap : Étouffement](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-verslikking) · [Croix-Rouge de Belgique : mise à jour 2024](https://formations.croix-rouge.be/files/files/espace-relais/Relais-BEPS-Mise-jour-2024.pdf) · [IFRC Guidelines 2020](https://www.ifrc.org/sites/default/files/2022-02/EN_GFARC_GUIDELINES_2020.pdf)
+**Si l'appel ne passe pas**
+
+- Ne laissez la victime seule que s'il n'y a pas d'autre possibilité. Désignez directement un témoin pour aller chercher de l'aide et indiquez-lui où c'est, ce qui s'est passé, combien de victimes il y a et dans quel état elles sont.
+- Si un enfant s'étouffe gravement, restez auprès de l'enfant et ne partez pas vous-même chercher de l'aide.
+- Voir aussi le sujet 1 (Si l'appel ne passe pas : chercher de l'aide sans téléphone) et Numéros d'urgence dans l'application, Si l'appel ne passe pas.
+
+Source : [Gezondheid en Wetenschap : Étouffement](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-verslikking) · [Croix-Rouge de Belgique : mise à jour 2024](https://formations.croix-rouge.be/files/files/espace-relais/Relais-BEPS-Mise-jour-2024.pdf) · [IFRC Guidelines 2020](https://www.ifrc.org/sites/default/files/2022-02/EN_GFARC_GUIDELINES_2020.pdf) · [ERC Guidelines 2021 : First aid](https://cprguidelines-old.erc.edu/assets/guidelines/European-Resuscitation-Council-Guidelines-2021-Fi.pdf) · [ERC Guidelines 2021 : Paediatric Life Support](https://cprguidelines-old.erc.edu/assets/guidelines/European-Resuscitation-Council-Guidelines-2021-Pa.pdf) · [112.be : Questions fréquentes](https://112.be/fr/questions-frequentes)
 
 ## À ne pas faire
 
@@ -120,7 +132,7 @@ Source : [Gezondheid en Wetenschap : Étouffement](https://www.gezondheidenweten
 - Ne faites pas de compressions abdominales à un bébé, mais des compressions thoraciques.
 - Ne faites pas de compressions abdominales à une femme enceinte, mais des compressions thoraciques.
 - Ne laissez pas la victime seule tant qu'elle ne respire pas à nouveau normalement.
-- N'attendez pas par peur de mal faire. Selon la Croix-Rouge, c'est ne rien faire qui peut mal tourner.
+- N'attendez pas par peur de mal faire. C'est ne rien faire qui peut mal tourner.
 
 Prévention chez les enfants : coupez en deux les aliments ronds comme les raisins et les tomates. Surveillez un bébé lorsqu'il mange ou qu'il peut mettre quelque chose en bouche.
 

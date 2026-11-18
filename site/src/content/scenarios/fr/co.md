@@ -6,16 +6,16 @@ stappen:
   - "Ouvrez les fenêtres et les portes, si vous pouvez le faire sans risque pour vous-même."
   - "Quittez la pièce et sortez avec tout le monde, à l'air frais."
   - "Éteignez l'appareil au gaz, au bois, au charbon ou au mazout si vous pouvez le faire rapidement et en sécurité."
-  - "Appelez le 112 si quelqu'un a des symptômes ou est inconscient. Dites qu'il s'agit probablement de CO."
+  - "Appelez le 112 si quelqu'un a des symptômes ou est inconscient. Dites qu'il s'agit probablement de CO. Si vous n'y arrivez pas, demandez à quelqu'un d'autre d'appeler ou demandez de l'aide dans votre voisinage (voir Numéros d'urgence, Si l'appel ne passe pas)."
   - "N'entrez jamais dans une pièce où une personne est inconsciente. Attendez les services de secours."
-  - "En cas de question ou de doute, appelez le Centre Antipoisons au 070 245 245. C'est gratuit, jour et nuit."
+  - "En cas de question ou de doute, appelez le Centre Antipoisons au 070 245 245, si le réseau fonctionne. C'est gratuit, jour et nuit."
   - "N'utilisez à nouveau l'appareil qu'après un contrôle par un professionnel agréé."
 niet:
   - "Ne rentrez pas de barbecue ni de charbon de bois pour vous chauffer."
   - "Ne laissez pas tourner un moteur dans un garage, même avec la porte ouverte."
   - "Ne bouchez pas les grilles de ventilation ni les fentes, même par grand froid."
 status: concept
-datum: "2026-11-17"
+datum: "2026-11-18"
 bronnen:
   - naam: "Centre Antipoisons : brochure Prévenir l'intoxication au CO"
     url: https://www.centreantipoisons.be/app/uploads/2026/06/Prevenir-lintoxication-au-monoxyde-de-carbone.pdf
@@ -31,8 +31,14 @@ bronnen:
     url: https://centredecrise.be/fr/que-pouvez-vous-faire/le-bon-reflexe/evacuer
   - naam: "CDC: Carbon Monoxide Poisoning Basics"
     url: https://www.cdc.gov/carbon-monoxide/about/index.html
+  - naam: "112.be : questions fréquentes"
+    url: https://112.be/fr/questions-frequentes
+  - naam: "SPF Économie : questions des ménages sur la pénurie d'électricité"
+    url: https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door
+  - naam: "ERC Guidelines 2021: First aid"
+    url: https://cprguidelines-old.erc.edu/assets/guidelines/European-Resuscitation-Council-Guidelines-2021-Fi.pdf
 vertaling: machine
-origineel_datum: "2026-11-17"
+origineel_datum: "2026-11-18"
 ---
 
 ## Reconnaître
@@ -41,7 +47,7 @@ Le monoxyde de carbone (CO) est un gaz sans couleur, sans odeur et sans goût. V
 
 En Belgique, le CO est la principale cause d'intoxication mortelle. Chaque année, quelques dizaines de personnes meurent et environ 1 000 personnes sont hospitalisées. La plupart des accidents se produisent pendant la saison de chauffe, d'octobre à avril. Près de la moitié des victimes ont moins de 30 ans. Il en faut peu : 0,1 pour cent de CO dans l'air est mortel en 1 à 3 heures, 1 pour cent déjà en 15 minutes.
 
-**Intoxication rapide (aiguë).** D'abord, vous avez mal à la tête et des vertiges. Vous vous sentez très fatigué et vous pouvez avoir des nausées et vomir. Celui qui ne se rend pas compte qu'il doit quitter la pièce perd connaissance et ne peut alors plus se sauver lui-même. En cas de concentrations élevées, un coma profond et le décès suivent rapidement. Chez les enfants, le mal de ventre est un symptôme fréquent.
+**Intoxication rapide (aiguë).** D'abord, vous avez mal à la tête et des vertiges. Vous vous sentez très fatigué et vous pouvez avoir des nausées et vomir. Celui qui ne se rend pas compte qu'il doit quitter la pièce perd connaissance et ne peut alors plus se sauver lui-même. En cas de concentrations élevées, un coma profond et le décès suivent rapidement.
 
 **Intoxication lente (chronique).** Celui qui inhale longtemps de petites quantités a des symptômes vagues : maux de tête, estomac lourd, faiblesse musculaire, difficultés de concentration et humeur changeante. Un médecin ne reconnaît pas cela facilement.
 
@@ -111,18 +117,20 @@ Source : [Centre Antipoisons : brochure CO](https://www.centreantipoisons.be/app
 2. Ouvrez les fenêtres et les portes, si vous pouvez le faire sans risque pour vous-même.
 3. Quittez la pièce le plus vite possible. Veillez à ce que tout le monde quitte la pièce. Sortez si c'est possible.
 4. Éteignez l'appareil si vous pouvez le faire rapidement et en sécurité.
-5. Appelez le 112. Dites qu'il s'agit probablement d'une intoxication au CO et si quelqu'un est inconscient.
+5. Appelez le 112 ou demandez à quelqu'un d'appeler. Dites qu'il s'agit probablement d'une intoxication au CO et si quelqu'un est inconscient.
 
 Si vous ne pouvez pas ouvrir les fenêtres sans risque pour vous-même, sortez immédiatement.
 
+Si l'appel ne passe pas, demandez à quelqu'un d'autre d'appeler ou envoyez quelqu'un chercher de l'aide dans votre voisinage. Ne laissez une victime seule que si vous n'avez pas le choix. Voir Numéros d'urgence dans l'app, Si l'appel ne passe pas.
+
 **Une personne est inconsciente.**
 
-- N'entrez jamais dans une pièce où se trouve une personne inconsciente. Vous seriez vous-même intoxiqué. Appelez immédiatement le 112.
+- N'entrez jamais dans une pièce où se trouve une personne inconsciente. Vous seriez vous-même intoxiqué. Appelez immédiatement le 112 ou demandez à quelqu'un d'appeler. Si l'appel ne passe pas, voir plus haut.
 - Si les services de secours ne peuvent pas encore être sur place et que vous pouvez aérer la pièce en sécurité : éteignez l'appareil et sortez la victime de la pièce.
 - Si la victime ne respire pas, commencez la respiration artificielle. Le bouche-à-bouche est sans danger : vous ne courez aucun risque d'intoxication au CO.
 - Si la victime respire, couchez-la sur le côté, sans oreiller. Ainsi, elle ne s'étouffe pas avec ses vomissements.
 
-**Une personne est consciente et répond à vos questions.** Emmenez-la à l'air frais et appelez le médecin généraliste. Appelez le Centre Antipoisons au 070 245 245 si vous avez des questions. Un médecin répond, 24 heures par jour, 7 jours par semaine. L'appel est gratuit.
+**Une personne est consciente et répond à vos questions.** Emmenez-la à l'air frais et faites-la examiner par un médecin. Si le réseau fonctionne, appelez le médecin généraliste, et en cas de question le Centre Antipoisons au 070 245 245. Un médecin répond, 24 heures par jour, 7 jours par semaine. L'appel est gratuit.
 
 ### À l'extérieur ou en déplacement
 
@@ -154,21 +162,20 @@ Si vous ne pouvez pas ouvrir les fenêtres sans risque pour vous-même, sortez i
 
 - Les personnes âgées et les personnes atteintes d'une maladie chronique, de problèmes cardiaques ou respiratoires ou d'anémie courent plus de risques.
 - Les fumeurs, et surtout les fumeurs de pipe, de cigare et de narguilé, ont déjà plus de CO dans le sang.
-- Une personne qui dort, qui a bu ou qui est sous influence peut mourir du CO avant de remarquer des symptômes. Le CDC recommande un détecteur près de chaque chambre à coucher.
+- Une personne qui dort, qui a bu ou qui est sous influence peut mourir du CO avant de remarquer des symptômes. Placez un détecteur près de chaque chambre à coucher.
 
 ### Animaux domestiques et autres animaux
 
 - Les animaux sont aussi malades à cause du CO. Si des animaux et des personnes dans la maison ont des symptômes en même temps, c'est un signe d'alerte.
 - Emmenez les animaux domestiques dehors si vous pouvez le faire sans risque pour vous-même. Votre propre sécurité passe en premier.
 
-Source : [Centre Antipoisons : brochure CO](https://www.centreantipoisons.be/app/uploads/2026/06/Prevenir-lintoxication-au-monoxyde-de-carbone.pdf) · [Centre Antipoisons : le CO en détail](https://www.centreantipoisons.be/tox-infos/le-monoxyde-de-carbone-en-detail/) · [IRM](https://www.meteo.be/fr/infos/faq/comment-se-proteger-contre/co-un-tueur-insidieux-dans-la-maison) · [be.brussels](https://be.brussels/fr/securite-prevention/prevention-incendie-et-avis-de-securite/batiments-domicile-et-infrastructures/securite-domicile/co) · [CDC](https://www.cdc.gov/carbon-monoxide/about/index.html)
+Source : [Centre Antipoisons : brochure CO](https://www.centreantipoisons.be/app/uploads/2026/06/Prevenir-lintoxication-au-monoxyde-de-carbone.pdf) · [Centre Antipoisons : le CO en détail](https://www.centreantipoisons.be/tox-infos/le-monoxyde-de-carbone-en-detail/) · [IRM](https://www.meteo.be/fr/infos/faq/comment-se-proteger-contre/co-un-tueur-insidieux-dans-la-maison) · [be.brussels](https://be.brussels/fr/securite-prevention/prevention-incendie-et-avis-de-securite/batiments-domicile-et-infrastructures/securite-domicile/co) · [CDC](https://www.cdc.gov/carbon-monoxide/about/index.html) · [112.be : questions fréquentes](https://112.be/fr/questions-frequentes) · [SPF Économie : questions des ménages sur la pénurie d'électricité](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door) · [ERC Guidelines 2021: First aid](https://cprguidelines-old.erc.edu/assets/guidelines/European-Resuscitation-Council-Guidelines-2021-Fi.pdf)
 
 ## Après
 
 - N'utilisez plus l'appareil tant qu'un professionnel agréé ne l'a pas contrôlé. Appelez aussi un professionnel en cas de flamme orange, de suie, de rouille ou de corrosion.
 - Faites aussi contrôler la cheminée et le raccordement. L'ensemble formé par l'appareil et la cheminée doit être étanche.
-- Faites-vous examiner par un médecin. Une personne consciente appelle le médecin généraliste. Après une intoxication grave, des lésions cérébrales apparaissent parfois plus tard. Une valeur sanguine normale n'exclut pas une intoxication, parce que le CO disparaît du sang après un certain temps.
-- Si vous êtes locataire, signalez immédiatement les réparations nécessaires au propriétaire.
+- Faites-vous examiner par un médecin. Une personne consciente appelle le médecin généraliste si le réseau fonctionne. Après une intoxication grave, des lésions cérébrales apparaissent parfois plus tard. Une valeur sanguine normale n'exclut pas une intoxication, parce que le CO disparaît du sang après un certain temps.
 - S'il n'y avait pas encore de détecteur, installez-en un selon les règles ci-dessus.
 
 Source : [Centre Antipoisons : brochure CO](https://www.centreantipoisons.be/app/uploads/2026/06/Prevenir-lintoxication-au-monoxyde-de-carbone.pdf) · [Centre Antipoisons : le CO en détail](https://www.centreantipoisons.be/tox-infos/le-monoxyde-de-carbone-en-detail/)

@@ -2,9 +2,9 @@
 titel: "Der Familiennotfallplan"
 module: voorbereiding
 volgorde: 3
-kort: "Was in einen Notfallplan gehört, wie Sie Treffpunkte und Kontaktpersonen wählen, welche Absprachen Sie mit Schule, Arbeit, Nachbarn und Pflegekräften treffen und wie Sie sich bei BE-Alert anmelden."
+kort: "Zuerst die Absprachen, die ohne Telefon funktionieren: ein Treffpunkt, eine Kontaktperson außerhalb der Region und ein Zettel, wenn Sie gehen. Danach, was sonst noch in einen Notfallplan gehört, welche Absprachen Sie mit Schule, Arbeit, Nachbarn und Pflegekräften treffen und wie Sie sich bei BE-Alert anmelden."
 status: concept
-datum: "2026-11-17"
+datum: "2026-11-18"
 bronnen:
   - naam: "Nationales Krisenzentrum: Broschüre Gemeinsam vorbereitet"
     url: "https://krisenzentrum.be/sites/default/files/documents/files/WEB-Brosch%C3%BCre%20Gemeinsam%20Vorbereitet-DE.pdf"
@@ -24,6 +24,18 @@ bronnen:
     url: "https://krisenzentrum.be/de/was-koennen-sie-tun/bereiten-sie-sich-vor/ein-plan-fuer-tiere"
   - naam: "Nationales Krisenzentrum: Evakuieren"
     url: "https://krisenzentrum.be/de/was-koennen-sie-tun/der-richtige-reflex/evakuierung"
+  - naam: "Nationales Krisenzentrum: Störung der digitalen Infrastruktur"
+    url: "https://krisenzentrum.be/de/risiken-belgien/maatschappelijke-risicos/ausfall-der-digitalen-infrastruktur"
+  - naam: "Nationales Krisenzentrum: Informationen während einer Notsituation"
+    url: "https://krisenzentrum.be/de/was-koennen-sie-tun/informieren-sie-sich/information-notsituationen"
+  - naam: "Nationales Krisenzentrum: Ein Notfallpaket zu Hause"
+    url: "https://krisenzentrum.be/de/was-koennen-sie-tun/stelle-ein-notfallpaket-zusammen/ein-notfallset-fuer-zu-hause"
+  - naam: "Nationales Krisenzentrum: Ein Notfallpaket unterwegs"
+    url: "https://krisenzentrum.be/de/was-koennen-sie-tun/stelle-ein-notfallpaket-zusammen/ein-notfallset-vor-ort"
+  - naam: "FÖD Wirtschaft: Fragen von Familien zur Stromknappheit"
+    url: "https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door"
+  - naam: "Jeugd Rode Kruis: Poster 4 Schritte der Ersten Hilfe"
+    url: "https://jeugd.rodekruis.be/storage/jrk/2026-034-jrk-poster-didactisch-materiaal-4-stappen-hr.pdf"
   - naam: "Nationales Krisenzentrum: BE-Alert, Warnungen auf Ihrem Telefon"
     url: "https://krisenzentrum.be/de/was-koennen-sie-tun/informieren-sie-sich/warnmeldungen-auf-ihrem-telefon-be-alert"
   - naam: "BE-Alert: Notified, wherever you are"
@@ -32,6 +44,8 @@ bronnen:
     url: "https://www.vlaanderen.be/be-alert-waarschuwingssysteem-bij-noodsituaties"
   - naam: "Denk vooruit: Notfallplan"
     url: "https://www.denkvooruit.nl/bereid-je-voor/noodplan"
+  - naam: "Denk vooruit: Stellen Sie Ihr Notfallpaket zusammen"
+    url: "https://www.denkvooruit.nl/bereid-je-voor/stel-je-noodpakket-samen"
   - naam: "Denk vooruit: Informationsheft Bereiten Sie sich auf eine Notsituation vor"
     url: "https://www.denkvooruit.nl/site/binaries/site-content/collections/documents/2025/11/17/informatieboekje-bereid-je-voor-op-een-noodsituatie/informatieboekje-bereid-je-voor-op-een-noodsituatie.pdf"
   - naam: "Ready.gov: Make A Plan"
@@ -49,18 +63,71 @@ bronnen:
   - naam: "MCF (Schweden): In case of crisis or war"
     url: "https://rib.msb.se/filer/pdf/31523.pdf"
 vertaling: machine
-origineel_datum: "2026-11-17"
+origineel_datum: "2026-11-18"
 ---
 
-Ein Notfallplan besteht aus Absprachen, die Sie im Voraus mit den Menschen in Ihrem Umfeld treffen: wie Sie einander erreichen oder wiederfinden, wer was tut und wer zusätzliche Hilfe braucht. Das Nationale Krisenzentrum erklärt, warum: In einer Notsituation sind Sie manchmal eine Zeit lang auf sich allein gestellt. Die Hilfsdienste helfen so schnell wie möglich, müssen aber Prioritäten setzen.
+Ein Notfallplan besteht aus Absprachen, die Sie im Voraus mit den Menschen in Ihrem Umfeld treffen: wie Sie einander erreichen oder wiederfinden, wer was tut und wer zusätzliche Hilfe braucht. In einer Notsituation sind Sie manchmal eine Zeit lang auf sich allein gestellt. Die Hilfsdienste helfen so schnell wie möglich, müssen aber Prioritäten setzen.
 
-Das Krisenzentrum hat einen einfachen ausfüllbaren Notfallplan, den Sie kostenlos herunterladen können. Denk vooruit hat eine separate Notfallkarte und einen ausführlichen Notfallplan. Ready.gov hat ein Formular zum Ausfüllen. Dieser Leitfaden folgt dem belgischen Modell und ergänzt es um das, was andere Quellen hinzufügen.
+Bei einer Stromunterbrechung können auch Internet und Mobilfunknetze ausfallen. Mobilfunkmasten halten ohne Strom ein bis zwei Stunden durch, und das Festnetz funktioniert dann wahrscheinlich nicht. Beginnen Sie deshalb mit den Absprachen, die ohne Telefon funktionieren: wo Sie einander wiederfinden, wer Ihre Kontaktperson außerhalb der Region ist und welchen Zettel Sie hinterlassen, wenn Sie gehen. Schreiben Sie alles auf Papier.
 
-Quelle: [Nationales Krisenzentrum: Ein Plan für zu Hause](https://krisenzentrum.be/de/was-koennen-sie-tun/make-plan/ein-notfallplan-zu-hause) · [Nationales Krisenzentrum: Mein eigener Notfallplan](https://krisenzentrum.be/sites/default/files/documents/files/MeinNotfallplan_PDF.pdf) · [Denk vooruit: Notfallplan](https://www.denkvooruit.nl/bereid-je-voor/noodplan) · [Ready.gov: Make A Plan](https://www.ready.gov/plan)
+Das Krisenzentrum hat einen einfachen ausfüllbaren Notfallplan, den Sie vorab kostenlos herunterladen und ausdrucken können. Dieser Leitfaden folgt diesem Modell.
+
+Quelle: [Nationales Krisenzentrum: Ein Plan für zu Hause](https://krisenzentrum.be/de/was-koennen-sie-tun/make-plan/ein-notfallplan-zu-hause) · [Nationales Krisenzentrum: Mein eigener Notfallplan](https://krisenzentrum.be/sites/default/files/documents/files/MeinNotfallplan_PDF.pdf) · [Nationales Krisenzentrum: Broschüre Gemeinsam vorbereitet](https://krisenzentrum.be/sites/default/files/documents/files/WEB-Brosch%C3%BCre%20Gemeinsam%20Vorbereitet-DE.pdf) · [FÖD Wirtschaft: Fragen von Familien zur Stromknappheit](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door)
+
+## Treffpunkte
+
+Wenn Telefon und Internet ausfallen, müssen Sie ohne Absprache wissen, wo Sie einander finden.
+
+- Vereinbaren Sie im Voraus mit Ihrer Familie, Verwandten oder Freunden, wo Sie einander wiederfinden, wenn Sie sich nicht erreichen.
+- Wählen Sie einen vertrauten Ort, der leicht zu finden ist, und passen Sie ihn den Umständen an.
+- Vereinbaren Sie auch, wann Sie dort zusammenkommen oder beieinander vorbeischauen.
+- Besprechen Sie den sichersten Fluchtweg und Treffpunkt mit Ihren Mitbewohnern und tragen Sie beides in Ihren Notfallplan ein.
+
+**Möglichkeiten, von nah bis fern**
+
+| Treffpunkt | Wann |
+| --- | --- |
+| Direkt am Haus, draußen | bei Brand oder einer plötzlichen Gefahr in der Wohnung; alle müssen schnell draußen sein |
+| Bei der Kontaktperson in der Nähe | wenn Sie nicht zu Hause bleiben können, die Nachbarschaft aber sicher ist |
+| Bei der Kontaktperson etwas weiter von zu Hause | wenn das Viertel oder die Gemeinde nicht erreichbar ist oder evakuiert wird |
+| Das Aufnahmezentrum, das die Behörden bestimmen | bei einer Evakuierung; Sie erfahren es über das Radio, die Hilfsdienste oder Lautsprecherwagen der Polizei und, wenn das Netz funktioniert, über BE-Alert |
+
+Wählen Sie Ziele in verschiedenen Richtungen, damit Sie Möglichkeiten haben.
+
+**Hinterlassen Sie einen Zettel.** Müssen Sie Ihre Wohnung verlassen, hinterlassen Sie einen Zettel, auf dem steht, wann Sie gegangen sind und wohin Sie gehen.
+
+Quelle: [Nationales Krisenzentrum: Störung der digitalen Infrastruktur](https://krisenzentrum.be/de/risiken-belgien/maatschappelijke-risicos/ausfall-der-digitalen-infrastruktur) · [Denk vooruit: Informationsheft](https://www.denkvooruit.nl/site/binaries/site-content/collections/documents/2025/11/17/informatieboekje-bereid-je-voor-op-een-noodsituatie/informatieboekje-bereid-je-voor-op-een-noodsituatie.pdf) · [Ready.gov: Make A Plan](https://www.ready.gov/plan) · [Ready.gov: Evacuation](https://www.ready.gov/evacuation) · [Nationales Krisenzentrum: Broschüre Gemeinsam vorbereitet](https://krisenzentrum.be/sites/default/files/documents/files/WEB-Brosch%C3%BCre%20Gemeinsam%20Vorbereitet-DE.pdf) · [Nationales Krisenzentrum: Evakuieren](https://krisenzentrum.be/de/was-koennen-sie-tun/der-richtige-reflex/evakuierung) · [Nationales Krisenzentrum: Informationen während einer Notsituation](https://krisenzentrum.be/de/was-koennen-sie-tun/informieren-sie-sich/information-notsituationen)
+
+## Kontaktpersonen: in der Nähe und außerhalb der Region
+
+Vereinbaren Sie zwei Arten von Kontaktpersonen:
+
+- **Eine Kontaktperson in der Nähe**, zu der Sie gehen können, wenn bei Ihnen zu Hause etwas passiert.
+- **Eine Kontaktperson etwas weiter von zu Hause**, für den Fall, dass Sie nicht bis in Ihre Straße, Ihr Viertel oder Ihre Gemeinde gelangen.
+
+Bitten Sie für eine Evakuierung ein Familienmitglied oder einen Freund außerhalb der Zone, Ihre Kontaktperson zu sein. Teilen Sie dieser Person mit, wohin Sie gehen, wenn die Zeit es erlaubt, und sobald Sie in Sicherheit sind. So weiß diese Person, wo alle sind, wenn Familienmitglieder getrennt werden.
+
+**So wird es brauchbar, auch ohne Telefon**
+
+1. Sorgen Sie dafür, dass alle im Haushalt die Adressen und Telefonnummern kennen und dass es eine Liste auf Papier gibt. So finden Sie einander wieder, auch wenn Sie Ihr Handy vergessen haben oder Ihr Akku leer ist.
+2. Lernen Sie Telefonnummern und E-Mail-Adressen von Familienmitgliedern auswendig. Helfen Sie Kindern, wichtige Informationen zu behalten, etwa den Namen ihrer Eltern.
+3. Fragen Sie Ihre Kontaktpersonen, ob Sie zu ihnen kommen können, auch mit Ihrem Haustier.
+4. Geben Sie Ihren Kontaktpersonen ein Foto oder eine Kopie Ihres ausgefüllten Plans.
+5. Speichern Sie eine Kontaktperson auch in Ihrem Telefon. Bei manchen Geräten heißt das ICE, in case of emergency.
+
+Quelle: [Nationales Krisenzentrum: Ein Plan für zu Hause](https://krisenzentrum.be/de/was-koennen-sie-tun/make-plan/ein-notfallplan-zu-hause) · [Nationales Krisenzentrum: Evakuieren](https://krisenzentrum.be/de/was-koennen-sie-tun/der-richtige-reflex/evakuierung) · [Ready.gov: Evacuation](https://www.ready.gov/evacuation) · [Denk vooruit: Notfallplan](https://www.denkvooruit.nl/bereid-je-voor/noodplan) · [Rode Kruis-Vlaanderen: Restoring Family Links](https://www.rodekruis.be/restoringfamilylinks/en/about-us)
 
 ## Fragen, die der Plan beantwortet
 
-Denk vooruit nennt Beispiele für Fragen, auf die Ihr Plan eine Antwort haben muss:
+Beginnen Sie mit fünf Fragen:
+
+1. Wie erhalte ich Warnungen?
+2. Wie sieht mein Plan zum Schutzsuchen aus?
+3. Wie lautet meine Evakuierungsroute?
+4. Wie kommunizieren wir in der Familie?
+5. Muss mein Notfallpaket ergänzt werden?
+
+Prüfen Sie Ihren Plan danach an konkreten Situationen:
 
 - Sie sind bei der Arbeit und können nicht nach Hause. Ihr Telefon funktioniert nicht. Wer holt die Kinder von der Schule ab?
 - Sie sind schlecht zu Fuß und der Aufzug in Ihrem Wohnhaus funktioniert nicht. Wie kommen Sie nach draußen?
@@ -69,17 +136,9 @@ Denk vooruit nennt Beispiele für Fragen, auf die Ihr Plan eine Antwort haben mu
 - Sie wohnen in einem Studentenwohnheim und Ihre Familie wohnt in einer anderen Stadt. Wie bleiben Sie in Kontakt?
 - Es gibt kein Internet. Wo finden Sie verlässliche Informationen?
 
-Ready.gov stellt fünf Fragen für den Anfang:
-
-1. Wie erhalte ich Warnungen?
-2. Wie sieht mein Plan zum Schutzsuchen aus?
-3. Wie lautet meine Evakuierungsroute?
-4. Wie kommunizieren wir in der Familie?
-5. Muss mein Notfallpaket ergänzt werden?
-
 Quelle: [Denk vooruit: Notfallplan](https://www.denkvooruit.nl/bereid-je-voor/noodplan) · [Denk vooruit: Informationsheft](https://www.denkvooruit.nl/site/binaries/site-content/collections/documents/2025/11/17/informatieboekje-bereid-je-voor-op-een-noodsituatie/informatieboekje-bereid-je-voor-op-een-noodsituatie.pdf) · [Ready.gov: Make A Plan](https://www.ready.gov/plan)
 
-## Der Plan in 7 Schritten (Nationales Krisenzentrum)
+## Der Plan in 7 Schritten
 
 **1. Kennen Sie Ihre eigene Wohnung**
 
@@ -94,7 +153,7 @@ Quelle: [Denk vooruit: Notfallplan](https://www.denkvooruit.nl/bereid-je-voor/no
 
 **3. Lernen Sie den schnellsten Weg nach draußen.** Was, wenn die Haustür nicht erreichbar ist oder es kein Licht gibt? Denken Sie im Voraus über alle Möglichkeiten nach, sicher nach draußen zu kommen.
 
-**4. Kennen Sie die Notrufnummern.** Laden Sie die App 112 BE herunter. Erstellen Sie eine Liste mit Ihrem Gas-, Wasser- und Stromversorger, der Zentrale Ihrer Alarmanlage, Ihrem Hausarzt, Ihrem Versicherer, Ihren Nachbarn oder Kontaktpersonen.
+**4. Kennen Sie die Notrufnummern.** Erstellen Sie eine Liste mit Ihrem Gas-, Wasser- und Stromversorger, der Zentrale Ihrer Alarmanlage, Ihrem Hausarzt, Ihrem Versicherer, Ihren Nachbarn oder Kontaktpersonen. Halten Sie diese Liste auf Papier fest. Laden Sie vorab auch die App 112 BE herunter.
 
 **5. Legen Sie Kontaktpersonen fest** (siehe unten).
 
@@ -106,7 +165,7 @@ Quelle: [Denk vooruit: Notfallplan](https://www.denkvooruit.nl/bereid-je-voor/no
 - Passen Sie den Plan an für diejenigen, die besondere Bedürfnisse haben, zum Beispiel bestimmte Medikamente, eine Behinderung oder begrenzte digitale Fähigkeiten. Üben Sie regelmäßig.
 - Nehmen Sie Ihre Tiere in den Plan auf.
 
-Quelle: [Nationales Krisenzentrum: Ein Plan für zu Hause](https://krisenzentrum.be/de/was-koennen-sie-tun/make-plan/ein-notfallplan-zu-hause)
+Quelle: [Nationales Krisenzentrum: Ein Plan für zu Hause](https://krisenzentrum.be/de/was-koennen-sie-tun/make-plan/ein-notfallplan-zu-hause) · [Nationales Krisenzentrum: Broschüre Gemeinsam vorbereitet](https://krisenzentrum.be/sites/default/files/documents/files/WEB-Brosch%C3%BCre%20Gemeinsam%20Vorbereitet-DE.pdf)
 
 ## Was Sie in den belgischen Notfallplan eintragen
 
@@ -126,68 +185,43 @@ Der ausfüllbare Plan des Krisenzentrums fragt:
 | Wichtige Dienste | Internet, Wasser, Versicherung, Gas, Strom, Telefon: Name, Telefon, Kundennummer |
 | Zusammenarbeiten | wie Sie einander benachrichtigen; wer in Ihrem Netzwerk welche Hilfe bieten kann; wer in Ihrer Nachbarschaft zusätzliche Hilfe braucht |
 
-**Notrufnummern auf dem belgischen Plan und in der Broschüre**
+**Notrufnummern, die Sie vorab auf Papier notieren**
+
+Diese Nummern stehen auf dem belgischen Plan und in der Broschüre. Sie funktionieren nur, wenn das Netz funktioniert.
 
 | Nummer | Wofür |
 | --- | --- |
-| 112 oder die App 112 | Rettungswagen, Feuerwehr und Polizei in lebensbedrohlichen Situationen |
+| 112, oder die App 112, wenn das Netz funktioniert | Rettungswagen, Feuerwehr und Polizei in lebensbedrohlichen Situationen |
 | 101 | Polizei |
-| 1722 oder der Online-Schalter 1722.be | nicht dringende Feuerwehrhilfe bei Sturm oder Wasserschäden |
+| 1722, oder der Online-Schalter 1722.be, wenn das Internet funktioniert | nicht dringende Feuerwehrhilfe bei Sturm oder Wasserschäden |
 | 1733 | diensthabender Hausarzt |
 | 070 245 245 | Antigiftzentrum |
 | 078 170 170 | Card Stop |
 | 0800 65 065 | Gasgeruch oder Gasleck, Flandern |
 | 0800 19 400 | Gasgeruch oder Gasleck, Region Brüssel-Hauptstadt |
 | 0800 87 087 | Gasgeruch oder Gasleck, Wallonie |
+
+Wenn Sie 112 anrufen, geben Sie so deutlich wie möglich an, wo Sie sind, was passiert ist und wie viele Verletzte es gibt.
+
+**Kommt kein Anruf zustande:** Versuchen Sie es mit einem anderen Gerät oder lassen Sie Nachbarn oder Umstehende anrufen. Funktioniert Telefonieren überhaupt nicht, bitten Sie in Ihrer Nachbarschaft um Hilfe oder gehen Sie, wenn möglich, zur nächstgelegenen Polizeidienststelle, zur Feuerwache oder zum Krankenhaus (die Karte in der App zeigt sie, mit Am nächsten). Bei einem großen Ausfall kann die Gemeinde eine Informations- und Anlaufstelle öffnen: Fragen Sie vorab, wo sie sich befindet, und tragen Sie sie in Ihren Plan ein.
+
+Quelle: [Nationales Krisenzentrum: Mein eigener Notfallplan](https://krisenzentrum.be/sites/default/files/documents/files/MeinNotfallplan_PDF.pdf) · [Nationales Krisenzentrum: Broschüre Gemeinsam vorbereitet](https://krisenzentrum.be/sites/default/files/documents/files/WEB-Brosch%C3%BCre%20Gemeinsam%20Vorbereitet-DE.pdf) · [FÖD Wirtschaft: Fragen von Familien zur Stromknappheit](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door)
+
+## Nach der Krise, wenn das Telefon wieder funktioniert
+
+Der belgische Plan nennt auch eine Nummer für alle, die ein Gespräch brauchen. Das ist keine Notrufnummer. Notieren Sie sie gesondert, für die Zeit, wenn Telefon oder Internet wieder funktionieren.
+
+| Nummer | Wofür |
+| --- | --- |
 | 106 oder tele-onthaal.be | Tele-Onthaal, wenn Sie ein Gespräch brauchen |
 
-Wenn Sie 112 anrufen, geben Sie so deutlich wie möglich an, wo Sie sind, was passiert ist und wie viele Verletzte es gibt (Broschüre).
+Während der Krise unterstützen Sie einander vor Ort. Siehe den Leitfaden über psychische Widerstandskraft und psychologische Erste Hilfe; dort stehen auch die anderen Hilfetelefone für die Zeit nach der Krise.
 
 Quelle: [Nationales Krisenzentrum: Mein eigener Notfallplan](https://krisenzentrum.be/sites/default/files/documents/files/MeinNotfallplan_PDF.pdf) · [Nationales Krisenzentrum: Broschüre Gemeinsam vorbereitet](https://krisenzentrum.be/sites/default/files/documents/files/WEB-Brosch%C3%BCre%20Gemeinsam%20Vorbereitet-DE.pdf)
 
-## Kontaktpersonen: in der Nähe und außerhalb der Region
-
-Das Krisenzentrum empfiehlt zwei Arten von Kontaktpersonen:
-
-- **Eine Kontaktperson in der Nähe**, zu der Sie gehen können, wenn bei Ihnen zu Hause etwas passiert.
-- **Eine Kontaktperson etwas weiter von zu Hause**, für den Fall, dass Sie nicht bis in Ihre Straße, Ihr Viertel oder Ihre Gemeinde gelangen.
-
-Bei einer Evakuierung empfiehlt das Krisenzentrum außerdem, ein Familienmitglied oder einen Freund, der nicht in derselben Zone wohnt, zu bitten, Kontaktperson zu sein. Sobald Sie in Sicherheit sind, geben Sie ihm oder ihr Bescheid. So weiß diese Person, wo alle sind, wenn Familienmitglieder getrennt wurden. Ready.gov nennt dies einen Kontakt außerhalb des Bundesstaates und empfiehlt, diese Person anzurufen oder ihr zu mailen, wohin Sie gehen, wenn die Zeit es erlaubt.
-
-**So wird es brauchbar**
-
-1. Sorgen Sie dafür, dass alle im Haushalt die Adressen und Telefonnummern kennen und dass es eine Liste auf Papier gibt. So finden Sie einander wieder, auch wenn Sie Ihr Handy vergessen haben oder Ihr Akku leer ist (Krisenzentrum).
-2. Speichern Sie eine Kontaktperson in Ihrem Telefon. Bei manchen Geräten heißt das ICE, in case of emergency (Krisenzentrum).
-3. Fragen Sie Ihre Kontaktpersonen, ob Sie zu ihnen kommen können, auch mit Ihrem Haustier (Krisenzentrum).
-4. Geben Sie Ihren Kontaktpersonen ein Foto oder eine Kopie Ihres ausgefüllten Plans (Krisenzentrum, Denk vooruit).
-5. Lernen Sie Telefonnummern und E-Mail-Adressen von Familienmitgliedern auswendig. Helfen Sie Kindern, wichtige Informationen zu behalten, etwa den Namen ihrer Eltern (Rode Kruis-Vlaanderen, Restoring Family Links).
-
-Quelle: [Nationales Krisenzentrum: Ein Plan für zu Hause](https://krisenzentrum.be/de/was-koennen-sie-tun/make-plan/ein-notfallplan-zu-hause) · [Nationales Krisenzentrum: Evakuieren](https://krisenzentrum.be/de/was-koennen-sie-tun/der-richtige-reflex/evakuierung) · [Ready.gov: Evacuation](https://www.ready.gov/evacuation) · [Denk vooruit: Notfallplan](https://www.denkvooruit.nl/bereid-je-voor/noodplan) · [Rode Kruis-Vlaanderen: Restoring Family Links](https://www.rodekruis.be/restoringfamilylinks/en/about-us)
-
-## Treffpunkte
-
-Wenn Telefon und Internet ausfallen, müssen Sie ohne Absprache wissen, wo Sie einander finden.
-
-- Denk vooruit: Wählen Sie mit Ihrer Familie, Verwandten oder Freunden einen Ort, an dem Sie sich treffen, wenn es keine Telefon- oder Internetverbindung gibt. Vereinbaren Sie auch, wann Sie dort zusammenkommen oder wann Sie beieinander vorbeischauen. Im Beispiel des Informationshefts schaut jemand nach zwei Tagen bei seinen Eltern vorbei, wie vorher vereinbart.
-- Ready.gov: Wählen Sie einen vertrauten Ort, der leicht zu finden ist, und passen Sie ihn den Umständen an.
-- Das Krisenzentrum: Besprechen Sie den sichersten Fluchtweg und Treffpunkt mit Ihren Mitbewohnern und tragen Sie beides in Ihren Notfallplan ein.
-
-**Möglichkeiten, von nah bis fern**
-
-| Treffpunkt | Wann |
-| --- | --- |
-| Direkt am Haus, draußen | bei Brand oder einer plötzlichen Gefahr in der Wohnung; alle müssen schnell draußen sein |
-| Bei der Kontaktperson in der Nähe | wenn Sie nicht zu Hause bleiben können, die Nachbarschaft aber sicher ist |
-| Bei der Kontaktperson etwas weiter von zu Hause | wenn das Viertel oder die Gemeinde nicht erreichbar ist oder evakuiert wird |
-| Das Aufnahmezentrum, das die Behörden bestimmen | bei einer Evakuierung; Sie erfahren über die offiziellen Kanäle, wo es ist |
-
-Ready.gov empfiehlt, Ziele in verschiedenen Richtungen zu wählen, damit Sie Möglichkeiten haben.
-
-Quelle: [Denk vooruit: Informationsheft](https://www.denkvooruit.nl/site/binaries/site-content/collections/documents/2025/11/17/informatieboekje-bereid-je-voor-op-een-noodsituatie/informatieboekje-bereid-je-voor-op-een-noodsituatie.pdf) · [Ready.gov: Make A Plan](https://www.ready.gov/plan) · [Ready.gov: Evacuation](https://www.ready.gov/evacuation) · [Nationales Krisenzentrum: Broschüre Gemeinsam vorbereitet](https://krisenzentrum.be/sites/default/files/documents/files/WEB-Brosch%C3%BCre%20Gemeinsam%20Vorbereitet-DE.pdf) · [Nationales Krisenzentrum: Evakuieren](https://krisenzentrum.be/de/was-koennen-sie-tun/der-richtige-reflex/evakuierung)
-
 ## Aufgaben verteilen
 
-Das Krisenzentrum empfiehlt, die Aufgaben im Voraus zu verteilen, zum Beispiel wer die Kinder mitnimmt. Ready.gov fragt, wer für die Fluchttasche verantwortlich ist. Denk vooruit fragt, wer den Notvorrat ins Haus holt und wer ihn jedes halbe Jahr kontrolliert. Ein Beispiel für eine Aufgabenliste:
+Verteilen Sie die Aufgaben im Voraus: wer die Kinder mitnimmt, wer die Fluchttasche nimmt, wer den Notvorrat ins Haus holt und wer ihn jedes halbe Jahr kontrolliert. Ein Beispiel für eine Aufgabenliste:
 
 | Aufgabe | Wer | Vertretung |
 | --- | --- | --- |
@@ -196,6 +230,7 @@ Das Krisenzentrum empfiehlt, die Aufgaben im Voraus zu verteilen, zum Beispiel w
 | Haustiere in die Transportbox | | |
 | Gas, Wasser und Strom abstellen, wenn das verlangt wird | | |
 | Nachbarn oder Familienmitglied mit zusätzlichem Pflegebedarf benachrichtigen | | |
+| Zettel hinterlassen: wann gegangen, wohin | | |
 | Kontaktperson außerhalb der Region wissen lassen, wo Sie sind | | |
 | Vorrat kontrollieren, jedes halbe Jahr | | |
 
@@ -205,12 +240,12 @@ Quelle: [Nationales Krisenzentrum: Evakuieren](https://krisenzentrum.be/de/was-k
 
 **Als Elternteil**
 
-- Registrieren Sie die Adresse der Schule Ihrer Kinder bei BE-Alert. So erhalten Sie eine Nachricht bei einer Notsituation in der Nähe der Schule (Krisenzentrum).
-- Vereinbaren Sie, wer die Kinder abholt, wenn Sie selbst nicht können und Ihr Telefon nicht funktioniert (Denk vooruit).
-- Sorgen Sie dafür, dass Ihre Kinder eine Kontaktperson haben und wissen, wie sie sie erreichen. Bringen Sie ihnen bei, wann und wie sie wichtige Nummern anrufen (Ready.gov). Das Krisenzentrum empfiehlt, kleinen Kindern beizubringen, 112 anzurufen.
-- Vereinbaren Sie ein Familienpasswort oder einen Satz, damit Ihr Kind nicht mit einem Fremden mitgeht (Ready.gov).
+- Vereinbaren Sie, wer die Kinder abholt, wenn Sie selbst nicht können und Ihr Telefon nicht funktioniert.
+- Vereinbaren Sie ein Familienpasswort oder einen Satz, damit Ihr Kind nicht mit einem Fremden mitgeht.
+- Sorgen Sie dafür, dass Ihre Kinder eine Kontaktperson haben und wissen, wie sie sie erreichen. Bringen Sie ihnen bei, wann und wie sie wichtige Nummern anrufen. Bringen Sie kleinen Kindern bei, 112 anzurufen und Hilfe zu holen: einen Erwachsenen, einen Arzt oder die Notrufzentrale 112.
+- Registrieren Sie die Adresse der Schule Ihrer Kinder bei BE-Alert. So erhalten Sie eine Nachricht bei einer Notsituation in der Nähe der Schule, wenn das Netz funktioniert.
 
-**Was die Schule selbst tut (Krisenzentrum)**
+**Was die Schule selbst tut**
 
 - Den internen Notfallplan aktuell halten; die Vorlage der flämischen Regierung kann als Leitfaden dienen.
 - Den Notfallplanungsbeauftragten der Gemeinde in den Plan aufnehmen und dafür sorgen, dass dieser weiß, wen er anrufen muss, um der Schule Anweisungen zu geben.
@@ -221,47 +256,48 @@ Quelle: [Nationales Krisenzentrum: Evakuieren](https://krisenzentrum.be/de/was-k
 
 Das Krisenzentrum hat für Grundschulen das Unterrichtspaket und Spiel BE-Ready.
 
-**Bei einer Aktivität außer Haus** empfiehlt das Krisenzentrum, dass der Verantwortliche immer eine Liste der Anwesenden bei sich hat und sich vorher überlegt, wie er die Eltern benachrichtigt.
+**Bei einer Aktivität außer Haus** hat der Verantwortliche immer eine Liste der Anwesenden bei sich und überlegt sich vorher, wie er die Eltern benachrichtigt.
 
-Quelle: [Nationales Krisenzentrum: Ein Plan in der Schule](https://krisenzentrum.be/de/was-koennen-sie-tun/bereiten-sie-sich-vor/ein-plan-fuer-die-schule) · [Nationales Krisenzentrum: BE-Alert](https://krisenzentrum.be/de/was-koennen-sie-tun/informieren-sie-sich/warnmeldungen-auf-ihrem-telefon-be-alert) · [Nationales Krisenzentrum: Ein Plan für Menschen, die zusätzliche Hilfe brauchen](https://krisenzentrum.be/de/was-koennen-sie-tun/bereiten-sie-sich-vor/ein-plan-fuer-personen-die-zusaetzliche-hilfe-benoetigen) · [Nationales Krisenzentrum: Ein Plan in Ihrer Nachbarschaft oder Ihrem Verein](https://krisenzentrum.be/de/was-koennen-sie-tun/erstellen-sie-einen-plan/ein-plan-ihrem-viertel-oder-ihrem-verein) · [Denk vooruit: Notfallplan](https://www.denkvooruit.nl/bereid-je-voor/noodplan) · [Ready.gov: Extreme Heat](https://www.ready.gov/heat)
+Quelle: [Nationales Krisenzentrum: Ein Plan in der Schule](https://krisenzentrum.be/de/was-koennen-sie-tun/bereiten-sie-sich-vor/ein-plan-fuer-die-schule) · [Nationales Krisenzentrum: BE-Alert](https://krisenzentrum.be/de/was-koennen-sie-tun/informieren-sie-sich/warnmeldungen-auf-ihrem-telefon-be-alert) · [Nationales Krisenzentrum: Ein Plan für Menschen, die zusätzliche Hilfe brauchen](https://krisenzentrum.be/de/was-koennen-sie-tun/bereiten-sie-sich-vor/ein-plan-fuer-personen-die-zusaetzliche-hilfe-benoetigen) · [Nationales Krisenzentrum: Ein Plan in Ihrer Nachbarschaft oder Ihrem Verein](https://krisenzentrum.be/de/was-koennen-sie-tun/erstellen-sie-einen-plan/ein-plan-ihrem-viertel-oder-ihrem-verein) · [Denk vooruit: Notfallplan](https://www.denkvooruit.nl/bereid-je-voor/noodplan) · [Ready.gov: Extreme Heat](https://www.ready.gov/heat) · [Jeugd Rode Kruis: Poster 4 Schritte der Ersten Hilfe](https://jeugd.rodekruis.be/storage/jrk/2026-034-jrk-poster-didactisch-materiaal-4-stappen-hr.pdf)
 
 ## Arbeit
 
-Das Krisenzentrum bittet Arbeitgeber und Arbeitnehmer:
+Für Arbeitgeber und Arbeitnehmer:
 
-- Die Notfallverfahren und Evakuierungswege am Arbeitsplatz zu kennen. Meist ist der Präventionsberater verantwortlich.
-- Sich bei BE-Alert anzumelden und auch die Adresse des Arbeitsplatzes zu registrieren.
-- Die Risiken rund um den Arbeitsplatz zu erfassen, auch solche für große Teile des Landes, wie einen Ausfall von Strom, Gas oder Internet. Arbeitgeber erstellen einen Plan zur Fortführung des Betriebs.
-- Arbeitnehmern, die Unterstützung brauchen, die Möglichkeit zu geben, sich diskret zu melden.
+- Kennen Sie die Notfallverfahren und Evakuierungswege am Arbeitsplatz. Meist ist der Präventionsberater verantwortlich.
+- Melden Sie sich bei BE-Alert an und registrieren Sie auch die Adresse des Arbeitsplatzes.
+- Erfassen Sie die Risiken rund um den Arbeitsplatz, auch solche für große Teile des Landes, wie einen Ausfall von Strom, Gas oder Internet. Arbeitgeber erstellen einen Plan zur Fortführung des Betriebs.
+- Geben Sie Arbeitnehmern, die Unterstützung brauchen, die Möglichkeit, sich diskret zu melden.
 
-Nehmen Sie in Ihren Familienplan auf, was Sie tun, wenn Sie am Arbeitsplatz bleiben müssen. Das Krisenzentrum sagt: Bleiben Sie, wo Sie sind, bis Sie sicher wissen, dass es sicher ist, nach Hause zu gehen.
+Nehmen Sie in Ihren Familienplan auf, was Sie tun, wenn Sie am Arbeitsplatz bleiben müssen. Bleiben Sie, wo Sie sind, bis Sie sicher wissen, dass es sicher ist, nach Hause zu gehen.
 
 Quelle: [Nationales Krisenzentrum: Ein Plan am Arbeitsplatz](https://krisenzentrum.be/de/was-koennen-sie-tun/bereiten-sie-sich-vor/ein-plan-am-arbeitsplatz) · [Nationales Krisenzentrum: Ein Notfallpaket unterwegs](https://krisenzentrum.be/de/was-koennen-sie-tun/stelle-ein-notfallpaket-zusammen/ein-notfallset-vor-ort)
 
 ## Nachbarn und Verein
 
-Das Krisenzentrum empfiehlt, ein Netzwerk mit Nachbarn, Bekannten, Familie und Freunden aufzubauen und bestehende Netzwerke wie einen Nachbarschaftsverein oder Sportverein einzubinden. Treffen Sie Absprachen über:
+Bauen Sie ein Netzwerk mit Nachbarn, Bekannten, Familie und Freunden auf und binden Sie bestehende Netzwerke wie einen Nachbarschaftsverein oder Sportverein ein. Treffen Sie Absprachen über:
 
-- **Wie Sie einander benachrichtigen.** Über soziale Medien oder Messenger-Apps; über das Telefon, mit Absprachen, wen Sie nachts anrufen dürfen; und wie Sie einander ohne Telefon oder Internet erreichen.
+- **Wie Sie einander benachrichtigen.** Zuerst: wie Sie einander ohne Telefon oder Internet erreichen. Daneben, wenn das Netz funktioniert: über das Telefon, mit Absprachen, wen Sie nachts anrufen dürfen, und über soziale Medien oder Messenger-Apps.
 - **Welche Risiken.** Nukleare Notfallplanungszonen, Überschwemmungsgebiete, Seveso-Betriebe in der Nähe und Risiken für das ganze Land, etwa stundenlang kein Strom, keine Heizung oder kein Internet.
 - **Wer welche Hilfe bieten kann.** Wissen wie Erste Hilfe oder handwerkliches Geschick, Material wie Werkzeug, Platz wie eine große Garage oder ein Keller.
 - **Wer zusätzliche Hilfe braucht.** Zum Beispiel Menschen mit Behinderung, Alleinerziehende mit kleinen Kindern, ältere Menschen.
 
-Andere Möglichkeiten, einander zu helfen, die das Krisenzentrum nennt: gemeinsam einen Erste-Hilfe-Kurs besuchen, Blut oder Plasma spenden, richtige Informationen verbreiten, einen Schlafplatz anbieten für jemanden, der nicht nach Hause kann, Dinge verleihen, Einkäufe erledigen, Ihr Handy leihen oder einen Hotspot teilen, für jemanden kochen.
+Andere Möglichkeiten, einander zu helfen: gemeinsam einen Erste-Hilfe-Kurs besuchen, Blut oder Plasma spenden, richtige Informationen verbreiten, einen Schlafplatz anbieten für jemanden, der nicht nach Hause kann, Dinge verleihen, Einkäufe erledigen, Ihr Handy leihen oder einen Hotspot teilen, für jemanden kochen. Bei einer Stromunterbrechung können Sie mit mehreren Menschen zusammenkommen, um Licht und Wärme zu teilen.
 
 **In einem Wohnhaus** besprechen Sie auch, wer die Schlüssel hat, wer an Wasserzufuhr, Gashahn und Zähler kommt, ob es eine gemeinsame Lüftungsanlage gibt und wer sie ausschalten kann, und wer den Bewohnern hilft, die zusätzliche Hilfe brauchen. Sind Sie nicht Eigentümer, kennen Sie dann die Notausgänge.
 
-Quelle: [Nationales Krisenzentrum: Ein Plan in Ihrer Nachbarschaft oder Ihrem Verein](https://krisenzentrum.be/de/was-koennen-sie-tun/erstellen-sie-einen-plan/ein-plan-ihrem-viertel-oder-ihrem-verein) · [Nationales Krisenzentrum: Broschüre Gemeinsam vorbereitet](https://krisenzentrum.be/sites/default/files/documents/files/WEB-Brosch%C3%BCre%20Gemeinsam%20Vorbereitet-DE.pdf)
+Quelle: [Nationales Krisenzentrum: Ein Plan in Ihrer Nachbarschaft oder Ihrem Verein](https://krisenzentrum.be/de/was-koennen-sie-tun/erstellen-sie-einen-plan/ein-plan-ihrem-viertel-oder-ihrem-verein) · [Nationales Krisenzentrum: Broschüre Gemeinsam vorbereitet](https://krisenzentrum.be/sites/default/files/documents/files/WEB-Brosch%C3%BCre%20Gemeinsam%20Vorbereitet-DE.pdf) · [Nationales Krisenzentrum: Ein Notfallpaket zu Hause](https://krisenzentrum.be/de/was-koennen-sie-tun/stelle-ein-notfallpaket-zusammen/ein-notfallset-fuer-zu-hause)
 
 ## Menschen mit Pflegebedarf
 
-**Allgemein (Krisenzentrum)**
+**Allgemein**
 
 - Prüfen Sie, ob die Evakuierungswege zugänglich sind und ob Sie an Gashahn, Zähler und Wasserzufuhr herankommen.
-- Besprechen Sie mit Menschen aus Ihrem Umfeld, wie sie Ihnen helfen können und wie Sie in Kontakt bleiben. Sie können Ihre Adresse bei BE-Alert registrieren, damit auch sie eine Nachricht erhalten.
+- Besprechen Sie mit Menschen aus Ihrem Umfeld, wie sie Ihnen helfen können und wie Sie in Kontakt bleiben. Denken Sie an andere Möglichkeiten, mit anderen zu kommunizieren, auch wenn Sie kein Telefon oder Internet haben.
+- Sie können Ihre Adresse bei BE-Alert registrieren, damit auch sie eine Nachricht erhalten.
 - Bitten Sie Ihren Hausarzt oder Apotheker um eine Medikamentenliste und legen Sie diese zu Ihren wichtigen Dokumenten.
 
-**Nach Situation (Krisenzentrum)**
+**Nach Situation**
 
 | Situation | Absprachen |
 | --- | --- |
@@ -273,20 +309,20 @@ Quelle: [Nationales Krisenzentrum: Ein Plan in Ihrer Nachbarschaft oder Ihrem Ve
 | Schwierigkeiten mit digitaler Technik | lassen Sie sich von jemandem bei BE-Alert anmelden; lernen Sie, Nachrichten zu erkennen; vereinbaren Sie, wie andere Sie benachrichtigen |
 | Wenig oder kein Niederländisch oder Französisch | melden Sie sich bei BE-Alert an, bitten Sie Ihr Umfeld, Nachrichten zu übersetzen, halten Sie eine Übersetzungs-App oder jemanden zum Dolmetschen bereit |
 
-**Ergänzungen von Ready.gov**
+**Außerdem**
 
 - Bauen Sie ein Unterstützungsnetzwerk auf und sagen Sie, wo Ihr Notvorrat liegt. Geben Sie eventuell einer Vertrauensperson einen Schlüssel zu Ihrer Wohnung.
 - Sind Sie auf Dialyse oder eine andere lebensnotwendige Behandlung angewiesen, kennen Sie mehr als einen Ort, an dem Sie behandelt werden können. Fragen Sie Ihr Behandlungszentrum nach seinem Notfallplan und einer Ausweichadresse.
 - Tragen Sie einen medizinischen Ausweis bei sich und speichern Sie medizinische Informationen auf Ihren Geräten.
 - Haben Sie eine Kommunikationsbeeinträchtigung, tragen Sie Karten bei sich, die Einsatzkräften erklären, wie sie mit Ihnen kommunizieren.
 
-Die MCF empfiehlt, die Bedienungshilfen Ihres Telefons zu nutzen, um wichtige Informationen zu erhalten.
+Nutzen Sie die Bedienungshilfen Ihres Telefons, um wichtige Informationen zu erhalten.
 
 Quelle: [Nationales Krisenzentrum: Ein Plan für Menschen, die zusätzliche Hilfe brauchen](https://krisenzentrum.be/de/was-koennen-sie-tun/bereiten-sie-sich-vor/ein-plan-fuer-personen-die-zusaetzliche-hilfe-benoetigen) · [Ready.gov: People with Disabilities](https://www.ready.gov/disability) · [Ready.gov: Older Adults](https://www.ready.gov/older-adults) · [MCF: In case of crisis or war](https://rib.msb.se/filer/pdf/31523.pdf)
 
 ## Tiere im Plan
 
-Das Krisenzentrum bittet um:
+Nehmen Sie in Ihren Plan auf:
 
 - Die Telefonnummer des Tierarztes in Ihrer Liste.
 - Einen Aufnahmeort bei Freunden oder Bekannten, mit Platz für das Tier.
@@ -310,7 +346,7 @@ BE-Alert ist das Alarmierungssystem der Behörden. Ein Bürgermeister, Gouverneu
 
 Die Anmeldung bleibt sinnvoll: Dann werden Sie auch für Adressen benachrichtigt, an denen Sie sich gerade nicht befinden, etwa die Schule Ihrer Kinder oder die Wohnung eines gefährdeten Familienmitglieds.
 
-**So melden Sie sich an (Vlaanderen.be)**
+**So melden Sie sich an**
 
 1. Gehen Sie auf be-alert.be und geben Sie die verlangten Daten ein: eine E-Mail-Adresse und ein persönliches Passwort.
 2. Geben Sie Ihre Adresse ein und prüfen Sie, ob Ihre Wohnung richtig auf der Karte eingezeichnet ist.
@@ -319,6 +355,8 @@ Die Anmeldung bleibt sinnvoll: Dann werden Sie auch für Adressen benachrichtigt
 5. Kein Internet: Bitten Sie Ihre Gemeinde, Sie zu registrieren.
 
 Anmeldung und Nachrichten sind kostenlos.
+
+**Wenn das Netz ausfällt.** Bei einer Stromunterbrechung können Internet und Mobilfunknetze ausfallen. Sorgen Sie deshalb auch für ein batteriebetriebenes Radio oder ein Kurbelradio, möglichst mit DAB+ und UKW. Die Behörden können auch Informationstafeln, Faltblätter, Kommunikation von Tür zu Tür und Lautsprecherwagen der Polizei einsetzen.
 
 **So erkennen Sie eine echte Nachricht**
 
@@ -329,16 +367,16 @@ Anmeldung und Nachrichten sind kostenlos.
 
 Speichern Sie 1789 und 0477 77 77 55 in Ihrem Telefon und markieren Sie die E-Mail-Adresse als vertrauenswürdig, damit Nachrichten nicht im Spam landen. Mehr über BE-Alert und andere Kanäle im Leitfaden über Kommunikation und Alarmierung.
 
-Quelle: [Nationales Krisenzentrum: BE-Alert, Warnungen auf Ihrem Telefon](https://krisenzentrum.be/de/was-koennen-sie-tun/informieren-sie-sich/warnmeldungen-auf-ihrem-telefon-be-alert) · [Nationales Krisenzentrum: Broschüre Gemeinsam vorbereitet](https://krisenzentrum.be/sites/default/files/documents/files/WEB-Brosch%C3%BCre%20Gemeinsam%20Vorbereitet-DE.pdf) · [BE-Alert: Notified, wherever you are](https://www.be-alert.be/de/wie-werden-sie-alarmiert/alarmiert-wo-auch-immer-sie-sich-aufhalten) · [Vlaanderen.be: BE-Alert](https://www.vlaanderen.be/be-alert-waarschuwingssysteem-bij-noodsituaties)
+Quelle: [Nationales Krisenzentrum: BE-Alert, Warnungen auf Ihrem Telefon](https://krisenzentrum.be/de/was-koennen-sie-tun/informieren-sie-sich/warnmeldungen-auf-ihrem-telefon-be-alert) · [Nationales Krisenzentrum: Broschüre Gemeinsam vorbereitet](https://krisenzentrum.be/sites/default/files/documents/files/WEB-Brosch%C3%BCre%20Gemeinsam%20Vorbereitet-DE.pdf) · [BE-Alert: Notified, wherever you are](https://www.be-alert.be/de/wie-werden-sie-alarmiert/alarmiert-wo-auch-immer-sie-sich-aufhalten) · [Vlaanderen.be: BE-Alert](https://www.vlaanderen.be/be-alert-waarschuwingssysteem-bij-noodsituaties) · [Nationales Krisenzentrum: Informationen während einer Notsituation](https://krisenzentrum.be/de/was-koennen-sie-tun/informieren-sie-sich/information-notsituationen)
 
 ## Aufbewahren, aktualisieren und üben
 
 1. Füllen Sie den Plan gemeinsam mit Ihrer Familie oder Ihren Mitbewohnern aus.
 2. Machen Sie ein Foto oder eine Kopie und geben Sie diese Ihren Kontaktpersonen.
-3. Hängen oder bewahren Sie den Plan an einem festen Ort auf: im Zählerschrank, am Eingang (Krisenzentrum) oder bei Ihrem Notfallpaket, am Kühlschrank oder im Flurschrank (Denk vooruit).
+3. Hängen oder bewahren Sie den Plan an einem festen Ort auf: im Zählerschrank, am Eingang, bei Ihrem Notfallpaket, am Kühlschrank oder im Flurschrank.
 4. Sorgen Sie dafür, dass es immer ein Exemplar auf Papier gibt, für den Fall, dass Strom oder Internet ausfallen.
 5. Aktualisieren Sie ihn, wenn sich Telefonnummern oder Familiensituationen ändern.
-6. Üben Sie regelmäßig, mit Kindern auch spielerisch. Das Krisenzentrum weist darauf hin, dass es bei dichtem Rauch nicht leicht ist, den Weg nach draußen zu finden, und schlägt vor, das mit verbundenen Augen zu üben.
+6. Üben Sie regelmäßig, mit Kindern auch spielerisch. Bei dichtem Rauch ist es nicht leicht, den Weg nach draußen zu finden: Üben Sie das einmal mit verbundenen Augen.
 
 Quelle: [Nationales Krisenzentrum: Broschüre Gemeinsam vorbereitet](https://krisenzentrum.be/sites/default/files/documents/files/WEB-Brosch%C3%BCre%20Gemeinsam%20Vorbereitet-DE.pdf) · [Nationales Krisenzentrum: Mein eigener Notfallplan](https://krisenzentrum.be/sites/default/files/documents/files/MeinNotfallplan_PDF.pdf) · [Nationales Krisenzentrum: Evakuieren](https://krisenzentrum.be/de/was-koennen-sie-tun/der-richtige-reflex/evakuierung) · [Denk vooruit: Notfallplan](https://www.denkvooruit.nl/bereid-je-voor/noodplan)
 

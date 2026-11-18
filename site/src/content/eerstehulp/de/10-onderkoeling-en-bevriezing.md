@@ -3,7 +3,7 @@ titel: Unterkühlung und Erfrierung
 volgorde: 10
 kort: "Schützen Sie vor weiterer Auskühlung, ziehen Sie nasse Kleidung aus und wärmen Sie allmählich auf. Reiben Sie nie. Erfrorene Haut wärmen Sie nur auf, wenn sie nicht erneut gefrieren kann."
 status: concept
-datum: "2026-11-17"
+datum: "2026-11-18"
 bronnen:
   - naam: "Gezondheid en Wetenschap (Rode Kruis-Vlaanderen): Was tun bei Unterkühlung?"
     url: https://www.gezondheidenwetenschap.be/eerste-hulp/wat-doen-bij-onderkoeling
@@ -15,8 +15,14 @@ bronnen:
     url: https://www.cdc.gov/winter-weather/prevention/preventing-frostbite.html
   - naam: "CDC: Prevent Hypothermia and Frostbite"
     url: https://www.cdc.gov/disasters/winter/staysafe/hypothermia.html
+  - naam: "European Resuscitation Council Guidelines 2021: First aid"
+    url: https://cprguidelines-old.erc.edu/assets/guidelines/European-Resuscitation-Council-Guidelines-2021-Fi.pdf
+  - naam: "FEMA: Until Help Arrives, instructor guide"
+    url: https://ready.gov/sites/default/files/2020-07/until-help-arrives-instructor-guide.pdf
+  - naam: "112.be: Häufig gestellte Fragen"
+    url: https://112.be/de/haeufig-gestellte-fragen
 vertaling: machine
-origineel_datum: "2026-11-17"
+origineel_datum: "2026-11-18"
 ---
 
 ## Erkennen
@@ -69,7 +75,7 @@ Quelle: [Gezondheid en Wetenschap: Unterkühlung](https://www.gezondheidenwetens
 8. Ja: Wärmen Sie passiv auf. Stecken Sie die Person in einen Schlafsack oder verwenden Sie eine Decke (Fleece oder Polyester), wenn möglich mit einer Isolierdecke. Bedecken Sie auch den Kopf. Ziehen Sie ihr warme, trockene Kleidung an. Geben Sie ein warmes, zuckerreiches Getränk oder energiereiche Nahrung, aber nur, wenn sie gut schlucken kann.
 9. Nein: Wärmen Sie aktiv auf, vorzugsweise mit einer Heizdecke. Haben Sie keine, verwenden Sie ein Kirschkernkissen, Wärmepads, eine Wärmflasche oder warme Steine. Legen Sie diese nicht direkt auf die Haut, damit sich die Person nicht verbrennt. Geben Sie dann nichts zu essen oder zu trinken.
 10. Wärmen Sie zuerst die Körpermitte auf: Brust, Hals, Kopf und Leiste. Haut-zu-Haut-Kontakt unter lockeren, trockenen Schichten hilft ebenfalls.
-11. Rufen Sie 112 an.
+11. Rufen Sie 112 an oder lassen Sie anrufen. Kommt kein Anruf zustande, siehe Rufen Sie 112 an, wenn.
 12. Beruhigen Sie die Person und beobachten Sie Atmung und Bewusstsein.
 13. Ist die Person wärmer, halten Sie sie trocken und in eine warme Decke gewickelt, auch um Kopf und Hals.
 14. Wird sie bewusstlos und atmet nicht normal, beginnen Sie mit der Wiederbelebung (siehe Thema 2). Behandeln Sie sie vorsichtig und wärmen Sie während der Wiederbelebung weiter auf.
@@ -79,8 +85,8 @@ Quelle: [Gezondheid en Wetenschap: Unterkühlung](https://www.gezondheidenwetens
 1. Prüfen Sie zuerst, ob die Person auch unterkühlt ist. Eine Unterkühlung ist schwerwiegender und hat Vorrang.
 2. Bringen Sie die Person so schnell wie möglich in einen warmen Raum oder Unterschlupf. Ziehen Sie nasse Kleidung aus und wärmen Sie sie unter trockenen Decken und Kleidung auf.
 3. Entfernen Sie vorsichtig Schmuck, wenn das möglich ist, ohne die Haut zu beschädigen.
-4. Wärmen Sie den erfrorenen Teil nur auf, wenn kein Risiko besteht, dass er erneut gefriert. Die IFRC empfiehlt das Aufwärmen vor Ort nur, wenn Sie die Mittel dazu haben und medizinische Versorgung mehr als 2 Stunden entfernt ist.
-5. Tauchen Sie den erfrorenen Teil in warmes Wasser, das sich auf einer gesunden Hautstelle angenehm anfühlt. Die IFRC nennt 37 bis 39 °C. Wärmen Sie auf, bis sich die Haut rot oder violett färbt und sich wieder weich und geschmeidig anfühlt, meist nach etwa 30 Minuten.
+4. Wärmen Sie den erfrorenen Teil nur auf, wenn kein Risiko besteht, dass er erneut gefriert. Wärmen Sie ihn nur vor Ort auf, wenn Sie die Mittel dazu haben und medizinische Versorgung mehr als 2 Stunden entfernt ist.
+5. Tauchen Sie den erfrorenen Teil in warmes Wasser von 37 bis 39 °C, das sich auf einer gesunden Hautstelle angenehm anfühlt. Wärmen Sie auf, bis sich die Haut rot oder violett färbt und sich wieder weich und geschmeidig anfühlt, meist nach etwa 30 Minuten.
 6. Haben Sie kein warmes Wasser, wärmen Sie den Teil mit Körperwärme auf, zum Beispiel erfrorene Finger in der Achselhöhle.
 7. Reiben oder massieren Sie nicht und gehen Sie nicht grob mit der Haut um.
 8. Decken Sie den Teil mit sterilem Mull ab. Sind Finger oder Zehen erfroren, legen Sie Mull zwischen jeden Finger oder Zeh.
@@ -97,7 +103,7 @@ Quelle: [Gezondheid en Wetenschap: Unterkühlung](https://www.gezondheidenwetens
 - Geben Sie ein warmes, alkoholfreies Getränk an jemanden, der voll bei Bewusstsein ist und schlucken kann. Geben Sie nichts an jemanden, der bewusstlos ist.
 - Halten Sie die Person nach dem Aufwärmen trocken und eingepackt, auch Kopf und Hals.
 - Unterkühlte Menschen mit Kreislaufstillstand müssen ohne Unterbrechung wiederbelebt werden, bis sie wieder aufgewärmt sind. Die Chancen auf Erholung nach einem Kreislaufstillstand durch leichte bis mäßige Unterkühlung sind ausgezeichnet. Bei Unterkühlung besteht eine Chance, dass die Person auf die Wiederbelebung anspricht, auch ohne Defibrillator. Müssen Sie die Person transportieren, führen Sie die Wiederbelebung während des Transports ohne Unterbrechung auf einem harten Untergrund durch.
-- Erfrierung: Die IFRC empfiehlt, erfrorene Körperteile nur aufzuwärmen, wenn Sie die nötigen Mittel haben, wenn medizinische Versorgung mehr als 2 Stunden entfernt ist und wenn der Teil nicht erneut gefrieren kann. Ist medizinische Versorgung näher, wärmen Sie den Teil nicht selbst auf.
+- Erfrierung: Wärmen Sie erfrorene Körperteile nur auf, wenn Sie die nötigen Mittel haben, wenn medizinische Versorgung mehr als 2 Stunden entfernt ist und wenn der Teil nicht erneut gefrieren kann. Ist medizinische Versorgung näher, wärmen Sie den Teil nicht selbst auf.
 - Lassen Sie jemanden mit erfrorenen Füßen oder Zehen nicht gehen, außer es muss wirklich sein. Das vergrößert den Schaden.
 - Nach dem Aufwärmen dürfen Sie Aloe vera auf die erfrorene Haut auftragen.
 - Sagen Sie jemandem, wohin Sie gehen und wann Sie zurück sein wollen, wenn Sie an einen kalten, abgelegenen Ort gehen.
@@ -112,9 +118,17 @@ Quelle: [IFRC Guidelines 2020](https://www.ifrc.org/sites/default/files/2022-02/
 - die Körpertemperatur unter 35 °C liegt;
 - die Person bewusstlos ist oder nicht normal atmet: Beginnen Sie dann auch mit der Wiederbelebung.
 
-Die IFRC empfiehlt, bei jeder Unterkühlung medizinische Hilfe anzufordern. Lassen Sie eine Erfrierung immer von einem Arzt untersuchen.
+Fordern Sie bei jeder Unterkühlung medizinische Hilfe an. Lassen Sie eine Erfrierung immer von einem Arzt untersuchen.
 
-Quelle: [Gezondheid en Wetenschap: Unterkühlung](https://www.gezondheidenwetenschap.be/eerste-hulp/wat-doen-bij-onderkoeling) · [IFRC Guidelines 2020](https://www.ifrc.org/sites/default/files/2022-02/EN_GFARC_GUIDELINES_2020.pdf) · [CDC: Prevent Hypothermia and Frostbite](https://www.cdc.gov/disasters/winter/staysafe/hypothermia.html)
+**Kommt kein Anruf zustande**
+
+- Lassen Sie die betroffene Person nur allein, wenn es keine andere Möglichkeit gibt. Sprechen Sie Umstehende direkt an, damit sie Hilfe holen, und geben Sie mit, wo es ist, was passiert ist, wie viele Betroffene es gibt und in welchem Zustand sie sind.
+- Müssen Sie selbst weg, lassen Sie wenn möglich jemand anderen bei der betroffenen Person bleiben. Diese Person hält sie inzwischen warm: nasse Kleidung aus, etwas zwischen die Person und den Boden, trockene Schichten darum, Schutz vor dem Wind.
+- Lassen Sie Umstehende helfen, Wind und Regen abzuhalten, zum Beispiel mit einer Plane.
+- Führen Sie eine Wiederbelebung durch und sind Sie allein ohne Telefon, siehe Thema 2 (Kommt kein Anruf zustande).
+- Siehe auch Thema 1 (Kommt kein Anruf zustande: Hilfe holen ohne Telefon) und Notrufnummern in der App, Wenn kein Anruf möglich ist.
+
+Quelle: [Gezondheid en Wetenschap: Unterkühlung](https://www.gezondheidenwetenschap.be/eerste-hulp/wat-doen-bij-onderkoeling) · [IFRC Guidelines 2020](https://www.ifrc.org/sites/default/files/2022-02/EN_GFARC_GUIDELINES_2020.pdf) · [CDC: Prevent Hypothermia and Frostbite](https://www.cdc.gov/disasters/winter/staysafe/hypothermia.html) · [ERC Guidelines 2021: First aid](https://cprguidelines-old.erc.edu/assets/guidelines/European-Resuscitation-Council-Guidelines-2021-Fi.pdf) · [FEMA: Until Help Arrives](https://ready.gov/sites/default/files/2020-07/until-help-arrives-instructor-guide.pdf) · [112.be: Häufig gestellte Fragen](https://112.be/de/haeufig-gestellte-fragen)
 
 ## Nicht tun
 

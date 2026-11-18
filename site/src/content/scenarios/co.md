@@ -6,16 +6,16 @@ stappen:
   - "Zet ramen en deuren open, als dat kan zonder risico voor jezelf."
   - "Verlaat de ruimte en ga met iedereen naar buiten, in de frisse lucht."
   - "Zet het toestel op gas, hout, kolen of stookolie uit als dat snel en veilig kan."
-  - "Bel 112 als iemand klachten heeft of bewusteloos is. Zeg dat het vermoedelijk om CO gaat."
+  - "Bel 112 als iemand klachten heeft of bewusteloos is. Zeg dat het vermoedelijk om CO gaat. Lukt dat niet, laat iemand anders bellen of vraag hulp in je buurt (zie Noodnummers, Als bellen niet lukt)."
   - "Ga nooit een ruimte binnen waar iemand bewusteloos ligt. Wacht op de hulpdiensten."
-  - "Bel bij vragen of twijfel het Antigifcentrum op 070 245 245. Dat is gratis, dag en nacht."
+  - "Bel bij vragen of twijfel het Antigifcentrum op 070 245 245, als het netwerk werkt. Dat is gratis, dag en nacht."
   - "Gebruik het toestel pas weer na controle door een erkend vakman."
 niet:
   - "Haal geen barbecue of houtskool binnen om te verwarmen."
   - "Laat geen motor draaien in een garage, ook niet met de poort open."
   - "Dicht geen ventilatieroosters of kieren af, ook niet bij strenge koude."
 status: concept
-datum: "2026-11-17"
+datum: "2026-11-18"
 bronnen:
   - naam: "Antigifcentrum: brochure CO-vergiftiging voorkomen"
     url: https://www.poisoncentre.be/app/uploads/2026/02/Brochure-CO-vergiftiging-voorkomen-NL-1.pdf
@@ -31,6 +31,12 @@ bronnen:
     url: https://crisiscentrum.be/nl/wat-kan-jij-doen/reageer-correct/evacueren
   - naam: "CDC: Carbon Monoxide Poisoning Basics"
     url: https://www.cdc.gov/carbon-monoxide/about/index.html
+  - naam: "112.be: Veelgestelde vragen"
+    url: https://112.be/nl/veelgestelde-vragen
+  - naam: "FOD Economie: vragen van gezinnen over elektriciteitsschaarste"
+    url: https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door
+  - naam: "ERC Guidelines 2021: First aid"
+    url: https://cprguidelines-old.erc.edu/assets/guidelines/European-Resuscitation-Council-Guidelines-2021-Fi.pdf
 ---
 
 ## Herkennen
@@ -39,7 +45,7 @@ Koolstofmonoxide (CO) is een gas zonder kleur, geur of smaak. Je kunt het zelf n
 
 CO is in België de belangrijkste oorzaak van dodelijke vergiftiging. Elk jaar sterven enkele tientallen mensen en belanden ongeveer 1.000 mensen in het ziekenhuis. De meeste ongevallen gebeuren in het stookseizoen, van oktober tot april. Bijna de helft van de slachtoffers is jonger dan 30 jaar. Er is weinig nodig: 0,1 procent CO in de lucht is binnen 1 tot 3 uur dodelijk, 1 procent al binnen 15 minuten.
 
-**Snelle vergiftiging (acuut).** Eerst krijg je hoofdpijn en word je duizelig. Je voelt je heel moe en je kunt misselijk worden en braken. Wie niet beseft dat hij de ruimte moet verlaten, raakt bewusteloos en kan zichzelf dan niet meer redden. Bij hoge concentraties volgen snel een diep coma en overlijden. Bij kinderen is buikpijn een vaak voorkomende klacht.
+**Snelle vergiftiging (acuut).** Eerst krijg je hoofdpijn en word je duizelig. Je voelt je heel moe en je kunt misselijk worden en braken. Wie niet beseft dat hij de ruimte moet verlaten, raakt bewusteloos en kan zichzelf dan niet meer redden. Bij hoge concentraties volgen snel een diep coma en overlijden.
 
 **Langzame vergiftiging (chronisch).** Wie lang kleine hoeveelheden inademt, krijgt vage klachten: hoofdpijn, een zware maag, spierzwakte, moeite met concentreren en wisselende stemming. Een arts herkent dit niet gemakkelijk.
 
@@ -109,18 +115,20 @@ Bron: [Antigifcentrum: brochure CO](https://www.poisoncentre.be/app/uploads/2026
 2. Zet ramen en deuren open, als je dat kunt zonder risico voor jezelf.
 3. Verlaat zo snel mogelijk de ruimte. Zorg dat iedereen de ruimte verlaat. Ga naar buiten als dat kan.
 4. Zet het toestel uit als dat snel en veilig kan.
-5. Bel 112. Zeg dat het vermoedelijk om een CO-vergiftiging gaat en of iemand bewusteloos is.
+5. Bel 112 of laat iemand bellen. Zeg dat het vermoedelijk om een CO-vergiftiging gaat en of iemand bewusteloos is.
 
 Kun je de ramen niet openzetten zonder risico voor jezelf, ga dan meteen naar buiten.
 
+Lukt bellen niet, laat iemand anders bellen of stuur iemand om hulp in je buurt. Laat een slachtoffer alleen als het niet anders kan. Zie Noodnummers in de app, Als bellen niet lukt.
+
 **Iemand is bewusteloos.**
 
-- Ga nooit een ruimte binnen waar een bewusteloze ligt. Je raakt zelf bevangen. Bel onmiddellijk 112.
+- Ga nooit een ruimte binnen waar een bewusteloze ligt. Je raakt zelf bevangen. Bel onmiddellijk 112 of laat iemand bellen. Lukt bellen niet, zie hierboven.
 - Kunnen de hulpdiensten nog niet ter plaatse zijn en kun je de ruimte veilig verluchten: zet het toestel uit en breng het slachtoffer uit de kamer.
 - Ademt het slachtoffer niet, begin dan met beademen. Mond-op-mondbeademing is veilig: je loopt daarbij geen risico op CO-vergiftiging.
 - Ademt het slachtoffer wel, leg hem dan op zijn zij, zonder hoofdkussen. Zo stikt hij niet in braaksel.
 
-**Iemand is bij bewustzijn en antwoordt op je vragen.** Breng hem in de frisse lucht en bel de huisarts. Bel het Antigifcentrum op 070 245 245 als je vragen hebt. Een arts antwoordt, 24 uur per dag, 7 dagen per week. De oproep is gratis.
+**Iemand is bij bewustzijn en antwoordt op je vragen.** Breng hem in de frisse lucht en laat hem nakijken door een arts. Werkt het netwerk, bel dan de huisarts, en bij vragen het Antigifcentrum op 070 245 245. Een arts antwoordt, 24 uur per dag, 7 dagen per week. De oproep is gratis.
 
 ### Buiten of onderweg
 
@@ -152,21 +160,20 @@ Kun je de ramen niet openzetten zonder risico voor jezelf, ga dan meteen naar bu
 
 - Ouderen en mensen met een chronische ziekte, met hart- of ademhalingsproblemen of met bloedarmoede lopen meer risico.
 - Rokers, en zeker pijp-, sigaren- en waterpijprokers, hebben al meer CO in het bloed.
-- Wie slaapt, gedronken heeft of onder invloed is, kan sterven aan CO voor hij klachten opmerkt. Het CDC raadt een melder bij elke slaapruimte aan.
+- Wie slaapt, gedronken heeft of onder invloed is, kan sterven aan CO voor hij klachten opmerkt. Hang een melder bij elke slaapruimte.
 
 ### Huisdieren en dieren
 
 - Dieren worden ook ziek van CO. Als dieren en mensen in huis tegelijk klachten hebben, is dat een waarschuwingsteken.
 - Neem huisdieren mee naar buiten als dat zonder risico voor jezelf kan. Je eigen veiligheid gaat voor.
 
-Bron: [Antigifcentrum: brochure CO](https://www.poisoncentre.be/app/uploads/2026/02/Brochure-CO-vergiftiging-voorkomen-NL-1.pdf) · [Antigifcentrum: CO in detail](https://www.antigifcentrum.be/koolstofmonoxide) · [KMI](https://www.meteo.be/nl/info/veelgestelde-vragen/hoe-je-beschermen-tegen-gevaarlijk-weer/co-een-sluipende-moordenaar-in-huis) · [be.brussels](https://be.brussels/nl/veiligheid-preventie/brandpreventie-en-veiligheidsadvies/gebouw-woning-en-infrastructuren/veilig-huis/co) · [CDC](https://www.cdc.gov/carbon-monoxide/about/index.html)
+Bron: [Antigifcentrum: brochure CO](https://www.poisoncentre.be/app/uploads/2026/02/Brochure-CO-vergiftiging-voorkomen-NL-1.pdf) · [Antigifcentrum: CO in detail](https://www.antigifcentrum.be/koolstofmonoxide) · [KMI](https://www.meteo.be/nl/info/veelgestelde-vragen/hoe-je-beschermen-tegen-gevaarlijk-weer/co-een-sluipende-moordenaar-in-huis) · [be.brussels](https://be.brussels/nl/veiligheid-preventie/brandpreventie-en-veiligheidsadvies/gebouw-woning-en-infrastructuren/veilig-huis/co) · [CDC](https://www.cdc.gov/carbon-monoxide/about/index.html) · [112.be: Veelgestelde vragen](https://112.be/nl/veelgestelde-vragen) · [FOD Economie: vragen van gezinnen over elektriciteitsschaarste](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door) · [ERC Guidelines 2021: First aid](https://cprguidelines-old.erc.edu/assets/guidelines/European-Resuscitation-Council-Guidelines-2021-Fi.pdf)
 
 ## Daarna
 
 - Gebruik het toestel niet meer tot een erkend vakman het heeft nagekeken. Bel ook een vakman bij een oranje vlam, roet, roest of corrosie.
 - Laat ook de schoorsteen en de aansluiting controleren. Het geheel van toestel en schoorsteen moet dicht zijn.
-- Laat je nakijken door een arts. Wie bij bewustzijn is, belt de huisarts. Na een ernstige vergiftiging treedt soms later nog hersenschade op. Een normale bloedwaarde sluit een vergiftiging niet uit, omdat CO na een tijd uit het bloed verdwijnt.
-- Woon je in een huurhuis, meld dan de nodige herstellingen meteen aan de eigenaar.
+- Laat je nakijken door een arts. Wie bij bewustzijn is, belt de huisarts als het netwerk werkt. Na een ernstige vergiftiging treedt soms later nog hersenschade op. Een normale bloedwaarde sluit een vergiftiging niet uit, omdat CO na een tijd uit het bloed verdwijnt.
 - Hing er nog geen melder, plaats er dan een volgens de regels hierboven.
 
 Bron: [Antigifcentrum: brochure CO](https://www.poisoncentre.be/app/uploads/2026/02/Brochure-CO-vergiftiging-voorkomen-NL-1.pdf) · [Antigifcentrum: CO in detail](https://www.antigifcentrum.be/koolstofmonoxide)

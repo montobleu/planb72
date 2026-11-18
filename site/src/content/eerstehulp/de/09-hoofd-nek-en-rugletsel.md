@@ -1,9 +1,9 @@
 ---
 titel: Kopf-, Nacken- und Rückenverletzungen
 volgorde: 9
-kort: "Vermuten Sie eine Verletzung an Nacken oder Rücken: Bewegen Sie die betroffene Person nicht, neigen Sie den Kopf nicht und rufen Sie 112 an. Nach einem Schlag auf den Kopf: Beobachten Sie die Person weiter."
+kort: "Vermuten Sie eine Verletzung an Nacken oder Rücken: Bewegen Sie die betroffene Person nicht, neigen Sie den Kopf nicht und lassen Sie 112 anrufen oder Hilfe holen. Nach einem Schlag auf den Kopf: Beobachten Sie die Person weiter."
 status: concept
-datum: "2026-11-17"
+datum: "2026-11-18"
 bronnen:
   - naam: "Gezondheid en Wetenschap (Rode Kruis-Vlaanderen): Erste Hilfe bei Wirbelsäulenverletzungen"
     url: https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-wervelletsels
@@ -15,8 +15,12 @@ bronnen:
     url: https://www.ifrc.org/sites/default/files/2022-02/EN_GFARC_GUIDELINES_2020.pdf
   - naam: "FEMA: Until Help Arrives, instructor guide"
     url: https://ready.gov/sites/default/files/2020-07/until-help-arrives-instructor-guide.pdf
+  - naam: "European Resuscitation Council Guidelines 2021: First aid"
+    url: https://cprguidelines-old.erc.edu/assets/guidelines/European-Resuscitation-Council-Guidelines-2021-Fi.pdf
+  - naam: "112.be: Häufig gestellte Fragen"
+    url: https://112.be/de/haeufig-gestellte-fragen
 vertaling: machine
-origineel_datum: "2026-11-17"
+origineel_datum: "2026-11-18"
 ---
 
 ## Erkennen
@@ -64,7 +68,7 @@ Quelle: [Gezondheid en Wetenschap: Wirbelsäulenverletzungen](https://www.gezond
 
 1. Bewegen Sie die betroffene Person nicht, außer es besteht unmittelbare Gefahr.
 2. Prüfen Sie das Bewusstsein. Machen Sie wenn nötig die Atemwege frei und prüfen Sie die Atmung, aber neigen Sie den Kopf nicht nach hinten.
-3. Rufen Sie 112 an.
+3. Rufen Sie 112 an oder lassen Sie anrufen. Kommt kein Anruf zustande, siehe Rufen Sie 112 an, wenn.
 4. Bei Bewusstsein und normaler Atmung: Beruhigen Sie die Person und überzeugen Sie sie, sich nicht zu bewegen. Bitten Sie sie, Kopf und Nacken selbst ruhig zu halten. Gelingt das nicht (zum Beispiel bei einem Kind oder jemandem, der getrunken hat), stützen Sie den Kopf sanft mit Ihren Händen. Tun Sie das nur, wenn die Person mitarbeitet, nicht bei jemandem, der unruhig ist oder sich hin und her wirft.
 5. Bewusstlos, aber normale Atmung: Lassen Sie die Person so liegen, wie Sie sie gefunden haben, auf dem Rücken oder auf der Seite. Stützen Sie den Kopf sanft, damit er sich nicht bewegt. Prüfen Sie jede Minute Bewusstsein und Atmung.
 6. Atemnot: Schieben Sie nur den Kiefer nach oben, ohne den Kopf nach hinten zu neigen.
@@ -78,7 +82,7 @@ Zeichen: Schmerzen an Hüfte, Becken, Leiste oder Knie, die bei Bewegung schlimm
 
 1. Helfen Sie der Person, ruhig auf dem Rücken zu liegen, mit gestreckten Beinen.
 2. Legen Sie Polsterung zwischen die Beine und binden Sie die Beine auf Höhe der Knie und der Füße zusammen.
-3. Rufen Sie 112 an.
+3. Rufen Sie 112 an oder lassen Sie anrufen.
 4. Beobachten Sie Atmung, Kreislauf und Bewusstsein und achten Sie auf einen Schock.
 5. Wiegen oder drehen Sie das Becken nicht. Das kann eine Blutung erneut auslösen oder verschlimmern.
 
@@ -95,7 +99,7 @@ Zeichen: Schmerzen an Hüfte, Becken, Leiste oder Knie, die bei Bewegung schlimm
 
 1. Lassen Sie die Person ihre Tätigkeit, zum Beispiel Sport, beenden und lassen Sie sie ruhen.
 2. Beobachten Sie sie: Achten Sie auf die Zeichen einer Hirnverletzung und auf Veränderungen von Bewusstsein und Atmung.
-3. Bei Zeichen einer schweren Kopfverletzung: Rufen Sie 112 an. Beruhigen Sie die Person und bitten Sie sie, Kopf und Nacken ruhig zu halten. Liegt sie, dürfen Sie den Kopf mit Ihren Händen oder Knien ruhig halten.
+3. Bei Zeichen einer schweren Kopfverletzung: Rufen Sie 112 an oder lassen Sie anrufen. Beruhigen Sie die Person und bitten Sie sie, Kopf und Nacken ruhig zu halten. Liegt sie, dürfen Sie den Kopf mit Ihren Händen oder Knien ruhig halten.
 4. Gibt es keine oder nur leichte Beschwerden (eine Beule, leichte Kopfschmerzen, etwas Übelkeit), lassen Sie sie ruhen und beobachten Sie sie weiter.
 
 Quelle: [Gezondheid en Wetenschap: Wirbelsäulenverletzungen](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-wervelletsels) · [Gezondheid en Wetenschap: Kopfwunde](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-een-hoofdwonde) · [Croix-Rouge de Belgique: mise à jour 2024](https://formations.croix-rouge.be/files/files/espace-relais/Relais-BEPS-Mise-jour-2024.pdf) · [IFRC Guidelines 2020](https://www.ifrc.org/sites/default/files/2022-02/EN_GFARC_GUIDELINES_2020.pdf)
@@ -104,7 +108,7 @@ Quelle: [Gezondheid en Wetenschap: Wirbelsäulenverletzungen](https://www.gezond
 
 - Halten Sie die betroffene Person so ruhig wie möglich und bewegen Sie sie so wenig wie möglich. Beobachten Sie weiter Atmung und Bewusstsein.
 - Eine bewusstlose Person mit vermuteter Wirbelsäulenverletzung, die normal atmet: Kommt Hilfe schnell, halten Sie nur die Atemwege offen, indem Sie den Kiefer anheben oder den Kopf neigen. Ist Hilfe noch weit entfernt und gibt es mindestens zwei Helfer, dürfen Sie die Person auf die Seite legen, während ein Helfer den Kopf in einer Linie mit dem Rücken hält.
-- Die Croix-Rouge de Belgique sagt, dass freie Atemwege Vorrang haben. Sie können eine eindeutig verletzte Person nur dann auf dem Rücken liegen lassen, wenn sie deutlich atmet und der Rettungsdienst schnell vor Ort ist. Sind Sie unsicher über die Verletzung, bringen Sie sie in die stabile Seitenlage.
+- Freie Atemwege haben Vorrang. Sie können eine eindeutig verletzte Person nur dann auf dem Rücken liegen lassen, wenn sie deutlich atmet und der Rettungsdienst schnell vor Ort ist. Sind Sie unsicher über die Verletzung, bringen Sie sie in die stabile Seitenlage.
 - Nach einem Schlag auf den Kopf ohne Alarmzeichen: Die Person darf ihren Tag fortsetzen, aber jemand muss sie in den folgenden 24 Stunden im Auge behalten, um Zeichen zu erkennen, die später auftreten. Eine Gehirnerschütterung kann sich über Stunden oder Tage entwickeln.
 - Ruhe ist meist die beste erste Behandlung. Lassen Sie die Person erst wieder Auto fahren, mit Maschinen arbeiten oder Kontaktsport treiben, wenn alle Beschwerden verschwunden sind.
 - Halten Sie die betroffene Person warm, indem Sie sie mit trockenen Schichten zudecken und vor Wind schützen.
@@ -121,7 +125,12 @@ Quelle: [IFRC Guidelines 2020](https://www.ifrc.org/sites/default/files/2022-02/
 
 Suchen Sie einen Arzt auf bei einer schweren Kopfwunde, wenn sich die Person nach dem Unfall unwohl fühlt oder sich der Zustand verschlechtert (zunehmende Kopfschmerzen, Übelkeit, Benommenheit), und im Zweifel.
 
-Quelle: [Gezondheid en Wetenschap: Kopfwunde](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-een-hoofdwonde) · [Gezondheid en Wetenschap: Wirbelsäulenverletzungen](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-wervelletsels) · [IFRC Guidelines 2020](https://www.ifrc.org/sites/default/files/2022-02/EN_GFARC_GUIDELINES_2020.pdf)
+**Kommt kein Anruf zustande**
+
+- Lassen Sie die betroffene Person nur allein, wenn es keine andere Möglichkeit gibt. Sprechen Sie Umstehende direkt an, damit sie Hilfe holen, und geben Sie mit, wo es ist, was passiert ist, wie viele Betroffene es gibt und in welchem Zustand sie sind.
+- Siehe auch Thema 1 (Kommt kein Anruf zustande: Hilfe holen ohne Telefon) und Notrufnummern in der App, Wenn kein Anruf möglich ist.
+
+Quelle: [Gezondheid en Wetenschap: Kopfwunde](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-een-hoofdwonde) · [Gezondheid en Wetenschap: Wirbelsäulenverletzungen](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-wervelletsels) · [IFRC Guidelines 2020](https://www.ifrc.org/sites/default/files/2022-02/EN_GFARC_GUIDELINES_2020.pdf) · [ERC Guidelines 2021: First aid](https://cprguidelines-old.erc.edu/assets/guidelines/European-Resuscitation-Council-Guidelines-2021-Fi.pdf) · [112.be: Häufig gestellte Fragen](https://112.be/de/haeufig-gestellte-fragen)
 
 ## Nicht tun
 

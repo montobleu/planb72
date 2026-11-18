@@ -4,7 +4,7 @@ module: nucleair
 volgorde: 1
 kort: "Was bei einem nuklearen Unfall geschieht, die belgischen Zonen, wie Sie Schutz suchen, wie Sie sich selbst dekontaminieren und was Sie mit Lebensmitteln, Tieren und Kindern tun."
 status: concept
-datum: "2026-11-17"
+datum: "2026-11-18"
 bronnen:
   - naam: "Nationales Krisenzentrum: Zwischenfall in einem Kernkraftwerk"
     url: https://krisenzentrum.be/de/risiken-belgien/technologische-risiken/zwischenfall-einer-nuklearanlage
@@ -14,6 +14,14 @@ bronnen:
     url: https://krisenzentrum.be/de/was-koennen-sie-tun/der-richtige-reflex/schutz-suchen
   - naam: "Nationales Krisenzentrum: Broschüre Gemeinsam vorbereitet"
     url: https://krisenzentrum.be/sites/default/files/documents/files/WEB-Brosch%C3%BCre%20Gemeinsam%20Vorbereitet-DE.pdf
+  - naam: "Nationales Krisenzentrum: Ein Notfallpaket bei Ihnen zu Hause"
+    url: https://krisenzentrum.be/de/was-koennen-sie-tun/stelle-ein-notfallpaket-zusammen/ein-notfallset-fuer-zu-hause
+  - naam: "Nationales Krisenzentrum: Störung der digitalen Infrastruktur"
+    url: https://krisenzentrum.be/de/risiken-belgien/maatschappelijke-risicos/ausfall-der-digitalen-infrastruktur
+  - naam: "112.be: Häufig gestellte Fragen"
+    url: https://112.be/de/haeufig-gestellte-fragen
+  - naam: "FÖD Wirtschaft: Fragen von Haushalten zur Stromknappheit"
+    url: https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door
   - naam: "Nuklearrisiko: Schutz suchen, der beste Schutz"
     url: https://nuklearrisiko.be/de/was-koennen-sie-tun/aufenthalt-geschlossenen-raeumen-die-beste-schutzmassnahme
   - naam: "Nuklearrisiko: Sich selbst dekontaminieren"
@@ -36,14 +44,10 @@ bronnen:
     url: https://nuklearrisiko.be/de/faq
   - naam: "BBK: Schutz suchen"
     url: https://www.bbk.bund.de/DE/Warnung-Vorsorge/Vorsorge/Schutz-suchen/schutz-suchen_node.html
-  - naam: "BBK: Verhalten im Haus bei Gefahrstofffreisetzung"
-    url: https://www.bbk.bund.de/DE/Warnung-Vorsorge/Vorsorge/Schutz-suchen/Gefahrstoff-Freisetzung/_documents/gefahrstoff-im-haus_dossier2.html?nn=20588
   - naam: "Suomi.fi: Radiation hazards"
     url: https://www.suomi.fi/guides/preparedness/how-to-prepare-for-incidents-and-crises/radiation-hazards
   - naam: "Kanton Aargau: KKW-Störfall"
     url: https://www.ag.ch/de/themen/sicherheit/bevoelkerungsschutz/verhaltensempfehlungen/kkw-stoerfall
-  - naam: "Rijksoverheid: Hoe kan ik mezelf beschermen bij een kernongeval"
-    url: https://www.rijksoverheid.nl/onderwerpen/straling/vraag-en-antwoord/hoe-kan-ik-mezelf-beschermen-bij-een-kernongeval
   - naam: "WHO: Radiation and health"
     url: https://www.who.int/news-room/questions-and-answers/item/radiation-and-health
   - naam: "WHO: Radioactivity in food after a nuclear emergency"
@@ -57,14 +61,14 @@ bronnen:
   - naam: "CDC: How to self-decontaminate after a radiation emergency"
     url: https://cdc.gov/radiation-emergencies/prevention/self-decontaminate.html
 vertaling: machine
-origineel_datum: "2026-11-17"
+origineel_datum: "2026-11-18"
 ---
 
 ## Was bei einem nuklearen Unfall geschieht
 
 Ein Kernkraftwerk nutzt Kernbrennstoff, um Dampf zu erzeugen und Strom zu produzieren. Bei einem Zwischenfall bauen sich Hitze und Druck auf. Der Dampf kann dann zusammen mit radioaktiven Stoffen außerhalb des Kraftwerks freigesetzt werden.
 
-Das Nationale Krisenzentrum beschreibt in der belgischen nationalen Risikoanalyse ein schweres Szenario wie folgt: Schäden am Kernbrennstoff führen zu einer teilweisen Kernschmelze, die Rückhaltesysteme versagen und es werden große Mengen ungefilterter radioaktiver Stoffe freigesetzt. In diesem Szenario werden die Stoffe erst 24 Stunden oder einige Tage nach dem Zwischenfall freigesetzt, über einen langen Zeitraum. Laut den häufig gestellten Fragen auf nucleairrisico.be vergehen in den meisten Unfallszenarien mehrere Stunden zwischen den ersten Anzeichen eines Problems und der ersten Freisetzung. Die Behörden nutzen diese Zeit, um zu warnen und Jodtabletten zu verteilen.
+Im schweren Szenario der belgischen nationalen Risikoanalyse führen Schäden am Kernbrennstoff zu einer teilweisen Kernschmelze, versagen die Rückhaltesysteme und werden große Mengen ungefilterter radioaktiver Stoffe freigesetzt. In diesem Szenario werden die Stoffe erst 24 Stunden oder einige Tage nach dem Zwischenfall freigesetzt, über einen langen Zeitraum. In den meisten Unfallszenarien vergehen mehrere Stunden zwischen den ersten Anzeichen eines Problems und der ersten Freisetzung. Die Behörden nutzen diese Zeit, um zu warnen und Jodtabletten zu verteilen.
 
 Bei einem Unfall können radioaktive Stoffe in die Luft, ins Wasser oder in den Boden gelangen. Sie können Radioaktivität nicht sehen, riechen, schmecken oder fühlen. Nur Messgeräte erkennen sie.
 
@@ -76,7 +80,7 @@ Bei einem Unfall können radioaktive Stoffe in die Luft, ins Wasser oder in den 
 | Innere Kontamination | Radioaktive Stoffe gelangen über eingeatmete Luft oder verseuchte Lebensmittel in den Körper |
 | Bestrahlung | Eine radioaktive Quelle strahlt aus der Entfernung auf Ihren Körper, ohne direkten Kontakt |
 
-Die Risiken für die Bevölkerung sind laut dem Krisenzentrum hauptsächlich langfristige Risiken: Krebs und genetische Schäden. Die Wahrscheinlichkeit von Komplikationen, nicht ihre Schwere, steigt mit der Dosis. Spezifische Erscheinungen wie Erbrechen, Verbrennungen und massiver Haarausfall treten erst nach einer massiven Exposition auf. Diese erwartet man grundsätzlich nur bei Arbeitern in der Anlage und gegebenenfalls bei Einsatzkräften. Die WHO sagt dasselbe: Die breite Öffentlichkeit erhält wahrscheinlich keine Dosis, die hoch genug für akute Wirkungen ist.
+Die Risiken für die Bevölkerung sind hauptsächlich langfristige Risiken: Krebs und genetische Schäden. Die Wahrscheinlichkeit von Komplikationen, nicht ihre Schwere, steigt mit der Dosis. Spezifische Erscheinungen wie Erbrechen, Verbrennungen und massiver Haarausfall treten erst nach einer massiven Exposition auf. Diese erwartet man grundsätzlich nur bei Arbeitern in der Anlage und gegebenenfalls bei Einsatzkräften. Die breite Öffentlichkeit erhält wahrscheinlich keine Dosis, die hoch genug für akute Wirkungen ist.
 
 Quelle: [Nationales Krisenzentrum: Zwischenfall in einem Kernkraftwerk](https://krisenzentrum.be/de/risiken-belgien/technologische-risiken/zwischenfall-einer-nuklearanlage) · [Nuklearrisiko: Radioaktivität und Exposition](https://nuklearrisiko.be/de/nukleares-risiko/radioaktivitaet-exposition) · [Nuklearrisiko: häufig gestellte Fragen](https://nuklearrisiko.be/de/faq) · [WHO: Radiation and health](https://www.who.int/news-room/questions-and-answers/item/radiation-and-health)
 
@@ -105,23 +109,22 @@ Der nukleare Notfallplan sieht auch Erweiterungszonen vor, in denen die Maßnahm
 
 ### Die Zone im Ernstfall
 
-In einer Notsituation bestimmt die Bewertung der Lage die Zone für Schutzmaßnahmen. Sie kann kleiner oder größer als die Notfallplanungszone sein. Auf nucleairrisico.be gibt es eine Karte, auf der Sie prüfen können, ob Ihre Gemeinde in einer Notfallplanungszone liegt. Die Zonen hindern niemanden außerhalb der Zonen daran, sich ebenfalls vorzubereiten.
+In einer Notsituation bestimmt die Bewertung der Lage die Zone für Schutzmaßnahmen. Sie kann kleiner oder größer als die Notfallplanungszone sein. Prüfen Sie im Voraus, ob Ihre Gemeinde in einer Notfallplanungszone liegt: Auf nucleairrisico.be gibt es dafür eine Karte. Die Zonen hindern niemanden außerhalb der Zonen daran, sich ebenfalls vorzubereiten.
 
 Quelle: [Nuklearrisiko: Nukleare Standorte](https://nuklearrisiko.be/de/nukleares-risiko/kerntechnische-anlagen) · [Nuklearrisiko: Notfallplanungszonen](https://nuklearrisiko.be/de/was-tun-die-behoerden/noteinsatzplanungs-zonen) · [Nuklearrisiko: Nukleare Notfallplanungszonen (Karte)](https://nuklearrisiko.be/de/nuklearen-noteinsatzplanungszonen) · [Nationales Krisenzentrum: Pressedatenblätter nuklearer Notfallplan](https://crisiscentrum.be/sites/default/files/documents/files/2021-04/fr_fiches_confpresse.pdf) · [Nuklearrisiko: häufig gestellte Fragen](https://nuklearrisiko.be/de/faq)
 
 ## Wie Sie gewarnt werden
 
-Die Behörden benachrichtigen die Anwohner über:
+Wer Schutz sucht, bleibt drinnen bei geschlossenen Fenstern und Türen. Die Informationen der Behörden kommen dann vor allem über das Radio. Die Behörden benachrichtigen die Anwohner über:
 
-- **BE-Alert:** SMS von der Nummer 1789, E-Mail von no-reply@be-alert.be oder einen Sprachanruf von 0477 77 77 55. Registrieren Sie sich vorab auf be-alert.be. Sie können mehrere Adressen registrieren, auch die der Schule Ihrer Kinder.
-- **Radio und Fernsehen.**
-- **Die Website des Nationalen Krisenzentrums oder der Gemeinde.**
-- **Soziale Medien.**
+- **Radio und Fernsehen.** Sorgen Sie im Voraus für ein Radio mit Batterien oder ein Kurbelradio, am besten mit DAB+ und UKW. So können Sie auch bei einem Stromausfall die Medien hören.
 - **Lautsprecherwagen der Polizei**, die durch die Straßen fahren.
+- **BE-Alert**, wenn das Netz funktioniert: SMS von der Nummer 1789, E-Mail von no-reply@be-alert.be oder einen Sprachanruf von 0477 77 77 55. Registrieren Sie sich vorab auf be-alert.be. Sie können mehrere Adressen registrieren, auch die der Schule Ihrer Kinder.
+- **Die Website des Nationalen Krisenzentrums oder der Gemeinde und soziale Medien**, wenn das Internet funktioniert.
 
-Haben Sie kein Telefon, erhalten Sie die Informationen über Lautsprecherwagen, Radio, Fernsehen und Websites. Sorgen Sie für ein Radio mit Batterien oder ein Kurbelradio, am besten mit DAB+ und UKW. Telefonieren Sie nicht unnötig: Ein überlastetes Netz kann die Hilfeleistung stören.
+Haben Sie kein Telefon oder Handy, erhalten Sie die nötigen Informationen trotzdem: über Lautsprecherwagen, Radio und Fernsehen. Telefonieren Sie nicht unnötig, es sei denn, Sie sind zum Beispiel in einer medizinischen Notsituation: Ein überlastetes Netz kann die Hilfeleistung stören.
 
-Quelle: [Nuklearrisiko: Warnung und Schutz der Bevölkerung](https://nuklearrisiko.be/de/was-tun-die-behoerden/warnung-und-schutz-der-bevoelkerung) · [Nuklearrisiko: häufig gestellte Fragen](https://nuklearrisiko.be/de/faq) · [Nationales Krisenzentrum: Broschüre Gemeinsam vorbereitet](https://krisenzentrum.be/sites/default/files/documents/files/WEB-Brosch%C3%BCre%20Gemeinsam%20Vorbereitet-DE.pdf)
+Quelle: [Nuklearrisiko: Warnung und Schutz der Bevölkerung](https://nuklearrisiko.be/de/was-tun-die-behoerden/warnung-und-schutz-der-bevoelkerung) · [Nuklearrisiko: häufig gestellte Fragen](https://nuklearrisiko.be/de/faq) · [Nationales Krisenzentrum: Broschüre Gemeinsam vorbereitet](https://krisenzentrum.be/sites/default/files/documents/files/WEB-Brosch%C3%BCre%20Gemeinsam%20Vorbereitet-DE.pdf) · [Nationales Krisenzentrum: Ein Notfallpaket bei Ihnen zu Hause](https://krisenzentrum.be/de/was-koennen-sie-tun/stelle-ein-notfallpaket-zusammen/ein-notfallset-fuer-zu-hause)
 
 ## Die vier Schutzmaßnahmen
 
@@ -150,7 +153,7 @@ Schutz suchen in einem Gebäude ist bei einem nuklearen Notfall die beste Art, s
 6. Sorgen Sie aber dafür, dass die Luft erneuert wird, damit Ihnen nicht unwohl wird.
 7. Halten Sie sich in einem zentralen Raum im Erdgeschoss auf. Wände und Decken schützen besser als Fenster.
 8. Holen Sie Ihre Haustiere herein.
-9. Hören Sie auf die Empfehlungen über Radio, Fernsehen, offizielle Websites und soziale Medien.
+9. Hören Sie auf die Empfehlungen im Radio. Funktioniert das Internet, sehen Sie auch auf den offiziellen Websites und in den sozialen Medien nach.
 
 ### Wenn Sie draußen waren, als die Wolke vorbeizog
 
@@ -167,13 +170,9 @@ Gehen Sie über einen Raum hinein, den Sie nicht nutzen. Ziehen Sie sich aus, du
 | Zu Fuß | Gehen Sie so schnell wie möglich in das nächstgelegene Gebäude und schließen Sie Fenster und Türen; das schützt besser als ein Auto |
 | Im Auto, in der Nähe von Wohnung, Arbeitsplatz oder einem öffentlichen Gebäude | Gehen Sie sofort hinein |
 | Im Auto, kein Gebäude erreichbar | Parken Sie an einem sicheren Ort oder fahren Sie weg, senkrecht zur Windrichtung. Motor aus, wenn Sie stehen, Fenster zu, Klimaanlage und Lüftung aus, Radio an. Fahren Sie vorsichtig und beachten Sie die Straßenverkehrsordnung |
-| Zu Fuß in einem Gebiet ohne Gebäude | Rufen Sie 112 an (allgemeine Richtlinie des Krisenzentrums zum Schutz suchen) |
+| Zu Fuß in einem Gebiet ohne Gebäude | Rufen Sie 112 an. Kommt kein Anruf zustande: Entfernen Sie sich weiter von der Notsituation, bis Sie ein sicheres und zugängliches Gebäude finden |
 
-### Was ausländische Quellen anders über den Ort sagen
-
-Deutschland empfiehlt bei radioaktiven Stoffen, möglichst tief nach unten zu gehen, am besten in einen Keller. Die Vereinigten Staaten (CDC) nennen den Keller oder die Mitte des Gebäudes, so weit wie möglich von Außenwänden und Dach entfernt; ein mehrstöckiges Gebäude aus Ziegel oder Beton ist am besten, aber jedes Gebäude ist sicherer als draußen. Die WHO empfiehlt, wenn möglich, einen Raum ohne Fenster und Außentüren zu wählen. Der belgische Rat bleibt: ein zentraler Raum im Erdgeschoss. Befolgen Sie in Belgien den belgischen Rat und die Anweisungen im Ernstfall.
-
-Quelle: [Nuklearrisiko: Schutz suchen, der beste Schutz](https://nuklearrisiko.be/de/was-koennen-sie-tun/aufenthalt-geschlossenen-raeumen-die-beste-schutzmassnahme) · [Nuklearrisiko: häufig gestellte Fragen](https://nuklearrisiko.be/de/faq) · [Nationales Krisenzentrum: Schutz suchen](https://krisenzentrum.be/de/was-koennen-sie-tun/der-richtige-reflex/schutz-suchen) · [BBK: Schutz suchen](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Vorsorge/Schutz-suchen/schutz-suchen_node.html) · [CDC: What to do, get inside](https://cdc.gov/radiation-emergencies/response/get-inside.html) · [WHO: Radiation and health](https://www.who.int/news-room/questions-and-answers/item/radiation-and-health)
+Quelle: [Nuklearrisiko: Schutz suchen, der beste Schutz](https://nuklearrisiko.be/de/was-koennen-sie-tun/aufenthalt-geschlossenen-raeumen-die-beste-schutzmassnahme) · [Nuklearrisiko: häufig gestellte Fragen](https://nuklearrisiko.be/de/faq) · [Nationales Krisenzentrum: Schutz suchen](https://krisenzentrum.be/de/was-koennen-sie-tun/der-richtige-reflex/schutz-suchen)
 
 ## Wie lange Sie Schutz suchen
 
@@ -185,15 +184,15 @@ Quelle: [Nuklearrisiko: häufig gestellte Fragen](https://nuklearrisiko.be/de/fa
 
 ## Zeit, Abstand und Abschirmung
 
-Die amerikanische Regierung (Ready.gov) fasst den Schutz vor Strahlung in drei Grundsätzen zusammen:
+Der Schutz vor Strahlung beruht auf drei Grundsätzen:
 
 - **Zeit:** Begrenzen Sie die Zeit, in der Sie exponiert sind.
 - **Abstand:** Bleiben Sie so weit wie möglich von einer radioaktiven Quelle entfernt.
 - **Abschirmung:** Bringen Sie Material zwischen sich und die Strahlung, indem Sie tief in ein stabiles Gebäude hineingehen. Bringen Sie so viele Wände wie möglich zwischen sich und draußen.
 
-Deutschland sagt, dass ionisierende Strahlung abgeschwächt wird, wenn sie durch Materie geht, und dass diese Abschwächung in Kellern durch das umgebende Erdreich und die darüberliegenden Stockwerke besonders groß ist. Dicke Wände und Erdreich erhöhen den Schutz. Auch der Schweizer Kanton Aargau sagt, dass allein schon der Aufenthalt in einem Gebäude, zum Beispiel in einem Keller oder Schutzraum, die Belastung durch ionisierende Strahlung wirksam verringern kann.
+Ionisierende Strahlung wird abgeschwächt, wenn sie durch Materie geht. Dicke Wände, Erdreich und darüberliegende Stockwerke erhöhen den Schutz. Allein schon der Aufenthalt in einem Gebäude verringert die Belastung wirksam.
 
-Das belgische Krisenzentrum sagt, dass die Auswirkung einer Exposition von der Dauer, der Art des Materials und dem Abstand zur Quelle abhängt.
+Die Auswirkung einer Exposition hängt von der Dauer, der Art des Materials und dem Abstand zur Quelle ab.
 
 PlanB72 gibt keine Anweisungen, um Strahlendosen selbst zu berechnen oder zu messen. Die Auswertung von Messungen erfolgt durch Fachleute.
 
@@ -201,7 +200,7 @@ Quelle: [Ready.gov: Radiation emergencies](https://www.ready.gov/radiation) · [
 
 ## Sich selbst dekontaminieren
 
-Waren Sie draußen, als eine radioaktive Wolke vorbeizog, können Sie die äußere Kontamination verringern. Der belgische Rat:
+Waren Sie draußen, als eine radioaktive Wolke vorbeizog, können Sie die äußere Kontamination verringern:
 
 1. Ziehen Sie Ihre Kleidung aus und stecken Sie sie in einen Plastiksack. Stellen Sie den Sack nach draußen.
 2. Duschen Sie und waschen Sie sich mit Seife.
@@ -210,16 +209,16 @@ Waren Sie draußen, als eine radioaktive Wolke vorbeizog, können Sie die äuße
 
 Manchmal richten die Behörden ein Aufnahmezentrum ein, in dem Sie sich zur Dekontamination und ärztlichen Kontrolle melden können.
 
-### Was die amerikanischen Richtlinien (CDC) ergänzen
+### Weitere Hinweise
 
-- **Kleidung:** Das Ausziehen Ihrer obersten Kleidungsschicht kann bis zu 90 Prozent des radioaktiven Materials entfernen. Tun Sie es vorsichtig, damit sich kein Staub löst, den Sie einatmen. Berühren Sie möglichst nicht Ihre Augen, Nase und Mund (Ready.gov). Stellen Sie den Sack weit weg von Menschen und Haustieren.
+- **Kleidung:** Das Ausziehen Ihrer obersten Kleidungsschicht kann bis zu 90 Prozent des radioaktiven Materials entfernen. Tun Sie es vorsichtig, damit sich kein Staub löst, den Sie einatmen. Berühren Sie möglichst nicht Ihre Augen, Nase und Mund. Stellen Sie den Sack weit weg von Menschen und Haustieren.
 - **Dusche:** Duschen Sie warm und waschen Sie sich sanft mit viel Seife. Schrubben, kratzen oder verbrühen Sie Ihre Haut nicht. Waschen Sie Ihre Haare mit Shampoo oder Seife. Verwenden Sie keine Haarspülung: Sie lässt radioaktives Material an Ihren Haaren haften. Decken Sie kleine Wunden und Schürfwunden beim Waschen ab.
 - **Keine Dusche:** Waschen Sie Hände, Gesicht und die unbedeckten Körperstellen an einem Wasserhahn mit Seife und viel Wasser. Kein Wasserhahn: Verwenden Sie ein Feuchttuch, ein sauberes nasses Tuch oder ein feuchtes Papiertuch, vor allem für Hände und Gesicht. Stecken Sie benutzte Tücher in einen verschließbaren Beutel.
 - **Nase, Augen und Ohren:** Schnäuzen Sie vorsichtig die Nase und wischen Sie Augenlider, Wimpern und Ohren mit einem Feuchttuch ab.
 - **Leitungswasser:** Auch wenn die Behörden zum Trinken Flaschenwasser empfehlen, dürfen Sie Leitungswasser zum Waschen verwenden.
 - **Keine saubere Kleidung:** Ziehen Sie Ihre oberste Schicht aus, schütteln oder bürsten Sie sie aus und ziehen Sie sie wieder an. Waschen Sie danach erneut Hände, Gesicht und nackte Haut.
 - **Anderen helfen:** Tragen Sie wasserdichte Handschuhe und eine Staubmaske, wenn möglich, und waschen Sie danach selbst Hände, Gesicht und nackte Haut.
-- **Nicht verwenden:** Haushaltsreinigungstücher auf der Haut. Handgel schützt nicht vor radioaktivem Material (Ready.gov).
+- **Nicht verwenden:** Haushaltsreinigungstücher auf der Haut. Handgel schützt nicht vor radioaktivem Material.
 
 Quelle: [Nuklearrisiko: Sich selbst dekontaminieren](https://nuklearrisiko.be/de/was-koennen-sie-tun/sich-selbst-dekontaminieren) · [Nuklearrisiko: häufig gestellte Fragen](https://nuklearrisiko.be/de/faq) · [CDC: Decontamination for yourself and others](https://www.cdc.gov/radiation-emergencies/infographic/decontamination.html) · [CDC: How to self-decontaminate](https://cdc.gov/radiation-emergencies/prevention/self-decontaminate.html) · [Ready.gov: Radiation emergencies](https://www.ready.gov/radiation)
 
@@ -234,20 +233,20 @@ Radioaktives Material kann über Lebensmittel oder Trinkwasser zu einer inneren 
 
 ### Während des Schutzsuchens
 
-- Lebensmittel, die drinnen standen, können sicher gegessen werden (Ready.gov).
-- Lebensmittel in geschlossener Verpackung, die draußen standen, dürfen Sie essen, wenn Sie die Verpackung zuerst mit einem feuchten Tuch abwischen. Stecken Sie dieses Tuch in einen Plastiksack, weg von Menschen und Tieren (Ready.gov).
-- Essen Sie kein Gemüse aus dem Garten und nichts, was unbedeckt draußen stand, bis die Behörden sagen, dass es sicher ist (Ready.gov).
-- Lebensmittel, die vor dem Unfall verpackt und versiegelt waren, etwa in Dosen oder Plastik, sind sicher (WHO).
-- Befolgen Sie die Anweisungen der Behörden zu Trinkwasser und Lebensmitteln. Die Niederlande nennen als mögliche Maßnahmen ein Ernte- oder Schlachtverbot.
+- Lebensmittel, die drinnen standen, können sicher gegessen werden.
+- Lebensmittel in geschlossener Verpackung, die draußen standen, dürfen Sie essen, wenn Sie die Verpackung zuerst mit einem feuchten Tuch abwischen. Stecken Sie dieses Tuch in einen Plastiksack, weg von Menschen und Tieren.
+- Essen Sie kein Gemüse aus dem Garten und nichts, was unbedeckt draußen stand, bis die Behörden sagen, dass es sicher ist.
+- Lebensmittel, die vor dem Unfall verpackt und versiegelt waren, etwa in Dosen oder Plastik, sind sicher.
+- Befolgen Sie die Anweisungen der Behörden zu Trinkwasser und Lebensmitteln.
 
 Mehr über Lebensmittel nach dem Unfall finden Sie im Leitfaden „Nach der Wolke“.
 
-Quelle: [Nuklearrisiko: Schutz der Lebensmittelkette](https://nuklearrisiko.be/de/was-koennen-sie-tun/schutz-der-lebensmittelversorgung) · [Nuklearrisiko: häufig gestellte Fragen](https://nuklearrisiko.be/de/faq) · [Ready.gov: Radiation emergencies](https://www.ready.gov/radiation) · [WHO: Radioactivity in food after a nuclear emergency](https://www.who.int/news-room/questions-and-answers/item/radioactivity-in-food-after-a-nuclear-emergency) · [Rijksoverheid: Hoe kan ik mezelf beschermen bij een kernongeval](https://www.rijksoverheid.nl/onderwerpen/straling/vraag-en-antwoord/hoe-kan-ik-mezelf-beschermen-bij-een-kernongeval)
+Quelle: [Nuklearrisiko: Schutz der Lebensmittelkette](https://nuklearrisiko.be/de/was-koennen-sie-tun/schutz-der-lebensmittelversorgung) · [Nuklearrisiko: häufig gestellte Fragen](https://nuklearrisiko.be/de/faq) · [Ready.gov: Radiation emergencies](https://www.ready.gov/radiation) · [WHO: Radioactivity in food after a nuclear emergency](https://www.who.int/news-room/questions-and-answers/item/radioactivity-in-food-after-a-nuclear-emergency)
 
 ## Tiere
 
-- **Haustiere:** Holen Sie sie beim Schutz suchen herein (Nuklearrisiko). Waschen Sie ein Haustier, das draußen war, vorsichtig mit Shampoo oder Seife und Wasser und spülen Sie gut nach (CDC). Ready.gov empfiehlt, zuerst das Fell sanft auszubürsten.
-- **Vieh:** Die Behörden können ein Weideverbot verhängen und verlangen, dass das Vieh in den Stall kommt. Die WHO empfiehlt, wenn es sicher möglich ist, Vieh von der Weide in einen Stall zu bringen, Futter und Heu draußen mit Plastik oder Plane abzudecken und Gewächshäuser zu schließen.
+- **Haustiere:** Holen Sie sie beim Schutz suchen herein. War ein Haustier draußen, bürsten Sie zuerst das Fell sanft aus. Waschen Sie es danach vorsichtig mit Shampoo oder Seife und Wasser und spülen Sie gut nach.
+- **Vieh:** Die Behörden können ein Weideverbot verhängen und verlangen, dass das Vieh in den Stall kommt. Bringen Sie Vieh, wenn es sicher möglich ist, von der Weide in einen Stall. Decken Sie Futter und Heu draußen mit Plastik oder Plane ab und schließen Sie Gewächshäuser.
 - **Bei einer Evakuierung:** Menschen haben Vorrang vor Tieren. Wer mit eigenem Fahrzeug evakuiert, darf seine Haustiere nach Möglichkeit mitnehmen; mit öffentlichen Verkehrsmitteln ist das grundsätzlich nicht möglich. Eine Evakuierung von Vieh wird nur in Betracht gezogen, wenn das Vieh nicht ausreichend aufgestallt werden kann, das Gebiet klein genug ist und genug Zeit ohne Kontaminationsgefahr bleibt.
 
 Quelle: [Nuklearrisiko: Schutz suchen, der beste Schutz](https://nuklearrisiko.be/de/was-koennen-sie-tun/aufenthalt-geschlossenen-raeumen-die-beste-schutzmassnahme) · [Nuklearrisiko: Schutz der Lebensmittelkette](https://nuklearrisiko.be/de/was-koennen-sie-tun/schutz-der-lebensmittelversorgung) · [Nuklearrisiko: häufig gestellte Fragen](https://nuklearrisiko.be/de/faq) · [CDC: What to do, get inside](https://cdc.gov/radiation-emergencies/response/get-inside.html) · [Ready.gov: Radiation emergencies](https://www.ready.gov/radiation) · [WHO: Radioactivity in food after a nuclear emergency](https://www.who.int/news-room/questions-and-answers/item/radioactivity-in-food-after-a-nuclear-emergency)
@@ -258,17 +257,17 @@ Quelle: [Nuklearrisiko: Schutz suchen, der beste Schutz](https://nuklearrisiko.b
 - Kinder sind in der Schule in sicheren Händen. Sie befolgen dieselben Empfehlungen. Schulen müssen einen internen Notfallplan erstellen und werden gebeten, Jodtabletten bereitzuhalten.
 - Muss evakuiert werden, sorgen die lokalen Behörden, sofern nicht anders mitgeteilt, für die Evakuierung der Kinder zu einem Sammelpunkt.
 - Die Schule teilt über ihre eigenen Kanäle mit, wie und wann Sie Ihr Kind abholen können.
-- Kinder sind empfindlicher gegenüber Strahlung als Erwachsene, sagt die WHO. Deshalb ist es besonders wichtig, dass sie die Schutzmaßnahmen befolgen und nach der Notsituation ärztlich nachbetreut werden, sobald die Behörden sagen, dass es sicher ist.
+- Kinder sind empfindlicher gegenüber Strahlung als Erwachsene. Deshalb ist es besonders wichtig, dass sie die Schutzmaßnahmen befolgen und nach der Notsituation ärztlich nachbetreut werden, sobald die Behörden sagen, dass es sicher ist.
 
 Quelle: [Nuklearrisiko: häufig gestellte Fragen](https://nuklearrisiko.be/de/faq) · [Nationales Krisenzentrum: Schutz suchen](https://krisenzentrum.be/de/was-koennen-sie-tun/der-richtige-reflex/schutz-suchen) · [WHO: Radiation and health](https://www.who.int/news-room/questions-and-answers/item/radiation-and-health)
 
 ## Schutzbedürftige Personen und medizinische Notfälle
 
 - Menschen, die bei einer Evakuierung die Zone nicht aus eigener Kraft verlassen können, erhalten Hilfe von den Hilfsdiensten. Bei einer Evakuierung wird kontrolliert, ob alle ihre Wohnung verlassen haben.
-- Brauchen Sie während des Schutzsuchens medizinische Hilfe, zum Beispiel bei einer Geburt, rufen Sie wie immer 112 an. Die Polizei kontrolliert den Zugang zur Zone. Unter bestimmten Bedingungen und mit dem nötigen Schutz können Hilfsdienste in der Zone helfen.
+- Brauchen Sie während des Schutzsuchens medizinische Hilfe, zum Beispiel bei einer Geburt, rufen Sie wie immer 112 an. Kommt kein Anruf zustande, lassen Sie jemand anderen anrufen oder bitten Sie in Ihrer Umgebung um Hilfe (siehe Notrufnummern in der App, Wenn kein Anruf möglich ist). Die Polizei kontrolliert den Zugang zur Zone. Unter bestimmten Bedingungen und mit dem nötigen Schutz können Hilfsdienste in der Zone helfen.
 - Besprechen Sie vorab mit Ihrem Hausarzt, was Sie mit Ihren Medikamenten tun und ob Sie Jodtabletten einnehmen dürfen (siehe den Leitfaden zu Jod).
 
-Quelle: [Nuklearrisiko: häufig gestellte Fragen](https://nuklearrisiko.be/de/faq)
+Quelle: [Nuklearrisiko: häufig gestellte Fragen](https://nuklearrisiko.be/de/faq) · [112.be: Häufig gestellte Fragen](https://112.be/de/haeufig-gestellte-fragen) · [FÖD Wirtschaft: Fragen von Haushalten zur Stromknappheit](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door)
 
 ## Evakuierung
 
@@ -301,7 +300,7 @@ Quelle: [Nuklearrisiko: Evakuierung](https://nuklearrisiko.be/de/was-koennen-sie
 - Nehmen Sie keine Jodtabletten aus eigenem Antrieb ein, auch nicht bei einem Unfall in einem Nachbarland.
 - Gehen Sie nicht nach draußen, weil Sie Jodtabletten eingenommen haben.
 - Telefonieren Sie nicht unnötig.
-- Verwenden Sie keine Haarspülung, wenn Sie Ihre Haare nach einer Kontamination waschen (CDC).
+- Verwenden Sie keine Haarspülung, wenn Sie Ihre Haare nach einer Kontamination waschen.
 - Essen Sie kein Gemüse aus dem Garten und trinken Sie keine Milch aus nicht gewerblichen Kreisläufen, solange die Behörden das nicht erlauben.
 
 Quelle: [Nuklearrisiko: häufig gestellte Fragen](https://nuklearrisiko.be/de/faq) · [Nuklearrisiko: Schutz der Lebensmittelkette](https://nuklearrisiko.be/de/was-koennen-sie-tun/schutz-der-lebensmittelversorgung) · [CDC: Decontamination for yourself and others](https://www.cdc.gov/radiation-emergencies/infographic/decontamination.html)
@@ -309,10 +308,12 @@ Quelle: [Nuklearrisiko: häufig gestellte Fragen](https://nuklearrisiko.be/de/fa
 ## Vorbereiten
 
 - Prüfen Sie, ob Sie in einer Notfallplanungszone wohnen.
+- Legen Sie ein Radio mit Batterien oder ein Kurbelradio bereit, mit Ersatzbatterien.
 - Registrieren Sie sich bei BE-Alert, für Ihre Wohnadresse und die von Schule und Arbeitsplatz.
+- Vereinbaren Sie mit Ihrer Familie, wo Sie sich wiederfinden, wenn Sie einander nicht erreichen können.
 - Holen Sie Jodtabletten ins Haus, wenn Sie zu einer Zielgruppe gehören (siehe den Leitfaden zu Jod).
-- Lernen Sie, wie Sie zu Hause die Lüftung ausschalten, und besprechen Sie die Schritte des Schutzsuchens mit Ihrer Familie (Finnland).
-- Halten Sie Klebeband bereit, um Fenster, Türen und Öffnungen abzudichten (Finnland).
-- Legen Sie pro Familienmitglied einen Satz Ersatzkleidung und einen Müllsack für kontaminierte Kleidung bereit, zusammen mit verpackten Lebensmitteln, Wasser und Medikamenten (Ready.gov).
+- Lernen Sie, wie Sie zu Hause die Lüftung ausschalten, und besprechen Sie die Schritte des Schutzsuchens mit Ihrer Familie.
+- Halten Sie Klebeband bereit, um Fenster, Türen und Öffnungen abzudichten.
+- Legen Sie pro Familienmitglied einen Satz Ersatzkleidung und einen Müllsack für kontaminierte Kleidung bereit, zusammen mit verpackten Lebensmitteln, Wasser und Medikamenten.
 
-Quelle: [Nationales Krisenzentrum: Zwischenfall in einem Kernkraftwerk](https://krisenzentrum.be/de/risiken-belgien/technologische-risiken/zwischenfall-einer-nuklearanlage) · [Nationales Krisenzentrum: Broschüre Gemeinsam vorbereitet](https://krisenzentrum.be/sites/default/files/documents/files/WEB-Brosch%C3%BCre%20Gemeinsam%20Vorbereitet-DE.pdf) · [Suomi.fi: Radiation hazards](https://www.suomi.fi/guides/preparedness/how-to-prepare-for-incidents-and-crises/radiation-hazards) · [Ready.gov: Radiation emergencies](https://www.ready.gov/radiation)
+Quelle: [Nationales Krisenzentrum: Zwischenfall in einem Kernkraftwerk](https://krisenzentrum.be/de/risiken-belgien/technologische-risiken/zwischenfall-einer-nuklearanlage) · [Nationales Krisenzentrum: Broschüre Gemeinsam vorbereitet](https://krisenzentrum.be/sites/default/files/documents/files/WEB-Brosch%C3%BCre%20Gemeinsam%20Vorbereitet-DE.pdf) · [Suomi.fi: Radiation hazards](https://www.suomi.fi/guides/preparedness/how-to-prepare-for-incidents-and-crises/radiation-hazards) · [Ready.gov: Radiation emergencies](https://www.ready.gov/radiation) · [Nationales Krisenzentrum: Störung der digitalen Infrastruktur](https://krisenzentrum.be/de/risiken-belgien/maatschappelijke-risicos/ausfall-der-digitalen-infrastruktur)

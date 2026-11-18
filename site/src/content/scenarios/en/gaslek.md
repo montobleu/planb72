@@ -8,6 +8,7 @@ stappen:
   - "Open windows and doors wide."
   - "Leave the building with everyone. Knock on the neighbours' doors to warn them."
   - "From outside, call the free gas odour number of your network operator: Fluvius 0800 65 0 65, ORES 0800 87 087. In case of fire, an explosion or injuries: call 112."
+  - "If you cannot get through, have someone else call or ask for help nearby (see Emergency numbers, If you cannot call)."
   - "Wait outside, at a safe distance, until the response team arrives."
 niet:
   - "Do not operate any switch or electrical appliance in the room."
@@ -16,7 +17,7 @@ niet:
   - "Do not put out a gas fire at a leak yourself."
   - "Do not store propane or butane bottles in the cellar."
 status: concept
-datum: "2026-11-17"
+datum: "2026-11-18"
 bronnen:
   - naam: "Fluvius: gas odour"
     url: https://www.fluvius.be/nl/gasgeur
@@ -36,8 +37,16 @@ bronnen:
     url: https://crisiscenter.be/en/what-can-you-do/build-emergency-kit/emergency-kit-home
   - naam: "Denk vooruit: questions and answers (source file November 2025)"
     url: https://www.denkvooruit.nl/site/binaries/site-content/collections/documents/2025/10/27/toolkit-denk-vooruit-campagne-najaar-2025/20251111-qa-denkvooruit-bronbestand.pdf
+  - naam: "112.be: Frequently asked questions"
+    url: https://112.be/en/frequently-asked-questions
+  - naam: "National Crisis Center: a plan for people who need extra help"
+    url: https://crisiscenter.be/en/what-can-you-do/make-plan/people-who-need-additional-help
+  - naam: "FPS Economy: questions from households about electricity shortages"
+    url: https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door
+  - naam: "National Crisis Center: information during an emergency"
+    url: https://crisiscenter.be/en/what-can-you-do/stay-informed/get-informed-emergency-situation
 vertaling: machine
-origineel_datum: "2026-11-17"
+origineel_datum: "2026-11-18"
 ---
 
 ## Recognise
@@ -73,8 +82,8 @@ Source: [National Crisis Center: fire or explosion](https://crisiscenter.be/en/r
 - Write down the gas odour number of your network operator on your paper list of emergency numbers:
   - Fluvius (Flanders): 0800 65 0 65, free, day and night. Calls to this number get priority.
   - ORES (most of Wallonia): 0800 87 087, free, day and night.
-  - If you live in Brussels (Sibelga) or in part of the province of Liège (RESA), look up the gas odour number on your network operator's website.
-- Deaf or hard of hearing: Fluvius has a contact form for reporting a gas smell for people who cannot phone.
+  - If you live in Brussels (Sibelga) or in part of the province of Liège (RESA), look up the gas odour number on your network operator's website in advance and write it down.
+- Deaf or hard of hearing: Fluvius has a contact form for reporting a gas smell for people who cannot phone, but only via the internet. So also agree with members of your household or neighbours that they will call for you.
 
 **Maintenance**
 
@@ -90,7 +99,7 @@ Source: [National Crisis Center: fire or explosion](https://crisiscenter.be/en/r
 
 - Agree who helps whom to get outside, and where you will gather outside.
 
-Source: [Fluvius: gas odour](https://www.fluvius.be/nl/gasgeur) · [ORES](https://www.ores.be/faq/plus-delectricite-ou-de-gaz) · [Speel niet met vuur: CO](https://speelnietmetvuur.be/co/) · [KCCE: Fire safety for older people](http://kcce.eu/sites/default/files/explorer/partie_s_incendie/brandveiligheid_ouderen_2017.pdf) · [National Crisis Center: evacuating](https://crisiscenter.be/en/what-can-you-do/right-reflex/evacuate) · [National Crisis Center: emergency kit](https://crisiscenter.be/en/what-can-you-do/build-emergency-kit/emergency-kit-home) · [Denk vooruit: questions and answers](https://www.denkvooruit.nl/site/binaries/site-content/collections/documents/2025/10/27/toolkit-denk-vooruit-campagne-najaar-2025/20251111-qa-denkvooruit-bronbestand.pdf)
+Source: [Fluvius: gas odour](https://www.fluvius.be/nl/gasgeur) · [ORES](https://www.ores.be/faq/plus-delectricite-ou-de-gaz) · [Speel niet met vuur: CO](https://speelnietmetvuur.be/co/) · [KCCE: Fire safety for older people](http://kcce.eu/sites/default/files/explorer/partie_s_incendie/brandveiligheid_ouderen_2017.pdf) · [National Crisis Center: evacuating](https://crisiscenter.be/en/what-can-you-do/right-reflex/evacuate) · [National Crisis Center: emergency kit](https://crisiscenter.be/en/what-can-you-do/build-emergency-kit/emergency-kit-home) · [Denk vooruit: questions and answers](https://www.denkvooruit.nl/site/binaries/site-content/collections/documents/2025/10/27/toolkit-denk-vooruit-campagne-najaar-2025/20251111-qa-denkvooruit-bronbestand.pdf) · [National Crisis Center: a plan for people who need extra help](https://crisiscenter.be/en/what-can-you-do/make-plan/people-who-need-additional-help) · [112.be: Frequently asked questions](https://112.be/en/frequently-asked-questions)
 
 ## During
 
@@ -109,16 +118,18 @@ Source: [Fluvius: gas odour](https://www.fluvius.be/nl/gasgeur) · [ORES](https:
 
 The response team sets off immediately after your call, measures the gas concentration on site and looks for the leak.
 
+If you cannot get through, have someone else call or ask for help nearby, always in a place where you cannot smell gas. See Emergency numbers in the app, If you cannot call.
+
 **Gas fire or explosion**
 
 - Stay well away.
 - Let the fire burn as long as the leak has not been repaired. Do not try to put it out.
-- Call 112 and then your network operator's gas odour number.
+- Call 112 and then your network operator's gas odour number. If you cannot get through, see above.
 
 **Pressure too high or too low, or no natural gas**
 
 - Turn off the gas meter valve and switch off your gas appliances.
-- Report the fault to your network operator. For Fluvius this is the fault number 078 35 35 00.
+- Report the fault to your network operator if you can get through by phone. For Fluvius this is the fault number 078 35 35 00.
 
 **Suspected CO poisoning**
 
@@ -126,11 +137,11 @@ The response team sets off immediately after your call, measures the gas concent
 2. Open windows and doors.
 3. Switch off the gas appliance if it is safe to do so.
 4. Leave the room and bring the casualty outside.
-5. Call 112. Say that it may be CO and whether anyone is unconscious.
+5. Call 112 or have someone call. Say that it may be CO and whether anyone is unconscious. If you cannot get through, see above.
 6. Start resuscitation if the casualty is not breathing. Put someone who is unconscious but breathing in the recovery position.
-7. For questions where there is no immediate danger: Poison Centre 070 245 245, or a qualified installer.
+7. For questions where there is no immediate danger, if the network is working: Poison Centre 070 245 245, or a qualified installer.
 
-Source: [Fluvius: gas odour](https://www.fluvius.be/nl/gasgeur) · [ORES](https://www.ores.be/faq/plus-delectricite-ou-de-gaz) · [Speel niet met vuur: CO](https://speelnietmetvuur.be/co/) · [Poison Centre: CO poisoning](https://www.antigifcentrum.be/Toxinfos/co-vergiftiging/)
+Source: [Fluvius: gas odour](https://www.fluvius.be/nl/gasgeur) · [ORES](https://www.ores.be/faq/plus-delectricite-ou-de-gaz) · [Speel niet met vuur: CO](https://speelnietmetvuur.be/co/) · [Poison Centre: CO poisoning](https://www.antigifcentrum.be/Toxinfos/co-vergiftiging/) · [112.be: Frequently asked questions](https://112.be/en/frequently-asked-questions) · [FPS Economy: questions from households about electricity shortages](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door)
 
 ### Outdoors or on the move
 
@@ -138,16 +149,17 @@ Source: [Fluvius: gas odour](https://www.fluvius.be/nl/gasgeur) · [ORES](https:
 
 - Avoid sparks, fire and anything that can ignite.
 - Stay well away.
-- Call your network operator's gas odour number.
+- Call your network operator's gas odour number. If that does not work, have someone else call or ask for help nearby.
 
 **A larger gas leak in your area**
 
 - Wait for the instructions of the authorities or the emergency services. Sometimes staying inside is safer than leaving.
+- They come via the radio and police loudspeaker vans, and if the network is working also via BE-Alert and government websites.
 - If you have to evacuate, take your identity card, money, water, mobile phone and charger, keys, your list of phone numbers, essential medicines and hygiene products. If there is immediate danger and you do not have an emergency bag ready, leave immediately without taking anything.
 - Help neighbours with reduced mobility.
 - Only return when the authorities say it is safe.
 
-Source: [Fluvius: gas odour](https://www.fluvius.be/nl/gasgeur) · [National Crisis Center: evacuating](https://crisiscenter.be/en/what-can-you-do/right-reflex/evacuate)
+Source: [Fluvius: gas odour](https://www.fluvius.be/nl/gasgeur) · [National Crisis Center: evacuating](https://crisiscenter.be/en/what-can-you-do/right-reflex/evacuate) · [National Crisis Center: information during an emergency](https://crisiscenter.be/en/what-can-you-do/stay-informed/get-informed-emergency-situation) · [112.be: Frequently asked questions](https://112.be/en/frequently-asked-questions)
 
 ### In the car
 
@@ -173,10 +185,10 @@ Source: [National Crisis Center: evacuating](https://crisiscenter.be/en/what-can
 ### Vulnerable people
 
 - Agree who will help members of the household or neighbours with reduced mobility, and who will warn them.
-- Deaf and hard-of-hearing people who smell gas: go to a place where you can no longer smell gas and fill in the Fluvius contact form for deaf and hard-of-hearing people.
+- Deaf and hard-of-hearing people who smell gas: go to a place where you can no longer smell gas and ask neighbours or bystanders to call. If the internet is working, also fill in the Fluvius contact form for deaf and hard-of-hearing people.
 - Pregnant women, older people and people with cardiovascular disease, thyroid problems, asthma or anaemia are particularly sensitive to CO.
 
-Source: [National Crisis Center: evacuating](https://crisiscenter.be/en/what-can-you-do/right-reflex/evacuate) · [Fluvius: gas odour](https://www.fluvius.be/nl/gasgeur) · [Poison Centre: CO poisoning](https://www.antigifcentrum.be/Toxinfos/co-vergiftiging/)
+Source: [National Crisis Center: evacuating](https://crisiscenter.be/en/what-can-you-do/right-reflex/evacuate) · [Fluvius: gas odour](https://www.fluvius.be/nl/gasgeur) · [Poison Centre: CO poisoning](https://www.antigifcentrum.be/Toxinfos/co-vergiftiging/) · [112.be: Frequently asked questions](https://112.be/en/frequently-asked-questions)
 
 ### Pets and animals
 
@@ -187,7 +199,6 @@ Source: [National Crisis Center: evacuating](https://crisiscenter.be/en/what-can
 
 ## Afterwards
 
-- Stay at a safe distance as long as the leak has not been sealed.
 - Have your gas appliances and chimney checked regularly by a qualified professional. For questions where there is no urgent danger you can contact a certified installer.
 - After CO poisoning, nervous system symptoms can still appear after some time, such as irritability, memory problems or abnormal movements. These often disappear, but not always.
 

@@ -4,7 +4,7 @@ module: buiten
 volgorde: 2
 kort: "Si vous êtes bloqué à l'extérieur : ce qui passe en premier (le froid), construire un abri, s'isoler du sol, faire du feu en sécurité et selon les règles belges, trouver et purifier de l'eau, pourquoi vous ne mangez pas de plantes sauvages ni de champignons, et comment être retrouvé."
 status: concept
-datum: "2026-11-17"
+datum: "2026-11-18"
 bronnen:
   - naam: "US Army FM 21-76 Survival Manual (domaine public, copie sur archive.org)"
     url: https://archive.org/details/fm-21-76-survival-manual
@@ -43,12 +43,12 @@ bronnen:
   - naam: "Ready.gov: Evacuation"
     url: https://www.ready.gov/evacuation
 vertaling: machine
-origineel_datum: "2026-11-17"
+origineel_datum: "2026-11-18"
 ---
 
 ## Ce qui passe en premier
 
-Il n'existe pas d'ordre fixe qui vaut toujours. Les manuels de survie américains enseignent un « schéma de survie » : vous classez vos besoins par ordre d'importance, selon l'endroit où vous vous trouvez, et vous adaptez cet ordre quand les circonstances changent.
+Il n'existe pas d'ordre fixe qui vaut toujours. Classez vos besoins par ordre d'importance, selon l'endroit où vous vous trouvez, et adaptez cet ordre quand les circonstances changent.
 
 | Situation | Première priorité | Ensuite |
 | --- | --- | --- |
@@ -59,9 +59,17 @@ Il n'existe pas d'ordre fixe qui vaut toujours. Les manuels de survie américain
 - Par temps froid, un abri peut être plus important que la nourriture, et peut-être même que l'eau. Une exposition prolongée au froid vous épuise et vous affaiblit, et une personne épuisée peut perdre la volonté de survivre.
 - Même par temps froid, vous avez besoin d'au moins 2 litres d'eau par jour pour continuer à bien fonctionner.
 - Vous pouvez tenir plusieurs semaines sans nourriture, mais sans manger vous vous affaiblissez vite, physiquement et mentalement.
-- Appelez à l'aide si vous le pouvez. Voir le guide sur l'appel d'urgence. Laissez toujours un plan de randonnée à quelqu'un qui reste à la maison.
+- Laissez toujours un plan de randonnée à quelqu'un qui reste à la maison.
 
-Source : [US Army FM 21-76](https://archive.org/details/fm-21-76-survival-manual) · [US Army ATP 3-50.21](https://archive.org/details/survival-atp-3-50-21) · [National Park Service: Outdoor Emergency Plan](https://www.nps.gov/subjects/healthandsafety/upload/NPS-Outdoor-Emergency-Plan-508c.pdf)
+**Aller chercher de l'aide.** À l'extérieur, l'aide peut mettre des heures ou des jours à arriver. Ne comptez pas sur le fait d'avoir du réseau.
+
+1. Si vous avez du réseau : appelez le 112. Voir le guide sur l'appel d'urgence.
+2. Pas de réseau, mais quelqu'un à proximité : abordez les personnes que vous rencontrez et demandez-leur d'aller à un endroit où il y a du réseau pour y appeler le 112.
+3. En groupe avec un blessé : envoyez deux personnes ou plus donner l'alerte. Les autres restent auprès du blessé.
+4. Seul avec le blessé : aidez-le d'abord du mieux possible, puis allez chercher de l'aide.
+5. Personne à proximité : restez sur place et faites des signaux (voir Être retrouvé).
+
+Source : [US Army FM 21-76](https://archive.org/details/fm-21-76-survival-manual) · [US Army ATP 3-50.21](https://archive.org/details/survival-atp-3-50-21) · [National Park Service: Outdoor Emergency Plan](https://www.nps.gov/subjects/healthandsafety/upload/NPS-Outdoor-Emergency-Plan-508c.pdf) · [Centre de crise National : Incendie de végétation](https://centredecrise.be/fr/risques-en-belgique/risques-naturels/feu-de-foret)
 
 ## Reconnaître l'hypothermie
 
@@ -76,7 +84,7 @@ L'hypothermie survient quand votre corps perd plus de chaleur qu'il n'en produit
 - Difficulté à bouger et à parler.
 - Confusion, somnolence, perte de mémoire, comportement étrange, fatigue.
 
-**Appelez le 112 si** la personne ne frissonne plus, si les muscles se raidissent ou s'il y a des troubles de la conscience.
+**Appelez le 112 si** la personne ne frissonne plus, si les muscles se raidissent ou s'il y a des troubles de la conscience. Si l'appel ne passe pas, voir Ce qui passe en premier, Aller chercher de l'aide.
 
 **Ce que vous faites**
 
@@ -88,7 +96,7 @@ L'hypothermie survient quand votre corps perd plus de chaleur qu'il n'en produit
 6. Si la personne frissonne encore et est bien consciente : laissez-la se réchauffer dans un sac de couchage ou sous une couverture (avec une couverture de survie si vous en avez une), couvrez aussi la tête, donnez des vêtements secs et une boisson ou de la nourriture chaude et riche en sucre.
 7. Si elle ne frissonne plus ou n'est pas bien consciente : réchauffez-la activement, de préférence avec une couverture électrique, sinon avec des chaufferettes, des coussins de noyaux de cerises ou une bouillotte. Faites attention aux brûlures. Ne donnez alors **ni à manger ni à boire**.
 
-**Prévenir : le moyen mnémotechnique COLD de l'armée américaine**
+**Prévenir : le moyen mnémotechnique COLD**
 
 - **C**lean : gardez vos vêtements propres. Des vêtements sales isolent moins bien.
 - **O**verheating, éviter la surchauffe : la transpiration mouille vos vêtements et vous refroidit. Retirez une couche ou ouvrez votre veste avant de transpirer.
@@ -97,7 +105,7 @@ L'hypothermie survient quand votre corps perd plus de chaleur qu'il n'en produit
 
 Couvrez toujours votre tête : vous y perdez beaucoup de chaleur. L'alcool dilate les petits vaisseaux sanguins de la peau, ce qui vous fait perdre plus de chaleur.
 
-Source : [Rode Kruis-Vlaanderen : Que faire en cas d'hypothermie](https://www.gezondheidenwetenschap.be/eerste-hulp/wat-doen-bij-onderkoeling) · [Rode Kruis-Vlaanderen : Premiers secours aux sports d'hiver](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-wintersport) · [US Army FM 21-76](https://archive.org/details/fm-21-76-survival-manual) · [Centre de crise National : Vague de froid](https://centredecrise.be/fr/risques-en-belgique/risques-naturels/vague-de-froid)
+Source : [Rode Kruis-Vlaanderen : Que faire en cas d'hypothermie](https://www.gezondheidenwetenschap.be/eerste-hulp/wat-doen-bij-onderkoeling) · [Rode Kruis-Vlaanderen : Premiers secours aux sports d'hiver](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-wintersport) · [US Army FM 21-76](https://archive.org/details/fm-21-76-survival-manual) · [Centre de crise National : Vague de froid](https://centredecrise.be/fr/risques-en-belgique/risques-naturels/vague-de-froid) · [National Park Service: Outdoor Emergency Plan](https://www.nps.gov/subjects/healthandsafety/upload/NPS-Outdoor-Emergency-Plan-508c.pdf)
 
 ## Choisir un endroit pour votre abri
 
@@ -162,7 +170,7 @@ Source : [US Army FM 21-76](https://archive.org/details/fm-21-76-survival-manual
 
 ## S'isoler du sol
 
-- **Ne dormez jamais directement sur le sol.** Selon l'armée américaine, au repos, vous perdez jusqu'à 80 pour cent de la chaleur de votre corps dans le sol.
+- **Ne dormez jamais directement sur le sol.** Au repos, vous perdez jusqu'à 80 pour cent de la chaleur de votre corps dans le sol.
 - Placez sous vous des branches de sapin, de l'herbe, des feuilles, des aiguilles de pin ou un autre matériau isolant.
 - Dans une hutte de branches et de feuilles : une couche de 30 cm.
 - Dans un trou dans la neige ou une fosse : posez des branches vertes de conifère au fond.
@@ -189,7 +197,7 @@ Même à un endroit autorisé, c'est le **code de risque d'incendie de végétat
 | Orange | Interdiction générale de faire du feu, sauf les feux de cuisson au gaz ou en fosse |
 | Rouge | Interdiction de faire du feu sous quelque forme que ce soit |
 
-En Wallonie et à Bruxelles, des règles propres s'appliquent. Le Centre de crise renvoie au site web de l'Agentschap Natuur en Bos, à Wallonie.be, à la commune ou au domaine naturel pour le code couleur actuel.
+En Wallonie et à Bruxelles, des règles propres s'appliquent. Informez-vous à l'avance sur le risque d'incendie et le code couleur sur le site web de l'Agentschap Natuur en Bos, sur Wallonie.be, auprès de la commune ou du domaine naturel. Sur place : respectez les règles et consignes affichées à l'entrée de la zone naturelle.
 
 **Faire du feu en sécurité**
 
@@ -205,7 +213,7 @@ En Wallonie et à Bruxelles, des règles propres s'appliquent. Le Centre de cris
 
 **Comment fonctionne un feu.** Un feu a besoin de trois choses : de l'air, de la chaleur et du combustible. Si vous en retirez une, il s'éteint. Il vous faut trois sortes de matériaux : de l'**amadou** qui s'enflamme avec une étincelle (tout à fait sec), du **petit bois** qui brûle vite, et du **bois de chauffage** qui brûle lentement et régulièrement. Montez-les dans cet ordre, par exemple en tipi.
 
-**Si vous voyez un incendie de végétation :** appelez le 112. Suivez les chemins existants pour vous éloigner du feu et de la fumée, si possible perpendiculairement à la direction du vent. Fuyez vers une voie publique, un grand terrain revêtu ou l'agglomération.
+**Si vous voyez un incendie de végétation :** mettez-vous en sécurité. Suivez les chemins existants pour vous éloigner du feu et de la fumée, si possible perpendiculairement à la direction du vent. Fuyez vers une voie publique, un grand terrain revêtu ou l'agglomération. Aidez les autres à rejoindre un endroit sûr. Appelez le 112 le plus vite possible et donnez des points reconnaissables, comme des chemins, des étangs, des tours d'observation ou des parkings. Si vous n'avez pas de réseau, évacuez le plus vite possible et abordez les personnes que vous rencontrez.
 
 Source : [Vlaanderen.be : Faire du feu dans ou à proximité d'une zone naturelle](https://www.vlaanderen.be/natuur-milieu-en-klimaat/wat-mag-u-als-bezoeker-doen-in-de-vlaamse-natuur/vuur-maken-in-of-nabij-een-natuurgebied-kampvuur-kookvuur-fakkeltocht) · [Centre de crise National : Incendie de végétation](https://centredecrise.be/fr/risques-en-belgique/risques-naturels/feu-de-foret) · [US Army FM 21-76](https://archive.org/details/fm-21-76-survival-manual)
 
@@ -215,7 +223,7 @@ Source : [Vlaanderen.be : Faire du feu dans ou à proximité d'une zone naturell
 - Rosée : attachez des chiffons ou des touffes d'herbe fine autour de vos chevilles et marchez avant le lever du soleil dans l'herbe couverte de rosée. Essorez l'eau dans un récipient.
 - L'eau s'accumule parfois dans les fourches des arbres ou les fentes des rochers.
 - Les animaux qui broutent (y compris les cerfs) indiquent mieux le chemin vers l'eau que les prédateurs. Les abeilles vont rarement plus loin qu'environ six kilomètres (quatre miles) de leur nid et ont en général de l'eau dans ce rayon.
-- L'eau de pluie recueillie dans des récipients propres est en général sûre selon le manuel américain. L'eau des lacs, des étangs, des marais, des sources et des ruisseaux doit être purifiée, surtout à proximité d'habitations.
+- L'eau de pluie recueillie dans des récipients propres est en général sûre. L'eau des lacs, des étangs, des marais, des sources et des ruisseaux doit être purifiée, surtout à proximité d'habitations.
 - En Flandre, beaucoup de plans d'eau sont pollués, trop profonds, trop froids ou dangereux d'une autre manière. Faites attention aux panneaux concernant les algues bleues.
 
 **Ne buvez jamais** : de l'eau de mer, de l'urine ou de l'alcool.
@@ -226,7 +234,7 @@ Source : [US Army FM 21-76](https://archive.org/details/fm-21-76-survival-manual
 
 | Méthode | Ce qu'elle fait | Limites |
 | --- | --- | --- |
-| **Faire bouillir** (meilleur choix) | Le CDC conseille de faire bouillir l'eau une minute entière. Cela tue les agents pathogènes, aussi aux altitudes où se rendent en général les voyageurs. | Il vous faut un feu ou un réchaud. Les substances chimiques restent. |
+| **Faire bouillir** (meilleur choix) | Faites bouillir l'eau une minute entière. Cela tue les agents pathogènes, aussi aux altitudes où se rendent en général les voyageurs. | Il vous faut un feu ou un réchaud. Les substances chimiques restent. |
 | **Filtre** avec des pores de moins de 1 µm | Élimine les bactéries et les parasites (protozoaires) | N'élimine pas de façon fiable les virus (par exemple le norovirus) |
 | **Chlore ou iode** | Agit contre les bactéries et les virus | Agit mal contre Cryptosporidium aux concentrations pratiques. Suivez toujours le mode d'emploi du produit. |
 | **Dioxyde de chlore** | Agit contre tous les agents pathogènes de l'eau, y compris Cryptosporidium | Suivez le mode d'emploi du produit |
@@ -244,12 +252,12 @@ Source : [CDC Yellow Book: Water disinfection for travelers](https://www.cdc.gov
 
 ## Nourriture : soyez extrêmement prudent
 
-**Vous en avez moins urgemment besoin que vous ne le pensez.** Vous pouvez tenir plusieurs semaines sans nourriture. L'eau, la chaleur et le fait d'être retrouvé passent d'abord. Le manuel américain déconseille même de manger si vous n'avez pas d'eau.
+**Vous en avez moins urgemment besoin que vous ne le pensez.** Vous pouvez tenir plusieurs semaines sans nourriture. L'eau, la chaleur et le fait d'être retrouvé passent d'abord. Mieux vaut ne pas manger si vous n'avez pas d'eau.
 
 **Champignons : ne les mangez pas.**
 
-- L'armée américaine est claire : ne mangez pas de champignons dans une situation de survie. Seule une identification certaine suffit, et il n'y a pas de place pour l'expérimentation. Certains champignons tuent rapidement, pour certains il n'existe pas d'antidote.
-- Le Centre Antipoisons dit la même chose : il n'existe **aucune astuce** pour distinguer un champignon comestible d'un champignon toxique. Les jeunes champignons ne sont pas toujours comestibles. Les champignons blancs peuvent être toxiques. Un champignon toxique peut avoir bon goût. Les limaces mangent aussi des espèces toxiques. La cuisson, le séchage ou la congélation ne rendent pas inoffensif le poison de l'amanite phalloïde. Un seul exemplaire peut déjà être très grave.
+- Ne mangez pas de champignons dans une situation de survie. Seule une identification certaine suffit, et il n'y a pas de place pour l'expérimentation. Certains champignons tuent rapidement, pour certains il n'existe pas d'antidote.
+- Il n'existe **aucune astuce** pour distinguer un champignon comestible d'un champignon toxique. Les jeunes champignons ne sont pas toujours comestibles. Les champignons blancs peuvent être toxiques. Un champignon toxique peut avoir bon goût. Les limaces mangent aussi des espèces toxiques. La cuisson, le séchage ou la congélation ne rendent pas inoffensif le poison de l'amanite phalloïde. Un seul exemplaire peut déjà être très grave.
 - Identifier un champignon à l'aide d'un livre ou d'une photo est très dangereux.
 - **En Flandre et à Bruxelles, la cueillette de champignons dans les domaines publics est interdite.** En Wallonie, elle est limitée : avec l'accord du propriétaire, entre le lever et le coucher du soleil, 10 litres au maximum par personne, et pas pendant la saison de chasse dans les bois domaniaux.
 
@@ -264,10 +272,10 @@ Source : [CDC Yellow Book: Water disinfection for travelers](https://www.cdc.gov
 **Quelqu'un a quand même mangé quelque chose ?**
 
 1. Retirez les restes de plante de la bouche et donnez un verre d'eau.
-2. Appelez le Centre Antipoisons (070 245 245) ou le médecin généraliste.
+2. Contactez le Centre Antipoisons (070 245 245, si le réseau fonctionne) ou le médecin généraliste.
 3. Gardez la plante : emportez une branche entière avec feuilles et fleurs ou fruits, ou prenez des photos.
 4. Pour les champignons : gardez les restes (crus, cuits, épluchés). Le Centre Antipoisons demande quels champignons, où ils ont été cueillis, comment ils ont été conservés et préparés, combien de temps entre le repas et les symptômes, et si toutes les personnes qui en ont mangé sont malades.
-5. En cas de symptômes graves : appelez le 112.
+5. En cas de symptômes graves : appelez le 112. Si l'appel ne passe pas, voir Ce qui passe en premier, Aller chercher de l'aide.
 
 Source : [US Army FM 21-76](https://archive.org/details/fm-21-76-survival-manual) · [Centre Antipoisons : Conseils aux cueilleurs de champignons](https://www.centreantipoisons.be/tox-infos/conseils-aux-ramasseurs-de-champignons/) · [Centre Antipoisons : Intoxication par les plantes](https://www.centreantipoisons.be/tox-infos/vergiftiging-door-planten/) · [Centre Antipoisons : Baies](https://www.centreantipoisons.be/tox-infos/baies/) · [Vlaanderen.be : Que pouvez-vous faire en tant que visiteur dans la nature flamande ?](https://www.vlaanderen.be/natuur-milieu-en-klimaat/wat-mag-u-als-bezoeker-doen-in-de-vlaamse-natuur)
 
@@ -276,7 +284,7 @@ Source : [US Army FM 21-76](https://archive.org/details/fm-21-76-survival-manual
 1. **Avant de partir :** laissez un plan de randonnée à quelqu'un qui reste à la maison. Si vous devez quitter votre maison lors d'une situation d'urgence, laissez un mot indiquant quand vous êtes parti et où vous allez.
 2. **Restez où vous êtes** si vous êtes perdu. Ne vous déplacez qu'en cas de danger de mort immédiat.
 3. **Rendez-vous visible :** portez des vêtements de couleur vive, disposez votre bâche ou des pierres en une forme visible d'en haut.
-4. **Faites des signaux :** sifflez trois fois, pause, à nouveau trois fois. Faites clignoter SOS avec une lampe. Faites des éclats avec un miroir en direction des avions.
+4. **Faites des signaux :** sifflez trois fois, pause, à nouveau trois fois. Faites clignoter SOS avec une lampe. Faites des éclats avec un miroir en direction des avions. Un miroir n'a pas besoin de pile.
 5. **Économisez votre énergie.** Sifflez au lieu de crier.
 6. Ne faites pas de feu en cas de risque d'incendie élevé.
 
@@ -290,17 +298,17 @@ Même en Belgique, il peut faire dehors une chaleur dangereuse pour la vie. Un c
 
 **Reconnaître :** maux de tête, voir des taches noires, vertiges ou évanouissement, nausées et vomissements, crampes musculaires ou abdominales, peau rouge, d'abord une forte transpiration puis plus du tout, convulsions, confusion ou somnolence.
 
-**Appelez le 112 en cas de** troubles de la conscience, de comportement anormal, de convulsions, si la personne ne transpire plus ou ne peut pas boire sans vomir, ou en cas de température corporelle supérieure à 39 °C.
+**Appelez le 112 en cas de** troubles de la conscience, de comportement anormal, de convulsions, si la personne ne transpire plus ou ne peut pas boire sans vomir, ou en cas de température corporelle supérieure à 39 °C. Si l'appel ne passe pas : faites aller chercher de l'aide et commencez entre-temps à refroidir la personne (voir Ce qui passe en premier, Aller chercher de l'aide).
 
 **Ce que vous faites :** laissez la personne se reposer dans un endroit frais et refroidissez-la immédiatement : un ventilateur, des linges froids et mouillés ou des poches de froid dans l'aine, sous les aisselles et sur la nuque, l'asperger d'eau froide, mains et pieds dans l'eau froide. Si le coup de chaleur est dû à un effort et que la personne est bien consciente, donnez-lui quelque chose de frais à boire. Ne donnez pas de médicament contre la fièvre.
 
 **Prévenir :** évitez les efforts intenses par forte chaleur, buvez suffisamment, cherchez l'ombre, portez des vêtements légers, ne buvez pas d'alcool. Ne laissez jamais des personnes ou des animaux dans une voiture au soleil.
 
-Source : [Rode Kruis-Vlaanderen : Premiers secours en cas de coup de chaleur](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-hitteslag-of-hitteberoerte)
+Source : [Rode Kruis-Vlaanderen : Premiers secours en cas de coup de chaleur](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-hitteslag-of-hitteberoerte) · [National Park Service: Outdoor Emergency Plan](https://www.nps.gov/subjects/healthandsafety/upload/NPS-Outdoor-Emergency-Plan-508c.pdf)
 
 ## Par personne
 
-| Qui | Ce que disent les sources |
+| Qui | Ce que vous faites |
 | --- | --- |
 | Enfants | Apprenez-leur : reste où tu es si tu es perdu, cherche un arbre (ou un banc, un réverbère, une grosse pierre), écoute si tu entends ton nom, fais des signes, siffle, fais clignoter une lampe. Les petits enfants mettent souvent des baies, des feuilles ou des champignons en bouche ; gardez-les à l'œil. |
 | Groupes | Restez ensemble. Si quelqu'un doit quitter le groupe, ce sera avec un équipier. Veillez les uns sur les autres pour repérer les lésions dues au froid et à la chaleur. En cas de blessé : deux personnes ou plus vont chercher de l'aide, les autres restent. |

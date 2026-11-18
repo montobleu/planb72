@@ -1,9 +1,9 @@
 ---
 titel: Ertrinken
 volgorde: 14
-kort: "Gehen Sie ohne Ausbildung nicht selbst ins Wasser. Reichen oder werfen Sie etwas zu. Atmet die ertrinkende Person nicht: Geben Sie zuerst 5 Beatmungen und beginnen Sie dann mit der Wiederbelebung. Rufen Sie immer 112 an."
+kort: "Gehen Sie ohne Ausbildung nicht selbst ins Wasser. Reichen oder werfen Sie etwas zu. Atmet die ertrinkende Person nicht: Geben Sie zuerst 5 Beatmungen und beginnen Sie dann mit der Wiederbelebung. Lassen Sie immer 112 anrufen oder Hilfe holen."
 status: concept
-datum: "2026-11-17"
+datum: "2026-11-18"
 bronnen:
   - naam: "Gezondheid en Wetenschap (Rode Kruis-Vlaanderen): Erste Hilfe bei Ertrinken"
     url: https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-verdrinking
@@ -15,8 +15,12 @@ bronnen:
     url: https://www.gezondheidenwetenschap.be/eerste-hulp/wat-doen-bij-onderkoeling
   - naam: "Gezondheid en Wetenschap (Rode Kruis-Vlaanderen): Erste Hilfe bei Wirbelsäulenverletzungen"
     url: https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-wervelletsels
+  - naam: "European Resuscitation Council Guidelines 2021: First aid"
+    url: https://cprguidelines-old.erc.edu/assets/guidelines/European-Resuscitation-Council-Guidelines-2021-Fi.pdf
+  - naam: "112.be: Häufig gestellte Fragen"
+    url: https://112.be/de/haeufig-gestellte-fragen
 vertaling: machine
-origineel_datum: "2026-11-17"
+origineel_datum: "2026-11-18"
 ---
 
 ## Erkennen
@@ -40,17 +44,17 @@ Quelle: [Gezondheid en Wetenschap: Ertrinken](https://www.gezondheidenwetenschap
 
 ### Die Rettung
 
-1. Rufen Sie um Hilfe und lassen Sie jemanden 112 anrufen.
+1. Rufen Sie um Hilfe und lassen Sie jemanden 112 anrufen. Kommt kein Anruf zustande, lassen Sie diese Person Hilfe holen (siehe Rufen Sie 112 an, wenn).
 2. Versuchen Sie zu retten, ohne selbst ins Wasser zu gehen. Verwenden Sie Rettungsmittel, die dort hängen, werfen Sie etwas zu, das schwimmt, oder reichen Sie einen langen Gegenstand.
 3. Gehen Sie nicht in tiefes Wasser, wenn Sie kein starker Schwimmer sind. Gehen Sie nur ins Wasser, wenn Sie im Retten ausgebildet sind, und nehmen Sie dann Rettungsmittel mit. Eine ertrinkende Person bei Bewusstsein kann den Retter in Panik festklammern.
-4. Ein ausgebildeter Retter, der eine nicht reagierende ertrinkende Person im Wasser erreicht, gibt laut dem ERC sofort 5 Beatmungen, bevor er sie ans Ufer bringt.
+4. Ein ausgebildeter Retter, der eine nicht reagierende ertrinkende Person im Wasser erreicht, gibt sofort 5 Beatmungen, bevor er sie ans Ufer bringt.
 5. Holen Sie die betroffene Person waagerecht aus dem Wasser. So vermeiden Sie einen Blutdruckabfall.
 
 ### Am Ufer
 
 1. Prüfen Sie das Bewusstsein.
 2. Machen Sie die Atemwege frei und prüfen Sie die Atmung. Vermuten Sie eine Wirbelsäulenverletzung, neigen Sie den Kopf nicht nach hinten.
-3. Rufen Sie 112 an, wenn das noch nicht geschehen ist.
+3. Rufen Sie 112 an oder lassen Sie anrufen, wenn das noch nicht geschehen ist. Kommt kein Anruf zustande, siehe Rufen Sie 112 an, wenn.
 4. Bewusstlos und keine normale Atmung:
    - Geben Sie zuerst 5 Beatmungen. Nach Ertrinken ist der Verlauf besser, wenn die Person zuerst beatmet wird.
    - Beginnen Sie danach mit der normalen Wiederbelebung: 30 Herzdruckmassagen und 2 Beatmungen (siehe Thema 2).
@@ -68,7 +72,7 @@ Quelle: [Gezondheid en Wetenschap: Ertrinken](https://www.gezondheidenwetenschap
 
 ## Wenn Hilfe lange auf sich warten lässt
 
-- Nach Ertrinken besteht eine Chance, dass die Person auf die Wiederbelebung anspricht, auch ohne Defibrillator. Die IFRC nennt Ertrinken und Unterkühlung als Ausnahmen von der Regel, dass Sie in einem Gebiet ohne Rettungsdienst aufhören können, wenn die Wiederbelebung nach 20 Minuten keine Wirkung zeigt. Bei einem Kind, das ertrunken oder unterkühlt ist, besteht eine Chance, es allein mit Wiederbelebung zu retten.
+- Nach Ertrinken besteht eine Chance, dass die Person auf die Wiederbelebung anspricht, auch ohne Defibrillator. Ertrinken und Unterkühlung sind Ausnahmen von der Regel, dass Sie in einem Gebiet ohne Rettungsdienst aufhören können, wenn die Wiederbelebung nach 20 Minuten keine Wirkung zeigt. Bei einem Kind, das ertrunken oder unterkühlt ist, besteht eine Chance, es allein mit Wiederbelebung zu retten.
 - Beatmungen sind hier besonders wichtig, weil die betroffene Person keinen Sauerstoff bekam. Geben Sie sie, wenn Sie können.
 - Wechseln Sie sich mit anderen Helfern alle 1 bis 2 Minuten ab, ohne die Wiederbelebung zu unterbrechen.
 - Muss die Person transportiert werden, führen Sie die Wiederbelebung während des Transports ohne Unterbrechung auf einem harten Untergrund durch.
@@ -87,7 +91,14 @@ Quelle: [IFRC Guidelines 2020](https://www.ifrc.org/sites/default/files/2022-02/
 
 Jede Person nach einem Ertrinkungsunfall muss untersucht werden, auch wenn es nicht so schwerwiegend erscheint.
 
-Quelle: [Gezondheid en Wetenschap: Ertrinken](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-verdrinking) · [ERC Guidelines 2025 for Everyone](https://www.erc.edu/media/p5ymaeej/gl2025_layperson_book_ipdf-v11-e.pdf)
+**Kommt kein Anruf zustande**
+
+- Lassen Sie die betroffene Person nur allein, wenn es keine andere Möglichkeit gibt. Sprechen Sie Umstehende direkt an, damit sie Hilfe holen, und geben Sie mit, wo es ist, was passiert ist, wie viele Betroffene es gibt und in welchem Zustand sie sind.
+- Lassen Sie jemanden einen AED holen, wenn einer in der Nähe ist.
+- Führen Sie eine Wiederbelebung durch und sind Sie allein ohne Telefon, siehe Thema 2 (Kommt kein Anruf zustande). Dort steht, was Sie bei einem Erwachsenen und bei einem Kind tun.
+- Siehe auch Thema 1 (Kommt kein Anruf zustande: Hilfe holen ohne Telefon) und Notrufnummern in der App, Wenn kein Anruf möglich ist.
+
+Quelle: [Gezondheid en Wetenschap: Ertrinken](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-verdrinking) · [ERC Guidelines 2025 for Everyone](https://www.erc.edu/media/p5ymaeej/gl2025_layperson_book_ipdf-v11-e.pdf) · [IFRC Guidelines 2020](https://www.ifrc.org/sites/default/files/2022-02/EN_GFARC_GUIDELINES_2020.pdf) · [ERC Guidelines 2021: First aid](https://cprguidelines-old.erc.edu/assets/guidelines/European-Resuscitation-Council-Guidelines-2021-Fi.pdf) · [112.be: Häufig gestellte Fragen](https://112.be/de/haeufig-gestellte-fragen)
 
 ## Nicht tun
 

@@ -8,8 +8,8 @@ stappen:
   - "Heizen Sie nie mit einem Gasherd, Backofen oder Grill. Achten Sie bei Öfen, offenen Kaminen und Durchlauferhitzern auf Kohlenmonoxid."
   - "Schützen Sie Wasserleitungen und Wasserhähne vor dem Einfrieren."
   - "Fahren Sie vorsichtig und nehmen Sie eine Decke, Wasser und ein warmes Getränk im Auto mit."
-  - "Achten Sie auf ältere Menschen, Alleinlebende und Obdachlose in Ihrer Umgebung. Bieten Sie warme Getränke an."
-  - "Rufen Sie bei Verdacht auf Unterkühlung oder wenn jemand bewusstlos ist die 112 an."
+  - "Gehen Sie bei älteren Menschen und Alleinlebenden in Ihrer Umgebung vorbei und prüfen Sie, ob sie Hilfe brauchen. Bieten Sie Obdachlosen warme Getränke an."
+  - "Rufen Sie bei Verdacht auf Unterkühlung oder wenn jemand bewusstlos ist die 112 an. Gelingt das nicht, lassen Sie jemand anderen anrufen oder bitten Sie in Ihrer Nachbarschaft um Hilfe (siehe Notrufnummern, Wenn kein Anruf möglich ist)."
 niet:
   - "Nicht mit einem Gasherd, Backofen oder Grill heizen, und keine Holzkohle drinnen."
   - "Keinen Petroleum- oder Gasofen brennen lassen, während Sie schlafen."
@@ -17,7 +17,7 @@ niet:
   - "Keinen Alkohol zum Aufwärmen."
   - "Ein Tier bei Frostwetter nicht im Auto lassen."
 status: concept
-datum: "2026-11-17"
+datum: "2026-11-18"
 bronnen:
   - naam: "Nationales Krisenzentrum: Kältewelle"
     url: https://krisenzentrum.be/de/risiken-belgien/naturrisiken/kaeltewelle-0
@@ -49,8 +49,18 @@ bronnen:
     url: https://www.cdc.gov/carbon-monoxide/about/index.html
   - naam: "CDC: what to do to protect yourself during a power outage"
     url: https://www.cdc.gov/natural-disasters/response/what-to-do-protect-yourself-during-a-power-outage.html
+  - naam: "Nationales Krisenzentrum: ein Notfallpaket für zu Hause"
+    url: https://krisenzentrum.be/de/was-koennen-sie-tun/stelle-ein-notfallpaket-zusammen/ein-notfallset-fuer-zu-hause
+  - naam: "ERC Guidelines 2021: First aid"
+    url: https://cprguidelines-old.erc.edu/assets/guidelines/European-Resuscitation-Council-Guidelines-2021-Fi.pdf
+  - naam: "Rode Kruis-Vlaanderen: Strom- und Kommunikationsausfall"
+    url: https://www.rodekruis.be/wat-doen-we/hulp-in-vlaanderen/goed-voorbereid/stroom-en-communicatie-uitval/
+  - naam: "112.be: Häufig gestellte Fragen"
+    url: https://112.be/de/haeufig-gestellte-fragen
+  - naam: "FÖD Wirtschaft: Fragen von Haushalten zur Stromknappheit"
+    url: https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door
 vertaling: machine
-origineel_datum: "2026-11-17"
+origineel_datum: "2026-11-18"
 ---
 
 ## Erkennen
@@ -62,7 +72,7 @@ origineel_datum: "2026-11-17"
 
 **Kältewarnungen des KMI**
 
-| Code | Schwelle (Höchsttemperatur) | Was tun laut KMI |
+| Code | Schwelle (Höchsttemperatur) | Was tun |
 |---|---|---|
 | Gelb | unter -3 °C | Seien Sie wachsam. Schützen Sie Menschen, Tiere und Pflanzen. Schützen Sie Wasserleitungen und Wasserhähne. Kleiden Sie sich angemessen. |
 | Orange | -5 °C oder niedriger | Begrenzen Sie die Kälteexposition, kleiden Sie sich warm in mehreren Schichten, vermeiden Sie lange oder schwere Anstrengung, bieten Sie Obdachlosen warme Getränke an. Befolgen Sie den Rat der Behörden. |
@@ -128,7 +138,8 @@ In der Reihenfolge der Vorzüge:
 2. Kleiden Sie sich in Schichten und benutzen Sie Decken und Schlafsäcke. Warme Kleidung und Decken können die Heizung eine Zeit lang ersetzen.
 3. Benutzen Sie einen Ofen oder offenen Kamin, der richtig an einen Schornstein angeschlossen ist, mit trockenem Holz, und lüften Sie regelmäßig.
 4. Einen tragbaren Petroleum- oder Gasofen nur, wenn es nicht anders geht: höchstens eine Stunde am Stück, nie während Sie schlafen, und mit Lüftung.
-5. Gelingt es nicht, warm zu bleiben, gehen Sie zu Freunden oder Familie oder in eine Aufnahmestelle Ihrer Gemeinde.
+5. Bei einer Stromunterbrechung können Sie mit mehreren Personen zusammenkommen, um Licht und Wärme zu teilen.
+6. Gelingt es nicht, warm zu bleiben, gehen Sie zu Freunden oder Familie oder in eine Aufnahmestelle Ihrer Gemeinde. Hören Sie ein batteriebetriebenes Radio, um Informationen der Behörden zu erhalten. Die Gemeinde kann eine Informations- und Anlaufstelle öffnen.
 
 **Kohlenmonoxid vermeiden**
 
@@ -144,11 +155,11 @@ In der Reihenfolge der Vorzüge:
 2. Öffnen Sie Fenster und Türen.
 3. Schalten Sie das Gerät aus, wenn das sicher möglich ist.
 4. Bringen Sie die betroffene Person aus dem Raum.
-5. Rufen Sie die 112 an. Sagen Sie, wo Sie sind, dass es sich möglicherweise um CO handelt und wie viele Menschen bewusstlos sind.
+5. Rufen Sie die 112 an oder lassen Sie jemanden anrufen. Sagen Sie, wo Sie sind, dass es sich möglicherweise um CO handelt und wie viele Menschen bewusstlos sind. Kommt kein Anruf zustande, schicken Sie jemanden, um Hilfe zu holen, und bleiben Sie selbst bei der betroffenen Person, wenn das sicher möglich ist. Siehe auch Notrufnummern in der App, Wenn kein Anruf möglich ist.
 6. Beginnen Sie mit der Wiederbelebung, wenn die Person nicht atmet. Bringen Sie jemanden, der bewusstlos ist, aber atmet, in die stabile Seitenlage.
-7. Besteht keine unmittelbare Gefahr, rufen Sie trotzdem die 112 für Hilfe an. Bei Fragen können Sie das Antigiftzentrum unter 070 245 245 anrufen.
+7. Besteht keine unmittelbare Gefahr, rufen Sie trotzdem die 112 für Hilfe an. Funktioniert das Netz und haben Sie Fragen, können Sie das Antigiftzentrum unter 070 245 245 anrufen.
 
-Quelle: [Nationales Krisenzentrum: Kältewelle](https://krisenzentrum.be/de/risiken-belgien/naturrisiken/kaeltewelle-0) · [Krisinformation.se](https://www.krisinformation.se/en/hazards-and-risks/home-preparedness/heating-during-a-crisis/) · [BBK: Stromausfall](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Vorsorge/Stromausfall/stromausfall_node.html) · [Denk vooruit: kein Strom](https://www.denkvooruit.nl/risicos/risicos-in-nederland/geen-stroom) · [CDC: power outage](https://www.cdc.gov/natural-disasters/response/what-to-do-protect-yourself-during-a-power-outage.html) · [Speel niet met vuur: CO](https://speelnietmetvuur.be/co/) · [Antigiftzentrum: CO-Vergiftung](https://www.antigifcentrum.be/Toxinfos/co-vergiftiging/)
+Quelle: [Nationales Krisenzentrum: Kältewelle](https://krisenzentrum.be/de/risiken-belgien/naturrisiken/kaeltewelle-0) · [Krisinformation.se](https://www.krisinformation.se/en/hazards-and-risks/home-preparedness/heating-during-a-crisis/) · [BBK: Stromausfall](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Vorsorge/Stromausfall/stromausfall_node.html) · [Denk vooruit: kein Strom](https://www.denkvooruit.nl/risicos/risicos-in-nederland/geen-stroom) · [CDC: power outage](https://www.cdc.gov/natural-disasters/response/what-to-do-protect-yourself-during-a-power-outage.html) · [Speel niet met vuur: CO](https://speelnietmetvuur.be/co/) · [Antigiftzentrum: CO-Vergiftung](https://www.antigifcentrum.be/Toxinfos/co-vergiftiging/) · [Nationales Krisenzentrum: Notfallpaket](https://krisenzentrum.be/de/was-koennen-sie-tun/stelle-ein-notfallpaket-zusammen/ein-notfallset-fuer-zu-hause) · [112.be: Häufig gestellte Fragen](https://112.be/de/haeufig-gestellte-fragen) · [FÖD Wirtschaft: Fragen von Haushalten zur Stromknappheit](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door) · [ERC Guidelines 2021: First aid](https://cprguidelines-old.erc.edu/assets/guidelines/European-Resuscitation-Council-Guidelines-2021-Fi.pdf)
 
 ### Draußen oder unterwegs
 
@@ -161,7 +172,7 @@ Quelle: [Nationales Krisenzentrum: Kältewelle](https://krisenzentrum.be/de/risi
 **Verhalten**
 
 - Begrenzen Sie die Zeit draußen und vermeiden Sie schwere Anstrengung. Schnee räumen oder durch Schnee gehen belastet das Herz.
-- Achten Sie auf Glätte. Melden Sie Glätte über die KMI-App, damit Streudienste schneller eingreifen können.
+- Achten Sie auf Glätte. Funktioniert das Netz, melden Sie Glätte über die KMI-App, damit Streudienste schneller eingreifen können.
 - Radfahrer: Fahren Sie langsamer und halten Sie mehr Abstand, damit Sie weniger bremsen müssen.
 
 Quelle: [Nationales Krisenzentrum: Kältewelle](https://krisenzentrum.be/de/risiken-belgien/naturrisiken/kaeltewelle-0) · [CDC: winter weather](https://www.cdc.gov/winter-weather/prevention/index.html) · [Ready.gov: winter weather](https://www.ready.gov/winter-weather)
@@ -200,9 +211,9 @@ Quelle: [CDC: winter weather](https://www.cdc.gov/winter-weather/prevention/inde
 - Hängen Sie für Personen über 65 ein gut lesbares Thermometer an eine Stelle, an der es oft gesehen wird.
 - Schwangere Frauen, Menschen mit Herz-Kreislauf-Erkrankungen, Schilddrüsenproblemen, Asthma oder Blutarmut und ältere Menschen reagieren empfindlicher auf CO.
 - Bieten Sie Obdachlosen warme Getränke an. Bei Code Rot bittet das KMI darum, Obdachlose aufzunehmen.
-- Prüfen Sie, ob Nachbarn Hilfe brauchen, vor allem wenn Heizung oder Strom ausfällt.
+- Gehen Sie bei Nachbarn vorbei und prüfen Sie, ob sie Hilfe brauchen, vor allem wenn Heizung oder Strom ausfällt.
 
-Quelle: [CDC: winter weather](https://www.cdc.gov/winter-weather/prevention/index.html) · [CDC: preparing for a winter storm](https://www.cdc.gov/winter-weather/safety/index.html) · [Antigiftzentrum: CO-Vergiftung](https://www.antigifcentrum.be/Toxinfos/co-vergiftiging/) · [KMI: Legende Kälte](https://www.meteo.be/de/wetter/warnungen/legende-kalte) · [Denk vooruit: kein Strom](https://www.denkvooruit.nl/risicos/risicos-in-nederland/geen-stroom)
+Quelle: [CDC: winter weather](https://www.cdc.gov/winter-weather/prevention/index.html) · [CDC: preparing for a winter storm](https://www.cdc.gov/winter-weather/safety/index.html) · [Antigiftzentrum: CO-Vergiftung](https://www.antigifcentrum.be/Toxinfos/co-vergiftiging/) · [KMI: Legende Kälte](https://www.meteo.be/de/wetter/warnungen/legende-kalte) · [Denk vooruit: kein Strom](https://www.denkvooruit.nl/risicos/risicos-in-nederland/geen-stroom) · [Rode Kruis-Vlaanderen: Strom- und Kommunikationsausfall](https://www.rodekruis.be/wat-doen-we/hulp-in-vlaanderen/goed-voorbereid/stroom-en-communicatie-uitval/)
 
 ### Haustiere und Tiere
 
@@ -234,7 +245,7 @@ Quelle: [Vlaanderen Huisdierinfo: Tiere und kaltes Wetter](https://www.vlaandere
 
 **Bei Unterkühlung**
 
-1. Unterkühlung ist ein medizinischer Notfall. Rufen Sie bei Verdacht auf schwere Unterkühlung die 112 an, vor allem bei einer Körpertemperatur unter 35 °C (95 °F).
+1. Unterkühlung ist ein medizinischer Notfall. Rufen Sie bei Verdacht auf schwere Unterkühlung die 112 an, vor allem bei einer Körpertemperatur unter 35 °C (95 °F). Gelingt das nicht, lassen Sie jemand anderen anrufen oder bitten Sie in Ihrer Nachbarschaft um Hilfe (siehe Notrufnummern, Wenn kein Anruf möglich ist). Siehe auch die Erste-Hilfe-Karte Unterkühlung und Erfrierung.
 2. Bringen Sie die Person an einen warmen Ort und ziehen Sie nasse Kleidung aus.
 3. Wärmen Sie zuerst die Körpermitte auf: Brust, Nacken, Kopf und Leisten, mit trockenen Schichten oder Decken. Wickeln Sie auch Kopf und Nacken ein.
 4. Ein warmes Getränk kann helfen, nie Alkohol. Geben Sie jemandem, der bewusstlos ist, nichts zu trinken.
@@ -252,7 +263,7 @@ Quelle: [Vlaanderen Huisdierinfo: Tiere und kaltes Wetter](https://www.vlaandere
 
 - Achten Sie auf beschädigte oder undichte Leitungen. Eingefrorene Leitungen können geplatzt sein.
 
-Quelle: [CDC: winter weather](https://www.cdc.gov/winter-weather/prevention/index.html) · [Ready.gov: winter weather](https://www.ready.gov/winter-weather) · [Nationales Krisenzentrum: Kältewelle](https://krisenzentrum.be/de/risiken-belgien/naturrisiken/kaeltewelle-0)
+Quelle: [CDC: winter weather](https://www.cdc.gov/winter-weather/prevention/index.html) · [Ready.gov: winter weather](https://www.ready.gov/winter-weather) · [Nationales Krisenzentrum: Kältewelle](https://krisenzentrum.be/de/risiken-belgien/naturrisiken/kaeltewelle-0) · [112.be: Häufig gestellte Fragen](https://112.be/de/haeufig-gestellte-fragen) · [FÖD Wirtschaft: Fragen von Haushalten zur Stromknappheit](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door)
 
 ## Nicht tun
 
@@ -268,6 +279,8 @@ Quelle: [CDC: winter weather](https://www.cdc.gov/winter-weather/prevention/inde
 Quelle: [Speel niet met vuur: CO](https://speelnietmetvuur.be/co/) · [CDC: winter weather](https://www.cdc.gov/winter-weather/prevention/index.html) · [Ready.gov: winter weather](https://www.ready.gov/winter-weather) · [Vlaanderen Huisdierinfo](https://www.vlaanderen.be/huisdierinfo/verzorging-van-huisdieren/dieren-en-koud-weer) · [KMI: Legende Kälte](https://www.meteo.be/de/wetter/warnungen/legende-kalte)
 
 ## Mehr Informationen
+
+Vorab zu lesen, oder wenn das Internet funktioniert:
 
 - KMI: Warnungen vor Kälte, Glätte und Schnee, und die KMI-App.
 - Nationales Krisenzentrum zu Kältewelle, Eisregen und Schnee.

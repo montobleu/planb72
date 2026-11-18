@@ -3,20 +3,20 @@ titel: Überschwemmung
 volgorde: 3
 kort: "Das Wasser steigt, ein Fluss tritt über die Ufer, die Kanalisation kann den Regen nicht mehr aufnehmen oder es gibt eine Hochwasserwarnung."
 stappen:
-  - "Befolgen Sie die Anweisungen der Behörden über BE-Alert, Radio und die Website Ihrer Gemeinde. Rufen Sie die 112 an, wenn jemand in Lebensgefahr ist."
-  - "Gehen Sie in ein höheres Stockwerk oder auf höher gelegenes Gelände, wenn das Wasser steigt. Nehmen Sie Wasser, Medikamente, Ihr Telefon und ein Ladegerät mit."
+  - "Gehen Sie in ein höheres Stockwerk oder auf höher gelegenes Gelände, wenn das Wasser steigt. Nehmen Sie Wasser, Medikamente, Ihr Telefon und ein Ladegerät mit. Gehen Sie nur auf das Dach, wenn es wirklich nötig ist, und geben Sie von dort ein Zeichen für Hilfe."
   - "Legen Sie Sandsäcke oder Schotten vor Kelleröffnungen und Außentüren. Stellen Sie Teppiche, Möbel, Wertsachen und Papiere höher."
   - "Stellen Sie Gas, Strom und Wasser ab, wenn das nötig und sicher möglich ist. Berühren Sie nichts Elektrisches, das unter Wasser steht."
-  - "Gehen, schwimmen oder fahren Sie nicht durch fließendes Wasser. Schon eine niedrige Schicht fließenden Wassers kann Sie umwerfen und ein Auto mitreißen."
-  - "Bleiben Sie bei Hochwasser oder Wolkenbruch aus Kellern, Tiefgaragen und Unterführungen fern."
-  - "Fordern Sie nicht dringende Hilfe der Feuerwehr über 1722.be an oder unter 1722, wenn diese Nummer aktiv ist."
+  - "Gehen, schwimmen oder fahren Sie nicht durch fließendes Wasser. Bleiben Sie bei Hochwasser oder Wolkenbruch Kellern, Tiefgaragen und Unterführungen fern."
+  - "Hören Sie Radio, batteriebetrieben oder im Auto, und achten Sie auf Lautsprecherwagen der Polizei. Funktioniert das Netz, verfolgen Sie auch BE-Alert und die Website Ihrer Gemeinde."
+  - "Jemand ist in Lebensgefahr: Rufen Sie die 112 an. Gelingt das nicht, lassen Sie jemand anderen anrufen oder bitten Sie in Ihrer Nachbarschaft um Hilfe (siehe Notrufnummern, Wenn kein Anruf möglich ist)."
+  - "Nicht dringende Hilfe der Feuerwehr: Funktioniert das Netz, fordern Sie sie über 1722.be an, oder rufen Sie die 1722 an, wenn diese Nummer aktiv ist. Halten Sie die 112 frei."
 niet:
   - "Keinen Schutz in einem Keller, einer Tiefgarage oder einem Tunnel suchen."
   - "Nicht durch überflutete Straßen fahren und nicht um Absperrungen herumfahren."
   - "Nicht auf einen geschlossenen Dachboden kriechen, wenn Sie eingeschlossen werden."
   - "Kein Leitungswasser trinken, bis die Behörden sagen, dass es sicher ist."
 status: concept
-datum: "2026-11-17"
+datum: "2026-11-18"
 bronnen:
   - naam: "Nationales Krisenzentrum: Flusshochwasser"
     url: https://krisenzentrum.be/de/risiken-belgien/naturrisiken/flussueberschwemmung-oder-hochwasser-anderer-wasserlaeufe
@@ -56,8 +56,18 @@ bronnen:
     url: https://www.ready.gov/floods
   - naam: "CDC: keep food safe after a disaster or emergency"
     url: https://www.cdc.gov/food-safety/foods/keep-food-safe-after-emergency.html
+  - naam: "Nationales Krisenzentrum: Broschüre Gemeinsam vorbereitet"
+    url: https://krisenzentrum.be/sites/default/files/documents/files/WEB-Brosch%C3%BCre%20Gemeinsam%20Vorbereitet-DE.pdf
+  - naam: "Nationales Krisenzentrum: Störung der digitalen Infrastruktur"
+    url: https://krisenzentrum.be/de/risiken-belgien/maatschappelijke-risicos/ausfall-der-digitalen-infrastruktur
+  - naam: "Nationales Krisenzentrum: ein Plan für Ihre Nachbarschaft"
+    url: https://krisenzentrum.be/de/was-koennen-sie-tun/erstellen-sie-einen-plan/ein-plan-ihrem-viertel-oder-ihrem-verein
+  - naam: "112.be: Häufig gestellte Fragen"
+    url: https://112.be/de/haeufig-gestellte-fragen
+  - naam: "FÖD Wirtschaft: Fragen von Haushalten zur Stromknappheit"
+    url: https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door
 vertaling: machine
-origineel_datum: "2026-11-17"
+origineel_datum: "2026-11-18"
 ---
 
 ## Erkennen
@@ -72,8 +82,8 @@ origineel_datum: "2026-11-17"
 
 - Das KMI gibt Farbcodes für Regen heraus. Code Gelb zum Beispiel bei 25 bis 50 Liter pro m² in 24 Stunden, Code Orange bei 51 bis 100 Liter, Code Rot bei mehr als 100 Liter pro m² in 24 Stunden oder bei großen Überschwemmungen mit weiterem starkem Regen in Aussicht. Code Orange kann bis zu 24 Stunden im Voraus kommen, Code Rot frühestens 12 Stunden im Voraus.
 - Für Sturmflut gibt das KMI einen Code auf Grundlage des Wasserstands in Ostende und Antwerpen heraus.
-- Waterinfo.be (Flandern) zeigt Wasserstände, das Niederschlagsradar und Meldungen über Überschwemmungen. In der Wallonie zeigt hydrometrie.wallonie.be die Wasserstände und Abflussmengen der Flüsse.
-- Bei Gefahr benachrichtigen die Behörden Sie über BE-Alert, Radio, Fernsehen, Websites, soziale Medien und Lautsprecherwagen der Polizei.
+- Bei Gefahr benachrichtigen die Behörden Sie über Radio, Fernsehen und Lautsprecherwagen der Polizei und, wenn das Netz funktioniert, auch über BE-Alert, Websites und soziale Medien.
+- Funktioniert das Internet, zeigt Waterinfo.be (Flandern) Wasserstände, das Niederschlagsradar und Meldungen über Überschwemmungen. In der Wallonie zeigt hydrometrie.wallonie.be die Wasserstände und Abflussmengen der Flüsse.
 
 Quelle: [Nationales Krisenzentrum: Oberflächenwasser](https://krisenzentrum.be/de/risiken-belgien/naturrisiken/ueberschwemmung-durch-oberflaechenwasser) · [Nationales Krisenzentrum: Flusshochwasser](https://krisenzentrum.be/de/risiken-belgien/naturrisiken/flussueberschwemmung-oder-hochwasser-anderer-wasserlaeufe) · [KMI: Erläuterung zu den Warnungen](https://www.meteo.be/de/wetter/warnungen/erklarung-warnungen) · [Waterinfo Vlaanderen](https://www.waterinfo.vlaanderen.be/) · [SPW: hydrométrie](https://hydrometrie.wallonie.be/) · [Nationales Krisenzentrum: Informationen während einer Notsituation](https://krisenzentrum.be/de/was-koennen-sie-tun/informieren-sie-sich/information-notsituationen)
 
@@ -84,7 +94,7 @@ Quelle: [Nationales Krisenzentrum: Oberflächenwasser](https://krisenzentrum.be/
 - Prüfen Sie mit dem Wassertest (watertoets) auf waterinfo.be, ob Ihre Wohnung in einem überschwemmungsgefährdeten Gebiet liegt.
 - Wissen Sie, wo Sie Gas, Strom und Wasser abstellen.
 - Suchen Sie das Stockwerk oder den Dachboden, der am längsten trocken bleibt. Prüfen Sie auch, welchen Fluchtweg Sie haben, wenn die Haustür blockiert ist, zum Beispiel ein Dachfenster oder eine Leiter.
-- Vereinbaren Sie, bei wem Sie unterkommen können, wenn Sie Ihr Haus verlassen müssen. Treffen Sie mit Nachbarn Absprachen, wer wem hilft.
+- Vereinbaren Sie, bei wem Sie unterkommen können, wenn Sie Ihr Haus verlassen müssen. Treffen Sie mit Nachbarn Absprachen, wer wem hilft und wie Sie einander ohne Telefon oder Internet erreichen. Vereinbaren Sie mit Ihrer Familie, wo Sie einander wiederfinden.
 
 **Schützen Sie Ihre Wohnung vor Wasser von außen**
 
@@ -106,6 +116,7 @@ Quelle: [Nationales Krisenzentrum: Oberflächenwasser](https://krisenzentrum.be/
 - Stiefel, Eimer und Wasserschieber.
 - Material, um Möbel und Geräte höher zu stellen, etwa Ziegel oder Betonblöcke.
 - Batterien und Notbeleuchtung. Keine Kerzen.
+- Ein batteriebetriebenes Radio oder ein Kurbelradio, möglichst mit DAB+ und UKW, und eine Papierliste mit wichtigen Telefonnummern.
 - Wichtige Papiere und Wertsachen hoch verstaut.
 - Ein Heizöltank, der befestigt ist und dessen Öffnungen verschlossen sind.
 - Ein Notfallpaket für 72 Stunden an einem trockenen Ort. Keller und Garagen laufen schneller voll. Fügen Sie trockene, warme Decken und Handtücher hinzu: Unterkühlung ist ein Risiko.
@@ -116,7 +127,7 @@ Quelle: [Nationales Krisenzentrum: Oberflächenwasser](https://krisenzentrum.be/
 - Bewahren Sie einen Medikamentenvorrat für mehrere Tage und einen Erste-Hilfe-Kasten hoch und erreichbar auf.
 - Ist Ihre Wohnung von vor 1998, lassen Sie prüfen, ob Asbest darin ist. Eine Überschwemmung kann solches Material beschädigen.
 
-Quelle: [Nationales Krisenzentrum: Flusshochwasser](https://krisenzentrum.be/de/risiken-belgien/naturrisiken/flussueberschwemmung-oder-hochwasser-anderer-wasserlaeufe) · [Waterinfo: Wassertest](https://www.waterinfo.vlaanderen.be/Watertoets) · [VMM: Tipps bei Überschwemmungen](https://vmm.vlaanderen.be/tips/water/overstromingen) · [VMM: Broschüre](https://vmm.vlaanderen.be/publicaties/individuele-bescherming-tegen-overstromingen) · [Nationales Krisenzentrum: Notfallpaket](https://krisenzentrum.be/de/was-koennen-sie-tun/stelle-ein-notfallpaket-zusammen/ein-notfallset-fuer-zu-hause) · [Denk vooruit: Überschwemmung](https://www.denkvooruit.nl/risicos/risicos-in-nederland/overstroming) · [Vivalis](https://www.vivalis.brussels/sites/default/files/2026-07/Overstromingen%20en%20gezondheidsrisico%27s.pdf)
+Quelle: [Nationales Krisenzentrum: Flusshochwasser](https://krisenzentrum.be/de/risiken-belgien/naturrisiken/flussueberschwemmung-oder-hochwasser-anderer-wasserlaeufe) · [Waterinfo: Wassertest](https://www.waterinfo.vlaanderen.be/Watertoets) · [VMM: Tipps bei Überschwemmungen](https://vmm.vlaanderen.be/tips/water/overstromingen) · [VMM: Broschüre](https://vmm.vlaanderen.be/publicaties/individuele-bescherming-tegen-overstromingen) · [Nationales Krisenzentrum: Notfallpaket](https://krisenzentrum.be/de/was-koennen-sie-tun/stelle-ein-notfallpaket-zusammen/ein-notfallset-fuer-zu-hause) · [Denk vooruit: Überschwemmung](https://www.denkvooruit.nl/risicos/risicos-in-nederland/overstroming) · [Vivalis](https://www.vivalis.brussels/sites/default/files/2026-07/Overstromingen%20en%20gezondheidsrisico%27s.pdf) · [Nationales Krisenzentrum: Gemeinsam vorbereitet](https://krisenzentrum.be/sites/default/files/documents/files/WEB-Brosch%C3%BCre%20Gemeinsam%20Vorbereitet-DE.pdf) · [Nationales Krisenzentrum: digitale Infrastruktur](https://krisenzentrum.be/de/risiken-belgien/maatschappelijke-risicos/ausfall-der-digitalen-infrastruktur) · [Nationales Krisenzentrum: Plan für Ihre Nachbarschaft](https://krisenzentrum.be/de/was-koennen-sie-tun/erstellen-sie-einen-plan/ein-plan-ihrem-viertel-oder-ihrem-verein)
 
 ## Während
 
@@ -124,8 +135,8 @@ Quelle: [Nationales Krisenzentrum: Flusshochwasser](https://krisenzentrum.be/de/
 
 **Zuerst: Besteht Lebensgefahr?**
 
-- Jemand ist in Lebensgefahr: Rufen Sie die 112 an.
-- Hilfe der Feuerwehr nötig ohne Lebensgefahr, zum Beispiel Wasser im Keller oder auf der Straße: Stellen Sie einen Antrag über 1722.be oder das Formular Ihrer Hilfeleistungszone, oder rufen Sie die 1722 an, wenn diese Nummer aktiv ist. Halten Sie die 112 frei.
+- Jemand ist in Lebensgefahr: Rufen Sie die 112 an oder lassen Sie jemanden anrufen. Kommt kein Anruf zustande, bitten Sie in Ihrer Nachbarschaft um Hilfe und verfolgen Sie die Informationen der Behörden im Radio. Siehe Notrufnummern in der App, Wenn kein Anruf möglich ist.
+- Hilfe der Feuerwehr nötig ohne Lebensgefahr, zum Beispiel Wasser im Keller oder auf der Straße: Funktioniert das Netz, stellen Sie einen Antrag über 1722.be oder das Formular Ihrer Hilfeleistungszone, oder rufen Sie die 1722 an, wenn diese Nummer aktiv ist. Halten Sie die 112 frei.
 - Schaden, aber keine Hilfe der Feuerwehr nötig: Beauftragen Sie einen Fachmann oder reparieren Sie es selbst.
 
 **Wasser draußen halten**
@@ -155,19 +166,20 @@ Quelle: [Nationales Krisenzentrum: Flusshochwasser](https://krisenzentrum.be/de/
 
 **Evakuieren**
 
-- Befolgen Sie den Rat der Rettungsdienste. Bei einer Überschwemmung in Ihrer Nähe warten Sie auf deren Anweisungen. Manchmal ist drinnen bleiben sicherer.
+- Befolgen Sie den Rat der Rettungsdienste und warten Sie auf deren Anweisungen über das Radio oder Lautsprecherwagen der Polizei. Manchmal ist drinnen bleiben sicherer.
+- Helfen Sie, andere zu warnen, dass sie evakuieren müssen.
 - Nehmen Sie Ihren Personalausweis, Geld, Wasser, Handy und Ladegerät, Schlüssel, eine Liste mit Telefonnummern, notwendige Medikamente, Hygieneartikel, Ersatzkleidung und Stiefel mit.
 - Stellen Sie Gas, Wasser und Strom ab. Schließen Sie Fenster und Türen. Die Polizei bewacht die Wohnungen.
-- Haben Sie keine Familie oder Freunde, zu denen Sie gehen können, erhalten Sie Unterkunft in einem Aufnahmezentrum von Gemeinde oder Provinz.
-- Teilen Sie Ihrer Familie und einer Kontaktperson außerhalb des Gebiets mit, wo Sie sind. Schicken Sie lieber eine SMS oder Nachricht, statt zu telefonieren.
+- Haben Sie keine Familie oder Freunde, zu denen Sie gehen können, erhalten Sie Unterkunft in einem Aufnahmezentrum von Gemeinde oder Provinz, zum Beispiel in einer Sporthalle oder einem Festsaal. Dort gibt eine Kontaktperson vor Ort die nötigen Informationen.
+- Teilen Sie Ihrer Familie und einer Kontaktperson außerhalb des Gebiets mit, wo Sie sind. Funktioniert das Netz, schicken Sie lieber eine SMS oder Nachricht, statt zu telefonieren.
 - Kehren Sie erst nach Hause zurück, wenn die Behörden sagen, dass es sicher ist.
 
-Quelle: [Nationales Krisenzentrum: Flusshochwasser](https://krisenzentrum.be/de/risiken-belgien/naturrisiken/flussueberschwemmung-oder-hochwasser-anderer-wasserlaeufe) · [1722](https://www.1722.be/de/index.html) · [VMM: Tipps bei Überschwemmungen](https://vmm.vlaanderen.be/tips/water/overstromingen) · [BBK: Broschüre Stromausfall](https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/Buergerinformationen/stromausfall-vorsorge-selbsthilfe.pdf?__blob=publicationFile&v=13) · [Ready.gov: floods](https://www.ready.gov/floods) · [Nationales Krisenzentrum: evakuieren](https://krisenzentrum.be/de/was-koennen-sie-tun/der-richtige-reflex/evakuierung)
+Quelle: [Nationales Krisenzentrum: Flusshochwasser](https://krisenzentrum.be/de/risiken-belgien/naturrisiken/flussueberschwemmung-oder-hochwasser-anderer-wasserlaeufe) · [1722](https://www.1722.be/de/index.html) · [VMM: Tipps bei Überschwemmungen](https://vmm.vlaanderen.be/tips/water/overstromingen) · [BBK: Broschüre Stromausfall](https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/Buergerinformationen/stromausfall-vorsorge-selbsthilfe.pdf?__blob=publicationFile&v=13) · [Ready.gov: floods](https://www.ready.gov/floods) · [Nationales Krisenzentrum: evakuieren](https://krisenzentrum.be/de/was-koennen-sie-tun/der-richtige-reflex/evakuierung) · [Nationales Krisenzentrum: Informationen während einer Notsituation](https://krisenzentrum.be/de/was-koennen-sie-tun/informieren-sie-sich/information-notsituationen) · [112.be: Häufig gestellte Fragen](https://112.be/de/haeufig-gestellte-fragen) · [FÖD Wirtschaft: Fragen von Haushalten zur Stromknappheit](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door)
 
 ### Draußen oder unterwegs
 
 - Begrenzen Sie Ihre Wege und meiden Sie gefährliche Zonen.
-- Gehen, schwimmen oder fahren Sie nicht durch das Wasser. Laut Ready.gov können 15 Zentimeter (6 Zoll) fließendes Wasser Sie umwerfen.
+- Gehen, schwimmen oder fahren Sie nicht durch das Wasser. Schon 15 Zentimeter fließendes Wasser können Sie umwerfen.
 - Bleiben Sie von Brücken über schnell fließendem Wasser fern.
 - Müssen Sie dennoch durch eine überflutete Straße gehen, benutzen Sie einen Stock, um den Boden abzutasten. Kanaldeckel und Teile der Fahrbahn können weggespült sein.
 - Hochwasser kann verschmutzt sein und Schutt verbergen. Heruntergefallene Stromleitungen können das Wasser unter Strom setzen.
@@ -177,7 +189,7 @@ Quelle: [Nationales Krisenzentrum: Flusshochwasser](https://krisenzentrum.be/de/
 ### Im Auto
 
 - Stellen Sie Ihr Auto vorher an einen sicheren Ort, und nicht in Ihre Garage.
-- Fahren Sie nie über eine überflutete Straße und nie um eine Absperrung herum. Laut Ready.gov können 30 Zentimeter (1 Fuß) Wasser ein Fahrzeug mitreißen.
+- Fahren Sie nie über eine überflutete Straße und nie um eine Absperrung herum. 30 Zentimeter Wasser können ein Fahrzeug mitreißen.
 - Sitzen Sie im Auto fest, bleiben Sie darin. Steigt das Wasser im Auto, klettern Sie auf das Dach.
 
 Quelle: [Nationales Krisenzentrum: Oberflächenwasser](https://krisenzentrum.be/de/risiken-belgien/naturrisiken/ueberschwemmung-durch-oberflaechenwasser) · [Ready.gov: floods](https://www.ready.gov/floods)
@@ -256,7 +268,7 @@ Quelle: [Denk vooruit: Überschwemmung](https://www.denkvooruit.nl/risicos/risic
 **Schaden und Versicherung**
 
 - Fotografieren Sie die Schäden für Ihre Versicherungsakte.
-- Wenden Sie sich so schnell wie möglich an Ihren Versicherer. Laut VMM sind Überschwemmungsschäden durch die Feuerversicherung gedeckt, auch wenn die Überschwemmung nicht als Katastrophe anerkannt wird.
+- Wenden Sie sich so schnell wie möglich an Ihren Versicherer. Überschwemmungsschäden sind durch die Feuerversicherung gedeckt, auch wenn die Überschwemmung nicht als Katastrophe anerkannt wird.
 - In Flandern kann der Vlaams Rampenfonds in Ausnahmefällen einen Teil des Schadens erstatten, nur nach einer von der Flämischen Regierung anerkannten Katastrophe. Melden Sie den Schaden zuerst Ihrem Versicherer. Beim Rampenfonds melden Sie den Schaden innerhalb von 60 Tagen nach dem Schadensdatum.
 
 Quelle: [Ready.gov: floods](https://www.ready.gov/floods) · [Vivalis](https://www.vivalis.brussels/sites/default/files/2026-07/Overstromingen%20en%20gezondheidsrisico%27s.pdf) · [Nationales Krisenzentrum: Flusshochwasser](https://krisenzentrum.be/de/risiken-belgien/naturrisiken/flussueberschwemmung-oder-hochwasser-anderer-wasserlaeufe) · [VMM: Tipps bei Überschwemmungen](https://vmm.vlaanderen.be/tips/water/overstromingen) · [CDC: food safety](https://www.cdc.gov/food-safety/foods/keep-food-safe-after-emergency.html) · [Vlaams Rampenfonds](https://www.vlaanderen.be/schadevergoeding-vlaams-rampenfonds-aanvragen)
@@ -273,6 +285,8 @@ Quelle: [Ready.gov: floods](https://www.ready.gov/floods) · [Vivalis](https://w
 Quelle: [Nationales Krisenzentrum: Oberflächenwasser](https://krisenzentrum.be/de/risiken-belgien/naturrisiken/ueberschwemmung-durch-oberflaechenwasser) · [Ready.gov: floods](https://www.ready.gov/floods) · [BBK: Broschüre Stromausfall](https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/Buergerinformationen/stromausfall-vorsorge-selbsthilfe.pdf?__blob=publicationFile&v=13) · [VMM: Tipps bei Überschwemmungen](https://vmm.vlaanderen.be/tips/water/overstromingen) · [Vivalis](https://www.vivalis.brussels/sites/default/files/2026-07/Overstromingen%20en%20gezondheidsrisico%27s.pdf)
 
 ## Mehr Informationen
+
+Vorab zu lesen, oder wenn das Internet funktioniert:
 
 - Waterinfo.be: Wasserstände, Niederschlagsradar und Wassertest (Flandern).
 - hydrometrie.wallonie.be: Wasserstände und Abflussmengen (Wallonie).

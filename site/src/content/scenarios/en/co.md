@@ -6,16 +6,16 @@ stappen:
   - "Open windows and doors, if you can do so without risk to yourself."
   - "Leave the room and go outside with everyone, into the fresh air."
   - "Switch off the gas, wood, coal or heating oil appliance if you can do so quickly and safely."
-  - "Call 112 if anyone has symptoms or is unconscious. Say that it is probably CO."
+  - "Call 112 if anyone has symptoms or is unconscious. Say that it is probably CO. If that does not work, have someone else call or ask for help nearby (see Emergency numbers, If you cannot call)."
   - "Never enter a room where someone is lying unconscious. Wait for the emergency services."
-  - "If you have questions or are in doubt, call the Poison Centre on 070 245 245. It is free, day and night."
+  - "If you have questions or are in doubt, call the Poison Centre on 070 245 245, if the network is working. It is free, day and night."
   - "Only use the appliance again after it has been checked by a qualified professional."
 niet:
   - "Do not bring a barbecue or charcoal indoors for heating."
   - "Do not leave an engine running in a garage, not even with the door open."
   - "Do not seal ventilation grilles or gaps, not even in severe cold."
 status: concept
-datum: "2026-11-17"
+datum: "2026-11-18"
 bronnen:
   - naam: "Poison Centre: brochure Preventing CO poisoning"
     url: https://www.poisoncentre.be/app/uploads/2026/02/Brochure-CO-vergiftiging-voorkomen-NL-1.pdf
@@ -31,8 +31,14 @@ bronnen:
     url: https://crisiscenter.be/en/what-can-you-do/right-reflex/evacuate
   - naam: "CDC: Carbon Monoxide Poisoning Basics"
     url: https://www.cdc.gov/carbon-monoxide/about/index.html
+  - naam: "112.be: Frequently asked questions"
+    url: https://112.be/en/frequently-asked-questions
+  - naam: "FPS Economy: questions from households about electricity shortages"
+    url: https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door
+  - naam: "ERC Guidelines 2021: First aid"
+    url: https://cprguidelines-old.erc.edu/assets/guidelines/European-Resuscitation-Council-Guidelines-2021-Fi.pdf
 vertaling: machine
-origineel_datum: "2026-11-17"
+origineel_datum: "2026-11-18"
 ---
 
 ## Recognise
@@ -41,7 +47,7 @@ Carbon monoxide (CO) is a gas without colour, smell or taste. You cannot detect 
 
 In Belgium CO is the main cause of fatal poisoning. Every year a few dozen people die and about 1,000 people end up in hospital. Most accidents happen during the heating season, from October to April. Almost half of the victims are younger than 30. It does not take much: 0.1 per cent CO in the air is fatal within 1 to 3 hours, 1 per cent within as little as 15 minutes.
 
-**Rapid poisoning (acute).** First you get a headache and become dizzy. You feel very tired and you may feel sick and vomit. Anyone who does not realise that they have to leave the room loses consciousness and can then no longer save themselves. At high concentrations, deep coma and death follow quickly. In children, abdominal pain is a common symptom.
+**Rapid poisoning (acute).** First you get a headache and become dizzy. You feel very tired and you may feel sick and vomit. Anyone who does not realise that they have to leave the room loses consciousness and can then no longer save themselves. At high concentrations, deep coma and death follow quickly.
 
 **Slow poisoning (chronic).** Anyone who breathes in small amounts over a long period gets vague symptoms: headache, a heavy feeling in the stomach, muscle weakness, difficulty concentrating and changing moods. A doctor does not easily recognise this.
 
@@ -111,18 +117,20 @@ Source: [Poison Centre: CO brochure](https://www.poisoncentre.be/app/uploads/202
 2. Open windows and doors, if you can do so without risk to yourself.
 3. Leave the room as quickly as possible. Make sure everyone leaves the room. Go outside if you can.
 4. Switch off the appliance if you can do so quickly and safely.
-5. Call 112. Say that it is probably CO poisoning and whether anyone is unconscious.
+5. Call 112 or have someone call. Say that it is probably CO poisoning and whether anyone is unconscious.
 
 If you cannot open the windows without risk to yourself, go outside immediately.
 
+If you cannot get through, have someone else call or send someone to fetch help nearby. Only leave a casualty alone if there is no other way. See Emergency numbers in the app, If you cannot call.
+
 **Someone is unconscious.**
 
-- Never enter a room where an unconscious person is lying. You will be overcome yourself. Call 112 immediately.
+- Never enter a room where an unconscious person is lying. You will be overcome yourself. Call 112 immediately or have someone call. If you cannot get through, see above.
 - If the emergency services cannot be there yet and you can ventilate the room safely: switch off the appliance and bring the casualty out of the room.
 - If the casualty is not breathing, start rescue breaths. Mouth-to-mouth resuscitation is safe: it does not put you at risk of CO poisoning.
 - If the casualty is breathing, lay them on their side, without a pillow. This way they will not choke on vomit.
 
-**Someone is conscious and answers your questions.** Bring them into the fresh air and call the GP. Call the Poison Centre on 070 245 245 if you have questions. A doctor answers, 24 hours a day, 7 days a week. The call is free.
+**Someone is conscious and answers your questions.** Bring them into the fresh air and have them checked by a doctor. If the network is working, call the GP, and if you have questions the Poison Centre on 070 245 245. A doctor answers, 24 hours a day, 7 days a week. The call is free.
 
 ### Outdoors or on the move
 
@@ -154,21 +162,20 @@ If you cannot open the windows without risk to yourself, go outside immediately.
 
 - Older people and people with a chronic illness, with heart or breathing problems or with anaemia are at greater risk.
 - Smokers, and certainly pipe, cigar and water pipe smokers, already have more CO in their blood.
-- Anyone who is asleep, has been drinking or is under the influence can die of CO before noticing any symptoms. The CDC recommends an alarm near every sleeping area.
+- Anyone who is asleep, has been drinking or is under the influence can die of CO before noticing any symptoms. Fit an alarm near every sleeping area.
 
 ### Pets and animals
 
 - Animals also become ill from CO. If animals and people in the house have symptoms at the same time, that is a warning sign.
 - Take pets outside with you if you can do so without risk to yourself. Your own safety comes first.
 
-Source: [Poison Centre: CO brochure](https://www.poisoncentre.be/app/uploads/2026/02/Brochure-CO-vergiftiging-voorkomen-NL-1.pdf) · [Poison Centre: CO in detail](https://www.antigifcentrum.be/koolstofmonoxide) · [RMI](https://www.meteo.be/nl/info/veelgestelde-vragen/hoe-je-beschermen-tegen-gevaarlijk-weer/co-een-sluipende-moordenaar-in-huis) · [be.brussels](https://be.brussels/en/security-prevention/fire-prevention-and-safety-advice/building-housing-and-infrastructure/safe-house/co) · [CDC](https://www.cdc.gov/carbon-monoxide/about/index.html)
+Source: [Poison Centre: CO brochure](https://www.poisoncentre.be/app/uploads/2026/02/Brochure-CO-vergiftiging-voorkomen-NL-1.pdf) · [Poison Centre: CO in detail](https://www.antigifcentrum.be/koolstofmonoxide) · [RMI](https://www.meteo.be/nl/info/veelgestelde-vragen/hoe-je-beschermen-tegen-gevaarlijk-weer/co-een-sluipende-moordenaar-in-huis) · [be.brussels](https://be.brussels/en/security-prevention/fire-prevention-and-safety-advice/building-housing-and-infrastructure/safe-house/co) · [CDC](https://www.cdc.gov/carbon-monoxide/about/index.html) · [112.be: Frequently asked questions](https://112.be/en/frequently-asked-questions) · [FPS Economy: questions from households about electricity shortages](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door) · [ERC Guidelines 2021: First aid](https://cprguidelines-old.erc.edu/assets/guidelines/European-Resuscitation-Council-Guidelines-2021-Fi.pdf)
 
 ## Afterwards
 
 - Do not use the appliance again until a qualified professional has checked it. Also call a professional if you see an orange flame, soot, rust or corrosion.
 - Also have the chimney and the connection checked. The whole of appliance and chimney must be airtight.
-- Have yourself checked by a doctor. Anyone who is conscious calls the GP. After severe poisoning, brain damage sometimes occurs later. A normal blood value does not rule out poisoning, because CO disappears from the blood after a while.
-- If you live in a rented home, report the necessary repairs to the owner immediately.
+- Have yourself checked by a doctor. Anyone who is conscious calls the GP if the network is working. After severe poisoning, brain damage sometimes occurs later. A normal blood value does not rule out poisoning, because CO disappears from the blood after a while.
 - If no alarm was fitted yet, fit one according to the rules above.
 
 Source: [Poison Centre: CO brochure](https://www.poisoncentre.be/app/uploads/2026/02/Brochure-CO-vergiftiging-voorkomen-NL-1.pdf) · [Poison Centre: CO in detail](https://www.antigifcentrum.be/koolstofmonoxide)

@@ -4,7 +4,7 @@ module: buiten
 volgorde: 2
 kort: "If you are stuck outdoors: what comes first (cold), making a shelter, insulating yourself from the ground, fire safely and according to the Belgian rules, finding and purifying water, why you do not eat wild plants or mushrooms, and how you get found."
 status: concept
-datum: "2026-11-17"
+datum: "2026-11-18"
 bronnen:
   - naam: "US Army FM 21-76 Survival Manual (public domain, copy on archive.org)"
     url: https://archive.org/details/fm-21-76-survival-manual
@@ -43,12 +43,12 @@ bronnen:
   - naam: "Ready.gov: Evacuation"
     url: https://www.ready.gov/evacuation
 vertaling: machine
-origineel_datum: "2026-11-17"
+origineel_datum: "2026-11-18"
 ---
 
 ## What comes first
 
-There is no fixed order that always applies. The American survival manuals teach a "survival pattern": you put your needs in order of importance, depending on where you are, and you adjust that order when circumstances change.
+There is no fixed order that always applies. Put your needs in order of importance, depending on where you are, and adjust that order when circumstances change.
 
 | Situation | First priority | Then |
 | --- | --- | --- |
@@ -59,9 +59,17 @@ There is no fixed order that always applies. The American survival manuals teach
 - In the cold, shelter can be more important than food, and possibly even than water. Prolonged exposure to cold makes you exhausted and weak, and an exhausted person can lose the will to survive.
 - Even in the cold you need at least 2 litres of water a day to keep functioning properly.
 - You can go several weeks without food, but without food you quickly become weaker, physically and mentally.
-- Call for help if you can. See the guide on the emergency call. Always leave a trip plan with someone who stays at home.
+- Always leave a trip plan with someone who stays at home.
 
-Source: [US Army FM 21-76](https://archive.org/details/fm-21-76-survival-manual) · [US Army ATP 3-50.21](https://archive.org/details/survival-atp-3-50-21) · [National Park Service: Outdoor Emergency Plan](https://www.nps.gov/subjects/healthandsafety/upload/NPS-Outdoor-Emergency-Plan-508c.pdf)
+**Getting help.** Outdoors, help can take hours or days to arrive. Do not count on having signal.
+
+1. If you have signal: call 112. See the guide on the emergency call.
+2. No signal, but someone nearby: speak to people you meet and ask them to go to a place with signal and call 112 from there.
+3. In a group with an injured person: send two or more people to raise the alarm. The others stay with the injured person.
+4. Alone with the injured person: first help them as well as you can, then go and get help.
+5. Nobody nearby: stay where you are and give signals (see Getting found).
+
+Source: [US Army FM 21-76](https://archive.org/details/fm-21-76-survival-manual) · [US Army ATP 3-50.21](https://archive.org/details/survival-atp-3-50-21) · [National Park Service: Outdoor Emergency Plan](https://www.nps.gov/subjects/healthandsafety/upload/NPS-Outdoor-Emergency-Plan-508c.pdf) · [National Crisis Center: Wildfire](https://crisiscenter.be/en/risks-belgium/natural-risks/wildfires)
 
 ## Recognising hypothermia
 
@@ -76,7 +84,7 @@ Hypothermia occurs when your body loses more heat than it produces. Below a body
 - Difficulty moving and speaking.
 - Confusion, drowsiness, memory loss, strange behaviour, tiredness.
 
-**Call 112 if** the person no longer shivers, the muscles stiffen, or there is impaired consciousness.
+**Call 112 if** the person no longer shivers, the muscles stiffen, or there is impaired consciousness. If you cannot get through, see What comes first, Getting help.
 
 **What you do**
 
@@ -88,7 +96,7 @@ Hypothermia occurs when your body loses more heat than it produces. Below a body
 6. If the person is still shivering and fully conscious: let them warm up in a sleeping bag or under a blanket (with a survival blanket if you have one), cover the head too, give dry clothing and a warm, sugary drink or food.
 7. If they no longer shiver or are not fully conscious: rewarm actively, preferably with an electric blanket, otherwise with heat packs, cherry stone cushions or a hot water bottle. Watch out for burns. In that case give **nothing to eat or drink**.
 
-**Prevention: the US Army mnemonic COLD**
+**Prevention: the mnemonic COLD**
 
 - **C**lean: keep clothing clean. Dirty clothing insulates less well.
 - **O**verheating: avoid it. Sweat makes your clothing wet and cools you down. Take off a layer or open your coat before you start sweating.
@@ -97,7 +105,7 @@ Hypothermia occurs when your body loses more heat than it produces. Below a body
 
 Always cover your head: you lose a lot of heat there. Alcohol widens the small blood vessels in the skin, which makes you lose more heat.
 
-Source: [Rode Kruis-Vlaanderen: What to do in case of hypothermia](https://www.gezondheidenwetenschap.be/eerste-hulp/wat-doen-bij-onderkoeling) · [Rode Kruis-Vlaanderen: First aid for winter sports](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-wintersport) · [US Army FM 21-76](https://archive.org/details/fm-21-76-survival-manual) · [National Crisis Center: Cold wave](https://crisiscenter.be/en/risks-belgium/natural-risks/cold-wave)
+Source: [Rode Kruis-Vlaanderen: What to do in case of hypothermia](https://www.gezondheidenwetenschap.be/eerste-hulp/wat-doen-bij-onderkoeling) · [Rode Kruis-Vlaanderen: First aid for winter sports](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-wintersport) · [US Army FM 21-76](https://archive.org/details/fm-21-76-survival-manual) · [National Crisis Center: Cold wave](https://crisiscenter.be/en/risks-belgium/natural-risks/cold-wave) · [National Park Service: Outdoor Emergency Plan](https://www.nps.gov/subjects/healthandsafety/upload/NPS-Outdoor-Emergency-Plan-508c.pdf)
 
 ## Choosing a site for your shelter
 
@@ -162,7 +170,7 @@ Source: [US Army FM 21-76](https://archive.org/details/fm-21-76-survival-manual)
 
 ## Insulating yourself from the ground
 
-- **Never sleep directly on the ground.** According to the US Army, at rest you lose up to 80 per cent of your body heat to the ground.
+- **Never sleep directly on the ground.** At rest you lose up to 80 per cent of your body heat to the ground.
 - Put pine branches, grass, leaves, pine needles or other insulating material under you.
 - In a hut of branches and leaves: a layer of 30 cm.
 - In a snow cave or pit: put green conifer branches on the floor.
@@ -189,7 +197,7 @@ Even at a permitted site, the **wildfire risk code** of the Agentschap Natuur en
 | Orange | General ban on fires, except cooking fires as a gas or pit fire |
 | Red | Ban on fire in any form |
 
-Wallonia and Brussels have their own rules. The Crisis Center refers to the website of the Agentschap Natuur en Bos, Wallonie.be, the municipality or the nature site for the current colour code.
+Wallonia and Brussels have their own rules. Find out in advance about the fire risk and the colour code on the website of the Agentschap Natuur en Bos, Wallonie.be, the municipality or the nature site. On site: follow the rules and guidelines posted at the edge of the nature area.
 
 **Making a fire safely**
 
@@ -205,7 +213,7 @@ Wallonia and Brussels have their own rules. The Crisis Center refers to the webs
 
 **How a fire works.** A fire needs three things: air, heat and fuel. Take one away and it goes out. You need three kinds of material: **tinder** that catches fire from a spark (completely dry), **kindling** that burns quickly, and **fuel wood** that burns slowly and evenly. Build them up in that order, for example as a tepee.
 
-**If you see a wildfire:** call 112. Follow existing paths away from the fire and the smoke, if possible at right angles to the wind direction. Flee to a public road, a large paved area or a built-up area.
+**If you see a wildfire:** get yourself to safety. Follow existing paths away from the fire and the smoke, if possible at right angles to the wind direction. Flee to a public road, a large paved area or a built-up area. Help others to a safe place. Call 112 as soon as possible and give recognisable landmarks, such as paths, pools, lookout towers or car parks. If you have no signal, evacuate as quickly as possible and speak to people you meet.
 
 Source: [Vlaanderen.be: Making a fire in or near a nature area](https://www.vlaanderen.be/natuur-milieu-en-klimaat/wat-mag-u-als-bezoeker-doen-in-de-vlaamse-natuur/vuur-maken-in-of-nabij-een-natuurgebied-kampvuur-kookvuur-fakkeltocht) · [National Crisis Center: Wildfire](https://crisiscenter.be/en/risks-belgium/natural-risks/wildfires) · [US Army FM 21-76](https://archive.org/details/fm-21-76-survival-manual)
 
@@ -215,7 +223,7 @@ Source: [Vlaanderen.be: Making a fire in or near a nature area](https://www.vlaa
 - Dew: tie cloths or tufts of fine grass around your ankles and walk through dewy grass before sunrise. Wring the water out into a container.
 - Water sometimes collects in tree forks or rock crevices.
 - Grazing animals (including deer) are a better guide to water than predators. Bees rarely go further than about six kilometres (four miles) from their nest and usually have water within that distance.
-- According to the American manual, rainwater that you collect in clean containers is usually safe. Water from lakes, ponds, marshes, springs and streams must be purified, especially near human settlements.
+- Rainwater that you collect in clean containers is usually safe. Water from lakes, ponds, marshes, springs and streams must be purified, especially near human settlements.
 - In Flanders, many bodies of water are polluted, too deep, too cold or dangerous in some other way. Pay attention to signs about blue-green algae.
 
 **Never drink**: seawater, urine or alcohol.
@@ -226,7 +234,7 @@ Source: [US Army FM 21-76](https://archive.org/details/fm-21-76-survival-manual)
 
 | Method | What it does | Limitations |
 | --- | --- | --- |
-| **Boiling** (best choice) | The CDC recommends letting water boil for a full minute. That kills pathogens, even at the altitudes travellers usually visit. | You need a fire or a stove. Chemicals remain. |
+| **Boiling** (best choice) | Let water boil for a full minute. That kills pathogens, even at the altitudes travellers usually visit. | You need a fire or a stove. Chemicals remain. |
 | **Filter** with pores smaller than 1 µm | Removes bacteria and parasites (protozoa) | Does not reliably remove viruses (for example norovirus) |
 | **Chlorine or iodine** | Works against bacteria and viruses | Works poorly against Cryptosporidium at practical concentrations. Always follow the product's instructions. |
 | **Chlorine dioxide** | Works against all pathogens in water, including Cryptosporidium | Follow the product's instructions |
@@ -244,12 +252,12 @@ Source: [CDC Yellow Book: Water disinfection for travelers](https://www.cdc.gov/
 
 ## Food: be extremely careful
 
-**You need it less urgently than you think.** You can go several weeks without food. Water, warmth and being found come first. The American manual even advises against eating if you have no water.
+**You need it less urgently than you think.** You can go several weeks without food. Water, warmth and being found come first. It is better not to eat if you have no water.
 
 **Mushrooms: do not eat them.**
 
-- The US Army is clear: do not eat mushrooms in a survival situation. Only a certain identification is good enough, and there is no room for experimenting. Some mushrooms kill quickly, and for some there is no antidote.
-- The Poison Centre says the same: there are **no tricks** to tell an edible mushroom from a poisonous one. Young mushrooms are not always edible. White mushrooms can be poisonous. A poisonous mushroom can taste good. Slugs also eat poisonous species. Cooking, drying or freezing does not make the poison of the death cap harmless. A single specimen can already be very serious.
+- Do not eat mushrooms in a survival situation. Only a certain identification is good enough, and there is no room for experimenting. Some mushrooms kill quickly, and for some there is no antidote.
+- There are **no tricks** to tell an edible mushroom from a poisonous one. Young mushrooms are not always edible. White mushrooms can be poisonous. A poisonous mushroom can taste good. Slugs also eat poisonous species. Cooking, drying or freezing does not make the poison of the death cap harmless. A single specimen can already be very serious.
 - Identifying with a book or a photo is very dangerous.
 - **In Flanders and Brussels, picking mushrooms in public areas is prohibited.** In Wallonia it is restricted: with the owner's permission, between sunrise and sunset, at most 10 litres per person, and not during the hunting season in state forests.
 
@@ -264,10 +272,10 @@ Source: [CDC Yellow Book: Water disinfection for travelers](https://www.cdc.gov/
 **Has someone eaten something anyway?**
 
 1. Remove the plant remains from the mouth and give a glass of water.
-2. Call the Poison Centre (070 245 245) or the GP.
+2. Contact the Poison Centre (070 245 245, if the network works) or the GP.
 3. Keep the plant: take a whole branch with leaves and flowers or fruits, or take photos.
 4. For mushrooms: keep the remains (raw, cooked, peeled). The Poison Centre asks which mushrooms, where they were picked, how they were stored and prepared, how much time passed between eating and symptoms, and whether everyone who ate them is ill.
-5. In case of serious symptoms: call 112.
+5. In case of serious symptoms: call 112. If you cannot get through, see What comes first, Getting help.
 
 Source: [US Army FM 21-76](https://archive.org/details/fm-21-76-survival-manual) · [Poison Centre: Tips for mushroom pickers](https://www.antigifcentrum.be/Toxinfos/tips-voor-paddenstoelenplukkers/) · [Poison Centre: Poisoning by plants](https://www.antigifcentrum.be/Toxinfos/vergiftiging-door-planten/) · [Poison Centre: Berries](https://www.antigifcentrum.be/Toxinfos/bessen/) · [Vlaanderen.be: What are you allowed to do as a visitor in Flemish nature?](https://www.vlaanderen.be/natuur-milieu-en-klimaat/wat-mag-u-als-bezoeker-doen-in-de-vlaamse-natuur)
 
@@ -276,7 +284,7 @@ Source: [US Army FM 21-76](https://archive.org/details/fm-21-76-survival-manual)
 1. **Before you set off:** leave a trip plan with someone who stays at home. If you have to leave your home in an emergency, leave a note saying when you left and where you are going.
 2. **Stay where you are** if you are lost. Only move if there is immediate danger to life.
 3. **Make yourself visible:** wear bright clothing, lay out your tarpaulin or stones in a shape that can be seen from above.
-4. **Give signals:** blow a whistle three times, pause, three times again. Flash SOS with a torch. Flash a mirror at aircraft.
+4. **Give signals:** blow a whistle three times, pause, three times again. Flash SOS with a torch. Flash a mirror at aircraft. A mirror needs no battery.
 5. **Save your energy.** Whistle instead of shouting.
 6. Do not make a fire when the fire risk is high.
 
@@ -290,17 +298,17 @@ Even in Belgium it can become dangerously hot outdoors. Heatstroke is life-threa
 
 **Recognising it:** headache, seeing black spots, dizziness or fainting, nausea and vomiting, muscle or abdominal cramps, red skin, first heavy sweating and then no more sweating, convulsions, confusion or drowsiness.
 
-**Call 112 in case of** impaired consciousness, abnormal behaviour, convulsions, if the person no longer sweats or cannot drink without vomiting, or with a body temperature above 39 °C.
+**Call 112 in case of** impaired consciousness, abnormal behaviour, convulsions, if the person no longer sweats or cannot drink without vomiting, or with a body temperature above 39 °C. If you cannot get through: have someone fetch help and start cooling in the meantime (see What comes first, Getting help).
 
 **What you do:** let the person rest in a cool place and cool them down immediately: a fan, wet cold cloths or cold packs in the groin, armpits and neck, spraying with cold water, hands and feet in cold water. If the heatstroke is the result of exertion and the person is fully conscious, give them something cool to drink. Do not give fever-reducing medicine.
 
 **Prevention:** avoid heavy exertion in the heat, drink enough, look for shade, wear light clothing, do not drink alcohol. Never leave people or animals behind in a car in the sun.
 
-Source: [Rode Kruis-Vlaanderen: First aid for heatstroke](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-hitteslag-of-hitteberoerte)
+Source: [Rode Kruis-Vlaanderen: First aid for heatstroke](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-hitteslag-of-hitteberoerte) · [National Park Service: Outdoor Emergency Plan](https://www.nps.gov/subjects/healthandsafety/upload/NPS-Outdoor-Emergency-Plan-508c.pdf)
 
 ## Per person
 
-| Who | What the sources say |
+| Who | What to do |
 | --- | --- |
 | Children | Teach them: stay where you are if you are lost, find a tree (or bench, lamppost, large stone), listen for your name, wave, blow a whistle, flash a torch. Small children often put berries, leaves or mushrooms in their mouths; keep an eye on them. |
 | Groups | Stay together. If someone has to leave the group, then with a buddy. Watch each other for cold and heat injuries. If someone is injured: two or more people go for help, the others stay. |

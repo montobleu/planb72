@@ -4,7 +4,7 @@ module: buiten
 volgorde: 4
 kort: "The RMI warning codes and their thresholds, thunderstorms and clouds, storms, flood-prone places, the coast and tides, why you do not cross a river, slippery conditions, and for those travelling abroad: mountains, snow and the European avalanche danger scale."
 status: concept
-datum: "2026-11-17"
+datum: "2026-11-18"
 bronnen:
   - naam: "RMI: Explanation of our warnings"
     url: https://www.meteo.be/en/weather/warnings/info-warnings
@@ -56,8 +56,14 @@ bronnen:
     url: https://rega.ch/en/news/news-from-the-world-of-rega/detail/how-to-raise-the-alarm-correctly
   - naam: "Rode Kruis-Vlaanderen via Gezondheid en Wetenschap: First aid for winter sports"
     url: https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-wintersport
+  - naam: "National Park Service: Outdoor Emergency Plan"
+    url: https://www.nps.gov/subjects/healthandsafety/upload/NPS-Outdoor-Emergency-Plan-508c.pdf
+  - naam: "FPS Economy: questions from households about electricity shortage"
+    url: https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door
+  - naam: "National Crisis Center: brochure Prepared together"
+    url: https://crisiscenter.be/sites/default/files/documents/files/WEB-Brochure%20Prepared%20Together-EN.pdf
 vertaling: machine
-origineel_datum: "2026-11-17"
+origineel_datum: "2026-11-18"
 ---
 
 ## The RMI warning codes
@@ -73,6 +79,12 @@ The RMI issues warnings several times a day for dangerous **wind, rain, thunders
 
 In case of great uncertainty, a code can also be issued at shorter notice.
 
+**How you receive the warnings**
+
+1. **Radio.** Follow the weather forecast first of all on radio and TV. During a power cut, the internet and mobile networks may fail: keep a battery radio, a wind-up radio or the car radio to hand.
+2. **If the internet works,** also check the RMI website or app.
+3. **Reading the weather yourself.** Clouds and thunder also tell you something, especially outdoors (see Reading clouds and thunderstorms).
+
 **How to read a warning**
 
 - "Very locally" is less than a quarter of a province, "locally" a quarter to half, "widespread" at least half.
@@ -82,7 +94,7 @@ In case of great uncertainty, a code can also be issued at shorter notice.
 - The RMI forecasts the weather, not the damage. Whether there will be flooding also depends on local conditions.
 - The RMI also issues a warning for **carbon monoxide poisoning** (without a colour) when windless weather with a strong temperature inversion hinders the discharge of flue gases.
 
-**Thresholds per colour** (as published by the RMI)
+**Thresholds per colour**
 
 | Phenomenon | Yellow | Orange | Red |
 | --- | --- | --- | --- |
@@ -101,15 +113,15 @@ Hourly amounts are forecast only one hour in advance.
 - **Patches of hoar frost**: hoar frost or moisture freezing on a road surface that was not wet from a shower.
 - **Patches of ice**: wet patches or remaining snow that freeze later.
 
-**What to do with orange or red for storm or flooding:** if you need the fire service but nobody's life is in danger, use the online counter 1722.be or call 1722. Call 112 only if a life is in danger or a rescue is needed.
+**What to do with orange or red for storm or flooding:** if you need the fire service but nobody's life is in danger, use the online counter 1722.be if the network works, or call 1722 if that number is active. Call 112 only if a life is in danger or a rescue is needed. If you cannot get through, see Emergency numbers in the app, If you cannot call.
 
 **Note:** the Agentschap Natuur en Bos has a **separate** colour code for the risk of wildfires (green, yellow, orange, red). It is independent of the RMI codes.
 
-Source: [RMI: Explanation of our warnings](https://www.meteo.be/en/weather/warnings/info-warnings) · [112.be: Frequently asked questions](https://112.be/en/frequently-asked-questions) · [National Crisis Center: Wildfire](https://crisiscenter.be/en/risks-belgium/natural-risks/wildfires)
+Source: [RMI: Explanation of our warnings](https://www.meteo.be/en/weather/warnings/info-warnings) · [National Crisis Center: Wind and storm](https://crisiscenter.be/en/risks-belgium/natural-risks/wind) · [National Crisis Center: brochure Prepared together](https://crisiscenter.be/sites/default/files/documents/files/WEB-Brochure%20Prepared%20Together-EN.pdf) · [FPS Economy: questions from households about electricity shortage](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door) · [National Crisis Center: Wildfire](https://crisiscenter.be/en/risks-belgium/natural-risks/wildfires)
 
 ## Reading clouds and thunderstorms
 
-PlanB72 includes only weather signs that the RMI itself describes. We leave out popular weather lore.
+Outdoors, or without radio and internet, you can watch for signs in the sky yourself. We leave out popular weather lore.
 
 - **Small tufts of cloud with turrets** (altocumulus castellanus, a type of high heaped cloud) indicate that thunderstorms may follow later in the day.
 - **Clouds with strong, column-shaped vertical growth** (cumulonimbus, the actual thunderclouds) announce that a thunderstorm is possible very soon or nearby. Thunderstorms always go with a cumulonimbus.
@@ -134,7 +146,7 @@ Source: [RMI: How do I protect myself against lightning?](https://www.meteo.be/n
 
 **Preparing:** secure loose objects or bring them inside (garden furniture, trampoline). Keep an eye on the weather forecast. Keep pets inside.
 
-**During:** go inside and stay inside. Close windows and doors. Follow the weather forecast.
+**During:** go inside and stay inside. Close windows and doors. Listen to the weather forecast and follow the recommendations.
 
 **If you have to travel anyway**
 
@@ -143,7 +155,7 @@ Source: [RMI: How do I protect myself against lightning?](https://www.meteo.be/n
 - Do not park near trees.
 - If there is lightning: stay away from metal structures, do not walk, stand still and crouch.
 
-**Outside in a forest or in the field:** the US Army recommends not building your shelter under dead trees or loose branches that could fall. For the RMI wind codes, the threshold is lower between 15 April and 15 November, because the trees are then in leaf.
+**Outside in a forest or in the field:** do not build your shelter under dead trees or loose branches that could fall. For the RMI wind codes, the threshold is lower between 15 April and 15 November, because the trees are then in leaf.
 
 Source: [National Crisis Center: Wind and storm](https://crisiscenter.be/en/risks-belgium/natural-risks/wind) · [RMI: Explanation of our warnings](https://www.meteo.be/en/weather/warnings/info-warnings) · [US Army FM 21-76](https://archive.org/details/fm-21-76-survival-manual)
 
@@ -159,9 +171,11 @@ Source: [National Crisis Center: Wind and storm](https://crisiscenter.be/en/risk
 
 **Knowing whether you live or are staying in a flood-prone area**
 
+Look this up in advance, while the internet works:
+
 - On the **Watertoets map** of Waterinfo Vlaanderen you can see the flood-prone areas (2019 version) and the maps that go with the Watertoets decree.
-- On **Waterinfo** you can find current water levels and forecasts for flooding, precipitation, drought and tides.
-- The Crisis Center recommends finding out about the zones that are vulnerable to flooding.
+- Find out about the zones that are vulnerable to flooding.
+- During high water, **Waterinfo** has current water levels and forecasts for flooding, precipitation, drought and tides. Without internet: listen to the radio.
 
 **Outside in the field**
 
@@ -176,7 +190,7 @@ Source: [National Crisis Center: Fluvial flooding](https://crisiscenter.be/en/ri
 
 ## Coast and tides
 
-**How tides work.** Ebb and flood are caused by the gravitational pull of the moon, and to a lesser extent of the sun. Along the Dutch coast there are two high tides and two low tides every 24 hours and 50 minutes; one tidal cycle lasts about 12 hours and 25 minutes.
+**How tides work.** Ebb and flood are caused by the gravitational pull of the moon, and to a lesser extent of the sun. Along the coast there are two high tides and two low tides every 24 hours and 50 minutes; one tidal cycle lasts about 12 hours and 25 minutes.
 
 | Tide | When | Effect |
 | --- | --- | --- |
@@ -187,8 +201,8 @@ The weather can make the water level differ from the calculated tide. In a storm
 
 **Where to find the data for the Belgian coast**
 
+- **Getijtafels Kust** (coastal tide tables): the times of high and low tide, published each year by the Flemish government. Look them up in advance or print them: then you also have them without internet.
 - **kustweerbericht.be**: sea and coastal weather forecast, waves, tide, wind and visibility at sea.
-- **Getijtafels Kust** (coastal tide tables): the times of high and low tide, published each year by the Flemish government.
 
 **Swimming in the sea**
 
@@ -202,32 +216,32 @@ Source: [Rijkswaterstaat: Tide](https://www.rijkswaterstaat.nl/water/waterdata-e
 
 ## Crossing rivers and streams: do not do it
 
-PlanB72 does not give techniques for crossing a river. Military survival manuals do describe them, for soldiers who are trained and equipped. For civilians, the sources say:
+PlanB72 does not give techniques for crossing a river: they are meant for soldiers who are trained and equipped. For civilians:
 
 - **Do not walk, swim or drive through moving water.** Just 15 cm of moving water can knock you over. Turn back.
 - In Belgium, **swimming in navigable waterways** (rivers, canals, harbour docks) is prohibited where it is not permitted. Many bodies of water in nature areas are polluted, too deep, too cold or dangerous in some other way.
 - Bridges over fast-flowing water can be washed away without warning.
-- The military manuals also name places to avoid: a rock ledge across the river (often indicates dangerous rapids), a river mouth (wide, strong current, tides), and whirlpools (which can pull you under water).
+- Also avoid these places: a rock ledge across the river (often indicates dangerous rapids), a river mouth (wide, strong current, tides), and whirlpools (which can pull you under water).
 
-**Someone has fallen into the water:** see to your own safety, try to rescue without going into the water yourself, call 112. Only go into the water if you are trained for it: a drowning person who is conscious will cling to the rescuer in panic.
+**Someone has fallen into the water:** see to your own safety, try to rescue without going into the water yourself, call 112 or have someone call. If you cannot get through, send someone to fetch help (see the guide on dangers in nature, If you cannot get through). Only go into the water if you are trained for it: a drowning person who is conscious will cling to the rescuer in panic.
 
-Source: [Ready.gov: Floods](https://www.ready.gov/floods) · [Vlaanderen.be: Swimming or doing water sports safely in open water](https://www.vlaanderen.be/natuur-milieu-en-klimaat/wat-mag-u-als-bezoeker-doen-in-de-vlaamse-natuur/veilig-zwemmen-of-watersporten-in-open-water) · [US Army ATP 3-50.21](https://archive.org/details/survival-atp-3-50-21) · [Rode Kruis-Vlaanderen: First aid for drowning](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-verdrinking)
+Source: [Ready.gov: Floods](https://www.ready.gov/floods) · [Vlaanderen.be: Swimming or doing water sports safely in open water](https://www.vlaanderen.be/natuur-milieu-en-klimaat/wat-mag-u-als-bezoeker-doen-in-de-vlaamse-natuur/veilig-zwemmen-of-watersporten-in-open-water) · [US Army ATP 3-50.21](https://archive.org/details/survival-atp-3-50-21) · [Rode Kruis-Vlaanderen: First aid for drowning](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-verdrinking) · [National Park Service: Outdoor Emergency Plan](https://www.nps.gov/subjects/healthandsafety/upload/NPS-Outdoor-Emergency-Plan-508c.pdf)
 
 ## Snow, freezing rain and slippery conditions in Belgium
 
-- Stay inside as much as possible. Follow the weather forecast and the warnings about road safety.
+- Stay inside as much as possible. Listen to the weather forecast and follow the warnings about road safety.
 - If you have to go outside: wear several layers, cover your whole body, wear a hat.
 - **By car:** watch your speed, be extra careful on bends. Put a blanket, an ice scraper and a small bottle of water in the car. Take hot drinks or water with you for when you are stuck in a traffic jam.
 - **By bicycle:** watch your speed and keep your distance, so that you have to brake less.
-- Report slippery roads via the RMI app, so that gritting services can respond faster.
+- If the network works, report slippery roads via the RMI app, so that gritting services can respond faster.
 
 Source: [National Crisis Center: Snow](https://crisiscenter.be/en/risks-belgium/natural-risks/snow) · [RMI: Explanation of our warnings](https://www.meteo.be/en/weather/warnings/info-warnings)
 
 ## Mountains and snow: for those travelling abroad
 
-**Emergency numbers.** 112 works throughout the EU and in Switzerland. In Switzerland you can also call the air rescue service Rega directly on 1414, or from abroad on +41 333 333 333; Rega itself mainly recommends its emergency app. The German Alpenverein recommends saving the numbers of the local mountain rescue in your phone. Without signal: the alpine distress signal (six signals per minute, see the guide on signals).
+**Emergency numbers.** 112 works throughout the EU and in Switzerland. In Switzerland you can also call the air rescue service Rega directly on 1414, or from abroad on +41 333 333 333; Rega itself mainly recommends its emergency app. Save the numbers of the local mountain rescue in your phone. Without signal: the alpine distress signal (six signals per minute, see the guide on signals). If you are in a group and someone is injured, send two or more people to raise the alarm; the others stay with the injured person (see the guide on the emergency call).
 
-**The European avalanche danger scale** (EAWS, used in all Alpine countries)
+**The European avalanche danger scale** (used in all Alpine countries)
 
 | Level | Name | What it means | How often |
 | --- | --- | --- | --- |
@@ -235,11 +249,11 @@ Source: [National Crisis Center: Snow](https://crisiscenter.be/en/risks-belgium/
 | 2 | Moderate | Increased danger in certain places. Triggering possible, mainly with a high additional load on the indicated steep slopes. Often no alarm signs, which does not mean it is safe. | About 50 per cent of the season, about 30 per cent of deaths |
 | 3 | Considerable | Dangerous. Triggering possible, even with a low additional load. Recent avalanches, cracks and "whumpf" sounds. | About 30 per cent of the season, about 50 per cent of deaths |
 | 4 | High | Very dangerous. Triggering likely, even with a low load, on many steep slopes. Many large natural avalanches possible. | A few days per winter, about 10 per cent of deaths |
-| 5 | Very high | Exceptional. Numerous very large natural avalanches, even on moderately steep slopes. | Very rarely, about 1 per cent of deaths (SLF) |
+| 5 | Very high | Exceptional. Numerous very large natural avalanches, even on moderately steep slopes. | Very rarely, about 1 per cent of deaths |
 
 In practice, the most dangerous level for those going off-piste is level 3: that is where most deaths occur.
 
-**What the Swiss avalanche institute SLF recommends**
+**What to do at each level**
 
 | Level | Advice |
 | --- | --- |
@@ -251,7 +265,7 @@ In practice, the most dangerous level for those going off-piste is level 3: that
 
 A danger level applies to a whole region, not to a single slope, and is always a forecast that you must assess on the spot.
 
-**Moving in mountains and snow** (US Army)
+**Moving in mountains and snow**
 
 - Avoid places where avalanches of earth, rock or snow can fall, and deep crevasses in ice fields.
 - Lee slopes (the side sheltered from the wind) collect snow blown off the windward side and form slabs.
@@ -262,16 +276,16 @@ A danger level applies to a whole region, not to a single slope, and is always a
 
 **Health during winter sports.** Cold and alcohol increase the risk of hypothermia; alcohol widens the small blood vessels in the skin. You can also get sunstroke in winter. After a fall: if in doubt, treat it as a fracture.
 
-Source: [EAWS: Avalanche danger scale](https://www.avalanches.org/standards/avalanche-danger-scale/) · [SLF: Danger levels](https://www.slf.ch/en/avalanche-bulletin-and-snow-situation/about-the-avalanche-bulletin/danger-levels/) · [Rega: How to raise the alarm correctly](https://rega.ch/en/news/news-from-the-world-of-rega/detail/how-to-raise-the-alarm-correctly) · [Deutscher Alpenverein: Erste Hilfe](https://www.forststeig.sachsen.de/download/Erste_Hilfe_2012_DAV.pdf) · [Deutscher Alpenverein: So geht das, Notfall alpin](https://www.alpenverein.de/artikel/so-geht-das-notfall-alpin_62bc1334-e9c7-4d8b-8a02-89dd681cbb83) · [US Army ATP 3-50.21](https://archive.org/details/survival-atp-3-50-21) · [Rode Kruis-Vlaanderen: First aid for winter sports](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-wintersport) · [112.be: Frequently asked questions](https://112.be/en/frequently-asked-questions)
+Source: [EAWS: Avalanche danger scale](https://www.avalanches.org/standards/avalanche-danger-scale/) · [SLF: Danger levels](https://www.slf.ch/en/avalanche-bulletin-and-snow-situation/about-the-avalanche-bulletin/danger-levels/) · [Rega: How to raise the alarm correctly](https://rega.ch/en/news/news-from-the-world-of-rega/detail/how-to-raise-the-alarm-correctly) · [Deutscher Alpenverein: Erste Hilfe](https://www.forststeig.sachsen.de/download/Erste_Hilfe_2012_DAV.pdf) · [Deutscher Alpenverein: So geht das, Notfall alpin](https://www.alpenverein.de/artikel/so-geht-das-notfall-alpin_62bc1334-e9c7-4d8b-8a02-89dd681cbb83) · [US Army ATP 3-50.21](https://archive.org/details/survival-atp-3-50-21) · [Rode Kruis-Vlaanderen: First aid for winter sports](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-wintersport) · [112.be: Frequently asked questions](https://112.be/en/frequently-asked-questions) · [National Park Service: Outdoor Emergency Plan](https://www.nps.gov/subjects/healthandsafety/upload/NPS-Outdoor-Emergency-Plan-508c.pdf)
 
 ## Per place
 
 | Place | What to watch out for |
 | --- | --- |
-| At home | Follow RMI warnings. In a storm: stay inside, secure loose objects. In case of flooding: 1722 if nobody's life is in danger. |
+| At home | Follow RMI warnings, especially via the radio. In a storm: stay inside, secure loose objects. In case of flooding: 1722 if nobody's life is in danger and the network works. |
 | On foot in forest or fields | In a thunderstorm: away from isolated trees, forest edges, open plains. In a storm: never shelter under a tree. No sleeping place in the bed of a stream. |
 | In the car | Do not drive through water. Do not park near trees in a storm. A metal car is a good shelter in a thunderstorm. Blanket, ice scraper and water in the car in winter. |
-| At the coast | Swim only in supervised zones. Follow tides and storm surge via kustweerbericht.be and the RMI. |
+| At the coast | Swim only in supervised zones. Look up the tide tables in advance. Follow storm surge via the radio, and via kustweerbericht.be and the RMI if the network works. |
 | In the mountains | Read the avalanche bulletin and danger level. Inexperienced: stay on the pistes from level 3. Save the emergency numbers. |
 
 Source: [RMI: Explanation of our warnings](https://www.meteo.be/en/weather/warnings/info-warnings) · [National Crisis Center: Wind and storm](https://crisiscenter.be/en/risks-belgium/natural-risks/wind) · [RMI: How do I protect myself against lightning?](https://www.meteo.be/nl/switch-language/634?nis=21004) · [Ready.gov: Floods](https://www.ready.gov/floods) · [National Crisis Center: Snow](https://crisiscenter.be/en/risks-belgium/natural-risks/snow) · [Vlaanderen.be: Swimming safely](https://www.vlaanderen.be/natuur-milieu-en-klimaat/wat-mag-u-als-bezoeker-doen-in-de-vlaamse-natuur/veilig-zwemmen-of-watersporten-in-open-water) · [SLF: Danger levels](https://www.slf.ch/en/avalanche-bulletin-and-snow-situation/about-the-avalanche-bulletin/danger-levels/) · [US Army FM 21-76](https://archive.org/details/fm-21-76-survival-manual)

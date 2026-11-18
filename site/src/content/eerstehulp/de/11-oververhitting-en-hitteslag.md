@@ -1,9 +1,9 @@
 ---
 titel: Überhitzung und Hitzschlag
 volgorde: 11
-kort: "Beenden Sie jede Anstrengung, bringen Sie die Person an einen kühlen Ort und kühlen Sie sofort. Bei Verwirrtheit, Krampfanfällen oder mehr als 39 °C: Rufen Sie 112 an."
+kort: "Beenden Sie jede Anstrengung, bringen Sie die Person an einen kühlen Ort und kühlen Sie sofort. Bei Verwirrtheit, Krampfanfällen oder mehr als 39 °C: Rufen Sie 112 an oder lassen Sie Hilfe holen."
 status: concept
-datum: "2026-11-17"
+datum: "2026-11-18"
 bronnen:
   - naam: "Gezondheid en Wetenschap (Rode Kruis-Vlaanderen): Erste Hilfe bei Hitzschlag"
     url: https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-hitteslag-of-hitteberoerte
@@ -13,13 +13,17 @@ bronnen:
     url: https://www.ifrc.org/sites/default/files/2022-02/EN_GFARC_GUIDELINES_2020.pdf
   - naam: "European Resuscitation Council: The ERC Guidelines 2025 on Resuscitation for Everyone"
     url: https://www.erc.edu/media/p5ymaeej/gl2025_layperson_book_ipdf-v11-e.pdf
+  - naam: "European Resuscitation Council Guidelines 2021: First aid"
+    url: https://cprguidelines-old.erc.edu/assets/guidelines/European-Resuscitation-Council-Guidelines-2021-Fi.pdf
+  - naam: "112.be: Häufig gestellte Fragen"
+    url: https://112.be/de/haeufig-gestellte-fragen
 vertaling: machine
-origineel_datum: "2026-11-17"
+origineel_datum: "2026-11-18"
 ---
 
 ## Erkennen
 
-Überhitzung entsteht nach langer Einwirkung hoher Temperaturen oder nach schwerer Anstrengung in der Wärme. Die IFRC unterscheidet zwei Stufen. Ein Hitzschlag ist lebensbedrohlich.
+Überhitzung entsteht nach langer Einwirkung hoher Temperaturen oder nach schwerer Anstrengung in der Wärme. Es gibt zwei Stufen. Ein Hitzschlag ist lebensbedrohlich.
 
 Leichte bis mäßige Überhitzung (Hitzeerschöpfung):
 
@@ -35,7 +39,7 @@ Hitzschlag:
 - die betroffene Person befindet sich in einer warmen Umgebung, kommt gerade von dort oder hat gerade eine schwere Anstrengung hinter sich;
 - zuerst starkes Schwitzen, danach kein Schwitzen mehr;
 - rote, trockene, heiße Haut;
-- hohe Körpertemperatur: Die belgische Richtlinie nennt 39 °C als Grenze, um 112 anzurufen, die IFRC spricht beim Hitzschlag von mehr als 40 °C;
+- hohe Körpertemperatur: Rufen Sie ab 39 °C die 112 an;
 - Kopfschmerzen, schwarze Flecken sehen, Schwindel, Ohnmacht;
 - Übelkeit und Erbrechen, Muskel- oder Bauchkrämpfe, Schmerzen im ganzen Körper;
 - Verwirrtheit, Benommenheit oder seltsames Verhalten;
@@ -53,9 +57,9 @@ Quelle: [Gezondheid en Wetenschap: Hitzschlag](https://www.gezondheidenwetenscha
 
 1. Lassen Sie die betroffene Person jede Anstrengung beenden und ruhen. Halten Sie sie so ruhig wie möglich.
 2. Bringen Sie sie an einen kühlen Ort. Ziehen Sie überflüssige Kleidung aus.
-3. Rufen Sie bei Zeichen eines Hitzschlags 112 an.
+3. Rufen Sie bei Zeichen eines Hitzschlags 112 an oder lassen Sie jemanden anrufen. Kommt kein Anruf zustande, siehe Rufen Sie 112 an, wenn.
 4. Kühlen Sie sofort. Je schwerer die Beschwerden, desto kräftiger dürfen Sie kühlen. Wählen Sie die beste Methode, die Ihnen zur Verfügung steht:
-   - Beste Wahl: Tauchen Sie die Person bis zum Hals in ein Bad mit lauwarmem bis kaltem Wasser. Die IFRC nennt Wasser von 1 bis 26 °C, etwa 15 Minuten lang oder bis die Temperatur unter 39 °C sinkt. Die belgische Richtlinie sagt: bis sich der Zustand bessert, höchstens 15 Minuten.
+   - Beste Wahl: Tauchen Sie die Person bis zum Hals in ein Bad mit lauwarmem bis kaltem Wasser, bis sich der Zustand bessert und höchstens 15 Minuten lang.
    - Gelingt das Eintauchen nicht, zum Beispiel weil kein kaltes Wasser vorhanden ist oder weil die Person verwirrt ist und sich weigert: Legen Sie ein kühles, nasses Laken über die Person oder machen Sie sie mit kaltem Wasser nass.
    - Legen Sie Eiswürfel in einem Beutel Wasser, Kühlbeutel oder nasse, kalte Tücher auf Stellen mit großen Blutgefäßen: in die Leisten, unter die Achseln und in den Nacken.
    - Besprühen oder übergießen Sie die Person mit kaltem Wasser. Eine Sprühflasche für Pflanzen kann helfen.
@@ -90,11 +94,11 @@ Quelle: [Gezondheid en Wetenschap: Hitzschlag](https://www.gezondheidenwetenscha
 
 ## Wenn Hilfe lange auf sich warten lässt
 
-- Kühlen Sie weiter mit jedem Mittel, das Sie haben: Wasser, nasse Tücher, Schatten, Zufächeln. Der ERC sagt: Beginnen Sie aktiv zu kühlen mit allem, was verfügbar ist, zum Beispiel Kleidung ausziehen, nasse Tücher, Ventilatoren und kühles Wasser.
+- Kühlen Sie weiter aktiv mit allem, was Sie haben: Kleidung ausziehen, kühles Wasser, nasse Tücher, Schatten, Zufächeln oder ein Ventilator.
 - Sorgen Sie dafür, dass Kühlmittel an Orten bereitliegen, an denen das Risiko einer Überhitzung groß ist, damit es keine Verzögerung gibt.
 - Beobachten Sie Temperatur und Bewusstsein. Versuchen Sie, die Temperatur unter 39 °C zu bringen und dort zu halten.
 - Halten Sie die Person nach dem Abkühlen kühl und lassen Sie sie ruhen. Die meisten Menschen mit leichter bis mäßiger Überhitzung erholen sich vollständig.
-- Austrocknung: Lassen Sie jemanden, der voll bei Bewusstsein ist, ausreichend trinken. Bei leichter Austrocknung genügt Wasser. Bei stärkerer Austrocknung empfiehlt die IFRC eine orale Rehydratationslösung. Haben Sie keine, geben Sie Apfelsaft, Kokoswasser oder Wasser.
+- Austrocknung: Lassen Sie jemanden, der voll bei Bewusstsein ist, ausreichend trinken. Bei leichter Austrocknung genügt Wasser. Bei stärkerer Austrocknung geben Sie eine orale Rehydratationslösung. Haben Sie keine, geben Sie Apfelsaft, Kokoswasser oder Wasser.
 - Holen Sie bei Austrocknung ärztlichen Rat ein, wenn sich der Zustand nicht schnell bessert, bei einem Säugling, Kind oder älteren Menschen, wenn jemand mehr Flüssigkeit verliert, als er trinken kann, wenn jemand wenig oder kein Wasser lässt und der Urin dunkel ist, oder bei Fieber oder Zeichen einer Überhitzung.
 - Nehmen Sie auf Reisen in abgelegene Gebiete mit wenig Wasser genug zu trinken mit. Vermeiden Sie schwere Anstrengung zur heißesten Tageszeit.
 
@@ -112,7 +116,14 @@ Quelle: [IFRC Guidelines 2020](https://www.ifrc.org/sites/default/files/2022-02/
 
 Suchen Sie einen Arzt auf, wenn Hitzekrämpfe anhalten.
 
-Quelle: [Gezondheid en Wetenschap: Hitzschlag](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-hitteslag-of-hitteberoerte) · [Gezondheid en Wetenschap: Hitzekrämpfe](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-hittekrampen) · [IFRC Guidelines 2020](https://www.ifrc.org/sites/default/files/2022-02/EN_GFARC_GUIDELINES_2020.pdf)
+**Kommt kein Anruf zustande**
+
+- Lassen Sie die betroffene Person nur allein, wenn es keine andere Möglichkeit gibt, und auf keinen Fall in einer warmen Umgebung. Sprechen Sie Umstehende direkt an, damit sie Hilfe holen, und geben Sie mit, wo es ist, was passiert ist, wie viele Betroffene es gibt und in welchem Zustand sie sind.
+- Lassen Sie die anderen Umstehenden beim Kühlen und beim Schaffen von Schatten helfen.
+- Kühlen Sie inzwischen weiter mit allem, was Sie haben (siehe Wenn Hilfe lange auf sich warten lässt).
+- Siehe auch Thema 1 (Kommt kein Anruf zustande: Hilfe holen ohne Telefon) und Notrufnummern in der App, Wenn kein Anruf möglich ist.
+
+Quelle: [Gezondheid en Wetenschap: Hitzschlag](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-hitteslag-of-hitteberoerte) · [Gezondheid en Wetenschap: Hitzekrämpfe](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-hittekrampen) · [IFRC Guidelines 2020](https://www.ifrc.org/sites/default/files/2022-02/EN_GFARC_GUIDELINES_2020.pdf) · [ERC Guidelines 2025 for Everyone](https://www.erc.edu/media/p5ymaeej/gl2025_layperson_book_ipdf-v11-e.pdf) · [ERC Guidelines 2021: First aid](https://cprguidelines-old.erc.edu/assets/guidelines/European-Resuscitation-Council-Guidelines-2021-Fi.pdf) · [112.be: Häufig gestellte Fragen](https://112.be/de/haeufig-gestellte-fragen)
 
 ## Nicht tun
 

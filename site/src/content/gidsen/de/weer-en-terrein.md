@@ -4,7 +4,7 @@ module: buiten
 volgorde: 4
 kort: "Die Warnstufen des KMI und ihre Schwellenwerte, Gewitter und Wolken, Sturm, überschwemmungsgefährdete Orte, Küste und Gezeiten, warum Sie keinen Fluss durchqueren, Glätte und für Reisende: Berge, Schnee und die europäische Lawinengefahrenskala."
 status: concept
-datum: "2026-11-17"
+datum: "2026-11-18"
 bronnen:
   - naam: "KMI: Erläuterungen zu unseren Warnungen"
     url: https://www.meteo.be/de/wetter/warnungen/erklarung-warnungen
@@ -56,8 +56,14 @@ bronnen:
     url: https://rega.ch/en/news/news-from-the-world-of-rega/detail/how-to-raise-the-alarm-correctly
   - naam: "Rode Kruis-Vlaanderen über Gezondheid en Wetenschap: Erste Hilfe beim Wintersport"
     url: https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-wintersport
+  - naam: "National Park Service: Outdoor Emergency Plan"
+    url: https://www.nps.gov/subjects/healthandsafety/upload/NPS-Outdoor-Emergency-Plan-508c.pdf
+  - naam: "FÖD Wirtschaft: Fragen von Haushalten zur Stromknappheit"
+    url: https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door
+  - naam: "Nationales Krisenzentrum: Broschüre Gemeinsam vorbereitet"
+    url: https://krisenzentrum.be/sites/default/files/documents/files/WEB-Brosch%C3%BCre%20Gemeinsam%20Vorbereitet-DE.pdf
 vertaling: machine
-origineel_datum: "2026-11-17"
+origineel_datum: "2026-11-18"
 ---
 
 ## Die Warnstufen des KMI
@@ -73,6 +79,12 @@ Das KMI gibt mehrmals täglich Warnungen vor gefährlichem **Wind, Regen, Gewitt
 
 Bei großer Unsicherheit kann eine Warnstufe auch kurzfristiger kommen.
 
+**Wie Sie die Warnungen erhalten**
+
+1. **Radio.** Verfolgen Sie die Wettervorhersage in erster Linie über Radio und Fernsehen. Bei einer Stromunterbrechung können Internet und Mobilfunknetze ausfallen: Halten Sie dann ein batteriebetriebenes Radio, ein Kurbelradio oder das Autoradio bereit.
+2. **Funktioniert das Internet,** schauen Sie auch auf die Website oder in die App des KMI.
+3. **Das Wetter selbst lesen.** Wolken und Donner verraten Ihnen auch etwas, vor allem draußen (siehe Wolken und Gewitter lesen).
+
 **Wie Sie eine Warnung lesen**
 
 - "Sehr lokal" ist weniger als ein Viertel einer Provinz, "lokal" ein Viertel bis die Hälfte, "verbreitet" mindestens die Hälfte.
@@ -82,7 +94,7 @@ Bei großer Unsicherheit kann eine Warnstufe auch kurzfristiger kommen.
 - Das KMI sagt das Wetter vorher, nicht den Schaden. Ob es zu Wasserschäden kommt, hängt auch von den örtlichen Gegebenheiten ab.
 - Das KMI gibt auch eine Warnung vor **Kohlenmonoxidvergiftung** heraus (ohne Farbe), wenn windstilles Wetter mit einer starken Temperaturinversion den Abzug von Rauchgasen behindert.
 
-**Schwellenwerte pro Farbe** (wie das KMI sie veröffentlicht)
+**Schwellenwerte pro Farbe**
 
 | Phänomen | Gelb | Orange | Rot |
 | --- | --- | --- | --- |
@@ -101,15 +113,15 @@ Stündliche Mengen werden nur eine Stunde im Voraus vorhergesagt.
 - **Reifglätte**: Reif oder Feuchtigkeit, die auf einer Fahrbahn gefriert, die nicht durch einen Schauer nass war.
 - **Eisglätte**: nasse Stellen oder Schneereste, die später gefrieren.
 
-**Was Sie bei Orange oder Rot für Sturm oder Wasserschäden tun:** Brauchen Sie die Feuerwehr, ist aber niemand in Lebensgefahr, dann nutzen Sie den Online-Schalter 1722.be oder rufen Sie 1722 an. Rufen Sie 112 nur bei Lebensgefahr an oder wenn eine Rettung nötig ist.
+**Was Sie bei Orange oder Rot für Sturm oder Wasserschäden tun:** Brauchen Sie die Feuerwehr, ist aber niemand in Lebensgefahr, dann nutzen Sie, wenn das Netz funktioniert, den Online-Schalter 1722.be oder rufen Sie 1722 an, wenn diese Nummer aktiv ist. Rufen Sie 112 nur bei Lebensgefahr an oder wenn eine Rettung nötig ist. Kommt kein Anruf zustande, siehe Notrufnummern in der App, Wenn kein Anruf möglich ist.
 
 **Achtung:** Das Agentschap Natuur en Bos (flämische Behörde für Natur und Wald) hat eine **eigene** Farbstufe für das Risiko von Naturbränden (Grün, Gelb, Orange, Rot). Diese ist von den KMI-Stufen unabhängig.
 
-Quelle: [KMI: Erläuterungen zu unseren Warnungen](https://www.meteo.be/de/wetter/warnungen/erklarung-warnungen) · [112.be: Häufig gestellte Fragen](https://112.be/de/haeufig-gestellte-fragen) · [Nationales Krisenzentrum: Naturbrand](https://krisenzentrum.be/de/risiken-belgien/naturrisiken/naturbrand)
+Quelle: [KMI: Erläuterungen zu unseren Warnungen](https://www.meteo.be/de/wetter/warnungen/erklarung-warnungen) · [Nationales Krisenzentrum: Wind und Sturm](https://krisenzentrum.be/de/risiken-belgien/naturrisiken/wind-und-sturm) · [Nationales Krisenzentrum: Broschüre Gemeinsam vorbereitet](https://krisenzentrum.be/sites/default/files/documents/files/WEB-Brosch%C3%BCre%20Gemeinsam%20Vorbereitet-DE.pdf) · [FÖD Wirtschaft: Fragen von Haushalten zur Stromknappheit](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door) · [Nationales Krisenzentrum: Naturbrand](https://krisenzentrum.be/de/risiken-belgien/naturrisiken/naturbrand)
 
 ## Wolken und Gewitter lesen
 
-PlanB72 nimmt nur Wetterzeichen auf, die das KMI selbst beschreibt. Volksweisheiten über das Wetter lassen wir weg.
+Draußen, oder ohne Radio und Internet, können Sie selbst auf Zeichen am Himmel achten. Volksweisheiten über das Wetter lassen wir weg.
 
 - **Kleine Wolkenflocken mit Türmchen** (Altocumulus castellanus, eine Art hoher Quellwolken) deuten darauf hin, dass später am Tag ein Gewitter folgen kann.
 - **Wolken mit starkem, säulenförmigem vertikalem Wachstum** (Cumulonimbus, die eigentlichen Gewitterwolken) kündigen an, dass gleich oder in der Nähe ein Gewitter möglich ist. Ein Gewitter gehört immer zu einem Cumulonimbus.
@@ -134,7 +146,7 @@ Quelle: [KMI: Wie schütze ich mich vor Blitzschlag?](https://www.meteo.be/nl/sw
 
 **Vorbereiten:** Befestigen Sie lose Gegenstände oder bringen Sie sie nach drinnen (Gartenmöbel, Trampolin). Behalten Sie die Wettervorhersage im Auge. Lassen Sie Haustiere drinnen.
 
-**Während des Sturms:** Gehen Sie nach drinnen und bleiben Sie drinnen. Schließen Sie Fenster und Türen. Verfolgen Sie den Wetterbericht.
+**Während des Sturms:** Gehen Sie nach drinnen und bleiben Sie drinnen. Schließen Sie Fenster und Türen. Hören Sie den Wetterbericht und befolgen Sie die Empfehlungen.
 
 **Müssen Sie trotzdem unterwegs sein**
 
@@ -143,7 +155,7 @@ Quelle: [KMI: Wie schütze ich mich vor Blitzschlag?](https://www.meteo.be/nl/sw
 - Parken Sie nicht in der Nähe von Bäumen.
 - Bei Blitzschlag: Halten Sie sich von Metallkonstruktionen fern, laufen Sie nicht, bleiben Sie stehen und gehen Sie in die Hocke.
 
-**Draußen in einem Wald oder im Gelände:** Die US-Armee empfiehlt, Ihren Unterschlupf nicht unter toten Bäumen oder losen Ästen zu bauen, die herabfallen können. Bei den KMI-Windstufen liegt der Schwellenwert zwischen dem 15. April und dem 15. November niedriger, weil die Bäume dann Laub tragen.
+**Draußen in einem Wald oder im Gelände:** Bauen Sie Ihren Unterschlupf nicht unter toten Bäumen oder losen Ästen, die herabfallen können. Bei den KMI-Windstufen liegt der Schwellenwert zwischen dem 15. April und dem 15. November niedriger, weil die Bäume dann Laub tragen.
 
 Quelle: [Nationales Krisenzentrum: Wind und Sturm](https://krisenzentrum.be/de/risiken-belgien/naturrisiken/wind-und-sturm) · [KMI: Erläuterungen zu unseren Warnungen](https://www.meteo.be/de/wetter/warnungen/erklarung-warnungen) · [US Army FM 21-76](https://archive.org/details/fm-21-76-survival-manual)
 
@@ -159,9 +171,11 @@ Quelle: [Nationales Krisenzentrum: Wind und Sturm](https://krisenzentrum.be/de/r
 
 **Wissen, ob Sie in einem überschwemmungsgefährdeten Gebiet wohnen oder sich aufhalten**
 
+Schlagen Sie dies vorab nach, wenn das Internet funktioniert:
+
 - Auf der **Watertoets-Karte** von Waterinfo Vlaanderen sehen Sie die überschwemmungsgefährdeten Gebiete (Fassung 2019) und die Karten zum Watertoets-Erlass.
-- Auf **Waterinfo** finden Sie aktuelle Wasserstände und Vorhersagen für Überschwemmung, Niederschlag, Trockenheit und Gezeiten.
-- Das Krisenzentrum empfiehlt, sich über die Zonen zu informieren, die überschwemmungsgefährdet sind.
+- Informieren Sie sich über die Zonen, die überschwemmungsgefährdet sind.
+- Bei Hochwasser finden Sie auf **Waterinfo** aktuelle Wasserstände und Vorhersagen für Überschwemmung, Niederschlag, Trockenheit und Gezeiten. Ohne Internet: Hören Sie Radio.
 
 **Draußen im Gelände**
 
@@ -176,7 +190,7 @@ Quelle: [Nationales Krisenzentrum: Flussüberschwemmung](https://krisenzentrum.b
 
 ## Küste und Gezeiten
 
-**Wie Gezeiten funktionieren.** Ebbe und Flut entstehen durch die Anziehungskraft des Mondes und in geringerem Maß der Sonne. An der niederländischen Küste gibt es zweimal Hochwasser und zweimal Niedrigwasser je 24 Stunden und 50 Minuten; ein Gezeitenzyklus dauert ungefähr 12 Stunden und 25 Minuten.
+**Wie Gezeiten funktionieren.** Ebbe und Flut entstehen durch die Anziehungskraft des Mondes und in geringerem Maß der Sonne. An der Küste gibt es zweimal Hochwasser und zweimal Niedrigwasser je 24 Stunden und 50 Minuten; ein Gezeitenzyklus dauert ungefähr 12 Stunden und 25 Minuten.
 
 | Gezeit | Wann | Folge |
 | --- | --- | --- |
@@ -187,8 +201,8 @@ Das Wetter kann den Wasserstand von der berechneten Gezeit abweichen lassen. Bei
 
 **Wo Sie die Daten für die belgische Küste finden**
 
+- **Getijtafels Kust** (Gezeitentafeln Küste): die Zeitpunkte von Hoch- und Niedrigwasser, jährlich veröffentlicht von der flämischen Regierung. Schlagen Sie sie vorab nach oder drucken Sie sie aus: Dann haben Sie sie auch ohne Internet.
 - **kustweerbericht.be**: See- und Küstenwetterbericht, Wellen, Gezeiten, Wind und Sicht auf See.
-- **Getijtafels Kust** (Gezeitentafeln Küste): die Zeitpunkte von Hoch- und Niedrigwasser, jährlich veröffentlicht von der flämischen Regierung.
 
 **Schwimmen im Meer**
 
@@ -202,32 +216,32 @@ Quelle: [Rijkswaterstaat: Gezeiten](https://www.rijkswaterstaat.nl/water/waterda
 
 ## Flüsse und Bäche durchqueren: nicht tun
 
-PlanB72 gibt keine Techniken an, um einen Fluss zu durchqueren. Militärische Überlebenshandbücher beschreiben diese, für Soldaten, die dafür ausgebildet und ausgerüstet sind. Für Bürger sagen die Quellen:
+PlanB72 gibt keine Techniken an, um einen Fluss zu durchqueren: Diese sind für Soldaten gedacht, die dafür ausgebildet und ausgerüstet sind. Für Bürger gilt:
 
 - **Gehen, schwimmen oder fahren Sie nicht durch fließendes Wasser.** Schon 15 cm fließendes Wasser können Sie umwerfen. Kehren Sie um.
 - In Belgien ist **Schwimmen in schiffbaren Wasserläufen** (Flüsse, Kanäle, Hafenbecken) dort verboten, wo es nicht erlaubt ist. Viele Gewässer in Naturgebieten sind verschmutzt, zu tief, zu kalt oder auf andere Weise gefährlich.
 - Brücken über schnell fließendem Wasser können ohne Vorwarnung weggespült werden.
-- Auch die militärischen Handbücher nennen Stellen, die Sie meiden müssen: eine Felsleiste quer über den Fluss (weist oft auf gefährliche Stromschnellen hin), eine Flussmündung (breit, starke Strömung, Gezeiten) und Strudel (die Sie unter Wasser ziehen können).
+- Meiden Sie auch diese Stellen: eine Felsleiste quer über den Fluss (weist oft auf gefährliche Stromschnellen hin), eine Flussmündung (breit, starke Strömung, Gezeiten) und Strudel (die Sie unter Wasser ziehen können).
 
-**Jemand ist ins Wasser gefallen:** Sorgen Sie für Ihre eigene Sicherheit, versuchen Sie zu retten, ohne selbst ins Wasser zu gehen, rufen Sie 112 an. Gehen Sie nur ins Wasser, wenn Sie dafür ausgebildet sind: Ein Ertrinkender, der bei Bewusstsein ist, klammert sich in Panik an den Retter.
+**Jemand ist ins Wasser gefallen:** Sorgen Sie für Ihre eigene Sicherheit, versuchen Sie zu retten, ohne selbst ins Wasser zu gehen, rufen Sie 112 an oder lassen Sie jemanden anrufen. Kommt kein Anruf zustande, schicken Sie jemanden los, um Hilfe zu holen (siehe den Leitfaden zu Gefahren in der Natur, Kommt kein Anruf zustande). Gehen Sie nur ins Wasser, wenn Sie dafür ausgebildet sind: Ein Ertrinkender, der bei Bewusstsein ist, klammert sich in Panik an den Retter.
 
-Quelle: [Ready.gov: Floods](https://www.ready.gov/floods) · [Vlaanderen.be: Sicher schwimmen oder Wassersport treiben in offenen Gewässern](https://www.vlaanderen.be/natuur-milieu-en-klimaat/wat-mag-u-als-bezoeker-doen-in-de-vlaamse-natuur/veilig-zwemmen-of-watersporten-in-open-water) · [US Army ATP 3-50.21](https://archive.org/details/survival-atp-3-50-21) · [Rode Kruis-Vlaanderen: Erste Hilfe bei Ertrinken](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-verdrinking)
+Quelle: [Ready.gov: Floods](https://www.ready.gov/floods) · [Vlaanderen.be: Sicher schwimmen oder Wassersport treiben in offenen Gewässern](https://www.vlaanderen.be/natuur-milieu-en-klimaat/wat-mag-u-als-bezoeker-doen-in-de-vlaamse-natuur/veilig-zwemmen-of-watersporten-in-open-water) · [US Army ATP 3-50.21](https://archive.org/details/survival-atp-3-50-21) · [Rode Kruis-Vlaanderen: Erste Hilfe bei Ertrinken](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-verdrinking) · [National Park Service: Outdoor Emergency Plan](https://www.nps.gov/subjects/healthandsafety/upload/NPS-Outdoor-Emergency-Plan-508c.pdf)
 
 ## Schnee, Glatteis und Glätte in Belgien
 
-- Bleiben Sie so viel wie möglich drinnen. Verfolgen Sie den Wetterbericht und die Warnungen zur Verkehrssicherheit.
+- Bleiben Sie so viel wie möglich drinnen. Hören Sie den Wetterbericht und befolgen Sie die Warnungen zur Verkehrssicherheit.
 - Müssen Sie nach draußen: Ziehen Sie mehrere Schichten an, bedecken Sie Ihren ganzen Körper, tragen Sie eine Mütze.
 - **Mit dem Auto:** Achten Sie auf Ihre Geschwindigkeit, seien Sie in Kurven besonders vorsichtig. Legen Sie eine Decke, einen Eiskratzer und eine Flasche Wasser in den Wagen. Nehmen Sie warme Getränke oder Wasser mit, falls Sie im Stau festsitzen.
 - **Mit dem Fahrrad:** Achten Sie auf Ihre Geschwindigkeit und halten Sie Abstand, damit Sie weniger bremsen müssen.
-- Melden Sie Glätte über die App des KMI, damit die Streudienste schneller eingreifen können.
+- Funktioniert das Netz, melden Sie Glätte über die App des KMI, damit die Streudienste schneller eingreifen können.
 
 Quelle: [Nationales Krisenzentrum: Schnee](https://krisenzentrum.be/de/risiken-belgien/naturrisiken/schnee) · [KMI: Erläuterungen zu unseren Warnungen](https://www.meteo.be/de/wetter/warnungen/erklarung-warnungen)
 
 ## Berge und Schnee: für Reisende
 
-**Notrufnummern.** 112 funktioniert in der ganzen EU und in der Schweiz. In der Schweiz können Sie die Luftrettung Rega auch direkt unter 1414 anrufen oder aus dem Ausland unter +41 333 333 333; die Rega selbst empfiehlt vor allem ihre Notfall-App. Der Deutsche Alpenverein empfiehlt, die Nummern der örtlichen Bergrettung in Ihrem Telefon zu speichern. Ohne Empfang: das alpine Notsignal (sechs Signale pro Minute, siehe den Leitfaden zu Signalen).
+**Notrufnummern.** 112 funktioniert in der ganzen EU und in der Schweiz. In der Schweiz können Sie die Luftrettung Rega auch direkt unter 1414 anrufen oder aus dem Ausland unter +41 333 333 333; die Rega selbst empfiehlt vor allem ihre Notfall-App. Speichern Sie die Nummern der örtlichen Bergrettung in Ihrem Telefon. Ohne Empfang: das alpine Notsignal (sechs Signale pro Minute, siehe den Leitfaden zu Signalen). Sind Sie in einer Gruppe und gibt es einen Verletzten, schicken Sie zwei oder mehr Personen los, um Alarm zu schlagen; die anderen bleiben bei dem Verletzten (siehe den Leitfaden zum Notruf).
 
-**Die europäische Lawinengefahrenskala** (EAWS, in allen Alpenländern verwendet)
+**Die europäische Lawinengefahrenskala** (in allen Alpenländern verwendet)
 
 | Stufe | Name | Was sie bedeutet | Wie oft |
 | --- | --- | --- | --- |
@@ -235,11 +249,11 @@ Quelle: [Nationales Krisenzentrum: Schnee](https://krisenzentrum.be/de/risiken-b
 | 2 | Mäßig | Erhöhte Gefahr an bestimmten Stellen. Auslösung möglich, vor allem bei großer Zusatzbelastung an den angegebenen Steilhängen. Oft keine Alarmzeichen, was nicht heißt, dass es sicher ist. | Ungefähr 50 Prozent der Saison, ungefähr 30 Prozent der Toten |
 | 3 | Erheblich | Gefährlich. Auslösung möglich, auch bei geringer Zusatzbelastung. Frische Lawinen, Risse und "Wumm"-Geräusche. | Ungefähr 30 Prozent der Saison, ungefähr 50 Prozent der Toten |
 | 4 | Groß | Sehr gefährlich. Auslösung wahrscheinlich, auch bei geringer Belastung, an vielen Steilhängen. Viele große spontane Lawinen möglich. | Einige Tage pro Winter, ungefähr 10 Prozent der Toten |
-| 5 | Sehr groß | Außergewöhnlich. Zahlreiche sehr große spontane Lawinen, auch in mäßig steilem Gelände. | Sehr selten, ungefähr 1 Prozent der Toten (SLF) |
+| 5 | Sehr groß | Außergewöhnlich. Zahlreiche sehr große spontane Lawinen, auch in mäßig steilem Gelände. | Sehr selten, ungefähr 1 Prozent der Toten |
 
 Die gefährlichste Stufe für alle, die abseits der Piste unterwegs sind, ist in der Praxis Stufe 3: Dort gibt es die meisten Toten.
 
-**Was das Schweizer Lawineninstitut SLF empfiehlt**
+**Was Sie auf jeder Stufe tun**
 
 | Stufe | Rat |
 | --- | --- |
@@ -251,7 +265,7 @@ Die gefährlichste Stufe für alle, die abseits der Piste unterwegs sind, ist in
 
 Eine Gefahrenstufe gilt für eine ganze Region, nicht für einen einzelnen Hang, und ist immer eine Vorhersage, die Sie vor Ort beurteilen müssen.
 
-**Bewegen in Bergen und Schnee** (US-Armee)
+**Bewegen in Bergen und Schnee**
 
 - Meiden Sie Stellen, an denen Lawinen aus Erde, Fels oder Schnee abgehen können, und tiefe Spalten in Eisfeldern.
 - Leeseiten (die vom Wind abgewandte Seite) sammeln Schnee, der von der Luvseite weggeweht wurde, und bilden Schneebretter.
@@ -262,16 +276,16 @@ Eine Gefahrenstufe gilt für eine ganze Region, nicht für einen einzelnen Hang,
 
 **Gesundheit beim Wintersport.** Kälte und Alkohol erhöhen das Risiko einer Unterkühlung; Alkohol erweitert die kleinen Blutgefäße in der Haut. Auch im Winter können Sie einen Sonnenstich bekommen. Bei einem Sturz: Behandeln Sie im Zweifel wie einen Bruch.
 
-Quelle: [EAWS: Avalanche danger scale](https://www.avalanches.org/standards/avalanche-danger-scale/) · [SLF: Danger levels](https://www.slf.ch/en/avalanche-bulletin-and-snow-situation/about-the-avalanche-bulletin/danger-levels/) · [Rega: How to raise the alarm correctly](https://rega.ch/en/news/news-from-the-world-of-rega/detail/how-to-raise-the-alarm-correctly) · [Deutscher Alpenverein: Erste Hilfe](https://www.forststeig.sachsen.de/download/Erste_Hilfe_2012_DAV.pdf) · [Deutscher Alpenverein: So geht das, Notfall alpin](https://www.alpenverein.de/artikel/so-geht-das-notfall-alpin_62bc1334-e9c7-4d8b-8a02-89dd681cbb83) · [US Army ATP 3-50.21](https://archive.org/details/survival-atp-3-50-21) · [Rode Kruis-Vlaanderen: Erste Hilfe beim Wintersport](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-wintersport) · [112.be: Häufig gestellte Fragen](https://112.be/de/haeufig-gestellte-fragen)
+Quelle: [EAWS: Avalanche danger scale](https://www.avalanches.org/standards/avalanche-danger-scale/) · [SLF: Danger levels](https://www.slf.ch/en/avalanche-bulletin-and-snow-situation/about-the-avalanche-bulletin/danger-levels/) · [Rega: How to raise the alarm correctly](https://rega.ch/en/news/news-from-the-world-of-rega/detail/how-to-raise-the-alarm-correctly) · [Deutscher Alpenverein: Erste Hilfe](https://www.forststeig.sachsen.de/download/Erste_Hilfe_2012_DAV.pdf) · [Deutscher Alpenverein: So geht das, Notfall alpin](https://www.alpenverein.de/artikel/so-geht-das-notfall-alpin_62bc1334-e9c7-4d8b-8a02-89dd681cbb83) · [US Army ATP 3-50.21](https://archive.org/details/survival-atp-3-50-21) · [Rode Kruis-Vlaanderen: Erste Hilfe beim Wintersport](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-wintersport) · [112.be: Häufig gestellte Fragen](https://112.be/de/haeufig-gestellte-fragen) · [National Park Service: Outdoor Emergency Plan](https://www.nps.gov/subjects/healthandsafety/upload/NPS-Outdoor-Emergency-Plan-508c.pdf)
 
 ## Je nach Ort
 
 | Ort | Worauf Sie achten |
 | --- | --- |
-| Zu Hause | KMI-Warnungen verfolgen. Bei Sturm: drinnen bleiben, lose Gegenstände befestigen. Bei Wasserschäden: 1722, wenn niemand in Lebensgefahr ist. |
+| Zu Hause | KMI-Warnungen verfolgen, vor allem über das Radio. Bei Sturm: drinnen bleiben, lose Gegenstände befestigen. Bei Wasserschäden: 1722, wenn niemand in Lebensgefahr ist und das Netz funktioniert. |
 | Zu Fuß in Wald oder Feld | Bei Gewitter: weg von allein stehenden Bäumen, Waldrändern, offenen Flächen. Bei Sturm: nie unter einem Baum Schutz suchen. Kein Schlafplatz im Bett eines Bachs. |
 | Im Auto | Nicht durch Wasser fahren. Bei Sturm nicht bei Bäumen parken. Ein Auto aus Metall ist bei Gewitter ein guter Schutzort. Im Winter Decke, Eiskratzer und Wasser im Wagen. |
-| An der Küste | Nur in bewachten Zonen schwimmen. Gezeiten und Sturmflut über kustweerbericht.be und das KMI verfolgen. |
+| An der Küste | Nur in bewachten Zonen schwimmen. Gezeitentafeln vorab nachschlagen. Sturmflut über das Radio verfolgen, und über kustweerbericht.be und das KMI, wenn das Netz funktioniert. |
 | In den Bergen | Lawinenbulletin und Gefahrenstufe lesen. Unerfahren: ab Stufe 3 auf den Pisten bleiben. Notrufnummern speichern. |
 
 Quelle: [KMI: Erläuterungen zu unseren Warnungen](https://www.meteo.be/de/wetter/warnungen/erklarung-warnungen) · [Nationales Krisenzentrum: Wind und Sturm](https://krisenzentrum.be/de/risiken-belgien/naturrisiken/wind-und-sturm) · [KMI: Wie schütze ich mich vor Blitzschlag?](https://www.meteo.be/nl/switch-language/634?nis=21004) · [Ready.gov: Floods](https://www.ready.gov/floods) · [Nationales Krisenzentrum: Schnee](https://krisenzentrum.be/de/risiken-belgien/naturrisiken/schnee) · [Vlaanderen.be: Sicher schwimmen](https://www.vlaanderen.be/natuur-milieu-en-klimaat/wat-mag-u-als-bezoeker-doen-in-de-vlaamse-natuur/veilig-zwemmen-of-watersporten-in-open-water) · [SLF: Danger levels](https://www.slf.ch/en/avalanche-bulletin-and-snow-situation/about-the-avalanche-bulletin/danger-levels/) · [US Army FM 21-76](https://archive.org/details/fm-21-76-survival-manual)

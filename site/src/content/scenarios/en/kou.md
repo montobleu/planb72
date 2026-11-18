@@ -8,8 +8,8 @@ stappen:
   - "Never heat with a gas cooker, oven or barbecue. Watch out for carbon monoxide with stoves, open fires and water heaters."
   - "Protect water pipes and taps against freezing."
   - "Drive carefully and take a blanket, water and a hot drink with you in the car."
-  - "Look out for older people, people living alone and homeless people around you. Offer a hot drink."
-  - "Call 112 if you suspect hypothermia or if someone is unconscious."
+  - "Call round on older people and people living alone around you and check whether they need help. Offer homeless people a hot drink."
+  - "Call 112 if you suspect hypothermia or if someone is unconscious. If that does not work, have someone else call or ask for help nearby (see Emergency numbers, If you cannot call)."
 niet:
   - "Do not heat with a gas cooker, oven or barbecue, and no charcoal indoors."
   - "Do not leave a paraffin or gas heater burning while you sleep."
@@ -17,7 +17,7 @@ niet:
   - "No alcohol to warm up."
   - "Do not leave an animal in the car in freezing weather."
 status: concept
-datum: "2026-11-17"
+datum: "2026-11-18"
 bronnen:
   - naam: "National Crisis Center: cold wave"
     url: https://crisiscenter.be/en/risks-belgium/natural-risks/cold-wave
@@ -49,8 +49,18 @@ bronnen:
     url: https://www.cdc.gov/carbon-monoxide/about/index.html
   - naam: "CDC: what to do to protect yourself during a power outage"
     url: https://www.cdc.gov/natural-disasters/response/what-to-do-protect-yourself-during-a-power-outage.html
+  - naam: "National Crisis Center: an emergency kit at home"
+    url: https://crisiscenter.be/en/what-can-you-do/build-emergency-kit/emergency-kit-home
+  - naam: "ERC Guidelines 2021: First aid"
+    url: https://cprguidelines-old.erc.edu/assets/guidelines/European-Resuscitation-Council-Guidelines-2021-Fi.pdf
+  - naam: "Red Cross Flanders: power and communication outages"
+    url: https://www.rodekruis.be/wat-doen-we/hulp-in-vlaanderen/goed-voorbereid/stroom-en-communicatie-uitval/
+  - naam: "112.be: Frequently asked questions"
+    url: https://112.be/en/frequently-asked-questions
+  - naam: "FPS Economy: questions from households about electricity shortages"
+    url: https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door
 vertaling: machine
-origineel_datum: "2026-11-17"
+origineel_datum: "2026-11-18"
 ---
 
 ## Recognise
@@ -62,7 +72,7 @@ origineel_datum: "2026-11-17"
 
 **RMI cold warnings**
 
-| Code | Threshold (maximum temperature) | What to do according to the RMI |
+| Code | Threshold (maximum temperature) | What to do |
 |---|---|---|
 | Yellow | below -3 °C | Be vigilant. Protect people, animals and plants. Protect water pipes and taps. Dress appropriately. |
 | Orange | -5 °C or lower | Limit exposure to the cold, dress warmly in several layers, avoid long or heavy exertion, offer homeless people a hot drink. Follow the advice of the authorities. |
@@ -128,7 +138,8 @@ In order of preference:
 2. Dress in layers and use blankets and sleeping bags. Warm clothing and blankets can replace the heating for a while.
 3. Use a stove or open fire that is properly connected to a chimney, with dry wood, and air the room regularly.
 4. A portable paraffin or gas heater only if there is no other option: no more than one hour at a time, never while you sleep, and with ventilation.
-5. If you cannot stay warm, go to friends or family, or to a reception centre run by your municipality.
+5. During a power cut, several people can get together to share light and warmth.
+6. If you cannot stay warm, go to friends or family, or to a reception centre run by your municipality. Listen to a battery-powered radio for information from the authorities. The municipality may open an information and reception point.
 
 **Avoiding carbon monoxide**
 
@@ -144,11 +155,11 @@ In order of preference:
 2. Open windows and doors.
 3. Switch off the appliance if it is safe to do so.
 4. Bring the casualty out of the room.
-5. Call 112. Say where you are, that it may be CO and how many people are unconscious.
+5. Call 112 or have someone call. Say where you are, that it may be CO and how many people are unconscious. If you cannot get through, send someone to fetch help and stay with the casualty yourself if it is safe. See also Emergency numbers in the app, If you cannot call.
 6. Start resuscitation if the casualty is not breathing. Put someone who is unconscious but breathing in the recovery position.
-7. If there is no immediate danger, still call 112 for help. For questions you can call the Poison Centre on 070 245 245.
+7. If there is no immediate danger, still call 112 for help. If the network works and you have questions, you can call the Poison Centre on 070 245 245.
 
-Source: [National Crisis Center: cold wave](https://crisiscenter.be/en/risks-belgium/natural-risks/cold-wave) · [Krisinformation.se](https://www.krisinformation.se/en/hazards-and-risks/home-preparedness/heating-during-a-crisis/) · [BBK: Stromausfall](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Vorsorge/Stromausfall/stromausfall_node.html) · [Denk vooruit: no power](https://www.denkvooruit.nl/risicos/risicos-in-nederland/geen-stroom) · [CDC: power outage](https://www.cdc.gov/natural-disasters/response/what-to-do-protect-yourself-during-a-power-outage.html) · [Speel niet met vuur: CO](https://speelnietmetvuur.be/co/) · [Poison Centre: CO poisoning](https://www.antigifcentrum.be/Toxinfos/co-vergiftiging/)
+Source: [National Crisis Center: cold wave](https://crisiscenter.be/en/risks-belgium/natural-risks/cold-wave) · [Krisinformation.se](https://www.krisinformation.se/en/hazards-and-risks/home-preparedness/heating-during-a-crisis/) · [BBK: Stromausfall](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Vorsorge/Stromausfall/stromausfall_node.html) · [Denk vooruit: no power](https://www.denkvooruit.nl/risicos/risicos-in-nederland/geen-stroom) · [CDC: power outage](https://www.cdc.gov/natural-disasters/response/what-to-do-protect-yourself-during-a-power-outage.html) · [Speel niet met vuur: CO](https://speelnietmetvuur.be/co/) · [Poison Centre: CO poisoning](https://www.antigifcentrum.be/Toxinfos/co-vergiftiging/) · [National Crisis Center: emergency kit](https://crisiscenter.be/en/what-can-you-do/build-emergency-kit/emergency-kit-home) · [112.be: Frequently asked questions](https://112.be/en/frequently-asked-questions) · [FPS Economy: questions from households about electricity shortages](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door) · [ERC Guidelines 2021: First aid](https://cprguidelines-old.erc.edu/assets/guidelines/European-Resuscitation-Council-Guidelines-2021-Fi.pdf)
 
 ### Outdoors or on the move
 
@@ -161,7 +172,7 @@ Source: [National Crisis Center: cold wave](https://crisiscenter.be/en/risks-bel
 **Behaviour**
 
 - Limit the time you spend outside and avoid heavy exertion. Clearing snow or walking through snow puts a strain on the heart.
-- Watch out for slippery surfaces. Report slippery conditions via the RMI app, so that gritting services can act sooner.
+- Watch out for slippery surfaces. If the network works, report slippery conditions via the RMI app, so that gritting services can act sooner.
 - Cyclists: ride more slowly and keep a greater distance, so that you need to brake less.
 
 Source: [National Crisis Center: cold wave](https://crisiscenter.be/en/risks-belgium/natural-risks/cold-wave) · [CDC: winter weather](https://www.cdc.gov/winter-weather/prevention/index.html) · [Ready.gov: winter weather](https://www.ready.gov/winter-weather)
@@ -200,9 +211,9 @@ Source: [CDC: winter weather](https://www.cdc.gov/winter-weather/prevention/inde
 - For people older than 65, hang an easy-to-read thermometer in a place where it is seen often.
 - Pregnant women, people with cardiovascular disease, thyroid problems, asthma or anaemia and older people are more sensitive to CO.
 - Offer homeless people a hot drink. With code red the RMI asks for homeless people to be taken in.
-- Check whether neighbours need help, especially if the heating or power fails.
+- Call round on neighbours and check whether they need help, especially if the heating or power fails.
 
-Source: [CDC: winter weather](https://www.cdc.gov/winter-weather/prevention/index.html) · [CDC: preparing for a winter storm](https://www.cdc.gov/winter-weather/safety/index.html) · [Poison Centre: CO poisoning](https://www.antigifcentrum.be/Toxinfos/co-vergiftiging/) · [RMI: cold legend](https://www.meteo.be/en/weather/warnings/legend-cold) · [Denk vooruit: no power](https://www.denkvooruit.nl/risicos/risicos-in-nederland/geen-stroom)
+Source: [CDC: winter weather](https://www.cdc.gov/winter-weather/prevention/index.html) · [CDC: preparing for a winter storm](https://www.cdc.gov/winter-weather/safety/index.html) · [Poison Centre: CO poisoning](https://www.antigifcentrum.be/Toxinfos/co-vergiftiging/) · [RMI: cold legend](https://www.meteo.be/en/weather/warnings/legend-cold) · [Denk vooruit: no power](https://www.denkvooruit.nl/risicos/risicos-in-nederland/geen-stroom) · [Red Cross Flanders: power and communication outages](https://www.rodekruis.be/wat-doen-we/hulp-in-vlaanderen/goed-voorbereid/stroom-en-communicatie-uitval/)
 
 ### Pets and animals
 
@@ -234,7 +245,7 @@ Source: [Vlaanderen Huisdierinfo: animals and cold weather](https://www.vlaander
 
 **In case of hypothermia**
 
-1. Hypothermia is a medical emergency. Call 112 if you suspect severe hypothermia, especially with a body temperature below 35 °C (95 °F).
+1. Hypothermia is a medical emergency. Call 112 if you suspect severe hypothermia, especially with a body temperature below 35 °C (95 °F). If that does not work, have someone else call or ask for help nearby (see Emergency numbers, If you cannot call). See also the first aid card Hypothermia and frostbite.
 2. Bring the person to a warm place and remove wet clothing.
 3. Warm the centre of the body first: chest, neck, head and groin, with dry layers or blankets. Also wrap the head and neck.
 4. A hot drink can help, never alcohol. Do not give anything to drink to someone who is unconscious.
@@ -252,7 +263,7 @@ Source: [Vlaanderen Huisdierinfo: animals and cold weather](https://www.vlaander
 
 - Watch for damaged or leaking pipes. Frozen pipes may have burst.
 
-Source: [CDC: winter weather](https://www.cdc.gov/winter-weather/prevention/index.html) · [Ready.gov: winter weather](https://www.ready.gov/winter-weather) · [National Crisis Center: cold wave](https://crisiscenter.be/en/risks-belgium/natural-risks/cold-wave)
+Source: [CDC: winter weather](https://www.cdc.gov/winter-weather/prevention/index.html) · [Ready.gov: winter weather](https://www.ready.gov/winter-weather) · [National Crisis Center: cold wave](https://crisiscenter.be/en/risks-belgium/natural-risks/cold-wave) · [112.be: Frequently asked questions](https://112.be/en/frequently-asked-questions) · [FPS Economy: questions from households about electricity shortages](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door)
 
 ## Do not
 
@@ -268,6 +279,8 @@ Source: [CDC: winter weather](https://www.cdc.gov/winter-weather/prevention/inde
 Source: [Speel niet met vuur: CO](https://speelnietmetvuur.be/co/) · [CDC: winter weather](https://www.cdc.gov/winter-weather/prevention/index.html) · [Ready.gov: winter weather](https://www.ready.gov/winter-weather) · [Vlaanderen Huisdierinfo](https://www.vlaanderen.be/huisdierinfo/verzorging-van-huisdieren/dieren-en-koud-weer) · [RMI: cold legend](https://www.meteo.be/en/weather/warnings/legend-cold)
 
 ## More information
+
+To read beforehand, or when the internet works:
 
 - RMI: warnings for cold, slippery roads and snow, and the RMI app.
 - National Crisis Center on cold waves, freezing rain and snow.

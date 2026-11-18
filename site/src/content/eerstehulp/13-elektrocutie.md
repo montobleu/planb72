@@ -1,9 +1,9 @@
 ---
 titel: Elektrocutie en elektriciteitsongevallen
 volgorde: 13
-kort: "Raak niemand aan die nog contact heeft met de stroom. Schakel eerst de stroom uit. Bij hoogspanning: blijf minstens 10 meter weg en bel 112."
+kort: "Raak niemand aan die nog contact heeft met de stroom. Schakel eerst de stroom uit. Bij hoogspanning: blijf minstens 10 meter weg en bel 112 of laat hulp halen."
 status: concept
-datum: "2026-11-17"
+datum: "2026-11-18"
 bronnen:
   - naam: "Gezondheid en Wetenschap (Rode Kruis-Vlaanderen): Eerste hulp bij een ongeval met elektriciteit"
     url: https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-een-elektriciteitsongeval
@@ -13,6 +13,10 @@ bronnen:
     url: https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-brandwonden
   - naam: "IFRC: International first aid, resuscitation, and education guidelines 2020"
     url: https://www.ifrc.org/sites/default/files/2022-02/EN_GFARC_GUIDELINES_2020.pdf
+  - naam: "European Resuscitation Council Guidelines 2021: First aid"
+    url: https://cprguidelines-old.erc.edu/assets/guidelines/European-Resuscitation-Council-Guidelines-2021-Fi.pdf
+  - naam: "112.be: Veelgestelde vragen"
+    url: https://112.be/nl/veelgestelde-vragen
 ---
 
 ## Herkennen
@@ -58,7 +62,7 @@ Hoogspanning:
 1. Kom niet in de buurt van de stroombron of het slachtoffer. Blijf minstens 10 meter weg. De zone tot 10 meter rond de stroombron staat onder spanning. Hoogspanning kan 3 tot 5 meter overspringen, dus je kan geëlektrocuteerd worden zonder de geleider aan te raken.
 2. Een afgeknakte kabel op de grond kan nog onder spanning staan.
 3. Probeer de stroombron niet te verwijderen, ook niet met een voorwerp dat niet geleidt. De spanning is te hoog.
-4. Bel 112 en laat de redding over aan de hulpdiensten.
+4. Bel 112 of laat iemand bellen, en laat de redding over aan de hulpdiensten. Lukt bellen niet, zie Bel 112 als.
 5. Bij een treinongeval: zit je in de trein, wacht dan op de instructies van het personeel. Sta je buiten, hou dan voldoende afstand.
 
 ### Stap 2: beoordeel de toestand
@@ -66,12 +70,13 @@ Hoogspanning:
 1. Maak het eerste contact met het slachtoffer door het even met je handrug aan te raken, en pas als de stroom uit is of het slachtoffer niet meer verbonden is.
 2. Ga na wat er mis is.
 3. Controleer het bewustzijn: vraag luid "Gaat het?" en schud zacht aan de schouders.
-4. Reageert het niet: alarmeer 112, open de luchtweg (hoofd kantelen, kin optillen) en controleer de ademhaling: kijk, luister en voel, maximaal 10 seconden.
+4. Reageert het niet: alarmeer 112 of laat iemand alarmeren (lukt bellen niet, zie Bel 112 als), open de luchtweg (hoofd kantelen, kin optillen) en controleer de ademhaling: kijk, luister en voel, maximaal 10 seconden.
 
 ### Stap 3: raadpleeg gespecialiseerde hulp
 
-- Bewusteloos: bel 112.
-- Ernstige verwondingen of twijfel: bel 112.
+- Bewusteloos: bel 112 of laat iemand bellen.
+- Ernstige verwondingen of twijfel: bel 112 of laat iemand bellen.
+- Lukt bellen niet: zie Bel 112 als.
 - Voelde het slachtoffer zich even "raar" na een ongeval met laagspanning: laat het door een arts onderzoeken, ook als het niet ernstig lijkt.
 
 ### Stap 4: verleen verdere eerste hulp
@@ -105,7 +110,14 @@ Bron: [Gezondheid en Wetenschap: Elektriciteitsongeval](https://www.gezondheiden
 
 Raadpleeg een arts na een ongeval met laagspanning als het slachtoffer zegt dat het zich even "raar" voelde. Er kunnen inwendige letsels zijn of klachten die later optreden.
 
-Bron: [Gezondheid en Wetenschap: Elektriciteitsongeval](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-een-elektriciteitsongeval) · [Gezondheid en Wetenschap: Brandwonden](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-brandwonden) · [Rode Kruis-Vlaanderen: Eerste hulp bij elektriciteitsongevallen](https://www.rodekruis.be/storage/main/2026-affiche-elektriciteitsongevallen.pdf)
+**Lukt bellen niet**
+
+- Laat het slachtoffer alleen als er geen andere mogelijkheid is. Wijs een omstander rechtstreeks aan om hulp te halen en geef mee waar het is, wat er gebeurd is, hoeveel slachtoffers er zijn en hoe ze eraan toe zijn.
+- Vraag andere omstanders om het gevaar te bewaken: bij hoogspanning houden ze iedereen op minstens 10 meter.
+- Laat iemand een AED halen. Reanimeer je en ben je alleen zonder telefoon, zie dan onderwerp 2 (Lukt bellen niet).
+- Zie ook onderwerp 1 (Lukt bellen niet: hulp halen zonder telefoon) en Noodnummers in de app, Als bellen niet lukt.
+
+Bron: [Gezondheid en Wetenschap: Elektriciteitsongeval](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-een-elektriciteitsongeval) · [Gezondheid en Wetenschap: Brandwonden](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-brandwonden) · [Rode Kruis-Vlaanderen: Eerste hulp bij elektriciteitsongevallen](https://www.rodekruis.be/storage/main/2026-affiche-elektriciteitsongevallen.pdf) · [IFRC Guidelines 2020](https://www.ifrc.org/sites/default/files/2022-02/EN_GFARC_GUIDELINES_2020.pdf) · [ERC Guidelines 2021: First aid](https://cprguidelines-old.erc.edu/assets/guidelines/European-Resuscitation-Council-Guidelines-2021-Fi.pdf) · [112.be: Veelgestelde vragen](https://112.be/nl/veelgestelde-vragen)
 
 ## Niet doen
 

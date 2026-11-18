@@ -1,9 +1,9 @@
 ---
 titel: Schlaganfall und Herzinfarkt erkennen
 volgorde: 16
-kort: "Schiefer Mund, schwacher Arm, Mühe beim Sprechen: Rufen Sie 112 an und notieren Sie die Uhrzeit. Drückende Schmerzen in der Brust: Rufen Sie 112 an, auch wenn es nach 5 Minuten vorbeigeht."
+kort: "Schiefer Mund, schwacher Arm, Mühe beim Sprechen: Rufen Sie 112 an oder lassen Sie Hilfe holen und notieren Sie die Uhrzeit. Drückende Schmerzen in der Brust: Rufen Sie 112 an, auch wenn es nach 5 Minuten vorbeigeht."
 status: concept
-datum: "2026-11-17"
+datum: "2026-11-18"
 bronnen:
   - naam: "Gezondheid en Wetenschap (Rode Kruis-Vlaanderen): Erste Hilfe bei einem Schlaganfall"
     url: https://www.gezondheidenwetenschap.be/eerste-hulp/bij-een-beroerte-telt-elke-minuut
@@ -13,8 +13,12 @@ bronnen:
     url: https://www.ifrc.org/sites/default/files/2022-02/EN_GFARC_GUIDELINES_2020.pdf
   - naam: "European Resuscitation Council: The ERC Guidelines 2025 on Resuscitation for Everyone"
     url: https://www.erc.edu/media/p5ymaeej/gl2025_layperson_book_ipdf-v11-e.pdf
+  - naam: "European Resuscitation Council Guidelines 2021: First aid"
+    url: https://cprguidelines-old.erc.edu/assets/guidelines/European-Resuscitation-Council-Guidelines-2021-Fi.pdf
+  - naam: "112.be: Häufig gestellte Fragen"
+    url: https://112.be/de/haeufig-gestellte-fragen
 vertaling: machine
-origineel_datum: "2026-11-17"
+origineel_datum: "2026-11-18"
 ---
 
 ## Erkennen
@@ -38,7 +42,7 @@ Machen Sie den FAST-Test. Lassen Sie die betroffene Person dafür sitzen.
 - F (Face, Gesicht): Bitten Sie sie, zu lächeln oder die Zähne zu zeigen. Ist der Mund schief oder hängt ein Mundwinkel nach unten?
 - A (Arm): Bitten Sie sie, beide Arme gleichzeitig nach vorn auszustrecken, mit den Handflächen nach oben. Bleiben sie auf gleicher Höhe, oder sinkt oder dreht sich ein Arm weg?
 - S (Speech, Sprache): Spricht die Person undeutlich oder findet sie die Wörter nicht? Fragen Sie die Person selbst oder Umstehende, die sie kennen. Lassen Sie sie eventuell einen einfachen Satz wiederholen.
-- T (Time, Zeit): Versuchen Sie herauszufinden, wann die Beschwerden begonnen haben oder wann die Person zuletzt normal gesehen wurde. Rufen Sie 112 an.
+- T (Time, Zeit): Versuchen Sie herauszufinden, wann die Beschwerden begonnen haben oder wann die Person zuletzt normal gesehen wurde. Rufen Sie 112 an oder lassen Sie anrufen.
 
 Leichte Beschwerden, die nur einige Minuten dauern, können auf einen kleinen, vorübergehenden Schlaganfall (TIA) hinweisen. Auch dann ist schnelle medizinische Versorgung nötig. Beschwerden, die einem Schlaganfall ähneln, können auch durch zu hohen oder zu niedrigen Blutzucker entstehen.
 
@@ -63,7 +67,7 @@ Quelle: [Gezondheid en Wetenschap: Schlaganfall](https://www.gezondheidenwetensc
 ### Schlaganfall
 
 1. Sorgen Sie für Sicherheit. Müssen Sie die betroffene Person bewegen, stützen Sie sie auf der gelähmten Seite.
-2. Rufen Sie 112 an, sobald Sie die ersten Beschwerden erkennen. Sagen Sie, dass Sie einen Schlaganfall vermuten und wann die Beschwerden begonnen haben.
+2. Rufen Sie 112 an oder lassen Sie jemanden anrufen, sobald Sie die ersten Beschwerden erkennen. Sagen Sie, dass Sie einen Schlaganfall vermuten und wann die Beschwerden begonnen haben. Kommt kein Anruf zustande, siehe Rufen Sie 112 an, wenn.
 3. Notieren Sie die Uhrzeit, zu der die Beschwerden begonnen haben.
 4. Prüfen Sie Bewusstsein und Atmung. Machen Sie wenn nötig die Atemwege frei.
 5. Lassen Sie die Person ruhen und sich nicht mehr anstrengen.
@@ -75,7 +79,7 @@ Quelle: [Gezondheid en Wetenschap: Schlaganfall](https://www.gezondheidenwetensc
 
 ### Herzinfarkt
 
-1. Rufen Sie 112 an. Tun Sie das auch, wenn die Beschwerden innerhalb von 5 Minuten vorbeigehen. Sagen Sie, dass Sie einen Herzinfarkt vermuten, damit der Anruf die richtige Priorität bekommt.
+1. Rufen Sie 112 an oder lassen Sie jemanden anrufen. Tun Sie das auch, wenn die Beschwerden innerhalb von 5 Minuten vorbeigehen. Sagen Sie, dass Sie einen Herzinfarkt vermuten, damit der Anruf die richtige Priorität bekommt. Kommt kein Anruf zustande, siehe Rufen Sie 112 an, wenn.
 2. Prüfen Sie Bewusstsein und Atmung.
 3. Lassen Sie die Person jede Anstrengung beenden und ruhen.
 4. Helfen Sie ihr, eine bequeme Haltung einzunehmen, zum Beispiel sitzend.
@@ -83,7 +87,7 @@ Quelle: [Gezondheid en Wetenschap: Schlaganfall](https://www.gezondheidenwetensc
 6. Fragen Sie, ob sie diese Schmerzen schon früher hatte und ob sie dafür Medikamente nimmt. Lassen Sie die Person diese eigenen Medikamente einnehmen, wenn sie das möchte.
 7. Lassen Sie jemanden einen AED holen und in die Nähe der Person legen, für den Fall, dass er gebraucht wird.
 8. Beruhigen Sie die Person. Bleiben Sie bei ihr, bis der Rettungsdienst da ist, und beobachten Sie Atmung und Bewusstsein.
-9. Ändert sich der Zustand, zum Beispiel wenn die Person zusammenbricht, melden Sie das der 112.
+9. Ändert sich der Zustand, zum Beispiel wenn die Person zusammenbricht, melden Sie das der 112, wenn die Verbindung funktioniert, oder den Helfern, wenn sie eintreffen.
 10. Wird die Person bewusstlos und atmet nicht normal, beginnen Sie mit der Wiederbelebung und verwenden Sie den AED (siehe Thema 2).
 
 Quelle: [Gezondheid en Wetenschap: Schlaganfall](https://www.gezondheidenwetenschap.be/eerste-hulp/bij-een-beroerte-telt-elke-minuut) · [Gezondheid en Wetenschap: Herzinfarkt](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-een-hartaanval) · [IFRC Guidelines 2020](https://www.ifrc.org/sites/default/files/2022-02/EN_GFARC_GUIDELINES_2020.pdf) · [ERC Guidelines 2025 for Everyone](https://www.erc.edu/media/p5ymaeej/gl2025_layperson_book_ipdf-v11-e.pdf)
@@ -91,7 +95,7 @@ Quelle: [Gezondheid en Wetenschap: Schlaganfall](https://www.gezondheidenwetensc
 ## Wenn Hilfe lange auf sich warten lässt
 
 - Bei einem Schlaganfall und einem Herzinfarkt zählt jede Minute. Je schneller medizinische Hilfe da ist, desto geringer ist der Schaden an Gehirn oder Herz. Suchen Sie also den schnellsten Weg zur Versorgung.
-- In einem abgelegenen Gebiet kann es sinnvoll sein, in Richtung des nächstgelegenen Krankenhauses zu fahren und den Krankenwagen unterwegs zu treffen.
+- Bei einem Schlaganfall müssen Sie die betroffene Person manchmal selbst in ein Krankenhaus bringen, mit dem Auto oder einem anderen Mittel, wenn kein Krankenwagen schnell vor Ort sein kann. Wählen Sie dann den schnellsten Weg und sorgen Sie dafür, dass der Transport sicher möglich ist. Die Karte in der App (Schaltfläche Am nächsten) zeigt Krankenhäuser.
 - Dauert es lange, bis der Rettungsdienst da ist, lassen Sie einen AED holen und halten Sie ihn in der Nähe der Person bereit. Ein Herzinfarkt kann in einen Kreislaufstillstand übergehen.
 - Halten Sie die Person in Ruhe, ohne Anstrengung.
 - Beobachten Sie Atmung und Bewusstsein ständig. Notieren Sie die Uhrzeit, zu der die Beschwerden begonnen haben, und jede Veränderung. Geben Sie das an das medizinische Personal weiter.
@@ -108,7 +112,16 @@ Quelle: [IFRC Guidelines 2020](https://www.ifrc.org/sites/default/files/2022-02/
 - die Brustschmerzen nach der Einnahme der eigenen Medikamente anhalten;
 - die Person bewusstlos wird.
 
-Quelle: [Gezondheid en Wetenschap: Schlaganfall](https://www.gezondheidenwetenschap.be/eerste-hulp/bij-een-beroerte-telt-elke-minuut) · [Gezondheid en Wetenschap: Herzinfarkt](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-een-hartaanval) · [IFRC Guidelines 2020](https://www.ifrc.org/sites/default/files/2022-02/EN_GFARC_GUIDELINES_2020.pdf)
+**Kommt kein Anruf zustande**
+
+- Die Zeit zählt: Warten Sie nicht ab. Lassen Sie die betroffene Person nur allein, wenn es keine andere Möglichkeit gibt. Sprechen Sie Umstehende direkt an, damit sie Hilfe holen, und geben Sie mit, wo es ist, was passiert ist, wie viele Betroffene es gibt und in welchem Zustand sie sind. Bei einem Schlaganfall: auch, wann die Beschwerden begonnen haben.
+- Verteilen Sie die Aufgaben unter den Umstehenden: Hilfe holen, die betroffene Person im Auge behalten, die eigenen Medikamente oder einen AED holen.
+- Herzinfarkt: Bleiben Sie bei der betroffenen Person, bis Hilfe da ist. Lassen Sie sie sich nicht anstrengen.
+- Schlaganfall: Kann kein Krankenwagen schnell kommen, müssen Sie die betroffene Person manchmal selbst in ein Krankenhaus bringen (siehe Wenn Hilfe lange auf sich warten lässt).
+- Führen Sie eine Wiederbelebung durch und sind Sie allein ohne Telefon, siehe Thema 2 (Kommt kein Anruf zustande).
+- Siehe auch Thema 1 (Kommt kein Anruf zustande: Hilfe holen ohne Telefon) und Notrufnummern in der App, Wenn kein Anruf möglich ist.
+
+Quelle: [Gezondheid en Wetenschap: Schlaganfall](https://www.gezondheidenwetenschap.be/eerste-hulp/bij-een-beroerte-telt-elke-minuut) · [Gezondheid en Wetenschap: Herzinfarkt](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-een-hartaanval) · [IFRC Guidelines 2020](https://www.ifrc.org/sites/default/files/2022-02/EN_GFARC_GUIDELINES_2020.pdf) · [ERC Guidelines 2025 for Everyone](https://www.erc.edu/media/p5ymaeej/gl2025_layperson_book_ipdf-v11-e.pdf) · [ERC Guidelines 2021: First aid](https://cprguidelines-old.erc.edu/assets/guidelines/European-Resuscitation-Council-Guidelines-2021-Fi.pdf) · [112.be: Häufig gestellte Fragen](https://112.be/de/haeufig-gestellte-fragen)
 
 ## Nicht tun
 

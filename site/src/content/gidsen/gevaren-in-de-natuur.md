@@ -4,7 +4,7 @@ module: buiten
 volgorde: 3
 kort: "Wat je in de Belgische natuur kan overkomen en wat je dan doet: teken en lyme, de adder, wespen en bijen, eikenprocessierups, giftige planten en paddenstoelen, kwallen, onweer, hitte en kou, water en stroming, everzwijnen en de wolf."
 status: concept
-datum: "2026-11-17"
+datum: "2026-11-18"
 bronnen:
   - naam: "Antigifcentrum: Tekenbeten"
     url: https://www.antigifcentrum.be/Toxinfos/tekenbeten/
@@ -54,6 +54,16 @@ bronnen:
     url: https://natuurenbos.be/sites/default/files/2024-04/Veelgestelde_vragen_over_wolf_versie_04-2024.pdf
   - naam: "Vlaanderen.be: Wat mag u als bezoeker doen in de Vlaamse natuur?"
     url: https://www.vlaanderen.be/natuur-milieu-en-klimaat/wat-mag-u-als-bezoeker-doen-in-de-vlaamse-natuur
+  - naam: "National Park Service: Outdoor Emergency Plan"
+    url: https://www.nps.gov/subjects/healthandsafety/upload/NPS-Outdoor-Emergency-Plan-508c.pdf
+  - naam: "Nationaal Crisiscentrum: Natuurbrand"
+    url: https://crisiscentrum.be/nl/risicos-belgie/natuurlijke-risicos/natuurbrand
+  - naam: "ERC Guidelines 2021: First aid"
+    url: https://cprguidelines-old.erc.edu/assets/guidelines/European-Resuscitation-Council-Guidelines-2021-Fi.pdf
+  - naam: "112.be: Veelgestelde vragen"
+    url: https://112.be/nl/veelgestelde-vragen
+  - naam: "Nationaal Crisiscentrum: brochure Samen voorbereid"
+    url: https://crisiscentrum.be/sites/default/files/documents/files/WEB-Brochure%20Samen%20voorbereid-NL.pdf
 ---
 
 ## Overzicht
@@ -64,7 +74,7 @@ bronnen:
 | Adder (alleen in de Antwerpse Kempen en het stroomgebied van de Boven-Maas) | Rustig blijven, ledemaat stil houden | Altijd na een beet |
 | Wesp, bij, hommel, hoornaar | Angel weg, koelen | Zwelling van tong of keel, ademnood, flauwvallen |
 | Eikenprocessierups | Niet krabben, kleding uit, spoelen | Ernstige klachten, ademnood |
-| Giftige plant, bes, paddenstoel | Resten uit de mond, Antigifcentrum bellen | Ernstige klachten |
+| Giftige plant, bes, paddenstoel | Resten uit de mond, plant of resten bewaren, Antigifcentrum of huisarts contacteren | Ernstige klachten |
 | Kwal | Spoelen met zeewater, niet wrijven | Algemene reacties |
 | Onweer | Binnen of in een metalen auto schuilen | Iemand is getroffen |
 | Hitte | Schaduw, rust, afkoelen | Verwardheid, niet meer zweten, boven 39 °C |
@@ -72,9 +82,11 @@ bronnen:
 | Water | Niet zwemmen waar het niet mag | Iemand is in moeilijkheden |
 | Everzwijn, wolf | Afstand houden, hond aan de lijn | |
 
-Antigifcentrum: **070 245 245**, gratis, 24 uur op 24. Bij levensgevaar: **112**.
+Antigifcentrum: **070 245 245**, gratis, 24 uur op 24, als het netwerk werkt. Noteer het nummer vooraf op een papieren lijst met belangrijke nummers. Bij levensgevaar: **112**.
 
-Bron: [Antigifcentrum: Tekenbeten](https://www.antigifcentrum.be/Toxinfos/tekenbeten/) · [Antigifcentrum: Adderbeten](https://www.antigifcentrum.be/Toxinfos/adderbeten/) · [Antigifcentrum: Steken van wespen, bijen en hoornaars](https://www.antigifcentrum.be/Toxinfos/steken-van-wespen-bijen-en-hoornaars/) · [Rode Kruis-Vlaanderen: eikenprocessierupsen](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-irritatie-door-eikenprocessierupsen) · [Antigifcentrum: Vergiftiging door planten](https://www.antigifcentrum.be/Toxinfos/vergiftiging-door-planten/) · [KMI: Hoe bescherm ik me tegen bliksem?](https://www.meteo.be/nl/switch-language/634?nis=21004)
+**Lukt bellen niet.** Probeer een ander toestel of laat omstanders bellen. In de natuur heb je niet altijd bereik: vraag wie je tegenkomt om naar een plek met bereik te gaan en 112 te bellen. Met een groep stuur je twee of meer mensen om alarm te slaan en blijven de anderen bij het slachtoffer; ben je alleen, help dan eerst en ga daarna hulp zoeken. Zie Noodnummers in de app, Als bellen niet lukt, en de gids over signalen en noodcodes.
+
+Bron: [National Park Service: Outdoor Emergency Plan](https://www.nps.gov/subjects/healthandsafety/upload/NPS-Outdoor-Emergency-Plan-508c.pdf) · [Nationaal Crisiscentrum: Natuurbrand](https://crisiscentrum.be/nl/risicos-belgie/natuurlijke-risicos/natuurbrand) · [ERC Guidelines 2021: First aid](https://cprguidelines-old.erc.edu/assets/guidelines/European-Resuscitation-Council-Guidelines-2021-Fi.pdf) · [112.be: Veelgestelde vragen](https://112.be/nl/veelgestelde-vragen) · [Nationaal Crisiscentrum: brochure Samen voorbereid](https://crisiscentrum.be/sites/default/files/documents/files/WEB-Brochure%20Samen%20voorbereid-NL.pdf) · [Antigifcentrum: Tekenbeten](https://www.antigifcentrum.be/Toxinfos/tekenbeten/) · [Antigifcentrum: Adderbeten](https://www.antigifcentrum.be/Toxinfos/adderbeten/) · [Antigifcentrum: Steken van wespen, bijen en hoornaars](https://www.antigifcentrum.be/Toxinfos/steken-van-wespen-bijen-en-hoornaars/) · [Rode Kruis-Vlaanderen: eikenprocessierupsen](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-irritatie-door-eikenprocessierupsen) · [Antigifcentrum: Vergiftiging door planten](https://www.antigifcentrum.be/Toxinfos/vergiftiging-door-planten/) · [KMI: Hoe bescherm ik me tegen bliksem?](https://www.meteo.be/nl/switch-language/634?nis=21004)
 
 ## Teken en de ziekte van Lyme
 
@@ -114,7 +126,7 @@ Bron: [Antigifcentrum: Tekenbeten](https://www.antigifcentrum.be/Toxinfos/tekenb
 
 **Gebeten: wat doen**
 
-1. Een adderbeet is zelden dodelijk, maar moet altijd snel medisch bekeken worden. **Bel 112.**
+1. Een adderbeet is zelden dodelijk, maar moet altijd snel medisch bekeken worden. **Bel 112** of laat iemand bellen. Lukt bellen niet, zie Overzicht, Lukt bellen niet.
 2. Blijf rustig en beweeg zo weinig mogelijk.
 3. Stel het slachtoffer gerust.
 4. Hou het gebeten lichaamsdeel zo stil mogelijk.
@@ -136,7 +148,7 @@ Bron: [Antigifcentrum: Adderbeten](https://www.antigifcentrum.be/Toxinfos/adderb
 
 ## Wespen, bijen, hommels en hoornaars
 
-Eén steek in armen, benen of romp is meestal niet gevaarlijk. Pijn, roodheid, jeuk en zwelling zijn normaal en kunnen enkele dagen duren. Bij alleen een plaatselijke reactie hoef je het Antigifcentrum niet te bellen.
+Eén steek in armen, benen of romp is meestal niet gevaarlijk. Pijn, roodheid, jeuk en zwelling zijn normaal en kunnen enkele dagen duren. Bij alleen een plaatselijke reactie hoef je het Antigifcentrum niet te contacteren.
 
 **Wat doen**
 
@@ -146,7 +158,7 @@ Eén steek in armen, benen of romp is meestal niet gevaarlijk. Pijn, roodheid, j
 4. Steek in hand of vingers: doe ringen uit voor de zwelling toeneemt.
 5. Bij een grote zwelling: hou de arm of het been hoog.
 
-**Bel onmiddellijk 112** bij een ernstige allergische reactie, die al na één steek kan optreden:
+**Bel onmiddellijk 112** of laat iemand bellen bij een ernstige allergische reactie, die al na één steek kan optreden:
 
 - zwelling van tong of keel;
 - moeite met slikken, spreken of ademen;
@@ -155,7 +167,9 @@ Eén steek in armen, benen of romp is meestal niet gevaarlijk. Pijn, roodheid, j
 - ernstige duizeligheid, zwakte of flauwvallen;
 - bewustzijnsverlies.
 
-Heeft iemand door een gekende allergie een adrenalinepen, gebruik die dan volgens zijn persoonlijk noodplan en bel 112.
+Lukt bellen niet, zie Overzicht, Lukt bellen niet.
+
+Heeft iemand door een gekende allergie een adrenalinepen, gebruik die dan volgens zijn persoonlijk noodplan en bel 112 of laat hulp halen.
 
 **Steek in mond of keel.** De zwelling kan de luchtweg vernauwen. Laat dit altijd dringend medisch bekijken. Bij ademnood of snel toenemende zwelling: bel 112.
 
@@ -188,7 +202,7 @@ Van mei tot juli zitten in bepaalde streken behaarde rupsen op eiken. Ze hebben 
 5. Douche en was het haar met water en zeep.
 6. Vastzittende haartjes: kleef plakband op de huid en trek het snel weg.
 7. Ingeslikt: drink een groot glas water.
-8. Geïrriteerde ogen: naar een **oogarts**. Ernstige klachten: **bel 112**.
+8. Geïrriteerde ogen: naar een **oogarts**. Ernstige klachten: **bel 112** of laat hulp halen.
 9. Verwittig de gemeente om de rupsen te laten verwijderen.
 
 **Voorkomen.** Vermijd van mei tot september de buurt van aangetaste bomen (eik, beuk, berk): je herkent ze aan kaalgevreten takken en nesten met haartjes en vervellingshuidjes. Hou spelende kinderen weg. Kan het niet anders, draag dan handschoenen, lange mouwen, een lange broek, een pet en een bril.
@@ -201,7 +215,7 @@ Jonge kinderen steken vaak bessen of bladeren in hun mond. Meestal loopt dat goe
 
 **Hoe planten schade doen**
 
-| Manier | Voorbeelden uit de bron |
+| Manier | Voorbeelden |
 | --- | --- |
 | Inslikken | Veel planten zijn giftig bij inname, in hun geheel of deels (bladeren, bessen, vruchten, bollen) |
 | Huidirritatie door plantensap | Wolfsmelk, stinkende gouwe |
@@ -212,7 +226,7 @@ Jonge kinderen steken vaak bessen of bladeren in hun mond. Meestal loopt dat goe
 **Wat doen na inslikken**
 
 1. Haal de plantenresten uit de mond en geef een glas water.
-2. Bel het Antigifcentrum (070 245 245) of de huisarts. Hou de naam van de plant bij de hand.
+2. Neem contact op met het Antigifcentrum (070 245 245, als het netwerk werkt) of de huisarts. Hou de naam van de plant bij de hand.
 3. Ken je de naam niet: neem een volledige tak mee met bladeren en bloemen of vruchten naar een tuincentrum, bloemenwinkel, apotheker of plantenkenner, of maak meerdere foto's.
 4. Heeft een kind meerdere bessen gegeten, neem dan contact op met de huisarts of het Antigifcentrum.
 
@@ -229,7 +243,7 @@ Bron: [Antigifcentrum: Vergiftiging door planten](https://www.antigifcentrum.be/
 
 **Ongeveer 60 procent** van de oproepen over paddenstoelen bij het Antigifcentrum gaat over kinderen die per ongeluk een stukje opaten. Dat is meestal weinig ernstig, maar soms is identificatie nodig. Het Antigifcentrum werkt met een netwerk van mycologen die snel kunnen helpen. Een maaltijd met zelfgeplukte paddenstoelen is minder vaak een probleem, maar potentieel veel ernstiger.
 
-**Bel het Antigifcentrum** en hou deze informatie klaar: welke paddenstoelen, waar geplukt, hoe lang tussen plukken en eten, hoe bewaard en bereid, of er nog resten zijn (rauw, gekookt, geschild), welke klachten, hoe lang na het eten de eerste klachten kwamen, welke medicatie en aandoeningen, of iedereen die meegegeten heeft ziek is, wat er verder gegeten en gedronken werd.
+**Contacteer het Antigifcentrum** als het netwerk werkt, en hou deze informatie klaar: welke paddenstoelen, waar geplukt, hoe lang tussen plukken en eten, hoe bewaard en bereid, of er nog resten zijn (rauw, gekookt, geschild), welke klachten, hoe lang na het eten de eerste klachten kwamen, welke medicatie en aandoeningen, of iedereen die meegegeten heeft ziek is, wat er verder gegeten en gedronken werd.
 
 Bron: [Antigifcentrum: Tips voor plukkers van paddenstoelen](https://www.antigifcentrum.be/Toxinfos/tips-voor-paddenstoelenplukkers/) · [Antigifcentrum: Oproepen rond paddenstoelen](https://www.antigifcentrum.be/Toxinfos/oproepen-rond-paddenstoelen/)
 
@@ -245,7 +259,7 @@ Aan de Belgische kust komen geen dodelijke kwallen voor, maar hun netelcellen ku
 4. Zichtbare tentakels: verwijder ze met een pincet. Niet zichtbaar: scheerschuim aanbrengen en afschrapen met de rand van een bankkaart, van de vingers of tenen naar boven.
 5. **Niet wrijven**, ook niet met zand. **Geen azijn** aan de Noordzee. **Geen urine.** Geen drukverband.
 
-**Bel 112** bij algemene reacties: moeite met ademen of slikken, hartritmestoornissen, bewustzijnsverlies, onwel worden, buikkrampen, braken, jeuk en roodheid over het hele lichaam.
+**Bel 112** of laat iemand bellen bij algemene reacties: moeite met ademen of slikken, hartritmestoornissen, bewustzijnsverlies, onwel worden, buikkrampen, braken, jeuk en roodheid over het hele lichaam.
 
 Bron: [Rode Kruis-Vlaanderen: Eerste hulp bij een kwallenbeet](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-een-kwallenbeet)
 
@@ -274,7 +288,7 @@ Bron: [Rode Kruis-Vlaanderen: Eerste hulp bij een kwallenbeet](https://www.gezon
 - Stap van je fiets, brommer, motor of paard en zoek beschutting.
 - In een groep: verspreid je, minstens 2 meter uit elkaar.
 
-**Iemand is getroffen.** Bel 112. Een getroffen persoon is **niet elektrisch geladen**: je mag hem meteen aanraken. Ademt hij niet, start dan reanimatie: van de getroffen mensen overlijdt slechts één op drie, en wie snel en lang gereanimeerd wordt, overleeft vaak. Koel brandwonden met koud of lauw water.
+**Iemand is getroffen.** Bel 112 of laat iemand bellen (lukt dat niet, zie Overzicht, Lukt bellen niet). Een getroffen persoon is **niet elektrisch geladen**: je mag hem meteen aanraken. Ademt hij niet, start dan reanimatie: van de getroffen mensen overlijdt slechts één op drie, en wie snel en lang gereanimeerd wordt, overleeft vaak. Koel brandwonden met koud of lauw water.
 
 **Na het onweer:** raak geen kabels aan die op de grond liggen.
 
@@ -288,13 +302,13 @@ Bron: [KMI: Hoe bescherm ik me tegen bliksem?](https://www.meteo.be/nl/switch-la
 - Zet een pet of hoed op, draag lichte kleding in lichte kleuren, gebruik zonnecrème met hoge beschermingsfactor.
 - Vermijd zware inspanningen, zeker in het heetst van de dag. Maak voorhoofd en nek regelmatig nat.
 - Laat nooit mensen of dieren achter in een geparkeerde auto.
-- **Hitteslag** is levensbedreigend. Tekens: hoofdpijn, duizeligheid of flauwvallen, braken, krampen, rode huid, eerst fel zweten en dan niet meer, stuipen, verwardheid. Bel 112 bij bewustzijnsstoornissen, stuipen, niet meer zweten, niet kunnen drinken zonder braken, of boven 39 °C. Koel onmiddellijk af in de schaduw, met natte koude doeken in lies, oksels en nek, koud water, een ventilator.
+- **Hitteslag** is levensbedreigend. Tekens: hoofdpijn, duizeligheid of flauwvallen, braken, krampen, rode huid, eerst fel zweten en dan niet meer, stuipen, verwardheid. Bel 112 of laat hulp halen bij bewustzijnsstoornissen, stuipen, niet meer zweten, niet kunnen drinken zonder braken, of boven 39 °C. Koel onmiddellijk af in de schaduw, met natte koude doeken in lies, oksels en nek, koud water, een ventilator.
 
 **Kou**
 
 - Trek meerdere lagen aan en bedek je hele lichaam, ook je hoofd.
 - Hou je kleding droog en vermijd zweten.
-- **Onderkoeling**: oncontroleerbaar rillen, later stoppen met rillen, bleke koude huid, blauwe lippen, verwardheid, sufheid. Bel 112 als iemand niet meer rilt, verstijft of suf wordt. Verplaats horizontaal, natte kleding uit, droog en warm toedekken, **niet warm wrijven**.
+- **Onderkoeling**: oncontroleerbaar rillen, later stoppen met rillen, bleke koude huid, blauwe lippen, verwardheid, sufheid. Bel 112 of laat hulp halen als iemand niet meer rilt, verstijft of suf wordt. Verplaats horizontaal, natte kleding uit, droog en warm toedekken, **niet warm wrijven**.
 - **Bevriezing**: bij lichte bevriezing wordt de huid dof en witachtig, bij diepe bevriezing wordt het weefsel hard en onbeweeglijk. Voeten, handen en het gezicht zijn het kwetsbaarst. Controleer elkaars gezicht in een groep. Ontdooi bevroren delen **niet bij een open vuur**.
 
 Zie ook de scenario's over hitte en kou.
@@ -323,7 +337,7 @@ Bron: [Nationaal Crisiscentrum: Hittegolf](https://crisiscentrum.be/nl/risicos-b
 1. Zorg eerst voor je eigen veiligheid.
 2. Probeer te redden **zonder zelf in het water te gaan**.
 3. Ga alleen in het water als je daarvoor getraind bent. Een drenkeling die bij bewustzijn is, klampt zich in paniek vast aan de redder.
-4. Bel 112. Elk slachtoffer van verdrinking moet onderzocht worden, ook als het niet ernstig lijkt.
+4. Bel 112 of laat iemand bellen. Lukt bellen niet, zie Overzicht, Lukt bellen niet. Elk slachtoffer van verdrinking moet onderzocht worden, ook als het niet ernstig lijkt.
 5. Haal het slachtoffer **horizontaal** uit het water.
 6. Ademt hij niet: start reanimatie. Bij een duik in ondiep water: denk aan een nekletsel.
 7. Bij bewustzijn: naar een warme plek, natte kleding uit, afdrogen, warm toedekken, niet warm wrijven.
@@ -334,7 +348,7 @@ Bron: [Vlaanderen.be: Veilig zwemmen of watersporten in open water](https://www.
 
 Sinds begin jaren 2000 zijn er steeds meer everzwijnen in Vlaanderen, ook in woongebied. Ze zijn van nature mensenschuw, maar intelligent. Wie ze voedt, leert ze mensen met eten te verbinden; dan verliezen ze hun schuwheid. Het blijven **wilde dieren die onvoorspelbaar kunnen reageren**. Ze steken vaak zomaar de weg over. Ze kunnen ziekteverwekkers dragen: **vermijd nauw contact**.
 
-**Wat het Agentschap Natuur en Bos aanraadt**
+**Wat je doet**
 
 - Voeder ze niet. Laat geen afval of etensresten achter.
 - Scherm afvalzakken en composthoop af.
@@ -348,7 +362,7 @@ Bron: [Agentschap Natuur en Bos: Everzwijnen in de buurt?](https://natuurenbos.v
 
 ## De wolf in Vlaanderen
 
-De kans dat je toevallig een wolf tegenkomt, is heel klein. Wolven zijn vooral 's nachts actief, schuw, en hebben een goede schutkleur. Volgens het Agentschap Natuur en Bos en het INBO is het aantal incidenten in onze westerse omgeving uiterst klein. De kans om door een hond gewond te raken is veel groter dan door een wolf. Gevaarlijk zijn vooral wolven die door mensen gevoederd werden en mensen met voedsel verbinden.
+De kans dat je toevallig een wolf tegenkomt, is heel klein. Wolven zijn vooral 's nachts actief, schuw, en hebben een goede schutkleur. Het aantal incidenten in onze westerse omgeving is uiterst klein. De kans om door een hond gewond te raken is veel groter dan door een wolf. Gevaarlijk zijn vooral wolven die door mensen gevoederd werden en mensen met voedsel verbinden.
 
 **Sta je oog in oog met een wolf**
 
@@ -356,7 +370,7 @@ De kans dat je toevallig een wolf tegenkomt, is heel klein. Wolven zijn vooral '
 2. Vertrekt de wolf niet zelf, jaag hem dan weg: maak jezelf groot en dreigend, roep luid, klap in je handen, maak grote bewegingen met je armen.
 3. Hou je hond aan de leiband. Een wolf kan een loslopende hond als indringer of prooi zien en aanvallen.
 4. **Voeder een wolf nooit.**
-5. Meld de waarneming via wolf@inbo.be.
+5. Meld de waarneming later via wolf@inbo.be, als het internet werkt.
 
 Een wolf die niet meer mensenschuw is of brutaal gedrag vertoont, geldt als probleemwolf. Het Agentschap Natuur en Bos en het INBO volgen het gedrag van de wolven in Vlaanderen nauwgezet op.
 
@@ -367,7 +381,7 @@ Bron: [Agentschap Natuur en Bos: Q&A actualiteit wolf Limburg](https://natuurenb
 | Wie | Waar extra op letten |
 | --- | --- |
 | Kinderen | Controleer jezelf en anderen na elk bezoek aan de natuur op teken. Hou hen weg van bomen met processierupsen. Kleine kinderen stoppen bessen, bladeren en paddenstoelen in hun mond. Bij een adderbeet lopen zij meer risico. Meer dan 5 wespensteken bij een klein kind: ziekenhuisobservatie. |
-| Mensen met een insectengif-allergie | Draag je adrenalinepen en volg je persoonlijk noodplan. Bel 112 bij een reactie. |
+| Mensen met een insectengif-allergie | Draag je adrenalinepen en volg je persoonlijk noodplan. Bel 112 of laat hulp halen bij een reactie. |
 | Ouderen en mensen met een chronische ziekte | Bij hitte: vraag je huisarts naar je risico's en of je medicatie invloed heeft. |
 | Wie medicatie neemt | Vraag je arts of apotheker of ze bij warmte een negatieve invloed kan hebben. |
 | Honden | Aan de leiband in natuurgebieden, en zeker waar everzwijnen of wolven voorkomen. |

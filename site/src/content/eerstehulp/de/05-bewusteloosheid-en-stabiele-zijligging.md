@@ -1,9 +1,9 @@
 ---
 titel: Bewusstlosigkeit und stabile Seitenlage
 volgorde: 5
-kort: "Reagiert jemand nicht, atmet aber normal: Rufen Sie 112 an, bringen Sie die Person in die stabile Seitenlage und prüfen Sie jede Minute die Atmung."
+kort: "Reagiert jemand nicht, atmet aber normal: Lassen Sie 112 anrufen oder Hilfe holen, bringen Sie die Person in die stabile Seitenlage und prüfen Sie jede Minute die Atmung."
 status: concept
-datum: "2026-11-17"
+datum: "2026-11-18"
 bronnen:
   - naam: "Gezondheid en Wetenschap (Rode Kruis-Vlaanderen): Bewusstlosigkeit"
     url: https://www.gezondheidenwetenschap.be/richtlijnen/bewusteloosheid
@@ -21,8 +21,12 @@ bronnen:
     url: https://ready.gov/sites/default/files/2020-07/until-help-arrives-instructor-guide.pdf
   - naam: "Gezondheid en Wetenschap (Rode Kruis-Vlaanderen): Wie führt man eine Wiederbelebung durch?"
     url: https://www.gezondheidenwetenschap.be/eerste-hulp/hoe-moet-je-reanimeren
+  - naam: "European Resuscitation Council Guidelines 2021: First aid"
+    url: https://cprguidelines-old.erc.edu/assets/guidelines/European-Resuscitation-Council-Guidelines-2021-Fi.pdf
+  - naam: "112.be: Häufig gestellte Fragen"
+    url: https://112.be/de/haeufig-gestellte-fragen
 vertaling: machine
-origineel_datum: "2026-11-17"
+origineel_datum: "2026-11-18"
 ---
 
 ## Erkennen
@@ -31,7 +35,7 @@ Jemand ist bewusstlos, wenn er nicht auf Reize aus der Umgebung reagiert: nicht 
 
 Mögliche Ursachen: Vergiftung (Kohlenmonoxid, Alkohol), zu niedriger Blutzucker, Sauerstoffmangel, eine Hirnblutung, Hirnhautentzündung, eine Kopfverletzung oder ein Anfall.
 
-Das Bewusstsein kann schrittweise abnehmen. Die IFRC und der ERC verwenden die AVPU-Skala:
+Das Bewusstsein kann schrittweise abnehmen. Sie können das mit der AVPU-Skala einschätzen:
 
 - A (alert): wach, aber möglicherweise verwirrt;
 - V (voice): reagiert nur auf Ihre Stimme;
@@ -50,8 +54,8 @@ Quelle: [Gezondheid en Wetenschap: Bewusstlosigkeit](https://www.gezondheidenwet
 
 1. Sorgen Sie für Ihre eigene Sicherheit und die der betroffenen Person.
 2. Rütteln Sie sanft an beiden Schultern und fragen Sie laut, ob alles in Ordnung ist. Bei einem Säugling klopfen Sie auf die Fußsohle.
-3. Reagiert die Person, lassen Sie sie so liegen, wie Sie sie gefunden haben, wenn sie nicht in Gefahr ist. Rufen Sie um Hilfe und bleiben Sie nicht allein. Lassen Sie jemanden bei der Person und lassen Sie 112 anrufen, oder rufen Sie selbst an. Sagen Sie, dass die Person teilweise bei Bewusstsein ist, aber reagiert, nennen Sie Ihren Namen und die genaue Adresse. Finden Sie heraus, was passiert ist, und prüfen Sie regelmäßig, ob sie bei Bewusstsein bleibt.
-4. Reagiert die Person nicht, rufen Sie laut um Hilfe. Lassen Sie jemanden 112 anrufen und einen AED holen. Sind Sie allein, rufen Sie selbst an und sagen Sie, dass die Person bewusstlos ist, nennen Sie Ihren Namen und die genaue Adresse.
+3. Reagiert die Person, lassen Sie sie so liegen, wie Sie sie gefunden haben, wenn sie nicht in Gefahr ist. Rufen Sie um Hilfe und bleiben Sie nicht allein. Lassen Sie jemanden bei der Person und lassen Sie 112 anrufen, oder rufen Sie selbst an. Sagen Sie, dass die Person teilweise bei Bewusstsein ist, aber reagiert, nennen Sie Ihren Namen und die genaue Adresse. Kommt kein Anruf zustande, lassen Sie jemanden mit diesen Informationen Hilfe holen (siehe Rufen Sie 112 an, wenn). Finden Sie heraus, was passiert ist, und prüfen Sie regelmäßig, ob sie bei Bewusstsein bleibt.
+4. Reagiert die Person nicht, rufen Sie laut um Hilfe. Lassen Sie jemanden 112 anrufen und einen AED holen. Sind Sie allein, rufen Sie selbst an und sagen Sie, dass die Person bewusstlos ist, nennen Sie Ihren Namen und die genaue Adresse. Kommt kein Anruf zustande, siehe Rufen Sie 112 an, wenn.
 5. Drehen Sie die Person auf den Rücken und machen Sie die Atemwege frei: Hand auf die Stirn, Kopf nach hinten neigen, zwei Fingerspitzen unter die Kinnspitze und das Kinn anheben. Bei einem Säugling bringen Sie den Kopf in eine neutrale Position.
 6. Sehen, hören und fühlen Sie höchstens 10 Sekunden lang, ob die Person normal atmet.
 7. Atmet sie nicht normal, beginnen Sie sofort mit der Wiederbelebung (siehe Thema 2).
@@ -64,7 +68,7 @@ Bringen Sie die Person in die stabile Seitenlage, wenn sie:
 - wegen Blut, Erbrochenem oder anderer Körperflüssigkeit schwer atmet;
 - allein bleiben muss, weil Sie Hilfe alarmieren gehen müssen.
 
-Merkmale der Lage nach dem ERC und der IFRC:
+Merkmale der Lage:
 
 1. Die Person liegt auf der Seite.
 2. Arme und Beine sind gebeugt.
@@ -72,7 +76,7 @@ Merkmale der Lage nach dem ERC und der IFRC:
 4. Einen Säugling können Sie in dieser Lage in Ihren Armen halten.
 5. Eine schwangere Frau legen Sie vorzugsweise auf die linke Seite. So werden die Blutgefäße zur Gebärmutter nicht zusammengedrückt.
 
-Das Rote Kreuz zeigt den Handgriff Schritt für Schritt in seinen Lehrvideos und in der App Erste Hilfe. Üben Sie ihn in einem Kurs.
+Üben Sie den Handgriff im Voraus in einem Kurs. Das Rote Kreuz zeigt ihn auch Schritt für Schritt in seinen Lehrvideos und in der App Erste Hilfe. Sehen Sie sich diese an, bevor etwas passiert.
 
 Danach:
 
@@ -90,7 +94,7 @@ Denken Sie an eine Wirbelsäulenverletzung nach einem Verkehrsunfall, einem Stur
 3. Beobachten Sie ständig den Mund. Kommt Erbrochenes, drehen Sie die Person sofort auf die Seite, egal wie, damit das Erbrochene abfließen kann.
 4. Liegt sie auf dem Bauch: Beobachten Sie ständig den Mund und lassen Sie Erbrochenes abfließen.
 5. Prüfen Sie jede Minute Bewusstsein und Atmung.
-6. Die Croix-Rouge de Belgique betont: Die Verletzung muss eindeutig und sofort festzustellen sein. Sind Sie unsicher, ob eine Verletzung vorliegt, bringen Sie die Person dennoch in die Seitenlage.
+6. Die Verletzung muss eindeutig und sofort festzustellen sein. Sind Sie unsicher, ob eine Verletzung vorliegt, bringen Sie die Person dennoch in die Seitenlage.
 
 ### Ohnmacht
 
@@ -100,10 +104,10 @@ Denken Sie an eine Wirbelsäulenverletzung nach einem Verkehrsunfall, einem Stur
 4. Lockern Sie beengende Kleidung.
 5. Legen Sie eine kalte Kompresse oder einen feuchten Waschlappen auf die Stirn.
 6. Kommt sie zu sich, lassen Sie sie noch etwas liegen. Lassen Sie sie danach langsam aufsitzen und aufstehen.
-7. Ist sie länger als 2 Minuten bewusstlos, bringen Sie sie in die stabile Seitenlage, prüfen Sie jede Minute die Atmung und rufen Sie 112 an.
+7. Ist sie länger als 2 Minuten bewusstlos, bringen Sie sie in die stabile Seitenlage, prüfen Sie jede Minute die Atmung und rufen Sie 112 an oder lassen Sie anrufen.
 8. Prüfen Sie, ob sie sich beim Fallen verletzt hat.
 
-Quelle: [Gezondheid en Wetenschap: Bewusstlosigkeit](https://www.gezondheidenwetenschap.be/richtlijnen/bewusteloosheid) · [Jeugd Rode Kruis: ResQ](https://jeugd.rodekruis.be/storage/jrk/jrk-resq-watermerk.pdf) · [Gezondheid en Wetenschap: Ohnmacht](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-flauwte) · [Croix-Rouge de Belgique: mise à jour 2024](https://formations.croix-rouge.be/files/files/espace-relais/Relais-BEPS-Mise-jour-2024.pdf) · [ERC Guidelines 2025 for Everyone](https://www.erc.edu/media/p5ymaeej/gl2025_layperson_book_ipdf-v11-e.pdf) · [IFRC Guidelines 2020](https://www.ifrc.org/sites/default/files/2022-02/EN_GFARC_GUIDELINES_2020.pdf)
+Quelle: [Gezondheid en Wetenschap: Bewusstlosigkeit](https://www.gezondheidenwetenschap.be/richtlijnen/bewusteloosheid) · [Jeugd Rode Kruis: ResQ](https://jeugd.rodekruis.be/storage/jrk/jrk-resq-watermerk.pdf) · [Gezondheid en Wetenschap: Ohnmacht](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-flauwte) · [Croix-Rouge de Belgique: mise à jour 2024](https://formations.croix-rouge.be/files/files/espace-relais/Relais-BEPS-Mise-jour-2024.pdf) · [ERC Guidelines 2025 for Everyone](https://www.erc.edu/media/p5ymaeej/gl2025_layperson_book_ipdf-v11-e.pdf) · [IFRC Guidelines 2020](https://www.ifrc.org/sites/default/files/2022-02/EN_GFARC_GUIDELINES_2020.pdf) · [ERC Guidelines 2021: First aid](https://cprguidelines-old.erc.edu/assets/guidelines/European-Resuscitation-Council-Guidelines-2021-Fi.pdf)
 
 ## Wenn Hilfe lange auf sich warten lässt
 
@@ -111,7 +115,7 @@ Quelle: [Gezondheid en Wetenschap: Bewusstlosigkeit](https://www.gezondheidenwet
 - Versuchen Sie, die Ursache herauszufinden, zum Beispiel Diabetes, Vergiftung oder eine Kopfverletzung. Schauen Sie, ob offene Verpackungen von Medikamenten oder Produkten in der Nähe liegen, und geben Sie diese dem Rettungsdienst (siehe Thema 12).
 - Notieren Sie, was Sie sehen und wann: wie lange die Person bewusstlos ist, ob sie auf Stimme oder Schmerz reagiert, und jede Veränderung.
 - Vermuten Sie eine Wirbelsäulenverletzung, ist Hilfe noch weit entfernt und gibt es mindestens zwei Helfer: Dann dürfen Sie die Person auf die Seite drehen, während ein Helfer den Kopf in einer Linie mit dem Rücken hält. Kommt Hilfe schnell, verwenden Sie nur das Neigen des Kopfes oder das Anheben des Kiefers.
-- Die Croix-Rouge de Belgique erklärt, dass Sie bei einer eindeutigen Verletzung an Kopf, Hals oder Rumpf die Person auf dem Rücken liegen lassen können, wenn sie deutlich atmet und der Rettungsdienst schnell vor Ort ist. Dauert es lange, haben freie Atemwege durch die Seitenlage Vorrang.
+- Bei einer eindeutigen Verletzung an Kopf, Hals oder Rumpf können Sie die Person auf dem Rücken liegen lassen, wenn sie deutlich atmet und der Rettungsdienst schnell vor Ort ist. Dauert es lange, haben freie Atemwege durch die Seitenlage Vorrang.
 - Halten Sie die Person warm. Legen Sie etwas zwischen den Körper und den Boden, decken Sie sie mit trockenen Schichten zu und schützen Sie sie vor Wind.
 - Geben Sie einer bewusstlosen oder benommenen Person nichts zu essen oder zu trinken.
 - Wacht die Person auf, sprechen Sie ruhig mit ihr, erklären Sie, was passiert ist, und beobachten Sie sie weiter.
@@ -129,7 +133,14 @@ Teilen Sie dem Rettungsdienst mit: die Umstände, unter denen die Person bewusst
 
 Suchen Sie einen Arzt auf bei einer Ohnmacht ohne klare Ursache, bei wiederholtem Ohnmächtigwerden, bei Verdacht auf Herzprobleme und bei einer Ohnmacht nach einem Sturz oder einem Schlag gegen den Kopf.
 
-Quelle: [Gezondheid en Wetenschap: Bewusstlosigkeit](https://www.gezondheidenwetenschap.be/richtlijnen/bewusteloosheid) · [Gezondheid en Wetenschap: Ohnmacht](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-flauwte) · [IFRC Guidelines 2020](https://www.ifrc.org/sites/default/files/2022-02/EN_GFARC_GUIDELINES_2020.pdf)
+**Kommt kein Anruf zustande**
+
+- Lassen Sie die betroffene Person nur allein, wenn es keine andere Möglichkeit gibt. Sprechen Sie Umstehende direkt an, damit sie Hilfe holen, und geben Sie mit, wo es ist, was passiert ist, wie viele Betroffene es gibt und in welchem Zustand sie sind.
+- Müssen Sie doch weg, um Hilfe zu holen, und atmet die Person normal, bringen Sie sie zuerst in die stabile Seitenlage.
+- Sind Sie zu zweit: Eine Person bleibt bei der betroffenen Person und beobachtet sie, die andere holt Hilfe.
+- Siehe auch Thema 1 (Kommt kein Anruf zustande: Hilfe holen ohne Telefon) und Notrufnummern in der App, Wenn kein Anruf möglich ist.
+
+Quelle: [Gezondheid en Wetenschap: Bewusstlosigkeit](https://www.gezondheidenwetenschap.be/richtlijnen/bewusteloosheid) · [Gezondheid en Wetenschap: Ohnmacht](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-flauwte) · [IFRC Guidelines 2020](https://www.ifrc.org/sites/default/files/2022-02/EN_GFARC_GUIDELINES_2020.pdf) · [ERC Guidelines 2021: First aid](https://cprguidelines-old.erc.edu/assets/guidelines/European-Resuscitation-Council-Guidelines-2021-Fi.pdf) · [112.be: Häufig gestellte Fragen](https://112.be/de/haeufig-gestellte-fragen)
 
 ## Nicht tun
 

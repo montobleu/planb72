@@ -6,9 +6,9 @@ stappen:
   - "Ga naar buiten zodra je een rookmelder hoort of rook ziet. Waarschuw onderweg iedereen in huis en in het gebouw."
   - "Sluit alle deuren achter je. Een gesloten deur houdt rook tot 10 minuten langer tegen."
   - "Blijf laag bij de grond als er rook is. Daar is de lucht het helderst en het langst ademhaalbaar."
-  - "Bel 112 van buiten. Zeg wie je bent, wat er gebeurt, waar het is en of er gewonden zijn."
+  - "Bel 112 van buiten. Zeg wie je bent, wat er gebeurt, waar het is en of er gewonden zijn. Lukt dat niet, laat iemand anders bellen of vraag hulp in je buurt (zie Noodnummers, Als bellen niet lukt)."
   - "Ga naar de voorkant van het gebouw of een andere plek waar de brandweer je ziet. Ga nooit terug naar binnen."
-  - "Kun je niet weg: ga in een kamer zonder rook, sluit de deur, bel 112 en laat weten waar je bent."
+  - "Kun je niet weg: ga in een kamer zonder rook, sluit de deur en maak je zichtbaar aan het raam. Bel 112 en zeg waar je bent."
   - "Blus alleen een kleine, beginnende brand en alleen als je weet hoe. Een brandende pan of frietketel nooit met water blussen."
 niet:
   - "Nooit water op een brandende pan of frietketel."
@@ -16,7 +16,7 @@ niet:
   - "Geen deur openen die heet is of waar rook onderdoor komt."
   - "Niet verstoppen voor de brandweer."
 status: concept
-datum: "2026-11-17"
+datum: "2026-11-18"
 bronnen:
   - naam: "Speel niet met vuur: vluchtplan"
     url: https://speelnietmetvuur.be/vluchtplan/
@@ -42,13 +42,19 @@ bronnen:
     url: https://www.ready.gov/home-fires
   - naam: "U.S. Fire Administration: cooking fire safety"
     url: https://www.usfa.fema.gov/prevention/home-fires/prevent-fires/cooking/
+  - naam: "112.be: Veelgestelde vragen"
+    url: https://112.be/nl/veelgestelde-vragen
+  - naam: "112.be: Hoe bel ik naar 112?"
+    url: https://112.be/nl/how-call/hoe-bel-ik-naar-112
+  - naam: "FOD Economie: vragen van gezinnen over elektriciteitsschaarste"
+    url: https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door
 ---
 
 ## Herkennen
 
 - In België branden elk jaar ongeveer 20.000 woningen. Jaarlijks sterven tientallen mensen door een woningbrand. Ongeveer de helft van de doden is ouder dan 65 jaar.
 - De meeste doden vallen door giftige rook, niet door de vlammen.
-- Moderne inrichting geeft zeer snel giftige rook af. Je hebt soms maar 3 minuten om buiten te raken. Volgens Ready.gov kan een kleine vlam in minder dan 30 seconden een grote brand worden en staat een woning na ongeveer vijf minuten volledig in brand.
+- Moderne inrichting geeft zeer snel giftige rook af. Je hebt soms maar 3 minuten om buiten te raken. Een kleine vlam kan in minder dan 30 seconden een grote brand worden. Na ongeveer vijf minuten staat een woning volledig in brand.
 - Als je slaapt, ruik je niets. De kans dat je 's nachts op tijd wakker wordt zonder rookmelder is zeer klein.
 - De drie belangrijkste oorzaken van woningbranden zijn roken, koken en elektrische toestellen.
 - Warme rook stijgt. Laag bij de grond zie je het meest en blijft de lucht het langst fris.
@@ -63,7 +69,6 @@ Bron: [Nationaal Crisiscentrum: brand of explosie](https://crisiscentrum.be/nl/r
 - Hang een rookmelder in elke ruimte waar brand kan ontstaan, zoveel mogelijk in het midden van het plafond. Niet in keuken, badkamer of garage, door vals alarm. In de keuken kan een hittemelder.
 - Kies een melder met CE-label volgens norm EN 14604, liefst met een batterij van 10 jaar die je niet kunt vervangen.
 - Gekoppelde melders gaan allemaal af als er één afgaat. Achter een gesloten deur hoor je een melder anders minder goed.
-- Voor doven en slechthorenden bestaan melders met lichtsignalen of een trilplaat.
 - Stof de melder elke maand af en druk regelmatig op de testknop. Vervang het hele toestel na 10 jaar. Schilder er nooit over.
 
 **Vluchtplan**
@@ -73,8 +78,8 @@ Bron: [Nationaal Crisiscentrum: brand of explosie](https://crisiscentrum.be/nl/r
 - Hang de sleutel bij de deur.
 - Leg een telefoon en een zaklamp bij je bed, en hou je bril of hoorapparaat binnen handbereik.
 - Spreek een verzamelplaats af aan de voorkant van het gebouw of op een plek die de brandweer ziet.
-- Verdeel taken: wie haalt de kinderen, wie helpt wie minder mobiel is, wie belt 112. Neem ook je huisdieren op in het plan.
-- Oefen het plan met iedereen in huis, ook met de binnendeuren dicht. Ready.gov raadt aan twee keer per jaar te oefenen, ook in het donker.
+- Verdeel taken: wie haalt de kinderen, wie helpt wie minder mobiel is, wie belt 112.
+- Oefen het plan met iedereen in huis, ook met de binnendeuren dicht. Oefen twee keer per jaar, ook in het donker.
 - Je kunt gratis een beroep doen op een brandpreventieadviseur.
 
 **Deuren dicht**
@@ -111,15 +116,17 @@ Bron: [Speel niet met vuur: rookmelders](https://speelnietmetvuur.be/rookmelders
 4. Is er rook, blijf dan laag. Kruip onder de rook door naar de uitgang.
 5. Voel aan de deurklink en de deur voor je een deur opent. Is die heet of komt er rook rond de deur, laat ze dan dicht en gebruik je tweede vluchtweg. Open je een deur, doe het dan langzaam en wees klaar om ze meteen te sluiten.
 6. Ga naar de verzamelplaats aan de voorkant van het gebouw.
-7. Bel 112 van buiten. Zeg wie je bent, wat er aan de hand is, waar het is en of er gewonden zijn.
+7. Bel 112 van buiten. Zeg wie je bent, wat er aan de hand is, waar het is en of er gewonden zijn. Bel je niet vanop de plaats van de brand, zeg dat dan aan de operator.
 8. Ga nooit terug naar binnen, ook niet voor iets wat je vergeten bent.
+
+Lukt bellen niet, laat iemand anders bellen of vraag hulp in je buurt. Zie Noodnummers in de app, Als bellen niet lukt.
 
 **Je vluchtweg is geblokkeerd**
 
 1. Ga naar een kamer zonder rook en sluit de deur. Sluit waar mogelijk andere deuren tussen jou en het vuur.
 2. Dicht kieren en verluchtingsopeningen af met een doek of tape.
-3. Bel 112 en zeg waar je bent.
-4. Open een raam en maak je zichtbaar, bijvoorbeeld met een lichte doek of een zaklamp, zodat de brandweer of de buren weten dat je daar bent.
+3. Open een raam en maak je zichtbaar, bijvoorbeeld met een lichte doek of een zaklamp, zodat de brandweer of de buren weten dat je daar bent.
+4. Bel 112 en zeg waar je bent.
 
 **Zelf blussen: alleen als het veilig is**
 
@@ -137,16 +144,16 @@ Bron: [Speel niet met vuur: rookmelders](https://speelnietmetvuur.be/rookmelders
 
 - Koel de brandwonde ongeveer 20 minuten onder lauw stromend water van ongeveer 20 °C. Koel alleen de wonde, zodat het slachtoffer niet onderkoeld raakt.
 - Smeer niets op de wonde.
-- Ga naar een arts als de wonde groter is dan een muntstuk van 2 euro. Bel de hulpdiensten bij grote of ernstige blaren, of als de huid bruin of zwart is.
+- Ga naar een arts als de wonde groter is dan een muntstuk van 2 euro. Bel de hulpdiensten bij grote of ernstige blaren, of als de huid bruin of zwart is. Lukt bellen niet, zie hierboven. Zie ook de eerstehulpkaart Brandwonden.
 
-Bron: [Speel niet met vuur: vluchtplan](https://speelnietmetvuur.be/vluchtplan/) · [Speel niet met vuur: doe de deur dicht](https://speelnietmetvuur.be/doededeurdicht/) · [Speel niet met vuur: keuken](https://speelnietmetvuur.be/brandveiligheid-keuken/) · [KCCE: Brandveiligheid voor ouderen](http://kcce.eu/sites/default/files/explorer/partie_s_incendie/brandveiligheid_ouderen_2017.pdf) · [Ready.gov: home fires](https://www.ready.gov/home-fires) · [U.S. Fire Administration: cooking](https://www.usfa.fema.gov/prevention/home-fires/prevent-fires/cooking/) · [Nationaal Crisiscentrum: evacueren](https://crisiscentrum.be/nl/wat-kan-jij-doen/reageer-correct/evacueren)
+Bron: [Speel niet met vuur: vluchtplan](https://speelnietmetvuur.be/vluchtplan/) · [Speel niet met vuur: doe de deur dicht](https://speelnietmetvuur.be/doededeurdicht/) · [Speel niet met vuur: keuken](https://speelnietmetvuur.be/brandveiligheid-keuken/) · [KCCE: Brandveiligheid voor ouderen](http://kcce.eu/sites/default/files/explorer/partie_s_incendie/brandveiligheid_ouderen_2017.pdf) · [Ready.gov: home fires](https://www.ready.gov/home-fires) · [U.S. Fire Administration: cooking](https://www.usfa.fema.gov/prevention/home-fires/prevent-fires/cooking/) · [Nationaal Crisiscentrum: evacueren](https://crisiscentrum.be/nl/wat-kan-jij-doen/reageer-correct/evacueren) · [112.be: Veelgestelde vragen](https://112.be/nl/veelgestelde-vragen) · [112.be: Hoe bel ik naar 112?](https://112.be/nl/how-call/hoe-bel-ik-naar-112) · [FOD Economie: vragen van gezinnen over elektriciteitsschaarste](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door)
 
 ### Buiten of onderweg
 
-- Zie je rook of vuur in een ander gebouw, bel dan 112. Zeg waar het is en wat je ziet.
-- Kun je iemand binnen niet bereiken, ga dan niet naar binnen. Bel 112 en zeg de hulpdiensten waar die persoon is.
+- Zie je rook of vuur in een ander gebouw, bel dan 112. Zeg waar het is en wat je ziet. Lukt bellen niet, laat iemand anders bellen of vraag hulp in je buurt (zie Noodnummers, Als bellen niet lukt).
+- Kun je iemand binnen niet bereiken, ga dan niet naar binnen. Zeg de brandweer waar die persoon is: via 112, of meteen als ze aankomt.
 
-Bron: [Ready.gov: home fires](https://www.ready.gov/home-fires) · [Speel niet met vuur: vluchtplan](https://speelnietmetvuur.be/vluchtplan/) · [1722](https://www.1722.be/nl/index.html)
+Bron: [Ready.gov: home fires](https://www.ready.gov/home-fires) · [Speel niet met vuur: vluchtplan](https://speelnietmetvuur.be/vluchtplan/) · [1722](https://www.1722.be/nl/index.html) · [112.be: Veelgestelde vragen](https://112.be/nl/veelgestelde-vragen)
 
 ### Op het werk of op school
 
@@ -167,12 +174,10 @@ Bron: [Ready.gov: home fires](https://www.ready.gov/home-fires) · [Speel niet m
 
 ### Kwetsbare personen
 
-- Ouderen lopen het meeste risico: ongeveer de helft van de doden bij woningbranden is ouder dan 65.
-- Leg telefoon met de noodnummers erin, zaklamp, bril en hoorapparaat 's nachts bij het bed.
+- Ouderen lopen het meeste risico.
 - Gebruik je een rollator of rolstoel, kijk dan na of alle uitgangen breed genoeg zijn.
 - Doven en slechthorenden: kies melders met lichtsignaal of trilplaat. Voor blinden en slechtzienden bestaan melders met een geluidssignaal.
-- Kun je niet op eigen houtje buiten: blijf in een ruimte zonder rook, sluit de deur, open een raam, hou een telefoon bij de hand en zorg dat de hulpdiensten of de buren weten dat je daar bent.
-- Rook niet tijdens het gebruik van medische zuurstof.
+- Kun je niet op eigen houtje buiten: blijf in een ruimte zonder rook, sluit de deur, open een raam en zorg dat de buren of de hulpdiensten weten dat je daar bent. Hou een telefoon bij de hand.
 - Gebruik een elektrische deken zoals de handleiding zegt, niet opgevouwen, en schakel ze uit voor je gaat slapen.
 
 Bron: [KCCE: Brandveiligheid voor ouderen](http://kcce.eu/sites/default/files/explorer/partie_s_incendie/brandveiligheid_ouderen_2017.pdf) · [Ready.gov: home fires](https://www.ready.gov/home-fires) · [Speel niet met vuur: rookmelders](https://speelnietmetvuur.be/rookmelders/)

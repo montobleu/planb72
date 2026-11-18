@@ -4,7 +4,7 @@ module: buiten
 volgorde: 4
 kort: "Les codes d'avertissement de l'IRM et leurs seuils, orages et nuages, tempête, endroits sensibles aux inondations, côte et marées, pourquoi ne pas traverser une rivière, conditions glissantes, et pour ceux qui partent en voyage : montagne, neige et l'échelle européenne de danger d'avalanche."
 status: concept
-datum: "2026-11-17"
+datum: "2026-11-18"
 bronnen:
   - naam: "IRM : Explication de nos avertissements"
     url: https://www.meteo.be/fr/meteo/avertissements/explications-avertissements
@@ -56,8 +56,14 @@ bronnen:
     url: https://rega.ch/en/news/news-from-the-world-of-rega/detail/how-to-raise-the-alarm-correctly
   - naam: "Rode Kruis-Vlaanderen via Gezondheid en Wetenschap : Premiers secours aux sports d'hiver"
     url: https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-wintersport
+  - naam: "National Park Service: Outdoor Emergency Plan"
+    url: https://www.nps.gov/subjects/healthandsafety/upload/NPS-Outdoor-Emergency-Plan-508c.pdf
+  - naam: "SPF Économie : questions des ménages sur la pénurie d'électricité"
+    url: https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door
+  - naam: "Centre de crise National : brochure Samen voorbereid (Préparés ensemble)"
+    url: https://centredecrise.be/sites/default/files/documents/files/WEB-Brochure-Pr%C3%AAts.%20Ensemble-FR.pdf
 vertaling: machine
-origineel_datum: "2026-11-17"
+origineel_datum: "2026-11-18"
 ---
 
 ## Les codes d'avertissement de l'IRM
@@ -73,6 +79,12 @@ L'IRM émet plusieurs fois par jour des avertissements pour les phénomènes dan
 
 En cas de grande incertitude, un code peut aussi être émis plus tardivement.
 
+**Comment recevoir les avertissements**
+
+1. **Radio.** Suivez les prévisions météo d'abord à la radio et à la télévision. Lors d'une coupure de courant, internet et les réseaux mobiles peuvent tomber en panne : gardez alors à portée de main une radio à piles, une radio à manivelle ou l'autoradio.
+2. **Si internet fonctionne,** consultez aussi le site web ou l'application de l'IRM.
+3. **Lire le temps vous-même.** Les nuages et le tonnerre vous renseignent aussi, surtout à l'extérieur (voir Lire les nuages et les orages).
+
 **Comment lire un avertissement**
 
 - « Très local » signifie moins d'un quart d'une province, « local » d'un quart à la moitié, « généralisé » au moins la moitié.
@@ -82,7 +94,7 @@ En cas de grande incertitude, un code peut aussi être émis plus tardivement.
 - L'IRM prévoit le temps, pas les dégâts. La survenue d'inondations dépend aussi des circonstances locales.
 - L'IRM émet aussi un avertissement pour l'**intoxication au monoxyde de carbone** (sans couleur) lorsqu'un temps sans vent avec une forte inversion de température entrave l'évacuation des fumées.
 
-**Seuils par couleur** (tels que l'IRM les publie)
+**Seuils par couleur**
 
 | Phénomène | Jaune | Orange | Rouge |
 | --- | --- | --- | --- |
@@ -101,15 +113,15 @@ Les quantités horaires ne sont prévues qu'une heure à l'avance.
 - **Plaques de givre** : givre ou humidité qui gèle sur une chaussée qui n'était pas mouillée par une averse.
 - **Plaques de glace** : parties mouillées ou restes de neige qui gèlent plus tard.
 
-**Ce que vous faites en cas de code orange ou rouge pour tempête ou inondation :** si vous avez besoin des pompiers mais que personne n'est en danger de mort, utilisez le guichet électronique 1722.be ou appelez le 1722. N'appelez le 112 qu'en cas de danger de mort ou si un sauvetage est nécessaire.
+**Ce que vous faites en cas de code orange ou rouge pour tempête ou inondation :** si vous avez besoin des pompiers mais que personne n'est en danger de mort, utilisez, si le réseau fonctionne, le guichet électronique 1722.be ou appelez le 1722 si ce numéro est actif. N'appelez le 112 qu'en cas de danger de mort ou si un sauvetage est nécessaire. Si l'appel ne passe pas, voir Numéros d'urgence dans l'application, Si l'appel ne passe pas.
 
 **Attention :** l'Agentschap Natuur en Bos a un code couleur **distinct** pour le risque de feux de forêt et de végétation (vert, jaune, orange, rouge). Il est indépendant des codes de l'IRM.
 
-Source : [IRM : Explication de nos avertissements](https://www.meteo.be/fr/meteo/avertissements/explications-avertissements) · [112.be : Questions fréquentes](https://112.be/fr/questions-frequentes) · [Centre de crise National : Feu de forêt et de végétation](https://centredecrise.be/fr/risques-en-belgique/risques-naturels/feu-de-foret)
+Source : [IRM : Explication de nos avertissements](https://www.meteo.be/fr/meteo/avertissements/explications-avertissements) · [Centre de crise National : Vent et tempête](https://centredecrise.be/fr/risques-en-belgique/risques-naturels/vent-et-tempete) · [Centre de crise National : brochure Samen voorbereid](https://centredecrise.be/sites/default/files/documents/files/WEB-Brochure-Pr%C3%AAts.%20Ensemble-FR.pdf) · [SPF Économie : questions des ménages sur la pénurie d'électricité](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door) · [Centre de crise National : Feu de forêt et de végétation](https://centredecrise.be/fr/risques-en-belgique/risques-naturels/feu-de-foret)
 
 ## Lire les nuages et les orages
 
-PlanB72 ne reprend que les signes météorologiques que l'IRM décrit lui-même. Nous laissons de côté les dictons populaires sur le temps.
+À l'extérieur, ou sans radio ni internet, vous pouvez observer vous-même les signes dans le ciel. Nous laissons de côté les dictons populaires sur le temps.
 
 - **De petits flocons nuageux avec des tourelles** (altocumulus castellanus, une sorte de nuages cumuliformes d'altitude) indiquent qu'un orage peut suivre plus tard dans la journée.
 - **Des nuages avec une forte croissance verticale en forme de colonne** (cumulonimbus, les véritables nuages d'orage) annoncent qu'un orage est possible sous peu ou à proximité. Un orage est toujours lié à un cumulonimbus.
@@ -134,7 +146,7 @@ Source : [IRM : Comment me protéger de la foudre ?](https://www.meteo.be/fr/inf
 
 **Se préparer :** fixez ou rentrez les objets non fixés (meubles de jardin, trampoline). Suivez les prévisions météo. Gardez les animaux de compagnie à l'intérieur.
 
-**Pendant :** entrez à l'intérieur et restez-y. Fermez les fenêtres et les portes. Suivez le bulletin météo.
+**Pendant :** entrez à l'intérieur et restez-y. Fermez les fenêtres et les portes. Écoutez le bulletin météo et suivez les recommandations.
 
 **Si vous devez malgré tout vous déplacer**
 
@@ -143,7 +155,7 @@ Source : [IRM : Comment me protéger de la foudre ?](https://www.meteo.be/fr/inf
 - Ne vous garez pas à proximité d'arbres.
 - En cas de foudre : restez loin des structures métalliques, ne courez pas, restez immobile et accroupissez-vous.
 
-**Dehors, en forêt ou sur le terrain :** l'armée américaine conseille de ne pas construire votre abri sous des arbres morts ou des branches détachées qui peuvent tomber. Pour les codes vent de l'IRM, le seuil est plus bas entre le 15 avril et le 15 novembre, parce que les arbres portent alors des feuilles.
+**Dehors, en forêt ou sur le terrain :** ne construisez pas votre abri sous des arbres morts ou des branches détachées qui peuvent tomber. Pour les codes vent de l'IRM, le seuil est plus bas entre le 15 avril et le 15 novembre, parce que les arbres portent alors des feuilles.
 
 Source : [Centre de crise National : Vent et tempête](https://centredecrise.be/fr/risques-en-belgique/risques-naturels/vent-et-tempete) · [IRM : Explication de nos avertissements](https://www.meteo.be/fr/meteo/avertissements/explications-avertissements) · [US Army FM 21-76](https://archive.org/details/fm-21-76-survival-manual)
 
@@ -159,9 +171,11 @@ Source : [Centre de crise National : Vent et tempête](https://centredecrise.be/
 
 **Savoir si vous habitez ou séjournez en zone sensible aux inondations**
 
+Recherchez-le à l'avance, quand internet fonctionne :
+
 - Sur la **carte Watertoets** de Waterinfo Vlaanderen, vous voyez les zones sensibles aux inondations (version 2019) et les cartes liées à l'arrêté Watertoets.
-- Sur **Waterinfo**, vous trouvez les niveaux d'eau actuels et les prévisions d'inondation, de précipitations, de sécheresse et de marées.
-- Le Centre de crise recommande de vous informer sur les zones sensibles aux inondations.
+- Informez-vous sur les zones sensibles aux inondations.
+- En période de crue, vous trouvez sur **Waterinfo** les niveaux d'eau actuels et les prévisions d'inondation, de précipitations, de sécheresse et de marées. Sans internet : écoutez la radio.
 
 **Dehors, sur le terrain**
 
@@ -176,7 +190,7 @@ Source : [Centre de crise National : Inondation fluviale](https://centredecrise.
 
 ## Côte et marées
 
-**Comment fonctionnent les marées.** Le flux et le reflux sont dus à l'attraction de la lune, et dans une moindre mesure du soleil. Le long de la côte néerlandaise, il y a deux marées hautes et deux marées basses toutes les 24 heures et 50 minutes ; un cycle de marée dure environ 12 heures et 25 minutes.
+**Comment fonctionnent les marées.** Le flux et le reflux sont dus à l'attraction de la lune, et dans une moindre mesure du soleil. Le long de la côte, il y a deux marées hautes et deux marées basses toutes les 24 heures et 50 minutes ; un cycle de marée dure environ 12 heures et 25 minutes.
 
 | Marée | Quand | Conséquence |
 | --- | --- | --- |
@@ -187,8 +201,8 @@ Le temps peut faire s'écarter le niveau de l'eau de la marée calculée. En cas
 
 **Où trouver les données pour la côte belge**
 
+- **Tables des marées de la côte (Getijtafels Kust)** : les heures des marées hautes et basses, publiées chaque année par les autorités flamandes. Consultez-les ou imprimez-les à l'avance : vous les aurez ainsi aussi sans internet.
 - **kustweerbericht.be** : bulletin météo marin et côtier, vagues, marée, vent et visibilité en mer.
-- **Tables des marées de la côte (Getijtafels Kust)** : les heures des marées hautes et basses, publiées chaque année par les autorités flamandes.
 
 **Nager en mer**
 
@@ -202,32 +216,32 @@ Source : [Rijkswaterstaat : Marée (Getij)](https://www.rijkswaterstaat.nl/water
 
 ## Traverser des rivières et des ruisseaux : à ne pas faire
 
-PlanB72 ne donne pas de techniques pour traverser une rivière. Les manuels militaires de survie en décrivent, pour des soldats entraînés et équipés. Pour les civils, les sources disent :
+PlanB72 ne donne pas de techniques pour traverser une rivière : elles sont destinées à des soldats entraînés et équipés. Pour les civils :
 
 - **Ne marchez pas, ne nagez pas et ne roulez pas dans une eau courante.** 15 cm d'eau courante suffisent à vous renverser. Faites demi-tour.
 - En Belgique, **nager dans les cours d'eau navigables** (rivières, canaux, darses portuaires) est interdit là où ce n'est pas autorisé. Beaucoup de plans d'eau dans les zones naturelles sont pollués, trop profonds, trop froids ou dangereux d'une autre manière.
 - Les ponts au-dessus d'une eau au courant rapide peuvent être emportés sans avertissement.
-- Les manuels militaires citent aussi des endroits à éviter : une barre rocheuse en travers de la rivière (indique souvent des rapides dangereux), une embouchure (large, fort courant, marées), et les tourbillons (qui peuvent vous entraîner sous l'eau).
+- Évitez aussi ces endroits : une barre rocheuse en travers de la rivière (indique souvent des rapides dangereux), une embouchure (large, fort courant, marées), et les tourbillons (qui peuvent vous entraîner sous l'eau).
 
-**Quelqu'un est tombé à l'eau :** veillez à votre propre sécurité, essayez de secourir sans entrer vous-même dans l'eau, appelez le 112. N'entrez dans l'eau que si vous êtes formé pour cela : une personne en train de se noyer qui est consciente s'agrippe au sauveteur sous l'effet de la panique.
+**Quelqu'un est tombé à l'eau :** veillez à votre propre sécurité, essayez de secourir sans entrer vous-même dans l'eau, appelez le 112 ou faites appeler. Si l'appel ne passe pas, envoyez quelqu'un chercher de l'aide (voir le guide sur les dangers dans la nature, Si l'appel ne passe pas). N'entrez dans l'eau que si vous êtes formé pour cela : une personne en train de se noyer qui est consciente s'agrippe au sauveteur sous l'effet de la panique.
 
-Source : [Ready.gov: Floods](https://www.ready.gov/floods) · [Vlaanderen.be : Nager ou pratiquer des sports nautiques en eau libre en toute sécurité](https://www.vlaanderen.be/natuur-milieu-en-klimaat/wat-mag-u-als-bezoeker-doen-in-de-vlaamse-natuur/veilig-zwemmen-of-watersporten-in-open-water) · [US Army ATP 3-50.21](https://archive.org/details/survival-atp-3-50-21) · [Rode Kruis-Vlaanderen : Premiers secours en cas de noyade](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-verdrinking)
+Source : [Ready.gov: Floods](https://www.ready.gov/floods) · [Vlaanderen.be : Nager ou pratiquer des sports nautiques en eau libre en toute sécurité](https://www.vlaanderen.be/natuur-milieu-en-klimaat/wat-mag-u-als-bezoeker-doen-in-de-vlaamse-natuur/veilig-zwemmen-of-watersporten-in-open-water) · [US Army ATP 3-50.21](https://archive.org/details/survival-atp-3-50-21) · [Rode Kruis-Vlaanderen : Premiers secours en cas de noyade](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-verdrinking) · [National Park Service: Outdoor Emergency Plan](https://www.nps.gov/subjects/healthandsafety/upload/NPS-Outdoor-Emergency-Plan-508c.pdf)
 
 ## Neige, verglas et conditions glissantes en Belgique
 
-- Restez à l'intérieur autant que possible. Suivez le bulletin météo et les avertissements concernant la sécurité routière.
+- Restez à l'intérieur autant que possible. Écoutez le bulletin météo et suivez les avertissements concernant la sécurité routière.
 - Si vous devez sortir : mettez plusieurs couches, couvrez tout votre corps, portez un bonnet.
 - **En voiture :** faites attention à votre vitesse, soyez particulièrement prudent dans les virages. Mettez une couverture, un grattoir et une bouteille d'eau dans le véhicule. Emportez des boissons chaudes ou de l'eau au cas où vous seriez bloqué dans un embouteillage.
 - **À vélo :** faites attention à votre vitesse et gardez vos distances, pour devoir moins freiner.
-- Signalez les conditions glissantes via l'application de l'IRM, pour que les services d'épandage puissent intervenir plus vite.
+- Si le réseau fonctionne, signalez les conditions glissantes via l'application de l'IRM, pour que les services d'épandage puissent intervenir plus vite.
 
 Source : [Centre de crise National : Neige](https://centredecrise.be/fr/risques-en-belgique/risques-naturels/neige) · [IRM : Explication de nos avertissements](https://www.meteo.be/fr/meteo/avertissements/explications-avertissements)
 
 ## Montagne et neige : pour ceux qui partent en voyage
 
-**Numéros d'urgence.** Le 112 fonctionne dans toute l'UE et en Suisse. En Suisse, vous pouvez aussi appeler directement le service de sauvetage aérien Rega au 1414, ou depuis l'étranger au +41 333 333 333 ; la Rega recommande surtout sa propre application d'urgence. Le Deutscher Alpenverein conseille d'enregistrer dans votre téléphone les numéros du secours en montagne local. Sans réseau : le signal de détresse alpin (six signaux par minute, voir le guide sur les signaux).
+**Numéros d'urgence.** Le 112 fonctionne dans toute l'UE et en Suisse. En Suisse, vous pouvez aussi appeler directement le service de sauvetage aérien Rega au 1414, ou depuis l'étranger au +41 333 333 333 ; la Rega recommande surtout sa propre application d'urgence. Enregistrez dans votre téléphone les numéros du secours en montagne local. Sans réseau : le signal de détresse alpin (six signaux par minute, voir le guide sur les signaux). Si vous êtes en groupe et qu'il y a un blessé, envoyez deux personnes ou plus donner l'alerte ; les autres restent auprès du blessé (voir le guide sur l'appel d'urgence).
 
-**L'échelle européenne de danger d'avalanche** (EAWS, utilisée dans tous les pays alpins)
+**L'échelle européenne de danger d'avalanche** (utilisée dans tous les pays alpins)
 
 | Niveau | Nom | Ce que cela signifie | Fréquence |
 | --- | --- | --- | --- |
@@ -235,11 +249,11 @@ Source : [Centre de crise National : Neige](https://centredecrise.be/fr/risques-
 | 2 | Limité | Danger accru à certains endroits. Déclenchement possible, surtout par une forte surcharge sur les pentes raides indiquées. Souvent pas de signes d'alarme, ce qui ne veut pas dire que c'est sûr. | Environ 50 pour cent de la saison, environ 30 pour cent des morts |
 | 3 | Marqué | Dangereux. Déclenchement possible, même par une faible surcharge. Avalanches récentes, fissures et bruits de « whoum ». | Environ 30 pour cent de la saison, environ 50 pour cent des morts |
 | 4 | Fort | Très dangereux. Déclenchement probable, même par une faible surcharge, sur de nombreuses pentes raides. Nombreuses grandes avalanches spontanées possibles. | Quelques jours par hiver, environ 10 pour cent des morts |
-| 5 | Très fort | Exceptionnel. Nombreuses très grandes avalanches spontanées, même sur des pentes modérément raides. | Très rarement, environ 1 pour cent des morts (SLF) |
+| 5 | Très fort | Exceptionnel. Nombreuses très grandes avalanches spontanées, même sur des pentes modérément raides. | Très rarement, environ 1 pour cent des morts |
 
 Pour ceux qui sortent des pistes, le niveau le plus dangereux en pratique est le niveau 3 : c'est là que se produisent la plupart des décès.
 
-**Ce que recommande l'institut suisse des avalanches SLF**
+**Ce que vous faites à chaque niveau**
 
 | Niveau | Conseil |
 | --- | --- |
@@ -251,7 +265,7 @@ Pour ceux qui sortent des pistes, le niveau le plus dangereux en pratique est le
 
 Un niveau de danger vaut pour toute une région, pas pour une seule pente, et c'est toujours une prévision que vous devez évaluer sur place.
 
-**Se déplacer en montagne et dans la neige** (armée américaine)
+**Se déplacer en montagne et dans la neige**
 
 - Évitez les endroits où des avalanches de terre, de roches ou de neige peuvent tomber, et les crevasses profondes dans les champs de glace.
 - Les versants sous le vent (le côté abrité du vent) accumulent la neige soufflée du versant au vent et forment des plaques.
@@ -262,16 +276,16 @@ Un niveau de danger vaut pour toute une région, pas pour une seule pente, et c'
 
 **Santé aux sports d'hiver.** Le froid et l'alcool augmentent le risque d'hypothermie ; l'alcool dilate les petits vaisseaux sanguins de la peau. Même en hiver, vous pouvez être victime d'une insolation. En cas de chute : en cas de doute, traitez comme une fracture.
 
-Source : [EAWS: Avalanche danger scale](https://www.avalanches.org/standards/avalanche-danger-scale/) · [SLF: Danger levels](https://www.slf.ch/en/avalanche-bulletin-and-snow-situation/about-the-avalanche-bulletin/danger-levels/) · [Rega: How to raise the alarm correctly](https://rega.ch/en/news/news-from-the-world-of-rega/detail/how-to-raise-the-alarm-correctly) · [Deutscher Alpenverein: Erste Hilfe](https://www.forststeig.sachsen.de/download/Erste_Hilfe_2012_DAV.pdf) · [Deutscher Alpenverein: So geht das, Notfall alpin](https://www.alpenverein.de/artikel/so-geht-das-notfall-alpin_62bc1334-e9c7-4d8b-8a02-89dd681cbb83) · [US Army ATP 3-50.21](https://archive.org/details/survival-atp-3-50-21) · [Rode Kruis-Vlaanderen : Premiers secours aux sports d'hiver](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-wintersport) · [112.be : Questions fréquentes](https://112.be/fr/questions-frequentes)
+Source : [EAWS: Avalanche danger scale](https://www.avalanches.org/standards/avalanche-danger-scale/) · [SLF: Danger levels](https://www.slf.ch/en/avalanche-bulletin-and-snow-situation/about-the-avalanche-bulletin/danger-levels/) · [Rega: How to raise the alarm correctly](https://rega.ch/en/news/news-from-the-world-of-rega/detail/how-to-raise-the-alarm-correctly) · [Deutscher Alpenverein: Erste Hilfe](https://www.forststeig.sachsen.de/download/Erste_Hilfe_2012_DAV.pdf) · [Deutscher Alpenverein: So geht das, Notfall alpin](https://www.alpenverein.de/artikel/so-geht-das-notfall-alpin_62bc1334-e9c7-4d8b-8a02-89dd681cbb83) · [US Army ATP 3-50.21](https://archive.org/details/survival-atp-3-50-21) · [Rode Kruis-Vlaanderen : Premiers secours aux sports d'hiver](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-wintersport) · [112.be : Questions fréquentes](https://112.be/fr/questions-frequentes) · [National Park Service: Outdoor Emergency Plan](https://www.nps.gov/subjects/healthandsafety/upload/NPS-Outdoor-Emergency-Plan-508c.pdf)
 
 ## Selon l'endroit
 
 | Endroit | Ce à quoi vous faites attention |
 | --- | --- |
-| À la maison | Suivre les avertissements de l'IRM. En cas de tempête : rester à l'intérieur, fixer les objets non fixés. En cas d'inondation : 1722 si personne n'est en danger de mort. |
+| À la maison | Suivre les avertissements de l'IRM, surtout à la radio. En cas de tempête : rester à l'intérieur, fixer les objets non fixés. En cas d'inondation : 1722 si personne n'est en danger de mort et que le réseau fonctionne. |
 | À pied en forêt ou dans les champs | En cas d'orage : loin des arbres isolés, des lisières de forêt, des terrains découverts. En cas de tempête : ne jamais s'abriter sous un arbre. Pas de lieu de couchage dans le lit d'un ruisseau. |
 | En voiture | Ne pas rouler dans l'eau. Ne pas se garer près des arbres en cas de tempête. Une voiture métallique est un bon abri en cas d'orage. Couverture, grattoir et eau dans le véhicule en hiver. |
-| À la côte | Ne nager que dans les zones surveillées. Suivre les marées et les marées de tempête via kustweerbericht.be et l'IRM. |
+| À la côte | Ne nager que dans les zones surveillées. Consulter les tables des marées à l'avance. Suivre les marées de tempête à la radio, et via kustweerbericht.be et l'IRM si le réseau fonctionne. |
 | En montagne | Lire le bulletin d'avalanche et le niveau de danger. Inexpérimenté : rester sur les pistes à partir du niveau 3. Enregistrer les numéros d'urgence. |
 
 Source : [IRM : Explication de nos avertissements](https://www.meteo.be/fr/meteo/avertissements/explications-avertissements) · [Centre de crise National : Vent et tempête](https://centredecrise.be/fr/risques-en-belgique/risques-naturels/vent-et-tempete) · [IRM : Comment me protéger de la foudre ?](https://www.meteo.be/fr/infos/faq/comment-se-proteger-contre/comment-se-proteger-de-la-foudre) · [Ready.gov: Floods](https://www.ready.gov/floods) · [Centre de crise National : Neige](https://centredecrise.be/fr/risques-en-belgique/risques-naturels/neige) · [Vlaanderen.be : Nager en sécurité](https://www.vlaanderen.be/natuur-milieu-en-klimaat/wat-mag-u-als-bezoeker-doen-in-de-vlaamse-natuur/veilig-zwemmen-of-watersporten-in-open-water) · [SLF: Danger levels](https://www.slf.ch/en/avalanche-bulletin-and-snow-situation/about-the-avalanche-bulletin/danger-levels/) · [US Army FM 21-76](https://archive.org/details/fm-21-76-survival-manual)

@@ -4,7 +4,7 @@ module: buiten
 volgorde: 3
 kort: "Ce qui peut vous arriver dans la nature en Belgique et ce que vous faites alors : tiques et maladie de Lyme, la vipère, guêpes et abeilles, chenille processionnaire du chêne, plantes et champignons toxiques, méduses, orage, chaleur et froid, eau et courant, sangliers et le loup."
 status: concept
-datum: "2026-11-17"
+datum: "2026-11-18"
 bronnen:
   - naam: "Centre Antipoisons : Piqûres de tiques"
     url: https://www.centreantipoisons.be/tox-infos/les-morsures-de-tiques/
@@ -54,8 +54,18 @@ bronnen:
     url: https://natuurenbos.be/sites/default/files/2024-04/Veelgestelde_vragen_over_wolf_versie_04-2024.pdf
   - naam: "Vlaanderen.be : Que pouvez-vous faire en tant que visiteur dans la nature flamande ?"
     url: https://www.vlaanderen.be/natuur-milieu-en-klimaat/wat-mag-u-als-bezoeker-doen-in-de-vlaamse-natuur
+  - naam: "National Park Service: Outdoor Emergency Plan"
+    url: https://www.nps.gov/subjects/healthandsafety/upload/NPS-Outdoor-Emergency-Plan-508c.pdf
+  - naam: "Centre de crise National : Incendie de végétation"
+    url: https://centredecrise.be/fr/risques-en-belgique/risques-naturels/feu-de-foret
+  - naam: "ERC Guidelines 2021: First aid"
+    url: https://cprguidelines-old.erc.edu/assets/guidelines/European-Resuscitation-Council-Guidelines-2021-Fi.pdf
+  - naam: "112.be : Questions fréquentes"
+    url: https://112.be/fr/questions-frequentes
+  - naam: "Centre de crise National : brochure Samen voorbereid (Préparés ensemble)"
+    url: https://centredecrise.be/sites/default/files/documents/files/WEB-Brochure-Pr%C3%AAts.%20Ensemble-FR.pdf
 vertaling: machine
-origineel_datum: "2026-11-17"
+origineel_datum: "2026-11-18"
 ---
 
 ## Aperçu
@@ -66,7 +76,7 @@ origineel_datum: "2026-11-17"
 | Vipère (uniquement en Campine anversoise et dans le bassin de la Haute-Meuse) | Rester calme, garder le membre immobile | Toujours après une morsure |
 | Guêpe, abeille, bourdon, frelon | Retirer le dard, refroidir | Gonflement de la langue ou de la gorge, détresse respiratoire, évanouissement |
 | Chenille processionnaire du chêne | Ne pas se gratter, retirer les vêtements, rincer | Symptômes graves, détresse respiratoire |
-| Plante, baie, champignon toxique | Retirer les restes de la bouche, appeler le Centre Antipoisons | Symptômes graves |
+| Plante, baie, champignon toxique | Retirer les restes de la bouche, garder la plante ou les restes, contacter le Centre Antipoisons ou le médecin généraliste | Symptômes graves |
 | Méduse | Rincer à l'eau de mer, ne pas frotter | Réactions générales |
 | Orage | S'abriter à l'intérieur ou dans une voiture métallique | Quelqu'un a été touché |
 | Chaleur | Ombre, repos, refroidir | Confusion, ne transpire plus, plus de 39 °C |
@@ -74,9 +84,11 @@ origineel_datum: "2026-11-17"
 | Eau | Ne pas nager là où c'est interdit | Quelqu'un est en difficulté |
 | Sanglier, loup | Garder ses distances, chien en laisse | |
 
-Centre Antipoisons : **070 245 245**, gratuit, 24 heures sur 24. En cas de danger de mort : **112**.
+Centre Antipoisons : **070 245 245**, gratuit, 24 heures sur 24, si le réseau fonctionne. Notez le numéro à l'avance sur une liste papier de numéros importants. En cas de danger de mort : **112**.
 
-Source : [Centre Antipoisons : Piqûres de tiques](https://www.centreantipoisons.be/tox-infos/les-morsures-de-tiques/) · [Centre Antipoisons : Morsures de vipère](https://www.centreantipoisons.be/tox-infos/les-morsures-de-vipere/) · [Centre Antipoisons : Piqûres de guêpes, d'abeilles et de frelons](https://www.centreantipoisons.be/tox-infos/piqures-de-guepes-dabeilles-de-bourdons-et-de-frelons/) · [Rode Kruis-Vlaanderen : chenilles processionnaires du chêne](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-irritatie-door-eikenprocessierupsen) · [Centre Antipoisons : Intoxication par les plantes](https://www.centreantipoisons.be/tox-infos/vergiftiging-door-planten/) · [IRM : Comment me protéger de la foudre ?](https://www.meteo.be/fr/infos/faq/comment-se-proteger-contre/comment-se-proteger-de-la-foudre)
+**Si l'appel ne passe pas.** Essayez un autre appareil ou faites appeler des personnes présentes. Dans la nature, vous n'avez pas toujours de réseau : demandez aux personnes que vous rencontrez d'aller à un endroit où il y a du réseau et d'appeler le 112. En groupe, envoyez deux personnes ou plus donner l'alerte et les autres restent auprès de la victime ; si vous êtes seul, aidez d'abord, puis allez chercher de l'aide. Voir Numéros d'urgence dans l'application, Si l'appel ne passe pas, et le guide sur les signaux et codes de détresse.
+
+Source : [National Park Service: Outdoor Emergency Plan](https://www.nps.gov/subjects/healthandsafety/upload/NPS-Outdoor-Emergency-Plan-508c.pdf) · [Centre de crise National : Incendie de végétation](https://centredecrise.be/fr/risques-en-belgique/risques-naturels/feu-de-foret) · [ERC Guidelines 2021: First aid](https://cprguidelines-old.erc.edu/assets/guidelines/European-Resuscitation-Council-Guidelines-2021-Fi.pdf) · [112.be : Questions fréquentes](https://112.be/fr/questions-frequentes) · [Centre de crise National : brochure Samen voorbereid](https://centredecrise.be/sites/default/files/documents/files/WEB-Brochure-Pr%C3%AAts.%20Ensemble-FR.pdf) · [Centre Antipoisons : Piqûres de tiques](https://www.centreantipoisons.be/tox-infos/les-morsures-de-tiques/) · [Centre Antipoisons : Morsures de vipère](https://www.centreantipoisons.be/tox-infos/les-morsures-de-vipere/) · [Centre Antipoisons : Piqûres de guêpes, d'abeilles et de frelons](https://www.centreantipoisons.be/tox-infos/piqures-de-guepes-dabeilles-de-bourdons-et-de-frelons/) · [Rode Kruis-Vlaanderen : chenilles processionnaires du chêne](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-irritatie-door-eikenprocessierupsen) · [Centre Antipoisons : Intoxication par les plantes](https://www.centreantipoisons.be/tox-infos/vergiftiging-door-planten/) · [IRM : Comment me protéger de la foudre ?](https://www.meteo.be/fr/infos/faq/comment-se-proteger-contre/comment-se-proteger-de-la-foudre)
 
 ## Tiques et maladie de Lyme
 
@@ -116,7 +128,7 @@ Source : [Centre Antipoisons : Piqûres de tiques](https://www.centreantipoisons
 
 **Mordu : que faire**
 
-1. Une morsure de vipère est rarement mortelle, mais doit toujours être examinée rapidement par un médecin. **Appelez le 112.**
+1. Une morsure de vipère est rarement mortelle, mais doit toujours être examinée rapidement par un médecin. **Appelez le 112** ou faites appeler. Si l'appel ne passe pas, voir Aperçu, Si l'appel ne passe pas.
 2. Restez calme et bougez le moins possible.
 3. Rassurez la victime.
 4. Gardez la partie du corps mordue aussi immobile que possible.
@@ -138,7 +150,7 @@ Source : [Centre Antipoisons : Morsures de vipère](https://www.centreantipoison
 
 ## Guêpes, abeilles, bourdons et frelons
 
-Une piqûre au bras, à la jambe ou au tronc n'est en général pas dangereuse. Douleur, rougeur, démangeaisons et gonflement sont normaux et peuvent durer quelques jours. En cas de simple réaction locale, vous ne devez pas appeler le Centre Antipoisons.
+Une piqûre au bras, à la jambe ou au tronc n'est en général pas dangereuse. Douleur, rougeur, démangeaisons et gonflement sont normaux et peuvent durer quelques jours. En cas de simple réaction locale, vous ne devez pas contacter le Centre Antipoisons.
 
 **Que faire**
 
@@ -148,7 +160,7 @@ Une piqûre au bras, à la jambe ou au tronc n'est en général pas dangereuse. 
 4. Piqûre à la main ou aux doigts : retirez les bagues avant que le gonflement n'augmente.
 5. En cas de gonflement important : surélevez le bras ou la jambe.
 
-**Appelez immédiatement le 112** en cas de réaction allergique grave, qui peut survenir dès une seule piqûre :
+**Appelez immédiatement le 112** ou faites appeler en cas de réaction allergique grave, qui peut survenir dès une seule piqûre :
 
 - gonflement de la langue ou de la gorge ;
 - difficulté à avaler, à parler ou à respirer ;
@@ -157,7 +169,7 @@ Une piqûre au bras, à la jambe ou au tronc n'est en général pas dangereuse. 
 - vertiges importants, faiblesse ou évanouissement ;
 - perte de connaissance.
 
-Si une personne a un stylo auto-injecteur d'adrénaline en raison d'une allergie connue, utilisez-le selon son plan d'urgence personnel et appelez le 112.
+Si une personne a un stylo auto-injecteur d'adrénaline en raison d'une allergie connue, utilisez-le selon son plan d'urgence personnel et appelez le 112 ou faites chercher de l'aide.
 
 **Piqûre dans la bouche ou la gorge.** Le gonflement peut rétrécir les voies respiratoires. Faites toujours examiner cela d'urgence par un médecin. En cas de détresse respiratoire ou de gonflement qui augmente rapidement : appelez le 112.
 
@@ -190,7 +202,7 @@ De mai à juillet, dans certaines régions, des chenilles poilues se trouvent su
 5. Prenez une douche et lavez les cheveux à l'eau et au savon.
 6. Poils restés accrochés : collez du ruban adhésif sur la peau et arrachez-le d'un coup.
 7. Avalés : buvez un grand verre d'eau.
-8. Yeux irrités : chez un **ophtalmologue**. Symptômes graves : **appelez le 112**.
+8. Yeux irrités : chez un **ophtalmologue**. Symptômes graves : **appelez le 112** ou faites chercher de l'aide.
 9. Prévenez la commune pour faire enlever les chenilles.
 
 **Prévenir.** De mai à septembre, évitez les abords des arbres infestés (chêne, hêtre, bouleau) : vous les reconnaissez aux branches dénudées et aux nids contenant des poils et des peaux de mue. Tenez les enfants qui jouent à l'écart. Si vous ne pouvez pas faire autrement, portez des gants, des manches longues, un pantalon long, une casquette et des lunettes.
@@ -203,7 +215,7 @@ Les jeunes enfants mettent souvent des baies ou des feuilles en bouche. En gén�
 
 **Comment les plantes font du tort**
 
-| Mode | Exemples de la source |
+| Mode | Exemples |
 | --- | --- |
 | Ingestion | Beaucoup de plantes sont toxiques si on les avale, en entier ou en partie (feuilles, baies, fruits, bulbes) |
 | Irritation de la peau par la sève | Euphorbe, chélidoine |
@@ -214,7 +226,7 @@ Les jeunes enfants mettent souvent des baies ou des feuilles en bouche. En gén�
 **Que faire après ingestion**
 
 1. Retirez les restes de plante de la bouche et donnez un verre d'eau.
-2. Appelez le Centre Antipoisons (070 245 245) ou le médecin généraliste. Ayez le nom de la plante à portée de main.
+2. Contactez le Centre Antipoisons (070 245 245, si le réseau fonctionne) ou le médecin généraliste. Ayez le nom de la plante à portée de main.
 3. Si vous ne connaissez pas le nom : apportez une branche entière avec feuilles et fleurs ou fruits à une jardinerie, un fleuriste, un pharmacien ou un connaisseur des plantes, ou prenez plusieurs photos.
 4. Si un enfant a mangé plusieurs baies, contactez le médecin généraliste ou le Centre Antipoisons.
 
@@ -231,7 +243,7 @@ Source : [Centre Antipoisons : Intoxication par les plantes](https://www.centrea
 
 **Environ 60 pour cent** des appels au Centre Antipoisons concernant les champignons portent sur des enfants qui en ont mangé un morceau par accident. C'est en général peu grave, mais une identification est parfois nécessaire. Le Centre Antipoisons travaille avec un réseau de mycologues qui peuvent aider rapidement. Un repas avec des champignons cueillis soi-même pose moins souvent problème, mais peut être beaucoup plus grave.
 
-**Appelez le Centre Antipoisons** et ayez ces informations à portée de main : quels champignons, où ils ont été cueillis, combien de temps entre la cueillette et le repas, comment ils ont été conservés et préparés, s'il reste des restes (crus, cuits, épluchés), quels symptômes, combien de temps après le repas les premiers symptômes sont apparus, quels médicaments et quelles maladies, si toutes les personnes qui en ont mangé sont malades, ce qui a été mangé et bu par ailleurs.
+**Contactez le Centre Antipoisons** si le réseau fonctionne, et ayez ces informations à portée de main : quels champignons, où ils ont été cueillis, combien de temps entre la cueillette et le repas, comment ils ont été conservés et préparés, s'il reste des restes (crus, cuits, épluchés), quels symptômes, combien de temps après le repas les premiers symptômes sont apparus, quels médicaments et quelles maladies, si toutes les personnes qui en ont mangé sont malades, ce qui a été mangé et bu par ailleurs.
 
 Source : [Centre Antipoisons : Conseils aux cueilleurs de champignons](https://www.centreantipoisons.be/tox-infos/conseils-aux-ramasseurs-de-champignons/) · [Centre Antipoisons : Appels concernant les champignons](https://www.centreantipoisons.be/tox-infos/les-appels-pour-champignons/)
 
@@ -247,7 +259,7 @@ Il n'y a pas de méduses mortelles à la côte belge, mais leurs cellules urtica
 4. Tentacules visibles : retirez-les avec une pince à épiler. Non visibles : appliquez de la mousse à raser et raclez avec le bord d'une carte bancaire, des doigts ou des orteils vers le haut.
 5. **Ne pas frotter**, pas non plus avec du sable. **Pas de vinaigre** en mer du Nord. **Pas d'urine.** Pas de bandage compressif.
 
-**Appelez le 112** en cas de réactions générales : difficulté à respirer ou à avaler, troubles du rythme cardiaque, perte de connaissance, malaise, crampes abdominales, vomissements, démangeaisons et rougeurs sur tout le corps.
+**Appelez le 112** ou faites appeler en cas de réactions générales : difficulté à respirer ou à avaler, troubles du rythme cardiaque, perte de connaissance, malaise, crampes abdominales, vomissements, démangeaisons et rougeurs sur tout le corps.
 
 Source : [Rode Kruis-Vlaanderen : Premiers secours en cas de piqûre de méduse](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-een-kwallenbeet)
 
@@ -276,7 +288,7 @@ Source : [Rode Kruis-Vlaanderen : Premiers secours en cas de piqûre de méduse]
 - Descendez de votre vélo, cyclomoteur, moto ou cheval et cherchez un abri.
 - En groupe : dispersez-vous, à au moins 2 mètres les uns des autres.
 
-**Quelqu'un a été touché.** Appelez le 112. Une personne foudroyée **n'est pas chargée électriquement** : vous pouvez la toucher immédiatement. Si elle ne respire pas, commencez la réanimation : parmi les personnes foudroyées, seule une sur trois décède, et celles qui sont réanimées rapidement et longtemps survivent souvent. Refroidissez les brûlures à l'eau froide ou tiède.
+**Quelqu'un a été touché.** Appelez le 112 ou faites appeler (si cela ne marche pas, voir Aperçu, Si l'appel ne passe pas). Une personne foudroyée **n'est pas chargée électriquement** : vous pouvez la toucher immédiatement. Si elle ne respire pas, commencez la réanimation : parmi les personnes foudroyées, seule une sur trois décède, et celles qui sont réanimées rapidement et longtemps survivent souvent. Refroidissez les brûlures à l'eau froide ou tiède.
 
 **Après l'orage :** ne touchez pas les câbles tombés au sol.
 
@@ -290,13 +302,13 @@ Source : [IRM : Comment me protéger de la foudre ?](https://www.meteo.be/fr/inf
 - Mettez une casquette ou un chapeau, portez des vêtements légers de couleur claire, utilisez une crème solaire à indice de protection élevé.
 - Évitez les efforts intenses, surtout aux heures les plus chaudes de la journée. Mouillez régulièrement le front et la nuque.
 - Ne laissez jamais des personnes ou des animaux dans une voiture en stationnement.
-- Le **coup de chaleur** met la vie en danger. Signes : maux de tête, vertiges ou évanouissement, vomissements, crampes, peau rouge, d'abord une forte transpiration puis plus du tout, convulsions, confusion. Appelez le 112 en cas de troubles de la conscience, de convulsions, si la personne ne transpire plus, ne peut pas boire sans vomir, ou au-delà de 39 °C. Refroidissez immédiatement à l'ombre, avec des linges froids et mouillés dans l'aine, sous les aisselles et sur la nuque, de l'eau froide, un ventilateur.
+- Le **coup de chaleur** met la vie en danger. Signes : maux de tête, vertiges ou évanouissement, vomissements, crampes, peau rouge, d'abord une forte transpiration puis plus du tout, convulsions, confusion. Appelez le 112 ou faites chercher de l'aide en cas de troubles de la conscience, de convulsions, si la personne ne transpire plus, ne peut pas boire sans vomir, ou au-delà de 39 °C. Refroidissez immédiatement à l'ombre, avec des linges froids et mouillés dans l'aine, sous les aisselles et sur la nuque, de l'eau froide, un ventilateur.
 
 **Froid**
 
 - Mettez plusieurs couches et couvrez tout votre corps, y compris la tête.
 - Gardez vos vêtements secs et évitez de transpirer.
-- **Hypothermie** : frissons incontrôlables, puis arrêt des frissons, peau pâle et froide, lèvres bleues, confusion, somnolence. Appelez le 112 si une personne ne frissonne plus, se raidit ou devient somnolente. Déplacez-la à l'horizontale, retirez les vêtements mouillés, couvrez-la au sec et au chaud, **ne la frottez pas pour la réchauffer**.
+- **Hypothermie** : frissons incontrôlables, puis arrêt des frissons, peau pâle et froide, lèvres bleues, confusion, somnolence. Appelez le 112 ou faites chercher de l'aide si une personne ne frissonne plus, se raidit ou devient somnolente. Déplacez-la à l'horizontale, retirez les vêtements mouillés, couvrez-la au sec et au chaud, **ne la frottez pas pour la réchauffer**.
 - **Gelure** : en cas de gelure légère, la peau devient terne et blanchâtre ; en cas de gelure profonde, les tissus deviennent durs et immobiles. Les pieds, les mains et le visage sont les plus vulnérables. En groupe, vérifiez le visage les uns des autres. Ne dégelez **pas** les parties gelées **près d'un feu ouvert**.
 
 Voir aussi les scénarios sur la chaleur et le froid.
@@ -325,7 +337,7 @@ Source : [Centre de crise National : Vague de chaleur](https://centredecrise.be/
 1. Veillez d'abord à votre propre sécurité.
 2. Essayez de sauver la personne **sans entrer vous-même dans l'eau**.
 3. N'entrez dans l'eau que si vous êtes formé pour cela. Une personne en train de se noyer qui est consciente s'agrippe au sauveteur sous l'effet de la panique.
-4. Appelez le 112. Toute victime de noyade doit être examinée, même si cela ne semble pas grave.
+4. Appelez le 112 ou faites appeler. Si l'appel ne passe pas, voir Aperçu, Si l'appel ne passe pas. Toute victime de noyade doit être examinée, même si cela ne semble pas grave.
 5. Sortez la victime de l'eau **à l'horizontale**.
 6. Si elle ne respire pas : commencez la réanimation. En cas de plongeon en eau peu profonde : pensez à une lésion de la nuque.
 7. Si elle est consciente : vers un endroit chaud, retirez les vêtements mouillés, séchez-la, couvrez-la chaudement, ne la frottez pas pour la réchauffer.
@@ -336,7 +348,7 @@ Source : [Vlaanderen.be : Nager ou pratiquer des sports nautiques en eau libre e
 
 Depuis le début des années 2000, il y a de plus en plus de sangliers en Flandre, y compris dans les zones habitées. Ils sont naturellement craintifs envers l'homme, mais intelligents. Celui qui les nourrit leur apprend à associer les humains à la nourriture ; ils perdent alors leur méfiance. Ils restent des **animaux sauvages qui peuvent réagir de façon imprévisible**. Ils traversent souvent la route à l'improviste. Ils peuvent porter des agents pathogènes : **évitez les contacts rapprochés**.
 
-**Ce que conseille l'Agentschap Natuur en Bos**
+**Ce que vous faites**
 
 - Ne les nourrissez pas. Ne laissez pas de déchets ni de restes de nourriture.
 - Protégez les sacs poubelles et le tas de compost.
@@ -350,7 +362,7 @@ Source : [Agentschap Natuur en Bos : Des sangliers dans les environs ?](https://
 
 ## Le loup en Flandre
 
-La probabilité de rencontrer un loup par hasard est très faible. Les loups sont surtout actifs la nuit, craintifs, et bien camouflés. Selon l'Agentschap Natuur en Bos et l'INBO, le nombre d'incidents dans notre environnement occidental est extrêmement faible. Le risque d'être blessé par un chien est beaucoup plus grand que par un loup. Les loups dangereux sont surtout ceux qui ont été nourris par des humains et associent les humains à la nourriture.
+La probabilité de rencontrer un loup par hasard est très faible. Les loups sont surtout actifs la nuit, craintifs, et bien camouflés. Le nombre d'incidents dans notre environnement occidental est extrêmement faible. Le risque d'être blessé par un chien est beaucoup plus grand que par un loup. Les loups dangereux sont surtout ceux qui ont été nourris par des humains et associent les humains à la nourriture.
 
 **Si vous vous trouvez face à face avec un loup**
 
@@ -358,7 +370,7 @@ La probabilité de rencontrer un loup par hasard est très faible. Les loups son
 2. Si le loup ne part pas de lui-même, chassez-le : faites-vous grand et menaçant, criez fort, frappez dans vos mains, faites de grands mouvements avec les bras.
 3. Tenez votre chien en laisse. Un loup peut voir un chien en liberté comme un intrus ou une proie et l'attaquer.
 4. **Ne nourrissez jamais un loup.**
-5. Signalez l'observation via wolf@inbo.be.
+5. Signalez l'observation plus tard via wolf@inbo.be, si internet fonctionne.
 
 Un loup qui n'est plus craintif envers l'homme ou qui se montre audacieux est considéré comme un loup problématique. L'Agentschap Natuur en Bos et l'INBO suivent de près le comportement des loups en Flandre.
 
@@ -369,7 +381,7 @@ Source : [Agentschap Natuur en Bos : Q&R actualité du loup dans le Limbourg](ht
 | Qui | À quoi faire particulièrement attention |
 | --- | --- |
 | Enfants | Après chaque sortie dans la nature, examinez-vous et examinez les autres pour détecter les tiques. Tenez-les à l'écart des arbres avec des chenilles processionnaires. Les petits enfants mettent des baies, des feuilles et des champignons en bouche. En cas de morsure de vipère, ils courent plus de risques. Plus de 5 piqûres de guêpe chez un petit enfant : observation à l'hôpital. |
-| Personnes allergiques au venin d'insectes | Portez votre stylo auto-injecteur d'adrénaline et suivez votre plan d'urgence personnel. Appelez le 112 en cas de réaction. |
+| Personnes allergiques au venin d'insectes | Portez votre stylo auto-injecteur d'adrénaline et suivez votre plan d'urgence personnel. Appelez le 112 ou faites chercher de l'aide en cas de réaction. |
 | Personnes âgées et personnes atteintes d'une maladie chronique | En cas de chaleur : demandez à votre médecin généraliste quels sont vos risques et si vos médicaments ont une influence. |
 | Personnes qui prennent des médicaments | Demandez à votre médecin ou pharmacien s'ils peuvent avoir une influence négative par temps chaud. |
 | Chiens | En laisse dans les zones naturelles, et certainement là où vivent des sangliers ou des loups. |

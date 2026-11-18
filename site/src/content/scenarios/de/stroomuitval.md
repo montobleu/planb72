@@ -5,18 +5,18 @@ kort: "Das Licht geht aus und kommt nicht sofort zurück, oder eine Abschaltung 
 stappen:
   - "Prüfen Sie, ob nur Ihre Wohnung ohne Strom ist: Haben die Nachbarn noch Licht, brennen die Straßenlaternen? So wissen Sie, ob es an Ihrer eigenen Installation oder am Netz liegt."
   - "Schalten Sie Wärmegeräte aus (Kochfeld, Backofen, Bügeleisen, Wasserkocher, elektrische Heizung) und ziehen Sie den Stecker empfindlicher Geräte. Lassen Sie einen Schalter eingeschaltet, damit Sie merken, wann der Strom zurück ist."
-  - "Halten Sie Kühlschrank und Gefriergerät geschlossen. Ein geschlossenes Gefriergerät bleibt laut Krisenzentrum 24 bis 36 Stunden gefroren."
+  - "Halten Sie Kühlschrank und Gefriergerät geschlossen. Ein geschlossenes Gefriergerät bleibt 24 bis 36 Stunden gefroren."
   - "Benutzen Sie eine Taschenlampe statt Kerzen. Brennt doch eine Kerze, stellen Sie sie in einen Halter auf einen nicht brennbaren Untergrund und lassen Sie sie nie allein."
-  - "Verfolgen Sie die Nachrichten über ein batteriebetriebenes Radio oder das Autoradio. Telefonieren und surfen Sie nur, wenn es nötig ist, und schicken Sie lieber eine SMS."
+  - "Verfolgen Sie die Nachrichten über ein batteriebetriebenes Radio oder das Autoradio. Funktioniert das Netz noch, telefonieren und surfen Sie nur, wenn es nötig ist, und schicken Sie lieber eine SMS."
   - "Benutzen Sie nie einen Generator, Grill, Gaskocher oder Ofen ohne Abzug drinnen oder in der Garage. Kohlenmonoxid ist unsichtbar und geruchlos."
-  - "Prüfen Sie, ob Nachbarn, ältere Menschen und Menschen mit medizinischen Geräten Hilfe brauchen."
+  - "Gehen Sie bei Nachbarn, älteren Menschen und Menschen mit medizinischen Geräten vorbei, um zu sehen, ob sie Hilfe brauchen."
 niet:
   - "Keinen Generator, Grill, Campingkocher oder Motor drinnen, im Keller oder in einer geschlossenen Garage laufen lassen."
   - "Nicht mit einem Gasherd oder Backofen heizen."
-  - "Nicht die 112 anrufen, um zu fragen, wann der Strom zurückkommt. Rufen Sie die 112 nur bei Gefahr für Menschen an."
+  - "Nicht die 112 anrufen, um zu fragen, wann der Strom zurückkommt. Rufen Sie die 112 nur bei Gefahr für Menschen an. Gelingt das nicht, lassen Sie jemand anderen anrufen oder bitten Sie in Ihrer Nachbarschaft um Hilfe (siehe Notrufnummern, Wenn kein Anruf möglich ist)."
   - "Nicht alle Geräte gleichzeitig einschalten, wenn der Strom zurück ist."
 status: concept
-datum: "2026-11-17"
+datum: "2026-11-18"
 bronnen:
   - naam: "Nationales Krisenzentrum: Störung der Stromversorgung"
     url: https://krisenzentrum.be/de/risiken-belgien/maatschappelijke-risicos/ausfall-der-elektrizitaetsversorgung
@@ -26,6 +26,8 @@ bronnen:
     url: https://krisenzentrum.be/de/was-koennen-sie-tun/stelle-ein-notfallpaket-zusammen/ein-notfallset-fuer-zu-hause
   - naam: "Nationales Krisenzentrum: einen Plan erstellen"
     url: https://krisenzentrum.be/de/was-koennen-sie-tun/erstellen-sie-einen-plan
+  - naam: "Nationales Krisenzentrum: ein Plan in Ihrer Nachbarschaft oder Ihrem Verein"
+    url: https://krisenzentrum.be/de/was-koennen-sie-tun/erstellen-sie-einen-plan/ein-plan-ihrem-viertel-oder-ihrem-verein
   - naam: BE-Alert
     url: https://www.be-alert.be/de
   - naam: "FÖD Wirtschaft: Was ist ein Abschaltplan?"
@@ -34,6 +36,12 @@ bronnen:
     url: https://economie.fgov.be/de/themen/energie/sicherheit-der/strom/stromknappheit/lastabwurf/wann-wird-der-lastabwurfplan
   - naam: "FÖD Wirtschaft: Zu welchem Block gehört Ihre Gemeinde?"
     url: https://economie.fgov.be/de/themen/energie/sicherheit-der/strom/strommangel/der-lastabwurfplan-und-sie/zu-welchem-lastabwurfabschnitt
+  - naam: "FÖD Wirtschaft: Fragen von Haushalten zur Stromknappheit"
+    url: https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door
+  - naam: "112.be: Häufig gestellte Fragen"
+    url: https://112.be/de/haeufig-gestellte-fragen
+  - naam: "Rode Kruis-Vlaanderen: Strom- und Kommunikationsausfall"
+    url: https://www.rodekruis.be/wat-doen-we/hulp-in-vlaanderen/goed-voorbereid/stroom-en-communicatie-uitval/
   - naam: "ORES: plus d'électricité ou de gaz"
     url: https://www.ores.be/faq/plus-delectricite-ou-de-gaz
   - naam: "Speel niet met vuur: CO"
@@ -55,7 +63,7 @@ bronnen:
   - naam: "CDC: carbon monoxide poisoning"
     url: https://www.cdc.gov/carbon-monoxide/about/index.html
 vertaling: machine
-origineel_datum: "2026-11-17"
+origineel_datum: "2026-11-18"
 ---
 
 ## Erkennen
@@ -66,7 +74,7 @@ Ein Stromausfall dauert meist einige Stunden. Bei großen Schäden kann er Tage 
 
 - Prüfen Sie, ob Ihre Nachbarn noch Strom haben und ob die Straßenlaternen abends brennen.
 - Ist nur Ihre Wohnung ohne Strom, liegt die Ursache wahrscheinlich in Ihrer eigenen Installation. Schalten Sie dann den Hauptschalter aus, danach den Fehlerstromschutzschalter und die Sicherungen, und schalten Sie sie in derselben Reihenfolge wieder ein.
-- Bleibt der Strom weg, oder ist die ganze Straße ohne Strom, ist es eine Störung im Netz. Melden Sie sie Ihrem Netzbetreiber.
+- Bleibt der Strom weg, oder ist die ganze Straße ohne Strom, ist es eine Störung im Netz. Melden Sie sie Ihrem Netzbetreiber, wenn Telefon oder Internet noch funktioniert.
 
 **Was bei einem Stromausfall ausfällt**
 
@@ -74,7 +82,8 @@ Ein Stromausfall dauert meist einige Stunden. Bei großen Schäden kann er Tage 
 - Die Zentralheizung: Heizkessel und Umwälzpumpe stehen still.
 - Aufzüge, automatische Türen und Tore, zum Beispiel der Garage.
 - Der Wasserdruck kann sinken. Je höher Sie wohnen, desto größer ist die Wahrscheinlichkeit, dass weniger Wasser aus dem Hahn kommt.
-- Festnetztelefon und Internet: Ein Festnetzanschluss über das Internet funktioniert nur, wenn Router und Gerät Strom haben. Das Mobilfunknetz hat nur teilweise und kurz Notstrom und wird schnell überlastet.
+- Festnetztelefon und Internet: Ihr Festnetz funktioniert wahrscheinlich nicht mehr. Ein Festnetzanschluss über das Internet braucht Strom für Router und Gerät.
+- Mobilfunknetz: Mobilfunkmasten halten ohne Strom ein bis zwei Stunden durch. Mobiles Internet fällt schnell aus, wahrscheinlich sofort. Das Netz wird auch schnell überlastet.
 - Geldautomaten, Zahlungsterminals und Tankstellen.
 - Ampeln, Züge, Straßenbahnen und U-Bahnen.
 - Hilfsmittel für die häusliche Pflege, wie Beatmungsgeräte, und Dienste wie ein Hausnotruf.
@@ -89,7 +98,7 @@ Bei einem schweren Strommangel kann die Föderalregierung Teile des Landes bewus
 - Krankenhäuser und Notrufzentralen haben Vorrang und werden nicht oder als Erste wieder angeschlossen.
 - Die Blöcke folgen keinen Gemeindegrenzen. Eine Gemeinde, oder sogar eine Straße, kann auf mehrere Blöcke verteilt sein.
 
-Quelle: [Nationales Krisenzentrum: Störung der Stromversorgung](https://krisenzentrum.be/de/risiken-belgien/maatschappelijke-risicos/ausfall-der-elektrizitaetsversorgung) · [Nationales Krisenzentrum: Broschüre OFF/ON](https://krisenzentrum.be/sites/default/files/documents/files/OffOn-triptyque-D.pdf) · [ORES](https://www.ores.be/faq/plus-delectricite-ou-de-gaz) · [FÖD Wirtschaft: Was ist ein Abschaltplan?](https://economie.fgov.be/de/themen/energie/sicherheit-der/strom/stromknappheit/lastabwurf/was-ist-ein-lastabwurfplan) · [FÖD Wirtschaft: Wann wird der Abschaltplan aktiviert?](https://economie.fgov.be/de/themen/energie/sicherheit-der/strom/stromknappheit/lastabwurf/wann-wird-der-lastabwurfplan) · [BBK: Broschüre Stromausfall](https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/Buergerinformationen/stromausfall-vorsorge-selbsthilfe.pdf?__blob=publicationFile&v=13)
+Quelle: [Nationales Krisenzentrum: Störung der Stromversorgung](https://krisenzentrum.be/de/risiken-belgien/maatschappelijke-risicos/ausfall-der-elektrizitaetsversorgung) · [Nationales Krisenzentrum: Broschüre OFF/ON](https://krisenzentrum.be/sites/default/files/documents/files/OffOn-triptyque-D.pdf) · [ORES](https://www.ores.be/faq/plus-delectricite-ou-de-gaz) · [FÖD Wirtschaft: Fragen von Haushalten zur Stromknappheit](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door) · [FÖD Wirtschaft: Was ist ein Abschaltplan?](https://economie.fgov.be/de/themen/energie/sicherheit-der/strom/stromknappheit/lastabwurf/was-ist-ein-lastabwurfplan) · [FÖD Wirtschaft: Wann wird der Abschaltplan aktiviert?](https://economie.fgov.be/de/themen/energie/sicherheit-der/strom/stromknappheit/lastabwurf/wann-wird-der-lastabwurfplan) · [BBK: Broschüre Stromausfall](https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/Buergerinformationen/stromausfall-vorsorge-selbsthilfe.pdf?__blob=publicationFile&v=13)
 
 ## Vorbereiten
 
@@ -97,18 +106,19 @@ Quelle: [Nationales Krisenzentrum: Störung der Stromversorgung](https://krisenz
 
 - Erstellen Sie eine Liste von allem im Haus, was mit Strom funktioniert, und überlegen Sie, was Sie tun, wenn es ausfällt.
 - Finden Sie heraus, zu welchem Block des Abschaltplans Ihre Adresse gehört. Der zuverlässigste Weg ist die Website Ihres Netzbetreibers. Der FÖD Wirtschaft hat außerdem eine interaktive Karte pro Gemeinde.
-- Melden Sie sich bei BE-Alert an. So erfahren Sie rechtzeitig von einem drohenden Mangel oder einer Abschaltung.
+- Melden Sie sich bei BE-Alert an. So erfahren Sie rechtzeitig von einem drohenden Mangel oder einer Abschaltung, solange das Mobilfunknetz oder das Internet funktioniert.
+- Fragen Sie Ihre Gemeindeverwaltung, welche Lösungen Ihre Gemeinde bei einer Abschaltung vorsieht. Bürgermeister und Gouverneure haben Notfallmaßnahmen vorbereitet, zum Beispiel eine Informations- und Anlaufstelle für die Bevölkerung.
 
 **Notfallpaket für mindestens 72 Stunden**
 
-Das Krisenzentrum empfiehlt, dass Sie mindestens drei Tage selbst zurechtkommen können. Der deutsche Bevölkerungsschutz (BBK) zielt auf einige Tage bis zehn Tage.
+Sorgen Sie dafür, dass Sie mindestens drei Tage selbst zurechtkommen können.
 
-- Trinkwasser: 3 bis 10 Liter pro Person und Tag. Davon sind 1,5 bis 2 Liter zum Trinken, der Rest zum Kochen, Waschen und für die Toilette.
+- Trinkwasser: Rechnen Sie mit 3 Litern pro Person und Tag, zum Trinken und Kochen. Mehr, wenn Sie können, zum Waschen und für die Toilette.
 - Lebensmittel, die Sie kalt essen oder ohne Strom, Gas oder Wasser zubereiten können, und ein Dosenöffner.
 - Eine Taschenlampe, am besten mit Kurbel. Funktioniert sie mit Batterien, legen Sie Ersatzbatterien bereit.
 - Ein Radio mit Batterien oder Kurbel.
 - Eine geladene Powerbank und ein Ladegerät.
-- Bargeld für etwa 72 Stunden, weil Geldautomaten und Zahlungsterminals ausfallen. Denk vooruit (Niederlande) nennt als Richtbetrag 70 Euro pro Erwachsenen und 30 Euro pro Kind.
+- Bargeld für etwa 72 Stunden, zum Beispiel 70 Euro pro Erwachsenen und 30 Euro pro Kind, weil Geldautomaten und Zahlungsterminals ausfallen.
 - Ein Vorrat notwendiger Medikamente für mindestens 72 Stunden.
 - Decken und warme Kleidung für den Winter.
 - Ein Feuerzeug oder Streichhölzer, Kerzen oder Teelichter.
@@ -119,7 +129,7 @@ Das Krisenzentrum empfiehlt, dass Sie mindestens drei Tage selbst zurechtkommen 
 - Laden Sie Ihr Handy und Ihre Powerbank vollständig auf. Denken Sie daran, dass auch das Telefonnetz gestört sein kann.
 - Legen Sie einen Beutel Eiswürfel ins Gefriergerät. Damit prüfen Sie hinterher, ob die Lebensmittel aufgetaut waren.
 - Stellen Sie kalte Mahlzeiten und Thermosflaschen mit warmem Wasser bereit, zum Beispiel für Babyfläschchen.
-- Benachrichtigen Sie Angehörige und Nachbarn.
+- Benachrichtigen Sie Angehörige und Nachbarn. Vereinbaren Sie, wie Sie einander erreichen, wenn das Telefon nicht funktioniert.
 - Tanken Sie Ihr Auto voll: So bleiben Sie mobil, wenn Tankstellen ausfallen.
 
 **Brand und Kohlenmonoxid**
@@ -134,7 +144,7 @@ Das Krisenzentrum empfiehlt, dass Sie mindestens drei Tage selbst zurechtkommen 
 - Einen Generator an die Hausinstallation anschließen darf nur ein zugelassener Elektriker. Benachrichtigen Sie auch Ihren Netzbetreiber.
 - Ein Batteriesystem oder eine bestehende Photovoltaikanlage kann Notstrom liefern, aber nur, wenn sie dafür ausgelegt ist.
 
-Quelle: [Nationales Krisenzentrum: Störung der Stromversorgung](https://krisenzentrum.be/de/risiken-belgien/maatschappelijke-risicos/ausfall-der-elektrizitaetsversorgung) · [Nationales Krisenzentrum: Broschüre OFF/ON](https://krisenzentrum.be/sites/default/files/documents/files/OffOn-triptyque-D.pdf) · [Nationales Krisenzentrum: Notfallpaket](https://krisenzentrum.be/de/was-koennen-sie-tun/stelle-ein-notfallpaket-zusammen/ein-notfallset-fuer-zu-hause) · [FÖD Wirtschaft: Zu welchem Block gehört Ihre Gemeinde?](https://economie.fgov.be/de/themen/energie/sicherheit-der/strom/strommangel/der-lastabwurfplan-und-sie/zu-welchem-lastabwurfabschnitt) · [BBK: Stromausfall](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Vorsorge/Stromausfall/stromausfall_node.html) · [BBK: Broschüre Stromausfall](https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/Buergerinformationen/stromausfall-vorsorge-selbsthilfe.pdf?__blob=publicationFile&v=13) · [Denk vooruit: Fragen und Antworten](https://www.denkvooruit.nl/site/binaries/site-content/collections/documents/2025/10/27/toolkit-denk-vooruit-campagne-najaar-2025/20251111-qa-denkvooruit-bronbestand.pdf) · [Ready.gov: power outages](https://www.ready.gov/power-outages)
+Quelle: [Nationales Krisenzentrum: Störung der Stromversorgung](https://krisenzentrum.be/de/risiken-belgien/maatschappelijke-risicos/ausfall-der-elektrizitaetsversorgung) · [Nationales Krisenzentrum: Broschüre OFF/ON](https://krisenzentrum.be/sites/default/files/documents/files/OffOn-triptyque-D.pdf) · [Nationales Krisenzentrum: Notfallpaket](https://krisenzentrum.be/de/was-koennen-sie-tun/stelle-ein-notfallpaket-zusammen/ein-notfallset-fuer-zu-hause) · [Nationales Krisenzentrum: ein Plan in Ihrer Nachbarschaft](https://krisenzentrum.be/de/was-koennen-sie-tun/erstellen-sie-einen-plan/ein-plan-ihrem-viertel-oder-ihrem-verein) · [FÖD Wirtschaft: Fragen von Haushalten zur Stromknappheit](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door) · [FÖD Wirtschaft: Zu welchem Block gehört Ihre Gemeinde?](https://economie.fgov.be/de/themen/energie/sicherheit-der/strom/strommangel/der-lastabwurfplan-und-sie/zu-welchem-lastabwurfabschnitt) · [BBK: Stromausfall](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Vorsorge/Stromausfall/stromausfall_node.html) · [BBK: Broschüre Stromausfall](https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/Buergerinformationen/stromausfall-vorsorge-selbsthilfe.pdf?__blob=publicationFile&v=13) · [Denk vooruit: Fragen und Antworten](https://www.denkvooruit.nl/site/binaries/site-content/collections/documents/2025/10/27/toolkit-denk-vooruit-campagne-najaar-2025/20251111-qa-denkvooruit-bronbestand.pdf) · [Ready.gov: power outages](https://www.ready.gov/power-outages)
 
 ## Während
 
@@ -155,8 +165,7 @@ Quelle: [Nationales Krisenzentrum: Störung der Stromversorgung](https://krisenz
 **Kühlschrank und Gefriergerät**
 
 - Öffnen Sie Kühlschrank und Gefriergerät so wenig wie möglich.
-- Laut Krisenzentrum tauen Lebensmittel bei einer Unterbrechung von 3 bis 4 Stunden nicht auf. Bleibt die Tür des Gefriergeräts geschlossen, können sie 24 und sogar 36 Stunden tiefgefroren bleiben.
-- Die amerikanische Gesundheitsbehörde CDC geht von etwa 4 Stunden für einen geschlossenen Kühlschrank aus, 48 Stunden für ein volles Gefriergerät und 24 Stunden für ein halbvolles. In Belgien gilt der Rat des Krisenzentrums.
+- Lebensmittel tauen bei einer Unterbrechung von 3 bis 4 Stunden nicht auf. Bleibt die Tür des Gefriergeräts geschlossen, können sie 24 und sogar 36 Stunden tiefgefroren bleiben.
 
 **Warm bleiben**
 
@@ -164,6 +173,7 @@ Quelle: [Nationales Krisenzentrum: Störung der Stromversorgung](https://krisenz
 - Halten Sie sich in einem Raum auf und halten Sie dessen Türen geschlossen. Heizen Sie vor allem den kleinsten Raum.
 - Warme Kleidung und Decken können die Heizung eine Zeit lang ersetzen.
 - Lüften Sie trotzdem regelmäßig, vor allem wenn Kerzen brennen.
+- Sie können mit mehreren Menschen zusammenkommen, um Licht und Wärme zu teilen.
 
 **Kochen**
 
@@ -181,10 +191,11 @@ Quelle: [Nationales Krisenzentrum: Störung der Stromversorgung](https://krisenz
 **Telefon und Informationen**
 
 - Verfolgen Sie die Nachrichten über ein batteriebetriebenes Radio oder das Autoradio.
-- Telefonieren Sie nur, wenn es wirklich nötig ist, und schicken Sie lieber eine SMS. So bleibt das Netz für Notrufe frei.
+- Funktioniert das Mobilfunknetz noch, telefonieren Sie nur, wenn es wirklich nötig ist, und schicken Sie lieber eine SMS. So bleibt das Netz für Notrufe frei.
 - Ein Stromausfall an sich ist kein Notfall. Rufen Sie die 112 nur an, wenn jemand in Gefahr ist.
+- Kommt kein Anruf zustande, lassen Sie jemand anderen anrufen oder bitten Sie in Ihrer Nachbarschaft um Hilfe, und verfolgen Sie die Informationen der Behörden im Radio. Siehe Notrufnummern in der App, Wenn kein Anruf möglich ist.
 
-Quelle: [Nationales Krisenzentrum: Störung der Stromversorgung](https://krisenzentrum.be/de/risiken-belgien/maatschappelijke-risicos/ausfall-der-elektrizitaetsversorgung) · [Nationales Krisenzentrum: Broschüre OFF/ON](https://krisenzentrum.be/sites/default/files/documents/files/OffOn-triptyque-D.pdf) · [BBK: Stromausfall](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Vorsorge/Stromausfall/stromausfall_node.html) · [BBK: Broschüre Stromausfall](https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/Buergerinformationen/stromausfall-vorsorge-selbsthilfe.pdf?__blob=publicationFile&v=13) · [Denk vooruit: kein Strom](https://www.denkvooruit.nl/risicos/risicos-in-nederland/geen-stroom) · [CDC: power outage](https://www.cdc.gov/natural-disasters/response/what-to-do-protect-yourself-during-a-power-outage.html) · [CDC: food safety](https://www.cdc.gov/food-safety/foods/keep-food-safe-after-emergency.html) · [Ready.gov: power outages](https://www.ready.gov/power-outages) · [Speel niet met vuur: CO](https://speelnietmetvuur.be/co/)
+Quelle: [Nationales Krisenzentrum: Störung der Stromversorgung](https://krisenzentrum.be/de/risiken-belgien/maatschappelijke-risicos/ausfall-der-elektrizitaetsversorgung) · [Nationales Krisenzentrum: Broschüre OFF/ON](https://krisenzentrum.be/sites/default/files/documents/files/OffOn-triptyque-D.pdf) · [Nationales Krisenzentrum: Notfallpaket](https://krisenzentrum.be/de/was-koennen-sie-tun/stelle-ein-notfallpaket-zusammen/ein-notfallset-fuer-zu-hause) · [FÖD Wirtschaft: Fragen von Haushalten zur Stromknappheit](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door) · [112.be: Häufig gestellte Fragen](https://112.be/de/haeufig-gestellte-fragen) · [BBK: Stromausfall](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Vorsorge/Stromausfall/stromausfall_node.html) · [BBK: Broschüre Stromausfall](https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/Buergerinformationen/stromausfall-vorsorge-selbsthilfe.pdf?__blob=publicationFile&v=13) · [Denk vooruit: kein Strom](https://www.denkvooruit.nl/risicos/risicos-in-nederland/geen-stroom) · [CDC: power outage](https://www.cdc.gov/natural-disasters/response/what-to-do-protect-yourself-during-a-power-outage.html) · [CDC: food safety](https://www.cdc.gov/food-safety/foods/keep-food-safe-after-emergency.html) · [Ready.gov: power outages](https://www.ready.gov/power-outages) · [Speel niet met vuur: CO](https://speelnietmetvuur.be/co/)
 
 ### Draußen oder unterwegs
 
@@ -213,7 +224,6 @@ Quelle: [Nationales Krisenzentrum: einen Plan erstellen](https://krisenzentrum.b
 ### Kinder
 
 - Packen Sie Babynahrung, Windeln und Ersatzkleidung in Ihr Notfallpaket.
-- Stellen Sie Thermosflaschen mit warmem Wasser für Babyfläschchen bereit.
 - Üben Sie spielerisch, was Sie tun, wenn der Strom ausfällt. Bleiben Sie selbst ruhig und begrenzen Sie beängstigende Bilder.
 
 Quelle: [Nationales Krisenzentrum: Notfallpaket](https://krisenzentrum.be/de/was-koennen-sie-tun/stelle-ein-notfallpaket-zusammen/ein-notfallset-fuer-zu-hause) · [Nationales Krisenzentrum: Broschüre OFF/ON](https://krisenzentrum.be/sites/default/files/documents/files/OffOn-triptyque-D.pdf) · [Denk vooruit: Fragen und Antworten](https://www.denkvooruit.nl/site/binaries/site-content/collections/documents/2025/10/27/toolkit-denk-vooruit-campagne-najaar-2025/20251111-qa-denkvooruit-bronbestand.pdf)
@@ -223,21 +233,22 @@ Quelle: [Nationales Krisenzentrum: Notfallpaket](https://krisenzentrum.be/de/was
 **Auf medizinische Geräte angewiesen**
 
 - Erstellen Sie vorher mit Ihrem Arzt oder Ihrer Pflegekraft einen Plan für elektrische medizinische Geräte und für Medikamente, die kühl bleiben müssen.
-- Wenden Sie sich an den Lieferanten Ihrer medizinischen Hilfsmittel, um zu besprechen, was bei einem Stromausfall geschieht.
-- Fragen Sie Ihren Arzt, wie lange Ihre Medikamente höhere Temperaturen vertragen.
-- Nutzen Sie häusliche Pflege, einen Hausnotruf oder Essen auf Rädern, fragen Sie, ob und wie diese Dienste bei einem langen Ausfall weiterarbeiten. Wohnt jemand in einem Wohn- und Pflegezentrum, fragen Sie nach der Notstromversorgung.
+- Wenden Sie sich vorher an den Lieferanten Ihrer medizinischen Hilfsmittel, um zu besprechen, was bei einem Stromausfall geschieht.
+- Fragen Sie Ihren Arzt vorher, wie lange Ihre Medikamente höhere Temperaturen vertragen.
+- Nutzen Sie häusliche Pflege, einen Hausnotruf oder Essen auf Rädern, fragen Sie vorher, ob und wie diese Dienste bei einem langen Ausfall weiterarbeiten. Ein Hausnotruf kann selbst ausfallen. Wohnt jemand in einem Wohn- und Pflegezentrum, fragen Sie nach der Notstromversorgung.
 - Befolgen Sie während des Ausfalls den Plan, den Sie mit Ihrer Pflegekraft erstellt haben.
 
 **Medikamente, die kühl bleiben müssen**
 
-- Die CDC empfiehlt, solche flüssigen Medikamente nach einem Tag oder länger ohne Strom wegzuwerfen, es sei denn, der Beipackzettel sagt etwas anderes. Fordern Sie so schnell wie möglich einen neuen Vorrat bei Ihrem Arzt oder Apotheker an.
+- Werfen Sie solche flüssigen Medikamente nach einem Tag oder länger ohne Strom weg, es sei denn, der Beipackzettel sagt etwas anderes. Fordern Sie so schnell wie möglich einen neuen Vorrat bei Ihrem Arzt oder Apotheker an.
 - Hängt ein Leben von dem Medikament ab, verwenden Sie es, bis ein neuer Vorrat da ist.
 
 **Nachbarn**
 
-- Prüfen Sie, ob Nachbarn Hilfe brauchen. Sie können zum Beispiel eine Powerbank leihen, um ein Telefon zu laden.
+- Sehen Sie nach Nachbarn oder Familienangehörigen, die zusätzliche Hilfe brauchen. Kommt kein Anruf zustande, gehen Sie bei ihnen vorbei.
+- Sie können zum Beispiel eine Powerbank leihen, um ein Telefon zu laden.
 
-Quelle: [Ready.gov: power outages](https://www.ready.gov/power-outages) · [Denk vooruit: kein Strom](https://www.denkvooruit.nl/risicos/risicos-in-nederland/geen-stroom) · [BBK: Broschüre Stromausfall](https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/Buergerinformationen/stromausfall-vorsorge-selbsthilfe.pdf?__blob=publicationFile&v=13) · [CDC: power outage](https://www.cdc.gov/natural-disasters/response/what-to-do-protect-yourself-during-a-power-outage.html)
+Quelle: [Ready.gov: power outages](https://www.ready.gov/power-outages) · [Denk vooruit: kein Strom](https://www.denkvooruit.nl/risicos/risicos-in-nederland/geen-stroom) · [BBK: Broschüre Stromausfall](https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/Buergerinformationen/stromausfall-vorsorge-selbsthilfe.pdf?__blob=publicationFile&v=13) · [CDC: power outage](https://www.cdc.gov/natural-disasters/response/what-to-do-protect-yourself-during-a-power-outage.html) · [Rode Kruis-Vlaanderen: Strom- und Kommunikationsausfall](https://www.rodekruis.be/wat-doen-we/hulp-in-vlaanderen/goed-voorbereid/stroom-en-communicatie-uitval/) · [Nationales Krisenzentrum: Broschüre OFF/ON](https://krisenzentrum.be/sites/default/files/documents/files/OffOn-triptyque-D.pdf)
 
 ### Haustiere und Tiere
 
@@ -256,7 +267,7 @@ Quelle: [Nationales Krisenzentrum: Notfallpaket](https://krisenzentrum.be/de/was
 
 - Prüfen Sie den Beutel Eiswürfel. Ist das Eis geschmolzen und wieder gefroren, sind die Lebensmittel wahrscheinlich verdorben.
 - Werfen Sie Lebensmittel beim geringsten Zweifel an ihrer Frische weg, oder wenn sie einen seltsamen Geruch, eine seltsame Farbe oder Konsistenz haben.
-- Aufgetaute Tiefkühlware, die noch Eiskristalle enthält oder noch 4 °C oder kälter ist, dürfen Sie laut CDC wieder einfrieren oder zubereiten.
+- Aufgetaute Tiefkühlware, die noch Eiskristalle enthält oder noch 4 °C oder kälter ist, dürfen Sie wieder einfrieren oder zubereiten.
 - Werfen Sie verderbliche Lebensmittel weg, die 4 Stunden oder länger ohne Kühlung standen: Fleisch, Fisch, geschnittenes Gemüse und Obst, Eier, Milch und Reste. Werfen Sie aufgetaute Tiefkühlware weg, die wärmer als 4 °C ist.
 - Ein Thermometer in Kühlschrank und Gefriergerät hilft, das zu beurteilen.
 
@@ -274,15 +285,18 @@ Quelle: [Nationales Krisenzentrum: Störung der Stromversorgung](https://krisenz
 - Keine Kerzen unbeaufsichtigt brennen lassen.
 - Einen Generator nicht selbst an die Hausinstallation anschließen.
 - Nicht die 112 für Informationen über den Stromausfall anrufen. In der Vergangenheit wurden Notrufnummern dadurch überlastet.
+- Nicht die 112 anrufen, nur weil Ihr Handy die Meldung "Netz nicht verfügbar, nur Notrufe" anzeigt.
 - Nicht alle Geräte gleichzeitig einschalten, wenn der Strom wiederhergestellt ist.
 
-Quelle: [Speel niet met vuur: CO](https://speelnietmetvuur.be/co/) · [CDC: power outage](https://www.cdc.gov/natural-disasters/response/what-to-do-protect-yourself-during-a-power-outage.html) · [BBK: Broschüre Stromausfall](https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/Buergerinformationen/stromausfall-vorsorge-selbsthilfe.pdf?__blob=publicationFile&v=13) · [Nationales Krisenzentrum: Broschüre OFF/ON](https://krisenzentrum.be/sites/default/files/documents/files/OffOn-triptyque-D.pdf)
+Quelle: [Speel niet met vuur: CO](https://speelnietmetvuur.be/co/) · [CDC: power outage](https://www.cdc.gov/natural-disasters/response/what-to-do-protect-yourself-during-a-power-outage.html) · [BBK: Broschüre Stromausfall](https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/Buergerinformationen/stromausfall-vorsorge-selbsthilfe.pdf?__blob=publicationFile&v=13) · [Nationales Krisenzentrum: Broschüre OFF/ON](https://krisenzentrum.be/sites/default/files/documents/files/OffOn-triptyque-D.pdf) · [112.be: Häufig gestellte Fragen](https://112.be/de/haeufig-gestellte-fragen)
 
 ## Mehr Informationen
 
+Vorab zu lesen, oder wenn das Internet funktioniert:
+
 - Nationales Krisenzentrum zur Störung der Stromversorgung und zum Abschaltplan.
-- FÖD Wirtschaft: wie der Abschaltplan funktioniert und zu welchem Block Ihre Gemeinde gehört.
+- FÖD Wirtschaft: wie der Abschaltplan funktioniert, zu welchem Block Ihre Gemeinde gehört und was mit der Telefonie geschieht.
 - Ihr Netzbetreiber (Fluvius, ORES, Sibelga oder RESA) für Störungen und die Karte mit laufenden Unterbrechungen.
 - BE-Alert, um gewarnt zu werden.
 
-Quelle: [Nationales Krisenzentrum: Störung der Stromversorgung](https://krisenzentrum.be/de/risiken-belgien/maatschappelijke-risicos/ausfall-der-elektrizitaetsversorgung) · [FÖD Wirtschaft: Was ist ein Abschaltplan?](https://economie.fgov.be/de/themen/energie/sicherheit-der/strom/stromknappheit/lastabwurf/was-ist-ein-lastabwurfplan) · [ORES](https://www.ores.be/faq/plus-delectricite-ou-de-gaz) · [BE-Alert](https://www.be-alert.be/de)
+Quelle: [Nationales Krisenzentrum: Störung der Stromversorgung](https://krisenzentrum.be/de/risiken-belgien/maatschappelijke-risicos/ausfall-der-elektrizitaetsversorgung) · [FÖD Wirtschaft: Was ist ein Abschaltplan?](https://economie.fgov.be/de/themen/energie/sicherheit-der/strom/stromknappheit/lastabwurf/was-ist-ein-lastabwurfplan) · [FÖD Wirtschaft: Fragen von Haushalten zur Stromknappheit](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door) · [ORES](https://www.ores.be/faq/plus-delectricite-ou-de-gaz) · [BE-Alert](https://www.be-alert.be/de)

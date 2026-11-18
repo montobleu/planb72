@@ -3,19 +3,19 @@ titel: Erdbeben
 volgorde: 12
 kort: "Der Boden bebt. In Belgien sind schwere Erdbeben selten, sie können aber Schäden verursachen."
 stappen:
-  - "Drinnen: Gehen Sie unter einem stabilen Tisch, Schreibtisch oder Bett in Deckung und halten Sie sich fest, bis das Beben aufhört."
-  - "Gibt es kein stabiles Möbelstück, setzen Sie sich an einer Innenwand auf den Boden und schützen Sie Kopf und Nacken mit den Armen."
+  - "Drinnen: Gehen Sie unter einem stabilen Tisch, Schreibtisch oder Bett in Deckung und halten Sie sich fest, bis das Beben aufhört. Gibt es kein stabiles Möbelstück, setzen Sie sich an einer Innenwand auf den Boden und schützen Sie Kopf und Nacken mit den Armen."
   - "Halten Sie sich von Fenstern, Spiegeln, Schränken und Gegenständen fern, die herunterfallen können."
   - "Draußen: Gehen Sie auf eine freie Fläche, weg von Gebäuden, Bäumen, Masten, Leitungen und Brücken."
   - "Im Auto: Halten Sie an einer sicheren Stelle an, ohne die Straße zu blockieren, und bleiben Sie im Fahrzeug."
-  - "Nach dem Beben: Rechnen Sie mit Nachbeben. Nehmen Sie die Treppe, nie den Aufzug. Zünden Sie kein Feuer an."
+  - "Nach dem Beben: Rechnen Sie mit Nachbeben. Nehmen Sie die Treppe, nie den Aufzug. Zünden Sie kein Feuer an. Hören Sie Radio, um Anweisungen zu erhalten."
   - "Riechen Sie Gas: Drehen Sie die Zufuhr ab, öffnen Sie Fenster und Türen, gehen Sie nach draußen und benachrichtigen Sie die Rettungsdienste."
+  - "Helfen Sie Verletzten, wenn Sie können. Rufen Sie die 112 an. Gelingt das nicht, lassen Sie jemand anderen anrufen oder bitten Sie in Ihrer Nachbarschaft um Hilfe (siehe Notrufnummern, Wenn kein Anruf möglich ist)."
 niet:
   - "Benutzen Sie keinen Aufzug, um ein Gebäude zu verlassen."
   - "Holen Sie Kinder nicht von der Schule ab."
   - "Betreten Sie ein beschädigtes Gebäude nicht wieder."
 status: concept
-datum: "2026-11-17"
+datum: "2026-11-18"
 bronnen:
   - naam: "Nationales Krisenzentrum: Erdbeben"
     url: https://krisenzentrum.be/de/risiken-belgien/naturrisiken/erdbeben
@@ -29,15 +29,23 @@ bronnen:
     url: https://krisenzentrum.be/de/was-koennen-sie-tun/stelle-ein-notfallpaket-zusammen/ein-notfallset-fuer-zu-hause
   - naam: "Ready.gov: Earthquakes"
     url: https://www.ready.gov/earthquakes
+  - naam: "Nationales Krisenzentrum: Störung der digitalen Infrastruktur"
+    url: https://krisenzentrum.be/de/risiken-belgien/maatschappelijke-risicos/ausfall-der-digitalen-infrastruktur
+  - naam: "Nationales Krisenzentrum: Informationen während einer Notsituation"
+    url: https://krisenzentrum.be/de/was-koennen-sie-tun/informieren-sie-sich/information-notsituationen
+  - naam: "112.be: Häufig gestellte Fragen"
+    url: https://112.be/de/haeufig-gestellte-fragen
+  - naam: "FÖD Wirtschaft: Fragen von Haushalten zur Stromknappheit"
+    url: https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door
 vertaling: machine
-origineel_datum: "2026-11-17"
+origineel_datum: "2026-11-18"
 ---
 
 ## Erkennen
 
 Bei einem Erdbeben bebt oder zittert der Boden. Nach dem ersten Stoß können Nachbeben folgen, manchmal viel später.
 
-**Erdbeben in Belgien.** Belgien liegt in einer sogenannten stabilen Zone. Dennoch haben größere Erdbeben hier in der Vergangenheit Schäden verursacht. Die Königliche Sternwarte von Belgien nennt unter anderem die Beben von 1382 und 1449 in der Nordsee, 1580 im Ärmelkanal, 1692 in Verviers, 1756 in Düren (Deutschland), 1938 in Zulzeke-Nukerke und 1992 in Roermond (Niederlande). Im Durchschnitt tritt in Belgien etwa einmal alle 40 Jahre ein Beben der Magnitude 5 oder mehr auf, und etwa einmal alle 315 Jahre ein Beben der Magnitude 6 oder mehr.
+**Erdbeben in Belgien.** Belgien liegt in einer sogenannten stabilen Zone. Dennoch haben größere Erdbeben hier in der Vergangenheit Schäden verursacht. Beispiele sind die Beben von 1382 und 1449 in der Nordsee, 1580 im Ärmelkanal, 1692 in Verviers, 1756 in Düren (Deutschland), 1938 in Zulzeke-Nukerke und 1992 in Roermond (Niederlande). Im Durchschnitt tritt in Belgien etwa einmal alle 40 Jahre ein Beben der Magnitude 5 oder mehr auf, und etwa einmal alle 315 Jahre ein Beben der Magnitude 6 oder mehr.
 
 **Die größte Gefahr** sind Schäden an Gebäuden oder deren Einsturz. Auch herabfallende Gegenstände, Glas, Gaslecks, beschädigte Elektrik und Brand sind ein Risiko. Die belgische Risikoanalyse hält ein schweres Erdbeben für wenig wahrscheinlich.
 
@@ -58,13 +66,13 @@ Quelle: [Königliche Sternwarte: FAQ](https://seismologie.be/de/haufig-gestellte
 
 **Mit Ihrer Familie.**
 
-- Vereinbaren Sie, wie Sie sich schützen, wo Sie sich treffen und wie Sie einander wiederfinden.
+- Vereinbaren Sie, wie Sie sich schützen, wo Sie sich treffen und wie Sie einander wiederfinden, auch wenn Sie einander nicht erreichen können.
 - Üben Sie gemeinsam, wie man in Deckung geht. Nehmen Sie an Übungen teil oder verfolgen Sie sie.
 - Kennen Sie die offiziellen Risikoinformationen und die Sicherheitsanweisungen.
 
-**Notfallpaket.** Halten Sie ein Paket bereit mit einem batteriebetriebenen Radio, einer Taschenlampe, Trinkwasser, persönlichen Dokumenten, notwendigen Medikamenten, Decken, Ersatzkleidung, Konserven und einem Erste-Hilfe-Kasten. Das Nationale Krisenzentrum empfiehlt, mindestens 3 Tage selbst zurechtzukommen. Ready.gov ergänzt eine Pfeife, um Hilfe zu rufen.
+**Notfallpaket.** Halten Sie ein Paket bereit mit einem batteriebetriebenen Radio, einer Taschenlampe, Trinkwasser, persönlichen Dokumenten, notwendigen Medikamenten, Decken, Ersatzkleidung, Konserven, einem Erste-Hilfe-Kasten und einer Pfeife, um Hilfe zu rufen. Sorgen Sie dafür, dass Sie mindestens 3 Tage selbst zurechtkommen.
 
-Quelle: [Nationales Krisenzentrum](https://krisenzentrum.be/de/risiken-belgien/naturrisiken/erdbeben) · [Königliche Sternwarte: FAQ](https://seismologie.be/de/haufig-gestellte-fragen) · [Nationales Krisenzentrum: Notfallpaket](https://krisenzentrum.be/de/was-koennen-sie-tun/stelle-ein-notfallpaket-zusammen/ein-notfallset-fuer-zu-hause) · [Ready.gov](https://www.ready.gov/earthquakes)
+Quelle: [Nationales Krisenzentrum](https://krisenzentrum.be/de/risiken-belgien/naturrisiken/erdbeben) · [Königliche Sternwarte: FAQ](https://seismologie.be/de/haufig-gestellte-fragen) · [Nationales Krisenzentrum: Notfallpaket](https://krisenzentrum.be/de/was-koennen-sie-tun/stelle-ein-notfallpaket-zusammen/ein-notfallset-fuer-zu-hause) · [Ready.gov](https://www.ready.gov/earthquakes) · [Nationales Krisenzentrum: digitale Infrastruktur](https://krisenzentrum.be/de/risiken-belgien/maatschappelijke-risicos/ausfall-der-digitalen-infrastruktur)
 
 ## Während
 
@@ -80,11 +88,11 @@ Schützen Sie sich sofort.
 4. Halten Sie sich mit der anderen Hand am Möbelstück fest. Bewegt es sich, bewegen Sie sich mit.
 5. Bleiben Sie so, bis das Beben aufhört.
 
-**Kein stabiles Möbelstück in der Nähe.** Setzen oder hocken Sie sich an eine Innenwand, weg von Fenstern. Beugen Sie sich nach vorn, um Ihren Oberkörper zu schützen, und halten Sie Kopf und Nacken mit beiden Armen fest. Die Königliche Sternwarte nennt auch eine tragende Wand oder eine Säule als Schutzort.
+**Kein stabiles Möbelstück in der Nähe.** Setzen oder hocken Sie sich an eine Innenwand, weg von Fenstern. Beugen Sie sich nach vorn, um Ihren Oberkörper zu schützen, und halten Sie Kopf und Nacken mit beiden Armen fest. Auch eine tragende Wand oder eine Säule ist ein Schutzort.
 
 **Liegen Sie im Bett.** Drehen Sie sich auf den Bauch und bedecken Sie Kopf und Nacken mit einem Kissen.
 
-**Sind Sie nahe an einem Ausgang.** Das Nationale Krisenzentrum sagt: Ist ein Ausgang in der Nähe, gehen Sie sicher nach draußen auf eine freie Fläche, weg von Gebäuden. Die Königliche Sternwarte und das amerikanische Ready.gov empfehlen, zu bleiben, wo Sie sind, und nicht nach draußen zu laufen. Zweifeln Sie, ob der Weg nach draußen sicher ist, bleiben Sie drinnen und gehen Sie in Deckung.
+**Sind Sie nahe an einem Ausgang.** Ist der Ausgang ganz nah und der Weg nach draußen sicher, gehen Sie auf eine freie Fläche, weg von Gebäuden. Im Zweifel bleiben Sie, wo Sie sind, und gehen in Deckung.
 
 **Immer.**
 
@@ -143,14 +151,15 @@ Quelle: [Nationales Krisenzentrum](https://krisenzentrum.be/de/risiken-belgien/n
 **Erste Minuten.**
 
 - Rechnen Sie mit Nachbeben. Spüren Sie eines, gehen Sie wieder in Deckung und halten Sie sich fest.
-- Prüfen Sie, ob Sie selbst verletzt sind. Helfen Sie anderen, wenn Sie können. Rufen Sie bei Verletzten die 112 an.
+- Prüfen Sie, ob Sie selbst verletzt sind. Helfen Sie anderen, wenn Sie können.
+- Rufen Sie bei Verletzten die 112 an. Gelingt das nicht, lassen Sie jemand anderen anrufen oder bitten Sie in Ihrer Nachbarschaft um Hilfe (siehe Notrufnummern, Wenn kein Anruf möglich ist). Siehe auch die Erste-Hilfe-Karten.
 - Zünden Sie kein Feuer an, rauchen Sie nicht und vermeiden Sie Funken.
 - Ist das Gebäude beschädigt, gehen Sie nach draußen und weg vom Gebäude. Gehen Sie nicht wieder hinein.
 - Nehmen Sie immer die Treppe, nie den Aufzug.
 
 **Sind Sie unter Trümmern eingeschlossen.**
 
-- Schicken Sie eine SMS oder klopfen Sie an ein Rohr oder eine Wand, damit die Helfer Sie finden.
+- Klopfen Sie an ein Rohr oder eine Wand, damit die Helfer Sie finden. Funktioniert das Netz, schicken Sie auch eine SMS.
 - Bedecken Sie Ihren Mund mit Ihrer Kleidung gegen Staub.
 - Benutzen Sie eine Pfeife, statt zu rufen.
 
@@ -169,13 +178,14 @@ Quelle: [Nationales Krisenzentrum](https://krisenzentrum.be/de/risiken-belgien/n
 
 **Kommunikation.**
 
-- Befolgen Sie die Anweisungen von Radio und Behörden.
-- Telefonieren Sie nur im echten Notfall. Schicken Sie lieber eine SMS: Das funktioniert oft besser und schont Ihren Akku.
+- Hören Sie Radio und befolgen Sie die Anweisungen der Behörden. Fällt der Strom aus, benutzen Sie ein batteriebetriebenes Radio oder das Autoradio. Achten Sie auch auf Lautsprecherwagen der Polizei.
+- Telefonieren Sie nur im echten Notfall. Funktioniert das Netz, schicken Sie lieber eine SMS: Das funktioniert oft besser und schont Ihren Akku.
 - Melden Sie gefährliche Situationen den Behörden.
 - Bieten Sie den Rettungsdiensten Ihre Hilfe an.
-- Haben Sie das Beben gespürt, füllen Sie die Umfrage auf seismologie.be aus. Das hilft den Rettungsdiensten.
+- Können Sie nicht nach Hause: Bei größeren Notsituationen richtet die Gemeinde oder Provinz ein Aufnahmezentrum ein, zum Beispiel eine Sporthalle oder einen Festsaal. Dort gibt eine Kontaktperson vor Ort Informationen.
+- Haben Sie das Beben gespürt, füllen Sie die Umfrage auf seismologie.be aus, sobald das Internet funktioniert. Das hilft den Rettungsdiensten.
 
-Quelle: [Nationales Krisenzentrum](https://krisenzentrum.be/de/risiken-belgien/naturrisiken/erdbeben) · [Königliche Sternwarte: FAQ](https://seismologie.be/de/haufig-gestellte-fragen) · [Ready.gov](https://www.ready.gov/earthquakes)
+Quelle: [Nationales Krisenzentrum](https://krisenzentrum.be/de/risiken-belgien/naturrisiken/erdbeben) · [Königliche Sternwarte: FAQ](https://seismologie.be/de/haufig-gestellte-fragen) · [Ready.gov](https://www.ready.gov/earthquakes) · [Nationales Krisenzentrum: evakuieren](https://krisenzentrum.be/de/was-koennen-sie-tun/der-richtige-reflex/evakuierung) · [Nationales Krisenzentrum: Informationen während einer Notsituation](https://krisenzentrum.be/de/was-koennen-sie-tun/informieren-sie-sich/information-notsituationen) · [112.be: Häufig gestellte Fragen](https://112.be/de/haeufig-gestellte-fragen) · [FÖD Wirtschaft: Fragen von Haushalten zur Stromknappheit](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door)
 
 ## Nicht tun
 
@@ -191,6 +201,8 @@ Quelle: [Nationales Krisenzentrum](https://krisenzentrum.be/de/risiken-belgien/n
 Quelle: [Königliche Sternwarte: FAQ](https://seismologie.be/de/haufig-gestellte-fragen) · [Ready.gov](https://www.ready.gov/earthquakes)
 
 ## Mehr Informationen
+
+Vorab zu lesen, oder wenn das Internet funktioniert:
 
 - Aktuelle Beben und die Umfrage "Haben Sie ein Erdbeben gespürt?": [seismologie.be](https://seismologie.be/de)
 - Risiko und Empfehlungen: [Nationales Krisenzentrum: Erdbeben](https://krisenzentrum.be/de/risiken-belgien/naturrisiken/erdbeben)

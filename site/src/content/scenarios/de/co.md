@@ -6,16 +6,16 @@ stappen:
   - "Öffnen Sie Fenster und Türen, wenn das ohne Risiko für Sie selbst möglich ist."
   - "Verlassen Sie den Raum und gehen Sie mit allen nach draußen an die frische Luft."
   - "Schalten Sie das Gerät mit Gas, Holz, Kohle oder Heizöl aus, wenn das schnell und sicher möglich ist."
-  - "Rufen Sie die 112 an, wenn jemand Beschwerden hat oder bewusstlos ist. Sagen Sie, dass es sich vermutlich um CO handelt."
+  - "Rufen Sie die 112 an, wenn jemand Beschwerden hat oder bewusstlos ist. Sagen Sie, dass es sich vermutlich um CO handelt. Gelingt das nicht, lassen Sie jemand anderen anrufen oder bitten Sie in Ihrer Nachbarschaft um Hilfe (siehe Notrufnummern, Wenn kein Anruf möglich ist)."
   - "Betreten Sie nie einen Raum, in dem jemand bewusstlos liegt. Warten Sie auf die Rettungsdienste."
-  - "Rufen Sie bei Fragen oder Zweifeln das Antigiftzentrum unter 070 245 245 an. Das ist kostenlos, Tag und Nacht."
+  - "Rufen Sie bei Fragen oder Zweifeln das Antigiftzentrum unter 070 245 245 an, wenn das Netz funktioniert. Das ist kostenlos, Tag und Nacht."
   - "Benutzen Sie das Gerät erst wieder nach einer Kontrolle durch einen zugelassenen Fachmann."
 niet:
   - "Holen Sie keinen Grill und keine Holzkohle zum Heizen ins Haus."
   - "Lassen Sie keinen Motor in einer Garage laufen, auch nicht bei offenem Tor."
   - "Dichten Sie keine Lüftungsgitter oder Ritzen ab, auch nicht bei strenger Kälte."
 status: concept
-datum: "2026-11-17"
+datum: "2026-11-18"
 bronnen:
   - naam: "Antigiftzentrum: Broschüre CO-Vergiftung vorbeugen"
     url: https://www.poisoncentre.be/app/uploads/2026/02/Brochure-CO-vergiftiging-voorkomen-NL-1.pdf
@@ -31,8 +31,14 @@ bronnen:
     url: https://krisenzentrum.be/de/was-koennen-sie-tun/der-richtige-reflex/evakuierung
   - naam: "CDC: Carbon Monoxide Poisoning Basics"
     url: https://www.cdc.gov/carbon-monoxide/about/index.html
+  - naam: "112.be: Häufig gestellte Fragen"
+    url: https://112.be/de/haeufig-gestellte-fragen
+  - naam: "FÖD Wirtschaft: Fragen von Haushalten zur Stromknappheit"
+    url: https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door
+  - naam: "ERC Guidelines 2021: First aid"
+    url: https://cprguidelines-old.erc.edu/assets/guidelines/European-Resuscitation-Council-Guidelines-2021-Fi.pdf
 vertaling: machine
-origineel_datum: "2026-11-17"
+origineel_datum: "2026-11-18"
 ---
 
 ## Erkennen
@@ -41,7 +47,7 @@ Kohlenmonoxid (CO) ist ein Gas ohne Farbe, Geruch oder Geschmack. Sie können es
 
 CO ist in Belgien die wichtigste Ursache tödlicher Vergiftungen. Jedes Jahr sterben einige Dutzend Menschen, und etwa 1.000 Menschen kommen ins Krankenhaus. Die meisten Unfälle geschehen in der Heizperiode, von Oktober bis April. Fast die Hälfte der Opfer ist jünger als 30 Jahre. Es braucht wenig: 0,1 Prozent CO in der Luft ist innerhalb von 1 bis 3 Stunden tödlich, 1 Prozent schon innerhalb von 15 Minuten.
 
-**Schnelle Vergiftung (akut).** Zuerst bekommen Sie Kopfschmerzen und Ihnen wird schwindlig. Sie fühlen sich sehr müde, und Ihnen kann übel werden, bis zum Erbrechen. Wer nicht erkennt, dass er den Raum verlassen muss, wird bewusstlos und kann sich dann nicht mehr selbst retten. Bei hohen Konzentrationen folgen schnell ein tiefes Koma und der Tod. Bei Kindern sind Bauchschmerzen eine häufige Beschwerde.
+**Schnelle Vergiftung (akut).** Zuerst bekommen Sie Kopfschmerzen und Ihnen wird schwindlig. Sie fühlen sich sehr müde, und Ihnen kann übel werden, bis zum Erbrechen. Wer nicht erkennt, dass er den Raum verlassen muss, wird bewusstlos und kann sich dann nicht mehr selbst retten. Bei hohen Konzentrationen folgen schnell ein tiefes Koma und der Tod.
 
 **Langsame Vergiftung (chronisch).** Wer lange kleine Mengen einatmet, bekommt unklare Beschwerden: Kopfschmerzen, Magendrücken, Muskelschwäche, Konzentrationsschwierigkeiten und wechselnde Stimmung. Ein Arzt erkennt das nicht leicht.
 
@@ -111,18 +117,20 @@ Quelle: [Antigiftzentrum: Broschüre CO](https://www.poisoncentre.be/app/uploads
 2. Öffnen Sie Fenster und Türen, wenn Sie das ohne Risiko für sich selbst tun können.
 3. Verlassen Sie so schnell wie möglich den Raum. Sorgen Sie dafür, dass alle den Raum verlassen. Gehen Sie nach draußen, wenn das möglich ist.
 4. Schalten Sie das Gerät aus, wenn das schnell und sicher möglich ist.
-5. Rufen Sie die 112 an. Sagen Sie, dass es sich vermutlich um eine CO-Vergiftung handelt und ob jemand bewusstlos ist.
+5. Rufen Sie die 112 an oder lassen Sie jemanden anrufen. Sagen Sie, dass es sich vermutlich um eine CO-Vergiftung handelt und ob jemand bewusstlos ist.
 
 Können Sie die Fenster nicht ohne Risiko für sich selbst öffnen, gehen Sie sofort nach draußen.
 
+Kommt kein Anruf zustande, lassen Sie jemand anderen anrufen oder schicken Sie jemanden, um in Ihrer Nachbarschaft Hilfe zu holen. Lassen Sie eine betroffene Person nur allein, wenn es nicht anders geht. Siehe Notrufnummern in der App, Wenn kein Anruf möglich ist.
+
 **Jemand ist bewusstlos.**
 
-- Betreten Sie nie einen Raum, in dem ein Bewusstloser liegt. Sie werden selbst betroffen. Rufen Sie sofort die 112 an.
+- Betreten Sie nie einen Raum, in dem ein Bewusstloser liegt. Sie werden selbst betroffen. Rufen Sie sofort die 112 an oder lassen Sie jemanden anrufen. Kommt kein Anruf zustande, siehe oben.
 - Können die Rettungsdienste noch nicht vor Ort sein und können Sie den Raum sicher lüften: Schalten Sie das Gerät aus und bringen Sie die betroffene Person aus dem Raum.
 - Atmet die Person nicht, beginnen Sie mit der Beatmung. Mund-zu-Mund-Beatmung ist sicher: Sie gehen dabei kein Risiko einer CO-Vergiftung ein.
 - Atmet die Person, legen Sie sie auf die Seite, ohne Kopfkissen. So erstickt sie nicht an Erbrochenem.
 
-**Jemand ist bei Bewusstsein und antwortet auf Ihre Fragen.** Bringen Sie die Person an die frische Luft und rufen Sie den Hausarzt an. Rufen Sie das Antigiftzentrum unter 070 245 245 an, wenn Sie Fragen haben. Ein Arzt antwortet, 24 Stunden am Tag, 7 Tage die Woche. Der Anruf ist kostenlos.
+**Jemand ist bei Bewusstsein und antwortet auf Ihre Fragen.** Bringen Sie die Person an die frische Luft und lassen Sie sie von einem Arzt untersuchen. Funktioniert das Netz, rufen Sie den Hausarzt an und bei Fragen das Antigiftzentrum unter 070 245 245. Ein Arzt antwortet, 24 Stunden am Tag, 7 Tage die Woche. Der Anruf ist kostenlos.
 
 ### Draußen oder unterwegs
 
@@ -154,21 +162,20 @@ Können Sie die Fenster nicht ohne Risiko für sich selbst öffnen, gehen Sie so
 
 - Ältere Menschen und Menschen mit einer chronischen Krankheit, mit Herz- oder Atemproblemen oder mit Blutarmut sind stärker gefährdet.
 - Raucher, und vor allem Pfeifen-, Zigarren- und Wasserpfeifenraucher, haben bereits mehr CO im Blut.
-- Wer schläft, getrunken hat oder unter Einfluss steht, kann an CO sterben, bevor er Beschwerden bemerkt. Die CDC empfiehlt einen Melder bei jedem Schlafraum.
+- Wer schläft, getrunken hat oder unter Einfluss steht, kann an CO sterben, bevor er Beschwerden bemerkt. Bringen Sie einen Melder bei jedem Schlafraum an.
 
 ### Haustiere und Tiere
 
 - Auch Tiere werden durch CO krank. Wenn Tiere und Menschen im Haus gleichzeitig Beschwerden haben, ist das ein Warnzeichen.
 - Nehmen Sie Haustiere mit nach draußen, wenn das ohne Risiko für Sie selbst möglich ist. Ihre eigene Sicherheit geht vor.
 
-Quelle: [Antigiftzentrum: Broschüre CO](https://www.poisoncentre.be/app/uploads/2026/02/Brochure-CO-vergiftiging-voorkomen-NL-1.pdf) · [Antigiftzentrum: CO im Detail](https://www.antigifcentrum.be/koolstofmonoxide) · [KMI](https://www.meteo.be/nl/info/veelgestelde-vragen/hoe-je-beschermen-tegen-gevaarlijk-weer/co-een-sluipende-moordenaar-in-huis) · [be.brussels](https://be.brussels/nl/veiligheid-preventie/brandpreventie-en-veiligheidsadvies/gebouw-woning-en-infrastructuren/veilig-huis/co) · [CDC](https://www.cdc.gov/carbon-monoxide/about/index.html)
+Quelle: [Antigiftzentrum: Broschüre CO](https://www.poisoncentre.be/app/uploads/2026/02/Brochure-CO-vergiftiging-voorkomen-NL-1.pdf) · [Antigiftzentrum: CO im Detail](https://www.antigifcentrum.be/koolstofmonoxide) · [KMI](https://www.meteo.be/nl/info/veelgestelde-vragen/hoe-je-beschermen-tegen-gevaarlijk-weer/co-een-sluipende-moordenaar-in-huis) · [be.brussels](https://be.brussels/nl/veiligheid-preventie/brandpreventie-en-veiligheidsadvies/gebouw-woning-en-infrastructuren/veilig-huis/co) · [CDC](https://www.cdc.gov/carbon-monoxide/about/index.html) · [112.be: Häufig gestellte Fragen](https://112.be/de/haeufig-gestellte-fragen) · [FÖD Wirtschaft: Fragen von Haushalten zur Stromknappheit](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door) · [ERC Guidelines 2021: First aid](https://cprguidelines-old.erc.edu/assets/guidelines/European-Resuscitation-Council-Guidelines-2021-Fi.pdf)
 
 ## Danach
 
 - Benutzen Sie das Gerät nicht mehr, bis ein zugelassener Fachmann es geprüft hat. Rufen Sie auch bei einer orangen Flamme, Ruß, Rost oder Korrosion einen Fachmann.
 - Lassen Sie auch den Schornstein und den Anschluss kontrollieren. Das Ganze aus Gerät und Schornstein muss dicht sein.
-- Lassen Sie sich von einem Arzt untersuchen. Wer bei Bewusstsein ist, ruft den Hausarzt an. Nach einer schweren Vergiftung tritt manchmal später noch eine Hirnschädigung auf. Ein normaler Blutwert schließt eine Vergiftung nicht aus, weil CO nach einiger Zeit aus dem Blut verschwindet.
-- Wohnen Sie in einer Mietwohnung, melden Sie die nötigen Reparaturen sofort dem Eigentümer.
+- Lassen Sie sich von einem Arzt untersuchen. Wer bei Bewusstsein ist, ruft den Hausarzt an, wenn das Netz funktioniert. Nach einer schweren Vergiftung tritt manchmal später noch eine Hirnschädigung auf. Ein normaler Blutwert schließt eine Vergiftung nicht aus, weil CO nach einiger Zeit aus dem Blut verschwindet.
 - War noch kein Melder angebracht, bringen Sie einen nach den oben genannten Regeln an.
 
 Quelle: [Antigiftzentrum: Broschüre CO](https://www.poisoncentre.be/app/uploads/2026/02/Brochure-CO-vergiftiging-voorkomen-NL-1.pdf) · [Antigiftzentrum: CO im Detail](https://www.antigifcentrum.be/koolstofmonoxide)

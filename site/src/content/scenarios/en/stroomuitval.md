@@ -5,18 +5,18 @@ kort: "The lights go out and do not come back on straight away, or a load-sheddi
 stappen:
   - "Check whether only your home is without power: do the neighbours still have lights, are the street lights on? This tells you whether the problem is your own installation or the grid."
   - "Switch off heating appliances (hob, oven, iron, kettle, electric heating) and unplug sensitive devices. Leave one switch on so that you notice when the power comes back."
-  - "Keep the fridge and freezer closed. According to the Crisis Center, a closed freezer stays frozen for 24 to 36 hours."
+  - "Keep the fridge and freezer closed. A closed freezer stays frozen for 24 to 36 hours."
   - "Use a torch instead of candles. If you do burn a candle, put it in a holder on a non-combustible surface and never leave it unattended."
-  - "Follow the news on a battery-powered radio or the car radio. Only phone and go online when necessary, and send a text message instead."
+  - "Follow the news on a battery-powered radio or the car radio. If the network still works, only phone and go online when necessary and send a text message instead."
   - "Never use a generator, barbecue, camping stove or heater without a flue indoors or in the garage. Carbon monoxide is invisible and odourless."
-  - "Check whether neighbours, older people and people with medical equipment need help."
+  - "Go and see neighbours, older people and people with medical equipment to check whether they need help."
 niet:
   - "Do not run a generator, barbecue, camping stove or engine indoors, in the cellar or in a closed garage."
   - "Do not heat with a gas cooker or oven."
-  - "Do not call 112 to ask when the power will come back. Only call 112 if people are in danger."
+  - "Do not call 112 to ask when the power will come back. Only call 112 if people are in danger. If that does not work, have someone else call or ask for help in your neighbourhood (see Emergency numbers, If you cannot call)."
   - "Do not switch on all appliances at once when the power comes back."
 status: concept
-datum: "2026-11-17"
+datum: "2026-11-18"
 bronnen:
   - naam: "National Crisis Center: disruption of electricity"
     url: https://crisiscenter.be/en/risks-belgium/societal-risks/failure-electricity-supply
@@ -26,6 +26,8 @@ bronnen:
     url: https://crisiscenter.be/en/what-can-you-do/build-emergency-kit/emergency-kit-home
   - naam: "National Crisis Center: make a plan"
     url: https://crisiscenter.be/en/what-can-you-do/make-plan
+  - naam: "National Crisis Center: a plan in your neighbourhood or association"
+    url: https://crisiscenter.be/en/what-can-you-do/make-plan/plan-your-neighbourhood-association-or-club
   - naam: BE-Alert
     url: https://www.be-alert.be/en
   - naam: "FPS Economy: what is a load-shedding plan?"
@@ -34,6 +36,12 @@ bronnen:
     url: https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/afschakeling/wanneer-wordt-het
   - naam: "FPS Economy: which block does your municipality belong to?"
     url: https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/afschakelplan/tot-welke-schijf-behoort-uw
+  - naam: "FPS Economy: questions from households about electricity shortages"
+    url: https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door
+  - naam: "112.be: frequently asked questions"
+    url: https://112.be/en/frequently-asked-questions
+  - naam: "Red Cross Flanders: power and communication outage"
+    url: https://www.rodekruis.be/wat-doen-we/hulp-in-vlaanderen/goed-voorbereid/stroom-en-communicatie-uitval/
   - naam: "ORES: plus d'électricité ou de gaz"
     url: https://www.ores.be/faq/plus-delectricite-ou-de-gaz
   - naam: "Speel niet met vuur: CO"
@@ -55,7 +63,7 @@ bronnen:
   - naam: "CDC: carbon monoxide poisoning"
     url: https://www.cdc.gov/carbon-monoxide/about/index.html
 vertaling: machine
-origineel_datum: "2026-11-17"
+origineel_datum: "2026-11-18"
 ---
 
 ## Recognise
@@ -66,7 +74,7 @@ A power cut usually lasts a few hours. With major damage it can last days. Cause
 
 - Check whether your neighbours still have power and whether the street lights are on in the evening.
 - If only your home is without power, the cause is probably in your own installation. Switch off the main switch, then the residual current device and the fuses, and switch them back on in the same order.
-- If the power stays off, or the whole street is without power, it is a fault on the grid. Report it to your network operator.
+- If the power stays off, or the whole street is without power, it is a fault on the grid. Report it to your network operator if the phone or internet still works.
 
 **What stops working during a power cut**
 
@@ -74,7 +82,8 @@ A power cut usually lasts a few hours. With major damage it can last days. Cause
 - The central heating: the boiler and the circulation pump stop.
 - Lifts, automatic doors and gates, for example the garage door.
 - The water pressure may drop. The higher up you live, the greater the chance that less water will come out of the tap.
-- Landline and internet: a landline via the internet only works if the router and the handset have power. The mobile network has only partial, short-term backup power and quickly becomes overloaded.
+- Landline and internet: your landline will probably no longer work. A landline via the internet needs power for the router and the handset.
+- Mobile network: mobile masts last one to two hours without power. Mobile internet drops out quickly, probably straight away. The network also quickly becomes overloaded.
 - Cash machines, payment terminals and petrol stations.
 - Traffic lights, trains, trams and metros.
 - Home care aids, such as ventilators, and services such as a personal alarm.
@@ -89,7 +98,7 @@ In the event of a serious shortage of electricity, the federal government can de
 - Hospitals and emergency centres get priority and are not disconnected or are the first to be reconnected.
 - The blocks do not follow municipal boundaries. One municipality, or even one street, can be divided over several blocks.
 
-Source: [National Crisis Center: disruption of electricity](https://crisiscenter.be/en/risks-belgium/societal-risks/failure-electricity-supply) · [National Crisis Center: OFF/ON brochure](https://crisiscentrum.be/sites/default/files/documents/files/OffOn-triptyque-N.pdf) · [ORES](https://www.ores.be/faq/plus-delectricite-ou-de-gaz) · [FPS Economy: what is a load-shedding plan?](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/afschakeling/wat-een-afschakelplan) · [FPS Economy: when is the load-shedding plan activated?](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/afschakeling/wanneer-wordt-het) · [BBK: brochure Stromausfall](https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/Buergerinformationen/stromausfall-vorsorge-selbsthilfe.pdf?__blob=publicationFile&v=13)
+Source: [National Crisis Center: disruption of electricity](https://crisiscenter.be/en/risks-belgium/societal-risks/failure-electricity-supply) · [National Crisis Center: OFF/ON brochure](https://crisiscentrum.be/sites/default/files/documents/files/OffOn-triptyque-N.pdf) · [ORES](https://www.ores.be/faq/plus-delectricite-ou-de-gaz) · [FPS Economy: questions from households about electricity shortages](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door) · [FPS Economy: what is a load-shedding plan?](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/afschakeling/wat-een-afschakelplan) · [FPS Economy: when is the load-shedding plan activated?](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/afschakeling/wanneer-wordt-het) · [BBK: brochure Stromausfall](https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/Buergerinformationen/stromausfall-vorsorge-selbsthilfe.pdf?__blob=publicationFile&v=13)
 
 ## Prepare
 
@@ -97,18 +106,19 @@ Source: [National Crisis Center: disruption of electricity](https://crisiscenter
 
 - Make a list of everything in the house that runs on electricity and think about what you will do if it fails.
 - Find out which block of the load-shedding plan your address belongs to. The most reliable way is your network operator's website. FPS Economy also has an interactive map per municipality.
-- Register with BE-Alert. That way you will hear in good time about an impending shortage or a load-shedding.
+- Register with BE-Alert. That way you will hear in good time about an impending shortage or a load-shedding, as long as the mobile network or internet works.
+- Ask your municipal administration what arrangements your municipality has made for a load-shedding. Mayors and governors have prepared emergency measures, for example an information and reception point for the public.
 
 **Emergency kit for at least 72 hours**
 
-The Crisis Center recommends that you can manage on your own for at least three days. The German civil protection agency (BBK) aims for a few days up to ten days.
+Make sure you can manage on your own for at least three days.
 
-- Drinking water: 3 to 10 litres per person per day. Of this, 1.5 to 2 litres is for drinking, the rest for cooking, washing and the toilet.
+- Drinking water: allow 3 litres per person per day, for drinking and cooking. More if you can, for washing and the toilet.
 - Food that you can eat cold or prepare without electricity, gas or water, and a tin opener.
 - A torch, preferably a wind-up one. If it runs on batteries, have spare batteries.
 - A battery-powered or wind-up radio.
 - A charged power bank and a charger.
-- Cash for about 72 hours, because cash machines and payment terminals stop working. Denk vooruit (the Netherlands) gives a guideline amount of 70 euros per adult and 30 euros per child.
+- Cash for about 72 hours, for example 70 euros per adult and 30 euros per child, because cash machines and payment terminals stop working.
 - A stock of essential medicines for at least 72 hours.
 - Blankets and warm clothing for the winter.
 - A lighter or matches, candles or tealights.
@@ -119,7 +129,7 @@ The Crisis Center recommends that you can manage on your own for at least three 
 - Fully charge your mobile phone and power bank. Be aware that the phone network can also be disrupted.
 - Put a bag of ice cubes in the freezer. Afterwards you can use it to check whether the food has thawed.
 - Prepare cold meals and vacuum flasks of hot water, for example for babies' bottles.
-- Let your family and neighbours know.
+- Let your family and neighbours know. Agree how you will reach each other if the phone does not work.
 - Fill up your car: that way you stay mobile if petrol stations stop working.
 
 **Fire and carbon monoxide**
@@ -134,7 +144,7 @@ The Crisis Center recommends that you can manage on your own for at least three 
 - Only a qualified electrician may connect a generator to the household installation. Also notify your network operator.
 - A battery system or an existing solar panel installation can supply backup power, but only if it has been designed for this.
 
-Source: [National Crisis Center: disruption of electricity](https://crisiscenter.be/en/risks-belgium/societal-risks/failure-electricity-supply) · [National Crisis Center: OFF/ON brochure](https://crisiscentrum.be/sites/default/files/documents/files/OffOn-triptyque-N.pdf) · [National Crisis Center: emergency kit](https://crisiscenter.be/en/what-can-you-do/build-emergency-kit/emergency-kit-home) · [FPS Economy: which block does your municipality belong to?](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/afschakelplan/tot-welke-schijf-behoort-uw) · [BBK: Stromausfall](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Vorsorge/Stromausfall/stromausfall_node.html) · [BBK: brochure Stromausfall](https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/Buergerinformationen/stromausfall-vorsorge-selbsthilfe.pdf?__blob=publicationFile&v=13) · [Denk vooruit: questions and answers](https://www.denkvooruit.nl/site/binaries/site-content/collections/documents/2025/10/27/toolkit-denk-vooruit-campagne-najaar-2025/20251111-qa-denkvooruit-bronbestand.pdf) · [Ready.gov: power outages](https://www.ready.gov/power-outages)
+Source: [National Crisis Center: disruption of electricity](https://crisiscenter.be/en/risks-belgium/societal-risks/failure-electricity-supply) · [National Crisis Center: OFF/ON brochure](https://crisiscentrum.be/sites/default/files/documents/files/OffOn-triptyque-N.pdf) · [National Crisis Center: emergency kit](https://crisiscenter.be/en/what-can-you-do/build-emergency-kit/emergency-kit-home) · [National Crisis Center: a plan in your neighbourhood](https://crisiscenter.be/en/what-can-you-do/make-plan/plan-your-neighbourhood-association-or-club) · [FPS Economy: questions from households about electricity shortages](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door) · [FPS Economy: which block does your municipality belong to?](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/afschakelplan/tot-welke-schijf-behoort-uw) · [BBK: Stromausfall](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Vorsorge/Stromausfall/stromausfall_node.html) · [BBK: brochure Stromausfall](https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/Buergerinformationen/stromausfall-vorsorge-selbsthilfe.pdf?__blob=publicationFile&v=13) · [Denk vooruit: questions and answers](https://www.denkvooruit.nl/site/binaries/site-content/collections/documents/2025/10/27/toolkit-denk-vooruit-campagne-najaar-2025/20251111-qa-denkvooruit-bronbestand.pdf) · [Ready.gov: power outages](https://www.ready.gov/power-outages)
 
 ## During
 
@@ -155,8 +165,7 @@ Source: [National Crisis Center: disruption of electricity](https://crisiscenter
 **Fridge and freezer**
 
 - Open the fridge and freezer as little as possible.
-- According to the Crisis Center, food does not thaw during an interruption of 3 to 4 hours. If the freezer door stays closed, food can stay deep-frozen for 24 and even 36 hours.
-- The American health agency CDC puts it at about 4 hours for a closed fridge, 48 hours for a full freezer and 24 hours for a half-full one. In Belgium the advice of the Crisis Center applies.
+- Food does not thaw during an interruption of 3 to 4 hours. If the freezer door stays closed, food can stay deep-frozen for 24 and even 36 hours.
 
 **Staying warm**
 
@@ -164,6 +173,7 @@ Source: [National Crisis Center: disruption of electricity](https://crisiscenter
 - Live in one room and keep its doors closed. Heat the smallest room above all.
 - Warm clothing and blankets can replace the heating for a while.
 - Still air the room regularly, especially if candles are burning.
+- You can get together with other people to share light and warmth.
 
 **Cooking**
 
@@ -181,10 +191,11 @@ Source: [National Crisis Center: disruption of electricity](https://crisiscenter
 **Phone and information**
 
 - Follow the news on a battery-powered radio or the car radio.
-- Only phone if it is really necessary and send a text message instead. That way the network stays free for emergency calls.
+- If the mobile network still works, only phone if it is really necessary and send a text message instead. That way the network stays free for emergency calls.
 - A power cut in itself is not an emergency. Only call 112 if someone is in danger.
+- If you cannot get through, have someone else call or ask for help nearby, and follow the information from the authorities on the radio. See Emergency numbers in the app, If you cannot call.
 
-Source: [National Crisis Center: disruption of electricity](https://crisiscenter.be/en/risks-belgium/societal-risks/failure-electricity-supply) · [National Crisis Center: OFF/ON brochure](https://crisiscentrum.be/sites/default/files/documents/files/OffOn-triptyque-N.pdf) · [BBK: Stromausfall](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Vorsorge/Stromausfall/stromausfall_node.html) · [BBK: brochure Stromausfall](https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/Buergerinformationen/stromausfall-vorsorge-selbsthilfe.pdf?__blob=publicationFile&v=13) · [Denk vooruit: no power](https://www.denkvooruit.nl/risicos/risicos-in-nederland/geen-stroom) · [CDC: power outage](https://www.cdc.gov/natural-disasters/response/what-to-do-protect-yourself-during-a-power-outage.html) · [CDC: food safety](https://www.cdc.gov/food-safety/foods/keep-food-safe-after-emergency.html) · [Ready.gov: power outages](https://www.ready.gov/power-outages) · [Speel niet met vuur: CO](https://speelnietmetvuur.be/co/)
+Source: [National Crisis Center: disruption of electricity](https://crisiscenter.be/en/risks-belgium/societal-risks/failure-electricity-supply) · [National Crisis Center: OFF/ON brochure](https://crisiscentrum.be/sites/default/files/documents/files/OffOn-triptyque-N.pdf) · [National Crisis Center: emergency kit](https://crisiscenter.be/en/what-can-you-do/build-emergency-kit/emergency-kit-home) · [FPS Economy: questions from households about electricity shortages](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door) · [112.be: frequently asked questions](https://112.be/en/frequently-asked-questions) · [BBK: Stromausfall](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Vorsorge/Stromausfall/stromausfall_node.html) · [BBK: brochure Stromausfall](https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/Buergerinformationen/stromausfall-vorsorge-selbsthilfe.pdf?__blob=publicationFile&v=13) · [Denk vooruit: no power](https://www.denkvooruit.nl/risicos/risicos-in-nederland/geen-stroom) · [CDC: power outage](https://www.cdc.gov/natural-disasters/response/what-to-do-protect-yourself-during-a-power-outage.html) · [CDC: food safety](https://www.cdc.gov/food-safety/foods/keep-food-safe-after-emergency.html) · [Ready.gov: power outages](https://www.ready.gov/power-outages) · [Speel niet met vuur: CO](https://speelnietmetvuur.be/co/)
 
 ### Outdoors or on the move
 
@@ -213,7 +224,6 @@ Source: [National Crisis Center: make a plan](https://crisiscenter.be/en/what-ca
 ### Children
 
 - Include baby food, nappies and spare clothing in your emergency kit.
-- Have vacuum flasks of hot water ready for babies' bottles.
 - Practise in a playful way what you will do when the power goes off. Stay calm yourself and limit frightening images.
 
 Source: [National Crisis Center: emergency kit](https://crisiscenter.be/en/what-can-you-do/build-emergency-kit/emergency-kit-home) · [National Crisis Center: OFF/ON brochure](https://crisiscentrum.be/sites/default/files/documents/files/OffOn-triptyque-N.pdf) · [Denk vooruit: questions and answers](https://www.denkvooruit.nl/site/binaries/site-content/collections/documents/2025/10/27/toolkit-denk-vooruit-campagne-najaar-2025/20251111-qa-denkvooruit-bronbestand.pdf)
@@ -223,21 +233,22 @@ Source: [National Crisis Center: emergency kit](https://crisiscenter.be/en/what-
 **Dependent on medical equipment**
 
 - Make a plan in advance with your doctor or care provider for electrical medical devices and for medicines that must be kept cool.
-- Contact the supplier of your medical aids to discuss what happens in a power cut.
-- Ask your doctor how long your medicines can tolerate higher temperatures.
-- If you use home care, a personal alarm or meals on wheels, ask whether and how those services keep running during a long power cut. If someone lives in a residential care home, ask about the backup power arrangements.
+- Contact the supplier of your medical aids in advance to discuss what happens in a power cut.
+- Ask your doctor in advance how long your medicines can tolerate higher temperatures.
+- If you use home care, a personal alarm or meals on wheels, ask in advance whether and how those services keep running during a long power cut. A personal alarm can itself fail. If someone lives in a residential care home, ask about the backup power arrangements.
 - During the power cut, follow the plan you made with your care provider.
 
 **Medicines that must be kept cool**
 
-- The CDC recommends throwing away such liquid medicines after a day or more without power, unless the package leaflet says otherwise. Ask your doctor or pharmacist for a new supply as soon as possible.
+- Throw away such liquid medicines after a day or more without power, unless the package leaflet says otherwise. Ask your doctor or pharmacist for a new supply as soon as possible.
 - If a life depends on the medicine, keep using it until there is a new supply.
 
 **Neighbours**
 
-- Check whether neighbours need help. For example, you can lend a power bank to charge a phone.
+- Look out for neighbours or family who need extra help. If you cannot get through, go and see them.
+- For example, you can lend a power bank to charge a phone.
 
-Source: [Ready.gov: power outages](https://www.ready.gov/power-outages) · [Denk vooruit: no power](https://www.denkvooruit.nl/risicos/risicos-in-nederland/geen-stroom) · [BBK: brochure Stromausfall](https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/Buergerinformationen/stromausfall-vorsorge-selbsthilfe.pdf?__blob=publicationFile&v=13) · [CDC: power outage](https://www.cdc.gov/natural-disasters/response/what-to-do-protect-yourself-during-a-power-outage.html)
+Source: [Ready.gov: power outages](https://www.ready.gov/power-outages) · [Denk vooruit: no power](https://www.denkvooruit.nl/risicos/risicos-in-nederland/geen-stroom) · [BBK: brochure Stromausfall](https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/Buergerinformationen/stromausfall-vorsorge-selbsthilfe.pdf?__blob=publicationFile&v=13) · [CDC: power outage](https://www.cdc.gov/natural-disasters/response/what-to-do-protect-yourself-during-a-power-outage.html) · [Red Cross Flanders: power and communication outage](https://www.rodekruis.be/wat-doen-we/hulp-in-vlaanderen/goed-voorbereid/stroom-en-communicatie-uitval/) · [National Crisis Center: OFF/ON brochure](https://crisiscentrum.be/sites/default/files/documents/files/OffOn-triptyque-N.pdf)
 
 ### Pets and animals
 
@@ -256,7 +267,7 @@ Source: [National Crisis Center: emergency kit](https://crisiscenter.be/en/what-
 
 - Check the bag of ice cubes. If the ice has melted and frozen again, the food has probably gone off.
 - Throw food away at the slightest doubt about spoilage, or if it has a strange smell, colour or texture.
-- According to the CDC, thawed frozen food that still contains ice crystals or is still 4 °C or colder may be refrozen or cooked.
+- Thawed frozen food that still contains ice crystals or is still 4 °C or colder may be refrozen or cooked.
 - Throw away perishable food that has been without refrigeration for 4 hours or longer: meat, fish, cut vegetables and fruit, eggs, milk and leftovers. Throw away thawed frozen food that is warmer than 4 °C.
 - A thermometer in the fridge and freezer helps you to judge this.
 
@@ -274,15 +285,18 @@ Source: [National Crisis Center: disruption of electricity](https://crisiscenter
 - Do not leave candles burning unattended.
 - Do not connect a generator to the household installation yourself.
 - Do not call 112 for information about the power cut. In the past this has overloaded the emergency numbers.
+- Do not call 112 just because your mobile phone shows the message "network not available, emergency calls only".
 - Do not switch on all appliances at once after the power is restored.
 
-Source: [Speel niet met vuur: CO](https://speelnietmetvuur.be/co/) · [CDC: power outage](https://www.cdc.gov/natural-disasters/response/what-to-do-protect-yourself-during-a-power-outage.html) · [BBK: brochure Stromausfall](https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/Buergerinformationen/stromausfall-vorsorge-selbsthilfe.pdf?__blob=publicationFile&v=13) · [National Crisis Center: OFF/ON brochure](https://crisiscentrum.be/sites/default/files/documents/files/OffOn-triptyque-N.pdf)
+Source: [Speel niet met vuur: CO](https://speelnietmetvuur.be/co/) · [CDC: power outage](https://www.cdc.gov/natural-disasters/response/what-to-do-protect-yourself-during-a-power-outage.html) · [BBK: brochure Stromausfall](https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/Buergerinformationen/stromausfall-vorsorge-selbsthilfe.pdf?__blob=publicationFile&v=13) · [National Crisis Center: OFF/ON brochure](https://crisiscentrum.be/sites/default/files/documents/files/OffOn-triptyque-N.pdf) · [112.be: frequently asked questions](https://112.be/en/frequently-asked-questions)
 
 ## More information
 
+To read in advance, or if the internet works:
+
 - National Crisis Center on disruption of electricity and the load-shedding plan.
-- FPS Economy: how the load-shedding plan works and which block your municipality belongs to.
+- FPS Economy: how the load-shedding plan works, which block your municipality belongs to and what happens to telephony.
 - Your network operator (Fluvius, ORES, Sibelga or RESA) for faults and the map of current interruptions.
 - BE-Alert to be warned.
 
-Source: [National Crisis Center: disruption of electricity](https://crisiscenter.be/en/risks-belgium/societal-risks/failure-electricity-supply) · [FPS Economy: what is a load-shedding plan?](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/afschakeling/wat-een-afschakelplan) · [ORES](https://www.ores.be/faq/plus-delectricite-ou-de-gaz) · [BE-Alert](https://www.be-alert.be/en)
+Source: [National Crisis Center: disruption of electricity](https://crisiscenter.be/en/risks-belgium/societal-risks/failure-electricity-supply) · [FPS Economy: what is a load-shedding plan?](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/afschakeling/wat-een-afschakelplan) · [FPS Economy: questions from households about electricity shortages](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door) · [ORES](https://www.ores.be/faq/plus-delectricite-ou-de-gaz) · [BE-Alert](https://www.be-alert.be/en)

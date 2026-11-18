@@ -3,7 +3,7 @@ titel: Fractures, entorses et luxations
 volgorde: 8
 kort: "Immobilisez la blessure dans la position où vous la trouvez, refroidissez 20 minutes maximum et ne remettez jamais rien en place vous-même."
 status: concept
-datum: "2026-11-17"
+datum: "2026-11-18"
 bronnen:
   - naam: "Gezondheid en Wetenschap (Rode Kruis-Vlaanderen) : Premiers secours en cas de fractures"
     url: https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-breuken
@@ -13,8 +13,12 @@ bronnen:
     url: https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-ontwrichting
   - naam: "IFRC : International first aid, resuscitation, and education guidelines 2020"
     url: https://www.ifrc.org/sites/default/files/2022-02/EN_GFARC_GUIDELINES_2020.pdf
+  - naam: "European Resuscitation Council Guidelines 2021 : First aid"
+    url: https://cprguidelines-old.erc.edu/assets/guidelines/European-Resuscitation-Council-Guidelines-2021-Fi.pdf
+  - naam: "112.be : Questions fréquentes"
+    url: https://112.be/fr/questions-frequentes
 vertaling: machine
-origineel_datum: "2026-11-17"
+origineel_datum: "2026-11-18"
 ---
 
 ## Reconnaître
@@ -60,7 +64,7 @@ Source : [Gezondheid en Wetenschap : Fractures](https://www.gezondheidenwetensch
 4. Refroidissez la blessure pendant 20 minutes maximum, avec des glaçons dans un sachet d'eau ou une poche de froid. Si vous n'avez pas de glace, utilisez de l'eau froide. Enveloppez la glace dans un tissu fin et ne la posez jamais directement sur la peau.
 5. Arrêtez de refroidir si cela gêne la victime. Si la douleur revient, vous pouvez refroidir à nouveau dès que la peau a retrouvé une température normale.
 6. Vérifiez s'il y a une hémorragie, externe ou interne, et soyez attentif aux signes de choc, surtout en cas de fracture du fémur (voir le sujet 6).
-7. Appelez le 112 en cas de fracture de la jambe, de la cheville ou du pied. En cas de fracture fermée du bras, du poignet ou de la main, la victime peut se rendre elle-même à l'hôpital.
+7. Appelez le 112 ou faites appeler en cas de fracture de la jambe, de la cheville ou du pied. Si l'appel ne passe pas, voir Appelez le 112 si. En cas de fracture fermée du bras, du poignet ou de la main, la victime peut se rendre elle-même à l'hôpital.
 8. Notez l'heure de la blessure. Cela aide le médecin.
 
 ### Fracture ouverte
@@ -69,7 +73,7 @@ Source : [Gezondheid en Wetenschap : Fractures](https://www.gezondheidenwetensch
 2. Humidifiez une compresse stérile avec de l'eau ou avec un désinfectant aqueux non colorant et couvrez-en la fracture.
 3. Ne mettez pas de glace sur une fracture ouverte.
 4. Immobilisez le membre et traitez le choc.
-5. Appelez le 112.
+5. Appelez le 112 ou faites appeler.
 
 ### Entorse
 
@@ -102,7 +106,7 @@ Source : [Gezondheid en Wetenschap : Fractures](https://www.gezondheidenwetensch
 - Refroidissez à plusieurs reprises si la douleur revient, chaque fois pendant 20 minutes maximum et seulement lorsque la peau a retrouvé une chaleur normale.
 - En cas de fracture d'un gros os, surveillez les signes de choc et gardez la victime couchée et au chaud.
 - Soyez attentif aux troubles de la sensibilité, comme des picotements, des fourmillements ou un pied engourdi, et aux signes d'un syndrome des loges. Ce sont des raisons de consulter un médecin.
-- L'IFRC mentionne qu'un secouriste formé, dans un environnement isolé, envisage de réaligner une fracture fortement déformée si le membre est froid et pâle au-delà de la fracture. La recommandation belge dit : ne remettez jamais droit une articulation ou un membre en position anormale. Suivez la recommandation belge.
+- Ne remettez jamais droit une articulation ou un membre en position anormale.
 - Les luxations et les fractures doivent toujours être traitées par un professionnel de santé. Cherchez ces soins dès que possible.
 
 Source : [IFRC Guidelines 2020](https://www.ifrc.org/sites/default/files/2022-02/EN_GFARC_GUIDELINES_2020.pdf) · [Gezondheid en Wetenschap : Fractures](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-breuken) · [Gezondheid en Wetenschap : Luxation](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-ontwrichting)
@@ -117,7 +121,12 @@ Source : [IFRC Guidelines 2020](https://www.ifrc.org/sites/default/files/2022-02
 
 Consultez un médecin si le gonflement est très prononcé, si le membre est dans une position anormale ou anormalement mobile ou immobile, s'il y a des troubles de la sensibilité (picotements, fourmillements, pied engourdi), si la douleur ne passe pas après 20 minutes de refroidissement ou s'il y a des signes d'un syndrome des loges.
 
-Source : [Gezondheid en Wetenschap : Fractures](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-breuken) · [Gezondheid en Wetenschap : Entorse](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-verstuiking) · [Gezondheid en Wetenschap : Luxation](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-ontwrichting) · [IFRC Guidelines 2020](https://www.ifrc.org/sites/default/files/2022-02/EN_GFARC_GUIDELINES_2020.pdf)
+**Si l'appel ne passe pas**
+
+- Ne laissez la victime seule que s'il n'y a pas d'autre possibilité. Désignez directement un témoin pour aller chercher de l'aide et indiquez-lui où c'est, ce qui s'est passé, combien de victimes il y a et dans quel état elles sont.
+- Voir aussi le sujet 1 (Si l'appel ne passe pas : chercher de l'aide sans téléphone) et Numéros d'urgence dans l'application, Si l'appel ne passe pas.
+
+Source : [Gezondheid en Wetenschap : Fractures](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-breuken) · [Gezondheid en Wetenschap : Entorse](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-verstuiking) · [Gezondheid en Wetenschap : Luxation](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-ontwrichting) · [IFRC Guidelines 2020](https://www.ifrc.org/sites/default/files/2022-02/EN_GFARC_GUIDELINES_2020.pdf) · [ERC Guidelines 2021 : First aid](https://cprguidelines-old.erc.edu/assets/guidelines/European-Resuscitation-Council-Guidelines-2021-Fi.pdf) · [112.be : Questions fréquentes](https://112.be/fr/questions-frequentes)
 
 ## À ne pas faire
 
