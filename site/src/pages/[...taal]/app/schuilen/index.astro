@@ -1,5 +1,6 @@
 ---
 import App from '../../../../layouts/App.astro';
+import Bronnenlijst from '../../../../components/Bronnenlijst.astro';
 import GidsLijst from '../../../../components/GidsLijst.astro';
 import { landenVoor } from '../../../../lib/data';
 import { SCHUIL_LABEL } from '../../../../lib/lagen';
@@ -12,12 +13,11 @@ const landen = landenVoor(taal);
 const tl = APP[taal].landen;
 const netwerk = (x: boolean | null) => (x ? tl.netwerk.ja : x === false ? tl.netwerk.nee : tl.netwerk.onbekend);
 ---
-<App taal={taal} titel={t.titel} tab="meer" vertaalmelding>
+<App taal={taal} titel={t.titel} tab="meer">
   <h1>{t.titel}</h1>
   {landen.map((land) => (
     <div class="melding waarschuwing" data-land={land.code}>
       <strong>{land.naam}:</strong> <span lang={land.schuilen.advies.lang !== taal ? land.schuilen.advies.lang : undefined}>{land.schuilen.advies.tekst}</span>
-      <div class="klein"><a href={land.schuilen.bron}>{t.bron}</a>{land.schuilen.netwerk_bron && <> · <a href={land.schuilen.netwerk_bron}>{tl.netwerkBron}</a></>}</div>
     </div>
   ))}
 
@@ -31,7 +31,6 @@ const netwerk = (x: boolean | null) => (x ? tl.netwerk.ja : x === false ? tl.net
       <tbody>{t.dreigingen.map(([d, w, n]) => <tr><th scope="row">{d}</th><td>{w}</td><td>{n}</td></tr>)}</tbody>
     </table>
   </div>
-  <p class="klein" set:html={t.overzichtBron} />
 
   <h2>{t.huisTitel}</h2>
   <p class="dempen">{t.huisUitleg}</p>
@@ -46,6 +45,7 @@ const netwerk = (x: boolean | null) => (x ? tl.netwerk.ja : x === false ? tl.net
   <p>{t.labelUitleg} <em>{SCHUIL_LABEL[taal]}</em></p>
   <div class="knoppen"><a class="knop" href={pad(taal, '/app/kaart/?laag=schuilplekken')}>{t.toonKaart}</a></div>
   <p class="klein">{t.aanvullen}</p>
+  <Bronnenlijst taal={taal} bronnen={[...landen.flatMap((land) => [{ url: land.schuilen.bron, land: land.code }, { url: land.schuilen.netwerk_bron, land: land.code }]), 'https://www.berlin.de/ba-tempelhof-schoeneberg/service/bevoelkerungsschutz/artikel.1656638.php']} />
 </App>
 <script>
   import { vinklijsten } from '../../../../lib/app';

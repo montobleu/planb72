@@ -8,20 +8,9 @@ const taal = taalVan(Astro.params);
 const t = APP[taal].start;
 const landen = landenVoor(taal);
 const tl = APP[taal].landen;
-// Het politienummer per land: een dringend nummer (niet 112) waarvan de omschrijving over politie gaat.
-const politieVan = (l: (typeof landen)[number]) =>
-  l.noodnummers.find((n) => n.dringend && n.nummer !== '112' && /politi|police|polizei/i.test(n.wat.tekst));
 ---
 <App taal={taal} titel={t.titel} tab="start">
   <h1 class="sr-only">PlanB72</h1>
-  <div class="melding gevaar" style="margin-top:1rem">
-    <Fragment set:html={APP[taal].algemeen.levensgevaar} />{' '}
-    {landen.map((l) => {
-      const n = politieVan(l);
-      return n && <span data-land={l.code}>{tl.politie(l.naam)} <a href={`tel:${n.nummer.replace(/[\s-]/g, '')}`}>{n.nummer}</a>. </span>;
-    })}
-    {t.vervangt}
-  </div>
 
   <div id="pakket-melding" class="melding" hidden>
     <strong>{t.pakketTitel}</strong> {landen.map((l) => <span data-land={l.code}>{t.pakketTekst(l.naam)} </span>)}
@@ -39,7 +28,6 @@ const politieVan = (l: (typeof landen)[number]) =>
     </section>
   ))}
 
-  {taal !== 'nl' && <p class="vertaalmelding klein" role="note" style="margin-top:1.5rem">{APP[taal].algemeen.interfaceVertaald}</p>}
   <p class="klein" style="margin-top:1.5rem">
     {landen.map((l) => <span data-land={l.code}>{t.voet(l.naam, l.bijgewerkt)} · </span>)}
     <a href={pad(taal, '/app/pakket/#landen')}>{tl.anderLand}</a>

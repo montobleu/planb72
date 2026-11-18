@@ -1,6 +1,7 @@
 ---
 import App from '../../../../layouts/App.astro';
 import GidsLinks from '../../../../components/GidsLinks.astro';
+import Bronnenlijst from '../../../../components/Bronnenlijst.astro';
 import { APP } from '../../../../i18n/app';
 import { taalPaden, taalVan } from '../../../../i18n/talen';
 export const getStaticPaths = taalPaden;
@@ -9,7 +10,7 @@ const t = APP[taal].signalen;
 const morse: Record<string, string> = { A: '.-', B: '-...', C: '-.-.', D: '-..', E: '.', F: '..-.', G: '--.', H: '....', I: '..', J: '.---', K: '-.-', L: '.-..', M: '--', N: '-.', O: '---', P: '.--.', Q: '--.-', R: '.-.', S: '...', T: '-', U: '..-', V: '...-', W: '.--', X: '-..-', Y: '-.--', Z: '--..', '0': '-----', '1': '.----', '2': '..---', '3': '...--', '4': '....-', '5': '.....', '6': '-....', '7': '--...', '8': '---..', '9': '----.' };
 const nato = ['Alfa', 'Bravo', 'Charlie', 'Delta', 'Echo', 'Foxtrot', 'Golf', 'Hotel', 'India', 'Juliett', 'Kilo', 'Lima', 'Mike', 'November', 'Oscar', 'Papa', 'Quebec', 'Romeo', 'Sierra', 'Tango', 'Uniform', 'Victor', 'Whiskey', 'X-ray', 'Yankee', 'Zulu'];
 ---
-<App taal={taal} titel={t.titel} tab="meer" vertaalmelding>
+<App taal={taal} titel={t.titel} tab="meer">
   <h1>{t.titel}</h1>
 
   <h2>{t.sosTitel}</h2>
@@ -52,6 +53,7 @@ const nato = ['Alfa', 'Bravo', 'Charlie', 'Delta', 'Echo', 'Foxtrot', 'Golf', 'H
   </tbody></table></div>
   <p class="klein" id="morse-data" data-morse={JSON.stringify(morse)}>{t.vrij}</p>
   <GidsLinks taal={taal} ids={['signalen-en-noodcodes', 'communicatie-en-alarmering']} />
+  <Bronnenlijst taal={taal} bronnen={['https://www.iaru-r1.org/index.php/emergency-communications/emergency-communications-frequencies']} />
 </App>
 <script>
   import { klant } from '../../../../i18n/klant';

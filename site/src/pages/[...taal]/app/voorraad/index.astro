@@ -1,6 +1,7 @@
 ---
 import App from '../../../../layouts/App.astro';
 import GidsLinks from '../../../../components/GidsLinks.astro';
+import Bronnenlijst from '../../../../components/Bronnenlijst.astro';
 import { landenVoor } from '../../../../lib/data';
 import { APP } from '../../../../i18n/app';
 import { pad, taalPaden, taalVan } from '../../../../i18n/talen';
@@ -8,53 +9,30 @@ export const getStaticPaths = taalPaden;
 const taal = taalVan(Astro.params);
 const t = APP[taal].voorraad;
 const landen = landenVoor(taal);
-const tl = APP[taal].landen;
-const water = Object.fromEntries(landen.map((x) => [x.code, x.voorraad.water_liter_pp_per_dag]));
-const namen = Object.fromEntries(landen.map((x) => [x.code, x.naam]));
-const isUrl = (s: string) => /^https?:\/\//.test(s);
 ---
-<App taal={taal} titel={t.titel} tab="meer" vertaalmelding>
+<App taal={taal} titel={t.titel} tab="meer">
   <h1>{t.titel}</h1>
   <p class="dempen">{t.uitleg}</p>
-  <form id="planner" class="kaart-blok" data-water={JSON.stringify(water)} data-namen={JSON.stringify(namen)}>
+  <form id="planner" class="kaart-blok">
     <label for="mensen">{t.mensen}</label><input id="mensen" type="number" min="1" max="50" value="2" inputmode="numeric" />
     <label for="dieren">{t.dieren}</label><input id="dieren" type="number" min="0" max="50" value="0" inputmode="numeric" />
     <label for="dagen">{t.dagen}</label>
     <select id="dagen">{t.opties.map(([w, tekst]) => <option value={w} selected={w === '3'}>{tekst}</option>)}</select>
   </form>
   <div id="uitkomst" class="kaart-blok" aria-live="polite"></div>
-  <p class="klein" id="rekenland"></p>
-  {landen.map((x) => {
-    const v = x.voorraad;
-    return (
-      <p class="klein" data-land={x.code}>
-        <strong>{x.naam}:</strong> {tl.water(v.water_liter_pp_per_dag)}. {t.waarde} {isUrl(v.water_bron.tekst) ? <a href={v.water_bron.tekst}>{APP[taal].algemeen.bron}</a> : <span lang={v.water_bron.lang !== taal ? v.water_bron.lang : undefined}>{v.water_bron.tekst}</span>}.
-        {v.advies_uren && <> {tl.voorbereid(v.advies_uren)} (<a href={v.advies_bron}>{APP[taal].algemeen.bron}</a>).</>}
-        {' '}<span class="label onbevestigd" lang={v.water_status.lang !== taal ? v.water_status.lang : undefined}>{v.water_status.tekst}</span>
-      </p>
-    );
-  })}
+  <p>{t.basis}</p>
   <p class="klein">{t.dierenNoot}</p>
   <p set:html={t.meer(pad(taal, '/app/checklists/'))} />
   <GidsLinks taal={taal} ids={['noodvoorraad', 'water', 'voedsel-zonder-stroom', 'medicatie-en-zorg']} />
+  <Bronnenlijst taal={taal} bronnen={landen.flatMap((x) => [x.voorraad.water_bron.tekst, x.voorraad.advies_bron])} />
 </App>
 <script>
   import { lees, bewaar } from '../../../../lib/app';
   import { klant, locale } from '../../../../i18n/klant';
   const tk = klant().voorraad;
-  import { hoofdland } from '../../../../lib/landkeuze';
   const form = document.getElementById('planner') as HTMLFormElement;
-  const water: Record<string, number | null> = JSON.parse(form.dataset.water!);
-  const namen: Record<string, string> = JSON.parse(form.dataset.namen!);
-  // De planner rekent met de waarde van het eerste gekozen land (het hoofdland).
-  let perDag = 0;
-  function kiesWaarde() {
-    const land = hoofdland();
-    perDag = Number(water[land] ?? Object.values(water).find((w) => w != null));
-    document.getElementById('rekenland')!.textContent = klant().landen.rekenland(namen[land] ?? land);
-  }
-  kiesWaarde();
-  document.addEventListener('pb72-landen', () => { kiesWaarde(); reken(); });
+  // Eén algemene waarde: de Europese overheden raden 2 tot 3 liter per persoon per dag aan; we rekenen met 3.
+  const perDag = 3;
   const veld = (id: string) => document.getElementById(id) as HTMLInputElement;
   const bewaard = lees('voorraad', { mensen: 2, dieren: 0, dagen: 3 });
   veld('mensen').value = String(bewaard.mensen); veld('dieren').value = String(bewaard.dieren); veld('dagen').value = String(bewaard.dagen);

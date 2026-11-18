@@ -1,4 +1,5 @@
 ---
+import Bronnenlijst from '../../../../components/Bronnenlijst.astro';
 import App from '../../../../layouts/App.astro';
 import GidsLinks from '../../../../components/GidsLinks.astro';
 import { landenVoor } from '../../../../lib/data';
@@ -11,7 +12,7 @@ const landen = landenVoor(taal);
 const tl = APP[taal].landen;
 const l = (x: { lang: string }) => (x.lang !== taal ? x.lang : undefined);
 ---
-<App taal={taal} titel={t.titel} tab="meer" vertaalmelding>
+<App taal={taal} titel={t.titel} tab="meer">
   <h1>{t.h1}</h1>
   <p class="dempen">{t.uitleg} <Fragment set:html={tl.welke(pad(taal, '/app/pakket/#landen'))} /></p>
   {landen.map((land) => (
@@ -28,7 +29,7 @@ const l = (x: { lang: string }) => (x.lang !== taal ? x.lang : undefined);
         <div class="kaart-blok">
           <h4 style="margin:0 0 .3rem">{k.naam} <span class="label" lang={l(k.soort)}>{k.soort.tekst}</span></h4>
           <p lang={l(k.wat)}>{k.wat.tekst}</p>
-          <p class="klein">{k.url && <><a href={k.url}>{k.url.replace(/^https?:\/\//, '').replace(/\/$/, '')}</a> · </>}<a href={k.bron}>{APP[taal].algemeen.bron}</a></p>
+          <p class="klein">{k.url && <a href={k.url}>{k.url.replace(/^https?:\/\//, '').replace(/\/$/, '')}</a>}</p>
         </div>
       ))}
       {land.code === 'be' && <div class="melding" set:html={t.echtheid} />}
@@ -36,6 +37,7 @@ const l = (x: { lang: string }) => (x.lang !== taal ? x.lang : undefined);
   ))}
   <p class="klein">{t.tijdelijk}</p>
   <GidsLinks taal={taal} ids={['communicatie-en-alarmering', 'noodoproep']} />
+  <Bronnenlijst taal={taal} bronnen={landen.flatMap((land) => land.kanalen.map((k) => ({ url: k.bron, land: land.code })))} />
 </App>
 <script>
   import { vinklijsten } from '../../../../lib/app';
