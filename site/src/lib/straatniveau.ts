@@ -59,6 +59,8 @@ export function volgStraatniveau(kaart: maplibregl.Map, { pakketten, aanwezig, l
 
   function bijwerken() {
     if (!navigator.onLine || kaart.getZoom() < VANAF_ZOOM) return;
+    // De kaart kan al bewegen (bv. inzoomen op een route) voor de stijl geladen is; dan nog niets toevoegen.
+    if (!kaart.getStyle()) return;
     const beeld = kaart.getBounds();
     const nodig = regios.filter((p) => snijdt(p.bbox, beeld) && !aanwezig.has(p.id));
     for (const p of nodig) {
