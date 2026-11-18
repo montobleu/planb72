@@ -253,6 +253,13 @@ import RoutePakketten from '../../../../components/RoutePakketten.astro';
       uit.push([tl.groepStraat(naam), lijst.filter((p) => p.land === c && p.groep === 'regio')]);
     }
     uit.push([tl.andere, lijst.filter((p) => p.land && !gekozen.includes(p.land) && lokaal.has(p.id))]);
+    // Bestanden op het toestel die niet meer in de lijst staan (bv. straatniveau zoom 14, vervangen door 15).
+    const ids = new Set(lijst.map((p) => p.id));
+    const oud = [...lokaal.keys()].filter((id) => !ids.has(id)).map((id): Kaartpakket => {
+      const bestand = lokaal.get(id);
+      return { id, naam: id, omschrijving: '', groep: 'regio', bbox: [0, 0, 0, 0], maxzoom: Number(/z(\d+)$/.exec(id)?.[1] ?? 0), zak: false, bytes: bestand instanceof File ? bestand.size : 0, pad: `/data/${id}.pmtiles` };
+    });
+    uit.push([tl.verouderd, oud]);
     return uit.filter(([, l]) => l.length);
   }
   const lopend = new Map<string, AbortController>();

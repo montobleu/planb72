@@ -1,5 +1,151 @@
 {
  "landen": {
+  "be": [
+   {
+    "id": "be-wvl-z15",
+    "naam": "West-Vlaanderen, straatniveau",
+    "omschrijving": "Straten, gebouwen en paden",
+    "groep": "regio",
+    "land": "be",
+    "bbox": [
+     2.54,
+     50.68,
+     3.47,
+     51.38
+    ],
+    "maxzoom": 15,
+    "zak": false,
+    "schatting": 131000000
+   },
+   {
+    "id": "be-ovl-z15",
+    "naam": "Oost-Vlaanderen, straatniveau",
+    "omschrijving": "Straten, gebouwen en paden",
+    "groep": "regio",
+    "land": "be",
+    "bbox": [
+     3.33,
+     50.71,
+     4.33,
+     51.35
+    ],
+    "maxzoom": 15,
+    "zak": false,
+    "schatting": 172000000
+   },
+   {
+    "id": "be-ant-z15",
+    "naam": "Antwerpen, straatniveau",
+    "omschrijving": "Straten, gebouwen en paden",
+    "groep": "regio",
+    "land": "be",
+    "bbox": [
+     4.1,
+     51.0,
+     5.25,
+     51.51
+    ],
+    "maxzoom": 15,
+    "zak": false,
+    "schatting": 138000000
+   },
+   {
+    "id": "be-lim-z15",
+    "naam": "Limburg, straatniveau",
+    "omschrijving": "Straten, gebouwen en paden",
+    "groep": "regio",
+    "land": "be",
+    "bbox": [
+     4.95,
+     50.68,
+     5.92,
+     51.26
+    ],
+    "maxzoom": 15,
+    "zak": false,
+    "schatting": 140000000
+   },
+   {
+    "id": "be-bra-z15",
+    "naam": "Brabant en Brussel, straatniveau",
+    "omschrijving": "Vlaams-Brabant, Brussel en Waals-Brabant",
+    "groep": "regio",
+    "land": "be",
+    "bbox": [
+     3.98,
+     50.53,
+     5.17,
+     51.06
+    ],
+    "maxzoom": 15,
+    "zak": false,
+    "schatting": 154000000
+   },
+   {
+    "id": "be-hen-z15",
+    "naam": "Henegouwen, straatniveau",
+    "omschrijving": "Straten, gebouwen en paden",
+    "groep": "regio",
+    "land": "be",
+    "bbox": [
+     3.1,
+     50.0,
+     4.62,
+     50.82
+    ],
+    "maxzoom": 15,
+    "zak": false,
+    "schatting": 228000000
+   },
+   {
+    "id": "be-nam-z15",
+    "naam": "Namen, straatniveau",
+    "omschrijving": "Straten, gebouwen en paden",
+    "groep": "regio",
+    "land": "be",
+    "bbox": [
+     4.3,
+     49.79,
+     5.41,
+     50.66
+    ],
+    "maxzoom": 15,
+    "zak": false,
+    "schatting": 109000000
+   },
+   {
+    "id": "be-lui-z15",
+    "naam": "Luik, straatniveau",
+    "omschrijving": "Straten, gebouwen en paden",
+    "groep": "regio",
+    "land": "be",
+    "bbox": [
+     5.02,
+     50.12,
+     6.41,
+     50.82
+    ],
+    "maxzoom": 15,
+    "zak": false,
+    "schatting": 155000000
+   },
+   {
+    "id": "be-lux-z15",
+    "naam": "Luxemburg (provincie), straatniveau",
+    "omschrijving": "Straten, gebouwen en paden",
+    "groep": "regio",
+    "land": "be",
+    "bbox": [
+     4.96,
+     49.49,
+     6.05,
+     50.43
+    ],
+    "maxzoom": 15,
+    "zak": false,
+    "schatting": 113000000
+   }
+  ],
   "de": [
    {
     "id": "de-z9",
@@ -8,10 +154,10 @@
     "groep": "land",
     "land": "de",
     "bbox": [
-     5.866,
+     5.87,
      47.27,
-     15.042,
-     55.099
+     15.04,
+     55.1
     ],
     "maxzoom": 9,
     "zak": true,
@@ -274,23 +420,71 @@
     "schatting": 57000000
    },
    {
-    "id": "de-bb-z14",
-    "naam": "Brandenburg, straatniveau",
+    "id": "de-bb-noordwest-z15",
+    "naam": "Brandenburg noordwest, straatniveau",
+    "omschrijving": "Straten, gebouwen en paden",
+    "groep": "regio",
+    "land": "de",
+    "bbox": [
+     11.266,
+     52.459,
+     13.016,
+     53.559
+    ],
+    "maxzoom": 15,
+    "zak": false,
+    "schatting": 114000000
+   },
+   {
+    "id": "de-bb-noordoost-z15",
+    "naam": "Brandenburg noordoost, straatniveau",
+    "omschrijving": "Straten, gebouwen en paden",
+    "groep": "regio",
+    "land": "de",
+    "bbox": [
+     13.016,
+     52.459,
+     14.766,
+     53.559
+    ],
+    "maxzoom": 15,
+    "zak": false,
+    "schatting": 170000000
+   },
+   {
+    "id": "de-bb-zuidwest-z15",
+    "naam": "Brandenburg zuidwest, straatniveau",
     "omschrijving": "Straten, gebouwen en paden",
     "groep": "regio",
     "land": "de",
     "bbox": [
      11.266,
      51.359,
-     14.766,
-     53.559
+     13.016,
+     52.459
     ],
-    "maxzoom": 14,
+    "maxzoom": 15,
     "zak": false,
-    "schatting": 275000000
+    "schatting": 157000000
    },
    {
-    "id": "de-be-z14",
+    "id": "de-bb-zuidoost-z15",
+    "naam": "Brandenburg zuidoost, straatniveau",
+    "omschrijving": "Straten, gebouwen en paden",
+    "groep": "regio",
+    "land": "de",
+    "bbox": [
+     13.016,
+     51.359,
+     14.766,
+     52.459
+    ],
+    "maxzoom": 15,
+    "zak": false,
+    "schatting": 157000000
+   },
+   {
+    "id": "de-be-z15",
     "naam": "Berlijn, straatniveau",
     "omschrijving": "Straten, gebouwen en paden",
     "groep": "regio",
@@ -301,13 +495,29 @@
      13.761,
      52.676
     ],
-    "maxzoom": 14,
+    "maxzoom": 15,
     "zak": false,
-    "schatting": 31000000
+    "schatting": 81000000
    },
    {
-    "id": "de-freiburg-z14",
-    "naam": "Freiburg, straatniveau",
+    "id": "de-freiburg-noord-z15",
+    "naam": "Freiburg noord, straatniveau",
+    "omschrijving": "Straten, gebouwen en paden; Baden-Württemberg",
+    "groep": "regio",
+    "land": "de",
+    "bbox": [
+     7.512,
+     48.125,
+     9.218,
+     48.718
+    ],
+    "maxzoom": 15,
+    "zak": false,
+    "schatting": 154000000
+   },
+   {
+    "id": "de-freiburg-zuid-z15",
+    "naam": "Freiburg zuid, straatniveau",
     "omschrijving": "Straten, gebouwen en paden; Baden-Württemberg",
     "groep": "regio",
     "land": "de",
@@ -315,15 +525,31 @@
      7.512,
      47.532,
      9.218,
-     48.718
+     48.125
     ],
-    "maxzoom": 14,
+    "maxzoom": 15,
     "zak": false,
-    "schatting": 151000000
+    "schatting": 165000000
    },
    {
-    "id": "de-karlsruhe-z14",
-    "naam": "Karlsruhe, straatniveau",
+    "id": "de-karlsruhe-noord-z15",
+    "naam": "Karlsruhe noord, straatniveau",
+    "omschrijving": "Straten, gebouwen en paden; Baden-Württemberg",
+    "groep": "regio",
+    "land": "de",
+    "bbox": [
+     7.959,
+     48.983,
+     9.604,
+     49.664
+    ],
+    "maxzoom": 15,
+    "zak": false,
+    "schatting": 194000000
+   },
+   {
+    "id": "de-karlsruhe-zuid-z15",
+    "naam": "Karlsruhe zuid, straatniveau",
     "omschrijving": "Straten, gebouwen en paden; Baden-Württemberg",
     "groep": "regio",
     "land": "de",
@@ -331,15 +557,31 @@
      7.959,
      48.301,
      9.604,
-     49.664
+     48.983
     ],
-    "maxzoom": 14,
+    "maxzoom": 15,
     "zak": false,
-    "schatting": 176000000
+    "schatting": 199000000
    },
    {
-    "id": "de-stuttgart-z14",
-    "naam": "Stuttgart, straatniveau",
+    "id": "de-stuttgart-noord-z15",
+    "naam": "Stuttgart noord, straatniveau",
+    "omschrijving": "Straten, gebouwen en paden; Baden-Württemberg",
+    "groep": "regio",
+    "land": "de",
+    "bbox": [
+     8.746,
+     49.144,
+     10.496,
+     49.791
+    ],
+    "maxzoom": 15,
+    "zak": false,
+    "schatting": 147000000
+   },
+   {
+    "id": "de-stuttgart-zuid-z15",
+    "naam": "Stuttgart zuid, straatniveau",
     "omschrijving": "Straten, gebouwen en paden; Baden-Württemberg",
     "groep": "regio",
     "land": "de",
@@ -347,14 +589,14 @@
      8.746,
      48.497,
      10.496,
-     49.791
+     49.144
     ],
-    "maxzoom": 14,
+    "maxzoom": 15,
     "zak": false,
-    "schatting": 163000000
+    "schatting": 195000000
    },
    {
-    "id": "de-tubingen-z14",
+    "id": "de-tubingen-z15",
     "naam": "Tübingen, straatniveau",
     "omschrijving": "Straten, gebouwen en paden; Baden-Württemberg",
     "groep": "regio",
@@ -365,12 +607,12 @@
      10.242,
      48.632
     ],
-    "maxzoom": 14,
+    "maxzoom": 15,
     "zak": false,
-    "schatting": 113000000
+    "schatting": 226000000
    },
    {
-    "id": "de-mittelfranken-z14",
+    "id": "de-mittelfranken-z15",
     "naam": "Mittelfranken, straatniveau",
     "omschrijving": "Straten, gebouwen en paden; Beieren",
     "groep": "regio",
@@ -381,12 +623,12 @@
      11.602,
      49.788
     ],
-    "maxzoom": 14,
+    "maxzoom": 15,
     "zak": false,
-    "schatting": 84000000
+    "schatting": 163000000
    },
    {
-    "id": "de-niederbayern-z14",
+    "id": "de-niederbayern-z15",
     "naam": "Niederbayern, straatniveau",
     "omschrijving": "Straten, gebouwen en paden; Beieren",
     "groep": "regio",
@@ -397,28 +639,76 @@
      13.84,
      49.174
     ],
-    "maxzoom": 14,
+    "maxzoom": 15,
     "zak": false,
-    "schatting": 132000000
+    "schatting": 241000000
    },
    {
-    "id": "de-oberbayern-z14",
-    "naam": "Oberbayern, straatniveau",
+    "id": "de-oberbayern-noordwest-z15",
+    "naam": "Oberbayern noordwest, straatniveau",
+    "omschrijving": "Straten, gebouwen en paden; Beieren",
+    "groep": "regio",
+    "land": "de",
+    "bbox": [
+     10.716,
+     48.24,
+     11.907,
+     49.088
+    ],
+    "maxzoom": 15,
+    "zak": false,
+    "schatting": 124000000
+   },
+   {
+    "id": "de-oberbayern-noordoost-z15",
+    "naam": "Oberbayern noordoost, straatniveau",
+    "omschrijving": "Straten, gebouwen en paden; Beieren",
+    "groep": "regio",
+    "land": "de",
+    "bbox": [
+     11.907,
+     48.24,
+     13.099,
+     49.088
+    ],
+    "maxzoom": 15,
+    "zak": false,
+    "schatting": 120000000
+   },
+   {
+    "id": "de-oberbayern-zuidwest-z15",
+    "naam": "Oberbayern zuidwest, straatniveau",
     "omschrijving": "Straten, gebouwen en paden; Beieren",
     "groep": "regio",
     "land": "de",
     "bbox": [
      10.716,
      47.393,
-     13.099,
-     49.088
+     11.907,
+     48.24
     ],
-    "maxzoom": 14,
+    "maxzoom": 15,
     "zak": false,
-    "schatting": 254000000
+    "schatting": 135000000
    },
    {
-    "id": "de-oberfranken-z14",
+    "id": "de-oberbayern-zuidoost-z15",
+    "naam": "Oberbayern zuidoost, straatniveau",
+    "omschrijving": "Straten, gebouwen en paden; Beieren",
+    "groep": "regio",
+    "land": "de",
+    "bbox": [
+     11.907,
+     47.393,
+     13.099,
+     48.24
+    ],
+    "maxzoom": 15,
+    "zak": false,
+    "schatting": 136000000
+   },
+   {
+    "id": "de-oberfranken-z15",
     "naam": "Oberfranken, straatniveau",
     "omschrijving": "Straten, gebouwen en paden; Beieren",
     "groep": "regio",
@@ -429,12 +719,12 @@
      12.275,
      50.523
     ],
-    "maxzoom": 14,
+    "maxzoom": 15,
     "zak": false,
-    "schatting": 102000000
+    "schatting": 193000000
    },
    {
-    "id": "de-oberpfalz-z14",
+    "id": "de-oberpfalz-z15",
     "naam": "Oberpfalz, straatniveau",
     "omschrijving": "Straten, gebouwen en paden; Beieren",
     "groep": "regio",
@@ -445,13 +735,29 @@
      13.171,
      50.061
     ],
-    "maxzoom": 14,
+    "maxzoom": 15,
     "zak": false,
-    "schatting": 127000000
+    "schatting": 240000000
    },
    {
-    "id": "de-schwaben-z14",
-    "naam": "Zwaben, straatniveau",
+    "id": "de-schwaben-noord-z15",
+    "naam": "Zwaben noord, straatniveau",
+    "omschrijving": "Straten, gebouwen en paden; Beieren",
+    "groep": "regio",
+    "land": "de",
+    "bbox": [
+     9.602,
+     48.153,
+     11.312,
+     49.036
+    ],
+    "maxzoom": 15,
+    "zak": false,
+    "schatting": 181000000
+   },
+   {
+    "id": "de-schwaben-zuid-z15",
+    "naam": "Zwaben zuid, straatniveau",
     "omschrijving": "Straten, gebouwen en paden; Beieren",
     "groep": "regio",
     "land": "de",
@@ -459,14 +765,14 @@
      9.602,
      47.27,
      11.312,
-     49.036
+     48.153
     ],
-    "maxzoom": 14,
+    "maxzoom": 15,
     "zak": false,
-    "schatting": 185000000
+    "schatting": 186000000
    },
    {
-    "id": "de-unterfranken-z14",
+    "id": "de-unterfranken-z15",
     "naam": "Unterfranken, straatniveau",
     "omschrijving": "Straten, gebouwen en paden; Beieren",
     "groep": "regio",
@@ -477,12 +783,12 @@
      10.881,
      50.565
     ],
-    "maxzoom": 14,
+    "maxzoom": 15,
     "zak": false,
-    "schatting": 125000000
+    "schatting": 241000000
    },
    {
-    "id": "de-hb-z14",
+    "id": "de-hb-z15",
     "naam": "Bremen, straatniveau",
     "omschrijving": "Straten, gebouwen en paden",
     "groep": "regio",
@@ -493,28 +799,44 @@
      8.991,
      53.61
     ],
-    "maxzoom": 14,
+    "maxzoom": 15,
     "zak": false,
-    "schatting": 21000000
+    "schatting": 44000000
    },
    {
-    "id": "de-darmstadt-z14",
-    "naam": "Darmstadt, straatniveau",
+    "id": "de-darmstadt-west-z15",
+    "naam": "Darmstadt west, straatniveau",
     "omschrijving": "Straten, gebouwen en paden; Hessen",
     "groep": "regio",
     "land": "de",
     "bbox": [
      7.772,
      49.395,
+     8.761,
+     50.5
+    ],
+    "maxzoom": 15,
+    "zak": false,
+    "schatting": 187000000
+   },
+   {
+    "id": "de-darmstadt-oost-z15",
+    "naam": "Darmstadt oost, straatniveau",
+    "omschrijving": "Straten, gebouwen en paden; Hessen",
+    "groep": "regio",
+    "land": "de",
+    "bbox": [
+     8.761,
+     49.395,
      9.749,
      50.5
     ],
-    "maxzoom": 14,
+    "maxzoom": 15,
     "zak": false,
-    "schatting": 149000000
+    "schatting": 146000000
    },
    {
-    "id": "de-giessen-z14",
+    "id": "de-giessen-z15",
     "naam": "Gießen, straatniveau",
     "omschrijving": "Straten, gebouwen en paden; Hessen",
     "groep": "regio",
@@ -525,12 +847,12 @@
      9.65,
      50.997
     ],
-    "maxzoom": 14,
+    "maxzoom": 15,
     "zak": false,
-    "schatting": 79000000
+    "schatting": 155000000
    },
    {
-    "id": "de-kassel-z14",
+    "id": "de-kassel-z15",
     "naam": "Kassel, straatniveau",
     "omschrijving": "Straten, gebouwen en paden; Hessen",
     "groep": "regio",
@@ -541,12 +863,12 @@
      10.236,
      51.658
     ],
-    "maxzoom": 14,
+    "maxzoom": 15,
     "zak": false,
-    "schatting": 144000000
+    "schatting": 276000000
    },
    {
-    "id": "de-hh-z14",
+    "id": "de-hh-z15",
     "naam": "Hamburg, straatniveau",
     "omschrijving": "Straten, gebouwen en paden",
     "groep": "regio",
@@ -557,92 +879,172 @@
      10.325,
      54.028
     ],
-    "maxzoom": 14,
+    "maxzoom": 15,
     "zak": false,
-    "schatting": 65000000
+    "schatting": 141000000
    },
    {
-    "id": "de-mv-z14",
-    "naam": "Mecklenburg-Voor-Pommeren, straatniveau",
+    "id": "de-mv-west-z15",
+    "naam": "Mecklenburg-Voor-Pommeren west, straatniveau",
     "omschrijving": "Straten, gebouwen en paden",
     "groep": "regio",
     "land": "de",
     "bbox": [
      10.594,
      53.11,
+     12.503,
+     54.885
+    ],
+    "maxzoom": 15,
+    "zak": false,
+    "schatting": 159000000
+   },
+   {
+    "id": "de-mv-oost-z15",
+    "naam": "Mecklenburg-Voor-Pommeren oost, straatniveau",
+    "omschrijving": "Straten, gebouwen en paden",
+    "groep": "regio",
+    "land": "de",
+    "bbox": [
+     12.503,
+     53.11,
      14.412,
      54.885
     ],
-    "maxzoom": 14,
+    "maxzoom": 15,
     "zak": false,
-    "schatting": 150000000
+    "schatting": 135000000
    },
    {
-    "id": "de-ni-noordwest-z14",
+    "id": "de-ni-noordwest-z15",
     "naam": "Nedersaksen noordwest, straatniveau",
     "omschrijving": "Straten, gebouwen en paden",
     "groep": "regio",
     "land": "de",
     "bbox": [
      6.346,
-     52.716,
-     8.972,
+     53.19,
+     8.097,
      54.138
     ],
-    "maxzoom": 14,
+    "maxzoom": 15,
     "zak": false,
-    "schatting": 140000000
+    "schatting": 84000000
    },
    {
-    "id": "de-ni-noordoost-z14",
+    "id": "de-ni-noord-z15",
+    "naam": "Nedersaksen noord, straatniveau",
+    "omschrijving": "Straten, gebouwen en paden",
+    "groep": "regio",
+    "land": "de",
+    "bbox": [
+     8.097,
+     53.19,
+     9.847,
+     54.138
+    ],
+    "maxzoom": 15,
+    "zak": false,
+    "schatting": 124000000
+   },
+   {
+    "id": "de-ni-noordoost-z15",
     "naam": "Nedersaksen noordoost, straatniveau",
     "omschrijving": "Straten, gebouwen en paden",
     "groep": "regio",
     "land": "de",
     "bbox": [
-     8.972,
-     52.716,
+     9.847,
+     53.19,
      11.598,
      54.138
     ],
-    "maxzoom": 14,
+    "maxzoom": 15,
     "zak": false,
-    "schatting": 152000000
+    "schatting": 156000000
    },
    {
-    "id": "de-ni-zuidwest-noordwest-z14",
+    "id": "de-ni-west-z15",
+    "naam": "Nedersaksen west, straatniveau",
+    "omschrijving": "Straten, gebouwen en paden",
+    "groep": "regio",
+    "land": "de",
+    "bbox": [
+     6.346,
+     52.243,
+     8.097,
+     53.19
+    ],
+    "maxzoom": 15,
+    "zak": false,
+    "schatting": 237000000
+   },
+   {
+    "id": "de-ni-midden-z15",
+    "naam": "Nedersaksen midden, straatniveau",
+    "omschrijving": "Straten, gebouwen en paden",
+    "groep": "regio",
+    "land": "de",
+    "bbox": [
+     8.097,
+     52.243,
+     9.847,
+     53.19
+    ],
+    "maxzoom": 15,
+    "zak": false,
+    "schatting": 201000000
+   },
+   {
+    "id": "de-ni-oost-z15",
+    "naam": "Nedersaksen oost, straatniveau",
+    "omschrijving": "Straten, gebouwen en paden",
+    "groep": "regio",
+    "land": "de",
+    "bbox": [
+     9.847,
+     52.243,
+     11.598,
+     53.19
+    ],
+    "maxzoom": 15,
+    "zak": false,
+    "schatting": 120000000
+   },
+   {
+    "id": "de-ni-zuidwest-noordwest-z15",
     "naam": "Nedersaksen zuidwest (noordwest), straatniveau",
     "omschrijving": "Straten, gebouwen en paden",
     "groep": "regio",
     "land": "de",
     "bbox": [
      6.346,
-     52.005,
-     7.659,
-     52.716
+     51.769,
+     7.221,
+     52.243
     ],
-    "maxzoom": 14,
+    "maxzoom": 15,
     "zak": false,
-    "schatting": 76000000
+    "schatting": 78000000
    },
    {
-    "id": "de-ni-zuidwest-noordoost-z14",
+    "id": "de-ni-zuidwest-noordoost-z15",
     "naam": "Nedersaksen zuidwest (noordoost), straatniveau",
     "omschrijving": "Straten, gebouwen en paden",
     "groep": "regio",
     "land": "de",
     "bbox": [
-     7.659,
-     52.005,
-     8.972,
-     52.716
+     7.221,
+     51.769,
+     8.097,
+     52.243
     ],
-    "maxzoom": 14,
+    "maxzoom": 15,
     "zak": false,
-    "schatting": 73000000
+    "schatting": 70000000
    },
    {
-    "id": "de-ni-zuidwest-zuidwest-z14",
+    "id": "de-ni-zuidwest-zuidwest-z15",
     "naam": "Nedersaksen zuidwest (zuidwest), straatniveau",
     "omschrijving": "Straten, gebouwen en paden",
     "groep": "regio",
@@ -650,48 +1052,80 @@
     "bbox": [
      6.346,
      51.295,
-     7.659,
-     52.005
+     7.221,
+     51.769
     ],
-    "maxzoom": 14,
+    "maxzoom": 15,
     "zak": false,
-    "schatting": 99000000
+    "schatting": 123000000
    },
    {
-    "id": "de-ni-zuidwest-zuidoost-z14",
+    "id": "de-ni-zuidwest-zuidoost-z15",
     "naam": "Nedersaksen zuidwest (zuidoost), straatniveau",
     "omschrijving": "Straten, gebouwen en paden",
     "groep": "regio",
     "land": "de",
     "bbox": [
-     7.659,
+     7.221,
      51.295,
-     8.972,
-     52.005
+     8.097,
+     51.769
     ],
-    "maxzoom": 14,
+    "maxzoom": 15,
     "zak": false,
-    "schatting": 74000000
+    "schatting": 103000000
    },
    {
-    "id": "de-ni-zuidoost-z14",
+    "id": "de-ni-zuid-z15",
+    "naam": "Nedersaksen zuid, straatniveau",
+    "omschrijving": "Straten, gebouwen en paden",
+    "groep": "regio",
+    "land": "de",
+    "bbox": [
+     8.097,
+     51.295,
+     9.847,
+     52.243
+    ],
+    "maxzoom": 15,
+    "zak": false,
+    "schatting": 234000000
+   },
+   {
+    "id": "de-ni-zuidoost-z15",
     "naam": "Nedersaksen zuidoost, straatniveau",
     "omschrijving": "Straten, gebouwen en paden",
     "groep": "regio",
     "land": "de",
     "bbox": [
-     8.972,
+     9.847,
      51.295,
      11.598,
-     52.716
+     52.243
     ],
-    "maxzoom": 14,
+    "maxzoom": 15,
     "zak": false,
-    "schatting": 180000000
+    "schatting": 158000000
    },
    {
-    "id": "de-arnsberg-z14",
-    "naam": "Arnsberg, straatniveau",
+    "id": "de-arnsberg-noord-z15",
+    "naam": "Arnsberg noord, straatniveau",
+    "omschrijving": "Straten, gebouwen en paden; Noordrijn-Westfalen",
+    "groep": "regio",
+    "land": "de",
+    "bbox": [
+     7.102,
+     51.215,
+     8.971,
+     51.745
+    ],
+    "maxzoom": 15,
+    "zak": false,
+    "schatting": 194000000
+   },
+   {
+    "id": "de-arnsberg-zuid-z15",
+    "naam": "Arnsberg zuid, straatniveau",
     "omschrijving": "Straten, gebouwen en paden; Noordrijn-Westfalen",
     "groep": "regio",
     "land": "de",
@@ -699,14 +1133,14 @@
      7.102,
      50.685,
      8.971,
-     51.745
+     51.215
     ],
-    "maxzoom": 14,
+    "maxzoom": 15,
     "zak": false,
-    "schatting": 161000000
+    "schatting": 158000000
    },
    {
-    "id": "de-detmold-z14",
+    "id": "de-detmold-z15",
     "naam": "Detmold, straatniveau",
     "omschrijving": "Straten, gebouwen en paden; Noordrijn-Westfalen",
     "groep": "regio",
@@ -717,13 +1151,29 @@
      9.462,
      52.531
     ],
-    "maxzoom": 14,
+    "maxzoom": 15,
     "zak": false,
-    "schatting": 108000000
+    "schatting": 222000000
    },
    {
-    "id": "de-dusseldorf-z14",
-    "naam": "Düsseldorf, straatniveau",
+    "id": "de-dusseldorf-noord-z15",
+    "naam": "Düsseldorf noord, straatniveau",
+    "omschrijving": "Straten, gebouwen en paden; Noordrijn-Westfalen",
+    "groep": "regio",
+    "land": "de",
+    "bbox": [
+     5.945,
+     51.46,
+     7.313,
+     51.905
+    ],
+    "maxzoom": 15,
+    "zak": false,
+    "schatting": 138000000
+   },
+   {
+    "id": "de-dusseldorf-zuid-z15",
+    "naam": "Düsseldorf zuid, straatniveau",
     "omschrijving": "Straten, gebouwen en paden; Noordrijn-Westfalen",
     "groep": "regio",
     "land": "de",
@@ -731,94 +1181,174 @@
      5.945,
      51.015,
      7.313,
-     51.905
+     51.46
     ],
-    "maxzoom": 14,
+    "maxzoom": 15,
     "zak": false,
-    "schatting": 134000000
+    "schatting": 191000000
    },
    {
-    "id": "de-koln-z14",
-    "naam": "Köln, straatniveau",
+    "id": "de-koln-west-z15",
+    "naam": "Köln west, straatniveau",
     "omschrijving": "Straten, gebouwen en paden; Noordrijn-Westfalen",
     "groep": "regio",
     "land": "de",
     "bbox": [
      5.866,
      50.323,
+     6.829,
+     51.251
+    ],
+    "maxzoom": 15,
+    "zak": false,
+    "schatting": 192000000
+   },
+   {
+    "id": "de-koln-oost-z15",
+    "naam": "Köln oost, straatniveau",
+    "omschrijving": "Straten, gebouwen en paden; Noordrijn-Westfalen",
+    "groep": "regio",
+    "land": "de",
+    "bbox": [
+     6.829,
+     50.323,
      7.792,
      51.251
     ],
-    "maxzoom": 14,
+    "maxzoom": 15,
     "zak": false,
-    "schatting": 168000000
+    "schatting": 199000000
    },
    {
-    "id": "de-munster-z14",
-    "naam": "Münster, straatniveau",
+    "id": "de-munster-west-z15",
+    "naam": "Münster west, straatniveau",
     "omschrijving": "Straten, gebouwen en paden; Noordrijn-Westfalen",
     "groep": "regio",
     "land": "de",
     "bbox": [
      6.387,
      51.481,
+     7.354,
+     52.475
+    ],
+    "maxzoom": 15,
+    "zak": false,
+    "schatting": 199000000
+   },
+   {
+    "id": "de-munster-oost-z15",
+    "naam": "Münster oost, straatniveau",
+    "omschrijving": "Straten, gebouwen en paden; Noordrijn-Westfalen",
+    "groep": "regio",
+    "land": "de",
+    "bbox": [
+     7.354,
+     51.481,
      8.32,
      52.475
     ],
-    "maxzoom": 14,
+    "maxzoom": 15,
     "zak": false,
-    "schatting": 165000000
+    "schatting": 167000000
    },
    {
-    "id": "de-rp-noord-z14",
-    "naam": "Rijnland-Palts noord, straatniveau",
+    "id": "de-rp-noordwest-z15",
+    "naam": "Rijnland-Palts noordwest, straatniveau",
     "omschrijving": "Straten, gebouwen en paden",
     "groep": "regio",
     "land": "de",
     "bbox": [
      6.112,
      49.954,
+     7.31,
+     50.942
+    ],
+    "maxzoom": 15,
+    "zak": false,
+    "schatting": 198000000
+   },
+   {
+    "id": "de-rp-noordoost-z15",
+    "naam": "Rijnland-Palts noordoost, straatniveau",
+    "omschrijving": "Straten, gebouwen en paden",
+    "groep": "regio",
+    "land": "de",
+    "bbox": [
+     7.31,
+     49.954,
      8.508,
      50.942
     ],
-    "maxzoom": 14,
+    "maxzoom": 15,
     "zak": false,
-    "schatting": 172000000
+    "schatting": 170000000
    },
    {
-    "id": "de-rp-zuid-z14",
-    "naam": "Rijnland-Palts zuid, straatniveau",
+    "id": "de-rp-zuidwest-z15",
+    "naam": "Rijnland-Palts zuidwest, straatniveau",
     "omschrijving": "Straten, gebouwen en paden",
     "groep": "regio",
     "land": "de",
     "bbox": [
      6.112,
      48.966,
+     7.31,
+     49.954
+    ],
+    "maxzoom": 15,
+    "zak": false,
+    "schatting": 163000000
+   },
+   {
+    "id": "de-rp-zuidoost-z15",
+    "naam": "Rijnland-Palts zuidoost, straatniveau",
+    "omschrijving": "Straten, gebouwen en paden",
+    "groep": "regio",
+    "land": "de",
+    "bbox": [
+     7.31,
+     48.966,
      8.508,
      49.954
     ],
-    "maxzoom": 14,
+    "maxzoom": 15,
     "zak": false,
-    "schatting": 154000000
+    "schatting": 168000000
    },
    {
-    "id": "de-sh-z14",
-    "naam": "Sleeswijk-Holstein, straatniveau",
+    "id": "de-sh-west-z15",
+    "naam": "Sleeswijk-Holstein west, straatniveau",
     "omschrijving": "Straten, gebouwen en paden",
     "groep": "regio",
     "land": "de",
     "bbox": [
      7.521,
      53.36,
+     9.597,
+     55.099
+    ],
+    "maxzoom": 15,
+    "zak": false,
+    "schatting": 158000000
+   },
+   {
+    "id": "de-sh-oost-z15",
+    "naam": "Sleeswijk-Holstein oost, straatniveau",
+    "omschrijving": "Straten, gebouwen en paden",
+    "groep": "regio",
+    "land": "de",
+    "bbox": [
+     9.597,
+     53.36,
      11.672,
      55.099
     ],
-    "maxzoom": 14,
+    "maxzoom": 15,
     "zak": false,
-    "schatting": 196000000
+    "schatting": 251000000
    },
    {
-    "id": "de-sl-z14",
+    "id": "de-sl-z15",
     "naam": "Saarland, straatniveau",
     "omschrijving": "Straten, gebouwen en paden",
     "groep": "regio",
@@ -829,57 +1359,169 @@
      7.405,
      49.639
     ],
-    "maxzoom": 14,
+    "maxzoom": 15,
     "zak": false,
-    "schatting": 39000000
+    "schatting": 82000000
    },
    {
-    "id": "de-sn-z14",
-    "naam": "Saksen, straatniveau",
+    "id": "de-sn-noordwest-z15",
+    "naam": "Saksen noordwest, straatniveau",
+    "omschrijving": "Straten, gebouwen en paden",
+    "groep": "regio",
+    "land": "de",
+    "bbox": [
+     11.871,
+     50.928,
+     13.457,
+     51.685
+    ],
+    "maxzoom": 15,
+    "zak": false,
+    "schatting": 134000000
+   },
+   {
+    "id": "de-sn-noordoost-z15",
+    "naam": "Saksen noordoost, straatniveau",
+    "omschrijving": "Straten, gebouwen en paden",
+    "groep": "regio",
+    "land": "de",
+    "bbox": [
+     13.457,
+     50.928,
+     15.042,
+     51.685
+    ],
+    "maxzoom": 15,
+    "zak": false,
+    "schatting": 133000000
+   },
+   {
+    "id": "de-sn-zuidwest-z15",
+    "naam": "Saksen zuidwest, straatniveau",
     "omschrijving": "Straten, gebouwen en paden",
     "groep": "regio",
     "land": "de",
     "bbox": [
      11.871,
      50.171,
-     15.042,
-     51.685
+     13.457,
+     50.928
     ],
-    "maxzoom": 14,
+    "maxzoom": 15,
     "zak": false,
-    "schatting": 264000000
+    "schatting": 141000000
    },
    {
-    "id": "de-st-z14",
-    "naam": "Saksen-Anhalt, straatniveau",
+    "id": "de-sn-zuidoost-z15",
+    "naam": "Saksen zuidoost, straatniveau",
+    "omschrijving": "Straten, gebouwen en paden",
+    "groep": "regio",
+    "land": "de",
+    "bbox": [
+     13.457,
+     50.171,
+     15.042,
+     50.928
+    ],
+    "maxzoom": 15,
+    "zak": false,
+    "schatting": 142000000
+   },
+   {
+    "id": "de-st-noordwest-z15",
+    "naam": "Saksen-Anhalt noordwest, straatniveau",
+    "omschrijving": "Straten, gebouwen en paden",
+    "groep": "regio",
+    "land": "de",
+    "bbox": [
+     10.561,
+     51.99,
+     11.874,
+     53.042
+    ],
+    "maxzoom": 15,
+    "zak": false,
+    "schatting": 113000000
+   },
+   {
+    "id": "de-st-noordoost-z15",
+    "naam": "Saksen-Anhalt noordoost, straatniveau",
+    "omschrijving": "Straten, gebouwen en paden",
+    "groep": "regio",
+    "land": "de",
+    "bbox": [
+     11.874,
+     51.99,
+     13.187,
+     53.042
+    ],
+    "maxzoom": 15,
+    "zak": false,
+    "schatting": 103000000
+   },
+   {
+    "id": "de-st-zuidwest-z15",
+    "naam": "Saksen-Anhalt zuidwest, straatniveau",
     "omschrijving": "Straten, gebouwen en paden",
     "groep": "regio",
     "land": "de",
     "bbox": [
      10.561,
      50.938,
-     13.187,
-     53.042
+     11.874,
+     51.99
     ],
-    "maxzoom": 14,
+    "maxzoom": 15,
     "zak": false,
-    "schatting": 225000000
+    "schatting": 122000000
    },
    {
-    "id": "de-th-z14",
-    "naam": "Thüringen, straatniveau",
+    "id": "de-st-zuidoost-z15",
+    "naam": "Saksen-Anhalt zuidoost, straatniveau",
+    "omschrijving": "Straten, gebouwen en paden",
+    "groep": "regio",
+    "land": "de",
+    "bbox": [
+     11.874,
+     50.938,
+     13.187,
+     51.99
+    ],
+    "maxzoom": 15,
+    "zak": false,
+    "schatting": 137000000
+   },
+   {
+    "id": "de-th-west-z15",
+    "naam": "Thüringen west, straatniveau",
     "omschrijving": "Straten, gebouwen en paden",
     "groep": "regio",
     "land": "de",
     "bbox": [
      9.877,
      50.204,
+     11.265,
+     51.649
+    ],
+    "maxzoom": 15,
+    "zak": false,
+    "schatting": 206000000
+   },
+   {
+    "id": "de-th-oost-z15",
+    "naam": "Thüringen oost, straatniveau",
+    "omschrijving": "Straten, gebouwen en paden",
+    "groep": "regio",
+    "land": "de",
+    "bbox": [
+     11.265,
+     50.204,
      12.654,
      51.649
     ],
-    "maxzoom": 14,
+    "maxzoom": 15,
     "zak": false,
-    "schatting": 210000000
+    "schatting": 217000000
    }
   ],
   "fr": [
@@ -1108,7 +1750,7 @@
     "schatting": 81000000
    },
    {
-    "id": "fr-20r-z14",
+    "id": "fr-20r-z15",
     "naam": "Corsica, straatniveau",
     "omschrijving": "Straten, gebouwen en paden",
     "groep": "regio",
@@ -1119,12 +1761,12 @@
      9.56,
      43.028
     ],
-    "maxzoom": 14,
+    "maxzoom": 15,
     "zak": false,
-    "schatting": 24000000
+    "schatting": 46000000
    },
    {
-    "id": "fr-01-z14",
+    "id": "fr-01-z15",
     "naam": "Ain, straatniveau",
     "omschrijving": "Straten, gebouwen en paden; Auvergne-Rhône-Alpes",
     "groep": "regio",
@@ -1135,12 +1777,12 @@
      6.17,
      46.52
     ],
-    "maxzoom": 14,
+    "maxzoom": 15,
     "zak": false,
-    "schatting": 98000000
+    "schatting": 195000000
    },
    {
-    "id": "fr-03-z14",
+    "id": "fr-03-z15",
     "naam": "Allier, straatniveau",
     "omschrijving": "Straten, gebouwen en paden; Auvergne-Rhône-Alpes",
     "groep": "regio",
@@ -1151,12 +1793,12 @@
      4.006,
      46.804
     ],
-    "maxzoom": 14,
+    "maxzoom": 15,
     "zak": false,
-    "schatting": 54000000
+    "schatting": 99000000
    },
    {
-    "id": "fr-07-z14",
+    "id": "fr-07-z15",
     "naam": "Ardèche, straatniveau",
     "omschrijving": "Straten, gebouwen en paden; Auvergne-Rhône-Alpes",
     "groep": "regio",
@@ -1167,12 +1809,12 @@
      4.886,
      45.366
     ],
-    "maxzoom": 14,
+    "maxzoom": 15,
     "zak": false,
-    "schatting": 63000000
+    "schatting": 118000000
    },
    {
-    "id": "fr-15-z14",
+    "id": "fr-15-z15",
     "naam": "Cantal, straatniveau",
     "omschrijving": "Straten, gebouwen en paden; Auvergne-Rhône-Alpes",
     "groep": "regio",
@@ -1183,12 +1825,12 @@
      3.371,
      45.484
     ],
-    "maxzoom": 14,
+    "maxzoom": 15,
     "zak": false,
-    "schatting": 40000000
+    "schatting": 69000000
    },
    {
-    "id": "fr-26-z14",
+    "id": "fr-26-z15",
     "naam": "Drôme, straatniveau",
     "omschrijving": "Straten, gebouwen en paden; Auvergne-Rhône-Alpes",
     "groep": "regio",
@@ -1199,12 +1841,12 @@
      5.83,
      45.344
     ],
-    "maxzoom": 14,
+    "maxzoom": 15,
     "zak": false,
-    "schatting": 78000000
+    "schatting": 151000000
    },
    {
-    "id": "fr-38-z14",
+    "id": "fr-38-z15",
     "naam": "Isère, straatniveau",
     "omschrijving": "Straten, gebouwen en paden; Auvergne-Rhône-Alpes",
     "groep": "regio",
@@ -1215,12 +1857,12 @@
      6.359,
      45.884
     ],
-    "maxzoom": 14,
+    "maxzoom": 15,
     "zak": false,
-    "schatting": 115000000
+    "schatting": 237000000
    },
    {
-    "id": "fr-42-z14",
+    "id": "fr-42-z15",
     "naam": "Loire, straatniveau",
     "omschrijving": "Straten, gebouwen en paden; Auvergne-Rhône-Alpes",
     "groep": "regio",
@@ -1231,12 +1873,12 @@
      4.761,
      46.277
     ],
-    "maxzoom": 14,
+    "maxzoom": 15,
     "zak": false,
-    "schatting": 73000000
+    "schatting": 140000000
    },
    {
-    "id": "fr-43-z14",
+    "id": "fr-43-z15",
     "naam": "Haute-Loire, straatniveau",
     "omschrijving": "Straten, gebouwen en paden; Auvergne-Rhône-Alpes",
     "groep": "regio",
@@ -1247,12 +1889,12 @@
      4.49,
      45.428
     ],
-    "maxzoom": 14,
+    "maxzoom": 15,
     "zak": false,
-    "schatting": 48000000
+    "schatting": 83000000
    },
    {
-    "id": "fr-63-z14",
+    "id": "fr-63-z15",
     "naam": "Puy-de-Dôme, straatniveau",
     "omschrijving": "Straten, gebouwen en paden; Auvergne-Rhône-Alpes",
     "groep": "regio",
@@ -1263,12 +1905,12 @@
      3.986,
      46.256
     ],
-    "maxzoom": 14,
+    "maxzoom": 15,
     "zak": false,
-    "schatting": 67000000
+    "schatting": 128000000
    },
    {
-    "id": "fr-69-z14",
+    "id": "fr-69-z15",
     "naam": "Rhône, straatniveau",
     "omschrijving": "Straten, gebouwen en paden; Auvergne-Rhône-Alpes",
     "groep": "regio",
@@ -1279,12 +1921,12 @@
      5.16,
      46.306
     ],
-    "maxzoom": 14,
+    "maxzoom": 15,
     "zak": false,
-    "schatting": 63000000
+    "schatting": 133000000
    },
    {
-    "id": "fr-69m-z14",
+    "id": "fr-69m-z15",
     "naam": "Métropole de Lyon, straatniveau",
     "omschrijving": "Straten, gebouwen en paden; Auvergne-Rhône-Alpes",
     "groep": "regio",
@@ -1295,12 +1937,12 @@
      5.062,
      45.939
     ],
-    "maxzoom": 14,
+    "maxzoom": 15,
     "zak": false,
-    "schatting": 20000000
+    "schatting": 46000000
    },
    {
-    "id": "fr-73-z14",
+    "id": "fr-73-z15",
     "naam": "Savoie, straatniveau",
     "omschrijving": "Straten, gebouwen en paden; Auvergne-Rhône-Alpes",
     "groep": "regio",
@@ -1311,12 +1953,12 @@
      7.186,
      45.938
     ],
-    "maxzoom": 14,
+    "maxzoom": 15,
     "zak": false,
-    "schatting": 74000000
+    "schatting": 143000000
    },
    {
-    "id": "fr-74-z14",
+    "id": "fr-74-z15",
     "naam": "Haute-Savoie, straatniveau",
     "omschrijving": "Straten, gebouwen en paden; Auvergne-Rhône-Alpes",
     "groep": "regio",
@@ -1327,12 +1969,12 @@
      7.044,
      46.456
     ],
-    "maxzoom": 14,
+    "maxzoom": 15,
     "zak": false,
-    "schatting": 66000000
+    "schatting": 131000000
    },
    {
-    "id": "fr-21-z14",
+    "id": "fr-21-z15",
     "naam": "Côte-d'Or, straatniveau",
     "omschrijving": "Straten, gebouwen en paden; Bourgondië-Franche-Comté",
     "groep": "regio",
@@ -1343,12 +1985,12 @@
      5.519,
      48.031
     ],
-    "maxzoom": 14,
+    "maxzoom": 15,
     "zak": false,
-    "schatting": 59000000
+    "schatting": 107000000
    },
    {
-    "id": "fr-25-z14",
+    "id": "fr-25-z15",
     "naam": "Doubs, straatniveau",
     "omschrijving": "Straten, gebouwen en paden; Bourgondië-Franche-Comté",
     "groep": "regio",
@@ -1359,12 +2001,12 @@
      7.062,
      47.58
     ],
-    "maxzoom": 14,
+    "maxzoom": 15,
     "zak": false,
-    "schatting": 71000000
+    "schatting": 130000000
    },
    {
-    "id": "fr-39-z14",
+    "id": "fr-39-z15",
     "naam": "Jura, straatniveau",
     "omschrijving": "Straten, gebouwen en paden; Bourgondië-Franche-Comté",
     "groep": "regio",
@@ -1375,12 +2017,12 @@
      6.207,
      47.306
     ],
-    "maxzoom": 14,
+    "maxzoom": 15,
     "zak": false,
-    "schatting": 61000000
+    "schatting": 108000000
    },
    {
-    "id": "fr-58-z14",
+    "id": "fr-58-z15",
     "naam": "Nièvre, straatniveau",
     "omschrijving": "Straten, gebouwen en paden; Bourgondië-Franche-Comté",
     "groep": "regio",
@@ -1391,12 +2033,12 @@
      4.232,
      47.588
     ],
-    "maxzoom": 14,
+    "maxzoom": 15,
     "zak": false,
-    "schatting": 46000000
+    "schatting": 82000000
    },
    {
-    "id": "fr-70-z14",
+    "id": "fr-70-z15",
     "naam": "Haute-Saône, straatniveau",
     "omschrijving": "Straten, gebouwen en paden; Bourgondië-Franche-Comté",
     "groep": "regio",
@@ -1407,12 +2049,12 @@
      6.826,
      48.024
     ],
-    "maxzoom": 14,
+    "maxzoom": 15,
     "zak": false,
-    "schatting": 44000000
+    "schatting": 81000000
    },
    {
-    "id": "fr-71-z14",
+    "id": "fr-71-z15",
     "naam": "Saône-et-Loire, straatniveau",
     "omschrijving": "Straten, gebouwen en paden; Bourgondië-Franche-Comté",
     "groep": "regio",
@@ -1423,12 +2065,12 @@
      5.465,
      47.155
     ],
-    "maxzoom": 14,
+    "maxzoom": 15,
     "zak": false,
-    "schatting": 116000000
+    "schatting": 209000000
    },
    {
-    "id": "fr-89-z14",
+    "id": "fr-89-z15",
     "naam": "Yonne, straatniveau",
     "omschrijving": "Straten, gebouwen en paden; Bourgondië-Franche-Comté",
     "groep": "regio",
@@ -1439,12 +2081,12 @@
      4.34,
      48.4
     ],
-    "maxzoom": 14,
+    "maxzoom": 15,
     "zak": false,
-    "schatting": 48000000
+    "schatting": 96000000
    },
    {
-    "id": "fr-90-z14",
+    "id": "fr-90-z15",
     "naam": "Territoire-de-Belfort, straatniveau",
     "omschrijving": "Straten, gebouwen en paden; Bourgondië-Franche-Comté",
     "groep": "regio",
@@ -1455,28 +2097,76 @@
      7.143,
      47.825
     ],
-    "maxzoom": 14,
+    "maxzoom": 15,
     "zak": false,
-    "schatting": 16000000
+    "schatting": 30000000
    },
    {
-    "id": "fr-bre-z14",
-    "naam": "Bretagne, straatniveau",
-    "omschrijving": "Straten, gebouwen en paden",
+    "id": "fr-22-z15",
+    "naam": "Côtes-d'Armor, straatniveau",
+    "omschrijving": "Straten, gebouwen en paden; Bretagne",
+    "groep": "regio",
+    "land": "fr",
+    "bbox": [
+     -3.666,
+     48.032,
+     -1.909,
+     49.113
+    ],
+    "maxzoom": 15,
+    "zak": false,
+    "schatting": 110000000
+   },
+   {
+    "id": "fr-29-z15",
+    "naam": "Finistère, straatniveau",
+    "omschrijving": "Straten, gebouwen en paden; Bretagne",
     "groep": "regio",
     "land": "fr",
     "bbox": [
      -5.144,
-     47.278,
-     -1.016,
-     49.113
+     47.701,
+     -3.387,
+     48.757
     ],
-    "maxzoom": 14,
+    "maxzoom": 15,
     "zak": false,
-    "schatting": 205000000
+    "schatting": 117000000
    },
    {
-    "id": "fr-18-z14",
+    "id": "fr-35-z15",
+    "naam": "Ille-et-Vilaine, straatniveau",
+    "omschrijving": "Straten, gebouwen en paden; Bretagne",
+    "groep": "regio",
+    "land": "fr",
+    "bbox": [
+     -2.289,
+     47.631,
+     -1.016,
+     48.722
+    ],
+    "maxzoom": 15,
+    "zak": false,
+    "schatting": 131000000
+   },
+   {
+    "id": "fr-56-z15",
+    "naam": "Morbihan, straatniveau",
+    "omschrijving": "Straten, gebouwen en paden; Bretagne",
+    "groep": "regio",
+    "land": "fr",
+    "bbox": [
+     -3.735,
+     47.278,
+     -2.035,
+     48.211
+    ],
+    "maxzoom": 15,
+    "zak": false,
+    "schatting": 111000000
+   },
+   {
+    "id": "fr-18-z15",
     "naam": "Cher, straatniveau",
     "omschrijving": "Straten, gebouwen en paden; Centre-Val de Loire",
     "groep": "regio",
@@ -1487,12 +2177,12 @@
      3.079,
      47.629
     ],
-    "maxzoom": 14,
+    "maxzoom": 15,
     "zak": false,
-    "schatting": 44000000
+    "schatting": 85000000
    },
    {
-    "id": "fr-28-z14",
+    "id": "fr-28-z15",
     "naam": "Eure-et-Loir, straatniveau",
     "omschrijving": "Straten, gebouwen en paden; Centre-Val de Loire",
     "groep": "regio",
@@ -1503,12 +2193,12 @@
      1.995,
      48.941
     ],
-    "maxzoom": 14,
+    "maxzoom": 15,
     "zak": false,
-    "schatting": 37000000
+    "schatting": 76000000
    },
    {
-    "id": "fr-36-z14",
+    "id": "fr-36-z15",
     "naam": "Indre, straatniveau",
     "omschrijving": "Straten, gebouwen en paden; Centre-Val de Loire",
     "groep": "regio",
@@ -1519,12 +2209,12 @@
      2.205,
      47.277
     ],
-    "maxzoom": 14,
+    "maxzoom": 15,
     "zak": false,
-    "schatting": 45000000
+    "schatting": 85000000
    },
    {
-    "id": "fr-37-z14",
+    "id": "fr-37-z15",
     "naam": "Indre-et-Loire, straatniveau",
     "omschrijving": "Straten, gebouwen en paden; Centre-Val de Loire",
     "groep": "regio",
@@ -1535,12 +2225,12 @@
      1.366,
      47.71
     ],
-    "maxzoom": 14,
+    "maxzoom": 15,
     "zak": false,
-    "schatting": 55000000
+    "schatting": 112000000
    },
    {
-    "id": "fr-41-z14",
+    "id": "fr-41-z15",
     "naam": "Loir-et-Cher, straatniveau",
     "omschrijving": "Straten, gebouwen en paden; Centre-Val de Loire",
     "groep": "regio",
@@ -1551,12 +2241,12 @@
      2.248,
      48.133
     ],
-    "maxzoom": 14,
+    "maxzoom": 15,
     "zak": false,
-    "schatting": 62000000
+    "schatting": 130000000
    },
    {
-    "id": "fr-45-z14",
+    "id": "fr-45-z15",
     "naam": "Loiret, straatniveau",
     "omschrijving": "Straten, gebouwen en paden; Centre-Val de Loire",
     "groep": "regio",
@@ -1567,12 +2257,12 @@
      3.129,
      48.345
     ],
-    "maxzoom": 14,
+    "maxzoom": 15,
     "zak": false,
-    "schatting": 47000000
+    "schatting": 95000000
    },
    {
-    "id": "fr-08-z14",
+    "id": "fr-08-z15",
     "naam": "Ardennen, straatniveau",
     "omschrijving": "Straten, gebouwen en paden; Grand Est",
     "groep": "regio",
@@ -1583,12 +2273,12 @@
      5.394,
      50.169
     ],
-    "maxzoom": 14,
+    "maxzoom": 15,
     "zak": false,
-    "schatting": 43000000
+    "schatting": 80000000
    },
    {
-    "id": "fr-10-z14",
+    "id": "fr-10-z15",
     "naam": "Aube, straatniveau",
     "omschrijving": "Straten, gebouwen en paden; Grand Est",
     "groep": "regio",
@@ -1599,12 +2289,12 @@
      4.865,
      48.717
     ],
-    "maxzoom": 14,
+    "maxzoom": 15,
     "zak": false,
-    "schatting": 30000000
+    "schatting": 57000000
    },
    {
-    "id": "fr-51-z14",
+    "id": "fr-51-z15",
     "naam": "Marne, straatniveau",
     "omschrijving": "Straten, gebouwen en paden; Grand Est",
     "groep": "regio",
@@ -1615,12 +2305,12 @@
      5.04,
      49.407
     ],
-    "maxzoom": 14,
+    "maxzoom": 15,
     "zak": false,
-    "schatting": 39000000
+    "schatting": 76000000
    },
    {
-    "id": "fr-52-z14",
+    "id": "fr-52-z15",
     "naam": "Haute-Marne, straatniveau",
     "omschrijving": "Straten, gebouwen en paden; Grand Est",
     "groep": "regio",
@@ -1631,12 +2321,12 @@
      5.891,
      48.689
     ],
-    "maxzoom": 14,
+    "maxzoom": 15,
     "zak": false,
-    "schatting": 37000000
+    "schatting": 67000000
    },
    {
-    "id": "fr-54-z14",
+    "id": "fr-54-z15",
     "naam": "Meurthe-et-Moselle, straatniveau",
     "omschrijving": "Straten, gebouwen en paden; Grand Est",
     "groep": "regio",
@@ -1647,12 +2337,12 @@
      7.123,
      49.563
     ],
-    "maxzoom": 14,
+    "maxzoom": 15,
     "zak": false,
-    "schatting": 95000000
+    "schatting": 195000000
    },
    {
-    "id": "fr-55-z14",
+    "id": "fr-55-z15",
     "naam": "Meuse, straatniveau",
     "omschrijving": "Straten, gebouwen en paden; Grand Est",
     "groep": "regio",
@@ -1663,12 +2353,12 @@
      5.854,
      49.617
     ],
-    "maxzoom": 14,
+    "maxzoom": 15,
     "zak": false,
-    "schatting": 40000000
+    "schatting": 69000000
    },
    {
-    "id": "fr-57-z14",
+    "id": "fr-57-z15",
     "naam": "Moselle, straatniveau",
     "omschrijving": "Straten, gebouwen en paden; Grand Est",
     "groep": "regio",
@@ -1679,12 +2369,12 @@
      7.639,
      49.515
     ],
-    "maxzoom": 14,
+    "maxzoom": 15,
     "zak": false,
-    "schatting": 90000000
+    "schatting": 195000000
    },
    {
-    "id": "fr-67-z14",
+    "id": "fr-67-z15",
     "naam": "Bas-Rhin, straatniveau",
     "omschrijving": "Straten, gebouwen en paden; Grand Est",
     "groep": "regio",
@@ -1695,12 +2385,12 @@
      8.233,
      49.078
     ],
-    "maxzoom": 14,
+    "maxzoom": 15,
     "zak": false,
-    "schatting": 79000000
+    "schatting": 162000000
    },
    {
-    "id": "fr-68-z14",
+    "id": "fr-68-z15",
     "naam": "Haut-Rhin, straatniveau",
     "omschrijving": "Straten, gebouwen en paden; Grand Est",
     "groep": "regio",
@@ -1711,12 +2401,12 @@
      7.622,
      48.311
     ],
-    "maxzoom": 14,
+    "maxzoom": 15,
     "zak": false,
-    "schatting": 47000000
+    "schatting": 98000000
    },
    {
-    "id": "fr-88-z14",
+    "id": "fr-88-z15",
     "naam": "Vogezen, straatniveau",
     "omschrijving": "Straten, gebouwen en paden; Grand Est",
     "groep": "regio",
@@ -1727,12 +2417,12 @@
      7.198,
      48.514
     ],
-    "maxzoom": 14,
+    "maxzoom": 15,
     "zak": false,
-    "schatting": 49000000
+    "schatting": 92000000
    },
    {
-    "id": "fr-02-z14",
+    "id": "fr-02-z15",
     "naam": "Aisne, straatniveau",
     "omschrijving": "Straten, gebouwen en paden; Hauts-de-France",
     "groep": "regio",
@@ -1743,28 +2433,44 @@
      4.256,
      50.069
     ],
-    "maxzoom": 14,
+    "maxzoom": 15,
     "zak": false,
-    "schatting": 53000000
+    "schatting": 107000000
    },
    {
-    "id": "fr-59-z14",
-    "naam": "Noorderdepartement, straatniveau",
+    "id": "fr-59-west-z15",
+    "naam": "Noorderdepartement west, straatniveau",
     "omschrijving": "Straten, gebouwen en paden; Hauts-de-France",
     "groep": "regio",
     "land": "fr",
     "bbox": [
      2.08,
      49.969,
+     3.155,
+     51.089
+    ],
+    "maxzoom": 15,
+    "zak": false,
+    "schatting": 170000000
+   },
+   {
+    "id": "fr-59-oost-z15",
+    "naam": "Noorderdepartement oost, straatniveau",
+    "omschrijving": "Straten, gebouwen en paden; Hauts-de-France",
+    "groep": "regio",
+    "land": "fr",
+    "bbox": [
+     3.155,
+     49.969,
      4.231,
      51.089
     ],
-    "maxzoom": 14,
+    "maxzoom": 15,
     "zak": false,
-    "schatting": 178000000
+    "schatting": 250000000
    },
    {
-    "id": "fr-60-z14",
+    "id": "fr-60-z15",
     "naam": "Oise, straatniveau",
     "omschrijving": "Straten, gebouwen en paden; Hauts-de-France",
     "groep": "regio",
@@ -1775,12 +2481,12 @@
      3.166,
      49.764
     ],
-    "maxzoom": 14,
+    "maxzoom": 15,
     "zak": false,
-    "schatting": 41000000
+    "schatting": 87000000
    },
    {
-    "id": "fr-62-z14",
+    "id": "fr-62-z15",
     "naam": "Pas-de-Calais, straatniveau",
     "omschrijving": "Straten, gebouwen en paden; Hauts-de-France",
     "groep": "regio",
@@ -1791,12 +2497,12 @@
      3.188,
      51.009
     ],
-    "maxzoom": 14,
+    "maxzoom": 15,
     "zak": false,
-    "schatting": 90000000
+    "schatting": 204000000
    },
    {
-    "id": "fr-80-z14",
+    "id": "fr-80-z15",
     "naam": "Somme, straatniveau",
     "omschrijving": "Straten, gebouwen en paden; Hauts-de-France",
     "groep": "regio",
@@ -1807,28 +2513,140 @@
      3.203,
      50.366
     ],
-    "maxzoom": 14,
+    "maxzoom": 15,
     "zak": false,
-    "schatting": 49000000
+    "schatting": 101000000
    },
    {
-    "id": "fr-idf-z14",
-    "naam": "Île-de-France, straatniveau",
-    "omschrijving": "Straten, gebouwen en paden",
+    "id": "fr-75c-z15",
+    "naam": "Parijs, straatniveau",
+    "omschrijving": "Straten, gebouwen en paden; Île-de-France",
+    "groep": "regio",
+    "land": "fr",
+    "bbox": [
+     2.224,
+     48.816,
+     2.47,
+     48.902
+    ],
+    "maxzoom": 15,
+    "zak": false,
+    "schatting": 30000000
+   },
+   {
+    "id": "fr-77-z15",
+    "naam": "Seine-et-Marne, straatniveau",
+    "omschrijving": "Straten, gebouwen en paden; Île-de-France",
+    "groep": "regio",
+    "land": "fr",
+    "bbox": [
+     2.392,
+     48.12,
+     3.559,
+     49.118
+    ],
+    "maxzoom": 15,
+    "zak": false,
+    "schatting": 135000000
+   },
+   {
+    "id": "fr-78-z15",
+    "naam": "Yvelines, straatniveau",
+    "omschrijving": "Straten, gebouwen en paden; Île-de-France",
     "groep": "regio",
     "land": "fr",
     "bbox": [
      1.446,
-     48.12,
-     3.559,
-     49.241
+     48.439,
+     2.229,
+     49.085
     ],
-    "maxzoom": 14,
+    "maxzoom": 15,
     "zak": false,
-    "schatting": 120000000
+    "schatting": 85000000
    },
    {
-    "id": "fr-16-z14",
+    "id": "fr-91-z15",
+    "naam": "Essonne, straatniveau",
+    "omschrijving": "Straten, gebouwen en paden; Île-de-France",
+    "groep": "regio",
+    "land": "fr",
+    "bbox": [
+     1.914,
+     48.285,
+     2.585,
+     48.776
+    ],
+    "maxzoom": 15,
+    "zak": false,
+    "schatting": 62000000
+   },
+   {
+    "id": "fr-92-z15",
+    "naam": "Hauts-de-Seine, straatniveau",
+    "omschrijving": "Straten, gebouwen en paden; Île-de-France",
+    "groep": "regio",
+    "land": "fr",
+    "bbox": [
+     2.146,
+     48.729,
+     2.337,
+     48.951
+    ],
+    "maxzoom": 15,
+    "zak": false,
+    "schatting": 38000000
+   },
+   {
+    "id": "fr-93-z15",
+    "naam": "Seine-Saint-Denis, straatniveau",
+    "omschrijving": "Straten, gebouwen en paden; Île-de-France",
+    "groep": "regio",
+    "land": "fr",
+    "bbox": [
+     2.288,
+     48.807,
+     2.603,
+     49.012
+    ],
+    "maxzoom": 15,
+    "zak": false,
+    "schatting": 52000000
+   },
+   {
+    "id": "fr-94-z15",
+    "naam": "Val-de-Marne, straatniveau",
+    "omschrijving": "Straten, gebouwen en paden; Île-de-France",
+    "groep": "regio",
+    "land": "fr",
+    "bbox": [
+     2.309,
+     48.688,
+     2.616,
+     48.861
+    ],
+    "maxzoom": 15,
+    "zak": false,
+    "schatting": 40000000
+   },
+   {
+    "id": "fr-95-z15",
+    "naam": "Val-d'Oise, straatniveau",
+    "omschrijving": "Straten, gebouwen en paden; Île-de-France",
+    "groep": "regio",
+    "land": "fr",
+    "bbox": [
+     1.608,
+     48.909,
+     2.595,
+     49.241
+    ],
+    "maxzoom": 15,
+    "zak": false,
+    "schatting": 72000000
+   },
+   {
+    "id": "fr-16-z15",
     "naam": "Charente, straatniveau",
     "omschrijving": "Straten, gebouwen en paden; Nieuw-Aquitanië",
     "groep": "regio",
@@ -1839,12 +2657,12 @@
      0.947,
      46.141
     ],
-    "maxzoom": 14,
+    "maxzoom": 15,
     "zak": false,
-    "schatting": 46000000
+    "schatting": 90000000
    },
    {
-    "id": "fr-17-z14",
+    "id": "fr-17-z15",
     "naam": "Charente-Maritime, straatniveau",
     "omschrijving": "Straten, gebouwen en paden; Nieuw-Aquitanië",
     "groep": "regio",
@@ -1855,12 +2673,12 @@
      0.006,
      46.372
     ],
-    "maxzoom": 14,
+    "maxzoom": 15,
     "zak": false,
-    "schatting": 62000000
+    "schatting": 136000000
    },
    {
-    "id": "fr-19-z14",
+    "id": "fr-19-z15",
     "naam": "Corrèze, straatniveau",
     "omschrijving": "Straten, gebouwen en paden; Nieuw-Aquitanië",
     "groep": "regio",
@@ -1871,12 +2689,12 @@
      2.529,
      45.765
     ],
-    "maxzoom": 14,
+    "maxzoom": 15,
     "zak": false,
-    "schatting": 44000000
+    "schatting": 78000000
    },
    {
-    "id": "fr-23-z14",
+    "id": "fr-23-z15",
     "naam": "Creuse, straatniveau",
     "omschrijving": "Straten, gebouwen en paden; Nieuw-Aquitanië",
     "groep": "regio",
@@ -1887,12 +2705,12 @@
      2.611,
      46.455
     ],
-    "maxzoom": 14,
+    "maxzoom": 15,
     "zak": false,
-    "schatting": 48000000
+    "schatting": 82000000
    },
    {
-    "id": "fr-24-z14",
+    "id": "fr-24-z15",
     "naam": "Dordogne, straatniveau",
     "omschrijving": "Straten, gebouwen en paden; Nieuw-Aquitanië",
     "groep": "regio",
@@ -1903,12 +2721,12 @@
      1.448,
      45.715
     ],
-    "maxzoom": 14,
+    "maxzoom": 15,
     "zak": false,
-    "schatting": 66000000
+    "schatting": 124000000
    },
    {
-    "id": "fr-33-z14",
+    "id": "fr-33-z15",
     "naam": "Gironde, straatniveau",
     "omschrijving": "Straten, gebouwen en paden; Nieuw-Aquitanië",
     "groep": "regio",
@@ -1919,12 +2737,12 @@
      0.315,
      45.602
     ],
-    "maxzoom": 14,
+    "maxzoom": 15,
     "zak": false,
-    "schatting": 62000000
+    "schatting": 144000000
    },
    {
-    "id": "fr-40-z14",
+    "id": "fr-40-z15",
     "naam": "Landes, straatniveau",
     "omschrijving": "Straten, gebouwen en paden; Nieuw-Aquitanië",
     "groep": "regio",
@@ -1935,12 +2753,12 @@
      0.137,
      44.532
     ],
-    "maxzoom": 14,
+    "maxzoom": 15,
     "zak": false,
-    "schatting": 46000000
+    "schatting": 94000000
    },
    {
-    "id": "fr-47-z14",
+    "id": "fr-47-z15",
     "naam": "Lot-et-Garonne, straatniveau",
     "omschrijving": "Straten, gebouwen en paden; Nieuw-Aquitanië",
     "groep": "regio",
@@ -1951,12 +2769,12 @@
      1.078,
      44.766
     ],
-    "maxzoom": 14,
+    "maxzoom": 15,
     "zak": false,
-    "schatting": 38000000
+    "schatting": 74000000
    },
    {
-    "id": "fr-64-z14",
+    "id": "fr-64-z15",
     "naam": "Pyrénées-Atlantiques, straatniveau",
     "omschrijving": "Straten, gebouwen en paden; Nieuw-Aquitanië",
     "groep": "regio",
@@ -1967,12 +2785,12 @@
      0.03,
      43.597
     ],
-    "maxzoom": 14,
+    "maxzoom": 15,
     "zak": false,
-    "schatting": 69000000
+    "schatting": 130000000
    },
    {
-    "id": "fr-79-z14",
+    "id": "fr-79-z15",
     "naam": "Deux-Sèvres, straatniveau",
     "omschrijving": "Straten, gebouwen en paden; Nieuw-Aquitanië",
     "groep": "regio",
@@ -1983,12 +2801,12 @@
      0.22,
      47.108
     ],
-    "maxzoom": 14,
+    "maxzoom": 15,
     "zak": false,
-    "schatting": 51000000
+    "schatting": 102000000
    },
    {
-    "id": "fr-86-z14",
+    "id": "fr-86-z15",
     "naam": "Vienne, straatniveau",
     "omschrijving": "Straten, gebouwen en paden; Nieuw-Aquitanië",
     "groep": "regio",
@@ -1999,12 +2817,12 @@
      1.213,
      47.176
     ],
-    "maxzoom": 14,
+    "maxzoom": 15,
     "zak": false,
-    "schatting": 49000000
+    "schatting": 95000000
    },
    {
-    "id": "fr-87-z14",
+    "id": "fr-87-z15",
     "naam": "Haute-Vienne, straatniveau",
     "omschrijving": "Straten, gebouwen en paden; Nieuw-Aquitanië",
     "groep": "regio",
@@ -2015,28 +2833,92 @@
      1.91,
      46.401
     ],
-    "maxzoom": 14,
+    "maxzoom": 15,
     "zak": false,
-    "schatting": 50000000
+    "schatting": 92000000
    },
    {
-    "id": "fr-nor-z14",
-    "naam": "Normandië, straatniveau",
-    "omschrijving": "Straten, gebouwen en paden",
+    "id": "fr-14-z15",
+    "naam": "Calvados, straatniveau",
+    "omschrijving": "Straten, gebouwen en paden; Normandië",
+    "groep": "regio",
+    "land": "fr",
+    "bbox": [
+     -1.16,
+     48.752,
+     0.447,
+     49.43
+    ],
+    "maxzoom": 15,
+    "zak": false,
+    "schatting": 92000000
+   },
+   {
+    "id": "fr-27-z15",
+    "naam": "Eure, straatniveau",
+    "omschrijving": "Straten, gebouwen en paden; Normandië",
+    "groep": "regio",
+    "land": "fr",
+    "bbox": [
+     0.296,
+     48.666,
+     1.803,
+     49.485
+    ],
+    "maxzoom": 15,
+    "zak": false,
+    "schatting": 97000000
+   },
+   {
+    "id": "fr-50-z15",
+    "naam": "Manche, straatniveau",
+    "omschrijving": "Straten, gebouwen en paden; Normandië",
     "groep": "regio",
     "land": "fr",
     "bbox": [
      -1.955,
-     48.179,
-     1.803,
-     50.072
+     48.456,
+     -0.735,
+     49.728
     ],
-    "maxzoom": 14,
+    "maxzoom": 15,
     "zak": false,
-    "schatting": 187000000
+    "schatting": 90000000
    },
    {
-    "id": "fr-09-z14",
+    "id": "fr-61-z15",
+    "naam": "Orne, straatniveau",
+    "omschrijving": "Straten, gebouwen en paden; Normandië",
+    "groep": "regio",
+    "land": "fr",
+    "bbox": [
+     -0.861,
+     48.179,
+     0.977,
+     48.973
+    ],
+    "maxzoom": 15,
+    "zak": false,
+    "schatting": 93000000
+   },
+   {
+    "id": "fr-76-z15",
+    "naam": "Seine-Maritime, straatniveau",
+    "omschrijving": "Straten, gebouwen en paden; Normandië",
+    "groep": "regio",
+    "land": "fr",
+    "bbox": [
+     0.066,
+     49.251,
+     1.791,
+     50.072
+    ],
+    "maxzoom": 15,
+    "zak": false,
+    "schatting": 97000000
+   },
+   {
+    "id": "fr-09-z15",
     "naam": "Ariège, straatniveau",
     "omschrijving": "Straten, gebouwen en paden; Occitanië",
     "groep": "regio",
@@ -2047,12 +2929,12 @@
      2.176,
      43.316
     ],
-    "maxzoom": 14,
+    "maxzoom": 15,
     "zak": false,
-    "schatting": 37000000
+    "schatting": 68000000
    },
    {
-    "id": "fr-11-z14",
+    "id": "fr-11-z15",
     "naam": "Aude, straatniveau",
     "omschrijving": "Straten, gebouwen en paden; Occitanië",
     "groep": "regio",
@@ -2063,12 +2945,12 @@
      3.24,
      43.46
     ],
-    "maxzoom": 14,
+    "maxzoom": 15,
     "zak": false,
-    "schatting": 48000000
+    "schatting": 96000000
    },
    {
-    "id": "fr-12-z14",
+    "id": "fr-12-z15",
     "naam": "Aveyron, straatniveau",
     "omschrijving": "Straten, gebouwen en paden; Occitanië",
     "groep": "regio",
@@ -2079,12 +2961,12 @@
      3.452,
      44.941
     ],
-    "maxzoom": 14,
+    "maxzoom": 15,
     "zak": false,
-    "schatting": 74000000
+    "schatting": 141000000
    },
    {
-    "id": "fr-30-z14",
+    "id": "fr-30-z15",
     "naam": "Gard, straatniveau",
     "omschrijving": "Straten, gebouwen en paden; Occitanië",
     "groep": "regio",
@@ -2095,12 +2977,12 @@
      4.846,
      44.46
     ],
-    "maxzoom": 14,
+    "maxzoom": 15,
     "zak": false,
-    "schatting": 71000000
+    "schatting": 155000000
    },
    {
-    "id": "fr-31-z14",
+    "id": "fr-31-z15",
     "naam": "Haute-Garonne, straatniveau",
     "omschrijving": "Straten, gebouwen en paden; Occitanië",
     "groep": "regio",
@@ -2111,12 +2993,12 @@
      2.048,
      43.922
     ],
-    "maxzoom": 14,
+    "maxzoom": 15,
     "zak": false,
-    "schatting": 90000000
+    "schatting": 185000000
    },
    {
-    "id": "fr-32-z14",
+    "id": "fr-32-z15",
     "naam": "Gers, straatniveau",
     "omschrijving": "Straten, gebouwen en paden; Occitanië",
     "groep": "regio",
@@ -2127,12 +3009,12 @@
      1.203,
      44.08
     ],
-    "maxzoom": 14,
+    "maxzoom": 15,
     "zak": false,
-    "schatting": 60000000
+    "schatting": 108000000
    },
    {
-    "id": "fr-34-z14",
+    "id": "fr-34-z15",
     "naam": "Hérault, straatniveau",
     "omschrijving": "Straten, gebouwen en paden; Occitanië",
     "groep": "regio",
@@ -2143,12 +3025,12 @@
      4.195,
      43.973
     ],
-    "maxzoom": 14,
+    "maxzoom": 15,
     "zak": false,
-    "schatting": 55000000
+    "schatting": 117000000
    },
    {
-    "id": "fr-46-z14",
+    "id": "fr-46-z15",
     "naam": "Lot, straatniveau",
     "omschrijving": "Straten, gebouwen en paden; Occitanië",
     "groep": "regio",
@@ -2159,12 +3041,12 @@
      2.211,
      45.047
     ],
-    "maxzoom": 14,
+    "maxzoom": 15,
     "zak": false,
-    "schatting": 48000000
+    "schatting": 87000000
    },
    {
-    "id": "fr-48-z14",
+    "id": "fr-48-z15",
     "naam": "Lozère, straatniveau",
     "omschrijving": "Straten, gebouwen en paden; Occitanië",
     "groep": "regio",
@@ -2175,12 +3057,12 @@
      3.998,
      44.976
     ],
-    "maxzoom": 14,
+    "maxzoom": 15,
     "zak": false,
-    "schatting": 28000000
+    "schatting": 49000000
    },
    {
-    "id": "fr-65-z14",
+    "id": "fr-65-z15",
     "naam": "Hautes-Pyrénées, straatniveau",
     "omschrijving": "Straten, gebouwen en paden; Occitanië",
     "groep": "regio",
@@ -2191,12 +3073,12 @@
      0.646,
      43.613
     ],
-    "maxzoom": 14,
+    "maxzoom": 15,
     "zak": false,
-    "schatting": 54000000
+    "schatting": 94000000
    },
    {
-    "id": "fr-66-z14",
+    "id": "fr-66-z15",
     "naam": "Pyrénées-Orientales, straatniveau",
     "omschrijving": "Straten, gebouwen en paden; Occitanië",
     "groep": "regio",
@@ -2207,12 +3089,12 @@
      3.178,
      42.919
     ],
-    "maxzoom": 14,
+    "maxzoom": 15,
     "zak": false,
-    "schatting": 32000000
+    "schatting": 64000000
    },
    {
-    "id": "fr-81-z14",
+    "id": "fr-81-z15",
     "naam": "Tarn, straatniveau",
     "omschrijving": "Straten, gebouwen en paden; Occitanië",
     "groep": "regio",
@@ -2223,12 +3105,12 @@
      2.937,
      44.201
     ],
-    "maxzoom": 14,
+    "maxzoom": 15,
     "zak": false,
-    "schatting": 43000000
+    "schatting": 85000000
    },
    {
-    "id": "fr-82-z14",
+    "id": "fr-82-z15",
     "naam": "Tarn-et-Garonne, straatniveau",
     "omschrijving": "Straten, gebouwen en paden; Occitanië",
     "groep": "regio",
@@ -2239,28 +3121,108 @@
      2.001,
      44.394
     ],
-    "maxzoom": 14,
+    "maxzoom": 15,
     "zak": false,
-    "schatting": 32000000
+    "schatting": 63000000
    },
    {
-    "id": "fr-pac-z14",
-    "naam": "Provence-Alpes-Côte d'Azur, straatniveau",
-    "omschrijving": "Straten, gebouwen en paden",
+    "id": "fr-04-z15",
+    "naam": "Alpes-de-Haute-Provence, straatniveau",
+    "omschrijving": "Straten, gebouwen en paden; Provence-Alpes-Côte d'Azur",
+    "groep": "regio",
+    "land": "fr",
+    "bbox": [
+     5.496,
+     43.668,
+     6.969,
+     44.66
+    ],
+    "maxzoom": 15,
+    "zak": false,
+    "schatting": 90000000
+   },
+   {
+    "id": "fr-05-z15",
+    "naam": "Hautes-Alpes, straatniveau",
+    "omschrijving": "Straten, gebouwen en paden; Provence-Alpes-Côte d'Azur",
+    "groep": "regio",
+    "land": "fr",
+    "bbox": [
+     5.418,
+     44.186,
+     7.077,
+     45.127
+    ],
+    "maxzoom": 15,
+    "zak": false,
+    "schatting": 108000000
+   },
+   {
+    "id": "fr-06-z15",
+    "naam": "Alpes-Maritimes, straatniveau",
+    "omschrijving": "Straten, gebouwen en paden; Provence-Alpes-Côte d'Azur",
+    "groep": "regio",
+    "land": "fr",
+    "bbox": [
+     6.635,
+     43.48,
+     7.719,
+     44.363
+    ],
+    "maxzoom": 15,
+    "zak": false,
+    "schatting": 77000000
+   },
+   {
+    "id": "fr-13-z15",
+    "naam": "Bouches-du-Rhône, straatniveau",
+    "omschrijving": "Straten, gebouwen en paden; Provence-Alpes-Côte d'Azur",
     "groep": "regio",
     "land": "fr",
     "bbox": [
      4.23,
-     42.982,
-     7.719,
-     45.127
+     43.157,
+     5.814,
+     43.925
     ],
-    "maxzoom": 14,
+    "maxzoom": 15,
     "zak": false,
-    "schatting": 264000000
+    "schatting": 123000000
    },
    {
-    "id": "fr-44-z14",
+    "id": "fr-83-z15",
+    "naam": "Var, straatniveau",
+    "omschrijving": "Straten, gebouwen en paden; Provence-Alpes-Côte d'Azur",
+    "groep": "regio",
+    "land": "fr",
+    "bbox": [
+     5.656,
+     42.982,
+     6.933,
+     43.809
+    ],
+    "maxzoom": 15,
+    "zak": false,
+    "schatting": 77000000
+   },
+   {
+    "id": "fr-84-z15",
+    "naam": "Vaucluse, straatniveau",
+    "omschrijving": "Straten, gebouwen en paden; Provence-Alpes-Côte d'Azur",
+    "groep": "regio",
+    "land": "fr",
+    "bbox": [
+     4.649,
+     43.659,
+     5.758,
+     44.432
+    ],
+    "maxzoom": 15,
+    "zak": false,
+    "schatting": 102000000
+   },
+   {
+    "id": "fr-44-z15",
     "naam": "Loire-Atlantique, straatniveau",
     "omschrijving": "Straten, gebouwen en paden; Pays de la Loire",
     "groep": "regio",
@@ -2271,12 +3233,12 @@
      -0.947,
      47.836
     ],
-    "maxzoom": 14,
+    "maxzoom": 15,
     "zak": false,
-    "schatting": 76000000
+    "schatting": 163000000
    },
    {
-    "id": "fr-49-z14",
+    "id": "fr-49-z15",
     "naam": "Maine-et-Loire, straatniveau",
     "omschrijving": "Straten, gebouwen en paden; Pays de la Loire",
     "groep": "regio",
@@ -2287,12 +3249,12 @@
      0.234,
      47.81
     ],
-    "maxzoom": 14,
+    "maxzoom": 15,
     "zak": false,
-    "schatting": 62000000
+    "schatting": 126000000
    },
    {
-    "id": "fr-53-z14",
+    "id": "fr-53-z15",
     "naam": "Mayenne, straatniveau",
     "omschrijving": "Straten, gebouwen en paden; Pays de la Loire",
     "groep": "regio",
@@ -2303,12 +3265,12 @@
      -0.049,
      48.568
     ],
-    "maxzoom": 14,
+    "maxzoom": 15,
     "zak": false,
-    "schatting": 34000000
+    "schatting": 69000000
    },
    {
-    "id": "fr-72-z14",
+    "id": "fr-72-z15",
     "naam": "Sarthe, straatniveau",
     "omschrijving": "Straten, gebouwen en paden; Pays de la Loire",
     "groep": "regio",
@@ -2319,12 +3281,12 @@
      0.917,
      48.485
     ],
-    "maxzoom": 14,
+    "maxzoom": 15,
     "zak": false,
-    "schatting": 53000000
+    "schatting": 102000000
    },
    {
-    "id": "fr-85-z14",
+    "id": "fr-85-z15",
     "naam": "Vendée, straatniveau",
     "omschrijving": "Straten, gebouwen en paden; Pays de la Loire",
     "groep": "regio",
@@ -2335,9 +3297,9 @@
      -0.538,
      47.085
     ],
-    "maxzoom": 14,
+    "maxzoom": 15,
     "zak": false,
-    "schatting": 54000000
+    "schatting": 116000000
    }
   ],
   "lu": [
@@ -2374,7 +3336,7 @@
     "schatting": 19000000
    },
    {
-    "id": "lu-z14",
+    "id": "lu-z15",
     "naam": "Luxemburg, straatniveau",
     "omschrijving": "Straten, gebouwen en paden",
     "groep": "regio",
@@ -2385,9 +3347,9 @@
      6.54,
      50.19
     ],
-    "maxzoom": 14,
+    "maxzoom": 15,
     "zak": false,
-    "schatting": 58000000
+    "schatting": 102000000
    }
   ],
   "nl": [
@@ -2424,7 +3386,7 @@
     "schatting": 171000000
    },
    {
-    "id": "nl-dr-z14",
+    "id": "nl-dr-z15",
     "naam": "Drenthe, straatniveau",
     "omschrijving": "Straten, gebouwen en paden",
     "groep": "regio",
@@ -2435,12 +3397,12 @@
      7.093,
      53.204
     ],
-    "maxzoom": 14,
+    "maxzoom": 15,
     "zak": false,
-    "schatting": 50000000
+    "schatting": 101000000
    },
    {
-    "id": "nl-fl-z14",
+    "id": "nl-fl-z15",
     "naam": "Flevoland, straatniveau",
     "omschrijving": "Straten, gebouwen en paden",
     "groep": "regio",
@@ -2451,12 +3413,12 @@
      6.017,
      52.844
     ],
-    "maxzoom": 14,
+    "maxzoom": 15,
     "zak": false,
-    "schatting": 40000000
+    "schatting": 85000000
    },
    {
-    "id": "nl-fr-z14",
+    "id": "nl-fr-z15",
     "naam": "Fryslân, straatniveau",
     "omschrijving": "Straten, gebouwen en paden",
     "groep": "regio",
@@ -2467,28 +3429,44 @@
      6.428,
      53.54
     ],
-    "maxzoom": 14,
+    "maxzoom": 15,
     "zak": false,
-    "schatting": 63000000
+    "schatting": 125000000
    },
    {
-    "id": "nl-ge-z14",
-    "naam": "Gelderland, straatniveau",
+    "id": "nl-ge-west-z15",
+    "naam": "Gelderland west, straatniveau",
     "omschrijving": "Straten, gebouwen en paden",
     "groep": "regio",
     "land": "nl",
     "bbox": [
      4.994,
      51.734,
+     5.913,
+     52.522
+    ],
+    "maxzoom": 15,
+    "zak": false,
+    "schatting": 196000000
+   },
+   {
+    "id": "nl-ge-oost-z15",
+    "naam": "Gelderland oost, straatniveau",
+    "omschrijving": "Straten, gebouwen en paden",
+    "groep": "regio",
+    "land": "nl",
+    "bbox": [
+     5.913,
+     51.734,
      6.833,
      52.522
     ],
-    "maxzoom": 14,
+    "maxzoom": 15,
     "zak": false,
-    "schatting": 149000000
+    "schatting": 157000000
    },
    {
-    "id": "nl-gr-z14",
+    "id": "nl-gr-z15",
     "naam": "Groningen, straatniveau",
     "omschrijving": "Straten, gebouwen en paden",
     "groep": "regio",
@@ -2499,12 +3477,12 @@
      7.227,
      53.576
     ],
-    "maxzoom": 14,
+    "maxzoom": 15,
     "zak": false,
-    "schatting": 49000000
+    "schatting": 100000000
    },
    {
-    "id": "nl-li-z14",
+    "id": "nl-li-z15",
     "naam": "Limburg, straatniveau",
     "omschrijving": "Straten, gebouwen en paden",
     "groep": "regio",
@@ -2515,12 +3493,12 @@
      6.227,
      51.779
     ],
-    "maxzoom": 14,
+    "maxzoom": 15,
     "zak": false,
-    "schatting": 76000000
+    "schatting": 172000000
    },
    {
-    "id": "nl-nb-z14",
+    "id": "nl-nb-z15",
     "naam": "Noord-Brabant, straatniveau",
     "omschrijving": "Straten, gebouwen en paden",
     "groep": "regio",
@@ -2531,12 +3509,12 @@
      6.048,
      51.831
     ],
-    "maxzoom": 14,
+    "maxzoom": 15,
     "zak": false,
-    "schatting": 114000000
+    "schatting": 269000000
    },
    {
-    "id": "nl-nh-z14",
+    "id": "nl-nh-z15",
     "naam": "Noord-Holland, straatniveau",
     "omschrijving": "Straten, gebouwen en paden",
     "groep": "regio",
@@ -2547,12 +3525,12 @@
      5.377,
      53.214
     ],
-    "maxzoom": 14,
+    "maxzoom": 15,
     "zak": false,
-    "schatting": 71000000
+    "schatting": 181000000
    },
    {
-    "id": "nl-ov-z14",
+    "id": "nl-ov-z15",
     "naam": "Overijssel, straatniveau",
     "omschrijving": "Straten, gebouwen en paden",
     "groep": "regio",
@@ -2563,12 +3541,12 @@
      7.073,
      52.854
     ],
-    "maxzoom": 14,
+    "maxzoom": 15,
     "zak": false,
-    "schatting": 89000000
+    "schatting": 190000000
    },
    {
-    "id": "nl-ut-z14",
+    "id": "nl-ut-z15",
     "naam": "Utrecht, straatniveau",
     "omschrijving": "Straten, gebouwen en paden",
     "groep": "regio",
@@ -2579,12 +3557,12 @@
      5.627,
      52.304
     ],
-    "maxzoom": 14,
+    "maxzoom": 15,
     "zak": false,
-    "schatting": 56000000
+    "schatting": 128000000
    },
    {
-    "id": "nl-ze-z14",
+    "id": "nl-ze-z15",
     "naam": "Zeeland, straatniveau",
     "omschrijving": "Straten, gebouwen en paden",
     "groep": "regio",
@@ -2595,12 +3573,12 @@
      4.277,
      51.782
     ],
-    "maxzoom": 14,
+    "maxzoom": 15,
     "zak": false,
-    "schatting": 31000000
+    "schatting": 64000000
    },
    {
-    "id": "nl-zh-z14",
+    "id": "nl-zh-z15",
     "naam": "Zuid-Holland, straatniveau",
     "omschrijving": "Straten, gebouwen en paden",
     "groep": "regio",
@@ -2611,12 +3589,12 @@
      5.031,
      52.333
     ],
-    "maxzoom": 14,
+    "maxzoom": 15,
     "zak": false,
-    "schatting": 86000000
+    "schatting": 218000000
    }
   ]
  },
- "gepland": "2026-11-17",
+ "gepland": "2026-11-18",
  "doel_bytes": 280000000
 }
