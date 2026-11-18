@@ -8251,5 +8251,1080 @@
     "land": "NL",
     "licentie_kenmerk": "vrij mag worden hergebruikt, tenzij dat in de publicatie anders is aangegeven",
     "opmerking": "Bron van officieel_netwerk false (veld netwerk_bron): het kabinet besloot in 1990 de rol van openbare schuilgelegenheden te beëindigen; gemeenten beslissen zelf. Licentiezin van overheid.nl/help/officiele-bekendmakingen/bestanden-en-hergebruik."
+  },
+  {
+    "soort": "dataset",
+    "licentie": "Creative Commons 4.0 Attribution (CC BY 4.0)",
+    "toestemming": "vrij",
+    "route": "automatisch",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "kaartlagen"
+    ],
+    "id": "be-bosa-best-adressen",
+    "naam": "BeST Address - openaddress-be (CSV per gewest, afgeleid van de BeST XML)",
+    "eigenaar": "FOD BOSA DG Digitale Transformatie (bronnen: Paradigm / Digitaal Vlaanderen / SPW)",
+    "url": "https://opendata.bosa.be/index.nl.html",
+    "land": "BE",
+    "licentie_kenmerk": "Op de pagina onder 'Licentie' letterlijk: \"Creative Commons 4.0 Attribution\"",
+    "opmerking": "Laag: adressen. Gebruikt in pipeline/officieel.py en pipeline/verrijken.py (adressen omzetten naar coördinaten). Download: https://opendata.bosa.be/download/best/openaddress-bevlg.zip. Ongeveer 7183347 records (nagekeken 2026-11-18). Records: VLG 4.224.445 (current 3.887.910, retired 284.817, proposed 48.365, rejected 3.353), BRU 849.246 (current 663.636, proposed 180.552, retired 3.566, rejected 1.492), WAL 2.109.656 (alle current). Totaal current: 6.661.202. Alle records hebben coordinaten. Voor geocodering filteren op status=current. Eentalige gemeenten hebben lege velden in andere talen; Vlaamse postname_nl soms in hoofdle"
+  },
+  {
+    "soort": "api",
+    "licentie": "Modellicentie voor gratis hergebruik v1.0",
+    "toestemming": "vrij",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "kaartlagen"
+    ],
+    "id": "be-vlaanderen-adressenregister",
+    "naam": "Gebouwen- en adressenregister - adressen (Adressenregister Vlaanderen)",
+    "eigenaar": "Agentschap Digitaal Vlaanderen",
+    "url": "https://www.vlaanderen.be/datavindplaats/catalogus/gebouwen-en-adressenregister-adressen",
+    "land": "BE",
+    "opmerking": "Laag: adressen. Alternatief voor BeST (BOSA) in Vlaanderen; de pijplijn gebruikt BeST voor heel België. Authentieke bron voor Vlaanderen; zit integraal in de BOSA-CSV openaddress-bevlg. API werkt zonder sleutel (getest, HTTP 200), documentatie vermeldt ook API-sleutels. Compatibiliteit met CC BY 4.0 / ODbL niet expliciet vermeld (licentiepagina noemt CC BY 3.0 en ODC-By 1.0 als compatibel)."
+  },
+  {
+    "soort": "dataset",
+    "licentie": "CC0 1.0",
+    "toestemming": "vrij",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "kaartlagen"
+    ],
+    "id": "be-brussel-urbis-adressen",
+    "naam": "BeSt Address Brussels / UrbIS Adressen",
+    "eigenaar": "Paradigm (Brussels gewest, ex-CIRB/CIBG)",
+    "url": "https://geobru-geonetwork.irisnet.be/geonetwork/srv/api/records/a8c9ccde-5c2b-11ed-913a-900f0cda5d5c",
+    "land": "BE",
+    "opmerking": "Laag: adressen. Alternatief voor BeST (BOSA) in Brussel; de pijplijn gebruikt BeST voor heel België. Landingspagina datastore.brussels is een JavaScript-app en kon niet als tekst gelezen worden; gegevens komen uit het Geobru-metadatarecord. Ook geocodeer-API: https://geoservices.irisnet.be/geocoding/swagger-ui/index.html. Zit integraal in BOSA-CSV openaddress-bebru."
+  },
+  {
+    "soort": "dataset",
+    "licentie": "CC BY 4.0",
+    "toestemming": "vrij",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "kaartlagen"
+    ],
+    "id": "be-wallonie-icar-adressen",
+    "naam": "ICAR - Points d'adresses (ICAR_VDIFF__ADR)",
+    "eigenaar": "Service public de Wallonie (SPW)",
+    "url": "http://geoportail.wallonie.be/catalogue/2998bccd-dae4-49fb-b6a5-867e6c37680f.html",
+    "land": "BE",
+    "opmerking": "Laag: adressen. Alternatief voor BeST (BOSA) in Wallonië; de pijplijn gebruikt BeST voor heel België. Authentieke bron voor Wallonie; zit in BOSA-CSV openaddress-bewal (daar alleen status current). PICC zelf niet apart onderzocht. Licentie-URL is de standaard CC BY 4.0-URL, niet letterlijk van de pagina overgenomen."
+  },
+  {
+    "soort": "dataset",
+    "licentie": "Geen open licentie; site-disclaimer: reproductie vereist voorafgaande toestemming van het FAGG (uitzondering scholen/opvoedkundig niet-commercieel)",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "kaartlagen"
+    ],
+    "id": "be-fagg-kadaster-apotheken",
+    "naam": "Kadaster van apotheken: lijst met vergunde (voor het publiek opengestelde) apotheken",
+    "eigenaar": "FAGG / AFMPS (Federaal Agentschap voor Geneesmiddelen en Gezondheidsproducten)",
+    "url": "https://www.fagg-afmps.be/nl/MENSELIJK_gebruik/geneesmiddelen/geneesmiddelen/distributie_aflevering/officina",
+    "land": "BE",
+    "licentie_kenmerk": "onderworpen aan de voorafgaande toestemming van het FAGG",
+    "opmerking": "Laag: apotheken. TOESTEMMING AAN TE VRAGEN (zie docs/kaartdata.md). Contact: registration_pharmacy@fagg.be (contact kadaster op de pagina); establishment_pharmacy@fagg.be (vestiging). Ongeveer 4801 records (nagekeken 2026-11-18). Beste bron: volledig, officieel, met coördinaten en status. state: '' (4502) of 'closed_temporarily' (299). Ook als Excel (pharmacies_pub_nl.xls, 1,5 MB, ook gedownload) en PDF. Disclaimer dateert van 10/02/2021 en noemt de wet van 4 mei 2016 niet; geen modellicentie gezien. Voorbeelden: 110101 'Julie Borghijs', Laar 20, 2630 Aartselaar, X 651339,8 Y 702693,6; 110204 'Van Den Eynde Karolien', Jan "
+  },
+  {
+    "soort": "dataset",
+    "licentie": "Creative Commons Naamsvermelding 4.0 Internationaal",
+    "toestemming": "vrij",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "kaartlagen"
+    ],
+    "id": "be-favv-operatoren",
+    "naam": "FAVV Lijst operatoren (actieve registraties/erkenningen/toelatingen)",
+    "eigenaar": "FAVV / AFSCA (Federaal Agentschap voor de veiligheid van de voedselketen)",
+    "url": "https://favv-afsca.be/nl/open-data/favv-operatoren",
+    "land": "BE",
+    "licentie_kenmerk": "Creative Commons Naamsvermelding 4.0 Internationaal",
+    "opmerking": "Laag: apotheken. Niet in de pijplijn: geen naam of straat per apotheek, alleen postcode; hoogstens om aantallen per postcode te controleren. Ongeveer 3548 records (nagekeken 2026-11-18). Aantal = rijen met PAP 834 'Apotheek (LM>3 maand)' van 311.656 rijen totaal (84 MB). Geen dierenartsen-activiteit gevonden. Zonder naam/adres niet bruikbaar als kaartlaag; hooguit kruiscontrole van aantallen per postcode."
+  },
+  {
+    "soort": "dataset",
+    "licentie": "CC0 1.0",
+    "toestemming": "vrij",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "kaartlagen"
+    ],
+    "id": "be-bxl-stad-apotheken",
+    "naam": "Pharmacies (Ville de Bruxelles)",
+    "eigenaar": "Ville de Bruxelles / Data Management (attributie: hub.brussels)",
+    "url": "https://opendata.brussels.be/api/explore/v2.1/catalog/datasets/pharmacies0",
+    "land": "BE",
+    "licentie_kenmerk": "CC0 1.0",
+    "opmerking": "Laag: apotheken. Niet in de pijplijn: gegevens uit 2020, te oud voor een officieel label. Ongeveer 106 records (nagekeken 2026-11-18). Alleen grondgebied Stad Brussel, gegevens referentiejaar 2020 (verouderd). Voorbeelden: id_shop 16010846, Rue de l'Enseignement 38, 1000 Bruxelles; 16018224, Rue du Luxembourg 21, 1000. Geen status. FAGG-lijst is vollediger."
+  },
+  {
+    "soort": "dataset",
+    "licentie": "Creative Commons - CC0 (metadata); license_url verwijst echter naar CC-BY",
+    "toestemming": "vrij",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "kaartlagen"
+    ],
+    "id": "be-thuin-apotheken",
+    "naam": "Schema_pharmacie_thuin",
+    "eigenaar": "Ville de Thuin",
+    "url": "https://www.odwb.be/api/explore/v2.1/catalog/datasets/shema_pharmacie_thuin",
+    "land": "BE",
+    "licentie_kenmerk": "Creative Commons - CC0",
+    "opmerking": "Laag: apotheken. Niet in de pijplijn: zes apotheken, licentie in de metadata tegenstrijdig (CC0 en CC BY); wacht op het FAGG-kadaster. Ongeveer 6 records (nagekeken 2026-11-18). Eén gemeente, 6 records; enige ODWB-treffer voor 'pharmacie'. Licentie CC0 of CC BY (beide ODbL-compatibel). Voorbeelden: 56078-001 Pharmacie Guillaume, Rue de Thuin 28, 6534 Gozée; 56078-002 Pharmacie de la Drève, Drève des Alliés 10, 6530 Thuin. Verwaarloosbaar naast FAGG."
+  },
+  {
+    "soort": "dataset",
+    "licentie": "Copyright Stad Antwerpen; gebruiksvoorwaarden in Word-document (niet geopend)",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "kaartlagen"
+    ],
+    "id": "be-antwerpen-apotheken",
+    "naam": "apotheek (Stad Antwerpen open data)",
+    "eigenaar": "Stad Antwerpen / Team Data; bron KAVA (Koninklijke Apothekersvereniging van Antwerpen)",
+    "url": "https://geodata.antwerpen.be/arcgissql/rest/services/P_Portal/portal_publiek5/MapServer/576",
+    "land": "BE",
+    "licentie_kenmerk": "Copyright: Stad Antwerpen ©",
+    "opmerking": "Laag: apotheken. Licentie onduidelijk: navragen voor gebruik (zie docs/kaartdata.md). Ongeveer 193 records (nagekeken 2026-11-18). Alleen stad Antwerpen. Hub-item id 153fc31b42ce4f50b44a05364f005471. Voorbeelden: ap3399 Apotheek Commuphar, Turnhoutsebaan 117, 2100 Deurne; ap3400 De Roma, Turnhoutsebaan 282, 2140 Borgerhout. Geen status. Overbodig naast FAGG."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "Geen open licentie; disclaimer: reproductie onderworpen aan voorafgaande toestemming",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "kaartlagen"
+    ],
+    "id": "be-ngrod-ledenlijst-klinieken",
+    "naam": "Orde der Dierenartsen (NGROD): Ledenlijst, Dierenklinieken en dierenartsencentra, Lijst DRP's",
+    "eigenaar": "Nederlandstalige Gewestelijke Raad van de Orde der Dierenartsen (NGROD)",
+    "url": "https://www.ordederdierenartsen.be/klinieken-en-centra",
+    "land": "BE",
+    "licentie_kenmerk": "onderworpen aan de voorafgaande toestemming",
+    "opmerking": "Laag: dierenartsen. TOESTEMMING AAN TE VRAGEN (zie docs/kaartdata.md). Contact: info@ordederdierenartsen.be; NGROD, Driekoningenplein 12, 9820 Merelbeke; T 09 225 58 18 (9u-12u). Zoekfuncties (Ledenlijst: naam/ordenummer/gemeente; Klinieken en centra: naam/diersoorten/gemeente), niet gescraped. Veldnamen afgeleid uit het paginasjabloon. Lijst DRP's is statische HTML met namen van leden (persoonsgegevens). Ook pagina 'Lijst wachtdiensten' (/wachtdiensten), niet geopend. Disclaimer vraagt bronvermelding '© Nederlandstalige Gewestelijke Raad van de Orde der Dierenartsen'. Dek"
+  },
+  {
+    "soort": "pagina",
+    "licentie": "niet bevestigd (geen licentie- of juridische vermelding gevonden op homepage)",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "kaartlagen"
+    ],
+    "id": "be-crfomv-veterinaires",
+    "naam": "Ordre des Médecins Vétérinaires (CRFOMV): Rechercher un vétérinaire, Cliniques reconnues, Centres vétérinaires reconnus",
+    "eigenaar": "Conseil Régional d'expression Française de l'Ordre des Médecins Vétérinaires (CRFOMV)",
+    "url": "https://www.ordre-veterinaires.be/liste_cliniques.php",
+    "land": "BE",
+    "opmerking": "Laag: dierenartsen. TOESTEMMING AAN TE VRAGEN (zie docs/kaartdata.md). Contact: info@ordre-veterinaires.be; Rue Mazy 171B bte 103, 5100 Jambes; T 081/30.87.88 (adres van NGROD-contactpagina). Ongeveer 30 records (nagekeken 2026-11-18). Aantal = ca. 30 erkende klinieken op liste_cliniques.php (geteld in HTML, niet exact). Ook liste_centres.php en zoekfunctie recherche_new.php (niet gescraped). Klinieklijst bevat namen van dierenartsen; ook Brusselse/Vlaamse adressen. Geen volledige praktijklijst."
+  },
+  {
+    "soort": "api",
+    "licentie": "niet bevestigd",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "kaartlagen"
+    ],
+    "id": "be-abb-lblod-gemeenten",
+    "naam": "Organisatiegegevens lokale besturen (OSLO/LBLOD) - Centrale Vindplaats SPARQL",
+    "eigenaar": "Agentschap Binnenlands Bestuur (Vlaamse overheid)",
+    "url": "https://centrale-vindplaats.lblod.info/",
+    "land": "BE",
+    "licentie_kenmerk": "geen licentietekst gevonden op site of in data",
+    "opmerking": "Laag: overheid. Licentie onduidelijk: navragen voor gebruik (zie docs/kaartdata.md). Contact: contactformulier https://www.vlaanderen.be/lokaal-bestuur/contacteer-ons (geen e-mailadres op de pagina's gezien). Ongeveer 304 records (nagekeken 2026-11-18). Query: classificatie 'Gemeente', orgStatus 'Actief', org:hasPrimarySite (vestigingstype 'Maatschappelijke zetel') -> organisatie:bestaatUit (locn:Address). 304 actieve gemeenten (fusies 2025 verwerkt, bv. Beveren-Kruibeke-Zwijndrecht, Pajottegem); 34 'Niet Actief'. 308 rijen: Berlare, Merelbeke-Melle en Sint-Truiden hebben meerdere adressen op de zetel. NIS-code niet als identificator gevonden (we"
+  },
+  {
+    "soort": "dataset",
+    "licentie": "Licence BCE Open Data (aparte PDF, niet geopend)",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "kaartlagen"
+    ],
+    "id": "be-kbo-open-data",
+    "naam": "KBO Open Data (Kruispuntbank van Ondernemingen)",
+    "eigenaar": "FOD Economie",
+    "url": "https://economie.fgov.be/en/themes/enterprises/crossroads-bank-enterprises/services-everyone/public-data-available-reuse/cbe-open-data",
+    "land": "BE",
+    "licentie_kenmerk": "Personal data may not be reused for direct marketing",
+    "opmerking": "Laag: overheid. Licentie onduidelijk: navragen voor gebruik (zie docs/kaartdata.md). Contact: kbo-bce-webservice@economie.fgov.be (voor SFTP-toegang, op pagina gezien). Mogelijke landelijke terugvaloptie voor zetel-adressen van alle 565 gemeenten (incl. Wallonië en Ostbelgien). Registratie en aanvaarding gebruiksvoorwaarden vereist; licentietekst niet gelezen; niet gedownload."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "n.v.t.",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "kaartlagen"
+    ],
+    "id": "be-wal-gemeentehuizen",
+    "naam": "Wallonië en Ostbelgien: geen officiële open dataset met adres gemeentehuis gevonden",
+    "eigenaar": "SPW Intérieur / UVCW / Deutschsprachige Gemeinschaft",
+    "url": "https://www.odwb.be/",
+    "land": "BE",
+    "opmerking": "Laag: overheid. Licentie onduidelijk: navragen voor gebruik (zie docs/kaartdata.md). Gezocht in ODWB-catalogus (administration/maison communale, hôtel de ville, annuaire), Metawal-catalogus en via webzoeken (interieur.wallonie.be, WalOnMap). Alleen 'Mandataires locaux' (UVCW, CC BY-NC 4.0: past niet in ODbL) gevonden. Terugval: KBO Open Data of OSM."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "geen open licentie vermeld",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "kaartlagen"
+    ],
+    "id": "be-fod-aed-register",
+    "naam": "AED-register FOD Volksgezondheid (lijst geregistreerde AED's op aanvraag)",
+    "eigenaar": "FOD Volksgezondheid, Veiligheid van de Voedselketen en Leefmilieu",
+    "url": "https://www.health.belgium.be/nl/tools/automatische-externe-defibrillator-aed-registreren",
+    "land": "BE",
+    "licentie_kenmerk": "Vraag deze lijst via mail",
+    "opmerking": "Laag: aed. TOESTEMMING AAN TE VRAGEN (zie docs/kaartdata.md). Contact: aed-dea@health.fgov.be (op registratiepagina); FAQ 2025 vermeldt AED-DEA@health.belgium.be; algemeen adres FOD: Galileelaan 5 bus 2, 1210 Brussel. Registratie verplicht voor AED's op publieke plaatsen (KB 21/4/2007). Pagina zegt niets over hergebruik of publicatie. Lijst kan per e-mail gevraagd worden; voor opname in ODbL-databank expliciete toestemming (hergebruiklicentie) vragen."
+  },
+  {
+    "soort": "api",
+    "licentie": "Gebruiksvoorwaarden Stad Antwerpen (document niet geopend)",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "kaartlagen"
+    ],
+    "id": "be-vl-antwerpen-drinkfonteinen",
+    "naam": "Drinkfontein (Stad Antwerpen)",
+    "eigenaar": "Stad Antwerpen, Stadsontwikkeling Beheer en Onderhoud",
+    "url": "https://geodata.antwerpen.be/arcgissql/rest/services/P_Portal/portal_publiek4/MapServer/265",
+    "land": "BE",
+    "licentie_kenmerk": "Copyright: Stad Antwerpen © , zie: ...Gebruiksvoorwaarden.doc",
+    "opmerking": "Laag: drinkwater. Licentie onduidelijk: navragen voor gebruik (zie docs/kaartdata.md). Ongeveer 97 records (nagekeken 2026-11-18). Voorbeelden: DF_0000004 Sint-Jansvliet 4, 2000 (plein); DF_0000005 Beukenlaan, 2020 (park). Hub-licentieveld 'none'. Gebruiksvoorwaarden nalezen voor opname."
+  },
+  {
+    "soort": "api",
+    "licentie": "niet bevestigd",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "kaartlagen"
+    ],
+    "id": "be-vl-antwerpen-aed",
+    "naam": "AED (Automatische externe defibrillator) - Stad Antwerpen",
+    "eigenaar": "Stad Antwerpen | SD | Welzijn | Gezondheid",
+    "url": "https://geodata.antwerpen.be/arcgissql/rest/services/P_Portal/portal_publiek11/MapServer/1049",
+    "land": "BE",
+    "licentie_kenmerk": "Copyright Stad Antwerpen.2020",
+    "opmerking": "Laag: aed. Licentie onduidelijk: navragen voor gebruik (zie docs/kaartdata.md). Ongeveer 208 records (nagekeken 2026-11-18). Alleen AED's in beheer van stadsdiensten. Voorbeelden: Sporthal All Inn, Slachthuislaan 44, 2060 (binnen, schooljaar 9-23u); Sporthal IGLO, Louis Paul Boonstraat 41-43, 2050 (buiten, 24u/24u). Veld 'contactpersoon' weglaten."
+  },
+  {
+    "soort": "dataset",
+    "licentie": "Modellicentie Gratis Hergebruik",
+    "toestemming": "vrij",
+    "route": "automatisch",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "kaartlagen"
+    ],
+    "id": "be-gent-drinkwaterplekken",
+    "naam": "Stad Gent: drinkwaterplekken",
+    "eigenaar": "Stad Gent, Dienst Preventie voor Veiligheid",
+    "url": "https://data.stad.gent/explore/dataset/drinkwaterplekken-gent/",
+    "land": "BE",
+    "licentie_kenmerk": "Modellicentie Gratis Hergebruik",
+    "opmerking": "Laag: drinkwater. Gebruikt in pipeline/officieel.py en pipeline/verrijken.py. Download: https://data.stad.gent/api/explore/v2.1/catalog/datasets/drinkwaterplekken-gent/exports/geojson. Ongeveer 50 records (nagekeken 2026-11-18). Binnenlocaties (buurtwerk e.d.) waar men drinkwater kan krijgen, geen straatfonteinen; openingsuren relevant. Voorbeelden: Buurtwerk Dampoort, Louis Schuermanstraat 1; Buurtwerk Ledeberg, Hundelgemsesteenweg 125. Modellicentie vereist bronvermelding (attributie)."
+  },
+  {
+    "soort": "dataset",
+    "licentie": "CC0 1.0",
+    "toestemming": "vrij",
+    "route": "automatisch",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "kaartlagen"
+    ],
+    "id": "be-bxl-stad-drinkwater",
+    "naam": "Stad Brussel: drinkwaterfonteinen",
+    "eigenaar": "Ville de Bruxelles / Data Management",
+    "url": "https://opendata.brussels.be/explore/dataset/fontaines-d-eau-potable-gerees-par-la-ville-de-bruxelles/",
+    "land": "BE",
+    "licentie_kenmerk": "CC0 1.0",
+    "opmerking": "Laag: drinkwater. Gebruikt in pipeline/officieel.py en pipeline/verrijken.py. Download: https://opendata.brussels.be/api/explore/v2.1/catalog/datasets/fontaines-d-eau-potable-gerees-par-la-ville-de-bruxelles/exports/geojson. Ongeveer 48 records (nagekeken 2026-11-18). Voorbeelden: FTB_000112 Watertappunt Grétry, Anspachlaan 21 (actief); FTB_000116 Watertappunt De Brouckère zuid, Emile Jacqmainlaan 2 (actief). Statusveld gebruiken om inactieve te filteren."
+  },
+  {
+    "soort": "dataset",
+    "licentie": "CC BY 4.0",
+    "toestemming": "vrij",
+    "route": "automatisch",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "kaartlagen"
+    ],
+    "id": "be-bru-vivaqua-drinkwater",
+    "naam": "Vivaqua: drinkwatertappunten beheerd door het gewest",
+    "eigenaar": "Ville de Bruxelles / Data Management (bron Vivaqua)",
+    "url": "https://opendata.brussels.be/explore/dataset/bornes-d-eau-potable-gerees-par-la-region-drinkwatertappunten-beheerd-door-het-gewest-vivaqua/",
+    "land": "BE",
+    "licentie_kenmerk": "CC BY 4.0",
+    "opmerking": "Laag: drinkwater. Gebruikt in pipeline/officieel.py en pipeline/verrijken.py. Download: https://opendata.brussels.be/api/explore/v2.1/catalog/datasets/bornes-d-eau-potable-gerees-par-la-region-drinkwatertappunten-beheerd-door-het-gewest-vivaqua/exports/geojson. Ongeveer 13 records (nagekeken 2026-11-18). Alleen gewestelijke Vivaqua-bornes op/nabij grondgebied Stad Brussel, niet het hele gewest. Voorbeelden: 110 REG-BR-06 (1000, Anneessens); 113 REG-BR-09 (1000, Koningswijk). Attributie vereist. Een gewestbrede Vivaqua-dataset niet gevonden."
+  },
+  {
+    "soort": "dataset",
+    "licentie": "CC BY 4.0",
+    "toestemming": "vrij",
+    "route": "automatisch",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "kaartlagen"
+    ],
+    "id": "be-nmbs-drinkwater",
+    "naam": "NMBS: gratis drinkwatertappunten in stations (Brussel)",
+    "eigenaar": "Ville de Bruxelles / Data Management",
+    "url": "https://opendata.brussels.be/explore/dataset/bornes-eau-potable-gratuite-des-gares-sncb-gratis-drinkwatertappunten-van-nmbs-stations/",
+    "land": "BE",
+    "licentie_kenmerk": "CC BY 4.0",
+    "opmerking": "Laag: drinkwater. Gebruikt in pipeline/officieel.py en pipeline/verrijken.py. Download: https://opendata.brussels.be/api/explore/v2.1/catalog/datasets/bornes-eau-potable-gratuite-des-gares-sncb-gratis-drinkwatertappunten-van-nmbs-stations/exports/geojson. Ongeveer 4 records (nagekeken 2026-11-18). Voorbeelden: BE00220 Brussel-Zuid (niveau 0, naast ingang perron 10); BE00215 Brussel-Centraal. Binnen stations, openingsuren station."
+  },
+  {
+    "soort": "dataset",
+    "licentie": "CC0 1.0",
+    "toestemming": "vrij",
+    "route": "automatisch",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "kaartlagen"
+    ],
+    "id": "be-bxl-stad-aed",
+    "naam": "Stad Brussel: defibrillatoren geplaatst door de stad",
+    "eigenaar": "Ville de Bruxelles / Data management",
+    "url": "https://opendata.brussels.be/explore/dataset/defibrillateurs-installes-par-la-ville-de-bruxelles/",
+    "land": "BE",
+    "licentie_kenmerk": "CC0 1.0",
+    "opmerking": "Laag: aed. Gebruikt in pipeline/officieel.py en pipeline/verrijken.py. Download: https://opendata.brussels.be/api/explore/v2.1/catalog/datasets/defibrillateurs-installes-par-la-ville-de-bruxelles/exports/geojson. Ongeveer 99 records (nagekeken 2026-11-18). Geen veld voor toegankelijkheid/openingsuren. Voorbeelden: 17587 Sportcomplex Cynthia Bolingo, Nieuwland 83, 1000; 17589 Mode & Kant Museum, Violetstraat 12, 1000."
+  },
+  {
+    "soort": "dataset",
+    "licentie": "CC BY",
+    "toestemming": "vrij",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "kaartlagen"
+    ],
+    "id": "be-wal-liege-aed",
+    "naam": "Les défibrillateurs (Ville de Liège)",
+    "eigenaar": "Ville de Liège",
+    "url": "https://www.odwb.be/explore/dataset/defibrillateurs/",
+    "land": "BE",
+    "licentie_kenmerk": "CC BY",
+    "opmerking": "Laag: aed. Niet in de pijplijn: laatst bijgewerkt in 2018, te oud voor een officieel label. Ongeveer 86 records (nagekeken 2026-11-18). Voorbeelden: Piscine Nicolas Spiroux, Rue Nicolas Spiroux 53 (en travaux); Piscine Outremeuse, Rue Louis Jamme 3. Veld owner_mail weglaten. Data sinds 2018 niet bijgewerkt."
+  },
+  {
+    "soort": "dataset",
+    "licentie": "CC BY",
+    "toestemming": "vrij",
+    "route": "automatisch",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "kaartlagen"
+    ],
+    "id": "be-verviers-aed",
+    "naam": "Ville de Verviers: défibrillateurs",
+    "eigenaar": "Ville de Verviers",
+    "url": "https://www.odwb.be/explore/dataset/defibrillateurs-verviers/",
+    "land": "BE",
+    "licentie_kenmerk": "CC BY",
+    "opmerking": "Laag: aed. Gebruikt in pipeline/officieel.py en pipeline/verrijken.py. Download: https://www.odwb.be/api/explore/v2.1/catalog/datasets/defibrillateurs-verviers/exports/geojson. Ongeveer 20 records (nagekeken 2026-11-18). Voorbeelden: Rue de la Forge 5, 4801 (école); Chaussée de Heusy 98-100, 4800."
+  },
+  {
+    "soort": "dataset",
+    "licentie": "Creative Commons - CC0 (license_url in metadata wijst naar opendefinition cc-by)",
+    "toestemming": "vrij",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "kaartlagen"
+    ],
+    "id": "be-wal-merbes-aed",
+    "naam": "Défibrillateurs (DEA) accessibles au public - Merbes-le-Château",
+    "eigenaar": "Commune de Merbes-le-Château",
+    "url": "https://www.odwb.be/explore/dataset/defibrillateurs-merbes-le-chateau/",
+    "land": "BE",
+    "licentie_kenmerk": "Creative Commons - CC0",
+    "opmerking": "Laag: aed. Niet in de pijplijn: zes toestellen zonder coördinaten en een tegenstrijdige licentie (CC0 en CC BY); eventueel later via het adressenbestand. Ongeveer 6 records (nagekeken 2026-11-18). Tegenstrijdige licentiemetadata (CC0 vs cc-by-URL); beide passen in ODbL met attributie. Voorbeelden: Salle Desoil, Place Desoil 3, Fontaine-Valmont; RFC Labuissière, Rue de Binche."
+  },
+  {
+    "soort": "dataset",
+    "licentie": "CC BY",
+    "toestemming": "vrij",
+    "route": "automatisch",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "kaartlagen"
+    ],
+    "id": "be-villers-aed",
+    "naam": "Villers-la-Ville: défibrillateurs",
+    "eigenaar": "Administration de Villers-la-Ville",
+    "url": "https://www.odwb.be/explore/dataset/defibrillateurs-vlv-schema-based/",
+    "land": "BE",
+    "licentie_kenmerk": "CC BY",
+    "opmerking": "Laag: aed. Gebruikt in pipeline/officieel.py en pipeline/verrijken.py. Download: https://www.odwb.be/api/explore/v2.1/catalog/datasets/defibrillateurs-vlv-schema-based/exports/geojson. Ongeveer 4 records (nagekeken 2026-11-18). Volgt een gestandaardiseerd DEA-schema ('schema-based'). Contactvelden (persoonsgegevens) weglaten. Voorbeelden: DEA Ecole Marbais, Rue du Berceau 18; DEA Administration Communale, Rue de Marbais."
+  },
+  {
+    "soort": "dataset",
+    "licentie": "CC BY",
+    "toestemming": "vrij",
+    "route": "automatisch",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "kaartlagen"
+    ],
+    "id": "be-tournai-fontaines",
+    "naam": "Ville de Tournai: fontaines à eau potable",
+    "eigenaar": "Ville de Tournai",
+    "url": "https://www.odwb.be/explore/dataset/tournai-fontaines-a-eau-potable/",
+    "land": "BE",
+    "licentie_kenmerk": "CC BY",
+    "opmerking": "Laag: drinkwater. Gebruikt in pipeline/officieel.py en pipeline/verrijken.py. Download: https://www.odwb.be/api/explore/v2.1/catalog/datasets/tournai-fontaines-a-eau-potable/exports/geojson. Ongeveer 9 records (nagekeken 2026-11-18). Voorbeelden: Rue Becquerelle; Place Victor Carbonnelle."
+  },
+  {
+    "soort": "dataset",
+    "licentie": "CC BY",
+    "toestemming": "vrij",
+    "route": "automatisch",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "kaartlagen"
+    ],
+    "id": "be-huy-eau-potable",
+    "naam": "Ville de Huy: points d'eau potable",
+    "eigenaar": "Ville de Huy",
+    "url": "https://www.odwb.be/explore/dataset/points-eau-potable0/",
+    "land": "BE",
+    "licentie_kenmerk": "CC BY",
+    "opmerking": "Laag: drinkwater. Gebruikt in pipeline/officieel.py en pipeline/verrijken.py. Download: https://www.odwb.be/api/explore/v2.1/catalog/datasets/points-eau-potable0/exports/geojson. Ongeveer 2 records (nagekeken 2026-11-18). Voorbeelden: Fontaine eau potable Avenue Delchambre; Place Verte."
+  },
+  {
+    "soort": "dataset",
+    "licentie": "CC BY",
+    "toestemming": "vrij",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "kaartlagen"
+    ],
+    "id": "be-wal-verviers-fontaines",
+    "naam": "Fontaines - Verviers",
+    "eigenaar": "Ville de Verviers",
+    "url": "https://www.odwb.be/explore/dataset/fontaines-verviers/",
+    "land": "BE",
+    "licentie_kenmerk": "CC BY",
+    "opmerking": "Laag: drinkwater. Niet in de pijplijn: sierfonteinen, geen drinkwater. Ongeveer 28 records (nagekeken 2026-11-18). NIET GESCHIKT als drinkwaterlaag: siersfonteinen zonder drinkwaterkenmerk (bv. 'Fontaine de l'Aigle de l'Harmonie', 'Fontaine Rio +10'). Alleen ter info."
+  },
+  {
+    "soort": "pdf",
+    "licentie": "geen licentie vermeld",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "kaartlagen"
+    ],
+    "id": "be-ibz-hulpverleningsposten",
+    "naam": "Adressen hulpverleningsposten / Adresses des postes de secours (34 hulpverleningszones + DBDMH/SIAMU)",
+    "eigenaar": "FOD Binnenlandse Zaken, Algemene Directie Civiele Veiligheid",
+    "url": "https://civieleveiligheid.be/nl/zonewerking",
+    "land": "BE",
+    "opmerking": "Laag: brandweer. TOESTEMMING AAN TE VRAGEN (zie docs/kaartdata.md). Contact: webmaster.scv-pcb@ibz.be; contactformulier https://civieleveiligheid.be/nl/contact; Leuvenseweg 1, 1000 Brussel. Ongeveer 318 records (nagekeken 2026-11-18). Enige officiele nationale lijst van brandweerposten die gevonden is. PDF uit Excel (tekstlaag, goed te parsen met pdftotext -layout). Aantal = telling van adresregels: 216 Vlaanderen, 94 Wallonie, 8 Brussel (Brusselse posten staan dubbel, NL en FR); niet handmatig nagekeken. Voorbeelden: 'Brandweer Zone Antwerpen | 2030 | Post Noord | Noorderlaan 69'; 'Zone du Brabant Wallon | 1420 | Braine-l'Alle"
+  },
+  {
+    "soort": "pagina",
+    "licentie": "geen hergebruik zonder schriftelijke toestemming (gebruiksvoorwaarden portaal)",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "kaartlagen"
+    ],
+    "id": "be-bxl-siamu-casernes",
+    "naam": "Pompiers de Bruxelles / Brandweer Brussel (SIAMU/DBDMH) - casernes",
+    "eigenaar": "SIAMU / DBDMH (Brusselse Hoofdstedelijke Dienst voor Brandweer en Dringende Medische Hulp); portaal be.brussels beheerd door Paradigm (CIRB)",
+    "url": "https://be.brussels/fr/pompiers-de-bruxelles/casernes",
+    "land": "BE",
+    "licentie_kenmerk": "Sauf autorisation explicite en la matiere",
+    "opmerking": "Laag: brandweer. TOESTEMMING AAN TE VRAGEN (zie docs/kaartdata.md). Contact: SIAMU, Avenue de l'Heliport 15, 1000 Bruxelles, tel. +32 2 208 81 11, formulier be.brussels/fr/pompiers-de-bruxelles/contact; portaal: communication@paradigm.brussels. Pagina noemt alleen de hoofdkazerne (Avenue de l'Heliport 15) en 'postes avances' zonder adressen of aantal. Geen open dataset gevonden op opendata.brussels.be (zoektermen pompiers/brandweer/siamu: 0 resultaten). De 8 Brusselse posten staan wel in be-ibz-hulpverleningsposten."
+  },
+  {
+    "soort": "dataset",
+    "licentie": "CC BY 4.0",
+    "toestemming": "vrij",
+    "route": "automatisch",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "kaartlagen"
+    ],
+    "id": "be-bxl-stad-politiekantoren",
+    "naam": "Stad Brussel: politiekantoren",
+    "eigenaar": "Ville de Bruxelles / Data Management (bron: PolBru)",
+    "url": "https://opendata.brussels.be/explore/dataset/bruxelles_bureaux_de_police/",
+    "land": "BE",
+    "licentie_kenmerk": "CC BY 4.0",
+    "opmerking": "Laag: politie. Gebruikt in pipeline/officieel.py en pipeline/verrijken.py. Download: https://opendata.brussels.be/api/explore/v2.1/catalog/datasets/bruxelles_bureaux_de_police/exports/geojson. Ongeveer 17 records (nagekeken 2026-11-18). Dekt maar een van de Brusselse politiezones (Brussel HOOFDSTAD Elsene). Opendatasoft API, automatisch te halen. Let op: attributie in de metadata noemt 'Polbru' en 'Google Maps' en er zijn Google-velden; de coordinaten komen mogelijk uit Google. Advies: neem naam en adres over en geocodeer zelf via het adressenregister. Voorbeelden: 'Directie Proximiteit en Interventie LAKEN | Emile Bockstaellaan "
+  },
+  {
+    "soort": "api",
+    "licentie": "'Open data' (specifieke licentie niet bevestigd)",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "kaartlagen"
+    ],
+    "id": "be-antw-politiekantoor",
+    "naam": "politiekantoor (Stad Antwerpen)",
+    "eigenaar": "Stad Antwerpen, Stadsontwikkeling/cel Omgevingsinformatie (accessInformation: Lokale Politie Antwerpen)",
+    "url": "https://portaal-stadantwerpen.opendata.arcgis.com/",
+    "land": "BE",
+    "licentie_kenmerk": "Open data",
+    "opmerking": "Laag: politie. Licentie onduidelijk: navragen voor gebruik (zie docs/kaartdata.md). Ongeveer 18 records (nagekeken 2026-11-18). Alleen stad Antwerpen (PZ Antwerpen), lokale en federale politie. Telefoon en openingsuren zijn leeg in de voorbeelden. Licentieveld zegt alleen 'Open data'; het oudere record op metadata.vlaanderen.be (0ab9e497-...) gaf 404. Voor gebruik in een ODbL-pijplijn eerst de licentie bevestigen. Voorbeelden: 'CICANT | Boomsesteenweg 180, 2610 Antwerpen'; 'Federale Politie | Boomsesteenweg 180, 2610 Antwe"
+  },
+  {
+    "soort": "pagina",
+    "licentie": "niet bevestigd",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "kaartlagen"
+    ],
+    "id": "be-politie-be",
+    "naam": "politie.be: per politiezone 'contact/commissariaten' en wijkpagina's",
+    "eigenaar": "Federale Politie / lokale politiezones (gedeeld platform politie.be)",
+    "url": "https://www.politie.be/nl",
+    "land": "BE",
+    "opmerking": "Laag: politie. TOESTEMMING AAN TE VRAGEN (zie docs/kaartdata.md). Alle aanvragen (homepage, robots.txt, zonepagina's zoals /5914/contact/commissariaten) gaven HTTP 403 met een onderhoudspagina, ook via WebFetch. Daarom is geen JSON-API, robots.txt of voorwaarden gecontroleerd en is er niet verder geprobeerd. Uit zoekresultaten blijkt dat elke zone een pagina 'contact/commissariaten' heeft onder politie.be/<zonenummer>/. Geen open dataset van commissariaten gevon"
+  },
+  {
+    "soort": "dataset",
+    "licentie": "CC0 1.0",
+    "toestemming": "vrij",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "kaartlagen"
+    ],
+    "id": "be-bxl-politiezones",
+    "naam": "Zones de police de la Region de Bruxelles-Capitale (grenzen)",
+    "eigenaar": "Ville de Bruxelles / Data management (attributie: mobilite.brussels)",
+    "url": "https://opendata.brussels.be/explore/dataset/zones-de-police-rbc/",
+    "land": "BE",
+    "licentie_kenmerk": "CC0 1.0",
+    "opmerking": "Laag: politie. Niet in de pijplijn: alleen de grenzen van de Brusselse politiezones, geen kantoren. Ongeveer 7 records (nagekeken 2026-11-18). Geen locaties, alleen zonegrenzen (bv. 'PZ ZUID' polnc 5341; 'PZ UKKEL - W-B - OUDERGEM' polnc 5342). Nuttig om bij een plek de bevoegde zone te tonen. Licentie-URL niet apart genoteerd. 7 features tegenover 6 Brusselse zones; niet uitgezocht waarom."
+  },
+  {
+    "soort": "api",
+    "licentie": "niet bevestigd",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "kaartlagen"
+    ],
+    "id": "be-wal-services-urgence-zones",
+    "naam": "Delimitation des zones des services d'urgence (zones de secours, zones de police)",
+    "eigenaar": "SPW (Geoportail de la Wallonie); grenzen van SPF Finances",
+    "url": "https://geoservices.wallonie.be/arcgis/rest/services/LIMITES/SERVICES_URGENCE/MapServer",
+    "land": "BE",
+    "licentie_kenmerk": "copyrightText: '© SPF Finances'",
+    "opmerking": "Laag: politie, brandweer. Licentie onduidelijk: navragen voor gebruik (zie docs/kaartdata.md). Alleen zonegrenzen (laag 0 Zones de secours, laag 1 Zones de Police), geen kazernes of commissariaten; niet gedownload. In de Waalse geodiensten is geen laag met kazernes of commissariaten gevonden (AWAC_INFRA_TEMPS_POMPIERS bevat alleen interventietijden en wegennet)."
+  },
+  {
+    "soort": "api",
+    "licentie": "auteursrechtelijk beschermd, bronvermelding 'Bron: VMM'; andere gebruiken via eigenaar",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "kaartlagen"
+    ],
+    "id": "be-vl-vmm-puntinfra-overstroming",
+    "naam": "Overstromingsrisicokaart Puntinfrastructuren - FLUVIAAL - huidig klimaat",
+    "eigenaar": "Vlaamse Milieumaatschappij (VMM)",
+    "url": "https://metadata.vlaanderen.be/srv/api/records/4a3af55a-c119-11ea-bb98-00215caf2660/formatters/xml",
+    "land": "BE",
+    "licentie_kenmerk": "De gegevens zijn beschermd door het auteursrecht",
+    "opmerking": "Laag: politie, brandweer. Licentie onduidelijk: navragen voor gebruik (zie docs/kaartdata.md). Contact: https://vmm.vlaanderen.be/ (specifiek adres niet bevestigd). Ongeveer 500 records (nagekeken 2026-11-18). Niet geschikt als register: alleen kritieke infrastructuur binnen overstromingsgebied, zonder naam of adres. In de download (500 features, mogelijk afgekapt) staan 3 'Brandweerkazerne' en 2 'Politiekazerne'. Alleen genoemd om dubbel zoekwerk te voorkomen."
+  },
+  {
+    "soort": "dataset",
+    "licentie": "Modellicentie voor gratis hergebruik (Vlaanderen), bronvermelding verplicht",
+    "toestemming": "vrij",
+    "route": "automatisch",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "kaartlagen"
+    ],
+    "id": "be-vl-zorg-poi",
+    "naam": "Departement Zorg: zorgvoorzieningen (POI-service)",
+    "eigenaar": "Departement Zorg (Vlaamse overheid); verspreid via Digitaal Vlaanderen POI-service",
+    "url": "https://www.vlaanderen.be/datavindplaats/catalogus/zorgvoorzieningen-erkend-door-het-agentschap-opgroeien-via-poi-service",
+    "land": "BE",
+    "licentie_kenmerk": "Modellicentie voor gratis hergebruik; Bronvermeldingsvoorschrift: \"Bron: VAZG\"",
+    "opmerking": "Laag: ziekenhuizen, medische posten. Gebruikt in pipeline/officieel.py en pipeline/verrijken.py. Download: https://geo.api.vlaanderen.be/POI/ogc/features/collections/POI/items?f=application%2Fjson&limit=10000&filter=PRODUCT=%27GezondheidszorgEnWoonzorg%27. Ongeveer 5516 records (nagekeken 2026-11-18). Bron is CoBRHA. Filter op POITYPE: 'Algemeen ziekenhuis' (98), 'Psychiatrisch ziekenhuis' (43), 'Spoed' (90), 'MUG' (78), 'Dagziekenhuis' (92). Eén record per erkende dienst per vestiging (zelfde coordinaat herhaald) -> dedupliceren op NAAM+adres of LINK2 (CoBRHA-fiche). Bevat GEEN huisartsenwachtposten of wijkgezondheidscentra; wel o.a. CGG, thuisverpleging, woonzorgcentra. Ook UZ Brussel (Vlaams"
+  },
+  {
+    "soort": "dataset",
+    "licentie": "Geen open licentie; gebruiksvoorwaarden: reproductie onderworpen aan voorafgaande toestemming FOD",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "kaartlagen"
+    ],
+    "id": "be-fod-spoed-mug",
+    "naam": "FOD Volksgezondheid - lijsten erkende ziekenhuisfuncties: gespecialiseerde spoedgevallenzorg, eerste opvang spoedgevallen, MUG (HIR-registratie)",
+    "eigenaar": "FOD Volksgezondheid, Veiligheid van de Voedselketen en Leefmilieu (DG Gezondheidszorg)",
+    "url": "https://www.health.belgium.be/en/professionals/health-professionals/human-health/healthcare-organization/healthcare-institutions",
+    "land": "BE",
+    "licentie_kenmerk": "\"subject to prior authorisation from the FPS\"",
+    "opmerking": "Laag: ziekenhuizen. TOESTEMMING AAN TE VRAGEN (zie docs/kaartdata.md). Contact: Aanvraagformulier gegevens DBI: https://www.health.belgium.be/nl/tools/aanvraagformulier-gegevens-dbi ; contactpagina https://www.health.belgium.be/en/contact ; tel. +32 2 524 97 97; Galileelaan 5 bus 2, 1210 Brussel. Ongeveer 216 records (nagekeken 2026-11-18). Beste nationale bron voor spoeddiensten per campus (alle gewesten incl. Ostbelgien: St. Nikolaus-Hospital Eupen en Klinik St. Josef Sankt-Vith). Aantallen: gespecialiseerde spoed 116 campussen, eerste opvang 4, MUG 96. Kopregels (5 metadata-rijen) overslaan; minstens 1 rij heeft verschoven kolommen (Klinik St. Josef: adres in 'Naam campus'). Voorbeelden: {009, campus 2000, ZAS MIDDELHEIM..., ZAS M"
+  },
+  {
+    "soort": "dataset",
+    "licentie": "Geen open licentie: alle rechten voorbehouden",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "kaartlagen"
+    ],
+    "id": "be-riziv-medische-huizen",
+    "naam": "RIZIV - adressen van alle medische huizen (forfaitaire betaling) / wijkgezondheidscentra / maisons médicales",
+    "eigenaar": "RIZIV / INAMI (Afdeling medische huizen)",
+    "url": "https://www.inami.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/wat-het-ziekenfonds-terugbetaalt/verzorging-in-medische-huizen",
+    "land": "BE",
+    "licentie_kenmerk": "\"© RIZIV, alle rechten voorbehouden\"",
+    "opmerking": "Laag: medische posten. TOESTEMMING AAN TE VRAGEN (zie docs/kaartdata.md). Contact: mh-mm@riziv-inami.fgov.be (Afdeling medische huizen). Ongeveer 296 records (nagekeken 2026-11-18). Enige gevonden nationale lijst van wijkgezondheidscentra/maisons médicales. Voorbeelden: {82654490, 101, 'WGC Noordwijk - Quartier Nord', Groendreef 15, 1000 Brussel}; {82653106, 101, 'MAISON MEDICALE DU MIDI', rue du Midi 165/5, 1000 Bruxelles}. Actualiteit nagaan bij RIZIV (Last-Modified 2018). Geocodering nodig."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "niet bevestigd",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "kaartlagen"
+    ],
+    "id": "be-wal-aviq-hopitaux",
+    "naam": "AViQ - signalétique des hôpitaux agréés en Wallonie",
+    "eigenaar": "AViQ - Direction des Soins et Infrastructures hospitaliers",
+    "url": "https://wallonie.be/fr/demarches/transmettre-des-modifications-intervenues-dans-la-signaletique-dun-hopital",
+    "land": "BE",
+    "opmerking": "Laag: ziekenhuizen. TOESTEMMING AAN TE VRAGEN (zie docs/kaartdata.md). Contact: soins.hospitaliers@aviq.be ; Rue de la Rivelaine 21, 6061 Montignies-sur-Sambre. Wallonië houdt een signalétique bij (naam, adres, erkenningsnummer) maar publiceert die niet als open data: niet gevonden op ODWB (odwb.be API) noch op Metawal/geoportail (alleen AViQ-lagen voor ouderenvoorzieningen en geestelijke gezondheidszorg, o.a. 'Services de Santé Mentale agréés'). Voor Waalse spoeddiensten is de FOD-lijst (be-fod-spoed-mug) bruikbaarder. Geen officiële lijst van Waalse pos"
+  },
+  {
+    "soort": "pagina",
+    "licentie": "niet bevestigd",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "kaartlagen"
+    ],
+    "id": "be-bxl-vivalis",
+    "naam": "Vivalis (GGC/COCOM) - gegevens Brusselse ziekenhuizen en zorgvoorzieningen",
+    "eigenaar": "Vivalis, administratie van de Gemeenschappelijke Gemeenschapscommissie (GGC/COCOM)",
+    "url": "https://www.vivalis.brussels/nl/contact",
+    "land": "BE",
+    "opmerking": "Laag: ziekenhuizen, medische posten. TOESTEMMING AAN TE VRAGEN (zie docs/kaartdata.md). Contact: Contactformulier https://www.vivalis.brussels/nl/contact (onderwerp 'Gegevensaanvraag') met bijlage 'Data request form Vivalis NL.docx' (https://www.vivalis.brussels/sites/default/files/Data%20request%20form%20Vivalis%20NL.docx); tel. 02 502 60 01; Belliardstraat 71/1, 1040 Brussel. Vivalis-nota (2026) spreekt van 27 sites van algemene/universitaire ziekenhuizen in Brussel per 1/1/2025 (via zoekresultaat, PDF niet zelf geopend). Brusselse spoeddiensten staan in de FOD-lijst. Iriscare niet apart onderzocht (budget)."
+  },
+  {
+    "soort": "dataset",
+    "licentie": "CC BY 4.0",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "kaartlagen"
+    ],
+    "id": "be-bxl-stad-zorg",
+    "naam": "Stad Brussel open data: Hôpitaux généraux en Maisons médicales / centres de soins de santé (territorium Stad Brussel)",
+    "eigenaar": "Ville de Bruxelles / Data Management",
+    "url": "https://opendata.brussels.be/explore/dataset/hopitaux-generaux/",
+    "land": "BE",
+    "licentie_kenmerk": "license: CC BY 4.0; attributions: Google Maps, social.brussels",
+    "opmerking": "Laag: ziekenhuizen, medische posten. Licentie onduidelijk: navragen voor gebruik (zie docs/kaartdata.md). Ongeveer 16 records (nagekeken 2026-11-18). Gemeentelijke bron, geen officieel register; alleen grondgebied Stad Brussel (6 ziekenhuissites, 10 medische huizen). CC BY 4.0 past in ODbL met attributie, MAAR metadata noemt 'Google Maps' als attributie: coordinaten mogelijk Google-geocodering -> niet overnemen zonder bevestiging; adressen/namen wel. Bronvermelding 'social.brussels' (Bruxelles Social-gids) kan een regionale bron zijn om verder "
+  },
+  {
+    "soort": "dataset",
+    "licentie": "Licence Ouverte / Open Licence 2.0 (Etalab)",
+    "toestemming": "vrij",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "kaartlagen"
+    ],
+    "id": "fr-finess-structures",
+    "naam": "FINESS - Structures (FINESS+, flux nouvelle génération)",
+    "eigenaar": "Agence du Numérique en Santé (ANS)",
+    "url": "https://www.data.gouv.fr/datasets/finess-structures-1",
+    "land": "FR",
+    "licentie_kenmerk": "lov2",
+    "opmerking": "Laag: ziekenhuizen, apotheken, medische_posten. Open licentie; nog niet in de pijplijn (die verrijkt nu alleen België). Opvolger van de oude Ministère-extractie (gestopt mei 2026). Bestand is 51,9 MB gecomprimeerd; alleen de eerste 4 MB gedownload om velden te bekijken. Aantal records niet bevestigd. Filteren op etatObjet (actief) en op categorie (355 = Centre Hospitalier gezien in de oude extractie; codes voor klinieken, apotheken (officines) en centres/maisons de santé niet zelf bevestigd). Medische posten: centr"
+  },
+  {
+    "soort": "dataset",
+    "licentie": "Licence Ouverte (Etalab)",
+    "toestemming": "vrij",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "kaartlagen"
+    ],
+    "id": "fr-finess-extraction-geoloc",
+    "naam": "FINESS Extraction du Fichier des établissements (géolocalisés)",
+    "eigenaar": "Ministère des Solidarités et de la Santé",
+    "url": "https://www.data.gouv.fr/datasets/finess-extraction-du-fichier-des-etablissements",
+    "land": "FR",
+    "licentie_kenmerk": "fr-lo",
+    "opmerking": "Laag: ziekenhuizen, apotheken, medische_posten. Open licentie; nog niet in de pijplijn (die verrijkt nu alleen België). Alleen de eerste 6 kB bekeken. Alleen nog bruikbaar als fallback; gebruik FINESS+ (fr-finess-structures)."
+  },
+  {
+    "soort": "dataset",
+    "licentie": "Licence Ouverte / Open Licence 2.0 (Etalab)",
+    "toestemming": "vrij",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "kaartlagen"
+    ],
+    "id": "fr-geodae",
+    "naam": "Géo'DAE - Base Nationale des Défibrillateurs",
+    "eigenaar": "Atlasanté (ARS / Ministère de la Santé)",
+    "url": "https://www.data.gouv.fr/datasets/geodae-base-nationale-des-defibrillateurs",
+    "land": "FR",
+    "licentie_kenmerk": "lov2",
+    "opmerking": "Laag: aeds. Open licentie; nog niet in de pijplijn (die verrijkt nu alleen België). Ongeveer 192374 records (nagekeken 2026-11-18). Aantal 192374 = totaal rijen volgens tabular-api.data.gouv.fr, inclusief alle statussen; filteren op c_etat_valid='validées', c_etat_fonct='En fonctionnement', c_doublon=f en c_dae_mobile=f. c_dispo_horaires in OSM-opening_hours-syntax. Alleen de eerste 30 kB gedownload (bestand > 50 MB)."
+  },
+  {
+    "soort": "dataset",
+    "licentie": "Licence Ouverte (Etalab)",
+    "toestemming": "vrij",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "kaartlagen"
+    ],
+    "id": "fr-police-nationale",
+    "naam": "Liste des services de police accueillant du public avec géolocalisation",
+    "eigenaar": "Ministère de l'Intérieur",
+    "url": "https://www.data.gouv.fr/datasets/liste-des-services-de-police-accueillant-du-public-avec-geolocalisation",
+    "land": "FR",
+    "licentie_kenmerk": "fr-lo",
+    "opmerking": "Laag: politie. Open licentie; nog niet in de pijplijn (die verrijkt nu alleen België). Ongeveer 733 records (nagekeken 2026-11-18). Sommige telefoonnummers zijn placeholders (bv. '+33 123456789'), controleren."
+  },
+  {
+    "soort": "dataset",
+    "licentie": "Licence Ouverte (Etalab)",
+    "toestemming": "vrij",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "kaartlagen"
+    ],
+    "id": "fr-gendarmerie",
+    "naam": "Liste des unités de gendarmerie accueillant du public, comprenant leur géolocalisation et leurs horaires d'ouverture",
+    "eigenaar": "Ministère de l'Intérieur",
+    "url": "https://www.data.gouv.fr/datasets/liste-des-unites-de-gendarmerie-accueillant-du-public-comprenant-leur-geolocalisation-et-leurs-horaires-douverture",
+    "land": "FR",
+    "licentie_kenmerk": "fr-lo",
+    "opmerking": "Laag: politie. Open licentie; nog niet in de pijplijn (die verrijkt nu alleen België). Ongeveer 3681 records (nagekeken 2026-11-18). Aantal = rijen in export-gn2.csv (csv-reader, excl. kop)."
+  },
+  {
+    "soort": "api",
+    "licentie": "Licence Ouverte v2.0 (Etalab) met aanvullende vermeldingsplicht",
+    "toestemming": "vrij",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "kaartlagen"
+    ],
+    "id": "fr-annuaire-service-public",
+    "naam": "Service-public.gouv.fr - Annuaire de l'administration - Base de données locales",
+    "eigenaar": "Direction de l'information légale et administrative (DILA, Premier ministre)",
+    "url": "https://www.data.gouv.fr/datasets/service-public-gouv-fr-annuaire-de-l-administration-base-de-donnees-locales",
+    "land": "FR",
+    "licentie_kenmerk": "fr-lo",
+    "opmerking": "Laag: gemeentehuizen, politie, brandweer. Open licentie; nog niet in de pijplijn (die verrijkt nu alleen België). Ongeveer 35813 records (nagekeken 2026-11-18). Aantal 35813 = records met pivot 'mairie' via de API. Verder geteld: gendarmerie 3602, commissariat_police 719, sdis 98 (alleen SDIS-hoofdkantoren, geen kazernes). Licentievoorwaarden letterlijk: 'Les réutilisateurs s'obligent à mentionner : la paternité des données ( Service-Public.gouv.fr /DILA ) ; l'url d'accès longue de téléchargement ; le nom du fichier téléchargé ainsi que la date du fichier"
+  },
+  {
+    "soort": "pagina",
+    "licentie": "wisselend: lov2 (Tarn, Alpes-de-Haute-Provence), ODbL (Hérault), niet gespecificeerd (Eure-et-Loir)",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "kaartlagen"
+    ],
+    "id": "fr-sdis-cis",
+    "naam": "Centres d'incendie et de secours (per SDIS, geen landelijke bron gevonden)",
+    "eigenaar": "Elke SDIS afzonderlijk (bv. SDIS 81 Tarn, SDIS 04, SDIS 34)",
+    "url": "https://www.data.gouv.fr/api/1/datasets/?q=centres%20incendie%20secours",
+    "land": "FR",
+    "licentie_kenmerk": "lov2 / odc-odbl / notspecified",
+    "opmerking": "Laag: brandweer. Licentie onduidelijk: navragen voor gebruik (zie docs/kaartdata.md). Geen nationale dataset van brandweerkazernes gevonden op data.gouv.fr. Voor brandweer in FR blijft OSM de hoofdbron; per-SDIS datasets alleen aanvullend."
+  },
+  {
+    "soort": "api",
+    "licentie": "CC0 1.0",
+    "toestemming": "vrij",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "kaartlagen"
+    ],
+    "id": "nl-politie-bureaus",
+    "naam": "Politiebureaus API (politie.nl)",
+    "eigenaar": "Politie (Nationale Politie)",
+    "url": "https://data.overheid.nl/dataset/politiebureau-s-api",
+    "land": "NL",
+    "opmerking": "Laag: politie. Open licentie; nog niet in de pijplijn (die verrijkt nu alleen België). Aantal niet hard bevestigd: offset=300 gaf 57 items met last=true (dus ca. 357), maar de API reageerde daarna niet stabiel. Bevat ook bureaus die 'permanent voor het publiek gesloten' zijn; filteren op openingstijden-tekst. Foto's niet voor promotie gebruiken."
+  },
+  {
+    "soort": "api",
+    "licentie": "CC0 1.0",
+    "toestemming": "vrij",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "kaartlagen"
+    ],
+    "id": "nl-roo-gemeenten",
+    "naam": "Register van Overheidsorganisaties (organisaties.overheid.nl) - export gemeenten",
+    "eigenaar": "KOOP (Kennis- en Exploitatiecentrum Officiële Overheidspublicaties), BZK",
+    "url": "https://data.overheid.nl/dataset/overheidsorganisaties-xml",
+    "land": "NL",
+    "licentie_kenmerk": "CC0 1.0 (data.overheid.nl)",
+    "opmerking": "Laag: gemeentehuizen. Open licentie; nog niet in de pijplijn (die verrijkt nu alleen België). Ongeveer 341 records (nagekeken 2026-11-18). 419 organisatie-elementen, waarvan 341 zonder eindDatum (actief). Gemeentehuis = adresType 'Bezoekadres'."
+  },
+  {
+    "soort": "pdf",
+    "licentie": "Geen formele licentie; gebruiksvoorwaarde in het document",
+    "toestemming": "vrij",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "kaartlagen"
+    ],
+    "id": "nl-rivm-ziekenhuislocaties",
+    "naam": "Ziekenhuislocaties RIVM 2025 (VZinfo)",
+    "eigenaar": "RIVM / VZinfo.nl",
+    "url": "https://www.vzinfo.nl/",
+    "land": "NL",
+    "opmerking": "Laag: ziekenhuizen. Open licentie; nog niet in de pijplijn (die verrijkt nu alleen België). Ongeveer 250 records (nagekeken 2026-11-18). Aantal ca. 250 regels met type (uit pdftotext, niet exact); zelf geteld o.a. 72 algemeen, 6 academisch, 6 kinder, 106 buitenpoli bij de regels die goed parsen. Geen SEH-indicatie; RIVM publiceert SEH-locaties apart in rapporten (niet als dataset gevonden). Hergebruik: voorwaarde is attributie, past in ODbL; formele bevestiging aanbevolen."
+  },
+  {
+    "soort": "api",
+    "licentie": "CC BY 4.0 (volgens data.overheid.nl)",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "kaartlagen"
+    ],
+    "id": "nl-nipv-kazernes",
+    "naam": "Brandweer, Kerncijfers Kazernes vanaf 2018",
+    "eigenaar": "NIPV (Nederlands Instituut Publieke Veiligheid)",
+    "url": "https://data.overheid.nl/dataset/brandweer-kerncijfers-kazernes-vanaf-2018",
+    "land": "NL",
+    "licentie_kenmerk": "CC-BY 4.0",
+    "opmerking": "Laag: brandweer. Licentie onduidelijk: navragen voor gebruik (zie docs/kaartdata.md). Beschrijving: 'Deze dataset bevat gegevens over de locaties en types van brandweerkazernes in Nederland.' De viewer zelf toonde geen kazernebestand of licentietekst; download met coördinaten niet bevestigd. CBS heeft kazerne-adressen met xy, maar die staan onder 'geslotenlicentie' (microdata). Bij NIPV navragen."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "Geen open licentie; Data Transfer Agreement na goedkeuring",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "kaartlagen"
+    ],
+    "id": "nl-hartslagnu-aed",
+    "naam": "HartslagNu AED-register",
+    "eigenaar": "Stichting HartslagNu; data-aanvragen via Hartstichting",
+    "url": "https://hartslagnu.nl/?p=13057",
+    "land": "NL",
+    "licentie_kenmerk": "HartslagNu does not provide data that can be traceable to individuals.",
+    "opmerking": "Laag: aeds. TOESTEMMING AAN TE VRAGEN (zie docs/kaartdata.md). Contact: datahartslagnu@hartstichting.nl (Data Request Form; beoordeling door Data Access Committee binnen 8 weken). Aanvraagroute is gericht op wetenschappelijk onderzoek, met kosten (EUR 840-1680 ex btw) en DTA; publicatie als open ODbL-laag zeer onwaarschijnlijk zonder aparte afspraak. Geen open AED-dataset gevonden; enkele gemeenten (bv. Zoetermeer, CC0, 2020) hebben eigen lijsten."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "Geen open licentie",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "kaartlagen"
+    ],
+    "id": "nl-cbs-microdata-voorzieningen",
+    "naam": "CBS Microdata: adresgegevens en xy-coördinaten van apotheken, huisartsenposten, brandweerkazernes, ziekenhuizen",
+    "eigenaar": "CBS",
+    "url": "https://data.overheid.nl/dataset/cbs-microdata-0b01e41080315517",
+    "land": "NL",
+    "licentie_kenmerk": "geslotenlicentie",
+    "opmerking": "Laag: apotheken, medische_posten, brandweer, ziekenhuizen. TOESTEMMING AAN TE VRAGEN (zie docs/kaartdata.md). Contact: CBS Microdata Services (niet zelf opgezocht). Niet bruikbaar voor publicatie. Vermeld omdat het laat zien dat er geen open landelijke bron is voor apotheken en huisartsenposten in NL. LRZa: geen open download gevonden (www.lrza.nl resolveerde niet)."
+  },
+  {
+    "soort": "dataset",
+    "licentie": "CC0",
+    "toestemming": "vrij",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "kaartlagen"
+    ],
+    "id": "lu-cgdis-cis",
+    "naam": "Emplacements des Centres d'Incendie et de Secours",
+    "eigenaar": "Corps grand-ducal d'incendie et de secours (CGDIS)",
+    "url": "https://data.public.lu/fr/datasets/emplacements-des-centres-dincendie-et-de-secours/",
+    "land": "LU",
+    "licentie_kenmerk": "cc-zero",
+    "opmerking": "Laag: brandweer. Open licentie; nog niet in de pijplijn (die verrijkt nu alleen België). Ongeveer 95 records (nagekeken 2026-11-18)."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "ODbL",
+    "toestemming": "vrij",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "kaartlagen"
+    ],
+    "id": "lu-cgdis-rettungspunkte",
+    "naam": "Installation des points de secours 'Rettungspunkte'",
+    "eigenaar": "CGDIS",
+    "url": "https://data.public.lu/fr/datasets/5eec6f76d2bfb251e132f1ba/",
+    "land": "LU",
+    "licentie_kenmerk": "odc-odbl",
+    "opmerking": "Laag: brandweer. Open licentie; nog niet in de pijplijn (die verrijkt nu alleen België). Alleen in de zoekresultaten gezien (titel, eigenaar, licentie); niet geopend. Geen kazernes maar aanrijpunten voor hulpdiensten; mogelijk nuttig als extra laag."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "niet bevestigd",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "kaartlagen"
+    ],
+    "id": "lu-overige-lagen",
+    "naam": "Geen open dataset gevonden op data.public.lu",
+    "eigenaar": "-",
+    "url": "https://data.public.lu/",
+    "land": "LU",
+    "opmerking": "Laag: ziekenhuizen, apotheken, politie, gemeentehuizen, aeds, dierenartsen. Licentie onduidelijk: navragen voor gebruik (zie docs/kaartdata.md). Gezocht via de API (q en tag): pharmacie(s), hôpitaux, commissariats, police, défibrillateurs, mairies, vétérinaires: geen locatiedataset. Wel gevonden maar niet bruikbaar: 'Plan de garde des hôpitaux' (CC0, alleen PDF-rooster 2023), politie-jaarverslagen. De politie meldt zelf (publicatie 2024) 59 sites en commissariaten. Pharmacies: lijst op santesecu.public.lu niet als dataset bevestigd. Voor L"
+  },
+  {
+    "soort": "dataset",
+    "licentie": "Geen benoemde licentie; vrij gebruik met bronvermelding",
+    "toestemming": "vrij",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "kaartlagen"
+    ],
+    "id": "de-krankenhausverzeichnis",
+    "naam": "Verzeichnis der Krankenhäuser und Vorsorge- oder Rehabilitationseinrichtungen in Deutschland (Stand 31.12.2024)",
+    "eigenaar": "Statistische Ämter des Bundes und der Länder (Destatis)",
+    "url": "https://www.statistikportal.de/de/veroeffentlichungen/krankenhausverzeichnis",
+    "land": "DE",
+    "licentie_kenmerk": "Vervielfältigung und Verbreitung, auch auszugsweise, mit Quellenangabe gestattet",
+    "opmerking": "Laag: ziekenhuizen. Open licentie; nog niet in de pijplijn (die verrijkt nu alleen België). Ongeveer 2758 records (nagekeken 2026-11-18). Statistikportal: 'Die Daten sind ohne Einschränkung nutzbar'. 2758 = rijen in KHV_2024 met ID. Zeer waardevol: Stufe_Notfall (G-BA-noodzorgniveau) per locatie, dus SEH-geschikte ziekenhuizen te onderscheiden."
+  },
+  {
+    "soort": "dataset",
+    "licentie": "Geen expliciete licentie gevonden",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "kaartlagen"
+    ],
+    "id": "de-inek-krankenhausstandorte",
+    "naam": "Bundesweites Verzeichnis der Krankenhausstandorte (krankenhausstandorte.de)",
+    "eigenaar": "InEK im Auftrag von DKG en GKV-Spitzenverband",
+    "url": "https://krankenhausstandorte.de/",
+    "land": "DE",
+    "opmerking": "Laag: ziekenhuizen. Licentie onduidelijk: navragen voor gebruik (zie docs/kaartdata.md). Contact: info@krankenhausstandorte.de, tel. 02241 9382-430. Registratie vereist; hergebruiksvoorwaarden navragen voordat het in een ODbL-databank gaat."
+  },
+  {
+    "soort": "dataset",
+    "licentie": "Public Domain Mark 1.0",
+    "toestemming": "vrij",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "kaartlagen"
+    ],
+    "id": "de-sh-polizeidienststellen",
+    "naam": "Polizeidienststellen Schleswig-Holstein",
+    "eigenaar": "Land Schleswig-Holstein (Zentrales IT-Management SH, Zuständigkeitsfinder)",
+    "url": "https://opendata.schleswig-holstein.de/dataset/polizeidienststellen-2026-09-26",
+    "land": "DE",
+    "licentie_kenmerk": "ccpdm/1.0",
+    "opmerking": "Laag: politie. Open licentie; nog niet in de pijplijn (die verrijkt nu alleen België). Ongeveer 264 records (nagekeken 2026-11-18)."
+  },
+  {
+    "soort": "api",
+    "licentie": "Datenlizenz Deutschland – Zero – 2.0",
+    "toestemming": "vrij",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "kaartlagen"
+    ],
+    "id": "de-be-polizei-feuerwehr-krankenhaeuser",
+    "naam": "Berlin: Polizeiwachen (INSPIRE), Feuerwehr Standorte, Krankenhäuser (WFS gdi.berlin.de)",
+    "eigenaar": "Polizei Berlin / Berliner Feuerwehr / Senatsverwaltung für Wissenschaft, Gesundheit, Pflege und Gleichstellung",
+    "url": "https://www.govdata.de/",
+    "land": "DE",
+    "licentie_kenmerk": "dl-zero-de/2.0",
+    "opmerking": "Laag: politie, brandweer, ziekenhuizen. Open licentie; nog niet in de pijplijn (die verrijkt nu alleen België). Alleen GovData-metadata bekeken; WFS-inhoud en aantallen niet zelf opgevraagd."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "Datenlizenz Deutschland – Namensnennung – 2.0",
+    "toestemming": "vrij",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "kaartlagen"
+    ],
+    "id": "de-sachsen-verwaltungsatlas",
+    "naam": "Verwaltungsatlas Sachsen: Krankenhäuser, Feuerwehr",
+    "eigenaar": "Sächsisches Staatsministerium für Infrastruktur und Landesentwicklung",
+    "url": "http://www.verwaltungsatlas.sachsen.de/",
+    "land": "DE",
+    "licentie_kenmerk": "dl-by-de/2.0",
+    "opmerking": "Laag: ziekenhuizen, brandweer. Open licentie; nog niet in de pijplijn (die verrijkt nu alleen België). Licentie is open, maar zonder vector-download niet direct bruikbaar; vragen om WFS/CSV."
   }
 ]
