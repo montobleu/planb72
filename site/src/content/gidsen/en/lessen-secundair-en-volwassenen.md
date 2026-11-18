@@ -34,7 +34,7 @@ origineel_datum: "2026-11-18"
 
 Young people in secondary school can largely learn independently, if they have a plan, materials and someone who looks over their work now and then. Let them make their own daily and weekly plan. Also give them real responsibility in the family or in the group: that motivates them and is a learning experience in itself.
 
-In Flanders, the attainment targets (eindtermen) are built around sixteen key competences. The most important ones to focus on when not everything is possible are Dutch, mathematics and sciences, other languages, and the basic literacy (basisgeletterdheid) that every pupil must reach by the end of the first stage. In the Fédération Wallonie-Bruxelles, the Tronc commun runs until the 3rd year of secondary school. International standards for education in emergencies add life skills: solving problems, working together, making decisions, knowledge about disasters, health and hygiene, and creative subjects.
+In Flanders, the attainment targets (eindtermen) are built around sixteen key competences. The most important ones to focus on when not everything is possible are Dutch, mathematics and sciences, other languages, and the basic literacy (basisgeletterdheid) that every pupil must reach by the end of the first stage. In the Fédération Wallonie-Bruxelles, the Tronc commun runs until the 3rd year of secondary school. Also work on life skills: solving problems, working together, making decisions, knowledge about disasters, health and hygiene, and creative subjects.
 
 Source: [Codex Secundair Onderwijs, article 139](https://codex.vlaanderen.be/PrintDocument.ashx?id=1020342&geannoteerd=false) · [Edulex: decree on educational goals for the first stage (2024)](https://data-onderwijs.vlaanderen.be/edulex/document/16102) · [Pacte pour un Enseignement d'excellence: Le tronc commun](https://pactepourunenseignementdexcellence.cfwb.be/mesures/le-tronc-commun-un-nouveau-parcours/) · [INEE: Standard 11, Curricula](https://inee.org/minimum-standards/standard-11)
 
@@ -97,12 +97,12 @@ Source: [Codex Secundair Onderwijs, article 139](https://codex.vlaanderen.be/Pri
 
 ## Map, compass and weather: what you need to know
 
-- **Scale.** On an NGI map at 1:25 000, 1 cm equals 250 m. At 1:50 000, 1 cm equals 500 m.
+- **Scale.** On a topographic map at 1:25 000, 1 cm equals 250 m. At 1:50 000, 1 cm equals 500 m.
 - **Contour lines.** They connect points at the same height. If they are close together, the slope is steep. The index contours are drawn thicker.
 - **Legend and declination.** The map margin explains the symbols and gives the magnetic declination: the difference between north on the map and north on the compass.
-- **Coordinates.** NGI topographic maps have a grid in Lambert 2008 and, on the 1:25 000 and 1:50 000 maps, also a UTM grid. See the guide on navigation without GPS to read and pass on coordinates, and use the compass in the app.
-- **Clouds.** The RMI distinguishes low, medium-level and high clouds. Cumulonimbus is the thundercloud.
-- **Wind.** The RMI gives wind force on the Beaufort scale from 0 (calm) to 12 (hurricane). See the guide on weather and terrain for what to do in a storm.
+- **Coordinates.** Belgian topographic maps have a grid in Lambert 2008 and, on the 1:25 000 and 1:50 000 maps, also a UTM grid. See the guide on navigation without GPS to read and pass on coordinates, and use the compass in the app.
+- **Clouds.** There are low, medium-level and high clouds. Cumulonimbus is the thundercloud.
+- **Wind.** Wind force is expressed on the Beaufort scale from 0 (calm) to 12 (hurricane). See the guide on weather and terrain for what to do in a storm.
 
 Source: [NGI: topographic maps](https://ngi.be/aanbod/kaarten-en-fotos/topografische-kaarten/) · [NGI: FAQ](https://ngi.be/faq/) · [RMI: cloud genera](https://www.meteo.be/nl/info/weerwoorden/wolkengeslachten) · [RMI: Beaufort scale](https://www.meteo.be/nl/info/weerwoorden/beaufortschaal)
 

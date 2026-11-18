@@ -78,7 +78,7 @@ vertaling: machine
 origineel_datum: "2026-11-18"
 ---
 
-Bleiben die Schulen lange geschlossen und gibt es weder Strom noch Internet, dann fällt auch der Fernunterricht weg. Sie müssen die Schule nicht nachahmen. Ziel ist, dass Kinder und Jugendliche einen festen Rhythmus behalten, sich sicher fühlen und weiter lesen, schreiben und rechnen. Internationale Normen für Bildung in Notsituationen sagen, dass Unterricht selbst hilft: Struktur, Routinen und etwas, worauf man sich freuen kann, verringern Stress und geben Hoffnung.
+Bleiben die Schulen lange geschlossen und gibt es weder Strom noch Internet, dann fällt auch der Fernunterricht weg. Sie müssen die Schule nicht nachahmen. Ziel ist, dass Kinder und Jugendliche einen festen Rhythmus behalten, sich sicher fühlen und weiter lesen, schreiben und rechnen. Lernen hilft auch selbst: Struktur, Routinen und etwas, worauf man sich freuen kann, verringern Stress und geben Hoffnung.
 
 Die Lernaktivitäten je nach Stufe stehen in zwei eigenen Leitfäden: Kindergarten und Primarschule sowie Sekundarschule und Erwachsene. Wie Sie mit Kindern über die Situation sprechen, steht im Leitfaden „Kinder beruhigen und Struktur geben“.
 
@@ -90,18 +90,18 @@ Sie können nicht alles tun. Wählen Sie in dieser Reihenfolge:
 
 1. **Sicherheit und Grundbedürfnisse.** Wasser, Essen, Wärme, Schlaf und ein sicherer Ort gehen vor.
 2. **Wohlbefinden und ein fester Rhythmus.** Ein Tag mit festen Zeiten gibt Halt. Spiel, Bewegung, Musik und Zeichnen gehören dazu, auch für ältere Kinder.
-3. **Lesen, Schreiben und Rechnen.** Das sind die Fähigkeiten, auf denen alles andere aufbaut. INEE nennt sie zusammen mit sozialen und emotionalen Fähigkeiten den Kern, mit dem man beginnt.
+3. **Lesen, Schreiben und Rechnen.** Das sind die Fähigkeiten, auf denen alles andere aufbaut. Zusammen mit sozialen und emotionalen Fähigkeiten sind sie der Kern, mit dem man beginnt.
 4. **Praktische Fähigkeiten für die Situation.** Hygiene, Erste Hilfe, sicherer Umgang mit Feuer und Wasser, Karte und Kompass, das Wetter.
 5. **Der Rest des Lehrplans.** Sachunterricht, Naturwissenschaften, Geschichte, Sprachen, Musik und Kunst, so viel wie möglich.
 
-Der flämische Stufenplan für Fernunterricht sagt dasselbe für Schulen: Wählen Sie bewusst, konzentrieren Sie sich auf den wesentlichen Lernstoff und begrenzen Sie die Menge. Eltern sind keine Lehrkräfte und können diese Rolle nicht ganz übernehmen.
+Wählen Sie bewusst: Konzentrieren Sie sich auf den wesentlichen Lernstoff und begrenzen Sie die Menge. Eltern sind keine Lehrkräfte und können diese Rolle nicht ganz übernehmen.
 
 Quelle: [INEE: Standard 11, Curricula](https://inee.org/minimum-standards/standard-11) · [INEE: Standard 9, Protection and Wellbeing](https://inee.org/minimum-standards/standard-9) · [Onderwijs Vlaanderen: Stufenplan für Fernunterricht in der Grundschule](https://assets.vlaanderen.be/image/upload/Stappenplan_afstandsleren_basisonderwijs_2.2-dec21_miip3k.pdf)
 
 ## Wie Sie zu Hause unterrichten
 
 - **Arbeiten Sie auf Papier und mit den Händen.** Schreiben, Zeichnen, Ordnen, Schneiden, Zählen mit Gegenständen. Das funktioniert ohne Bildschirm und hält Kinder aktiv.
-- **Nutzen Sie, was im Haus ist.** Steinchen, Knöpfe, getrocknete Bohnen oder Reis zum Zählen, einen Stock, um Formen in den Sand zu zeichnen, Verpackungen zum Lesen und Wiegen. UNICEF nennt als Beispiel Aufgaben wie: Suche Gegenstände in Form eines Dreiecks.
+- **Nutzen Sie, was im Haus ist.** Steinchen, Knöpfe, getrocknete Bohnen oder Reis zum Zählen, einen Stock, um Formen in den Sand zu zeichnen, Verpackungen zum Lesen und Wiegen. Ein Beispiel für eine Aufgabe: Suche Gegenstände in Form eines Dreiecks.
 - **Lesen Sie viel.** Lernen zu Hause stützt sich stärker als in der Schule auf das Lesen. Lesen Sie denen vor, die noch nicht gut lesen, und lassen Sie ältere Kinder den jüngeren vorlesen.
 - **Lassen Sie Kinder selbstständig arbeiten.** Ein Lesebuch, ein Arbeitsheft oder eine Arbeit, mit der sie ein paar Tage beschäftigt sind. Eine starke Struktur und Aufgaben, die Kinder allein erledigen können, helfen Eltern am meisten.
 - **Sehen Sie die Arbeit kurz durch.** Ein- oder zweimal pro Woche gemeinsam anzuschauen, was gemacht wurde, reicht. Loben Sie die Anstrengung.
@@ -129,7 +129,7 @@ Quelle: [UNICEF: Guidance on distance learning modalities (2020)](https://www.al
 
 ## Tagesrhythmus je nach Alter
 
-Ein fester Tag gibt Halt. UNICEF rät Eltern, eine Tagesroutine zu planen. Halten Sie feste Zeiten für Aufstehen, Essen, Lernen, Bewegung und Schlafen ein. Die Zeiten unten sind ein Beispiel. Passen Sie sie an das Tageslicht, die Mahlzeiten und die Aufgaben im Haushalt an.
+Ein fester Tag gibt Halt. Halten Sie feste Zeiten für Aufstehen, Essen, Lernen, Bewegung und Schlafen ein. Die Zeiten unten sind ein Beispiel. Passen Sie sie an das Tageslicht, die Mahlzeiten und die Aufgaben im Haushalt an.
 
 | Zeit | Kindergarten (3 bis 5 Jahre) | Primarschule (6 bis 12 Jahre) | Sekundarschule (12 bis 18 Jahre) |
 | --- | --- | --- | --- |
@@ -149,13 +149,13 @@ Ein fester Tag gibt Halt. UNICEF rät Eltern, eine Tagesroutine zu planen. Halte
 - **Sekundarschule.** Jugendliche können länger selbstständig arbeiten. Lassen Sie sie selbst einen Tages- und Wochenplan erstellen und Mitverantwortung übernehmen, zum Beispiel für ein jüngeres Kind oder eine Aufgabe im Haushalt.
 - **Erwachsene.** Planen Sie auch für sich selbst eine feste Zeit, um zu lesen, etwas dazuzulernen oder eine Fähigkeit weiterzugeben.
 
-Bewegung zählt mit. Kinder und Jugendliche sollten nach den Gesundheitsempfehlungen jeden Tag insgesamt eine Stunde aktiv sein (siehe den Leitfaden „Spiele und Beschäftigung ohne Strom“).
+Bewegung zählt mit. Kinder und Jugendliche bewegen sich am besten jeden Tag insgesamt mindestens eine Stunde kräftig (siehe den Leitfaden „Spiele und Beschäftigung ohne Strom“).
 
 Quelle: [UNICEF: Guidance on distance learning modalities (2020)](https://www.allinschool.org/media/1626/file/Guidance-distance-learning-modalities-UNICEF-2020.pdf) · [Onderwijs Vlaanderen: Stufenplan für Fernunterricht in der Grundschule](https://assets.vlaanderen.be/image/upload/Stappenplan_afstandsleren_basisonderwijs_2.2-dec21_miip3k.pdf)
 
 ## Wochenplan
 
-Der flämische Stufenplan rät Schulen, Material pro Woche anzubieten, mit einem Wochenplan. Zu Hause geht das auch. Wählen Sie pro Woche ein Thema, zum Beispiel „Wasser“, „das Wetter“, „unsere Straße“ oder „früher“. So hängen Lesen, Rechnen und Sachunterricht zusammen.
+Arbeiten Sie mit einem Wochenplan. Wählen Sie pro Woche ein Thema, zum Beispiel „Wasser“, „das Wetter“, „unsere Straße“ oder „früher“. So hängen Lesen, Rechnen und Sachunterricht zusammen.
 
 | Tag | Vormittag | Nachmittag |
 | --- | --- | --- |
@@ -232,7 +232,7 @@ In der Reihenfolge der Vorzüge:
 
 1. **Das Material der Schule.** Lehrbücher, Arbeitshefte und Kursunterlagen Ihres Kindes und das, was die Lehrkraft vorab mitgeben kann. Fragen Sie auch nach ausgedruckten Arbeitsmappen. In der Fédération Wallonie-Bruxelles ist die Plattform e-classe nur für Unterrichtspersonal zugänglich: Bitten Sie die Lehrkraft, Material mit einer CC-Lizenz vorab mitzugeben.
 2. **KlasCement** (Flandern). Eine Plattform des Departement Onderwijs en Vorming, auf der Lehrkräfte Lernmaterial teilen. Die Lizenz ist je nach Inhalt verschieden: Der Urheber wählt eine Creative-Commons-Lizenz, von CC0 bis CC BY-NC-ND. Manche Inhalte haben eine andere oder keine offene Lizenz. Sie brauchen ein kostenloses Konto; auch Eltern dürfen sich registrieren. So laden Sie herunter: Melden Sie sich an, suchen Sie nach Stufe und Fach, setzen Sie den Filter Lizenz auf CC0, BY oder BY-SA (für den Gebrauch zu Hause ist auch NC möglich), wählen Sie herunterladbares Lernmaterial, prüfen Sie die Lizenz beim Inhalt und laden Sie die Datei herunter.
-3. **Wikiwijs** (Niederlande, verwaltet von Kennisnet). Unterrichtsreihen mit offener Lizenz: CC BY 4.0 oder CC BY-SA 4.0. Eine Unterrichtsreihe als PDF zum Ausdrucken herunterzuladen geht ohne Konto, und interaktive Fragen werden dabei in Papierform umgewandelt. Das Material folgt dem niederländischen Lehrplan, nicht dem belgischen.
+3. **Wikiwijs** (Niederlande). Unterrichtsreihen mit offener Lizenz: CC BY 4.0 oder CC BY-SA 4.0. Eine Unterrichtsreihe als PDF zum Ausdrucken herunterzuladen geht ohne Konto, und interaktive Fragen werden dabei in Papierform umgewandelt. Das Material folgt dem niederländischen Lehrplan, nicht dem belgischen.
 4. **Bücher zum Lesen und Vorlesen.** Wikisource enthält rechtefreie Texte unter CC BY-SA 4.0, und Sie können sie als PDF herunterladen. Die DBNL (Digitale Bibliotheek voor de Nederlandse Letteren) erlaubt Herunterladen und Ausdrucken für den privaten Gebrauch, nicht zur Weitergabe. Project Gutenberg bietet Bücher an, die in den Vereinigten Staaten urheberrechtsfrei sind; in Belgien ist ein Werk erst 70 Jahre nach dem Tod des Autors frei, prüfen Sie das also bei jedem Buch.
 5. **OpenStax.** Kostenlose englischsprachige Lehrbücher für Sekundarschule und Hochschule, unter anderem Mathematik und Naturwissenschaften. Seit April 2026 unter CC BY-NC-SA 4.0. Herunterladen als PDF geht ohne Konto. Sie folgen einem amerikanischen Lehrplan.
 6. **Kiwix mit Wikipedia offline.** Kiwix ist kostenlose Software (GPL-3.0), die Wikipedia und andere Nachschlagewerke ohne Internet liest, unter Windows, macOS, Linux, Android und iOS. Der Text der Wikipedia steht unter CC BY-SA 4.0. Sie laden vorab eine ZIM-Datei über die App oder library.kiwix.org herunter. Beginnen Sie klein: Die niederländische Wikipedia ohne Bilder („nopic“) war am 18. November 2026 5,8 GB groß, die Version nur mit der Einleitung jedes Artikels („mini“) 2,6 GB. Es gibt auch Dateien mit Wikisource, Wiktionary, Wikibooks, Project Gutenberg und, auf Französisch, der Kinderenzyklopädie Vikidia (CC BY-SA 3.0). Die Größen ändern sich mit jeder neuen Version. Kiwix braucht allerdings ein geladenes Gerät: Drucken Sie das Wichtigste also auch aus.

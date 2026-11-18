@@ -92,7 +92,7 @@ Children read independently, write short texts and do arithmetic up to 1,000 and
 | Practical | practising alerting the emergency services correctly as a game: who, what, where; stopping bleeding by pressing; counting and recording supplies; helping prepare a simple meal under supervision |
 | Movement and music | relay races, ball games, dancing; learning a song with several verses; copying rhythms |
 
-**Your own weather station.** The RMI (Royal Meteorological Institute) describes how children can make one with what is in the house:
+**Your own weather station.** Children make one with what is in the house:
 
 - a thermometer from a bottle, a straw and coloured water;
 - a rain gauge from a bottle, a funnel and a scale in centimetres, which you read and empty every morning;
@@ -121,15 +121,15 @@ Children can plan a project lasting a few days, look up information in books and
 | Practical | planning a meal and helping to cook; measuring out water for a day; a small budget with the supplies |
 | Movement and music | sport with rules: football, dodgeball; making up a dance or a song; drama |
 
-**Weather and clouds.** The RMI distinguishes ten cloud genera in three layers. Nimbostratus is the typical rain cloud, cumulonimbus the thundercloud. Let children draw the clouds every day and forecast the next day's weather, and check the following day whether they were right. On the RMI's Beaufort scale, wind force 6 is strong (39 to 49 km/h) and wind force 8 is gale (62 to 74 km/h).
+**Weather and clouds.** There are ten cloud genera, in three layers. Nimbostratus is the typical rain cloud, cumulonimbus the thundercloud. Let children draw the clouds every day and forecast the next day's weather, and check the following day whether they were right. On the Beaufort scale, wind force 6 is strong (39 to 49 km/h) and wind force 8 is gale (62 to 74 km/h).
 
-**Map.** The NGI map at a scale of 1:25 000 means that 1 cm on the map is 250 m in reality. The legend in the map margin explains the symbols. Use the compass in the app or an ordinary compass. See the guide on navigation without GPS.
+**Map.** A topographic map at a scale of 1:25 000 means that 1 cm on the map is 250 m in reality. The legend in the map margin explains the symbols. Use the compass in the app or an ordinary compass. See the guide on navigation without GPS.
 
 Source: [Departement Onderwijs en Vorming: structure and organisation of the education system](https://data-onderwijs.vlaanderen.be/documenten/bestanden/STJB-2122-structuurenorganisatie.pdf) · [RMI: cloud genera](https://www.meteo.be/nl/info/weerwoorden/wolkengeslachten) · [RMI: Beaufort scale](https://www.meteo.be/nl/info/weerwoorden/beaufortschaal) · [NGI: topographic maps](https://ngi.be/aanbod/kaarten-en-fotos/topografische-kaarten/) · [Rode Kruis-Vlaanderen: first aid learning pathway](https://jeugd.rodekruis.be/storage/jrk/2025-leerlijn-eerste-hulp-rode-kruis-vlaanderen.pdf) · [Vlaanderen.be: new minimum goals for primary education](https://www.vlaanderen.be/onderwijsprofessionals/lesgeven-en-begeleiden/opleidingsinhouden/opleidingsinhouden-basisonderwijs/nieuwe-minimumdoelen-basisonderwijs)
 
 ## First aid at a child's level
 
-The Red Cross builds up first aid by age. Teach children what suits their age, and practise it as a game. What to do for each injury is in the app under First aid.
+First aid is learnt step by step, by age. Teach children what suits their age, and practise it as a game. What to do for each injury is in the app under First aid.
 
 | Level | What a child can learn |
 | --- | --- |

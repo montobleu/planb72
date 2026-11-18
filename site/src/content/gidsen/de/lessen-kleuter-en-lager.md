@@ -92,7 +92,7 @@ Kinder lesen selbstständig, schreiben kurze Texte und rechnen bis 1.000 und dar
 | Praktisches | die Rettungsdienste richtig alarmieren, als Spiel geübt: wer, was, wo; eine Blutung durch Drücken stillen; Vorrat zählen und notieren; eine einfache Mahlzeit unter Aufsicht mit zubereiten |
 | Bewegung und Musik | Staffellauf, Ballspiele, Tanzen; ein Lied mit mehreren Strophen einüben; Rhythmen nachspielen |
 
-**Eine eigene Wetterstation.** Das KMI (Königliches Meteorologisches Institut) beschreibt, wie Kinder eine mit dem bauen, was im Haus ist:
+**Eine eigene Wetterstation.** Kinder bauen sie mit dem, was im Haus ist:
 
 - ein Thermometer aus einer Flasche, einem Strohhalm und gefärbtem Wasser;
 - ein Regenmesser aus einer Flasche, einem Trichter und einer Skala in Zentimetern, den Sie jeden Morgen ablesen und leeren;
@@ -121,15 +121,15 @@ Kinder können eine Arbeit über mehrere Tage planen, Informationen in Büchern 
 | Praktisches | eine Mahlzeit planen und mitkochen; Wasser für einen Tag abmessen; ein kleines Budget mit dem Vorrat |
 | Bewegung und Musik | Sport mit Regeln: Fußball, Völkerball; selbst einen Tanz oder ein Lied erfinden; Theater |
 
-**Wetter und Wolken.** Das KMI unterscheidet zehn Wolkengattungen in drei Stockwerken. Nimbostratus ist die typische Regenwolke, Cumulonimbus die Gewitterwolke. Lassen Sie Kinder jeden Tag die Wolken zeichnen und das Wetter des nächsten Tages vorhersagen, und prüfen Sie am Tag danach, ob es gestimmt hat. Auf der Beaufortskala des KMI ist Windstärke 6 ein starker Wind (39 bis 49 km/h) und Windstärke 8 ein stürmischer Wind (62 bis 74 km/h).
+**Wetter und Wolken.** Es gibt zehn Wolkengattungen in drei Stockwerken. Nimbostratus ist die typische Regenwolke, Cumulonimbus die Gewitterwolke. Lassen Sie Kinder jeden Tag die Wolken zeichnen und das Wetter des nächsten Tages vorhersagen, und prüfen Sie am Tag danach, ob es gestimmt hat. Auf der Beaufortskala ist Windstärke 6 ein starker Wind (39 bis 49 km/h) und Windstärke 8 ein stürmischer Wind (62 bis 74 km/h).
 
-**Karte.** Die NGI-Karte im Maßstab 1:25 000 bedeutet, dass 1 cm auf der Karte 250 m in Wirklichkeit entspricht. Die Legende am Kartenrand erklärt die Zeichen. Verwenden Sie den Kompass der App oder einen gewöhnlichen Kompass. Siehe den Leitfaden „Navigation ohne GPS“.
+**Karte.** Eine topografische Karte im Maßstab 1:25 000 bedeutet, dass 1 cm auf der Karte 250 m in Wirklichkeit entspricht. Die Legende am Kartenrand erklärt die Zeichen. Verwenden Sie den Kompass der App oder einen gewöhnlichen Kompass. Siehe den Leitfaden „Navigation ohne GPS“.
 
 Quelle: [Departement Onderwijs en Vorming: Struktur und Organisation des Bildungssystems](https://data-onderwijs.vlaanderen.be/documenten/bestanden/STJB-2122-structuurenorganisatie.pdf) · [KMI: Wolkengattungen](https://www.meteo.be/nl/info/weerwoorden/wolkengeslachten) · [KMI: Beaufortskala](https://www.meteo.be/nl/info/weerwoorden/beaufortschaal) · [NGI: Topografische Karten](https://ngi.be/aanbod/kaarten-en-fotos/topografische-kaarten/) · [Rode Kruis-Vlaanderen: Lernpfad Erste Hilfe](https://jeugd.rodekruis.be/storage/jrk/2025-leerlijn-eerste-hulp-rode-kruis-vlaanderen.pdf) · [Vlaanderen.be: Neue Mindestziele der Grundschule](https://www.vlaanderen.be/onderwijsprofessionals/lesgeven-en-begeleiden/opleidingsinhouden/opleidingsinhouden-basisonderwijs/nieuwe-minimumdoelen-basisonderwijs)
 
 ## Erste Hilfe auf Kinderniveau
 
-Das Rote Kreuz baut die Erste Hilfe nach Alter auf. Bringen Sie Kindern bei, was zu ihrem Alter passt, und üben Sie es als Spiel. Was Sie bei jeder Verletzung tun, steht in der App unter Erste Hilfe.
+Erste Hilfe lernt man Schritt für Schritt, je nach Alter. Bringen Sie Kindern bei, was zu ihrem Alter passt, und üben Sie es als Spiel. Was Sie bei jeder Verletzung tun, steht in der App unter Erste Hilfe.
 
 | Stufe | Was ein Kind lernen kann |
 | --- | --- |

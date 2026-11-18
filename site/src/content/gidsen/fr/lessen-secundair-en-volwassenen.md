@@ -34,7 +34,7 @@ origineel_datum: "2026-11-18"
 
 Les jeunes de l'enseignement secondaire peuvent apprendre en grande partie seuls, s'ils ont un plan, du matériel et de temps en temps quelqu'un qui regarde avec eux. Demandez-leur d'établir leur propre planning journalier et hebdomadaire. Donnez-leur aussi de vraies responsabilités dans la famille ou dans le groupe : cela motive et c'est en soi une expérience d'apprentissage.
 
-En Flandre, les objectifs finaux (eindtermen) sont construits autour de seize compétences clés. Les plus importantes sur lesquelles se concentrer si tout n'est pas possible sont le néerlandais, les mathématiques et les sciences, les autres langues, et la littératie de base (basisgeletterdheid) que chaque élève doit atteindre à la fin du premier degré. En Fédération Wallonie-Bruxelles, le Tronc commun va jusqu'à la 3e secondaire. Les normes internationales pour l'éducation en situation d'urgence y ajoutent des compétences de vie : résoudre des problèmes, collaborer, décider, connaître les catastrophes, la santé et l'hygiène, et les disciplines créatives.
+En Flandre, les objectifs finaux (eindtermen) sont construits autour de seize compétences clés. Les plus importantes sur lesquelles se concentrer si tout n'est pas possible sont le néerlandais, les mathématiques et les sciences, les autres langues, et la littératie de base (basisgeletterdheid) que chaque élève doit atteindre à la fin du premier degré. En Fédération Wallonie-Bruxelles, le Tronc commun va jusqu'à la 3e secondaire. Travaillez aussi des compétences de vie : résoudre des problèmes, collaborer, décider, connaître les catastrophes, la santé et l'hygiène, et les disciplines créatives.
 
 Source : [Codex Secundair Onderwijs, article 139](https://codex.vlaanderen.be/PrintDocument.ashx?id=1020342&geannoteerd=false) · [Edulex : décret relatif aux objectifs d'enseignement du premier degré (2024)](https://data-onderwijs.vlaanderen.be/edulex/document/16102) · [Pacte pour un Enseignement d'excellence : Le tronc commun](https://pactepourunenseignementdexcellence.cfwb.be/mesures/le-tronc-commun-un-nouveau-parcours/) · [INEE : Standard 11, Curricula](https://inee.org/minimum-standards/standard-11)
 
@@ -97,12 +97,12 @@ Source : [Codex Secundair Onderwijs, article 139](https://codex.vlaanderen.be/Pr
 
 ## Carte, boussole et météo : ce qu'il faut savoir
 
-- **Échelle.** Sur une carte de l'IGN au 1:25 000, 1 cm équivaut à 250 m. Au 1:50 000, 1 cm équivaut à 500 m.
+- **Échelle.** Sur une carte topographique au 1:25 000, 1 cm équivaut à 250 m. Au 1:50 000, 1 cm équivaut à 500 m.
 - **Courbes de niveau.** Elles relient des points situés à la même altitude. Si elles sont proches les unes des autres, la pente est raide. Les courbes maîtresses sont dessinées plus épaisses.
 - **Légende et déclinaison.** La marge de la carte explique les signes et donne la déclinaison magnétique : la différence entre le nord de la carte et le nord de la boussole.
-- **Coordonnées.** Les cartes topographiques de l'IGN ont un quadrillage en Lambert 2008 et, sur les cartes au 1:25 000 et au 1:50 000, aussi un quadrillage UTM. Voyez le guide pour naviguer sans GPS pour lire et transmettre des coordonnées, et utilisez la boussole de l'application.
-- **Nuages.** L'IRM distingue les nuages bas, moyens et hauts. Le cumulonimbus est le nuage d'orage.
-- **Vent.** L'IRM donne la force du vent sur l'échelle de Beaufort, de 0 (calme) à 12 (ouragan). Voyez le guide sur la météo et le terrain pour savoir quoi faire en cas de tempête.
+- **Coordonnées.** Les cartes topographiques belges ont un quadrillage en Lambert 2008 et, sur les cartes au 1:25 000 et au 1:50 000, aussi un quadrillage UTM. Voyez le guide pour naviguer sans GPS pour lire et transmettre des coordonnées, et utilisez la boussole de l'application.
+- **Nuages.** Il existe des nuages bas, moyens et hauts. Le cumulonimbus est le nuage d'orage.
+- **Vent.** La force du vent s'exprime sur l'échelle de Beaufort, de 0 (calme) à 12 (ouragan). Voyez le guide sur la météo et le terrain pour savoir quoi faire en cas de tempête.
 
 Source : [IGN : cartes topographiques](https://ngi.be/fr/offre/cartes-et-photos/cartes-topographiques/) · [IGN : FAQ](https://ngi.be/fr/faq/) · [IRM : genres de nuages](https://www.meteo.be/fr/infos/dico-meteo/types-de-nuages) · [IRM : échelle de Beaufort](https://www.meteo.be/fr/infos/dico-meteo/beaufort)
 

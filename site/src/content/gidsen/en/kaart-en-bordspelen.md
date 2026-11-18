@@ -169,7 +169,7 @@ Board: three squares one inside the other, connected by four lines in the middle
 
 **Draughts** (2 players, from 7 years)
 
-In Belgium and the Netherlands people play on a board of 10 by 10 squares with 20 pieces per player. Draw the board with alternating dark and light squares. The bottom left square is dark.
+The usual board has 10 by 10 squares, with 20 pieces per player. Draw the board with alternating dark and light squares. The bottom left square is dark.
 
 1. Each player places 20 pieces on the dark squares of their first four rows. White starts.
 2. A piece moves one square diagonally forward to a free dark square.

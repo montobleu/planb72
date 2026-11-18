@@ -34,7 +34,7 @@ origineel_datum: "2026-11-18"
 
 Jugendliche in der Sekundarschule können großenteils selbstständig lernen, wenn sie einen Plan, Material und ab und zu jemanden haben, der mit draufschaut. Lassen Sie sie einen eigenen Tages- und Wochenplan erstellen. Geben Sie ihnen auch echte Verantwortung in der Familie oder in der Gruppe: Das motiviert und ist selbst eine Lernerfahrung.
 
-In Flandern sind die Endziele (eindtermen) um sechzehn Schlüsselkompetenzen aufgebaut. Die wichtigsten, auf die Sie sich konzentrieren, wenn nicht alles möglich ist, sind Niederländisch, Mathematik und Naturwissenschaften, andere Sprachen und die Basisgrundbildung (basisgeletterdheid), die jeder Schüler am Ende der ersten Stufe erreichen muss. In der Fédération Wallonie-Bruxelles reicht der Tronc commun bis zum 3. Jahr der Sekundarschule. Internationale Normen für Bildung in Notsituationen fügen Lebenskompetenzen hinzu: Probleme lösen, zusammenarbeiten, entscheiden, Wissen über Katastrophen, Gesundheit und Hygiene sowie kreative Fächer.
+In Flandern sind die Endziele (eindtermen) um sechzehn Schlüsselkompetenzen aufgebaut. Die wichtigsten, auf die Sie sich konzentrieren, wenn nicht alles möglich ist, sind Niederländisch, Mathematik und Naturwissenschaften, andere Sprachen und die Basisgrundbildung (basisgeletterdheid), die jeder Schüler am Ende der ersten Stufe erreichen muss. In der Fédération Wallonie-Bruxelles reicht der Tronc commun bis zum 3. Jahr der Sekundarschule. Üben Sie außerdem Lebenskompetenzen: Probleme lösen, zusammenarbeiten, entscheiden, Wissen über Katastrophen, Gesundheit und Hygiene sowie kreative Fächer.
 
 Quelle: [Codex Secundair Onderwijs, Artikel 139](https://codex.vlaanderen.be/PrintDocument.ashx?id=1020342&geannoteerd=false) · [Edulex: Dekret über die Bildungsziele der ersten Stufe (2024)](https://data-onderwijs.vlaanderen.be/edulex/document/16102) · [Pacte pour un Enseignement d'excellence: Le tronc commun](https://pactepourunenseignementdexcellence.cfwb.be/mesures/le-tronc-commun-un-nouveau-parcours/) · [INEE: Standard 11, Curricula](https://inee.org/minimum-standards/standard-11)
 
@@ -97,12 +97,12 @@ Quelle: [Codex Secundair Onderwijs, Artikel 139](https://codex.vlaanderen.be/Pri
 
 ## Karte, Kompass und Wetter: was Sie wissen müssen
 
-- **Maßstab.** Auf einer NGI-Karte 1:25 000 entspricht 1 cm 250 m. Bei 1:50 000 entspricht 1 cm 500 m.
+- **Maßstab.** Auf einer topografischen Karte 1:25 000 entspricht 1 cm 250 m. Bei 1:50 000 entspricht 1 cm 500 m.
 - **Höhenlinien.** Sie verbinden Punkte auf gleicher Höhe. Liegen sie dicht beieinander, ist der Hang steil. Die Haupthöhenlinien sind dicker gezeichnet.
 - **Legende und Missweisung.** Der Kartenrand erklärt die Zeichen und gibt die magnetische Missweisung an: den Unterschied zwischen dem Norden der Karte und dem Norden des Kompasses.
-- **Koordinaten.** Topografische Karten des NGI haben ein Gitter in Lambert 2008 und, auf den Karten 1:25 000 und 1:50 000, auch ein UTM-Gitter. Wie Sie Koordinaten lesen und weitergeben, steht im Leitfaden „Navigation ohne GPS“; verwenden Sie den Kompass der App.
-- **Wolken.** Das KMI (Königliches Meteorologisches Institut) unterscheidet tiefe, mittelhohe und hohe Wolken. Cumulonimbus ist die Gewitterwolke.
-- **Wind.** Das KMI gibt die Windstärke auf der Beaufortskala von 0 (Windstille) bis 12 (Orkan) an. Was Sie bei Sturm tun, steht im Leitfaden „Wetter und Gelände“.
+- **Koordinaten.** Belgische topografische Karten haben ein Gitter in Lambert 2008 und, auf den Karten 1:25 000 und 1:50 000, auch ein UTM-Gitter. Wie Sie Koordinaten lesen und weitergeben, steht im Leitfaden „Navigation ohne GPS“; verwenden Sie den Kompass der App.
+- **Wolken.** Es gibt tiefe, mittelhohe und hohe Wolken. Cumulonimbus ist die Gewitterwolke.
+- **Wind.** Die Windstärke wird auf der Beaufortskala von 0 (Windstille) bis 12 (Orkan) angegeben. Was Sie bei Sturm tun, steht im Leitfaden „Wetter und Gelände“.
 
 Quelle: [NGI: Topografische Karten](https://ngi.be/aanbod/kaarten-en-fotos/topografische-kaarten/) · [NGI: Häufig gestellte Fragen](https://ngi.be/faq/) · [KMI: Wolkengattungen](https://www.meteo.be/nl/info/weerwoorden/wolkengeslachten) · [KMI: Beaufortskala](https://www.meteo.be/nl/info/weerwoorden/beaufortschaal)
 

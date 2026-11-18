@@ -92,7 +92,7 @@ Les enfants lisent seuls, écrivent de courts textes et calculent jusqu'à 1 000
 | Pratique | s'exercer sous forme de jeu à prévenir correctement les services de secours : qui, quoi, où ; arrêter un saignement en appuyant ; compter et noter les réserves ; aider à préparer un repas simple sous surveillance |
 | Mouvement et musique | course de relais, jeux de ballon, danse ; apprendre une chanson à plusieurs couplets ; reproduire des rythmes |
 
-**Une station météo à vous.** L'IRM décrit comment les enfants peuvent en fabriquer une avec ce qu'il y a à la maison :
+**Une station météo à vous.** Les enfants la fabriquent avec ce qu'il y a à la maison :
 
 - un thermomètre fait d'une bouteille, d'une paille et d'eau colorée ;
 - un pluviomètre fait d'une bouteille, d'un entonnoir et d'une échelle en centimètres, que vous lisez et videz chaque matin ;
@@ -121,15 +121,15 @@ Les enfants peuvent planifier un travail de quelques jours, chercher des informa
 | Pratique | planifier un repas et aider à cuisiner ; mesurer l'eau pour une journée ; un petit budget avec les réserves |
 | Mouvement et musique | sport avec des règles : football, balle au prisonnier ; créer soi-même une danse ou une chanson ; théâtre |
 
-**Météo et nuages.** L'IRM distingue dix genres de nuages répartis en trois étages. Le nimbostratus est le nuage de pluie typique, le cumulonimbus le nuage d'orage. Demandez aux enfants de dessiner chaque jour les nuages et de prévoir la météo du lendemain, et vérifiez le jour suivant si c'était juste. Sur l'échelle de Beaufort de l'IRM, la force 6 est un vent fort (39 à 49 km/h) et la force 8 un vent de tempête (62 à 74 km/h).
+**Météo et nuages.** Il existe dix genres de nuages, répartis en trois étages. Le nimbostratus est le nuage de pluie typique, le cumulonimbus le nuage d'orage. Demandez aux enfants de dessiner chaque jour les nuages et de prévoir la météo du lendemain, et vérifiez le jour suivant si c'était juste. Sur l'échelle de Beaufort, la force 6 est un vent fort (39 à 49 km/h) et la force 8 un vent de tempête (62 à 74 km/h).
 
-**Carte.** La carte de l'IGN à l'échelle 1:25 000 signifie que 1 cm sur la carte représente 250 m en réalité. La légende dans la marge de la carte explique les signes. Utilisez la boussole de l'application ou une boussole ordinaire. Voyez le guide pour naviguer sans GPS.
+**Carte.** Une carte topographique à l'échelle 1:25 000 signifie que 1 cm sur la carte représente 250 m en réalité. La légende dans la marge de la carte explique les signes. Utilisez la boussole de l'application ou une boussole ordinaire. Voyez le guide pour naviguer sans GPS.
 
 Source : [Departement Onderwijs en Vorming : structure et organisation du système d'enseignement](https://data-onderwijs.vlaanderen.be/documenten/bestanden/STJB-2122-structuurenorganisatie.pdf) · [IRM : genres de nuages](https://www.meteo.be/fr/infos/dico-meteo/types-de-nuages) · [IRM : échelle de Beaufort](https://www.meteo.be/fr/infos/dico-meteo/beaufort) · [IGN : cartes topographiques](https://ngi.be/fr/offre/cartes-et-photos/cartes-topographiques/) · [Rode Kruis-Vlaanderen : parcours d'apprentissage des premiers secours](https://jeugd.rodekruis.be/storage/jrk/2025-leerlijn-eerste-hulp-rode-kruis-vlaanderen.pdf) · [Vlaanderen.be : nouveaux objectifs minimaux de l'enseignement fondamental](https://www.vlaanderen.be/onderwijsprofessionals/lesgeven-en-begeleiden/opleidingsinhouden/opleidingsinhouden-basisonderwijs/nieuwe-minimumdoelen-basisonderwijs)
 
 ## Les premiers secours à la portée des enfants
 
-La Croix-Rouge construit l'apprentissage des premiers secours par âge. Apprenez aux enfants ce qui convient à leur âge, et exercez-vous sous forme de jeu. Ce qu'il faut faire pour chaque blessure se trouve dans l'application, sous Premiers secours.
+Les premiers secours s'apprennent pas à pas, selon l'âge. Apprenez aux enfants ce qui convient à leur âge, et exercez-vous sous forme de jeu. Ce qu'il faut faire pour chaque blessure se trouve dans l'application, sous Premiers secours.
 
 | Niveau | Ce qu'un enfant peut apprendre |
 | --- | --- |

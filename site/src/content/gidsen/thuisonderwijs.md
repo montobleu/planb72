@@ -76,7 +76,7 @@ bronnen:
     url: "https://jeugd.rodekruis.be/storage/jrk/2025-leerlijn-eerste-hulp-rode-kruis-vlaanderen.pdf"
 ---
 
-Blijven de scholen lang dicht en is er geen stroom of internet, dan valt ook afstandsonderwijs weg. Je hoeft de school niet na te bootsen. Het doel is dat kinderen en jongeren een vast ritme houden, zich veilig voelen en blijven lezen, schrijven en rekenen. Internationale normen voor onderwijs in noodsituaties zeggen dat onderwijs zelf helpt: structuur, routines en iets om naar uit te kijken verminderen stress en geven hoop.
+Blijven de scholen lang dicht en is er geen stroom of internet, dan valt ook afstandsonderwijs weg. Je hoeft de school niet na te bootsen. Het doel is dat kinderen en jongeren een vast ritme houden, zich veilig voelen en blijven lezen, schrijven en rekenen. Leren helpt ook zelf: structuur, routines en iets om naar uit te kijken verminderen stress en geven hoop.
 
 De lesactiviteiten per niveau staan in twee aparte gidsen: kleuter en lager onderwijs, en secundair onderwijs en volwassenen. Hoe je met kinderen over de situatie praat, staat in de gids over kinderen geruststellen.
 
@@ -88,18 +88,18 @@ Je kunt niet alles doen. Kies in deze volgorde:
 
 1. **Veiligheid en basisbehoeften.** Water, eten, warmte, slaap en een veilige plek gaan voor.
 2. **Welzijn en een vast ritme.** Een dag met vaste momenten geeft houvast. Spel, beweging, muziek en tekenen horen daarbij, ook voor oudere kinderen.
-3. **Lezen, schrijven en rekenen.** Dat zijn de vaardigheden waarop al de rest steunt. INEE noemt ze samen met sociale en emotionele vaardigheden de kern om mee te beginnen.
+3. **Lezen, schrijven en rekenen.** Dat zijn de vaardigheden waarop al de rest steunt. Samen met sociale en emotionele vaardigheden zijn ze de kern om mee te beginnen.
 4. **Praktische vaardigheden voor de situatie.** Hygiëne, eerste hulp, veilig omgaan met vuur en water, kaart en kompas, het weer.
 5. **De rest van het leerplan.** Wereldoriëntatie, wetenschap, geschiedenis, talen, muziek en beeld, zoveel als lukt.
 
-Het Vlaamse stappenplan voor afstandsleren zegt hetzelfde voor scholen: kies bewust, focus op de essentiële leerstof en beperk de hoeveelheid. Ouders zijn geen leraren en kunnen die rol niet helemaal overnemen.
+Kies bewust: focus op de essentiële leerstof en beperk de hoeveelheid. Ouders zijn geen leraren en kunnen die rol niet helemaal overnemen.
 
 Bron: [INEE: Standard 11, Curricula](https://inee.org/minimum-standards/standard-11) · [INEE: Standard 9, Protection and Wellbeing](https://inee.org/minimum-standards/standard-9) · [Onderwijs Vlaanderen: Stappenplan afstandsleren basisonderwijs](https://assets.vlaanderen.be/image/upload/Stappenplan_afstandsleren_basisonderwijs_2.2-dec21_miip3k.pdf)
 
 ## Hoe je thuis lesgeeft
 
 - **Werk op papier en met je handen.** Schrijven, tekenen, ordenen, knippen, tellen met voorwerpen. Dat werkt zonder scherm en houdt kinderen actief.
-- **Gebruik wat in huis is.** Steentjes, knopen, droge bonen of rijst om te tellen, een stok om vormen in het zand te tekenen, verpakkingen om te lezen en te wegen. UNICEF geeft als voorbeeld opdrachten als: zoek voorwerpen in de vorm van een driehoek.
+- **Gebruik wat in huis is.** Steentjes, knopen, droge bonen of rijst om te tellen, een stok om vormen in het zand te tekenen, verpakkingen om te lezen en te wegen. Een voorbeeld van een opdracht: zoek voorwerpen in de vorm van een driehoek.
 - **Lees veel.** Leren thuis steunt meer dan op school op lezen. Lees voor aan wie nog niet goed leest, en laat oudere kinderen voorlezen aan jongere.
 - **Laat kinderen zelfstandig werken.** Een leesboek, een werkboekje of een werkstuk waar ze een paar dagen mee bezig zijn. Een sterke structuur en opdrachten die kinderen alleen kunnen doen, helpen ouders het meest.
 - **Kijk het werk kort na.** Een of twee keer per week samen bekijken wat er gemaakt is, is genoeg. Prijs de inspanning.
@@ -127,7 +127,7 @@ Bron: [UNICEF: Guidance on distance learning modalities (2020)](https://www.alli
 
 ## Dagritme per leeftijd
 
-Een vaste dag geeft houvast. UNICEF raadt ouders aan een dagroutine te plannen. Hou vaste tijden voor opstaan, eten, leren, bewegen en slapen. De tijden hieronder zijn een voorbeeld. Pas ze aan aan het daglicht, de maaltijden en de taken in huis.
+Een vaste dag geeft houvast. Hou vaste tijden voor opstaan, eten, leren, bewegen en slapen. De tijden hieronder zijn een voorbeeld. Pas ze aan aan het daglicht, de maaltijden en de taken in huis.
 
 | Tijd | Kleuter (3 tot 5 jaar) | Lager onderwijs (6 tot 12 jaar) | Secundair (12 tot 18 jaar) |
 | --- | --- | --- | --- |
@@ -147,13 +147,13 @@ Een vaste dag geeft houvast. UNICEF raadt ouders aan een dagroutine te plannen. 
 - **Secundair.** Jongeren kunnen langer zelfstandig werken. Laat ze zelf een dag- en weekplanning maken en mee verantwoordelijkheid nemen, bijvoorbeeld voor een jonger kind of een taak in huis.
 - **Volwassenen.** Plan voor jezelf ook een vast moment om te lezen, iets bij te leren of een vaardigheid door te geven.
 
-Bewegen telt mee. Kinderen en jongeren moeten volgens de gezondheidsrichtlijnen elke dag samen een uur actief zijn (zie de gids over spelletjes en bezigheid).
+Bewegen telt mee. Kinderen en jongeren bewegen best elke dag samen minstens een uur stevig (zie de gids over spelletjes en bezigheid).
 
 Bron: [UNICEF: Guidance on distance learning modalities (2020)](https://www.allinschool.org/media/1626/file/Guidance-distance-learning-modalities-UNICEF-2020.pdf) · [Onderwijs Vlaanderen: Stappenplan afstandsleren basisonderwijs](https://assets.vlaanderen.be/image/upload/Stappenplan_afstandsleren_basisonderwijs_2.2-dec21_miip3k.pdf)
 
 ## Weekplan
 
-Het Vlaamse stappenplan raadt scholen aan materiaal per week aan te bieden, met een weekschema. Thuis kan dat ook. Kies per week een thema, bijvoorbeeld "water", "het weer", "onze straat" of "vroeger". Zo hangen lezen, rekenen en wereldoriëntatie samen.
+Werk met een weekschema. Kies per week een thema, bijvoorbeeld "water", "het weer", "onze straat" of "vroeger". Zo hangen lezen, rekenen en wereldoriëntatie samen.
 
 | Dag | Voormiddag | Namiddag |
 | --- | --- | --- |
@@ -230,7 +230,7 @@ In volgorde van voorkeur:
 
 1. **Het materiaal van de school.** Handboeken, werkschriften en cursussen van je kind, en wat de leerkracht vooraf kan meegeven. Vraag ook naar afgedrukte werkbundels. In de Fédération Wallonie-Bruxelles is het platform e-classe alleen toegankelijk voor onderwijspersoneel: vraag de leerkracht om materiaal met een CC-licentie vooraf mee te geven.
 2. **KlasCement** (Vlaanderen). Een platform van het Departement Onderwijs en Vorming waarop leraren lesmateriaal delen. De licentie verschilt per item: de maker kiest een Creative Commons-licentie, van CC0 tot CC BY-NC-ND. Sommige items hebben een andere of geen open licentie. Je hebt een gratis account nodig; ook ouders mogen zich registreren. Zo download je: log in, zoek op niveau en vak, zet de filter Licentie op CC0, BY of BY-SA (voor thuisgebruik mag ook NC), kies downloadbaar lesmateriaal, controleer de licentie op het item en download het bestand.
-3. **Wikiwijs** (Nederland, beheerd door Kennisnet). Lessenreeksen met een open licentie: CC BY 4.0 of CC BY-SA 4.0. Een lessenreeks downloaden als pdf om af te drukken kan zonder account, en interactieve vragen worden dan omgezet naar papier. Het materiaal volgt het Nederlandse leerplan, niet het Belgische.
+3. **Wikiwijs** (Nederland). Lessenreeksen met een open licentie: CC BY 4.0 of CC BY-SA 4.0. Een lessenreeks downloaden als pdf om af te drukken kan zonder account, en interactieve vragen worden dan omgezet naar papier. Het materiaal volgt het Nederlandse leerplan, niet het Belgische.
 4. **Boeken om te lezen en voor te lezen.** Wikisource bevat teksten die vrij van rechten zijn, onder CC BY-SA 4.0, en je kunt ze als pdf downloaden. De DBNL (Digitale Bibliotheek voor de Nederlandse Letteren) laat downloaden en afdrukken toe voor privégebruik, niet om verder te verspreiden. Project Gutenberg biedt boeken die in de Verenigde Staten vrij van auteursrecht zijn; in België is een werk pas vrij 70 jaar na de dood van de auteur, dus kijk dat per boek na.
 5. **OpenStax.** Gratis Engelstalige leerboeken voor secundair en hoger onderwijs, onder meer wiskunde en wetenschappen. Sinds april 2026 onder CC BY-NC-SA 4.0. Downloaden als pdf kan zonder account. Ze volgen een Amerikaans leerplan.
 6. **Kiwix met Wikipedia offline.** Kiwix is gratis software (GPL-3.0) die Wikipedia en andere naslagwerken leest zonder internet, op Windows, macOS, Linux, Android en iOS. De tekst van Wikipedia valt onder CC BY-SA 4.0. Je downloadt vooraf een ZIM-bestand via de app of library.kiwix.org. Begin klein: Wikipedia in het Nederlands zonder afbeeldingen ("nopic") was op 18 november 2026 5,8 GB, de versie met alleen de inleiding van elk artikel ("mini") 2,6 GB. Er zijn ook bestanden met Wikisource, Wiktionary, Wikibooks, Project Gutenberg en, in het Frans, de kinderencyclopedie Vikidia (CC BY-SA 3.0). Groottes veranderen bij elke nieuwe versie. Kiwix vraagt wel een opgeladen toestel: druk het belangrijkste dus ook af.

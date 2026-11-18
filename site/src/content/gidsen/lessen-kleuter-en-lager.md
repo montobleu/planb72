@@ -90,7 +90,7 @@ Kinderen lezen zelfstandig, schrijven korte teksten en rekenen tot 1.000 en verd
 | Praktisch | de hulpdiensten correct verwittigen oefenen als spel: wie, wat, waar; een bloeding stelpen door te drukken; voorraad tellen en noteren; een eenvoudige maaltijd mee bereiden onder toezicht |
 | Bewegen en muziek | estafette, balspelen, dansen; een lied aanleren met meerdere strofen; ritmes naspelen |
 
-**Een eigen weerstation.** Het KMI beschrijft hoe kinderen er een maken met wat in huis is:
+**Een eigen weerstation.** Kinderen maken het met wat in huis is:
 
 - een thermometer van een fles, een rietje en gekleurd water;
 - een regenmeter van een fles, een trechter en een schaal in centimeter, die je elke ochtend afleest en leegmaakt;
@@ -119,15 +119,15 @@ Kinderen kunnen een werkstuk van enkele dagen plannen, informatie opzoeken in bo
 | Praktisch | een maaltijd plannen en mee koken; water afmeten voor een dag; een kleine begroting met de voorraad |
 | Bewegen en muziek | sport met regels: voetbal, trefbal; zelf een dans of een lied maken; toneel |
 
-**Weer en wolken.** Het KMI onderscheidt tien wolkengeslachten in drie lagen. Nimbostratus is de typische regenwolk, cumulonimbus de onweerswolk. Laat kinderen elke dag de wolken tekenen en het weer van de volgende dag voorspellen, en kijk de dag erna of het klopte. Op de Beaufortschaal van het KMI is windkracht 6 krachtig (39 tot 49 km/h) en windkracht 8 stormachtig (62 tot 74 km/h).
+**Weer en wolken.** Er zijn tien wolkengeslachten, in drie lagen. Nimbostratus is de typische regenwolk, cumulonimbus de onweerswolk. Laat kinderen elke dag de wolken tekenen en het weer van de volgende dag voorspellen, en kijk de dag erna of het klopte. Op de Beaufortschaal is windkracht 6 krachtig (39 tot 49 km/h) en windkracht 8 stormachtig (62 tot 74 km/h).
 
-**Kaart.** De NGI-kaart op schaal 1:25 000 betekent dat 1 cm op de kaart 250 m in werkelijkheid is. De legende in de kaartrand verklaart de tekens. Gebruik het kompas van de app of een gewoon kompas. Zie de gids over navigatie zonder gps.
+**Kaart.** Een topografische kaart op schaal 1:25 000 betekent dat 1 cm op de kaart 250 m in werkelijkheid is. De legende in de kaartrand verklaart de tekens. Gebruik het kompas van de app of een gewoon kompas. Zie de gids over navigatie zonder gps.
 
 Bron: [Departement Onderwijs en Vorming: Structuur en organisatie van het onderwijssysteem](https://data-onderwijs.vlaanderen.be/documenten/bestanden/STJB-2122-structuurenorganisatie.pdf) · [KMI: Wolkengeslachten](https://www.meteo.be/nl/info/weerwoorden/wolkengeslachten) · [KMI: Beaufortschaal](https://www.meteo.be/nl/info/weerwoorden/beaufortschaal) · [NGI: Topografische kaarten](https://ngi.be/aanbod/kaarten-en-fotos/topografische-kaarten/) · [Rode Kruis-Vlaanderen: Leerlijn eerste hulp](https://jeugd.rodekruis.be/storage/jrk/2025-leerlijn-eerste-hulp-rode-kruis-vlaanderen.pdf) · [Vlaanderen.be: Nieuwe minimumdoelen basisonderwijs](https://www.vlaanderen.be/onderwijsprofessionals/lesgeven-en-begeleiden/opleidingsinhouden/opleidingsinhouden-basisonderwijs/nieuwe-minimumdoelen-basisonderwijs)
 
 ## Eerste hulp op kindniveau
 
-Het Rode Kruis bouwt eerste hulp op per leeftijd. Leer kinderen wat bij hun leeftijd past, en oefen het als spel. Wat je doet bij elk letsel, staat in de app onder Eerste hulp.
+Eerste hulp leer je stap voor stap, per leeftijd. Leer kinderen wat bij hun leeftijd past, en oefen het als spel. Wat je doet bij elk letsel, staat in de app onder Eerste hulp.
 
 | Niveau | Wat een kind kan leren |
 | --- | --- |

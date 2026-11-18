@@ -78,7 +78,7 @@ vertaling: machine
 origineel_datum: "2026-11-18"
 ---
 
-If schools stay closed for a long time and there is no electricity or internet, distance learning also falls away. You do not need to imitate school. The aim is for children and young people to keep a fixed routine, feel safe and keep reading, writing and doing arithmetic. International standards for education in emergencies say that education itself helps: structure, routines and something to look forward to reduce stress and give hope.
+If schools stay closed for a long time and there is no electricity or internet, distance learning also falls away. You do not need to imitate school. The aim is for children and young people to keep a fixed routine, feel safe and keep reading, writing and doing arithmetic. Learning helps in itself too: structure, routines and something to look forward to reduce stress and give hope.
 
 The learning activities by level are in two separate guides: nursery and primary school, and secondary school and adults. How to talk with children about the situation is covered in the guide on reassuring children and giving structure.
 
@@ -90,18 +90,18 @@ You cannot do everything. Choose in this order:
 
 1. **Safety and basic needs.** Water, food, warmth, sleep and a safe place come first.
 2. **Well-being and a fixed routine.** A day with fixed moments gives something to hold on to. Play, movement, music and drawing belong to it, for older children too.
-3. **Reading, writing and arithmetic.** These are the skills on which everything else rests. INEE names them, together with social and emotional skills, as the core to start with.
+3. **Reading, writing and arithmetic.** These are the skills on which everything else rests. Together with social and emotional skills, they are the core to start with.
 4. **Practical skills for the situation.** Hygiene, first aid, handling fire and water safely, map and compass, the weather.
 5. **The rest of the curriculum.** World studies, science, history, languages, music and art, as much as you can manage.
 
-The Flemish step-by-step plan for distance learning says the same to schools: choose deliberately, focus on the essential subject matter and limit the amount. Parents are not teachers and cannot take over that role completely.
+Choose deliberately: focus on the essential subject matter and limit the amount. Parents are not teachers and cannot take over that role completely.
 
 Source: [INEE: Standard 11, Curricula](https://inee.org/minimum-standards/standard-11) · [INEE: Standard 9, Protection and Wellbeing](https://inee.org/minimum-standards/standard-9) · [Onderwijs Vlaanderen: Stappenplan afstandsleren basisonderwijs](https://assets.vlaanderen.be/image/upload/Stappenplan_afstandsleren_basisonderwijs_2.2-dec21_miip3k.pdf)
 
 ## How to teach at home
 
 - **Work on paper and with your hands.** Writing, drawing, sorting, cutting, counting with objects. This works without a screen and keeps children active.
-- **Use what is in the house.** Pebbles, buttons, dried beans or rice for counting, a stick to draw shapes in the sand, packaging to read and weigh. UNICEF gives tasks such as this as an example: find objects shaped like a triangle.
+- **Use what is in the house.** Pebbles, buttons, dried beans or rice for counting, a stick to draw shapes in the sand, packaging to read and weigh. An example of a task: find objects shaped like a triangle.
 - **Read a lot.** Learning at home relies on reading even more than at school. Read aloud to those who cannot yet read well, and let older children read aloud to younger ones.
 - **Let children work independently.** A reading book, a workbook or a project they can spend a few days on. A strong structure and tasks that children can do on their own help parents most.
 - **Check the work briefly.** Looking together once or twice a week at what has been done is enough. Praise the effort.
@@ -129,7 +129,7 @@ Source: [UNICEF: Guidance on distance learning modalities (2020)](https://www.al
 
 ## Daily routine by age
 
-A fixed day gives something to hold on to. UNICEF advises parents to plan a daily routine. Keep fixed times for getting up, eating, learning, moving and sleeping. The times below are an example. Adjust them to the daylight, the meals and the tasks in the house.
+A fixed day gives something to hold on to. Keep fixed times for getting up, eating, learning, moving and sleeping. The times below are an example. Adjust them to the daylight, the meals and the tasks in the house.
 
 | Time | Nursery (3 to 5 years) | Primary school (6 to 12 years) | Secondary school (12 to 18 years) |
 | --- | --- | --- | --- |
@@ -149,13 +149,13 @@ A fixed day gives something to hold on to. UNICEF advises parents to plan a dail
 - **Secondary school.** Young people can work independently for longer. Let them make their own daily and weekly plan and share responsibility, for example for a younger child or a task in the house.
 - **Adults.** Also plan a fixed moment for yourself to read, learn something new or pass on a skill.
 
-Movement counts too. According to the health guidelines, children and young people should be active for a total of an hour every day (see the guide on games and activities without electricity).
+Movement counts too. Children and young people do best with at least an hour of vigorous activity in total every day (see the guide on games and activities without electricity).
 
 Source: [UNICEF: Guidance on distance learning modalities (2020)](https://www.allinschool.org/media/1626/file/Guidance-distance-learning-modalities-UNICEF-2020.pdf) · [Onderwijs Vlaanderen: Stappenplan afstandsleren basisonderwijs](https://assets.vlaanderen.be/image/upload/Stappenplan_afstandsleren_basisonderwijs_2.2-dec21_miip3k.pdf)
 
 ## Weekly plan
 
-The Flemish step-by-step plan advises schools to offer material per week, with a weekly schedule. You can do that at home too. Choose a theme for each week, for example "water", "the weather", "our street" or "the old days". That way reading, arithmetic and world studies fit together.
+Work with a weekly schedule. Choose a theme for each week, for example "water", "the weather", "our street" or "the old days". That way reading, arithmetic and world studies fit together.
 
 | Day | Morning | Afternoon |
 | --- | --- | --- |
@@ -232,7 +232,7 @@ In order of preference:
 
 1. **The school's materials.** Your child's textbooks, workbooks and course notes, and whatever the teacher can give in advance. Also ask for printed work packs. In the Fédération Wallonie-Bruxelles, the e-classe platform is only accessible to teaching staff: ask the teacher to give you material with a CC licence in advance.
 2. **KlasCement** (Flanders). A platform of the Departement Onderwijs en Vorming (Department of Education and Training) on which teachers share learning materials. The licence differs per item: the author chooses a Creative Commons licence, from CC0 to CC BY-NC-ND. Some items have a different licence or no open licence. You need a free account; parents may register too. This is how to download: log in, search by level and subject, set the Licentie (licence) filter to CC0, BY or BY-SA (for home use NC is also fine), choose downloadable learning material, check the licence on the item and download the file.
-3. **Wikiwijs** (the Netherlands, managed by Kennisnet). Lesson series with an open licence: CC BY 4.0 or CC BY-SA 4.0. Downloading a lesson series as a PDF for printing is possible without an account, and interactive questions are then converted to paper. The material follows the Dutch curriculum, not the Belgian one.
+3. **Wikiwijs** (the Netherlands). Lesson series with an open licence: CC BY 4.0 or CC BY-SA 4.0. Downloading a lesson series as a PDF for printing is possible without an account, and interactive questions are then converted to paper. The material follows the Dutch curriculum, not the Belgian one.
 4. **Books to read and to read aloud.** Wikisource contains texts that are free of rights, under CC BY-SA 4.0, and you can download them as PDFs. The DBNL (Digitale Bibliotheek voor de Nederlandse Letteren, the digital library of Dutch literature) allows downloading and printing for private use, not for passing on. Project Gutenberg offers books that are free of copyright in the United States; in Belgium a work only becomes free 70 years after the author's death, so check this for each book.
 5. **OpenStax.** Free English-language textbooks for secondary and higher education, including mathematics and sciences. Since April 2026 under CC BY-NC-SA 4.0. Downloading as a PDF is possible without an account. They follow an American curriculum.
 6. **Kiwix with Wikipedia offline.** Kiwix is free software (GPL-3.0) that reads Wikipedia and other reference works without internet, on Windows, macOS, Linux, Android and iOS. The text of Wikipedia is under CC BY-SA 4.0. You download a ZIM file in advance via the app or library.kiwix.org. Start small: Dutch-language Wikipedia without images ("nopic") was 5.8 GB on 18 November 2026, the version with only the introduction of each article ("mini") 2.6 GB. There are also files with Wikisource, Wiktionary, Wikibooks, Project Gutenberg and, in French, the children's encyclopaedia Vikidia (CC BY-SA 3.0). Sizes change with every new version. Kiwix does need a charged device: so print the most important material as well.

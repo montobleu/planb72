@@ -169,7 +169,7 @@ Plateau : trois carrés l'un dans l'autre, reliés par quatre lignes au milieu d
 
 **Dames** (2 joueurs, à partir de 7 ans)
 
-En Belgique et aux Pays-Bas, on joue sur un damier de 10 sur 10 cases avec 20 pions par joueur. Dessinez le damier avec des cases foncées et claires en alternance. La case en bas à gauche est foncée.
+On joue habituellement sur un damier de 10 sur 10 cases avec 20 pions par joueur. Dessinez le damier avec des cases foncées et claires en alternance. La case en bas à gauche est foncée.
 
 1. Chaque joueur place 20 pions sur les cases foncées de ses quatre premières rangées. Les blancs commencent.
 2. Un pion avance d'une case en diagonale vers une case foncée libre.

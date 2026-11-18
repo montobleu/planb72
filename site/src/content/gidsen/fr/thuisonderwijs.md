@@ -78,7 +78,7 @@ vertaling: machine
 origineel_datum: "2026-11-18"
 ---
 
-Si les écoles restent longtemps fermées et qu'il n'y a ni électricité ni internet, l'enseignement à distance disparaît lui aussi. Vous n'avez pas besoin d'imiter l'école. Le but est que les enfants et les jeunes gardent un rythme fixe, se sentent en sécurité et continuent à lire, écrire et calculer. Les normes internationales pour l'éducation en situation d'urgence disent que l'enseignement aide en lui-même : la structure, les routines et quelque chose à attendre avec impatience réduisent le stress et donnent de l'espoir.
+Si les écoles restent longtemps fermées et qu'il n'y a ni électricité ni internet, l'enseignement à distance disparaît lui aussi. Vous n'avez pas besoin d'imiter l'école. Le but est que les enfants et les jeunes gardent un rythme fixe, se sentent en sécurité et continuent à lire, écrire et calculer. Apprendre aide aussi en soi : la structure, les routines et quelque chose à attendre avec impatience réduisent le stress et donnent de l'espoir.
 
 Les activités d'apprentissage par niveau se trouvent dans deux guides séparés : maternelle et primaire, et secondaire et adultes. La manière de parler de la situation avec les enfants se trouve dans le guide sur la façon de rassurer les enfants.
 
@@ -90,18 +90,18 @@ Vous ne pouvez pas tout faire. Choisissez dans cet ordre :
 
 1. **Sécurité et besoins de base.** L'eau, la nourriture, la chaleur, le sommeil et un endroit sûr passent avant tout.
 2. **Bien-être et rythme fixe.** Une journée avec des moments fixes donne des repères. Le jeu, le mouvement, la musique et le dessin en font partie, aussi pour les enfants plus âgés.
-3. **Lire, écrire et calculer.** Ce sont les compétences sur lesquelles tout le reste repose. L'INEE les cite, avec les compétences sociales et émotionnelles, comme le noyau par lequel commencer.
+3. **Lire, écrire et calculer.** Ce sont les compétences sur lesquelles tout le reste repose. Avec les compétences sociales et émotionnelles, elles forment le noyau par lequel commencer.
 4. **Compétences pratiques pour la situation.** Hygiène, premiers secours, manipuler le feu et l'eau en sécurité, carte et boussole, la météo.
 5. **Le reste du programme.** Éveil, sciences, histoire, langues, musique et arts plastiques, autant que possible.
 
-Le plan par étapes flamand pour l'enseignement à distance dit la même chose aux écoles : choisissez consciemment, concentrez-vous sur la matière essentielle et limitez la quantité. Les parents ne sont pas des enseignants et ne peuvent pas reprendre complètement ce rôle.
+Choisissez consciemment : concentrez-vous sur la matière essentielle et limitez la quantité. Les parents ne sont pas des enseignants et ne peuvent pas reprendre complètement ce rôle.
 
 Source : [INEE : Standard 11, Curricula](https://inee.org/minimum-standards/standard-11) · [INEE : Standard 9, Protection and Wellbeing](https://inee.org/minimum-standards/standard-9) · [Onderwijs Vlaanderen : plan par étapes pour l'enseignement à distance](https://assets.vlaanderen.be/image/upload/Stappenplan_afstandsleren_basisonderwijs_2.2-dec21_miip3k.pdf)
 
 ## Comment enseigner à la maison
 
 - **Travaillez sur papier et avec les mains.** Écrire, dessiner, classer, découper, compter avec des objets. Cela fonctionne sans écran et garde les enfants actifs.
-- **Utilisez ce qu'il y a à la maison.** Des cailloux, des boutons, des haricots secs ou du riz pour compter, un bâton pour dessiner des formes dans le sable, des emballages pour lire et peser. L'UNICEF donne comme exemple des consignes comme : cherche des objets en forme de triangle.
+- **Utilisez ce qu'il y a à la maison.** Des cailloux, des boutons, des haricots secs ou du riz pour compter, un bâton pour dessiner des formes dans le sable, des emballages pour lire et peser. Un exemple de consigne : cherche des objets en forme de triangle.
 - **Lisez beaucoup.** Apprendre à la maison repose davantage sur la lecture qu'à l'école. Lisez à voix haute pour ceux qui ne lisent pas encore bien, et demandez aux enfants plus âgés de lire pour les plus jeunes.
 - **Laissez les enfants travailler seuls.** Un livre de lecture, un cahier d'exercices ou un travail qui les occupe quelques jours. Une structure solide et des consignes que les enfants peuvent réaliser seuls aident le plus les parents.
 - **Regardez brièvement le travail.** Regarder ensemble une ou deux fois par semaine ce qui a été fait suffit. Félicitez l'effort.
@@ -129,7 +129,7 @@ Source : [UNICEF : Guidance on distance learning modalities (2020)](https://www.
 
 ## Rythme quotidien selon l'âge
 
-Une journée fixe donne des repères. L'UNICEF conseille aux parents de planifier une routine quotidienne. Gardez des heures fixes pour se lever, manger, apprendre, bouger et dormir. Les moments ci-dessous sont un exemple. Adaptez-les à la lumière du jour, aux repas et aux tâches de la maison.
+Une journée fixe donne des repères. Gardez des heures fixes pour se lever, manger, apprendre, bouger et dormir. Les moments ci-dessous sont un exemple. Adaptez-les à la lumière du jour, aux repas et aux tâches de la maison.
 
 | Moment | Maternelle (3 à 5 ans) | Primaire (6 à 12 ans) | Secondaire (12 à 18 ans) |
 | --- | --- | --- | --- |
@@ -149,13 +149,13 @@ Une journée fixe donne des repères. L'UNICEF conseille aux parents de planifie
 - **Secondaire.** Les jeunes peuvent travailler seuls plus longtemps. Laissez-les établir eux-mêmes un planning journalier et hebdomadaire et prendre une part de responsabilité, par exemple pour un enfant plus jeune ou une tâche à la maison.
 - **Adultes.** Prévoyez aussi pour vous-même un moment fixe pour lire, apprendre quelque chose ou transmettre une compétence.
 
-Le mouvement compte aussi. Selon les recommandations de santé, les enfants et les jeunes doivent être actifs au total une heure par jour (voir le guide sur les jeux et occupations).
+Le mouvement compte aussi. Les enfants et les jeunes ont besoin chaque jour d'au moins une heure d'activité physique soutenue au total (voir le guide sur les jeux et occupations).
 
 Source : [UNICEF : Guidance on distance learning modalities (2020)](https://www.allinschool.org/media/1626/file/Guidance-distance-learning-modalities-UNICEF-2020.pdf) · [Onderwijs Vlaanderen : plan par étapes pour l'enseignement à distance](https://assets.vlaanderen.be/image/upload/Stappenplan_afstandsleren_basisonderwijs_2.2-dec21_miip3k.pdf)
 
 ## Plan hebdomadaire
 
-Le plan par étapes flamand conseille aux écoles de proposer le matériel par semaine, avec un horaire hebdomadaire. C'est aussi possible à la maison. Choisissez un thème par semaine, par exemple « l'eau », « la météo », « notre rue » ou « autrefois ». Ainsi, la lecture, le calcul et l'éveil sont reliés.
+Travaillez avec un horaire hebdomadaire. Choisissez un thème par semaine, par exemple « l'eau », « la météo », « notre rue » ou « autrefois ». Ainsi, la lecture, le calcul et l'éveil sont reliés.
 
 | Jour | Matinée | Après-midi |
 | --- | --- | --- |
@@ -232,7 +232,7 @@ Par ordre de préférence :
 
 1. **Le matériel de l'école.** Les manuels, cahiers d'exercices et cours de votre enfant, et ce que l'enseignant peut donner à l'avance. Demandez aussi des dossiers d'exercices imprimés. En Fédération Wallonie-Bruxelles, la plateforme e-classe n'est accessible qu'au personnel enseignant : demandez à l'enseignant de vous donner à l'avance du matériel sous licence CC.
 2. **KlasCement** (Flandre). Une plateforme du Departement Onderwijs en Vorming sur laquelle les enseignants partagent du matériel pédagogique. La licence diffère selon l'élément : l'auteur choisit une licence Creative Commons, de CC0 à CC BY-NC-ND. Certains éléments ont une autre licence ou pas de licence ouverte. Vous avez besoin d'un compte gratuit ; les parents peuvent aussi s'inscrire. Pour télécharger : connectez-vous, cherchez par niveau et par discipline, réglez le filtre Licence sur CC0, BY ou BY-SA (pour l'usage à la maison, NC est aussi possible), choisissez du matériel pédagogique téléchargeable, vérifiez la licence de l'élément et téléchargez le fichier.
-3. **Wikiwijs** (Pays-Bas, géré par Kennisnet). Des séries de leçons sous licence ouverte : CC BY 4.0 ou CC BY-SA 4.0. Télécharger une série de leçons en PDF pour l'imprimer est possible sans compte, et les questions interactives sont alors converties pour le papier. Le matériel suit le programme néerlandais, pas le programme belge.
+3. **Wikiwijs** (Pays-Bas). Des séries de leçons sous licence ouverte : CC BY 4.0 ou CC BY-SA 4.0. Télécharger une série de leçons en PDF pour l'imprimer est possible sans compte, et les questions interactives sont alors converties pour le papier. Le matériel suit le programme néerlandais, pas le programme belge.
 4. **Des livres à lire et à lire à voix haute.** Wikisource contient des textes libres de droits, sous CC BY-SA 4.0, et vous pouvez les télécharger en PDF. La DBNL (Digitale Bibliotheek voor de Nederlandse Letteren) permet de télécharger et d'imprimer pour un usage privé, pas pour diffuser plus loin. Le Project Gutenberg propose des livres libres de droits d'auteur aux États-Unis ; en Belgique, une œuvre n'est libre que 70 ans après la mort de l'auteur, vérifiez donc livre par livre.
 5. **OpenStax.** Des manuels gratuits en anglais pour l'enseignement secondaire et supérieur, entre autres en mathématiques et en sciences. Depuis avril 2026 sous CC BY-NC-SA 4.0. Le téléchargement en PDF est possible sans compte. Ils suivent un programme américain.
 6. **Kiwix avec Wikipédia hors ligne.** Kiwix est un logiciel gratuit (GPL-3.0) qui lit Wikipédia et d'autres ouvrages de référence sans internet, sur Windows, macOS, Linux, Android et iOS. Le texte de Wikipédia est sous CC BY-SA 4.0. Téléchargez à l'avance un fichier ZIM via l'application ou library.kiwix.org. Commencez petit : Wikipédia en néerlandais sans images (« nopic ») faisait 5,8 GB le 18 novembre 2026, la version avec seulement l'introduction de chaque article (« mini ») 2,6 GB. Il existe aussi des fichiers avec Wikisource, Wiktionary, Wikibooks, Project Gutenberg et, en français, l'encyclopédie pour enfants Vikidia (CC BY-SA 3.0). Les tailles changent à chaque nouvelle version. Kiwix demande toutefois un appareil chargé : imprimez donc aussi l'essentiel.

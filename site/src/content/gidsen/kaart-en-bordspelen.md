@@ -167,7 +167,7 @@ Bord: drie vierkanten in elkaar, verbonden door vier lijnen in het midden van el
 
 **Dammen** (2 spelers, vanaf 7 jaar)
 
-In België en Nederland speelt men op een bord van 10 bij 10 vakjes met 20 schijven per speler. Teken het bord met afwisselend donkere en lichte vakjes. Het vakje linksonder is donker.
+Gangbaar is een bord van 10 bij 10 vakjes met 20 schijven per speler. Teken het bord met afwisselend donkere en lichte vakjes. Het vakje linksonder is donker.
 
 1. Elke speler zet 20 schijven op de donkere vakjes van zijn eerste vier rijen. Wit begint.
 2. Een schijf gaat één vakje schuin vooruit naar een vrij donker vakje.
@@ -208,7 +208,7 @@ Voor jongere kinderen: speel op een bord van 8 bij 8 met 12 schijven per speler,
 - **Wie ben ik?** (vanaf 6 jaar): iemand denkt aan een persoon of een dier. De anderen stellen vragen die je met ja of nee beantwoordt.
 - **Woordketting** (vanaf 7 jaar): elk woord begint met de laatste letter van het vorige woord.
 - **Tekenen en raden** (vanaf 5 jaar): een speler tekent een woord zonder letters of cijfers, de anderen raden.
-- **Lingo op papier** (vanaf 9 jaar): raad een woord van vijf letters. Na elke poging zegt de bedenker welke letters juist staan en welke in het woord zitten op een andere plaats.
+- **Woord raden op papier** (vanaf 9 jaar): raad een woord van vijf letters. Na elke poging zegt de bedenker welke letters juist staan en welke in het woord zitten op een andere plaats.
 
 ## Spelen met dobbelstenen
 

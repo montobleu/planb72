@@ -32,7 +32,7 @@ bronnen:
 
 Jongeren in het secundair onderwijs kunnen grotendeels zelfstandig leren, als ze een plan, materiaal en af en toe iemand hebben die meekijkt. Laat ze een eigen dag- en weekplanning maken. Geef hun ook echte verantwoordelijkheid in het gezin of in de groep: dat motiveert en het is zelf een leerervaring.
 
-In Vlaanderen zijn de eindtermen opgebouwd rond zestien sleutelcompetenties. De belangrijkste om op te focussen als niet alles kan, zijn Nederlands, wiskunde en wetenschappen, andere talen, en de basisgeletterdheid die elke leerling op het einde van de eerste graad moet halen. In de Fédération Wallonie-Bruxelles loopt het Tronc commun tot het 3de jaar secundair. Internationale normen voor onderwijs in noodsituaties voegen er levensvaardigheden aan toe: problemen oplossen, samenwerken, beslissen, kennis over rampen, gezondheid en hygiëne, en creatieve vakken.
+In Vlaanderen zijn de eindtermen opgebouwd rond zestien sleutelcompetenties. De belangrijkste om op te focussen als niet alles kan, zijn Nederlands, wiskunde en wetenschappen, andere talen, en de basisgeletterdheid die elke leerling op het einde van de eerste graad moet halen. In de Fédération Wallonie-Bruxelles loopt het Tronc commun tot het 3de jaar secundair. Werk daarnaast aan levensvaardigheden: problemen oplossen, samenwerken, beslissen, kennis over rampen, gezondheid en hygiëne, en creatieve vakken.
 
 Bron: [Codex Secundair Onderwijs, artikel 139](https://codex.vlaanderen.be/PrintDocument.ashx?id=1020342&geannoteerd=false) · [Edulex: Decreet onderwijsdoelen eerste graad (2024)](https://data-onderwijs.vlaanderen.be/edulex/document/16102) · [Pacte pour un Enseignement d'excellence: Le tronc commun](https://pactepourunenseignementdexcellence.cfwb.be/mesures/le-tronc-commun-un-nouveau-parcours/) · [INEE: Standard 11, Curricula](https://inee.org/minimum-standards/standard-11)
 
@@ -95,12 +95,12 @@ Bron: [Codex Secundair Onderwijs, artikel 139](https://codex.vlaanderen.be/Print
 
 ## Kaart, kompas en weer: wat je moet weten
 
-- **Schaal.** Op een NGI-kaart 1:25 000 is 1 cm gelijk aan 250 m. Op 1:50 000 is 1 cm gelijk aan 500 m.
+- **Schaal.** Op een topografische kaart 1:25 000 is 1 cm gelijk aan 250 m. Op 1:50 000 is 1 cm gelijk aan 500 m.
 - **Hoogtelijnen.** Ze verbinden punten op dezelfde hoogte. Liggen ze dicht bij elkaar, dan is de helling steil. De hoofdhoogtelijnen zijn dikker getekend.
 - **Legende en afwijking.** De kaartrand verklaart de tekens en geeft de magnetische afwijking: het verschil tussen het noorden van de kaart en het noorden van het kompas.
-- **Coördinaten.** Topografische kaarten van het NGI hebben een raster in Lambert 2008 en, op de kaarten 1:25 000 en 1:50 000, ook een UTM-raster. Zie de gids over navigatie zonder gps om coördinaten te lezen en door te geven, en gebruik het kompas van de app.
-- **Wolken.** Het KMI onderscheidt lage, middelhoge en hoge wolken. Cumulonimbus is de onweerswolk.
-- **Wind.** Het KMI geeft windkracht op de Beaufortschaal van 0 (windstil) tot 12 (orkaan). Zie de gids over weer en terrein voor wat je doet bij storm.
+- **Coördinaten.** Belgische topografische kaarten hebben een raster in Lambert 2008 en, op de kaarten 1:25 000 en 1:50 000, ook een UTM-raster. Zie de gids over navigatie zonder gps om coördinaten te lezen en door te geven, en gebruik het kompas van de app.
+- **Wolken.** Er zijn lage, middelhoge en hoge wolken. Cumulonimbus is de onweerswolk.
+- **Wind.** De windkracht wordt uitgedrukt op de Beaufortschaal van 0 (windstil) tot 12 (orkaan). Zie de gids over weer en terrein voor wat je doet bij storm.
 
 Bron: [NGI: Topografische kaarten](https://ngi.be/aanbod/kaarten-en-fotos/topografische-kaarten/) · [NGI: FAQ](https://ngi.be/faq/) · [KMI: Wolkengeslachten](https://www.meteo.be/nl/info/weerwoorden/wolkengeslachten) · [KMI: Beaufortschaal](https://www.meteo.be/nl/info/weerwoorden/beaufortschaal)
 

@@ -169,7 +169,7 @@ Spielbrett: drei ineinanderliegende Quadrate, verbunden durch vier Linien in der
 
 **Dame** (2 Spieler, ab 7 Jahren)
 
-In Belgien und den Niederlanden spielt man auf einem Brett von 10 mal 10 Feldern mit 20 Steinen pro Spieler. Zeichnen Sie das Brett mit abwechselnd dunklen und hellen Feldern. Das Feld links unten ist dunkel.
+Üblich ist ein Brett von 10 mal 10 Feldern mit 20 Steinen pro Spieler. Zeichnen Sie das Brett mit abwechselnd dunklen und hellen Feldern. Das Feld links unten ist dunkel.
 
 1. Jeder Spieler setzt 20 Steine auf die dunklen Felder seiner ersten vier Reihen. Weiß beginnt.
 2. Ein Stein zieht ein Feld schräg nach vorn auf ein freies dunkles Feld.
@@ -210,7 +210,7 @@ Für jüngere Kinder: Spielen Sie auf einem Brett von 8 mal 8 mit 12 Steinen pro
 - **Wer bin ich?** (ab 6 Jahren): Jemand denkt an eine Person oder ein Tier. Die anderen stellen Fragen, die man mit Ja oder Nein beantwortet.
 - **Wortkette** (ab 7 Jahren): Jedes Wort beginnt mit dem letzten Buchstaben des vorigen Wortes.
 - **Zeichnen und Raten** (ab 5 Jahren): Ein Spieler zeichnet ein Wort ohne Buchstaben oder Ziffern, die anderen raten.
-- **Lingo auf Papier** (ab 9 Jahren): Raten Sie ein Wort aus fünf Buchstaben. Nach jedem Versuch sagt der, der sich das Wort ausgedacht hat, welche Buchstaben richtig stehen und welche im Wort an einer anderen Stelle vorkommen.
+- **Wort raten auf Papier** (ab 9 Jahren): Raten Sie ein Wort aus fünf Buchstaben. Nach jedem Versuch sagt der, der sich das Wort ausgedacht hat, welche Buchstaben richtig stehen und welche im Wort an einer anderen Stelle vorkommen.
 
 ## Spiele mit Würfeln
 
