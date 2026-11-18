@@ -24,6 +24,7 @@ Fase 0–1: een werkende eerste versie voor **België**, uitgebreid met **Nederl
 | Schuilen: keuzehulp, checklist eigen huis, mogelijke schuilplekken | gebouwd |
 | Hulpmiddelen: voorraad, checklists, noodplan, SOS-lamp, morse, kompas, notities | gebouwd |
 | Eerste hulp | bewust leeg tot er toestemming en een medisch nalezer is |
+| Keuzehulp bij het downloaden (eigen land, buurlanden, kies of alles; per land een detailniveau) op website, app en startprogramma | gebouwd, zie [docs/downloaden.md](docs/downloaden.md) |
 | Startprogramma voor Linux, Mac, Windows | gebouwd, nog niet ondertekend |
 | Bronnenregister en nachtelijke bronnenronde | gebouwd |
 | Website in vier talen (nl, fr, de, en) | gebouwd; vertalingen na te lezen |
