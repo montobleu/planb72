@@ -40,7 +40,7 @@ origineel_datum: "2026-11-18"
 
 ## Warum das nötig ist
 
-Der National Park Service zählt Navigation (Karte, Kompass und GPS) zu den zehn Grundausrüstungsgegenständen für alle, die in die Natur gehen, und empfiehlt, vorab mit Kompass oder GPS zu üben und Ersatzbatterien mitzunehmen. Fällt Ihr Handy oder GPS aus, müssen Sie auf eine Karte, einen Kompass oder die Hilfsmittel zurückgreifen, die Ihnen die Natur bietet.
+Navigation (Karte, Kompass und GPS) gehört zu den zehn Grundausrüstungsgegenständen für alle, die in die Natur gehen. Üben Sie vorab mit Kompass oder GPS und nehmen Sie Ersatzbatterien mit. Fällt Ihr Handy oder GPS aus, müssen Sie auf eine Karte, einen Kompass oder die Hilfsmittel zurückgreifen, die Ihnen die Natur bietet.
 
 Wer ohne GPS navigiert, kombiniert drei Dinge:
 
@@ -73,7 +73,7 @@ Quelle: [National Park Service: Outdoor Emergency Plan](https://www.nps.gov/subj
 - Auf klassischen topografischen Karten stehen **keine Straßennamen**.
 - Mit dem kostenlosen **Topomapviewer** des NGI (Web und App) können Sie die Karten ansehen, Entfernungen messen und einen Kartenausschnitt als PDF zum Ausdrucken speichern. Der Viewer braucht eine Internetverbindung; das PDF können Sie vorab ausdrucken.
 
-**Kompass und Metall.** Metall und Elektrizität stören einen Kompass. Die US-Armee empfiehlt diese Abstände:
+**Kompass und Metall.** Metall und Elektrizität stören einen Kompass. Halten Sie diese Abstände ein:
 
 | Was | Abstand |
 | --- | --- |
@@ -108,9 +108,9 @@ Quelle: [National Park Service: Outdoor Emergency Plan](https://www.nps.gov/subj
 5. Wählen Sie dort den nächsten Zielpunkt. Wiederholen Sie das.
 6. Nachts sehen Sie nur Umrisse. Wählen Sie dann Zielpunkte mit einer noch deutlicheren Form.
 
-**Ein Hindernis umgehen.** Drehen Sie sich um 90 Grad, gehen Sie eine bekannte Strecke, drehen Sie zurück in Ihre ursprüngliche Richtung und gehen Sie weiter, drehen Sie sich um 90 Grad zur anderen Seite und gehen Sie dieselbe Strecke zurück. Dann sind Sie wieder auf Ihrer Linie. Beispiel aus dem amerikanischen Handbuch: Sie gehen nach Osten (90 Grad); gehen Sie 100 m nach Süden (180), 150 m nach Osten (90), 100 m nach Norden (360) und dann weiter nach Osten.
+**Ein Hindernis umgehen.** Drehen Sie sich um 90 Grad, gehen Sie eine bekannte Strecke, drehen Sie zurück in Ihre ursprüngliche Richtung und gehen Sie weiter, drehen Sie sich um 90 Grad zur anderen Seite und gehen Sie dieselbe Strecke zurück. Dann sind Sie wieder auf Ihrer Linie. Beispiel: Sie gehen nach Osten (90 Grad); gehen Sie 100 m nach Süden (180), 150 m nach Osten (90), 100 m nach Norden (360) und dann weiter nach Osten.
 
-**Bewusst neben das Ziel zielen.** Liegt Ihr Ziel an einer Straße oder einem Bach, zielen Sie bewusst einige Grad links oder rechts davon. Erreichen Sie die Straße, wissen Sie sofort, in welche Richtung Sie gehen müssen. Jedes Grad Abweichung versetzt Sie um etwa 18 Meter pro 1.000 Meter. Zehn Grad genügen laut Handbuch für die meisten Zwecke.
+**Bewusst neben das Ziel zielen.** Liegt Ihr Ziel an einer Straße oder einem Bach, zielen Sie bewusst einige Grad links oder rechts davon. Erreichen Sie die Straße, wissen Sie sofort, in welche Richtung Sie gehen müssen. Jedes Grad Abweichung versetzt Sie um etwa 18 Meter pro 1.000 Meter. Zehn Grad genügen für die meisten Zwecke.
 
 **Mit dem Gelände navigieren (ohne viel Kompassarbeit)**
 
@@ -147,7 +147,7 @@ Eine Linie senkrecht zur Ost-West-Linie ist ungefähr die Nord-Süd-Linie.
 2. In der Mitte zwischen Stundenzeiger und **12 Uhr** liegt **Süden**. Gilt die Sommerzeit, nehmen Sie die Mitte zwischen Stundenzeiger und **13 Uhr**.
 3. Sind Sie unsicher, welche Seite Norden ist: Vor Mittag steht die Sonne im Osten, nach Mittag im Westen.
 
-Diese Methode kann Fehler verursachen und Sie im Kreis laufen lassen. Das Handbuch empfiehlt, Ihre Uhr mit einer Schattenuhr abzugleichen und sie nach einer Stunde Gehen erneut zu überprüfen.
+Diese Methode kann Fehler verursachen und Sie im Kreis laufen lassen. Gleichen Sie Ihre Uhr deshalb mit einer Schattenuhr ab und überprüfen Sie sie nach einer Stunde Gehen erneut.
 
 **Der Polarstern**
 
@@ -163,7 +163,7 @@ Quelle: [US Army FM 3-25.26](https://archive.org/details/milmanual-fm-3-25.26-ma
 
 ## Entfernungen messen und schätzen
 
-Die Entfernung ist laut dem amerikanischen Handbuch die größte Fehlerquelle beim Navigieren.
+Die Entfernung ist die größte Fehlerquelle beim Navigieren.
 
 **Ihre Schritte zählen**
 
@@ -180,7 +180,7 @@ Ihre Schrittlänge ändert sich. Zählen Sie mehr Schritte pro 100 Meter:
 - mit viel Kleidung oder Schuhen mit wenig Halt;
 - bei schlechter Sicht: Nebel, Regen, Dunkelheit.
 
-Beispiel aus dem Handbuch: Wer normalerweise 120 Schritte für 100 Meter braucht, kann bergauf 130 oder mehr brauchen.
+Beispiel: Wer normalerweise 120 Schritte für 100 Meter braucht, kann bergauf 130 oder mehr brauchen.
 
 **Mit dem Auge schätzen**
 
@@ -218,7 +218,7 @@ Quelle: [US Army FM 3-25.26](https://archive.org/details/milmanual-fm-3-25.26-ma
 
 ## Den Weg zurückfinden und Spuren hinterlassen
 
-- **Bleiben Sie auf den Wegen.** In flämischen Wäldern und Naturgebieten ist das auch die Regel: Fußgänger dürfen nur die vorgesehenen Straßen und Wege benutzen, außer in abgegrenzten Spielzonen. Der National Park Service empfiehlt es, um sich nicht zu verirren.
+- **Bleiben Sie auf den Wegen.** In flämischen Wäldern und Naturgebieten ist das auch die Regel: Fußgänger dürfen nur die vorgesehenen Straßen und Wege benutzen, außer in abgegrenzten Spielzonen. So verirren Sie sich auch weniger leicht.
 - **Achten Sie unterwegs auf** Wegkreuzungen, Infotafeln und Orientierungspunkte. Prüfen Sie regelmäßig, ob Sie noch auf Ihrer geplanten Route sind.
 - **Kennen Sie Ihre Route rückwärts** ebenso gut wie vorwärts. Schauen Sie sich regelmäßig um: Der Rückweg sieht anders aus.
 - **Hinterlassen Sie eine Informationsspur**: einen Tourenplan bei jemandem zu Hause. Müssen Sie bei einer Notsituation aufbrechen, hinterlassen Sie eine Nachricht, wann Sie aufgebrochen sind und wohin Sie gehen.
@@ -227,7 +227,7 @@ Quelle: [Vlaanderen.be: Wat mag u als bezoeker doen in de Vlaamse natuur?](https
 
 ## Verirrt: bleiben oder gehen
 
-**Schritt 1: Halten Sie an und atmen Sie durch.** Nehmen Sie sich einen Moment Zeit, um in Ruhe nachzudenken. Die US-Armee empfiehlt, nicht direkt nach dem Schock eine Entscheidung zu treffen: Warten Sie, bis der erste Schreck vorbei ist, sehen Sie sich dann die Lage an und entscheiden Sie.
+**Schritt 1: Halten Sie an und atmen Sie durch.** Nehmen Sie sich einen Moment Zeit, um in Ruhe nachzudenken. Treffen Sie nicht direkt nach dem Schock eine Entscheidung: Warten Sie, bis der erste Schreck vorbei ist, sehen Sie sich dann die Lage an und entscheiden Sie.
 
 **Schritt 2: Bestimmen Sie Ihren Standort.** Verwenden Sie Ihre Karte, Ihren Kompass, Ihr GPS oder sichtbare Orientierungspunkte.
 
@@ -246,7 +246,7 @@ Quelle: [Vlaanderen.be: Wat mag u als bezoeker doen in de Vlaamse natuur?](https
 - Sparen Sie Ihre Kräfte und warten Sie geduldig.
 - Machen Sie bei hoher Brandgefahr kein Feuer.
 
-**Wann doch gehen?** Die US-Armee nennt als Gründe, sich fortzubewegen: Der Ort bietet nicht genug Wasser, Nahrung oder Schutz, oder Sie können von dort nicht kommunizieren. Gehen Sie erst, wenn Sie sicher sind, dass Sie Wasser, Schutz, Nahrung und Hilfe erreichen können, oder wenn Sie nach mehreren Tagen Warten überzeugt sind, dass keine Hilfe kommt, und Sie für die Reise ausgerüstet sind. Verlassen Sie keinen sicheren Unterschlupf, um bei schlechtem Wetter aufzubrechen. Sind Sie verletzt oder haben Sie eine Kopfverletzung, schränkt das Ihre Fähigkeit ein, zu gehen und gute Entscheidungen zu treffen.
+**Wann doch gehen?** Gründe, sich fortzubewegen: Der Ort bietet nicht genug Wasser, Nahrung oder Schutz, oder Sie können von dort nicht kommunizieren. Gehen Sie erst, wenn Sie sicher sind, dass Sie Wasser, Schutz, Nahrung und Hilfe erreichen können, oder wenn Sie nach mehreren Tagen Warten überzeugt sind, dass keine Hilfe kommt, und Sie für die Reise ausgerüstet sind. Verlassen Sie keinen sicheren Unterschlupf, um bei schlechtem Wetter aufzubrechen. Sind Sie verletzt oder haben Sie eine Kopfverletzung, schränkt das Ihre Fähigkeit ein, zu gehen und gute Entscheidungen zu treffen.
 
 **Müssen Sie doch gehen**
 
@@ -283,7 +283,7 @@ Quelle: [National Park Service: Junior Ranger Park Explorer](https://www.nps.gov
 
 ## Nach Ort
 
-| Ort | Was die Quellen sagen |
+| Ort | Was passt |
 | --- | --- |
 | Wald oder Naturgebiet in Flandern | Bleiben Sie auf den Wegen; das ist auch die Regel. Rufen Sie 112 an und nennen Sie erkennbare Punkte (Wege, Weiher, Aussichtstürme, Parkplätze). Fliehen Sie bei einem Brand über bestehende Wege vom Feuer weg, am besten quer zum Wind, zu einer öffentlichen Straße oder einer geschlossenen Ortschaft. Kein Empfang bei einem Brand: Evakuieren Sie so schnell wie möglich und sprechen Sie Menschen an, denen Sie begegnen. |
 | Berge | Geben Sie das alpine Notsignal, wenn Sie kein Telefon haben, aber in Sicht- oder Hörweite eines Tals oder einer Hütte sind. Nennen Sie bei einem Notruf markante Geländepunkte, die Höhe und möglichst Koordinaten. |

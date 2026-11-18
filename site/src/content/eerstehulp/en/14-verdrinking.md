@@ -47,7 +47,7 @@ Source: [Gezondheid en Wetenschap: Drowning](https://www.gezondheidenwetenschap.
 1. Shout for help and have someone call 112. If they cannot get through, have that person get help (see Call 112 if).
 2. Try to rescue without going into the water yourself. Use rescue equipment that is available on site, throw something that floats, or hold out a long object.
 3. Do not go into deep water if you are not a strong swimmer. Only go into the water if you are trained in rescue, and then take rescue equipment with you. A drowning person who is conscious may grab hold of the rescuer in panic.
-4. According to the ERC, a trained rescuer who reaches an unresponsive drowning person in the water immediately gives 5 rescue breaths before bringing the person to the side.
+4. A trained rescuer who reaches an unresponsive drowning person in the water immediately gives 5 rescue breaths before bringing the person to the side.
 5. Lift the casualty out of the water horizontally. This avoids a drop in blood pressure.
 
 ### On the side
@@ -72,7 +72,7 @@ Source: [Gezondheid en Wetenschap: Drowning](https://www.gezondheidenwetenschap.
 
 ## If help is a long time coming
 
-- After drowning, there is a chance that the person responds to CPR, even without a defibrillator. The IFRC names drowning and hypothermia as exceptions to the rule that, in an area without emergency services, you can stop if CPR has had no effect after 20 minutes. With a child who has drowned or is hypothermic, there is a chance of saving them with CPR alone.
+- After drowning, there is a chance that the person responds to CPR, even without a defibrillator. Drowning and hypothermia are exceptions to the rule that, in an area without emergency services, you can stop if CPR has had no effect after 20 minutes. With a child who has drowned or is hypothermic, there is a chance of saving them with CPR alone.
 - Rescue breaths are especially important here, because the casualty has not been getting oxygen. Give them if you can.
 - Take turns with other rescuers every 1 to 2 minutes without interrupting CPR.
 - If the casualty has to be transported, continue CPR without interruption on a firm surface during transport.
@@ -95,7 +95,7 @@ Every drowning casualty must be examined, even if it does not seem so serious.
 
 - Only leave the casualty alone if there is no other option. Point directly at a bystander to get help and tell them where it is, what happened, how many casualties there are and what condition they are in.
 - Have someone fetch an AED if there is one nearby.
-- If you are giving CPR and are alone without a phone, see topic 2 (If you cannot get through). It describes what the ERC recommends for an adult and for a child.
+- If you are giving CPR and are alone without a phone, see topic 2 (If you cannot get through). It describes what to do for an adult and for a child.
 - See also topic 1 (If you cannot get through: getting help without a phone) and Emergency numbers in the app, If you cannot call.
 
 Source: [Gezondheid en Wetenschap: Drowning](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-verdrinking) · [ERC Guidelines 2025 for Everyone](https://www.erc.edu/media/p5ymaeej/gl2025_layperson_book_ipdf-v11-e.pdf) · [IFRC Guidelines 2020](https://www.ifrc.org/sites/default/files/2022-02/EN_GFARC_GUIDELINES_2020.pdf) · [ERC Guidelines 2021: First aid](https://cprguidelines-old.erc.edu/assets/guidelines/European-Resuscitation-Council-Guidelines-2021-Fi.pdf) · [112.be: Frequently asked questions](https://112.be/en/frequently-asked-questions)

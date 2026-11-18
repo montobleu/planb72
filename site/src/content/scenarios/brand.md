@@ -79,7 +79,7 @@ Bron: [Nationaal Crisiscentrum: brand of explosie](https://crisiscentrum.be/nl/r
 - Leg een telefoon en een zaklamp bij je bed, en hou je bril of hoorapparaat binnen handbereik.
 - Spreek een verzamelplaats af aan de voorkant van het gebouw of op een plek die de brandweer ziet.
 - Verdeel taken: wie haalt de kinderen, wie helpt wie minder mobiel is, wie belt 112.
-- Oefen het plan met iedereen in huis, ook met de binnendeuren dicht. Ready.gov raadt aan twee keer per jaar te oefenen, ook in het donker.
+- Oefen het plan met iedereen in huis, ook met de binnendeuren dicht. Oefen twee keer per jaar, ook in het donker.
 - Je kunt gratis een beroep doen op een brandpreventieadviseur.
 
 **Deuren dicht**

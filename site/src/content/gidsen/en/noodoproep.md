@@ -102,7 +102,7 @@ In Belgium there are two numbers for urgent help. They only work if you can call
 
 **Need the police? Call 101 directly.** Via 112 you are transferred, and that costs time.
 
-**False calls and calling by accident.** Hoax callers risk prosecution and a criminal conviction, also for text messages to the emergency text numbers. According to the European Commission, a false call is an offence in most countries. If you called by accident, do not hang up; tell the operator that everything is fine.
+**False calls and calling by accident.** Hoax callers risk prosecution and a criminal conviction, also for text messages to the emergency text numbers. In most EU countries a false call is an offence. If you called by accident, do not hang up; tell the operator that everything is fine.
 
 Source: [112.be: Other emergency numbers](https://112.be/en/other-emergency-numbers) · [112.be: Frequently asked questions](https://112.be/en/frequently-asked-questions) · [Civil Security: What do the emergency centres 112 do?](https://securitecivile.be/en/what-do-emergency-centres-112-do) · [National Crisis Center: brochure Prepared together](https://crisiscenter.be/sites/default/files/documents/files/WEB-Brochure%20Prepared%20Together-EN.pdf) · [112.be: For deaf people](https://112.be/en/deaf-people) · [European Commission: 112](https://digital-strategy.ec.europa.eu/en/policies/112)
 
@@ -123,7 +123,7 @@ Source: [112.be: How do I call 112?](https://112.be/en/how-call/how-call-112) ·
 
 ## Which questions the operator asks
 
-The Red Cross and 112.be use three questions. Know the answers before you call.
+The operator asks three questions. Know the answers before you call.
 
 - **Where?** Municipality, street and house number, or a junction or conspicuous landmark. How the emergency services can get there most easily. If you are not calling from the place of the incident, say so.
 - **What?** What has happened (fire, accident, aggression, heart attack) and whether there are hazards that require specialised help: someone trapped, a risk of explosion, a high-voltage cable on the ground.
@@ -147,7 +147,7 @@ Without a location, the emergency centre cannot send help. Always give the addre
 
 **Make it easy for the emergency services:** a large house number that is legible from the street, someone waiting for the emergency services in the street (or otherwise the door open if the emergency centre asks), the outside lights on in the evening, pets in a closed room, passageways clear.
 
-**Automatic location (AML).** Without automatic location, the emergency centre only sees the coverage area of the mobile phone mast for a mobile call, in the countryside sometimes several square kilometres. Since the end of June 2017, with AML (Advanced Mobile Location) your device sends its own position during a call to 112 or 101, up to 4,000 times more precisely. According to the 2017 press release, this then worked on Android with a Belgian SIM card, and for the iPhone you needed the 112 BE app. Whether that has changed is not stated on 112.be: so always give your location verbally as well.
+**Automatic location (AML).** Without automatic location, the emergency centre only sees the coverage area of the mobile phone mast for a mobile call, in the countryside sometimes several square kilometres. Since the end of June 2017, with AML (Advanced Mobile Location) your device sends its own position during a call to 112 or 101, up to 4,000 times more precisely. In 2017 this worked on Android with a Belgian SIM card; for the iPhone you needed the 112 BE app. So always give your location verbally as well.
 
 Source: [Rode Kruis-Vlaanderen: teaching pack on calling 112](https://www.rodekruis.be/storage/main/wehdag-2018-lespakket-112-bellen-handleiding.pdf) · [112.be: Frequently asked questions](https://112.be/en/frequently-asked-questions) · [National Crisis Center: Wildfire](https://crisiscenter.be/en/risks-belgium/natural-risks/wildfires) · [FPS Home Affairs: press release on AML and the 112 BE app](http://kcce.eu/sites/default/files/persbericht_2017-07-13-localisatie_app112be_2.pdf)
 
@@ -179,7 +179,7 @@ Source: [FPS Economy: questions from households about electricity shortages](htt
 4. If 112 and 101 cannot be reached because of a technical problem, **three temporary mobile numbers** can be activated per province. They are usually not active. Only use them in an emergency.
 5. If those cannot be reached either: call a **hospital**, the **fire service zone** or the **local police** directly.
 
-**Temporary mobile numbers per province** (only active during an outage of 112 and 101, according to 112.be on 17 November 2026):
+**Temporary mobile numbers per province** (only active during an outage of 112 and 101; as of 17 November 2026):
 
 | Province | Temporary mobile numbers |
 | --- | --- |
@@ -201,7 +201,7 @@ Source: [112.be: Frequently asked questions](https://112.be/en/frequently-asked-
 
 ### If you cannot call at all
 
-If no device works any more, the Belgian government says: ask for help in your neighbourhood and follow the information the authorities put out.
+If no device works any more, ask for help in your neighbourhood or, if you can, go to the nearest police station, fire station or hospital. The map in the app shows them, with the Nearest button. In a major outage the municipality may open an information and reception point. A power cut in itself is not an emergency.
 
 **With an injured or sick person**
 
@@ -214,7 +214,7 @@ If no device works any more, the Belgian government says: ask for help in your n
 - Find a place with coverage, or ask someone to go there and call. Anyone who is not calling from the place of the incident should tell the operator so.
 - In open terrain, with nobody nearby: see the guide Signals and emergency codes.
 
-Source: [ERC Guidelines 2021: First aid](https://cprguidelines-old.erc.edu/assets/guidelines/European-Resuscitation-Council-Guidelines-2021-Fi.pdf) · [ERC Guidelines 2021: Basic Life Support](https://cprguidelines-old.erc.edu/assets/guidelines/European-Resuscitation-Council-Guidelines-2021-Ba.pdf) · [ERC Guidelines 2021: Paediatric Life Support](https://cprguidelines-old.erc.edu/assets/guidelines/European-Resuscitation-Council-Guidelines-2021-Pa.pdf) · [IFRC Guidelines 2020](https://www.ifrc.org/sites/default/files/2022-02/EN_GFARC_GUIDELINES_2020.pdf) · [Gezondheid en Wetenschap: How do you resuscitate?](https://www.gezondheidenwetenschap.be/eerste-hulp/hoe-moet-je-reanimeren) · [National Park Service: Outdoor Emergency Plan](https://www.nps.gov/subjects/healthandsafety/upload/NPS-Outdoor-Emergency-Plan-508c.pdf) · [Deutscher Alpenverein: So geht das, Notfall alpin](https://www.alpenverein.de/artikel/so-geht-das-notfall-alpin_62bc1334-e9c7-4d8b-8a02-89dd681cbb83) · [112.be: How do I call 112?](https://112.be/en/how-call/how-call-112)
+Source: [ERC Guidelines 2021: First aid](https://cprguidelines-old.erc.edu/assets/guidelines/European-Resuscitation-Council-Guidelines-2021-Fi.pdf) · [ERC Guidelines 2021: Basic Life Support](https://cprguidelines-old.erc.edu/assets/guidelines/European-Resuscitation-Council-Guidelines-2021-Ba.pdf) · [ERC Guidelines 2021: Paediatric Life Support](https://cprguidelines-old.erc.edu/assets/guidelines/European-Resuscitation-Council-Guidelines-2021-Pa.pdf) · [IFRC Guidelines 2020](https://www.ifrc.org/sites/default/files/2022-02/EN_GFARC_GUIDELINES_2020.pdf) · [Gezondheid en Wetenschap: How do you resuscitate?](https://www.gezondheidenwetenschap.be/eerste-hulp/hoe-moet-je-reanimeren) · [National Park Service: Outdoor Emergency Plan](https://www.nps.gov/subjects/healthandsafety/upload/NPS-Outdoor-Emergency-Plan-508c.pdf) · [Deutscher Alpenverein: So geht das, Notfall alpin](https://www.alpenverein.de/artikel/so-geht-das-notfall-alpin_62bc1334-e9c7-4d8b-8a02-89dd681cbb83) · [112.be: How do I call 112?](https://112.be/en/how-call/how-call-112) · [BBK: Vorsorgen für Krisen und Katastrophen](https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/Buergerinformationen/Ratgeber/BBK-Vorsorgen-fuer-Krisen-und-Katastrophen.pdf?__blob=publicationFile&v=44) · [BBK: Stromausfall, Vorsorge und Selbsthilfe](https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/Buergerinformationen/stromausfall-vorsorge-selbsthilfe.pdf?__blob=publicationFile&v=17) · [Inspectorates: Unavailability of 112 on 24 June 2019](https://zoek.officielebekendmakingen.nl/blg-942150.pdf) · [Krisinformation.se: If internet and phone services stop working](https://www.krisinformation.se/en/finding-help-and-services/if-internet-and-phone-services-stop-working/)
 
 **Help and information in your neighbourhood**
 
@@ -225,18 +225,6 @@ Source: [ERC Guidelines 2021: First aid](https://cprguidelines-old.erc.edu/asset
 - In larger emergencies the municipality or the province sets up a reception centre, for example in a sports hall, with a contact person who gives information.
 
 Source: [FPS Economy: questions from households about electricity shortages](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door) · [National Crisis Center: Information during an emergency](https://crisiscenter.be/en/what-can-you-do/stay-informed/get-informed-emergency-situation) · [National Crisis Center: brochure Prepared together](https://crisiscenter.be/sites/default/files/documents/files/WEB-Brochure%20Prepared%20Together-EN.pdf) · [National Crisis Center: Evacuating](https://crisiscenter.be/en/what-can-you-do/right-reflex/evacuate) · [Rode Kruis-Vlaanderen: Power and communication outages](https://www.rodekruis.be/wat-doen-we/hulp-in-vlaanderen/goed-voorbereid/stroom-en-communicatie-uitval/)
-
-### Advice from abroad
-
-We did not find an official Belgian source that sends you to a fire station, a police station or a hospital in the event of a complete outage. Authorities in other countries do give that advice.
-
-- **Germany.** The BBK advises: if 110 and 112 no longer work, go to the nearest police station or to the hospital in an emergency, if you can. Find out in advance where you can get information locally, for example at the town hall or at an emergency meeting point (Notfalltreffpunkt), and where you can report an emergency if the telephone network fails. A power cut in itself is not an emergency.
-- **Netherlands.** During the nationwide 112 outage of 24 June 2019, the government used NL-Alert to send anyone with an urgent report to the nearest fire station or police station, and for medical emergencies to the hospital. Citizens could also approach police officers in the street. Not all regions had staffed their fire stations at the time.
-- **Sweden.** If 112 does not work, go to the nearest fire station. Municipalities can also designate other places where you can make an emergency call.
-
-The map in the app (Nearest button) shows fire services, police, hospitals and town halls near you.
-
-Source: [BBK: Vorsorgen für Krisen und Katastrophen](https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/Buergerinformationen/Ratgeber/BBK-Vorsorgen-fuer-Krisen-und-Katastrophen.pdf?__blob=publicationFile&v=44) · [BBK: Stromausfall, Vorsorge und Selbsthilfe](https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/Buergerinformationen/stromausfall-vorsorge-selbsthilfe.pdf?__blob=publicationFile&v=17) · [Inspectorates: Unavailability of 112 on 24 June 2019](https://zoek.officielebekendmakingen.nl/blg-942150.pdf) · [Krisinformation.se: If internet and phone services stop working](https://www.krisinformation.se/en/finding-help-and-services/if-internet-and-phone-services-stop-working/)
 
 ### Arrange in advance
 
@@ -259,14 +247,14 @@ Source: [112.be: How do I call 112?](https://112.be/en/how-call/how-call-112) ·
 
 The 112 BE app is the official app of the Belgian emergency centres, from the FPS Home Affairs. You do not need to remember a number: you tap fire service, ambulance or police.
 
-- **Location.** The emergency centre sees where you are. With internet, the app sends your position, even if you are moving. Without internet, according to the developer, the emergency data go via a free text message.
+- **Location.** The emergency centre sees where you are. With internet, the app sends your position, even if you are moving. Without internet, the emergency data go via a free text message.
 - **Extra information.** The emergency centre immediately sees what you filled in when registering, for example that you are deaf, a heart patient or allergic to certain medication. These data are not systematically kept, only sent along when you call via the app.
 - **Alarm.** If you are unconscious and the emergency services cannot find you, the emergency centre can make your mobile phone ring.
 - **Chat.** If you cannot speak or hear, the emergency centre can activate the chat.
 
 **Register now**, not during an emergency, and switch on the location function. The app is free, works **only in Belgium** and is available in Dutch, French, German and English. It needs the mobile network: if that drops out, see No coverage, no SIM card or a network outage.
 
-**If you cannot talk**, for example because you are injured or being threatened, call via the app or let someone else call. A silent emergency call without the app, as in some other countries, is not described on 112.be.
+**If you cannot talk**, for example because you are injured or being threatened, call via the app or let someone else call.
 
 Source: [112.be: Mobile application 112 BE](https://112.be/en/mobile-application) · [112.be: For deaf people](https://112.be/en/deaf-people) · [App Store: 112 BE](https://apps.apple.com/be/app/112-be/id1249304307) · [FPS Home Affairs: press release on AML and the 112 BE app](http://kcce.eu/sites/default/files/persbericht_2017-07-13-localisatie_app112be_2.pdf)
 
@@ -301,7 +289,7 @@ Source: [112.be: How do I call 112?](https://112.be/en/how-call/how-call-112) ·
 - The system starts automatically, or with a button. You talk to the nearest emergency centre, which receives the exact location, the time of the accident, the vehicle identification number and the direction of travel.
 - Outside a serious accident, eCall is not active: your car is not tracked.
 - Mandatory for new car models approved after 31 March 2018, for vehicles with up to 8 seats and light commercial vehicles.
-- According to the European Commission there are gaps in the eCall service now that 2G and 3G networks are being switched off. So also call yourself if you can.
+- Now that 2G and 3G networks are being switched off, there are gaps in the eCall service. So also call yourself if you can.
 
 **On the motorway in Flanders**
 
@@ -318,7 +306,7 @@ Source: [Your Europe: eCall](https://europa.eu/youreurope/citizens/travel/securi
 
 ## Teaching children to call
 
-According to research that the Red Cross refers to, children can learn to call 112 as early as the first and second cycle of primary school.
+Children can learn to call 112 as early as the first and second cycle of primary school.
 
 **What a child needs to know**
 

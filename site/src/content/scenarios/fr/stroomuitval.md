@@ -5,7 +5,7 @@ kort: "La lumière s'éteint et ne revient pas tout de suite, ou un délestage a
 stappen:
   - "Vérifiez si seul votre logement est sans électricité : les voisins ont-ils encore de la lumière, les lampadaires sont-ils allumés ? Vous saurez ainsi si le problème vient de votre propre installation ou du réseau."
   - "Éteignez les appareils qui produisent de la chaleur (taque de cuisson, four, fer à repasser, bouilloire, chauffage électrique) et débranchez les appareils sensibles. Laissez un interrupteur allumé pour remarquer quand le courant revient."
-  - "Gardez le réfrigérateur et le congélateur fermés. Selon le Centre de crise, un congélateur fermé reste congelé 24 à 36 heures."
+  - "Gardez le réfrigérateur et le congélateur fermés. Un congélateur fermé reste congelé 24 à 36 heures."
   - "Utilisez une lampe de poche plutôt que des bougies. Si une bougie brûle quand même, placez-la dans un bougeoir sur une surface incombustible et ne la laissez jamais sans surveillance."
   - "Suivez les informations via une radio à piles ou l'autoradio. Si le réseau fonctionne encore, n'appelez et ne surfez que si c'est nécessaire, et envoyez plutôt un SMS."
   - "N'utilisez jamais de groupe électrogène, de barbecue, de réchaud à gaz ou de poêle sans évacuation à l'intérieur ou dans le garage. Le monoxyde de carbone est invisible et inodore."
@@ -111,14 +111,14 @@ Source : [Centre de crise National : perturbation de l'électricité](https://ce
 
 **Kit d'urgence pour au moins 72 heures**
 
-Le Centre de crise recommande que vous puissiez vous débrouiller seul pendant au moins trois jours. La protection civile allemande (BBK) vise quelques jours à dix jours.
+Faites en sorte de pouvoir vous débrouiller seul pendant au moins trois jours.
 
-- Eau potable : 3 à 10 litres par personne et par jour. Dont 1,5 à 2 litres pour boire, le reste pour cuisiner, se laver et les toilettes.
+- Eau potable : comptez 3 litres par personne et par jour, pour boire et cuisiner. Davantage si vous le pouvez, pour vous laver et pour les toilettes.
 - De la nourriture qui se mange froide ou qui se prépare sans électricité, gaz ni eau, et un ouvre-boîte.
 - Une lampe de poche, de préférence à manivelle. Si elle fonctionne avec des piles, prévoyez des piles de rechange.
 - Une radio à piles ou à manivelle.
 - Une batterie externe chargée et un chargeur.
-- De l'argent liquide pour environ 72 heures, parce que les distributeurs de billets et les terminaux de paiement ne fonctionnent plus. Denk vooruit (Pays-Bas) cite comme montant indicatif 70 euros par adulte et 30 euros par enfant.
+- De l'argent liquide pour environ 72 heures, par exemple 70 euros par adulte et 30 euros par enfant, parce que les distributeurs de billets et les terminaux de paiement ne fonctionnent plus.
 - Une réserve d'au moins 72 heures de médicaments indispensables.
 - Des couvertures et des vêtements chauds pour l'hiver.
 - Un briquet ou des allumettes, des bougies ou des bougies chauffe-plat.
@@ -165,8 +165,7 @@ Source : [Centre de crise National : perturbation de l'électricité](https://ce
 **Réfrigérateur et congélateur**
 
 - Ouvrez le réfrigérateur et le congélateur le moins possible.
-- Selon le Centre de crise, les aliments ne décongèlent pas lors d'une interruption de 3 à 4 heures. Si la porte du congélateur reste fermée, ils peuvent rester surgelés 24 et même 36 heures.
-- Le service de santé américain CDC retient environ 4 heures pour un réfrigérateur fermé, 48 heures pour un congélateur plein et 24 heures pour un congélateur à moitié plein. En Belgique, c'est l'avis du Centre de crise qui s'applique.
+- Les aliments ne décongèlent pas lors d'une interruption de 3 à 4 heures. Si la porte du congélateur reste fermée, ils peuvent rester surgelés 24 et même 36 heures.
 
 **Rester au chaud**
 
@@ -241,7 +240,7 @@ Source : [Centre de crise National : kit d'urgence](https://centredecrise.be/fr/
 
 **Médicaments qui doivent rester au frais**
 
-- Le CDC conseille de jeter ces médicaments liquides après un jour ou plus sans électricité, sauf si la notice indique autre chose. Demandez le plus vite possible une nouvelle réserve à votre médecin ou à votre pharmacien.
+- Jetez ces médicaments liquides après un jour ou plus sans électricité, sauf si la notice indique autre chose. Demandez le plus vite possible une nouvelle réserve à votre médecin ou à votre pharmacien.
 - Si une vie dépend du médicament, utilisez-le jusqu'à ce qu'une nouvelle réserve soit disponible.
 
 **Voisins**
@@ -268,7 +267,7 @@ Source : [Centre de crise National : kit d'urgence](https://centredecrise.be/fr/
 
 - Vérifiez le sac de glaçons. Si la glace a fondu puis a regelé, les aliments sont probablement avariés.
 - Jetez les aliments au moindre doute sur leur fraîcheur, ou s'ils ont une odeur, une couleur ou une texture étrange.
-- Selon le CDC, vous pouvez recongeler ou cuisiner des aliments surgelés décongelés qui contiennent encore des cristaux de glace ou qui sont encore à 4 °C ou moins.
+- Vous pouvez recongeler ou cuisiner des aliments surgelés décongelés qui contiennent encore des cristaux de glace ou qui sont encore à 4 °C ou moins.
 - Jetez les aliments périssables restés 4 heures ou plus sans réfrigération : viande, poisson, fruits et légumes coupés, œufs, lait et restes. Jetez les aliments surgelés décongelés qui sont à plus de 4 °C.
 - Un thermomètre dans le réfrigérateur et le congélateur aide à en juger.
 

@@ -60,22 +60,22 @@ L'iode radioactif pénètre dans le corps de trois manières :
 | Consommation de nourriture ou de boissons contaminées | Les autorités prennent des mesures, par exemple une interdiction du lait ou des légumes |
 | Absorption par la peau | Le plus souvent négligeable |
 
-Les comprimés d'iode contiennent de l'iode ordinaire, non radioactif : selon les autorités belges, environ mille fois la quantité nécessaire chaque jour. Si vous les prenez au bon moment, votre thyroïde est saturée et n'absorbe plus d'iode radioactif. L'excès d'iode est rapidement éliminé dans les urines. L'OMS appelle cette mesure le blocage de la thyroïde par l'iode.
+Les comprimés d'iode contiennent de l'iode ordinaire, non radioactif : environ mille fois la quantité nécessaire chaque jour. Si vous les prenez au bon moment, votre thyroïde est saturée et n'absorbe plus d'iode radioactif. L'excès d'iode est rapidement éliminé dans les urines. Cette mesure s'appelle le blocage de la thyroïde par l'iode.
 
 Source : [Risque nucléaire : Iode stable et iode radioactif](https://risquenucleaire.be/fr/comprimes-diode/liode-stable-et-radioactif) · [Risque nucléaire : Quand les prendre](https://risquenucleaire.be/fr/comprimes-diode/quand-les-prendre) · [Risque nucléaire : Comprimés d'iode](https://risquenucleaire.be/fr/comprimes-diode) · [OMS : Use of potassium iodide](https://www.who.int/news-room/questions-and-answers/item/use-of-potassium-iodide-for-thyroid-protection-during-nuclear-or-radiological-emergencies)
 
 ## Ce que ne font pas les comprimés d'iode
 
 - **Ils protègent uniquement la thyroïde.** Ils n'offrent aucune protection contre les autres substances radioactives.
-- **Ils ne protègent pas contre le rayonnement venant de l'extérieur**, par exemple de la radioactivité présente sur le sol, sur des surfaces ou sur la nourriture (OMS).
-- **Ils n'empêchent pas l'iode radioactif d'entrer dans votre corps.** Ils empêchent seulement qu'il s'accumule dans la thyroïde (OMS).
-- **Ils ne sont pas un antidote contre le rayonnement** (OMS).
+- **Ils ne protègent pas contre le rayonnement venant de l'extérieur**, par exemple de la radioactivité présente sur le sol, sur des surfaces ou sur la nourriture.
+- **Ils n'empêchent pas l'iode radioactif d'entrer dans votre corps.** Ils empêchent seulement qu'il s'accumule dans la thyroïde.
+- **Ils ne sont pas un antidote contre le rayonnement.**
 - **Tout accident nucléaire ne libère pas d'iode radioactif.** L'iode n'est qu'un des composants possibles d'un nuage radioactif. Un accident peut encore se trouver dans une première phase, sans rejet.
 - **Ils ne rendent pas sûr le fait de sortir.** Même après la prise, vous restez à l'intérieur.
 
-C'est pourquoi la mise à l'abri a toujours la priorité sur la prise d'iode, surtout si vous n'avez pas de comprimés chez vous. La recommandation de prendre de l'iode va toujours de pair avec la recommandation de se mettre à l'abri. La Finlande le dit aussi : l'iode protège uniquement la thyroïde et n'est qu'un complément à la mise à l'abri à l'intérieur.
+C'est pourquoi la mise à l'abri a toujours la priorité sur la prise d'iode, surtout si vous n'avez pas de comprimés chez vous. La recommandation de prendre de l'iode va toujours de pair avec la recommandation de se mettre à l'abri.
 
-Source : [Risque nucléaire : Prise d'iode stable](https://risquenucleaire.be/fr/que-pouvez-vous-faire/prise-de-comprimes-diode) · [Risque nucléaire : Quand les prendre](https://risquenucleaire.be/fr/comprimes-diode/quand-les-prendre) · [Risque nucléaire : questions fréquentes](https://risquenucleaire.be/fr/faq) · [Risque nucléaire : Pour qui](https://risquenucleaire.be/fr/comprimes-diode/pour-qui) · [OMS : Use of potassium iodide](https://www.who.int/news-room/questions-and-answers/item/use-of-potassium-iodide-for-thyroid-protection-during-nuclear-or-radiological-emergencies) · [Suomi.fi: Radiation hazards](https://www.suomi.fi/guides/preparedness/how-to-prepare-for-incidents-and-crises/radiation-hazards)
+Source : [Risque nucléaire : Prise d'iode stable](https://risquenucleaire.be/fr/que-pouvez-vous-faire/prise-de-comprimes-diode) · [Risque nucléaire : Quand les prendre](https://risquenucleaire.be/fr/comprimes-diode/quand-les-prendre) · [Risque nucléaire : questions fréquentes](https://risquenucleaire.be/fr/faq) · [Risque nucléaire : Pour qui](https://risquenucleaire.be/fr/comprimes-diode/pour-qui) · [OMS : Use of potassium iodide](https://www.who.int/news-room/questions-and-answers/item/use-of-potassium-iodide-for-thyroid-protection-during-nuclear-or-radiological-emergencies)
 
 ## Pourquoi vous pouvez devoir prendre de l'iode même à l'intérieur
 
@@ -85,7 +85,7 @@ Source : [Risque nucléaire : questions fréquentes](https://risquenucleaire.be/
 
 ## Qui doit avoir des comprimés d'iode chez soi en Belgique
 
-| Groupe | Conseil des autorités belges |
+| Groupe | Conseil |
 | --- | --- |
 | Habitants d'une commune située à moins de 20 km d'un site nucléaire (10 km autour de l'IRE Fleurus) | Procurez-vous des comprimés d'iode, même si votre commune n'est que partiellement dans la zone. C'est encore plus important si vous avez ou voulez des enfants |
 | Enfants et jeunes jusqu'à 18 ans, dans toute la Belgique | Retirez une boîte |
@@ -101,13 +101,9 @@ Personne n'est exclu. Les grands-parents peuvent par exemple avoir des comprimé
 
 - Le risque de cancer de la thyroïde dû à l'iode radioactif diminue avec l'âge.
 - Après 40 ans, la thyroïde est plus souvent déréglée, surtout dans les régions pauvres en iode comme la Belgique. Le risque d'effets indésirables est alors plus élevé. En cas de thyroïde fortement déréglée, les inconvénients, comme des problèmes cardiaques, peuvent être plus importants que les avantages.
-- La limite de 40 ans suit les connaissances et les recommandations de l'Organisation mondiale de la santé. L'OMS dit que le blocage de la thyroïde par l'iode n'est en général pas indiqué chez les adultes de plus de 40 ans, à l'exception des intervenants.
+- Le blocage de la thyroïde par l'iode n'est en général pas indiqué chez les adultes de plus de 40 ans, à l'exception des intervenants.
 
-### Différence avec d'autres pays
-
-La Finlande conseille l'iode aux personnes de 40 ans ou moins et, en cas de pénurie, donne la priorité aux enfants, aux femmes enceintes et aux femmes qui allaitent. En Finlande, on achète les comprimés sans ordonnance en pharmacie. En Belgique, ils sont gratuits. En Belgique, suivez le conseil belge.
-
-Source : [Risque nucléaire : Pour qui](https://risquenucleaire.be/fr/comprimes-diode/pour-qui) · [Risque nucléaire : Retirer des comprimés d'iode en pharmacie](https://risquenucleaire.be/fr/comprimes-diode/aller-chercher-des-comprimes-diode-chez-le-pharmacien) · [Risque nucléaire : Pour les collectivités](https://risquenucleaire.be/fr/comprimes-diode/pour-les-collectivites) · [Risque nucléaire : questions fréquentes](https://risquenucleaire.be/fr/faq) · [OMS : Use of potassium iodide](https://www.who.int/news-room/questions-and-answers/item/use-of-potassium-iodide-for-thyroid-protection-during-nuclear-or-radiological-emergencies) · [Suomi.fi: Radiation hazards](https://www.suomi.fi/guides/preparedness/how-to-prepare-for-incidents-and-crises/radiation-hazards)
+Source : [Risque nucléaire : Pour qui](https://risquenucleaire.be/fr/comprimes-diode/pour-qui) · [Risque nucléaire : Retirer des comprimés d'iode en pharmacie](https://risquenucleaire.be/fr/comprimes-diode/aller-chercher-des-comprimes-diode-chez-le-pharmacien) · [Risque nucléaire : Pour les collectivités](https://risquenucleaire.be/fr/comprimes-diode/pour-les-collectivites) · [Risque nucléaire : questions fréquentes](https://risquenucleaire.be/fr/faq) · [OMS : Use of potassium iodide](https://www.who.int/news-room/questions-and-answers/item/use-of-potassium-iodide-for-thyroid-protection-during-nuclear-or-radiological-emergencies)
 
 ## Où vous les obtenez
 
@@ -127,7 +123,7 @@ Source : [Risque nucléaire : Retirer des comprimés d'iode en pharmacie](https:
 - Conservez les comprimés dans leur emballage d'origine (blister). Il les protège de la lumière et de l'humidité.
 - Conservez-les à température ambiante, au sec et à l'abri de la lumière, comme les autres médicaments. Protégez-les surtout de la chaleur.
 - Ne les sortez de l'emballage que lorsque les autorités le recommandent. Hors de l'emballage, ils se dégradent vite.
-- Rangez-les à un endroit que tout le monde à la maison connaît, par exemple dans l'armoire à pharmacie. Le Centre de crise les inclut dans la liste du kit d'urgence.
+- Rangez-les à un endroit que tout le monde à la maison connaît, par exemple dans l'armoire à pharmacie. Ils font aussi partie de votre kit d'urgence.
 - Seule la date de production figure sur l'emballage. Les comprimés se conservent au moins 10 ans. Comme le sel de cuisine, l'iode ne se dégrade presque pas.
 - Les boîtes les plus récentes en circulation ont comme date de production 2017.
 - Si vous avez encore des boîtes avec la date de production 2010 ou 2011, échangez-les gratuitement dans votre pharmacie contre une boîte plus récente. Laissez les comprimés à la pharmacie ; la boîte vide peut aller avec les vieux papiers.
@@ -141,8 +137,8 @@ Source : [Risque nucléaire : Retirer des comprimés d'iode en pharmacie](https:
 
 **Ne prenez jamais de comprimés d'iode de votre propre initiative.** Ne les prenez que sur recommandation explicite des autorités compétentes.
 
-- **Pourquoi le moment compte :** l'iode n'agit que si vous le prenez au bon moment, de préférence juste avant ou le plus vite possible après un rejet d'iode radioactif. Les autorités choisissent le moment où les comprimés sont les plus efficaces, sur l'avis d'experts. La Finlande dit : les prendre trop tôt ou trop tard réduit la protection.
-- **Ce que dit l'OMS sur la fenêtre de temps :** la meilleure période va de moins de 24 heures avant jusqu'à 2 heures après le début prévu de l'exposition. Jusqu'à 8 heures après, c'est encore raisonnable. Plus de 24 heures après l'exposition, cela n'offre plus de protection. En Belgique, ce sont les autorités qui décident quand.
+- **Pourquoi le moment compte :** l'iode n'agit que si vous le prenez au bon moment, de préférence juste avant ou le plus vite possible après un rejet d'iode radioactif. Les autorités choisissent le moment où les comprimés sont les plus efficaces, sur l'avis d'experts. Les prendre trop tôt ou trop tard réduit la protection.
+- **La fenêtre de temps :** la meilleure période va de moins de 24 heures avant jusqu'à 2 heures après le début prévu de l'exposition. Jusqu'à 8 heures après, c'est encore raisonnable. Plus de 24 heures après l'exposition, cela n'offre plus de protection. En Belgique, ce sont les autorités qui décident quand.
 - **Comment vous l'apprenez :** les autorités l'annoncent à la radio et à la télévision. Si vous êtes à l'abri, vous êtes à l'intérieur, fenêtres fermées : gardez donc à portée de main une radio à piles ou une radio à manivelle. Des véhicules de police équipés de haut-parleurs circulent aussi dans les rues, pour que vous receviez l'information même sans téléphone ni GSM. Si le réseau fonctionne, la recommandation arrive aussi via BE-Alert. Elle peut se limiter à une zone déterminée ou à un groupe déterminé, par exemple les femmes enceintes ou les jeunes enfants.
 - **Accident dans un pays voisin :** ne prenez les comprimés que si les autorités belges le recommandent explicitement.
 - **Combien de temps vous êtes protégé :** après la prise, vous restez protégé au moins 24 heures. Même lors d'un accident grave, il est très probable qu'une seule prise suffise. Continuez entre-temps à vous mettre à l'abri.
@@ -152,17 +148,17 @@ Source : [Risque nucléaire : Quand les prendre](https://risquenucleaire.be/fr/c
 ## Comment vous les prenez
 
 - Vérifiez pour chaque membre de la famille la dose sur l'emballage et dans la notice. Des dessins par tranche d'âge y figurent. Des doses différentes s'appliquent aux adultes, aux enfants, aux bébés, aux femmes enceintes et aux femmes qui allaitent.
-- Les autorités belges conseillent de ne pas simplement avaler les comprimés, mais de les dissoudre dans un grand verre d'eau tiède. Du lait ou du jus de fruit masque le goût. Les comprimés ne se dissolvent pas facilement : cassez-les ou écrasez-les et remuez.
+- N'avalez pas simplement les comprimés, mais dissolvez-les dans un grand verre d'eau tiède. Du lait ou du jus de fruit masque le goût. Les comprimés ne se dissolvent pas facilement : cassez-les ou écrasez-les et remuez.
 - L'iode irrite légèrement l'estomac. Ne le prenez pas avec de l'alcool.
 
 Source : [Risque nucléaire : questions fréquentes](https://risquenucleaire.be/fr/faq) · [Risque nucléaire : Quand les prendre](https://risquenucleaire.be/fr/comprimes-diode/quand-les-prendre)
 
 ## Bébés, grossesse et allaitement
 
-- **Bébés :** plus l'enfant est jeune, plus la protection est importante. La recommandation vaut certainement pour les bébés. Si votre bébé refuse de boire, réessayez plus tard. S'il continue à refuser : rester à l'intérieur élimine la plus grande partie du risque, et l'iode que prend la mère passe en partie dans le lait maternel (autorités belges). L'OMS dit que l'iode transmis par le lait maternel ne suffit pas à protéger un bébé et que le bébé reçoit lui-même aussi de l'iode. Suivez les instructions des autorités et la notice.
-- **Nouveau-nés de moins d'un mois :** l'OMS conseille de faire suivre leurs valeurs thyroïdiennes après la prise, avec une consultation chez le pédiatre dans la première semaine.
-- **Allaitement :** normalement, il n'y a pas de raison d'arrêter l'allaitement. Pour les enfants de moins d'un mois, il est parfois conseillé de tirer le lait et de le jeter pendant 24 heures et de donner le biberon pendant cette période, puis de reprendre l'allaitement (autorités belges).
-- **Grossesse :** les femmes enceintes ne prennent les comprimés que sur ordre. Elles protègent ainsi leur propre thyroïde et celle de l'enfant à naître. Après la situation d'urgence, signalez-le à votre médecin, pour que cela figure dans votre dossier (OMS).
+- **Bébés :** plus l'enfant est jeune, plus la protection est importante. La recommandation vaut certainement pour les bébés. Si votre bébé refuse de boire, réessayez plus tard. S'il continue à refuser : rester à l'intérieur élimine la plus grande partie du risque. L'iode que prend la mère passe en partie dans le lait maternel, mais cela ne suffit pas à protéger un bébé : le bébé reçoit lui-même aussi de l'iode. Suivez les instructions des autorités et la notice.
+- **Nouveau-nés de moins d'un mois :** faites suivre leurs valeurs thyroïdiennes après la prise, avec une consultation chez le pédiatre dans la première semaine.
+- **Allaitement :** normalement, il n'y a pas de raison d'arrêter l'allaitement. Pour les enfants de moins d'un mois, il est parfois conseillé de tirer le lait et de le jeter pendant 24 heures et de donner le biberon pendant cette période, puis de reprendre l'allaitement.
+- **Grossesse :** les femmes enceintes ne prennent les comprimés que sur ordre. Elles protègent ainsi leur propre thyroïde et celle de l'enfant à naître. Après la situation d'urgence, signalez-le à votre médecin, pour que cela figure dans votre dossier.
 
 Source : [Risque nucléaire : questions fréquentes](https://risquenucleaire.be/fr/faq) · [OMS : Use of potassium iodide](https://www.who.int/news-room/questions-and-answers/item/use-of-potassium-iodide-for-thyroid-protection-during-nuclear-or-radiological-emergencies)
 
@@ -184,15 +180,15 @@ Source : [Risque nucléaire : questions fréquentes](https://risquenucleaire.be/
 - Les autorités utilisent le temps entre les premiers signes d'un problème et le rejet pour alerter, distribuer des stocks et, si nécessaire, demander à la population d'aller chercher des comprimés en pharmacie. Écoutez les recommandations à la radio.
 - Si vous n'avez pas de comprimés, vous pouvez aussi les recevoir des services de secours : des stocks existent dans tout le pays, et les services de secours peuvent les distribuer à la population menacée en cas d'accident.
 - Si, au moment de l'accident, vous êtes à un match de football, dans un cinéma, un magasin ou une station-service : il est demandé aux collectivités situées dans les zones de prévoir des comprimés et de les distribuer quand les autorités le recommandent. La Protection civile dispose aussi d'un stock qu'elle peut distribuer.
-- La Finlande dit : n'allez pas à la pharmacie chercher des comprimés si une recommandation de les prendre a déjà été émise.
+- Si la recommandation de prendre les comprimés a déjà été émise, n'allez plus à la pharmacie les chercher.
 
 Source : [Risque nucléaire : questions fréquentes](https://risquenucleaire.be/fr/faq) · [Suomi.fi: Radiation hazards](https://www.suomi.fi/guides/preparedness/how-to-prepare-for-incidents-and-crises/radiation-hazards)
 
 ## Ce qui n'est pas un substitut
 
-- **Le sel iodé.** Le sel que vous utilisez habituellement ne contient pas assez d'iode pour bloquer l'iode radioactif. Manger beaucoup de sel est en soi dangereux (OMS).
-- **L'air marin et le poisson.** L'iode que vous respirez à la mer ou que vous mangez dans le poisson et les crustacés offre une certaine protection, mais pas assez lors d'un accident nucléaire (autorités belges).
-- **D'autres médicaments,** sauf si votre médecin le conseille explicitement (autorités belges).
+- **Le sel iodé.** Le sel que vous utilisez habituellement ne contient pas assez d'iode pour bloquer l'iode radioactif. Manger beaucoup de sel est en soi dangereux.
+- **L'air marin et le poisson.** L'iode que vous respirez à la mer ou que vous mangez dans le poisson et les crustacés offre une certaine protection, mais pas assez lors d'un accident nucléaire.
+- **D'autres médicaments,** sauf si votre médecin le conseille explicitement.
 
 Une alimentation riche en iode, comme le poisson, les crustacés et le sel iodé, est en général bonne, parce que notre alimentation contient le plus souvent trop peu d'iode.
 
@@ -200,7 +196,7 @@ Source : [OMS : Use of potassium iodide](https://www.who.int/news-room/questions
 
 ## Pourquoi les enfants ont la priorité
 
-Plus vous êtes jeune, plus vous êtes vulnérable à l'iode radioactif. Chez les enfants des environs de Tchernobyl, qui ont absorbé de l'iode radioactif par du lait et de la nourriture contaminés, l'augmentation des cancers de la thyroïde n'a été constatée que quatre à cinq ans après 1986 (OMS). L'OMS dit que l'iode réduit le risque de cancer de la thyroïde chez les personnes de 0 à 18 ans exposées à de l'iode radioactif. L'iode radioactif perd la moitié de sa radioactivité en 8 jours et a disparu après quelques semaines. Selon l'OMS, l'iode radioactif dans la nourriture est donc surtout une préoccupation juste après un accident, et pas un problème à long terme pour la consommation.
+Plus vous êtes jeune, plus vous êtes vulnérable à l'iode radioactif. Chez les enfants des environs de Tchernobyl, qui ont absorbé de l'iode radioactif par du lait et de la nourriture contaminés, l'augmentation des cancers de la thyroïde n'a été constatée que quatre à cinq ans après 1986. L'iode réduit le risque de cancer de la thyroïde chez les personnes de 0 à 18 ans exposées à de l'iode radioactif. L'iode radioactif perd la moitié de sa radioactivité en 8 jours et a disparu après quelques semaines. L'iode radioactif dans la nourriture est donc surtout une préoccupation juste après un accident, et pas un problème à long terme pour la consommation.
 
 Source : [OMS : Use of potassium iodide](https://www.who.int/news-room/questions-and-answers/item/use-of-potassium-iodide-for-thyroid-protection-during-nuclear-or-radiological-emergencies) · [OMS : Radiation and health](https://www.who.int/news-room/questions-and-answers/item/radiation-and-health) · [OMS : Radioactivity in food after a nuclear emergency](https://www.who.int/news-room/questions-and-answers/item/radioactivity-in-food-after-a-nuclear-emergency)
 

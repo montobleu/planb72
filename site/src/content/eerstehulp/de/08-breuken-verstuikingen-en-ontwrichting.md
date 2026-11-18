@@ -106,7 +106,7 @@ Quelle: [Gezondheid en Wetenschap: Knochenbrüche](https://www.gezondheidenweten
 - Kühlen Sie wiederholt, wenn der Schmerz zurückkommt, jeweils höchstens 20 Minuten und erst, wenn die Haut wieder normal warm ist.
 - Beobachten Sie bei einem Bruch eines großen Knochens die Zeichen eines Schocks und lassen Sie die betroffene Person liegen und halten Sie sie warm.
 - Achten Sie auf Gefühlsstörungen, zum Beispiel Kribbeln, Nadelstiche oder einen eingeschlafenen Fuß, und auf Zeichen eines Kompartmentsyndroms. Das sind Gründe, einen Arzt aufzusuchen.
-- Die IFRC erwähnt, dass eine geschulte Hilfskraft in einer abgelegenen Umgebung erwägt, einen stark verbogenen Bruch gerade zu richten, wenn die Gliedmaße jenseits des Bruchs kalt und blass ist. Die belgische Richtlinie sagt: Richten Sie ein Gelenk oder eine Gliedmaße in einer abnormalen Stellung nie gerade. Folgen Sie der belgischen Richtlinie.
+- Richten Sie ein Gelenk oder eine Gliedmaße in einer abnormalen Stellung nie gerade.
 - Verrenkungen und Brüche müssen immer von medizinischem Fachpersonal behandelt werden. Suchen Sie diese Versorgung, sobald es möglich ist.
 
 Quelle: [IFRC Guidelines 2020](https://www.ifrc.org/sites/default/files/2022-02/EN_GFARC_GUIDELINES_2020.pdf) · [Gezondheid en Wetenschap: Knochenbrüche](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-breuken) · [Gezondheid en Wetenschap: Verrenkung](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-ontwrichting)

@@ -73,7 +73,7 @@ Bron: [Nationaal Crisiscentrum](https://crisiscentrum.be/nl/risicos-belgie/natuu
 
 ### Je woning aan de rand van bos of heide
 
-De Nederlandse brandweer geeft deze tips voor woningen dicht bij de natuur:
+Woon je dicht bij de natuur:
 
 - Maak dak en dakgoten minstens twee keer per jaar schoon, in de lente en de herfst. Doe het vaker in droge periodes.
 - Laat het rookkanaal vegen en plaats een vonkenvanger.
@@ -92,7 +92,7 @@ De Nederlandse brandweer geeft deze tips voor woningen dicht bij de natuur:
 - Leg identiteitskaarten, medicatie, water, spullen voor huisdieren en telefoons samen op een vaste plek.
 - Ken je vluchtroute, ook als het druk is op de weg. Te voet of met de fiets kan sneller en veiliger zijn dan met de auto.
 - Spreek vooraf af met familie of vrienden waar je naartoe kunt.
-- Leg een noodpakket klaar. Ready.gov raadt aan om ook een N95-mondmasker te bewaren tegen rook.
+- Leg een noodpakket klaar, met ook een N95-mondmasker tegen rook.
 
 Bron: [Nationaal Crisiscentrum](https://crisiscentrum.be/nl/risicos-belgie/natuurlijke-risicos/natuurbrand) · [Service public de Wallonie](https://environnement.wallonie.be/feux) · [Brandweer Nederland: woning](https://www.brandweer.nl/onderwerpen/natuurbrand-voorkomen-tips-vakantieverblijf/) · [Brandweer Nederland: dagje uit](https://www.brandweer.nl/onderwerpen/natuurbrand-voorkomen-tips-dagje-uit/) · [Brandweer Nederland: in de buurt](https://www.brandweer.nl/onderwerpen/natuurbrand-in-de-buurt/) · [Nationaal Crisiscentrum: evacueren](https://crisiscentrum.be/nl/wat-kan-jij-doen/reageer-correct/evacueren) · [Ready.gov](https://www.ready.gov/wildfires)
 
@@ -105,8 +105,8 @@ Bron: [Nationaal Crisiscentrum](https://crisiscentrum.be/nl/risicos-belgie/natuu
 - Evacueer niet op eigen initiatief. Wacht op de aanbevelingen van de overheid via de radio en omroepwagens, en als het netwerk werkt via BE-Alert.
 - Kijk of buren, ouderen en mensen met een beperking hulp nodig hebben.
 - Moet je vertrekken: sluit elektriciteit en gas af, neem je noodpakket en vertrek meteen.
-- Kun je niet weg en is er geen bevel om te vertrekken: blijf binnen met ramen en deuren dicht. Bij rook raadt Ready.gov aan om in een kamer te blijven die je van de buitenlucht kunt afsluiten, en ventilatie op recirculatie te zetten of de luchtinlaat te sluiten.
-- Zit je echt vast: doe de lichten aan, zodat hulpverleners je vinden. Bel 112 en geef je plaats door. Reken op vertraging. Dat raadt het Amerikaanse Ready.gov aan.
+- Kun je niet weg en is er geen bevel om te vertrekken: blijf binnen met ramen en deuren dicht. Bij rook: blijf in een kamer die je van de buitenlucht kunt afsluiten, en zet de ventilatie op recirculatie of sluit de luchtinlaat.
+- Zit je echt vast: doe de lichten aan, zodat hulpverleners je vinden. Bel 112 en geef je plaats door. Reken op vertraging.
 
 ### Buiten of onderweg
 
@@ -141,7 +141,7 @@ Neem geen risico's en volg de instructies van brandweer en boswachters.
 
 ### Kwetsbare personen
 
-- Mensen met astma, COPD of een andere longziekte zijn extra gevoelig voor rook. Beperk hun blootstelling. Ready.gov raadt een N95-masker of een afgesloten kamer met luchtreiniger aan.
+- Mensen met astma, COPD of een andere longziekte zijn extra gevoelig voor rook. Beperk hun blootstelling met een N95-masker of een afgesloten kamer met luchtreiniger.
 - Ben je ziek, neem dan contact op met je arts.
 - Zorg in je noodplan voor helpers in de buurt van mensen die minder mobiel zijn. Bied hen een lift aan bij een evacuatie.
 

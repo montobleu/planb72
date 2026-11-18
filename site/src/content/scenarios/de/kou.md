@@ -72,7 +72,7 @@ origineel_datum: "2026-11-18"
 
 **Kältewarnungen des KMI**
 
-| Code | Schwelle (Höchsttemperatur) | Was tun laut KMI |
+| Code | Schwelle (Höchsttemperatur) | Was tun |
 |---|---|---|
 | Gelb | unter -3 °C | Seien Sie wachsam. Schützen Sie Menschen, Tiere und Pflanzen. Schützen Sie Wasserleitungen und Wasserhähne. Kleiden Sie sich angemessen. |
 | Orange | -5 °C oder niedriger | Begrenzen Sie die Kälteexposition, kleiden Sie sich warm in mehreren Schichten, vermeiden Sie lange oder schwere Anstrengung, bieten Sie Obdachlosen warme Getränke an. Befolgen Sie den Rat der Behörden. |

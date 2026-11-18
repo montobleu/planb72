@@ -91,7 +91,7 @@ Quelle: [Gezondheid en Wetenschap: Anaphylaktischer Schock](https://www.gezondhe
 
 ## Wenn Hilfe lange auf sich warten lässt
 
-- Laut der IFRC kann ein zweiter Autoinjektor erwogen werden, wenn der Rettungsdienst noch nicht da ist und sich der Zustand der betroffenen Person innerhalb von 5 bis 10 Minuten nach dem ersten nicht bessert. Das gilt nur für den eigenen, verschriebenen Autoinjektor der Person. Auch dann gilt die belgische Regel: Die Person verwendet ihn selbst, und Sie verabreichen ihn nur auf ausdrückliche Bitte, wenn sie es selbst nicht mehr kann.
+- Ein zweiter Autoinjektor kann erwogen werden, wenn der Rettungsdienst noch nicht da ist und sich der Zustand der betroffenen Person innerhalb von 5 bis 10 Minuten nach dem ersten nicht bessert. Das gilt nur für den eigenen, verschriebenen Autoinjektor der Person. Auch dann verwendet die Person ihn selbst, und Sie verabreichen ihn nur auf ausdrückliche Bitte, wenn sie es selbst nicht mehr kann.
 - Hat die betroffene Person keinen Autoinjektor, versuchen Sie auf allen Wegen, medizinische Hilfe zu erreichen: 112 und einen Hausarzt in der Nähe.
 - Eine schwere allergische Reaktion kann zurückkommen, nachdem alles vorbei schien, zwischen 1 und 78 Stunden nach dem Beginn. Das geschieht häufiger nach einer schweren Reaktion oder wenn mehr als ein Autoinjektor nötig war. Beobachten Sie deshalb jemanden, der eine schwere Reaktion hatte oder einen Autoinjektor bekam, in den 3 Tagen danach.
 - Prüfen Sie weiterhin regelmäßig Bewusstsein und Atmung. Wird die Person bewusstlos und atmet nicht normal, beginnen Sie mit der Wiederbelebung.

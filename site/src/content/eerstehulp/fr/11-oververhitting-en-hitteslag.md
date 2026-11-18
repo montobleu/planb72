@@ -23,7 +23,7 @@ origineel_datum: "2026-11-18"
 
 ## Reconnaître
 
-La surchauffe survient après une longue exposition à des températures élevées ou après un effort intense à la chaleur. L'IFRC distingue deux niveaux. Le coup de chaleur met la vie en danger.
+La surchauffe survient après une longue exposition à des températures élevées ou après un effort intense à la chaleur. Il y a deux niveaux. Le coup de chaleur met la vie en danger.
 
 Surchauffe légère à modérée (épuisement dû à la chaleur) :
 
@@ -39,7 +39,7 @@ Coup de chaleur :
 - la victime se trouve dans un environnement chaud, vient d'en sortir ou vient de fournir un effort intense ;
 - d'abord une transpiration abondante, ensuite plus de transpiration du tout ;
 - une peau rouge, sèche et chaude ;
-- une température du corps élevée : la recommandation belge cite 39 °C comme seuil pour appeler le 112, l'IFRC parle de plus de 40 °C en cas de coup de chaleur ;
+- une température du corps élevée : appelez le 112 à partir de 39 °C ;
 - maux de tête, voir des taches noires, vertiges, évanouissement ;
 - nausées et vomissements, crampes musculaires ou abdominales, douleurs dans tout le corps ;
 - confusion, somnolence ou comportement étrange ;
@@ -59,7 +59,7 @@ Source : [Gezondheid en Wetenschap : Coup de chaleur](https://www.gezondheidenwe
 2. Amenez-la dans un endroit frais. Retirez les vêtements superflus.
 3. Appelez le 112 ou faites appeler quelqu'un en cas de signes de coup de chaleur. Si l'appel ne passe pas, voir Appelez le 112 si.
 4. Refroidissez immédiatement. Plus les plaintes sont graves, plus vous pouvez refroidir énergiquement. Choisissez la meilleure méthode dont vous disposez :
-   - Meilleur choix : immergez la victime jusqu'au cou dans un bain d'eau tiède à froide. L'IFRC cite de l'eau de 1 à 26 °C, pendant environ 15 minutes ou jusqu'à ce que la température descende sous 39 °C. La recommandation belge dit : jusqu'à ce que l'état s'améliore, 15 minutes maximum.
+   - Meilleur choix : immergez la victime jusqu'au cou dans un bain d'eau tiède à froide, jusqu'à ce que l'état s'améliore et 15 minutes maximum.
    - Si l'immersion n'est pas possible, par exemple parce qu'il n'y a pas d'eau froide ou parce que la victime est confuse et refuse : posez un drap frais et mouillé sur la victime ou mouillez-la avec de l'eau froide.
    - Placez des glaçons dans un sachet d'eau, des poches de froid ou des linges froids et mouillés aux endroits où passent de gros vaisseaux sanguins : aux aines, sous les aisselles et dans la nuque.
    - Aspergez ou arrosez la victime d'eau froide. Un vaporisateur peut aider.
@@ -94,11 +94,11 @@ Source : [Gezondheid en Wetenschap : Coup de chaleur](https://www.gezondheidenwe
 
 ## Si les secours tardent à arriver
 
-- Continuez à refroidir avec tous les moyens dont vous disposez : eau, linges mouillés, ombre, éventer. L'ERC dit : commencez à refroidir activement avec tout ce qui est disponible, comme retirer les vêtements, des linges mouillés, des ventilateurs et de l'eau fraîche.
+- Continuez à refroidir activement avec tout ce dont vous disposez : retirer les vêtements, eau fraîche, linges mouillés, ombre, éventer ou un ventilateur.
 - Veillez à ce que des moyens de refroidissement soient prêts aux endroits où le risque de surchauffe est élevé, pour qu'il n'y ait pas de retard.
 - Surveillez la température et la conscience. Essayez de faire descendre la température sous 39 °C et de l'y maintenir.
 - Après le refroidissement, gardez la personne au frais et faites-la se reposer. La plupart des personnes ayant une surchauffe légère à modérée se rétablissent complètement.
-- Déshydratation : faites boire suffisamment une personne bien consciente. En cas de déshydratation légère, l'eau suffit. En cas de déshydratation plus grave, l'IFRC recommande une solution de réhydratation orale. Si vous n'en avez pas, donnez du jus de pomme, de l'eau de coco ou de l'eau.
+- Déshydratation : faites boire suffisamment une personne bien consciente. En cas de déshydratation légère, l'eau suffit. En cas de déshydratation plus grave, donnez une solution de réhydratation orale. Si vous n'en avez pas, donnez du jus de pomme, de l'eau de coco ou de l'eau.
 - Demandez un avis médical en cas de déshydratation si l'état ne s'améliore pas rapidement, chez un bébé, un enfant ou une personne âgée, si quelqu'un perd plus de liquide qu'il ne peut en boire, si quelqu'un urine peu ou pas et que les urines sont foncées, ou en cas de fièvre ou de signes de surchauffe.
 - En voyage dans des régions isolées avec peu d'eau, emportez assez à boire. Évitez les efforts intenses au moment le plus chaud de la journée.
 

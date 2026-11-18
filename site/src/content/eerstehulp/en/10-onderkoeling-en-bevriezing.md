@@ -85,8 +85,8 @@ Source: [Gezondheid en Wetenschap: Hypothermia](https://www.gezondheidenwetensch
 1. First check whether the person is also hypothermic. Hypothermia is more serious and takes priority.
 2. Get the person to a warm room or shelter as quickly as possible. Remove wet clothing and rewarm them under dry blankets and clothing.
 3. Carefully remove jewellery if this can be done without damaging the skin.
-4. Only rewarm the frozen part if there is no risk of it freezing again. The IFRC only recommends rewarming on the spot if you have the means and medical care is more than 2 hours away.
-5. Immerse the frozen part in warm water that feels pleasant on an uninjured area of skin. The IFRC gives 37 to 39 °C. Rewarm until the skin turns red or purple and feels soft and supple again, usually after about 30 minutes.
+4. Only rewarm the frozen part if there is no risk of it freezing again. Only rewarm it on the spot if you have the means and medical care is more than 2 hours away.
+5. Immerse the frozen part in warm water of 37 to 39 °C, which feels pleasant on an uninjured area of skin. Rewarm until the skin turns red or purple and feels soft and supple again, usually after about 30 minutes.
 6. If you have no warm water, rewarm the part with body heat, for example frozen fingers in the armpit.
 7. Do not rub or massage and do not handle the skin roughly.
 8. Cover the part with sterile gauze. If fingers or toes are frozen, put gauze between each finger or toe.
@@ -103,7 +103,7 @@ Source: [Gezondheid en Wetenschap: Hypothermia](https://www.gezondheidenwetensch
 - Give a warm, non-alcoholic drink to someone who is fully conscious and can swallow. Give nothing to someone who is unconscious.
 - After rewarming, keep the casualty dry and wrapped up, including the head and neck.
 - Hypothermic people in cardiac arrest must be given CPR without interruption until they have been rewarmed. The chances of recovery after cardiac arrest caused by mild to moderate hypothermia are excellent. In hypothermia, there is a chance that the person responds to CPR, even without a defibrillator. If you have to transport the casualty, continue CPR without interruption on a firm surface during transport.
-- Frostbite: the IFRC recommends only rewarming frozen body parts if you have the necessary means, if medical care is more than 2 hours away and if the part cannot freeze again. If medical care is closer, do not rewarm the part yourself.
+- Frostbite: only rewarm frozen body parts if you have the necessary means, if medical care is more than 2 hours away and if the part cannot freeze again. If medical care is closer, do not rewarm the part yourself.
 - Do not let someone with frozen feet or toes walk, unless it is really necessary. That increases the damage.
 - After rewarming, you may apply aloe vera to the frostbitten skin.
 - When you go to a cold, remote place, let someone know where you are going and when you intend to be back.
@@ -118,7 +118,7 @@ Source: [IFRC Guidelines 2020](https://www.ifrc.org/sites/default/files/2022-02/
 - the body temperature is below 35 °C;
 - the casualty is unconscious or not breathing normally: in that case, also start CPR.
 
-The IFRC recommends seeking medical help for any hypothermia. Always have frostbite checked by a doctor.
+Seek medical help for any hypothermia. Always have frostbite checked by a doctor.
 
 **If you cannot get through**
 

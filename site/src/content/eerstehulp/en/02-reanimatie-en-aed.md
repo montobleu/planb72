@@ -42,7 +42,7 @@ Start CPR immediately if someone suddenly collapses, does not respond and is not
 - Brief jerking movements are possible, especially in younger people. Check the breathing as soon as they stop.
 - Feeling for a pulse is not necessary and is unreliable.
 
-Ages according to the ERC: a baby is younger than 1 year, a child is 1 to 12 years, an adolescent 13 to 18 years. If you are unsure whether someone is an adolescent or an adult, follow the procedure for adults.
+Ages: a baby is younger than 1 year, a child is 1 to 12 years, an adolescent 13 to 18 years. If you are unsure whether someone is an adolescent or an adult, follow the procedure for adults.
 
 Source: [Gezondheid en Wetenschap: Resuscitation](https://www.gezondheidenwetenschap.be/richtlijnen/reanimatie-cardiopulmonale-resuscitatie-of-cpr) · [ERC Guidelines 2025 for Everyone](https://www.erc.edu/media/p5ymaeej/gl2025_layperson_book_ipdf-v11-e.pdf) · [IFRC Guidelines 2020](https://www.ifrc.org/sites/default/files/2022-02/EN_GFARC_GUIDELINES_2020.pdf)
 
@@ -100,10 +100,10 @@ Source: [Gezondheid en Wetenschap: How do you perform CPR?](https://www.gezondhe
 - CPR alone rarely restarts the heart. The heart usually needs a shock from a defibrillator. So have someone look for an AED as quickly as possible. Every minute of delay until the shock reduces the chance of survival by about 10 per cent.
 - Take turns with other rescuers every 1 to 2 minutes, so that nobody becomes exhausted. Briefly teach bystanders how to give compressions.
 - If the casualty has to be transported from a remote area to medical care, CPR must continue without interruption during transport, on a firm surface.
-- After drowning or in hypothermia, there is a chance that the person responds to CPR, even without a defibrillator. In hypothermia, the ERC states that you continue CPR without interruption until the person has been rewarmed.
-- The IFRC writes for children and babies: where no emergency service or hospital can be reached and CPR has had no effect after the first 20 minutes, you can stop because continuing CPR is unlikely to help any more. This does not apply after drowning or in hypothermia. For adults in those circumstances, the IFRC asks you to protect the person's dignity.
+- After drowning or in hypothermia, there is a chance that the person responds to CPR, even without a defibrillator. In hypothermia, continue CPR without interruption until the person has been rewarmed.
+- For children and babies: where no emergency service or hospital can be reached and CPR has had no effect after the first 20 minutes, you can stop because continuing CPR is unlikely to help any more. This does not apply after drowning or in hypothermia. For adults in those circumstances, protect the person's dignity.
 - If the person recovers, stay with them and keep checking the level of consciousness and the breathing until a doctor is present.
-- Taking part in a resuscitation is hard. The ERC recommends that rescuers receive support afterwards. Talk about it and seek help if you are struggling.
+- Taking part in a resuscitation is hard. Make sure that rescuers receive support afterwards. Talk about it and seek help if you are struggling.
 
 Source: [ERC Guidelines 2025 for Everyone](https://www.erc.edu/media/p5ymaeej/gl2025_layperson_book_ipdf-v11-e.pdf) · [IFRC Guidelines 2020](https://www.ifrc.org/sites/default/files/2022-02/EN_GFARC_GUIDELINES_2020.pdf)
 
@@ -120,7 +120,7 @@ Call with the speaker on and keep performing CPR in the meantime. If the connect
 
 - Only leave the casualty alone if there is no other option. Point directly at a bystander to get help and tell them where it is, what happened, how many casualties there are and what condition they are in. Send someone else to fetch an AED.
 - If there are two of you: one performs CPR, the other goes to get help and brings an AED if possible.
-- If you are alone without a phone: for an adult, get help first and then start CPR; for a child, perform CPR for 1 minute first and then go and get help. This is what the 2021 ERC guidelines say.
+- If you are alone without a phone: for an adult, get help first and then start CPR; for a child, perform CPR for 1 minute first and then go and get help.
 - If you are alone, do not go to fetch an AED unless it is close by and visible. Start CPR.
 - See also topic 1 (If you cannot get through: getting help without a phone) and Emergency numbers in the app, If you cannot call.
 

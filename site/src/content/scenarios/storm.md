@@ -161,7 +161,7 @@ Bron: [Denk vooruit: extreem weer](https://www.denkvooruit.nl/risicos/risicos-in
 
 - Stel je rit uit als het kan.
 - Parkeer niet in de buurt van bomen.
-- Rij niet op overstroomde wegen. Volgens Ready.gov kan een paar centimeter snelstromend water je omverduwen en ongeveer 30 cm water een voertuig meenemen.
+- Rij niet op overstroomde wegen. Een paar centimeter snelstromend water kan je omverduwen, ongeveer 30 cm water kan een voertuig meenemen.
 - Bij onweer is een auto met een dak een veilige schuilplaats. Wordt je auto getroffen, dan leidt de metalen carrosserie de stroom via dak en zijkanten naar de grond. Je hoeft geen paal of vangrail aan te raken.
 
 Bron: [Nationaal Crisiscentrum: wind en storm](https://crisiscentrum.be/nl/risicos-belgie/natuurlijke-risicos/wind-en-storm) · [Ready.gov: thunderstorms](https://www.ready.gov/thunderstorms-lightning) · [Brandweer Nederland: onweer](https://www.brandweer.nl/onderwerpen/onweer-donder-en-bliksem/) · [Nationaal Crisiscentrum: bliksem](https://crisiscentrum.be/nl/risicos-belgie/natuurlijke-risicos/bliksem)

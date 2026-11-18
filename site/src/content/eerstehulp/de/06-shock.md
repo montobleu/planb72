@@ -27,7 +27,7 @@ origineel_datum: "2026-11-18"
 
 ## Erkennen
 
-Schock bedeutet, dass der Kreislauf versagt: Organe und Gewebe bekommen nicht genug Blut und damit nicht genug Sauerstoff. Schock wird immer durch etwas anderes verursacht. Die IFRC nennt als Ursachen:
+Schock bedeutet, dass der Kreislauf versagt: Organe und Gewebe bekommen nicht genug Blut und damit nicht genug Sauerstoff. Schock wird immer durch etwas anderes verursacht. Mögliche Ursachen sind:
 
 - eine schwere Blutung, äußerlich oder innerlich (die häufigste Ursache);
 - sehr schwere Brandwunden, bei denen Flüssigkeit aus den Blutgefäßen in die Brandwunde austritt;

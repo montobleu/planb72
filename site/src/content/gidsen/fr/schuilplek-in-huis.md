@@ -48,15 +48,13 @@ origineel_datum: "2026-11-18"
 
 ## Pourquoi choisir l'endroit à l'avance
 
-Face à de nombreuses menaces, vous avez peu de temps. La Finlande indique qu'en cas de menace aérienne, il y a très peu de temps entre l'alerte et le danger réel, et que vous vous abritez donc là où vous vous trouvez à ce moment-là. Dans les régions peu peuplées et dans les quartiers de maisons individuelles, les gens s'abritent presque toujours sur place, selon les autorités finlandaises. Celui qui sait à l'avance quelle pièce de la maison est la meilleure ne perd pas de temps.
+Face à de nombreuses menaces, vous avez peu de temps. En cas de menace aérienne, il y a très peu de temps entre l'alerte et le danger réel. C'est pourquoi vous vous abritez généralement là où vous vous trouvez à ce moment-là. Celui qui sait à l'avance quelle pièce de la maison est la meilleure ne perd pas de temps.
 
-Le Centre de crise National recommande d'établir un plan d'urgence avec les personnes qui vivent sous votre toit, de discuter à l'avance des trois étapes de la mise à l'abri avec la famille, les voisins ou les collègues, et d'exercer régulièrement le plan. La Finlande recommande d'apprendre à couper la ventilation, à la maison et dans les bâtiments où vous allez souvent. Convenez aussi avec vos voisins de la manière de vous joindre si le téléphone ou Internet ne fonctionne pas (Centre de crise).
+Établissez un plan d'urgence avec les personnes qui vivent sous votre toit. Discutez à l'avance des trois étapes de la mise à l'abri avec la famille, les voisins ou les collègues et exercez régulièrement le plan. Apprenez à couper la ventilation, à la maison et dans les bâtiments où vous allez souvent. Convenez aussi avec vos voisins de la manière de vous joindre si le téléphone ou Internet ne fonctionne pas.
 
-Un abri dans la maison ne remplace pas un véritable abri de protection civile. Les autorités tchèques ont justement élaboré leur guide parce que les abris permanents ne couvrent qu'une petite partie de la population et qu'un abri improvisé (improvizovaný úkryt) est alors la solution. La protection civile ukrainienne indique que la règle des deux murs n'offre pas une sécurité totale.
+Un abri dans la maison ne remplace pas un véritable abri de protection civile. Là où il n'y a pas d'abris ou pas assez, un abri improvisé est la solution. La règle des deux murs n'offre pas une sécurité totale.
 
-Attention : le guide tchèque est une version d'archive de 2001 publiée sur le site web du ministère de l'Intérieur tchèque. Il s'adresse aux autorités, aux entreprises et aux indépendants, mais décrit aussi des pièces dans les logements.
-
-Source : [Suomi.fi: Military conflicts and civil defence](https://www.suomi.fi/guides/preparedness/how-to-prepare-for-incidents-and-crises/military-conflicts-and-civil-defence) · [Centre de crise National : Se mettre à l'abri](https://centredecrise.be/fr/que-pouvez-vous-faire/le-bon-reflexe/se-mettre-labri) · [Centre de crise National : brochure Samen voorbereid](https://centredecrise.be/sites/default/files/documents/files/WEB-Brochure-Pr%C3%AAts.%20Ensemble-FR.pdf) · [Sebeochrana ukrytím](https://mv.gov.cz/clanek/sebeochrana-ukrytim.aspx) · [Dovidka.info: What is a shelter](https://dovidka.info/en/what-is-shelter/)
+Source : [Suomi.fi: Military conflicts and civil defence](https://www.suomi.fi/guides/preparedness/how-to-prepare-for-incidents-and-crises/military-conflicts-and-civil-defence) · [Suomi.fi: General instructions](https://www.suomi.fi/guides/preparedness/how-to-prepare-for-incidents-and-crises/general-instructions-on-preparedness-home-emergency-supplies-and-on-what-to-do-in-different-situations) · [Centre de crise National : Se mettre à l'abri](https://centredecrise.be/fr/que-pouvez-vous-faire/le-bon-reflexe/se-mettre-labri) · [Centre de crise National : brochure Samen voorbereid](https://centredecrise.be/sites/default/files/documents/files/WEB-Brochure-Pr%C3%AAts.%20Ensemble-FR.pdf) · [Sebeochrana ukrytím](https://mv.gov.cz/clanek/sebeochrana-ukrytim.aspx) · [Dovidka.info: What is a shelter](https://dovidka.info/en/what-is-shelter/)
 
 ## Un logement, plusieurs endroits
 
@@ -65,132 +63,125 @@ Ne choisissez pas un seul endroit, mais deux ou trois, car le meilleur endroit d
 | Menace | Meilleur endroit dans votre logement | À éviter |
 | --- | --- | --- |
 | Attaque aérienne, explosion | Cave sans fenêtres ; sinon pièce intérieure avec deux murs jusqu'à l'extérieur | Grenier, pièces avec fenêtres, vide sanitaire |
-| Retombées radioactives | Conseil belge : pièce centrale au rez-de-chaussée ; Allemagne : de préférence la cave | Pièces côté façade, près des fenêtres |
-| Nuage chimique | Conseil belge : pièce centrale au rez-de-chaussée, bien calfeutrée | Cave (les gaz descendent, BBK) |
+| Accident nucléaire | Pièce centrale au rez-de-chaussée | Pièces côté façade, près des fenêtres |
+| Arme nucléaire | Cave ; sinon le milieu du bâtiment | Pièces côté façade, près des fenêtres, sous le toit |
+| Nuage chimique | Pièce centrale au rez-de-chaussée, bien calfeutrée | Cave : la plupart des gaz descendent |
 | Inondation | Étage le plus élevé | Cave, sous-sol |
 | Tempête, tornade | Pièce intérieure loin des fenêtres et des murs extérieurs | Près des fenêtres, sous le toit |
 
-En Belgique, le conseil général de mise à l'abri est : une pièce centrale au rez-de-chaussée, loin des fenêtres et des portes extérieures. La cave est donc surtout une option en cas d'explosions et d'attaques aériennes, et selon la directive allemande aussi en cas de substances radioactives.
+En Belgique, le conseil général de mise à l'abri est : une pièce centrale au rez-de-chaussée, loin des fenêtres et des portes extérieures. La cave est surtout une option en cas d'explosions, d'attaques aériennes et d'arme nucléaire.
 
-Source : [Centre de crise National : Se mettre à l'abri](https://centredecrise.be/fr/que-pouvez-vous-faire/le-bon-reflexe/se-mettre-labri) · [BBK: Schutz suchen](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Vorsorge/Schutz-suchen/schutz-suchen_node.html) · [TNO : Schuilmogelijkheden bij luchtaanvallen](https://www.tweedekamer.nl/downloads/document?id=2026D56281)
+Source : [Centre de crise National : Se mettre à l'abri](https://centredecrise.be/fr/que-pouvez-vous-faire/le-bon-reflexe/se-mettre-labri) · [Risque nucléaire : Se mettre à l'abri, la meilleure protection](https://risquenucleaire.be/fr/que-pouvez-vous-faire/mise-labri-la-meilleure-action-de-protection) · [BBK: Schutz suchen](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Vorsorge/Schutz-suchen/schutz-suchen_node.html) · [Ready.gov: Radiation emergencies](https://www.ready.gov/radiation) · [TNO : Schuilmogelijkheden bij luchtaanvallen](https://www.tweedekamer.nl/downloads/document?id=2026D56281)
 
 ## Les critères
 
-Ces critères proviennent des directives allemandes, tchèques, néerlandaises (TNO) et ukrainiennes. Ils concernent surtout la protection contre les explosions et le rayonnement.
+Ces critères concernent surtout la protection contre les explosions et, en cas d'arme nucléaire, contre le rayonnement. En cas d'accident nucléaire ou de nuage chimique, la règle en Belgique est une pièce centrale au rez-de-chaussée.
 
 ### Profondeur et situation
 
-- **Sous terre, c'est le mieux.** Une cave offre une protection efficace grâce à sa situation abritée (TNO). Contre le rayonnement, l'écran offert par les caves est particulièrement important grâce à la terre qui les entoure et aux étages au-dessus (BBK).
-- **Le plus profondément possible dans le terrain et au milieu du bâtiment.** La Tchéquie cite une cave dans la partie centrale du bâtiment, enterrée le plus profondément possible, avec des plafonds voûtés ou en béton armé et des murs extérieurs épais.
-- **Le sol au-dessus du niveau de la nappe phréatique** (Tchéquie).
+- **Sous terre, c'est le mieux.** Une cave offre une protection efficace grâce à sa situation abritée. Contre le rayonnement, l'écran offert par les caves est particulièrement important grâce à la terre qui les entoure et aux étages au-dessus.
+- **Le plus profondément possible dans le terrain et au milieu du bâtiment.** Choisissez une cave dans la partie centrale du bâtiment, enterrée le plus profondément possible, avec des plafonds voûtés ou en béton armé et des murs extérieurs épais.
+- **Le sol au-dessus du niveau de la nappe phréatique.**
 
 ### Masse et construction
 
-Le TNO cite trois caractéristiques : une construction solide (murs, colonnes, sols et plafonds épais, souvent en béton), des murs robustes (épais, peu d'ouvertures, peu de verre) et une situation abritée. Le guide tchèque donne des épaisseurs minimales pour les murs extérieurs d'un abri en cave : 45 cm de maçonnerie ou 30 cm de béton armé. Les constructions à ossature en béton armé ou en acier et les bâtiments massifs en briques ou en pierre conviennent le mieux. Ne conviennent pas, selon la Tchéquie, les bâtiments contenant beaucoup de matériaux combustibles et les bâtiments n'ayant qu'un ou deux niveaux.
+Une bonne pièce a trois caractéristiques : une construction solide (murs, colonnes, sols et plafonds épais, souvent en béton), des murs robustes (épais, peu d'ouvertures, peu de verre) et une situation abritée. Pour les murs extérieurs d'un abri en cave, le minimum est de 45 cm de maçonnerie ou 30 cm de béton armé. Les constructions à ossature en béton armé ou en acier et les bâtiments massifs en briques ou en pierre conviennent le mieux. Ne conviennent pas les bâtiments contenant beaucoup de matériaux combustibles et les bâtiments n'ayant qu'un ou deux niveaux.
 
 ### Nombre de murs entre vous et l'extérieur
 
-Veillez à avoir deux murs entre vous et l'extérieur. Si le mur extérieur est endommagé, le deuxième mur vous protège contre les éclats et les débris. Plus la pièce est située au cœur du bâtiment, mieux c'est (BBK).
+Veillez à avoir deux murs entre vous et l'extérieur. Si le mur extérieur est endommagé, le deuxième mur vous protège contre les éclats et les débris. Plus la pièce est située au cœur du bâtiment, mieux c'est.
 
 ### Fenêtres et verre
 
-Les pièces intérieures avec le moins possible de murs extérieurs et de portes et sans fenêtres protègent bien, car les éclats de verre ne peuvent alors pas causer de blessures (BBK). Évitez les pièces avec une ligne de vue directe vers l'extérieur (TNO).
+Les pièces intérieures avec le moins possible de murs extérieurs et de portes et sans fenêtres protègent bien, car les éclats de verre ne peuvent alors pas causer de blessures. Évitez les pièces avec une ligne de vue directe vers l'extérieur.
 
 ### Sorties
 
-- Un abri dans un immeuble doit avoir au moins deux issues de secours ou d'autres voies d'évacuation (Tchéquie). Ainsi, vous ne vous retrouvez pas enfermé si l'entrée principale est sous les débris.
-- L'Ukraine demande au moins deux sorties, ou la possibilité d'aménager une deuxième sortie ou un deuxième itinéraire, et des sorties utilisables, dégagées et non fermées à clé en permanence.
-- La porte d'entrée doit s'ouvrir vers l'extérieur (Tchéquie).
+- Prévoyez au moins deux sorties ou voies d'évacuation, ou la possibilité d'aménager une deuxième sortie ou un deuxième itinéraire. Ainsi, vous ne vous retrouvez pas enfermé si l'entrée principale est sous les débris.
+- Gardez les sorties utilisables, dégagées et non fermées à clé en permanence.
+- La porte d'entrée doit s'ouvrir vers l'extérieur.
 
 ### Ce qui se trouve au-dessus et à côté
 
-La Tchéquie indique de ne pas aménager d'abri :
+N'aménagez pas d'abri :
 
 - sous des locaux où plus de 1 000 kg par mètre carré sont stockés ;
 - sous des locaux de production ou de stockage contenant des réservoirs de liquides chimiques dangereux ou de métal en fusion ;
 - à moins de 100 mètres de réservoirs de substances dangereuses ou de gaz lourds ;
 - à moins de 50 mètres d'entreprises ou de stockages présentant un risque d'explosion ou contenant des substances facilement inflammables ;
-- au-dessus de conduites de vapeur à haute pression, de haute tension ou d'air comprimé.
+- au-dessus de conduites de vapeur à haute pression, de haute tension ou d'air comprimé ;
+- dans un local où se trouvent du carburant, des bouteilles de gaz, des produits chimiques ou des matériaux combustibles.
 
-L'Ukraine ajoute : pas de local où se trouvent du carburant, des bouteilles de gaz, des produits chimiques ou des matériaux combustibles. Le TNO conseille de se tenir à distance des locaux gaz, électricité et techniques.
+Tenez-vous aussi à distance des locaux gaz, électricité et techniques.
 
 ### Ce qu'il vaut mieux ne pas choisir
 
-- **Grenier et étage sous le toit :** un toit protège peu contre les ondes de choc, le verre et les débris (BBK).
-- **Vide sanitaire** (TNO).
-- **Cuisine :** verre, appareils lourds et autres dangers (Ukraine).
-- **Salle de bains** uniquement en dernier recours, et uniquement sans chaudière ou chauffe-eau au gaz. Le carrelage et les miroirs peuvent se briser (Ukraine).
-- **Pièces avec fenêtres, balcons ou loggias**, ou directement en face de fenêtres et de grands miroirs (Ukraine).
+- **Grenier et étage sous le toit :** un toit protège peu contre les ondes de choc, le verre et les débris.
+- **Vide sanitaire.**
+- **Cuisine :** verre, appareils lourds et autres dangers.
+- **Salle de bains** uniquement en dernier recours, et uniquement sans chaudière ou chauffe-eau au gaz. Le carrelage et les miroirs peuvent se briser.
+- **Pièces avec fenêtres, balcons ou loggias**, ou directement en face de fenêtres et de grands miroirs.
 
-Source : [BBK: Explosionen, hier finden Sie Schutz](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Vorsorge/Schutz-suchen/Schutz-vor-Explosion/schutz-vor-explosion_node.html) · [BBK: Schutz suchen](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Vorsorge/Schutz-suchen/schutz-suchen_node.html) · [Sebeochrana ukrytím](https://mv.gov.cz/clanek/sebeochrana-ukrytim.aspx) · [TNO : Schuilmogelijkheden bij luchtaanvallen](https://www.tweedekamer.nl/downloads/document?id=2026D56281) · [Dovidka.info: What is a shelter](https://dovidka.info/en/what-is-shelter/)
+Source : [BBK: Explosionen, hier finden Sie Schutz](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Vorsorge/Schutz-suchen/Schutz-vor-Explosion/schutz-vor-explosion_node.html) · [BBK: Schutz suchen](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Vorsorge/Schutz-suchen/schutz-suchen_node.html) · [Centre de crise National : Se mettre à l'abri](https://centredecrise.be/fr/que-pouvez-vous-faire/le-bon-reflexe/se-mettre-labri) · [Sebeochrana ukrytím](https://mv.gov.cz/clanek/sebeochrana-ukrytim.aspx) · [TNO : Schuilmogelijkheden bij luchtaanvallen](https://www.tweedekamer.nl/downloads/document?id=2026D56281) · [Dovidka.info: What is a shelter](https://dovidka.info/en/what-is-shelter/)
 
 ## Selon le type de logement
 
 ### Maison avec cave
 
-1. **Meilleur choix :** une pièce de la cave sans fenêtres, sous le milieu de la maison, directement accessible depuis l'escalier (Tchéquie).
+1. **Meilleur choix :** une pièce de la cave sans fenêtres, sous le milieu de la maison, directement accessible depuis l'escalier.
 2. **Bon choix :** une pièce de la cave avec une petite fenêtre que vous protégez (voir plus loin).
 3. **Si la cave n'est pas possible** (inondation, fuite de gaz, nuage chimique) : une pièce intérieure au rez-de-chaussée ou, en cas d'eau, l'étage supérieur.
 
 ### Maison sans cave
 
-1. **Meilleur choix :** une pièce intérieure sans fenêtres : un couloir, un placard sous l'escalier ou un débarras au milieu de la maison (BBK).
+1. **Meilleur choix :** une pièce intérieure sans fenêtres : un couloir, un placard sous l'escalier ou un débarras au milieu de la maison.
 2. **Bon choix :** la pièce qui a le moins de murs extérieurs et le moins de verre.
-3. **Solution de secours :** derrière un objet robuste, comme un bloc de cuisine ou l'allège d'une façade (TNO).
+3. **Solution de secours :** derrière un objet robuste, comme un bloc de cuisine ou l'allège d'une façade.
 
 ### Appartement
 
 1. **Meilleur choix en cas d'attaque aérienne :** la cave ou le parking souterrain de l'immeuble, si vous pouvez l'atteindre rapidement.
-2. **Bon choix dans le logement :** le couloir, le hall d'entrée ou le vestiaire, s'il est situé plutôt vers le milieu du logement, ou un débarras sans fenêtres. L'Ukraine préfère le couloir à la salle de bains.
-3. **Cage d'escalier :** une option de réserve s'il n'y a pas de grandes fenêtres ni de parois vitrées et que vous pouvez rester contre un mur intérieur. Si la cage d'escalier comporte beaucoup de verre, retournez dans le couloir de votre logement (Ukraine).
-4. **Position :** asseyez-vous ou accroupissez-vous contre un mur intérieur porteur, loin des fenêtres, balcons, miroirs et du verre (Ukraine). TNO : le plus bas possible, de préférence allongé, la tête et les parties vitales protégées par les bras ou des couvertures.
+2. **Bon choix dans le logement :** le couloir, le hall d'entrée ou le vestiaire, s'il est situé plutôt vers le milieu du logement, ou un débarras sans fenêtres. Un couloir vaut mieux qu'une salle de bains.
+3. **Cage d'escalier :** une option de réserve s'il n'y a pas de grandes fenêtres ni de parois vitrées et que vous pouvez rester contre un mur intérieur. Si la cage d'escalier comporte beaucoup de verre, retournez dans le couloir de votre logement.
+4. **Position :** asseyez-vous ou accroupissez-vous contre un mur intérieur porteur, loin des fenêtres, balcons, miroirs et du verre. Restez le plus bas possible, de préférence allongé, et protégez la tête et les parties vitales avec les bras ou des couvertures.
 
-L'Ukraine avertit que les caves de certains immeubles à appartements anciens sont petites et étroites, contiennent souvent des conduites et ne supportent pas de charge supplémentaire. Les vieilles caves peuvent fuir, être humides, contenir des substances dangereuses ou être mal ventilées. Les bâtiments inachevés sont également déconseillés : plafonds faibles, pas de portes, mauvaise ventilation.
+Les caves de certains immeubles à appartements anciens sont petites et étroites, contiennent souvent des conduites et ne supportent pas de charge supplémentaire. Les vieilles caves peuvent fuir, être humides, contenir des substances dangereuses ou être mal ventilées. Les bâtiments inachevés sont également déconseillés : plafonds faibles, pas de portes, mauvaise ventilation.
 
 Source : [Sebeochrana ukrytím](https://mv.gov.cz/clanek/sebeochrana-ukrytim.aspx) · [BBK: Explosionen, hier finden Sie Schutz](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Vorsorge/Schutz-suchen/Schutz-vor-Explosion/schutz-vor-explosion_node.html) · [TNO : Schuilmogelijkheden bij luchtaanvallen](https://www.tweedekamer.nl/downloads/document?id=2026D56281) · [Dovidka.info: What is a shelter](https://dovidka.info/en/what-is-shelter/)
 
 ## Combien d'espace par personne
 
-Les sources donnent des mesures différentes, car elles portent sur différents types d'espaces :
+Dans un abri improvisé, comptez 3 à 5 m² de sol par personne sans ventilation mécanique, et 1 à 3 m² avec ventilation mécanique. La pièce a de préférence une hauteur d'au moins 2,3 m. Veillez à ce qu'au moins un tiers des personnes puissent s'allonger et les autres s'asseoir : un lit pour deux places assises.
 
-| Source | Espace par personne | Pour quel type d'espace |
-| --- | --- | --- |
-| Tchéquie | 1 à 3 m² de sol avec ventilation mécanique, 3 à 5 m² sans ; hauteur d'au moins 2,3 m | Abri improvisé |
-| Suisse (BABS) | Au moins 1 m² de sol et 2,5 m³ d'espace | Abri construit avec ventilation |
-| Ukraine | Environ 0,6 m², selon les normes de la protection civile | Abri en cave pour une alerte aérienne |
-| Ukraine, écoles | Au moins 1 m² ; 3 m² dans les nouveaux abris | Abri dans une école |
-
-La Tchéquie recommande qu'au moins un tiers des personnes puissent s'allonger et les autres s'asseoir : un lit pour deux places assises.
-
-Source : [Sebeochrana ukrytím](https://mv.gov.cz/clanek/sebeochrana-ukrytim.aspx) · [BABS: Der Schutzraum](https://www.sz.ch/public/upload/assets/87489/Der_Schutzraum.pdf?fp=2) · [Dovidka.info: What is a shelter](https://dovidka.info/en/what-is-shelter/)
+Source : [Sebeochrana ukrytím](https://mv.gov.cz/clanek/sebeochrana-ukrytim.aspx)
 
 ## Protéger les fenêtres et les portes
 
 ### Contre le verre et les débris (explosion, attaque aérienne)
 
-- Fermez les fenêtres, les portes et les volets. Couvrez-les, par exemple avec des rideaux (TNO).
-- Utilisez de la masse comme protection supplémentaire : tables, matelas ou autres meubles solides (TNO).
-- Ukraine : si vous doutez de la protection, par exemple avec des murs minces, renforcez-les avec des sacs de sable, des sacs de terre ou des blocs de béton.
+- Fermez les fenêtres, les portes et les volets. Couvrez-les, par exemple avec des rideaux.
+- Utilisez de la masse comme protection supplémentaire : tables, matelas ou autres meubles solides.
+- Si vous doutez de la protection, par exemple avec des murs minces, renforcez-les avec des sacs de sable, des sacs de terre ou des blocs de béton.
 
 ### Contre le rayonnement (cave)
 
-La Tchéquie recommande d'obturer les soupiraux avec des briques, des pierres ou des sacs de sable ou de terre, au moins jusqu'à l'épaisseur du mur extérieur. Couvrez-les à l'extérieur avec des planches, des panneaux ou de la tôle d'acier et recouvrez-les de terre, de sable ou de gravier. Laissez pour cela de la place pour la ventilation.
+Obturez les soupiraux avec des briques, des pierres ou des sacs de sable ou de terre, au moins jusqu'à l'épaisseur du mur extérieur. Couvrez-les à l'extérieur avec des planches, des panneaux ou de la tôle d'acier et recouvrez-les de terre, de sable ou de gravier. Laissez pour cela de la place pour la ventilation.
 
 ### Contre les gaz et la poussière (nuage chimique, nuage radioactif)
 
-- Fermez toutes les fenêtres et portes et toutes les ouvertures par lesquelles l'air extérieur entre : fenêtres brisées, feux ouverts, la hotte de la cuisine. Calfeutrez le bas des portes avec des linges humides (Risque nucléaire, questions fréquentes).
-- Fermez les fentes d'aération dans les châssis de fenêtre (BBK).
-- Calfeutrez les fenêtres, les portes et les grilles d'aération avec du film plastique épais et du ruban adhésif. Mesurez et découpez le film à l'avance, quelques centimètres plus large que l'ouverture, et étiquetez chaque morceau. Collez d'abord les coins, puis tous les bords (Ready.gov).
-- Les interstices autour des évacuations de la cuisinière et du sèche-linge peuvent être bouchés avec des serviettes mouillées, du film, du ruban adhésif, du papier ciré ou du papier aluminium (Ready.gov).
-- La Tchéquie cite comme matériaux de calfeutrage : ruban adhésif, bande de mousse autocollante, sparadrap, film, plâtre, mastic, pâte à modeler ou argile.
+- Fermez toutes les fenêtres et portes et toutes les ouvertures par lesquelles l'air extérieur entre : fenêtres brisées, feux ouverts, la hotte de la cuisine. Calfeutrez le bas des portes avec des linges humides.
+- Fermez les fentes d'aération dans les châssis de fenêtre.
+- Calfeutrez les fenêtres, les portes et les grilles d'aération avec du film plastique épais et du ruban adhésif. Mesurez et découpez le film à l'avance, quelques centimètres plus large que l'ouverture, et étiquetez chaque morceau. Collez d'abord les coins, puis tous les bords.
+- Les interstices autour des évacuations de la cuisinière et du sèche-linge peuvent être bouchés avec des serviettes mouillées, du film, du ruban adhésif, du papier ciré ou du papier aluminium.
+- Autres matériaux de calfeutrage utiles : bande de mousse autocollante, sparadrap, plâtre, mastic, pâte à modeler ou argile.
 
 ### Portes
 
-La Tchéquie recommande de renforcer la porte d'entrée avec des planches et des traverses, de la rendre étanche au gaz avec du matériau de calfeutrage et un seuil adapté, et, une fois l'abri occupé, de la bloquer avec des poutres et du fil de fer pour éviter qu'elle soit aspirée après une onde de choc. Ukraine : la porte ne doit pas être étanche à l'air, mais doit être assez solide pour résister à une onde de choc.
+Renforcez la porte d'entrée d'un abri en cave avec des planches et des traverses, rendez-la étanche au gaz avec du matériau de calfeutrage et un seuil adapté, et, une fois l'abri occupé, bloquez-la avec des poutres et du fil de fer pour éviter qu'elle soit aspirée après une onde de choc. En cas d'attaque aérienne sans gaz, la porte ne doit pas être étanche à l'air, mais doit être assez solide pour résister à une onde de choc.
 
 ### Étayer les plafonds
 
-Le guide tchèque décrit comment étayer les plafonds de cave avec des poutres et des étais en bois. Il précise expressément qu'il vaut mieux faire évaluer tout renforcement de plafond par un ingénieur en construction ou en stabilité, et qu'il ne faut pas étayer les voûtes qui reposent dans les murs. Ne démolissez jamais un mur porteur pour récupérer des matériaux.
+Vous pouvez étayer les plafonds de cave avec des poutres et des étais en bois. Faites évaluer tout renforcement de plafond par un ingénieur en construction ou en stabilité. N'étayez pas les voûtes qui reposent dans les murs. Ne démolissez jamais un mur porteur pour récupérer des matériaux.
 
 Source : [TNO : Schuilmogelijkheden bij luchtaanvallen](https://www.tweedekamer.nl/downloads/document?id=2026D56281) · [Sebeochrana ukrytím](https://mv.gov.cz/clanek/sebeochrana-ukrytim.aspx) · [Risque nucléaire : questions fréquentes](https://risquenucleaire.be/fr/faq) · [BBK: Verhalten im Haus bei Gefahrstofffreisetzung](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Vorsorge/Schutz-suchen/Gefahrstoff-Freisetzung/_documents/gefahrstoff-im-haus_dossier2.html?nn=20588) · [Ready.gov: Shelter](https://www.ready.gov/shelter) · [Ready.gov: Hazardous materials](https://www.ready.gov/hazmat) · [Dovidka.info: What is a shelter](https://dovidka.info/en/what-is-shelter/)
 
@@ -198,78 +189,67 @@ Source : [TNO : Schuilmogelijkheden bij luchtaanvallen](https://www.tweedekamer.
 
 Ici, deux objectifs s'opposent : empêcher l'air extérieur d'entrer et garder assez d'oxygène.
 
-- **En cas de nuage chimique ou radioactif :** coupez la ventilation, la climatisation et le chauffage qui aspirent l'air extérieur (Centre de crise). Ready.gov : si ce n'est pas possible, réglez le système sur 100 pour cent de recirculation.
-- **Veillez tout de même à renouveler l'air,** pour ne pas vous sentir mal (Risque nucléaire, questions fréquentes).
-- **Une pièce entièrement calfeutrée sans installation de filtration** n'est utilisable que pendant un temps limité, selon la taille de la pièce et le nombre de personnes. La Tchéquie met en garde contre l'intoxication au dioxyde de carbone expiré.
-- **Ready.gov** qualifie le calfeutrage d'une pièce de mesure temporaire.
-- **Pas de bougies :** elles consomment inutilement de l'oxygène (BBK). Tchéquie : flammes nues uniquement dans des cas exceptionnels et uniquement près de l'ouverture d'évacuation de la ventilation. Ne fumez pas.
-- **En cas d'attaque aérienne sans gaz :** l'Ukraine demande que l'air circule librement, sans odeurs fortes, fumée ni sensation d'étouffement. Pour plus de 50 personnes, la ventilation naturelle ne suffit souvent pas.
+- **En cas de nuage chimique ou radioactif :** coupez la ventilation, la climatisation et le chauffage qui aspirent l'air extérieur. Si ce n'est pas possible, réglez le système sur 100 pour cent de recirculation.
+- **Veillez tout de même à renouveler l'air,** pour ne pas vous sentir mal.
+- **Une pièce entièrement calfeutrée sans installation de filtration** n'est utilisable que pendant un temps limité, selon la taille de la pièce et le nombre de personnes. Le dioxyde de carbone expiré peut alors provoquer une intoxication. Calfeutrer une pièce est une mesure temporaire.
+- **Pas de bougies :** elles consomment inutilement de l'oxygène. N'utilisez des flammes nues que dans des cas exceptionnels et uniquement près de l'ouverture d'évacuation de la ventilation. Ne fumez pas.
+- **En cas d'attaque aérienne sans gaz :** veillez à ce que l'air circule librement, sans odeurs fortes, fumée ni sensation d'étouffement. Pour plus de 50 personnes, la ventilation naturelle ne suffit souvent pas.
 
 Source : [Centre de crise National : Se mettre à l'abri](https://centredecrise.be/fr/que-pouvez-vous-faire/le-bon-reflexe/se-mettre-labri) · [Risque nucléaire : questions fréquentes](https://risquenucleaire.be/fr/faq) · [Sebeochrana ukrytím](https://mv.gov.cz/clanek/sebeochrana-ukrytim.aspx) · [BBK: Verhalten im Haus bei Gefahrstofffreisetzung](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Vorsorge/Schutz-suchen/Gefahrstoff-Freisetzung/_documents/gefahrstoff-im-haus_dossier2.html?nn=20588) · [Ready.gov: Hazardous materials](https://www.ready.gov/hazmat) · [Ready.gov: Shelter](https://www.ready.gov/shelter) · [Dovidka.info: What is a shelter](https://dovidka.info/en/what-is-shelter/)
 
 ## Ce que vous préparez
 
-### La base selon le Centre de crise
+### La base
 
-- Eau potable : entre 3 et 10 litres par personne et par jour. 3 litres suffisent tout juste pour boire et cuisiner.
+- Eau potable : comptez 3 litres par personne et par jour, pour boire et cuisiner. Davantage si vous le pouvez, pour l'hygiène. Conservez-la dans des récipients refermables.
 - De la nourriture de longue conservation que vous pouvez préparer sans eau, gaz ni électricité, et un ouvre-boîte ou un couteau de poche.
+- Assez d'eau et de nourriture pour pouvoir tenir de manière autonome pendant au moins 72 heures.
 - Une radio à piles ou une radio à manivelle, de préférence avec DAB+ et FM, des piles rechargeables et des piles de rechange. Vous restez ainsi informé même sans électricité : lors d'une coupure de courant, Internet et les réseaux mobiles peuvent aussi tomber en panne.
 - Une liste papier des numéros de téléphone importants.
 - Une lampe de poche, de préférence à manivelle. Des vêtements chauds ou des couvertures.
 - Des comprimés d'iode. Ne les prenez jamais de votre propre initiative.
 - De l'alimentation pour bébé, des langes et des jouets si vous avez de jeunes enfants. De la nourriture et du matériel pour les animaux de compagnie.
 - Une petite trousse de premiers secours, des médicaments pour au moins trois jours, un sifflet et une batterie externe chargée.
-- Assez d'eau et de nourriture pour pouvoir tenir de manière autonome pendant au moins 72 heures.
 
-### Ce qu'ajoutent les guides étrangers pour l'abri lui-même
+### Pour l'abri lui-même
 
-| Quoi | Source |
-| --- | --- |
-| De l'eau pour au moins 3 jours, 3 litres par personne et par jour, dans des récipients refermables | Tchéquie |
-| De la nourriture de conservation pour environ 3 jours | Tchéquie |
-| Toilette de secours : seau portable avec siège et couvercle, à part derrière un rideau ; après usage, saupoudrer de chaux, de sable ou de terre | Tchéquie |
-| Poubelle et seau pour l'eau usée | Tchéquie |
-| Lits et places assises | Tchéquie, Ukraine |
-| Places assises, trousse de premiers secours, extincteur, radio, affaires chaudes (les caves sont froides et humides) | Ukraine |
-| Sacs ou récipients fermés comme toilette temporaire, produits d'hygiène et un coin séparé pour les déchets | Ukraine |
-| Sac de couchage et tapis de sol, lampe de poche et piles, bouchons d'oreilles et masque de sommeil, livres et jeux | Finlande |
-| Ruban adhésif pour calfeutrer les fenêtres et la ventilation | Finlande |
-| Film plastique épais, ruban adhésif et ciseaux | Ready.gov |
-| Un jeu de vêtements de rechange par personne et un sac poubelle pour les vêtements contaminés | Ready.gov (rayonnement) |
+- Une toilette de secours : un seau portable avec siège et couvercle, à part derrière un rideau. Après usage, saupoudrez de chaux, de sable ou de terre. Des sacs ou des récipients fermés peuvent aussi servir de toilette temporaire.
+- Une poubelle, un coin séparé pour les déchets et un seau pour l'eau usée.
+- Des produits d'hygiène.
+- Des lits et des places assises, un sac de couchage et un tapis de sol.
+- Des affaires chaudes : les caves sont froides et humides.
+- Une lampe de poche et des piles, une radio, une trousse de premiers secours et un extincteur.
+- Des bouchons d'oreilles et un masque de sommeil, des livres et des jeux.
+- Du film plastique épais, du ruban adhésif et des ciseaux pour calfeutrer les fenêtres et la ventilation.
+- Un jeu de vêtements de rechange par personne et un sac poubelle pour les vêtements contaminés.
 
 ### Ce que vous n'emportez pas
 
-La Finlande interdit dans les abris l'alcool, les drogues, les armes, les appareils qui produisent de la chaleur (réchauds à gaz, lampes-tempête) et les produits à forte odeur. L'Ukraine mentionne aussi les substances à forte odeur.
+N'emportez pas d'alcool, de drogues, d'armes, d'appareils qui produisent de la chaleur (réchauds à gaz, lampes-tempête) ni de produits à forte odeur dans l'abri.
 
 ### Où le conserver
 
-Conservez le tout ensemble à un endroit fixe et facilement accessible et veillez à ce que tout le monde sache où il se trouve. Conservez l'eau et la nourriture au frais et dans l'obscurité et vérifiez régulièrement que tout est encore utilisable (Centre de crise). La Suisse recommande, en cas de menace de conflit, de placer tôt la réserve d'urgence dans l'abri ou à proximité.
+Conservez le tout ensemble à un endroit fixe et facilement accessible et veillez à ce que tout le monde sache où il se trouve. Conservez l'eau et la nourriture au frais et dans l'obscurité et vérifiez régulièrement que tout est encore utilisable. En cas de menace de conflit, placez tôt la réserve d'urgence dans l'abri ou à proximité.
 
 Source : [Centre de crise National : brochure Samen voorbereid](https://centredecrise.be/sites/default/files/documents/files/WEB-Brochure-Pr%C3%AAts.%20Ensemble-FR.pdf) · [Sebeochrana ukrytím](https://mv.gov.cz/clanek/sebeochrana-ukrytim.aspx) · [Dovidka.info: What is a shelter](https://dovidka.info/en/what-is-shelter/) · [Suomi.fi: Military conflicts and civil defence](https://www.suomi.fi/guides/preparedness/how-to-prepare-for-incidents-and-crises/military-conflicts-and-civil-defence) · [Suomi.fi: General instructions](https://www.suomi.fi/guides/preparedness/how-to-prepare-for-incidents-and-crises/general-instructions-on-preparedness-home-emergency-supplies-and-on-what-to-do-in-different-situations) · [Ready.gov: Hazardous materials](https://www.ready.gov/hazmat) · [Ready.gov: Radiation emergencies](https://www.ready.gov/radiation) · [BABS: Der Schutzraum](https://www.sz.ch/public/upload/assets/87489/Der_Schutzraum.pdf?fp=2)
 
 ## Combien de temps rester dans l'abri
 
-| Situation | Durée selon la source |
-| --- | --- |
-| Mise à l'abri en Belgique (en général) | Quelques heures à 24 heures maximum ; ensuite éventuellement évacuation (Centre de crise) |
-| Accident nucléaire en Belgique | En principe 24 heures maximum (Risque nucléaire) |
-| Arme nucléaire | Les premières 24 heures à l'endroit le mieux protégé (Ready.gov) |
-| Abri suédois | Préparez-vous à quelques jours (MCF) |
-| Abri suisse | Des heures, voire des jours, en cas de menace aiguë (BABS) |
-| Ukraine, abri en cave | Comptez au moins deux jours |
-| Finlande, alerte aérienne | Généralement court ; pour plus longtemps, par exemple une nuit, emportez davantage |
+En Belgique, la mise à l'abri dure de quelques heures à 24 heures maximum, y compris en cas d'accident nucléaire. Ensuite, les autorités peuvent demander d'évacuer. Restez jusqu'à ce que les autorités disent que c'est sûr.
 
-Source : [Centre de crise National : Se mettre à l'abri](https://centredecrise.be/fr/que-pouvez-vous-faire/le-bon-reflexe/se-mettre-labri) · [Risque nucléaire : questions fréquentes](https://risquenucleaire.be/fr/faq) · [Ready.gov: Radiation emergencies](https://www.ready.gov/radiation) · [MCF: In case of crisis or war](https://rib.msb.se/filer/pdf/31523.pdf) · [BABS: Der Schutzraum](https://www.sz.ch/public/upload/assets/87489/Der_Schutzraum.pdf?fp=2) · [Dovidka.info: What is a shelter](https://dovidka.info/en/what-is-shelter/) · [Suomi.fi: Military conflicts and civil defence](https://www.suomi.fi/guides/preparedness/how-to-prepare-for-incidents-and-crises/military-conflicts-and-civil-defence)
+En cas d'arme nucléaire, restez les premières 24 heures à l'endroit le mieux protégé. Si vous vous abritez dans une cave contre des attaques aériennes ou en cas de guerre, préparez-vous à quelques jours.
+
+Source : [Centre de crise National : Se mettre à l'abri](https://centredecrise.be/fr/que-pouvez-vous-faire/le-bon-reflexe/se-mettre-labri) · [Risque nucléaire : questions fréquentes](https://risquenucleaire.be/fr/faq) · [Ready.gov: Radiation emergencies](https://www.ready.gov/radiation) · [MCF: In case of crisis or war](https://rib.msb.se/filer/pdf/31523.pdf) · [BABS: Der Schutzraum](https://www.sz.ch/public/upload/assets/87489/Der_Schutzraum.pdf?fp=2) · [Dovidka.info: What is a shelter](https://dovidka.info/en/what-is-shelter/)
 
 ## Comportement pendant la mise à l'abri
 
-- Suivez les instructions des autorités sur une radio à piles ou une radio à manivelle. Soyez aussi attentif aux véhicules de police équipés de haut-parleurs dans la rue. Si le réseau fonctionne, les instructions arrivent aussi via BE-Alert et les sites web officiels (Centre de crise).
-- N'appelez pas inutilement. Un réseau surchargé peut perturber les secours (Risque nucléaire).
-- Ne fumez pas dans l'abri (Tchéquie).
-- Soyez attentif aux autres : ne faites pas de bruit et évitez les disputes. Un abri exige beaucoup des personnes, physiquement et psychologiquement (Tchéquie). L'Ukraine demande de la discipline et le moins d'allées et venues possible.
-- Attendez-vous à ce que ce soit inconfortable et bondé (Finlande).
-- Avant de vous rendre dans un abri en dehors de votre logement, coupez le gaz, l'électricité et l'eau et fermez les fenêtres et les grilles d'aération (Ukraine). La Suisse cite aussi : éteindre les appareils électriques, éteindre les feux ouverts, prévenir les voisins, installer les animaux de compagnie le mieux possible avec de l'eau et de la nourriture.
-- Si vous ne pouvez pas quitter la pièce par vous-même, dites-le à vos voisins (Ukraine).
+- Suivez les instructions des autorités sur une radio à piles ou une radio à manivelle. Soyez aussi attentif aux véhicules de police équipés de haut-parleurs dans la rue. Si le réseau fonctionne, les instructions arrivent aussi via BE-Alert et les sites web officiels.
+- N'appelez pas inutilement. Un réseau surchargé peut perturber les secours.
+- Ne fumez pas dans l'abri.
+- Soyez attentif aux autres : ne faites pas de bruit, évitez les disputes et limitez au maximum les allées et venues. Un abri exige beaucoup des personnes, physiquement et psychologiquement.
+- Attendez-vous à ce que ce soit inconfortable et bondé.
+- Si vous vous rendez dans un abri en dehors de votre logement : coupez le gaz, l'électricité et l'eau, fermez les fenêtres et les grilles d'aération, éteignez les appareils électriques, éteignez les feux ouverts, prévenez vos voisins et installez les animaux de compagnie le mieux possible avec de l'eau et de la nourriture.
+- Si vous ne pouvez pas quitter la pièce par vous-même, dites-le à vos voisins.
 
 Source : [Centre de crise National : Se mettre à l'abri](https://centredecrise.be/fr/que-pouvez-vous-faire/le-bon-reflexe/se-mettre-labri) · [Centre de crise National : brochure Samen voorbereid](https://centredecrise.be/sites/default/files/documents/files/WEB-Brochure-Pr%C3%AAts.%20Ensemble-FR.pdf) · [Risque nucléaire : Se mettre à l'abri, la meilleure protection](https://risquenucleaire.be/fr/que-pouvez-vous-faire/mise-labri-la-meilleure-action-de-protection) · [Sebeochrana ukrytím](https://mv.gov.cz/clanek/sebeochrana-ukrytim.aspx) · [Dovidka.info: What is a shelter](https://dovidka.info/en/what-is-shelter/) · [Suomi.fi: Military conflicts and civil defence](https://www.suomi.fi/guides/preparedness/how-to-prepare-for-incidents-and-crises/military-conflicts-and-civil-defence) · [BABS: Der Schutzraum](https://www.sz.ch/public/upload/assets/87489/Der_Schutzraum.pdf?fp=2)
 
@@ -282,37 +262,33 @@ Source : [Centre de crise National : Se mettre à l'abri](https://centredecrise.
 - Maintenez autant que possible la routine quotidienne.
 - Laissez les enfants participer au plan d'urgence et au kit d'urgence, et laissez-les choisir un petit jouet ou une peluche à mettre dans le kit.
 
-Ce sont les conseils du Centre de crise. L'Ukraine installe les familles avec enfants dans une section séparée de l'abri.
-
-Source : [Centre de crise National : brochure Samen voorbereid](https://centredecrise.be/sites/default/files/documents/files/WEB-Brochure-Pr%C3%AAts.%20Ensemble-FR.pdf) · [Dovidka.info: What is a shelter](https://dovidka.info/en/what-is-shelter/)
+Source : [Centre de crise National : brochure Samen voorbereid](https://centredecrise.be/sites/default/files/documents/files/WEB-Brochure-Pr%C3%AAts.%20Ensemble-FR.pdf)
 
 ## Personnes qui ont besoin d'une aide supplémentaire
 
-Le Centre de crise cite les personnes âgées, les personnes en situation de handicap, les personnes qui vivent seules, les personnes qui comprennent moins bien le néerlandais, le français ou l'allemand, les personnes qui ont besoin d'un soutien supplémentaire pour des raisons médicales et les personnes sans abri ou sans domicile.
+Pensez aux personnes âgées, aux personnes en situation de handicap, aux personnes qui vivent seules, aux personnes qui comprennent moins bien le néerlandais, le français ou l'allemand, aux personnes qui ont besoin d'un soutien supplémentaire pour des raisons médicales et aux personnes sans abri ou sans domicile.
 
-- Discutez à l'avance avec la famille, les amis, les voisins ou les soignants de l'aide nécessaire (Centre de crise, MCF).
-- Reprenez dans votre plan d'urgence des informations sur les médicaments prescrits et les aides techniques (MCF).
-- Organisez à l'avance le transport vers un abri ou un lieu protégé (MCF).
-- Réfléchissez à la question de savoir si quelqu'un dépend d'un assistant ou d'aides électroniques ; cela change la préparation (Finlande).
-- L'Ukraine installe les personnes à la santé fragile dans un local médical ou plus près de la ventilation.
-- Pendant une situation d'urgence, vérifiez régulièrement si les personnes vulnérables ont besoin d'aide, sans vous mettre vous-même en danger (Centre de crise).
+- Discutez à l'avance avec la famille, les amis, les voisins ou les soignants de l'aide nécessaire.
+- Reprenez dans votre plan d'urgence des informations sur les médicaments prescrits et les aides techniques.
+- Organisez à l'avance le transport vers un lieu protégé.
+- Réfléchissez à la question de savoir si quelqu'un dépend d'un assistant ou d'aides électroniques ; cela change la préparation.
+- Installez les personnes à la santé fragile plus près de la ventilation.
+- Pendant une situation d'urgence, vérifiez régulièrement si les personnes vulnérables ont besoin d'aide, sans vous mettre vous-même en danger.
 
 Source : [Centre de crise National : brochure Samen voorbereid](https://centredecrise.be/sites/default/files/documents/files/WEB-Brochure-Pr%C3%AAts.%20Ensemble-FR.pdf) · [MCF: In case of crisis or war](https://rib.msb.se/filer/pdf/31523.pdf) · [Suomi.fi: General instructions](https://www.suomi.fi/guides/preparedness/how-to-prepare-for-incidents-and-crises/general-instructions-on-preparedness-home-emergency-supplies-and-on-what-to-do-in-different-situations) · [Dovidka.info: What is a shelter](https://dovidka.info/en/what-is-shelter/)
 
 ## Animaux de compagnie
 
-- Intégrez vos animaux de compagnie dans votre plan d'urgence, avec le numéro du vétérinaire. Veillez à ce que chaque animal soit identifié par une puce ou une marque auriculaire (Centre de crise).
-- Préparez : une cage ou un panier, une laisse et un collier ou un harnais, de la nourriture, de l'eau et des gamelles, le passeport de l'animal et le carnet de vaccination, une photo de vous et de votre animal, des jouets, des médicaments et des sachets pour les excréments (Centre de crise).
-- Si vous pouvez mettre vos animaux à l'abri en sécurité sans risque pour vous-même, faites-le (Centre de crise).
-- Suède : lors d'une alerte aérienne, vous pouvez emmener votre animal de compagnie dans les caves, garages et stations de métro. S'il doit rester à la maison, laissez-lui de la nourriture et de l'eau en plus.
-- Finlande : votre logement est l'endroit le plus sûr pour votre animal de compagnie ; les chiens guides et les chiens d'assistance accompagnent leur maître dans l'abri.
-- L'Ukraine admet officiellement les animaux de compagnie dans les abris depuis janvier 2024.
+- Intégrez vos animaux de compagnie dans votre plan d'urgence, avec le numéro du vétérinaire. Veillez à ce que chaque animal soit identifié par une puce ou une marque auriculaire.
+- Préparez : une cage ou un panier, une laisse et un collier ou un harnais, de la nourriture, de l'eau et des gamelles, le passeport de l'animal et le carnet de vaccination, une photo de vous et de votre animal, des jouets, des médicaments et des sachets pour les excréments.
+- Si vous pouvez mettre vos animaux à l'abri en sécurité sans risque pour vous-même, faites-le.
+- Si votre animal doit rester à la maison pendant que vous vous abritez ailleurs, laissez-lui de la nourriture et de l'eau en plus.
 
-Source : [Centre de crise National : Se mettre à l'abri](https://centredecrise.be/fr/que-pouvez-vous-faire/le-bon-reflexe/se-mettre-labri) · [Centre de crise National : brochure Samen voorbereid](https://centredecrise.be/sites/default/files/documents/files/WEB-Brochure-Pr%C3%AAts.%20Ensemble-FR.pdf) · [MCF: In case of crisis or war](https://rib.msb.se/filer/pdf/31523.pdf) · [Suomi.fi: Military conflicts and civil defence](https://www.suomi.fi/guides/preparedness/how-to-prepare-for-incidents-and-crises/military-conflicts-and-civil-defence) · [Dovidka.info: What is a shelter](https://dovidka.info/en/what-is-shelter/)
+Source : [Centre de crise National : Se mettre à l'abri](https://centredecrise.be/fr/que-pouvez-vous-faire/le-bon-reflexe/se-mettre-labri) · [Centre de crise National : brochure Samen voorbereid](https://centredecrise.be/sites/default/files/documents/files/WEB-Brochure-Pr%C3%AAts.%20Ensemble-FR.pdf) · [MCF: In case of crisis or war](https://rib.msb.se/filer/pdf/31523.pdf)
 
 ## Plan par étapes pour aménager votre abri
 
-Le guide tchèque donne cet ordre pour préparer un abri improvisé :
+Voici comment préparer un abri improvisé :
 
 1. Choisissez la pièce adaptée.
 2. Déterminez combien de personnes peuvent s'y abriter, sur la base de la surface au sol et du volume.
@@ -323,7 +299,7 @@ Le guide tchèque donne cet ordre pour préparer un abri improvisé :
 7. Faites les adaptations à l'intérieur et calfeutrez la pièce.
 8. Aménagez la pièce.
 
-L'Ukraine ajoute : désignez des personnes responsables des clés, de l'eau, de la trousse de premiers secours et de l'extincteur ; établissez une liste de contrôle simple ; convenez de règles de base ; signalez l'entrée, les sorties et les coordonnées de contact. Contrôlez le câblage et les tableaux électriques, prévoyez une ventilation et asséchez la pièce si nécessaire, et retirez tout ce qui peut tomber, se briser ou brûler.
+Convenez aussi de qui est responsable des clés, de l'eau, de la trousse de premiers secours et de l'extincteur. Établissez une liste de contrôle simple, convenez de règles de base et signalez l'entrée, les sorties et les coordonnées de contact. Contrôlez le câblage et les tableaux électriques, prévoyez une ventilation et asséchez la pièce si nécessaire. Retirez tout ce qui peut tomber, se briser ou brûler.
 
 Source : [Sebeochrana ukrytím](https://mv.gov.cz/clanek/sebeochrana-ukrytim.aspx) · [Dovidka.info: What is a shelter](https://dovidka.info/en/what-is-shelter/)
 

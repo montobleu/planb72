@@ -72,7 +72,7 @@ origineel_datum: "2026-11-18"
 
 **RMI cold warnings**
 
-| Code | Threshold (maximum temperature) | What to do according to the RMI |
+| Code | Threshold (maximum temperature) | What to do |
 |---|---|---|
 | Yellow | below -3 °C | Be vigilant. Protect people, animals and plants. Protect water pipes and taps. Dress appropriately. |
 | Orange | -5 °C or lower | Limit exposure to the cold, dress warmly in several layers, avoid long or heavy exertion, offer homeless people a hot drink. Follow the advice of the authorities. |

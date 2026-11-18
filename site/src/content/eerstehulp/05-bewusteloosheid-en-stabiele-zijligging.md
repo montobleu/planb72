@@ -33,7 +33,7 @@ Iemand is bewusteloos als hij niet reageert op prikkels uit de omgeving: niet op
 
 Mogelijke oorzaken: vergiftiging (koolstofmonoxide, alcohol), een te lage bloedsuiker, zuurstoftekort, een hersenbloeding, hersenvliesontsteking, een hoofdletsel of een aanval.
 
-Het bewustzijn kan in stappen afnemen. De IFRC en de ERC gebruiken de AVPU-schaal:
+Het bewustzijn kan in stappen afnemen. Je kan dat inschatten met de AVPU-schaal:
 
 - A: alert, maar mogelijk verward;
 - V: reageert alleen op je stem;
@@ -66,7 +66,7 @@ Leg het slachtoffer in stabiele zijligging als het:
 - moeilijk ademt door bloed, braaksel of ander lichaamsvocht;
 - alleen moet blijven omdat jij moet gaan alarmeren.
 
-Kenmerken van de houding volgens de ERC en de IFRC:
+Kenmerken van de houding:
 
 1. Het slachtoffer ligt op de zij.
 2. Armen en benen zijn gebogen.
@@ -92,7 +92,7 @@ Denk aan een wervelletsel na een verkeersongeval, een val van een hoogte of een 
 3. Kijk voortdurend naar de mond. Komt er braaksel, draai het slachtoffer dan meteen op de zij, maakt niet uit hoe, zodat het braaksel kan weglopen.
 4. Ligt het op de buik: kijk voortdurend naar de mond en laat braaksel weglopen.
 5. Controleer elke minuut het bewustzijn en de ademhaling.
-6. De Croix-Rouge de Belgique benadrukt: het letsel moet duidelijk en onmiddellijk vast te stellen zijn. Twijfel je of er een letsel is, leg het slachtoffer dan wel in zijligging.
+6. Het letsel moet duidelijk en onmiddellijk vast te stellen zijn. Twijfel je of er een letsel is, leg het slachtoffer dan wel in zijligging.
 
 ### Flauwte
 
@@ -113,7 +113,7 @@ Bron: [Gezondheid en Wetenschap: Bewusteloosheid](https://www.gezondheidenwetens
 - Probeer de oorzaak te achterhalen, zoals diabetes, vergiftiging of een hoofdletsel. Kijk of er open verpakkingen van geneesmiddelen of producten in de buurt liggen en geef die aan de hulpdiensten (zie onderwerp 12).
 - Noteer wat je ziet en wanneer: hoe lang de persoon bewusteloos is, of hij reageert op stem of pijn, en elke verandering.
 - Vermoed je een wervelletsel en is hulp nog ver weg, en zijn er minstens twee helpers: dan mag je het slachtoffer op de zij draaien terwijl één helper het hoofd in één lijn met de rug houdt. Komt hulp snel, gebruik dan alleen het kantelen van het hoofd of het optillen van de kaak.
-- De Croix-Rouge de Belgique legt uit dat je bij een duidelijk letsel aan hoofd, nek of romp het slachtoffer op de rug kan laten liggen als het duidelijk ademt en de hulpdiensten snel ter plaatse zijn. Duurt het lang, dan gaat een vrije luchtweg via de zijligging voor.
+- Bij een duidelijk letsel aan hoofd, nek of romp kan je het slachtoffer op de rug laten liggen als het duidelijk ademt en de hulpdiensten snel ter plaatse zijn. Duurt het lang, dan gaat een vrije luchtweg via de zijligging voor.
 - Hou het slachtoffer warm. Leg iets tussen het lichaam en de grond, dek het toe met droge lagen en bescherm het tegen de wind.
 - Geef een bewusteloze of suffe persoon niets te eten of te drinken.
 - Wordt de persoon wakker, praat dan rustig met hem, leg uit wat er gebeurd is en blijf hem opvolgen.

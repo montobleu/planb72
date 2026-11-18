@@ -48,7 +48,7 @@ origineel_datum: "2026-11-18"
 
 ## Ce qui passe en premier
 
-Il n'existe pas d'ordre fixe qui vaut toujours. Les manuels de survie américains enseignent un « schéma de survie » : vous classez vos besoins par ordre d'importance, selon l'endroit où vous vous trouvez, et vous adaptez cet ordre quand les circonstances changent.
+Il n'existe pas d'ordre fixe qui vaut toujours. Classez vos besoins par ordre d'importance, selon l'endroit où vous vous trouvez, et adaptez cet ordre quand les circonstances changent.
 
 | Situation | Première priorité | Ensuite |
 | --- | --- | --- |
@@ -96,7 +96,7 @@ L'hypothermie survient quand votre corps perd plus de chaleur qu'il n'en produit
 6. Si la personne frissonne encore et est bien consciente : laissez-la se réchauffer dans un sac de couchage ou sous une couverture (avec une couverture de survie si vous en avez une), couvrez aussi la tête, donnez des vêtements secs et une boisson ou de la nourriture chaude et riche en sucre.
 7. Si elle ne frissonne plus ou n'est pas bien consciente : réchauffez-la activement, de préférence avec une couverture électrique, sinon avec des chaufferettes, des coussins de noyaux de cerises ou une bouillotte. Faites attention aux brûlures. Ne donnez alors **ni à manger ni à boire**.
 
-**Prévenir : le moyen mnémotechnique COLD de l'armée américaine**
+**Prévenir : le moyen mnémotechnique COLD**
 
 - **C**lean : gardez vos vêtements propres. Des vêtements sales isolent moins bien.
 - **O**verheating, éviter la surchauffe : la transpiration mouille vos vêtements et vous refroidit. Retirez une couche ou ouvrez votre veste avant de transpirer.
@@ -170,7 +170,7 @@ Source : [US Army FM 21-76](https://archive.org/details/fm-21-76-survival-manual
 
 ## S'isoler du sol
 
-- **Ne dormez jamais directement sur le sol.** Selon l'armée américaine, au repos, vous perdez jusqu'à 80 pour cent de la chaleur de votre corps dans le sol.
+- **Ne dormez jamais directement sur le sol.** Au repos, vous perdez jusqu'à 80 pour cent de la chaleur de votre corps dans le sol.
 - Placez sous vous des branches de sapin, de l'herbe, des feuilles, des aiguilles de pin ou un autre matériau isolant.
 - Dans une hutte de branches et de feuilles : une couche de 30 cm.
 - Dans un trou dans la neige ou une fosse : posez des branches vertes de conifère au fond.
@@ -197,7 +197,7 @@ Même à un endroit autorisé, c'est le **code de risque d'incendie de végétat
 | Orange | Interdiction générale de faire du feu, sauf les feux de cuisson au gaz ou en fosse |
 | Rouge | Interdiction de faire du feu sous quelque forme que ce soit |
 
-En Wallonie et à Bruxelles, des règles propres s'appliquent. Le Centre de crise conseille de vous informer à l'avance sur le risque d'incendie et le code couleur sur le site web de l'Agentschap Natuur en Bos, sur Wallonie.be, auprès de la commune ou du domaine naturel. Sur place : respectez les règles et consignes affichées à l'entrée de la zone naturelle.
+En Wallonie et à Bruxelles, des règles propres s'appliquent. Informez-vous à l'avance sur le risque d'incendie et le code couleur sur le site web de l'Agentschap Natuur en Bos, sur Wallonie.be, auprès de la commune ou du domaine naturel. Sur place : respectez les règles et consignes affichées à l'entrée de la zone naturelle.
 
 **Faire du feu en sécurité**
 
@@ -223,7 +223,7 @@ Source : [Vlaanderen.be : Faire du feu dans ou à proximité d'une zone naturell
 - Rosée : attachez des chiffons ou des touffes d'herbe fine autour de vos chevilles et marchez avant le lever du soleil dans l'herbe couverte de rosée. Essorez l'eau dans un récipient.
 - L'eau s'accumule parfois dans les fourches des arbres ou les fentes des rochers.
 - Les animaux qui broutent (y compris les cerfs) indiquent mieux le chemin vers l'eau que les prédateurs. Les abeilles vont rarement plus loin qu'environ six kilomètres (quatre miles) de leur nid et ont en général de l'eau dans ce rayon.
-- L'eau de pluie recueillie dans des récipients propres est en général sûre selon le manuel américain. L'eau des lacs, des étangs, des marais, des sources et des ruisseaux doit être purifiée, surtout à proximité d'habitations.
+- L'eau de pluie recueillie dans des récipients propres est en général sûre. L'eau des lacs, des étangs, des marais, des sources et des ruisseaux doit être purifiée, surtout à proximité d'habitations.
 - En Flandre, beaucoup de plans d'eau sont pollués, trop profonds, trop froids ou dangereux d'une autre manière. Faites attention aux panneaux concernant les algues bleues.
 
 **Ne buvez jamais** : de l'eau de mer, de l'urine ou de l'alcool.
@@ -234,7 +234,7 @@ Source : [US Army FM 21-76](https://archive.org/details/fm-21-76-survival-manual
 
 | Méthode | Ce qu'elle fait | Limites |
 | --- | --- | --- |
-| **Faire bouillir** (meilleur choix) | Le CDC conseille de faire bouillir l'eau une minute entière. Cela tue les agents pathogènes, aussi aux altitudes où se rendent en général les voyageurs. | Il vous faut un feu ou un réchaud. Les substances chimiques restent. |
+| **Faire bouillir** (meilleur choix) | Faites bouillir l'eau une minute entière. Cela tue les agents pathogènes, aussi aux altitudes où se rendent en général les voyageurs. | Il vous faut un feu ou un réchaud. Les substances chimiques restent. |
 | **Filtre** avec des pores de moins de 1 µm | Élimine les bactéries et les parasites (protozoaires) | N'élimine pas de façon fiable les virus (par exemple le norovirus) |
 | **Chlore ou iode** | Agit contre les bactéries et les virus | Agit mal contre Cryptosporidium aux concentrations pratiques. Suivez toujours le mode d'emploi du produit. |
 | **Dioxyde de chlore** | Agit contre tous les agents pathogènes de l'eau, y compris Cryptosporidium | Suivez le mode d'emploi du produit |
@@ -252,12 +252,12 @@ Source : [CDC Yellow Book: Water disinfection for travelers](https://www.cdc.gov
 
 ## Nourriture : soyez extrêmement prudent
 
-**Vous en avez moins urgemment besoin que vous ne le pensez.** Vous pouvez tenir plusieurs semaines sans nourriture. L'eau, la chaleur et le fait d'être retrouvé passent d'abord. Le manuel américain déconseille même de manger si vous n'avez pas d'eau.
+**Vous en avez moins urgemment besoin que vous ne le pensez.** Vous pouvez tenir plusieurs semaines sans nourriture. L'eau, la chaleur et le fait d'être retrouvé passent d'abord. Mieux vaut ne pas manger si vous n'avez pas d'eau.
 
 **Champignons : ne les mangez pas.**
 
-- L'armée américaine est claire : ne mangez pas de champignons dans une situation de survie. Seule une identification certaine suffit, et il n'y a pas de place pour l'expérimentation. Certains champignons tuent rapidement, pour certains il n'existe pas d'antidote.
-- Le Centre Antipoisons dit la même chose : il n'existe **aucune astuce** pour distinguer un champignon comestible d'un champignon toxique. Les jeunes champignons ne sont pas toujours comestibles. Les champignons blancs peuvent être toxiques. Un champignon toxique peut avoir bon goût. Les limaces mangent aussi des espèces toxiques. La cuisson, le séchage ou la congélation ne rendent pas inoffensif le poison de l'amanite phalloïde. Un seul exemplaire peut déjà être très grave.
+- Ne mangez pas de champignons dans une situation de survie. Seule une identification certaine suffit, et il n'y a pas de place pour l'expérimentation. Certains champignons tuent rapidement, pour certains il n'existe pas d'antidote.
+- Il n'existe **aucune astuce** pour distinguer un champignon comestible d'un champignon toxique. Les jeunes champignons ne sont pas toujours comestibles. Les champignons blancs peuvent être toxiques. Un champignon toxique peut avoir bon goût. Les limaces mangent aussi des espèces toxiques. La cuisson, le séchage ou la congélation ne rendent pas inoffensif le poison de l'amanite phalloïde. Un seul exemplaire peut déjà être très grave.
 - Identifier un champignon à l'aide d'un livre ou d'une photo est très dangereux.
 - **En Flandre et à Bruxelles, la cueillette de champignons dans les domaines publics est interdite.** En Wallonie, elle est limitée : avec l'accord du propriétaire, entre le lever et le coucher du soleil, 10 litres au maximum par personne, et pas pendant la saison de chasse dans les bois domaniaux.
 
@@ -308,7 +308,7 @@ Source : [Rode Kruis-Vlaanderen : Premiers secours en cas de coup de chaleur](ht
 
 ## Par personne
 
-| Qui | Ce que disent les sources |
+| Qui | Ce que vous faites |
 | --- | --- |
 | Enfants | Apprenez-leur : reste où tu es si tu es perdu, cherche un arbre (ou un banc, un réverbère, une grosse pierre), écoute si tu entends ton nom, fais des signes, siffle, fais clignoter une lampe. Les petits enfants mettent souvent des baies, des feuilles ou des champignons en bouche ; gardez-les à l'œil. |
 | Groupes | Restez ensemble. Si quelqu'un doit quitter le groupe, ce sera avec un équipier. Veillez les uns sur les autres pour repérer les lésions dues au froid et à la chaleur. En cas de blessé : deux personnes ou plus vont chercher de l'aide, les autres restent. |

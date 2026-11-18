@@ -63,8 +63,8 @@ Source: [SWDE](https://www.swde.be/en/water-quality-non-potable-water) · [RIVM]
 
 ### How much water
 
-- The National Crisis Center recommends a stock for at least 3 days. On its page about drinking water it mentions 4 litres per person per day. In the list for the emergency kit it mentions 3 to 10 litres per person per day: an adult drinks 1.5 to 2 litres, the rest is for washing, the toilet and cooking.
-- The American CDC recommends at least 1 gallon (about 3.8 litres) per person per day, for at least 3 days, and a stock for 2 weeks if possible.
+- Allow 3 litres per person per day, for drinking and cooking. An adult drinks 1.5 to 2 litres. More if you can, for washing and the toilet.
+- Keep a stock for at least 3 days, preferably longer.
 - Allow more for pregnant women, sick people, children, women who are breastfeeding, pets and in hot weather. In great heat the need can double.
 - Also set aside water that is not for drinking, for washing and cleaning.
 
@@ -77,7 +77,7 @@ Source: [SWDE](https://www.swde.be/en/water-quality-non-potable-water) · [RIVM]
 - Use clean, empty bottles or a jerrycan, preferably food-grade.
 - Choose a sturdy, unbreakable container (not glass) with a tight-fitting cap and a narrow neck.
 - Never use a container that has held toxic substances, such as bleach or pesticides.
-- Wash the container with washing-up liquid and rinse well. The CDC recommends disinfecting it afterwards: 1 teaspoon of unscented bleach (5 to 9 per cent sodium hypochlorite) in about 1 litre of water, shake well so that all inside surfaces get wet, wait at least 30 seconds, pour it out and let it dry.
+- Wash the container with washing-up liquid and rinse well. Then disinfect it: 1 teaspoon of unscented bleach (5 to 9 per cent sodium hypochlorite) in about 1 litre of water, shake well so that all inside surfaces get wet, wait at least 30 seconds, pour it out and let it dry.
 - Fill with clean water and close tightly.
 - Write "drinking water" and the date on the container. Replace water you filled yourself every 6 months.
 - Store between about 10 and 21 °C, out of the sun and away from petrol and pesticides.
@@ -104,12 +104,12 @@ Source: [National Crisis Center: drinking water](https://crisiscenter.be/en/risk
 
 **With a boil-water advice (orange).**
 
-Use bottled water or boiled water. The CDC lists these uses: drinking, washing up, brushing teeth, washing and preparing food, washing hands, making ice cubes and making up formula. The Dutch RIVM says that showering, brushing teeth and washing up by hand with unboiled water are not dangerous. Follow the advice of your own water company. If in doubt, choose the strictest approach.
+Use bottled water or boiled water for drinking, washing up, brushing teeth, washing and preparing food, washing hands, making ice cubes and making up formula. If your water company gives different advice, follow that.
 
 How to boil water:
 
 1. If the water is cloudy, filter it through a clean cloth, kitchen paper or a coffee filter. Or let it settle and skim off the clear water.
-2. Bring the water to the boil and let it boil vigorously. The CDC says at least 1 minute. The RIVM says 3 minutes. If your water company gives a duration, follow that.
+2. Bring the water to the boil and let it boil vigorously for at least 1 minute. If your water company gives a duration, follow that.
 3. Let it cool.
 4. Store it in clean, tightly closed containers or bottles.
 5. If it tastes flat, pour it back and forth a few times from one container to another, or let it stand for a few hours.
@@ -135,7 +135,7 @@ How to boil water:
 Use these only if you have no bottled water or stock left. If you cannot treat water, wait as long as possible before drinking doubtful water, but do not let yourself become dehydrated.
 
 - **Boiling** is the safest way to kill germs.
-- **Bleach.** Use ordinary, unscented bleach. First check the label: if there are instructions for disinfecting water, follow them. For bleach with 5 to 9 per cent sodium hypochlorite the CDC gives: 2 drops (0.1 ml) per litre of water. For bleach with 1 per cent: 10 drops (0.5 ml) per litre. If the water is cloudy, coloured or very cold, use double the amount. Stir well and wait at least 30 minutes before drinking. Belgian bleach may have a different strength: always read the label.
+- **Bleach.** Use ordinary, unscented bleach. First check the label: if there are instructions for disinfecting water, follow them. For bleach with 5 to 9 per cent sodium hypochlorite: 2 drops (0.1 ml) per litre of water. For bleach with 1 per cent: 10 drops (0.5 ml) per litre. If the water is cloudy, coloured or very cold, use double the amount. Stir well and wait at least 30 minutes before drinking. Belgian bleach may have a different strength: always read the label.
 - **Tablets or drops.** Follow the instructions on the packaging. Chlorine dioxide kills the parasite Cryptosporidium if you use it correctly. Iodine and chlorine tablets do not kill this parasite. Anyone who is pregnant or has thyroid problems should preferably not drink water disinfected with iodine. No one should drink such water for longer than a few weeks.
 - **Filters.** Portable filters do not remove viruses. For bacteria the pore size must be 0.3 micron or smaller, for parasites 1 micron or smaller. After filtering, also disinfect the water with a disinfectant.
 - **Sunlight.** Only works with clear water. Fill clean, transparent plastic bottles and lay them on their side in the sun: 6 hours in sunshine, 2 days when cloudy. A dark surface underneath helps.
@@ -159,7 +159,7 @@ Use these only if you have no bottled water or stock left. If you cannot treat w
 
 ### Pets and animals
 
-- Include extra water for pets in your stock. The National Crisis Center recommends food, water and bowls for 72 hours.
+- Include extra water for pets in your stock, with food, water and bowls for 72 hours.
 
 Source: [SWDE](https://www.swde.be/en/water-quality-non-potable-water) · [RIVM](https://www.rivm.nl/drinkwater/toelichting-kookadvies-drinkwater) · [CDC](https://www.cdc.gov/water-emergency/about/index.html) · [CDC: storing water](https://www.cdc.gov/water-emergency/about/how-to-create-and-store-an-emergency-water-supply.html) · [Ready.gov](https://www.ready.gov/water) · [National Crisis Center: emergency kit](https://crisiscenter.be/en/what-can-you-do/build-emergency-kit/emergency-kit-home) · [National Crisis Center: drinking water](https://crisiscenter.be/en/risks-belgium/societal-risks/failure-drinking-water-supply) · [National Crisis Center: information during an emergency](https://crisiscenter.be/en/what-can-you-do/stay-informed/get-informed-emergency-situation)
 

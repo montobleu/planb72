@@ -43,7 +43,7 @@ bronnen:
 
 Bij een aardbeving schudt of trilt de grond. Na de eerste schok kunnen naschokken volgen, soms veel later.
 
-**Aardbevingen in België.** België ligt in een zogenaamd stabiele zone. Toch hebben grotere aardbevingen hier in het verleden schade veroorzaakt. De Koninklijke Sterrenwacht van België noemt onder meer de bevingen van 1382 en 1449 in de Noordzee, 1580 in het Kanaal, 1692 in Verviers, 1756 in Düren (Duitsland), 1938 in Zulzeke-Nukerke en 1992 in Roermond (Nederland). Gemiddeld komt in België ongeveer één keer per 40 jaar een beving van magnitude 5 of meer voor, en ongeveer één keer per 315 jaar een beving van magnitude 6 of meer.
+**Aardbevingen in België.** België ligt in een zogenaamd stabiele zone. Toch hebben grotere aardbevingen hier in het verleden schade veroorzaakt. Voorbeelden zijn de bevingen van 1382 en 1449 in de Noordzee, 1580 in het Kanaal, 1692 in Verviers, 1756 in Düren (Duitsland), 1938 in Zulzeke-Nukerke en 1992 in Roermond (Nederland). Gemiddeld komt in België ongeveer één keer per 40 jaar een beving van magnitude 5 of meer voor, en ongeveer één keer per 315 jaar een beving van magnitude 6 of meer.
 
 **Het grootste gevaar** is schade aan gebouwen of het instorten ervan. Ook vallende voorwerpen, glas, gaslekken, beschadigde elektriciteit en brand vormen een risico. De Belgische risicoanalyse beschouwt een zware aardbeving als weinig waarschijnlijk.
 
@@ -68,7 +68,7 @@ Bron: [Koninklijke Sterrenwacht: FAQ](https://seismologie.be/nl/veel-gestelde-vr
 - Oefen samen hoe je dekking zoekt. Doe mee aan of volg oefeningen.
 - Ken de officiële risico-informatie en de veiligheidsinstructies.
 
-**Noodpakket.** Hou een pakket klaar met een radio op batterijen, een zaklamp, drinkwater, persoonlijke documenten, noodzakelijke medicatie, dekens, reservekleding, blikvoeding en een EHBO-doos. Het Nationaal Crisiscentrum raadt aan om minstens 3 dagen zelfredzaam te zijn. Ready.gov voegt een fluitje toe om hulp te roepen.
+**Noodpakket.** Hou een pakket klaar met een radio op batterijen, een zaklamp, drinkwater, persoonlijke documenten, noodzakelijke medicatie, dekens, reservekleding, blikvoeding, een EHBO-doos en een fluitje om hulp te roepen. Zorg dat je minstens 3 dagen zelfredzaam bent.
 
 Bron: [Nationaal Crisiscentrum](https://crisiscentrum.be/nl/risicos-belgie/natuurlijke-risicos/aardbeving) · [Koninklijke Sterrenwacht: FAQ](https://seismologie.be/nl/veel-gestelde-vragen) · [Nationaal Crisiscentrum: noodpakket](https://crisiscentrum.be/nl/wat-kan-jij-doen/maak-een-noodpakket/een-noodpakket-bij-je-thuis) · [Ready.gov](https://www.ready.gov/earthquakes) · [Nationaal Crisiscentrum: digitale infrastructuur](https://crisiscentrum.be/nl/risicos-belgie/maatschappelijke-risicos/verstoring-van-de-digitale-infrastructuur)
 
@@ -86,11 +86,11 @@ Bescherm jezelf meteen.
 4. Hou je met de andere hand vast aan het meubel. Beweegt het, beweeg dan mee.
 5. Blijf zo tot het schudden stopt.
 
-**Geen stevig meubel in de buurt.** Ga tegen een binnenmuur zitten of hurken, weg van ramen. Buig je voorover om je romp te beschermen en hou je hoofd en nek vast met beide armen. De Koninklijke Sterrenwacht noemt ook een dragende muur of een zuil als plek om te schuilen.
+**Geen stevig meubel in de buurt.** Ga tegen een binnenmuur zitten of hurken, weg van ramen. Buig je voorover om je romp te beschermen en hou je hoofd en nek vast met beide armen. Ook een dragende muur of een zuil is een plek om te schuilen.
 
 **Lig je in bed.** Draai op je buik en bedek je hoofd en nek met een kussen.
 
-**Ben je dicht bij een uitgang.** Het Nationaal Crisiscentrum zegt: is er een uitgang dichtbij, ga dan veilig naar buiten naar een open plek, weg van gebouwen. De Koninklijke Sterrenwacht en het Amerikaanse Ready.gov raden aan om te blijven waar je bent en niet naar buiten te lopen. Twijfel je of de weg naar buiten veilig is, blijf dan binnen en zoek dekking.
+**Ben je dicht bij een uitgang.** Is de uitgang vlakbij en de weg naar buiten veilig, ga dan naar een open plek, weg van gebouwen. Twijfel je, blijf dan waar je bent en zoek dekking.
 
 **Altijd.**
 

@@ -45,7 +45,7 @@ origineel_datum: "2026-11-18"
 
 In an earthquake the ground shakes or trembles. Aftershocks can follow the first shock, sometimes much later.
 
-**Earthquakes in Belgium.** Belgium lies in a so-called stable zone. Even so, larger earthquakes have caused damage here in the past. The Royal Observatory of Belgium mentions, among others, the earthquakes of 1382 and 1449 in the North Sea, 1580 in the Channel, 1692 in Verviers, 1756 in Düren (Germany), 1938 in Zulzeke-Nukerke and 1992 in Roermond (the Netherlands). On average, Belgium has an earthquake of magnitude 5 or more about once every 40 years, and an earthquake of magnitude 6 or more about once every 315 years.
+**Earthquakes in Belgium.** Belgium lies in a so-called stable zone. Even so, larger earthquakes have caused damage here in the past. Examples are the earthquakes of 1382 and 1449 in the North Sea, 1580 in the Channel, 1692 in Verviers, 1756 in Düren (Germany), 1938 in Zulzeke-Nukerke and 1992 in Roermond (the Netherlands). On average, Belgium has an earthquake of magnitude 5 or more about once every 40 years, and an earthquake of magnitude 6 or more about once every 315 years.
 
 **The greatest danger** is damage to buildings or their collapse. Falling objects, glass, gas leaks, damaged electrical installations and fire are also a risk. The Belgian risk analysis considers a strong earthquake unlikely.
 
@@ -70,7 +70,7 @@ Source: [Royal Observatory: FAQ](https://seismologie.be/en/frequently-asked-ques
 - Practise taking cover together. Take part in or follow drills.
 - Know the official risk information and the safety instructions.
 
-**Emergency kit.** Keep a kit ready with a battery-powered radio, a torch, drinking water, personal documents, essential medication, blankets, spare clothing, tinned food and a first aid kit. The National Crisis Center recommends being self-sufficient for at least 3 days. Ready.gov adds a whistle to call for help.
+**Emergency kit.** Keep a kit ready with a battery-powered radio, a torch, drinking water, personal documents, essential medication, blankets, spare clothing, tinned food, a first aid kit and a whistle to call for help. Make sure you are self-sufficient for at least 3 days.
 
 Source: [National Crisis Center](https://crisiscenter.be/en/risks-belgium/natural-risks/earthquake) · [Royal Observatory: FAQ](https://seismologie.be/en/frequently-asked-questions) · [National Crisis Center: emergency kit](https://crisiscenter.be/en/what-can-you-do/build-emergency-kit/emergency-kit-home) · [Ready.gov](https://www.ready.gov/earthquakes) · [National Crisis Center: digital infrastructure](https://crisiscenter.be/en/risks-belgium/societal-risks/failure-digital-infrastructure)
 
@@ -88,11 +88,11 @@ Protect yourself immediately.
 4. Hold on to the furniture with your other hand. If it moves, move with it.
 5. Stay like this until the shaking stops.
 
-**No sturdy furniture nearby.** Sit or crouch against an interior wall, away from windows. Bend forward to protect your upper body and hold your head and neck with both arms. The Royal Observatory also mentions a load-bearing wall or a pillar as a place to shelter.
+**No sturdy furniture nearby.** Sit or crouch against an interior wall, away from windows. Bend forward to protect your upper body and hold your head and neck with both arms. A load-bearing wall or a pillar is also a place to shelter.
 
 **If you are in bed.** Turn onto your stomach and cover your head and neck with a pillow.
 
-**If you are close to an exit.** The National Crisis Center says: if there is an exit nearby, go safely outside to an open space, away from buildings. The Royal Observatory and the American Ready.gov advise staying where you are and not running outside. If you are unsure whether the way out is safe, stay inside and take cover.
+**If you are close to an exit.** If the exit is very close and the way out is safe, go to an open space, away from buildings. If you are unsure, stay where you are and take cover.
 
 **Always.**
 

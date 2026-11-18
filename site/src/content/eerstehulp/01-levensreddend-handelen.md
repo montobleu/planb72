@@ -1,7 +1,7 @@
 ---
 titel: Levensreddend handelen
 volgorde: 1
-kort: "De vier stappen van het Rode Kruis: veiligheid, toestand beoordelen, hulp alarmeren (112 of iemand sturen), verdere eerste hulp."
+kort: "De vier stappen van eerste hulp: veiligheid, toestand beoordelen, hulp alarmeren (112 of iemand sturen), verdere eerste hulp."
 status: concept
 datum: "2026-11-18"
 bronnen:
@@ -37,14 +37,14 @@ bronnen:
 
 ## Herkennen
 
-Rode Kruis-Vlaanderen leert eerste hulp in vier stappen. Je doorloopt ze altijd in dezelfde volgorde en begint opnieuw zodra de toestand verandert:
+Eerste hulp verloopt in vier stappen. Je doorloopt ze altijd in dezelfde volgorde en begint opnieuw zodra de toestand verandert:
 
 1. Zorg voor de veiligheid.
 2. Beoordeel de toestand van het slachtoffer.
 3. Raadpleeg gespecialiseerde hulp.
 4. Verleen verdere eerste hulp.
 
-Een toestand is levensbedreigend als je bij de eerste beoordeling een van deze vier vragen met "nee" of "ja, ernstig" beantwoordt. De IFRC noemt dit de ABC-controle:
+Een toestand is levensbedreigend als je bij de eerste beoordeling een van deze vier vragen met "nee" of "ja, ernstig" beantwoordt. Dit is de ABC-controle:
 
 - Reageert de persoon?
 - Is de luchtweg open en vrij?
@@ -55,7 +55,7 @@ Kan iemand praten of huilen, dan mag je aannemen dat de luchtweg open is en dat 
 
 Let op deze signalen van een hartstilstand: de persoon reageert niet en ademt niet normaal. In het begin kan het lijken alsof de persoon nog ademt: naar adem happen, kreunen, zuchten, gorgelen of snurken. Dat is geen normale ademhaling maar "agonale ademhaling". Korte schokkende bewegingen in het begin zijn mogelijk en worden vaak verward met een epileptische aanval. Kijk zodra de bewegingen stoppen meteen naar de ademhaling.
 
-Bij kinderen en baby's gebruikt de ERC een snelle blik op drie dingen. Zie je een van deze tekens, roep dan meteen hulp:
+Bij kinderen en baby's kijk je snel naar drie dingen. Zie je een van deze tekens, roep dan meteen hulp:
 
 - Gedrag: reageert het kind op je stem of een aanraking? Is het suf, verward, slap of stijf? Huilt het ontroostbaar?
 - Ademhaling: ademt het moeizaam, te snel, te traag of onregelmatig? Maakt het geluiden? Kan het niet praten of luid huilen?
@@ -74,7 +74,7 @@ Bron: [Rode Kruis-Vlaanderen: Vier stappen in eerste hulp](https://www.rodekruis
 7. Reageert het slachtoffer niet, roep dan luid om hulp, ook als je alleen bent. Duid iemand aan en vraag die persoon rechtstreeks om te helpen. Draai het slachtoffer op de rug.
 8. Open de luchtweg. Ga op je knieën naast de borstkas zitten. Leg een hand op het voorhoofd en kantel het hoofd voorzichtig achterover. Leg twee vingertoppen van je andere hand onder de punt van de kin. Druk niet in het zachte deel onder de kin. Til de kin omhoog en hou ze omhoog. Bij een baby breng je het hoofd in een neutrale positie, niet verder achterover. Vermoed je een wervelletsel, kantel het hoofd dan niet achterover (zie onderwerp 9).
 9. Controleer de ademhaling. Hou de luchtweg open. Breng je oor en wang bij mond en neus. Kijk of de borstkas op en neer gaat, luister naar ademgeluiden en voel of er lucht komt. Doe dit niet langer dan 10 seconden. Twijfel je of de ademhaling normaal is, handel dan alsof ze niet normaal is.
-10. Bel 112, of laat iemand bellen en vraag die persoon om je daarna te laten weten dat het gebeurd is. Ben je alleen, zet je telefoon op luidspreker zodat je handen vrij blijven. Het Rode Kruis vat de informatie samen in drie vragen: waar, wat en wie. Geef bij een bewusteloze persoon zijn toestand, je naam en het exacte adres. Beantwoord de vragen van de operator rustig. Werkt de verbinding, dan helpt de operator je bij de verdere stappen. Lukt bellen niet, stuur dan iemand om hulp met dezelfde informatie (zie Bel 112 als).
+10. Bel 112, of laat iemand bellen en vraag die persoon om je daarna te laten weten dat het gebeurd is. Ben je alleen, zet je telefoon op luidspreker zodat je handen vrij blijven. Vat de informatie samen in drie vragen: waar, wat en wie. Geef bij een bewusteloze persoon zijn toestand, je naam en het exacte adres. Beantwoord de vragen van de operator rustig. Werkt de verbinding, dan helpt de operator je bij de verdere stappen. Lukt bellen niet, stuur dan iemand om hulp met dezelfde informatie (zie Bel 112 als).
 11. Ademt het slachtoffer niet normaal: start meteen met reanimeren en laat een AED halen (zie onderwerp 2).
 12. Ademt het slachtoffer normaal maar reageert het niet: leg het in stabiele zijligging, tenzij je een wervelletsel vermoedt. Controleer elke minuut of de ademhaling normaal blijft (zie onderwerp 5).
 13. Verleen verdere eerste hulp in deze volgorde: hou de luchtweg vrij, stelp ernstige bloedingen (onderwerp 3), koel brandwonden (onderwerp 7), verzorg grote wonden en dek ze af, verzorg letsels aan botten, spieren en gewrichten (onderwerp 8), en verzorg daarna de minder ernstige verwondingen.
@@ -83,7 +83,7 @@ Bron: [Rode Kruis-Vlaanderen: Vier stappen in eerste hulp](https://www.rodekruis
 16. Zijn er meerdere slachtoffers: bel 112 eerst om de ernst te melden en bel opnieuw zodra je meer weet. Kan je niet bellen, tel dan de slachtoffers en geef dat aantal mee aan wie hulp gaat halen. Help eerst wie problemen heeft met de ademhaling of de bloedsomloop.
 17. Was of ontsmet na de eerste hulp je handen.
 
-De ERC raadt aan om bij elk slachtoffer kort de ABCDE-volgorde te doorlopen:
+Doorloop bij elk slachtoffer kort de ABCDE-volgorde:
 
 - A (luchtweg): is de luchtweg open? Na een val van hoogte of een zwaar ongeval: denk aan een nekletsel.
 - B (ademhaling): ademt de persoon normaal? Hoor je een piepende ademhaling? Verslikt de persoon zich? Zijn lippen of nagels blauw? Zijn lippen, tong of hals gezwollen?
@@ -95,7 +95,7 @@ Bron: [Rode Kruis-Vlaanderen: Vier stappen in eerste hulp](https://www.rodekruis
 
 ## Als hulp lang op zich laat wachten
 
-De IFRC beschrijft aparte omstandigheden waarin medische hulp uren of dagen weg kan zijn: afgelegen plaatsen en rampen, waarbij wegen, telefoon of ziekenhuizen tijdelijk niet werken. Daarvoor geeft de IFRC deze aandachtspunten:
+Op afgelegen plaatsen en bij rampen kan medische hulp uren of dagen weg zijn, omdat wegen, telefoon of ziekenhuizen tijdelijk niet werken. Let dan op het volgende:
 
 - Doe eerst wat het leven redt. Ademhaling en bloedsomloop gaan voor, daarna de rest. Weet waarom die volgorde geldt, zodat je ze ook onder druk volgt.
 - Een gebrek aan materiaal is geen reden om niet te helpen. Gebruik wat er is, bijvoorbeeld een hemd om op een bloeding te drukken.
@@ -109,7 +109,7 @@ De IFRC beschrijft aparte omstandigheden waarin medische hulp uren of dagen weg 
 - Voorkom infectie en verdere letsels.
 - Bereid je voor: weet welke hulpdiensten er in je buurt zijn, waar ze zitten en hoe je ze bereikt. De kaart in de app (knop Dichtstbij) toont brandweer, politie, ziekenhuizen en gemeentehuizen. Weet in een afgelegen gebied ook hoe je een signaal om hulp geeft (zie de gids Signalen en noodcodes).
 
-Hou het slachtoffer warm, want ernstig gewonden koelen snel af en dat verhoogt het risico op overlijden. FEMA geeft deze stappen:
+Hou het slachtoffer warm, want ernstig gewonden koelen snel af en dat verhoogt het risico op overlijden:
 
 - Doe natte kleding uit.
 - Leg iets tussen het slachtoffer en de grond, zoals karton, een jas of een deken.
@@ -141,7 +141,7 @@ Bron: [IFRC Guidelines 2020](https://www.ifrc.org/sites/default/files/2022-02/EN
 - Geef wie hulp gaat halen nauwkeurige informatie mee: waar het is, wat er gebeurd is, hoeveel slachtoffers er zijn en hoe ze eraan toe zijn. Vraag die persoon om je daarna te laten weten dat de hulp verwittigd is.
 - Kan die persoon van ergens anders 112 bellen, dan zegt hij aan de operator dat hij niet vanop de plaats van het incident belt.
 - Ben je alleen en moet je zelf weg om hulp te halen: leg een bewusteloos slachtoffer dat normaal ademt eerst in stabiele zijligging (zie onderwerp 5). Voor reanimatie geldt een aparte regel voor volwassenen en kinderen (zie onderwerp 2).
-- In België zegt de overheid: is bellen niet meer mogelijk, vraag dan hulp in je buurt. In Duitsland raadt de overheid aan om bij een noodgeval, als het kan, naar het dichtstbijzijnde politiebureau of ziekenhuis te gaan. In Nederland stuurde de overheid burgers bij de landelijke 112-storing van 2019 naar de dichtstbijzijnde brandweerkazerne of het politiebureau, en bij medische nood naar het ziekenhuis. De kaart in de app (knop Dichtstbij) toont die.
+- Wie hulp gaat halen, vraagt hulp in de buurt of gaat, als het kan, naar het dichtstbijzijnde politiebureau, de brandweerkazerne of het ziekenhuis (de kaart in de app toont ze, met Dichtstbij). Bij een grote uitval kan de gemeente een informatie- en onthaalpunt openen.
 - Blijf intussen eerste hulp geven.
 - Zie ook Noodnummers in de app, Als bellen niet lukt.
 

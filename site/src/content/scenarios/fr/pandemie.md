@@ -70,7 +70,7 @@ Source : [Ready.gov](https://www.ready.gov/pandemic) · [CDC : si vous êtes mal
 **Une réserve.**
 
 - Constituez progressivement une réserve de produits de nettoyage, de nourriture de longue conservation, d'eau et de vos médicaments prescrits pour quelques jours à quelques semaines. Achetez calmement, pour que chacun puisse obtenir ce dont il a besoin.
-- Le Centre de crise National recommande d'être autonome pendant au moins 3 jours. Pensez à l'eau potable (3 à 10 litres par personne et par jour), à la nourriture de longue conservation, aux mouchoirs en papier, aux lingettes humides, au papier toilette, aux serviettes hygiéniques, au gel désinfectant pour les mains et à une trousse de premiers secours.
+- Faites en sorte d'être autonome pendant au moins 3 jours. Pensez à l'eau potable (3 litres par personne et par jour), à la nourriture de longue conservation, aux mouchoirs en papier, aux lingettes humides, au papier toilette, aux serviettes hygiéniques, au gel désinfectant pour les mains et à une trousse de premiers secours.
 - Gardez une réserve de vos médicaments indispensables pour au moins 72 heures dans votre sac d'urgence.
 
 **Un plan.**
@@ -111,7 +111,7 @@ S'il n'y a pas d'eau ni de savon, utilisez un gel pour les mains contenant au mo
 - Buvez suffisamment : 1,5 litre par jour.
 - Aérez régulièrement votre logement.
 
-**Quand vous pouvez ressortir.** Suivez les règles des services de santé pour la maladie concernée. Le CDC américain donne comme règle générale pour les infections respiratoires : reprenez vos activités lorsque vos symptômes s'améliorent depuis au moins 24 heures et que vous n'avez pas eu de fièvre pendant ces 24 heures, sans médicaments contre la fièvre. Prenez ensuite encore pendant 5 jours des précautions supplémentaires avec les autres : air frais, hygiène, masque bien ajusté, distance. Vous pouvez alors encore transmettre le virus. Si vous avez de nouveau de la fièvre ou vous sentez plus mal, restez de nouveau à la maison.
+**Quand vous pouvez ressortir.** Suivez les règles des services de santé pour la maladie concernée. Règle générale pour les infections respiratoires : reprenez vos activités lorsque vos symptômes s'améliorent depuis au moins 24 heures et que vous n'avez pas eu de fièvre pendant ces 24 heures, sans médicaments contre la fièvre. Prenez ensuite encore pendant 5 jours des précautions supplémentaires avec les autres : air frais, hygiène, masque bien ajusté, distance. Vous pouvez alors encore transmettre le virus. Si vous avez de nouveau de la fièvre ou vous sentez plus mal, restez de nouveau à la maison.
 
 **Si une personne de votre foyer ou un ami est malade.**
 

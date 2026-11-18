@@ -47,7 +47,7 @@ Quelle: [Gezondheid en Wetenschap: Ertrinken](https://www.gezondheidenwetenschap
 1. Rufen Sie um Hilfe und lassen Sie jemanden 112 anrufen. Kommt kein Anruf zustande, lassen Sie diese Person Hilfe holen (siehe Rufen Sie 112 an, wenn).
 2. Versuchen Sie zu retten, ohne selbst ins Wasser zu gehen. Verwenden Sie Rettungsmittel, die dort hängen, werfen Sie etwas zu, das schwimmt, oder reichen Sie einen langen Gegenstand.
 3. Gehen Sie nicht in tiefes Wasser, wenn Sie kein starker Schwimmer sind. Gehen Sie nur ins Wasser, wenn Sie im Retten ausgebildet sind, und nehmen Sie dann Rettungsmittel mit. Eine ertrinkende Person bei Bewusstsein kann den Retter in Panik festklammern.
-4. Ein ausgebildeter Retter, der eine nicht reagierende ertrinkende Person im Wasser erreicht, gibt laut dem ERC sofort 5 Beatmungen, bevor er sie ans Ufer bringt.
+4. Ein ausgebildeter Retter, der eine nicht reagierende ertrinkende Person im Wasser erreicht, gibt sofort 5 Beatmungen, bevor er sie ans Ufer bringt.
 5. Holen Sie die betroffene Person waagerecht aus dem Wasser. So vermeiden Sie einen Blutdruckabfall.
 
 ### Am Ufer
@@ -72,7 +72,7 @@ Quelle: [Gezondheid en Wetenschap: Ertrinken](https://www.gezondheidenwetenschap
 
 ## Wenn Hilfe lange auf sich warten lässt
 
-- Nach Ertrinken besteht eine Chance, dass die Person auf die Wiederbelebung anspricht, auch ohne Defibrillator. Die IFRC nennt Ertrinken und Unterkühlung als Ausnahmen von der Regel, dass Sie in einem Gebiet ohne Rettungsdienst aufhören können, wenn die Wiederbelebung nach 20 Minuten keine Wirkung zeigt. Bei einem Kind, das ertrunken oder unterkühlt ist, besteht eine Chance, es allein mit Wiederbelebung zu retten.
+- Nach Ertrinken besteht eine Chance, dass die Person auf die Wiederbelebung anspricht, auch ohne Defibrillator. Ertrinken und Unterkühlung sind Ausnahmen von der Regel, dass Sie in einem Gebiet ohne Rettungsdienst aufhören können, wenn die Wiederbelebung nach 20 Minuten keine Wirkung zeigt. Bei einem Kind, das ertrunken oder unterkühlt ist, besteht eine Chance, es allein mit Wiederbelebung zu retten.
 - Beatmungen sind hier besonders wichtig, weil die betroffene Person keinen Sauerstoff bekam. Geben Sie sie, wenn Sie können.
 - Wechseln Sie sich mit anderen Helfern alle 1 bis 2 Minuten ab, ohne die Wiederbelebung zu unterbrechen.
 - Muss die Person transportiert werden, führen Sie die Wiederbelebung während des Transports ohne Unterbrechung auf einem harten Untergrund durch.
@@ -95,7 +95,7 @@ Jede Person nach einem Ertrinkungsunfall muss untersucht werden, auch wenn es ni
 
 - Lassen Sie die betroffene Person nur allein, wenn es keine andere Möglichkeit gibt. Sprechen Sie Umstehende direkt an, damit sie Hilfe holen, und geben Sie mit, wo es ist, was passiert ist, wie viele Betroffene es gibt und in welchem Zustand sie sind.
 - Lassen Sie jemanden einen AED holen, wenn einer in der Nähe ist.
-- Führen Sie eine Wiederbelebung durch und sind Sie allein ohne Telefon, siehe Thema 2 (Kommt kein Anruf zustande). Dort steht, was der ERC bei einem Erwachsenen und bei einem Kind empfiehlt.
+- Führen Sie eine Wiederbelebung durch und sind Sie allein ohne Telefon, siehe Thema 2 (Kommt kein Anruf zustande). Dort steht, was Sie bei einem Erwachsenen und bei einem Kind tun.
 - Siehe auch Thema 1 (Kommt kein Anruf zustande: Hilfe holen ohne Telefon) und Notrufnummern in der App, Wenn kein Anruf möglich ist.
 
 Quelle: [Gezondheid en Wetenschap: Ertrinken](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-verdrinking) · [ERC Guidelines 2025 for Everyone](https://www.erc.edu/media/p5ymaeej/gl2025_layperson_book_ipdf-v11-e.pdf) · [IFRC Guidelines 2020](https://www.ifrc.org/sites/default/files/2022-02/EN_GFARC_GUIDELINES_2020.pdf) · [ERC Guidelines 2021: First aid](https://cprguidelines-old.erc.edu/assets/guidelines/European-Resuscitation-Council-Guidelines-2021-Fi.pdf) · [112.be: Häufig gestellte Fragen](https://112.be/de/haeufig-gestellte-fragen)

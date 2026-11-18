@@ -63,7 +63,7 @@ origineel_datum: "2026-11-18"
 
 ## Reconnaître
 
-**La situation belge.** Le Centre de crise National décrit un conflit armé international comme un risque de très faible probabilité. Le scénario qu'il a étudié se déroule sur le territoire de l'OTAN en dehors de la Belgique. Sur cette page, le Centre de crise ne donne pas d'étapes propres en cas d'attaque aérienne. Les étapes de cette fiche proviennent donc des guides officiels de l'Allemagne, de la Suède, de l'Ukraine et de la Pologne.
+**La situation belge.** Un conflit armé international est pour la Belgique un risque de très faible probabilité. Le scénario de l'analyse nationale des risques se déroule sur le territoire de l'OTAN en dehors de la Belgique. Les autorités belges ne donnent pas d'étapes propres en cas d'attaque aérienne. Les étapes de cette fiche proviennent donc des guides officiels d'autres pays européens.
 
 **Comment vous êtes alerté.** En Belgique, les autorités vous préviennent via la radio et la télévision et via des voitures à haut-parleurs de la police. Si le réseau fonctionne, aussi via BE-Alert : SMS, e-mail ou appel téléphonique. Lors d'une urgence importante, toute personne ayant un GSM dans la zone touchée reçoit un Alert-SMS, même sans inscription. Si le courant est coupé, écoutez une radio à piles ou une radio à manivelle.
 
@@ -80,8 +80,8 @@ Source : [Centre de crise National : conflit armé international](https://centre
 
 - **Repérez vos abris.** Choisissez deux ou trois endroits proches de votre domicile, de votre travail et de l'école. Parcourez l'itinéraire à l'avance. Sachez qui a la clé.
 - **Choisissez votre endroit dans la maison.** Regardez quelle pièce a le moins de murs extérieurs, de fenêtres et de portes : une cave sans fenêtres, ou un couloir, un débarras ou un dressing au centre du logement.
-- **Préparez un sac d'urgence** et placez-le près de la porte. Le MCF suédois cite : de l'eau en bouteille ou en boîte, de la nourriture qui se conserve à température ambiante, des produits d'hygiène et du papier toilette, des médicaments et une trousse de premiers secours, des vêtements chauds, la carte d'identité, de l'argent liquide et des cartes bancaires, les clés, un GSM avec chargeur ou batterie externe, et une lampe de poche. L'Ukraine ajoute : des piles de rechange, des couvertures ou des couvertures de survie, une radio à piles et un extincteur. Prévoyez un séjour d'au moins deux jours.
-- **Gardez une réserve à la maison** pour au moins 3 jours, comme le recommande le Centre de crise National : de l'eau, de la nourriture de longue conservation, une radio, une lampe de poche, des médicaments.
+- **Préparez un sac d'urgence** et placez-le près de la porte : de l'eau en bouteille ou en boîte, de la nourriture qui se conserve à température ambiante, des produits d'hygiène et du papier toilette, des médicaments et une trousse de premiers secours, des vêtements chauds, la carte d'identité, de l'argent liquide et des cartes bancaires, les clés, un GSM avec chargeur ou batterie externe, une lampe de poche avec des piles de rechange, des couvertures ou des couvertures de survie, une radio à piles et un extincteur. Prévoyez un séjour d'au moins deux jours.
+- **Gardez une réserve à la maison** pour au moins 3 jours : de l'eau, de la nourriture de longue conservation, une radio, une lampe de poche, des médicaments.
 - **Renforcez les fenêtres** avec un film adhésif résistant. Si possible, protégez-les avec des sacs de sable ou des meubles solides.
 - **Faites un plan** avec votre famille : qui fait quoi, où vous vous retrouvez et comment vous vous joignez ou vous retrouvez, aussi sans téléphone ni internet. Convenez-en aussi avec vos voisins.
 - **Entraînez-vous.** Fixez à l'avance l'itinéraire vers votre abri et suivez-le en cas d'alerte.
@@ -94,10 +94,10 @@ En cas d'alerte, allez immédiatement à l'abri le plus proche.
 
 **Classement des abris, du meilleur au moins bon :**
 
-1. **Un abri officiel**, là où il en existe. En Suède, en Pologne et en Ukraine, ils sont signalés par un panneau.
+1. **Un abri officiel**, là où il en existe. Il est généralement signalé par un panneau.
 2. **Sous terre :** une cave sans fenêtres, un parking souterrain, une station de métro, un tunnel ou un passage souterrain. Une cave protège moins qu'un véritable abri.
 3. **Une pièce intérieure dans un bâtiment :** sans fenêtres, avec le moins possible de murs extérieurs, de fenêtres et de portes. Pensez à un couloir, un débarras, un dressing ou une cage d'escalier sans beaucoup de verre, près d'un mur intérieur porteur.
-4. **La règle des deux murs :** veillez à avoir au moins deux murs solides entre vous et l'extérieur. Si le mur extérieur est endommagé, le deuxième mur arrête les débris et le verre. Le guide ukrainien avertit : cette règle n'offre pas une sécurité totale. Rejoignez le plus vite possible un véritable abri.
+4. **La règle des deux murs :** veillez à avoir au moins deux murs solides entre vous et l'extérieur. Si le mur extérieur est endommagé, le deuxième mur arrête les débris et le verre. Cette règle n'offre pas une sécurité totale. Rejoignez le plus vite possible un véritable abri.
 5. **Une salle de bain** uniquement en dernier recours, et seulement si elle n'a pas de fenêtre ni de chauffe-eau ou de chaudière au gaz.
 
 ### À la maison
@@ -119,7 +119,7 @@ En cas d'alerte, allez immédiatement à l'abri le plus proche.
 
 - Jetez-vous immédiatement au sol, de préférence dans un creux, un fossé ou derrière une bordure de trottoir haute.
 - Couvrez votre tête avec vos mains ou un sac.
-- Restez à plat. Le guide ukrainien cite aussi : couvrez vos oreilles avec les paumes de vos mains et ouvrez la bouche.
+- Restez à plat. Couvrez vos oreilles avec les paumes de vos mains et ouvrez la bouche.
 - Attendez la fin de la première salve. Allez ensuite dans un espace profond près d'une sortie.
 
 **Drones.** Si vous voyez ou entendez un drone, allez immédiatement à un abri. S'il n'y a pas d'abri à proximité lorsqu'un drone largue des explosifs, déplacez-vous en zigzag et changez de direction tous les 7 à 10 mètres. Restez à l'écart des bâtiments publics, des sites stratégiques et militaires.
@@ -134,7 +134,6 @@ En cas d'alerte, allez immédiatement à l'abri le plus proche.
 
 - Repérez à l'avance les abris près de votre travail et de l'école de vos enfants.
 - Prenez l'escalier, pas l'ascenseur.
-- En Ukraine, les écoles ont leur propre abri pour les élèves et le personnel, avec au moins 2 litres d'eau potable par personne et par jour.
 
 ### Enfants
 

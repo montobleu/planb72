@@ -111,9 +111,7 @@ Quelle: [Nationales Krisenzentrum: Kernkraftwerk](https://krisenzentrum.be/de/ri
 8. Befolgen Sie die Anweisungen der Behörden über Radio oder Fernsehen und achten Sie auf Lautsprecherwagen der Polizei. Funktioniert das Netz, verfolgen Sie auch BE-Alert und die offiziellen Websites.
 9. Rufen Sie nicht an, um Informationen zu erfragen. Telefonieren Sie nur bei einem medizinischen Notfall (112). Überflüssige Anrufe überlasten das Netz. Kommt kein Anruf zustande, siehe Notrufnummern, Wenn kein Anruf möglich ist. Funktioniert das Netz, benachrichtigen Sie andere per SMS, WhatsApp oder Signal.
 
-**Haben Sie einen Keller?** Die belgischen Quellen sprechen von einem zentralen Raum im Erdgeschoss. Das amerikanische Ready.gov nennt einen Keller oder die Mitte eines großen Gebäudes als den am besten geschützten Ort, mit möglichst vielen Wänden zwischen Ihnen und draußen. Auch Gebäude aus Ziegel oder Beton und Tiefgaragen bieten guten Schutz.
-
-**Wie lange.** Schutz suchen dauert grundsätzlich höchstens 24 Stunden. Dauert die Freisetzung länger, können radioaktive Partikel allmählich durch Ritzen und Lüftungsgitter eindringen. Die Behörden können dann eine Evakuierung bestimmter Zonen anordnen. Ready.gov empfiehlt, die ersten 24 Stunden am am besten geschützten Ort zu bleiben und nur bei unmittelbarer Gefahr früher zu gehen, etwa bei Brand, einem Gasleck oder einer schweren Verletzung.
+**Wie lange.** Schutz suchen dauert grundsätzlich höchstens 24 Stunden. Dauert die Freisetzung länger, können radioaktive Partikel allmählich durch Ritzen und Lüftungsgitter eindringen. Die Behörden können dann eine Evakuierung bestimmter Zonen anordnen. Verlassen Sie Ihren Schutzort nicht früher, außer bei unmittelbarer Gefahr, etwa bei Brand, einem Gasleck oder einer schweren Verletzung.
 
 **Essen und Trinken während des Schutzsuchens.** Essen und Getränke, die drinnen standen, sind sicher. Geschlossene Verpackungen von draußen können Sie verwenden, wenn Sie sie vorher mit einem feuchten Tuch abwischen. Stecken Sie dieses Tuch in einen Plastiksack, weg von Menschen und Tieren. Essen Sie nichts aus dem Gemüsegarten und nichts, was unbedeckt draußen stand.
 
@@ -126,7 +124,7 @@ Quelle: [Nationales Krisenzentrum: Kernkraftwerk](https://krisenzentrum.be/de/ri
   3. Duschen Sie und waschen Sie sich mit Seife.
   4. Können Sie nicht duschen, wischen Sie Haut und Haare mit einem feuchten Tuch oder einem nassen Lappen ab. Verwenden Sie keine Haushaltsreinigungstücher auf der Haut. Handgel schützt nicht vor radioaktiven Stoffen.
   5. Ziehen Sie saubere Kleidung an und trinken Sie ausreichend.
-- Schon das Ausziehen der obersten Kleidungsschicht kann laut Ready.gov bis zu 90 Prozent des radioaktiven Staubs entfernen.
+- Schon das Ausziehen der obersten Kleidungsschicht kann bis zu 90 Prozent des radioaktiven Staubs entfernen.
 - Die Behörden können ein Aufnahmezentrum für die Dekontamination und eine medizinische Kontrolle einrichten.
 
 ### Im Auto

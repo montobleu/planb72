@@ -55,8 +55,6 @@ Quelle: [Gezondheid en Wetenschap: Schwere Blutung](https://www.gezondheidenwete
 10. Sickert Blut durch, legen Sie zusätzliche Tücher oder Verbandmaterial darauf und drücken Sie fester auf die Stelle, die blutet.
 11. Üben Sie weiter Druck aus, bis der Rettungsdienst eintrifft. Richtiges Drücken kann wehtun. Lassen Sie nicht los.
 
-Das amerikanische FEMA-Programm empfiehlt, keine dicken Schichten zwischen Ihren Händen und der Wunde zu lassen, weil das den Druck verringert. Die belgische Richtlinie sagt, zusätzliche Schichten auf das durchgeblutete Tuch zu legen. Folgen Sie der belgischen Richtlinie.
-
 ### Ein Gegenstand in der Wunde
 
 1. Lassen Sie den Gegenstand stecken. Ziehen Sie ihn nicht heraus.
@@ -67,7 +65,7 @@ Das amerikanische FEMA-Programm empfiehlt, keine dicken Schichten zwischen Ihren
 
 Ein Tourniquet ist nur für eine lebensbedrohliche Blutung an einem Arm oder Bein gedacht, wenn direkter Druck und ein Druckverband nicht wirken. Ein industriell hergestelltes Tourniquet ist vorzuziehen. Ein improvisiertes Tourniquet, zum Beispiel ein Gürtel, versagt oft. Sie können es als letztes Mittel versuchen, um die Blutung zumindest zu verlangsamen.
 
-1. Legen Sie das Tourniquet zwischen der Wunde und dem Rumpf an, etwa 5 bis 7,5 cm oberhalb der Wunde (die Quelle sagt 2 bis 3 Zoll). Es darf über der Kleidung liegen.
+1. Legen Sie das Tourniquet zwischen der Wunde und dem Rumpf an, etwa 5 bis 7,5 cm oberhalb der Wunde. Es darf über der Kleidung liegen.
 2. Legen Sie es nicht auf ein Gelenk, zum Beispiel Ellbogen, Knie, Handgelenk oder Knöchel. Ein Gelenk schützt die Blutgefäße, sodass Sie nicht genug Druck ausüben können.
 3. Führen Sie das Band durch die Schnalle und ziehen Sie das Ende so fest wie möglich an. Befestigen Sie es.
 4. Drehen Sie den Knebel in eine Richtung, bis die Blutung stoppt. Es ist normal, dass das wehtut.
@@ -78,14 +76,12 @@ Ein Tourniquet ist nur für eine lebensbedrohliche Blutung an einem Arm oder Bei
 
 ### Eine Blutung, bei der kein Tourniquet möglich ist (Hals, Schulter, Leiste)
 
-Die belgischen Erste-Hilfe-Richtlinien beschreiben das Austamponieren einer Wunde nicht. Das amerikanische Programm Stop the Bleed tut das:
-
 1. Füllen Sie die Wunde mit Mull aus. Haben Sie keinen Mull, verwenden Sie ein sauberes Tuch, Kleidung, Zeitungspapier oder Ihre Hände. Achten Sie auf Knochensplitter oder andere scharfe Teile in der Wunde.
 2. Drücken Sie danach fest mit beiden Händen.
 3. Halten Sie den Druck mindestens 5 Minuten lang, bevor Sie die Wunde erneut ansehen.
 4. Blutet es durch, legen Sie Verbandmaterial darauf, statt die erste Schicht zu entfernen.
 
-Die IFRC erwähnt einen blutstillenden Verband, den Sie mit direktem Druck anbringen, wenn Druck nicht ausreicht und ein Tourniquet nicht möglich oder nicht verfügbar ist.
+Reicht Druck nicht aus und ist ein Tourniquet nicht möglich oder nicht verfügbar, kann ein blutstillender Verband helfen. Sie bringen ihn mit direktem Druck an.
 
 ### Danach
 
@@ -105,7 +101,7 @@ Quelle: [Gezondheid en Wetenschap: Schwere Blutung](https://www.gezondheidenwete
 
 ## Wenn Hilfe lange auf sich warten lässt
 
-- Drücken Sie weiter. Die belgische Richtlinie sagt: Drücken Sie, bis der Rettungsdienst eintrifft.
+- Drücken Sie weiter, bis der Rettungsdienst eintrifft.
 - Ein Tourniquet kann ein Leben retten, aber auch schwere Folgen haben, bis zum Verlust der Gliedmaße, vor allem wenn es zu lange angelegt bleibt. Trotzdem bleibt es angelegt, bis der Rettungsdienst da ist. Gelöst wird es nur unter Anleitung medizinischen Fachpersonals.
 - Notieren Sie die Uhrzeit des Anlegens. Ein Tourniquet, das zu lange angelegt ist, schädigt Gewebe, und die Uhrzeit hilft dem medizinischen Personal zu entscheiden, wer zuerst behandelt werden muss.
 - Bei einer Katastrophe, einem Anschlag oder Gewalt mit vielen Verletzten dürfen Sie ein Tourniquet als erste schnelle Maßnahme verwenden: um vielen Verletzten gleichzeitig zu helfen oder um jemanden mit einer lebensbedrohlichen Blutung schnell aus dem Gefahrenbereich zu bringen.
@@ -137,7 +133,7 @@ Quelle: [Gezondheid en Wetenschap: Schwere Blutung](https://www.gezondheidenwete
 
 - Entfernen Sie keinen Verband und kein Tuch, das bereits auf der Blutung liegt.
 - Ziehen Sie keinen Gegenstand aus der Wunde.
-- Drücken Sie nicht auf "Druckpunkte" an anderen Stellen des Körpers. Die IFRC rät davon ab.
+- Drücken Sie nicht auf "Druckpunkte" an anderen Stellen des Körpers.
 - Legen Sie kein Tourniquet an, wenn Druck die Blutung stoppt. Außerhalb einer starken Blutung kann ein Tourniquet Schaden anrichten.
 - Legen Sie ein Tourniquet nur an einem Arm oder Bein an, und nicht auf einem Gelenk.
 - Lösen Sie ein Tourniquet nicht und entfernen Sie es nicht.

@@ -97,7 +97,7 @@ Source: [Gezondheid en Wetenschap: Burns](https://www.gezondheidenwetenschap.be/
 
 ## If help is a long time coming
 
-The IFRC gives solutions for when there is no tap water or dressing material:
+Solutions for when there is no tap water or dressing material:
 
 - No running water: cool with another cool liquid, such as juice or milk.
 - Little water: put a bowl under the burn and pour the water over the wound into the bowl. That way you can reuse the water. This works better than holding the wound in a bowl of water, because the body warms up still water.
@@ -144,6 +144,6 @@ Source: [Gezondheid en Wetenschap: Burns](https://www.gezondheidenwetenschap.be/
 - Do not try to dilute a swallowed corrosive product. Call 112 or the Poison Centre. If you cannot get through, see Call 112 if.
 - Without medical advice, do not put anything other than clean water into an eye with a chemical product in it.
 - Do not touch the casualty of an electrical accident as long as the power is not off.
-- Do not use an ointment containing silver sulfadiazine. The IFRC says that it is associated with poorer healing.
+- Do not use an ointment containing silver sulfadiazine. It is associated with poorer healing.
 
 Source: [Gezondheid en Wetenschap: Burns](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-brandwonden) · [IFRC Guidelines 2020](https://www.ifrc.org/sites/default/files/2022-02/EN_GFARC_GUIDELINES_2020.pdf) · [Gezondheid en Wetenschap: Electrical accident](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-een-elektriciteitsongeval)

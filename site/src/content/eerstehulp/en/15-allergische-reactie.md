@@ -91,7 +91,7 @@ Source: [Gezondheid en Wetenschap: Anaphylactic shock](https://www.gezondheidenw
 
 ## If help is a long time coming
 
-- According to the IFRC, a second auto-injector may be considered if the emergency services have not yet arrived and the casualty does not improve within 5 to 10 minutes of the first. This only applies to the casualty's own prescribed auto-injector. Even then the Belgian rule applies: the casualty uses it themselves, and you only administer it at their explicit request if they can no longer do it themselves.
+- A second auto-injector may be considered if the emergency services have not yet arrived and the casualty does not improve within 5 to 10 minutes of the first. This only applies to the casualty's own prescribed auto-injector. Even then the casualty uses it themselves, and you only administer it at their explicit request if they can no longer do it themselves.
 - If the casualty has no auto-injector, try every way of reaching medical help: 112 and a GP nearby.
 - A severe allergic reaction can come back after everything seemed to be over, between 1 and 78 hours after the start. This happens more often after a severe reaction or if more than one auto-injector was needed. So monitor someone who has had a severe reaction or received an auto-injector for the 3 days afterwards.
 - Keep checking the level of consciousness and the breathing regularly. If the casualty becomes unconscious and is not breathing normally, perform CPR.

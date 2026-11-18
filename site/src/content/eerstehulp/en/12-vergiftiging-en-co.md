@@ -102,7 +102,7 @@ Source: [Gezondheid en Wetenschap: Poisoning](https://www.gezondheidenwetenschap
 - Place the casualty on their left side and monitor the breathing and level of consciousness continuously. Symptoms may only appear later.
 - Write down what happened: which product, how much, by which route and at what time. Keep packaging and labels. That information helps the emergency responders give the right care.
 - Do not induce vomiting. Do not give milk, water or activated charcoal, unless the Poison Centre explicitly says so.
-- If the network is working, you can also call the doctor on duty: 1733. The Poison Centre mentions that number.
+- If the network is working, you can also call the doctor on duty: 1733.
 - Prevent new cases: never leave an engine running in an enclosed space such as a garage. This applies to all combustion engines. Keep ventilation grilles clear and ventilate regularly. A CO alarm warns of raised concentrations, but does not prevent CO.
 
 Source: [IFRC Guidelines 2020](https://www.ifrc.org/sites/default/files/2022-02/EN_GFARC_GUIDELINES_2020.pdf) · [Gezondheid en Wetenschap: Poisoning by inhalation](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-inademing-van-giftige-stoffen) · [Gezondheid en Wetenschap: CO poisoning](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-co-vergiftiging) · [Poison Centre: When to call?](https://www.antigifcentrum.be/wanneer-bellen/) · [Poison Centre: CO campaign](https://www.antigifcentrum.be/co-campagne/)

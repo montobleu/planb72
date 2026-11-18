@@ -81,7 +81,7 @@ Bei großer Unsicherheit kann eine Warnstufe auch kurzfristiger kommen.
 
 **Wie Sie die Warnungen erhalten**
 
-1. **Radio.** Das Krisenzentrum nennt Radio und Fernsehen als ersten Weg, die Wettervorhersage zu verfolgen. Bei einer Stromunterbrechung können Internet und Mobilfunknetze ausfallen: Halten Sie dann ein batteriebetriebenes Radio, ein Kurbelradio oder das Autoradio bereit (Krisenzentrum, FÖD Wirtschaft).
+1. **Radio.** Verfolgen Sie die Wettervorhersage in erster Linie über Radio und Fernsehen. Bei einer Stromunterbrechung können Internet und Mobilfunknetze ausfallen: Halten Sie dann ein batteriebetriebenes Radio, ein Kurbelradio oder das Autoradio bereit.
 2. **Funktioniert das Internet,** schauen Sie auch auf die Website oder in die App des KMI.
 3. **Das Wetter selbst lesen.** Wolken und Donner verraten Ihnen auch etwas, vor allem draußen (siehe Wolken und Gewitter lesen).
 
@@ -94,7 +94,7 @@ Bei großer Unsicherheit kann eine Warnstufe auch kurzfristiger kommen.
 - Das KMI sagt das Wetter vorher, nicht den Schaden. Ob es zu Wasserschäden kommt, hängt auch von den örtlichen Gegebenheiten ab.
 - Das KMI gibt auch eine Warnung vor **Kohlenmonoxidvergiftung** heraus (ohne Farbe), wenn windstilles Wetter mit einer starken Temperaturinversion den Abzug von Rauchgasen behindert.
 
-**Schwellenwerte pro Farbe** (wie das KMI sie veröffentlicht)
+**Schwellenwerte pro Farbe**
 
 | Phänomen | Gelb | Orange | Rot |
 | --- | --- | --- | --- |
@@ -121,7 +121,7 @@ Quelle: [KMI: Erläuterungen zu unseren Warnungen](https://www.meteo.be/de/wette
 
 ## Wolken und Gewitter lesen
 
-Draußen, oder ohne Radio und Internet, können Sie selbst auf Zeichen am Himmel achten. PlanB72 nimmt nur Wetterzeichen auf, die das KMI selbst beschreibt. Volksweisheiten über das Wetter lassen wir weg.
+Draußen, oder ohne Radio und Internet, können Sie selbst auf Zeichen am Himmel achten. Volksweisheiten über das Wetter lassen wir weg.
 
 - **Kleine Wolkenflocken mit Türmchen** (Altocumulus castellanus, eine Art hoher Quellwolken) deuten darauf hin, dass später am Tag ein Gewitter folgen kann.
 - **Wolken mit starkem, säulenförmigem vertikalem Wachstum** (Cumulonimbus, die eigentlichen Gewitterwolken) kündigen an, dass gleich oder in der Nähe ein Gewitter möglich ist. Ein Gewitter gehört immer zu einem Cumulonimbus.
@@ -155,7 +155,7 @@ Quelle: [KMI: Wie schütze ich mich vor Blitzschlag?](https://www.meteo.be/nl/sw
 - Parken Sie nicht in der Nähe von Bäumen.
 - Bei Blitzschlag: Halten Sie sich von Metallkonstruktionen fern, laufen Sie nicht, bleiben Sie stehen und gehen Sie in die Hocke.
 
-**Draußen in einem Wald oder im Gelände:** Die US-Armee empfiehlt, Ihren Unterschlupf nicht unter toten Bäumen oder losen Ästen zu bauen, die herabfallen können. Bei den KMI-Windstufen liegt der Schwellenwert zwischen dem 15. April und dem 15. November niedriger, weil die Bäume dann Laub tragen.
+**Draußen in einem Wald oder im Gelände:** Bauen Sie Ihren Unterschlupf nicht unter toten Bäumen oder losen Ästen, die herabfallen können. Bei den KMI-Windstufen liegt der Schwellenwert zwischen dem 15. April und dem 15. November niedriger, weil die Bäume dann Laub tragen.
 
 Quelle: [Nationales Krisenzentrum: Wind und Sturm](https://krisenzentrum.be/de/risiken-belgien/naturrisiken/wind-und-sturm) · [KMI: Erläuterungen zu unseren Warnungen](https://www.meteo.be/de/wetter/warnungen/erklarung-warnungen) · [US Army FM 21-76](https://archive.org/details/fm-21-76-survival-manual)
 
@@ -174,7 +174,7 @@ Quelle: [Nationales Krisenzentrum: Wind und Sturm](https://krisenzentrum.be/de/r
 Schlagen Sie dies vorab nach, wenn das Internet funktioniert:
 
 - Auf der **Watertoets-Karte** von Waterinfo Vlaanderen sehen Sie die überschwemmungsgefährdeten Gebiete (Fassung 2019) und die Karten zum Watertoets-Erlass.
-- Das Krisenzentrum empfiehlt, sich über die Zonen zu informieren, die überschwemmungsgefährdet sind.
+- Informieren Sie sich über die Zonen, die überschwemmungsgefährdet sind.
 - Bei Hochwasser finden Sie auf **Waterinfo** aktuelle Wasserstände und Vorhersagen für Überschwemmung, Niederschlag, Trockenheit und Gezeiten. Ohne Internet: Hören Sie Radio.
 
 **Draußen im Gelände**
@@ -190,7 +190,7 @@ Quelle: [Nationales Krisenzentrum: Flussüberschwemmung](https://krisenzentrum.b
 
 ## Küste und Gezeiten
 
-**Wie Gezeiten funktionieren.** Ebbe und Flut entstehen durch die Anziehungskraft des Mondes und in geringerem Maß der Sonne. An der niederländischen Küste gibt es zweimal Hochwasser und zweimal Niedrigwasser je 24 Stunden und 50 Minuten; ein Gezeitenzyklus dauert ungefähr 12 Stunden und 25 Minuten.
+**Wie Gezeiten funktionieren.** Ebbe und Flut entstehen durch die Anziehungskraft des Mondes und in geringerem Maß der Sonne. An der Küste gibt es zweimal Hochwasser und zweimal Niedrigwasser je 24 Stunden und 50 Minuten; ein Gezeitenzyklus dauert ungefähr 12 Stunden und 25 Minuten.
 
 | Gezeit | Wann | Folge |
 | --- | --- | --- |
@@ -216,12 +216,12 @@ Quelle: [Rijkswaterstaat: Gezeiten](https://www.rijkswaterstaat.nl/water/waterda
 
 ## Flüsse und Bäche durchqueren: nicht tun
 
-PlanB72 gibt keine Techniken an, um einen Fluss zu durchqueren. Militärische Überlebenshandbücher beschreiben diese, für Soldaten, die dafür ausgebildet und ausgerüstet sind. Für Bürger sagen die Quellen:
+PlanB72 gibt keine Techniken an, um einen Fluss zu durchqueren: Diese sind für Soldaten gedacht, die dafür ausgebildet und ausgerüstet sind. Für Bürger gilt:
 
 - **Gehen, schwimmen oder fahren Sie nicht durch fließendes Wasser.** Schon 15 cm fließendes Wasser können Sie umwerfen. Kehren Sie um.
 - In Belgien ist **Schwimmen in schiffbaren Wasserläufen** (Flüsse, Kanäle, Hafenbecken) dort verboten, wo es nicht erlaubt ist. Viele Gewässer in Naturgebieten sind verschmutzt, zu tief, zu kalt oder auf andere Weise gefährlich.
 - Brücken über schnell fließendem Wasser können ohne Vorwarnung weggespült werden.
-- Auch die militärischen Handbücher nennen Stellen, die Sie meiden müssen: eine Felsleiste quer über den Fluss (weist oft auf gefährliche Stromschnellen hin), eine Flussmündung (breit, starke Strömung, Gezeiten) und Strudel (die Sie unter Wasser ziehen können).
+- Meiden Sie auch diese Stellen: eine Felsleiste quer über den Fluss (weist oft auf gefährliche Stromschnellen hin), eine Flussmündung (breit, starke Strömung, Gezeiten) und Strudel (die Sie unter Wasser ziehen können).
 
 **Jemand ist ins Wasser gefallen:** Sorgen Sie für Ihre eigene Sicherheit, versuchen Sie zu retten, ohne selbst ins Wasser zu gehen, rufen Sie 112 an oder lassen Sie jemanden anrufen. Kommt kein Anruf zustande, schicken Sie jemanden los, um Hilfe zu holen (siehe den Leitfaden zu Gefahren in der Natur, Kommt kein Anruf zustande). Gehen Sie nur ins Wasser, wenn Sie dafür ausgebildet sind: Ein Ertrinkender, der bei Bewusstsein ist, klammert sich in Panik an den Retter.
 
@@ -239,9 +239,9 @@ Quelle: [Nationales Krisenzentrum: Schnee](https://krisenzentrum.be/de/risiken-b
 
 ## Berge und Schnee: für Reisende
 
-**Notrufnummern.** 112 funktioniert in der ganzen EU und in der Schweiz. In der Schweiz können Sie die Luftrettung Rega auch direkt unter 1414 anrufen oder aus dem Ausland unter +41 333 333 333; die Rega selbst empfiehlt vor allem ihre Notfall-App. Der Deutsche Alpenverein empfiehlt, die Nummern der örtlichen Bergrettung in Ihrem Telefon zu speichern. Ohne Empfang: das alpine Notsignal (sechs Signale pro Minute, siehe den Leitfaden zu Signalen). Sind Sie in einer Gruppe und gibt es einen Verletzten, schicken Sie zwei oder mehr Personen los, um Alarm zu schlagen; die anderen bleiben bei dem Verletzten (siehe den Leitfaden zum Notruf).
+**Notrufnummern.** 112 funktioniert in der ganzen EU und in der Schweiz. In der Schweiz können Sie die Luftrettung Rega auch direkt unter 1414 anrufen oder aus dem Ausland unter +41 333 333 333; die Rega selbst empfiehlt vor allem ihre Notfall-App. Speichern Sie die Nummern der örtlichen Bergrettung in Ihrem Telefon. Ohne Empfang: das alpine Notsignal (sechs Signale pro Minute, siehe den Leitfaden zu Signalen). Sind Sie in einer Gruppe und gibt es einen Verletzten, schicken Sie zwei oder mehr Personen los, um Alarm zu schlagen; die anderen bleiben bei dem Verletzten (siehe den Leitfaden zum Notruf).
 
-**Die europäische Lawinengefahrenskala** (EAWS, in allen Alpenländern verwendet)
+**Die europäische Lawinengefahrenskala** (in allen Alpenländern verwendet)
 
 | Stufe | Name | Was sie bedeutet | Wie oft |
 | --- | --- | --- | --- |
@@ -249,11 +249,11 @@ Quelle: [Nationales Krisenzentrum: Schnee](https://krisenzentrum.be/de/risiken-b
 | 2 | Mäßig | Erhöhte Gefahr an bestimmten Stellen. Auslösung möglich, vor allem bei großer Zusatzbelastung an den angegebenen Steilhängen. Oft keine Alarmzeichen, was nicht heißt, dass es sicher ist. | Ungefähr 50 Prozent der Saison, ungefähr 30 Prozent der Toten |
 | 3 | Erheblich | Gefährlich. Auslösung möglich, auch bei geringer Zusatzbelastung. Frische Lawinen, Risse und "Wumm"-Geräusche. | Ungefähr 30 Prozent der Saison, ungefähr 50 Prozent der Toten |
 | 4 | Groß | Sehr gefährlich. Auslösung wahrscheinlich, auch bei geringer Belastung, an vielen Steilhängen. Viele große spontane Lawinen möglich. | Einige Tage pro Winter, ungefähr 10 Prozent der Toten |
-| 5 | Sehr groß | Außergewöhnlich. Zahlreiche sehr große spontane Lawinen, auch in mäßig steilem Gelände. | Sehr selten, ungefähr 1 Prozent der Toten (SLF) |
+| 5 | Sehr groß | Außergewöhnlich. Zahlreiche sehr große spontane Lawinen, auch in mäßig steilem Gelände. | Sehr selten, ungefähr 1 Prozent der Toten |
 
 Die gefährlichste Stufe für alle, die abseits der Piste unterwegs sind, ist in der Praxis Stufe 3: Dort gibt es die meisten Toten.
 
-**Was das Schweizer Lawineninstitut SLF empfiehlt**
+**Was Sie auf jeder Stufe tun**
 
 | Stufe | Rat |
 | --- | --- |
@@ -265,7 +265,7 @@ Die gefährlichste Stufe für alle, die abseits der Piste unterwegs sind, ist in
 
 Eine Gefahrenstufe gilt für eine ganze Region, nicht für einen einzelnen Hang, und ist immer eine Vorhersage, die Sie vor Ort beurteilen müssen.
 
-**Bewegen in Bergen und Schnee** (US-Armee)
+**Bewegen in Bergen und Schnee**
 
 - Meiden Sie Stellen, an denen Lawinen aus Erde, Fels oder Schnee abgehen können, und tiefe Spalten in Eisfeldern.
 - Leeseiten (die vom Wind abgewandte Seite) sammeln Schnee, der von der Luvseite weggeweht wurde, und bilden Schneebretter.

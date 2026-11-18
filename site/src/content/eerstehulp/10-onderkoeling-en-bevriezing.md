@@ -83,8 +83,8 @@ Bron: [Gezondheid en Wetenschap: Onderkoeling](https://www.gezondheidenwetenscha
 1. Kijk eerst of de persoon ook onderkoeld is. Onderkoeling is ernstiger en gaat voor.
 2. Breng de persoon zo snel mogelijk naar een warme ruimte of schuilplaats. Doe natte kleding uit en warm hem op onder droge dekens en kleding.
 3. Doe voorzichtig juwelen uit als dat kan zonder de huid te beschadigen.
-4. Warm het bevroren deel alleen op als er geen risico is dat het opnieuw bevriest. De IFRC raadt opwarmen ter plaatse alleen aan als je de middelen hebt en medische zorg meer dan 2 uur weg is.
-5. Dompel het bevroren deel in warm water dat aangenaam aanvoelt op een gezond stuk huid. De IFRC geeft 37 tot 39 °C. Warm op tot de huid rood of paars kleurt en weer zacht en soepel aanvoelt, meestal na ongeveer 30 minuten.
+4. Warm het bevroren deel alleen op als er geen risico is dat het opnieuw bevriest. Warm het alleen ter plaatse op als je de middelen hebt en medische zorg meer dan 2 uur weg is.
+5. Dompel het bevroren deel in warm water van 37 tot 39 °C, dat aangenaam aanvoelt op een gezond stuk huid. Warm op tot de huid rood of paars kleurt en weer zacht en soepel aanvoelt, meestal na ongeveer 30 minuten.
 6. Heb je geen warm water, warm het deel dan op met lichaamswarmte, bijvoorbeeld bevroren vingers in de oksel.
 7. Wrijf of masseer niet en ga niet ruw om met de huid.
 8. Dek het deel af met steriel gaas. Zijn vingers of tenen bevroren, leg dan gaas tussen elke vinger of teen.
@@ -101,7 +101,7 @@ Bron: [Gezondheid en Wetenschap: Onderkoeling](https://www.gezondheidenwetenscha
 - Geef een warme, niet-alcoholische drank aan wie goed bij bewustzijn is en kan slikken. Geef niets aan iemand die bewusteloos is.
 - Hou het slachtoffer na het opwarmen droog en ingepakt, ook hoofd en nek.
 - Onderkoelde mensen in hartstilstand moeten ononderbroken gereanimeerd worden tot ze opnieuw opgewarmd zijn. De kansen op herstel na een hartstilstand door lichte tot matige onderkoeling zijn uitstekend. Bij onderkoeling is er een kans dat de persoon reageert op reanimatie, ook zonder defibrillator. Moet je het slachtoffer vervoeren, reanimeer dan ononderbroken op een harde ondergrond tijdens het vervoer.
-- Bevriezing: de IFRC raadt aan om bevroren lichaamsdelen alleen op te warmen als je de nodige middelen hebt, als medische zorg meer dan 2 uur weg is en als het deel niet opnieuw kan bevriezen. Is medische zorg dichterbij, dan warm je het deel niet zelf op.
+- Bevriezing: warm bevroren lichaamsdelen alleen op als je de nodige middelen hebt, als medische zorg meer dan 2 uur weg is en als het deel niet opnieuw kan bevriezen. Is medische zorg dichterbij, dan warm je het deel niet zelf op.
 - Laat iemand met bevroren voeten of tenen niet stappen, tenzij het echt moet. Dat vergroot de schade.
 - Na het opwarmen mag je aloë vera op de bevroren huid aanbrengen.
 - Laat iemand weten waar je naartoe gaat en wanneer je terug wil zijn als je naar een koude, afgelegen plek gaat.
@@ -116,7 +116,7 @@ Bron: [IFRC Guidelines 2020](https://www.ifrc.org/sites/default/files/2022-02/EN
 - de lichaamstemperatuur onder 35 °C ligt;
 - het slachtoffer bewusteloos is of niet normaal ademt: start dan ook reanimatie.
 
-De IFRC raadt aan om bij elke onderkoeling medische hulp te vragen. Laat bevriezing altijd door een arts nakijken.
+Vraag bij elke onderkoeling medische hulp. Laat bevriezing altijd door een arts nakijken.
 
 **Lukt bellen niet**
 

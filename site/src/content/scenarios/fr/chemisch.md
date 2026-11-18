@@ -73,16 +73,16 @@ Source : [Centre de crise National](https://centredecrise.be/fr/risques-en-belgi
 
 - **Connaissez votre quartier.** Vérifiez à l'avance sur seveso.be si vous habitez, travaillez ou allez à l'école à proximité d'une entreprise Seveso. Les entreprises Seveso travaillent avec des substances dangereuses.
 - **Inscrivez-vous à BE-Alert.** En plus de votre adresse de domicile, ajoutez d'autres adresses : votre travail, l'école ou la garderie de vos enfants, l'adresse d'un proche vulnérable.
-- **Choisissez votre pièce de mise à l'abri.** Les autorités belges recommandent une pièce centrale au rez-de-chaussée, loin des fenêtres et des portes extérieures. Les murs et les plafonds protègent mieux que les fenêtres. Choisissez une pièce avec le moins possible de fenêtres et de portes donnant sur l'extérieur.
+- **Choisissez votre pièce de mise à l'abri :** une pièce centrale au rez-de-chaussée, loin des fenêtres et des portes extérieures. Les murs et les plafonds protègent mieux que les fenêtres. Choisissez une pièce avec le moins possible de fenêtres et de portes donnant sur l'extérieur.
 - **Sachez comment arrêter la ventilation.** Cherchez à l'avance comment arrêter la ventilation mécanique, la climatisation et l'entrée d'air du chauffage.
-- **Préparez du matériel pour boucher les fentes.** Le site américain Ready.gov conseille de préparer du film plastique, du ruban adhésif solide et des ciseaux pour couvrir les portes, les fenêtres et les grilles. Des essuies mouillés conviennent aussi.
+- **Préparez du matériel pour boucher les fentes :** du film plastique, du ruban adhésif solide et des ciseaux pour couvrir les portes, les fenêtres et les grilles. Des essuies mouillés conviennent aussi.
 - **Préparez un kit d'urgence** avec de l'eau, de la nourriture, une radio à piles ou à manivelle, une lampe de poche, des médicaments et une batterie externe chargée.
 - **Prenez des accords** avec les personnes qui vivent avec vous et vos voisins : qui fait quoi, et comment vous joindre sans téléphone ni internet.
 - **Posez une liste papier** des numéros de téléphone importants avec votre kit d'urgence.
 
-**Différence entre les sources sur l'étage.** Les autorités belges recommandent une pièce centrale au rez-de-chaussée. Le Bezirksamt Pankow à Berlin et Ready.gov conseillent, en cas de gaz, une pièce à un étage supérieur ou au-dessus du sol, parce que la plupart des gaz sont plus lourds que l'air et descendent. En Belgique, suivez l'avis belge. Si les autorités donnent une autre consigne pour une substance précise, suivez cette consigne.
+Si les autorités donnent une autre consigne pour une substance précise, suivez cette consigne.
 
-Source : [Centre de crise National : Seveso](https://centredecrise.be/fr/risques-en-belgique/risques-economiques-et-technologiques/incident-dans-une-installation-seveso) · [Seveso.be](https://www.seveso.be/fr/entreprises-seveso) · [BE-Alert](https://www.be-alert.be/fr/comment-serez-vous-alerte/alerte-ou-que-vous-soyez) · [Ready.gov](https://www.ready.gov/chemical) · [Bezirksamt Pankow](https://www.berlin.de/ba-pankow/politik-und-verwaltung/beauftragte/katastrophenschutz/artikel.1640880.php) · [Centre de crise National : Préparés ensemble](https://centredecrise.be/sites/default/files/documents/files/WEB-Brochure-Pr%C3%AAts.%20Ensemble-FR.pdf) · [Centre de crise National : plan dans votre quartier](https://centredecrise.be/fr/que-pouvez-vous-faire/faites-un-plan/un-plan-dans-votre-quartier-ou-votre-association)
+Source : [Centre de crise National : Seveso](https://centredecrise.be/fr/risques-en-belgique/risques-economiques-et-technologiques/incident-dans-une-installation-seveso) · [Seveso.be](https://www.seveso.be/fr/entreprises-seveso) · [BE-Alert](https://www.be-alert.be/fr/comment-serez-vous-alerte/alerte-ou-que-vous-soyez) · [Ready.gov](https://www.ready.gov/chemical) · [Centre de crise National : Préparés ensemble](https://centredecrise.be/sites/default/files/documents/files/WEB-Brochure-Pr%C3%AAts.%20Ensemble-FR.pdf) · [Centre de crise National : plan dans votre quartier](https://centredecrise.be/fr/que-pouvez-vous-faire/faites-un-plan/un-plan-dans-votre-quartier-ou-votre-association)
 
 ## Pendant
 
@@ -110,8 +110,6 @@ Se mettre à l'abri est la meilleure protection. La mise à l'abri est temporair
 1. Éloignez-vous de l'accident, de préférence perpendiculairement à la direction du vent.
 2. Respirez à travers un tissu, au minimum à travers un mouchoir.
 3. Entrez dans le bâtiment fermé le plus proche. Demandez à pouvoir entrer et suivez-y les mêmes étapes qu'à la maison.
-
-Ready.gov conseille d'aller du côté d'où vient le vent par rapport à la source. Les autorités belges et allemandes conseillent de s'éloigner perpendiculairement au vent. Suivez l'avis belge.
 
 **Vous avez été en contact avec une substance suspecte ?**
 

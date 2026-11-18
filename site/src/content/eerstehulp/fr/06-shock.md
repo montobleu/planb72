@@ -27,7 +27,7 @@ origineel_datum: "2026-11-18"
 
 ## Reconnaître
 
-Le choc signifie que la circulation sanguine est défaillante : les organes et les tissus ne reçoivent pas assez de sang et donc pas assez d'oxygène. Le choc est toujours causé par autre chose. L'IFRC cite comme causes :
+Le choc signifie que la circulation sanguine est défaillante : les organes et les tissus ne reçoivent pas assez de sang et donc pas assez d'oxygène. Le choc est toujours causé par autre chose. Les causes possibles sont :
 
 - une hémorragie grave, externe ou interne (la cause la plus fréquente) ;
 - des brûlures très graves, où du liquide s'échappe des vaisseaux sanguins dans la brûlure ;

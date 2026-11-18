@@ -75,7 +75,7 @@ Source: [National Crisis Center](https://crisiscenter.be/en/risks-belgium/natura
 
 ### Your home on the edge of woodland or heath
 
-The Dutch fire service gives these tips for homes close to nature:
+If you live close to nature:
 
 - Clean the roof and gutters at least twice a year, in spring and autumn. Do it more often in dry periods.
 - Have the flue swept and fit a spark arrester.
@@ -94,7 +94,7 @@ The Dutch fire service gives these tips for homes close to nature:
 - Keep identity cards, medication, water, things for pets and phones together in a fixed place.
 - Know your escape route, also when the roads are busy. On foot or by bicycle can be quicker and safer than by car.
 - Agree in advance with family or friends where you can go.
-- Have an emergency kit ready. Ready.gov recommends also keeping an N95 face mask against smoke.
+- Have an emergency kit ready, including an N95 face mask against smoke.
 
 Source: [National Crisis Center](https://crisiscenter.be/en/risks-belgium/natural-risks/wildfires) · [Service public de Wallonie](https://environnement.wallonie.be/feux) · [Brandweer Nederland: home](https://www.brandweer.nl/onderwerpen/natuurbrand-voorkomen-tips-vakantieverblijf/) · [Brandweer Nederland: day out](https://www.brandweer.nl/onderwerpen/natuurbrand-voorkomen-tips-dagje-uit/) · [Brandweer Nederland: nearby](https://www.brandweer.nl/onderwerpen/natuurbrand-in-de-buurt/) · [National Crisis Center: evacuating](https://crisiscenter.be/en/what-can-you-do/right-reflex/evacuate) · [Ready.gov](https://www.ready.gov/wildfires)
 
@@ -107,8 +107,8 @@ Source: [National Crisis Center](https://crisiscenter.be/en/risks-belgium/natura
 - Do not evacuate on your own initiative. Wait for the recommendations of the authorities via the radio and loudspeaker vans, and if the network works via BE-Alert.
 - Check whether neighbours, older people and people with a disability need help.
 - If you have to leave: shut off the electricity and gas, take your emergency kit and leave immediately.
-- If you cannot get away and there is no order to leave: stay inside with windows and doors closed. In case of smoke, Ready.gov advises staying in a room that you can seal off from the outside air, and setting the ventilation to recirculation or closing the air intake.
-- If you are really trapped: turn on the lights so that rescuers can find you. Call 112 and give your location. Expect delays. This is what the American Ready.gov advises.
+- If you cannot get away and there is no order to leave: stay inside with windows and doors closed. In case of smoke: stay in a room that you can seal off from the outside air, and set the ventilation to recirculation or close the air intake.
+- If you are really trapped: turn on the lights so that rescuers can find you. Call 112 and give your location. Expect delays.
 
 ### Outdoors or on the move
 
@@ -143,7 +143,7 @@ Do not take risks and follow the instructions of the fire service and forest ran
 
 ### Vulnerable people
 
-- People with asthma, COPD or another lung disease are particularly sensitive to smoke. Limit their exposure. Ready.gov recommends an N95 mask or a sealed room with an air purifier.
+- People with asthma, COPD or another lung disease are particularly sensitive to smoke. Limit their exposure with an N95 mask or a sealed room with an air purifier.
 - If you are ill, contact your doctor.
 - In your emergency plan, arrange helpers near people with reduced mobility. Offer them a lift in an evacuation.
 

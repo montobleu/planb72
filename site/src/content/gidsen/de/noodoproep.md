@@ -102,7 +102,7 @@ In Belgien gibt es zwei Nummern für dringende Hilfe. Sie funktionieren nur, wen
 
 **Brauchen Sie die Polizei? Rufen Sie direkt 101 an.** Über 112 werden Sie weiterverbunden, und das kostet Zeit.
 
-**Falsche Anrufe und versehentliches Anrufen.** Scherzanrufer riskieren eine Verfolgung und eine strafrechtliche Verurteilung, auch für SMS an die Not-SMS-Nummern. Laut Europäischer Kommission ist ein falscher Anruf in den meisten Ländern eine Straftat. Haben Sie versehentlich angerufen, legen Sie nicht auf und sagen Sie dem Disponenten, dass alles in Ordnung ist.
+**Falsche Anrufe und versehentliches Anrufen.** Scherzanrufer riskieren eine Verfolgung und eine strafrechtliche Verurteilung, auch für SMS an die Not-SMS-Nummern. In den meisten EU-Ländern ist ein falscher Anruf eine Straftat. Haben Sie versehentlich angerufen, legen Sie nicht auf und sagen Sie dem Disponenten, dass alles in Ordnung ist.
 
 Quelle: [112.be: Andere Notrufnummern](https://112.be/de/andere-notrufnummern) · [112.be: Häufig gestellte Fragen](https://112.be/de/haeufig-gestellte-fragen) · [Zivile Sicherheit: What do the emergency centres 112 do?](https://securitecivile.be/de/was-tun-die-notrufzentralen-112) · [Nationales Krisenzentrum: Broschüre Gemeinsam vorbereitet](https://krisenzentrum.be/sites/default/files/documents/files/WEB-Brosch%C3%BCre%20Gemeinsam%20Vorbereitet-DE.pdf) · [112.be: Für Gehörlose](https://112.be/de/fuer-gehoerlose) · [Europäische Kommission: 112](https://digital-strategy.ec.europa.eu/en/policies/112)
 
@@ -123,7 +123,7 @@ Quelle: [112.be: Wie rufe ich die 112 an?](https://112.be/de/how-call/wie-rufe-i
 
 ## Welche Fragen der Disponent stellt
 
-Das Rote Kreuz und 112.be verwenden drei Fragen. Kennen Sie die Antworten, bevor Sie anrufen.
+Der Disponent stellt drei Fragen. Kennen Sie die Antworten, bevor Sie anrufen.
 
 - **Wo?** Gemeinde, Straße und Hausnummer, oder eine Kreuzung oder ein auffälliger Orientierungspunkt. Wie die Hilfsdienste am einfachsten dorthin gelangen. Rufen Sie nicht vom Ort des Vorfalls aus an, sagen Sie das.
 - **Was?** Was geschehen ist (Brand, Unfall, Aggression, Herzinfarkt) und ob es Gefahren gibt, für die spezialisierte Hilfe nötig ist: jemand eingeklemmt, Explosionsgefahr, ein Hochspannungskabel am Boden.
@@ -147,7 +147,7 @@ Ohne Standort kann die Notrufzentrale keine Hilfe schicken. Geben Sie die Adress
 
 **Machen Sie es den Hilfsdiensten leicht:** eine große, von der Straße aus lesbare Hausnummer, jemand, der die Hilfsdienste an der Straße erwartet (oder sonst die Tür offen, wenn die Notrufzentrale darum bittet), abends die Außenbeleuchtung an, Haustiere in einem geschlossenen Raum, Durchgänge frei.
 
-**Automatische Standortbestimmung (AML).** Ohne automatische Lokalisierung sieht die Notrufzentrale bei einem Handyanruf nur den Versorgungsbereich des Mobilfunkmasts, auf dem Land manchmal mehrere Quadratkilometer. Seit Ende Juni 2017 übermittelt Ihr Gerät mit AML (Advanced Mobile Location) bei einem Anruf bei 112 oder 101 selbst seine Position, bis zu 4.000-mal genauer. Laut der Pressemitteilung von 2017 funktionierte das damals auf Android mit einer belgischen SIM-Karte, und für das iPhone brauchten Sie die App 112 BE. Ob sich das geändert hat, steht nicht auf 112.be: Geben Sie Ihren Standort also immer auch mündlich durch.
+**Automatische Standortbestimmung (AML).** Ohne automatische Lokalisierung sieht die Notrufzentrale bei einem Handyanruf nur den Versorgungsbereich des Mobilfunkmasts, auf dem Land manchmal mehrere Quadratkilometer. Seit Ende Juni 2017 übermittelt Ihr Gerät mit AML (Advanced Mobile Location) bei einem Anruf bei 112 oder 101 selbst seine Position, bis zu 4.000-mal genauer. 2017 funktionierte das auf Android mit einer belgischen SIM-Karte; für das iPhone brauchten Sie die App 112 BE. Geben Sie Ihren Standort also immer auch mündlich durch.
 
 Quelle: [Rode Kruis-Vlaanderen: Unterrichtspaket 112 anrufen](https://www.rodekruis.be/storage/main/wehdag-2018-lespakket-112-bellen-handleiding.pdf) · [112.be: Häufig gestellte Fragen](https://112.be/de/haeufig-gestellte-fragen) · [Nationales Krisenzentrum: Naturbrand](https://krisenzentrum.be/de/risiken-belgien/naturrisiken/naturbrand) · [FÖD Inneres: Pressemitteilung AML und App 112 BE](http://kcce.eu/sites/default/files/persbericht_2017-07-13-localisatie_app112be_2.pdf)
 
@@ -179,7 +179,7 @@ Quelle: [FÖD Wirtschaft: Fragen von Haushalten zur Stromknappheit](https://econ
 4. Sind 112 und 101 wegen eines technischen Problems nicht erreichbar, können pro Provinz **drei vorübergehende Handynummern** aktiviert werden. Meist sind sie nicht aktiv. Verwenden Sie sie nur im Notfall.
 5. Sind auch diese nicht erreichbar: Rufen Sie direkt ein **Krankenhaus**, die **Feuerwehrzone** oder die **lokale Polizei** an.
 
-**Vorübergehende Handynummern pro Provinz** (nur aktiv während einer Störung von 112 und 101, laut 112.be am 17. November 2026):
+**Vorübergehende Handynummern pro Provinz** (nur aktiv während einer Störung von 112 und 101; Stand 17. November 2026):
 
 | Provinz | Vorübergehende Handynummern |
 | --- | --- |
@@ -201,7 +201,7 @@ Quelle: [112.be: Häufig gestellte Fragen](https://112.be/de/haeufig-gestellte-f
 
 ### Wenn überhaupt kein Anruf möglich ist
 
-Funktioniert kein einziges Gerät mehr, sagen die belgischen Behörden: Bitten Sie in Ihrer Umgebung um Hilfe und folgen Sie den Informationen, die die Behörden verbreiten.
+Funktioniert kein einziges Gerät mehr, bitten Sie in Ihrer Umgebung um Hilfe oder gehen Sie, wenn möglich, zur nächsten Polizeidienststelle, Feuerwache oder ins Krankenhaus. Die Karte in der App zeigt sie, mit der Schaltfläche „Am nächsten“. Bei einem großen Ausfall kann die Gemeinde eine Informations- und Anlaufstelle öffnen. Ein Stromausfall an sich ist kein Notfall.
 
 **Bei einem Verletzten oder Kranken**
 
@@ -214,7 +214,7 @@ Funktioniert kein einziges Gerät mehr, sagen die belgischen Behörden: Bitten S
 - Suchen Sie einen Ort mit Empfang oder bitten Sie jemanden, dorthin zu gehen und anzurufen. Wer nicht vom Ort des Vorfalls aus anruft, sagt das dem Disponenten.
 - Im offenen Gelände, ohne Menschen in der Nähe: siehe den Leitfaden Signale und Notcodes.
 
-Quelle: [ERC Guidelines 2021: First aid](https://cprguidelines-old.erc.edu/assets/guidelines/European-Resuscitation-Council-Guidelines-2021-Fi.pdf) · [ERC Guidelines 2021: Basic Life Support](https://cprguidelines-old.erc.edu/assets/guidelines/European-Resuscitation-Council-Guidelines-2021-Ba.pdf) · [ERC Guidelines 2021: Paediatric Life Support](https://cprguidelines-old.erc.edu/assets/guidelines/European-Resuscitation-Council-Guidelines-2021-Pa.pdf) · [IFRC Guidelines 2020](https://www.ifrc.org/sites/default/files/2022-02/EN_GFARC_GUIDELINES_2020.pdf) · [Gezondheid en Wetenschap: Wie reanimiert man?](https://www.gezondheidenwetenschap.be/eerste-hulp/hoe-moet-je-reanimeren) · [National Park Service: Outdoor Emergency Plan](https://www.nps.gov/subjects/healthandsafety/upload/NPS-Outdoor-Emergency-Plan-508c.pdf) · [Deutscher Alpenverein: So geht das, Notfall alpin](https://www.alpenverein.de/artikel/so-geht-das-notfall-alpin_62bc1334-e9c7-4d8b-8a02-89dd681cbb83) · [112.be: Wie rufe ich die 112 an?](https://112.be/de/how-call/wie-rufe-ich-die-112)
+Quelle: [ERC Guidelines 2021: First aid](https://cprguidelines-old.erc.edu/assets/guidelines/European-Resuscitation-Council-Guidelines-2021-Fi.pdf) · [ERC Guidelines 2021: Basic Life Support](https://cprguidelines-old.erc.edu/assets/guidelines/European-Resuscitation-Council-Guidelines-2021-Ba.pdf) · [ERC Guidelines 2021: Paediatric Life Support](https://cprguidelines-old.erc.edu/assets/guidelines/European-Resuscitation-Council-Guidelines-2021-Pa.pdf) · [IFRC Guidelines 2020](https://www.ifrc.org/sites/default/files/2022-02/EN_GFARC_GUIDELINES_2020.pdf) · [Gezondheid en Wetenschap: Wie reanimiert man?](https://www.gezondheidenwetenschap.be/eerste-hulp/hoe-moet-je-reanimeren) · [National Park Service: Outdoor Emergency Plan](https://www.nps.gov/subjects/healthandsafety/upload/NPS-Outdoor-Emergency-Plan-508c.pdf) · [Deutscher Alpenverein: So geht das, Notfall alpin](https://www.alpenverein.de/artikel/so-geht-das-notfall-alpin_62bc1334-e9c7-4d8b-8a02-89dd681cbb83) · [112.be: Wie rufe ich die 112 an?](https://112.be/de/how-call/wie-rufe-ich-die-112) · [BBK: Vorsorgen für Krisen und Katastrophen](https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/Buergerinformationen/Ratgeber/BBK-Vorsorgen-fuer-Krisen-und-Katastrophen.pdf?__blob=publicationFile&v=44) · [BBK: Stromausfall, Vorsorge und Selbsthilfe](https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/Buergerinformationen/stromausfall-vorsorge-selbsthilfe.pdf?__blob=publicationFile&v=17) · [Inspektionen: Nichterreichbarkeit der 112 am 24. Juni 2019](https://zoek.officielebekendmakingen.nl/blg-942150.pdf) · [Krisinformation.se: If internet and phone services stop working](https://www.krisinformation.se/en/finding-help-and-services/if-internet-and-phone-services-stop-working/)
 
 **Hilfe und Informationen in Ihrer Umgebung**
 
@@ -225,18 +225,6 @@ Quelle: [ERC Guidelines 2021: First aid](https://cprguidelines-old.erc.edu/asset
 - Bei größeren Notsituationen richtet die Gemeinde oder die Provinz ein Aufnahmezentrum ein, zum Beispiel in einer Sporthalle, mit einer Kontaktperson, die Informationen gibt.
 
 Quelle: [FÖD Wirtschaft: Fragen von Haushalten zur Stromknappheit](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door) · [Nationales Krisenzentrum: Informationen während einer Notsituation](https://krisenzentrum.be/de/was-koennen-sie-tun/informieren-sie-sich/information-notsituationen) · [Nationales Krisenzentrum: Broschüre Gemeinsam vorbereitet](https://krisenzentrum.be/sites/default/files/documents/files/WEB-Brosch%C3%BCre%20Gemeinsam%20Vorbereitet-DE.pdf) · [Nationales Krisenzentrum: Evakuieren](https://krisenzentrum.be/de/was-koennen-sie-tun/der-richtige-reflex/evakuierung) · [Rode Kruis-Vlaanderen: Strom- und Kommunikationsausfall](https://www.rodekruis.be/wat-doen-we/hulp-in-vlaanderen/goed-voorbereid/stroom-en-communicatie-uitval/)
-
-### Ratschläge aus dem Ausland
-
-Eine belgische offizielle Quelle, die Sie bei einem vollständigen Ausfall zu einer Feuerwache, einer Polizeidienststelle oder einem Krankenhaus schickt, haben wir nicht gefunden. Behörden in anderen Ländern geben diesen Rat jedoch.
-
-- **Deutschland.** Das BBK rät: Funktionieren 110 und 112 nicht mehr, gehen Sie in einem Notfall, wenn möglich, zur nächsten Polizeidienststelle oder ins Krankenhaus. Finden Sie vorab heraus, wo Sie vor Ort Informationen erhalten, zum Beispiel im Rathaus oder an einem Notfalltreffpunkt, und wo Sie einen Notfall melden können, wenn das Telefonnetz ausfällt. Ein Stromausfall an sich ist kein Notfall.
-- **Niederlande.** Bei der landesweiten 112-Störung am 24. Juni 2019 schickten die Behörden über NL-Alert alle, die einen dringenden Notfall melden mussten, zur nächsten Feuerwache oder Polizeidienststelle, und bei medizinischen Notfällen ins Krankenhaus. Bürger konnten auch Polizisten auf der Straße ansprechen. Nicht alle Regionen hatten ihre Wachen damals besetzt.
-- **Schweden.** Funktioniert 112 nicht, gehen Sie zur nächsten Feuerwache. Gemeinden können auch andere Orte festlegen, an denen Sie einen Notruf absetzen können.
-
-Die Karte in der App (Schaltfläche „Am nächsten“) zeigt Feuerwehr, Polizei, Krankenhäuser und Rathäuser in Ihrer Nähe.
-
-Quelle: [BBK: Vorsorgen für Krisen und Katastrophen](https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/Buergerinformationen/Ratgeber/BBK-Vorsorgen-fuer-Krisen-und-Katastrophen.pdf?__blob=publicationFile&v=44) · [BBK: Stromausfall, Vorsorge und Selbsthilfe](https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/Buergerinformationen/stromausfall-vorsorge-selbsthilfe.pdf?__blob=publicationFile&v=17) · [Inspektionen: Nichterreichbarkeit der 112 am 24. Juni 2019](https://zoek.officielebekendmakingen.nl/blg-942150.pdf) · [Krisinformation.se: If internet and phone services stop working](https://www.krisinformation.se/en/finding-help-and-services/if-internet-and-phone-services-stop-working/)
 
 ### Vorab regeln
 
@@ -259,14 +247,14 @@ Quelle: [112.be: Wie rufe ich die 112 an?](https://112.be/de/how-call/wie-rufe-i
 
 Die App 112 BE ist die offizielle App der belgischen Notrufzentralen, herausgegeben vom FÖD Inneres. Sie müssen sich keine Nummer merken: Sie tippen auf Feuerwehr, Rettungswagen oder Polizei.
 
-- **Lokalisierung.** Die Notrufzentrale sieht, wo Sie sind. Mit Internet übermittelt die App Ihre Position, auch wenn Sie sich fortbewegen. Ohne Internet gehen die Notfalldaten laut Entwickler per kostenloser SMS.
+- **Lokalisierung.** Die Notrufzentrale sieht, wo Sie sind. Mit Internet übermittelt die App Ihre Position, auch wenn Sie sich fortbewegen. Ohne Internet gehen die Notfalldaten per kostenloser SMS.
 - **Zusätzliche Informationen.** Die Notrufzentrale sieht sofort, was Sie bei der Registrierung angegeben haben, zum Beispiel dass Sie gehörlos sind, herzkrank sind oder gegen bestimmte Medikamente allergisch sind. Diese Daten werden nicht systematisch gespeichert, nur mitgesendet, wenn Sie über die App anrufen.
 - **Alarm.** Sind Sie bewusstlos und finden die Hilfsdienste Sie nicht, kann die Notrufzentrale Ihr Handy klingeln lassen.
 - **Chat.** Können Sie nicht sprechen oder hören, kann die Notrufzentrale den Chat aktivieren.
 
 **Registrieren Sie sich jetzt**, nicht während eines Notfalls, und schalten Sie die Standortfunktion ein. Die App ist kostenlos, funktioniert **nur in Belgien** und ist auf Niederländisch, Französisch, Deutsch und Englisch verfügbar. Sie braucht das Mobilfunknetz: Fällt es aus, siehe Kein Empfang, keine SIM-Karte oder eine Netzstörung.
 
-**Können Sie nicht sprechen**, zum Beispiel weil Sie verletzt sind oder bedroht werden, rufen Sie über die App an oder lassen Sie jemand anderen anrufen. Einen stillen Notruf ohne App, wie in manchen anderen Ländern, beschreibt 112.be nicht.
+**Können Sie nicht sprechen**, zum Beispiel weil Sie verletzt sind oder bedroht werden, rufen Sie über die App an oder lassen Sie jemand anderen anrufen.
 
 Quelle: [112.be: Mobile Anwendung 112 BE](https://112.be/de/mobile-anwendung) · [112.be: Für Gehörlose](https://112.be/de/fuer-gehoerlose) · [App Store: 112 BE](https://apps.apple.com/be/app/112-be/id1249304307) · [FÖD Inneres: Pressemitteilung AML und App 112 BE](http://kcce.eu/sites/default/files/persbericht_2017-07-13-localisatie_app112be_2.pdf)
 
@@ -301,7 +289,7 @@ Quelle: [112.be: Wie rufe ich die 112 an?](https://112.be/de/how-call/wie-rufe-i
 - Das System startet automatisch oder per Taste. Sie sprechen mit der nächstgelegenen Notrufzentrale, die den genauen Standort, den Zeitpunkt des Unfalls, die Fahrgestellnummer und die Fahrtrichtung erhält.
 - Außerhalb eines schweren Unfalls ist eCall nicht aktiv: Ihr Auto wird nicht verfolgt.
 - Pflicht für neue Fahrzeugmodelle, die nach dem 31. März 2018 genehmigt wurden, für Fahrzeuge bis 8 Sitzplätze und leichte Nutzfahrzeuge.
-- Laut Europäischer Kommission gibt es Lücken im eCall-Dienst, da 2G- und 3G-Netze abgeschaltet werden. Rufen Sie deshalb auch selbst an, wenn Sie können.
+- Da 2G- und 3G-Netze abgeschaltet werden, gibt es Lücken im eCall-Dienst. Rufen Sie deshalb auch selbst an, wenn Sie können.
 
 **Auf der Autobahn in Flandern**
 
@@ -318,7 +306,7 @@ Quelle: [Ihr Europa: eCall](https://europa.eu/youreurope/citizens/travel/securit
 
 ## Kindern das Anrufen beibringen
 
-Laut Forschung, auf die das Rote Kreuz verweist, können Kinder schon in der ersten und zweiten Stufe der Primarschule lernen, 112 anzurufen.
+Kinder können schon in der ersten und zweiten Stufe der Primarschule lernen, 112 anzurufen.
 
 **Was ein Kind wissen muss**
 

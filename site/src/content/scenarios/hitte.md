@@ -62,7 +62,7 @@ bronnen:
 
 **KMI-waarschuwingen voor hitte**
 
-| Code | Drempel | Wat doen volgens het KMI |
+| Code | Drempel | Wat doen |
 |---|---|---|
 | Geel | maximumtemperatuur 32 °C of meer, of de waarschuwingsfase van het ozon- en hitteplan is actief | Bescherm ouderen en zwakkere mensen, drink meer, hou kwetsbare mensen uit de zon. |
 | Oranje | maximumtemperatuur 35 °C of meer | Drink regelmatig, kleed je lichter, breng de dag door in koelere ruimtes, eet licht, hou deuren en ramen dicht. |

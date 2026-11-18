@@ -81,7 +81,7 @@ Source : [Centre de crise National : incendie ou explosion](https://centredecris
 - Posez un téléphone et une lampe de poche près de votre lit, et gardez vos lunettes ou votre appareil auditif à portée de main.
 - Convenez d'un point de rassemblement à l'avant du bâtiment ou à un endroit visible par les pompiers.
 - Répartissez les tâches : qui va chercher les enfants, qui aide les personnes moins mobiles, qui appelle le 112.
-- Exercez le plan avec toutes les personnes de la maison, aussi avec les portes intérieures fermées. Ready.gov conseille de s'exercer deux fois par an, aussi dans l'obscurité.
+- Exercez le plan avec toutes les personnes de la maison, aussi avec les portes intérieures fermées. Exercez-vous deux fois par an, aussi dans l'obscurité.
 - Vous pouvez faire appel gratuitement à un conseiller en prévention incendie.
 
 **Portes fermées**

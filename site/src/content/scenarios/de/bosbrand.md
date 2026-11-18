@@ -75,7 +75,7 @@ Quelle: [Nationales Krisenzentrum](https://krisenzentrum.be/de/risiken-belgien/n
 
 ### Ihre Wohnung am Rand von Wald oder Heide
 
-Die niederländische Feuerwehr gibt diese Tipps für Wohnungen nahe der Natur:
+Wohnen Sie nahe der Natur:
 
 - Reinigen Sie Dach und Dachrinnen mindestens zweimal im Jahr, im Frühling und im Herbst. Tun Sie es in trockenen Zeiten öfter.
 - Lassen Sie den Schornstein fegen und bringen Sie einen Funkenfänger an.
@@ -94,7 +94,7 @@ Die niederländische Feuerwehr gibt diese Tipps für Wohnungen nahe der Natur:
 - Legen Sie Personalausweise, Medikamente, Wasser, Sachen für Haustiere und Telefone an einem festen Ort zusammen.
 - Kennen Sie Ihre Fluchtroute, auch wenn viel Verkehr ist. Zu Fuß oder mit dem Fahrrad kann es schneller und sicherer sein als mit dem Auto.
 - Vereinbaren Sie vorher mit Familie oder Freunden, wohin Sie gehen können.
-- Legen Sie ein Notfallpaket bereit. Ready.gov empfiehlt, auch eine N95-Atemschutzmaske gegen Rauch aufzubewahren.
+- Legen Sie ein Notfallpaket bereit, auch mit einer N95-Atemschutzmaske gegen Rauch.
 
 Quelle: [Nationales Krisenzentrum](https://krisenzentrum.be/de/risiken-belgien/naturrisiken/naturbrand) · [Service public de Wallonie](https://environnement.wallonie.be/feux) · [Brandweer Nederland: Wohnung](https://www.brandweer.nl/onderwerpen/natuurbrand-voorkomen-tips-vakantieverblijf/) · [Brandweer Nederland: Tagesausflug](https://www.brandweer.nl/onderwerpen/natuurbrand-voorkomen-tips-dagje-uit/) · [Brandweer Nederland: in der Nähe](https://www.brandweer.nl/onderwerpen/natuurbrand-in-de-buurt/) · [Nationales Krisenzentrum: evakuieren](https://krisenzentrum.be/de/was-koennen-sie-tun/der-richtige-reflex/evakuierung) · [Ready.gov](https://www.ready.gov/wildfires)
 
@@ -107,8 +107,8 @@ Quelle: [Nationales Krisenzentrum](https://krisenzentrum.be/de/risiken-belgien/n
 - Evakuieren Sie nicht auf eigene Initiative. Warten Sie auf die Empfehlungen der Behörden über das Radio und Lautsprecherwagen und, wenn das Netz funktioniert, über BE-Alert.
 - Prüfen Sie, ob Nachbarn, ältere Menschen und Menschen mit einer Behinderung Hilfe brauchen.
 - Müssen Sie aufbrechen: Stellen Sie Strom und Gas ab, nehmen Sie Ihr Notfallpaket und brechen Sie sofort auf.
-- Können Sie nicht weg und gibt es keine Anordnung zum Verlassen: Bleiben Sie mit geschlossenen Fenstern und Türen drinnen. Bei Rauch empfiehlt Ready.gov, in einem Raum zu bleiben, den Sie von der Außenluft abschließen können, und die Lüftung auf Umluft zu stellen oder den Lufteinlass zu schließen.
-- Sitzen Sie wirklich fest: Schalten Sie das Licht ein, damit die Helfer Sie finden. Rufen Sie die 112 an und geben Sie Ihren Standort durch. Rechnen Sie mit Verzögerung. Das empfiehlt das amerikanische Ready.gov.
+- Können Sie nicht weg und gibt es keine Anordnung zum Verlassen: Bleiben Sie mit geschlossenen Fenstern und Türen drinnen. Bei Rauch: Bleiben Sie in einem Raum, den Sie von der Außenluft abschließen können, und stellen Sie die Lüftung auf Umluft oder schließen Sie den Lufteinlass.
+- Sitzen Sie wirklich fest: Schalten Sie das Licht ein, damit die Helfer Sie finden. Rufen Sie die 112 an und geben Sie Ihren Standort durch. Rechnen Sie mit Verzögerung.
 
 ### Draußen oder unterwegs
 
@@ -143,7 +143,7 @@ Gehen Sie keine Risiken ein und befolgen Sie die Anweisungen von Feuerwehr und F
 
 ### Schutzbedürftige Personen
 
-- Menschen mit Asthma, COPD oder einer anderen Lungenkrankheit reagieren besonders empfindlich auf Rauch. Begrenzen Sie ihre Belastung. Ready.gov empfiehlt eine N95-Maske oder einen abgeschlossenen Raum mit Luftreiniger.
+- Menschen mit Asthma, COPD oder einer anderen Lungenkrankheit reagieren besonders empfindlich auf Rauch. Begrenzen Sie ihre Belastung mit einer N95-Maske oder einem abgeschlossenen Raum mit Luftreiniger.
 - Sind Sie krank, wenden Sie sich an Ihren Arzt.
 - Sorgen Sie in Ihrem Notfallplan für Helfer in der Nähe von Menschen, die weniger mobil sind. Bieten Sie ihnen bei einer Evakuierung eine Mitfahrgelegenheit an.
 

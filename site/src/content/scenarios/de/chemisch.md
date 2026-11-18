@@ -73,16 +73,16 @@ Quelle: [Nationales Krisenzentrum](https://krisenzentrum.be/de/risiken-belgien/t
 
 - **Kennen Sie Ihre Umgebung.** Sehen Sie im Voraus auf seveso.be nach, ob Sie in der Nähe eines Seveso-Betriebs wohnen, arbeiten oder zur Schule gehen. Seveso-Betriebe arbeiten mit gefährlichen Stoffen.
 - **Melden Sie sich bei BE-Alert an.** Fügen Sie neben Ihrer Wohnadresse auch andere Adressen hinzu: Ihre Arbeit, die Schule oder Betreuung Ihrer Kinder, die Adresse eines schutzbedürftigen Familienmitglieds.
-- **Wählen Sie Ihren Schutzraum.** Die belgischen Behörden empfehlen einen zentralen Raum im Erdgeschoss, weg von Fenstern und Außentüren. Wände und Decken schützen besser als Fenster. Wählen Sie einen Raum mit möglichst wenigen Fenstern und Türen nach draußen.
+- **Wählen Sie Ihren Schutzraum:** einen zentralen Raum im Erdgeschoss, weg von Fenstern und Außentüren. Wände und Decken schützen besser als Fenster. Wählen Sie einen Raum mit möglichst wenigen Fenstern und Türen nach draußen.
 - **Wissen Sie, wie Sie die Lüftung ausschalten.** Finden Sie vorher heraus, wie Sie mechanische Lüftung, Klimaanlage und den Lufteinlass der Heizung abschalten.
-- **Legen Sie Material bereit, um Ritzen abzudichten.** Das amerikanische Ready.gov empfiehlt, Plastikfolie, starkes Klebeband und eine Schere bereitzulegen, um Türen, Fenster und Lüftungsgitter abzudecken. Nasse Handtücher gehen auch.
+- **Legen Sie Material bereit, um Ritzen abzudichten:** Plastikfolie, starkes Klebeband und eine Schere, um Türen, Fenster und Lüftungsgitter abzudecken. Nasse Handtücher gehen auch.
 - **Stellen Sie ein Notfallpaket zusammen** mit Wasser, Essen, einem Radio mit Batterien oder Kurbel, einer Taschenlampe, Medikamenten und einer geladenen Powerbank.
 - **Treffen Sie Absprachen** mit Mitbewohnern und Nachbarn: Wer tut was, und wie erreichen Sie einander ohne Telefon oder Internet.
 - **Legen Sie eine Papierliste** mit wichtigen Telefonnummern zu Ihrem Notfallpaket.
 
-**Unterschied zwischen Quellen zum Stockwerk.** Die belgischen Behörden raten zu einem zentralen Raum im Erdgeschoss. Das Bezirksamt Pankow in Berlin und Ready.gov empfehlen bei Gasen einen Raum in einem höheren Stockwerk oder über dem Boden, weil die meisten Gase schwerer sind als Luft und absinken. In Belgien befolgen Sie den belgischen Rat. Geben die Behörden für einen bestimmten Stoff eine andere Anweisung, befolgen Sie diese Anweisung.
+Geben die Behörden für einen bestimmten Stoff eine andere Anweisung, befolgen Sie diese Anweisung.
 
-Quelle: [Nationales Krisenzentrum: Seveso](https://krisenzentrum.be/de/risiken-belgien/technologische-risiken/zwischenfall-einer-seveso-anlage) · [Seveso.be](https://www.seveso.be/de/seveso-unternehmen) · [BE-Alert](https://www.be-alert.be/de/wie-werden-sie-alarmiert/alarmiert-wo-auch-immer-sie-sich-aufhalten) · [Ready.gov](https://www.ready.gov/chemical) · [Bezirksamt Pankow](https://www.berlin.de/ba-pankow/politik-und-verwaltung/beauftragte/katastrophenschutz/artikel.1640880.php) · [Nationales Krisenzentrum: Gemeinsam vorbereitet](https://krisenzentrum.be/sites/default/files/documents/files/WEB-Brosch%C3%BCre%20Gemeinsam%20Vorbereitet-DE.pdf) · [Nationales Krisenzentrum: Plan für Ihre Nachbarschaft](https://krisenzentrum.be/de/was-koennen-sie-tun/erstellen-sie-einen-plan/ein-plan-ihrem-viertel-oder-ihrem-verein)
+Quelle: [Nationales Krisenzentrum: Seveso](https://krisenzentrum.be/de/risiken-belgien/technologische-risiken/zwischenfall-einer-seveso-anlage) · [Seveso.be](https://www.seveso.be/de/seveso-unternehmen) · [BE-Alert](https://www.be-alert.be/de/wie-werden-sie-alarmiert/alarmiert-wo-auch-immer-sie-sich-aufhalten) · [Ready.gov](https://www.ready.gov/chemical) · [Nationales Krisenzentrum: Gemeinsam vorbereitet](https://krisenzentrum.be/sites/default/files/documents/files/WEB-Brosch%C3%BCre%20Gemeinsam%20Vorbereitet-DE.pdf) · [Nationales Krisenzentrum: Plan für Ihre Nachbarschaft](https://krisenzentrum.be/de/was-koennen-sie-tun/erstellen-sie-einen-plan/ein-plan-ihrem-viertel-oder-ihrem-verein)
 
 ## Während
 
@@ -110,8 +110,6 @@ Schutz suchen ist der beste Schutz. Schutz suchen ist vorübergehend: von einige
 1. Entfernen Sie sich vom Unfall, vorzugsweise quer zur Windrichtung.
 2. Atmen Sie durch ein Tuch, mindestens durch ein Taschentuch.
 3. Gehen Sie in das nächstgelegene geschlossene Gebäude. Bitten Sie darum, hineingelassen zu werden, und befolgen Sie dort dieselben Schritte wie zu Hause.
-
-Ready.gov empfiehlt, sich auf die dem Wind zugewandte Seite der Quelle zu begeben. Die belgischen und deutschen Behörden empfehlen, sich quer zum Wind zu entfernen. Befolgen Sie den belgischen Rat.
 
 **Hatten Sie Kontakt mit einem verdächtigen Stoff?**
 

@@ -110,7 +110,7 @@ Bron: [Gezondheid en Wetenschap: Huidwonde](https://www.gezondheidenwetenschap.b
 - Maak ook de huid rond de wonde voorzichtig schoon met zeep en proper water.
 - Kijk het verband elke dag na. Is het nog proper, laat het dan zitten. Zit er een beetje bloed of helder vocht op, haal het dan weg, reinig de wonde opnieuw en leg een nieuw verband aan. Bekijk de wonde minstens elke 24 uur.
 - Een propere, open wonde dek je af met een waterdicht verband om infectie te voorkomen. Blijf met een open wonde uit overstromingswater.
-- De CDC raadt na een ramp aan om vuile wonden, bijtwonden en steekwonden open te laten, omdat een wonde die niet goed gereinigd is bacteriën kan opsluiten. De Belgische richtlijn zegt dat je een goed gereinigde wonde afdekt, en dat een wonde die niet goed proper te krijgen is naar een arts moet. Laat zo'n wonde zo snel mogelijk door een arts zien.
+- Na een ramp laat je vuile wonden, bijtwonden en steekwonden open, omdat een wonde die niet goed gereinigd is bacteriën kan opsluiten. Een wonde die je niet goed proper krijgt, laat je zo snel mogelijk door een arts zien.
 - Dek een geïnfecteerde wonde nooit af en zoek medische hulp.
 - Gebruik zelf nooit hechtingsstrips. Verwijder hechtingsdraden of nietjes niet zelf.
 - Iedereen met een wonde moet nagaan of zijn tetanusvaccinatie in orde is. Bij een steekwonde of een wonde die vervuild is met mest, aarde of speeksel, beslist een zorgverlener op basis van het vaccinatieboekje of een herhalingsvaccin nodig is. Je inentingen staan in je gezondheidsboekje en in je medisch dossier.

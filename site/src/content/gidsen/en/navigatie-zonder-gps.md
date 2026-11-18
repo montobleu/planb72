@@ -40,7 +40,7 @@ origineel_datum: "2026-11-18"
 
 ## Why this is needed
 
-The National Park Service counts navigation (map, compass and GPS) among the ten essentials for anyone going into nature, and recommends practising with a compass or GPS beforehand and taking spare batteries. If your mobile phone or GPS fails, you have to fall back on a map, a compass or the aids that nature gives you.
+Navigation (map, compass and GPS) is one of the ten essentials for anyone going into nature. Practise with a compass or GPS beforehand and take spare batteries. If your mobile phone or GPS fails, you have to fall back on a map, a compass or the aids that nature gives you.
 
 Navigating without GPS combines three things:
 
@@ -73,7 +73,7 @@ Source: [National Park Service: Outdoor Emergency Plan](https://www.nps.gov/subj
 - Classic topographic maps show **no street names**.
 - With the NGI's free **Topomapviewer** (web and app) you can view the maps, measure distances and save part of a map as a PDF to print. The viewer needs an internet connection; you can print the PDF in advance.
 
-**Compass and metal.** Metal and electricity disturb a compass. The US Army recommends these distances:
+**Compass and metal.** Metal and electricity disturb a compass. Keep to these distances:
 
 | What | Distance |
 | --- | --- |
@@ -108,9 +108,9 @@ Source: [National Park Service: Outdoor Emergency Plan](https://www.nps.gov/subj
 5. Choose the next steering mark there. Repeat.
 6. At night you only see silhouettes. Then choose steering marks with an even clearer shape.
 
-**Getting round an obstacle.** Turn 90 degrees, walk a known distance, turn back to your original direction and keep walking, turn 90 degrees the other way and walk the same distance back. You are then back on your line. Example from the US manual: you are walking east (90 degrees); go 100 m south (180), 150 m east (90), 100 m north (360), and then on to the east.
+**Getting round an obstacle.** Turn 90 degrees, walk a known distance, turn back to your original direction and keep walking, turn 90 degrees the other way and walk the same distance back. You are then back on your line. Example: you are walking east (90 degrees); go 100 m south (180), 150 m east (90), 100 m north (360), and then on to the east.
 
-**Deliberately aiming off your target.** If your target is on a road or stream, deliberately aim a few degrees to the left or right of it. When you reach the road, you then know immediately which way to go. Each degree of deviation shifts you about 18 metres per 1,000 metres. According to the manual, ten degrees is enough for most purposes.
+**Deliberately aiming off your target.** If your target is on a road or stream, deliberately aim a few degrees to the left or right of it. When you reach the road, you then know immediately which way to go. Each degree of deviation shifts you about 18 metres per 1,000 metres. Ten degrees is enough for most purposes.
 
 **Navigating by the terrain (without much compass work)**
 
@@ -147,7 +147,7 @@ A line perpendicular to the east-west line is roughly the north-south line.
 2. **South** lies halfway between the hour hand and **12 o'clock**. If summer time applies, take the midpoint between the hour hand and **13 o'clock**.
 3. If you are unsure which side is north: before midday the sun is in the east, after midday in the west.
 
-This method can give errors and make you walk in circles. The manual recommends setting your watch using a shadow clock and checking it again after an hour of walking.
+This method can give errors and make you walk in circles. So set your watch using a shadow clock and check it again after an hour of walking.
 
 **The Pole Star**
 
@@ -163,7 +163,7 @@ Source: [US Army FM 3-25.26](https://archive.org/details/milmanual-fm-3-25.26-ma
 
 ## Measuring and estimating distance
 
-According to the US manual, distance is the biggest source of errors in navigation.
+Distance is the biggest source of errors in navigation.
 
 **Counting your paces**
 
@@ -180,7 +180,7 @@ Your pace changes. Count more paces per 100 metres:
 - with a lot of clothing or shoes with little grip;
 - in poor visibility: fog, rain, darkness.
 
-Example from the manual: someone who normally needs 120 paces for 100 metres may need 130 or more uphill.
+Example: someone who normally needs 120 paces for 100 metres may need 130 or more uphill.
 
 **Estimating by eye**
 
@@ -218,7 +218,7 @@ Source: [US Army FM 3-25.26](https://archive.org/details/milmanual-fm-3-25.26-ma
 
 ## Finding your way back and leaving traces
 
-- **Stay on the paths.** In Flemish forests and nature areas that is also the rule: pedestrians may only use the designated roads and paths, except in marked-out play areas. The National Park Service recommends it so that you do not get lost.
+- **Stay on the paths.** In Flemish forests and nature areas that is also the rule: pedestrians may only use the designated roads and paths, except in marked-out play areas. It also makes you less likely to get lost.
 - **Pay attention along the way** to path junctions, information boards and landmarks. Check regularly whether you are still on your planned route.
 - **Know your route backwards** as well as forwards. Look back regularly: the way back looks different.
 - **Leave a trail of information**: a trip plan with someone at home. If you have to leave in an emergency, leave a note saying when you left and where you are going.
@@ -227,7 +227,7 @@ Source: [Vlaanderen.be: What may you do as a visitor in Flemish nature?](https:/
 
 ## Lost: stay or go
 
-**Step 1: stop and breathe.** Take a moment to think calmly. The US Army recommends not making a decision immediately after the shock: wait until the first fright has passed, then assess the situation and decide.
+**Step 1: stop and breathe.** Take a moment to think calmly. Do not make a decision immediately after the shock: wait until the first fright has passed, then assess the situation and decide.
 
 **Step 2: find your location.** Use your map, compass, GPS or visible landmarks.
 
@@ -246,7 +246,7 @@ Source: [Vlaanderen.be: What may you do as a visitor in Flemish nature?](https:/
 - Save your energy and wait patiently.
 - Do not make a fire when the fire risk is high.
 
-**When to go after all?** The US Army gives as reasons to move: the place does not provide enough water, food or shelter, or you cannot communicate from there. Only go when you are sure that you can reach water, shelter, food and help, or when, after several days of waiting, you are convinced that no help is coming and you are equipped to travel. Do not leave a safe shelter to set off in bad weather. If you are injured or have a head injury, that limits your ability to travel and to make good decisions.
+**When to go after all?** Reasons to move: the place does not provide enough water, food or shelter, or you cannot communicate from there. Only go when you are sure that you can reach water, shelter, food and help, or when, after several days of waiting, you are convinced that no help is coming and you are equipped to travel. Do not leave a safe shelter to set off in bad weather. If you are injured or have a head injury, that limits your ability to travel and to make good decisions.
 
 **If you do have to go**
 
@@ -283,7 +283,7 @@ Source: [National Park Service: Junior Ranger Park Explorer](https://www.nps.gov
 
 ## By location
 
-| Location | What the sources say |
+| Location | What applies |
 | --- | --- |
 | Forest or nature area in Flanders | Stay on the paths; that is also the rule. Call 112 with recognisable points (paths, ponds, lookout towers, car parks). In a fire, flee along existing paths away from the fire, preferably across the wind, towards a public road or built-up area. No signal during a fire: evacuate as quickly as possible and speak to people you meet. |
 | Mountains | Give the alpine distress signal if you have no phone but are within sight or earshot of a valley or hut. When calling, give prominent terrain features, the altitude and if possible coordinates. |

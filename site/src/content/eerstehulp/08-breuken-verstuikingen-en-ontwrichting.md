@@ -104,7 +104,7 @@ Bron: [Gezondheid en Wetenschap: Breuken](https://www.gezondheidenwetenschap.be/
 - Koel herhaaldelijk als de pijn terugkomt, telkens maximaal 20 minuten en pas als de huid weer normaal warm is.
 - Volg bij een breuk van een groot bot de tekens van shock op en hou het slachtoffer liggend en warm.
 - Let op gevoelsstoornissen, zoals tintelingen, speldenprikken of een slapende voet, en op tekens van compartimentsyndroom. Dat zijn redenen om een arts te raadplegen.
-- De IFRC vermeldt dat een getrainde hulpverlener in een afgelegen omgeving overweegt om een sterk verbogen breuk recht te zetten als het ledemaat voorbij de breuk koud en bleek is. De Belgische richtlijn zegt: zet een gewricht of ledemaat in een abnormale stand nooit recht. Volg de Belgische richtlijn.
+- Zet een gewricht of ledemaat in een abnormale stand nooit recht.
 - Ontwrichtingen en breuken moeten altijd door een zorgverlener behandeld worden. Zoek die zorg zodra het kan.
 
 Bron: [IFRC Guidelines 2020](https://www.ifrc.org/sites/default/files/2022-02/EN_GFARC_GUIDELINES_2020.pdf) · [Gezondheid en Wetenschap: Breuken](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-breuken) · [Gezondheid en Wetenschap: Ontwrichting](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-ontwrichting)

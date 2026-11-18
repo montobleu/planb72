@@ -38,7 +38,7 @@ bronnen:
 
 ## Waarom dit nodig is
 
-Het National Park Service rekent navigatie (kaart, kompas en gps) tot de tien basisuitrustingsstukken voor wie de natuur in gaat, en raadt aan vooraf te oefenen met kompas of gps en reservebatterijen mee te nemen. Valt je gsm of gps uit, dan moet je terugvallen op een kaart, een kompas of de hulpmiddelen die de natuur je geeft.
+Navigatie (kaart, kompas en gps) hoort bij de tien basisuitrustingsstukken voor wie de natuur in gaat. Oefen vooraf met kompas of gps en neem reservebatterijen mee. Valt je gsm of gps uit, dan moet je terugvallen op een kaart, een kompas of de hulpmiddelen die de natuur je geeft.
 
 Wie navigeert zonder gps, combineert drie dingen:
 
@@ -71,7 +71,7 @@ Bron: [National Park Service: Outdoor Emergency Plan](https://www.nps.gov/subjec
 - Op klassieke topografische kaarten staan **geen straatnamen**.
 - Met de gratis **Topomapviewer** van het NGI (web en app) kun je de kaarten bekijken, afstanden meten en een stuk kaart als pdf opslaan om af te drukken. De viewer heeft een internetverbinding nodig; de pdf kun je vooraf afdrukken.
 
-**Kompas en metaal.** Metaal en elektriciteit verstoren een kompas. Het Amerikaanse leger raadt deze afstanden aan:
+**Kompas en metaal.** Metaal en elektriciteit verstoren een kompas. Hou deze afstanden aan:
 
 | Wat | Afstand |
 | --- | --- |
@@ -106,9 +106,9 @@ Bron: [National Park Service: Outdoor Emergency Plan](https://www.nps.gov/subjec
 5. Kies daar het volgende richtpunt. Herhaal.
 6. 's Nachts zie je alleen silhouetten. Kies dan richtpunten met een nog duidelijkere vorm.
 
-**Een hindernis omzeilen.** Draai 90 graden, stap een gekende afstand, draai terug naar je oorspronkelijke richting en stap verder, draai 90 graden de andere kant op en stap dezelfde afstand terug. Dan zit je weer op je lijn. Voorbeeld uit het Amerikaanse handboek: je loopt naar het oosten (90 graden); ga 100 m naar het zuiden (180), 150 m naar het oosten (90), 100 m naar het noorden (360), en dan verder naar het oosten.
+**Een hindernis omzeilen.** Draai 90 graden, stap een gekende afstand, draai terug naar je oorspronkelijke richting en stap verder, draai 90 graden de andere kant op en stap dezelfde afstand terug. Dan zit je weer op je lijn. Voorbeeld: je loopt naar het oosten (90 graden); ga 100 m naar het zuiden (180), 150 m naar het oosten (90), 100 m naar het noorden (360), en dan verder naar het oosten.
 
-**Bewust naast je doel mikken.** Ligt je doel aan een weg of beek, mik dan bewust een paar graden links of rechts ervan. Als je de weg bereikt, weet je dan meteen welke kant je op moet. Elke graad afwijking verschuift je ongeveer 18 meter per 1.000 meter. Tien graden is volgens het handboek voor de meeste toepassingen genoeg.
+**Bewust naast je doel mikken.** Ligt je doel aan een weg of beek, mik dan bewust een paar graden links of rechts ervan. Als je de weg bereikt, weet je dan meteen welke kant je op moet. Elke graad afwijking verschuift je ongeveer 18 meter per 1.000 meter. Tien graden is voor de meeste toepassingen genoeg.
 
 **Navigeren met het terrein (zonder veel kompaswerk)**
 
@@ -145,7 +145,7 @@ Een lijn loodrecht op de oost-westlijn is ongeveer de noord-zuidlijn.
 2. Halverwege tussen de uurwijzer en **12 uur** ligt het **zuiden**. Geldt de zomertijd, neem dan het midden tussen de uurwijzer en **13 uur**.
 3. Twijfel je welke kant noord is: voor de middag staat de zon in het oosten, na de middag in het westen.
 
-Deze methode kan fouten geven en je in cirkels doen lopen. Het handboek raadt aan om je horloge af te stellen met een schaduwklok en het na een uur stappen opnieuw te controleren.
+Deze methode kan fouten geven en je in cirkels doen lopen. Stel je horloge daarom af met een schaduwklok en controleer het na een uur stappen opnieuw.
 
 **De Poolster**
 
@@ -161,7 +161,7 @@ Bron: [US Army FM 3-25.26](https://archive.org/details/milmanual-fm-3-25.26-map-
 
 ## Afstand meten en schatten
 
-Afstand is volgens het Amerikaanse handboek de grootste bron van fouten bij navigeren.
+Afstand is de grootste bron van fouten bij navigeren.
 
 **Je passen tellen**
 
@@ -178,7 +178,7 @@ Je pas verandert. Tel meer passen per 100 meter:
 - met veel kleding of schoenen met weinig grip;
 - bij slecht zicht: mist, regen, duisternis.
 
-Voorbeeld uit het handboek: wie normaal 120 passen nodig heeft voor 100 meter, kan bergop 130 of meer nodig hebben.
+Voorbeeld: wie normaal 120 passen nodig heeft voor 100 meter, kan bergop 130 of meer nodig hebben.
 
 **Schatten met het oog**
 
@@ -216,7 +216,7 @@ Bron: [US Army FM 3-25.26](https://archive.org/details/milmanual-fm-3-25.26-map-
 
 ## Je weg terugvinden en sporen achterlaten
 
-- **Blijf op de paden.** In Vlaamse bossen en natuurgebieden is dat ook de regel: voetgangers mogen enkel op de voorziene wegen en paden, behalve in afgebakende speelzones. Het National Park Service raadt het aan om niet te verdwalen.
+- **Blijf op de paden.** In Vlaamse bossen en natuurgebieden is dat ook de regel: voetgangers mogen enkel op de voorziene wegen en paden, behalve in afgebakende speelzones. Zo verdwaal je ook minder snel.
 - **Let onderweg op** kruispunten van paden, infoborden en herkenningspunten. Controleer geregeld of je nog op je geplande route zit.
 - **Ken je route achterwaarts** even goed als voorwaarts. Kijk regelmatig om: de weg terug ziet er anders uit.
 - **Laat een spoor van informatie achter**: een tochtplan bij iemand thuis. Moet je bij een noodsituatie vertrekken, laat dan een briefje achter met wanneer je vertrok en waar je heen gaat.
@@ -225,7 +225,7 @@ Bron: [Vlaanderen.be: Wat mag u als bezoeker doen in de Vlaamse natuur?](https:/
 
 ## Verdwaald: blijven of gaan
 
-**Stap 1: stop en adem.** Neem even de tijd om rustig na te denken. Het Amerikaanse leger raadt aan geen beslissing te nemen meteen na de schok: wacht tot de eerste schrik voorbij is, bekijk dan de toestand en beslis.
+**Stap 1: stop en adem.** Neem even de tijd om rustig na te denken. Neem geen beslissing meteen na de schok: wacht tot de eerste schrik voorbij is, bekijk dan de toestand en beslis.
 
 **Stap 2: zoek je plaats.** Gebruik je kaart, kompas, gps of zichtbare herkenningspunten.
 
@@ -244,7 +244,7 @@ Bron: [Vlaanderen.be: Wat mag u als bezoeker doen in de Vlaamse natuur?](https:/
 - Spaar je energie en wacht geduldig.
 - Maak geen vuur bij hoog brandgevaar.
 
-**Wanneer toch gaan?** Het Amerikaanse leger noemt als redenen om je te verplaatsen: de plek biedt niet genoeg water, voedsel of beschutting, of je kunt er niet communiceren. Ga pas als je zeker bent dat je water, beschutting, voedsel en hulp kunt bereiken, of als je na meerdere dagen wachten overtuigd bent dat er geen hulp komt en je uitgerust bent om te reizen. Verlaat geen veilige schuilplaats om bij slecht weer te vertrekken. Ben je gewond of heb je een hoofdletsel, dan beperkt dat je vermogen om te gaan en om goed te beslissen.
+**Wanneer toch gaan?** Redenen om je te verplaatsen: de plek biedt niet genoeg water, voedsel of beschutting, of je kunt er niet communiceren. Ga pas als je zeker bent dat je water, beschutting, voedsel en hulp kunt bereiken, of als je na meerdere dagen wachten overtuigd bent dat er geen hulp komt en je uitgerust bent om te reizen. Verlaat geen veilige schuilplaats om bij slecht weer te vertrekken. Ben je gewond of heb je een hoofdletsel, dan beperkt dat je vermogen om te gaan en om goed te beslissen.
 
 **Moet je toch gaan**
 
@@ -281,7 +281,7 @@ Bron: [National Park Service: Junior Ranger Park Explorer](https://www.nps.gov/s
 
 ## Per plek
 
-| Plek | Wat de bronnen zeggen |
+| Plek | Wat past |
 | --- | --- |
 | Bos of natuurgebied in Vlaanderen | Blijf op de paden; dat is ook de regel. Bel 112 met herkenbare punten (paden, vennen, uitkijktorens, parkings). Vlucht bij brand langs bestaande paden weg van het vuur, liefst dwars op de wind, naar een openbare weg of bebouwde kom. Geen bereik bij brand: evacueer zo snel mogelijk en spreek mensen aan die je tegenkomt. |
 | Bergen | Geef het alpiene noodsignaal als je geen telefoon hebt maar binnen zicht of gehoor van een dal of hut bent. Geef bij een oproep markante terreinpunten, de hoogte en zo mogelijk coördinaten. |

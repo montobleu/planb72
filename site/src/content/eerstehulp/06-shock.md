@@ -25,7 +25,7 @@ bronnen:
 
 ## Herkennen
 
-Shock betekent dat de bloedsomloop faalt: organen en weefsels krijgen niet genoeg bloed en dus niet genoeg zuurstof. Shock wordt altijd door iets anders veroorzaakt. De IFRC noemt als oorzaken:
+Shock betekent dat de bloedsomloop faalt: organen en weefsels krijgen niet genoeg bloed en dus niet genoeg zuurstof. Shock wordt altijd door iets anders veroorzaakt. Mogelijke oorzaken zijn:
 
 - een ernstige bloeding, uitwendig of inwendig (de meest voorkomende oorzaak);
 - zeer ernstige brandwonden, waarbij vocht uit de bloedvaten in de brandwonde lekt;

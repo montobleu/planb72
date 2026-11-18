@@ -48,7 +48,7 @@ origineel_datum: "2026-11-18"
 
 ## Was zuerst kommt
 
-Es gibt keine feste Reihenfolge, die immer gilt. Die amerikanischen Überlebenshandbücher lehren ein "Überlebensmuster": Sie ordnen Ihre Bedürfnisse nach Wichtigkeit, abhängig davon, wo Sie sind, und passen diese Reihenfolge an, wenn sich die Umstände ändern.
+Es gibt keine feste Reihenfolge, die immer gilt. Ordnen Sie Ihre Bedürfnisse nach Wichtigkeit, abhängig davon, wo Sie sind, und passen Sie diese Reihenfolge an, wenn sich die Umstände ändern.
 
 | Situation | Erste Priorität | Danach |
 | --- | --- | --- |
@@ -96,7 +96,7 @@ Unterkühlung (Hypothermie) entsteht, wenn Ihr Körper mehr Wärme verliert, als
 6. Zittert die Person noch und ist sie gut bei Bewusstsein: Lassen Sie sie sich in einem Schlafsack oder unter einer Decke aufwärmen (mit einer Rettungsdecke, wenn Sie eine haben), bedecken Sie auch den Kopf, geben Sie trockene Kleidung und ein warmes, zuckerreiches Getränk oder Essen.
 7. Zittert sie nicht mehr oder ist sie nicht gut bei Bewusstsein: Wärmen Sie aktiv, vorzugsweise mit einer Heizdecke, sonst mit Wärmekissen, Kirschkernkissen oder einer Wärmflasche. Achten Sie auf Verbrennungen. Geben Sie dann **nichts zu essen oder zu trinken**.
 
-**Vorbeugen: die Eselsbrücke COLD der amerikanischen Armee**
+**Vorbeugen: die Eselsbrücke COLD**
 
 - **C**lean: Halten Sie die Kleidung sauber. Schmutzige Kleidung isoliert schlechter.
 - **O**verheating vermeiden: Schweiß macht Ihre Kleidung nass und kühlt Sie ab. Ziehen Sie eine Schicht aus oder öffnen Sie Ihre Jacke, bevor Sie schwitzen.
@@ -170,7 +170,7 @@ Quelle: [US Army FM 21-76](https://archive.org/details/fm-21-76-survival-manual)
 
 ## Gegen den Boden isolieren
 
-- **Schlafen Sie nie direkt auf dem Boden.** Laut der amerikanischen Armee verlieren Sie in Ruhe bis zu 80 Prozent Ihrer Körperwärme an den Boden.
+- **Schlafen Sie nie direkt auf dem Boden.** In Ruhe verlieren Sie bis zu 80 Prozent Ihrer Körperwärme an den Boden.
 - Legen Sie Tannenzweige, Gras, Blätter, Kiefernnadeln oder anderes Isoliermaterial unter sich.
 - In einer Hütte aus Ästen und Blättern: eine Schicht von 30 cm.
 - In einer Schneehöhle oder Grube: Legen Sie grüne Nadelzweige auf den Boden.
@@ -197,7 +197,7 @@ Auch an einem erlaubten Ort entscheidet der **Risikocode für Naturbrände** des
 | Orange | Allgemeines Feuerverbot, außer Kochfeuer als Gas- oder Grubenfeuer |
 | Rot | Feuerverbot in jeder Form |
 
-In der Wallonie und in Brüssel gelten eigene Regeln. Das Krisenzentrum empfiehlt, sich vorab über die Brandgefahr und den Farbcode auf der Website des Agentschap Natuur en Bos, Wallonie.be, der Gemeinde oder des Naturgebiets zu informieren. Vor Ort: Halten Sie sich an die Regeln und Richtlinien, die am Rand des Naturgebiets stehen.
+In der Wallonie und in Brüssel gelten eigene Regeln. Informieren Sie sich vorab über die Brandgefahr und den Farbcode auf der Website des Agentschap Natuur en Bos, Wallonie.be, der Gemeinde oder des Naturgebiets. Vor Ort: Halten Sie sich an die Regeln und Richtlinien, die am Rand des Naturgebiets stehen.
 
 **Sicher Feuer machen**
 
@@ -223,7 +223,7 @@ Quelle: [Vlaanderen.be: Feuer machen in oder nahe einem Naturgebiet](https://www
 - Tau: Binden Sie Tücher oder Büschel feinen Grases um Ihre Knöchel und gehen Sie vor Sonnenaufgang durch taunasses Gras. Wringen Sie das Wasser in einen Behälter aus.
 - Wasser sammelt sich manchmal in Astgabeln oder Felsspalten.
 - Grasende Tiere (auch Hirsche) weisen besser den Weg zum Wasser als Raubtiere. Bienen fliegen selten weiter als etwa sechs Kilometer (vier Meilen) von ihrem Nest und haben meist Wasser in dieser Entfernung.
-- Regenwasser, das Sie in sauberen Behältern auffangen, ist laut dem amerikanischen Handbuch meist sicher. Wasser aus Seen, Teichen, Sümpfen, Quellen und Bächen müssen Sie aufbereiten, vor allem in der Nähe von Siedlungen.
+- Regenwasser, das Sie in sauberen Behältern auffangen, ist meist sicher. Wasser aus Seen, Teichen, Sümpfen, Quellen und Bächen müssen Sie aufbereiten, vor allem in der Nähe von Siedlungen.
 - In Flandern sind viele Gewässer verschmutzt, zu tief, zu kalt oder auf andere Weise gefährlich. Achten Sie auf Schilder zu Blaualgen.
 
 **Trinken Sie nie**: Meerwasser, Urin oder Alkohol.
@@ -234,7 +234,7 @@ Quelle: [US Army FM 21-76](https://archive.org/details/fm-21-76-survival-manual)
 
 | Methode | Was sie bewirkt | Einschränkungen |
 | --- | --- | --- |
-| **Abkochen** (beste Wahl) | Die CDC empfiehlt, Wasser eine volle Minute kochen zu lassen. Das tötet Krankheitserreger, auch in den Höhen, in die Reisende meist kommen. | Sie brauchen Feuer oder einen Brenner. Chemische Stoffe bleiben. |
+| **Abkochen** (beste Wahl) | Lassen Sie Wasser eine volle Minute kochen. Das tötet Krankheitserreger, auch in den Höhen, in die Reisende meist kommen. | Sie brauchen Feuer oder einen Brenner. Chemische Stoffe bleiben. |
 | **Filter** mit Poren kleiner als 1 µm | Entfernt Bakterien und Parasiten (Protozoen) | Entfernt Viren (zum Beispiel Norovirus) nicht zuverlässig |
 | **Chlor oder Jod** | Wirkt gegen Bakterien und Viren | Wirkt bei praxisüblichen Konzentrationen schlecht gegen Cryptosporidium. Folgen Sie immer der Gebrauchsanweisung des Produkts. |
 | **Chlordioxid** | Wirkt gegen alle Krankheitserreger im Wasser, auch Cryptosporidium | Folgen Sie der Gebrauchsanweisung des Produkts |
@@ -252,12 +252,12 @@ Quelle: [CDC Yellow Book: Water disinfection for travelers](https://www.cdc.gov/
 
 ## Nahrung: Seien Sie äußerst vorsichtig
 
-**Sie brauchen sie weniger dringend, als Sie denken.** Sie können mehrere Wochen ohne Nahrung auskommen. Wasser, Wärme und gefunden werden kommen zuerst. Das amerikanische Handbuch rät sogar davon ab zu essen, wenn Sie kein Wasser haben.
+**Sie brauchen sie weniger dringend, als Sie denken.** Sie können mehrere Wochen ohne Nahrung auskommen. Wasser, Wärme und gefunden werden kommen zuerst. Essen Sie besser nicht, wenn Sie kein Wasser haben.
 
 **Pilze: Essen Sie sie nicht.**
 
-- Die amerikanische Armee ist eindeutig: Essen Sie in einer Überlebenssituation keine Pilze. Nur eine sichere Bestimmung reicht aus, und es gibt keinen Raum zum Experimentieren. Manche Pilze töten schnell, für manche gibt es kein Gegengift.
-- Das Antigiftzentrum sagt dasselbe: Es gibt **keine Tricks**, um einen essbaren von einem giftigen Pilz zu unterscheiden. Junge Pilze sind nicht immer essbar. Weiße Pilze können giftig sein. Ein giftiger Pilz kann gut schmecken. Schnecken fressen auch giftige Arten. Kochen, Trocknen oder Einfrieren macht das Gift des Grünen Knollenblätterpilzes nicht unschädlich. Ein einziges Exemplar kann schon sehr ernst sein.
+- Essen Sie in einer Überlebenssituation keine Pilze. Nur eine sichere Bestimmung reicht aus, und es gibt keinen Raum zum Experimentieren. Manche Pilze töten schnell, für manche gibt es kein Gegengift.
+- Es gibt **keine Tricks**, um einen essbaren von einem giftigen Pilz zu unterscheiden. Junge Pilze sind nicht immer essbar. Weiße Pilze können giftig sein. Ein giftiger Pilz kann gut schmecken. Schnecken fressen auch giftige Arten. Kochen, Trocknen oder Einfrieren macht das Gift des Grünen Knollenblätterpilzes nicht unschädlich. Ein einziges Exemplar kann schon sehr ernst sein.
 - Das Bestimmen mit einem Buch oder einem Foto ist sehr gefährlich.
 - **In Flandern und Brüssel ist das Pilzesammeln auf öffentlichem Gelände verboten.** In der Wallonie ist es eingeschränkt: mit Zustimmung des Eigentümers, zwischen Sonnenaufgang und Sonnenuntergang, höchstens 10 Liter pro Person und nicht während der Jagdsaison in Staatswäldern.
 
@@ -308,7 +308,7 @@ Quelle: [Rode Kruis-Vlaanderen: Erste Hilfe bei Hitzschlag](https://www.gezondhe
 
 ## Nach Person
 
-| Wer | Was die Quellen sagen |
+| Wer | Was Sie tun |
 | --- | --- |
 | Kinder | Bringen Sie ihnen bei: Bleib, wo du bist, wenn du dich verirrt hast, such dir einen Baum (oder eine Bank, einen Laternenmast, einen großen Stein), hör, ob jemand deinen Namen ruft, wink, pfeif, blink mit einer Lampe. Kleine Kinder stecken oft Beeren, Blätter oder Pilze in den Mund; behalten Sie sie im Auge. |
 | Gruppen | Bleiben Sie zusammen. Muss jemand die Gruppe verlassen, dann mit einem Partner. Achten Sie gegenseitig auf Kälte- und Hitzeschäden. Bei einem Verletzten: Zwei oder mehr Personen holen Hilfe, die anderen bleiben. |

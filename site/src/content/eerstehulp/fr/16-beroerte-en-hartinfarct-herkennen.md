@@ -95,7 +95,7 @@ Source : [Gezondheid en Wetenschap : AVC](https://www.gezondheidenwetenschap.be/
 ## Si les secours tardent à arriver
 
 - En cas d'AVC et de crise cardiaque, chaque minute compte. Plus l'aide médicale arrive vite, moins le cerveau ou le cœur sont endommagés. Cherchez donc le chemin le plus rapide vers les soins.
-- En cas d'AVC, l'IFRC indique que le sauveteur doit parfois conduire lui-même la victime à l'hôpital, en voiture ou par un autre moyen, si aucune ambulance ne peut arriver rapidement. Choisissez alors le moyen le plus rapide et veillez à ce que le déplacement puisse se faire en sécurité. La carte de l'application (bouton Le plus proche) indique les hôpitaux.
+- En cas d'AVC, vous devez parfois conduire vous-même la victime à l'hôpital, en voiture ou par un autre moyen, si aucune ambulance ne peut arriver rapidement. Choisissez alors le moyen le plus rapide et veillez à ce que le déplacement puisse se faire en sécurité. La carte de l'application (bouton Le plus proche) indique les hôpitaux.
 - Si les services de secours mettent longtemps à arriver, faites chercher un DEA et gardez-le près de la victime. Une crise cardiaque peut évoluer en arrêt cardiaque.
 - Gardez la victime au repos, sans effort.
 - Surveillez en permanence la respiration et la conscience. Notez l'heure à laquelle les plaintes ont commencé et chaque changement. Transmettez-le aux soignants.
@@ -117,7 +117,7 @@ Source : [IFRC Guidelines 2020](https://www.ifrc.org/sites/default/files/2022-02
 - Le temps compte : n'attendez pas. Ne laissez la victime seule que s'il n'y a pas d'autre possibilité. Désignez directement un témoin pour aller chercher de l'aide et indiquez-lui où c'est, ce qui s'est passé, combien de victimes il y a et dans quel état elles sont. En cas d'AVC : également quand les plaintes ont commencé.
 - Répartissez les tâches entre les témoins : aller chercher de l'aide, garder un œil sur la victime, aller chercher ses propres médicaments ou un DEA.
 - Crise cardiaque : restez auprès de la victime jusqu'à l'arrivée de l'aide. Ne la laissez faire aucun effort.
-- AVC : si aucune ambulance ne peut venir rapidement, vous devez parfois, selon l'IFRC, conduire vous-même la victime à l'hôpital (voir Si les secours tardent à arriver).
+- AVC : si aucune ambulance ne peut venir rapidement, vous devez parfois conduire vous-même la victime à l'hôpital (voir Si les secours tardent à arriver).
 - Si vous réanimez et êtes seul sans téléphone, voir le sujet 2 (Si l'appel ne passe pas).
 - Voir aussi le sujet 1 (Si l'appel ne passe pas : chercher de l'aide sans téléphone) et Numéros d'urgence dans l'application, Si l'appel ne passe pas.
 

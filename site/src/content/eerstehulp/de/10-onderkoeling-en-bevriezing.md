@@ -85,8 +85,8 @@ Quelle: [Gezondheid en Wetenschap: Unterkühlung](https://www.gezondheidenwetens
 1. Prüfen Sie zuerst, ob die Person auch unterkühlt ist. Eine Unterkühlung ist schwerwiegender und hat Vorrang.
 2. Bringen Sie die Person so schnell wie möglich in einen warmen Raum oder Unterschlupf. Ziehen Sie nasse Kleidung aus und wärmen Sie sie unter trockenen Decken und Kleidung auf.
 3. Entfernen Sie vorsichtig Schmuck, wenn das möglich ist, ohne die Haut zu beschädigen.
-4. Wärmen Sie den erfrorenen Teil nur auf, wenn kein Risiko besteht, dass er erneut gefriert. Die IFRC empfiehlt das Aufwärmen vor Ort nur, wenn Sie die Mittel dazu haben und medizinische Versorgung mehr als 2 Stunden entfernt ist.
-5. Tauchen Sie den erfrorenen Teil in warmes Wasser, das sich auf einer gesunden Hautstelle angenehm anfühlt. Die IFRC nennt 37 bis 39 °C. Wärmen Sie auf, bis sich die Haut rot oder violett färbt und sich wieder weich und geschmeidig anfühlt, meist nach etwa 30 Minuten.
+4. Wärmen Sie den erfrorenen Teil nur auf, wenn kein Risiko besteht, dass er erneut gefriert. Wärmen Sie ihn nur vor Ort auf, wenn Sie die Mittel dazu haben und medizinische Versorgung mehr als 2 Stunden entfernt ist.
+5. Tauchen Sie den erfrorenen Teil in warmes Wasser von 37 bis 39 °C, das sich auf einer gesunden Hautstelle angenehm anfühlt. Wärmen Sie auf, bis sich die Haut rot oder violett färbt und sich wieder weich und geschmeidig anfühlt, meist nach etwa 30 Minuten.
 6. Haben Sie kein warmes Wasser, wärmen Sie den Teil mit Körperwärme auf, zum Beispiel erfrorene Finger in der Achselhöhle.
 7. Reiben oder massieren Sie nicht und gehen Sie nicht grob mit der Haut um.
 8. Decken Sie den Teil mit sterilem Mull ab. Sind Finger oder Zehen erfroren, legen Sie Mull zwischen jeden Finger oder Zeh.
@@ -103,7 +103,7 @@ Quelle: [Gezondheid en Wetenschap: Unterkühlung](https://www.gezondheidenwetens
 - Geben Sie ein warmes, alkoholfreies Getränk an jemanden, der voll bei Bewusstsein ist und schlucken kann. Geben Sie nichts an jemanden, der bewusstlos ist.
 - Halten Sie die Person nach dem Aufwärmen trocken und eingepackt, auch Kopf und Hals.
 - Unterkühlte Menschen mit Kreislaufstillstand müssen ohne Unterbrechung wiederbelebt werden, bis sie wieder aufgewärmt sind. Die Chancen auf Erholung nach einem Kreislaufstillstand durch leichte bis mäßige Unterkühlung sind ausgezeichnet. Bei Unterkühlung besteht eine Chance, dass die Person auf die Wiederbelebung anspricht, auch ohne Defibrillator. Müssen Sie die Person transportieren, führen Sie die Wiederbelebung während des Transports ohne Unterbrechung auf einem harten Untergrund durch.
-- Erfrierung: Die IFRC empfiehlt, erfrorene Körperteile nur aufzuwärmen, wenn Sie die nötigen Mittel haben, wenn medizinische Versorgung mehr als 2 Stunden entfernt ist und wenn der Teil nicht erneut gefrieren kann. Ist medizinische Versorgung näher, wärmen Sie den Teil nicht selbst auf.
+- Erfrierung: Wärmen Sie erfrorene Körperteile nur auf, wenn Sie die nötigen Mittel haben, wenn medizinische Versorgung mehr als 2 Stunden entfernt ist und wenn der Teil nicht erneut gefrieren kann. Ist medizinische Versorgung näher, wärmen Sie den Teil nicht selbst auf.
 - Lassen Sie jemanden mit erfrorenen Füßen oder Zehen nicht gehen, außer es muss wirklich sein. Das vergrößert den Schaden.
 - Nach dem Aufwärmen dürfen Sie Aloe vera auf die erfrorene Haut auftragen.
 - Sagen Sie jemandem, wohin Sie gehen und wann Sie zurück sein wollen, wenn Sie an einen kalten, abgelegenen Ort gehen.
@@ -118,7 +118,7 @@ Quelle: [IFRC Guidelines 2020](https://www.ifrc.org/sites/default/files/2022-02/
 - die Körpertemperatur unter 35 °C liegt;
 - die Person bewusstlos ist oder nicht normal atmet: Beginnen Sie dann auch mit der Wiederbelebung.
 
-Die IFRC empfiehlt, bei jeder Unterkühlung medizinische Hilfe anzufordern. Lassen Sie eine Erfrierung immer von einem Arzt untersuchen.
+Fordern Sie bei jeder Unterkühlung medizinische Hilfe an. Lassen Sie eine Erfrierung immer von einem Arzt untersuchen.
 
 **Kommt kein Anruf zustande**
 

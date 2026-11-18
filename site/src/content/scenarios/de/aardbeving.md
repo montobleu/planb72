@@ -45,7 +45,7 @@ origineel_datum: "2026-11-18"
 
 Bei einem Erdbeben bebt oder zittert der Boden. Nach dem ersten Stoß können Nachbeben folgen, manchmal viel später.
 
-**Erdbeben in Belgien.** Belgien liegt in einer sogenannten stabilen Zone. Dennoch haben größere Erdbeben hier in der Vergangenheit Schäden verursacht. Die Königliche Sternwarte von Belgien nennt unter anderem die Beben von 1382 und 1449 in der Nordsee, 1580 im Ärmelkanal, 1692 in Verviers, 1756 in Düren (Deutschland), 1938 in Zulzeke-Nukerke und 1992 in Roermond (Niederlande). Im Durchschnitt tritt in Belgien etwa einmal alle 40 Jahre ein Beben der Magnitude 5 oder mehr auf, und etwa einmal alle 315 Jahre ein Beben der Magnitude 6 oder mehr.
+**Erdbeben in Belgien.** Belgien liegt in einer sogenannten stabilen Zone. Dennoch haben größere Erdbeben hier in der Vergangenheit Schäden verursacht. Beispiele sind die Beben von 1382 und 1449 in der Nordsee, 1580 im Ärmelkanal, 1692 in Verviers, 1756 in Düren (Deutschland), 1938 in Zulzeke-Nukerke und 1992 in Roermond (Niederlande). Im Durchschnitt tritt in Belgien etwa einmal alle 40 Jahre ein Beben der Magnitude 5 oder mehr auf, und etwa einmal alle 315 Jahre ein Beben der Magnitude 6 oder mehr.
 
 **Die größte Gefahr** sind Schäden an Gebäuden oder deren Einsturz. Auch herabfallende Gegenstände, Glas, Gaslecks, beschädigte Elektrik und Brand sind ein Risiko. Die belgische Risikoanalyse hält ein schweres Erdbeben für wenig wahrscheinlich.
 
@@ -70,7 +70,7 @@ Quelle: [Königliche Sternwarte: FAQ](https://seismologie.be/de/haufig-gestellte
 - Üben Sie gemeinsam, wie man in Deckung geht. Nehmen Sie an Übungen teil oder verfolgen Sie sie.
 - Kennen Sie die offiziellen Risikoinformationen und die Sicherheitsanweisungen.
 
-**Notfallpaket.** Halten Sie ein Paket bereit mit einem batteriebetriebenen Radio, einer Taschenlampe, Trinkwasser, persönlichen Dokumenten, notwendigen Medikamenten, Decken, Ersatzkleidung, Konserven und einem Erste-Hilfe-Kasten. Das Nationale Krisenzentrum empfiehlt, mindestens 3 Tage selbst zurechtzukommen. Ready.gov ergänzt eine Pfeife, um Hilfe zu rufen.
+**Notfallpaket.** Halten Sie ein Paket bereit mit einem batteriebetriebenen Radio, einer Taschenlampe, Trinkwasser, persönlichen Dokumenten, notwendigen Medikamenten, Decken, Ersatzkleidung, Konserven, einem Erste-Hilfe-Kasten und einer Pfeife, um Hilfe zu rufen. Sorgen Sie dafür, dass Sie mindestens 3 Tage selbst zurechtkommen.
 
 Quelle: [Nationales Krisenzentrum](https://krisenzentrum.be/de/risiken-belgien/naturrisiken/erdbeben) · [Königliche Sternwarte: FAQ](https://seismologie.be/de/haufig-gestellte-fragen) · [Nationales Krisenzentrum: Notfallpaket](https://krisenzentrum.be/de/was-koennen-sie-tun/stelle-ein-notfallpaket-zusammen/ein-notfallset-fuer-zu-hause) · [Ready.gov](https://www.ready.gov/earthquakes) · [Nationales Krisenzentrum: digitale Infrastruktur](https://krisenzentrum.be/de/risiken-belgien/maatschappelijke-risicos/ausfall-der-digitalen-infrastruktur)
 
@@ -88,11 +88,11 @@ Schützen Sie sich sofort.
 4. Halten Sie sich mit der anderen Hand am Möbelstück fest. Bewegt es sich, bewegen Sie sich mit.
 5. Bleiben Sie so, bis das Beben aufhört.
 
-**Kein stabiles Möbelstück in der Nähe.** Setzen oder hocken Sie sich an eine Innenwand, weg von Fenstern. Beugen Sie sich nach vorn, um Ihren Oberkörper zu schützen, und halten Sie Kopf und Nacken mit beiden Armen fest. Die Königliche Sternwarte nennt auch eine tragende Wand oder eine Säule als Schutzort.
+**Kein stabiles Möbelstück in der Nähe.** Setzen oder hocken Sie sich an eine Innenwand, weg von Fenstern. Beugen Sie sich nach vorn, um Ihren Oberkörper zu schützen, und halten Sie Kopf und Nacken mit beiden Armen fest. Auch eine tragende Wand oder eine Säule ist ein Schutzort.
 
 **Liegen Sie im Bett.** Drehen Sie sich auf den Bauch und bedecken Sie Kopf und Nacken mit einem Kissen.
 
-**Sind Sie nahe an einem Ausgang.** Das Nationale Krisenzentrum sagt: Ist ein Ausgang in der Nähe, gehen Sie sicher nach draußen auf eine freie Fläche, weg von Gebäuden. Die Königliche Sternwarte und das amerikanische Ready.gov empfehlen, zu bleiben, wo Sie sind, und nicht nach draußen zu laufen. Zweifeln Sie, ob der Weg nach draußen sicher ist, bleiben Sie drinnen und gehen Sie in Deckung.
+**Sind Sie nahe an einem Ausgang.** Ist der Ausgang ganz nah und der Weg nach draußen sicher, gehen Sie auf eine freie Fläche, weg von Gebäuden. Im Zweifel bleiben Sie, wo Sie sind, und gehen in Deckung.
 
 **Immer.**
 

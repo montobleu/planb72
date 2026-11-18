@@ -162,7 +162,7 @@ Kommt kein Anruf zustande, lassen Sie jemand anderen anrufen oder schicken Sie j
 
 - Ältere Menschen und Menschen mit einer chronischen Krankheit, mit Herz- oder Atemproblemen oder mit Blutarmut sind stärker gefährdet.
 - Raucher, und vor allem Pfeifen-, Zigarren- und Wasserpfeifenraucher, haben bereits mehr CO im Blut.
-- Wer schläft, getrunken hat oder unter Einfluss steht, kann an CO sterben, bevor er Beschwerden bemerkt. Die CDC empfiehlt einen Melder bei jedem Schlafraum.
+- Wer schläft, getrunken hat oder unter Einfluss steht, kann an CO sterben, bevor er Beschwerden bemerkt. Bringen Sie einen Melder bei jedem Schlafraum an.
 
 ### Haustiere und Tiere
 

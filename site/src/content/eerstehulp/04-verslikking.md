@@ -113,7 +113,7 @@ Bron: [IFRC Guidelines 2020](https://www.ifrc.org/sites/default/files/2022-02/EN
 - de rugslagen en buik- of borststoten niet helpen;
 - het slachtoffer het bewustzijn verliest.
 
-Ga ook naar een arts als het slachtoffer blijft hoesten, moeilijk kan slikken, het gevoel heeft dat er iets in de keel zit, of buikstoten heeft gekregen. De Croix-Rouge de Belgique raadt een medisch advies of een oproep naar 112 aan, ook als het voorwerp eruit is.
+Ga ook naar een arts als het slachtoffer blijft hoesten, moeilijk kan slikken, het gevoel heeft dat er iets in de keel zit, of buikstoten heeft gekregen. Vraag medisch advies of bel 112, ook als het voorwerp eruit is.
 
 **Lukt bellen niet**
 
@@ -130,7 +130,7 @@ Bron: [Gezondheid en Wetenschap: Verslikking](https://www.gezondheidenwetenschap
 - Geef een baby geen buikstoten maar borststoten.
 - Geef een zwangere vrouw geen buikstoten maar borststoten.
 - Laat het slachtoffer niet alleen tot het weer normaal ademt.
-- Wacht niet uit angst om iets fout te doen. Volgens het Rode Kruis kan niets doen wel fout aflopen.
+- Wacht niet uit angst om iets fout te doen. Niets doen kan wel fout aflopen.
 
 Voorkomen bij kinderen: halveer rond voedsel zoals druiven en tomaten. Hou een baby in het oog als die eet of iets in de mond kan steken.
 

@@ -115,7 +115,7 @@ Source : [IFRC Guidelines 2020](https://www.ifrc.org/sites/default/files/2022-02
 - les tapes dans le dos et les compressions abdominales ou thoraciques n'aident pas ;
 - la victime perd connaissance.
 
-Consultez aussi un médecin si la victime continue à tousser, a du mal à avaler, a la sensation que quelque chose se trouve dans la gorge, ou a reçu des compressions abdominales. La Croix-Rouge de Belgique recommande un avis médical ou un appel au 112, même si l'objet est sorti.
+Consultez aussi un médecin si la victime continue à tousser, a du mal à avaler, a la sensation que quelque chose se trouve dans la gorge, ou a reçu des compressions abdominales. Demandez un avis médical ou appelez le 112, même si l'objet est sorti.
 
 **Si l'appel ne passe pas**
 
@@ -132,7 +132,7 @@ Source : [Gezondheid en Wetenschap : Étouffement](https://www.gezondheidenweten
 - Ne faites pas de compressions abdominales à un bébé, mais des compressions thoraciques.
 - Ne faites pas de compressions abdominales à une femme enceinte, mais des compressions thoraciques.
 - Ne laissez pas la victime seule tant qu'elle ne respire pas à nouveau normalement.
-- N'attendez pas par peur de mal faire. Selon la Croix-Rouge, c'est ne rien faire qui peut mal tourner.
+- N'attendez pas par peur de mal faire. C'est ne rien faire qui peut mal tourner.
 
 Prévention chez les enfants : coupez en deux les aliments ronds comme les raisins et les tomates. Surveillez un bébé lorsqu'il mange ou qu'il peut mettre quelque chose en bouche.
 

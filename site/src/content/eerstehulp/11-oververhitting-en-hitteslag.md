@@ -21,7 +21,7 @@ bronnen:
 
 ## Herkennen
 
-Oververhitting ontstaat na lange blootstelling aan hoge temperaturen of na een zware inspanning in de warmte. De IFRC onderscheidt twee niveaus. Hitteslag is levensbedreigend.
+Oververhitting ontstaat na lange blootstelling aan hoge temperaturen of na een zware inspanning in de warmte. Er zijn twee niveaus. Hitteslag is levensbedreigend.
 
 Lichte tot matige oververhitting (hitte-uitputting):
 
@@ -37,7 +37,7 @@ Hitteslag:
 - het slachtoffer is in een warme omgeving, komt er net vandaan of heeft net een zware inspanning geleverd;
 - eerst hevig zweten, daarna niet meer zweten;
 - een rode, droge, hete huid;
-- een hoge lichaamstemperatuur: de Belgische richtlijn noemt 39 °C als grens om 112 te bellen, de IFRC spreekt van meer dan 40 °C bij hitteslag;
+- een hoge lichaamstemperatuur: bel 112 vanaf 39 °C;
 - hoofdpijn, zwarte vlekken zien, duizeligheid, flauwvallen;
 - misselijkheid en braken, spier- of buikkrampen, pijn in het hele lichaam;
 - verwardheid, sufheid of vreemd gedrag;
@@ -57,7 +57,7 @@ Bron: [Gezondheid en Wetenschap: Hitteslag](https://www.gezondheidenwetenschap.b
 2. Breng het naar een koele plek. Doe overtollige kleding uit.
 3. Bel 112 of laat iemand bellen bij de tekens van hitteslag. Lukt bellen niet, zie Bel 112 als.
 4. Koel onmiddellijk af. Hoe ernstiger de klachten, hoe krachtiger je mag koelen. Kies de beste methode die je hebt:
-   - Beste keuze: dompel het slachtoffer tot aan de nek onder in een bad met lauw tot koud water. De IFRC noemt water van 1 tot 26 °C, ongeveer 15 minuten of tot de temperatuur onder 39 °C zakt. De Belgische richtlijn zegt: tot de toestand verbetert, maximaal 15 minuten.
+   - Beste keuze: dompel het slachtoffer tot aan de nek onder in een bad met lauw tot koud water, tot de toestand verbetert en maximaal 15 minuten.
    - Lukt onderdompelen niet, bijvoorbeeld omdat er geen koud water is of omdat het slachtoffer verward is en weigert: leg een koel, nat laken over het slachtoffer of maak het nat met koud water.
    - Leg ijsblokjes in een zakje water, koelzakjes of natte, koude doeken op plaatsen met grote bloedvaten: in de liezen, onder de oksels en in de nek.
    - Besprenkel of overgiet het slachtoffer met koud water. Een plantenspuit kan helpen.
@@ -92,11 +92,11 @@ Bron: [Gezondheid en Wetenschap: Hitteslag](https://www.gezondheidenwetenschap.b
 
 ## Als hulp lang op zich laat wachten
 
-- Blijf koelen met elk middel dat je hebt: water, natte doeken, schaduw, wapperen. De ERC zegt: begin actief te koelen met alles wat beschikbaar is, zoals kleding uitdoen, natte doeken, ventilatoren en koel water.
+- Blijf actief koelen met alles wat je hebt: kleding uitdoen, koel water, natte doeken, schaduw, wapperen of een ventilator.
 - Zorg dat koelmiddelen klaarliggen op plaatsen waar het risico op oververhitting groot is, zodat er geen vertraging is.
 - Volg de temperatuur en het bewustzijn op. Probeer de temperatuur onder 39 °C te brengen en te houden.
 - Hou de persoon na het afkoelen koel en laat hem rusten. De meeste mensen met lichte tot matige oververhitting herstellen volledig.
-- Uitdroging: laat iemand die goed bij bewustzijn is voldoende drinken. Bij lichte uitdroging volstaat water. Bij ernstigere uitdroging raadt de IFRC een orale rehydratieoplossing aan. Heb je die niet, geef dan appelsap, kokoswater of water.
+- Uitdroging: laat iemand die goed bij bewustzijn is voldoende drinken. Bij lichte uitdroging volstaat water. Bij ernstigere uitdroging geef je een orale rehydratieoplossing. Heb je die niet, geef dan appelsap, kokoswater of water.
 - Zoek medisch advies bij uitdroging als de toestand niet snel verbetert, bij een baby, kind of oudere, als iemand meer vocht verliest dan hij kan drinken, als iemand weinig of niet plast en de urine donker is, of bij koorts of tekens van oververhitting.
 - Neem op reis in afgelegen gebieden met weinig water genoeg drinken mee. Vermijd zware inspanning op het heetste moment van de dag.
 

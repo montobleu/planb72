@@ -71,16 +71,16 @@ Bron: [Nationaal Crisiscentrum](https://crisiscentrum.be/nl/risicos-belgie/econo
 
 - **Ken je buurt.** Kijk vooraf op seveso.be of je in de buurt van een seveso-bedrijf woont, werkt of naar school gaat. Seveso-bedrijven werken met gevaarlijke stoffen.
 - **Schrijf je in op BE-Alert.** Voeg naast je woonadres ook andere adressen toe: je werk, de school of opvang van je kinderen, het adres van een kwetsbaar familielid.
-- **Kies je schuilkamer.** De Belgische overheid raadt een centrale kamer op het gelijkvloers aan, weg van ramen en buitendeuren. Muren en plafonds beschermen beter dan ramen. Kies een kamer met zo weinig mogelijk ramen en deuren naar buiten.
+- **Kies je schuilkamer:** een centrale kamer op het gelijkvloers, weg van ramen en buitendeuren. Muren en plafonds beschermen beter dan ramen. Kies een kamer met zo weinig mogelijk ramen en deuren naar buiten.
 - **Weet hoe je de ventilatie uitzet.** Zoek vooraf op hoe je mechanische ventilatie, airco en de luchtinlaat van de verwarming stilzet.
-- **Leg materiaal klaar om kieren te dichten.** Het Amerikaanse Ready.gov raadt aan om plastic folie, sterke tape en een schaar klaar te leggen om deuren, ramen en roosters af te dekken. Natte handdoeken kunnen ook.
+- **Leg materiaal klaar om kieren te dichten:** plastic folie, sterke tape en een schaar om deuren, ramen en roosters af te dekken. Natte handdoeken kunnen ook.
 - **Maak een noodpakket** met water, eten, een radio op batterijen of met een slinger, een zaklamp, medicatie en een opgeladen powerbank.
 - **Maak afspraken** met huisgenoten en buren: wie doet wat, en hoe bereik je elkaar zonder telefoon of internet.
 - **Leg een papieren lijst** met belangrijke telefoonnummers bij je noodpakket.
 
-**Verschil tussen bronnen over de verdieping.** De Belgische overheid adviseert een centrale kamer op het gelijkvloers. Het Bezirksamt Pankow in Berlijn en Ready.gov raden bij gassen een kamer op een hogere verdieping of boven de grond aan, omdat de meeste gassen zwaarder zijn dan lucht en zakken. In België volg je het Belgische advies. Geeft de overheid een andere instructie voor een bepaalde stof, volg dan die instructie.
+Geeft de overheid een andere instructie voor een bepaalde stof, volg dan die instructie.
 
-Bron: [Nationaal Crisiscentrum: seveso](https://crisiscentrum.be/nl/risicos-belgie/economische-en-technologische-risicos/incident-een-seveso-installatie) · [Seveso.be](https://www.seveso.be/nl/seveso-ondernemingen) · [BE-Alert](https://www.be-alert.be/en/notified-wherever-you-are) · [Ready.gov](https://www.ready.gov/chemical) · [Bezirksamt Pankow](https://www.berlin.de/ba-pankow/politik-und-verwaltung/beauftragte/katastrophenschutz/artikel.1640880.php) · [Nationaal Crisiscentrum: Samen voorbereid](https://crisiscentrum.be/sites/default/files/documents/files/WEB-Brochure%20Samen%20voorbereid-NL.pdf) · [Nationaal Crisiscentrum: plan in jouw buurt](https://crisiscentrum.be/nl/wat-kan-jij-doen/maak-een-plan/een-plan-jouw-buurt-vereniging)
+Bron: [Nationaal Crisiscentrum: seveso](https://crisiscentrum.be/nl/risicos-belgie/economische-en-technologische-risicos/incident-een-seveso-installatie) · [Seveso.be](https://www.seveso.be/nl/seveso-ondernemingen) · [BE-Alert](https://www.be-alert.be/en/notified-wherever-you-are) · [Ready.gov](https://www.ready.gov/chemical) · [Nationaal Crisiscentrum: Samen voorbereid](https://crisiscentrum.be/sites/default/files/documents/files/WEB-Brochure%20Samen%20voorbereid-NL.pdf) · [Nationaal Crisiscentrum: plan in jouw buurt](https://crisiscentrum.be/nl/wat-kan-jij-doen/maak-een-plan/een-plan-jouw-buurt-vereniging)
 
 ## Tijdens
 
@@ -108,8 +108,6 @@ Schuilen is de beste bescherming. Schuilen is tijdelijk: van enkele uren tot hoo
 1. Loop weg van het ongeval, bij voorkeur dwars op de windrichting.
 2. Adem door een doek, minstens door een zakdoek.
 3. Ga het dichtstbijzijnde gesloten gebouw binnen. Vraag om binnen te mogen en volg daar dezelfde stappen als thuis.
-
-Ready.gov raadt aan om bovenwinds van de bron te gaan. De Belgische en Duitse overheid raden aan om dwars op de wind weg te lopen. Volg het Belgische advies.
 
 **Had je contact met een verdachte stof?**
 

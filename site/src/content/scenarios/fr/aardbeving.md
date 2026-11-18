@@ -45,7 +45,7 @@ origineel_datum: "2026-11-18"
 
 Lors d'un tremblement de terre, le sol tremble ou vibre. Des répliques peuvent suivre la première secousse, parfois beaucoup plus tard.
 
-**Les tremblements de terre en Belgique.** La Belgique se trouve dans une zone dite stable. Pourtant, des tremblements de terre importants y ont déjà causé des dégâts par le passé. L'Observatoire royal de Belgique cite notamment les séismes de 1382 et 1449 en mer du Nord, de 1580 dans la Manche, de 1692 à Verviers, de 1756 à Düren (Allemagne), de 1938 à Zulzeke-Nukerke et de 1992 à Roermond (Pays-Bas). En moyenne, la Belgique connaît environ une fois tous les 40 ans un séisme de magnitude 5 ou plus, et environ une fois tous les 315 ans un séisme de magnitude 6 ou plus.
+**Les tremblements de terre en Belgique.** La Belgique se trouve dans une zone dite stable. Pourtant, des tremblements de terre importants y ont déjà causé des dégâts par le passé. Exemples : les séismes de 1382 et 1449 en mer du Nord, de 1580 dans la Manche, de 1692 à Verviers, de 1756 à Düren (Allemagne), de 1938 à Zulzeke-Nukerke et de 1992 à Roermond (Pays-Bas). En moyenne, la Belgique connaît environ une fois tous les 40 ans un séisme de magnitude 5 ou plus, et environ une fois tous les 315 ans un séisme de magnitude 6 ou plus.
 
 **Le plus grand danger** est l'endommagement ou l'effondrement des bâtiments. Les chutes d'objets, le verre, les fuites de gaz, les installations électriques endommagées et les incendies représentent aussi un risque. L'analyse des risques belge considère un tremblement de terre important comme peu probable.
 
@@ -70,7 +70,7 @@ Source : [Observatoire royal : FAQ](https://seismologie.be/fr/foire-aux-question
 - Entraînez-vous ensemble à vous mettre à l'abri. Participez à des exercices ou suivez-les.
 - Connaissez les informations officielles sur les risques et les consignes de sécurité.
 
-**Kit d'urgence.** Gardez prêt un kit avec une radio à piles, une lampe de poche, de l'eau potable, vos documents personnels, les médicaments indispensables, des couvertures, des vêtements de rechange, des conserves et une trousse de premiers secours. Le Centre de crise National recommande d'être autonome pendant au moins 3 jours. Ready.gov ajoute un sifflet pour appeler à l'aide.
+**Kit d'urgence.** Gardez prêt un kit avec une radio à piles, une lampe de poche, de l'eau potable, vos documents personnels, les médicaments indispensables, des couvertures, des vêtements de rechange, des conserves, une trousse de premiers secours et un sifflet pour appeler à l'aide. Faites en sorte d'être autonome pendant au moins 3 jours.
 
 Source : [Centre de crise National](https://centredecrise.be/fr/risques-en-belgique/risques-naturels/tremblement-de-terre) · [Observatoire royal : FAQ](https://seismologie.be/fr/foire-aux-questions) · [Centre de crise National : kit d'urgence](https://centredecrise.be/fr/que-pouvez-vous-faire/preparez-un-kit-durgence/un-kit-durgence-la-maison) · [Ready.gov](https://www.ready.gov/earthquakes) · [Centre de crise National : infrastructure numérique](https://centredecrise.be/fr/risques-en-belgique/risques-societaux/defaillance-des-infrastructures-digitales)
 
@@ -88,11 +88,11 @@ Protégez-vous immédiatement.
 4. Tenez-vous au meuble avec l'autre main. S'il bouge, bougez avec lui.
 5. Restez ainsi jusqu'à ce que les secousses s'arrêtent.
 
-**Pas de meuble solide à proximité.** Asseyez-vous ou accroupissez-vous contre un mur intérieur, loin des fenêtres. Penchez-vous en avant pour protéger votre buste et tenez votre tête et votre nuque avec les deux bras. L'Observatoire royal cite aussi un mur porteur ou une colonne comme endroit où s'abriter.
+**Pas de meuble solide à proximité.** Asseyez-vous ou accroupissez-vous contre un mur intérieur, loin des fenêtres. Penchez-vous en avant pour protéger votre buste et tenez votre tête et votre nuque avec les deux bras. Un mur porteur ou une colonne est aussi un endroit où s'abriter.
 
 **Si vous êtes au lit.** Mettez-vous sur le ventre et couvrez votre tête et votre nuque avec un oreiller.
 
-**Si vous êtes près d'une sortie.** Le Centre de crise National indique : s'il y a une sortie à proximité, sortez en sécurité vers un endroit dégagé, loin des bâtiments. L'Observatoire royal et le site américain Ready.gov conseillent de rester où vous êtes et de ne pas courir dehors. Si vous doutez que le chemin vers l'extérieur soit sûr, restez à l'intérieur et abritez-vous.
+**Si vous êtes près d'une sortie.** Si la sortie est toute proche et que le chemin vers l'extérieur est sûr, allez vers un endroit dégagé, loin des bâtiments. En cas de doute, restez où vous êtes et abritez-vous.
 
 **Toujours.**
 

@@ -42,7 +42,7 @@ Commencez immédiatement la réanimation si quelqu'un s'effondre soudainement, n
 - De brefs mouvements saccadés sont possibles, surtout chez les personnes plus jeunes. Vérifiez la respiration dès qu'ils s'arrêtent.
 - Prendre le pouls n'est pas nécessaire et n'est pas fiable.
 
-Âges selon l'ERC : un bébé a moins de 1 an, un enfant a de 1 à 12 ans, un adolescent de 13 à 18 ans. Si vous hésitez entre adolescent et adulte, suivez la méthode pour adultes.
+Âges : un bébé a moins de 1 an, un enfant a de 1 à 12 ans, un adolescent de 13 à 18 ans. Si vous hésitez entre adolescent et adulte, suivez la méthode pour adultes.
 
 Source : [Gezondheid en Wetenschap : Réanimation](https://www.gezondheidenwetenschap.be/richtlijnen/reanimatie-cardiopulmonale-resuscitatie-of-cpr) · [ERC Guidelines 2025 for Everyone](https://www.erc.edu/media/p5ymaeej/gl2025_layperson_book_ipdf-v11-e.pdf) · [IFRC Guidelines 2020](https://www.ifrc.org/sites/default/files/2022-02/EN_GFARC_GUIDELINES_2020.pdf)
 
@@ -100,10 +100,10 @@ Source : [Gezondheid en Wetenschap : Comment réanimer ?](https://www.gezondheid
 - La réanimation seule fait rarement repartir le cœur. Le cœur a généralement besoin d'un choc d'un défibrillateur. Faites donc chercher un DEA le plus vite possible. Chaque minute de retard jusqu'au choc réduit les chances de survie d'environ 10 pour cent.
 - Relayez-vous avec d'autres sauveteurs toutes les 1 à 2 minutes, pour que personne ne s'épuise. Montrez brièvement aux témoins comment comprimer.
 - Si la victime doit être transportée d'une région isolée vers des soins médicaux, la réanimation doit continuer sans interruption pendant le transport, sur une surface dure.
-- Après une noyade ou en cas d'hypothermie, il est possible que la personne réagisse à la réanimation, même sans défibrillateur. En cas d'hypothermie, l'ERC indique de réanimer sans interruption jusqu'à ce que la personne soit réchauffée.
-- L'IFRC écrit pour les enfants et les bébés : là où aucun service de secours ni aucun hôpital n'est joignable et où la réanimation reste sans effet après les 20 premières minutes, vous pouvez arrêter, car poursuivre la réanimation n'aidera probablement plus. Cela ne s'applique pas après une noyade ou en cas d'hypothermie. Pour les adultes, l'IFRC demande dans ces circonstances de protéger la dignité de la personne.
+- Après une noyade ou en cas d'hypothermie, il est possible que la personne réagisse à la réanimation, même sans défibrillateur. En cas d'hypothermie, réanimez sans interruption jusqu'à ce que la personne soit réchauffée.
+- Chez les enfants et les bébés : là où aucun service de secours ni aucun hôpital n'est joignable et où la réanimation reste sans effet après les 20 premières minutes, vous pouvez arrêter, car poursuivre la réanimation n'aidera probablement plus. Cela ne s'applique pas après une noyade ou en cas d'hypothermie. Chez les adultes, protégez dans ces circonstances la dignité de la personne.
 - Si la personne reprend connaissance, restez auprès d'elle et contrôlez en permanence la conscience et la respiration jusqu'à l'arrivée d'un médecin.
-- Une réanimation est une expérience éprouvante. L'ERC recommande que les sauveteurs reçoivent ensuite du soutien. Parlez-en et cherchez de l'aide si c'est difficile pour vous.
+- Une réanimation est une expérience éprouvante. Veillez à ce que les sauveteurs reçoivent ensuite du soutien. Parlez-en et cherchez de l'aide si c'est difficile pour vous.
 
 Source : [ERC Guidelines 2025 for Everyone](https://www.erc.edu/media/p5ymaeej/gl2025_layperson_book_ipdf-v11-e.pdf) · [IFRC Guidelines 2020](https://www.ifrc.org/sites/default/files/2022-02/EN_GFARC_GUIDELINES_2020.pdf)
 
@@ -120,7 +120,7 @@ Appelez avec le haut-parleur activé et continuez entre-temps la réanimation. S
 
 - Ne laissez la victime seule que s'il n'y a pas d'autre possibilité. Désignez directement un témoin pour aller chercher de l'aide et indiquez-lui où c'est, ce qui s'est passé, combien de victimes il y a et dans quel état elles sont. Envoyez quelqu'un d'autre chercher un DEA.
 - Si vous êtes deux : l'un réanime, l'autre va chercher de l'aide et rapporte un DEA si possible.
-- Si vous êtes seul sans téléphone : chez un adulte, allez d'abord chercher de l'aide et commencez ensuite la réanimation ; chez un enfant, réanimez d'abord pendant 1 minute et allez ensuite chercher de l'aide. C'est ce que prévoient les recommandations de l'ERC de 2021.
+- Si vous êtes seul sans téléphone : chez un adulte, allez d'abord chercher de l'aide et commencez ensuite la réanimation ; chez un enfant, réanimez d'abord pendant 1 minute et allez ensuite chercher de l'aide.
 - Si vous êtes seul, n'allez pas chercher de DEA, sauf s'il est tout proche et visible. Commencez la réanimation.
 - Voir aussi le sujet 1 (Si l'appel ne passe pas : chercher de l'aide sans téléphone) et Numéros d'urgence dans l'application, Si l'appel ne passe pas.
 

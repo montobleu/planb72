@@ -109,9 +109,7 @@ Bron: [Nationaal Crisiscentrum: kerncentrale](https://crisiscentrum.be/nl/risico
 8. Volg de instructies van de overheid via de radio of tv en let op omroepwagens van de politie. Werkt het netwerk, volg dan ook BE-Alert en de officiële websites.
 9. Bel niet om informatie te vragen. Bel alleen bij een medisch noodgeval (112). Overbodige oproepen overbelasten het net. Lukt bellen niet, zie Noodnummers, Als bellen niet lukt. Werkt het netwerk, verwittig anderen dan met sms, WhatsApp of Signal.
 
-**Heb je een kelder?** De Belgische bronnen spreken over een centrale kamer op het gelijkvloers. Het Amerikaanse Ready.gov noemt een kelder of het midden van een groot gebouw als de best beschermde plek, met zoveel mogelijk muren tussen jou en buiten. Ook gebouwen in baksteen of beton en ondergrondse parkings bieden goede bescherming.
-
-**Hoe lang.** Schuilen duurt in principe hoogstens 24 uur. Duurt de uitstoot langer, dan kunnen radioactieve deeltjes stilaan binnendringen langs kieren en roosters. De overheid kan dan een evacuatie van bepaalde zones bevelen. Ready.gov raadt aan om de eerste 24 uur op de best beschermde plek te blijven en alleen eerder te vertrekken bij direct gevaar, zoals brand, een gaslek of een ernstige verwonding.
+**Hoe lang.** Schuilen duurt in principe hoogstens 24 uur. Duurt de uitstoot langer, dan kunnen radioactieve deeltjes stilaan binnendringen langs kieren en roosters. De overheid kan dan een evacuatie van bepaalde zones bevelen. Verlaat je schuilplek niet eerder, tenzij bij direct gevaar, zoals brand, een gaslek of een ernstige verwonding.
 
 **Eten en drinken tijdens het schuilen.** Eten en drinken dat binnen stond, is veilig. Gesloten verpakkingen van buiten kun je gebruiken als je ze eerst afveegt met een vochtige doek. Stop die doek in een plastic zak, weg van mensen en dieren. Eet niets uit de moestuin en niets dat onbedekt buiten stond.
 
@@ -124,7 +122,7 @@ Bron: [Nationaal Crisiscentrum: kerncentrale](https://crisiscentrum.be/nl/risico
   3. Neem een douche en was je met zeep.
   4. Kan je niet douchen, veeg dan je huid en haar af met een vochtig doekje of een natte doek. Gebruik geen schoonmaakdoekjes voor het huishouden op je huid. Handgel beschermt niet tegen radioactieve stoffen.
   5. Trek schone kleren aan en drink voldoende.
-- Alleen al de bovenste laag kleding uittrekken kan volgens Ready.gov tot 90 procent van het radioactieve stof verwijderen.
+- Alleen al de bovenste laag kleding uittrekken kan tot 90 procent van het radioactieve stof verwijderen.
 - De overheid kan een opvangcentrum inrichten voor ontsmetting en een medische controle.
 
 ### In de auto

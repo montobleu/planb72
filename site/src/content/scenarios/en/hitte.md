@@ -64,7 +64,7 @@ origineel_datum: "2026-11-18"
 
 **RMI heat warnings**
 
-| Code | Threshold | What to do according to the RMI |
+| Code | Threshold | What to do |
 |---|---|---|
 | Yellow | maximum temperature of 32 °C or more, or the warning phase of the ozone and heat plan is active | Protect older and frailer people, drink more, keep vulnerable people out of the sun. |
 | Orange | maximum temperature of 35 °C or more | Drink regularly, wear lighter clothing, spend the day in cooler rooms, eat light meals, keep doors and windows closed. |

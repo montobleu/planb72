@@ -215,7 +215,7 @@ Jonge kinderen steken vaak bessen of bladeren in hun mond. Meestal loopt dat goe
 
 **Hoe planten schade doen**
 
-| Manier | Voorbeelden uit de bron |
+| Manier | Voorbeelden |
 | --- | --- |
 | Inslikken | Veel planten zijn giftig bij inname, in hun geheel of deels (bladeren, bessen, vruchten, bollen) |
 | Huidirritatie door plantensap | Wolfsmelk, stinkende gouwe |
@@ -348,7 +348,7 @@ Bron: [Vlaanderen.be: Veilig zwemmen of watersporten in open water](https://www.
 
 Sinds begin jaren 2000 zijn er steeds meer everzwijnen in Vlaanderen, ook in woongebied. Ze zijn van nature mensenschuw, maar intelligent. Wie ze voedt, leert ze mensen met eten te verbinden; dan verliezen ze hun schuwheid. Het blijven **wilde dieren die onvoorspelbaar kunnen reageren**. Ze steken vaak zomaar de weg over. Ze kunnen ziekteverwekkers dragen: **vermijd nauw contact**.
 
-**Wat het Agentschap Natuur en Bos aanraadt**
+**Wat je doet**
 
 - Voeder ze niet. Laat geen afval of etensresten achter.
 - Scherm afvalzakken en composthoop af.
@@ -362,7 +362,7 @@ Bron: [Agentschap Natuur en Bos: Everzwijnen in de buurt?](https://natuurenbos.v
 
 ## De wolf in Vlaanderen
 
-De kans dat je toevallig een wolf tegenkomt, is heel klein. Wolven zijn vooral 's nachts actief, schuw, en hebben een goede schutkleur. Volgens het Agentschap Natuur en Bos en het INBO is het aantal incidenten in onze westerse omgeving uiterst klein. De kans om door een hond gewond te raken is veel groter dan door een wolf. Gevaarlijk zijn vooral wolven die door mensen gevoederd werden en mensen met voedsel verbinden.
+De kans dat je toevallig een wolf tegenkomt, is heel klein. Wolven zijn vooral 's nachts actief, schuw, en hebben een goede schutkleur. Het aantal incidenten in onze westerse omgeving is uiterst klein. De kans om door een hond gewond te raken is veel groter dan door een wolf. Gevaarlijk zijn vooral wolven die door mensen gevoederd werden en mensen met voedsel verbinden.
 
 **Sta je oog in oog met een wolf**
 

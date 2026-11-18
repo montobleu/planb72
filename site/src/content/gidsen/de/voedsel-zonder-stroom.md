@@ -52,58 +52,54 @@ Quelle: [BBK: Vorsorgen für Krisen und Katastrophen](https://www.bbk.bund.de/Sh
 
 ## Vor dem Ausfall
 
-Wenn Sie im Voraus wissen, dass der Strom ausfällt, zum Beispiel bei Arbeiten oder bei einem Abschaltplan, empfiehlt das Krisenzentrum:
+Wenn Sie im Voraus wissen, dass der Strom ausfällt, zum Beispiel bei Arbeiten oder bei einem Abschaltplan:
 
 - Halten Sie Essen bereit, das Sie kalt essen können.
-- Halten Sie warmes Wasser in Thermosflaschen bereit, zum Beispiel für Babyfläschchen (OFF ON).
+- Halten Sie warmes Wasser in Thermosflaschen bereit, zum Beispiel für Babyfläschchen.
 - Halten Sie Ihren Gefrierschrank gut geschlossen.
 - Legen Sie einen Beutel Eiswürfel in den Gefrierschrank. So können Sie danach prüfen, ob das Essen aufgetaut war.
 
 Auch ohne Ankündigung können Sie im Voraus:
 
-- Plastikflaschen mit Wasser in den Gefrierschrank legen. Sie wirken bei einem Stromausfall als Kühlelemente; wenn das Eis geschmolzen ist, trinken Sie das Wasser. Füllen Sie sie nicht bis zum Rand, sonst platzen sie (MCF).
-- Ein Thermometer für Kühlschrank und Gefrierschrank verwenden, damit Sie wissen, wie kalt es darin ist (Ready.gov).
-- Eine alternative Kochmöglichkeit und Brennstoff im Haus haben (BBK).
+- Plastikflaschen mit Wasser in den Gefrierschrank legen. Sie wirken bei einem Stromausfall als Kühlelemente; wenn das Eis geschmolzen ist, trinken Sie das Wasser. Füllen Sie sie nicht bis zum Rand, sonst platzen sie.
+- Ein Thermometer für Kühlschrank und Gefrierschrank verwenden, damit Sie wissen, wie kalt es darin ist.
+- Eine alternative Kochmöglichkeit und Brennstoff im Haus haben.
 
 Quelle: [Nationales Krisenzentrum: Störung der Stromversorgung](https://krisenzentrum.be/de/risiken-belgien/maatschappelijke-risicos/ausfall-der-elektrizitaetsversorgung) · [Nationales Krisenzentrum: OFF ON](https://krisenzentrum.be/sites/default/files/documents/files/OffOn-triptyque-D.pdf) · [MCF: In case of crisis or war](https://rib.msb.se/filer/pdf/31523.pdf) · [Ready.gov: Food](https://www.ready.gov/food) · [BBK: Vorsorgen für Krisen und Katastrophen](https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/Buergerinformationen/Ratgeber/BBK-Vorsorgen-fuer-Krisen-und-Katastrophen.pdf?__blob=publicationFile&v=44)
 
 ## Während des Ausfalls: Türen zu
 
-Die wichtigste Regel kommt in jeder Quelle vor: Öffnen Sie Kühlschrank und Gefrierschrank nicht unnötig.
+Die wichtigste Regel: Öffnen Sie Kühlschrank und Gefrierschrank nicht unnötig.
 
 Wie lange es kalt bleibt:
 
-| Gerät | Wie lange | Quelle |
-| --- | --- | --- |
-| Gefrierschrank | ein Ausfall von 3 bis 4 Stunden lässt Ihr Essen nicht auftauen | Nationales Krisenzentrum |
-| Gefrierschrank, Tür geschlossen | 24 bis sogar 36 Stunden gefroren, je nach Temperatur | Nationales Krisenzentrum |
-| Voller Gefrierschrank | etwa 48 Stunden | FoodSafety.gov, Ready.gov |
-| Halb voller Gefrierschrank, Tür geschlossen | etwa 24 Stunden | FoodSafety.gov |
-| Kühlschrank, ungeöffnet | etwa 4 Stunden | FoodSafety.gov, Ready.gov |
-
-Die belgischen und amerikanischen Zahlen für den Gefrierschrank unterscheiden sich. Gehen Sie von der belgischen Zahl von 24 bis 36 Stunden aus, und rechnen Sie mit kürzer, wenn der Gefrierschrank nur halb voll ist.
+| Gerät | Wie lange |
+| --- | --- |
+| Gefrierschrank | ein Ausfall von 3 bis 4 Stunden lässt Ihr Essen nicht auftauen |
+| Gefrierschrank, Tür geschlossen | 24 bis sogar 36 Stunden gefroren, je nach Temperatur; kürzer, wenn der Gefrierschrank nur halb voll ist |
+| Kühlschrank, ungeöffnet | etwa 4 Stunden |
 
 **Dauert es länger als 4 Stunden**
 
-- Legen Sie leicht verderbliche Lebensmittel in eine Kühlbox mit Eis (Ready.gov).
-- Trockeneis: Ready.gov schreibt, dass 25 Pfund Trockeneis (etwa 11 Kilo) einen Gefrierschrank von 10 Kubikfuß (etwa 280 Liter) drei bis vier Tage unter dem Gefrierpunkt hält. Lassen Sie Trockeneis nicht direkt mit Lebensmitteln in Kontakt kommen. Tragen Sie trockene, dicke Handschuhe. Wissen Sie im Voraus, wo Sie Trockeneis bekommen können.
+- Legen Sie leicht verderbliche Lebensmittel in eine Kühlbox mit Eis.
+- Trockeneis: Etwa 11 Kilo Trockeneis halten einen Gefrierschrank von etwa 280 Litern drei bis vier Tage unter dem Gefrierpunkt. Lassen Sie Trockeneis nicht direkt mit Lebensmitteln in Kontakt kommen. Tragen Sie trockene, dicke Handschuhe. Wissen Sie im Voraus, wo Sie Trockeneis bekommen können.
 
-**Andere Geräte.** Ziehen Sie den Stecker empfindlicher Elektrogeräte, um Schäden durch eine zu hohe Spannung beim Wiedereinschalten zu vermeiden (Krisenzentrum).
+**Andere Geräte.** Ziehen Sie den Stecker empfindlicher Elektrogeräte, um Schäden durch eine zu hohe Spannung beim Wiedereinschalten zu vermeiden.
 
 Quelle: [Nationales Krisenzentrum: Störung der Stromversorgung](https://krisenzentrum.be/de/risiken-belgien/maatschappelijke-risicos/ausfall-der-elektrizitaetsversorgung) · [FoodSafety.gov: Food Safety During Power Outage](https://www.in.gov/localhealth/portercounty/files/Food-Safety-During-Power-Outage-_-FoodSafety.gov.pdf) · [Ready.gov: Food](https://www.ready.gov/food) · [Ready.gov: Power Outages](https://www.ready.gov/power-outages)
 
 ## Nach dem Ausfall: die Grundregeln
 
-**Belgische Kontrolle (Krisenzentrum)**
+**Kontrollieren Sie zuerst den Gefrierschrank**
 
 1. Schauen Sie sich den Beutel Eiswürfel an, den Sie in den Gefrierschrank gelegt haben. Ist das Eis geschmolzen und wieder gefroren, ist das Essen wahrscheinlich verdorben. War es nicht aufgetaut, ist das Essen nicht verdorben.
 2. Blieb die Tür des Gefrierschranks zu, können die Lebensmittel 24 bis 36 Stunden gefroren bleiben. Dann können sie sicher gegessen werden.
-3. Kontrollieren Sie die Lebensmittel in Kühlschrank und Gefrierschrank. Im Zweifel werfen Sie sie weg. Die OFF-ON-Broschüre sagt: Werfen Sie sie beim geringsten Verdacht auf Verderb weg.
+3. Kontrollieren Sie die Lebensmittel in Kühlschrank und Gefrierschrank. Werfen Sie sie beim geringsten Verdacht auf Verderb weg.
 
-**Amerikanische Regeln (FoodSafety.gov und Ready.gov)**
+**Was Sie wegwerfen und was Sie behalten**
 
 - Leicht verderbliche Lebensmittel aus dem Kühlschrank wie Fleisch, Geflügel, Fisch, Eier und Reste werfen Sie nach 4 Stunden ohne Strom weg.
-- Werfen Sie alles weg, was mehr als 2 Stunden bei 4 °C (40 °F) oder wärmer gestanden hat.
+- Werfen Sie alles weg, was mehr als 2 Stunden bei 4 °C oder wärmer gestanden hat.
 - Aufgetaute Lebensmittel sind meist noch essbar, wenn sie noch "kühlschrankkalt" sind. Sie dürfen wieder eingefroren werden, wenn noch Eiskristalle darin sind oder wenn sie 4 °C oder kälter sind; die Qualität kann allerdings leiden.
 - Probieren Sie nie, um festzustellen, ob etwas noch sicher ist.
 - Werfen Sie Lebensmittel mit ungewöhnlichem Geruch, ungewöhnlicher Farbe oder Konsistenz weg.
@@ -114,7 +110,7 @@ Quelle: [Nationales Krisenzentrum: Störung der Stromversorgung](https://krisenz
 
 ## Kühlschrank: aufbewahren oder wegwerfen
 
-Aus der Tabelle von FoodSafety.gov, für Lebensmittel, die mehr als 2 Stunden bei 4 °C oder wärmer standen. Verwenden Sie sie als Richtschnur. Im Zweifel: wegwerfen.
+Für Lebensmittel, die mehr als 2 Stunden bei 4 °C oder wärmer standen. Verwenden Sie die Tabelle als Richtschnur. Im Zweifel: wegwerfen.
 
 | Lebensmittel | Wegwerfen oder aufbewahren |
 | --- | --- |
@@ -166,7 +162,7 @@ Quelle: [FoodSafety.gov: Food Safety During Power Outage](https://www.in.gov/loc
 
 ## Gefrierschrank: wieder einfrieren oder wegwerfen
 
-Aus der Tabelle von FoodSafety.gov. Erste Spalte: Das Lebensmittel enthält noch Eiskristalle und fühlt sich kühlschrankkalt an. Zweite Spalte: Es stand mehr als 2 Stunden bei 4 °C oder wärmer.
+Erste Spalte: Das Lebensmittel enthält noch Eiskristalle und fühlt sich kühlschrankkalt an. Zweite Spalte: Es stand mehr als 2 Stunden bei 4 °C oder wärmer.
 
 | Lebensmittel | Noch Eiskristalle, kühlschrankkalt | Mehr als 2 Stunden bei 4 °C oder wärmer |
 | --- | --- | --- |
@@ -195,49 +191,49 @@ Quelle: [FoodSafety.gov: Food Safety During Power Outage](https://www.in.gov/loc
 
 ## Vorrat ohne Kühlung: was Sie essen und was nicht
 
-- Gewerblich hergestellte Konserven können Sie ohne Aufwärmen aus der Dose essen (Ready.gov).
-- Essen Sie nicht aus Dosen, die aufgebläht, verbeult oder verrostet sind, auch wenn der Inhalt gut aussieht (Ready.gov). Das BZL: Eine Dose, deren Boden oder Deckel nach außen gewölbt ist, weist auf verdorbenen Inhalt hin. Essen Sie ihn auf keinen Fall.
-- Essen Sie nichts, was ungewöhnlich aussieht oder riecht, auch wenn die Dose normal scheint (Ready.gov).
-- Werfen Sie verschimmelte Lebensmittel sofort weg. Im Zweifel nicht essen (BZL).
-- Bewahren Sie Lebensmittel in geschlossenen Verpackungen auf und halten Sie Ess- und Kochgeschirr sauber (Ready.gov).
-- Lassen Sie im Haus keinen Abfall anfallen, um Brand und Ungeziefer zu vermeiden (Ready.gov).
+- Gewerblich hergestellte Konserven können Sie ohne Aufwärmen aus der Dose essen.
+- Essen Sie nicht aus Dosen, die aufgebläht sind (Boden oder Deckel nach außen gewölbt), verbeult oder verrostet, auch wenn der Inhalt gut aussieht. Eine aufgeblähte Dose weist auf verdorbenen Inhalt hin.
+- Essen Sie nichts, was ungewöhnlich aussieht oder riecht, auch wenn die Dose normal scheint.
+- Werfen Sie verschimmelte Lebensmittel sofort weg. Im Zweifel nicht essen.
+- Bewahren Sie Lebensmittel in geschlossenen Verpackungen auf und halten Sie Ess- und Kochgeschirr sauber.
+- Lassen Sie im Haus keinen Abfall anfallen, um Brand und Ungeziefer zu vermeiden.
 
-**Dosen, die mit Hochwasser in Kontakt kamen.** Ready.gov beschreibt, wie Sie sie dennoch verwenden können: Waschen und desinfizieren Sie die Dose gründlich mit einer Lösung aus einem Teil Bleichmittel auf zehn Teile Wasser, und öffnen Sie die Dose, bevor Sie sie erwärmen. FoodSafety.gov und Ready.gov sagen, dass andere Lebensmittel, die mit Hochwasser in Kontakt kamen, weggeworfen werden müssen.
+**Dosen, die mit Hochwasser in Kontakt kamen.** Diese können Sie dennoch verwenden: Waschen und desinfizieren Sie die Dose gründlich mit einer Lösung aus einem Teil Bleichmittel auf zehn Teile Wasser, und öffnen Sie die Dose, bevor Sie sie erwärmen. Andere Lebensmittel, die mit Hochwasser in Kontakt kamen, müssen weggeworfen werden.
 
 Quelle: [Ready.gov: Food](https://www.ready.gov/food) · [BZL: So pflegen Sie Ihren Lebensmittelvorrat](https://www.ernaehrungsvorsorge.de/private-vorsorge/empfehlungen-tipps/so-pflegen-sie-ihren-lebensmittelvorrat)
 
 ## Kochen ohne Strom: die Möglichkeiten
 
-Das BBK macht die Unterscheidung, die Sie sich merken müssen: Manche Geräte dürfen drinnen verwendet werden, andere nur draußen.
+Merken Sie sich diese Unterscheidung: Manche Geräte dürfen drinnen verwendet werden, andere nur draußen.
 
-| Gerät | Drinnen oder draußen | Wofür | Quelle |
-| --- | --- | --- | --- |
-| Gasherd am Erdgasnetz | drinnen, wenn er ohne Strom funktioniert | normales Kochen | BBK |
-| Stövchen mit Teelicht | drinnen | Essen aufwärmen, zum Beispiel Fertigsuppe | BBK |
-| Fondue-Set mit Brennpaste | drinnen | kleine Mengen zum Kochen bringen | BBK |
-| Kerzenwärmer, Chafing Dish, Fonduetopf | drinnen | aufwärmen | Ready.gov |
-| Gaskocher, der für drinnen zugelassen ist | drinnen | kochen | BBK |
-| Offener Kamin | drinnen | kochen | Ready.gov |
-| Campingkocher mit Gaskartusche | nur draußen | kleine Mahlzeiten | BBK |
-| Gas- oder Holzkohlegrill | nur draußen, auf einer Terrasse oder einem Balkon | kochen | BBK, Ready.gov |
+| Gerät | Drinnen oder draußen | Wofür |
+| --- | --- | --- |
+| Gasherd am Erdgasnetz | drinnen, wenn er ohne Strom funktioniert | normales Kochen |
+| Stövchen mit Teelicht | drinnen | Essen aufwärmen, zum Beispiel Fertigsuppe |
+| Fondue-Set mit Brennpaste | drinnen | kleine Mengen zum Kochen bringen |
+| Kerzenwärmer, Chafing Dish, Fonduetopf | drinnen | aufwärmen |
+| Gaskocher, der für drinnen zugelassen ist | drinnen | kochen |
+| Offener Kamin | drinnen | kochen |
+| Campingkocher mit Gaskartusche | nur draußen | kleine Mahlzeiten |
+| Gas- oder Holzkohlegrill | nur draußen, auf einer Terrasse oder einem Balkon | kochen |
 
 **Regeln für drinnen**
 
-- Verwenden Sie drinnen nur Geräte, die dafür zugelassen sind. Sie haben spezielle Sicherheitsvorrichtungen (BBK).
-- Seien Sie vorsichtig mit offenem Feuer drinnen. Wenn zu wenig Sauerstoff vorhanden ist, entsteht Kohlenmonoxid (CO). Eine CO-Vergiftung ist lebensgefährlich (BBK).
-- Bringen Sie geprüfte und zugelassene CO-Melder an (BBK).
-- Lüften Sie regelmäßig (BBK, Stromausfall).
+- Verwenden Sie drinnen nur Geräte, die dafür zugelassen sind. Sie haben spezielle Sicherheitsvorrichtungen.
+- Seien Sie vorsichtig mit offenem Feuer drinnen. Wenn zu wenig Sauerstoff vorhanden ist, entsteht Kohlenmonoxid (CO). Eine CO-Vergiftung ist lebensgefährlich.
+- Bringen Sie geprüfte und zugelassene CO-Melder an.
+- Lüften Sie regelmäßig.
 
 **Regeln für draußen**
 
-- Verwenden Sie Grill und Campingkocher nicht in der Wohnung: Es besteht Erstickungsgefahr (BBK).
-- Ready.gov: Grills und Campingkocher nur draußen, mindestens 20 Fuß (etwa 6 Meter) von Fenstern entfernt.
-- Das Antigiftzentrum: Einen Grill zum Heizen ins Haus zu holen, ist keine gute Idee. Die glimmende Kohle setzt viel CO frei, selbst bei offenem Garagentor.
-- Ready.gov: Verwenden Sie keinen Gasherd oder Backofen, um Ihr Haus zu heizen.
+- Verwenden Sie Grill und Campingkocher nicht in der Wohnung: Es besteht Erstickungsgefahr.
+- Verwenden Sie Grills und Campingkocher nur draußen, mindestens 6 Meter von Fenstern entfernt.
+- Holen Sie keinen Grill zum Heizen ins Haus. Die glimmende Kohle setzt viel CO frei, selbst bei offenem Garagentor.
+- Verwenden Sie keinen Gasherd oder Backofen, um Ihr Haus zu heizen.
 
-**Brennstoff sparen.** Das BBK empfiehlt Lebensmittel, die mit wenig Energie garen, damit Ihr Brennstoff länger reicht, und Lebensmittel, die Sie kalt essen können. Das BBK hat dafür ein Notkochbuch mit Rezepten ohne Strom. Denk vooruit verweist für Rezepte mit haltbaren Lebensmitteln auf das Voedingscentrum und empfiehlt, sie im Voraus auszudrucken oder aufzuschreiben: Ohne Internet können Sie sie nicht mehr nachschlagen.
+**Brennstoff sparen.** Wählen Sie Lebensmittel, die mit wenig Energie garen, damit Ihr Brennstoff länger reicht, und Lebensmittel, die Sie kalt essen können. Drucken Sie Rezepte mit haltbaren Lebensmitteln im Voraus aus oder schreiben Sie sie auf: Ohne Internet können Sie sie nicht mehr nachschlagen.
 
-**Wenn Strom knapp, aber nicht weg ist.** Bei Stromknappheit empfiehlt die OFF-ON-Broschüre, so wenige Kochplatten wie möglich zu verwenden, die Mikrowelle statt des normalen Backofens zu benutzen und Elektrogeräte vorzugsweise nach 22 Uhr zu verwenden.
+**Wenn Strom knapp, aber nicht weg ist.** Verwenden Sie bei Stromknappheit so wenige Kochplatten wie möglich, die Mikrowelle statt des normalen Backofens und Elektrogeräte vorzugsweise nach 22 Uhr.
 
 Mehr über CO finden Sie im Leitfaden über Wärme und Kühle.
 
@@ -245,18 +241,18 @@ Quelle: [BBK: Vorsorgen für Krisen und Katastrophen](https://www.bbk.bund.de/Sh
 
 ## Nach Wohnform
 
-- **Wohnung ohne Terrasse oder Balkon.** Sie haben keinen sicheren Ort für einen Grill oder Campingkocher. Rechnen Sie mit Lebensmitteln, die Sie kalt essen, und mit Geräten, die für drinnen zugelassen sind, wie einem Stövchen oder Fondue-Set (BBK).
-- **Wohnung mit Balkon.** Das BBK nennt den Balkon als Ort für einen Gas- oder Holzkohlegrill. Halten Sie Abstand zu Fenstern und Türen (Ready.gov).
-- **Haus mit Garten.** Kochen Sie draußen, weit weg von Fenstern, Türen und einer angebauten Garage (Ready.gov).
-- **Haus mit Gasherd.** Kann oft normal weiter funktionieren (BBK). Verwenden Sie ihn nicht zum Heizen (Ready.gov).
+- **Wohnung ohne Terrasse oder Balkon.** Sie haben keinen sicheren Ort für einen Grill oder Campingkocher. Rechnen Sie mit Lebensmitteln, die Sie kalt essen, und mit Geräten, die für drinnen zugelassen sind, wie einem Stövchen oder Fondue-Set.
+- **Wohnung mit Balkon.** Ein Gas- oder Holzkohlegrill kann auf den Balkon. Halten Sie Abstand zu Fenstern und Türen.
+- **Haus mit Garten.** Kochen Sie draußen, weit weg von Fenstern, Türen und einer angebauten Garage.
+- **Haus mit Gasherd.** Kann oft normal weiter funktionieren. Verwenden Sie ihn nicht zum Heizen.
 
 Quelle: [BBK: Vorsorgen für Krisen und Katastrophen](https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/Buergerinformationen/Ratgeber/BBK-Vorsorgen-fuer-Krisen-und-Katastrophen.pdf?__blob=publicationFile&v=44) · [BBK: Vorsorge und Handeln bei Stromausfall](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Vorsorge/Stromausfall/stromausfall_node.html) · [Ready.gov: Power Outages](https://www.ready.gov/power-outages)
 
 ## Lebensmittelsicherheit ohne Leitungswasser
 
-- Waschen Sie Ihre Hände mit Seife und sauberem Wasser vor, während und nach der Zubereitung von Lebensmitteln und vor dem Essen. Gibt es keine Seife und kein Wasser, verwenden Sie ein Handgel mit mindestens 60 Prozent Alkohol (CDC). Siehe den Leitfaden über Hygiene.
-- Waschen Sie Lebensmittel und Geschirr nur mit sicherem Wasser. Behandeln Sie Wasser unsicherer Qualität zuerst (CDC). Siehe den Leitfaden über Wasser.
-- Verwenden Sie kein Wasser aus Überschwemmungen, Heizkörpern oder der Zentralheizung (CDC).
+- Waschen Sie Ihre Hände mit Seife und sauberem Wasser vor, während und nach der Zubereitung von Lebensmitteln und vor dem Essen. Gibt es keine Seife und kein Wasser, verwenden Sie ein Handgel mit mindestens 60 Prozent Alkohol. Siehe den Leitfaden über Hygiene.
+- Waschen Sie Lebensmittel und Geschirr nur mit sicherem Wasser. Behandeln Sie Wasser unsicherer Qualität zuerst. Siehe den Leitfaden über Wasser.
+- Verwenden Sie kein Wasser aus Überschwemmungen, Heizkörpern oder der Zentralheizung.
 
 Quelle: [CDC: About Handwashing](https://www.cdc.gov/clean-hands/about/index.html) · [CDC: How to Make Water Safe in an Emergency](https://www.cdc.gov/water-emergency/about/index.html)
 
@@ -264,43 +260,41 @@ Quelle: [CDC: About Handwashing](https://www.cdc.gov/clean-hands/about/index.htm
 
 **Flaschennahrung**
 
-- Ready.gov: Verwenden Sie trinkfertige Flaschennahrung. Müssen Sie Pulver anrühren, verwenden Sie Flaschenwasser oder als letzten Ausweg abgekochtes Wasser.
-- Die CDC: Bereiten Sie keine Babynahrung mit unsicherem Wasser zu.
-- FoodSafety.gov: Geöffnete Flaschennahrung, die mehr als 2 Stunden bei 4 °C oder wärmer im Kühlschrank stand, werfen Sie weg.
-- Das Krisenzentrum (OFF ON): Halten Sie bei einem angekündigten Ausfall Thermosflaschen mit warmem Wasser bereit, zum Beispiel für Babyfläschchen.
-- Bei einer Abkochempfehlung von De Watergroep in Roeselare blieb die Empfehlung bestehen, Babyfläschchen zu sterilisieren.
+- Verwenden Sie am besten trinkfertige Flaschennahrung. Müssen Sie Pulver anrühren, verwenden Sie Flaschenwasser oder als letzten Ausweg abgekochtes Wasser.
+- Bereiten Sie keine Babynahrung mit unsicherem Wasser zu.
+- Geöffnete Flaschennahrung, die mehr als 2 Stunden bei 4 °C oder wärmer im Kühlschrank stand, werfen Sie weg.
+- Halten Sie bei einem angekündigten Ausfall Thermosflaschen mit warmem Wasser bereit, zum Beispiel für Babyfläschchen.
+- Sterilisieren Sie Babyfläschchen weiterhin, auch bei einer Abkochempfehlung.
 
 **Was in den Vorrat gehört**
 
-- Ein Reservevorrat an Babynahrung und Pulver für Flaschennahrung (Krisenzentrum).
-- Fläschchen (Ready.gov).
-- Brei, Haferflocken und Babynahrung (MCF).
+- Ein Reservevorrat an Babynahrung und Pulver für Flaschennahrung.
+- Fläschchen.
+- Brei, Haferflocken und Babynahrung.
 
-**Stillen.** Die herangezogenen Quellen geben dafür keine eigenen Richtlinien. Ready.gov weist allerdings darauf hin, dass stillende Frauen mehr Wasser brauchen.
+**Stillen.** Wer stillt, braucht mehr Wasser.
 
 Quelle: [Ready.gov: Food](https://www.ready.gov/food) · [Ready.gov: Water](https://www.ready.gov/water) · [CDC: How to Make Water Safe in an Emergency](https://www.cdc.gov/water-emergency/about/index.html) · [FoodSafety.gov: Food Safety During Power Outage](https://www.in.gov/localhealth/portercounty/files/Food-Safety-During-Power-Outage-_-FoodSafety.gov.pdf) · [Nationales Krisenzentrum: OFF ON](https://krisenzentrum.be/sites/default/files/documents/files/OffOn-triptyque-D.pdf) · [VRT NWS: Abkochempfehlung De Watergroep](https://www.vrt.be/vrtnws/nl/2026/03/20/roeselare-vraagt-om-drinkwater-in-enkele-centrumsteden-tijdelijk/) · [Nationales Krisenzentrum: Ein Notfallpaket zu Hause](https://krisenzentrum.be/de/was-koennen-sie-tun/stelle-ein-notfallpaket-zusammen/ein-notfallset-fuer-zu-hause) · [MCF: In case of crisis or war](https://rib.msb.se/filer/pdf/31523.pdf)
 
 ## Bei einem langen Ausfall
 
-Die Zeitgrenzen aus den Quellen im Überblick:
+Die Zeitgrenzen im Überblick:
 
-| Zeitpunkt | Was die Quellen sagen |
+| Zeitpunkt | Was Sie tun |
 | --- | --- |
-| Erste Stunden | halten Sie Kühlschrank und Gefrierschrank geschlossen; ein Ausfall von 3 bis 4 Stunden lässt Tiefkühlkost nicht auftauen (Krisenzentrum) |
-| Nach etwa 4 Stunden | der Kühlschrank hält Lebensmittel nicht länger sicher kühl; legen Sie leicht verderbliche Lebensmittel in eine Kühlbox mit Eis (Ready.gov, FoodSafety.gov) |
-| Nach 24 Stunden | ein halb voller Gefrierschrank hält nicht länger (FoodSafety.gov) |
-| Nach 24 bis 36 Stunden | Grenze für einen geschlossenen Gefrierschrank laut Krisenzentrum |
-| Nach etwa 48 Stunden | Grenze für einen vollen Gefrierschrank laut FoodSafety.gov und Ready.gov |
-| Danach | essen Sie aus Ihrem haltbaren Vorrat; kochen Sie draußen oder auf einem Gerät, das für drinnen zugelassen ist (BBK) |
+| Erste Stunden | halten Sie Kühlschrank und Gefrierschrank geschlossen; ein Ausfall von 3 bis 4 Stunden lässt Tiefkühlkost nicht auftauen |
+| Nach etwa 4 Stunden | der Kühlschrank hält Lebensmittel nicht länger sicher kühl; legen Sie leicht verderbliche Lebensmittel in eine Kühlbox mit Eis |
+| Nach 24 bis 36 Stunden | ein geschlossener Gefrierschrank hält nicht länger, ein halb voller Gefrierschrank schon früher nicht |
+| Danach | essen Sie aus Ihrem haltbaren Vorrat; kochen Sie draußen oder auf einem Gerät, das für drinnen zugelassen ist |
 
-Das Krisenzentrum sagt bei einem Mangel an Lebensmitteln: Seien Sie sparsam und sorgen Sie dafür, dass Kinder und ältere Menschen genug nahrhaftes Essen haben.
+Gibt es zu wenig Lebensmittel: Seien Sie sparsam und sorgen Sie dafür, dass Kinder und ältere Menschen genug nahrhaftes Essen haben.
 
 Quelle: [Nationales Krisenzentrum: Störung der Stromversorgung](https://krisenzentrum.be/de/risiken-belgien/maatschappelijke-risicos/ausfall-der-elektrizitaetsversorgung) · [Nationales Krisenzentrum: Störung der Lebensmittelversorgung](https://krisenzentrum.be/de/risiken-belgien/maatschappelijke-risicos/ausfall-der-lebensmittelversorgung) · [FoodSafety.gov: Food Safety During Power Outage](https://www.in.gov/localhealth/portercounty/files/Food-Safety-During-Power-Outage-_-FoodSafety.gov.pdf) · [Ready.gov: Power Outages](https://www.ready.gov/power-outages) · [BBK: Vorsorgen für Krisen und Katastrophen](https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/Buergerinformationen/Ratgeber/BBK-Vorsorgen-fuer-Krisen-und-Katastrophen.pdf?__blob=publicationFile&v=44)
 
 ## Wenn der Strom zurückkommt
 
-- Schalten Sie Elektrogeräte nicht alle gleichzeitig ein. Geben Sie dem Netz Zeit, sich zu stabilisieren (Krisenzentrum).
-- Kontrollieren Sie Kühlschrank und Gefrierschrank und werfen Sie im Zweifel weg (Krisenzentrum).
-- Füllen Sie Ihren Notvorrat wieder auf (OFF ON).
+- Schalten Sie Elektrogeräte nicht alle gleichzeitig ein. Geben Sie dem Netz Zeit, sich zu stabilisieren.
+- Kontrollieren Sie Kühlschrank und Gefrierschrank und werfen Sie im Zweifel weg.
+- Füllen Sie Ihren Notvorrat wieder auf.
 
 Quelle: [Nationales Krisenzentrum: Störung der Stromversorgung](https://krisenzentrum.be/de/risiken-belgien/maatschappelijke-risicos/ausfall-der-elektrizitaetsversorgung) · [Nationales Krisenzentrum: OFF ON](https://krisenzentrum.be/sites/default/files/documents/files/OffOn-triptyque-D.pdf)

@@ -42,21 +42,17 @@ bronnen:
     url: "https://www.ready.gov/pets"
   - naam: "Ready.gov: Extreme Heat"
     url: "https://www.ready.gov/heat"
-  - naam: "Ready.gov: Evacuation"
-    url: "https://www.ready.gov/evacuation"
   - naam: "Ready.gov: People with Disabilities"
     url: "https://www.ready.gov/disability"
   - naam: "CDC: About Handwashing"
     url: "https://www.cdc.gov/clean-hands/about/index.html"
 ---
 
-Het Crisiscentrum vraagt je dieren op te nemen in je noodplan en je noodpakket. Ready.gov legt uit waarom: wie vooraf een plan heeft voor zichzelf en zijn dieren, heeft minder moeite, stress en zorgen als er snel beslist moet worden. Het MCF zegt het kort: jij bent verantwoordelijk voor de zorg en het welzijn van je dier in een crisis.
+Neem je dieren op in je noodplan en je noodpakket. Wie vooraf een plan heeft voor zichzelf en zijn dieren, heeft minder moeite, stress en zorgen als er snel beslist moet worden. In een crisis ben jij verantwoordelijk voor de zorg en het welzijn van je dier.
 
 Bron: [Nationaal Crisiscentrum: brochure Samen voorbereid](https://crisiscentrum.be/sites/default/files/documents/files/WEB-Brochure%20Samen%20voorbereid-NL.pdf) · [Ready.gov: Pets](https://www.ready.gov/pets) · [MCF: In case of crisis or war](https://rib.msb.se/filer/pdf/31523.pdf)
 
 ## Het plan voor je dieren
-
-Het Crisiscentrum vraagt deze stappen:
 
 1. **Noodpakket.** Voorzie voldoende spullen voor je dieren (zie hieronder).
 2. **Opvangplek.** Denk na waar je terechtkunt als je niet meer in je huis of wijk kunt, bijvoorbeeld bij vrienden of kennissen. Vraag of er ook plaats is voor je dier.
@@ -65,64 +61,51 @@ Het Crisiscentrum vraagt deze stappen:
 5. **Vervoer.** Plan hoe je je dier veilig vervoert, met een reismand of tas, en laat het eraan wennen.
 6. **Contactpersonen.** Zet het telefoonnummer van je dierenarts bij je belangrijke nummers. Bellen lukt alleen als het netwerk werkt.
 
-Wat andere bronnen toevoegen:
+Verder:
 
-- **Een buddy.** Spreek met buren, vrienden of familie af dat iemand voor je dieren zorgt of ze evacueert als jij het niet kunt (Ready.gov).
-- **Opvang buiten de buurt.** Vraag familie of vrienden buiten je directe omgeving of ze met je dieren kunnen helpen (Ready.gov, ouderen).
-- **Contact in de chip.** Vermeld bij de registratie ook een noodcontact buiten je directe omgeving (Ready.gov).
-- **Een sticker** op raam of voordeur met welke en hoeveel huisdieren je hebt. Die zijn volgens Diereninrampen.nl in Nederland verkrijgbaar bij dierenhulporganisaties en gemeenten.
-- **Waarom vaccinatie.** Diereninrampen.nl: kun je bij een evacuatie niet bewijzen dat je dier gevaccineerd is, dan kan het geweigerd en in quarantaine geplaatst worden, zeker bij ziekten als rabiës.
-- **Geen vanzelfsprekende plek in een dierenasiel.** Dierenopvangcentra willen helpen maar hebben vaak nauwelijks plaats; regel het zelf (Diereninrampen.nl).
-- **Op papier.** Print belangrijke telefoonnummers, adressen en routes, zodat je ze hebt bij stroom- en internetuitval (Diereninrampen.nl). Noteer ook het adres van je dierenarts. De kaart in de app (knop Dichtstbij) toont dierenartsen.
+- **Een buddy.** Spreek met buren, vrienden of familie af dat iemand voor je dieren zorgt of ze evacueert als jij het niet kunt.
+- **Opvang buiten de buurt.** Vraag familie of vrienden buiten je directe omgeving of ze met je dieren kunnen helpen.
+- **Contact in de chip.** Vermeld bij de registratie ook een noodcontact buiten je directe omgeving.
+- **Een sticker** op raam of voordeur met welke en hoeveel huisdieren je hebt.
+- **Waarom vaccinatie.** Kun je bij een evacuatie niet bewijzen dat je dier gevaccineerd is, dan kan het geweigerd en in quarantaine geplaatst worden, zeker bij ziekten als rabiës.
+- **Geen vanzelfsprekende plek in een dierenasiel.** Dierenopvangcentra willen helpen maar hebben vaak nauwelijks plaats; regel het zelf.
+- **Op papier.** Print belangrijke telefoonnummers, adressen en routes, zodat je ze hebt bij stroom- en internetuitval. Noteer ook het adres van je dierenarts. De kaart in de app (knop Dichtstbij) toont dierenartsen.
 
 Bron: [Nationaal Crisiscentrum: Een plan voor dieren](https://crisiscentrum.be/nl/wat-kan-jij-doen/maak-een-plan/een-plan-voor-dieren) · [Ready.gov: Pets](https://www.ready.gov/pets) · [Diereninrampen.nl: Red je dier bij een ramp](https://www.diereninrampen.nl/red-je-dier-bij-een-ramp)
 
 ## De voorraad thuis
 
-| Wat | Hoeveel | Bron |
-| --- | --- | --- |
-| Voer, water en bakjes | voldoende voor 72 uur | Nationaal Crisiscentrum |
-| Voer en water | voor minstens een week, droogvoer en water in voorraadcontainers | MCF |
-| Voerconserven | als deel van de noodvoorraad | BZL |
-| Voer | voor meerdere dagen in een luchtdichte, waterdichte container | Ready.gov |
-| Drinkwater | als algemene richtlijn 50 ml per kilogram lichaamsgewicht per dag | Diereninrampen.nl |
-| Medicijnen | een extra voorraad van wat je dier geregeld neemt, in een waterdichte container | Ready.gov, MCF |
-| EHBO-set voor het dier | bespreek met je dierenarts wat erin hoort | Ready.gov |
-| Kattenbak en vulling, kranten, keukenpapier, vuilniszakken, huishoudbleekmiddel | voor de sanitaire behoeften | Ready.gov |
-| Verzorgingsproducten | shampoo en dergelijke, als je dier gewassen moet worden | Ready.gov |
+| Wat | Hoeveel |
+| --- | --- |
+| Voer en water, met bakjes | voor minstens 72 uur, liefst een week; droogvoer en voerconserven in een luchtdichte, waterdichte container |
+| Drinkwater | ongeveer 50 ml per kilogram lichaamsgewicht per dag |
+| Medicijnen | een extra voorraad van wat je dier geregeld neemt, in een waterdichte container |
+| EHBO-set voor het dier | bespreek met je dierenarts wat erin hoort |
+| Kattenbak en vulling, kranten, keukenpapier, vuilniszakken, huishoudbleekmiddel | voor de sanitaire behoeften |
+| Verzorgingsproducten | shampoo en dergelijke, als je dier gewassen moet worden |
 
-Ready.gov raadt twee pakketten aan: een groter voor als je thuis schuilt en een licht voor als je moet evacueren. Controleer ze regelmatig, vooral voer en medicijnen. Diereninrampen.nl raadt aan dat twee keer per jaar in je agenda te zetten. Het BBK zegt bij de watervoorraad uitdrukkelijk: denk ook aan je huisdieren.
+Maak twee pakketten: een groter voor als je thuis schuilt en een licht voor als je moet evacueren. Controleer ze twee keer per jaar, vooral voer en medicijnen. Denk bij de watervoorraad voor het gezin ook aan je huisdieren.
 
 Bron: [Nationaal Crisiscentrum: Een noodpakket bij je thuis](https://crisiscentrum.be/nl/wat-kan-jij-doen/maak-een-noodpakket/een-noodpakket-bij-je-thuis) · [MCF: In case of crisis or war](https://rib.msb.se/filer/pdf/31523.pdf) · [BZL: Allgemeine Empfehlungen](https://www.ernaehrungsvorsorge.de/private-vorsorge/empfehlungen-tipps/allgemeine-empfehlungen) · [Ready.gov: Pets](https://www.ready.gov/pets) · [Diereninrampen.nl: Red je dier bij een ramp](https://www.diereninrampen.nl/red-je-dier-bij-een-ramp) · [BBK: Vorsorgen für Krisen und Katastrophen](https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/Buergerinformationen/Ratgeber/BBK-Vorsorgen-fuer-Krisen-und-Katastrophen.pdf?__blob=publicationFile&v=44)
 
 ## De tas om mee te nemen
 
-**Belgische lijst (brochure en website Crisiscentrum)**
-
-- Een kooi, mand of iets anders om je dier te vervoeren.
-- Leiband en halsband of harnas.
+- Een reismand of stevige transportkooi per dier, of iets anders om je dier te vervoeren.
+- Leiband en halsband of harnas, en een reserveleiband, -halsband en -naamplaatje.
 - Dierenvoer, water en eet- en drinkbakjes.
 - Dierenpaspoort, vaccinatieboekje en contactgegevens van je dierenarts.
+- Kopieën van registratie en andere documenten in een waterdichte container en digitaal.
 - Een foto van jou samen met je dier.
-- Speeltjes.
+- Speeltjes en vertrouwde spullen zoals een deken of snoepjes, om stress te verminderen.
 - Medicatie, als je dier die nodig heeft, of een medicatielijst.
 - Zakjes om uitwerpselen op te ruimen.
 - Voor exotische dieren: een veilige manier van vervoeren en het nodige materiaal.
 
-**Aanvullingen (Ready.gov)**
-
-- Een reserveleiband, -halsband en -naamplaatje.
-- Kopieën van registratie en andere documenten in een waterdichte container en digitaal.
-- Een reismand of stevige transportkooi per dier.
-- Vertrouwde spullen zoals een deken, snoepjes of speeltjes, om stress te verminderen.
-
-Waarom een foto samen met je dier: als je gescheiden raakt, helpt die om aan te tonen dat het jouw dier is en laat ze anderen helpen het te herkennen (Ready.gov).
+Waarom een foto samen met je dier: als je gescheiden raakt, helpt die om aan te tonen dat het jouw dier is en laat ze anderen helpen het te herkennen.
 
 Bron: [Nationaal Crisiscentrum: brochure Samen voorbereid](https://crisiscentrum.be/sites/default/files/documents/files/WEB-Brochure%20Samen%20voorbereid-NL.pdf) · [Nationaal Crisiscentrum: Een noodpakket bij je thuis](https://crisiscentrum.be/nl/wat-kan-jij-doen/maak-een-noodpakket/een-noodpakket-bij-je-thuis) · [Ready.gov: Pets](https://www.ready.gov/pets)
 
 ## Laten wennen aan de reismand
-
-Ready.gov:
 
 - Laat de reismand openstaan op plaatsen waar je dier vaak komt.
 - Geef snoepjes bij de reismand en leg er een paar in.
@@ -133,40 +116,34 @@ Bron: [Ready.gov: Pets](https://www.ready.gov/pets)
 
 ## Evacueren met je dier
 
-**De regel.** Vraagt de overheid je te evacueren, dan betekent dat volgens Ready.gov ook dat je dier evacueert. Laat je dieren achter, dan kunnen ze verdwalen, gewond raken of erger. Diereninrampen.nl: evacueer altijd met je dier. Is het niet veilig voor jou, dan ook niet voor je dier. Laat het niet achter, en zeker niet opgesloten.
+**De regel.** Moet je evacueren, neem dan ook je dier mee. Laat je dieren achter, dan kunnen ze verdwalen, gewond raken of erger. Is het niet veilig voor jou, dan ook niet voor je dier. Laat het niet achter, en zeker niet opgesloten.
 
 **Waar mag je dier mee naartoe**
 
-| Bestemming | Dieren | Bron |
-| --- | --- | --- |
-| Familie of vrienden | spreek vooraf af of je dieren mee mogen | Crisiscentrum |
-| Onthaalcentrum van de overheid | kleine huisdieren mogen soms mee; de hulpdiensten zeggen het; soms mag het niet | Crisiscentrum |
-| Openbare opvang in de VS | meestal alleen assistentiedieren | Ready.gov |
-| Bij een luchtaanval in Zweden | je mag je huisdier meenemen naar kelders, garages en metrostations | MCF |
+| Bestemming | Dieren |
+| --- | --- |
+| Familie of vrienden | spreek vooraf af of je dieren mee mogen |
+| Onthaalcentrum van de overheid | kleine huisdieren mogen soms mee; de hulpdiensten zeggen het; soms mag het niet |
 
-**Kan of mag je dier niet mee** (Crisiscentrum)
+**Kan of mag je dier niet mee**
 
-1. Laat de hulpdiensten weten dat er een of meer dieren in je woning zijn. Een sticker op raam of voordeur toont welke en hoeveel dieren er zijn (Diereninrampen.nl, zie Het plan voor je dieren).
+1. Laat de hulpdiensten weten dat er een of meer dieren in je woning zijn. Een sticker op raam of voordeur toont welke en hoeveel dieren er zijn (zie Het plan voor je dieren).
 2. Vertel waar het dier zich vaak verstopt en hoe het meestal reageert op onbekenden.
 3. Zet voldoende water en voer klaar voor 24 uur.
 4. Leg kranten op de vloer voor uitwerpselen.
 5. Laat een kledingstuk met jouw geur achter om het dier gerust te stellen.
 
-Kun je na 24 uur nog niet naar huis, dan krijg je meestal aangepaste aanbevelingen voor je huisdieren (Crisiscentrum). Het MCF: moet je je dier thuis laten en kan het zelf aan voer, laat dan extra voer en water achter.
+Kun je na 24 uur nog niet naar huis, dan krijg je meestal aangepaste aanbevelingen voor je huisdieren. Kan je dier zelf aan voer, laat dan extra voer en water achter.
 
 Bron: [Ready.gov: Pets](https://www.ready.gov/pets) · [Diereninrampen.nl: Red je dier bij een ramp](https://www.diereninrampen.nl/red-je-dier-bij-een-ramp) · [Nationaal Crisiscentrum: Evacueren](https://crisiscentrum.be/nl/wat-kan-jij-doen/reageer-correct/evacueren) · [MCF: In case of crisis or war](https://rib.msb.se/filer/pdf/31523.pdf)
 
 ## Assistentiedieren en geleidehonden
 
-- Het Crisiscentrum verwijst wie een geleidehond heeft naar de tips voor dieren.
-- Het BBK raadt voldoende voer en water aan als je een assistentiedier hebt.
-- Ready.gov noemt voor het pakket van een assistentiedier: voer, extra water, halsband met naamplaatje, medische gegevens en andere benodigdheden. In openbare opvang in de VS zijn assistentiedieren meestal wel toegelaten.
+Voor een geleidehond of ander assistentiedier gelden dezelfde tips als voor andere dieren. Voorzie in het pakket voldoende voer, extra water, een halsband met naamplaatje, de medische gegevens en andere benodigdheden.
 
-Bron: [Nationaal Crisiscentrum: Een plan voor wie extra hulp nodig heeft](https://crisiscentrum.be/nl/wat-kan-jij-doen/maak-een-plan/een-plan-voor-wie-extra-hulp-nodig-heeft) · [BBK: Vorsorgen für Krisen und Katastrophen](https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/Buergerinformationen/Ratgeber/BBK-Vorsorgen-fuer-Krisen-und-Katastrophen.pdf?__blob=publicationFile&v=44) · [Ready.gov: People with Disabilities](https://www.ready.gov/disability) · [Ready.gov: Evacuation](https://www.ready.gov/evacuation)
+Bron: [Nationaal Crisiscentrum: Een plan voor wie extra hulp nodig heeft](https://crisiscentrum.be/nl/wat-kan-jij-doen/maak-een-plan/een-plan-voor-wie-extra-hulp-nodig-heeft) · [BBK: Vorsorgen für Krisen und Katastrophen](https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/Buergerinformationen/Ratgeber/BBK-Vorsorgen-fuer-Krisen-und-Katastrophen.pdf?__blob=publicationFile&v=44) · [Ready.gov: People with Disabilities](https://www.ready.gov/disability)
 
 ## Aquariumvissen
-
-Diereninrampen.nl geeft deze richtlijnen bij langdurige stroomuitval of evacuatie:
 
 **Thuis, bij stroomuitval**
 
@@ -190,8 +167,6 @@ Bron: [Diereninrampen.nl: Red je dier bij een ramp](https://www.diereninrampen.n
 
 ## Reptielen
 
-Diereninrampen.nl:
-
 **Thuis**
 
 - Kun je de temperatuur in het terrarium op peil houden, dan kun je meestal gewoon blijven voeren. Lukt dat niet of moet je misschien evacueren, stop dan tijdelijk met voeren. Reptielen kunnen vaak lang zonder voedsel, maar hebben wel schoon drinkwater nodig.
@@ -207,31 +182,31 @@ Diereninrampen.nl:
 - Extra spullen: een waterspuit voor soorten die niet uit een bakje drinken, een drijvend plateau voor waterreptielen, een kussensloop en eventueel een slangenhaak.
 - Neem CITES-documenten mee als je reptiel die nodig heeft, op papier en digitaal.
 
-**Hygiëne.** Ontsmet je handen na contact met je reptiel en hou het transportverblijf schoon (Diereninrampen.nl). Het CDC raadt in het algemeen aan je handen te wassen na het aanraken van dieren, dierenvoer of dierenuitwerpselen.
+**Hygiëne.** Ontsmet je handen na contact met je reptiel en hou het transportverblijf schoon. Was in het algemeen je handen na het aanraken van dieren, dierenvoer of dierenuitwerpselen.
 
 Bron: [Diereninrampen.nl: Red je dier bij een ramp](https://www.diereninrampen.nl/red-je-dier-bij-een-ramp) · [CDC: About Handwashing](https://www.cdc.gov/clean-hands/about/index.html)
 
 ## Kou, hitte en vuil water
 
-- **Kou.** Laat je huisdieren binnen of zorg dat ze voldoende eten en drinkwater hebben (Crisiscentrum, koudegolf).
-- **Storm of ramp.** Haal huisdieren naar binnen bij het eerste teken of de eerste waarschuwing (Ready.gov).
-- **Hitte.** Zorg buiten voor veel koel water en schaduw. Asfalt en donkere bestrating kunnen te heet zijn voor de poten (Ready.gov). Laat nooit dieren achter in een geparkeerd voertuig (Crisiscentrum, Ready.gov).
-- **Vuil water.** Bij langdurige stroomuitval laat je huisdieren geen water uit sloten drinken en er niet in zwemmen. Huisdieren die buiten komen, kunnen wel regenwater uit een regenton drinken (Waterschap Zuiderzeeland).
+- **Kou.** Laat je huisdieren binnen of zorg dat ze voldoende eten en drinkwater hebben.
+- **Storm of ramp.** Haal huisdieren naar binnen bij het eerste teken of de eerste waarschuwing.
+- **Hitte.** Zorg buiten voor veel koel water en schaduw. Asfalt en donkere bestrating kunnen te heet zijn voor de poten. Laat nooit dieren achter in een geparkeerd voertuig.
+- **Vuil water.** Bij langdurige stroomuitval laat je huisdieren geen water uit sloten drinken en er niet in zwemmen. Huisdieren die buiten komen, kunnen wel regenwater uit een regenton drinken.
 
 Bron: [Nationaal Crisiscentrum: Koudegolf](https://crisiscentrum.be/nl/risicos-belgie/natuurlijke-risicos/koudegolf) · [Nationaal Crisiscentrum: Hittegolf](https://crisiscentrum.be/nl/risicos-belgie/natuurlijke-risicos/hittegolf) · [Ready.gov: Pets](https://www.ready.gov/pets) · [Ready.gov: Extreme Heat](https://www.ready.gov/heat) · [Waterschap Zuiderzeeland: folder](https://bijlagen.nos.nl/artikel-24778431/260226_digitaal_toegankelijke_versie_folder_noodsituatie_Waterschap_Zuiderzeeland.pdf)
 
 ## Paarden en vee
 
-**Voorbereiden (Crisiscentrum en Ready.gov)**
+**Voorbereiden**
 
 - Zorg dat al je dieren geïdentificeerd kunnen worden, met chip of oormerk.
 - Evacueer dieren waar mogelijk vroeg. Leg vooraf een hoofd- en een reserveroute vast.
 - Zorg voor voertuigen en aanhangwagens voor elk type dier, en voor ervaren begeleiders en chauffeurs.
 - Zorg dat de bestemming voer, water, dierenarts en materiaal heeft.
 - Is evacueren niet mogelijk, dan moet je beslissen of je grote dieren in een stal zet of buiten loslaat.
-- Volg altijd de waarschuwingen en richtlijnen van de overheid. Bij sommige noodsituaties zijn er extra instructies, zoals een graasverbod voor koeien na een radiologisch ongeval (Crisiscentrum).
+- Volg altijd de waarschuwingen en richtlijnen van de overheid. Bij sommige noodsituaties zijn er extra instructies, zoals een graasverbod voor koeien na een radiologisch ongeval.
 
-**Water voor dieren.** Het WHO noemt, naar de Sphere-normen, deze hoeveelheden per dag:
+**Water voor dieren.** Reken per dag op:
 
 | Dier | Water per dag |
 | --- | --- |
@@ -239,15 +214,15 @@ Bron: [Nationaal Crisiscentrum: Koudegolf](https://crisiscentrum.be/nl/risicos-b
 | Geiten, schapen, varkens | 10 tot 20 liter per dier |
 | Kippen | 10 tot 20 liter per 100 dieren |
 
-Het MCF verwijst eigenaars van paarden en vee voor meer informatie naar de landbouwautoriteit; in België zijn het FAVV en het FANC betrokken bij maatregelen voor de voedselketen (nucleair noodplan).
+In België zijn het FAVV en het FANC betrokken bij maatregelen voor de voedselketen.
 
-Bron: [Nationaal Crisiscentrum: Een plan voor dieren](https://crisiscentrum.be/nl/wat-kan-jij-doen/maak-een-plan/een-plan-voor-dieren) · [Ready.gov: Pets](https://www.ready.gov/pets) · [WHO/WEDC: Technical notes](https://wedc-knowledge.lboro.ac.uk/resources/who_notes/WHO_TNE_ALL.pdf) · [MCF: In case of crisis or war](https://rib.msb.se/filer/pdf/31523.pdf) · [Nationaal Crisiscentrum: Nucleair noodplan](https://crisiscentrum.be/sites/default/files/documents/files/20240616_Nucleair%20Noodplan.pdf)
+Bron: [Nationaal Crisiscentrum: Een plan voor dieren](https://crisiscentrum.be/nl/wat-kan-jij-doen/maak-een-plan/een-plan-voor-dieren) · [Ready.gov: Pets](https://www.ready.gov/pets) · [WHO/WEDC: Technical notes](https://wedc-knowledge.lboro.ac.uk/resources/who_notes/WHO_TNE_ALL.pdf) · [Nationaal Crisiscentrum: Nucleair noodplan](https://crisiscentrum.be/sites/default/files/documents/files/20240616_Nucleair%20Noodplan.pdf)
 
 ## Dieren bij een nucleair of radiologisch incident
 
 **Wat het Belgische nucleair noodplan voorziet**
 
-Het plan van het Crisiscentrum noemt maatregelen om radioactieve besmetting van voedingsmiddelen te voorkomen of te beperken:
+Het plan noemt maatregelen om radioactieve besmetting van voedingsmiddelen te voorkomen of te beperken:
 
 - Een graasverbod.
 - Dieren veilig onderbrengen met niet-besmet voer en niet-besmet water.
@@ -257,7 +232,7 @@ Het plan van het Crisiscentrum noemt maatregelen om radioactieve besmetting van 
 - Toevoeging van additieven aan dierenvoeding, om de opname van radioactieve stoffen door dieren te beperken.
 - Beperkingen op het verkeer van producten en dieren van en naar de zone onder controle.
 
-Volgens het plan zijn deze maatregelen vaak al gerechtvaardigd bij lagere lozingen dan die waarbij de bevolking zelf dringend beschermd moet worden. De evacuatie van vee wordt alleen overwogen als de bevolking geëvacueerd wordt, er te weinig stallen zijn in de zone en de zone klein genoeg is, en pas nadat de bevolking beschermd is. De maatregelen worden uitgewerkt in overleg met het FANC en het FAVV, en de sectororganisaties worden betrokken.
+Deze maatregelen zijn vaak al gerechtvaardigd bij lagere lozingen dan die waarbij de bevolking zelf dringend beschermd moet worden. De evacuatie van vee wordt alleen overwogen als de bevolking geëvacueerd wordt, er te weinig stallen zijn in de zone en de zone klein genoeg is, en pas nadat de bevolking beschermd is. De maatregelen worden uitgewerkt in overleg met het FANC en het FAVV, en de sectororganisaties worden betrokken.
 
 **Wat een buurland concreet vraagt.** Het Luxemburgse crisisportaal geeft landbouwers deze instructies bij een nucleair alarm:
 
@@ -275,8 +250,8 @@ Bron: [Nationaal Crisiscentrum: Nucleair noodplan](https://crisiscentrum.be/site
 
 In de geraadpleegde bronnen zijn geen aparte richtlijnen voor dieren bij een chemisch incident gevonden. Wat wel geldt:
 
-- Moet je schuilen, dan vraagt het Crisiscentrum binnen te blijven, ramen en deuren te sluiten en ventilatie uit te zetten. Ready.gov raadt aan huisdieren bij het eerste teken van een ramp naar binnen te halen.
-- Volg de instructies van de overheid; soms zijn er speciale richtlijnen voor dieren (Crisiscentrum).
+- Moet je schuilen, dan vraagt het Crisiscentrum binnen te blijven, ramen en deuren te sluiten en ventilatie uit te zetten. Haal huisdieren bij het eerste teken van een ramp naar binnen.
+- Volg de instructies van de overheid; soms zijn er speciale richtlijnen voor dieren.
 
 Zie de scenariokaart over een chemische wolk.
 

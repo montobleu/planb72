@@ -79,7 +79,7 @@ Bij grote onzekerheid kan een code ook korter vooraf komen.
 
 **Hoe je de waarschuwingen krijgt**
 
-1. **Radio.** Het Crisiscentrum noemt radio en tv als eerste manier om de weersvoorspelling te volgen. Bij een stroomonderbreking kunnen internet en mobiele netwerken uitvallen: hou dan een radio op batterijen, een opwindradio of de autoradio bij de hand (Crisiscentrum, FOD Economie).
+1. **Radio.** Volg de weersvoorspelling in de eerste plaats op radio en tv. Bij een stroomonderbreking kunnen internet en mobiele netwerken uitvallen: hou dan een radio op batterijen, een opwindradio of de autoradio bij de hand.
 2. **Werkt het internet,** kijk dan ook op de website of in de app van het KMI.
 3. **Zelf het weer lezen.** Wolken en donder vertellen je ook iets, zeker buiten (zie Wolken en onweer lezen).
 
@@ -92,7 +92,7 @@ Bij grote onzekerheid kan een code ook korter vooraf komen.
 - Het KMI voorspelt het weer, niet de schade. Of er wateroverlast komt, hangt ook af van plaatselijke omstandigheden.
 - Het KMI geeft ook een waarschuwing voor **koolmonoxidevergiftiging** (zonder kleur) als windstil weer met een sterke temperatuurinversie de afvoer van rookgassen belemmert.
 
-**Drempels per kleur** (zoals het KMI ze publiceert)
+**Drempels per kleur**
 
 | Fenomeen | Geel | Oranje | Rood |
 | --- | --- | --- | --- |
@@ -119,7 +119,7 @@ Bron: [KMI: Uitleg over onze waarschuwingen](https://www.meteo.be/nl/weer/waarsc
 
 ## Wolken en onweer lezen
 
-Buiten, of zonder radio en internet, kun je zelf op tekens in de lucht letten. PlanB72 neemt alleen weertekens op die het KMI zelf beschrijft. Volkswijsheden over het weer laten we weg.
+Buiten, of zonder radio en internet, kun je zelf op tekens in de lucht letten. Volkswijsheden over het weer laten we weg.
 
 - **Kleine wolkenplukken met torentjes** (altocumulus castellanus, een soort hoge stapelwolken) wijzen erop dat er later op de dag onweer kan volgen.
 - **Wolken met een sterke, zuilvormige verticale groei** (cumulonimbus, de eigenlijke onweerswolken) kondigen aan dat er zo meteen of in de buurt onweer mogelijk is. Onweer hoort altijd bij een cumulonimbus.
@@ -153,7 +153,7 @@ Bron: [KMI: Hoe bescherm ik me tegen bliksem?](https://www.meteo.be/nl/switch-la
 - Parkeer niet in de buurt van bomen.
 - Bij bliksem: blijf weg van metalen structuren, loop niet, sta stil en hurk.
 
-**Buiten in een bos of op terrein:** het Amerikaanse leger raadt aan je onderkomen niet te bouwen onder dode bomen of losse takken die kunnen vallen. Bij de KMI-windcodes ligt de drempel tussen 15 april en 15 november lager, omdat bomen dan bladeren dragen.
+**Buiten in een bos of op terrein:** bouw je onderkomen niet onder dode bomen of losse takken die kunnen vallen. Bij de KMI-windcodes ligt de drempel tussen 15 april en 15 november lager, omdat bomen dan bladeren dragen.
 
 Bron: [Nationaal Crisiscentrum: Wind en storm](https://crisiscentrum.be/nl/risicos-belgie/natuurlijke-risicos/wind-en-storm) · [KMI: Uitleg over onze waarschuwingen](https://www.meteo.be/nl/weer/waarschuwingen/uitleg) · [US Army FM 21-76](https://archive.org/details/fm-21-76-survival-manual)
 
@@ -172,7 +172,7 @@ Bron: [Nationaal Crisiscentrum: Wind en storm](https://crisiscentrum.be/nl/risic
 Zoek dit vooraf op, als het internet werkt:
 
 - Op de **Watertoets-kaart** van Waterinfo Vlaanderen zie je de overstromingsgevoelige gebieden (versie 2019) en de kaarten bij het watertoetsbesluit.
-- Het Crisiscentrum raadt aan je te informeren over de zones die gevoelig zijn voor overstromingen.
+- Informeer je over de zones die gevoelig zijn voor overstromingen.
 - Tijdens hoogwater vind je op **Waterinfo** actuele waterstanden en voorspellingen voor overstroming, neerslag, droogte en getijden. Zonder internet: luister naar de radio.
 
 **Buiten in het terrein**
@@ -188,7 +188,7 @@ Bron: [Nationaal Crisiscentrum: Fluviale overstroming](https://crisiscentrum.be/
 
 ## Kust en getijden
 
-**Hoe getijden werken.** Eb en vloed ontstaan door de aantrekkingskracht van de maan, en in mindere mate van de zon. Langs de Nederlandse kust is het twee keer hoogwater en twee keer laagwater per 24 uur en 50 minuten; één getijdencyclus duurt ongeveer 12 uur en 25 minuten.
+**Hoe getijden werken.** Eb en vloed ontstaan door de aantrekkingskracht van de maan, en in mindere mate van de zon. Langs de kust is het twee keer hoogwater en twee keer laagwater per 24 uur en 50 minuten; één getijdencyclus duurt ongeveer 12 uur en 25 minuten.
 
 | Getij | Wanneer | Gevolg |
 | --- | --- | --- |
@@ -214,12 +214,12 @@ Bron: [Rijkswaterstaat: Getij](https://www.rijkswaterstaat.nl/water/waterdata-en
 
 ## Rivieren en beken oversteken: niet doen
 
-PlanB72 geeft geen technieken om een rivier over te steken. Militaire overlevingshandboeken beschrijven die wel, voor soldaten die getraind en uitgerust zijn. Voor burgers zeggen de bronnen:
+PlanB72 geeft geen technieken om een rivier over te steken: die zijn bedoeld voor soldaten die getraind en uitgerust zijn. Voor burgers geldt:
 
 - **Wandel, zwem of rij niet door stromend water.** Al 15 cm stromend water kan je omverduwen. Keer om.
 - In België is **zwemmen in bevaarbare waterlopen** (rivieren, kanalen, havendokken) verboden waar het niet toegelaten is. Veel waterpartijen in natuurgebieden zijn vervuild, te diep, te koud of op een andere manier gevaarlijk.
 - Bruggen over snelstromend water kunnen zonder waarschuwing wegspoelen.
-- Ook de militaire handboeken noemen plaatsen die je moet mijden: een rotsrichel dwars over de rivier (wijst vaak op gevaarlijke stroomversnellingen), een riviermonding (breed, sterke stroming, getijden), en draaikolken (die je onder water kunnen trekken).
+- Mijd ook deze plaatsen: een rotsrichel dwars over de rivier (wijst vaak op gevaarlijke stroomversnellingen), een riviermonding (breed, sterke stroming, getijden), en draaikolken (die je onder water kunnen trekken).
 
 **Iemand is in het water gevallen:** zorg voor je eigen veiligheid, probeer te redden zonder zelf in het water te gaan, bel 112 of laat iemand bellen. Lukt bellen niet, stuur dan iemand om hulp te halen (zie de gids over gevaren in de natuur, Lukt bellen niet). Ga alleen het water in als je daarvoor getraind bent: een drenkeling die bij bewustzijn is, klampt zich in paniek aan de redder vast.
 
@@ -237,9 +237,9 @@ Bron: [Nationaal Crisiscentrum: Sneeuw](https://crisiscentrum.be/nl/risicos-belg
 
 ## Bergen en sneeuw: voor wie op reis gaat
 
-**Noodnummers.** 112 werkt in heel de EU en in Zwitserland. In Zwitserland kun je de luchtreddingsdienst Rega ook rechtstreeks bellen op 1414, of vanuit het buitenland op +41 333 333 333; Rega raadt zelf vooral zijn noodapp aan. Het Duitse Alpenverein raadt aan de nummers van de plaatselijke bergredding in je telefoon op te slaan. Zonder bereik: het alpiene noodsignaal (zes signalen per minuut, zie de gids over signalen). Ben je met een groep en is er een gewonde, stuur dan twee of meer mensen om alarm te slaan; de anderen blijven bij de gewonde (zie de gids over de noodoproep).
+**Noodnummers.** 112 werkt in heel de EU en in Zwitserland. In Zwitserland kun je de luchtreddingsdienst Rega ook rechtstreeks bellen op 1414, of vanuit het buitenland op +41 333 333 333; Rega raadt zelf vooral zijn noodapp aan. Sla de nummers van de plaatselijke bergredding op in je telefoon. Zonder bereik: het alpiene noodsignaal (zes signalen per minuut, zie de gids over signalen). Ben je met een groep en is er een gewonde, stuur dan twee of meer mensen om alarm te slaan; de anderen blijven bij de gewonde (zie de gids over de noodoproep).
 
-**De Europese lawinegevarenschaal** (EAWS, gebruikt in alle Alpenlanden)
+**De Europese lawinegevarenschaal** (gebruikt in alle Alpenlanden)
 
 | Niveau | Naam | Wat het betekent | Hoe vaak |
 | --- | --- | --- | --- |
@@ -247,11 +247,11 @@ Bron: [Nationaal Crisiscentrum: Sneeuw](https://crisiscentrum.be/nl/risicos-belg
 | 2 | Matig | Verhoogd gevaar op bepaalde plekken. Loskomen mogelijk, vooral bij grote extra belasting op de aangegeven steile hellingen. Vaak geen alarmtekens, wat niet wil zeggen dat het veilig is. | Ongeveer 50 procent van het seizoen, ongeveer 30 procent van de doden |
 | 3 | Aanzienlijk | Gevaarlijk. Loskomen mogelijk, ook bij kleine extra belasting. Recente lawines, scheuren en "woemf"-geluiden. | Ongeveer 30 procent van het seizoen, ongeveer 50 procent van de doden |
 | 4 | Groot | Zeer gevaarlijk. Loskomen waarschijnlijk, ook bij kleine belasting, op veel steile hellingen. Veel grote spontane lawines mogelijk. | Enkele dagen per winter, ongeveer 10 procent van de doden |
-| 5 | Zeer groot | Uitzonderlijk. Talrijke zeer grote spontane lawines, ook op matig steile hellingen. | Zeer zelden, ongeveer 1 procent van de doden (SLF) |
+| 5 | Zeer groot | Uitzonderlijk. Talrijke zeer grote spontane lawines, ook op matig steile hellingen. | Zeer zelden, ongeveer 1 procent van de doden |
 
 Het gevaarlijkste niveau voor wie buiten de piste gaat, is in de praktijk niveau 3: daar vallen de meeste doden.
 
-**Wat het Zwitserse lawine-instituut SLF aanraadt**
+**Wat je per niveau doet**
 
 | Niveau | Advies |
 | --- | --- |
@@ -263,7 +263,7 @@ Het gevaarlijkste niveau voor wie buiten de piste gaat, is in de praktijk niveau
 
 Een gevarenniveau geldt voor een hele regio, niet voor één helling, en is altijd een voorspelling die je ter plaatse moet beoordelen.
 
-**Bewegen in bergen en sneeuw** (Amerikaans leger)
+**Bewegen in bergen en sneeuw**
 
 - Mijd plaatsen waar lawines van aarde, rotsen of sneeuw kunnen vallen, en diepe spleten in ijsvelden.
 - Lijzijdes (de kant uit de wind) verzamelen sneeuw die van de windzijde is weggeblazen en vormen platen.

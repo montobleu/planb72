@@ -97,7 +97,7 @@ Source : [Gezondheid en Wetenschap : Brûlures](https://www.gezondheidenwetensch
 
 ## Si les secours tardent à arriver
 
-L'IFRC donne des solutions lorsqu'il n'y a pas d'eau du robinet ni de matériel de pansement :
+Solutions lorsqu'il n'y a pas d'eau du robinet ni de matériel de pansement :
 
 - Pas d'eau courante : refroidissez avec un autre liquide frais, comme du jus ou du lait.
 - Peu d'eau : placez un bol sous la brûlure et versez l'eau sur la plaie dans le bol. Vous pouvez ainsi réutiliser l'eau. Cela fonctionne mieux que de garder la plaie dans un bol d'eau, car le corps réchauffe l'eau stagnante.
@@ -144,6 +144,6 @@ Source : [Gezondheid en Wetenschap : Brûlures](https://www.gezondheidenwetensch
 - N'essayez pas de diluer un produit corrosif avalé. Appelez le 112 ou le Centre Antipoisons. Si l'appel ne passe pas, voir Appelez le 112 si.
 - Sans avis médical, ne mettez rien d'autre que de l'eau propre dans un œil atteint par un produit chimique.
 - Ne touchez pas une victime d'un accident électrique tant que le courant n'est pas coupé.
-- N'utilisez pas de pommade à la sulfadiazine argentique. L'IFRC indique qu'elle est associée à une moins bonne cicatrisation.
+- N'utilisez pas de pommade à la sulfadiazine argentique. Elle est associée à une moins bonne cicatrisation.
 
 Source : [Gezondheid en Wetenschap : Brûlures](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-brandwonden) · [IFRC Guidelines 2020](https://www.ifrc.org/sites/default/files/2022-02/EN_GFARC_GUIDELINES_2020.pdf) · [Gezondheid en Wetenschap : Accident électrique](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-een-elektriciteitsongeval)

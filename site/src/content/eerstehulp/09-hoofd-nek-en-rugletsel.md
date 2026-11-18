@@ -106,7 +106,7 @@ Bron: [Gezondheid en Wetenschap: Wervelletsels](https://www.gezondheidenwetensch
 
 - Hou het slachtoffer zo stil mogelijk en hanteer het zo weinig mogelijk. Blijf ademhaling en bewustzijn opvolgen.
 - Een bewusteloos slachtoffer met een vermoed wervelletsel dat normaal ademt: komt hulp snel, hou dan alleen de luchtweg open door de kaak op te tillen of het hoofd te kantelen. Is hulp nog ver weg en zijn er minstens twee helpers, dan mag je het slachtoffer op de zij leggen terwijl één helper het hoofd in één lijn met de rug houdt.
-- De Croix-Rouge de Belgique zegt dat een vrije luchtweg voorrang heeft. Je kan een duidelijk gewond slachtoffer alleen op de rug laten liggen als het duidelijk ademt en de hulpdiensten snel ter plaatse zijn. Twijfel je over het letsel, leg het dan in stabiele zijligging.
+- Een vrije luchtweg heeft voorrang. Je kan een duidelijk gewond slachtoffer alleen op de rug laten liggen als het duidelijk ademt en de hulpdiensten snel ter plaatse zijn. Twijfel je over het letsel, leg het dan in stabiele zijligging.
 - Na een klap op het hoofd zonder alarmtekens: de persoon mag zijn dag verder zetten, maar iemand moet hem de volgende 24 uur in het oog houden voor tekens die later opduiken. Een hersenschudding kan zich over uren of dagen ontwikkelen.
 - Rust is meestal de beste eerste behandeling. Laat de persoon pas opnieuw autorijden, met machines werken of contactsport doen als alle klachten weg zijn.
 - Hou het slachtoffer warm door het toe te dekken met droge lagen en het tegen de wind te beschermen.

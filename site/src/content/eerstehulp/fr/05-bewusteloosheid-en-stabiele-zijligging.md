@@ -35,7 +35,7 @@ Une personne est inconsciente lorsqu'elle ne réagit pas aux stimulations de son
 
 Causes possibles : intoxication (monoxyde de carbone, alcool), taux de sucre dans le sang trop bas, manque d'oxygène, hémorragie cérébrale, méningite, traumatisme crânien ou crise.
 
-La conscience peut diminuer par paliers. L'IFRC et l'ERC utilisent l'échelle AVPU :
+La conscience peut diminuer par paliers. Vous pouvez l'évaluer avec l'échelle AVPU :
 
 - A : alerte, mais éventuellement confuse ;
 - V : réagit uniquement à votre voix ;
@@ -68,7 +68,7 @@ Placez la victime en position latérale de sécurité si elle :
 - respire difficilement à cause de sang, de vomissements ou d'un autre liquide corporel ;
 - doit rester seule parce que vous devez aller donner l'alerte.
 
-Caractéristiques de la position selon l'ERC et l'IFRC :
+Caractéristiques de la position :
 
 1. La victime est couchée sur le côté.
 2. Les bras et les jambes sont pliés.
@@ -94,7 +94,7 @@ Pensez à une lésion de la colonne vertébrale après un accident de la route, 
 3. Surveillez la bouche en permanence. Si des vomissements arrivent, mettez immédiatement la victime sur le côté, peu importe comment, pour que les vomissements puissent s'écouler.
 4. Si elle est sur le ventre : surveillez la bouche en permanence et laissez les vomissements s'écouler.
 5. Vérifiez chaque minute la conscience et la respiration.
-6. La Croix-Rouge de Belgique insiste : la lésion doit pouvoir être constatée clairement et immédiatement. Si vous doutez qu'il y ait une lésion, placez quand même la victime en position latérale.
+6. La lésion doit pouvoir être constatée clairement et immédiatement. Si vous doutez qu'il y ait une lésion, placez quand même la victime en position latérale.
 
 ### Évanouissement
 
@@ -115,7 +115,7 @@ Source : [Gezondheid en Wetenschap : Perte de connaissance](https://www.gezondhe
 - Essayez de trouver la cause, comme le diabète, une intoxication ou un traumatisme crânien. Regardez s'il y a des emballages ouverts de médicaments ou de produits à proximité et remettez-les aux services de secours (voir le sujet 12).
 - Notez ce que vous voyez et quand : depuis combien de temps la personne est inconsciente, si elle réagit à la voix ou à la douleur, et chaque changement.
 - Si vous soupçonnez une lésion de la colonne vertébrale, que les secours sont encore loin et que vous êtes au moins deux sauveteurs : vous pouvez alors mettre la victime sur le côté pendant qu'un sauveteur maintient la tête dans l'axe du dos. Si les secours arrivent vite, limitez-vous à la bascule de la tête ou à l'élévation de la mâchoire.
-- La Croix-Rouge de Belgique explique qu'en cas de lésion évidente à la tête, à la nuque ou au tronc, vous pouvez laisser la victime sur le dos si elle respire clairement et que les services de secours sont rapidement sur place. Si cela dure longtemps, des voies respiratoires libres grâce à la position latérale priment.
+- En cas de lésion évidente à la tête, à la nuque ou au tronc, vous pouvez laisser la victime sur le dos si elle respire clairement et que les services de secours sont rapidement sur place. Si cela dure longtemps, des voies respiratoires libres grâce à la position latérale priment.
 - Gardez la victime au chaud. Placez quelque chose entre le corps et le sol, couvrez-la de couches sèches et protégez-la du vent.
 - Ne donnez rien à manger ni à boire à une personne inconsciente ou somnolente.
 - Si la personne se réveille, parlez-lui calmement, expliquez ce qui s'est passé et continuez à la surveiller.

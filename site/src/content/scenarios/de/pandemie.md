@@ -70,7 +70,7 @@ Quelle: [Ready.gov](https://www.ready.gov/pandemic) · [CDC: wenn Sie krank sind
 **Ein Vorrat.**
 
 - Legen Sie nach und nach einen Vorrat an Reinigungsmitteln, haltbaren Lebensmitteln, Wasser und Ihren verschriebenen Medikamenten für einige Tage bis Wochen an. Kaufen Sie in Ruhe ein, damit alle bekommen, was sie brauchen.
-- Das Nationale Krisenzentrum empfiehlt, mindestens 3 Tage selbst zurechtzukommen. Denken Sie an Trinkwasser (3 bis 10 Liter pro Person und Tag), haltbare Lebensmittel, Papiertaschentücher, Feuchttücher, Toilettenpapier, Binden, desinfizierendes Handgel und einen Erste-Hilfe-Kasten.
+- Sorgen Sie dafür, dass Sie mindestens 3 Tage selbst zurechtkommen. Denken Sie an Trinkwasser (3 Liter pro Person und Tag), haltbare Lebensmittel, Papiertaschentücher, Feuchttücher, Toilettenpapier, Binden, desinfizierendes Handgel und einen Erste-Hilfe-Kasten.
 - Halten Sie in Ihrer Notfalltasche eine Reserve Ihrer notwendigen Medikamente für mindestens 72 Stunden bereit.
 
 **Ein Plan.**
@@ -111,7 +111,7 @@ Gibt es kein Wasser und keine Seife, verwenden Sie Handgel mit mindestens 60 Pro
 - Trinken Sie ausreichend: 1,5 Liter pro Tag.
 - Lüften Sie Ihre Wohnung regelmäßig.
 
-**Wann Sie wieder nach draußen dürfen.** Befolgen Sie die Regeln der Gesundheitsdienste für die betreffende Krankheit. Die amerikanische CDC gibt als allgemeine Regel für Atemwegsinfektionen an: Nehmen Sie Ihre Aktivitäten wieder auf, wenn Ihre Beschwerden sich seit mindestens 24 Stunden bessern und Sie in diesen 24 Stunden kein Fieber hatten, ohne fiebersenkende Mittel. Treffen Sie danach noch 5 Tage zusätzliche Vorsichtsmaßnahmen bei anderen: frische Luft, Hygiene, eine gut sitzende Mund-Nasen-Maske, Abstand. Sie können das Virus dann noch weitergeben. Bekommen Sie wieder Fieber oder fühlen Sie sich schlechter, bleiben Sie wieder zu Hause.
+**Wann Sie wieder nach draußen dürfen.** Befolgen Sie die Regeln der Gesundheitsdienste für die betreffende Krankheit. Als allgemeine Regel für Atemwegsinfektionen gilt: Nehmen Sie Ihre Aktivitäten wieder auf, wenn Ihre Beschwerden sich seit mindestens 24 Stunden bessern und Sie in diesen 24 Stunden kein Fieber hatten, ohne fiebersenkende Mittel. Treffen Sie danach noch 5 Tage zusätzliche Vorsichtsmaßnahmen bei anderen: frische Luft, Hygiene, eine gut sitzende Mund-Nasen-Maske, Abstand. Sie können das Virus dann noch weitergeben. Bekommen Sie wieder Fieber oder fühlen Sie sich schlechter, bleiben Sie wieder zu Hause.
 
 **Ist ein Mitbewohner oder Freund krank.**
 

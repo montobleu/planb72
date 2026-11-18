@@ -81,7 +81,7 @@ En cas de grande incertitude, un code peut aussi être émis plus tardivement.
 
 **Comment recevoir les avertissements**
 
-1. **Radio.** Le Centre de crise cite la radio et la télévision comme premier moyen de suivre les prévisions météo. Lors d'une coupure de courant, internet et les réseaux mobiles peuvent tomber en panne : gardez alors à portée de main une radio à piles, une radio à manivelle ou l'autoradio (Centre de crise, SPF Économie).
+1. **Radio.** Suivez les prévisions météo d'abord à la radio et à la télévision. Lors d'une coupure de courant, internet et les réseaux mobiles peuvent tomber en panne : gardez alors à portée de main une radio à piles, une radio à manivelle ou l'autoradio.
 2. **Si internet fonctionne,** consultez aussi le site web ou l'application de l'IRM.
 3. **Lire le temps vous-même.** Les nuages et le tonnerre vous renseignent aussi, surtout à l'extérieur (voir Lire les nuages et les orages).
 
@@ -94,7 +94,7 @@ En cas de grande incertitude, un code peut aussi être émis plus tardivement.
 - L'IRM prévoit le temps, pas les dégâts. La survenue d'inondations dépend aussi des circonstances locales.
 - L'IRM émet aussi un avertissement pour l'**intoxication au monoxyde de carbone** (sans couleur) lorsqu'un temps sans vent avec une forte inversion de température entrave l'évacuation des fumées.
 
-**Seuils par couleur** (tels que l'IRM les publie)
+**Seuils par couleur**
 
 | Phénomène | Jaune | Orange | Rouge |
 | --- | --- | --- | --- |
@@ -121,7 +121,7 @@ Source : [IRM : Explication de nos avertissements](https://www.meteo.be/fr/meteo
 
 ## Lire les nuages et les orages
 
-À l'extérieur, ou sans radio ni internet, vous pouvez observer vous-même les signes dans le ciel. PlanB72 ne reprend que les signes météorologiques que l'IRM décrit lui-même. Nous laissons de côté les dictons populaires sur le temps.
+À l'extérieur, ou sans radio ni internet, vous pouvez observer vous-même les signes dans le ciel. Nous laissons de côté les dictons populaires sur le temps.
 
 - **De petits flocons nuageux avec des tourelles** (altocumulus castellanus, une sorte de nuages cumuliformes d'altitude) indiquent qu'un orage peut suivre plus tard dans la journée.
 - **Des nuages avec une forte croissance verticale en forme de colonne** (cumulonimbus, les véritables nuages d'orage) annoncent qu'un orage est possible sous peu ou à proximité. Un orage est toujours lié à un cumulonimbus.
@@ -155,7 +155,7 @@ Source : [IRM : Comment me protéger de la foudre ?](https://www.meteo.be/fr/inf
 - Ne vous garez pas à proximité d'arbres.
 - En cas de foudre : restez loin des structures métalliques, ne courez pas, restez immobile et accroupissez-vous.
 
-**Dehors, en forêt ou sur le terrain :** l'armée américaine conseille de ne pas construire votre abri sous des arbres morts ou des branches détachées qui peuvent tomber. Pour les codes vent de l'IRM, le seuil est plus bas entre le 15 avril et le 15 novembre, parce que les arbres portent alors des feuilles.
+**Dehors, en forêt ou sur le terrain :** ne construisez pas votre abri sous des arbres morts ou des branches détachées qui peuvent tomber. Pour les codes vent de l'IRM, le seuil est plus bas entre le 15 avril et le 15 novembre, parce que les arbres portent alors des feuilles.
 
 Source : [Centre de crise National : Vent et tempête](https://centredecrise.be/fr/risques-en-belgique/risques-naturels/vent-et-tempete) · [IRM : Explication de nos avertissements](https://www.meteo.be/fr/meteo/avertissements/explications-avertissements) · [US Army FM 21-76](https://archive.org/details/fm-21-76-survival-manual)
 
@@ -174,7 +174,7 @@ Source : [Centre de crise National : Vent et tempête](https://centredecrise.be/
 Recherchez-le à l'avance, quand internet fonctionne :
 
 - Sur la **carte Watertoets** de Waterinfo Vlaanderen, vous voyez les zones sensibles aux inondations (version 2019) et les cartes liées à l'arrêté Watertoets.
-- Le Centre de crise recommande de vous informer sur les zones sensibles aux inondations.
+- Informez-vous sur les zones sensibles aux inondations.
 - En période de crue, vous trouvez sur **Waterinfo** les niveaux d'eau actuels et les prévisions d'inondation, de précipitations, de sécheresse et de marées. Sans internet : écoutez la radio.
 
 **Dehors, sur le terrain**
@@ -190,7 +190,7 @@ Source : [Centre de crise National : Inondation fluviale](https://centredecrise.
 
 ## Côte et marées
 
-**Comment fonctionnent les marées.** Le flux et le reflux sont dus à l'attraction de la lune, et dans une moindre mesure du soleil. Le long de la côte néerlandaise, il y a deux marées hautes et deux marées basses toutes les 24 heures et 50 minutes ; un cycle de marée dure environ 12 heures et 25 minutes.
+**Comment fonctionnent les marées.** Le flux et le reflux sont dus à l'attraction de la lune, et dans une moindre mesure du soleil. Le long de la côte, il y a deux marées hautes et deux marées basses toutes les 24 heures et 50 minutes ; un cycle de marée dure environ 12 heures et 25 minutes.
 
 | Marée | Quand | Conséquence |
 | --- | --- | --- |
@@ -216,12 +216,12 @@ Source : [Rijkswaterstaat : Marée (Getij)](https://www.rijkswaterstaat.nl/water
 
 ## Traverser des rivières et des ruisseaux : à ne pas faire
 
-PlanB72 ne donne pas de techniques pour traverser une rivière. Les manuels militaires de survie en décrivent, pour des soldats entraînés et équipés. Pour les civils, les sources disent :
+PlanB72 ne donne pas de techniques pour traverser une rivière : elles sont destinées à des soldats entraînés et équipés. Pour les civils :
 
 - **Ne marchez pas, ne nagez pas et ne roulez pas dans une eau courante.** 15 cm d'eau courante suffisent à vous renverser. Faites demi-tour.
 - En Belgique, **nager dans les cours d'eau navigables** (rivières, canaux, darses portuaires) est interdit là où ce n'est pas autorisé. Beaucoup de plans d'eau dans les zones naturelles sont pollués, trop profonds, trop froids ou dangereux d'une autre manière.
 - Les ponts au-dessus d'une eau au courant rapide peuvent être emportés sans avertissement.
-- Les manuels militaires citent aussi des endroits à éviter : une barre rocheuse en travers de la rivière (indique souvent des rapides dangereux), une embouchure (large, fort courant, marées), et les tourbillons (qui peuvent vous entraîner sous l'eau).
+- Évitez aussi ces endroits : une barre rocheuse en travers de la rivière (indique souvent des rapides dangereux), une embouchure (large, fort courant, marées), et les tourbillons (qui peuvent vous entraîner sous l'eau).
 
 **Quelqu'un est tombé à l'eau :** veillez à votre propre sécurité, essayez de secourir sans entrer vous-même dans l'eau, appelez le 112 ou faites appeler. Si l'appel ne passe pas, envoyez quelqu'un chercher de l'aide (voir le guide sur les dangers dans la nature, Si l'appel ne passe pas). N'entrez dans l'eau que si vous êtes formé pour cela : une personne en train de se noyer qui est consciente s'agrippe au sauveteur sous l'effet de la panique.
 
@@ -239,9 +239,9 @@ Source : [Centre de crise National : Neige](https://centredecrise.be/fr/risques-
 
 ## Montagne et neige : pour ceux qui partent en voyage
 
-**Numéros d'urgence.** Le 112 fonctionne dans toute l'UE et en Suisse. En Suisse, vous pouvez aussi appeler directement le service de sauvetage aérien Rega au 1414, ou depuis l'étranger au +41 333 333 333 ; la Rega recommande surtout sa propre application d'urgence. Le Deutscher Alpenverein conseille d'enregistrer dans votre téléphone les numéros du secours en montagne local. Sans réseau : le signal de détresse alpin (six signaux par minute, voir le guide sur les signaux). Si vous êtes en groupe et qu'il y a un blessé, envoyez deux personnes ou plus donner l'alerte ; les autres restent auprès du blessé (voir le guide sur l'appel d'urgence).
+**Numéros d'urgence.** Le 112 fonctionne dans toute l'UE et en Suisse. En Suisse, vous pouvez aussi appeler directement le service de sauvetage aérien Rega au 1414, ou depuis l'étranger au +41 333 333 333 ; la Rega recommande surtout sa propre application d'urgence. Enregistrez dans votre téléphone les numéros du secours en montagne local. Sans réseau : le signal de détresse alpin (six signaux par minute, voir le guide sur les signaux). Si vous êtes en groupe et qu'il y a un blessé, envoyez deux personnes ou plus donner l'alerte ; les autres restent auprès du blessé (voir le guide sur l'appel d'urgence).
 
-**L'échelle européenne de danger d'avalanche** (EAWS, utilisée dans tous les pays alpins)
+**L'échelle européenne de danger d'avalanche** (utilisée dans tous les pays alpins)
 
 | Niveau | Nom | Ce que cela signifie | Fréquence |
 | --- | --- | --- | --- |
@@ -249,11 +249,11 @@ Source : [Centre de crise National : Neige](https://centredecrise.be/fr/risques-
 | 2 | Limité | Danger accru à certains endroits. Déclenchement possible, surtout par une forte surcharge sur les pentes raides indiquées. Souvent pas de signes d'alarme, ce qui ne veut pas dire que c'est sûr. | Environ 50 pour cent de la saison, environ 30 pour cent des morts |
 | 3 | Marqué | Dangereux. Déclenchement possible, même par une faible surcharge. Avalanches récentes, fissures et bruits de « whoum ». | Environ 30 pour cent de la saison, environ 50 pour cent des morts |
 | 4 | Fort | Très dangereux. Déclenchement probable, même par une faible surcharge, sur de nombreuses pentes raides. Nombreuses grandes avalanches spontanées possibles. | Quelques jours par hiver, environ 10 pour cent des morts |
-| 5 | Très fort | Exceptionnel. Nombreuses très grandes avalanches spontanées, même sur des pentes modérément raides. | Très rarement, environ 1 pour cent des morts (SLF) |
+| 5 | Très fort | Exceptionnel. Nombreuses très grandes avalanches spontanées, même sur des pentes modérément raides. | Très rarement, environ 1 pour cent des morts |
 
 Pour ceux qui sortent des pistes, le niveau le plus dangereux en pratique est le niveau 3 : c'est là que se produisent la plupart des décès.
 
-**Ce que recommande l'institut suisse des avalanches SLF**
+**Ce que vous faites à chaque niveau**
 
 | Niveau | Conseil |
 | --- | --- |
@@ -265,7 +265,7 @@ Pour ceux qui sortent des pistes, le niveau le plus dangereux en pratique est le
 
 Un niveau de danger vaut pour toute une région, pas pour une seule pente, et c'est toujours une prévision que vous devez évaluer sur place.
 
-**Se déplacer en montagne et dans la neige** (armée américaine)
+**Se déplacer en montagne et dans la neige**
 
 - Évitez les endroits où des avalanches de terre, de roches ou de neige peuvent tomber, et les crevasses profondes dans les champs de glace.
 - Les versants sous le vent (le côté abrité du vent) accumulent la neige soufflée du versant au vent et forment des plaques.

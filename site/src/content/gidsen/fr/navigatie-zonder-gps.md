@@ -40,7 +40,7 @@ origineel_datum: "2026-11-18"
 
 ## Pourquoi c'est nécessaire
 
-Le National Park Service compte la navigation (carte, boussole et GPS) parmi les dix équipements de base pour qui part dans la nature, et conseille de s'exercer à l'avance avec une boussole ou un GPS et d'emporter des piles de rechange. Si votre GSM ou votre GPS tombe en panne, vous devez vous rabattre sur une carte, une boussole ou les repères que la nature vous offre.
+La navigation (carte, boussole et GPS) fait partie des dix équipements de base pour qui part dans la nature. Exercez-vous à l'avance avec une boussole ou un GPS et emportez des piles de rechange. Si votre GSM ou votre GPS tombe en panne, vous devez vous rabattre sur une carte, une boussole ou les repères que la nature vous offre.
 
 Naviguer sans GPS, c'est combiner trois choses :
 
@@ -73,7 +73,7 @@ Source : [National Park Service: Outdoor Emergency Plan](https://www.nps.gov/sub
 - Les cartes topographiques classiques ne comportent **pas de noms de rues**.
 - Avec le **Topomapviewer** gratuit de l'IGN (web et app), vous pouvez consulter les cartes, mesurer des distances et enregistrer une portion de carte en PDF pour l'imprimer. Le viewer a besoin d'une connexion internet ; le PDF peut être imprimé à l'avance.
 
-**Boussole et métal.** Le métal et l'électricité perturbent une boussole. L'armée américaine recommande ces distances :
+**Boussole et métal.** Le métal et l'électricité perturbent une boussole. Respectez ces distances :
 
 | Quoi | Distance |
 | --- | --- |
@@ -108,9 +108,9 @@ Source : [National Park Service: Outdoor Emergency Plan](https://www.nps.gov/sub
 5. Arrivé là, choisissez le point de visée suivant. Répétez.
 6. La nuit, vous ne voyez que des silhouettes. Choisissez alors des points de visée avec une forme encore plus nette.
 
-**Contourner un obstacle.** Tournez de 90 degrés, parcourez une distance connue, revenez à votre direction d'origine et continuez, tournez de 90 degrés dans l'autre sens et parcourez la même distance en retour. Vous êtes alors de nouveau sur votre ligne. Exemple tiré du manuel américain : vous marchez vers l'est (90 degrés) ; allez 100 m vers le sud (180), 150 m vers l'est (90), 100 m vers le nord (360), puis continuez vers l'est.
+**Contourner un obstacle.** Tournez de 90 degrés, parcourez une distance connue, revenez à votre direction d'origine et continuez, tournez de 90 degrés dans l'autre sens et parcourez la même distance en retour. Vous êtes alors de nouveau sur votre ligne. Exemple : vous marchez vers l'est (90 degrés) ; allez 100 m vers le sud (180), 150 m vers l'est (90), 100 m vers le nord (360), puis continuez vers l'est.
 
-**Viser volontairement à côté de votre but.** Si votre but se trouve le long d'une route ou d'un ruisseau, visez volontairement quelques degrés à gauche ou à droite. Quand vous atteignez la route, vous savez tout de suite de quel côté aller. Chaque degré d'écart vous décale d'environ 18 mètres par 1 000 mètres. Selon le manuel, dix degrés suffisent pour la plupart des usages.
+**Viser volontairement à côté de votre but.** Si votre but se trouve le long d'une route ou d'un ruisseau, visez volontairement quelques degrés à gauche ou à droite. Quand vous atteignez la route, vous savez tout de suite de quel côté aller. Chaque degré d'écart vous décale d'environ 18 mètres par 1 000 mètres. Dix degrés suffisent pour la plupart des usages.
 
 **Naviguer avec le terrain (sans beaucoup de travail à la boussole)**
 
@@ -147,7 +147,7 @@ Une ligne perpendiculaire à la ligne est-ouest est approximativement la ligne n
 2. Le **sud** se trouve à mi-chemin entre l'aiguille des heures et **12 heures**. À l'heure d'été, prenez le milieu entre l'aiguille des heures et **13 heures**.
 3. Si vous doutez de quel côté se trouve le nord : avant midi, le soleil est à l'est, après midi à l'ouest.
 
-Cette méthode peut donner des erreurs et vous faire tourner en rond. Le manuel conseille de régler votre montre avec une horloge solaire et de la contrôler à nouveau après une heure de marche.
+Cette méthode peut donner des erreurs et vous faire tourner en rond. Réglez donc votre montre avec une horloge solaire et contrôlez-la à nouveau après une heure de marche.
 
 **L'étoile Polaire**
 
@@ -163,7 +163,7 @@ Source : [US Army FM 3-25.26](https://archive.org/details/milmanual-fm-3-25.26-m
 
 ## Mesurer et estimer une distance
 
-Selon le manuel américain, la distance est la plus grande source d'erreurs en navigation.
+La distance est la plus grande source d'erreurs en navigation.
 
 **Compter vos pas**
 
@@ -180,7 +180,7 @@ Votre pas change. Comptez plus de pas par 100 mètres :
 - avec beaucoup de vêtements ou des chaussures qui accrochent peu ;
 - par mauvaise visibilité : brouillard, pluie, obscurité.
 
-Exemple tiré du manuel : une personne qui a normalement besoin de 120 pas pour 100 mètres peut en avoir besoin de 130 ou plus en montée.
+Exemple : une personne qui a normalement besoin de 120 pas pour 100 mètres peut en avoir besoin de 130 ou plus en montée.
 
 **Estimer à l'œil**
 
@@ -218,7 +218,7 @@ Source : [US Army FM 3-25.26](https://archive.org/details/milmanual-fm-3-25.26-m
 
 ## Retrouver votre chemin et laisser des traces
 
-- **Restez sur les chemins.** Dans les bois et les zones naturelles en Flandre, c'est aussi la règle : les piétons ne peuvent circuler que sur les routes et chemins prévus, sauf dans les zones de jeu délimitées. Le National Park Service le conseille pour ne pas vous perdre.
+- **Restez sur les chemins.** Dans les bois et les zones naturelles en Flandre, c'est aussi la règle : les piétons ne peuvent circuler que sur les routes et chemins prévus, sauf dans les zones de jeu délimitées. Vous risquez aussi moins de vous perdre.
 - **Faites attention en chemin** aux croisements de chemins, aux panneaux d'information et aux points de repère. Vérifiez régulièrement que vous êtes toujours sur l'itinéraire prévu.
 - **Connaissez votre itinéraire en sens inverse** aussi bien qu'à l'aller. Retournez-vous régulièrement : le chemin du retour a un autre aspect.
 - **Laissez une trace d'information** : un plan d'itinéraire chez quelqu'un à la maison. Si vous devez partir lors d'une situation d'urgence, laissez un mot indiquant quand vous êtes parti et où vous allez.
@@ -227,7 +227,7 @@ Source : [Vlaanderen.be : Que pouvez-vous faire en tant que visiteur dans la nat
 
 ## Perdu : rester ou partir
 
-**Étape 1 : arrêtez-vous et respirez.** Prenez le temps de réfléchir calmement. L'armée américaine conseille de ne pas prendre de décision juste après le choc : attendez que la première frayeur soit passée, examinez ensuite la situation et décidez.
+**Étape 1 : arrêtez-vous et respirez.** Prenez le temps de réfléchir calmement. Ne prenez pas de décision juste après le choc : attendez que la première frayeur soit passée, examinez ensuite la situation et décidez.
 
 **Étape 2 : déterminez votre position.** Utilisez votre carte, votre boussole, votre GPS ou des points de repère visibles.
 
@@ -246,7 +246,7 @@ Source : [Vlaanderen.be : Que pouvez-vous faire en tant que visiteur dans la nat
 - Économisez votre énergie et attendez patiemment.
 - Ne faites pas de feu en cas de risque d'incendie élevé.
 
-**Quand partir malgré tout ?** L'armée américaine cite comme raisons de vous déplacer : l'endroit n'offre pas assez d'eau, de nourriture ou d'abri, ou vous ne pouvez pas y communiquer. Ne partez que si vous êtes sûr de pouvoir atteindre de l'eau, un abri, de la nourriture et de l'aide, ou si, après plusieurs jours d'attente, vous êtes convaincu qu'aucune aide ne viendra et que vous êtes équipé pour voyager. Ne quittez pas un abri sûr pour partir par mauvais temps. Si vous êtes blessé ou avez une blessure à la tête, cela limite votre capacité à partir et à bien décider.
+**Quand partir malgré tout ?** Raisons de vous déplacer : l'endroit n'offre pas assez d'eau, de nourriture ou d'abri, ou vous ne pouvez pas y communiquer. Ne partez que si vous êtes sûr de pouvoir atteindre de l'eau, un abri, de la nourriture et de l'aide, ou si, après plusieurs jours d'attente, vous êtes convaincu qu'aucune aide ne viendra et que vous êtes équipé pour voyager. Ne quittez pas un abri sûr pour partir par mauvais temps. Si vous êtes blessé ou avez une blessure à la tête, cela limite votre capacité à partir et à bien décider.
 
 **Si vous devez malgré tout partir**
 
@@ -283,7 +283,7 @@ Source : [National Park Service: Junior Ranger Park Explorer](https://www.nps.go
 
 ## Selon l'endroit
 
-| Endroit | Ce que disent les sources |
+| Endroit | Ce qui convient |
 | --- | --- |
 | Bois ou zone naturelle en Flandre | Restez sur les chemins ; c'est aussi la règle. Appelez le 112 en donnant des points reconnaissables (chemins, mares, tours d'observation, parkings). En cas d'incendie, fuyez par les chemins existants loin du feu, de préférence perpendiculairement au vent, vers une voie publique ou une agglomération. Pas de réseau en cas d'incendie : évacuez le plus vite possible et abordez les personnes que vous rencontrez. |
 | Montagne | Faites le signal de détresse alpin si vous n'avez pas de téléphone mais êtes à portée de vue ou de voix d'une vallée ou d'un refuge. Lors d'un appel, donnez des points remarquables du terrain, l'altitude et si possible des coordonnées. |

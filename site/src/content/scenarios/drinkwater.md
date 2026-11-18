@@ -61,8 +61,8 @@ Bron: [SWDE](https://www.swde.be/en/water-quality-non-potable-water) · [RIVM](h
 
 ### Hoeveel water
 
-- Het Nationaal Crisiscentrum raadt een voorraad aan voor minstens 3 dagen. Op de pagina over drinkwater noemt het 4 liter per persoon per dag. In de lijst voor het noodpakket noemt het 3 tot 10 liter per persoon per dag: een volwassene drinkt 1,5 tot 2 liter, de rest is voor wassen, toilet en koken.
-- Het Amerikaanse CDC raadt minstens 1 gallon (ongeveer 3,8 liter) per persoon per dag aan, voor minstens 3 dagen, en een voorraad voor 2 weken als dat kan.
+- Reken op 3 liter per persoon per dag, om te drinken en te koken. Een volwassene drinkt zelf 1,5 tot 2 liter. Meer als je kunt, voor wassen en toilet.
+- Hou minstens 3 dagen voorraad, liefst langer.
 - Voorzie meer voor zwangere vrouwen, zieken, kinderen, vrouwen die borstvoeding geven, huisdieren en bij warm weer. Bij grote hitte kan de behoefte verdubbelen.
 - Hou ook water opzij dat niet om te drinken is, voor wassen en schoonmaken.
 
@@ -75,7 +75,7 @@ Bron: [SWDE](https://www.swde.be/en/water-quality-non-potable-water) · [RIVM](h
 - Gebruik schone, lege flessen of een jerrycan, liefst geschikt voor voeding.
 - Kies een stevige, onbreekbare verpakking (geen glas) met een goed sluitende dop en een smalle hals.
 - Gebruik nooit een verpakking waar giftige stoffen in zaten, zoals bleekwater of pesticiden.
-- Was de verpakking met afwasmiddel en spoel goed. Het CDC raadt aan om ze daarna te ontsmetten: 1 theelepel geurloos bleekwater (5 tot 9 procent natriumhypochloriet) in ongeveer 1 liter water, goed schudden zodat alle binnenkanten nat worden, minstens 30 seconden wachten, leeggieten en laten drogen.
+- Was de verpakking met afwasmiddel en spoel goed. Ontsmet ze daarna: 1 theelepel geurloos bleekwater (5 tot 9 procent natriumhypochloriet) in ongeveer 1 liter water, goed schudden zodat alle binnenkanten nat worden, minstens 30 seconden wachten, leeggieten en laten drogen.
 - Vul met schoon water en sluit goed af.
 - Schrijf "drinkwater" en de datum op de verpakking. Vervang zelf gevuld water elke 6 maanden.
 - Bewaar tussen ongeveer 10 en 21 °C, uit de zon en weg van benzine en pesticiden.
@@ -102,12 +102,12 @@ Bron: [Nationaal Crisiscentrum: drinkwater](https://crisiscentrum.be/nl/risicos-
 
 **Bij een kookadvies (oranje).**
 
-Gebruik flessenwater of gekookt water. Het CDC noemt deze toepassingen: drinken, afwassen, tanden poetsen, eten wassen en bereiden, handen wassen, ijsblokjes maken en flesvoeding maken. Het Nederlandse RIVM zegt dat douchen, tanden poetsen en met de hand afwassen met ongekookt water niet gevaarlijk zijn. Volg het advies van je eigen waterbedrijf. Twijfel je, kies dan de strengste aanpak.
+Gebruik flessenwater of gekookt water om te drinken, af te wassen, tanden te poetsen, eten te wassen en te bereiden, handen te wassen, ijsblokjes te maken en flesvoeding te maken. Geeft je waterbedrijf een ander advies, volg dan dat.
 
 Zo kook je water:
 
 1. Is het water troebel, filter het dan door een schone doek, keukenpapier of een koffiefilter. Of laat het bezinken en schep het heldere water af.
-2. Breng het water aan de kook en laat het flink doorkoken. Het CDC zegt minstens 1 minuut. Het RIVM zegt 3 minuten. Geeft je waterbedrijf een duur op, volg dan die.
+2. Breng het water aan de kook en laat het minstens 1 minuut flink doorkoken. Geeft je waterbedrijf een duur op, volg dan die.
 3. Laat het afkoelen.
 4. Bewaar het in schone, goed afgesloten potten of flessen.
 5. Smaakt het vlak, giet het dan een paar keer over van de ene in de andere pot, of laat het enkele uren staan.
@@ -133,7 +133,7 @@ Zo kook je water:
 Gebruik deze alleen als je geen flessenwater of voorraad meer hebt. Kun je water niet behandelen, wacht dan zo lang mogelijk met het drinken van twijfelachtig water, maar laat jezelf niet uitdrogen.
 
 - **Koken** is de veiligste manier om ziektekiemen te doden.
-- **Bleekwater.** Gebruik gewoon, geurloos bleekwater. Kijk eerst op het etiket: staan er instructies voor water ontsmetten, volg die dan. Het CDC geeft voor bleekwater met 5 tot 9 procent natriumhypochloriet: 2 druppels (0,1 ml) per liter water. Voor bleekwater met 1 procent: 10 druppels (0,5 ml) per liter. Is het water troebel, gekleurd of erg koud, gebruik dan het dubbele. Roer goed en wacht minstens 30 minuten voor je drinkt. Belgisch bleekwater kan een andere sterkte hebben: lees altijd het etiket.
+- **Bleekwater.** Gebruik gewoon, geurloos bleekwater. Kijk eerst op het etiket: staan er instructies voor water ontsmetten, volg die dan. Voor bleekwater met 5 tot 9 procent natriumhypochloriet: 2 druppels (0,1 ml) per liter water. Voor bleekwater met 1 procent: 10 druppels (0,5 ml) per liter. Is het water troebel, gekleurd of erg koud, gebruik dan het dubbele. Roer goed en wacht minstens 30 minuten voor je drinkt. Belgisch bleekwater kan een andere sterkte hebben: lees altijd het etiket.
 - **Tabletten of druppels.** Volg de instructies op de verpakking. Chloordioxide doodt de parasiet Cryptosporidium als je het goed gebruikt. Jodium- en chloortabletten doden die parasiet niet. Wie zwanger is of schildklierproblemen heeft, drinkt beter geen water dat met jodium ontsmet is. Niemand drinkt zulk water langer dan enkele weken.
 - **Filters.** Draagbare filters halen geen virussen weg. Voor bacteriën moet de poriegrootte 0,3 micron of kleiner zijn, voor parasieten 1 micron of kleiner. Ontsmet het water na het filteren nog met een middel.
 - **Zonlicht.** Werkt alleen met helder water. Vul schone, doorzichtige plastic flessen, leg ze op hun zij in de zon: 6 uur bij zon, 2 dagen bij bewolking. Een donkere ondergrond helpt.
@@ -157,7 +157,7 @@ Gebruik deze alleen als je geen flessenwater of voorraad meer hebt. Kun je water
 
 ### Huisdieren en dieren
 
-- Voorzie extra water voor huisdieren in je voorraad. Het Nationaal Crisiscentrum raadt voer, water en kommen voor 72 uur aan.
+- Voorzie extra water voor huisdieren in je voorraad, met voer, water en kommen voor 72 uur.
 
 Bron: [SWDE](https://www.swde.be/en/water-quality-non-potable-water) · [RIVM](https://www.rivm.nl/drinkwater/toelichting-kookadvies-drinkwater) · [CDC](https://www.cdc.gov/water-emergency/about/index.html) · [CDC: water bewaren](https://www.cdc.gov/water-emergency/about/how-to-create-and-store-an-emergency-water-supply.html) · [Ready.gov](https://www.ready.gov/water) · [Nationaal Crisiscentrum: noodpakket](https://crisiscentrum.be/nl/wat-kan-jij-doen/maak-een-noodpakket/een-noodpakket-bij-je-thuis) · [Nationaal Crisiscentrum: drinkwater](https://crisiscentrum.be/nl/risicos-belgie/maatschappelijke-risicos/verstoring-van-drinkwater) · [Nationaal Crisiscentrum: informatie tijdens een noodsituatie](https://crisiscentrum.be/nl/wat-kan-jij-doen/informeer-je/informatie-tijdens-een-noodsituatie)
 

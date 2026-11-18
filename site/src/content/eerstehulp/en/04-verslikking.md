@@ -115,7 +115,7 @@ Source: [IFRC Guidelines 2020](https://www.ifrc.org/sites/default/files/2022-02/
 - the back blows and abdominal or chest thrusts do not help;
 - the casualty loses consciousness.
 
-Also see a doctor if the casualty keeps coughing, has difficulty swallowing, has the feeling that something is in the throat, or has received abdominal thrusts. The Croix-Rouge de Belgique recommends medical advice or a call to 112, even if the object has come out.
+Also see a doctor if the casualty keeps coughing, has difficulty swallowing, has the feeling that something is in the throat, or has received abdominal thrusts. Seek medical advice or call 112, even if the object has come out.
 
 **If you cannot get through**
 
@@ -132,7 +132,7 @@ Source: [Gezondheid en Wetenschap: Choking](https://www.gezondheidenwetenschap.b
 - Do not give a baby abdominal thrusts, give chest thrusts.
 - Do not give a pregnant woman abdominal thrusts, give chest thrusts.
 - Do not leave the casualty alone until they are breathing normally again.
-- Do not hold back out of fear of doing something wrong. According to the Red Cross, doing nothing can end badly.
+- Do not hold back out of fear of doing something wrong. Doing nothing can end badly.
 
 Prevention in children: cut round food such as grapes and tomatoes in half. Keep an eye on a baby when they are eating or can put something in their mouth.
 

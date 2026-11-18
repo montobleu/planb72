@@ -217,7 +217,7 @@ Kleine Kinder stecken oft Beeren oder Blätter in den Mund. Meist geht das gut a
 
 **Wie Pflanzen schaden**
 
-| Art | Beispiele aus der Quelle |
+| Art | Beispiele |
 | --- | --- |
 | Verschlucken | Viele Pflanzen sind beim Verzehr giftig, ganz oder teilweise (Blätter, Beeren, Früchte, Zwiebeln) |
 | Hautreizung durch Pflanzensaft | Wolfsmilch, Schöllkraut |
@@ -350,7 +350,7 @@ Quelle: [Vlaanderen.be: Sicher schwimmen oder Wassersport treiben in offenen Gew
 
 Seit Anfang der 2000er Jahre gibt es in Flandern immer mehr Wildschweine, auch in Wohngebieten. Sie sind von Natur aus menschenscheu, aber intelligent. Wer sie füttert, bringt ihnen bei, Menschen mit Futter zu verbinden; dann verlieren sie ihre Scheu. Sie bleiben **wilde Tiere, die unvorhersehbar reagieren können**. Sie überqueren oft unvermittelt die Straße. Sie können Krankheitserreger tragen: **Vermeiden Sie engen Kontakt**.
 
-**Was das Agentschap Natuur en Bos empfiehlt**
+**Was Sie tun**
 
 - Füttern Sie sie nicht. Lassen Sie keine Abfälle oder Essensreste zurück.
 - Schirmen Sie Müllsäcke und Komposthaufen ab.
@@ -364,7 +364,7 @@ Quelle: [Agentschap Natuur en Bos: Wildschweine in der Nähe?](https://natuurenb
 
 ## Der Wolf in Flandern
 
-Die Wahrscheinlichkeit, dass Sie zufällig einem Wolf begegnen, ist sehr gering. Wölfe sind vor allem nachts aktiv, scheu und gut getarnt. Laut dem Agentschap Natuur en Bos und dem INBO ist die Zahl der Zwischenfälle in unserer westlichen Umgebung äußerst gering. Die Wahrscheinlichkeit, von einem Hund verletzt zu werden, ist viel größer als durch einen Wolf. Gefährlich sind vor allem Wölfe, die von Menschen gefüttert wurden und Menschen mit Futter verbinden.
+Die Wahrscheinlichkeit, dass Sie zufällig einem Wolf begegnen, ist sehr gering. Wölfe sind vor allem nachts aktiv, scheu und gut getarnt. Die Zahl der Zwischenfälle in unserer westlichen Umgebung ist äußerst gering. Die Wahrscheinlichkeit, von einem Hund verletzt zu werden, ist viel größer als durch einen Wolf. Gefährlich sind vor allem Wölfe, die von Menschen gefüttert wurden und Menschen mit Futter verbinden.
 
 **Stehen Sie einem Wolf Auge in Auge gegenüber**
 

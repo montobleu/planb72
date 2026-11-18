@@ -5,7 +5,7 @@ kort: "The lights go out and do not come back on straight away, or a load-sheddi
 stappen:
   - "Check whether only your home is without power: do the neighbours still have lights, are the street lights on? This tells you whether the problem is your own installation or the grid."
   - "Switch off heating appliances (hob, oven, iron, kettle, electric heating) and unplug sensitive devices. Leave one switch on so that you notice when the power comes back."
-  - "Keep the fridge and freezer closed. According to the Crisis Center, a closed freezer stays frozen for 24 to 36 hours."
+  - "Keep the fridge and freezer closed. A closed freezer stays frozen for 24 to 36 hours."
   - "Use a torch instead of candles. If you do burn a candle, put it in a holder on a non-combustible surface and never leave it unattended."
   - "Follow the news on a battery-powered radio or the car radio. If the network still works, only phone and go online when necessary and send a text message instead."
   - "Never use a generator, barbecue, camping stove or heater without a flue indoors or in the garage. Carbon monoxide is invisible and odourless."
@@ -111,14 +111,14 @@ Source: [National Crisis Center: disruption of electricity](https://crisiscenter
 
 **Emergency kit for at least 72 hours**
 
-The Crisis Center recommends that you can manage on your own for at least three days. The German civil protection agency (BBK) aims for a few days up to ten days.
+Make sure you can manage on your own for at least three days.
 
-- Drinking water: 3 to 10 litres per person per day. Of this, 1.5 to 2 litres is for drinking, the rest for cooking, washing and the toilet.
+- Drinking water: allow 3 litres per person per day, for drinking and cooking. More if you can, for washing and the toilet.
 - Food that you can eat cold or prepare without electricity, gas or water, and a tin opener.
 - A torch, preferably a wind-up one. If it runs on batteries, have spare batteries.
 - A battery-powered or wind-up radio.
 - A charged power bank and a charger.
-- Cash for about 72 hours, because cash machines and payment terminals stop working. Denk vooruit (the Netherlands) gives a guideline amount of 70 euros per adult and 30 euros per child.
+- Cash for about 72 hours, for example 70 euros per adult and 30 euros per child, because cash machines and payment terminals stop working.
 - A stock of essential medicines for at least 72 hours.
 - Blankets and warm clothing for the winter.
 - A lighter or matches, candles or tealights.
@@ -165,8 +165,7 @@ Source: [National Crisis Center: disruption of electricity](https://crisiscenter
 **Fridge and freezer**
 
 - Open the fridge and freezer as little as possible.
-- According to the Crisis Center, food does not thaw during an interruption of 3 to 4 hours. If the freezer door stays closed, food can stay deep-frozen for 24 and even 36 hours.
-- The American health agency CDC puts it at about 4 hours for a closed fridge, 48 hours for a full freezer and 24 hours for a half-full one. In Belgium the advice of the Crisis Center applies.
+- Food does not thaw during an interruption of 3 to 4 hours. If the freezer door stays closed, food can stay deep-frozen for 24 and even 36 hours.
 
 **Staying warm**
 
@@ -241,7 +240,7 @@ Source: [National Crisis Center: emergency kit](https://crisiscenter.be/en/what-
 
 **Medicines that must be kept cool**
 
-- The CDC recommends throwing away such liquid medicines after a day or more without power, unless the package leaflet says otherwise. Ask your doctor or pharmacist for a new supply as soon as possible.
+- Throw away such liquid medicines after a day or more without power, unless the package leaflet says otherwise. Ask your doctor or pharmacist for a new supply as soon as possible.
 - If a life depends on the medicine, keep using it until there is a new supply.
 
 **Neighbours**
@@ -268,7 +267,7 @@ Source: [National Crisis Center: emergency kit](https://crisiscenter.be/en/what-
 
 - Check the bag of ice cubes. If the ice has melted and frozen again, the food has probably gone off.
 - Throw food away at the slightest doubt about spoilage, or if it has a strange smell, colour or texture.
-- According to the CDC, thawed frozen food that still contains ice crystals or is still 4 °C or colder may be refrozen or cooked.
+- Thawed frozen food that still contains ice crystals or is still 4 °C or colder may be refrozen or cooked.
 - Throw away perishable food that has been without refrigeration for 4 hours or longer: meat, fish, cut vegetables and fruit, eggs, milk and leftovers. Throw away thawed frozen food that is warmer than 4 °C.
 - A thermometer in the fridge and freezer helps you to judge this.
 

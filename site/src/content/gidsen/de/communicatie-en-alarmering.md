@@ -88,33 +88,33 @@ Behörden und Rettungsdienste setzen oft mehrere Kanäle gleichzeitig ein. Bei e
 
 **Ohne Mobilfunknetz oder Internet**
 
-| Kanal | Was | Quelle |
-| --- | --- | --- |
-| Radio | Radio mit Batterien oder Kurbel, oder das Autoradio | Krisenzentrum, FÖD Wirtschaft |
-| Lautsprecherwagen der Polizei | Lautsprecher in der Straße | Krisenzentrum |
-| Bei bestimmten Notsituationen | Informationstafeln, Faltblätter, Kommunikation von Tür zu Tür | Broschüre |
-| Sirenen und Lautsprecher | siehe Sirenen in Belgien | Vlaanderen.be |
-| Aufnahmezentrum oder Informations- und Anlaufstelle | bei größeren Notsituationen ein Aufnahmezentrum von Gemeinde oder Provinz, zum Beispiel eine Sporthalle, mit einer Kontaktperson, die Informationen gibt; bei einer Abschaltung eine Informations- und Anlaufstelle der Gemeinde | Krisenzentrum, FÖD Wirtschaft |
-| Nachbarn | wer ein Radio mit Batterien hat, teilt Informationen; benachrichtigen Sie, wer isoliert ist | Krisenzentrum |
+| Kanal | Was |
+| --- | --- |
+| Radio | Radio mit Batterien oder Kurbel, oder das Autoradio |
+| Lautsprecherwagen der Polizei | Lautsprecher in der Straße |
+| Bei bestimmten Notsituationen | Informationstafeln, Faltblätter, Kommunikation von Tür zu Tür |
+| Sirenen und Lautsprecher | siehe Sirenen in Belgien |
+| Aufnahmezentrum oder Informations- und Anlaufstelle | bei größeren Notsituationen ein Aufnahmezentrum von Gemeinde oder Provinz, zum Beispiel eine Sporthalle, mit einer Kontaktperson, die Informationen gibt; bei einer Abschaltung eine Informations- und Anlaufstelle der Gemeinde |
+| Nachbarn | wer ein Radio mit Batterien hat, teilt Informationen; benachrichtigen Sie, wer isoliert ist |
 
 **Wenn das Netz funktioniert**
 
-| Kanal | Was | Quelle |
-| --- | --- | --- |
-| BE-Alert | SMS, Sprachanruf oder E-Mail; in manchen Gemeinden auch auf Informationstafeln am Straßenrand | Krisenzentrum, BE-Alert |
-| Fernsehen und Online-Medien | Nachrichten und offizielle Meldungen | Krisenzentrum |
-| Websites | Gemeinde, Provinz, Nationales Krisenzentrum | Krisenzentrum |
-| Soziale Medien | @CrisiscenterBE und Kanäle von Gemeinde, Polizei und Feuerwehr | Krisenzentrum |
-| Informationsnummer | der Gemeinde oder Provinz oder die nationale Nummer 1771 | Krisenzentrum |
+| Kanal | Was |
+| --- | --- |
+| BE-Alert | SMS, Sprachanruf oder E-Mail; in manchen Gemeinden auch auf Informationstafeln am Straßenrand |
+| Fernsehen und Online-Medien | Nachrichten und offizielle Meldungen |
+| Websites | Gemeinde, Provinz, Nationales Krisenzentrum |
+| Soziale Medien | @CrisiscenterBE und Kanäle von Gemeinde, Polizei und Feuerwehr |
+| Informationsnummer | der Gemeinde oder Provinz oder die nationale Nummer 1771 |
 
-**So finden Sie die richtigen Kanäle im Voraus (Krisenzentrum)**
+**So finden Sie die richtigen Kanäle im Voraus**
 
 - Gemeinde: meist der Name der Gemeinde, gefolgt von .be.
 - Feuerwehr: brandweer.be.
 - Polizei: auf politie.be mit Ihrer Postleitzahl.
 - Soziale Medien: über die Logos auf der offiziellen Website.
 
-Abonnieren Sie diese Kanäle im Voraus und melden Sie sich bei BE-Alert an. Fragen Sie Ihre Gemeindeverwaltung, was die Gemeinde vorsieht, wenn keine Anrufe mehr möglich sind, zum Beispiel eine Informations- und Anlaufstelle (FÖD Wirtschaft).
+Abonnieren Sie diese Kanäle im Voraus und melden Sie sich bei BE-Alert an. Fragen Sie Ihre Gemeindeverwaltung, was die Gemeinde vorsieht, wenn keine Anrufe mehr möglich sind, zum Beispiel eine Informations- und Anlaufstelle.
 
 Quelle: [Nationales Krisenzentrum: Informationen während einer Notsituation](https://krisenzentrum.be/de/was-koennen-sie-tun/informieren-sie-sich/information-notsituationen) · [Nationales Krisenzentrum: Information der Bevölkerung](https://krisenzentrum.be/de/was-tun-die-behoerden/krisenmanagement/information-der-bevoelkerung) · [Nationales Krisenzentrum: Broschüre Gemeinsam vorbereitet](https://krisenzentrum.be/sites/default/files/documents/files/WEB-Brosch%C3%BCre%20Gemeinsam%20Vorbereitet-DE.pdf) · [Nationales Krisenzentrum: Evakuieren](https://krisenzentrum.be/de/was-koennen-sie-tun/der-richtige-reflex/evakuierung) · [Nationales Krisenzentrum: Ein Plan in Ihrem Viertel oder Verein](https://krisenzentrum.be/de/was-koennen-sie-tun/erstellen-sie-einen-plan/ein-plan-ihrem-viertel-oder-ihrem-verein) · [Nationales Krisenzentrum: Verbreiten Sie die richtigen Informationen](https://krisenzentrum.be/de/was-koennen-sie-tun/der-richtige-reflex/korrekte-informationen-verbreiten) · [Vlaanderen.be: BE-Alert](https://www.vlaanderen.be/be-alert-waarschuwingssysteem-bij-noodsituaties) · [FÖD Wirtschaft: Fragen von Haushalten zur Stromknappheit](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door) · [BE-Alert: What is BE-Alert?](https://www.be-alert.be/de/was-ist-be-alert)
 
@@ -126,17 +126,17 @@ Das Krisenzentrum bittet um:
 - Eine aufgeladene Powerbank und Ersatzbatterien.
 - Eine Liste wichtiger Telefonnummern auf Papier.
 
-Auch ein Autoradio funktioniert bei einem Stromausfall, und Radiosender funktionieren weiter, wenn Mobilfunknetz und Internet ausfallen (BBK, OFF ON, FÖD Wirtschaft).
+Auch ein Autoradio funktioniert bei einem Stromausfall, und Radiosender funktionieren weiter, wenn Mobilfunknetz und Internet ausfallen.
 
-Die herangezogenen belgischen Quellen bestimmen keinen eigenen Notfallsender, nur allgemein Radio, Fernsehen und Online-Medien. In den Niederlanden sind die regionalen öffentlich-rechtlichen Sender die Katastrophensender (Denk vooruit).
+In Belgien ist kein eigener Notfallsender bestimmt: Verfolgen Sie das Radio, und Fernsehen und Online-Medien, wenn diese funktionieren. Wohnen Sie nahe der niederländischen Grenze, empfangen Sie auch den niederländischen Katastrophensender (siehe Frequenzen an der niederländischen Grenze).
 
-**Tun Sie das jetzt:** Suchen Sie die Frequenz Ihres Senders heraus, kleben Sie sie auf Ihr Radio und stellen Sie das Radio darauf ein. Haben Sie kein Radio mit Batterien, sprechen Sie sich mit einem Nachbarn ab, der eines hat (Krisenzentrum, Denk vooruit).
+**Tun Sie das jetzt:** Suchen Sie die Frequenz Ihres Senders heraus, kleben Sie sie auf Ihr Radio und stellen Sie das Radio darauf ein. Haben Sie kein Radio mit Batterien, sprechen Sie sich mit einem Nachbarn ab, der eines hat.
 
 Quelle: [Nationales Krisenzentrum: Broschüre Gemeinsam vorbereitet](https://krisenzentrum.be/sites/default/files/documents/files/WEB-Brosch%C3%BCre%20Gemeinsam%20Vorbereitet-DE.pdf) · [Nationales Krisenzentrum: Ein Notfallpaket für zu Hause](https://krisenzentrum.be/de/was-koennen-sie-tun/stelle-ein-notfallpaket-zusammen/ein-notfallset-fuer-zu-hause) · [Nationales Krisenzentrum: Ein Plan in Ihrem Viertel oder Verein](https://krisenzentrum.be/de/was-koennen-sie-tun/erstellen-sie-einen-plan/ein-plan-ihrem-viertel-oder-ihrem-verein) · [FÖD Wirtschaft: Fragen von Haushalten zur Stromknappheit](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door) · [BBK: Vorsorgen für Krisen und Katastrophen](https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/Buergerinformationen/Ratgeber/BBK-Vorsorgen-fuer-Krisen-und-Katastrophen.pdf?__blob=publicationFile&v=44) · [Nationales Krisenzentrum: OFF ON](https://krisenzentrum.be/sites/default/files/documents/files/OffOn-triptyque-D.pdf) · [Denk vooruit: Radio](https://www.denkvooruit.nl/bereid-je-voor/zo-krijg-je-een-waarschuwing/radio) · [Denk vooruit: Informationsheft](https://www.denkvooruit.nl/site/binaries/site-content/collections/documents/2025/11/17/informatieboekje-bereid-je-voor-op-een-noodsituatie/informatieboekje-bereid-je-voor-op-een-noodsituatie.pdf)
 
 ## Frequenzen: VRT (Flandern)
 
-UKW-Frequenzen laut VRT:
+UKW-Frequenzen der VRT:
 
 | Region | Radio 1 | Radio 2 |
 | --- | --- | --- |
@@ -152,7 +152,7 @@ UKW-Frequenzen laut VRT:
 
 Dieselbe Seite nennt auch Klara, MNM und Studio Brussel.
 
-**Tipps der VRT für UKW**
+**Tipps für UKW**
 
 - **AF (Alternativfrequenz):** Das Radio wählt selbst die stärkste Frequenz, praktisch außerhalb Ihrer Provinz.
 - **REG (Regionalfunktion):** Das Radio bleibt auf derselben regionalen Frequenz.
@@ -163,7 +163,7 @@ Quelle: [VRT: UKW-Antenne](https://www.vrt.be/nl/ons-aanbod/fm-antenne)
 
 ## Frequenzen: BRF (Ostbelgien) und RTBF (Wallonie und Brüssel)
 
-**BRF** (Informationsbroschüre):
+**BRF**
 
 | Sender | UKW-Frequenz | Empfangsgebiet |
 | --- | --- | --- |
@@ -191,7 +191,7 @@ Quelle: [BRF: Infobroschüre](https://u.brf.be/wp-content/uploads/sites/5/2023/0
 
 ## Frequenzen an der niederländischen Grenze
 
-Direkt an der Grenze empfangen Sie auch den niederländischen Katastrophensender (Denk vooruit):
+Direkt an der Grenze empfangen Sie auch den niederländischen Katastrophensender, den regionalen öffentlich-rechtlichen Sender:
 
 | Sender | Sendeanlage | UKW |
 | --- | --- | --- |
@@ -213,11 +213,11 @@ Die Lage ist weniger klar als in den Nachbarländern:
 
 - Bis Dezember 2018 wurde das Sirenennetz viermal pro Jahr hörbar getestet, an jedem ersten Donnerstag im Januar, April, Juli und Oktober. Dieser Rhythmus wurde für BE-Alert beibehalten.
 - Vlaanderen.be nennt Sirenen und Lautsprecher der Polizei neben Radio, Fernsehen und BE-Alert.
-- Laut der Bürgermeisterin von Tienen (VRT, 2022) wird das Sirenensystem abgebaut und durch BE-Alert ersetzt; die letzte Sirene des Seveso-Betriebs in ihrer Stadt verschwand 2021.
+- Das Sirenensystem wird abgebaut und durch BE-Alert ersetzt. In Tienen verschwand die letzte Sirene, bei einem Seveso-Betrieb, 2021.
 
 Eine aktuelle offizielle Beschreibung eines belgischen Sirenensignals wurde nicht gefunden. Hören Sie eine Sirene, dann hören Sie Radio, und sehen Sie auf BE-Alert, wenn das Netz funktioniert.
 
-**An der Grenze.** In den Niederlanden bedeutet eine Sirene außerhalb von 12:00 Uhr am ersten Montag des Monats: Gehen Sie nach drinnen, schließen Sie Fenster, Türen und Lüftung und folgen Sie Radio oder Fernsehen (Denk vooruit). In Deutschland bedeutet ein auf- und abschwellender Ton von einer Minute Gefahr; ein Dauerton von einer Minute bedeutet, dass die Gefahr vorüber ist (BBK).
+**An der Grenze.** In den Niederlanden bedeutet eine Sirene außerhalb von 12:00 Uhr am ersten Montag des Monats: Gehen Sie nach drinnen, schließen Sie Fenster, Türen und Lüftung und folgen Sie Radio oder Fernsehen. In Deutschland bedeutet ein auf- und abschwellender Ton von einer Minute Gefahr; ein Dauerton von einer Minute bedeutet, dass die Gefahr vorüber ist.
 
 Quelle: [Nationales Krisenzentrum: Nationale Strategie für Alarmierungstests](https://crisiscentrum.be/sites/default/files/documents/files/cc_nationale_strategie_voor_alarmeringstesten_0.pdf) · [Vlaanderen.be: BE-Alert](https://www.vlaanderen.be/be-alert-waarschuwingssysteem-bij-noodsituaties) · [VRT NWS: Luftalarme](https://www.vrt.be/vrtnws/nl/2022/03/16/luchtalarmen-bestaat-dat-nog-bij-ons/) · [Denk vooruit: Informationsheft](https://www.denkvooruit.nl/site/binaries/site-content/collections/documents/2025/11/17/informatieboekje-bereid-je-voor-op-een-noodsituatie/informatieboekje-bereid-je-voor-op-een-noodsituatie.pdf) · [BBK: Vorsorgen für Krisen und Katastrophen](https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/Buergerinformationen/Ratgeber/BBK-Vorsorgen-fuer-Krisen-und-Katastrophen.pdf?__blob=publicationFile&v=44)
 
@@ -227,13 +227,13 @@ Quelle: [Nationales Krisenzentrum: Nationale Strategie für Alarmierungstests](h
 
 BE-Alert funktioniert über Mobilfunknetz und Internet. Fallen diese aus, hören Sie Radio.
 
-**Drei Wege, auf denen Sie eine Nachricht erhalten (BE-Alert)**
+**Drei Wege, auf denen Sie eine Nachricht erhalten**
 
 1. **An Ihren registrierten Adressen**, etwa Ihrer Wohnung, Ihrer Arbeit, der Schule Ihrer Kinder oder der Adresse eines schutzbedürftigen Familienmitglieds: per SMS, E-Mail oder Sprachanruf, auch wenn Sie nicht zu Hause sind.
 2. **Auf der Grundlage Ihres Standorts.** Bei großen Notsituationen oder einer Evakuierung erhalten alle in der Zone eine SMS, auch ohne Anmeldung. Die Betreiber löschen die Liste der Telefone in der Risikozone automatisch sechs Monate nach der Nachricht.
 3. **Auf der Straße.** Seit 2022 auch auf anderen Bildschirmen, wie einer Informationstafel in Ihrer Gemeinde.
 
-**Eine echte Nachricht erkennen (Krisenzentrum)**
+**Eine echte Nachricht erkennen**
 
 - Sie beginnt immer mit "BE-Alert".
 - Sie kommt von 1789 oder 0477 77 77 55. E-Mails kommen von no-reply@be-alert.be.
@@ -250,7 +250,7 @@ Quelle: [Nationales Krisenzentrum: Broschüre Gemeinsam vorbereitet](https://kri
 
 Eine Gemeinde, eine Provinz oder das Krisenzentrum kann eine eigene Informationsnummer schalten oder die nationale Nummer 1771. Diese kann Tag und Nacht innerhalb einer Stunde betriebsbereit sein und bearbeitet, zusammen mit dem FÖD Volksgesundheit, auch sensible Anrufe zu möglichen Opfern. Gemeinden schließen dafür zuerst eine Vereinbarung ab.
 
-1771 antwortet also nicht immer: Die Behörden teilen mit, wann die Nummer aktiv ist. Sie hilft nur, solange Anrufe möglich sind; sonst hören Sie Radio und bitten in Ihrer Nachbarschaft um Hilfe (FÖD Wirtschaft).
+1771 antwortet also nicht immer: Die Behörden teilen mit, wann die Nummer aktiv ist. Sie hilft nur, solange Anrufe möglich sind; sonst hören Sie Radio und bitten in Ihrer Nachbarschaft um Hilfe.
 
 Bei lebensbedrohlichen Situationen rufen Sie 112 an. Gelingt das nicht, siehe Notrufnummern in der App, Wenn kein Anruf möglich ist.
 
@@ -262,21 +262,22 @@ Bei einer großen Notsituation ist das Telefonnetz schnell überlastet, was die 
 
 **Was Sie über das Netz wissen müssen**
 
-- Mobilfunkmasten halten ohne Strom ein bis zwei Stunden durch; mobiles Internet (4G und 5G) fällt wahrscheinlich sofort aus. Dass Ihr Festnetz noch funktioniert, ist wenig wahrscheinlich (FÖD Wirtschaft).
-- Bei Internettelefonie brauchen Router, Glasfaser und Gerät Strom. Mobilfunknetze haben nur teilweise und kurz Notstrom (BBK).
-- Mit genug Signal rufen Sie die 112 über jeden Betreiber an. 100 und 101 sind bei Stromknappheit nicht garantiert (FÖD Wirtschaft).
+- Mobilfunkmasten halten ohne Strom ein bis zwei Stunden durch; mobiles Internet (4G und 5G) fällt wahrscheinlich sofort aus. Dass Ihr Festnetz noch funktioniert, ist wenig wahrscheinlich.
+- Bei Internettelefonie brauchen Router, Glasfaser und Gerät Strom. Mobilfunknetze haben nur teilweise und kurz Notstrom.
+- Mit genug Signal rufen Sie die 112 über jeden Betreiber an. 100 und 101 sind bei Stromknappheit nicht garantiert.
 
 **Solange das Netz funktioniert**
 
-- Telefonieren Sie nur, wenn es wirklich nötig ist. Senden Sie lieber eine SMS oder nutzen Sie Messenger-Apps, auch um Ihre Familie zu erreichen; massenhaftes Anrufen überlastet das Netz (Broschüre, OFF ON, Krisenzentrum).
-- Rufen Sie die Notrufnummern nicht an, um nach Informationen zu fragen. Bei früheren Stromausfällen überlastete das die Notrufzentralen (BBK).
-- Lassen Sie immer ein Telefon eingeschaltet, auch nachts, um Warnungen zu empfangen (BBK, Denk vooruit).
+- Telefonieren Sie nur, wenn es wirklich nötig ist. Senden Sie lieber eine SMS oder nutzen Sie Messenger-Apps, auch um Ihre Familie zu erreichen; massenhaftes Anrufen überlastet das Netz.
+- Rufen Sie die Notrufnummern nicht an, um nach Informationen zu fragen. Bei früheren Stromausfällen überlastete das die Notrufzentralen.
+- Lassen Sie immer ein Telefon eingeschaltet, auch nachts, um Warnungen zu empfangen.
 
 **Wenn kein Anruf möglich ist**
 
-- Versuchen Sie es mit einem anderen Gerät oder lassen Sie Nachbarn oder Umstehende anrufen; gehen Sie einige Meter weiter (112.be). Funktioniert Telefonieren überhaupt nicht, verfolgen Sie das Radio oder bitten Sie in Ihrer Nachbarschaft um Hilfe (FÖD Wirtschaft).
-- Erreichen Sie Ihre Familie nicht, gehen Sie zu dem vorher vereinbarten Ort (Krisenzentrum).
-- Ausländische Empfehlungen: In Deutschland empfiehlt das BBK, dann zur nächstgelegenen Polizeiwache oder zum Krankenhaus zu gehen; in den Niederlanden schickten die Behörden die Bürger bei der 112-Störung von 2019 zur Feuerwache oder Polizeidienststelle und bei medizinischen Notfällen ins Krankenhaus. Die Karte in der App zeigt sie, mit der Taste Am nächsten.
+- Versuchen Sie es mit einem anderen Gerät oder lassen Sie Nachbarn oder Umstehende anrufen; gehen Sie einige Meter weiter.
+- Funktioniert Telefonieren überhaupt nicht, bitten Sie in Ihrer Nachbarschaft um Hilfe oder gehen Sie, wenn möglich, zur nächsten Polizeidienststelle, Feuerwache oder ins Krankenhaus. Die Karte in der App zeigt sie, mit der Schaltfläche „Am nächsten“. Bei einem großen Ausfall kann die Gemeinde eine Informations- und Anlaufstelle öffnen.
+- Verfolgen Sie das Radio.
+- Erreichen Sie Ihre Familie nicht, gehen Sie zu dem vorher vereinbarten Ort.
 - Alle Schritte stehen im Leitfaden Notruf und in der App unter Notrufnummern, Wenn kein Anruf möglich ist.
 
 Quelle: [FÖD Wirtschaft: Fragen von Haushalten zur Stromknappheit](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door) · [112.be: Häufig gestellte Fragen](https://112.be/de/haeufig-gestellte-fragen) · [Nationales Krisenzentrum: Störung der digitalen Infrastruktur](https://krisenzentrum.be/de/risiken-belgien/maatschappelijke-risicos/ausfall-der-digitalen-infrastruktur) · [Nationales Krisenzentrum: Broschüre Gemeinsam vorbereitet](https://krisenzentrum.be/sites/default/files/documents/files/WEB-Brosch%C3%BCre%20Gemeinsam%20Vorbereitet-DE.pdf) · [Nationales Krisenzentrum: OFF ON](https://krisenzentrum.be/sites/default/files/documents/files/OffOn-triptyque-D.pdf) · [Nationales Krisenzentrum: Evakuieren](https://krisenzentrum.be/de/was-koennen-sie-tun/der-richtige-reflex/evakuierung) · [BBK: Vorsorgen für Krisen und Katastrophen](https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/Buergerinformationen/Ratgeber/BBK-Vorsorgen-fuer-Krisen-und-Katastrophen.pdf?__blob=publicationFile&v=44) · [BBK: Stromausfall, Vorsorge und Selbsthilfe](https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/Buergerinformationen/stromausfall-vorsorge-selbsthilfe.pdf?__blob=publicationFile&v=17) · [Inspektionen: Nichterreichbarkeit der 112 am 24. Juni 2019](https://zoek.officielebekendmakingen.nl/blg-942150.pdf) · [Denk vooruit: Informationsheft](https://www.denkvooruit.nl/site/binaries/site-content/collections/documents/2025/11/17/informatieboekje-bereid-je-voor-op-een-noodsituatie/informatieboekje-bereid-je-voor-op-een-noodsituatie.pdf)
@@ -285,7 +286,7 @@ Quelle: [FÖD Wirtschaft: Fragen von Haushalten zur Stromknappheit](https://econ
 
 Während einer Notsituation kursieren viele Informationen, vor allem in den sozialen Medien. Falsche Informationen werden oft unbewusst geteilt, manchmal absichtlich, um Panik zu verbreiten oder Menschen gegeneinander aufzubringen.
 
-**Sechs Fragen (Krisenzentrum)**
+**Sechs Fragen**
 
 1. **Kommt es von einer offiziellen Quelle?** Achten Sie auf die Profilbeschreibung, die URL, frühere Beiträge und das Logo.
 2. **Ist der Urheber oder Verbreiter zuverlässig?**
@@ -294,34 +295,34 @@ Während einer Notsituation kursieren viele Informationen, vor allem in den sozi
 5. **Spielt es stark mit Emotionen?** Dann ist es oft Desinformation.
 6. **Stimmt das Foto?** Bilder werden manchmal aus dem Zusammenhang gerissen. Funktioniert das Internet, suchen Sie das Foto.
 
-Das BBK ergänzt: Achten Sie auf ein Impressum mit echtem Namen und vollständiger Adresse und auf Quellenangaben.
+Achten Sie auch auf ein Impressum mit echtem Namen und vollständiger Adresse und auf Quellenangaben.
 
 **Was Sie tun**
 
-- Zweifeln Sie, dann verbreiten Sie es nicht (Krisenzentrum).
-- Teilen Sie selbst nur Nachrichten von Behörden und Rettungsdiensten (Broschüre).
-- Machen Sie nicht unnötig Fotos oder Videos und teilen Sie keine Bilder, die die Privatsphäre von Opfern verletzen (Krisenzentrum).
+- Zweifeln Sie, dann verbreiten Sie es nicht.
+- Teilen Sie selbst nur Nachrichten von Behörden und Rettungsdiensten.
+- Machen Sie nicht unnötig Fotos oder Videos und teilen Sie keine Bilder, die die Privatsphäre von Opfern verletzen.
 
 Quelle: [Nationales Krisenzentrum: Vorsicht vor falschen oder irreführenden Informationen](https://krisenzentrum.be/de/was-koennen-sie-tun/informieren-sie-sich/vorsicht-vor-falschen-oder-irrefuehrenden-informationen-0) · [Nationales Krisenzentrum: Verbreiten Sie die richtigen Informationen](https://krisenzentrum.be/de/was-koennen-sie-tun/der-richtige-reflex/korrekte-informationen-verbreiten) · [Nationales Krisenzentrum: Broschüre Gemeinsam vorbereitet](https://krisenzentrum.be/sites/default/files/documents/files/WEB-Brosch%C3%BCre%20Gemeinsam%20Vorbereitet-DE.pdf) · [BBK: Vorsorgen für Krisen und Katastrophen](https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/Buergerinformationen/Ratgeber/BBK-Vorsorgen-fuer-Krisen-und-Katastrophen.pdf?__blob=publicationFile&v=44)
 
 ## Kontakt ohne Telefon oder Internet: Absprachen
 
-Das Krisenzentrum bittet Nachbarn und Vereine, im Voraus abzusprechen, wie sie einander ohne Telefon oder Internet erreichen und wer nützliches Material hat, wie ein Radio mit Batterien. Denk vooruit empfiehlt, einen Ort und eine Uhrzeit zu vereinbaren, um sich zu treffen, wenn keine Verbindung besteht.
+Das Krisenzentrum bittet Nachbarn und Vereine, im Voraus abzusprechen, wie sie einander ohne Telefon oder Internet erreichen und wer nützliches Material hat, wie ein Radio mit Batterien. Vereinbaren Sie einen Ort und eine Uhrzeit, um sich zu treffen, wenn keine Verbindung besteht.
 
-Vereinbaren Sie auch mit Ihrer Familie, wo Sie einander wiederfinden, und halten Sie eine Papierliste mit Kontaktpersonen (Adressen und Telefonnummern) bereit (Krisenzentrum). Siehe den Leitfaden Familiennotfallplan.
+Vereinbaren Sie auch mit Ihrer Familie, wo Sie einander wiederfinden, und halten Sie eine Papierliste mit Kontaktpersonen (Adressen und Telefonnummern) bereit. Siehe den Leitfaden Familiennotfallplan.
 
 Quelle: [Nationales Krisenzentrum: Störung der digitalen Infrastruktur](https://krisenzentrum.be/de/risiken-belgien/maatschappelijke-risicos/ausfall-der-digitalen-infrastruktur) · [Nationales Krisenzentrum: Ein Plan bei Ihnen zu Hause](https://krisenzentrum.be/de/was-koennen-sie-tun/make-plan/ein-notfallplan-zu-hause) · [Nationales Krisenzentrum: Ein Plan in Ihrem Viertel oder Verein](https://krisenzentrum.be/de/was-koennen-sie-tun/erstellen-sie-einen-plan/ein-plan-ihrem-viertel-oder-ihrem-verein) · [Nationales Krisenzentrum: Broschüre Gemeinsam vorbereitet](https://krisenzentrum.be/sites/default/files/documents/files/WEB-Brosch%C3%BCre%20Gemeinsam%20Vorbereitet-DE.pdf) · [Denk vooruit: Informationsheft](https://www.denkvooruit.nl/site/binaries/site-content/collections/documents/2025/11/17/informatieboekje-bereid-je-voor-op-een-noodsituatie/informatieboekje-bereid-je-voor-op-een-noodsituatie.pdf)
 
 ## Walkie-Talkies (PMR446) und CB
 
-**PMR446.** Laut einem Konsultationsdokument des BIPT aus dem Jahr 2020:
+**PMR446.**
 
 - Frequenzband 446 bis 446,2 MHz.
 - Handgeräte mit fest angebrachter Antenne, Peer-to-Peer auf kurze Entfernung; nicht als Basisstation oder Repeater.
 - Sendeleistung bis 500 mW ERP.
 - Von einer Genehmigung des BIPT befreit.
 
-**CB-Funk.** Auf seiner Seite über die Jagd schreibt das BIPT, dass CB- und PMR-446-Funkgeräte ohne Genehmigung verwendet werden dürfen. Ein offizieller Notkanal oder Kanalabsprachen für PMR446 oder CB wurden nicht gefunden.
+**CB-Funk.** CB- und PMR-446-Funkgeräte dürfen Sie ohne Genehmigung verwenden. Ein offizieller Notkanal oder Kanalabsprachen für PMR446 oder CB wurden nicht gefunden.
 
 Quelle: [BIPT: Konsultation zu den Funkschnittstellen PMR-446](https://www.bipt.be/index.php/file/cc73d96153bbd5448a56f19d925d05b1379c7f21/c764eaaf8ce92afd28706d406e709fdf2541e149/srd-pmr-2020-nl.pdf) · [BIPT: The use of walkie-talkies](https://www.bipt.be/nutzer/funkfrequenzen/private-nutzung-hobby/jagd)
 
@@ -329,7 +330,7 @@ Quelle: [BIPT: Konsultation zu den Funkschnittstellen PMR-446](https://www.bipt.
 
 **B-EARS** (Belgium Emergency Amateur Radio Service) gehört zur UBA, dem belgischen Verband der Funkamateure, und zählt mehr als 300 Mitglieder. Der Vorläufer arbeitete seit 1962 auf Ersuchen des Roten Kreuzes.
 
-Was B-EARS laut der UBA tut:
+Was B-EARS tut:
 
 - Einen grundlegenden Funkkommunikationsdienst für offizielle Stellen leisten, ausschließlich auf deren Ersuchen, wenn deren gewöhnliche Kommunikation ausfällt.
 - Ein Funknetz aufbauen, zum Beispiel von einem Krisenzentrum oder Kommandoposten aus.
@@ -348,13 +349,13 @@ Sie rufen B-EARS also nicht selbst. UBA-Mitglieder können sich als Freiwillige 
 | 18160 |
 | 21360 |
 
-Für VHF und UHF gibt es laut der IARU keine gemeinsamen europäischen Notfrequenzen.
+Für VHF und UHF gibt es keine gemeinsamen europäischen Notfrequenzen.
 
 Quelle: [UBA: B-EARS, unsere Mission](https://www.uba.be/nl/b-ears/onze-missie) · [IARU Region 1: Emergency Communications Frequencies](https://www.iaru-r1.org/index.php/emergency-communications/emergency-communications-frequencies)
 
 ## Meshtastic (Erwähnung)
 
-Meshtastic ist ein Open-Source-Projekt, das preiswerte LoRa-Funkgeräte nutzt, um Textnachrichten ohne Mobilfunknetz, WLAN oder Internet zu senden. Laut der Projektdokumentation:
+Meshtastic ist ein Open-Source-Projekt, das preiswerte LoRa-Funkgeräte nutzt, um Textnachrichten ohne Mobilfunknetz, WLAN oder Internet zu senden.
 
 - Jedes Gerät leitet empfangene Nachrichten weiter, sodass ein Netz (Mesh) entsteht, das auch weit entfernte Gruppenmitglieder erreicht.
 - Router und Telefon sind für das Mesh-Netz nicht nötig; ein Gerät kann mit einem Telefon gekoppelt werden.

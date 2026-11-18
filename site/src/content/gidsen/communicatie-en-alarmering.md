@@ -86,33 +86,33 @@ Overheid en hulpdiensten zetten vaak meerdere kanalen tegelijk in. Bij een stroo
 
 **Zonder gsm-net of internet**
 
-| Kanaal | Wat | Bron |
-| --- | --- | --- |
-| Radio | radio op batterijen of met slinger, of de autoradio | Crisiscentrum, FOD Economie |
-| Omroepwagens van de politie | luidsprekers in de straat | Crisiscentrum |
-| Bij bepaalde noodsituaties | informatieborden, folders, deur-aan-deurcommunicatie | brochure |
-| Sirenes en luidsprekers | zie Sirenes in België | Vlaanderen.be |
-| Onthaalcentrum of informatie- en onthaalpunt | bij grotere noodsituaties een onthaalcentrum van gemeente of provincie, bijvoorbeeld een sporthal, met een contactpersoon die informatie geeft; bij een afschakeling een informatie- en onthaalpunt van de gemeente | Crisiscentrum, FOD Economie |
-| Buren | wie een radio op batterijen heeft, deelt informatie; verwittig wie geïsoleerd is | Crisiscentrum |
+| Kanaal | Wat |
+| --- | --- |
+| Radio | radio op batterijen of met slinger, of de autoradio |
+| Omroepwagens van de politie | luidsprekers in de straat |
+| Bij bepaalde noodsituaties | informatieborden, folders, deur-aan-deurcommunicatie |
+| Sirenes en luidsprekers | zie Sirenes in België |
+| Onthaalcentrum of informatie- en onthaalpunt | bij grotere noodsituaties een onthaalcentrum van gemeente of provincie, bijvoorbeeld een sporthal, met een contactpersoon die informatie geeft; bij een afschakeling een informatie- en onthaalpunt van de gemeente |
+| Buren | wie een radio op batterijen heeft, deelt informatie; verwittig wie geïsoleerd is |
 
 **Als het netwerk werkt**
 
-| Kanaal | Wat | Bron |
-| --- | --- | --- |
-| BE-Alert | sms, gesproken oproep of e-mail; in sommige gemeenten ook op informatieborden langs de weg | Crisiscentrum, BE-Alert |
-| Tv en online media | nieuws en officiële berichten | Crisiscentrum |
-| Websites | gemeente, provincie, Nationaal Crisiscentrum | Crisiscentrum |
-| Sociale media | @CrisiscenterBE en kanalen van gemeente, politie en brandweer | Crisiscentrum |
-| Informatienummer | van gemeente of provincie, of het nationale nummer 1771 | Crisiscentrum |
+| Kanaal | Wat |
+| --- | --- |
+| BE-Alert | sms, gesproken oproep of e-mail; in sommige gemeenten ook op informatieborden langs de weg |
+| Tv en online media | nieuws en officiële berichten |
+| Websites | gemeente, provincie, Nationaal Crisiscentrum |
+| Sociale media | @CrisiscenterBE en kanalen van gemeente, politie en brandweer |
+| Informatienummer | van gemeente of provincie, of het nationale nummer 1771 |
 
-**Zo vind je de juiste kanalen vooraf (Crisiscentrum)**
+**Zo vind je de juiste kanalen vooraf**
 
 - Gemeente: meestal de naam van de gemeente gevolgd door .be.
 - Brandweer: brandweer.be.
 - Politie: op politie.be met je postcode.
 - Sociale media: via de logo's op de officiële website.
 
-Abonneer je vooraf op die kanalen en schrijf je in op BE-Alert. Vraag je gemeentebestuur wat de gemeente voorziet als bellen niet meer lukt, bijvoorbeeld een informatie- en onthaalpunt (FOD Economie).
+Abonneer je vooraf op die kanalen en schrijf je in op BE-Alert. Vraag je gemeentebestuur wat de gemeente voorziet als bellen niet meer lukt, bijvoorbeeld een informatie- en onthaalpunt.
 
 Bron: [Nationaal Crisiscentrum: Informatie tijdens een noodsituatie](https://crisiscentrum.be/nl/wat-kan-jij-doen/informeer-je/informatie-tijdens-een-noodsituatie) · [Nationaal Crisiscentrum: Informatie aan de bevolking](https://crisiscentrum.be/nl/wat-doen-overheden/crisisbeheer/informatie-aan-de-bevolking) · [Nationaal Crisiscentrum: brochure Samen voorbereid](https://crisiscentrum.be/sites/default/files/documents/files/WEB-Brochure%20Samen%20voorbereid-NL.pdf) · [Nationaal Crisiscentrum: Evacueren](https://crisiscentrum.be/nl/wat-kan-jij-doen/reageer-correct/evacueren) · [Nationaal Crisiscentrum: Een plan in jouw buurt of vereniging](https://crisiscentrum.be/nl/wat-kan-jij-doen/maak-een-plan/een-plan-jouw-buurt-vereniging) · [Nationaal Crisiscentrum: Verspreid de juiste informatie](https://crisiscentrum.be/nl/wat-kan-jij-doen/reageer-correct/verspreid-de-juiste-informatie) · [Vlaanderen.be: BE-Alert](https://www.vlaanderen.be/be-alert-waarschuwingssysteem-bij-noodsituaties) · [FOD Economie: vragen van gezinnen over elektriciteitsschaarste](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door) · [BE-Alert: What is BE-Alert?](https://be-alert.be/en/what-be-alert)
 
@@ -124,17 +124,17 @@ Het Crisiscentrum vraagt:
 - Een opgeladen powerbank en reservebatterijen.
 - Een papieren lijst met belangrijke telefoonnummers.
 
-Ook een autoradio werkt bij een stroomuitval, en radiozenders blijven werken als mobiel netwerk en internet uitvallen (BBK, OFF ON, FOD Economie).
+Ook een autoradio werkt bij een stroomuitval, en radiozenders blijven werken als mobiel netwerk en internet uitvallen.
 
-De geraadpleegde Belgische bronnen wijzen geen aparte noodzender aan, alleen radio, tv en online media in het algemeen. In Nederland zijn de regionale publieke omroepen de rampenzenders (Denk vooruit).
+In België is geen aparte noodzender aangeduid: volg de radio, en tv en online media als die werken. Woon je vlak bij de Nederlandse grens, dan ontvang je ook de Nederlandse rampenzender (zie Frequenties aan de Nederlandse grens).
 
-**Doe dit nu:** zoek de frequentie van je zender op, plak ze op je radio en stel de radio erop in. Heb je geen radio op batterijen, spreek dan af met een buur die er een heeft (Crisiscentrum, Denk vooruit).
+**Doe dit nu:** zoek de frequentie van je zender op, plak ze op je radio en stel de radio erop in. Heb je geen radio op batterijen, spreek dan af met een buur die er een heeft.
 
 Bron: [Nationaal Crisiscentrum: brochure Samen voorbereid](https://crisiscentrum.be/sites/default/files/documents/files/WEB-Brochure%20Samen%20voorbereid-NL.pdf) · [Nationaal Crisiscentrum: Een noodpakket bij je thuis](https://crisiscentrum.be/nl/wat-kan-jij-doen/maak-een-noodpakket/een-noodpakket-bij-je-thuis) · [Nationaal Crisiscentrum: Een plan in jouw buurt of vereniging](https://crisiscentrum.be/nl/wat-kan-jij-doen/maak-een-plan/een-plan-jouw-buurt-vereniging) · [FOD Economie: vragen van gezinnen over elektriciteitsschaarste](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door) · [BBK: Vorsorgen für Krisen und Katastrophen](https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/Buergerinformationen/Ratgeber/BBK-Vorsorgen-fuer-Krisen-und-Katastrophen.pdf?__blob=publicationFile&v=44) · [Nationaal Crisiscentrum: OFF ON](https://crisiscentrum.be/sites/default/files/documents/files/OffOn-triptyque-N.pdf) · [Denk vooruit: Radio](https://www.denkvooruit.nl/bereid-je-voor/zo-krijg-je-een-waarschuwing/radio) · [Denk vooruit: informatieboekje](https://www.denkvooruit.nl/site/binaries/site-content/collections/documents/2025/11/17/informatieboekje-bereid-je-voor-op-een-noodsituatie/informatieboekje-bereid-je-voor-op-een-noodsituatie.pdf)
 
 ## Frequenties: VRT (Vlaanderen)
 
-FM-frequenties volgens de VRT:
+FM-frequenties van de VRT:
 
 | Regio | Radio 1 | Radio 2 |
 | --- | --- | --- |
@@ -150,7 +150,7 @@ FM-frequenties volgens de VRT:
 
 Dezelfde pagina geeft ook Klara, MNM en Studio Brussel.
 
-**Tips van de VRT bij FM**
+**Tips bij FM**
 
 - **AF (alternatieve frequentie):** de radio kiest zelf de sterkste frequentie, handig buiten je provincie.
 - **REG (regionale functie):** de radio blijft op dezelfde regionale frequentie.
@@ -161,7 +161,7 @@ Bron: [VRT: FM-antenne](https://www.vrt.be/nl/ons-aanbod/fm-antenne)
 
 ## Frequenties: BRF (Ostbelgien) en RTBF (Wallonië en Brussel)
 
-**BRF** (informatiebrochure):
+**BRF**
 
 | Zender | FM-frequentie | Ontvangstgebied |
 | --- | --- | --- |
@@ -189,7 +189,7 @@ Bron: [BRF: Infobroschüre](https://u.brf.be/wp-content/uploads/sites/5/2023/03/
 
 ## Frequenties aan de Nederlandse grens
 
-Vlak bij de grens ontvang je ook de Nederlandse rampenzender (Denk vooruit):
+Vlak bij de grens ontvang je ook de Nederlandse rampenzender, de regionale publieke omroep:
 
 | Omroep | Zender | FM |
 | --- | --- | --- |
@@ -211,11 +211,11 @@ De situatie is minder duidelijk dan in de buurlanden:
 
 - Tot december 2018 werd het sirenenetwerk vier keer per jaar hoorbaar getest, elke eerste donderdag van januari, april, juli en oktober. Die regelmaat bleef behouden voor BE-Alert.
 - Vlaanderen.be noemt sirenes en politieluidsprekers naast radio, tv en BE-Alert.
-- Volgens de burgemeester van Tienen (VRT, 2022) wordt het sirenesysteem afgebouwd en vervangen door BE-Alert; de laatste sirene van het Seveso-bedrijf in haar stad verdween in 2021.
+- Het sirenesysteem wordt afgebouwd en vervangen door BE-Alert. In Tienen verdween de laatste sirene, bij een Seveso-bedrijf, in 2021.
 
 Een actuele officiële beschrijving van een Belgisch sirenesignaal is niet gevonden. Hoor je een sirene, luister dan naar de radio, en kijk naar BE-Alert als het netwerk werkt.
 
-**Aan de grens.** In Nederland betekent een sirene buiten 12.00 uur op de eerste maandag van de maand: ga naar binnen, sluit ramen, deuren en ventilatie en volg radio of tv (Denk vooruit). In Duitsland betekent een op- en neergaande toon van een minuut gevaar; een aanhoudende toon van een minuut betekent dat het gevaar voorbij is (BBK).
+**Aan de grens.** In Nederland betekent een sirene buiten 12.00 uur op de eerste maandag van de maand: ga naar binnen, sluit ramen, deuren en ventilatie en volg radio of tv. In Duitsland betekent een op- en neergaande toon van een minuut gevaar; een aanhoudende toon van een minuut betekent dat het gevaar voorbij is.
 
 Bron: [Nationaal Crisiscentrum: Nationale strategie voor alarmeringstesten](https://crisiscentrum.be/sites/default/files/documents/files/cc_nationale_strategie_voor_alarmeringstesten_0.pdf) · [Vlaanderen.be: BE-Alert](https://www.vlaanderen.be/be-alert-waarschuwingssysteem-bij-noodsituaties) · [VRT NWS: Luchtalarmen](https://www.vrt.be/vrtnws/nl/2022/03/16/luchtalarmen-bestaat-dat-nog-bij-ons/) · [Denk vooruit: informatieboekje](https://www.denkvooruit.nl/site/binaries/site-content/collections/documents/2025/11/17/informatieboekje-bereid-je-voor-op-een-noodsituatie/informatieboekje-bereid-je-voor-op-een-noodsituatie.pdf) · [BBK: Vorsorgen für Krisen und Katastrophen](https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/Buergerinformationen/Ratgeber/BBK-Vorsorgen-fuer-Krisen-und-Katastrophen.pdf?__blob=publicationFile&v=44)
 
@@ -225,13 +225,13 @@ Bron: [Nationaal Crisiscentrum: Nationale strategie voor alarmeringstesten](http
 
 BE-Alert werkt via gsm-net en internet. Vallen die weg, luister dan naar de radio.
 
-**Drie manieren waarop je een bericht krijgt (BE-Alert)**
+**Drie manieren waarop je een bericht krijgt**
 
 1. **Op je geregistreerde adressen**, zoals je woning, werk, de school van je kinderen of het adres van een kwetsbaar familielid: per sms, e-mail of gesproken oproep, ook als je niet thuis bent.
 2. **Op basis van je locatie.** Bij grote noodsituaties of een evacuatie krijgt iedereen in de zone een sms, ook zonder inschrijving. De operatoren wissen de lijst van telefoons in de risicozone automatisch zes maanden na het bericht.
 3. **Op straat.** Sinds 2022 ook op andere schermen, zoals een informatiebord in je gemeente.
 
-**Een echt bericht herkennen (Crisiscentrum)**
+**Een echt bericht herkennen**
 
 - Het begint altijd met "BE-Alert".
 - Het komt van 1789 of 0477 77 77 55. E-mails komen van no-reply@be-alert.be.
@@ -248,7 +248,7 @@ Bron: [Nationaal Crisiscentrum: brochure Samen voorbereid](https://crisiscentrum
 
 Een gemeente, provincie of het Crisiscentrum kan een eigen informatienummer openen of het nationale nummer 1771. Dat kan dag en nacht binnen het uur operationeel zijn en behandelt, samen met de FOD Volksgezondheid, ook gevoelige oproepen over mogelijke slachtoffers. Gemeenten sluiten daarvoor eerst een overeenkomst af.
 
-1771 beantwoordt dus niet altijd: de overheid meldt wanneer het actief is. Het helpt alleen zolang bellen lukt; anders luister je naar de radio en vraag je hulp in je buurt (FOD Economie).
+1771 beantwoordt dus niet altijd: de overheid meldt wanneer het actief is. Het helpt alleen zolang bellen lukt; anders luister je naar de radio en vraag je hulp in je buurt.
 
 Voor levensbedreigende situaties bel je 112. Lukt dat niet, zie Noodnummers in de app, Als bellen niet lukt.
 
@@ -260,21 +260,22 @@ Bij een grote noodsituatie raakt het telefoonnetwerk snel overbelast, wat de hul
 
 **Wat je moet weten over het netwerk**
 
-- Gsm-masten houden het één tot twee uur vol zonder stroom; mobiel internet (4G en 5G) valt wellicht meteen weg. Dat je vaste lijn nog werkt, is weinig waarschijnlijk (FOD Economie).
-- Met internettelefonie hebben router, glasvezel en toestel stroom nodig. Mobiele netwerken hebben maar gedeeltelijk en kort noodstroom (BBK).
-- Met genoeg signaal bel je 112 via elke operator. 100 en 101 zijn bij een stroomtekort niet gegarandeerd (FOD Economie).
+- Gsm-masten houden het één tot twee uur vol zonder stroom; mobiel internet (4G en 5G) valt wellicht meteen weg. Dat je vaste lijn nog werkt, is weinig waarschijnlijk.
+- Met internettelefonie hebben router, glasvezel en toestel stroom nodig. Mobiele netwerken hebben maar gedeeltelijk en kort noodstroom.
+- Met genoeg signaal bel je 112 via elke operator. 100 en 101 zijn bij een stroomtekort niet gegarandeerd.
 
 **Zolang het net werkt**
 
-- Bel alleen als het echt nodig is. Stuur liever een sms of gebruik berichtenapps, ook om je gezin te bereiken; massaal bellen overbelast het netwerk (brochure, OFF ON, Crisiscentrum).
-- Bel de noodnummers niet om informatie te vragen. Bij vroegere stroomuitvallen overbelastte dat de noodcentrales (BBK).
-- Hou altijd één telefoon aan, ook 's nachts, om waarschuwingen te ontvangen (BBK, Denk vooruit).
+- Bel alleen als het echt nodig is. Stuur liever een sms of gebruik berichtenapps, ook om je gezin te bereiken; massaal bellen overbelast het netwerk.
+- Bel de noodnummers niet om informatie te vragen. Bij vroegere stroomuitvallen overbelastte dat de noodcentrales.
+- Hou altijd één telefoon aan, ook 's nachts, om waarschuwingen te ontvangen.
 
 **Als bellen niet lukt**
 
-- Probeer een ander toestel of laat buren of omstanders bellen; verplaats je enkele meters (112.be). Werkt bellen helemaal niet, volg dan de radio of vraag hulp in je buurt (FOD Economie).
-- Bereik je je gezin niet, ga dan naar de plek die jullie vooraf afspraken (Crisiscentrum).
-- Buitenlands advies: in Duitsland raadt het BBK aan dan naar het dichtstbijzijnde politiekantoor of ziekenhuis te gaan; in Nederland stuurde de overheid bij de 112-storing van 2019 burgers naar de brandweerkazerne of het politiebureau, en bij medische nood naar het ziekenhuis. De kaart in de app toont die, met de knop Dichtstbij.
+- Probeer een ander toestel of laat buren of omstanders bellen; verplaats je enkele meters.
+- Werkt bellen helemaal niet, vraag dan hulp in je buurt of ga, als het kan, naar het dichtstbijzijnde politiebureau, de brandweerkazerne of het ziekenhuis. De kaart in de app toont ze, met de knop Dichtstbij. Bij een grote uitval kan de gemeente een informatie- en onthaalpunt openen.
+- Volg de radio.
+- Bereik je je gezin niet, ga dan naar de plek die jullie vooraf afspraken.
 - Alle stappen staan in de gids Noodoproep en in de app bij Noodnummers, Als bellen niet lukt.
 
 Bron: [FOD Economie: vragen van gezinnen over elektriciteitsschaarste](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door) · [112.be: Veelgestelde vragen](https://112.be/nl/veelgestelde-vragen) · [Nationaal Crisiscentrum: verstoring van de digitale infrastructuur](https://crisiscentrum.be/nl/risicos-belgie/maatschappelijke-risicos/verstoring-van-de-digitale-infrastructuur) · [Nationaal Crisiscentrum: brochure Samen voorbereid](https://crisiscentrum.be/sites/default/files/documents/files/WEB-Brochure%20Samen%20voorbereid-NL.pdf) · [Nationaal Crisiscentrum: OFF ON](https://crisiscentrum.be/sites/default/files/documents/files/OffOn-triptyque-N.pdf) · [Nationaal Crisiscentrum: Evacueren](https://crisiscentrum.be/nl/wat-kan-jij-doen/reageer-correct/evacueren) · [BBK: Vorsorgen für Krisen und Katastrophen](https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/Buergerinformationen/Ratgeber/BBK-Vorsorgen-fuer-Krisen-und-Katastrophen.pdf?__blob=publicationFile&v=44) · [BBK: Stromausfall, Vorsorge und Selbsthilfe](https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/Buergerinformationen/stromausfall-vorsorge-selbsthilfe.pdf?__blob=publicationFile&v=17) · [Inspecties: Onbereikbaarheid van 112 op 24 juni 2019](https://zoek.officielebekendmakingen.nl/blg-942150.pdf) · [Denk vooruit: informatieboekje](https://www.denkvooruit.nl/site/binaries/site-content/collections/documents/2025/11/17/informatieboekje-bereid-je-voor-op-een-noodsituatie/informatieboekje-bereid-je-voor-op-een-noodsituatie.pdf)
@@ -283,7 +284,7 @@ Bron: [FOD Economie: vragen van gezinnen over elektriciteitsschaarste](https://e
 
 Tijdens een noodsituatie circuleert veel informatie, vooral op sociale media. Foute informatie wordt vaak onbewust gedeeld, soms met opzet om paniek te zaaien of mensen tegen elkaar op te zetten.
 
-**Zes vragen (Crisiscentrum)**
+**Zes vragen**
 
 1. **Komt het van een officiële bron?** Kijk naar de bio, de URL, eerdere berichten en het logo.
 2. **Is de auteur of verspreider betrouwbaar?**
@@ -292,34 +293,34 @@ Tijdens een noodsituatie circuleert veel informatie, vooral op sociale media. Fo
 5. **Speelt het sterk op emoties?** Dan is het vaak desinformatie.
 6. **Klopt de foto?** Beelden worden soms uit hun context gehaald. Werkt het internet, zoek de foto dan op.
 
-Het BBK voegt toe: let op een colofon met echte naam en volledig adres, en op bronvermelding.
+Let ook op een colofon met echte naam en volledig adres, en op bronvermelding.
 
 **Wat je doet**
 
-- Twijfel je, verspreid het dan niet (Crisiscentrum).
-- Deel zelf alleen berichten van overheden en hulpdiensten (brochure).
-- Neem niet onnodig foto's of filmpjes en deel geen beelden die de privacy van slachtoffers schaden (Crisiscentrum).
+- Twijfel je, verspreid het dan niet.
+- Deel zelf alleen berichten van overheden en hulpdiensten.
+- Neem niet onnodig foto's of filmpjes en deel geen beelden die de privacy van slachtoffers schaden.
 
 Bron: [Nationaal Crisiscentrum: Let op met foute of misleidende informatie](https://crisiscentrum.be/nl/wat-kan-jij-doen/informeer-je/let-op-met-foute-misleidende-informatie) · [Nationaal Crisiscentrum: Verspreid de juiste informatie](https://crisiscentrum.be/nl/wat-kan-jij-doen/reageer-correct/verspreid-de-juiste-informatie) · [Nationaal Crisiscentrum: brochure Samen voorbereid](https://crisiscentrum.be/sites/default/files/documents/files/WEB-Brochure%20Samen%20voorbereid-NL.pdf) · [BBK: Vorsorgen für Krisen und Katastrophen](https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/Buergerinformationen/Ratgeber/BBK-Vorsorgen-fuer-Krisen-und-Katastrophen.pdf?__blob=publicationFile&v=44)
 
 ## Contact zonder telefoon of internet: afspraken
 
-Het Crisiscentrum vraagt buren en verenigingen vooraf af te spreken hoe ze elkaar bereiken zonder telefoon of internet, en wie nuttig materiaal heeft, zoals een radio op batterijen. Denk vooruit raadt aan een plek en een tijdstip af te spreken om elkaar te ontmoeten als er geen verbinding is.
+Het Crisiscentrum vraagt buren en verenigingen vooraf af te spreken hoe ze elkaar bereiken zonder telefoon of internet, en wie nuttig materiaal heeft, zoals een radio op batterijen. Spreek een plek en een tijdstip af om elkaar te ontmoeten als er geen verbinding is.
 
-Spreek ook met je familie af waar je elkaar terugvindt, en hou een papieren lijst met contactpersonen (adressen en telefoonnummers) bij (Crisiscentrum). Zie de gids Gezinsnoodplan.
+Spreek ook met je familie af waar je elkaar terugvindt, en hou een papieren lijst met contactpersonen (adressen en telefoonnummers) bij. Zie de gids Gezinsnoodplan.
 
 Bron: [Nationaal Crisiscentrum: verstoring van de digitale infrastructuur](https://crisiscentrum.be/nl/risicos-belgie/maatschappelijke-risicos/verstoring-van-de-digitale-infrastructuur) · [Nationaal Crisiscentrum: een plan bij je thuis](https://crisiscentrum.be/nl/wat-kan-jij-doen/maak-een-plan/een-plan-bij-je-thuis) · [Nationaal Crisiscentrum: Een plan in jouw buurt of vereniging](https://crisiscentrum.be/nl/wat-kan-jij-doen/maak-een-plan/een-plan-jouw-buurt-vereniging) · [Nationaal Crisiscentrum: brochure Samen voorbereid](https://crisiscentrum.be/sites/default/files/documents/files/WEB-Brochure%20Samen%20voorbereid-NL.pdf) · [Denk vooruit: informatieboekje](https://www.denkvooruit.nl/site/binaries/site-content/collections/documents/2025/11/17/informatieboekje-bereid-je-voor-op-een-noodsituatie/informatieboekje-bereid-je-voor-op-een-noodsituatie.pdf)
 
 ## Walkietalkies (PMR446) en CB
 
-**PMR446.** Volgens een raadplegingsdocument van het BIPT uit 2020:
+**PMR446.**
 
 - Frequentieband 446 tot 446,2 MHz.
 - Handdraagbare toestellen met een vaste antenne, peer-to-peer op korte afstand; niet als basisstation of repeater.
 - Zendvermogen tot 500 mW e.r.p.
 - Vrijgesteld van een vergunning van het BIPT.
 
-**CB-radio.** Op zijn pagina over de jacht schrijft het BIPT dat CB- en PMR-446-radio's zonder vergunning gebruikt mogen worden. Een officieel noodkanaal of kanaalafspraken voor PMR446 of CB zijn niet gevonden.
+**CB-radio.** CB- en PMR-446-radio's mag je zonder vergunning gebruiken. Een officieel noodkanaal of kanaalafspraken voor PMR446 of CB zijn niet gevonden.
 
 Bron: [BIPT: Raadpleging radio-interfaces PMR-446](https://www.bipt.be/index.php/file/cc73d96153bbd5448a56f19d925d05b1379c7f21/c764eaaf8ce92afd28706d406e709fdf2541e149/srd-pmr-2020-nl.pdf) · [BIPT: The use of walkie-talkies](https://bipt.be/consumers/radio-frequencies/private-use-hobby/hunting)
 
@@ -327,7 +328,7 @@ Bron: [BIPT: Raadpleging radio-interfaces PMR-446](https://www.bipt.be/index.php
 
 **B-EARS** (Belgium Emergency Amateur Radio Service) hoort bij de UBA, de Belgische vereniging van radioamateurs, en telt meer dan 300 leden. De voorloper werkte sinds 1962 op verzoek van het Rode Kruis.
 
-Wat B-EARS doet volgens de UBA:
+Wat B-EARS doet:
 
 - Een basisradiocommunicatiedienst leveren aan officiële instanties, uitsluitend op hun verzoek, als hun gewone communicatie wegvalt.
 - Een radionetwerk opzetten vanuit bijvoorbeeld een crisiscentrum of commandopost.
@@ -346,13 +347,13 @@ Je roept B-EARS dus niet zelf op. UBA-leden kunnen zich als vrijwilliger aanslui
 | 18160 |
 | 21360 |
 
-Voor VHF en UHF bestaan er volgens de IARU geen gemeenschappelijke Europese noodfrequenties.
+Voor VHF en UHF bestaan er geen gemeenschappelijke Europese noodfrequenties.
 
 Bron: [UBA: B-EARS, onze missie](https://www.uba.be/nl/b-ears/onze-missie) · [IARU Region 1: Emergency Communications Frequencies](https://www.iaru-r1.org/index.php/emergency-communications/emergency-communications-frequencies)
 
 ## Meshtastic (vermelding)
 
-Meshtastic is een open-source project dat goedkope LoRa-radio's gebruikt om tekstberichten te sturen zonder gsm-netwerk, wifi of internet. Volgens de projectdocumentatie:
+Meshtastic is een open-source project dat goedkope LoRa-radio's gebruikt om tekstberichten te sturen zonder gsm-netwerk, wifi of internet.
 
 - Elk toestel stuurt ontvangen berichten door, zodat een netwerk (mesh) ontstaat dat ook verre groepsleden bereikt.
 - Router en telefoon zijn voor het mesh-netwerk niet nodig; een toestel kan met één telefoon gekoppeld worden.

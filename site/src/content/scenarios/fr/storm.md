@@ -163,7 +163,7 @@ Source : [Denk vooruit : météo extrême](https://www.denkvooruit.nl/risicos/ri
 
 - Reportez votre trajet si possible.
 - Ne vous garez pas près des arbres.
-- Ne roulez pas sur des routes inondées. Selon Ready.gov, quelques centimètres d'eau à courant rapide peuvent vous renverser et environ 30 cm d'eau peuvent emporter un véhicule.
+- Ne roulez pas sur des routes inondées. Quelques centimètres d'eau à courant rapide peuvent vous renverser, environ 30 cm d'eau peuvent emporter un véhicule.
 - En cas d'orage, une voiture avec un toit est un abri sûr. Si votre voiture est touchée, la carrosserie métallique conduit le courant vers le sol par le toit et les côtés. Vous n'avez pas besoin de toucher un poteau ou une glissière de sécurité.
 
 Source : [Centre de crise National : vent et tempête](https://centredecrise.be/fr/risques-en-belgique/risques-naturels/vent-et-tempete) · [Ready.gov: thunderstorms](https://www.ready.gov/thunderstorms-lightning) · [Brandweer Nederland : orage](https://www.brandweer.nl/onderwerpen/onweer-donder-en-bliksem/) · [Centre de crise National : foudre](https://centredecrise.be/fr/risques-en-belgique/risques-naturels/foudre)

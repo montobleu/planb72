@@ -75,7 +75,7 @@ Source : [Centre de crise National](https://centredecrise.be/fr/risques-en-belgi
 
 ### Votre logement en bordure d'un bois ou d'une lande
 
-Les pompiers néerlandais donnent ces conseils pour les logements proches de la nature :
+Si vous habitez près de la nature :
 
 - Nettoyez le toit et les gouttières au moins deux fois par an, au printemps et en automne. Faites-le plus souvent pendant les périodes sèches.
 - Faites ramoner le conduit de cheminée et installez un pare-étincelles.
@@ -94,7 +94,7 @@ Les pompiers néerlandais donnent ces conseils pour les logements proches de la 
 - Rassemblez les cartes d'identité, les médicaments, de l'eau, les affaires pour les animaux domestiques et les téléphones à un endroit fixe.
 - Connaissez votre itinéraire d'évacuation, même quand la circulation est dense. À pied ou à vélo, cela peut être plus rapide et plus sûr qu'en voiture.
 - Convenez à l'avance avec de la famille ou des amis de l'endroit où vous pouvez aller.
-- Préparez un kit d'urgence. Ready.gov conseille de garder aussi un masque N95 contre la fumée.
+- Préparez un kit d'urgence, avec aussi un masque N95 contre la fumée.
 
 Source : [Centre de crise National](https://centredecrise.be/fr/risques-en-belgique/risques-naturels/feu-de-foret) · [Service public de Wallonie](https://environnement.wallonie.be/feux) · [Brandweer Nederland : logement](https://www.brandweer.nl/onderwerpen/natuurbrand-voorkomen-tips-vakantieverblijf/) · [Brandweer Nederland : excursion](https://www.brandweer.nl/onderwerpen/natuurbrand-voorkomen-tips-dagje-uit/) · [Brandweer Nederland : à proximité](https://www.brandweer.nl/onderwerpen/natuurbrand-in-de-buurt/) · [Centre de crise National : évacuer](https://centredecrise.be/fr/que-pouvez-vous-faire/le-bon-reflexe/evacuer) · [Ready.gov](https://www.ready.gov/wildfires)
 
@@ -107,8 +107,8 @@ Source : [Centre de crise National](https://centredecrise.be/fr/risques-en-belgi
 - N'évacuez pas de votre propre initiative. Attendez les recommandations des autorités via la radio et les véhicules à haut-parleurs, et si le réseau fonctionne via BE-Alert.
 - Vérifiez si vos voisins, les personnes âgées et les personnes en situation de handicap ont besoin d'aide.
 - Si vous devez partir : coupez l'électricité et le gaz, prenez votre kit d'urgence et partez immédiatement.
-- Si vous ne pouvez pas partir et qu'il n'y a pas d'ordre de départ : restez à l'intérieur, fenêtres et portes fermées. En cas de fumée, Ready.gov conseille de rester dans une pièce que vous pouvez isoler de l'air extérieur, et de mettre la ventilation en recirculation ou de fermer l'entrée d'air.
-- Si vous êtes vraiment bloqué : allumez les lumières pour que les secouristes vous trouvent. Appelez le 112 et indiquez votre position. Attendez-vous à un délai. C'est ce que conseille le site américain Ready.gov.
+- Si vous ne pouvez pas partir et qu'il n'y a pas d'ordre de départ : restez à l'intérieur, fenêtres et portes fermées. En cas de fumée : restez dans une pièce que vous pouvez isoler de l'air extérieur, et mettez la ventilation en recirculation ou fermez l'entrée d'air.
+- Si vous êtes vraiment bloqué : allumez les lumières pour que les secouristes vous trouvent. Appelez le 112 et indiquez votre position. Attendez-vous à un délai.
 
 ### À l'extérieur ou en déplacement
 
@@ -143,7 +143,7 @@ Ne prenez pas de risques et suivez les consignes des pompiers et des gardes fore
 
 ### Personnes vulnérables
 
-- Les personnes souffrant d'asthme, de BPCO ou d'une autre maladie pulmonaire sont particulièrement sensibles à la fumée. Limitez leur exposition. Ready.gov conseille un masque N95 ou une pièce fermée avec un purificateur d'air.
+- Les personnes souffrant d'asthme, de BPCO ou d'une autre maladie pulmonaire sont particulièrement sensibles à la fumée. Limitez leur exposition avec un masque N95 ou une pièce fermée avec un purificateur d'air.
 - Si vous êtes malade, contactez votre médecin.
 - Prévoyez dans votre plan d'urgence des personnes à proximité pour aider les personnes moins mobiles. Proposez-leur de les emmener en cas d'évacuation.
 

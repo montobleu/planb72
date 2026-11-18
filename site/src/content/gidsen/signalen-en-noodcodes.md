@@ -119,7 +119,7 @@ Bron: [Deutscher Alpenverein: Erste Hilfe](https://www.forststeig.sachsen.de/dow
 - Blijf het signaal herhalen.
 - Een zaklamp maakt je batterij leeg. Gebruik ze verstandig.
 
-**Tijdsduur volgens de internationale afspraak (ITU)**
+**Tijdsduur**
 
 | Element | Duur |
 | --- | --- |
@@ -186,13 +186,13 @@ Bron: [US Army FM 21-76, hoofdstuk 19](https://archive.org/details/fm-21-76-surv
 
 Vuur is 's nachts het meest zichtbare signaal, rook overdag. Maar in België is vuur maken in bossen en natuurgebieden verboden, behalve op een vaste kampvuurplaats of met een machtiging, en bij brandgevaar soms helemaal. Een signaalvuur kan zelf een natuurbrand veroorzaken. Gebruik vuur alleen als je leven ervan afhangt en er geen ander middel is. Zie de gids over buiten overleven voor de regels.
 
-Wat de handboeken zeggen:
+Moet je toch een signaalvuur maken:
 
 - **'s Nachts:** drie vuren in een driehoek of op een lijn, ongeveer 25 meter uit elkaar. Bereid ze voor en bescherm ze tot je ze nodig hebt.
 - **Overdag:** rook. Zorg voor contrast: donkere rook tegen een lichte achtergrond, lichte rook tegen een donkere. Bijna verstikken met groene bladeren, mos of een beetje water geeft witte rook.
 - Rook werkt alleen op vrij kalme, heldere dagen. Wind, regen en sneeuw verspreiden de rook.
 - Kies altijd een plek waar je geen bos- of natuurbrand veroorzaakt.
-- Het National Park Service raadt af om vuur te maken bij hoog brandgevaar.
+- Maak geen vuur bij hoog brandgevaar.
 
 Bron: [US Army FM 21-76, hoofdstuk 19](https://archive.org/details/fm-21-76-survival-manual) · [National Park Service: Outdoor Emergency Plan](https://www.nps.gov/subjects/healthandsafety/upload/NPS-Outdoor-Emergency-Plan-508c.pdf) · [Nationaal Crisiscentrum: Natuurbrand](https://crisiscentrum.be/nl/risicos-belgie/natuurlijke-risicos/natuurbrand)
 
@@ -215,7 +215,7 @@ Deze tekens zijn internationaal afgesproken en staan in bijlage 12 bij het Verdr
 
 - Gebruik stroken stof, takken, stenen of wat je maar hebt.
 - Zorg voor zoveel mogelijk kleurcontrast met de ondergrond.
-- Maak de tekens minstens 3 meter (10 voet) hoog of groter. Het Amerikaanse leger geeft als minimum 1 meter breed en 6 meter lang, met diezelfde verhouding als je ze groter maakt.
+- Maak de tekens groot: elke lijn minstens 6 meter lang en 1 meter breed, en groter als het kan, met dezelfde verhouding.
 - Leg ze precies zoals hierboven, op een open plek die goed zichtbaar is vanuit de lucht.
 - In sneeuw: sleep, schep of stamp de tekens uit. Ingedrukte delen lijken van boven zwart. Je kunt de geulen opvullen met takken.
 - In zand: gebruik keien, planten of zeewier. Tussen struiken: knip patronen uit de begroeiing.
@@ -257,7 +257,7 @@ Is een helikopter of vliegtuig dichtbij genoeg om je duidelijk te zien, gebruik 
 **Als de helikopter komt landen**
 
 1. Zoek een landingsplaats van minstens 25 bij 25 meter, volledig vrij van obstakels. **Geen kabels of leidingen.**
-2. Er is een stevige ondergrond van minstens 4 bij 4 meter nodig voor de ski's. Niet vlak naast de patiënt. Rega noemt een afstand van ongeveer 100 meter tot de plaats van het ongeval.
+2. Er is een stevige ondergrond van minstens 4 bij 4 meter nodig voor de ski's. Niet vlak naast de patiënt, maar ongeveer 100 meter van de plaats van het ongeval.
 3. Ruim alles op wat los ligt: kleding, rugzakken, touwen, skistokken, parasols. De luchtstroom van de rotor kan ze opzuigen en de helikopter beschadigen of zelfs doen neerstorten. Zet bij sneeuw een bril op.
 4. Wijs de helikopter in: ga met je **rug naar de wind** staan en maak het Y-teken, beide armen omhoog met de handpalmen naar binnen.
 5. Blijf op je plaats aan de rand van de landingsplaats, ook als de helikopter recht op je af komt. Ga door de knieën en hou oogcontact met de piloot.
@@ -297,7 +297,7 @@ Werkt het netwerk, dan komt een waarschuwing ook via BE-Alert (sms, gesproken be
 
 **Testberichten herkennen.** Een BE-Alert-test bevat altijd de woorden "BE-Alert", "Dit is een testbericht. U hoeft niets te doen", een link of infonummer, in de juiste taal. Gemeenten testen alleen op de eerste donderdag van de maand (behalve op feestdagen), tussen 8 en 20 uur, en verwittigen hun inwoners vooraf.
 
-**Hoor je toch een sirene?** Een Belgische instructie voor wie een sirene hoort, vonden we niet. In Nederland, waar het sirenenetwerk nog werkt, luidt het advies: ga zo snel mogelijk naar binnen, sluit ramen, deuren en andere openingen, zet de mechanische ventilatie uit, en volg het nieuws. Kun je niet naar binnen, blijf dan in de auto, zet de motor uit en sluit de luchtroosters. De Nederlandse sirenes worden elke eerste maandag van de maand om 12 uur getest. Dat is de Nederlandse regeling, niet de Belgische.
+**Hoor je toch een sirene?** Ga zo snel mogelijk naar binnen, sluit ramen, deuren en andere openingen, zet de mechanische ventilatie uit, en volg het nieuws op de radio. Kun je niet naar binnen, blijf dan in de auto, zet de motor uit en sluit de luchtroosters. Aan de Nederlandse grens: de Nederlandse sirenes worden elke eerste maandag van de maand om 12 uur getest. Dat is een test.
 
 Bron: [Nationaal Crisiscentrum: Nationale strategie voor alarmeringstesten](https://crisiscentrum.be/sites/default/files/documents/files/cc_nationale_strategie_voor_alarmeringstesten_0.pdf) · [BE-Alert: Be alerted](https://www.be-alert.be/en/node/58) · [Nationaal Crisiscentrum: Informatie tijdens een noodsituatie](https://crisiscentrum.be/nl/wat-kan-jij-doen/informeer-je/informatie-tijdens-een-noodsituatie) · [Nationaal Crisiscentrum: brochure Samen voorbereid](https://crisiscentrum.be/sites/default/files/documents/files/WEB-Brochure%20Samen%20voorbereid-NL.pdf) · [FOD Economie: vragen van gezinnen over elektriciteitsschaarste](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door) · [Rijksoverheid: Wat moet ik doen als de sirene gaat?](https://www.rijksoverheid.nl/onderwerpen/veiligheidsregios-en-crisisbeheersing/vraag-en-antwoord/wat-moet-ik-doen-als-de-sirene-gaat)
 
@@ -365,7 +365,7 @@ Deze procedures zijn bedoeld voor wie een marifoon of een andere radio mag gebru
 | **MAYDAY** | Ernstig en onmiddellijk gevaar voor een schip of persoon, hulp nodig |
 | **PAN-PAN** | Zorg over de veiligheid van een schip of persoon, maar geen onmiddellijk levensgevaar |
 
-**Een mayday-oproep op kanaal 16, in deze volgorde** (Britse kustwacht)
+**Een mayday-oproep op kanaal 16, in deze volgorde**
 
 1. Heb je een toestel met DSC: druk de rode noodknop in en hou hem ingedrukt tot het alarm verstuurd is. Wacht op de bevestiging of ongeveer 15 seconden.
 2. "Mayday, mayday, mayday", dan drie keer de naam van het schip.
@@ -382,7 +382,7 @@ Deze procedures zijn bedoeld voor wie een marifoon of een andere radio mag gebru
 
 **Hoor je zelf een mayday:** stop met alles wat het noodverkeer kan storen, blijf luisteren op kanaal 16, en geef het bericht door aan een kuststation als niemand antwoordt.
 
-**Contact met een vliegtuig via een radio** (Amerikaans leger): "Mayday, mayday", roepnaam, naam, plaats, aantal overlevenden, mogelijke landingsplaatsen, en welke hulp dringend nodig is.
+**Contact met een vliegtuig via een radio:** "Mayday, mayday", roepnaam, naam, plaats, aantal overlevenden, mogelijke landingsplaatsen, en welke hulp dringend nodig is.
 
 Bron: [BIPT: De marifoon, wat je moet weten](https://www.bipt.be/index.php/file/cc73d96153bbd5448a56f19d925d05b1379c7f21/cf6ebdb356d66fd30a547494c66c02fce2029d27/de-marifoon.pdf) · [Maritime and Coastguard Agency: GMDSS VHF DSC procedures](https://www.gov.uk/government/publications/gmdss-sea-areas-and-procedures-for-small-boat-users/gmdss-vhf-dsc-procedures-for-small-boat-users) · [US Army FM 21-76, hoofdstuk 19](https://archive.org/details/fm-21-76-survival-manual)
 
@@ -398,7 +398,7 @@ Bron: [BIPT: De marifoon, wat je moet weten](https://www.bipt.be/index.php/file/
 | 17 m | 18160 kHz | 18160 kHz |
 | 15 m | 21360 kHz | 21360 kHz |
 
-Voor België vermeldt de IARU daarnaast onder meer 51,510 MHz FM (6 m), 145,500 MHz FM (2 m) en 433,500 MHz FM (70 cm).
+Voor België gelden daarnaast onder meer 51,510 MHz FM (6 m), 145,500 MHz FM (2 m) en 433,500 MHz FM (70 cm).
 
 - Om op deze frequenties te zenden, heb je een bedieningscertificaat voor radioamateurs van het BIPT nodig, waarvoor je een examen aflegt.
 - In België bestaat B-EARS, de noodradiodienst van de radioamateurvereniging UBA, met meer dan 300 leden. Het netwerk werkt alleen op verzoek van officiële instanties, als hun gewone verbindingen uitvallen. De voorloper werkte sinds 1962 op vraag van het Rode Kruis.

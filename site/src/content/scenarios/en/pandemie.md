@@ -70,7 +70,7 @@ Source: [Ready.gov](https://www.ready.gov/pandemic) · [CDC: when you are sick](
 **A stock.**
 
 - Gradually build up a stock of cleaning products, long-life food, water and your prescribed medicines for a few days to weeks. Buy calmly, so that everyone can get what they need.
-- The National Crisis Center recommends being self-sufficient for at least 3 days. Think of drinking water (3 to 10 litres per person per day), long-life food, paper tissues, wet wipes, toilet paper, sanitary towels, disinfectant hand gel and a first aid kit.
+- Make sure you are self-sufficient for at least 3 days. Think of drinking water (3 litres per person per day), long-life food, paper tissues, wet wipes, toilet paper, sanitary towels, disinfectant hand gel and a first aid kit.
 - Keep a reserve of your essential medication for at least 72 hours in your emergency bag.
 
 **A plan.**
@@ -111,7 +111,7 @@ If there is no soap and water, use hand gel with at least 60 per cent alcohol. S
 - Drink enough: 1.5 litres a day.
 - Air your home regularly.
 
-**When you may go out again.** Follow the rules of the health services for the disease in question. As a general rule for respiratory infections, the American CDC says: resume your activities when your symptoms have been improving for at least 24 hours and you have had no fever in those 24 hours, without fever-reducing medication. After that, take extra precautions around others for another 5 days: fresh air, hygiene, a well-fitting face mask, distance. You can still pass on the virus then. If you get a fever again or feel worse, stay at home again.
+**When you may go out again.** Follow the rules of the health services for the disease in question. As a general rule for respiratory infections: resume your activities when your symptoms have been improving for at least 24 hours and you have had no fever in those 24 hours, without fever-reducing medication. After that, take extra precautions around others for another 5 days: fresh air, hygiene, a well-fitting face mask, distance. You can still pass on the virus then. If you get a fever again or feel worse, stay at home again.
 
 **If someone you live with or a friend is ill.**
 

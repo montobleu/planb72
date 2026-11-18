@@ -55,8 +55,6 @@ Source: [Gezondheid en Wetenschap: Severe bleeding](https://www.gezondheidenwete
 10. If blood seeps through, put extra cloths or bandages on top and press harder on the spot that is bleeding.
 11. Keep applying pressure until the emergency services arrive. Pressing properly can hurt. Do not let go.
 
-The American FEMA programme advises against keeping thick layers between your hands and the wound, because that reduces the pressure. The Belgian guideline says to put extra layers on top of the blood-soaked cloth. Follow the Belgian guideline.
-
 ### An object in the wound
 
 1. Leave the object in place. Do not pull it out.
@@ -67,7 +65,7 @@ The American FEMA programme advises against keeping thick layers between your ha
 
 A tourniquet is only for life-threatening bleeding from an arm or leg, when direct pressure and a pressure bandage do not work. A commercially manufactured tourniquet is preferred. An improvised tourniquet, such as a belt, often fails. You can try it as a last resort to at least slow the bleeding.
 
-1. Place the tourniquet between the wound and the trunk, about 5 to 7.5 cm above the wound (the source says 2 to 3 inches). It may go over clothing.
+1. Place the tourniquet between the wound and the trunk, about 5 to 7.5 cm above the wound. It may go over clothing.
 2. Do not place it on a joint, such as the elbow, knee, wrist or ankle. A joint protects the blood vessels, so you cannot apply enough pressure.
 3. Pass the strap through the buckle and pull the end as tight as possible. Fasten it.
 4. Twist the rod in one direction until the bleeding stops. It is normal for this to hurt.
@@ -78,14 +76,12 @@ A tourniquet is only for life-threatening bleeding from an arm or leg, when dire
 
 ### Bleeding where a tourniquet is not possible (neck, shoulder, groin)
 
-The Belgian first aid guidelines do not describe packing a wound. The American Stop the Bleed programme does:
-
 1. Pack the wound with gauze. If you have no gauze, use a clean cloth, clothing, newspaper or your hands. Watch out for bone fragments or other sharp pieces in the wound.
 2. Then press firmly with both hands.
 3. Keep up the pressure for at least 5 minutes before you look at the wound again.
 4. If it bleeds through, put a bandage on top instead of removing the first layer.
 
-The IFRC mentions a haemostatic dressing that you apply with direct pressure, when pressure is not enough and a tourniquet is not possible or not available.
+If pressure is not enough and a tourniquet is not possible or not available, a haemostatic dressing can help. You apply it with direct pressure.
 
 ### Afterwards
 
@@ -105,7 +101,7 @@ Source: [Gezondheid en Wetenschap: Severe bleeding](https://www.gezondheidenwete
 
 ## If help is a long time coming
 
-- Keep pressing. The Belgian guideline says: press until the emergency services arrive.
+- Keep pressing until the emergency services arrive.
 - A tourniquet can save a life but can also have serious consequences, up to loss of the limb, especially if it stays on too long. Even so, it stays in place until the emergency services arrive. Loosening it is only done under the guidance of a healthcare professional.
 - Write down the time it was applied. A tourniquet that stays on too long damages tissue, and the time helps healthcare professionals decide who must be treated first.
 - In a disaster, an attack or violence with many injured people, you may use a tourniquet as a quick first measure: to help many injured people at the same time or to get someone with life-threatening bleeding out of the danger zone quickly.
@@ -137,7 +133,7 @@ Source: [Gezondheid en Wetenschap: Severe bleeding](https://www.gezondheidenwete
 
 - Do not remove a bandage or cloth that is already on the bleeding wound.
 - Do not pull an object out of the wound.
-- Do not press on "pressure points" elsewhere on the body. The IFRC advises against it.
+- Do not press on "pressure points" elsewhere on the body.
 - Do not apply a tourniquet if pressure does stop the bleeding. Outside of heavy bleeding, a tourniquet can cause harm.
 - Only apply a tourniquet to an arm or leg, and not on a joint.
 - Do not loosen or remove a tourniquet.

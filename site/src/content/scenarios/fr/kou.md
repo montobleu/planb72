@@ -72,7 +72,7 @@ origineel_datum: "2026-11-18"
 
 **Avertissements de l'IRM pour le froid**
 
-| Code | Seuil (température maximale) | Que faire selon l'IRM |
+| Code | Seuil (température maximale) | Que faire |
 |---|---|---|
 | Jaune | inférieure à -3 °C | Soyez vigilant. Protégez les personnes, les animaux et les plantes. Protégez les conduites d'eau et les robinets. Habillez-vous de manière adaptée. |
 | Orange | -5 °C ou moins | Limitez l'exposition au froid, habillez-vous chaudement en plusieurs couches, évitez les efforts longs ou intenses, proposez des boissons chaudes aux sans-abri. Suivez les conseils des autorités. |

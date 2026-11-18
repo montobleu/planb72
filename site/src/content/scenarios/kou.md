@@ -70,7 +70,7 @@ bronnen:
 
 **KMI-waarschuwingen voor koude**
 
-| Code | Drempel (maximumtemperatuur) | Wat doen volgens het KMI |
+| Code | Drempel (maximumtemperatuur) | Wat doen |
 |---|---|---|
 | Geel | onder -3 °C | Wees waakzaam. Bescherm mensen, dieren en planten. Bescherm waterleidingen en kranen. Kleed je aangepast. |
 | Oranje | -5 °C of lager | Beperk blootstelling aan de koude, kleed je warm in meerdere lagen, vermijd lange of zware inspanning, bied daklozen warme drank aan. Volg de raad van de overheid. |

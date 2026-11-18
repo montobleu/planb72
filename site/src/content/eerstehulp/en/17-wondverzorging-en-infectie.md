@@ -112,7 +112,7 @@ Source: [Gezondheid en Wetenschap: Skin wound](https://www.gezondheidenwetenscha
 - Also carefully clean the skin around the wound with soap and clean water.
 - Check the dressing every day. If it is still clean, leave it in place. If there is a little blood or clear fluid on it, remove it, clean the wound again and apply a new dressing. Look at the wound at least every 24 hours.
 - Cover a clean, open wound with a waterproof dressing to prevent infection. Stay out of floodwater with an open wound.
-- After a disaster, the CDC recommends leaving dirty wounds, bite wounds and puncture wounds open, because a wound that has not been cleaned properly can trap bacteria. The Belgian guideline says that you cover a properly cleaned wound, and that a wound that cannot be cleaned properly must be seen by a doctor. Have such a wound seen by a doctor as soon as possible.
+- After a disaster, leave dirty wounds, bite wounds and puncture wounds open, because a wound that has not been cleaned properly can trap bacteria. Have a wound that you cannot clean properly seen by a doctor as soon as possible.
 - Never cover an infected wound, and seek medical help.
 - Never use wound closure strips yourself. Do not remove stitches or staples yourself.
 - Everyone with a wound must check whether their tetanus vaccination is up to date. With a puncture wound or a wound contaminated with manure, soil or saliva, a healthcare professional decides on the basis of the vaccination record whether a booster vaccination is needed. Your vaccinations are recorded in your health booklet and in your medical record.

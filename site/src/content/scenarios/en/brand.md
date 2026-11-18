@@ -81,7 +81,7 @@ Source: [National Crisis Center: fire or explosion](https://crisiscenter.be/en/r
 - Keep a phone and a torch by your bed, and keep your glasses or hearing aid within reach.
 - Agree on an assembly point at the front of the building or in a place the fire service can see.
 - Share out the tasks: who fetches the children, who helps anyone with reduced mobility, who calls 112.
-- Practise the plan with everyone in the house, also with the internal doors closed. Ready.gov recommends practising twice a year, also in the dark.
+- Practise the plan with everyone in the house, also with the internal doors closed. Practise twice a year, also in the dark.
 - You can call on a fire prevention adviser free of charge.
 
 **Doors closed**

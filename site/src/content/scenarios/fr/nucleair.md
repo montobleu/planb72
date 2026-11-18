@@ -111,9 +111,7 @@ Source : [Centre de crise National : centrale nucléaire](https://centredecrise.
 8. Suivez les consignes des autorités via la radio ou la télévision et soyez attentif aux voitures à haut-parleurs de la police. Si le réseau fonctionne, suivez aussi BE-Alert et les sites web officiels.
 9. N'appelez pas pour demander des informations. N'appelez qu'en cas d'urgence médicale (112). Les appels inutiles surchargent le réseau. Si l'appel ne passe pas, voir Numéros d'urgence, Si l'appel ne passe pas. Si le réseau fonctionne, prévenez les autres par SMS, WhatsApp ou Signal.
 
-**Vous avez une cave ?** Les sources belges parlent d'une pièce centrale au rez-de-chaussée. Le site américain Ready.gov cite une cave ou le centre d'un grand bâtiment comme l'endroit le mieux protégé, avec le plus de murs possible entre vous et l'extérieur. Les bâtiments en brique ou en béton et les parkings souterrains offrent aussi une bonne protection.
-
-**Combien de temps.** La mise à l'abri dure en principe 24 heures au maximum. Si le rejet dure plus longtemps, des particules radioactives peuvent peu à peu pénétrer par les fentes et les grilles. Les autorités peuvent alors ordonner l'évacuation de certaines zones. Ready.gov conseille de rester les premières 24 heures à l'endroit le mieux protégé et de ne partir plus tôt qu'en cas de danger immédiat, comme un incendie, une fuite de gaz ou une blessure grave.
+**Combien de temps.** La mise à l'abri dure en principe 24 heures au maximum. Si le rejet dure plus longtemps, des particules radioactives peuvent peu à peu pénétrer par les fentes et les grilles. Les autorités peuvent alors ordonner l'évacuation de certaines zones. Ne quittez pas votre abri plus tôt, sauf en cas de danger immédiat, comme un incendie, une fuite de gaz ou une blessure grave.
 
 **Manger et boire pendant la mise à l'abri.** La nourriture et les boissons qui étaient à l'intérieur sont sûres. Vous pouvez utiliser les emballages fermés venant de l'extérieur si vous les essuyez d'abord avec un linge humide. Mettez ce linge dans un sac en plastique, loin des personnes et des animaux. Ne mangez rien du potager ni rien de ce qui était dehors sans protection.
 
@@ -126,7 +124,7 @@ Source : [Centre de crise National : centrale nucléaire](https://centredecrise.
   3. Prenez une douche et lavez-vous au savon.
   4. Si vous ne pouvez pas vous doucher, essuyez votre peau et vos cheveux avec une lingette humide ou un linge mouillé. N'utilisez pas de lingettes ménagères sur votre peau. Le gel pour les mains ne protège pas contre les substances radioactives.
   5. Mettez des vêtements propres et buvez suffisamment.
-- Selon Ready.gov, retirer seulement la couche supérieure de vêtements peut éliminer jusqu'à 90 pour cent de la poussière radioactive.
+- Retirer seulement la couche supérieure de vêtements peut éliminer jusqu'à 90 pour cent de la poussière radioactive.
 - Les autorités peuvent organiser un centre d'accueil pour la décontamination et un contrôle médical.
 
 ### En voiture

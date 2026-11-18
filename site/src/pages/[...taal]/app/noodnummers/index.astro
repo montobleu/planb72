@@ -21,7 +21,7 @@ const tl = APP[taal].landen;
         {land.noodnummers.filter((n) => n.dringend).map((n) => (
           <div class="nummer dringend">
             <a class="tel" href={`tel:${n.nummer.replace(/[\s-]/g, '')}`}>{n.nummer}</a>
-            <div><span lang={n.wat.lang !== taal ? n.wat.lang : undefined}>{n.wat.tekst}</span> <a class="klein" href={n.bron}>{APP[taal].algemeen.bron}</a></div>
+            <div><span lang={n.wat.lang !== taal ? n.wat.lang : undefined}>{n.wat.tekst}</span></div>
           </div>
         ))}
       </div>
@@ -31,7 +31,7 @@ const tl = APP[taal].landen;
     <h2 style="margin-top:0">{t.nietLuktTitel}</h2>
     <ol>{t.nietLukt.map((r) => <li>{r}</li>)}</ol>
     <p set:html={t.nietLuktKaart(pad(taal, '/app/kaart/'))} />
-    <p class="klein">{t.nietLuktVooraf} {APP[taal].algemeen.bron}: {t.nietLuktBronnen.map((b, i) => <>{i > 0 && ' · '}<a href={b.url}>{b.naam}</a></>)}</p>
+    <p class="klein">{t.nietLuktVooraf}</p>
   </section>
   <h2>{t.andereTitel}</h2>
   <p class="dempen">{t.andereUitleg}</p>
@@ -52,5 +52,5 @@ const tl = APP[taal].landen;
   <ol>{t.oproep.map((r) => <li>{r}</li>)}</ol>
   <div class="knoppen niet-afdrukken"><button class="knop" type="button" onclick="print()">{APP[taal].algemeen.afdrukken}</button></div>
   <GidsLinks taal={taal} ids={['noodoproep']} />
-  <Bronnenlijst taal={taal} bronnen={[...landen.flatMap((land) => land.noodnummers.map((n) => ({ url: n.bron, land: land.code }))), 'https://www.112.be']} />
+  <Bronnenlijst taal={taal} bronnen={[...landen.flatMap((land) => land.noodnummers.map((n) => ({ url: n.bron, land: land.code }))), 'https://www.112.be', ...t.nietLuktBronnen.map((b) => b.url)]} />
 </App>

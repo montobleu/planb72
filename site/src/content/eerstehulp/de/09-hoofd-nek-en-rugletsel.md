@@ -108,7 +108,7 @@ Quelle: [Gezondheid en Wetenschap: Wirbelsäulenverletzungen](https://www.gezond
 
 - Halten Sie die betroffene Person so ruhig wie möglich und bewegen Sie sie so wenig wie möglich. Beobachten Sie weiter Atmung und Bewusstsein.
 - Eine bewusstlose Person mit vermuteter Wirbelsäulenverletzung, die normal atmet: Kommt Hilfe schnell, halten Sie nur die Atemwege offen, indem Sie den Kiefer anheben oder den Kopf neigen. Ist Hilfe noch weit entfernt und gibt es mindestens zwei Helfer, dürfen Sie die Person auf die Seite legen, während ein Helfer den Kopf in einer Linie mit dem Rücken hält.
-- Die Croix-Rouge de Belgique sagt, dass freie Atemwege Vorrang haben. Sie können eine eindeutig verletzte Person nur dann auf dem Rücken liegen lassen, wenn sie deutlich atmet und der Rettungsdienst schnell vor Ort ist. Sind Sie unsicher über die Verletzung, bringen Sie sie in die stabile Seitenlage.
+- Freie Atemwege haben Vorrang. Sie können eine eindeutig verletzte Person nur dann auf dem Rücken liegen lassen, wenn sie deutlich atmet und der Rettungsdienst schnell vor Ort ist. Sind Sie unsicher über die Verletzung, bringen Sie sie in die stabile Seitenlage.
 - Nach einem Schlag auf den Kopf ohne Alarmzeichen: Die Person darf ihren Tag fortsetzen, aber jemand muss sie in den folgenden 24 Stunden im Auge behalten, um Zeichen zu erkennen, die später auftreten. Eine Gehirnerschütterung kann sich über Stunden oder Tage entwickeln.
 - Ruhe ist meist die beste erste Behandlung. Lassen Sie die Person erst wieder Auto fahren, mit Maschinen arbeiten oder Kontaktsport treiben, wenn alle Beschwerden verschwunden sind.
 - Halten Sie die betroffene Person warm, indem Sie sie mit trockenen Schichten zudecken und vor Wind schützen.

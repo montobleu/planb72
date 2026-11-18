@@ -163,7 +163,7 @@ Source: [Denk vooruit: extreme weather](https://www.denkvooruit.nl/risicos/risic
 
 - Postpone your journey if you can.
 - Do not park near trees.
-- Do not drive on flooded roads. According to Ready.gov, a few centimetres of fast-flowing water can knock you over and about 30 cm of water can carry a vehicle away.
+- Do not drive on flooded roads. A few centimetres of fast-flowing water can knock you over, about 30 cm of water can carry a vehicle away.
 - During a thunderstorm a car with a roof is a safe shelter. If your car is struck, the metal bodywork conducts the current via the roof and sides to the ground. You do not need to touch a post or crash barrier.
 
 Source: [National Crisis Center: wind and storm](https://crisiscenter.be/en/risks-belgium/natural-risks/wind) · [Ready.gov: thunderstorms](https://www.ready.gov/thunderstorms-lightning) · [Brandweer Nederland: thunderstorms](https://www.brandweer.nl/onderwerpen/onweer-donder-en-bliksem/) · [National Crisis Center: lightning](https://crisiscenter.be/en/risks-belgium/natural-risks/lightning)

@@ -60,22 +60,22 @@ Radioaktives Jod gelangt auf drei Wegen in den Körper:
 | Essen oder Trinken verseuchter Lebensmittel | Die Behörden ergreifen Maßnahmen, zum Beispiel ein Verbot von Milch oder Gemüse |
 | Aufnahme über die Haut | Meist vernachlässigbar |
 
-Jodtabletten enthalten gewöhnliches, nicht radioaktives Jod: laut den belgischen Behörden etwa das Tausendfache der täglich benötigten Menge. Nehmen Sie sie zum richtigen Zeitpunkt ein, ist Ihre Schilddrüse gesättigt und nimmt kein radioaktives Jod mehr auf. Das überschüssige Jod scheiden Sie schnell mit dem Urin aus. Die WHO nennt diese Maßnahme Jodblockade der Schilddrüse.
+Jodtabletten enthalten gewöhnliches, nicht radioaktives Jod: etwa das Tausendfache der täglich benötigten Menge. Nehmen Sie sie zum richtigen Zeitpunkt ein, ist Ihre Schilddrüse gesättigt und nimmt kein radioaktives Jod mehr auf. Das überschüssige Jod scheiden Sie schnell mit dem Urin aus. Diese Maßnahme heißt Jodblockade der Schilddrüse.
 
 Quelle: [Nuklearrisiko: Stabiles und radioaktives Jod](https://nuklearrisiko.be/de/jodtabletten/stabiles-und-radioaktives-jod) · [Nuklearrisiko: Wann einnehmen](https://nuklearrisiko.be/de/jodtabletten/wann-einnehmen) · [Nuklearrisiko: Jodtabletten](https://nuklearrisiko.be/de/jodtabletten) · [WHO: Use of potassium iodide](https://www.who.int/news-room/questions-and-answers/item/use-of-potassium-iodide-for-thyroid-protection-during-nuclear-or-radiological-emergencies)
 
 ## Was Jodtabletten nicht bewirken
 
 - **Sie schützen nur die Schilddrüse.** Sie bieten keinen Schutz vor anderen radioaktiven Stoffen.
-- **Sie schützen nicht vor Strahlung von außen**, zum Beispiel von Radioaktivität auf dem Boden, auf Oberflächen oder auf Lebensmitteln (WHO).
-- **Sie halten radioaktives Jod nicht von Ihrem Körper fern.** Sie verhindern nur, dass es sich in der Schilddrüse anreichert (WHO).
-- **Sie sind kein Gegenmittel gegen Strahlung** (WHO).
+- **Sie schützen nicht vor Strahlung von außen**, zum Beispiel von Radioaktivität auf dem Boden, auf Oberflächen oder auf Lebensmitteln.
+- **Sie halten radioaktives Jod nicht von Ihrem Körper fern.** Sie verhindern nur, dass es sich in der Schilddrüse anreichert.
+- **Sie sind kein Gegenmittel gegen Strahlung.**
 - **Nicht jeder nukleare Unfall setzt radioaktives Jod frei.** Jod ist nur einer der möglichen Bestandteile einer radioaktiven Wolke. Ein Unfall kann sich noch in einer ersten Phase ohne Freisetzung befinden.
 - **Sie machen es nicht sicher, nach draußen zu gehen.** Auch nach der Einnahme bleiben Sie drinnen.
 
-Deshalb hat Schutz suchen in einem Gebäude immer Vorrang vor der Einnahme von Jod, vor allem wenn Sie keine Tabletten zu Hause haben. Die Empfehlung, Jod einzunehmen, fällt immer mit der Empfehlung zusammen, Schutz zu suchen. Auch Finnland sagt: Jod schützt nur die Schilddrüse und ist nur eine Ergänzung zum Schutz suchen in Gebäuden.
+Deshalb hat Schutz suchen in einem Gebäude immer Vorrang vor der Einnahme von Jod, vor allem wenn Sie keine Tabletten zu Hause haben. Die Empfehlung, Jod einzunehmen, fällt immer mit der Empfehlung zusammen, Schutz zu suchen.
 
-Quelle: [Nuklearrisiko: Einnahme von stabilem Jod](https://nuklearrisiko.be/de/was-koennen-sie-tun/einnahme-von-jod) · [Nuklearrisiko: Wann einnehmen](https://nuklearrisiko.be/de/jodtabletten/wann-einnehmen) · [Nuklearrisiko: häufig gestellte Fragen](https://nuklearrisiko.be/de/faq) · [Nuklearrisiko: Für wen](https://nuklearrisiko.be/de/jodtabletten/fuer-wen) · [WHO: Use of potassium iodide](https://www.who.int/news-room/questions-and-answers/item/use-of-potassium-iodide-for-thyroid-protection-during-nuclear-or-radiological-emergencies) · [Suomi.fi: Radiation hazards](https://www.suomi.fi/guides/preparedness/how-to-prepare-for-incidents-and-crises/radiation-hazards)
+Quelle: [Nuklearrisiko: Einnahme von stabilem Jod](https://nuklearrisiko.be/de/was-koennen-sie-tun/einnahme-von-jod) · [Nuklearrisiko: Wann einnehmen](https://nuklearrisiko.be/de/jodtabletten/wann-einnehmen) · [Nuklearrisiko: häufig gestellte Fragen](https://nuklearrisiko.be/de/faq) · [Nuklearrisiko: Für wen](https://nuklearrisiko.be/de/jodtabletten/fuer-wen) · [WHO: Use of potassium iodide](https://www.who.int/news-room/questions-and-answers/item/use-of-potassium-iodide-for-thyroid-protection-during-nuclear-or-radiological-emergencies)
 
 ## Warum Sie auch drinnen Jod einnehmen müssen können
 
@@ -85,7 +85,7 @@ Quelle: [Nuklearrisiko: häufig gestellte Fragen](https://nuklearrisiko.be/de/fa
 
 ## Wer in Belgien Jodtabletten zu Hause haben sollte
 
-| Gruppe | Rat der belgischen Behörden |
+| Gruppe | Rat |
 | --- | --- |
 | Einwohner einer Gemeinde im Umkreis von 20 km um einen nuklearen Standort (10 km um IRE Fleurus) | Holen Sie Jodtabletten ins Haus, auch wenn Ihre Gemeinde nur teilweise in der Zone liegt. Noch wichtiger, wenn Sie Kinder haben oder sich Kinder wünschen |
 | Kinder und Jugendliche bis 18 Jahre, in ganz Belgien | Holen Sie eine Schachtel ab |
@@ -101,13 +101,9 @@ Niemand ist ausgeschlossen. Großeltern können zum Beispiel Tabletten für Enke
 
 - Das Risiko für Schilddrüsenkrebs durch radioaktives Jod sinkt mit dem Alter.
 - Nach 40 Jahren arbeitet die Schilddrüse häufiger fehlerhaft, vor allem in jodarmen Regionen wie Belgien. Das Risiko für Nebenwirkungen ist dann höher. Bei einer stark gestörten Schilddrüse können die Nachteile, etwa Herzprobleme, größer sein als die Vorteile.
-- Die Grenze von 40 Jahren folgt dem Wissensstand und den Empfehlungen der Weltgesundheitsorganisation. Die WHO sagt, dass eine Jodblockade bei Erwachsenen über 40 Jahren im Allgemeinen nicht angezeigt ist, mit Ausnahme von Einsatzkräften.
+- Eine Jodblockade ist bei Erwachsenen über 40 Jahren im Allgemeinen nicht angezeigt, mit Ausnahme von Einsatzkräften.
 
-### Unterschied zu anderen Ländern
-
-Finnland empfiehlt Jod für Menschen von 40 Jahren oder jünger und gibt bei Knappheit Kindern, Schwangeren und stillenden Frauen Vorrang. In Finnland kaufen Sie die Tabletten ohne Rezept in der Apotheke. In Belgien sind sie kostenlos. Befolgen Sie in Belgien den belgischen Rat.
-
-Quelle: [Nuklearrisiko: Für wen](https://nuklearrisiko.be/de/jodtabletten/fuer-wen) · [Nuklearrisiko: Jodtabletten in der Apotheke abholen](https://nuklearrisiko.be/de/jodtabletten/jodtabletten-der-apotheke-besorgen) · [Nuklearrisiko: Für Gemeinschaftseinrichtungen](https://nuklearrisiko.be/de/jodtabletten/fuer-gemeinschaftliche-einrichtungen) · [Nuklearrisiko: häufig gestellte Fragen](https://nuklearrisiko.be/de/faq) · [WHO: Use of potassium iodide](https://www.who.int/news-room/questions-and-answers/item/use-of-potassium-iodide-for-thyroid-protection-during-nuclear-or-radiological-emergencies) · [Suomi.fi: Radiation hazards](https://www.suomi.fi/guides/preparedness/how-to-prepare-for-incidents-and-crises/radiation-hazards)
+Quelle: [Nuklearrisiko: Für wen](https://nuklearrisiko.be/de/jodtabletten/fuer-wen) · [Nuklearrisiko: Jodtabletten in der Apotheke abholen](https://nuklearrisiko.be/de/jodtabletten/jodtabletten-der-apotheke-besorgen) · [Nuklearrisiko: Für Gemeinschaftseinrichtungen](https://nuklearrisiko.be/de/jodtabletten/fuer-gemeinschaftliche-einrichtungen) · [Nuklearrisiko: häufig gestellte Fragen](https://nuklearrisiko.be/de/faq) · [WHO: Use of potassium iodide](https://www.who.int/news-room/questions-and-answers/item/use-of-potassium-iodide-for-thyroid-protection-during-nuclear-or-radiological-emergencies)
 
 ## Wo Sie sie erhalten
 
@@ -127,7 +123,7 @@ Quelle: [Nuklearrisiko: Jodtabletten in der Apotheke abholen](https://nuklearris
 - Bewahren Sie die Tabletten in ihrer Originalverpackung (Blister) auf. Diese schützt vor Licht und Feuchtigkeit.
 - Bewahren Sie sie bei Raumtemperatur, trocken und dunkel auf, wie andere Arzneimittel. Schützen Sie sie vor allem vor Wärme.
 - Nehmen Sie sie erst aus der Verpackung, wenn die Behörden das empfehlen. Außerhalb der Verpackung verderben sie schnell.
-- Bewahren Sie sie an einem Ort auf, den alle im Haushalt kennen, zum Beispiel in der Hausapotheke. Das Krisenzentrum führt sie in der Liste des Notfallpakets auf.
+- Bewahren Sie sie an einem Ort auf, den alle im Haushalt kennen, zum Beispiel in der Hausapotheke. Sie gehören auch in Ihr Notfallpaket.
 - Auf der Verpackung steht nur das Herstellungsdatum. Die Tabletten sind mindestens 10 Jahre haltbar. Wie Kochsalz zersetzt sich das Jod kaum.
 - Die neuesten Schachteln im Umlauf haben das Herstellungsdatum 2017.
 - Haben Sie noch Schachteln mit Herstellungsdatum 2010 oder 2011, tauschen Sie sie in Ihrer Apotheke kostenlos gegen eine neuere Schachtel um. Lassen Sie die Tabletten in der Apotheke; die leere Schachtel darf ins Altpapier.
@@ -141,8 +137,8 @@ Quelle: [Nuklearrisiko: Jodtabletten in der Apotheke abholen](https://nuklearris
 
 **Nehmen Sie Jodtabletten nie aus eigenem Antrieb ein.** Nehmen Sie sie nur auf ausdrückliche Empfehlung der zuständigen Behörden ein.
 
-- **Warum der Zeitpunkt zählt:** Jod wirkt nur, wenn Sie es zum richtigen Zeitpunkt einnehmen, am besten kurz vor oder so schnell wie möglich nach einer Freisetzung von radioaktivem Jod. Die Behörden wählen auf Rat von Experten den Zeitpunkt, zu dem die Tabletten am wirksamsten sind. Finnland sagt: Eine zu frühe oder zu späte Einnahme verringert den Schutz.
-- **Was die WHO zum Zeitfenster sagt:** Der beste Zeitraum liegt zwischen weniger als 24 Stunden vor und 2 Stunden nach dem erwarteten Beginn der Exposition. Bis 8 Stunden danach ist es noch vertretbar. Später als 24 Stunden nach der Exposition bietet es keinen Schutz mehr. In Belgien entscheiden die Behörden, wann.
+- **Warum der Zeitpunkt zählt:** Jod wirkt nur, wenn Sie es zum richtigen Zeitpunkt einnehmen, am besten kurz vor oder so schnell wie möglich nach einer Freisetzung von radioaktivem Jod. Die Behörden wählen auf Rat von Experten den Zeitpunkt, zu dem die Tabletten am wirksamsten sind. Eine zu frühe oder zu späte Einnahme verringert den Schutz.
+- **Das Zeitfenster:** Der beste Zeitraum liegt zwischen weniger als 24 Stunden vor und 2 Stunden nach dem erwarteten Beginn der Exposition. Bis 8 Stunden danach ist es noch vertretbar. Später als 24 Stunden nach der Exposition bietet es keinen Schutz mehr. In Belgien entscheiden die Behörden, wann.
 - **Wie Sie davon erfahren:** Die Behörden sagen es über Radio und Fernsehen. Wer Schutz sucht, bleibt drinnen bei geschlossenen Fenstern: Halten Sie deshalb ein batteriebetriebenes Radio oder ein Kurbelradio bereit. Auch Lautsprecherwagen der Polizei fahren durch die Straßen, sodass Sie die Informationen auch ohne Telefon oder Handy erhalten. Funktioniert das Netz, kommt die Empfehlung auch über BE-Alert. Sie kann auf eine bestimmte Zone oder eine bestimmte Gruppe beschränkt bleiben, zum Beispiel auf Schwangere oder kleine Kinder.
 - **Unfall in einem Nachbarland:** Nehmen Sie die Tabletten nur ein, wenn die belgischen Behörden es ausdrücklich empfehlen.
 - **Wie lange Sie geschützt sind:** Nach der Einnahme sind Sie mindestens 24 Stunden geschützt. Auch bei einem schweren Unfall ist es sehr wahrscheinlich, dass eine einzige Einnahme ausreicht. Suchen Sie in der Zwischenzeit weiter Schutz im Gebäude.
@@ -152,17 +148,17 @@ Quelle: [Nuklearrisiko: Wann einnehmen](https://nuklearrisiko.be/de/jodtabletten
 ## Wie Sie sie einnehmen
 
 - Prüfen Sie für jedes Familienmitglied die Dosis auf der Verpackung und in der Packungsbeilage. Dort finden Sie Zeichnungen pro Altersgruppe. Es gelten unterschiedliche Dosen für Erwachsene, Kinder, Babys, Schwangere und stillende Frauen.
-- Die belgischen Behörden empfehlen, die Tabletten nicht einfach zu schlucken, sondern in einem großen Glas lauwarmem Wasser aufzulösen. Milch oder Fruchtsaft überdeckt den Geschmack. Die Tabletten lösen sich nicht leicht auf: Brechen oder zerkleinern Sie sie und rühren Sie um.
+- Schlucken Sie die Tabletten nicht einfach, sondern lösen Sie sie in einem großen Glas lauwarmem Wasser auf. Milch oder Fruchtsaft überdeckt den Geschmack. Die Tabletten lösen sich nicht leicht auf: Brechen oder zerkleinern Sie sie und rühren Sie um.
 - Jod reizt den Magen leicht. Nehmen Sie es nicht mit Alkohol ein.
 
 Quelle: [Nuklearrisiko: häufig gestellte Fragen](https://nuklearrisiko.be/de/faq) · [Nuklearrisiko: Wann einnehmen](https://nuklearrisiko.be/de/jodtabletten/wann-einnehmen)
 
 ## Babys, Schwangerschaft und Stillzeit
 
-- **Babys:** Je jünger, desto wichtiger der Schutz. Die Empfehlung gilt ganz besonders für Babys. Verweigert Ihr Baby das Trinken, versuchen Sie es später erneut. Verweigert es weiterhin: Drinnen bleiben beseitigt den größten Teil des Risikos, und das Jod, das die Mutter einnimmt, gelangt teilweise in die Muttermilch (belgische Behörden). Die WHO sagt, dass das Jod über die Muttermilch nicht ausreicht, um ein Baby zu schützen, und dass das Baby selbst ebenfalls Jod erhält. Befolgen Sie die Anweisungen der Behörden und die Packungsbeilage.
-- **Neugeborene unter einem Monat:** Die WHO empfiehlt, ihre Schilddrüsenwerte nach der Einnahme kontrollieren zu lassen, mit einer Untersuchung beim Kinderarzt in der ersten Woche.
-- **Stillen:** Normalerweise gibt es keinen Grund, mit dem Stillen aufzuhören. Für Kinder unter einem Monat wird manchmal empfohlen, die Milch 24 Stunden lang abzupumpen und wegzuschütten, in dieser Zeit Flaschennahrung zu geben und danach wieder zu stillen (belgische Behörden).
-- **Schwangerschaft:** Schwangere nehmen die Tabletten nur auf Anweisung ein. So schützen sie ihre eigene Schilddrüse und die des ungeborenen Kindes. Melden Sie es nach der Notsituation Ihrem Arzt, damit es in Ihre Akte aufgenommen wird (WHO).
+- **Babys:** Je jünger, desto wichtiger der Schutz. Die Empfehlung gilt ganz besonders für Babys. Verweigert Ihr Baby das Trinken, versuchen Sie es später erneut. Verweigert es weiterhin: Drinnen bleiben beseitigt den größten Teil des Risikos. Das Jod, das die Mutter einnimmt, gelangt teilweise in die Muttermilch, aber das reicht nicht aus, um ein Baby zu schützen: Das Baby erhält selbst ebenfalls Jod. Befolgen Sie die Anweisungen der Behörden und die Packungsbeilage.
+- **Neugeborene unter einem Monat:** Lassen Sie ihre Schilddrüsenwerte nach der Einnahme kontrollieren, mit einer Untersuchung beim Kinderarzt in der ersten Woche.
+- **Stillen:** Normalerweise gibt es keinen Grund, mit dem Stillen aufzuhören. Für Kinder unter einem Monat wird manchmal empfohlen, die Milch 24 Stunden lang abzupumpen und wegzuschütten, in dieser Zeit Flaschennahrung zu geben und danach wieder zu stillen.
+- **Schwangerschaft:** Schwangere nehmen die Tabletten nur auf Anweisung ein. So schützen sie ihre eigene Schilddrüse und die des ungeborenen Kindes. Melden Sie es nach der Notsituation Ihrem Arzt, damit es in Ihre Akte aufgenommen wird.
 
 Quelle: [Nuklearrisiko: häufig gestellte Fragen](https://nuklearrisiko.be/de/faq) · [WHO: Use of potassium iodide](https://www.who.int/news-room/questions-and-answers/item/use-of-potassium-iodide-for-thyroid-protection-during-nuclear-or-radiological-emergencies)
 
@@ -184,15 +180,15 @@ Quelle: [Nuklearrisiko: häufig gestellte Fragen](https://nuklearrisiko.be/de/fa
 - Die Behörden nutzen die Zeit zwischen den ersten Anzeichen eines Problems und der Freisetzung, um zu warnen, Vorräte zu verteilen und die Bevölkerung, falls nötig, zu bitten, Tabletten in der Apotheke abzuholen. Hören Sie auf die Empfehlungen im Radio.
 - Wer keine Tabletten hat, kann sie auch von den Hilfsdiensten erhalten: Im ganzen Land gibt es Vorräte, und die Hilfsdienste können sie bei einem Unfall an die bedrohte Bevölkerung verteilen.
 - Sind Sie zum Zeitpunkt des Unfalls bei einem Fußballspiel, in einem Kino, Geschäft oder an einer Tankstelle: Die Gemeinschaftseinrichtungen in den Zonen werden gebeten, Tabletten bereitzuhalten und sie zu verteilen, wenn die Behörden das empfehlen. Der Zivilschutz hat ebenfalls einen Vorrat, den er ausgeben kann.
-- Finnland sagt: Gehen Sie nicht in die Apotheke, um Tabletten zu holen, wenn bereits eine Empfehlung zur Einnahme ausgesprochen wurde.
+- Ist die Empfehlung zur Einnahme bereits ausgesprochen, gehen Sie nicht mehr in die Apotheke, um Tabletten zu holen.
 
 Quelle: [Nuklearrisiko: häufig gestellte Fragen](https://nuklearrisiko.be/de/faq) · [Suomi.fi: Radiation hazards](https://www.suomi.fi/guides/preparedness/how-to-prepare-for-incidents-and-crises/radiation-hazards)
 
 ## Was kein Ersatz ist
 
-- **Jodsalz.** Das Salz, das Sie normalerweise verwenden, enthält nicht genug Jod, um radioaktives Jod zu blockieren. Viel Salz zu essen ist selbst gefährlich (WHO).
-- **Meeresluft und Fisch.** Jod, das Sie am Meer einatmen oder mit Fisch und Schalentieren essen, bietet etwas Schutz, aber nicht genug bei einem nuklearen Unfall (belgische Behörden).
-- **Andere Arzneimittel,** es sei denn, Ihr Arzt empfiehlt es ausdrücklich (belgische Behörden).
+- **Jodsalz.** Das Salz, das Sie normalerweise verwenden, enthält nicht genug Jod, um radioaktives Jod zu blockieren. Viel Salz zu essen ist selbst gefährlich.
+- **Meeresluft und Fisch.** Jod, das Sie am Meer einatmen oder mit Fisch und Schalentieren essen, bietet etwas Schutz, aber nicht genug bei einem nuklearen Unfall.
+- **Andere Arzneimittel,** es sei denn, Ihr Arzt empfiehlt es ausdrücklich.
 
 Jodreiche Nahrung wie Fisch, Schalentiere und jodiertes Salz ist im Allgemeinen dennoch gut, weil unsere Ernährung meist zu wenig Jod enthält.
 
@@ -200,7 +196,7 @@ Quelle: [WHO: Use of potassium iodide](https://www.who.int/news-room/questions-a
 
 ## Warum Kinder Vorrang haben
 
-Je jünger Sie sind, desto anfälliger sind Sie für radioaktives Jod. Bei Kindern in der Umgebung von Tschernobyl, die über verseuchte Milch und Nahrung radioaktives Jod aufnahmen, wurde der Anstieg von Schilddrüsenkrebs erst vier bis fünf Jahre nach 1986 festgestellt (WHO). Die WHO sagt, dass Jod das Risiko für Schilddrüsenkrebs bei Menschen von 0 bis 18 Jahren verringert, die radioaktivem Jod ausgesetzt waren. Radioaktives Jod halbiert seine Radioaktivität innerhalb von 8 Tagen und ist nach einigen Wochen zerfallen. Laut WHO ist radioaktives Jod in Lebensmitteln deshalb vor allem unmittelbar nach einem Unfall ein Problem und langfristig kein Problem für den Verzehr.
+Je jünger Sie sind, desto anfälliger sind Sie für radioaktives Jod. Bei Kindern in der Umgebung von Tschernobyl, die über verseuchte Milch und Nahrung radioaktives Jod aufnahmen, wurde der Anstieg von Schilddrüsenkrebs erst vier bis fünf Jahre nach 1986 festgestellt. Jod verringert das Risiko für Schilddrüsenkrebs bei Menschen von 0 bis 18 Jahren, die radioaktivem Jod ausgesetzt waren. Radioaktives Jod halbiert seine Radioaktivität innerhalb von 8 Tagen und ist nach einigen Wochen zerfallen. Radioaktives Jod in Lebensmitteln ist deshalb vor allem unmittelbar nach einem Unfall ein Problem und langfristig kein Problem für den Verzehr.
 
 Quelle: [WHO: Use of potassium iodide](https://www.who.int/news-room/questions-and-answers/item/use-of-potassium-iodide-for-thyroid-protection-during-nuclear-or-radiological-emergencies) · [WHO: Radiation and health](https://www.who.int/news-room/questions-and-answers/item/radiation-and-health) · [WHO: Radioactivity in food after a nuclear emergency](https://www.who.int/news-room/questions-and-answers/item/radioactivity-in-food-after-a-nuclear-emergency)
 

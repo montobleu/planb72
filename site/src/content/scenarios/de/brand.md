@@ -81,7 +81,7 @@ Quelle: [Nationales Krisenzentrum: Brand oder Explosion](https://krisenzentrum.b
 - Legen Sie ein Telefon und eine Taschenlampe neben Ihr Bett und halten Sie Ihre Brille oder Ihr Hörgerät griffbereit.
 - Vereinbaren Sie einen Sammelpunkt an der Vorderseite des Gebäudes oder an einer Stelle, die die Feuerwehr sieht.
 - Verteilen Sie Aufgaben: Wer holt die Kinder, wer hilft Personen, die weniger mobil sind, wer ruft die 112 an.
-- Üben Sie den Plan mit allen im Haus, auch mit geschlossenen Innentüren. Ready.gov empfiehlt, zweimal im Jahr zu üben, auch im Dunkeln.
+- Üben Sie den Plan mit allen im Haus, auch mit geschlossenen Innentüren. Üben Sie zweimal im Jahr, auch im Dunkeln.
 - Sie können kostenlos einen Brandschutzberater in Anspruch nehmen.
 
 **Türen zu**

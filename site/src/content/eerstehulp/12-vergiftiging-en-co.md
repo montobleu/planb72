@@ -100,7 +100,7 @@ Bron: [Gezondheid en Wetenschap: Vergiftiging](https://www.gezondheidenwetenscha
 - Leg het slachtoffer op de linkerzij en volg ademhaling en bewustzijn voortdurend op. Klachten kunnen pas later optreden.
 - Noteer wat er gebeurd is: welk product, hoeveel, langs welke weg en hoe laat. Bewaar verpakkingen en etiketten. Die informatie helpt de hulpverleners om de juiste zorg te geven.
 - Laat niet braken. Geef geen melk, water of actieve kool, tenzij het Antigifcentrum dat uitdrukkelijk zegt.
-- Werkt het netwerk, dan kan je ook de dokter van wacht bellen: 1733. Het Antigifcentrum vermeldt dat nummer.
+- Werkt het netwerk, dan kan je ook de dokter van wacht bellen: 1733.
 - Voorkom nieuwe gevallen: laat nooit een motor draaien in een gesloten ruimte zoals een garage. Dat geldt voor alle verbrandingsmotoren. Hou ventilatieroosters vrij en verlucht regelmatig. Een CO-melder waarschuwt bij verhoogde concentraties, maar voorkomt CO niet.
 
 Bron: [IFRC Guidelines 2020](https://www.ifrc.org/sites/default/files/2022-02/EN_GFARC_GUIDELINES_2020.pdf) · [Gezondheid en Wetenschap: Vergiftiging door inademen](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-inademing-van-giftige-stoffen) · [Gezondheid en Wetenschap: CO-vergiftiging](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-co-vergiftiging) · [Antigifcentrum: Wanneer bellen?](https://www.antigifcentrum.be/wanneer-bellen/) · [Antigifcentrum: CO-campagne](https://www.antigifcentrum.be/co-campagne/)

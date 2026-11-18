@@ -35,7 +35,7 @@ Jemand ist bewusstlos, wenn er nicht auf Reize aus der Umgebung reagiert: nicht 
 
 Mögliche Ursachen: Vergiftung (Kohlenmonoxid, Alkohol), zu niedriger Blutzucker, Sauerstoffmangel, eine Hirnblutung, Hirnhautentzündung, eine Kopfverletzung oder ein Anfall.
 
-Das Bewusstsein kann schrittweise abnehmen. Die IFRC und der ERC verwenden die AVPU-Skala:
+Das Bewusstsein kann schrittweise abnehmen. Sie können das mit der AVPU-Skala einschätzen:
 
 - A (alert): wach, aber möglicherweise verwirrt;
 - V (voice): reagiert nur auf Ihre Stimme;
@@ -68,7 +68,7 @@ Bringen Sie die Person in die stabile Seitenlage, wenn sie:
 - wegen Blut, Erbrochenem oder anderer Körperflüssigkeit schwer atmet;
 - allein bleiben muss, weil Sie Hilfe alarmieren gehen müssen.
 
-Merkmale der Lage nach dem ERC und der IFRC:
+Merkmale der Lage:
 
 1. Die Person liegt auf der Seite.
 2. Arme und Beine sind gebeugt.
@@ -94,7 +94,7 @@ Denken Sie an eine Wirbelsäulenverletzung nach einem Verkehrsunfall, einem Stur
 3. Beobachten Sie ständig den Mund. Kommt Erbrochenes, drehen Sie die Person sofort auf die Seite, egal wie, damit das Erbrochene abfließen kann.
 4. Liegt sie auf dem Bauch: Beobachten Sie ständig den Mund und lassen Sie Erbrochenes abfließen.
 5. Prüfen Sie jede Minute Bewusstsein und Atmung.
-6. Die Croix-Rouge de Belgique betont: Die Verletzung muss eindeutig und sofort festzustellen sein. Sind Sie unsicher, ob eine Verletzung vorliegt, bringen Sie die Person dennoch in die Seitenlage.
+6. Die Verletzung muss eindeutig und sofort festzustellen sein. Sind Sie unsicher, ob eine Verletzung vorliegt, bringen Sie die Person dennoch in die Seitenlage.
 
 ### Ohnmacht
 
@@ -115,7 +115,7 @@ Quelle: [Gezondheid en Wetenschap: Bewusstlosigkeit](https://www.gezondheidenwet
 - Versuchen Sie, die Ursache herauszufinden, zum Beispiel Diabetes, Vergiftung oder eine Kopfverletzung. Schauen Sie, ob offene Verpackungen von Medikamenten oder Produkten in der Nähe liegen, und geben Sie diese dem Rettungsdienst (siehe Thema 12).
 - Notieren Sie, was Sie sehen und wann: wie lange die Person bewusstlos ist, ob sie auf Stimme oder Schmerz reagiert, und jede Veränderung.
 - Vermuten Sie eine Wirbelsäulenverletzung, ist Hilfe noch weit entfernt und gibt es mindestens zwei Helfer: Dann dürfen Sie die Person auf die Seite drehen, während ein Helfer den Kopf in einer Linie mit dem Rücken hält. Kommt Hilfe schnell, verwenden Sie nur das Neigen des Kopfes oder das Anheben des Kiefers.
-- Die Croix-Rouge de Belgique erklärt, dass Sie bei einer eindeutigen Verletzung an Kopf, Hals oder Rumpf die Person auf dem Rücken liegen lassen können, wenn sie deutlich atmet und der Rettungsdienst schnell vor Ort ist. Dauert es lange, haben freie Atemwege durch die Seitenlage Vorrang.
+- Bei einer eindeutigen Verletzung an Kopf, Hals oder Rumpf können Sie die Person auf dem Rücken liegen lassen, wenn sie deutlich atmet und der Rettungsdienst schnell vor Ort ist. Dauert es lange, haben freie Atemwege durch die Seitenlage Vorrang.
 - Halten Sie die Person warm. Legen Sie etwas zwischen den Körper und den Boden, decken Sie sie mit trockenen Schichten zu und schützen Sie sie vor Wind.
 - Geben Sie einer bewusstlosen oder benommenen Person nichts zu essen oder zu trinken.
 - Wacht die Person auf, sprechen Sie ruhig mit ihr, erklären Sie, was passiert ist, und beobachten Sie sie weiter.

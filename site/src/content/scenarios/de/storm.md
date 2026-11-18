@@ -163,7 +163,7 @@ Quelle: [Denk vooruit: extremes Wetter](https://www.denkvooruit.nl/risicos/risic
 
 - Verschieben Sie Ihre Fahrt, wenn möglich.
 - Parken Sie nicht in der Nähe von Bäumen.
-- Fahren Sie nicht auf überfluteten Straßen. Laut Ready.gov können wenige Zentimeter schnell fließendes Wasser Sie umwerfen und etwa 30 cm Wasser ein Fahrzeug mitreißen.
+- Fahren Sie nicht auf überfluteten Straßen. Wenige Zentimeter schnell fließendes Wasser können Sie umwerfen, etwa 30 cm Wasser können ein Fahrzeug mitreißen.
 - Bei Gewitter ist ein Auto mit Dach ein sicherer Schutzort. Wird Ihr Auto getroffen, leitet die Metallkarosserie den Strom über Dach und Seiten in den Boden. Sie müssen keinen Pfosten und keine Leitplanke berühren.
 
 Quelle: [Nationales Krisenzentrum: Wind und Sturm](https://krisenzentrum.be/de/risiken-belgien/naturrisiken/wind-und-sturm) · [Ready.gov: thunderstorms](https://www.ready.gov/thunderstorms-lightning) · [Brandweer Nederland: Gewitter](https://www.brandweer.nl/onderwerpen/onweer-donder-en-bliksem/) · [Nationales Krisenzentrum: Blitz](https://krisenzentrum.be/de/risiken-belgien/naturrisiken/blitzschlag)

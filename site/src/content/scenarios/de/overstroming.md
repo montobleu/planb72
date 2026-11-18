@@ -161,7 +161,7 @@ Quelle: [Nationales Krisenzentrum: Flusshochwasser](https://krisenzentrum.be/de/
 
 - Beste Wahl, wenn die Behörden dazu auffordern: Evakuieren Sie rechtzeitig.
 - Können oder dürfen Sie nicht weg: Gehen Sie in das oberste Stockwerk.
-- Gehen Sie nur auf das Dach, wenn es wirklich nötig ist, und geben Sie von dort ein Zeichen für Hilfe. Das empfiehlt das amerikanische Ready.gov.
+- Gehen Sie nur auf das Dach, wenn es wirklich nötig ist, und geben Sie von dort ein Zeichen für Hilfe.
 - Kriechen Sie nicht auf einen geschlossenen Dachboden, aus dem Sie nicht mehr herauskommen.
 
 **Evakuieren**
@@ -179,7 +179,7 @@ Quelle: [Nationales Krisenzentrum: Flusshochwasser](https://krisenzentrum.be/de/
 ### Draußen oder unterwegs
 
 - Begrenzen Sie Ihre Wege und meiden Sie gefährliche Zonen.
-- Gehen, schwimmen oder fahren Sie nicht durch das Wasser. Laut Ready.gov können 15 Zentimeter (6 Zoll) fließendes Wasser Sie umwerfen.
+- Gehen, schwimmen oder fahren Sie nicht durch das Wasser. Schon 15 Zentimeter fließendes Wasser können Sie umwerfen.
 - Bleiben Sie von Brücken über schnell fließendem Wasser fern.
 - Müssen Sie dennoch durch eine überflutete Straße gehen, benutzen Sie einen Stock, um den Boden abzutasten. Kanaldeckel und Teile der Fahrbahn können weggespült sein.
 - Hochwasser kann verschmutzt sein und Schutt verbergen. Heruntergefallene Stromleitungen können das Wasser unter Strom setzen.
@@ -189,7 +189,7 @@ Quelle: [Nationales Krisenzentrum: Flusshochwasser](https://krisenzentrum.be/de/
 ### Im Auto
 
 - Stellen Sie Ihr Auto vorher an einen sicheren Ort, und nicht in Ihre Garage.
-- Fahren Sie nie über eine überflutete Straße und nie um eine Absperrung herum. Laut Ready.gov können 30 Zentimeter (1 Fuß) Wasser ein Fahrzeug mitreißen.
+- Fahren Sie nie über eine überflutete Straße und nie um eine Absperrung herum. 30 Zentimeter Wasser können ein Fahrzeug mitreißen.
 - Sitzen Sie im Auto fest, bleiben Sie darin. Steigt das Wasser im Auto, klettern Sie auf das Dach.
 
 Quelle: [Nationales Krisenzentrum: Oberflächenwasser](https://krisenzentrum.be/de/risiken-belgien/naturrisiken/ueberschwemmung-durch-oberflaechenwasser) · [Ready.gov: floods](https://www.ready.gov/floods)
@@ -268,7 +268,7 @@ Quelle: [Denk vooruit: Überschwemmung](https://www.denkvooruit.nl/risicos/risic
 **Schaden und Versicherung**
 
 - Fotografieren Sie die Schäden für Ihre Versicherungsakte.
-- Wenden Sie sich so schnell wie möglich an Ihren Versicherer. Laut VMM sind Überschwemmungsschäden durch die Feuerversicherung gedeckt, auch wenn die Überschwemmung nicht als Katastrophe anerkannt wird.
+- Wenden Sie sich so schnell wie möglich an Ihren Versicherer. Überschwemmungsschäden sind durch die Feuerversicherung gedeckt, auch wenn die Überschwemmung nicht als Katastrophe anerkannt wird.
 - In Flandern kann der Vlaams Rampenfonds in Ausnahmefällen einen Teil des Schadens erstatten, nur nach einer von der Flämischen Regierung anerkannten Katastrophe. Melden Sie den Schaden zuerst Ihrem Versicherer. Beim Rampenfonds melden Sie den Schaden innerhalb von 60 Tagen nach dem Schadensdatum.
 
 Quelle: [Ready.gov: floods](https://www.ready.gov/floods) · [Vivalis](https://www.vivalis.brussels/sites/default/files/2026-07/Overstromingen%20en%20gezondheidsrisico%27s.pdf) · [Nationales Krisenzentrum: Flusshochwasser](https://krisenzentrum.be/de/risiken-belgien/naturrisiken/flussueberschwemmung-oder-hochwasser-anderer-wasserlaeufe) · [VMM: Tipps bei Überschwemmungen](https://vmm.vlaanderen.be/tips/water/overstromingen) · [CDC: food safety](https://www.cdc.gov/food-safety/foods/keep-food-safe-after-emergency.html) · [Vlaams Rampenfonds](https://www.vlaanderen.be/schadevergoeding-vlaams-rampenfonds-aanvragen)

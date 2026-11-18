@@ -2,7 +2,7 @@
 titel: Kernwapen, vuile bom en radiologisch incident
 module: nucleair
 volgorde: 3
-kort: "Wat officiële civiele-beschermingsgidsen zeggen over een kernwapen, een vuile bom en andere radiologische incidenten: de eerste seconden, minuten, uren en dagen."
+kort: "Wat je doet bij een kernwapen, een vuile bom en andere radiologische incidenten: de eerste seconden, minuten, uren en dagen."
 status: concept
 datum: "2026-11-18"
 bronnen:
@@ -62,7 +62,7 @@ bronnen:
 
 ## Wat de Belgische overheid zegt
 
-Het Nationaal Crisiscentrum heeft geen aparte pagina over kernwapens. Voor het vrijkomen van nucleaire of radioactieve stoffen, ook bij een aanval op een nucleaire of radiologische installatie, geldt hetzelfde advies:
+De Belgische overheid geeft geen apart advies voor kernwapens. Voor het vrijkomen van nucleaire of radioactieve stoffen, ook bij een aanval op een nucleaire of radiologische installatie, geldt hetzelfde advies:
 
 - Schuilen is de beste manier om je te beschermen.
 - Ga naar binnen in het dichtstbijzijnde gebouw en blijf binnen tot je bericht krijgt dat het veilig is.
@@ -72,23 +72,23 @@ Het Nationaal Crisiscentrum heeft geen aparte pagina over kernwapens. Voor het v
 - Evacueer nooit op eigen initiatief.
 - Neem jodiumtabletten alleen op instructie van de overheid.
 
-Voor de drukgolf, het puin en de hitte van een kernwapen geeft België geen specifieke richtlijn. De rest van deze gids volgt daarom de civiele bescherming van Zweden (MCF), Finland, Zwitserland (BABS), Duitsland (BBK), Oekraïne en de Verenigde Staten (Ready.gov, CDC). Die adviezen zijn bedoeld voor oorlog of een aanslag en kunnen afwijken van het Belgische advies bij een ongeval in een kerncentrale. Volg altijd de instructies van de Belgische overheid op het moment zelf.
+Voor de drukgolf, het puin en de hitte van een kernwapen geeft België geen specifieke richtlijn. De rest van deze gids volgt daarom de civiele bescherming van andere Europese landen en de Verenigde Staten. Die adviezen zijn bedoeld voor oorlog of een aanslag en kunnen afwijken van het Belgische advies bij een ongeval in een kerncentrale. Volg altijd de instructies van de Belgische overheid op het moment zelf.
 
 Bron: [Nationaal Crisiscentrum: Vrijkomen van nucleaire stoffen](https://crisiscentrum.be/nl/risicos-belgie/economische-en-technologische-risicos/vrijkomen-van-nucleaire-stoffen) · [Nationaal Crisiscentrum: Vrijkomen van radioactieve stoffen](https://crisiscentrum.be/nl/risicos-belgie/economische-en-technologische-risicos/vrijkomen-van-radioactieve-stoffen) · [Nationaal Crisiscentrum: Aanval op een CBRNe-infrastructuur](https://crisiscentrum.be/nl/risicos-belgie/man-made-risicos/aanval-op-een-cbrne-infrastructuur) · [Nationaal Crisiscentrum: brochure Samen voorbereid](https://crisiscentrum.be/sites/default/files/documents/files/WEB-Brochure%20Samen%20voorbereid-NL.pdf)
 
 ## De gevaren van een kernwapen
 
-Ready.gov noemt een nucleaire ontploffing de gevaarlijkste stralingsnoodsituatie. Ze veroorzaakt een grote, dodelijke drukgolf. Ontploft een kernwapen op de grond, dan kan de explosie materiaal de lucht in zuigen en gevaarlijke radioactieve deeltjes vormen, zo fijn als zand: neerslag (fallout).
+Een nucleaire ontploffing is de gevaarlijkste stralingsnoodsituatie. Ze veroorzaakt een grote, dodelijke drukgolf. Ontploft een kernwapen op de grond, dan kan de explosie materiaal de lucht in zuigen en gevaarlijke radioactieve deeltjes vormen, zo fijn als zand: neerslag (fallout).
 
 De gevaren volgen elkaar op:
 
 | Gevaar | Wanneer | Wat beschermt |
 | --- | --- | --- |
-| Hitte | Bij de ontploffing | Dekking; buiten met het gezicht naar beneden op de grond, zodat blote huid beschermd is (Ready.gov) |
-| Drukgolf, puin, glas | Kort na de ontploffing | Achter iets stevigs, weg van ramen (Ready.gov, BBK) |
-| Radioactieve neerslag | Na 10 minuten of meer | Diep in een stevig gebouw of onder de grond (Ready.gov) |
+| Hitte | Bij de ontploffing | Dekking; buiten met het gezicht naar beneden op de grond, zodat blote huid beschermd is |
+| Drukgolf, puin, glas | Kort na de ontploffing | Achter iets stevigs, weg van ramen |
+| Radioactieve neerslag | Na 10 minuten of meer | Diep in een stevig gebouw of onder de grond |
 
-Zwitserland zegt dat een schuilruimte, als ze niet vlak bij het centrum van de explosie ligt, beschermt tegen drukgolf, hitte, puin, schokken, radioactieve straling en radioactieve neerslag. Zweden zegt hetzelfde over zijn schuilkelders.
+Een schuilkelder die niet vlak bij het centrum van de explosie ligt, beschermt tegen drukgolf, hitte, puin, schokken, radioactieve straling en radioactieve neerslag.
 
 Bron: [Ready.gov: Radiation emergencies](https://www.ready.gov/radiation) · [BABS: Der Schutzraum](https://www.sz.ch/public/upload/assets/87489/Der_Schutzraum.pdf?fp=2) · [MCF: Good to know about civil defence shelters](https://www.mcf.se/en/advice-for-individuals/civil-defence-shelters-evacuation-and-warning-systems/good-to-know-about-civil-defence-shelters/) · [BBK: Explosionen, hier finden Sie Schutz](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Vorsorge/Schutz-suchen/Schutz-vor-Explosion/schutz-vor-explosion_node.html)
 
@@ -96,35 +96,35 @@ Bron: [Ready.gov: Radiation emergencies](https://www.ready.gov/radiation) · [BA
 
 ### Als je gewaarschuwd wordt
 
-- **Zweden:** bij aanvallen met kernwapens, chemische of biologische wapens schuil je zoals bij een luchtaanval. Een schuilkelder geeft de beste bescherming. Daarna kelders, garages en metrostations onder de grond, dan tunnels en muren. Binnen is beter dan buiten, liefst in een ruimte zonder ramen.
-- **Finland:** ga naar de dichtstbijzijnde schuilkelder of naar binnen in een ruimte met de stevigste structuur, zoals het midden van een gebouw. Omdat er weinig tijd is tussen alarm en gevaar, schuil je vaak waar je bent.
-- **Ready.gov:** zoek dekking tegen de drukgolf achter alles wat bescherming kan bieden.
+- Schuil zoals bij een luchtaanval. Een schuilkelder geeft de beste bescherming. Daarna kelders, garages en metrostations onder de grond, dan tunnels en muren.
+- Binnen is beter dan buiten: kies een ruimte zonder ramen of met de stevigste structuur, zoals het midden van een gebouw.
+- Er is weinig tijd tussen alarm en gevaar. Schuil daarom vaak waar je bent.
+- Zoek dekking tegen de drukgolf achter alles wat bescherming kan bieden.
 
 ### Als je buiten bent
 
-- Ga met je gezicht naar beneden op de grond liggen, zodat je blote huid beschermd is tegen de hitte en rondvliegend puin (Ready.gov).
-- Zweden: heb je geen tijd om te schuilen, ga dan op de grond liggen, liefst in een kuil of greppel.
-- Oekraïne (luchtaanval): ga meteen liggen en bedek je hoofd met je handen; een stoeprand, greppel of trap kan bescherming geven.
-- Ga na het voorbijtrekken van de drukgolf zo snel mogelijk het dichtstbijzijnde gebouw binnen (Ready.gov).
+- Ga meteen met je gezicht naar beneden op de grond liggen, zodat je blote huid beschermd is tegen de hitte en rondvliegend puin. Een kuil, greppel, stoeprand of trap kan extra bescherming geven.
+- Bedek je hoofd met je handen.
+- Ga na het voorbijtrekken van de drukgolf zo snel mogelijk het dichtstbijzijnde gebouw binnen.
 
 ### Als je binnen bent
 
-- Blijf weg van ramen. Zet zoveel mogelijk muren tussen jou en buiten (Ready.gov).
-- Ga zo diep mogelijk in het gebouw: kelder of binnenruimte zonder ramen (BBK).
-- Gebruik geen lift (BBK).
+- Blijf weg van ramen. Zet zoveel mogelijk muren tussen jou en buiten.
+- Ga zo diep mogelijk in het gebouw: kelder of binnenruimte zonder ramen.
+- Gebruik geen lift.
 
 Bron: [MCF: In case of crisis or war](https://rib.msb.se/filer/pdf/31523.pdf) · [Suomi.fi: Military conflicts and civil defence](https://www.suomi.fi/guides/preparedness/how-to-prepare-for-incidents-and-crises/military-conflicts-and-civil-defence) · [Ready.gov: Radiation emergencies](https://www.ready.gov/radiation) · [Dovidka.info: What is a shelter](https://dovidka.info/en/what-is-shelter/) · [BBK: Explosionen, hier finden Sie Schutz](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Vorsorge/Schutz-suchen/Schutz-vor-Explosion/schutz-vor-explosion_node.html)
 
 ## Na de ontploffing: de beste schuilplek zoeken
 
-Ready.gov zegt dat je na een ontploffing 10 minuten of meer hebt om een geschikte schuilplaats te vinden voor de neerslag aankomt.
+Na een ontploffing heb je 10 minuten of meer om een geschikte schuilplaats te vinden voor de neerslag aankomt.
 
 ### Volgorde van voorkeur
 
-1. **Beste keuze:** een gebouw met meerdere verdiepingen of een kelder die je binnen enkele minuten veilig bereikt. Ga daar meteen heen. De veiligste gebouwen hebben muren van baksteen of beton (Ready.gov). In landen met schuilkelders: de dichtstbijzijnde schuilkelder (Zweden, Finland, Zwitserland).
-2. **Goede keuze:** een ondergrondse parking of metro (Ready.gov). Duitsland noemt bij radioactieve stoffen kelders, ondergrondse garages en metrostations; dikke muren en aarde verhogen de bescherming.
-3. **In het gebouw:** de kelder of het midden van het gebouw, zo ver mogelijk van buitenmuren en dak (CDC).
-4. **Noodoplossing:** elk gebouw is veiliger dan buiten blijven (CDC).
+1. **Beste keuze:** een gebouw met meerdere verdiepingen of een kelder die je binnen enkele minuten veilig bereikt. Ga daar meteen heen. De veiligste gebouwen hebben muren van baksteen of beton. In landen met schuilkelders: de dichtstbijzijnde schuilkelder.
+2. **Goede keuze:** een ondergrondse parking, garage of metrostation. Dikke muren en aarde verhogen de bescherming.
+3. **In het gebouw:** de kelder of het midden van het gebouw, zo ver mogelijk van buitenmuren en dak.
+4. **Noodoplossing:** elk gebouw is veiliger dan buiten blijven.
 
 ### Per plek
 
@@ -132,70 +132,70 @@ Ready.gov zegt dat je na een ontploffing 10 minuten of meer hebt om een geschikt
 | --- | --- |
 | Thuis, met kelder | Naar de kelder, het deel het verst van buitenmuren |
 | Thuis, zonder kelder | Centrale ruimte, weg van buitenmuren, dak en ramen |
-| Appartement | Kelder of ondergrondse parking van het gebouw; anders het midden van het gebouw, zo ver mogelijk van buitenmuren en dak (CDC) |
-| Werk of school | Blijf waar je bent; scholen en kinderopvang hebben noodplannen (CDC) |
+| Appartement | Kelder of ondergrondse parking van het gebouw; anders het midden van het gebouw, zo ver mogelijk van buitenmuren en dak |
+| Werk of school | Blijf waar je bent; scholen en kinderopvang hebben noodplannen |
 | Te voet | Meteen het dichtstbijzijnde stevige gebouw in |
-| In de auto | Ga meteen een gebouw binnen (CDC) |
-| Open terrein | Liggen tot de drukgolf voorbij is, daarna het dichtstbijzijnde gebouw zoeken (Ready.gov) |
+| In de auto | Ga meteen een gebouw binnen |
+| Open terrein | Liggen tot de drukgolf voorbij is, daarna het dichtstbijzijnde gebouw zoeken |
 
 Bron: [Ready.gov: Radiation emergencies](https://www.ready.gov/radiation) · [CDC: What to do, get inside](https://cdc.gov/radiation-emergencies/response/get-inside.html) · [BBK: Schutz suchen](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Vorsorge/Schutz-suchen/schutz-suchen_node.html) · [MCF: In case of crisis or war](https://rib.msb.se/filer/pdf/31523.pdf) · [Suomi.fi: Military conflicts and civil defence](https://www.suomi.fi/guides/preparedness/how-to-prepare-for-incidents-and-crises/military-conflicts-and-civil-defence)
 
 ## De eerste uren: binnen blijven
 
-- **Blijf binnen.** Schuil tenzij je iets anders te horen krijgt (Ready.gov).
-- **Zet ventilatie uit:** ventilatoren, airco en heteluchtverwarming die buitenlucht aanzuigen. Sluit ramen en deuren. Sluit de schoorsteenklep (Ready.gov, CDC).
-- **Huisdieren en assistentiedieren binnen** (Ready.gov, CDC).
+- **Blijf binnen.** Schuil tenzij je iets anders te horen krijgt.
+- **Zet ventilatie uit:** ventilatoren, airco en heteluchtverwarming die buitenlucht aanzuigen. Sluit ramen en deuren. Sluit de schoorsteenklep.
+- **Huisdieren en assistentiedieren binnen.**
 - **Was je af** als je buiten was toen de neerslag viel (zie verder).
-- **Eet en drink veilig:** flessenwater en voedsel in gesloten verpakkingen (CDC).
-- **Blijf op de hoogte** via radio en tv; werkt het netwerk, ook via je telefoon en andere kanalen. De hulpdiensten zeggen waar je je kunt laten onderzoeken op besmetting (CDC). Valt de stroom uit, dan helpt een radio op batterijen of een opwindbare radio (Crisiscentrum).
-- **Ga je familie niet ophalen.** Blijf waar je bent (CDC).
+- **Eet en drink veilig:** flessenwater en voedsel in gesloten verpakkingen.
+- **Blijf op de hoogte** via radio en tv; werkt het netwerk, ook via je telefoon en andere kanalen. De hulpdiensten zeggen waar je je kunt laten onderzoeken op besmetting. Valt de stroom uit, dan helpt een radio op batterijen of een opwindbare radio.
+- **Ga je familie niet ophalen.** Blijf waar je bent.
 
 Bron: [Ready.gov: Radiation emergencies](https://www.ready.gov/radiation) · [CDC: What to do, get inside](https://cdc.gov/radiation-emergencies/response/get-inside.html) · [Nationaal Crisiscentrum: brochure Samen voorbereid](https://crisiscentrum.be/sites/default/files/documents/files/WEB-Brochure%20Samen%20voorbereid-NL.pdf)
 
 ## De eerste 24 uur en de eerste dagen
 
-- **Ready.gov:** blijf de eerste 24 uur op de best beschermde plek (kelder of midden van een groot gebouw), tenzij er een onmiddellijk gevaar is (brand, gaslek, instorting, ernstige verwonding) of de overheid zegt dat je mag vertrekken. De stralingsniveaus dalen snel en worden in de eerste 24 uur aanzienlijk minder gevaarlijk. Schuilen duurt meestal minstens 24 uur.
-- **CDC:** minstens 24 uur binnen blijven kan je en je gezin beschermen tot het veilig is om het gebied te verlaten.
-- **Zweden:** de stralingsniveaus dalen sterk na een paar dagen. Bereid je voor op enkele dagen in een schuilkelder.
-- **Zwitserland:** de bevolking moet schuilruimtes bij een acute dreiging uren tot dagen kunnen gebruiken.
+- Blijf de eerste 24 uur op de best beschermde plek (kelder of midden van een groot gebouw), tenzij er een onmiddellijk gevaar is (brand, gaslek, instorting, ernstige verwonding) of de overheid zegt dat je mag vertrekken.
+- Minstens 24 uur binnen blijven beschermt je en je gezin tot het veilig is om het gebied te verlaten. Schuilen duurt meestal minstens 24 uur.
+- De stralingsniveaus dalen snel en worden in de eerste 24 uur aanzienlijk minder gevaarlijk. Na een paar dagen zijn ze sterk gedaald.
+- Bereid je voor op een verblijf van uren tot enkele dagen in een schuilplaats.
 
 ### Wanneer je eerder vertrekt
 
-Alleen bij een onmiddellijk gevaar op je schuilplek: brand, gaslek, instorting van het gebouw of een ernstige verwonding (Ready.gov). Oekraïne zegt ook: verlaat een schuilplaats alleen eerder als ze zelf beschadigd is.
+Alleen bij een onmiddellijk gevaar op je schuilplek: brand, gaslek, instorting of beschadiging van de schuilplaats, of een ernstige verwonding.
 
 ### Wanneer je vertrekt
 
-Als de overheid het zegt. Moet je evacueren, luister dan naar de informatie over routes, opvangplaatsen en procedures. Ga pas terug als de lokale overheid zegt dat het veilig is (Ready.gov).
+Als de overheid het zegt. Moet je evacueren, luister dan naar de informatie over routes, opvangplaatsen en procedures. Ga pas terug als de lokale overheid zegt dat het veilig is.
 
 Bron: [Ready.gov: Radiation emergencies](https://www.ready.gov/radiation) · [CDC: What to do, get inside](https://cdc.gov/radiation-emergencies/response/get-inside.html) · [MCF: In case of crisis or war](https://rib.msb.se/filer/pdf/31523.pdf) · [BABS: Der Schutzraum](https://www.sz.ch/public/upload/assets/87489/Der_Schutzraum.pdf?fp=2) · [Dovidka.info: What is a shelter](https://dovidka.info/en/what-is-shelter/)
 
 ## Na de eerste dagen
 
-De bronnen over oorlog en kernwapens noemen deze stappen voor de periode na het schuilen:
+Na het schuilen:
 
-- **Help anderen.** Zweden: als het signaal "einde gevaar" klinkt, mag je de schuilkelder verlaten. Help gewonden en mensen die vastzitten.
-- **Raak geen munitie aan.** Finland: militaire operaties kunnen niet-ontplofte munitie of hulzen in het terrein achterlaten. Raak verdachte voorwerpen niet aan en verplaats ze niet.
-- **Evacuatie in oorlogstijd.** Finland: de overheid zegt welke gebieden en groepen evacueren. Neem alleen het nodige mee en neem je huisdier mee. Je kunt naar een plek die je zelf regelt, zoals een vakantiehuisje of het huis van een naaste; wie dat niet kan, gaat naar de opvang- en registratiecentra die de overheid aanwijst.
-- **Beschadigd gebouw.** Duitsland: verlaat een beschadigd gebouw via de trap, hou afstand van puin en let op gas en elektriciteit.
-- **Desinformatie.** Zweden waarschuwt dat buitenlandse machten desinformatie en propaganda verspreiden, vooral via online platformen en sociale media. Deel alleen berichten van overheden of hulpdiensten (Crisiscentrum).
+- **Help anderen.** Als het signaal "einde gevaar" klinkt, mag je de schuilkelder verlaten. Help gewonden en mensen die vastzitten.
+- **Raak geen munitie aan.** Militaire operaties kunnen niet-ontplofte munitie of hulzen in het terrein achterlaten. Raak verdachte voorwerpen niet aan en verplaats ze niet.
+- **Evacuatie in oorlogstijd.** De overheid zegt welke gebieden en groepen evacueren. Neem alleen het nodige mee en neem je huisdier mee. Je kunt naar een plek die je zelf regelt, zoals een vakantiehuisje of het huis van een naaste; wie dat niet kan, gaat naar de opvang- en registratiecentra die de overheid aanwijst.
+- **Beschadigd gebouw.** Verlaat een beschadigd gebouw via de trap, hou afstand van puin en let op gas en elektriciteit.
+- **Desinformatie.** Buitenlandse machten verspreiden desinformatie en propaganda, vooral via online platformen en sociale media. Deel alleen berichten van overheden of hulpdiensten.
 - **Voedsel en terugkeer:** zie de gids "Na de wolk".
 
 ### Wat een schuilkelder biedt, en wat niet
 
-Zwitserland zegt dat zijn schuilruimtes met betonnen omhulsel en ventilatie in de meeste dreigingssituaties een grote overlevingskans geven. Tegen inslagen dichtbij en splinters is de bescherming zeer hoog. Tegen een rechtstreekse treffer van conventionele wapens beschermen ze nauwelijks. Een filter en overdruk houden besmette buitenlucht buiten bij biologische en chemische wapens. Zweden zegt dat schuilkelders beter beschermen dan andere ruimtes tegen radioactieve neerslag, gas van chemische wapens en biologische wapens. België heeft geen netwerk van openbare schuilkelders; zie de gids "Openbare schuilplekken".
+Schuilkelders met een betonnen omhulsel en ventilatie geven in de meeste dreigingssituaties een grote overlevingskans. Tegen inslagen dichtbij en splinters is de bescherming zeer hoog. Tegen een rechtstreekse treffer van conventionele wapens beschermen ze nauwelijks. Een filter en overdruk houden besmette buitenlucht buiten bij biologische en chemische wapens. Schuilkelders beschermen beter dan andere ruimtes tegen radioactieve neerslag, gas van chemische wapens en biologische wapens. België heeft geen netwerk van openbare schuilkelders; zie de gids "Openbare schuilplekken".
 
 Bron: [MCF: In case of crisis or war](https://rib.msb.se/filer/pdf/31523.pdf) · [Suomi.fi: Military conflicts and civil defence](https://www.suomi.fi/guides/preparedness/how-to-prepare-for-incidents-and-crises/military-conflicts-and-civil-defence) · [BBK: Explosionen, hier finden Sie Schutz](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Vorsorge/Schutz-suchen/Schutz-vor-Explosion/schutz-vor-explosion_node.html) · [BABS: Der Schutzraum](https://www.sz.ch/public/upload/assets/87489/Der_Schutzraum.pdf?fp=2) · [MCF: Good to know about civil defence shelters](https://www.mcf.se/en/advice-for-individuals/civil-defence-shelters-evacuation-and-warning-systems/good-to-know-about-civil-defence-shelters/) · [Nationaal Crisiscentrum: brochure Samen voorbereid](https://crisiscentrum.be/sites/default/files/documents/files/WEB-Brochure%20Samen%20voorbereid-NL.pdf)
 
 ## Ontsmetting na neerslag
 
-Het Belgische advies na een radioactieve wolk:
+Na een radioactieve wolk:
 
 1. Trek je kleren uit en stop ze in een plastic zak. Zet de zak buiten.
 2. Neem een douche en was je met zeep.
 3. Doe propere kleding aan.
 4. Drink voldoende.
 
-Aanvullend volgens de Amerikaanse richtlijnen:
+Verder:
 
 - Het uittrekken van je bovenste laag kleding kan tot 90 procent van het radioactieve materiaal verwijderen. Doe het voorzichtig.
 - Gebruik zeep en shampoo, geen conditioner.
@@ -210,7 +210,7 @@ Bron: [Nucleair risico: Jezelf ontsmetten](https://nucleairrisico.be/nl/wat-kan-
 
 ## Eten, drinken en medicatie tijdens het schuilen
 
-Ready.gov geeft voor de periode na een nucleaire ontploffing:
+Na een nucleaire ontploffing:
 
 - **Voedsel:** wat al binnen was, en voedsel in verpakkingen van buiten die je hebt afgeveegd, is veilig. Eet geen vers voedsel uit de tuin.
 - **Water:** drink genoeg. Flessenwater en gesloten dranken zijn het best. Water uit het reservoir van het toilet (niet de pot) en uit de boiler is ook veilig. Is er niets anders, gebruik dan kraanwater om gehydrateerd te blijven.
@@ -221,15 +221,15 @@ Bron: [Ready.gov: Nuclear detonation safety, food, drinking water and medicine](
 
 ## Een vuile bom
 
-Een vuile bom is een mengsel van explosieven, zoals dynamiet, met radioactief poeder of korrels. Een andere naam is radiologisch verspreidingsapparaat. Volgens de CDC komt het grootste gevaar van een vuile bom van de explosie, niet van de straling.
+Een vuile bom is een mengsel van explosieven, zoals dynamiet, met radioactief poeder of korrels. Een andere naam is radiologisch verspreidingsapparaat. Het grootste gevaar van een vuile bom komt van de explosie, niet van de straling.
 
 ### Wat je doet
 
-1. **Bij de ontploffing:** volg de Belgische richtlijn voor een explosie. Verlaat de plaats zo snel mogelijk als dat veilig kan. Kun je niet weg, hou je stil en wacht op de hulpdiensten. Bedek neus en mond tegen stof en giftige gassen. Vallen er dingen, schuil onder een stevig meubel. Blijf laag bij rook.
-2. **Daarna:** ga naar binnen, blijf binnen en blijf op de hoogte (CDC). Sluit ramen en deuren en zet de ventilatie af (Crisiscentrum, schuilen).
+1. **Bij de ontploffing:** verlaat de plaats zo snel mogelijk als dat veilig kan. Kun je niet weg, hou je stil en wacht op de hulpdiensten. Bedek neus en mond tegen stof en giftige gassen. Vallen er dingen, schuil onder een stevig meubel. Blijf laag bij rook.
+2. **Daarna:** ga naar binnen, blijf binnen en blijf op de hoogte. Sluit ramen en deuren en zet de ventilatie af.
 3. **Was je af** als je in de buurt was: kleren uit, in een zak, douchen.
-4. **Blijf in de buurt, buiten de gevarenzone,** als je opgevangen moet worden door de hulpdiensten (Crisiscentrum, aanslag). De overheid kan een opvangcentrum inrichten voor ontsmetting en medische controle.
-5. **Raak geen verdachte voorwerpen aan.** Na een aanslag kunnen er nog andere explosieven liggen (BBK).
+4. **Blijf in de buurt, buiten de gevarenzone,** als je opgevangen moet worden door de hulpdiensten. De overheid kan een opvangcentrum inrichten voor ontsmetting en medische controle.
+5. **Raak geen verdachte voorwerpen aan.** Na een aanslag kunnen er nog andere explosieven liggen.
 
 Bron: [CDC: Radiological dispersal device](https://www.cdc.gov/radiation-emergencies/infographic/radiological-dispersal-device.html) · [CDC: What to do for different types of radiation emergencies](https://www.cdc.gov/radiation-emergencies/about/what-to-do.html) · [Nationaal Crisiscentrum: Ontploffen van explosieve stoffen](https://crisiscentrum.be/nl/risicos-belgie/economische-en-technologische-risicos/ontploffen-van-explosieve-stoffen) · [Nationaal Crisiscentrum: Aanval op een soft target](https://crisiscentrum.be/nl/risicos-belgie/man-made-risicos/aanval-op-een-soft-target) · [Nationaal Crisiscentrum: Schuilen](https://crisiscentrum.be/nl/wat-kan-jij-doen/reageer-correct/schuilen) · [Nucleair risico: Jezelf ontsmetten](https://nucleairrisico.be/nl/wat-kan-jij-doen/jezelf-ontsmetten) · [BBK: Explosionen, hier finden Sie Schutz](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Vorsorge/Schutz-suchen/Schutz-vor-Explosion/schutz-vor-explosion_node.html)
 
@@ -237,17 +237,17 @@ Bron: [CDC: Radiological dispersal device](https://www.cdc.gov/radiation-emergen
 
 ### Een verborgen stralingsbron
 
-De CDC noemt dit een radiologisch blootstellingsapparaat: een bron die ergens verborgen is om mensen te bestralen.
+Dit heet een radiologisch blootstellingsapparaat: een bron die ergens verborgen is om mensen te bestralen.
 
-- Meld een vermoeden onmiddellijk aan de politie. In België: 101, of 112 bij een acute situatie (Crisiscentrum).
-- Blijf zo ver mogelijk weg van de vermoedelijke bron (CDC).
-- Denk je dat je blootgesteld bent, volg dan de instructies van de bevoegde diensten en contacteer je arts (CDC).
+- Meld een vermoeden onmiddellijk aan de politie. In België: 101, of 112 bij een acute situatie.
+- Blijf zo ver mogelijk weg van de vermoedelijke bron.
+- Denk je dat je blootgesteld bent, volg dan de instructies van de bevoegde diensten en contacteer je arts.
 
 ### Een ongeval met een transport van radioactieve stoffen
 
 Op Belgisch grondgebied worden jaarlijks ongeveer 400.000 pakjes met radioactieve stoffen vervoerd, ongeveer 40.000 transporten. Meestal gaat het om laagradioactief materiaal, soms om hoogradioactief materiaal. België is ook een transitland.
 
-- Meld het ongeval onmiddellijk aan de hulpdiensten (CDC). In België: 112.
+- Meld het ongeval onmiddellijk aan de hulpdiensten. In België: 112.
 - Blijf zo ver mogelijk weg van de plek van het ongeval.
 - Raak geen lading uit de container aan.
 - Volg de instructies; de overheid kan vragen om te schuilen.
@@ -258,29 +258,29 @@ Bron: [CDC: What to do for different types of radiation emergencies](https://www
 
 ## Kinderen, kwetsbare personen en dieren
 
-- **Kinderen:** laat ze op school. Scholen, kinderopvang, ziekenhuizen en rusthuizen hebben noodplannen. Ga je familie niet ophalen (CDC, Crisiscentrum). Kinderen zijn gevoeliger voor straling: laat hen na de noodsituatie medisch nakijken zodra de overheid zegt dat het veilig is (WHO).
-- **Mensen die hulp nodig hebben:** regel vooraf het vervoer naar een schuilplaats of beschermde plek. Assistentiehonden mogen in Zweedse schuilkelders (MCF). In Finland gaan geleidehonden en andere assistentiehonden mee in de schuilkelder.
-- **Huisdieren:** binnen houden (Ready.gov, CDC). In Finland is de woning de veiligste plek voor een huisdier.
+- **Kinderen:** laat ze op school. Scholen, kinderopvang, ziekenhuizen en rusthuizen hebben noodplannen. Ga je familie niet ophalen. Kinderen zijn gevoeliger voor straling: laat hen na de noodsituatie medisch nakijken zodra de overheid zegt dat het veilig is.
+- **Mensen die hulp nodig hebben:** regel vooraf het vervoer naar een schuilplaats of beschermde plek. In landen met schuilkelders mogen geleidehonden en andere assistentiehonden mee in de schuilkelder.
+- **Huisdieren:** binnen houden. De woning is de veiligste plek voor een huisdier.
 
 Bron: [CDC: What to do, get inside](https://cdc.gov/radiation-emergencies/response/get-inside.html) · [Nationaal Crisiscentrum: Schuilen](https://crisiscentrum.be/nl/wat-kan-jij-doen/reageer-correct/schuilen) · [WHO: Radiation and health](https://www.who.int/news-room/questions-and-answers/item/radiation-and-health) · [MCF: In case of crisis or war](https://rib.msb.se/filer/pdf/31523.pdf) · [Suomi.fi: Military conflicts and civil defence](https://www.suomi.fi/guides/preparedness/how-to-prepare-for-incidents-and-crises/military-conflicts-and-civil-defence) · [Ready.gov: Radiation emergencies](https://www.ready.gov/radiation)
 
 ## Voorbereiden
 
-- **Weet hoe je gewaarschuwd wordt.** Hou een radio op batterijen of een opwindbare radio klaar, liefst met DAB+ en FM. Schrijf je in op BE-Alert (Crisiscentrum). Ready.gov raadt aan meerdere manieren te hebben om waarschuwingen te krijgen.
+- **Weet hoe je gewaarschuwd wordt.** Hou een radio op batterijen of een opwindbare radio klaar, liefst met DAB+ en FM. Schrijf je in op BE-Alert. Zorg voor meerdere manieren om waarschuwingen te krijgen.
 - **Ken je beste plek thuis en op het werk:** kelder of het midden van het gebouw, en een ondergrondse ruimte in de buurt.
-- **Leg klaar:** water, gesloten voedsel, medicatie, een set reservekleding per gezinslid en een vuilniszak voor besmette kleding (Ready.gov).
-- **Maak een communicatieplan:** waar je elkaar treft als je niet thuis kunt afspreken, een contactpersoon ver weg, en ken de schuil- en evacuatieplannen van school, werk en zorginstelling (Ready.gov).
-- **Finland:** leer de stappen van binnen schuilen en hoe je de ventilatie uitzet, hou tape klaar en bewaar jodiumtabletten zoals de overheid aanraadt.
+- **Leg klaar:** water, gesloten voedsel, medicatie, een set reservekleding per gezinslid en een vuilniszak voor besmette kleding.
+- **Maak een communicatieplan:** waar je elkaar treft als je niet thuis kunt afspreken, een contactpersoon ver weg, en ken de schuil- en evacuatieplannen van school, werk en zorginstelling.
+- **Oefen:** leer de stappen van binnen schuilen en hoe je de ventilatie uitzet. Hou tape klaar en bewaar jodiumtabletten zoals de overheid aanraadt.
 
 Bron: [Nationaal Crisiscentrum: Schuilen](https://crisiscentrum.be/nl/wat-kan-jij-doen/reageer-correct/schuilen) · [Nationaal Crisiscentrum: brochure Samen voorbereid](https://crisiscentrum.be/sites/default/files/documents/files/WEB-Brochure%20Samen%20voorbereid-NL.pdf) · [Ready.gov: Radiation emergencies](https://www.ready.gov/radiation) · [Suomi.fi: Radiation hazards](https://www.suomi.fi/guides/preparedness/how-to-prepare-for-incidents-and-crises/radiation-hazards)
 
 ## Niet doen
 
-- Niet in de auto blijven als je een gebouw kunt bereiken (CDC).
-- Niet je kinderen of familie gaan halen (CDC, Crisiscentrum).
-- Niet op eigen initiatief evacueren of jodium nemen (Crisiscentrum).
-- Niet de schuilplek verlaten in de eerste 24 uur zonder onmiddellijk gevaar of bevel van de overheid (Ready.gov).
-- Geen vers voedsel uit de tuin eten (Ready.gov).
-- Geen conditioner gebruiken bij het wassen na besmetting (CDC).
+- Niet in de auto blijven als je een gebouw kunt bereiken.
+- Niet je kinderen of familie gaan halen.
+- Niet op eigen initiatief evacueren of jodium nemen.
+- Niet de schuilplek verlaten in de eerste 24 uur zonder onmiddellijk gevaar of bevel van de overheid.
+- Geen vers voedsel uit de tuin eten.
+- Geen conditioner gebruiken bij het wassen na besmetting.
 
 Bron: [CDC: What to do, get inside](https://cdc.gov/radiation-emergencies/response/get-inside.html) · [Nationaal Crisiscentrum: Vrijkomen van nucleaire stoffen](https://crisiscentrum.be/nl/risicos-belgie/economische-en-technologische-risicos/vrijkomen-van-nucleaire-stoffen) · [Ready.gov: Radiation emergencies](https://www.ready.gov/radiation) · [CDC: Decontamination for yourself and others](https://www.cdc.gov/radiation-emergencies/infographic/decontamination.html)

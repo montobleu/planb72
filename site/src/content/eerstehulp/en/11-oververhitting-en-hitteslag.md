@@ -23,7 +23,7 @@ origineel_datum: "2026-11-18"
 
 ## Recognise
 
-Overheating occurs after long exposure to high temperatures or after heavy exertion in the heat. The IFRC distinguishes two levels. Heatstroke is life-threatening.
+Overheating occurs after long exposure to high temperatures or after heavy exertion in the heat. There are two levels. Heatstroke is life-threatening.
 
 Mild to moderate overheating (heat exhaustion):
 
@@ -39,7 +39,7 @@ Heatstroke:
 - the casualty is in a hot environment, has just come from one or has just made a heavy effort;
 - first heavy sweating, then no more sweating;
 - red, dry, hot skin;
-- a high body temperature: the Belgian guideline gives 39 °C as the threshold for calling 112, the IFRC refers to more than 40 °C in heatstroke;
+- a high body temperature: call 112 from 39 °C;
 - headache, seeing black spots, dizziness, fainting;
 - nausea and vomiting, muscle or abdominal cramps, pain all over the body;
 - confusion, drowsiness or strange behaviour;
@@ -59,7 +59,7 @@ Source: [Gezondheid en Wetenschap: Heatstroke](https://www.gezondheidenwetenscha
 2. Take them to a cool place. Remove excess clothing.
 3. Call 112 or have someone call if there are signs of heatstroke. If you cannot get through, see Call 112 if.
 4. Cool them down immediately. The more serious the symptoms, the more vigorously you may cool. Choose the best method you have:
-   - Best choice: immerse the casualty up to the neck in a bath of lukewarm to cold water. The IFRC gives water of 1 to 26 °C, for about 15 minutes or until the temperature drops below 39 °C. The Belgian guideline says: until the condition improves, for no more than 15 minutes.
+   - Best choice: immerse the casualty up to the neck in a bath of lukewarm to cold water, until the condition improves and for no more than 15 minutes.
    - If immersion is not possible, for example because there is no cold water or because the casualty is confused and refuses: put a cool, wet sheet over the casualty or wet them with cold water.
    - Put ice cubes in a bag of water, cold packs or wet, cold cloths on places with large blood vessels: in the groin, under the armpits and on the neck.
    - Sprinkle or douse the casualty with cold water. A plant spray bottle can help.
@@ -94,11 +94,11 @@ Source: [Gezondheid en Wetenschap: Heatstroke](https://www.gezondheidenwetenscha
 
 ## If help is a long time coming
 
-- Keep cooling with every means you have: water, wet cloths, shade, fanning. The ERC says: start active cooling with everything available, such as removing clothing, wet cloths, fans and cool water.
+- Keep cooling actively with everything you have: removing clothing, cool water, wet cloths, shade, fanning or a fan.
 - Make sure cooling materials are ready in places where the risk of overheating is high, so that there is no delay.
 - Monitor the temperature and the level of consciousness. Try to bring the temperature below 39 °C and keep it there.
 - After cooling, keep the person cool and let them rest. Most people with mild to moderate overheating recover fully.
-- Dehydration: let someone who is fully conscious drink enough. With mild dehydration, water is sufficient. With more serious dehydration, the IFRC recommends an oral rehydration solution. If you do not have one, give apple juice, coconut water or water.
+- Dehydration: let someone who is fully conscious drink enough. With mild dehydration, water is sufficient. With more serious dehydration, give an oral rehydration solution. If you do not have one, give apple juice, coconut water or water.
 - Seek medical advice for dehydration if the condition does not improve quickly, with a baby, child or older person, if someone is losing more fluid than they can drink, if someone passes little or no urine and the urine is dark, or with fever or signs of overheating.
 - When travelling in remote areas with little water, take enough to drink. Avoid heavy exertion at the hottest time of the day.
 

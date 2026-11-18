@@ -161,9 +161,8 @@ const nl = {
     nietLukt: [
       'Probeer een ander toestel, vast of mobiel, of laat buren of omstanders bellen. Een andere operator kan helpen. Verplaats je enkele meters en probeer opnieuw.',
       'Kun je bellen maar is 112 onbereikbaar, probeer dan 101. Bij een storing van de noodcentrales kunnen in België tijdelijke gsm-nummers per provincie actief zijn (zie de gids Noodoproep).',
-      'Werkt bellen helemaal niet: vraag hulp in je buurt en volg de informatie van de overheid op de radio. De gemeente kan een informatie- en onthaalpunt openen; vraag vooraf waar.',
+      'Werkt bellen helemaal niet: vraag hulp in je buurt of ga, als het kan, naar het dichtstbijzijnde politiebureau, de brandweerkazerne of het ziekenhuis. Bij een grote uitval kan de gemeente een informatie- en onthaalpunt openen. Volg de informatie van de overheid op de radio.',
       'Blijf bij een slachtoffer als dat kan. Stuur iemand om hulp te halen en geef mee waar het is, wat er gebeurd is en hoeveel mensen betrokken zijn.',
-      'In Duitsland raadt de overheid aan om dan, als het kan, naar het dichtstbijzijnde politiebureau of ziekenhuis te gaan. In Nederland stuurde de overheid burgers bij de landelijke 112-storing van 2019 naar de dichtstbijzijnde brandweerkazerne of het politiebureau, en bij medische nood naar het ziekenhuis.',
     ],
     nietLuktKaart: (href: string) => `De <a href="${href}">kaart</a> toont brandweer, politie, ziekenhuizen en gemeentehuizen, ook zonder internet als het pakket op je toestel staat. Met Dichtstbij zie je wat het dichtst bij je is.`,
     nietLuktVooraf: 'Druk deze pagina vooraf af en bewaar ze bij je noodplan.',
@@ -575,9 +574,8 @@ const fr: Teksten = {
     nietLukt: [
       'Essayez un autre appareil, fixe ou mobile, ou demandez à des voisins ou à des passants d’appeler. Un autre opérateur peut aider. Déplacez-vous de quelques mètres et réessayez.',
       'Si vous pouvez téléphoner mais que le 112 est injoignable, essayez le 101. En cas de panne des centrales d’urgence, des numéros GSM temporaires par province peuvent être activés en Belgique (voir le guide Appel d’urgence).',
-      'Si plus aucun appel ne passe : demandez de l’aide dans votre voisinage et suivez les informations des autorités à la radio. La commune peut ouvrir un point d’information et d’accueil ; demandez à l’avance où il se trouve.',
+      'Si plus aucun appel ne passe : demandez de l’aide dans votre voisinage ou rendez-vous, si possible, au bureau de police, à la caserne de pompiers ou à l’hôpital le plus proche. Lors d’une grande panne, la commune peut ouvrir un point d’information et d’accueil. Suivez les informations des autorités à la radio.',
       'Restez auprès d’une victime si possible. Envoyez quelqu’un chercher de l’aide et indiquez-lui où c’est, ce qui s’est passé et combien de personnes sont concernées.',
-      'En Allemagne, les autorités conseillent alors de se rendre, si possible, au poste de police ou à l’hôpital le plus proche. Aux Pays-Bas, lors de la panne nationale du 112 en 2019, les autorités ont envoyé les citoyens à la caserne de pompiers ou au bureau de police le plus proche, et à l’hôpital en cas d’urgence médicale.',
     ],
     nietLuktKaart: (href: string) => `La <a href="${href}">carte</a> montre les pompiers, la police, les hôpitaux et les maisons communales, même sans internet si le paquet est sur votre appareil. Le bouton Le plus proche indique ce qui est le plus près de vous.`,
     nietLuktVooraf: 'Imprimez cette page à l’avance et gardez-la avec votre plan d’urgence.',
@@ -990,9 +988,8 @@ const de: Teksten = {
     nietLukt: [
       'Versuchen Sie es mit einem anderen Gerät, Festnetz oder Mobiltelefon, oder bitten Sie Nachbarn oder Umstehende anzurufen. Ein anderer Anbieter kann helfen. Gehen Sie einige Meter weiter und versuchen Sie es erneut.',
       'Können Sie telefonieren, ist die 112 aber nicht erreichbar, versuchen Sie die 101. Bei einer Störung der Notrufzentralen können in Belgien vorübergehende Mobilnummern je Provinz aktiv sein (siehe den Leitfaden Notruf).',
-      'Funktioniert gar kein Anruf: Bitten Sie in Ihrer Nachbarschaft um Hilfe und folgen Sie den Informationen der Behörden im Radio. Die Gemeinde kann eine Informations- und Anlaufstelle einrichten; fragen Sie im Voraus, wo.',
+      'Funktioniert gar kein Anruf: Bitten Sie in Ihrer Nachbarschaft um Hilfe oder gehen Sie, wenn möglich, zur nächsten Polizeiwache, Feuerwache oder ins nächste Krankenhaus. Bei einem großen Ausfall kann die Gemeinde eine Informations- und Anlaufstelle einrichten. Folgen Sie den Informationen der Behörden im Radio.',
       'Bleiben Sie wenn möglich bei einer verletzten Person. Schicken Sie jemanden, um Hilfe zu holen, und geben Sie mit, wo es ist, was passiert ist und wie viele Menschen betroffen sind.',
-      'In Deutschland raten die Behörden, dann wenn möglich zur nächsten Polizeiwache oder ins Krankenhaus zu gehen. In den Niederlanden schickten die Behörden die Menschen beim landesweiten Ausfall der 112 im Jahr 2019 zur nächsten Feuerwache oder Polizeiwache, bei medizinischen Notfällen ins Krankenhaus.',
     ],
     nietLuktKaart: (href: string) => `Die <a href="${href}">Karte</a> zeigt Feuerwehr, Polizei, Krankenhäuser und Gemeindehäuser, auch ohne Internet, wenn das Paket auf Ihrem Gerät ist. Mit Am nächsten sehen Sie, was Ihnen am nächsten liegt.`,
     nietLuktVooraf: 'Drucken Sie diese Seite im Voraus aus und bewahren Sie sie bei Ihrem Notfallplan auf.',
@@ -1402,9 +1399,8 @@ const en: Teksten = {
     nietLukt: [
       'Try another phone, landline or mobile, or ask neighbours or bystanders to call. Another operator may help. Move a few metres and try again.',
       'If you can make calls but 112 cannot be reached, try 101. If the emergency call centres fail, temporary mobile numbers per province may be active in Belgium (see the Emergency call guide).',
-      'If no calls get through at all: ask for help nearby and follow the information from the authorities on the radio. The municipality may open an information and reception point; ask in advance where it is.',
+      'If no calls get through at all: ask for help nearby or go, if possible, to the nearest police station, fire station or hospital. In a major outage, the municipality may open an information and reception point. Follow the information from the authorities on the radio.',
       'Stay with a casualty if you can. Send someone for help and tell them where it is, what happened and how many people are involved.',
-      'In Germany, the authorities advise going, if possible, to the nearest police station or hospital. In the Netherlands, during the national 112 outage of 2019, the authorities sent people to the nearest fire station or police station, and to hospital for medical emergencies.',
     ],
     nietLuktKaart: (href: string) => `The <a href="${href}">map</a> shows fire stations, police, hospitals and town halls, even without internet if the package is on your device. Nearest shows what is closest to you.`,
     nietLuktVooraf: 'Print this page in advance and keep it with your emergency plan.',

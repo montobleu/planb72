@@ -161,7 +161,7 @@ Source : [Centre de crise National : inondation fluviale](https://centredecrise.
 
 - Meilleur choix si les autorités le demandent : évacuez à temps.
 - Si vous ne pouvez pas ou ne devez pas partir : montez à l'étage le plus élevé.
-- Ne montez sur le toit que si c'est vraiment nécessaire, et faites de là un signe pour demander de l'aide. C'est ce que conseille le site américain Ready.gov.
+- Ne montez sur le toit que si c'est vraiment nécessaire, et faites de là un signe pour demander de l'aide.
 - Ne vous réfugiez pas dans un grenier fermé dont vous ne pourriez plus sortir.
 
 **Évacuer**
@@ -179,7 +179,7 @@ Source : [Centre de crise National : inondation fluviale](https://centredecrise.
 ### À l'extérieur ou en déplacement
 
 - Limitez vos déplacements et évitez les zones dangereuses.
-- Ne marchez, ne nagez et ne roulez pas dans l'eau. Selon Ready.gov, 15 centimètres (6 pouces) d'eau courante peuvent vous renverser.
+- Ne marchez, ne nagez et ne roulez pas dans l'eau. 15 centimètres d'eau courante peuvent déjà vous renverser.
 - Restez à l'écart des ponts au-dessus d'eaux à courant rapide.
 - Si vous devez quand même traverser une rue inondée à pied, utilisez un bâton pour tâter le sol. Des plaques d'égout et des morceaux de chaussée peuvent avoir été emportés.
 - L'eau de crue peut être polluée et cacher des débris. Des câbles électriques tombés peuvent mettre l'eau sous tension.
@@ -189,7 +189,7 @@ Source : [Centre de crise National : inondation fluviale](https://centredecrise.
 ### En voiture
 
 - Placez votre voiture à l'avance dans un endroit sûr, et pas dans votre garage.
-- Ne roulez jamais sur une route inondée et ne contournez jamais un barrage. Selon Ready.gov, 30 centimètres (1 pied) d'eau peuvent emporter un véhicule.
+- Ne roulez jamais sur une route inondée et ne contournez jamais un barrage. 30 centimètres d'eau peuvent emporter un véhicule.
 - Si vous êtes bloqué dans la voiture, restez-y. Si l'eau monte dans la voiture, grimpez sur le toit.
 
 Source : [Centre de crise National : inondation pluviale](https://centredecrise.be/fr/risques-en-belgique/risques-naturels/inondation-pluviale-eaux-de-ruissellement) · [Ready.gov: floods](https://www.ready.gov/floods)
@@ -268,7 +268,7 @@ Source : [Denk vooruit : inondation](https://www.denkvooruit.nl/risicos/risicos-
 **Dégâts et assurance**
 
 - Prenez des photos des dégâts pour votre dossier d'assurance.
-- Contactez votre assureur le plus vite possible. Selon la VMM, les dégâts dus aux inondations sont couverts par l'assurance incendie, même si l'inondation n'est pas reconnue comme calamité.
+- Contactez votre assureur le plus vite possible. Les dégâts dus aux inondations sont couverts par l'assurance incendie, même si l'inondation n'est pas reconnue comme calamité.
 - En Flandre, le Vlaams Rampenfonds peut, dans des cas exceptionnels, indemniser une partie des dégâts, uniquement après une calamité reconnue par le gouvernement flamand. Déclarez d'abord les dégâts à votre assureur. Au Rampenfonds, vous déclarez les dégâts dans les 60 jours suivant la date du sinistre.
 
 Source : [Ready.gov: floods](https://www.ready.gov/floods) · [Vivalis](https://www.vivalis.brussels/sites/default/files/2026-07/Inondations%20et%20risques%20sanotaires.pdf) · [Centre de crise National : inondation fluviale](https://centredecrise.be/fr/risques-en-belgique/risques-naturels/inondation-fluviale-ou-de-riviere) · [VMM : conseils en cas d'inondation](https://vmm.vlaanderen.be/tips/water/overstromingen) · [CDC: food safety](https://www.cdc.gov/food-safety/foods/keep-food-safe-after-emergency.html) · [Vlaams Rampenfonds](https://www.vlaanderen.be/schadevergoeding-vlaams-rampenfonds-aanvragen)

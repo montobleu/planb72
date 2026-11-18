@@ -102,7 +102,7 @@ Quelle: [Gezondheid en Wetenschap: Vergiftung](https://www.gezondheidenwetenscha
 - Legen Sie die Person auf die linke Seite und beobachten Sie Atmung und Bewusstsein ständig. Beschwerden können erst später auftreten.
 - Notieren Sie, was passiert ist: welches Produkt, wie viel, auf welchem Weg und um wie viel Uhr. Bewahren Sie Verpackungen und Etiketten auf. Diese Informationen helfen den Helfern, die richtige Versorgung zu geben.
 - Lassen Sie die Person nicht erbrechen. Geben Sie keine Milch, kein Wasser und keine Aktivkohle, außer das Antigiftzentrum sagt das ausdrücklich.
-- Funktioniert das Netz, können Sie auch den ärztlichen Bereitschaftsdienst anrufen: 1733. Das Antigiftzentrum nennt diese Nummer.
+- Funktioniert das Netz, können Sie auch den ärztlichen Bereitschaftsdienst anrufen: 1733.
 - Verhindern Sie neue Fälle: Lassen Sie nie einen Motor in einem geschlossenen Raum wie einer Garage laufen. Das gilt für alle Verbrennungsmotoren. Halten Sie Lüftungsgitter frei und lüften Sie regelmäßig. Ein CO-Melder warnt bei erhöhten Konzentrationen, verhindert CO aber nicht.
 
 Quelle: [IFRC Guidelines 2020](https://www.ifrc.org/sites/default/files/2022-02/EN_GFARC_GUIDELINES_2020.pdf) · [Gezondheid en Wetenschap: Vergiftung durch Einatmen](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-inademing-van-giftige-stoffen) · [Gezondheid en Wetenschap: CO-Vergiftung](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-co-vergiftiging) · [Antigiftzentrum: Wann anrufen?](https://www.antigifcentrum.be/wanneer-bellen/) · [Antigiftzentrum: CO-Kampagne](https://www.antigifcentrum.be/co-campagne/)

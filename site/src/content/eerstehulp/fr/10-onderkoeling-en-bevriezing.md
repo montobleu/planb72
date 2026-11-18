@@ -85,8 +85,8 @@ Source : [Gezondheid en Wetenschap : Hypothermie](https://www.gezondheidenwetens
 1. Vérifiez d'abord si la personne est aussi en hypothermie. L'hypothermie est plus grave et passe en premier.
 2. Amenez la personne le plus vite possible dans une pièce chaude ou un abri. Retirez les vêtements mouillés et réchauffez-la sous des couvertures et des vêtements secs.
 3. Retirez délicatement les bijoux si c'est possible sans abîmer la peau.
-4. Ne réchauffez la partie gelée que s'il n'y a aucun risque qu'elle gèle à nouveau. L'IFRC ne recommande de réchauffer sur place que si vous en avez les moyens et que les soins médicaux sont à plus de 2 heures.
-5. Plongez la partie gelée dans de l'eau chaude qui est agréable au toucher sur une partie saine de la peau. L'IFRC indique 37 à 39 °C. Réchauffez jusqu'à ce que la peau devienne rouge ou violette et redevienne douce et souple, généralement après environ 30 minutes.
+4. Ne réchauffez la partie gelée que s'il n'y a aucun risque qu'elle gèle à nouveau. Ne la réchauffez sur place que si vous en avez les moyens et que les soins médicaux sont à plus de 2 heures.
+5. Plongez la partie gelée dans de l'eau chaude de 37 à 39 °C, agréable au toucher sur une partie saine de la peau. Réchauffez jusqu'à ce que la peau devienne rouge ou violette et redevienne douce et souple, généralement après environ 30 minutes.
 6. Si vous n'avez pas d'eau chaude, réchauffez la partie avec la chaleur du corps, par exemple des doigts gelés sous l'aisselle.
 7. Ne frottez pas, ne massez pas et ne manipulez pas la peau brutalement.
 8. Couvrez la partie avec de la gaze stérile. Si des doigts ou des orteils sont gelés, placez de la gaze entre chaque doigt ou orteil.
@@ -103,7 +103,7 @@ Source : [Gezondheid en Wetenschap : Hypothermie](https://www.gezondheidenwetens
 - Donnez une boisson chaude non alcoolisée à une personne bien consciente et capable d'avaler. Ne donnez rien à une personne inconsciente.
 - Après le réchauffement, gardez la victime au sec et emmitouflée, y compris la tête et la nuque.
 - Les personnes en hypothermie et en arrêt cardiaque doivent être réanimées sans interruption jusqu'à ce qu'elles soient réchauffées. Les chances de récupération après un arrêt cardiaque dû à une hypothermie légère à modérée sont excellentes. En cas d'hypothermie, il est possible que la personne réagisse à la réanimation, même sans défibrillateur. Si vous devez transporter la victime, réanimez sans interruption sur une surface dure pendant le transport.
-- Gelures : l'IFRC recommande de ne réchauffer les parties du corps gelées que si vous avez les moyens nécessaires, si les soins médicaux sont à plus de 2 heures et si la partie ne peut pas geler à nouveau. Si les soins médicaux sont plus proches, ne réchauffez pas vous-même la partie.
+- Gelures : ne réchauffez les parties du corps gelées que si vous avez les moyens nécessaires, si les soins médicaux sont à plus de 2 heures et si la partie ne peut pas geler à nouveau. Si les soins médicaux sont plus proches, ne réchauffez pas vous-même la partie.
 - Ne laissez pas marcher une personne qui a les pieds ou les orteils gelés, sauf si c'est vraiment nécessaire. Cela aggrave les lésions.
 - Après le réchauffement, vous pouvez appliquer de l'aloe vera sur la peau gelée.
 - Si vous allez dans un endroit froid et isolé, dites à quelqu'un où vous allez et quand vous comptez revenir.
@@ -118,7 +118,7 @@ Source : [IFRC Guidelines 2020](https://www.ifrc.org/sites/default/files/2022-02
 - la température du corps est inférieure à 35 °C ;
 - la victime est inconsciente ou ne respire pas normalement : commencez alors aussi la réanimation.
 
-L'IFRC recommande de demander une aide médicale pour toute hypothermie. Faites toujours examiner une gelure par un médecin.
+Demandez une aide médicale pour toute hypothermie. Faites toujours examiner une gelure par un médecin.
 
 **Si l'appel ne passe pas**
 

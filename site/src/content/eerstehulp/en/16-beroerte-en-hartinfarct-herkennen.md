@@ -95,7 +95,7 @@ Source: [Gezondheid en Wetenschap: Stroke](https://www.gezondheidenwetenschap.be
 ## If help is a long time coming
 
 - With a stroke and a heart attack, every minute counts. The sooner there is medical help, the less damage to the brain or heart. So look for the fastest way to care.
-- For a stroke, the IFRC says that the helper sometimes has to take the casualty to a hospital themselves, by car or by other means, if no ambulance can arrive quickly. In that case, choose the fastest way and make sure the journey can be made safely. The map in the app (Nearest button) shows hospitals.
+- For a stroke, you sometimes have to take the casualty to a hospital yourself, by car or by other means, if no ambulance can arrive quickly. In that case, choose the fastest way and make sure the journey can be made safely. The map in the app (Nearest button) shows hospitals.
 - If it takes a long time for the emergency services to arrive, have someone fetch an AED and keep it close to the casualty. A heart attack can turn into cardiac arrest.
 - Keep the casualty at rest, without exertion.
 - Monitor the breathing and level of consciousness continuously. Write down the time at which the symptoms started and every change. Pass this on to the healthcare professionals.
@@ -117,7 +117,7 @@ Source: [IFRC Guidelines 2020](https://www.ifrc.org/sites/default/files/2022-02/
 - Time matters: do not wait. Only leave the casualty alone if there is no other option. Point directly at a bystander to get help and tell them where it is, what happened, how many casualties there are and what condition they are in. For a stroke: also when the symptoms started.
 - Divide the tasks among the bystanders: getting help, keeping an eye on the casualty, fetching their own medication or an AED.
 - Heart attack: stay with the casualty until help arrives. Do not let them make any effort.
-- Stroke: if no ambulance can come quickly, the IFRC says you sometimes have to take the casualty to a hospital yourself (see If help is a long time coming).
+- Stroke: if no ambulance can come quickly, you sometimes have to take the casualty to a hospital yourself (see If help is a long time coming).
 - If you are giving CPR and are alone without a phone, see topic 2 (If you cannot get through).
 - See also topic 1 (If you cannot get through: getting help without a phone) and Emergency numbers in the app, If you cannot call.
 

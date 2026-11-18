@@ -106,7 +106,7 @@ Source: [Gezondheid en Wetenschap: Fractures](https://www.gezondheidenwetenschap
 - Cool repeatedly if the pain comes back, each time for no more than 20 minutes and only when the skin is back to its normal warmth.
 - With a fracture of a large bone, monitor the signs of shock and keep the casualty lying down and warm.
 - Watch for sensory disturbances, such as tingling, pins and needles or a foot that has gone to sleep, and for signs of compartment syndrome. These are reasons to consult a doctor.
-- The IFRC mentions that a trained first aider in a remote setting considers straightening a severely angulated fracture if the limb beyond the fracture is cold and pale. The Belgian guideline says: never straighten a joint or limb that is in an abnormal position. Follow the Belgian guideline.
+- Never straighten a joint or limb that is in an abnormal position.
 - Dislocations and fractures must always be treated by a healthcare professional. Seek that care as soon as possible.
 
 Source: [IFRC Guidelines 2020](https://www.ifrc.org/sites/default/files/2022-02/EN_GFARC_GUIDELINES_2020.pdf) · [Gezondheid en Wetenschap: Fractures](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-breuken) · [Gezondheid en Wetenschap: Dislocations](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-ontwrichting)

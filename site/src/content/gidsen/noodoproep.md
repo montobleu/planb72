@@ -100,7 +100,7 @@ In België zijn er twee nummers voor dringende hulp. Ze werken alleen als je kun
 
 **Politie nodig? Bel 101 rechtstreeks.** Via 112 word je doorverbonden, en dat kost tijd.
 
-**Valse oproepen en per ongeluk bellen.** Grapbellers riskeren vervolging en een strafrechtelijke veroordeling, ook voor sms'en naar de nood-sms-nummers. Volgens de Europese Commissie is een valse oproep in de meeste landen een misdrijf. Heb je per ongeluk gebeld, haak dan niet in en zeg de operator dat alles in orde is.
+**Valse oproepen en per ongeluk bellen.** Grapbellers riskeren vervolging en een strafrechtelijke veroordeling, ook voor sms'en naar de nood-sms-nummers. In de meeste EU-landen is een valse oproep een misdrijf. Heb je per ongeluk gebeld, haak dan niet in en zeg de operator dat alles in orde is.
 
 Bron: [112.be: Andere noodnummers](https://112.be/nl/andere-noodnummers) · [112.be: Veelgestelde vragen](https://112.be/nl/veelgestelde-vragen) · [Civiele Veiligheid: What do the emergency centres 112 do?](https://securitecivile.be/en/node/4147) · [Nationaal Crisiscentrum: brochure Samen voorbereid](https://crisiscentrum.be/sites/default/files/documents/files/WEB-Brochure%20Samen%20voorbereid-NL.pdf) · [112.be: Voor doven](https://112.be/nl/voor-doven) · [Europese Commissie: 112](https://digital-strategy.ec.europa.eu/en/policies/112)
 
@@ -121,7 +121,7 @@ Bron: [112.be: Hoe bel ik naar 112?](https://112.be/nl/how-call/hoe-bel-ik-naar-
 
 ## Welke vragen de operator stelt
 
-Het Rode Kruis en 112.be gebruiken drie vragen. Ken de antwoorden voor je belt.
+De operator stelt drie vragen. Ken de antwoorden voor je belt.
 
 - **Waar?** Gemeente, straat en huisnummer, of een kruispunt of opvallend herkenningspunt. Hoe de hulpdiensten er het makkelijkst geraken. Bel je niet vanaf de plek van het incident, zeg dat dan.
 - **Wat?** Wat er gebeurd is (brand, ongeval, agressie, hartaanval) en of er gevaren zijn waarvoor gespecialiseerde hulp nodig is: iemand gekneld, ontploffingsgevaar, een hoogspanningskabel op de grond.
@@ -145,7 +145,7 @@ Zonder plaats kan de noodcentrale geen hulp sturen. Geef het adres altijd mondel
 
 **Maak het de hulpdiensten makkelijk:** een groot huisnummer dat van op straat leesbaar is, iemand die de hulpdiensten aan de straat opwacht (of anders de deur open als de noodcentrale dat vraagt), 's avonds de buitenverlichting aan, huisdieren in een afgesloten ruimte, doorgangen vrij.
 
-**Automatische plaatsbepaling (AML).** Zonder automatische lokalisatie ziet de noodcentrale van een gsm-oproep alleen het bereik van de gsm-mast, op het platteland soms verschillende vierkante kilometer. Sinds eind juni 2017 stuurt je toestel met AML (Advanced Mobile Location) tijdens een oproep naar 112 of 101 zelf zijn positie door, tot 4.000 keer preciezer. Volgens het persbericht van 2017 werkte dat toen op Android met een Belgische simkaart, en had je voor de iPhone de app 112 BE nodig. Of dat veranderd is, staat niet op 112.be: geef je plaats dus altijd ook mondeling.
+**Automatische plaatsbepaling (AML).** Zonder automatische lokalisatie ziet de noodcentrale van een gsm-oproep alleen het bereik van de gsm-mast, op het platteland soms verschillende vierkante kilometer. Sinds eind juni 2017 stuurt je toestel met AML (Advanced Mobile Location) tijdens een oproep naar 112 of 101 zelf zijn positie door, tot 4.000 keer preciezer. In 2017 werkte dat op Android met een Belgische simkaart; voor de iPhone had je de app 112 BE nodig. Geef je plaats dus altijd ook mondeling.
 
 Bron: [Rode Kruis-Vlaanderen: lespakket 112 bellen](https://www.rodekruis.be/storage/main/wehdag-2018-lespakket-112-bellen-handleiding.pdf) · [112.be: Veelgestelde vragen](https://112.be/nl/veelgestelde-vragen) · [Nationaal Crisiscentrum: Natuurbrand](https://crisiscentrum.be/nl/risicos-belgie/natuurlijke-risicos/natuurbrand) · [FOD Binnenlandse Zaken: persbericht AML en app 112 BE](http://kcce.eu/sites/default/files/persbericht_2017-07-13-localisatie_app112be_2.pdf)
 
@@ -177,7 +177,7 @@ Bron: [FOD Economie: vragen van gezinnen over elektriciteitsschaarste](https://e
 4. Zijn 112 en 101 door een technisch probleem onbereikbaar, dan kunnen per provincie **drie tijdelijke gsm-nummers** worden geactiveerd. Meestal zijn ze niet actief. Gebruik ze alleen in geval van nood.
 5. Zijn ook die niet bereikbaar: bel rechtstreeks een **ziekenhuis**, de **brandweerzone** of de **lokale politie**.
 
-**Tijdelijke gsm-nummers per provincie** (alleen actief tijdens een storing van 112 en 101, volgens 112.be op 17 november 2026):
+**Tijdelijke gsm-nummers per provincie** (alleen actief tijdens een storing van 112 en 101; stand van 17 november 2026):
 
 | Provincie | Tijdelijke gsm-nummers |
 | --- | --- |
@@ -199,7 +199,7 @@ Bron: [112.be: Veelgestelde vragen](https://112.be/nl/veelgestelde-vragen) · [1
 
 ### Als bellen helemaal niet lukt
 
-Werkt geen enkel toestel meer, dan zegt de Belgische overheid: vraag hulp in je buurt en volg de informatie die de overheid verspreidt.
+Werkt geen enkel toestel meer, vraag dan hulp in je buurt of ga, als het kan, naar het dichtstbijzijnde politiebureau, de brandweerkazerne of het ziekenhuis. De kaart in de app toont ze, met de knop Dichtstbij. Bij een grote uitval kan de gemeente een informatie- en onthaalpunt openen. Een stroomuitval op zich is geen noodgeval.
 
 **Bij een gewonde of zieke**
 
@@ -212,7 +212,7 @@ Werkt geen enkel toestel meer, dan zegt de Belgische overheid: vraag hulp in je 
 - Zoek een plek met bereik, of vraag iemand daarheen te gaan en te bellen. Wie niet vanaf de plek van het incident belt, zegt dat aan de operator.
 - In open terrein, zonder mensen in de buurt: zie de gids Signalen en noodcodes.
 
-Bron: [ERC Guidelines 2021: First aid](https://cprguidelines-old.erc.edu/assets/guidelines/European-Resuscitation-Council-Guidelines-2021-Fi.pdf) · [ERC Guidelines 2021: Basic Life Support](https://cprguidelines-old.erc.edu/assets/guidelines/European-Resuscitation-Council-Guidelines-2021-Ba.pdf) · [ERC Guidelines 2021: Paediatric Life Support](https://cprguidelines-old.erc.edu/assets/guidelines/European-Resuscitation-Council-Guidelines-2021-Pa.pdf) · [IFRC Guidelines 2020](https://www.ifrc.org/sites/default/files/2022-02/EN_GFARC_GUIDELINES_2020.pdf) · [Gezondheid en Wetenschap: Hoe moet je reanimeren?](https://www.gezondheidenwetenschap.be/eerste-hulp/hoe-moet-je-reanimeren) · [National Park Service: Outdoor Emergency Plan](https://www.nps.gov/subjects/healthandsafety/upload/NPS-Outdoor-Emergency-Plan-508c.pdf) · [Deutscher Alpenverein: So geht das, Notfall alpin](https://www.alpenverein.de/artikel/so-geht-das-notfall-alpin_62bc1334-e9c7-4d8b-8a02-89dd681cbb83) · [112.be: Hoe bel ik naar 112?](https://112.be/nl/how-call/hoe-bel-ik-naar-112)
+Bron: [ERC Guidelines 2021: First aid](https://cprguidelines-old.erc.edu/assets/guidelines/European-Resuscitation-Council-Guidelines-2021-Fi.pdf) · [ERC Guidelines 2021: Basic Life Support](https://cprguidelines-old.erc.edu/assets/guidelines/European-Resuscitation-Council-Guidelines-2021-Ba.pdf) · [ERC Guidelines 2021: Paediatric Life Support](https://cprguidelines-old.erc.edu/assets/guidelines/European-Resuscitation-Council-Guidelines-2021-Pa.pdf) · [IFRC Guidelines 2020](https://www.ifrc.org/sites/default/files/2022-02/EN_GFARC_GUIDELINES_2020.pdf) · [Gezondheid en Wetenschap: Hoe moet je reanimeren?](https://www.gezondheidenwetenschap.be/eerste-hulp/hoe-moet-je-reanimeren) · [National Park Service: Outdoor Emergency Plan](https://www.nps.gov/subjects/healthandsafety/upload/NPS-Outdoor-Emergency-Plan-508c.pdf) · [Deutscher Alpenverein: So geht das, Notfall alpin](https://www.alpenverein.de/artikel/so-geht-das-notfall-alpin_62bc1334-e9c7-4d8b-8a02-89dd681cbb83) · [112.be: Hoe bel ik naar 112?](https://112.be/nl/how-call/hoe-bel-ik-naar-112) · [BBK: Vorsorgen für Krisen und Katastrophen](https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/Buergerinformationen/Ratgeber/BBK-Vorsorgen-fuer-Krisen-und-Katastrophen.pdf?__blob=publicationFile&v=44) · [BBK: Stromausfall, Vorsorge und Selbsthilfe](https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/Buergerinformationen/stromausfall-vorsorge-selbsthilfe.pdf?__blob=publicationFile&v=17) · [Inspecties: Onbereikbaarheid van 112 op 24 juni 2019](https://zoek.officielebekendmakingen.nl/blg-942150.pdf) · [Krisinformation.se: If internet and phone services stop working](https://www.krisinformation.se/en/finding-help-and-services/if-internet-and-phone-services-stop-working/)
 
 **Hulp en informatie in je buurt**
 
@@ -223,18 +223,6 @@ Bron: [ERC Guidelines 2021: First aid](https://cprguidelines-old.erc.edu/assets/
 - Bij grotere noodsituaties richt de gemeente of de provincie een onthaalcentrum in, bijvoorbeeld in een sporthal, met een contactpersoon die informatie geeft.
 
 Bron: [FOD Economie: vragen van gezinnen over elektriciteitsschaarste](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door) · [Nationaal Crisiscentrum: Informatie tijdens een noodsituatie](https://crisiscentrum.be/nl/wat-kan-jij-doen/informeer-je/informatie-tijdens-een-noodsituatie) · [Nationaal Crisiscentrum: brochure Samen voorbereid](https://crisiscentrum.be/sites/default/files/documents/files/WEB-Brochure%20Samen%20voorbereid-NL.pdf) · [Nationaal Crisiscentrum: Evacueren](https://crisiscentrum.be/nl/wat-kan-jij-doen/reageer-correct/evacueren) · [Rode Kruis-Vlaanderen: Stroom- en communicatie-uitval](https://www.rodekruis.be/wat-doen-we/hulp-in-vlaanderen/goed-voorbereid/stroom-en-communicatie-uitval/)
-
-### Advies uit het buitenland
-
-Een Belgische officiële bron die je bij een volledige uitval naar een brandweerkazerne, een politiekantoor of een ziekenhuis stuurt, vonden we niet. Overheden in andere landen geven dat advies wel.
-
-- **Duitsland.** Het BBK raadt aan: werken 110 en 112 niet meer, ga dan bij een noodgeval zo mogelijk naar de dichtstbijzijnde politiepost of naar het ziekenhuis. Zoek vooraf uit waar je ter plaatse informatie krijgt, bijvoorbeeld in het gemeentehuis of op een noodtrefpunt (Notfalltreffpunkt), en waar je een noodmelding kunt doen als het telefoonnet uitvalt. Een stroomuitval op zich is geen noodgeval.
-- **Nederland.** Bij de landelijke 112-storing van 24 juni 2019 stuurde de overheid via NL-Alert wie een spoedmelding had naar de dichtstbijzijnde brandweerkazerne of het politiebureau, en bij medische nood naar het ziekenhuis. Burgers konden ook agenten op straat aanspreken. Niet alle regio's hadden hun kazernes toen bemand.
-- **Zweden.** Werkt 112 niet, ga dan naar de dichtstbijzijnde brandweerkazerne. Gemeenten kunnen ook andere plaatsen aanduiden waar je een noodoproep kunt doen.
-
-De kaart in de app (knop Dichtstbij) toont brandweer, politie, ziekenhuizen en gemeentehuizen in je buurt.
-
-Bron: [BBK: Vorsorgen für Krisen und Katastrophen](https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/Buergerinformationen/Ratgeber/BBK-Vorsorgen-fuer-Krisen-und-Katastrophen.pdf?__blob=publicationFile&v=44) · [BBK: Stromausfall, Vorsorge und Selbsthilfe](https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/Buergerinformationen/stromausfall-vorsorge-selbsthilfe.pdf?__blob=publicationFile&v=17) · [Inspecties: Onbereikbaarheid van 112 op 24 juni 2019](https://zoek.officielebekendmakingen.nl/blg-942150.pdf) · [Krisinformation.se: If internet and phone services stop working](https://www.krisinformation.se/en/finding-help-and-services/if-internet-and-phone-services-stop-working/)
 
 ### Vooraf regelen
 
@@ -257,14 +245,14 @@ Bron: [112.be: Hoe bel ik naar 112?](https://112.be/nl/how-call/hoe-bel-ik-naar-
 
 De app 112 BE is de officiële app van de Belgische noodcentrales, van de FOD Binnenlandse Zaken. Je hoeft geen nummer te onthouden: je tikt op brandweer, ambulance of politie.
 
-- **Lokalisatie.** De noodcentrale ziet waar je bent. Met internet stuurt de app je positie door, ook als je je verplaatst. Zonder internet gaan de noodgegevens volgens de ontwikkelaar via een gratis sms.
+- **Lokalisatie.** De noodcentrale ziet waar je bent. Met internet stuurt de app je positie door, ook als je je verplaatst. Zonder internet gaan de noodgegevens via een gratis sms.
 - **Extra informatie.** De noodcentrale ziet meteen wat je bij registratie invulde, bijvoorbeeld dat je doof bent, een hartpatiënt bent of allergisch bent aan bepaalde medicatie. Die gegevens worden niet systematisch bijgehouden, alleen meegestuurd als je via de app belt.
 - **Alarm.** Ben je bewusteloos en vinden de hulpdiensten je niet, dan kan de noodcentrale je gsm laten rinkelen.
 - **Chat.** Kun je niet spreken of horen, dan kan de noodcentrale de chat activeren.
 
 **Registreer je nu**, niet tijdens een noodgeval, en zet de locatiefunctie aan. De app is gratis, werkt **alleen in België** en bestaat in het Nederlands, Frans, Duits en Engels. Ze heeft het gsm-netwerk nodig: valt dat weg, zie Geen bereik, geen simkaart of een netwerkstoring.
 
-**Kun je niet praten**, bijvoorbeeld omdat je gewond bent of bedreigd wordt, bel dan via de app of laat iemand anders bellen. Een stille noodoproep zonder app, zoals in sommige andere landen, beschrijft 112.be niet.
+**Kun je niet praten**, bijvoorbeeld omdat je gewond bent of bedreigd wordt, bel dan via de app of laat iemand anders bellen.
 
 Bron: [112.be: Mobiele applicatie 112 BE](https://112.be/nl/mobiele-applicatie) · [112.be: Voor doven](https://112.be/nl/voor-doven) · [App Store: 112 BE](https://apps.apple.com/be/app/112-be/id1249304307) · [FOD Binnenlandse Zaken: persbericht AML en app 112 BE](http://kcce.eu/sites/default/files/persbericht_2017-07-13-localisatie_app112be_2.pdf)
 
@@ -299,7 +287,7 @@ Bron: [112.be: Hoe bel ik naar 112?](https://112.be/nl/how-call/hoe-bel-ik-naar-
 - Het systeem start automatisch, of met een knop. Je praat met de dichtstbijzijnde noodcentrale, die de exacte plaats, het tijdstip van het ongeval, het chassisnummer en de rijrichting krijgt.
 - Buiten een ernstig ongeval is eCall niet actief: je auto wordt niet gevolgd.
 - Verplicht voor nieuwe automodellen die na 31 maart 2018 zijn goedgekeurd, voor wagens tot 8 zitplaatsen en lichte bedrijfsvoertuigen.
-- Volgens de Europese Commissie zijn er hiaten in de eCall-dienst nu 2G- en 3G-netwerken worden uitgeschakeld. Bel daarom zelf ook als je kunt.
+- Nu 2G- en 3G-netwerken worden uitgeschakeld, zijn er hiaten in de eCall-dienst. Bel daarom zelf ook als je kunt.
 
 **Op de snelweg in Vlaanderen**
 
@@ -316,7 +304,7 @@ Bron: [Your Europe: eCall](https://europa.eu/youreurope/citizens/travel/security
 
 ## Kinderen leren bellen
 
-Volgens onderzoek waar het Rode Kruis naar verwijst, kunnen kinderen al in de eerste en tweede graad van het lager onderwijs leren 112 te bellen.
+Kinderen kunnen al in de eerste en tweede graad van het lager onderwijs leren 112 te bellen.
 
 **Wat een kind moet kennen**
 

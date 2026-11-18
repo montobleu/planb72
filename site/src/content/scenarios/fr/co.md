@@ -162,7 +162,7 @@ Si l'appel ne passe pas, demandez à quelqu'un d'autre d'appeler ou envoyez quel
 
 - Les personnes âgées et les personnes atteintes d'une maladie chronique, de problèmes cardiaques ou respiratoires ou d'anémie courent plus de risques.
 - Les fumeurs, et surtout les fumeurs de pipe, de cigare et de narguilé, ont déjà plus de CO dans le sang.
-- Une personne qui dort, qui a bu ou qui est sous influence peut mourir du CO avant de remarquer des symptômes. Le CDC recommande un détecteur près de chaque chambre à coucher.
+- Une personne qui dort, qui a bu ou qui est sous influence peut mourir du CO avant de remarquer des symptômes. Placez un détecteur près de chaque chambre à coucher.
 
 ### Animaux domestiques et autres animaux
 

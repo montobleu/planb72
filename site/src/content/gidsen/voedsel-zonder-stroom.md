@@ -50,58 +50,54 @@ Bron: [BBK: Vorsorgen für Krisen und Katastrophen](https://www.bbk.bund.de/Shar
 
 ## Voor de onderbreking
 
-Als je vooraf weet dat de stroom uitvalt, bijvoorbeeld bij werken of bij een afschakelplan, raadt het Crisiscentrum aan:
+Als je vooraf weet dat de stroom uitvalt, bijvoorbeeld bij werken of bij een afschakelplan:
 
 - Voorzie eten dat je koud kunt eten.
-- Voorzie warm water in thermosflessen, bijvoorbeeld voor babyflesjes (OFF ON).
+- Voorzie warm water in thermosflessen, bijvoorbeeld voor babyflesjes.
 - Hou je diepvries goed gesloten.
 - Leg een zak ijsblokjes in de diepvries. Zo kun je achteraf controleren of het eten ontdooid is geweest.
 
 Ook zonder aankondiging kun je vooraf:
 
-- Plastic flessen water in de diepvries leggen. Ze werken als koelelementen bij een stroomonderbreking; als het ijs gesmolten is, drink je het water. Vul ze niet tot de rand, anders barsten ze (MCF).
-- Een thermometer voor koelkast en diepvries gebruiken, zodat je weet hoe koud het binnenin is (Ready.gov).
-- Een alternatieve kookgelegenheid en brandstof in huis hebben (BBK).
+- Plastic flessen water in de diepvries leggen. Ze werken als koelelementen bij een stroomonderbreking; als het ijs gesmolten is, drink je het water. Vul ze niet tot de rand, anders barsten ze.
+- Een thermometer voor koelkast en diepvries gebruiken, zodat je weet hoe koud het binnenin is.
+- Een alternatieve kookgelegenheid en brandstof in huis hebben.
 
 Bron: [Nationaal Crisiscentrum: Verstoring van elektriciteit](https://crisiscentrum.be/nl/risicos-belgie/maatschappelijke-risicos/verstoring-van-elektriciteit) · [Nationaal Crisiscentrum: OFF ON](https://crisiscentrum.be/sites/default/files/documents/files/OffOn-triptyque-N.pdf) · [MCF: In case of crisis or war](https://rib.msb.se/filer/pdf/31523.pdf) · [Ready.gov: Food](https://www.ready.gov/food) · [BBK: Vorsorgen für Krisen und Katastrophen](https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/Buergerinformationen/Ratgeber/BBK-Vorsorgen-fuer-Krisen-und-Katastrophen.pdf?__blob=publicationFile&v=44)
 
 ## Tijdens de onderbreking: deuren dicht
 
-De belangrijkste regel komt in elke bron terug: open koelkast en diepvries niet onnodig.
+De belangrijkste regel: open koelkast en diepvries niet onnodig.
 
 Hoe lang blijft het koud:
 
-| Toestel | Hoe lang | Bron |
-| --- | --- | --- |
-| Diepvries | een onderbreking van 3 à 4 uur laat je eten niet ontdooien | Nationaal Crisiscentrum |
-| Diepvries, deur gesloten | 24 tot zelfs 36 uur bevroren, afhankelijk van de temperatuur | Nationaal Crisiscentrum |
-| Volle diepvries | ongeveer 48 uur | FoodSafety.gov, Ready.gov |
-| Halfvolle diepvries, deur gesloten | ongeveer 24 uur | FoodSafety.gov |
-| Koelkast, ongeopend | ongeveer 4 uur | FoodSafety.gov, Ready.gov |
-
-De Belgische en Amerikaanse cijfers voor de diepvries verschillen. Ga uit van het Belgische cijfer van 24 tot 36 uur, en reken op korter als de diepvries maar half vol is.
+| Toestel | Hoe lang |
+| --- | --- |
+| Diepvries | een onderbreking van 3 à 4 uur laat je eten niet ontdooien |
+| Diepvries, deur gesloten | 24 tot zelfs 36 uur bevroren, afhankelijk van de temperatuur; korter als de diepvries maar half vol is |
+| Koelkast, ongeopend | ongeveer 4 uur |
 
 **Duurt het langer dan 4 uur**
 
-- Leg bederfbaar voedsel in een koelbox met ijs (Ready.gov).
-- Droogijs: Ready.gov schrijft dat 25 pond droogijs (ongeveer 11 kilo) een diepvries van 10 kubieke voet (ongeveer 280 liter) drie tot vier dagen onder het vriespunt houdt. Laat droogijs niet rechtstreeks met voedsel in contact komen. Draag droge, dikke handschoenen. Weet vooraf waar je droogijs kunt krijgen.
+- Leg bederfbaar voedsel in een koelbox met ijs.
+- Droogijs: ongeveer 11 kilo droogijs houdt een diepvries van ongeveer 280 liter drie tot vier dagen onder het vriespunt. Laat droogijs niet rechtstreeks met voedsel in contact komen. Draag droge, dikke handschoenen. Weet vooraf waar je droogijs kunt krijgen.
 
-**Andere apparaten.** Trek gevoelige elektrische toestellen uit, om schade te vermijden door een te hoge spanning bij de heropstart (Crisiscentrum).
+**Andere apparaten.** Trek gevoelige elektrische toestellen uit, om schade te vermijden door een te hoge spanning bij de heropstart.
 
 Bron: [Nationaal Crisiscentrum: Verstoring van elektriciteit](https://crisiscentrum.be/nl/risicos-belgie/maatschappelijke-risicos/verstoring-van-elektriciteit) · [FoodSafety.gov: Food Safety During Power Outage](https://www.in.gov/localhealth/portercounty/files/Food-Safety-During-Power-Outage-_-FoodSafety.gov.pdf) · [Ready.gov: Food](https://www.ready.gov/food) · [Ready.gov: Power Outages](https://www.ready.gov/power-outages)
 
 ## Na de onderbreking: de basisregels
 
-**Belgische controle (Crisiscentrum)**
+**Controleer eerst de diepvries**
 
 1. Kijk naar de zak ijsblokjes die je in de diepvries legde. Is het ijs gesmolten en opnieuw bevroren, dan is de kans groot dat het eten bedorven is. Is het niet ontdooid geweest, dan is het eten niet bedorven.
 2. Bleef de deur van de diepvries dicht, dan kan het voedsel 24 tot 36 uur bevroren blijven. Dan is het veilig om op te eten.
-3. Controleer het voedsel in koelkast en diepvries. Bij twijfel gooi je het weg. De OFF ON-brochure zegt: gooi het weg bij het geringste vermoeden van bederf.
+3. Controleer het voedsel in koelkast en diepvries. Gooi het weg bij het geringste vermoeden van bederf.
 
-**Amerikaanse regels (FoodSafety.gov en Ready.gov)**
+**Wat je weggooit en wat je houdt**
 
 - Bederfbaar voedsel uit de koelkast, zoals vlees, gevogelte, vis, eieren en restjes, gooi je weg na 4 uur zonder stroom.
-- Gooi alles weg wat meer dan 2 uur op 4 °C (40 °F) of warmer heeft gestaan.
+- Gooi alles weg wat meer dan 2 uur op 4 °C of warmer heeft gestaan.
 - Ontdooid voedsel is meestal nog eetbaar als het nog "koelkastkoud" is. Het mag opnieuw ingevroren worden als er nog ijskristallen in zitten of als het 4 °C of kouder is; de kwaliteit kan wel achteruitgaan.
 - Proef nooit om te bepalen of iets nog veilig is.
 - Gooi voedsel weg met een ongewone geur, kleur of textuur.
@@ -112,7 +108,7 @@ Bron: [Nationaal Crisiscentrum: Verstoring van elektriciteit](https://crisiscent
 
 ## Koelkast: bewaren of weggooien
 
-Uit de tabel van FoodSafety.gov, voor voedsel dat meer dan 2 uur op 4 °C of warmer stond. Gebruik ze als leidraad. Bij twijfel: weggooien.
+Voor voedsel dat meer dan 2 uur op 4 °C of warmer stond. Gebruik de tabel als leidraad. Bij twijfel: weggooien.
 
 | Voedsel | Weggooien of bewaren |
 | --- | --- |
@@ -164,7 +160,7 @@ Bron: [FoodSafety.gov: Food Safety During Power Outage](https://www.in.gov/local
 
 ## Diepvries: opnieuw invriezen of weggooien
 
-Uit de tabel van FoodSafety.gov. Eerste kolom: het voedsel bevat nog ijskristallen en voelt koelkastkoud aan. Tweede kolom: het stond meer dan 2 uur op 4 °C of warmer.
+Eerste kolom: het voedsel bevat nog ijskristallen en voelt koelkastkoud aan. Tweede kolom: het stond meer dan 2 uur op 4 °C of warmer.
 
 | Voedsel | Nog ijskristallen, koelkastkoud | Meer dan 2 uur op 4 °C of warmer |
 | --- | --- | --- |
@@ -193,49 +189,49 @@ Bron: [FoodSafety.gov: Food Safety During Power Outage](https://www.in.gov/local
 
 ## Voorraad zonder koeling: wat je wel en niet eet
 
-- Commercieel ingeblikt voedsel kun je zonder opwarmen uit het blik eten (Ready.gov).
-- Eet niet uit blikken die bol staan, gedeukt zijn of roesten, ook als de inhoud er goed uitziet (Ready.gov). Het BZL: een blik waarvan bodem of deksel naar buiten gewelfd is, wijst op bedorven inhoud. Eet het in geen geval.
-- Eet niets wat er abnormaal uitziet of ruikt, ook als het blik normaal lijkt (Ready.gov).
-- Gooi beschimmeld voedsel meteen weg. Bij twijfel niet opeten (BZL).
-- Hou voedsel in afgesloten verpakkingen en hou eet- en kookgerei schoon (Ready.gov).
-- Laat geen afval binnen ophopen, om brand en ongedierte te vermijden (Ready.gov).
+- Commercieel ingeblikt voedsel kun je zonder opwarmen uit het blik eten.
+- Eet niet uit blikken die bol staan (bodem of deksel naar buiten gewelfd), gedeukt zijn of roesten, ook als de inhoud er goed uitziet. Een bol blik wijst op bedorven inhoud.
+- Eet niets wat er abnormaal uitziet of ruikt, ook als het blik normaal lijkt.
+- Gooi beschimmeld voedsel meteen weg. Bij twijfel niet opeten.
+- Hou voedsel in afgesloten verpakkingen en hou eet- en kookgerei schoon.
+- Laat geen afval binnen ophopen, om brand en ongedierte te vermijden.
 
-**Blikken die met overstromingswater in contact kwamen.** Ready.gov beschrijft hoe je ze toch kunt gebruiken: was en ontsmet het blik grondig met een oplossing van één deel bleekmiddel op tien delen water, en open het blik voor je het opwarmt. FoodSafety.gov en Ready.gov zeggen dat ander voedsel dat met overstromingswater in contact kwam, weg moet.
+**Blikken die met overstromingswater in contact kwamen.** Die kun je toch gebruiken: was en ontsmet het blik grondig met een oplossing van één deel bleekmiddel op tien delen water, en open het blik voor je het opwarmt. Ander voedsel dat met overstromingswater in contact kwam, moet weg.
 
 Bron: [Ready.gov: Food](https://www.ready.gov/food) · [BZL: So pflegen Sie Ihren Lebensmittelvorrat](https://www.ernaehrungsvorsorge.de/private-vorsorge/empfehlungen-tipps/so-pflegen-sie-ihren-lebensmittelvorrat)
 
 ## Koken zonder stroom: de opties
 
-Het BBK maakt het onderscheid dat je moet onthouden: sommige toestellen mogen binnen, andere alleen buiten.
+Onthoud dit onderscheid: sommige toestellen mogen binnen, andere alleen buiten.
 
-| Toestel | Binnen of buiten | Waarvoor | Bron |
-| --- | --- | --- | --- |
-| Gasfornuis op het aardgasnet | binnen, als het zonder stroom werkt | gewoon koken | BBK |
-| Réchaud met theelichtje | binnen | eten opwarmen, bijvoorbeeld kant-en-klare soep | BBK |
-| Fonduestel met brandpasta | binnen | kleine hoeveelheden aan de kook brengen | BBK |
-| Kaarsenwarmer, chafing dish, fonduepan | binnen | opwarmen | Ready.gov |
-| Gasbrander die toegelaten is voor binnen | binnen | koken | BBK |
-| Open haard | binnen | koken | Ready.gov |
-| Kampeerbrander met gaspatroon | alleen buiten | kleine maaltijden | BBK |
-| Gas- of houtskoolbarbecue | alleen buiten, op een terras of balkon | koken | BBK, Ready.gov |
+| Toestel | Binnen of buiten | Waarvoor |
+| --- | --- | --- |
+| Gasfornuis op het aardgasnet | binnen, als het zonder stroom werkt | gewoon koken |
+| Réchaud met theelichtje | binnen | eten opwarmen, bijvoorbeeld kant-en-klare soep |
+| Fonduestel met brandpasta | binnen | kleine hoeveelheden aan de kook brengen |
+| Kaarsenwarmer, chafing dish, fonduepan | binnen | opwarmen |
+| Gasbrander die toegelaten is voor binnen | binnen | koken |
+| Open haard | binnen | koken |
+| Kampeerbrander met gaspatroon | alleen buiten | kleine maaltijden |
+| Gas- of houtskoolbarbecue | alleen buiten, op een terras of balkon | koken |
 
 **Regels voor binnen**
 
-- Gebruik binnen alleen toestellen die daarvoor zijn toegelaten. Ze hebben speciale beveiligingen (BBK).
-- Let op met open vuur binnen. Als er te weinig zuurstof is, ontstaat koolstofmonoxide (CO). CO-vergiftiging is levensgevaarlijk (BBK).
-- Hang geteste en toegelaten CO-melders op (BBK).
-- Verlucht regelmatig (BBK, Stromausfall).
+- Gebruik binnen alleen toestellen die daarvoor zijn toegelaten. Ze hebben speciale beveiligingen.
+- Let op met open vuur binnen. Als er te weinig zuurstof is, ontstaat koolstofmonoxide (CO). CO-vergiftiging is levensgevaarlijk.
+- Hang geteste en toegelaten CO-melders op.
+- Verlucht regelmatig.
 
 **Regels voor buiten**
 
-- Gebruik barbecue en kampeerbrander niet in de woning: er is verstikkingsgevaar (BBK).
-- Ready.gov: barbecues en kampeerbranders alleen buiten, minstens 20 voet (ongeveer 6 meter) van ramen.
-- Het Antigifcentrum: een barbecue in huis halen voor warmte is geen goed idee. De smeulende kolen geven veel CO vrij, zelfs met een open garagepoort.
-- Ready.gov: gebruik geen gasfornuis of oven om je huis te verwarmen.
+- Gebruik barbecue en kampeerbrander niet in de woning: er is verstikkingsgevaar.
+- Gebruik barbecues en kampeerbranders alleen buiten, minstens 6 meter van ramen.
+- Haal een barbecue niet in huis om te verwarmen. De smeulende kolen geven veel CO vrij, zelfs met een open garagepoort.
+- Gebruik geen gasfornuis of oven om je huis te verwarmen.
 
-**Brandstof sparen.** Het BBK raadt voedsel aan dat met weinig energie gaart, zodat je brandstof langer meegaat, en voedsel dat je koud kunt eten. Het BBK heeft daarvoor een noodkookboek met recepten zonder stroom. Denk vooruit verwijst naar het Voedingscentrum voor recepten met houdbaar eten en raadt aan ze vooraf te printen of op te schrijven: zonder internet kun je ze niet meer opzoeken.
+**Brandstof sparen.** Kies voedsel dat met weinig energie gaart, zodat je brandstof langer meegaat, en voedsel dat je koud kunt eten. Print of schrijf vooraf recepten met houdbaar eten op: zonder internet kun je ze niet meer opzoeken.
 
-**Als stroom beperkt is maar niet weg.** Bij elektriciteitsschaarste raadt de OFF ON-brochure aan zo weinig mogelijk kookplaten te gebruiken, de microgolfoven te gebruiken in plaats van de gewone oven, en elektrische toestellen bij voorkeur na 22 uur te gebruiken.
+**Als stroom beperkt is maar niet weg.** Gebruik bij elektriciteitsschaarste zo weinig mogelijk kookplaten, de microgolfoven in plaats van de gewone oven, en elektrische toestellen bij voorkeur na 22 uur.
 
 Meer over CO vind je in de gids over warmte en koelte.
 
@@ -243,18 +239,18 @@ Bron: [BBK: Vorsorgen für Krisen und Katastrophen](https://www.bbk.bund.de/Shar
 
 ## Per woning
 
-- **Appartement zonder terras of balkon.** Je hebt geen veilige plek voor een barbecue of kampeerbrander. Reken op voedsel dat je koud eet en op toestellen die binnen toegelaten zijn, zoals een réchaud of fondueset (BBK).
-- **Appartement met balkon.** Het BBK noemt het balkon als plek voor een gas- of houtskoolbarbecue. Hou afstand van ramen en deuren (Ready.gov).
-- **Huis met tuin.** Kook buiten, ver van ramen, deuren en een aangebouwde garage (Ready.gov).
-- **Huis met gasfornuis.** Kan vaak gewoon blijven werken (BBK). Gebruik het niet om te verwarmen (Ready.gov).
+- **Appartement zonder terras of balkon.** Je hebt geen veilige plek voor een barbecue of kampeerbrander. Reken op voedsel dat je koud eet en op toestellen die binnen toegelaten zijn, zoals een réchaud of fondueset.
+- **Appartement met balkon.** Een gas- of houtskoolbarbecue kan op het balkon. Hou afstand van ramen en deuren.
+- **Huis met tuin.** Kook buiten, ver van ramen, deuren en een aangebouwde garage.
+- **Huis met gasfornuis.** Kan vaak gewoon blijven werken. Gebruik het niet om te verwarmen.
 
 Bron: [BBK: Vorsorgen für Krisen und Katastrophen](https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/Buergerinformationen/Ratgeber/BBK-Vorsorgen-fuer-Krisen-und-Katastrophen.pdf?__blob=publicationFile&v=44) · [BBK: Vorsorge und Handeln bei Stromausfall](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Vorsorge/Stromausfall/stromausfall_node.html) · [Ready.gov: Power Outages](https://www.ready.gov/power-outages)
 
 ## Voedselveiligheid zonder kraanwater
 
-- Was je handen met zeep en schoon water voor, tijdens en na het bereiden van voedsel en voor het eten. Is er geen zeep en water, gebruik dan handgel met minstens 60 procent alcohol (CDC). Zie de gids over hygiëne.
-- Was voedsel en afwas alleen met veilig water. Behandel water van onzekere kwaliteit eerst (CDC). Zie de gids over water.
-- Gebruik geen water uit overstromingen, radiatoren of de centrale verwarming (CDC).
+- Was je handen met zeep en schoon water voor, tijdens en na het bereiden van voedsel en voor het eten. Is er geen zeep en water, gebruik dan handgel met minstens 60 procent alcohol. Zie de gids over hygiëne.
+- Was voedsel en afwas alleen met veilig water. Behandel water van onzekere kwaliteit eerst. Zie de gids over water.
+- Gebruik geen water uit overstromingen, radiatoren of de centrale verwarming.
 
 Bron: [CDC: About Handwashing](https://www.cdc.gov/clean-hands/about/index.html) · [CDC: How to Make Water Safe in an Emergency](https://www.cdc.gov/water-emergency/about/index.html)
 
@@ -262,43 +258,41 @@ Bron: [CDC: About Handwashing](https://www.cdc.gov/clean-hands/about/index.html)
 
 **Flesvoeding**
 
-- Ready.gov: gebruik kant-en-klare flesvoeding. Moet je poeder aanmaken, gebruik dan flessenwater, of gekookt water als laatste uitweg.
-- Het CDC: maak geen babyvoeding met onveilig water.
-- FoodSafety.gov: geopende flesvoeding die meer dan 2 uur op 4 °C of warmer in de koelkast stond, gooi je weg.
-- Het Crisiscentrum (OFF ON): voorzie bij een aangekondigde onderbreking thermosflessen met warm water, bijvoorbeeld voor babyflesjes.
-- Bij een kookadvies van De Watergroep in Roeselare bleef het advies om babyflesjes te steriliseren.
+- Gebruik liefst kant-en-klare flesvoeding. Moet je poeder aanmaken, gebruik dan flessenwater, of gekookt water als laatste uitweg.
+- Maak geen babyvoeding met onveilig water.
+- Geopende flesvoeding die meer dan 2 uur op 4 °C of warmer in de koelkast stond, gooi je weg.
+- Voorzie bij een aangekondigde onderbreking thermosflessen met warm water, bijvoorbeeld voor babyflesjes.
+- Blijf babyflesjes steriliseren, ook bij een kookadvies.
 
 **Wat in de voorraad hoort**
 
-- Een reservevoorraad babyvoeding en poeder voor flesvoeding (Crisiscentrum).
-- Flesjes (Ready.gov).
-- Pap, havermout en babyvoeding (MCF).
+- Een reservevoorraad babyvoeding en poeder voor flesvoeding.
+- Flesjes.
+- Pap, havermout en babyvoeding.
 
-**Borstvoeding.** De geraadpleegde bronnen geven er geen aparte richtlijnen voor. Ready.gov wijst er wel op dat vrouwen die borstvoeding geven meer water nodig hebben.
+**Borstvoeding.** Wie borstvoeding geeft, heeft meer water nodig.
 
 Bron: [Ready.gov: Food](https://www.ready.gov/food) · [Ready.gov: Water](https://www.ready.gov/water) · [CDC: How to Make Water Safe in an Emergency](https://www.cdc.gov/water-emergency/about/index.html) · [FoodSafety.gov: Food Safety During Power Outage](https://www.in.gov/localhealth/portercounty/files/Food-Safety-During-Power-Outage-_-FoodSafety.gov.pdf) · [Nationaal Crisiscentrum: OFF ON](https://crisiscentrum.be/sites/default/files/documents/files/OffOn-triptyque-N.pdf) · [VRT NWS: kookadvies De Watergroep](https://www.vrt.be/vrtnws/nl/2026/03/20/roeselare-vraagt-om-drinkwater-in-enkele-centrumsteden-tijdelijk/) · [Nationaal Crisiscentrum: Een noodpakket bij je thuis](https://crisiscentrum.be/nl/wat-kan-jij-doen/maak-een-noodpakket/een-noodpakket-bij-je-thuis) · [MCF: In case of crisis or war](https://rib.msb.se/filer/pdf/31523.pdf)
 
 ## Bij een lange onderbreking
 
-De tijdsgrenzen uit de bronnen op een rij:
+De tijdsgrenzen op een rij:
 
-| Moment | Wat de bronnen zeggen |
+| Moment | Wat je doet |
 | --- | --- |
-| Eerste uren | hou koelkast en diepvries dicht; een onderbreking van 3 à 4 uur laat diepvriesvoedsel niet ontdooien (Crisiscentrum) |
-| Na ongeveer 4 uur | de koelkast houdt voedsel niet langer veilig koel; leg bederfbaar voedsel in een koelbox met ijs (Ready.gov, FoodSafety.gov) |
-| Na 24 uur | een halfvolle diepvries houdt het niet langer (FoodSafety.gov) |
-| Na 24 tot 36 uur | grens voor een gesloten diepvries volgens het Crisiscentrum |
-| Na ongeveer 48 uur | grens voor een volle diepvries volgens FoodSafety.gov en Ready.gov |
-| Daarna | eet uit je houdbare voorraad; kook buiten of op een toestel dat binnen toegelaten is (BBK) |
+| Eerste uren | hou koelkast en diepvries dicht; een onderbreking van 3 à 4 uur laat diepvriesvoedsel niet ontdooien |
+| Na ongeveer 4 uur | de koelkast houdt voedsel niet langer veilig koel; leg bederfbaar voedsel in een koelbox met ijs |
+| Na 24 tot 36 uur | een gesloten diepvries houdt het niet langer, een halfvolle diepvries al eerder |
+| Daarna | eet uit je houdbare voorraad; kook buiten of op een toestel dat binnen toegelaten is |
 
-Het Crisiscentrum zegt bij een tekort aan voedsel: wees spaarzaam en zorg dat kinderen en ouderen voldoende voedzaam eten hebben.
+Is er te weinig voedsel: wees spaarzaam en zorg dat kinderen en ouderen voldoende voedzaam eten hebben.
 
 Bron: [Nationaal Crisiscentrum: Verstoring van elektriciteit](https://crisiscentrum.be/nl/risicos-belgie/maatschappelijke-risicos/verstoring-van-elektriciteit) · [Nationaal Crisiscentrum: Verstoring van de voedselbevoorrading](https://crisiscentrum.be/nl/risicos-belgie/maatschappelijke-risicos/verstoring-van-de-voedselbevoorrading) · [FoodSafety.gov: Food Safety During Power Outage](https://www.in.gov/localhealth/portercounty/files/Food-Safety-During-Power-Outage-_-FoodSafety.gov.pdf) · [Ready.gov: Power Outages](https://www.ready.gov/power-outages) · [BBK: Vorsorgen für Krisen und Katastrophen](https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/Buergerinformationen/Ratgeber/BBK-Vorsorgen-fuer-Krisen-und-Katastrophen.pdf?__blob=publicationFile&v=44)
 
 ## Als de stroom terugkomt
 
-- Zet elektrische toestellen niet allemaal tegelijk aan. Geef het net de tijd om te stabiliseren (Crisiscentrum).
-- Controleer koelkast en diepvries en gooi weg bij twijfel (Crisiscentrum).
-- Vul je noodvoorraad opnieuw aan (OFF ON).
+- Zet elektrische toestellen niet allemaal tegelijk aan. Geef het net de tijd om te stabiliseren.
+- Controleer koelkast en diepvries en gooi weg bij twijfel.
+- Vul je noodvoorraad opnieuw aan.
 
 Bron: [Nationaal Crisiscentrum: Verstoring van elektriciteit](https://crisiscentrum.be/nl/risicos-belgie/maatschappelijke-risicos/verstoring-van-elektriciteit) · [Nationaal Crisiscentrum: OFF ON](https://crisiscentrum.be/sites/default/files/documents/files/OffOn-triptyque-N.pdf)

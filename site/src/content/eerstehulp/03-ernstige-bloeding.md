@@ -53,8 +53,6 @@ Bron: [Gezondheid en Wetenschap: Ernstige bloeding](https://www.gezondheidenwete
 10. Sijpelt bloed erdoor, leg er dan extra doeken of verband bovenop en druk harder op de plek die bloedt.
 11. Blijf druk uitoefenen tot de hulpdiensten aankomen. Goed drukken kan pijn doen. Laat niet los.
 
-Het Amerikaanse FEMA-programma raadt aan om geen dikke lagen tussen je handen en de wonde te houden, omdat dat de druk vermindert. De Belgische richtlijn zegt extra lagen op de doorbloede doek te leggen. Volg de Belgische richtlijn.
-
 ### Een voorwerp in de wonde
 
 1. Laat het voorwerp zitten. Trek het er niet uit.
@@ -65,7 +63,7 @@ Het Amerikaanse FEMA-programma raadt aan om geen dikke lagen tussen je handen en
 
 Een tourniquet is alleen voor een levensbedreigende bloeding aan een arm of been, als rechtstreekse druk en een drukverband niet werken. Een fabrieksmatig tourniquet heeft de voorkeur. Een geïmproviseerd tourniquet, zoals een riem, faalt vaak. Je kan het als laatste redmiddel proberen om de bloeding minstens te vertragen.
 
-1. Leg het tourniquet tussen de wonde en de romp, ongeveer 5 tot 7,5 cm boven de wonde (de bron zegt 2 tot 3 inch). Het mag over de kleding.
+1. Leg het tourniquet tussen de wonde en de romp, ongeveer 5 tot 7,5 cm boven de wonde. Het mag over de kleding.
 2. Leg het niet op een gewricht, zoals elleboog, knie, pols of enkel. Een gewricht beschermt de bloedvaten, waardoor je niet genoeg druk kan zetten.
 3. Steek de band door de gesp en trek het uiteinde zo strak mogelijk aan. Zet het vast.
 4. Draai de staaf in één richting tot de bloeding stopt. Het is normaal dat dit pijn doet.
@@ -76,14 +74,12 @@ Een tourniquet is alleen voor een levensbedreigende bloeding aan een arm of been
 
 ### Een bloeding waar geen tourniquet kan (hals, schouder, lies)
 
-De Belgische eerstehulprichtlijnen beschrijven het opvullen van een wonde niet. Het Amerikaanse Stop the Bleed-programma doet dat wel:
-
 1. Vul de wonde op met gaas. Heb je geen gaas, gebruik dan een propere doek, kleding, krantenpapier of je handen. Let op voor botsplinters of andere scherpe stukken in de wonde.
 2. Druk daarna stevig met beide handen.
 3. Hou de druk minstens 5 minuten vol voor je de wonde opnieuw bekijkt.
 4. Doorbloedt het, leg er dan verband bovenop in plaats van de eerste laag weg te halen.
 
-De IFRC vermeldt een bloedstelpend verband dat je met rechtstreekse druk aanbrengt, als druk niet volstaat en een tourniquet niet kan of niet beschikbaar is.
+Volstaat druk niet en kan een tourniquet niet of heb je er geen, dan kan een bloedstelpend verband helpen. Dat breng je aan met rechtstreekse druk.
 
 ### Daarna
 
@@ -103,7 +99,7 @@ Bron: [Gezondheid en Wetenschap: Ernstige bloeding](https://www.gezondheidenwete
 
 ## Als hulp lang op zich laat wachten
 
-- Blijf drukken. De Belgische richtlijn zegt: druk tot de hulpdiensten aankomen.
+- Blijf drukken tot de hulpdiensten aankomen.
 - Een tourniquet kan een leven redden maar ook ernstige gevolgen hebben, tot verlies van het ledemaat, vooral als het te lang zit. Toch blijft het zitten tot de hulpdiensten er zijn. Losmaken gebeurt alleen onder begeleiding van een zorgverlener.
 - Noteer het tijdstip van aanleggen. Een tourniquet dat te lang zit, beschadigt weefsel, en het tijdstip helpt de zorgverleners beslissen wie eerst behandeld moet worden.
 - Bij een ramp, een aanslag of geweld met veel gewonden mag je een tourniquet als eerste snelle maatregel gebruiken: om veel gewonden tegelijk te helpen of om iemand met een levensbedreigende bloeding snel uit de gevarenzone te halen.
@@ -135,7 +131,7 @@ Bron: [Gezondheid en Wetenschap: Ernstige bloeding](https://www.gezondheidenwete
 
 - Haal geen verband of doek weg die al op de bloeding ligt.
 - Trek geen voorwerp uit de wonde.
-- Druk niet op "drukpunten" elders op het lichaam. De IFRC raadt dat af.
+- Druk niet op "drukpunten" elders op het lichaam.
 - Leg geen tourniquet als druk de bloeding wel stopt. Buiten een hevige bloeding kan een tourniquet schade doen.
 - Leg een tourniquet alleen op een arm of been, en niet op een gewricht.
 - Maak een tourniquet niet los en haal het niet weg.

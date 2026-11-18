@@ -23,7 +23,7 @@ origineel_datum: "2026-11-18"
 
 ## Erkennen
 
-Überhitzung entsteht nach langer Einwirkung hoher Temperaturen oder nach schwerer Anstrengung in der Wärme. Die IFRC unterscheidet zwei Stufen. Ein Hitzschlag ist lebensbedrohlich.
+Überhitzung entsteht nach langer Einwirkung hoher Temperaturen oder nach schwerer Anstrengung in der Wärme. Es gibt zwei Stufen. Ein Hitzschlag ist lebensbedrohlich.
 
 Leichte bis mäßige Überhitzung (Hitzeerschöpfung):
 
@@ -39,7 +39,7 @@ Hitzschlag:
 - die betroffene Person befindet sich in einer warmen Umgebung, kommt gerade von dort oder hat gerade eine schwere Anstrengung hinter sich;
 - zuerst starkes Schwitzen, danach kein Schwitzen mehr;
 - rote, trockene, heiße Haut;
-- hohe Körpertemperatur: Die belgische Richtlinie nennt 39 °C als Grenze, um 112 anzurufen, die IFRC spricht beim Hitzschlag von mehr als 40 °C;
+- hohe Körpertemperatur: Rufen Sie ab 39 °C die 112 an;
 - Kopfschmerzen, schwarze Flecken sehen, Schwindel, Ohnmacht;
 - Übelkeit und Erbrechen, Muskel- oder Bauchkrämpfe, Schmerzen im ganzen Körper;
 - Verwirrtheit, Benommenheit oder seltsames Verhalten;
@@ -59,7 +59,7 @@ Quelle: [Gezondheid en Wetenschap: Hitzschlag](https://www.gezondheidenwetenscha
 2. Bringen Sie sie an einen kühlen Ort. Ziehen Sie überflüssige Kleidung aus.
 3. Rufen Sie bei Zeichen eines Hitzschlags 112 an oder lassen Sie jemanden anrufen. Kommt kein Anruf zustande, siehe Rufen Sie 112 an, wenn.
 4. Kühlen Sie sofort. Je schwerer die Beschwerden, desto kräftiger dürfen Sie kühlen. Wählen Sie die beste Methode, die Ihnen zur Verfügung steht:
-   - Beste Wahl: Tauchen Sie die Person bis zum Hals in ein Bad mit lauwarmem bis kaltem Wasser. Die IFRC nennt Wasser von 1 bis 26 °C, etwa 15 Minuten lang oder bis die Temperatur unter 39 °C sinkt. Die belgische Richtlinie sagt: bis sich der Zustand bessert, höchstens 15 Minuten.
+   - Beste Wahl: Tauchen Sie die Person bis zum Hals in ein Bad mit lauwarmem bis kaltem Wasser, bis sich der Zustand bessert und höchstens 15 Minuten lang.
    - Gelingt das Eintauchen nicht, zum Beispiel weil kein kaltes Wasser vorhanden ist oder weil die Person verwirrt ist und sich weigert: Legen Sie ein kühles, nasses Laken über die Person oder machen Sie sie mit kaltem Wasser nass.
    - Legen Sie Eiswürfel in einem Beutel Wasser, Kühlbeutel oder nasse, kalte Tücher auf Stellen mit großen Blutgefäßen: in die Leisten, unter die Achseln und in den Nacken.
    - Besprühen oder übergießen Sie die Person mit kaltem Wasser. Eine Sprühflasche für Pflanzen kann helfen.
@@ -94,11 +94,11 @@ Quelle: [Gezondheid en Wetenschap: Hitzschlag](https://www.gezondheidenwetenscha
 
 ## Wenn Hilfe lange auf sich warten lässt
 
-- Kühlen Sie weiter mit jedem Mittel, das Sie haben: Wasser, nasse Tücher, Schatten, Zufächeln. Der ERC sagt: Beginnen Sie aktiv zu kühlen mit allem, was verfügbar ist, zum Beispiel Kleidung ausziehen, nasse Tücher, Ventilatoren und kühles Wasser.
+- Kühlen Sie weiter aktiv mit allem, was Sie haben: Kleidung ausziehen, kühles Wasser, nasse Tücher, Schatten, Zufächeln oder ein Ventilator.
 - Sorgen Sie dafür, dass Kühlmittel an Orten bereitliegen, an denen das Risiko einer Überhitzung groß ist, damit es keine Verzögerung gibt.
 - Beobachten Sie Temperatur und Bewusstsein. Versuchen Sie, die Temperatur unter 39 °C zu bringen und dort zu halten.
 - Halten Sie die Person nach dem Abkühlen kühl und lassen Sie sie ruhen. Die meisten Menschen mit leichter bis mäßiger Überhitzung erholen sich vollständig.
-- Austrocknung: Lassen Sie jemanden, der voll bei Bewusstsein ist, ausreichend trinken. Bei leichter Austrocknung genügt Wasser. Bei stärkerer Austrocknung empfiehlt die IFRC eine orale Rehydratationslösung. Haben Sie keine, geben Sie Apfelsaft, Kokoswasser oder Wasser.
+- Austrocknung: Lassen Sie jemanden, der voll bei Bewusstsein ist, ausreichend trinken. Bei leichter Austrocknung genügt Wasser. Bei stärkerer Austrocknung geben Sie eine orale Rehydratationslösung. Haben Sie keine, geben Sie Apfelsaft, Kokoswasser oder Wasser.
 - Holen Sie bei Austrocknung ärztlichen Rat ein, wenn sich der Zustand nicht schnell bessert, bei einem Säugling, Kind oder älteren Menschen, wenn jemand mehr Flüssigkeit verliert, als er trinken kann, wenn jemand wenig oder kein Wasser lässt und der Urin dunkel ist, oder bei Fieber oder Zeichen einer Überhitzung.
 - Nehmen Sie auf Reisen in abgelegene Gebiete mit wenig Wasser genug zu trinken mit. Vermeiden Sie schwere Anstrengung zur heißesten Tageszeit.
 

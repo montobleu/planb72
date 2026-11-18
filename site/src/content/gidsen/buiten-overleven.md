@@ -46,7 +46,7 @@ bronnen:
 
 ## Wat eerst komt
 
-Er is geen vaste volgorde die altijd geldt. De Amerikaanse overlevingshandboeken leren een "overlevingspatroon": je zet je noden in volgorde van belang, afhankelijk van waar je bent, en je past die volgorde aan als de omstandigheden veranderen.
+Er is geen vaste volgorde die altijd geldt. Zet je noden in volgorde van belang, afhankelijk van waar je bent, en pas die volgorde aan als de omstandigheden veranderen.
 
 | Situatie | Eerste prioriteit | Daarna |
 | --- | --- | --- |
@@ -94,7 +94,7 @@ Onderkoeling (hypothermie) ontstaat als je lichaam meer warmte verliest dan het 
 6. Rilt de persoon nog en is hij goed bij bewustzijn: laat hem opwarmen in een slaapzak of onder een deken (met een isolatiedeken als je die hebt), bedek ook het hoofd, geef droge kleding en een warme, suikerrijke drank of voeding.
 7. Rilt hij niet meer of is hij niet goed bij bewustzijn: warm actief op, bij voorkeur met een elektrische deken, anders met warmtezakjes, kersenpitkussens of een warmwaterkruik. Let op brandwonden. Geef dan **geen eten of drinken**.
 
-**Voorkomen: het ezelsbruggetje COLD van het Amerikaanse leger**
+**Voorkomen: het ezelsbruggetje COLD**
 
 - **C**lean: hou kleding proper. Vuile kleding isoleert minder.
 - **O**verheating vermijden: zweet maakt je kleding nat en koelt je af. Doe een laag uit of open je jas voor je gaat zweten.
@@ -168,7 +168,7 @@ Bron: [US Army FM 21-76](https://archive.org/details/fm-21-76-survival-manual) �
 
 ## Isoleren van de grond
 
-- **Slaap nooit rechtstreeks op de grond.** Volgens het Amerikaanse leger verlies je in rust tot 80 procent van je lichaamswarmte aan de grond.
+- **Slaap nooit rechtstreeks op de grond.** In rust verlies je tot 80 procent van je lichaamswarmte aan de grond.
 - Leg dennentakken, gras, bladeren, dennennaalden of ander isolatiemateriaal onder je.
 - In een hut van takken en bladeren: een laag van 30 cm.
 - In een sneeuwhol of kuil: leg groene naaldtakken op de bodem.
@@ -195,7 +195,7 @@ Ook op een toegelaten plek beslist de **risicocode voor natuurbranden** van het 
 | Oranje | Algemeen vuurverbod, behalve kookvuren als gas- of kuilvuur |
 | Rood | Vuurverbod in eender welke vorm |
 
-In Wallonië en Brussel gelden eigen regels. Het Crisiscentrum raadt aan je vooraf te informeren over het brandgevaar en de kleurcode op de website van het Agentschap Natuur en Bos, Wallonie.be, de gemeente of het natuurdomein. Ter plaatse: hou je aan de regels en richtlijnen die aan de rand van het natuurgebied staan.
+In Wallonië en Brussel gelden eigen regels. Informeer je vooraf over het brandgevaar en de kleurcode op de website van het Agentschap Natuur en Bos, Wallonie.be, de gemeente of het natuurdomein. Ter plaatse: hou je aan de regels en richtlijnen die aan de rand van het natuurgebied staan.
 
 **Veilig stoken**
 
@@ -221,7 +221,7 @@ Bron: [Vlaanderen.be: Vuur maken in of nabij een natuurgebied](https://www.vlaan
 - Dauw: bind doeken of plukjes fijn gras rond je enkels en wandel voor zonsopgang door bedauwd gras. Wring het water uit in een recipiënt.
 - Water verzamelt zich soms in boomvorken of rotsspleten.
 - Grazende dieren (ook herten) wijzen beter de weg naar water dan roofdieren. Bijen gaan zelden verder dan ongeveer zes kilometer (vier mijl) van hun nest en hebben meestal water binnen die afstand.
-- Regenwater dat je in propere recipiënten opvangt, is volgens het Amerikaanse handboek meestal veilig. Water uit meren, vijvers, moerassen, bronnen en beken moet je zuiveren, zeker in de buurt van bewoning.
+- Regenwater dat je in propere recipiënten opvangt, is meestal veilig. Water uit meren, vijvers, moerassen, bronnen en beken moet je zuiveren, zeker in de buurt van bewoning.
 - In Vlaanderen zijn veel waterpartijen vervuild, te diep, te koud of op een andere manier gevaarlijk. Let op borden over blauwalgen.
 
 **Drink nooit**: zeewater, urine of alcohol.
@@ -232,7 +232,7 @@ Bron: [US Army FM 21-76](https://archive.org/details/fm-21-76-survival-manual) �
 
 | Methode | Wat ze doet | Beperkingen |
 | --- | --- | --- |
-| **Koken** (beste keuze) | De CDC raadt aan water een volle minuut te laten koken. Dat doodt ziekteverwekkers, ook op de hoogtes waar reizigers meestal komen. | Je hebt vuur of een brander nodig. Chemische stoffen blijven. |
+| **Koken** (beste keuze) | Laat water een volle minuut koken. Dat doodt ziekteverwekkers, ook op de hoogtes waar reizigers meestal komen. | Je hebt vuur of een brander nodig. Chemische stoffen blijven. |
 | **Filter** met poriën kleiner dan 1 µm | Haalt bacteriën en parasieten (protozoa) weg | Haalt virussen (bijvoorbeeld norovirus) niet betrouwbaar weg |
 | **Chloor of jodium** | Werkt tegen bacteriën en virussen | Werkt slecht tegen Cryptosporidium bij praktische concentraties. Volg altijd de handleiding van het product. |
 | **Chloordioxide** | Werkt tegen alle ziekteverwekkers in water, ook Cryptosporidium | Volg de handleiding van het product |
@@ -250,12 +250,12 @@ Bron: [CDC Yellow Book: Water disinfection for travelers](https://www.cdc.gov/ye
 
 ## Voedsel: wees uiterst voorzichtig
 
-**Je hebt het minder dringend nodig dan je denkt.** Je kunt meerdere weken zonder voedsel. Water, warmte en gevonden worden zijn eerst aan de beurt. Het Amerikaanse handboek raadt zelfs af te eten als je geen water hebt.
+**Je hebt het minder dringend nodig dan je denkt.** Je kunt meerdere weken zonder voedsel. Water, warmte en gevonden worden zijn eerst aan de beurt. Eet liever niet als je geen water hebt.
 
 **Paddenstoelen: eet ze niet.**
 
-- Het Amerikaanse leger is duidelijk: eet geen paddenstoelen in een overlevingssituatie. Alleen een zekere identificatie volstaat, en er is geen ruimte om te experimenteren. Sommige paddenstoelen doden snel, voor sommige bestaat geen tegengif.
-- Het Antigifcentrum zegt hetzelfde: er bestaan **geen trucjes** om een eetbare van een giftige paddenstoel te onderscheiden. Jonge paddenstoelen zijn niet altijd eetbaar. Witte paddenstoelen kunnen giftig zijn. Een giftige paddenstoel kan lekker smaken. Slakken eten ook giftige soorten. Koken, drogen of invriezen maakt het gif van de groene knolamaniet niet onschadelijk. Eén exemplaar kan al zeer ernstig zijn.
+- Eet geen paddenstoelen in een overlevingssituatie. Alleen een zekere identificatie volstaat, en er is geen ruimte om te experimenteren. Sommige paddenstoelen doden snel, voor sommige bestaat geen tegengif.
+- Er bestaan **geen trucjes** om een eetbare van een giftige paddenstoel te onderscheiden. Jonge paddenstoelen zijn niet altijd eetbaar. Witte paddenstoelen kunnen giftig zijn. Een giftige paddenstoel kan lekker smaken. Slakken eten ook giftige soorten. Koken, drogen of invriezen maakt het gif van de groene knolamaniet niet onschadelijk. Eén exemplaar kan al zeer ernstig zijn.
 - Identificeren met een boek of een foto is erg gevaarlijk.
 - **In Vlaanderen en Brussel is paddenstoelen plukken in openbare domeinen verboden.** In Wallonië is het beperkt: met toestemming van de eigenaar, tussen zonsopgang en zonsondergang, maximaal 10 liter per persoon, en niet tijdens het jachtseizoen in staatsbossen.
 
@@ -306,7 +306,7 @@ Bron: [Rode Kruis-Vlaanderen: Eerste hulp bij hitteslag of hitteberoerte](https:
 
 ## Per persoon
 
-| Wie | Wat de bronnen zeggen |
+| Wie | Wat je doet |
 | --- | --- |
 | Kinderen | Leer hen: blijf op je plaats als je verdwaald bent, zoek een boom (of bank, lantaarnpaal, grote steen), luister of je je naam hoort, zwaai, fluit, flits met een lamp. Kleine kinderen steken vaak besjes, bladeren of paddenstoelen in de mond; hou hen in het oog. |
 | Groepen | Blijf samen. Moet iemand de groep verlaten, dan met een buddy. Let op elkaar voor koude- en hitteletsels. Bij een gewonde: twee of meer mensen gaan hulp halen, de anderen blijven. |

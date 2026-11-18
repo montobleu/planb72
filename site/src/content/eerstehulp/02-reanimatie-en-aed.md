@@ -40,7 +40,7 @@ Start onmiddellijk met reanimeren als iemand plots in elkaar zakt, niet reageert
 - Korte schokkende bewegingen zijn mogelijk, vooral bij jongere mensen. Controleer de ademhaling zodra ze stoppen.
 - De pols voelen is niet nodig en is onbetrouwbaar.
 
-Leeftijden volgens de ERC: een baby is jonger dan 1 jaar, een kind is 1 tot 12 jaar, een adolescent 13 tot 18 jaar. Twijfel je tussen adolescent en volwassene, volg dan de werkwijze voor volwassenen.
+Leeftijden: een baby is jonger dan 1 jaar, een kind is 1 tot 12 jaar, een adolescent 13 tot 18 jaar. Twijfel je tussen adolescent en volwassene, volg dan de werkwijze voor volwassenen.
 
 Bron: [Gezondheid en Wetenschap: Reanimatie](https://www.gezondheidenwetenschap.be/richtlijnen/reanimatie-cardiopulmonale-resuscitatie-of-cpr) · [ERC Guidelines 2025 for Everyone](https://www.erc.edu/media/p5ymaeej/gl2025_layperson_book_ipdf-v11-e.pdf) · [IFRC Guidelines 2020](https://www.ifrc.org/sites/default/files/2022-02/EN_GFARC_GUIDELINES_2020.pdf)
 
@@ -98,10 +98,10 @@ Bron: [Gezondheid en Wetenschap: Hoe moet je reanimeren?](https://www.gezondheid
 - Reanimatie alleen brengt het hart zelden opnieuw op gang. Het hart heeft meestal een schok van een defibrillator nodig. Laat dus zo snel mogelijk een AED zoeken. Elke minuut vertraging tot de schok verkleint de overlevingskans met ongeveer 10 procent.
 - Wissel met andere helpers om de 1 tot 2 minuten, zodat niemand uitgeput raakt. Leer omstaanders kort hoe ze moeten drukken.
 - Moet het slachtoffer uit een afgelegen gebied naar medische zorg vervoerd worden, dan moet de reanimatie tijdens het vervoer ononderbroken doorgaan, op een harde ondergrond.
-- Na verdrinking of bij onderkoeling is er een kans dat de persoon reageert op reanimatie, ook zonder defibrillator. Bij onderkoeling geeft de ERC aan dat je ononderbroken reanimeert tot de persoon opgewarmd is.
-- De IFRC schrijft voor kinderen en baby's: waar geen hulpdienst of ziekenhuis bereikbaar is en de reanimatie na de eerste 20 minuten geen effect heeft, kan je stoppen omdat verder reanimeren waarschijnlijk niet meer helpt. Dat geldt niet na verdrinking of bij onderkoeling. Voor volwassenen vraagt de IFRC in die omstandigheden om de waardigheid van de persoon te beschermen.
+- Na verdrinking of bij onderkoeling is er een kans dat de persoon reageert op reanimatie, ook zonder defibrillator. Bij onderkoeling reanimeer je ononderbroken tot de persoon opgewarmd is.
+- Bij kinderen en baby's: waar geen hulpdienst of ziekenhuis bereikbaar is en de reanimatie na de eerste 20 minuten geen effect heeft, kan je stoppen omdat verder reanimeren waarschijnlijk niet meer helpt. Dat geldt niet na verdrinking of bij onderkoeling. Bij volwassenen bescherm je in die omstandigheden de waardigheid van de persoon.
 - Komt de persoon bij, blijf dan bij hem en controleer voortdurend bewustzijn en ademhaling tot er een arts is.
-- Een reanimatie is zwaar om mee te maken. De ERC beveelt aan dat helpers achteraf steun krijgen. Praat erover en zoek hulp als je het moeilijk hebt.
+- Een reanimatie is zwaar om mee te maken. Zorg dat helpers achteraf steun krijgen. Praat erover en zoek hulp als je het moeilijk hebt.
 
 Bron: [ERC Guidelines 2025 for Everyone](https://www.erc.edu/media/p5ymaeej/gl2025_layperson_book_ipdf-v11-e.pdf) · [IFRC Guidelines 2020](https://www.ifrc.org/sites/default/files/2022-02/EN_GFARC_GUIDELINES_2020.pdf)
 
@@ -118,7 +118,7 @@ Bel met de luidspreker aan en blijf intussen reanimeren. Werkt de verbinding, da
 
 - Laat het slachtoffer alleen als er geen andere mogelijkheid is. Wijs een omstander rechtstreeks aan om hulp te halen en geef mee waar het is, wat er gebeurd is, hoeveel slachtoffers er zijn en hoe ze eraan toe zijn. Stuur iemand anders om een AED te halen.
 - Zijn jullie met twee: de ene reanimeert, de andere gaat hulp halen en brengt een AED mee als dat kan.
-- Ben je alleen zonder telefoon: bij een volwassene haal je eerst hulp en begin je dan te reanimeren; bij een kind reanimeer je eerst 1 minuut en ga je dan hulp halen. Zo staat het in de richtlijnen van de ERC van 2021.
+- Ben je alleen zonder telefoon: bij een volwassene haal je eerst hulp en begin je dan te reanimeren; bij een kind reanimeer je eerst 1 minuut en ga je dan hulp halen.
 - Ben je alleen, ga dan geen AED halen, tenzij hij vlakbij en zichtbaar is. Begin te reanimeren.
 - Zie ook onderwerp 1 (Lukt bellen niet: hulp halen zonder telefoon) en Noodnummers in de app, Als bellen niet lukt.
 

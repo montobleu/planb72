@@ -64,7 +64,7 @@ origineel_datum: "2026-11-18"
 
 **Hitzewarnungen des KMI**
 
-| Code | Schwelle | Was tun laut KMI |
+| Code | Schwelle | Was tun |
 |---|---|---|
 | Gelb | Höchsttemperatur 32 °C oder mehr, oder die Warnphase des Ozon- und Hitzeplans ist aktiv | Schützen Sie ältere und schwächere Menschen, trinken Sie mehr, halten Sie schutzbedürftige Menschen aus der Sonne. |
 | Orange | Höchsttemperatur 35 °C oder mehr | Trinken Sie regelmäßig, kleiden Sie sich leichter, verbringen Sie den Tag in kühleren Räumen, essen Sie leicht, halten Sie Türen und Fenster geschlossen. |

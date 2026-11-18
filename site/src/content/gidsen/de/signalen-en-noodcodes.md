@@ -121,7 +121,7 @@ Quelle: [Deutscher Alpenverein: Erste Hilfe](https://www.forststeig.sachsen.de/d
 - Wiederholen Sie das Signal immer wieder.
 - Eine Taschenlampe leert Ihren Akku. Setzen Sie sie überlegt ein.
 
-**Zeitdauer nach der internationalen Vereinbarung (ITU)**
+**Zeitdauer**
 
 | Element | Dauer |
 | --- | --- |
@@ -188,13 +188,13 @@ Quelle: [US Army FM 21-76, Kapitel 19](https://archive.org/details/fm-21-76-surv
 
 Feuer ist nachts das am besten sichtbare Signal, Rauch tagsüber. In Belgien ist Feuermachen in Wäldern und Naturgebieten jedoch verboten, außer an einer festen Lagerfeuerstelle oder mit einer Genehmigung, und bei Brandgefahr manchmal ganz. Ein Signalfeuer kann selbst einen Naturbrand auslösen. Verwenden Sie Feuer nur, wenn Ihr Leben davon abhängt und es kein anderes Mittel gibt. Die Regeln finden Sie im Leitfaden zum Überleben im Freien.
 
-Was die Handbücher sagen:
+Müssen Sie doch ein Signalfeuer machen:
 
 - **Nachts:** drei Feuer in einem Dreieck oder in einer Linie, etwa 25 Meter voneinander entfernt. Bereiten Sie sie vor und schützen Sie sie, bis Sie sie brauchen.
 - **Tagsüber:** Rauch. Sorgen Sie für Kontrast: dunkler Rauch vor hellem Hintergrund, heller Rauch vor dunklem. Fast Ersticken mit grünen Blättern, Moos oder etwas Wasser ergibt weißen Rauch.
 - Rauch wirkt nur an recht ruhigen, klaren Tagen. Wind, Regen und Schnee verteilen den Rauch.
 - Wählen Sie immer einen Ort, an dem Sie keinen Wald- oder Naturbrand auslösen.
-- Der National Park Service rät davon ab, bei hoher Brandgefahr Feuer zu machen.
+- Machen Sie bei hoher Brandgefahr kein Feuer.
 
 Quelle: [US Army FM 21-76, Kapitel 19](https://archive.org/details/fm-21-76-survival-manual) · [National Park Service: Outdoor Emergency Plan](https://www.nps.gov/subjects/healthandsafety/upload/NPS-Outdoor-Emergency-Plan-508c.pdf) · [Nationales Krisenzentrum: Naturbrand](https://krisenzentrum.be/de/risiken-belgien/naturrisiken/naturbrand)
 
@@ -217,7 +217,7 @@ Diese Zeichen sind international vereinbart und stehen in Anhang 12 zum Abkommen
 
 - Verwenden Sie Stoffstreifen, Äste, Steine oder was Sie sonst haben.
 - Sorgen Sie für möglichst viel Farbkontrast zum Untergrund.
-- Machen Sie die Zeichen mindestens 3 Meter (10 Fuß) hoch oder größer. Die US-Armee nennt als Minimum 1 Meter Breite und 6 Meter Länge, im selben Verhältnis, wenn Sie sie größer machen.
+- Machen Sie die Zeichen groß: jede Linie mindestens 6 Meter lang und 1 Meter breit, und größer, wenn es geht, im selben Verhältnis.
 - Legen Sie sie genau wie oben gezeigt, an einer offenen Stelle, die aus der Luft gut sichtbar ist.
 - Im Schnee: Ziehen, schaufeln oder stampfen Sie die Zeichen aus. Eingedrückte Stellen wirken von oben schwarz. Sie können die Rinnen mit Ästen füllen.
 - Im Sand: Verwenden Sie Felsbrocken, Pflanzen oder Seetang. Zwischen Sträuchern: Schneiden Sie Muster aus dem Bewuchs.
@@ -259,7 +259,7 @@ Ist ein Hubschrauber oder Flugzeug nah genug, um Sie deutlich zu sehen, verwende
 **Wenn der Hubschrauber landen will**
 
 1. Suchen Sie einen Landeplatz von mindestens 25 mal 25 Metern, völlig frei von Hindernissen. **Keine Kabel oder Leitungen.**
-2. Für die Kufen ist ein fester Untergrund von mindestens 4 mal 4 Metern nötig. Nicht direkt neben dem Patienten. Die Rega nennt einen Abstand von etwa 100 Metern zur Unfallstelle.
+2. Für die Kufen ist ein fester Untergrund von mindestens 4 mal 4 Metern nötig. Nicht direkt neben dem Patienten, sondern etwa 100 Meter von der Unfallstelle entfernt.
 3. Räumen Sie alles weg, was lose herumliegt: Kleidung, Rucksäcke, Seile, Skistöcke, Sonnenschirme. Der Abwind des Rotors kann sie ansaugen und den Hubschrauber beschädigen oder sogar zum Absturz bringen. Setzen Sie bei Schnee eine Brille auf.
 4. Weisen Sie den Hubschrauber ein: Stellen Sie sich mit dem **Rücken zum Wind** und machen Sie das Y-Zeichen, beide Arme nach oben, die Handflächen nach innen.
 5. Bleiben Sie an Ihrem Platz am Rand des Landeplatzes, auch wenn der Hubschrauber direkt auf Sie zukommt. Gehen Sie in die Knie und halten Sie Blickkontakt mit dem Piloten.
@@ -299,7 +299,7 @@ Funktioniert das Netz, kommt eine Warnung auch über BE-Alert (SMS, Sprachnachri
 
 **Testnachrichten erkennen.** Ein BE-Alert-Test enthält immer die Wörter „BE-Alert“, „Dies ist eine Testnachricht. Sie müssen nichts tun“, einen Link oder eine Infonummer, in der richtigen Sprache. Gemeinden testen nur am ersten Donnerstag des Monats (außer an Feiertagen), zwischen 8 und 20 Uhr, und informieren ihre Einwohner vorab.
 
-**Hören Sie trotzdem eine Sirene?** Eine belgische Anweisung für Menschen, die eine Sirene hören, haben wir nicht gefunden. In den Niederlanden, wo das Sirenennetz noch in Betrieb ist, lautet der Rat: Gehen Sie so schnell wie möglich hinein, schließen Sie Fenster, Türen und andere Öffnungen, schalten Sie die mechanische Lüftung aus und verfolgen Sie die Nachrichten. Können Sie nicht hinein, bleiben Sie im Auto, stellen Sie den Motor ab und schließen Sie die Lüftungsschlitze. Die niederländischen Sirenen werden jeden ersten Montag im Monat um 12 Uhr getestet. Das ist die niederländische Regelung, nicht die belgische.
+**Hören Sie trotzdem eine Sirene?** Gehen Sie so schnell wie möglich hinein, schließen Sie Fenster, Türen und andere Öffnungen, schalten Sie die mechanische Lüftung aus und verfolgen Sie die Nachrichten im Radio. Können Sie nicht hinein, bleiben Sie im Auto, stellen Sie den Motor ab und schließen Sie die Lüftungsschlitze. An der niederländischen Grenze: Die niederländischen Sirenen werden jeden ersten Montag im Monat um 12 Uhr getestet. Das ist ein Test.
 
 Quelle: [Nationales Krisenzentrum: Nationale Strategie für Alarmierungstests](https://crisiscentrum.be/sites/default/files/documents/files/cc_nationale_strategie_voor_alarmeringstesten_0.pdf) · [BE-Alert: Be alerted](https://www.be-alert.be/de/lassen-sie-sich-benachrichtigen/lassen-sie-sich-benachrichtigen) · [Nationales Krisenzentrum: Informationen während einer Notsituation](https://krisenzentrum.be/de/was-koennen-sie-tun/informieren-sie-sich/information-notsituationen) · [Nationales Krisenzentrum: Broschüre Gemeinsam vorbereitet](https://krisenzentrum.be/sites/default/files/documents/files/WEB-Brosch%C3%BCre%20Gemeinsam%20Vorbereitet-DE.pdf) · [FÖD Wirtschaft: Fragen von Haushalten zur Stromknappheit](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door) · [Rijksoverheid: Wat moet ik doen als de sirene gaat?](https://www.rijksoverheid.nl/onderwerpen/veiligheidsregios-en-crisisbeheersing/vraag-en-antwoord/wat-moet-ik-doen-als-de-sirene-gaat)
 
@@ -367,7 +367,7 @@ Diese Verfahren sind für alle bestimmt, die ein Seefunkgerät oder ein anderes 
 | **MAYDAY** | Ernste und unmittelbare Gefahr für ein Schiff oder eine Person, Hilfe benötigt |
 | **PAN-PAN** | Sorge um die Sicherheit eines Schiffs oder einer Person, aber keine unmittelbare Lebensgefahr |
 
-**Ein Mayday-Ruf auf Kanal 16, in dieser Reihenfolge** (britische Küstenwache)
+**Ein Mayday-Ruf auf Kanal 16, in dieser Reihenfolge**
 
 1. Haben Sie ein Gerät mit DSC: Drücken Sie die rote Notruftaste und halten Sie sie gedrückt, bis der Alarm gesendet ist. Warten Sie auf die Bestätigung oder etwa 15 Sekunden.
 2. „Mayday, Mayday, Mayday“, dann dreimal der Name des Schiffs.
@@ -384,7 +384,7 @@ Diese Verfahren sind für alle bestimmt, die ein Seefunkgerät oder ein anderes 
 
 **Hören Sie selbst einen Mayday-Ruf:** Unterlassen Sie alles, was den Notverkehr stören kann, hören Sie weiter auf Kanal 16 mit und geben Sie die Meldung an eine Küstenfunkstelle weiter, wenn niemand antwortet.
 
-**Kontakt mit einem Flugzeug über Funk** (US-Armee): „Mayday, Mayday“, Rufzeichen, Name, Ort, Anzahl der Überlebenden, mögliche Landeplätze und welche Hilfe dringend benötigt wird.
+**Kontakt mit einem Flugzeug über Funk:** „Mayday, Mayday“, Rufzeichen, Name, Ort, Anzahl der Überlebenden, mögliche Landeplätze und welche Hilfe dringend benötigt wird.
 
 Quelle: [BIPT: Das Seefunkgerät, was Sie wissen müssen](https://www.bipt.be/index.php/file/cc73d96153bbd5448a56f19d925d05b1379c7f21/cf6ebdb356d66fd30a547494c66c02fce2029d27/de-marifoon.pdf) · [Maritime and Coastguard Agency: GMDSS VHF DSC procedures](https://www.gov.uk/government/publications/gmdss-sea-areas-and-procedures-for-small-boat-users/gmdss-vhf-dsc-procedures-for-small-boat-users) · [US Army FM 21-76, Kapitel 19](https://archive.org/details/fm-21-76-survival-manual)
 
@@ -400,7 +400,7 @@ Quelle: [BIPT: Das Seefunkgerät, was Sie wissen müssen](https://www.bipt.be/in
 | 17 m | 18160 kHz | 18160 kHz |
 | 15 m | 21360 kHz | 21360 kHz |
 
-Für Belgien nennt die IARU außerdem unter anderem 51,510 MHz FM (6 m), 145,500 MHz FM (2 m) und 433,500 MHz FM (70 cm).
+Für Belgien gelten außerdem unter anderem 51,510 MHz FM (6 m), 145,500 MHz FM (2 m) und 433,500 MHz FM (70 cm).
 
 - Um auf diesen Frequenzen zu senden, brauchen Sie ein Amateurfunkzeugnis des BIPT, für das Sie eine Prüfung ablegen.
 - In Belgien gibt es B-EARS, den Notfunkdienst des Amateurfunkverbands UBA, mit mehr als 300 Mitgliedern. Das Netz arbeitet nur auf Anfrage offizieller Stellen, wenn deren gewöhnliche Verbindungen ausfallen. Der Vorläufer arbeitete seit 1962 auf Anfrage des Roten Kreuzes.

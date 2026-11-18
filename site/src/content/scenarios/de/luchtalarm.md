@@ -63,7 +63,7 @@ origineel_datum: "2026-11-18"
 
 ## Erkennen
 
-**Die belgische Lage.** Das Nationale Krisenzentrum beschreibt einen internationalen bewaffneten Konflikt als Risiko mit sehr geringer Wahrscheinlichkeit. Das untersuchte Szenario spielt sich auf NATO-Gebiet außerhalb Belgiens ab. Das Krisenzentrum gibt auf dieser Seite keine eigenen Schritte für einen Luftangriff an. Die Schritte auf dieser Karte stammen deshalb aus den offiziellen Leitfäden Deutschlands, Schwedens, der Ukraine und Polens.
+**Die belgische Lage.** Ein internationaler bewaffneter Konflikt ist für Belgien ein Risiko mit sehr geringer Wahrscheinlichkeit. Das Szenario der nationalen Risikoanalyse spielt sich auf NATO-Gebiet außerhalb Belgiens ab. Die belgischen Behörden geben keine eigenen Schritte für einen Luftangriff an. Die Schritte auf dieser Karte stammen deshalb aus den offiziellen Leitfäden anderer europäischer Länder.
 
 **Wie Sie gewarnt werden.** In Belgien benachrichtigen die Behörden Sie über Radio und Fernsehen und über Lautsprecherwagen der Polizei. Funktioniert das Netz, auch über BE-Alert: SMS, E-Mail oder Telefonanruf. Bei einem großen Notfall erhält jeder mit einem Handy in der betroffenen Zone eine Alert-SMS, auch ohne Anmeldung. Fällt der Strom aus, hören Sie ein Radio mit Batterien oder ein Kurbelradio.
 
@@ -80,8 +80,8 @@ Quelle: [Nationales Krisenzentrum: IGC](https://krisenzentrum.be/de/risiken-belg
 
 - **Suchen Sie Ihre Schutzorte aus.** Wählen Sie zwei oder drei Orte nahe bei Wohnung, Arbeit und Schule. Gehen Sie den Weg vorher ab. Wissen Sie, wer den Schlüssel hat.
 - **Wählen Sie Ihren Ort in der Wohnung.** Prüfen Sie, welcher Raum die wenigsten Außenwände, Fenster und Türen hat: ein Keller ohne Fenster, oder ein Flur, Abstellraum oder begehbarer Schrank in der Mitte der Wohnung.
-- **Legen Sie eine Notfalltasche bereit** und stellen Sie sie neben die Tür. Das schwedische MCF nennt: Wasser in Flaschen oder Dosen, Lebensmittel, die sich bei Raumtemperatur halten, Hygieneartikel und Toilettenpapier, Medikamente und einen Erste-Hilfe-Kasten, warme Kleidung, Personalausweis, Bargeld und Bankkarten, Schlüssel, Handy mit Ladegerät oder Powerbank und eine Taschenlampe. Die Ukraine ergänzt: Ersatzbatterien, Decken oder Rettungsdecken, ein batteriebetriebenes Radio und einen Feuerlöscher. Rechnen Sie mit einem Aufenthalt von mindestens zwei Tagen.
-- **Halten Sie zu Hause einen Vorrat** für mindestens 3 Tage, wie das Nationale Krisenzentrum empfiehlt: Wasser, haltbare Lebensmittel, ein Radio, eine Taschenlampe, Medikamente.
+- **Legen Sie eine Notfalltasche bereit** und stellen Sie sie neben die Tür: Wasser in Flaschen oder Dosen, Lebensmittel, die sich bei Raumtemperatur halten, Hygieneartikel und Toilettenpapier, Medikamente und einen Erste-Hilfe-Kasten, warme Kleidung, Personalausweis, Bargeld und Bankkarten, Schlüssel, Handy mit Ladegerät oder Powerbank, eine Taschenlampe mit Ersatzbatterien, Decken oder Rettungsdecken, ein batteriebetriebenes Radio und einen Feuerlöscher. Rechnen Sie mit einem Aufenthalt von mindestens zwei Tagen.
+- **Halten Sie zu Hause einen Vorrat** für mindestens 3 Tage: Wasser, haltbare Lebensmittel, ein Radio, eine Taschenlampe, Medikamente.
 - **Verstärken Sie Fenster** mit stark haftender Folie. Verschließen Sie sie, wenn möglich, mit Sandsäcken oder stabilen Möbeln.
 - **Erstellen Sie einen Plan** mit Ihrer Familie: Wer tut was, wo Sie sich treffen und wie Sie einander erreichen oder wiederfinden, auch ohne Telefon oder Internet. Vereinbaren Sie das auch mit Ihren Nachbarn.
 - **Üben Sie.** Legen Sie den Weg zu Ihrem Schutzort vorher fest und folgen Sie ihm bei einem Alarm.
@@ -94,10 +94,10 @@ Gehen Sie bei einem Alarm sofort zum nächstgelegenen Schutz.
 
 **Rangfolge der Schutzorte, vom besten zum am wenigsten guten:**
 
-1. **Ein offizieller Schutzraum**, wo es einen gibt. In Schweden, Polen und der Ukraine sind diese mit einem Schild gekennzeichnet.
+1. **Ein offizieller Schutzraum**, wo es einen gibt. Meist ist er mit einem Schild gekennzeichnet.
 2. **Unter der Erde:** ein Keller ohne Fenster, eine Tiefgarage, eine U-Bahn-Station, ein Tunnel oder eine Unterführung. Ein Keller schützt weniger als ein echter Schutzraum.
 3. **Ein Innenraum in einem Gebäude:** ohne Fenster, mit möglichst wenigen Außenwänden, Fenstern und Türen. Denken Sie an einen Flur, einen Abstellraum, einen begehbaren Schrank oder ein Treppenhaus ohne viel Glas, nahe an einer tragenden Innenwand.
-4. **Die Zwei-Wände-Regel:** Sorgen Sie für mindestens zwei stabile Wände zwischen sich und draußen. Wird die Außenwand beschädigt, hält die zweite Wand Schutt und Glas ab. Der ukrainische Leitfaden warnt: Diese Regel bietet keine vollständige Sicherheit. Gehen Sie so schnell wie möglich in einen echten Schutzraum.
+4. **Die Zwei-Wände-Regel:** Sorgen Sie für mindestens zwei stabile Wände zwischen sich und draußen. Wird die Außenwand beschädigt, hält die zweite Wand Schutt und Glas ab. Diese Regel bietet keine vollständige Sicherheit. Gehen Sie so schnell wie möglich in einen echten Schutzraum.
 5. **Ein Badezimmer** nur als letzte Wahl, und nur, wenn es kein Fenster und keinen Gas-Durchlauferhitzer oder Gaskessel hat.
 
 ### Zu Hause
@@ -119,7 +119,7 @@ Gehen Sie bei einem Alarm sofort zum nächstgelegenen Schutz.
 
 - Lassen Sie sich sofort zu Boden fallen, am besten in eine Mulde, einen Graben oder hinter einen hohen Bordstein.
 - Bedecken Sie Ihren Kopf mit den Händen oder einer Tasche.
-- Legen Sie sich flach hin. Der ukrainische Leitfaden nennt auch: Bedecken Sie Ihre Ohren mit den Handflächen und öffnen Sie den Mund.
+- Legen Sie sich flach hin. Bedecken Sie Ihre Ohren mit den Handflächen und öffnen Sie den Mund.
 - Warten Sie die erste Salve ab. Gehen Sie danach in einen tief gelegenen Raum nahe an einem Ausgang.
 
 **Drohnen.** Sehen oder hören Sie eine Drohne, gehen Sie sofort zu einem Schutzort. Gibt es bei einer Drohne, die Sprengstoff abwirft, keinen Schutzort in der Nähe, bewegen Sie sich im Zickzack und ändern Sie alle 7 bis 10 Meter die Richtung. Halten Sie sich von Regierungsgebäuden, strategischen und militärischen Orten fern.
@@ -134,7 +134,6 @@ Gehen Sie bei einem Alarm sofort zum nächstgelegenen Schutz.
 
 - Suchen Sie vorher die Schutzorte bei Ihrer Arbeit und an der Schule Ihrer Kinder heraus.
 - Nehmen Sie die Treppe, nicht den Aufzug.
-- In der Ukraine haben Schulen einen eigenen Schutzraum für Schüler und Personal, mit mindestens 2 Litern Trinkwasser pro Person und Tag.
 
 ### Kinder
 

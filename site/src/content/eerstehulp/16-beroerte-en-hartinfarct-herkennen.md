@@ -93,7 +93,7 @@ Bron: [Gezondheid en Wetenschap: Beroerte](https://www.gezondheidenwetenschap.be
 ## Als hulp lang op zich laat wachten
 
 - Bij een beroerte en een hartaanval telt elke minuut. Hoe sneller medische hulp, hoe minder schade aan hersenen of hart. Zoek dus de snelste weg naar zorg.
-- Bij een beroerte zegt de IFRC dat de helper het slachtoffer soms zelf naar een ziekenhuis moet brengen, met de wagen of een ander middel, als er geen ziekenwagen snel ter plaatse kan zijn. Kies dan de snelste manier en zorg dat de verplaatsing veilig kan. De kaart in de app (knop Dichtstbij) toont ziekenhuizen.
+- Bij een beroerte moet je het slachtoffer soms zelf naar een ziekenhuis brengen, met de wagen of een ander middel, als er geen ziekenwagen snel ter plaatse kan zijn. Kies dan de snelste manier en zorg dat de verplaatsing veilig kan. De kaart in de app (knop Dichtstbij) toont ziekenhuizen.
 - Duurt het lang voor de hulpdiensten er zijn, laat dan een AED halen en hou die dicht bij het slachtoffer. Een hartaanval kan overgaan in een hartstilstand.
 - Hou het slachtoffer in rust, zonder inspanning.
 - Volg ademhaling en bewustzijn voortdurend op. Noteer het uur waarop de klachten begonnen en elke verandering. Geef dat door aan de zorgverleners.
@@ -115,7 +115,7 @@ Bron: [IFRC Guidelines 2020](https://www.ifrc.org/sites/default/files/2022-02/EN
 - Tijd telt: wacht niet af. Laat het slachtoffer alleen als er geen andere mogelijkheid is. Wijs een omstander rechtstreeks aan om hulp te halen en geef mee waar het is, wat er gebeurd is, hoeveel slachtoffers er zijn en hoe ze eraan toe zijn. Bij een beroerte: ook wanneer de klachten begonnen.
 - Verdeel de taken onder de omstanders: hulp halen, het slachtoffer in het oog houden, de eigen medicatie of een AED halen.
 - Hartaanval: blijf bij het slachtoffer tot er hulp is. Laat het geen inspanning doen.
-- Beroerte: kan er geen ziekenwagen snel komen, dan moet je het slachtoffer volgens de IFRC soms zelf naar een ziekenhuis brengen (zie Als hulp lang op zich laat wachten).
+- Beroerte: kan er geen ziekenwagen snel komen, dan moet je het slachtoffer soms zelf naar een ziekenhuis brengen (zie Als hulp lang op zich laat wachten).
 - Reanimeer je en ben je alleen zonder telefoon, zie dan onderwerp 2 (Lukt bellen niet).
 - Zie ook onderwerp 1 (Lukt bellen niet: hulp halen zonder telefoon) en Noodnummers in de app, Als bellen niet lukt.
 

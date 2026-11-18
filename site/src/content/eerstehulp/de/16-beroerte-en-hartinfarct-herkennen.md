@@ -95,7 +95,7 @@ Quelle: [Gezondheid en Wetenschap: Schlaganfall](https://www.gezondheidenwetensc
 ## Wenn Hilfe lange auf sich warten lässt
 
 - Bei einem Schlaganfall und einem Herzinfarkt zählt jede Minute. Je schneller medizinische Hilfe da ist, desto geringer ist der Schaden an Gehirn oder Herz. Suchen Sie also den schnellsten Weg zur Versorgung.
-- Bei einem Schlaganfall sagt die IFRC, dass die helfende Person die betroffene Person manchmal selbst in ein Krankenhaus bringen muss, mit dem Auto oder einem anderen Mittel, wenn kein Krankenwagen schnell vor Ort sein kann. Wählen Sie dann den schnellsten Weg und sorgen Sie dafür, dass der Transport sicher möglich ist. Die Karte in der App (Schaltfläche Am nächsten) zeigt Krankenhäuser.
+- Bei einem Schlaganfall müssen Sie die betroffene Person manchmal selbst in ein Krankenhaus bringen, mit dem Auto oder einem anderen Mittel, wenn kein Krankenwagen schnell vor Ort sein kann. Wählen Sie dann den schnellsten Weg und sorgen Sie dafür, dass der Transport sicher möglich ist. Die Karte in der App (Schaltfläche Am nächsten) zeigt Krankenhäuser.
 - Dauert es lange, bis der Rettungsdienst da ist, lassen Sie einen AED holen und halten Sie ihn in der Nähe der Person bereit. Ein Herzinfarkt kann in einen Kreislaufstillstand übergehen.
 - Halten Sie die Person in Ruhe, ohne Anstrengung.
 - Beobachten Sie Atmung und Bewusstsein ständig. Notieren Sie die Uhrzeit, zu der die Beschwerden begonnen haben, und jede Veränderung. Geben Sie das an das medizinische Personal weiter.
@@ -117,7 +117,7 @@ Quelle: [IFRC Guidelines 2020](https://www.ifrc.org/sites/default/files/2022-02/
 - Die Zeit zählt: Warten Sie nicht ab. Lassen Sie die betroffene Person nur allein, wenn es keine andere Möglichkeit gibt. Sprechen Sie Umstehende direkt an, damit sie Hilfe holen, und geben Sie mit, wo es ist, was passiert ist, wie viele Betroffene es gibt und in welchem Zustand sie sind. Bei einem Schlaganfall: auch, wann die Beschwerden begonnen haben.
 - Verteilen Sie die Aufgaben unter den Umstehenden: Hilfe holen, die betroffene Person im Auge behalten, die eigenen Medikamente oder einen AED holen.
 - Herzinfarkt: Bleiben Sie bei der betroffenen Person, bis Hilfe da ist. Lassen Sie sie sich nicht anstrengen.
-- Schlaganfall: Kann kein Krankenwagen schnell kommen, müssen Sie die betroffene Person laut der IFRC manchmal selbst in ein Krankenhaus bringen (siehe Wenn Hilfe lange auf sich warten lässt).
+- Schlaganfall: Kann kein Krankenwagen schnell kommen, müssen Sie die betroffene Person manchmal selbst in ein Krankenhaus bringen (siehe Wenn Hilfe lange auf sich warten lässt).
 - Führen Sie eine Wiederbelebung durch und sind Sie allein ohne Telefon, siehe Thema 2 (Kommt kein Anruf zustande).
 - Siehe auch Thema 1 (Kommt kein Anruf zustande: Hilfe holen ohne Telefon) und Notrufnummern in der App, Wenn kein Anruf möglich ist.
 

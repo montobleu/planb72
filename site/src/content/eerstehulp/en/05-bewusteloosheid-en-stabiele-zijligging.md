@@ -35,7 +35,7 @@ Someone is unconscious if they do not respond to stimuli from their surroundings
 
 Possible causes: poisoning (carbon monoxide, alcohol), low blood sugar, lack of oxygen, a brain haemorrhage, meningitis, a head injury or a seizure.
 
-The level of consciousness can decrease in stages. The IFRC and the ERC use the AVPU scale:
+The level of consciousness can decrease in stages. You can assess this with the AVPU scale:
 
 - A: alert, but possibly confused;
 - V: responds only to your voice;
@@ -68,7 +68,7 @@ Place the casualty in the recovery position if they:
 - have difficulty breathing because of blood, vomit or other body fluids;
 - have to be left alone because you have to go and raise the alarm.
 
-Features of the position according to the ERC and the IFRC:
+Features of the position:
 
 1. The casualty lies on their side.
 2. The arms and legs are bent.
@@ -94,7 +94,7 @@ Think of a spinal injury after a road traffic accident, a fall from height or a 
 3. Watch the mouth constantly. If vomit comes up, turn the casualty onto their side immediately, no matter how, so that the vomit can drain out.
 4. If they are lying on their front: watch the mouth constantly and let vomit drain out.
 5. Check the level of consciousness and the breathing every minute.
-6. The Croix-Rouge de Belgique stresses: the injury must be clearly and immediately identifiable. If you are in doubt whether there is an injury, do place the casualty in the recovery position.
+6. The injury must be clearly and immediately identifiable. If you are in doubt whether there is an injury, do place the casualty in the recovery position.
 
 ### Fainting
 
@@ -115,7 +115,7 @@ Source: [Gezondheid en Wetenschap: Unconsciousness](https://www.gezondheidenwete
 - Try to find out the cause, such as diabetes, poisoning or a head injury. Look for open packaging of medicines or products nearby and give it to the emergency services (see topic 12).
 - Write down what you see and when: how long the person has been unconscious, whether they respond to voice or pain, and every change.
 - If you suspect a spinal injury, help is still far away, and there are at least two rescuers: you may then turn the casualty onto their side while one rescuer keeps the head in line with the back. If help is coming soon, only use head tilt or jaw lift.
-- The Croix-Rouge de Belgique explains that with a clear injury to the head, neck or trunk, you can leave the casualty on their back if they are clearly breathing and the emergency services will be on the scene soon. If it takes a long time, an open airway through the recovery position takes priority.
+- With a clear injury to the head, neck or trunk, you can leave the casualty on their back if they are clearly breathing and the emergency services will be on the scene soon. If it takes a long time, an open airway through the recovery position takes priority.
 - Keep the casualty warm. Put something between the body and the ground, cover them with dry layers and protect them from the wind.
 - Do not give an unconscious or drowsy person anything to eat or drink.
 - If the person wakes up, speak calmly to them, explain what has happened and keep monitoring them.

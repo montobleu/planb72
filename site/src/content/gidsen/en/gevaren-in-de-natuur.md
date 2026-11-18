@@ -217,7 +217,7 @@ Young children often put berries or leaves in their mouths. Usually this ends we
 
 **How plants cause harm**
 
-| Way | Examples from the source |
+| Way | Examples |
 | --- | --- |
 | Swallowing | Many plants are poisonous when ingested, in whole or in part (leaves, berries, fruits, bulbs) |
 | Skin irritation from plant sap | Spurge, greater celandine |
@@ -350,7 +350,7 @@ Source: [Vlaanderen.be: Swimming or water sports safely in open water](https://w
 
 Since the early 2000s there have been more and more wild boar in Flanders, including in residential areas. They are naturally shy of people, but intelligent. If people feed them, they learn to associate people with food; then they lose their shyness. They remain **wild animals that can react unpredictably**. They often cross the road without warning. They can carry pathogens: **avoid close contact**.
 
-**What the Agentschap Natuur en Bos recommends**
+**What to do**
 
 - Do not feed them. Do not leave waste or food scraps behind.
 - Screen off rubbish bags and compost heaps.
@@ -364,7 +364,7 @@ Source: [Agentschap Natuur en Bos: Wild boar nearby?](https://natuurenbos.vlaand
 
 ## The wolf in Flanders
 
-The chance of meeting a wolf by accident is very small. Wolves are mainly active at night, shy, and well camouflaged. According to the Agentschap Natuur en Bos and the INBO, the number of incidents in our Western environment is extremely small. The chance of being injured by a dog is much greater than by a wolf. The dangerous ones are mainly wolves that have been fed by people and associate people with food.
+The chance of meeting a wolf by accident is very small. Wolves are mainly active at night, shy, and well camouflaged. The number of incidents in our Western environment is extremely small. The chance of being injured by a dog is much greater than by a wolf. The dangerous ones are mainly wolves that have been fed by people and associate people with food.
 
 **If you come face to face with a wolf**
 

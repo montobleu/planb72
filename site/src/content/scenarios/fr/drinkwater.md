@@ -63,8 +63,8 @@ Source : [SWDE](https://www.swde.be/fr/qualite-de-leau-eau-non-potable) · [RIVM
 
 ### Quelle quantité d'eau
 
-- Le Centre de crise National recommande une réserve pour au moins 3 jours. Sur la page consacrée à l'eau potable, il cite 4 litres par personne et par jour. Dans la liste pour le kit d'urgence, il cite 3 à 10 litres par personne et par jour : un adulte boit 1,5 à 2 litres, le reste sert à se laver, aux toilettes et à cuisiner.
-- Le CDC américain recommande au moins 1 gallon (environ 3,8 litres) par personne et par jour, pour au moins 3 jours, et une réserve pour 2 semaines si possible.
+- Comptez 3 litres par personne et par jour, pour boire et cuisiner. Un adulte boit lui-même 1,5 à 2 litres. Davantage si vous le pouvez, pour vous laver et pour les toilettes.
+- Gardez une réserve pour au moins 3 jours, de préférence plus longtemps.
 - Prévoyez davantage pour les femmes enceintes, les malades, les enfants, les femmes qui allaitent, les animaux domestiques et par temps chaud. En cas de forte chaleur, les besoins peuvent doubler.
 - Gardez aussi de côté de l'eau non destinée à la boisson, pour vous laver et nettoyer.
 
@@ -77,7 +77,7 @@ Source : [SWDE](https://www.swde.be/fr/qualite-de-leau-eau-non-potable) · [RIVM
 - Utilisez des bouteilles vides et propres ou un jerrican, de préférence adaptés aux denrées alimentaires.
 - Choisissez un récipient solide et incassable (pas de verre) avec un bouchon qui ferme bien et un goulot étroit.
 - N'utilisez jamais un récipient qui a contenu des substances toxiques, comme de l'eau de Javel ou des pesticides.
-- Lavez le récipient avec du produit vaisselle et rincez bien. Le CDC conseille de le désinfecter ensuite : 1 cuillère à café d'eau de Javel sans parfum (5 à 9 pour cent d'hypochlorite de sodium) dans environ 1 litre d'eau, bien secouer pour que toutes les parois intérieures soient mouillées, attendre au moins 30 secondes, vider et laisser sécher.
+- Lavez le récipient avec du produit vaisselle et rincez bien. Désinfectez-le ensuite : 1 cuillère à café d'eau de Javel sans parfum (5 à 9 pour cent d'hypochlorite de sodium) dans environ 1 litre d'eau, bien secouer pour que toutes les parois intérieures soient mouillées, attendre au moins 30 secondes, vider et laisser sécher.
 - Remplissez d'eau propre et fermez bien.
 - Écrivez « eau potable » et la date sur le récipient. Remplacez l'eau que vous avez mise vous-même en réserve tous les 6 mois.
 - Conservez-la entre environ 10 et 21 °C, à l'abri du soleil et loin de l'essence et des pesticides.
@@ -104,12 +104,12 @@ Source : [Centre de crise National : eau potable](https://centredecrise.be/fr/ri
 
 **En cas d'avis d'ébullition (orange).**
 
-Utilisez de l'eau en bouteille ou de l'eau bouillie. Le CDC cite ces usages : boire, faire la vaisselle, se brosser les dents, laver et préparer les aliments, se laver les mains, faire des glaçons et préparer les biberons. Le RIVM néerlandais indique que se doucher, se brosser les dents et faire la vaisselle à la main avec de l'eau non bouillie ne sont pas dangereux. Suivez l'avis de votre propre compagnie des eaux. En cas de doute, choisissez l'approche la plus stricte.
+Utilisez de l'eau en bouteille ou de l'eau bouillie pour boire, faire la vaisselle, vous brosser les dents, laver et préparer les aliments, vous laver les mains, faire des glaçons et préparer les biberons. Si votre compagnie des eaux donne un autre avis, suivez celui-ci.
 
 Voici comment faire bouillir l'eau :
 
 1. Si l'eau est trouble, filtrez-la à travers un linge propre, du papier essuie-tout ou un filtre à café. Ou laissez-la décanter et prélevez l'eau claire.
-2. Portez l'eau à ébullition et laissez-la bouillir à gros bouillons. Le CDC indique au moins 1 minute. Le RIVM indique 3 minutes. Si votre compagnie des eaux indique une durée, suivez celle-ci.
+2. Portez l'eau à ébullition et laissez-la bouillir à gros bouillons pendant au moins 1 minute. Si votre compagnie des eaux indique une durée, suivez celle-ci.
 3. Laissez-la refroidir.
 4. Conservez-la dans des récipients ou des bouteilles propres et bien fermés.
 5. Si elle a un goût plat, transvasez-la quelques fois d'un récipient à l'autre, ou laissez-la reposer quelques heures.
@@ -135,7 +135,7 @@ Voici comment faire bouillir l'eau :
 Utilisez-les uniquement si vous n'avez plus d'eau en bouteille ni de réserve. Si vous ne pouvez pas traiter l'eau, attendez le plus longtemps possible avant de boire de l'eau douteuse, mais ne vous laissez pas déshydrater.
 
 - **Faire bouillir** est la manière la plus sûre de tuer les germes.
-- **Eau de Javel.** Utilisez de l'eau de Javel ordinaire, sans parfum. Regardez d'abord l'étiquette : si elle donne des instructions pour désinfecter l'eau, suivez-les. Le CDC indique pour l'eau de Javel à 5 à 9 pour cent d'hypochlorite de sodium : 2 gouttes (0,1 ml) par litre d'eau. Pour l'eau de Javel à 1 pour cent : 10 gouttes (0,5 ml) par litre. Si l'eau est trouble, colorée ou très froide, utilisez le double. Mélangez bien et attendez au moins 30 minutes avant de boire. L'eau de Javel belge peut avoir une autre concentration : lisez toujours l'étiquette.
+- **Eau de Javel.** Utilisez de l'eau de Javel ordinaire, sans parfum. Regardez d'abord l'étiquette : si elle donne des instructions pour désinfecter l'eau, suivez-les. Pour l'eau de Javel à 5 à 9 pour cent d'hypochlorite de sodium : 2 gouttes (0,1 ml) par litre d'eau. Pour l'eau de Javel à 1 pour cent : 10 gouttes (0,5 ml) par litre. Si l'eau est trouble, colorée ou très froide, utilisez le double. Mélangez bien et attendez au moins 30 minutes avant de boire. L'eau de Javel belge peut avoir une autre concentration : lisez toujours l'étiquette.
 - **Comprimés ou gouttes.** Suivez les instructions sur l'emballage. Le dioxyde de chlore tue le parasite Cryptosporidium s'il est bien utilisé. Les comprimés d'iode et de chlore ne tuent pas ce parasite. Les personnes enceintes ou ayant des problèmes de thyroïde évitent de boire de l'eau désinfectée à l'iode. Personne ne boit une telle eau pendant plus de quelques semaines.
 - **Filtres.** Les filtres portables n'éliminent pas les virus. Pour les bactéries, la taille des pores doit être de 0,3 micron ou moins, pour les parasites de 1 micron ou moins. Après le filtrage, désinfectez encore l'eau avec un produit.
 - **Lumière du soleil.** Ne fonctionne qu'avec de l'eau claire. Remplissez des bouteilles en plastique transparentes et propres, couchez-les au soleil : 6 heures par temps ensoleillé, 2 jours par temps nuageux. Un support sombre aide.
@@ -159,7 +159,7 @@ Utilisez-les uniquement si vous n'avez plus d'eau en bouteille ni de réserve. S
 
 ### Animaux domestiques et autres animaux
 
-- Prévoyez de l'eau supplémentaire pour les animaux domestiques dans votre réserve. Le Centre de crise National recommande de la nourriture, de l'eau et des gamelles pour 72 heures.
+- Prévoyez de l'eau supplémentaire pour les animaux domestiques dans votre réserve, avec de la nourriture, de l'eau et des gamelles pour 72 heures.
 
 Source : [SWDE](https://www.swde.be/fr/qualite-de-leau-eau-non-potable) · [RIVM](https://www.rivm.nl/drinkwater/toelichting-kookadvies-drinkwater) · [CDC](https://www.cdc.gov/water-emergency/about/index.html) · [CDC : conserver l'eau](https://www.cdc.gov/water-emergency/about/how-to-create-and-store-an-emergency-water-supply.html) · [Ready.gov](https://www.ready.gov/water) · [Centre de crise National : kit d'urgence](https://centredecrise.be/fr/que-pouvez-vous-faire/preparez-un-kit-durgence/un-kit-durgence-la-maison) · [Centre de crise National : eau potable](https://centredecrise.be/fr/risques-en-belgique/risques-societaux/defaillance-de-lapprovisionnement-en-eau-potable) · [Centre de crise National : informations pendant une situation d'urgence](https://centredecrise.be/fr/que-pouvez-vous-faire/informez-vous/linformation-pendant-une-situation-durgence)
 

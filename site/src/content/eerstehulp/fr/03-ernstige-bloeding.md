@@ -55,8 +55,6 @@ Source : [Gezondheid en Wetenschap : Hémorragie grave](https://www.gezondheiden
 10. Si le sang traverse, ajoutez des tissus ou des pansements par-dessus et appuyez plus fort à l'endroit qui saigne.
 11. Continuez à exercer une pression jusqu'à l'arrivée des services de secours. Bien appuyer peut faire mal. Ne relâchez pas.
 
-Le programme américain de la FEMA recommande de ne pas garder d'épaisses couches entre vos mains et la plaie, car cela réduit la pression. La recommandation belge dit d'ajouter des couches sur le tissu imbibé de sang. Suivez la recommandation belge.
-
 ### Un objet dans la plaie
 
 1. Laissez l'objet en place. Ne le retirez pas.
@@ -67,7 +65,7 @@ Le programme américain de la FEMA recommande de ne pas garder d'épaisses couch
 
 Un garrot est réservé à une hémorragie mettant la vie en danger sur un bras ou une jambe, lorsque la pression directe et un pansement compressif ne fonctionnent pas. Un garrot de fabrication industrielle est préférable. Un garrot improvisé, comme une ceinture, échoue souvent. Vous pouvez l'essayer en dernier recours pour au moins ralentir l'hémorragie.
 
-1. Placez le garrot entre la plaie et le tronc, environ 5 à 7,5 cm au-dessus de la plaie (la source dit 2 à 3 pouces). Il peut être posé par-dessus les vêtements.
+1. Placez le garrot entre la plaie et le tronc, environ 5 à 7,5 cm au-dessus de la plaie. Il peut être posé par-dessus les vêtements.
 2. Ne le placez pas sur une articulation, comme le coude, le genou, le poignet ou la cheville. Une articulation protège les vaisseaux sanguins, de sorte que vous ne pouvez pas exercer assez de pression.
 3. Passez la sangle dans la boucle et tirez l'extrémité le plus fort possible. Fixez-la.
 4. Tournez la tige dans un seul sens jusqu'à ce que l'hémorragie s'arrête. Il est normal que cela fasse mal.
@@ -78,14 +76,12 @@ Un garrot est réservé à une hémorragie mettant la vie en danger sur un bras 
 
 ### Une hémorragie où un garrot n'est pas possible (cou, épaule, aine)
 
-Les recommandations belges de premiers secours ne décrivent pas le remplissage (packing) d'une plaie. Le programme américain Stop the Bleed le fait :
-
 1. Remplissez la plaie de gaze. Si vous n'avez pas de gaze, utilisez un tissu propre, des vêtements, du papier journal ou vos mains. Faites attention aux éclats d'os ou à d'autres morceaux tranchants dans la plaie.
 2. Appuyez ensuite fermement avec les deux mains.
 3. Maintenez la pression au moins 5 minutes avant de regarder à nouveau la plaie.
 4. Si le sang traverse, ajoutez un pansement par-dessus au lieu de retirer la première couche.
 
-L'IFRC mentionne un pansement hémostatique que l'on applique avec une pression directe, si la pression ne suffit pas et qu'un garrot n'est pas possible ou pas disponible.
+Si la pression ne suffit pas et qu'un garrot n'est pas possible ou pas disponible, un pansement hémostatique peut aider. Il s'applique avec une pression directe.
 
 ### Ensuite
 
@@ -105,7 +101,7 @@ Source : [Gezondheid en Wetenschap : Hémorragie grave](https://www.gezondheiden
 
 ## Si les secours tardent à arriver
 
-- Continuez à appuyer. La recommandation belge dit : appuyez jusqu'à l'arrivée des services de secours.
+- Continuez à appuyer jusqu'à l'arrivée des services de secours.
 - Un garrot peut sauver une vie mais aussi avoir des conséquences graves, jusqu'à la perte du membre, surtout s'il reste trop longtemps en place. Il reste pourtant en place jusqu'à l'arrivée des services de secours. Il ne se desserre que sous la conduite d'un professionnel de santé.
 - Notez l'heure de pose. Un garrot qui reste trop longtemps en place abîme les tissus, et l'heure aide les soignants à décider qui doit être traité en premier.
 - Lors d'une catastrophe, d'un attentat ou de violences avec de nombreux blessés, vous pouvez utiliser un garrot comme première mesure rapide : pour aider beaucoup de blessés en même temps ou pour sortir rapidement de la zone de danger une personne ayant une hémorragie mettant sa vie en danger.
@@ -137,7 +133,7 @@ Source : [Gezondheid en Wetenschap : Hémorragie grave](https://www.gezondheiden
 
 - Ne retirez pas un pansement ou un tissu déjà posé sur l'hémorragie.
 - Ne retirez pas un objet de la plaie.
-- N'appuyez pas sur des "points de compression" ailleurs sur le corps. L'IFRC le déconseille.
+- N'appuyez pas sur des "points de compression" ailleurs sur le corps.
 - Ne posez pas de garrot si la pression arrête l'hémorragie. En dehors d'une hémorragie abondante, un garrot peut causer des dégâts.
 - Ne posez un garrot que sur un bras ou une jambe, et pas sur une articulation.
 - Ne desserrez pas un garrot et ne le retirez pas.

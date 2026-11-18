@@ -100,8 +100,8 @@ Bron: [BBK: brochure Stromausfall](https://www.bbk.bund.de/SharedDocs/Downloads/
 
 **Waar je hulp vraagt als bellen niet lukt**
 
-- Vraag je gemeentebestuur wat de gemeente voorziet als bellen niet meer lukt, bijvoorbeeld een informatie- en onthaalpunt. Het BBK (Duitsland) raadt hetzelfde aan voor een noodmelding.
-- Weet waar de dichtstbijzijnde brandweerpost, politie en het ziekenhuis zijn, bij je huis en je werk (Luxemburg). De kaart in de app toont die, met de knop Dichtstbij.
+- Vraag je gemeentebestuur wat de gemeente voorziet als bellen niet meer lukt, bijvoorbeeld een informatie- en onthaalpunt.
+- Weet waar de dichtstbijzijnde brandweerpost, politie en het ziekenhuis zijn, bij je huis en je werk. De kaart in de app toont die, met de knop Dichtstbij.
 
 **Informatie ontvangen zonder internet**
 
@@ -119,7 +119,7 @@ Bron: [BBK: brochure Stromausfall](https://www.bbk.bund.de/SharedDocs/Downloads/
 
 **Geld en betalen**
 
-- Hou contant geld in huis, genoeg voor de basisbehoeften van ongeveer 72 uur (Crisiscentrum). Denk vooruit (Nederland) noemt 70 euro per volwassene en 30 euro per kind.
+- Hou contant geld in huis, genoeg voor de basisbehoeften van ongeveer 72 uur, bijvoorbeeld 70 euro per volwassene en 30 euro per kind.
 
 Bron: [Nationaal Crisiscentrum: verstoring van de digitale infrastructuur](https://crisiscentrum.be/nl/risicos-belgie/maatschappelijke-risicos/verstoring-van-de-digitale-infrastructuur) · [Nationaal Crisiscentrum: evacueren](https://crisiscentrum.be/nl/wat-kan-jij-doen/reageer-correct/evacueren) · [Nationaal Crisiscentrum: een plan in jouw buurt](https://crisiscentrum.be/nl/wat-kan-jij-doen/maak-een-plan/een-plan-jouw-buurt-vereniging) · [Nationaal Crisiscentrum: noodpakket](https://crisiscentrum.be/nl/wat-kan-jij-doen/maak-een-noodpakket/een-noodpakket-bij-je-thuis) · [Nationaal Crisiscentrum: brochure Samen voorbereid](https://crisiscentrum.be/sites/default/files/documents/files/WEB-Brochure%20Samen%20voorbereid-NL.pdf) · [Nationaal Crisiscentrum: informatie tijdens een noodsituatie](https://crisiscentrum.be/nl/wat-kan-jij-doen/informeer-je/informatie-tijdens-een-noodsituatie) · [FOD Economie: vragen van gezinnen over elektriciteitsschaarste](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door) · [BBK: Stromausfall, Vorsorge und Selbsthilfe](https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/Buergerinformationen/stromausfall-vorsorge-selbsthilfe.pdf?__blob=publicationFile&v=17) · [LetzPrepare](https://letzprepare.public.lu/dam-assets/images/guide-letzeprepare/hcpn-campagne26-guide-accessible-fr-002.pdf) · [BE-Alert](https://www.be-alert.be/nl/hoe-werkt-be-alert) · [BEREC](https://www.berec.europa.eu/en/emergency-means) · [BBK: Stromausfall](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Vorsorge/Stromausfall/stromausfall_node.html) · [Denk vooruit: vragen en antwoorden](https://www.denkvooruit.nl/site/binaries/site-content/collections/documents/2025/10/27/toolkit-denk-vooruit-campagne-najaar-2025/20251111-qa-denkvooruit-bronbestand.pdf) · [Ready.gov: make a plan](https://www.ready.gov/plan)
 

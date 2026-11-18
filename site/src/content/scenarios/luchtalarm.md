@@ -61,7 +61,7 @@ bronnen:
 
 ## Herkennen
 
-**De Belgische situatie.** Het Nationaal Crisiscentrum beschrijft een internationaal gewapend conflict als een risico met een zeer lage waarschijnlijkheid. Het scenario dat het onderzocht, speelt zich af op NAVO-grondgebied buiten België. Het Crisiscentrum geeft op die pagina geen eigen stappen voor een luchtaanval. De stappen op deze kaart komen daarom uit de officiële gidsen van Duitsland, Zweden, Oekraïne en Polen.
+**De Belgische situatie.** Een internationaal gewapend conflict is voor België een risico met een zeer lage waarschijnlijkheid. Het scenario uit de nationale risicoanalyse speelt zich af op NAVO-grondgebied buiten België. De Belgische overheid geeft geen eigen stappen voor een luchtaanval. De stappen op deze kaart komen daarom uit de officiële gidsen van andere Europese landen.
 
 **Hoe je gewaarschuwd wordt.** In België verwittigt de overheid je via radio en tv en via omroepwagens van de politie. Werkt het netwerk, dan ook via BE-Alert: sms, e-mail of telefoonoproep. Bij een groot noodgeval krijgt iedereen met een gsm in de getroffen zone een Alert-SMS, ook zonder inschrijving. Valt de stroom uit, luister dan naar een radio op batterijen of een opwindbare radio.
 
@@ -78,8 +78,8 @@ Bron: [Nationaal Crisiscentrum: IGC](https://crisiscentrum.be/nl/risicos-belgie/
 
 - **Zoek je schuilplekken op.** Kies twee of drie plekken dicht bij huis, werk en school. Wandel de route vooraf. Weet wie de sleutel heeft.
 - **Kies je plek in huis.** Kijk welke ruimte de minste buitenmuren, ramen en deuren heeft: een kelder zonder ramen, of een gang, berging of inloopkast in het midden van de woning.
-- **Leg een noodtas klaar** en zet ze bij de deur. Het Zweedse MCF noemt: water in flessen of blik, eten dat op kamertemperatuur bewaart, hygiëneproducten en toiletpapier, medicatie en een EHBO-doos, warme kleding, identiteitskaart, cash en bankkaarten, sleutels, gsm met lader of powerbank, en een zaklamp. Oekraïne voegt toe: reservebatterijen, dekens of isolatiedekens, een radio op batterijen en een brandblusser. Reken op een verblijf van minstens twee dagen.
-- **Hou thuis een voorraad** voor minstens 3 dagen, zoals het Nationaal Crisiscentrum aanraadt: water, houdbaar eten, een radio, een zaklamp, medicatie.
+- **Leg een noodtas klaar** en zet ze bij de deur: water in flessen of blik, eten dat op kamertemperatuur bewaart, hygiëneproducten en toiletpapier, medicatie en een EHBO-doos, warme kleding, identiteitskaart, cash en bankkaarten, sleutels, gsm met lader of powerbank, een zaklamp met reservebatterijen, dekens of isolatiedekens, een radio op batterijen en een brandblusser. Reken op een verblijf van minstens twee dagen.
+- **Hou thuis een voorraad** voor minstens 3 dagen: water, houdbaar eten, een radio, een zaklamp, medicatie.
 - **Verstevig ramen** met kleefsterke folie. Sluit ze als het kan af met zandzakken of stevige meubels.
 - **Maak een plan** met je gezin: wie doet wat, waar je samenkomt en hoe je elkaar bereikt of terugvindt, ook zonder telefoon of internet. Spreek dat ook met je buren af.
 - **Oefen.** Leg vooraf de route naar je schuilplek vast en volg die bij een alarm.
@@ -92,10 +92,10 @@ Ga bij een alarm onmiddellijk naar de dichtstbijzijnde beschutting.
 
 **Rangschikking van schuilplekken, van best naar minst goed:**
 
-1. **Een officiële schuilplaats**, waar die bestaat. In Zweden, Polen en Oekraïne zijn die gemarkeerd met een bord.
+1. **Een officiële schuilplaats**, waar die bestaat. Meestal is die gemarkeerd met een bord.
 2. **Onder de grond:** een kelder zonder ramen, een ondergrondse parking, een metrostation, een tunnel of een onderdoorgang. Een kelder beschermt minder dan een echte schuilplaats.
 3. **Een binnenkamer in een gebouw:** zonder ramen, met zo weinig mogelijk buitenmuren, ramen en deuren. Denk aan een gang, een berging, een inloopkast of een traphal zonder veel glas, dicht bij een dragende binnenmuur.
-4. **De twee-muren-regel:** zorg voor minstens twee stevige muren tussen jou en buiten. Raakt de buitenmuur beschadigd, dan houdt de tweede muur puin en glas tegen. De Oekraïense gids waarschuwt: deze regel geeft geen volledige veiligheid. Ga zo snel mogelijk naar een echte schuilplaats.
+4. **De twee-muren-regel:** zorg voor minstens twee stevige muren tussen jou en buiten. Raakt de buitenmuur beschadigd, dan houdt de tweede muur puin en glas tegen. Deze regel geeft geen volledige veiligheid. Ga zo snel mogelijk naar een echte schuilplaats.
 5. **Een badkamer** alleen als laatste keuze, en alleen als ze geen raam en geen gasgeiser of gasketel heeft.
 
 ### Thuis
@@ -117,7 +117,7 @@ Ga bij een alarm onmiddellijk naar de dichtstbijzijnde beschutting.
 
 - Laat je meteen op de grond vallen, liefst in een kuil, greppel of achter een hoge stoeprand.
 - Bedek je hoofd met je handen of een tas.
-- Lig plat. De Oekraïense gids noemt ook: bedek je oren met je handpalmen en open je mond.
+- Lig plat. Bedek je oren met je handpalmen en open je mond.
 - Wacht de eerste salvo af. Ga daarna naar een diepe ruimte dicht bij een uitgang.
 
 **Drones.** Zie je of hoor je een drone, ga dan meteen naar een schuilplek. Is er geen schuilplek in de buurt bij een drone die explosieven laat vallen, beweeg dan in zigzag en verander elke 7 tot 10 meter van richting. Blijf weg van overheidsgebouwen, strategische en militaire plaatsen.
@@ -132,7 +132,6 @@ Ga bij een alarm onmiddellijk naar de dichtstbijzijnde beschutting.
 
 - Zoek vooraf de schuilplekken bij je werk en de school van je kinderen.
 - Neem de trap, niet de lift.
-- In Oekraïne hebben scholen een eigen schuilplaats voor leerlingen en personeel, met minstens 2 liter drinkwater per persoon per dag.
 
 ### Kinderen
 

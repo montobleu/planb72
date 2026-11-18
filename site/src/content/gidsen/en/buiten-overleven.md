@@ -48,7 +48,7 @@ origineel_datum: "2026-11-18"
 
 ## What comes first
 
-There is no fixed order that always applies. The American survival manuals teach a "survival pattern": you put your needs in order of importance, depending on where you are, and you adjust that order when circumstances change.
+There is no fixed order that always applies. Put your needs in order of importance, depending on where you are, and adjust that order when circumstances change.
 
 | Situation | First priority | Then |
 | --- | --- | --- |
@@ -96,7 +96,7 @@ Hypothermia occurs when your body loses more heat than it produces. Below a body
 6. If the person is still shivering and fully conscious: let them warm up in a sleeping bag or under a blanket (with a survival blanket if you have one), cover the head too, give dry clothing and a warm, sugary drink or food.
 7. If they no longer shiver or are not fully conscious: rewarm actively, preferably with an electric blanket, otherwise with heat packs, cherry stone cushions or a hot water bottle. Watch out for burns. In that case give **nothing to eat or drink**.
 
-**Prevention: the US Army mnemonic COLD**
+**Prevention: the mnemonic COLD**
 
 - **C**lean: keep clothing clean. Dirty clothing insulates less well.
 - **O**verheating: avoid it. Sweat makes your clothing wet and cools you down. Take off a layer or open your coat before you start sweating.
@@ -170,7 +170,7 @@ Source: [US Army FM 21-76](https://archive.org/details/fm-21-76-survival-manual)
 
 ## Insulating yourself from the ground
 
-- **Never sleep directly on the ground.** According to the US Army, at rest you lose up to 80 per cent of your body heat to the ground.
+- **Never sleep directly on the ground.** At rest you lose up to 80 per cent of your body heat to the ground.
 - Put pine branches, grass, leaves, pine needles or other insulating material under you.
 - In a hut of branches and leaves: a layer of 30 cm.
 - In a snow cave or pit: put green conifer branches on the floor.
@@ -197,7 +197,7 @@ Even at a permitted site, the **wildfire risk code** of the Agentschap Natuur en
 | Orange | General ban on fires, except cooking fires as a gas or pit fire |
 | Red | Ban on fire in any form |
 
-Wallonia and Brussels have their own rules. The Crisis Center recommends finding out in advance about the fire risk and the colour code on the website of the Agentschap Natuur en Bos, Wallonie.be, the municipality or the nature site. On site: follow the rules and guidelines posted at the edge of the nature area.
+Wallonia and Brussels have their own rules. Find out in advance about the fire risk and the colour code on the website of the Agentschap Natuur en Bos, Wallonie.be, the municipality or the nature site. On site: follow the rules and guidelines posted at the edge of the nature area.
 
 **Making a fire safely**
 
@@ -223,7 +223,7 @@ Source: [Vlaanderen.be: Making a fire in or near a nature area](https://www.vlaa
 - Dew: tie cloths or tufts of fine grass around your ankles and walk through dewy grass before sunrise. Wring the water out into a container.
 - Water sometimes collects in tree forks or rock crevices.
 - Grazing animals (including deer) are a better guide to water than predators. Bees rarely go further than about six kilometres (four miles) from their nest and usually have water within that distance.
-- According to the American manual, rainwater that you collect in clean containers is usually safe. Water from lakes, ponds, marshes, springs and streams must be purified, especially near human settlements.
+- Rainwater that you collect in clean containers is usually safe. Water from lakes, ponds, marshes, springs and streams must be purified, especially near human settlements.
 - In Flanders, many bodies of water are polluted, too deep, too cold or dangerous in some other way. Pay attention to signs about blue-green algae.
 
 **Never drink**: seawater, urine or alcohol.
@@ -234,7 +234,7 @@ Source: [US Army FM 21-76](https://archive.org/details/fm-21-76-survival-manual)
 
 | Method | What it does | Limitations |
 | --- | --- | --- |
-| **Boiling** (best choice) | The CDC recommends letting water boil for a full minute. That kills pathogens, even at the altitudes travellers usually visit. | You need a fire or a stove. Chemicals remain. |
+| **Boiling** (best choice) | Let water boil for a full minute. That kills pathogens, even at the altitudes travellers usually visit. | You need a fire or a stove. Chemicals remain. |
 | **Filter** with pores smaller than 1 µm | Removes bacteria and parasites (protozoa) | Does not reliably remove viruses (for example norovirus) |
 | **Chlorine or iodine** | Works against bacteria and viruses | Works poorly against Cryptosporidium at practical concentrations. Always follow the product's instructions. |
 | **Chlorine dioxide** | Works against all pathogens in water, including Cryptosporidium | Follow the product's instructions |
@@ -252,12 +252,12 @@ Source: [CDC Yellow Book: Water disinfection for travelers](https://www.cdc.gov/
 
 ## Food: be extremely careful
 
-**You need it less urgently than you think.** You can go several weeks without food. Water, warmth and being found come first. The American manual even advises against eating if you have no water.
+**You need it less urgently than you think.** You can go several weeks without food. Water, warmth and being found come first. It is better not to eat if you have no water.
 
 **Mushrooms: do not eat them.**
 
-- The US Army is clear: do not eat mushrooms in a survival situation. Only a certain identification is good enough, and there is no room for experimenting. Some mushrooms kill quickly, and for some there is no antidote.
-- The Poison Centre says the same: there are **no tricks** to tell an edible mushroom from a poisonous one. Young mushrooms are not always edible. White mushrooms can be poisonous. A poisonous mushroom can taste good. Slugs also eat poisonous species. Cooking, drying or freezing does not make the poison of the death cap harmless. A single specimen can already be very serious.
+- Do not eat mushrooms in a survival situation. Only a certain identification is good enough, and there is no room for experimenting. Some mushrooms kill quickly, and for some there is no antidote.
+- There are **no tricks** to tell an edible mushroom from a poisonous one. Young mushrooms are not always edible. White mushrooms can be poisonous. A poisonous mushroom can taste good. Slugs also eat poisonous species. Cooking, drying or freezing does not make the poison of the death cap harmless. A single specimen can already be very serious.
 - Identifying with a book or a photo is very dangerous.
 - **In Flanders and Brussels, picking mushrooms in public areas is prohibited.** In Wallonia it is restricted: with the owner's permission, between sunrise and sunset, at most 10 litres per person, and not during the hunting season in state forests.
 
@@ -308,7 +308,7 @@ Source: [Rode Kruis-Vlaanderen: First aid for heatstroke](https://www.gezondheid
 
 ## Per person
 
-| Who | What the sources say |
+| Who | What to do |
 | --- | --- |
 | Children | Teach them: stay where you are if you are lost, find a tree (or bench, lamppost, large stone), listen for your name, wave, blow a whistle, flash a torch. Small children often put berries, leaves or mushrooms in their mouths; keep an eye on them. |
 | Groups | Stay together. If someone has to leave the group, then with a buddy. Watch each other for cold and heat injuries. If someone is injured: two or more people go for help, the others stay. |

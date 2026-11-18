@@ -97,7 +97,7 @@ Quelle: [Gezondheid en Wetenschap: Brandwunden](https://www.gezondheidenwetensch
 
 ## Wenn Hilfe lange auf sich warten lässt
 
-Die IFRC nennt Lösungen für den Fall, dass es kein Leitungswasser oder Verbandmaterial gibt:
+Lösungen für den Fall, dass es kein Leitungswasser oder Verbandmaterial gibt:
 
 - Kein fließendes Wasser: Kühlen Sie mit einer anderen kühlen Flüssigkeit, zum Beispiel Saft oder Milch.
 - Wenig Wasser: Stellen Sie eine Schüssel unter die Brandwunde und gießen Sie das Wasser über die Wunde in die Schüssel. So können Sie das Wasser erneut verwenden. Das funktioniert besser, als die Wunde in eine Schüssel mit Wasser zu halten, denn der Körper erwärmt stehendes Wasser.
@@ -144,6 +144,6 @@ Quelle: [Gezondheid en Wetenschap: Brandwunden](https://www.gezondheidenwetensch
 - Versuchen Sie nicht, ein verschlucktes ätzendes Produkt zu verdünnen. Rufen Sie 112 oder das Antigiftzentrum an. Kommt kein Anruf zustande, siehe Rufen Sie 112 an, wenn.
 - Bringen Sie ohne ärztlichen Rat nichts anderes als sauberes Wasser in ein Auge mit einem chemischen Produkt.
 - Berühren Sie eine Person nach einem Stromunfall nicht, solange der Strom nicht abgeschaltet ist.
-- Verwenden Sie keine Salbe mit Silbersulfadiazin. Die IFRC sagt, dass sie mit einer schlechteren Heilung einhergeht.
+- Verwenden Sie keine Salbe mit Silbersulfadiazin. Sie geht mit einer schlechteren Heilung einher.
 
 Quelle: [Gezondheid en Wetenschap: Brandwunden](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-brandwonden) · [IFRC Guidelines 2020](https://www.ifrc.org/sites/default/files/2022-02/EN_GFARC_GUIDELINES_2020.pdf) · [Gezondheid en Wetenschap: Stromunfall](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-een-elektriciteitsongeval)

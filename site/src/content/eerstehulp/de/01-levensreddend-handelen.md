@@ -1,7 +1,7 @@
 ---
 titel: Lebensrettende Maßnahmen
 volgorde: 1
-kort: "Die vier Schritte des Roten Kreuzes: Sicherheit, Zustand beurteilen, Hilfe alarmieren (112 oder jemanden schicken), weitere Erste Hilfe."
+kort: "Die vier Schritte der Ersten Hilfe: Sicherheit, Zustand beurteilen, Hilfe alarmieren (112 oder jemanden schicken), weitere Erste Hilfe."
 status: concept
 datum: "2026-11-18"
 bronnen:
@@ -39,14 +39,14 @@ origineel_datum: "2026-11-18"
 
 ## Erkennen
 
-Rode Kruis-Vlaanderen lehrt Erste Hilfe in vier Schritten. Sie gehen sie immer in derselben Reihenfolge durch und beginnen von vorn, sobald sich der Zustand ändert:
+Erste Hilfe verläuft in vier Schritten. Sie gehen sie immer in derselben Reihenfolge durch und beginnen von vorn, sobald sich der Zustand ändert:
 
 1. Sorgen Sie für Sicherheit.
 2. Beurteilen Sie den Zustand der betroffenen Person.
 3. Holen Sie fachkundige Hilfe.
 4. Leisten Sie weitere Erste Hilfe.
 
-Ein Zustand ist lebensbedrohlich, wenn Sie bei der ersten Beurteilung eine dieser vier Fragen mit "nein" oder "ja, schwer" beantworten. Die IFRC nennt dies die ABC-Kontrolle:
+Ein Zustand ist lebensbedrohlich, wenn Sie bei der ersten Beurteilung eine dieser vier Fragen mit "nein" oder "ja, schwer" beantworten. Das ist die ABC-Kontrolle:
 
 - Reagiert die Person?
 - Sind die Atemwege offen und frei?
@@ -57,7 +57,7 @@ Kann jemand sprechen oder weinen, dürfen Sie annehmen, dass die Atemwege offen 
 
 Achten Sie auf diese Zeichen eines Kreislaufstillstands: Die Person reagiert nicht und atmet nicht normal. Am Anfang kann es so aussehen, als ob die Person noch atmet: nach Luft schnappen, stöhnen, seufzen, gurgeln oder schnarchen. Das ist keine normale Atmung, sondern "Schnappatmung" (agonale Atmung). Kurze zuckende Bewegungen am Anfang sind möglich und werden oft mit einem epileptischen Anfall verwechselt. Prüfen Sie sofort die Atmung, sobald die Bewegungen aufhören.
 
-Bei Kindern und Säuglingen verwendet der ERC einen schnellen Blick auf drei Dinge. Sehen Sie eines dieser Zeichen, rufen Sie sofort Hilfe:
+Achten Sie bei Kindern und Säuglingen mit einem schnellen Blick auf drei Dinge. Sehen Sie eines dieser Zeichen, rufen Sie sofort Hilfe:
 
 - Verhalten: Reagiert das Kind auf Ihre Stimme oder eine Berührung? Ist es benommen, verwirrt, schlaff oder steif? Weint es untröstlich?
 - Atmung: Atmet es mühsam, zu schnell, zu langsam oder unregelmäßig? Macht es Geräusche? Kann es nicht sprechen oder laut weinen?
@@ -76,7 +76,7 @@ Quelle: [Rode Kruis-Vlaanderen: Vier Schritte der Ersten Hilfe](https://www.rode
 7. Reagiert die Person nicht, rufen Sie laut um Hilfe, auch wenn Sie allein sind. Bestimmen Sie jemanden und bitten Sie diese Person direkt, zu helfen. Drehen Sie die Person auf den Rücken.
 8. Machen Sie die Atemwege frei. Knien Sie sich neben den Brustkorb. Legen Sie eine Hand auf die Stirn und neigen Sie den Kopf vorsichtig nach hinten. Legen Sie zwei Fingerspitzen der anderen Hand unter die Kinnspitze. Drücken Sie nicht auf den weichen Teil unter dem Kinn. Heben Sie das Kinn an und halten Sie es oben. Bei einem Säugling bringen Sie den Kopf in eine neutrale Position, nicht weiter nach hinten. Vermuten Sie eine Wirbelsäulenverletzung, neigen Sie den Kopf nicht nach hinten (siehe Thema 9).
 9. Prüfen Sie die Atmung. Halten Sie die Atemwege offen. Bringen Sie Ihr Ohr und Ihre Wange an Mund und Nase. Schauen Sie, ob sich der Brustkorb hebt und senkt, hören Sie auf Atemgeräusche und fühlen Sie, ob Luft kommt. Tun Sie dies nicht länger als 10 Sekunden. Zweifeln Sie, ob die Atmung normal ist, handeln Sie so, als wäre sie nicht normal.
-10. Rufen Sie 112 an oder lassen Sie jemanden anrufen und bitten Sie diese Person, Ihnen danach Bescheid zu geben, dass es geschehen ist. Sind Sie allein, schalten Sie Ihr Telefon auf Lautsprecher, damit Ihre Hände frei bleiben. Das Rote Kreuz fasst die Informationen in drei Fragen zusammen: wo, was und wer. Geben Sie bei einer bewusstlosen Person ihren Zustand, Ihren Namen und die genaue Adresse an. Beantworten Sie die Fragen der Leitstelle ruhig. Funktioniert die Verbindung, hilft Ihnen die Leitstelle bei den weiteren Schritten. Kommt kein Anruf zustande, schicken Sie jemanden mit denselben Informationen um Hilfe (siehe Rufen Sie 112 an, wenn).
+10. Rufen Sie 112 an oder lassen Sie jemanden anrufen und bitten Sie diese Person, Ihnen danach Bescheid zu geben, dass es geschehen ist. Sind Sie allein, schalten Sie Ihr Telefon auf Lautsprecher, damit Ihre Hände frei bleiben. Fassen Sie die Informationen in drei Fragen zusammen: wo, was und wer. Geben Sie bei einer bewusstlosen Person ihren Zustand, Ihren Namen und die genaue Adresse an. Beantworten Sie die Fragen der Leitstelle ruhig. Funktioniert die Verbindung, hilft Ihnen die Leitstelle bei den weiteren Schritten. Kommt kein Anruf zustande, schicken Sie jemanden mit denselben Informationen um Hilfe (siehe Rufen Sie 112 an, wenn).
 11. Atmet die Person nicht normal: Beginnen Sie sofort mit der Wiederbelebung und lassen Sie einen AED holen (siehe Thema 2).
 12. Atmet die Person normal, reagiert aber nicht: Bringen Sie sie in die stabile Seitenlage, außer Sie vermuten eine Wirbelsäulenverletzung. Prüfen Sie jede Minute, ob die Atmung normal bleibt (siehe Thema 5).
 13. Leisten Sie weitere Erste Hilfe in dieser Reihenfolge: Halten Sie die Atemwege frei, stillen Sie schwere Blutungen (Thema 3), kühlen Sie Brandwunden (Thema 7), versorgen Sie große Wunden und decken Sie sie ab, versorgen Sie Verletzungen an Knochen, Muskeln und Gelenken (Thema 8) und versorgen Sie danach die weniger schweren Verletzungen.
@@ -85,7 +85,7 @@ Quelle: [Rode Kruis-Vlaanderen: Vier Schritte der Ersten Hilfe](https://www.rode
 16. Gibt es mehrere Betroffene: Rufen Sie zuerst 112 an, um das Ausmaß zu melden, und rufen Sie erneut an, sobald Sie mehr wissen. Können Sie nicht anrufen, zählen Sie die Betroffenen und geben Sie diese Zahl der Person mit, die Hilfe holt. Helfen Sie zuerst denen, die Probleme mit der Atmung oder dem Kreislauf haben.
 17. Waschen oder desinfizieren Sie nach der Ersten Hilfe Ihre Hände.
 
-Der ERC empfiehlt, bei jeder betroffenen Person kurz die ABCDE-Reihenfolge durchzugehen:
+Gehen Sie bei jeder betroffenen Person kurz die ABCDE-Reihenfolge durch:
 
 - A (Atemwege): Sind die Atemwege offen? Nach einem Sturz aus der Höhe oder einem schweren Unfall: Denken Sie an eine Halsverletzung.
 - B (Atmung): Atmet die Person normal? Hören Sie eine pfeifende Atmung? Verschluckt sich die Person? Sind Lippen oder Nägel blau? Sind Lippen, Zunge oder Hals geschwollen?
@@ -97,7 +97,7 @@ Quelle: [Rode Kruis-Vlaanderen: Vier Schritte der Ersten Hilfe](https://www.rode
 
 ## Wenn Hilfe lange auf sich warten lässt
 
-Die IFRC beschreibt besondere Umstände, in denen medizinische Hilfe Stunden oder Tage entfernt sein kann: abgelegene Orte und Katastrophen, bei denen Straßen, Telefon oder Krankenhäuser vorübergehend nicht funktionieren. Dafür nennt die IFRC diese Punkte:
+An abgelegenen Orten und bei Katastrophen kann medizinische Hilfe Stunden oder Tage entfernt sein, weil Straßen, Telefon oder Krankenhäuser vorübergehend nicht funktionieren. Achten Sie dann auf Folgendes:
 
 - Tun Sie zuerst, was das Leben rettet. Atmung und Kreislauf gehen vor, danach der Rest. Wissen Sie, warum diese Reihenfolge gilt, damit Sie sie auch unter Druck einhalten.
 - Fehlendes Material ist kein Grund, nicht zu helfen. Verwenden Sie, was vorhanden ist, zum Beispiel ein Hemd, um auf eine Blutung zu drücken.
@@ -111,7 +111,7 @@ Die IFRC beschreibt besondere Umstände, in denen medizinische Hilfe Stunden ode
 - Verhindern Sie Infektionen und weitere Verletzungen.
 - Bereiten Sie sich vor: Wissen Sie, welche Rettungsdienste es in Ihrer Nähe gibt, wo sie sind und wie Sie sie erreichen. Die Karte in der App (Schaltfläche Am nächsten) zeigt Feuerwehr, Polizei, Krankenhäuser und Gemeindehäuser. Wissen Sie in einem abgelegenen Gebiet auch, wie Sie ein Hilfesignal geben (siehe den Leitfaden Signale und Notcodes).
 
-Halten Sie die betroffene Person warm, denn schwer Verletzte kühlen schnell aus und das erhöht das Sterberisiko. FEMA nennt diese Schritte:
+Halten Sie die betroffene Person warm, denn schwer Verletzte kühlen schnell aus und das erhöht das Sterberisiko:
 
 - Ziehen Sie nasse Kleidung aus.
 - Legen Sie etwas zwischen die Person und den Boden, zum Beispiel Karton, eine Jacke oder eine Decke.
@@ -143,7 +143,7 @@ Quelle: [IFRC Guidelines 2020](https://www.ifrc.org/sites/default/files/2022-02/
 - Geben Sie der Person, die Hilfe holt, genaue Informationen mit: wo es ist, was passiert ist, wie viele Betroffene es gibt und in welchem Zustand sie sind. Bitten Sie diese Person, Ihnen danach Bescheid zu geben, dass die Hilfe verständigt ist.
 - Kann diese Person von anderswo die 112 anrufen, sagt sie der Leitstelle, dass sie nicht vom Ort des Geschehens aus anruft.
 - Sind Sie allein und müssen Sie selbst weg, um Hilfe zu holen: Bringen Sie eine bewusstlose Person, die normal atmet, zuerst in die stabile Seitenlage (siehe Thema 5). Für die Wiederbelebung gilt eine eigene Regel für Erwachsene und Kinder (siehe Thema 2).
-- In Belgien sagen die Behörden: Ist Telefonieren nicht mehr möglich, bitten Sie in Ihrer Nähe um Hilfe. In Deutschland empfehlen die Behörden, sich im Notfall, wenn möglich, zur nächsten Polizeidienststelle oder zum nächsten Krankenhaus zu begeben. In den Niederlanden schickten die Behörden die Bevölkerung bei der landesweiten 112-Störung von 2019 zur nächsten Feuerwache oder Polizeidienststelle und bei medizinischen Notfällen zum Krankenhaus. Die Karte in der App (Schaltfläche Am nächsten) zeigt diese.
+- Wer Hilfe holt, bittet in der Nachbarschaft um Hilfe oder geht, wenn möglich, zur nächsten Polizeidienststelle, Feuerwache oder zum nächsten Krankenhaus (die Karte in der App zeigt sie, mit Am nächsten). Bei einem großen Ausfall kann die Gemeinde eine Informations- und Anlaufstelle öffnen.
 - Leisten Sie in der Zwischenzeit weiter Erste Hilfe.
 - Siehe auch Notrufnummern in der App, Wenn kein Anruf möglich ist.
 

@@ -42,7 +42,7 @@ Beginnen Sie sofort mit der Wiederbelebung, wenn jemand plötzlich zusammenbrich
 - Kurze zuckende Bewegungen sind möglich, vor allem bei jüngeren Menschen. Prüfen Sie die Atmung, sobald sie aufhören.
 - Den Puls zu fühlen ist nicht nötig und unzuverlässig.
 
-Altersgruppen nach dem ERC: Ein Säugling ist jünger als 1 Jahr, ein Kind ist 1 bis 12 Jahre alt, ein Jugendlicher 13 bis 18 Jahre. Sind Sie unsicher, ob es sich um einen Jugendlichen oder einen Erwachsenen handelt, gehen Sie wie bei Erwachsenen vor.
+Altersgruppen: Ein Säugling ist jünger als 1 Jahr, ein Kind ist 1 bis 12 Jahre alt, ein Jugendlicher 13 bis 18 Jahre. Sind Sie unsicher, ob es sich um einen Jugendlichen oder einen Erwachsenen handelt, gehen Sie wie bei Erwachsenen vor.
 
 Quelle: [Gezondheid en Wetenschap: Wiederbelebung](https://www.gezondheidenwetenschap.be/richtlijnen/reanimatie-cardiopulmonale-resuscitatie-of-cpr) · [ERC Guidelines 2025 for Everyone](https://www.erc.edu/media/p5ymaeej/gl2025_layperson_book_ipdf-v11-e.pdf) · [IFRC Guidelines 2020](https://www.ifrc.org/sites/default/files/2022-02/EN_GFARC_GUIDELINES_2020.pdf)
 
@@ -100,10 +100,10 @@ Quelle: [Gezondheid en Wetenschap: Wie führt man eine Wiederbelebung durch?](ht
 - Wiederbelebung allein bringt das Herz selten wieder in Gang. Das Herz braucht meist einen Schock eines Defibrillators. Lassen Sie also so schnell wie möglich einen AED suchen. Jede Minute Verzögerung bis zum Schock verringert die Überlebenschance um etwa 10 Prozent.
 - Wechseln Sie sich mit anderen Helfern alle 1 bis 2 Minuten ab, damit niemand erschöpft wird. Zeigen Sie Umstehenden kurz, wie sie drücken müssen.
 - Muss die betroffene Person aus einem abgelegenen Gebiet zur medizinischen Versorgung transportiert werden, muss die Wiederbelebung während des Transports ohne Unterbrechung weitergehen, auf einem harten Untergrund.
-- Nach Ertrinken oder bei Unterkühlung besteht eine Chance, dass die Person auf die Wiederbelebung anspricht, auch ohne Defibrillator. Bei Unterkühlung gibt der ERC an, dass Sie ohne Unterbrechung wiederbeleben, bis die Person aufgewärmt ist.
-- Die IFRC schreibt für Kinder und Säuglinge: Wo kein Rettungsdienst und kein Krankenhaus erreichbar ist und die Wiederbelebung nach den ersten 20 Minuten keine Wirkung zeigt, können Sie aufhören, weil weiteres Wiederbeleben wahrscheinlich nicht mehr hilft. Das gilt nicht nach Ertrinken oder bei Unterkühlung. Für Erwachsene bittet die IFRC unter diesen Umständen, die Würde der Person zu wahren.
+- Nach Ertrinken oder bei Unterkühlung besteht eine Chance, dass die Person auf die Wiederbelebung anspricht, auch ohne Defibrillator. Bei Unterkühlung beleben Sie ohne Unterbrechung wieder, bis die Person aufgewärmt ist.
+- Bei Kindern und Säuglingen: Wo kein Rettungsdienst und kein Krankenhaus erreichbar ist und die Wiederbelebung nach den ersten 20 Minuten keine Wirkung zeigt, können Sie aufhören, weil weiteres Wiederbeleben wahrscheinlich nicht mehr hilft. Das gilt nicht nach Ertrinken oder bei Unterkühlung. Bei Erwachsenen wahren Sie unter diesen Umständen die Würde der Person.
 - Kommt die Person zu sich, bleiben Sie bei ihr und prüfen Sie ständig Bewusstsein und Atmung, bis ein Arzt da ist.
-- Eine Wiederbelebung mitzuerleben ist belastend. Der ERC empfiehlt, dass Helfer danach Unterstützung erhalten. Sprechen Sie darüber und suchen Sie Hilfe, wenn es Ihnen schwerfällt.
+- Eine Wiederbelebung mitzuerleben ist belastend. Sorgen Sie dafür, dass Helfer danach Unterstützung erhalten. Sprechen Sie darüber und suchen Sie Hilfe, wenn es Ihnen schwerfällt.
 
 Quelle: [ERC Guidelines 2025 for Everyone](https://www.erc.edu/media/p5ymaeej/gl2025_layperson_book_ipdf-v11-e.pdf) · [IFRC Guidelines 2020](https://www.ifrc.org/sites/default/files/2022-02/EN_GFARC_GUIDELINES_2020.pdf)
 
@@ -120,7 +120,7 @@ Rufen Sie mit eingeschaltetem Lautsprecher an und führen Sie die Wiederbelebung
 
 - Lassen Sie die betroffene Person nur allein, wenn es keine andere Möglichkeit gibt. Sprechen Sie Umstehende direkt an, damit sie Hilfe holen, und geben Sie mit, wo es ist, was passiert ist, wie viele Betroffene es gibt und in welchem Zustand sie sind. Schicken Sie jemand anderen, um einen AED zu holen.
 - Sind Sie zu zweit: Eine Person führt die Wiederbelebung durch, die andere holt Hilfe und bringt einen AED mit, wenn möglich.
-- Sind Sie allein ohne Telefon: Bei einem Erwachsenen holen Sie zuerst Hilfe und beginnen dann mit der Wiederbelebung; bei einem Kind führen Sie zuerst 1 Minute lang die Wiederbelebung durch und holen dann Hilfe. So steht es in den Richtlinien des ERC von 2021.
+- Sind Sie allein ohne Telefon: Bei einem Erwachsenen holen Sie zuerst Hilfe und beginnen dann mit der Wiederbelebung; bei einem Kind führen Sie zuerst 1 Minute lang die Wiederbelebung durch und holen dann Hilfe.
 - Sind Sie allein, holen Sie keinen AED, außer er ist ganz in der Nähe und sichtbar. Beginnen Sie mit der Wiederbelebung.
 - Siehe auch Thema 1 (Kommt kein Anruf zustande: Hilfe holen ohne Telefon) und Notrufnummern in der App, Wenn kein Anruf möglich ist.
 

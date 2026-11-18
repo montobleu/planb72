@@ -63,7 +63,7 @@ origineel_datum: "2026-11-18"
 
 ## Recognise
 
-**The Belgian situation.** The National Crisis Center describes an international armed conflict as a risk with a very low probability. The scenario it examined takes place on NATO territory outside Belgium. On that page the Crisis Center gives no steps of its own for an air attack. The steps on this card therefore come from the official guides of Germany, Sweden, Ukraine and Poland.
+**The Belgian situation.** For Belgium, an international armed conflict is a risk with a very low probability. The scenario in the national risk analysis takes place on NATO territory outside Belgium. The Belgian authorities give no steps of their own for an air attack. The steps on this card therefore come from the official guides of other European countries.
 
 **How you are warned.** In Belgium the authorities warn you via radio and TV and via police loudspeaker vans. If the network is working, also via BE-Alert: text message, email or phone call. In a major emergency everyone with a mobile phone in the affected zone receives an Alert-SMS, even without registering. If the power fails, listen to a battery-powered or wind-up radio.
 
@@ -80,8 +80,8 @@ Source: [National Crisis Center: IAC](https://crisiscenter.be/en/risks-belgium/s
 
 - **Find your shelter locations.** Choose two or three places close to home, work and school. Walk the route in advance. Know who has the key.
 - **Choose your place at home.** See which room has the fewest outside walls, windows and doors: a cellar without windows, or a hallway, storeroom or walk-in cupboard in the middle of the home.
-- **Have an emergency bag ready** and put it by the door. The Swedish MCF lists: water in bottles or cans, food that keeps at room temperature, hygiene products and toilet paper, medication and a first aid kit, warm clothing, identity card, cash and bank cards, keys, mobile phone with charger or power bank, and a torch. Ukraine adds: spare batteries, blankets or thermal blankets, a battery-powered radio and a fire extinguisher. Plan for a stay of at least two days.
-- **Keep a stock at home** for at least 3 days, as the National Crisis Center recommends: water, long-life food, a radio, a torch, medication.
+- **Have an emergency bag ready** and put it by the door: water in bottles or cans, food that keeps at room temperature, hygiene products and toilet paper, medication and a first aid kit, warm clothing, identity card, cash and bank cards, keys, mobile phone with charger or power bank, a torch with spare batteries, blankets or thermal blankets, a battery-powered radio and a fire extinguisher. Plan for a stay of at least two days.
+- **Keep a stock at home** for at least 3 days: water, long-life food, a radio, a torch, medication.
 - **Reinforce windows** with strong adhesive film. If possible, block them with sandbags or sturdy furniture.
 - **Make a plan** with your family: who does what, where you will meet and how you will reach or find each other, also without phone or internet. Agree on this with your neighbours too.
 - **Practise.** Establish the route to your shelter in advance and follow it when the alert sounds.
@@ -94,10 +94,10 @@ When the alert sounds, go immediately to the nearest shelter.
 
 **Ranking of shelter locations, from best to least good:**
 
-1. **An official shelter**, where one exists. In Sweden, Poland and Ukraine these are marked with a sign.
+1. **An official shelter**, where one exists. It is usually marked with a sign.
 2. **Underground:** a cellar without windows, an underground car park, a metro station, a tunnel or an underpass. A cellar protects less than a real shelter.
 3. **An interior room in a building:** without windows, with as few outside walls, windows and doors as possible. Think of a hallway, a storeroom, a walk-in cupboard or a stairwell without much glass, close to a load-bearing interior wall.
-4. **The two-wall rule:** make sure there are at least two solid walls between you and the outside. If the outside wall is damaged, the second wall stops debris and glass. The Ukrainian guide warns: this rule does not give complete safety. Go to a real shelter as quickly as possible.
+4. **The two-wall rule:** make sure there are at least two solid walls between you and the outside. If the outside wall is damaged, the second wall stops debris and glass. This rule does not give complete safety. Go to a real shelter as quickly as possible.
 5. **A bathroom** only as a last resort, and only if it has no window and no gas water heater or gas boiler.
 
 ### At home
@@ -119,7 +119,7 @@ When the alert sounds, go immediately to the nearest shelter.
 
 - Drop to the ground immediately, preferably in a hollow, ditch or behind a high kerb.
 - Cover your head with your hands or a bag.
-- Lie flat. The Ukrainian guide also mentions: cover your ears with your palms and open your mouth.
+- Lie flat. Cover your ears with your palms and open your mouth.
 - Wait for the first salvo to pass. Then go to a deep space close to an exit.
 
 **Drones.** If you see or hear a drone, go to a shelter immediately. If there is no shelter nearby and a drone is dropping explosives, move in a zigzag and change direction every 7 to 10 metres. Stay away from government buildings and strategic and military sites.
@@ -134,7 +134,6 @@ When the alert sounds, go immediately to the nearest shelter.
 
 - Find the shelter locations near your work and your children's school in advance.
 - Take the stairs, not the lift.
-- In Ukraine schools have their own shelter for pupils and staff, with at least 2 litres of drinking water per person per day.
 
 ### Children
 

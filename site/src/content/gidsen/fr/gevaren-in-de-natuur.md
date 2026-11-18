@@ -215,7 +215,7 @@ Les jeunes enfants mettent souvent des baies ou des feuilles en bouche. En gén�
 
 **Comment les plantes font du tort**
 
-| Mode | Exemples de la source |
+| Mode | Exemples |
 | --- | --- |
 | Ingestion | Beaucoup de plantes sont toxiques si on les avale, en entier ou en partie (feuilles, baies, fruits, bulbes) |
 | Irritation de la peau par la sève | Euphorbe, chélidoine |
@@ -348,7 +348,7 @@ Source : [Vlaanderen.be : Nager ou pratiquer des sports nautiques en eau libre e
 
 Depuis le début des années 2000, il y a de plus en plus de sangliers en Flandre, y compris dans les zones habitées. Ils sont naturellement craintifs envers l'homme, mais intelligents. Celui qui les nourrit leur apprend à associer les humains à la nourriture ; ils perdent alors leur méfiance. Ils restent des **animaux sauvages qui peuvent réagir de façon imprévisible**. Ils traversent souvent la route à l'improviste. Ils peuvent porter des agents pathogènes : **évitez les contacts rapprochés**.
 
-**Ce que conseille l'Agentschap Natuur en Bos**
+**Ce que vous faites**
 
 - Ne les nourrissez pas. Ne laissez pas de déchets ni de restes de nourriture.
 - Protégez les sacs poubelles et le tas de compost.
@@ -362,7 +362,7 @@ Source : [Agentschap Natuur en Bos : Des sangliers dans les environs ?](https://
 
 ## Le loup en Flandre
 
-La probabilité de rencontrer un loup par hasard est très faible. Les loups sont surtout actifs la nuit, craintifs, et bien camouflés. Selon l'Agentschap Natuur en Bos et l'INBO, le nombre d'incidents dans notre environnement occidental est extrêmement faible. Le risque d'être blessé par un chien est beaucoup plus grand que par un loup. Les loups dangereux sont surtout ceux qui ont été nourris par des humains et associent les humains à la nourriture.
+La probabilité de rencontrer un loup par hasard est très faible. Les loups sont surtout actifs la nuit, craintifs, et bien camouflés. Le nombre d'incidents dans notre environnement occidental est extrêmement faible. Le risque d'être blessé par un chien est beaucoup plus grand que par un loup. Les loups dangereux sont surtout ceux qui ont été nourris par des humains et associent les humains à la nourriture.
 
 **Si vous vous trouvez face à face avec un loup**
 

@@ -102,8 +102,8 @@ Source: [BBK: brochure Stromausfall](https://www.bbk.bund.de/SharedDocs/Download
 
 **Where to ask for help if you cannot call**
 
-- Ask your municipal administration what the municipality provides when calling is no longer possible, for example an information and reception point. The BBK (Germany) recommends the same for reporting an emergency.
-- Know where the nearest fire station, police and hospital are, near your home and your work (Luxembourg). The map in the app shows them, with the Nearest button.
+- Ask your municipal administration what the municipality provides when calling is no longer possible, for example an information and reception point.
+- Know where the nearest fire station, police and hospital are, near your home and your work. The map in the app shows them, with the Nearest button.
 
 **Receiving information without internet**
 
@@ -121,7 +121,7 @@ Source: [BBK: brochure Stromausfall](https://www.bbk.bund.de/SharedDocs/Download
 
 **Money and payments**
 
-- Keep cash at home, enough for basic needs for about 72 hours (Crisis Center). Denk vooruit (the Netherlands) mentions 70 euros per adult and 30 euros per child.
+- Keep cash at home, enough for basic needs for about 72 hours, for example 70 euros per adult and 30 euros per child.
 
 Source: [National Crisis Center: disruption of the digital infrastructure](https://crisiscenter.be/en/risks-belgium/societal-risks/failure-digital-infrastructure) · [National Crisis Center: evacuating](https://crisiscenter.be/en/what-can-you-do/right-reflex/evacuate) · [National Crisis Center: a plan in your neighbourhood](https://crisiscenter.be/en/what-can-you-do/make-plan/plan-your-neighbourhood-association-or-club) · [National Crisis Center: emergency kit](https://crisiscenter.be/en/what-can-you-do/build-emergency-kit/emergency-kit-home) · [National Crisis Center: brochure Prepared together](https://crisiscenter.be/sites/default/files/documents/files/WEB-Brochure%20Prepared%20Together-EN.pdf) · [National Crisis Center: information during an emergency](https://crisiscenter.be/en/what-can-you-do/stay-informed/get-informed-emergency-situation) · [FPS Economy: questions from households about electricity shortages](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door) · [BBK: Stromausfall, Vorsorge und Selbsthilfe](https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/Buergerinformationen/stromausfall-vorsorge-selbsthilfe.pdf?__blob=publicationFile&v=17) · [LetzPrepare](https://letzprepare.public.lu/dam-assets/images/guide-letzeprepare/hcpn-campagne26-guide-accessible-fr-002.pdf) · [BE-Alert](https://www.be-alert.be/en/how-does-be-alert-work) · [BEREC](https://www.berec.europa.eu/en/emergency-means) · [BBK: Stromausfall](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Vorsorge/Stromausfall/stromausfall_node.html) · [Denk vooruit: questions and answers](https://www.denkvooruit.nl/site/binaries/site-content/collections/documents/2025/10/27/toolkit-denk-vooruit-campagne-najaar-2025/20251111-qa-denkvooruit-bronbestand.pdf) · [Ready.gov: make a plan](https://www.ready.gov/plan)
 

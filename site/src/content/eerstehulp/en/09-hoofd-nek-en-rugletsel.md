@@ -108,7 +108,7 @@ Source: [Gezondheid en Wetenschap: Spinal injuries](https://www.gezondheidenwete
 
 - Keep the casualty as still as possible and handle them as little as possible. Keep monitoring the breathing and the level of consciousness.
 - An unconscious casualty with a suspected spinal injury who is breathing normally: if help is coming soon, only keep the airway open by lifting the jaw or tilting the head. If help is still far away and there are at least two rescuers, you may place the casualty on their side while one rescuer keeps the head in line with the back.
-- The Croix-Rouge de Belgique says that an open airway has priority. You can only leave a clearly injured casualty on their back if they are clearly breathing and the emergency services will be on the scene soon. If you are in doubt about the injury, place them in the recovery position.
+- An open airway has priority. You can only leave a clearly injured casualty on their back if they are clearly breathing and the emergency services will be on the scene soon. If you are in doubt about the injury, place them in the recovery position.
 - After a blow to the head without warning signs: the person may carry on with their day, but someone must keep an eye on them for the next 24 hours for signs that appear later. Concussion can develop over hours or days.
 - Rest is usually the best first treatment. Only let the person drive, work with machinery or play contact sport again once all symptoms have gone.
 - Keep the casualty warm by covering them with dry layers and protecting them from the wind.

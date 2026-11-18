@@ -159,7 +159,7 @@ Bron: [Nationaal Crisiscentrum: fluviale overstroming](https://crisiscentrum.be/
 
 - Beste keuze als de overheid dat vraagt: evacueer tijdig.
 - Kan of mag je niet weg: ga naar de hoogste verdieping.
-- Ga alleen het dak op als het echt nodig is, en geef van daar een teken voor hulp. Dat raadt het Amerikaanse Ready.gov aan.
+- Ga alleen het dak op als het echt nodig is, en geef van daar een teken voor hulp.
 - Kruip niet in een gesloten zolder waar je niet meer uit raakt.
 
 **Evacueren**
@@ -177,7 +177,7 @@ Bron: [Nationaal Crisiscentrum: fluviale overstroming](https://crisiscentrum.be/
 ### Buiten of onderweg
 
 - Beperk je verplaatsingen en vermijd gevaarlijke zones.
-- Loop, zwem of rij niet door het water. Volgens Ready.gov kan 15 centimeter (6 inch) stromend water je omverduwen.
+- Loop, zwem of rij niet door het water. 15 centimeter stromend water kan je al omverduwen.
 - Blijf van bruggen over snelstromend water.
 - Moet je toch door een overstroomde straat lopen, gebruik dan een stok om de grond af te tasten. Putdeksels en stukken wegdek kunnen weggespoeld zijn.
 - Overstromingswater kan vervuild zijn en puin verbergen. Afgevallen elektriciteitskabels kunnen het water onder stroom zetten.
@@ -187,7 +187,7 @@ Bron: [Nationaal Crisiscentrum: fluviale overstroming](https://crisiscentrum.be/
 ### In de auto
 
 - Zet je auto op voorhand op een veilige plek, en niet in je garage.
-- Rij nooit door een overstroomde weg en nooit rond een afsluiting. Volgens Ready.gov kan 30 centimeter (1 voet) water een voertuig meenemen.
+- Rij nooit door een overstroomde weg en nooit rond een afsluiting. 30 centimeter water kan een voertuig meenemen.
 - Zit je vast in de auto, blijf er dan in. Stijgt het water in de auto, klim dan op het dak.
 
 Bron: [Nationaal Crisiscentrum: pluviale overstroming](https://crisiscentrum.be/nl/risicos-belgie/natuurlijke-risicos/pluviale-overstroming-oppervlaktewater) · [Ready.gov: floods](https://www.ready.gov/floods)
@@ -266,7 +266,7 @@ Bron: [Denk vooruit: overstroming](https://www.denkvooruit.nl/risicos/risicos-in
 **Schade en verzekering**
 
 - Neem foto's van de schade voor je verzekeringsdossier.
-- Neem zo snel mogelijk contact op met je verzekeraar. Volgens de VMM is overstromingsschade gedekt door de brandverzekering, ook als de overstroming niet erkend wordt als ramp.
+- Neem zo snel mogelijk contact op met je verzekeraar. Overstromingsschade is gedekt door de brandverzekering, ook als de overstroming niet erkend wordt als ramp.
 - In Vlaanderen kan het Vlaams Rampenfonds in uitzonderlijke gevallen een deel van de schade vergoeden, alleen na een door de Vlaamse Regering erkende ramp. Meld de schade eerst aan je verzekeraar. Bij het Rampenfonds meld je de schade binnen 60 dagen na de schadedatum.
 
 Bron: [Ready.gov: floods](https://www.ready.gov/floods) · [Vivalis](https://www.vivalis.brussels/sites/default/files/2026-07/Overstromingen%20en%20gezondheidsrisico%27s.pdf) · [Nationaal Crisiscentrum: fluviale overstroming](https://crisiscentrum.be/nl/risicos-belgie/natuurlijke-risicos/fluviale-overstroming-rivier) · [VMM: tips bij overstromingen](https://vmm.vlaanderen.be/tips/water/overstromingen) · [CDC: food safety](https://www.cdc.gov/food-safety/foods/keep-food-safe-after-emergency.html) · [Vlaams Rampenfonds](https://www.vlaanderen.be/schadevergoeding-vlaams-rampenfonds-aanvragen)

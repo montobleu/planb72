@@ -64,7 +64,7 @@ origineel_datum: "2026-11-18"
 
 **Avertissements de l'IRM pour la chaleur**
 
-| Code | Seuil | Que faire selon l'IRM |
+| Code | Seuil | Que faire |
 |---|---|---|
 | Jaune | température maximale de 32 °C ou plus, ou la phase d'avertissement du plan ozone et chaleur est active | Protégez les personnes âgées et les personnes plus fragiles, buvez davantage, gardez les personnes vulnérables à l'abri du soleil. |
 | Orange | température maximale de 35 °C ou plus | Buvez régulièrement, habillez-vous plus légèrement, passez la journée dans des pièces plus fraîches, mangez léger, gardez les portes et les fenêtres fermées. |

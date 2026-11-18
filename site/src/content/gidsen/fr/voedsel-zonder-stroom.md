@@ -52,58 +52,54 @@ Source : [BBK: Vorsorgen für Krisen und Katastrophen](https://www.bbk.bund.de/S
 
 ## Avant la coupure
 
-Si vous savez à l'avance que le courant sera coupé, par exemple en raison de travaux ou d'un plan de délestage, le Centre de crise conseille :
+Si vous savez à l'avance que le courant sera coupé, par exemple en raison de travaux ou d'un plan de délestage :
 
 - Prévoyez de la nourriture qui se mange froide.
-- Prévoyez de l'eau chaude dans des thermos, par exemple pour les biberons (OFF ON).
+- Prévoyez de l'eau chaude dans des thermos, par exemple pour les biberons.
 - Gardez votre congélateur bien fermé.
 - Mettez un sac de glaçons dans le congélateur. Vous pourrez ainsi vérifier ensuite si la nourriture a été décongelée.
 
 Même sans annonce, vous pouvez à l'avance :
 
-- Mettre des bouteilles d'eau en plastique au congélateur. Elles servent de blocs réfrigérants lors d'une coupure de courant ; quand la glace a fondu, vous buvez l'eau. Ne les remplissez pas jusqu'au bord, sinon elles éclatent (MCF).
-- Utiliser un thermomètre pour le frigo et le congélateur, afin de savoir quelle température il fait à l'intérieur (Ready.gov).
-- Avoir à la maison un autre moyen de cuisson et du combustible (BBK).
+- Mettre des bouteilles d'eau en plastique au congélateur. Elles servent de blocs réfrigérants lors d'une coupure de courant ; quand la glace a fondu, vous buvez l'eau. Ne les remplissez pas jusqu'au bord, sinon elles éclatent.
+- Utiliser un thermomètre pour le frigo et le congélateur, afin de savoir quelle température il fait à l'intérieur.
+- Avoir à la maison un autre moyen de cuisson et du combustible.
 
 Source : [Centre de crise National : Perturbation de l'électricité](https://centredecrise.be/fr/risques-en-belgique/risques-societaux/defaillance-de-lapprovisionnement-en-electricite) · [Centre de crise National : OFF ON](https://centredecrise.be/sites/default/files/documents/files/OffOn-triptyque-F.pdf) · [MCF : In case of crisis or war](https://rib.msb.se/filer/pdf/31523.pdf) · [Ready.gov: Food](https://www.ready.gov/food) · [BBK: Vorsorgen für Krisen und Katastrophen](https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/Buergerinformationen/Ratgeber/BBK-Vorsorgen-fuer-Krisen-und-Katastrophen.pdf?__blob=publicationFile&v=44)
 
 ## Pendant la coupure : portes fermées
 
-La règle la plus importante revient dans toutes les sources : n'ouvrez pas inutilement le frigo et le congélateur.
+La règle la plus importante : n'ouvrez pas inutilement le frigo et le congélateur.
 
 Combien de temps le froid se maintient :
 
-| Appareil | Combien de temps | Source |
-| --- | --- | --- |
-| Congélateur | une coupure de 3 à 4 heures ne fait pas décongeler votre nourriture | Centre de crise National |
-| Congélateur, porte fermée | congelé pendant 24 voire 36 heures, selon la température | Centre de crise National |
-| Congélateur plein | environ 48 heures | FoodSafety.gov, Ready.gov |
-| Congélateur à moitié plein, porte fermée | environ 24 heures | FoodSafety.gov |
-| Frigo, non ouvert | environ 4 heures | FoodSafety.gov, Ready.gov |
-
-Les chiffres belges et américains pour le congélateur diffèrent. Partez du chiffre belge de 24 à 36 heures, et comptez moins si le congélateur n'est qu'à moitié plein.
+| Appareil | Combien de temps |
+| --- | --- |
+| Congélateur | une coupure de 3 à 4 heures ne fait pas décongeler votre nourriture |
+| Congélateur, porte fermée | congelé pendant 24 voire 36 heures, selon la température ; moins longtemps si le congélateur n'est qu'à moitié plein |
+| Frigo, non ouvert | environ 4 heures |
 
 **Si cela dure plus de 4 heures**
 
-- Mettez les aliments périssables dans une glacière avec de la glace (Ready.gov).
-- Glace carbonique : Ready.gov écrit que 25 livres de glace carbonique (environ 11 kilos) maintiennent un congélateur de 10 pieds cubes (environ 280 litres) sous le point de congélation pendant trois à quatre jours. Ne mettez pas la glace carbonique en contact direct avec la nourriture. Portez des gants secs et épais. Sachez à l'avance où vous pouvez obtenir de la glace carbonique.
+- Mettez les aliments périssables dans une glacière avec de la glace.
+- Glace carbonique : environ 11 kilos de glace carbonique maintiennent un congélateur d'environ 280 litres sous le point de congélation pendant trois à quatre jours. Ne mettez pas la glace carbonique en contact direct avec la nourriture. Portez des gants secs et épais. Sachez à l'avance où vous pouvez obtenir de la glace carbonique.
 
-**Autres appareils.** Débranchez les appareils électriques sensibles, pour éviter les dégâts dus à une tension trop élevée lors du redémarrage (Centre de crise).
+**Autres appareils.** Débranchez les appareils électriques sensibles, pour éviter les dégâts dus à une tension trop élevée lors du redémarrage.
 
 Source : [Centre de crise National : Perturbation de l'électricité](https://centredecrise.be/fr/risques-en-belgique/risques-societaux/defaillance-de-lapprovisionnement-en-electricite) · [FoodSafety.gov: Food Safety During Power Outage](https://www.in.gov/localhealth/portercounty/files/Food-Safety-During-Power-Outage-_-FoodSafety.gov.pdf) · [Ready.gov: Food](https://www.ready.gov/food) · [Ready.gov: Power Outages](https://www.ready.gov/power-outages)
 
 ## Après la coupure : les règles de base
 
-**Contrôle belge (Centre de crise)**
+**Contrôlez d'abord le congélateur**
 
 1. Regardez le sac de glaçons que vous avez mis dans le congélateur. Si la glace a fondu puis regelé, il y a de fortes chances que la nourriture soit avariée. Si elle n'a pas été décongelée, la nourriture n'est pas avariée.
 2. Si la porte du congélateur est restée fermée, la nourriture peut rester congelée pendant 24 à 36 heures. Elle peut alors être mangée sans danger.
-3. Contrôlez la nourriture dans le frigo et le congélateur. En cas de doute, jetez-la. La brochure OFF ON dit : jetez-la au moindre soupçon d'altération.
+3. Contrôlez la nourriture dans le frigo et le congélateur. Jetez-la au moindre soupçon d'altération.
 
-**Règles américaines (FoodSafety.gov et Ready.gov)**
+**Ce que vous jetez et ce que vous gardez**
 
 - Les aliments périssables du frigo, comme la viande, la volaille, le poisson, les œufs et les restes, se jettent après 4 heures sans courant.
-- Jetez tout ce qui est resté plus de 2 heures à 4 °C (40 °F) ou plus.
+- Jetez tout ce qui est resté plus de 2 heures à 4 °C ou plus.
 - La nourriture décongelée est en général encore mangeable si elle est encore « froide comme au frigo ». Elle peut être recongelée s'il reste des cristaux de glace ou si elle est à 4 °C ou moins ; la qualité peut toutefois diminuer.
 - Ne goûtez jamais pour déterminer si quelque chose est encore sûr.
 - Jetez la nourriture qui a une odeur, une couleur ou une texture inhabituelle.
@@ -114,7 +110,7 @@ Source : [Centre de crise National : Perturbation de l'électricité](https://ce
 
 ## Frigo : garder ou jeter
 
-D'après le tableau de FoodSafety.gov, pour les aliments restés plus de 2 heures à 4 °C ou plus. Utilisez-le comme guide. En cas de doute : jetez.
+Pour les aliments restés plus de 2 heures à 4 °C ou plus. Utilisez le tableau comme guide. En cas de doute : jetez.
 
 | Aliment | Jeter ou garder |
 | --- | --- |
@@ -166,7 +162,7 @@ Source : [FoodSafety.gov: Food Safety During Power Outage](https://www.in.gov/lo
 
 ## Congélateur : recongeler ou jeter
 
-D'après le tableau de FoodSafety.gov. Première colonne : l'aliment contient encore des cristaux de glace et est froid comme au frigo. Deuxième colonne : il est resté plus de 2 heures à 4 °C ou plus.
+Première colonne : l'aliment contient encore des cristaux de glace et est froid comme au frigo. Deuxième colonne : il est resté plus de 2 heures à 4 °C ou plus.
 
 | Aliment | Encore des cristaux de glace, froid comme au frigo | Plus de 2 heures à 4 °C ou plus |
 | --- | --- | --- |
@@ -195,49 +191,49 @@ Source : [FoodSafety.gov: Food Safety During Power Outage](https://www.in.gov/lo
 
 ## Réserve sans réfrigération : ce que vous mangez et ne mangez pas
 
-- Les conserves du commerce peuvent se manger directement dans la boîte, sans les réchauffer (Ready.gov).
-- Ne mangez pas le contenu de boîtes bombées, cabossées ou rouillées, même si le contenu a l'air bon (Ready.gov). Le BZL : une boîte dont le fond ou le couvercle est bombé vers l'extérieur indique un contenu avarié. Ne la mangez en aucun cas.
-- Ne mangez rien qui a un aspect ou une odeur anormale, même si la boîte semble normale (Ready.gov).
-- Jetez immédiatement la nourriture moisie. En cas de doute, ne la mangez pas (BZL).
-- Gardez la nourriture dans des emballages fermés et gardez les ustensiles de cuisine et les couverts propres (Ready.gov).
-- Ne laissez pas les déchets s'accumuler à l'intérieur, pour éviter les incendies et la vermine (Ready.gov).
+- Les conserves du commerce peuvent se manger directement dans la boîte, sans les réchauffer.
+- Ne mangez pas le contenu de boîtes bombées (fond ou couvercle bombé vers l'extérieur), cabossées ou rouillées, même si le contenu a l'air bon. Une boîte bombée indique un contenu avarié.
+- Ne mangez rien qui a un aspect ou une odeur anormale, même si la boîte semble normale.
+- Jetez immédiatement la nourriture moisie. En cas de doute, ne la mangez pas.
+- Gardez la nourriture dans des emballages fermés et gardez les ustensiles de cuisine et les couverts propres.
+- Ne laissez pas les déchets s'accumuler à l'intérieur, pour éviter les incendies et la vermine.
 
-**Boîtes de conserve qui ont été en contact avec l'eau d'inondation.** Ready.gov décrit comment les utiliser quand même : lavez et désinfectez soigneusement la boîte avec une solution d'une part d'eau de Javel pour dix parts d'eau, et ouvrez la boîte avant de la réchauffer. FoodSafety.gov et Ready.gov disent que les autres aliments qui ont été en contact avec l'eau d'inondation doivent être jetés.
+**Boîtes de conserve qui ont été en contact avec l'eau d'inondation.** Vous pouvez quand même les utiliser : lavez et désinfectez soigneusement la boîte avec une solution d'une part d'eau de Javel pour dix parts d'eau, et ouvrez la boîte avant de la réchauffer. Les autres aliments qui ont été en contact avec l'eau d'inondation doivent être jetés.
 
 Source : [Ready.gov: Food](https://www.ready.gov/food) · [BZL: So pflegen Sie Ihren Lebensmittelvorrat](https://www.ernaehrungsvorsorge.de/private-vorsorge/empfehlungen-tipps/so-pflegen-sie-ihren-lebensmittelvorrat)
 
 ## Cuisiner sans électricité : les options
 
-Le BBK fait la distinction à retenir : certains appareils peuvent s'utiliser à l'intérieur, d'autres uniquement à l'extérieur.
+Retenez cette distinction : certains appareils peuvent s'utiliser à l'intérieur, d'autres uniquement à l'extérieur.
 
-| Appareil | Intérieur ou extérieur | Pour quoi | Source |
-| --- | --- | --- | --- |
-| Cuisinière au gaz raccordée au réseau de gaz naturel | intérieur, si elle fonctionne sans électricité | cuisiner normalement | BBK |
-| Réchaud à bougie chauffe-plat | intérieur | réchauffer des aliments, par exemple une soupe toute prête | BBK |
-| Appareil à fondue avec pâte combustible | intérieur | porter à ébullition de petites quantités | BBK |
-| Chauffe-plat à bougie, chafing dish, caquelon à fondue | intérieur | réchauffer | Ready.gov |
-| Réchaud à gaz autorisé pour l'intérieur | intérieur | cuisiner | BBK |
-| Feu ouvert (cheminée) | intérieur | cuisiner | Ready.gov |
-| Réchaud de camping à cartouche de gaz | uniquement à l'extérieur | petits repas | BBK |
-| Barbecue au gaz ou au charbon de bois | uniquement à l'extérieur, sur une terrasse ou un balcon | cuisiner | BBK, Ready.gov |
+| Appareil | Intérieur ou extérieur | Pour quoi |
+| --- | --- | --- |
+| Cuisinière au gaz raccordée au réseau de gaz naturel | intérieur, si elle fonctionne sans électricité | cuisiner normalement |
+| Réchaud à bougie chauffe-plat | intérieur | réchauffer des aliments, par exemple une soupe toute prête |
+| Appareil à fondue avec pâte combustible | intérieur | porter à ébullition de petites quantités |
+| Chauffe-plat à bougie, chafing dish, caquelon à fondue | intérieur | réchauffer |
+| Réchaud à gaz autorisé pour l'intérieur | intérieur | cuisiner |
+| Feu ouvert (cheminée) | intérieur | cuisiner |
+| Réchaud de camping à cartouche de gaz | uniquement à l'extérieur | petits repas |
+| Barbecue au gaz ou au charbon de bois | uniquement à l'extérieur, sur une terrasse ou un balcon | cuisiner |
 
 **Règles pour l'intérieur**
 
-- N'utilisez à l'intérieur que des appareils autorisés pour cet usage. Ils disposent de dispositifs de sécurité spéciaux (BBK).
-- Faites attention au feu ouvert à l'intérieur. S'il y a trop peu d'oxygène, du monoxyde de carbone (CO) se forme. L'intoxication au CO met la vie en danger (BBK).
-- Installez des détecteurs de CO testés et homologués (BBK).
-- Aérez régulièrement (BBK, Stromausfall).
+- N'utilisez à l'intérieur que des appareils autorisés pour cet usage. Ils disposent de dispositifs de sécurité spéciaux.
+- Faites attention au feu ouvert à l'intérieur. S'il y a trop peu d'oxygène, du monoxyde de carbone (CO) se forme. L'intoxication au CO met la vie en danger.
+- Installez des détecteurs de CO testés et homologués.
+- Aérez régulièrement.
 
 **Règles pour l'extérieur**
 
-- N'utilisez pas le barbecue ni le réchaud de camping dans le logement : il y a un risque d'asphyxie (BBK).
-- Ready.gov : barbecues et réchauds de camping uniquement à l'extérieur, à au moins 20 pieds (environ 6 mètres) des fenêtres.
-- Le Centre Antipoisons : rentrer un barbecue dans la maison pour se chauffer n'est pas une bonne idée. Les braises qui se consument dégagent beaucoup de CO, même avec une porte de garage ouverte.
-- Ready.gov : n'utilisez pas une cuisinière ou un four au gaz pour chauffer votre maison.
+- N'utilisez pas le barbecue ni le réchaud de camping dans le logement : il y a un risque d'asphyxie.
+- Utilisez les barbecues et les réchauds de camping uniquement à l'extérieur, à au moins 6 mètres des fenêtres.
+- Ne rentrez pas un barbecue dans la maison pour vous chauffer. Les braises qui se consument dégagent beaucoup de CO, même avec une porte de garage ouverte.
+- N'utilisez pas une cuisinière ou un four au gaz pour chauffer votre maison.
 
-**Économiser le combustible.** Le BBK conseille des aliments qui cuisent avec peu d'énergie, pour que votre combustible dure plus longtemps, et des aliments qui se mangent froids. Le BBK propose pour cela un livre de cuisine d'urgence avec des recettes sans électricité. Denk vooruit renvoie au Voedingscentrum pour des recettes à base d'aliments de longue conservation et conseille de les imprimer ou de les recopier à l'avance : sans internet, vous ne pouvez plus les chercher.
+**Économiser le combustible.** Choisissez des aliments qui cuisent avec peu d'énergie, pour que votre combustible dure plus longtemps, et des aliments qui se mangent froids. Imprimez ou recopiez à l'avance des recettes à base d'aliments de longue conservation : sans internet, vous ne pouvez plus les chercher.
 
-**Si l'électricité est limitée mais pas coupée.** En cas de pénurie d'électricité, la brochure OFF ON conseille d'utiliser le moins de plaques de cuisson possible, d'utiliser le four à micro-ondes plutôt que le four ordinaire, et d'utiliser les appareils électriques de préférence après 22 heures.
+**Si l'électricité est limitée mais pas coupée.** En cas de pénurie d'électricité, utilisez le moins de plaques de cuisson possible, le four à micro-ondes plutôt que le four ordinaire, et les appareils électriques de préférence après 22 heures.
 
 Vous trouverez plus d'informations sur le CO dans le guide sur la chaleur et la fraîcheur.
 
@@ -245,18 +241,18 @@ Source : [BBK: Vorsorgen für Krisen und Katastrophen](https://www.bbk.bund.de/S
 
 ## Par logement
 
-- **Appartement sans terrasse ni balcon.** Vous n'avez pas d'endroit sûr pour un barbecue ou un réchaud de camping. Comptez sur de la nourriture qui se mange froide et sur des appareils autorisés à l'intérieur, comme un réchaud ou un appareil à fondue (BBK).
-- **Appartement avec balcon.** Le BBK cite le balcon comme endroit pour un barbecue au gaz ou au charbon de bois. Gardez vos distances avec les fenêtres et les portes (Ready.gov).
-- **Maison avec jardin.** Cuisinez dehors, loin des fenêtres, des portes et d'un garage attenant (Ready.gov).
-- **Maison avec cuisinière au gaz.** Elle peut souvent continuer à fonctionner normalement (BBK). Ne l'utilisez pas pour chauffer (Ready.gov).
+- **Appartement sans terrasse ni balcon.** Vous n'avez pas d'endroit sûr pour un barbecue ou un réchaud de camping. Comptez sur de la nourriture qui se mange froide et sur des appareils autorisés à l'intérieur, comme un réchaud ou un appareil à fondue.
+- **Appartement avec balcon.** Un barbecue au gaz ou au charbon de bois peut aller sur le balcon. Gardez vos distances avec les fenêtres et les portes.
+- **Maison avec jardin.** Cuisinez dehors, loin des fenêtres, des portes et d'un garage attenant.
+- **Maison avec cuisinière au gaz.** Elle peut souvent continuer à fonctionner normalement. Ne l'utilisez pas pour chauffer.
 
 Source : [BBK: Vorsorgen für Krisen und Katastrophen](https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/Buergerinformationen/Ratgeber/BBK-Vorsorgen-fuer-Krisen-und-Katastrophen.pdf?__blob=publicationFile&v=44) · [BBK: Vorsorge und Handeln bei Stromausfall](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Vorsorge/Stromausfall/stromausfall_node.html) · [Ready.gov: Power Outages](https://www.ready.gov/power-outages)
 
 ## Sécurité alimentaire sans eau du robinet
 
-- Lavez-vous les mains avec du savon et de l'eau propre avant, pendant et après la préparation des repas et avant de manger. S'il n'y a ni savon ni eau, utilisez un gel hydroalcoolique contenant au moins 60 pour cent d'alcool (CDC). Voir le guide sur l'hygiène.
-- Lavez les aliments et la vaisselle uniquement avec de l'eau sûre. Traitez d'abord l'eau de qualité incertaine (CDC). Voir le guide sur l'eau.
-- N'utilisez pas l'eau d'inondations, des radiateurs ou du chauffage central (CDC).
+- Lavez-vous les mains avec du savon et de l'eau propre avant, pendant et après la préparation des repas et avant de manger. S'il n'y a ni savon ni eau, utilisez un gel hydroalcoolique contenant au moins 60 pour cent d'alcool. Voir le guide sur l'hygiène.
+- Lavez les aliments et la vaisselle uniquement avec de l'eau sûre. Traitez d'abord l'eau de qualité incertaine. Voir le guide sur l'eau.
+- N'utilisez pas l'eau d'inondations, des radiateurs ou du chauffage central.
 
 Source : [CDC: About Handwashing](https://www.cdc.gov/clean-hands/about/index.html) · [CDC: How to Make Water Safe in an Emergency](https://www.cdc.gov/water-emergency/about/index.html)
 
@@ -264,43 +260,41 @@ Source : [CDC: About Handwashing](https://www.cdc.gov/clean-hands/about/index.ht
 
 **Lait infantile au biberon**
 
-- Ready.gov : utilisez du lait infantile prêt à l'emploi. Si vous devez préparer du lait en poudre, utilisez de l'eau en bouteille, ou de l'eau bouillie en dernier recours.
-- Le CDC : ne préparez pas d'aliments pour bébé avec de l'eau non sûre.
-- FoodSafety.gov : le lait infantile ouvert resté plus de 2 heures à 4 °C ou plus dans le frigo se jette.
-- Le Centre de crise (OFF ON) : en cas de coupure annoncée, prévoyez des thermos d'eau chaude, par exemple pour les biberons.
-- Lors d'un avis de faire bouillir l'eau de De Watergroep à Roulers, il restait conseillé de stériliser les biberons.
+- Utilisez de préférence du lait infantile prêt à l'emploi. Si vous devez préparer du lait en poudre, utilisez de l'eau en bouteille, ou de l'eau bouillie en dernier recours.
+- Ne préparez pas d'aliments pour bébé avec de l'eau non sûre.
+- Le lait infantile ouvert resté plus de 2 heures à 4 °C ou plus dans le frigo se jette.
+- En cas de coupure annoncée, prévoyez des thermos d'eau chaude, par exemple pour les biberons.
+- Continuez à stériliser les biberons, aussi en cas d'avis de faire bouillir l'eau.
 
 **Ce qui doit figurer dans la réserve**
 
-- Une réserve d'aliments pour bébé et de lait en poudre pour biberons (Centre de crise).
-- Des biberons (Ready.gov).
-- De la bouillie, des flocons d'avoine et des aliments pour bébé (MCF).
+- Une réserve d'aliments pour bébé et de lait en poudre pour biberons.
+- Des biberons.
+- De la bouillie, des flocons d'avoine et des aliments pour bébé.
 
-**Allaitement.** Les sources consultées ne donnent pas de directives séparées à ce sujet. Ready.gov fait toutefois remarquer que les femmes qui allaitent ont besoin de plus d'eau.
+**Allaitement.** Les femmes qui allaitent ont besoin de plus d'eau.
 
 Source : [Ready.gov: Food](https://www.ready.gov/food) · [Ready.gov: Water](https://www.ready.gov/water) · [CDC: How to Make Water Safe in an Emergency](https://www.cdc.gov/water-emergency/about/index.html) · [FoodSafety.gov: Food Safety During Power Outage](https://www.in.gov/localhealth/portercounty/files/Food-Safety-During-Power-Outage-_-FoodSafety.gov.pdf) · [Centre de crise National : OFF ON](https://centredecrise.be/sites/default/files/documents/files/OffOn-triptyque-F.pdf) · [VRT NWS : avis de faire bouillir l'eau de De Watergroep](https://www.vrt.be/vrtnws/nl/2026/03/20/roeselare-vraagt-om-drinkwater-in-enkele-centrumsteden-tijdelijk/) · [Centre de crise National : Un kit d'urgence chez vous](https://centredecrise.be/fr/que-pouvez-vous-faire/preparez-un-kit-durgence/un-kit-durgence-la-maison) · [MCF : In case of crisis or war](https://rib.msb.se/filer/pdf/31523.pdf)
 
 ## En cas de coupure prolongée
 
-Les limites de temps des sources, en un coup d'œil :
+Les limites de temps en un coup d'œil :
 
-| Moment | Ce que disent les sources |
+| Moment | Ce que vous faites |
 | --- | --- |
-| Premières heures | gardez le frigo et le congélateur fermés ; une coupure de 3 à 4 heures ne fait pas décongeler les aliments surgelés (Centre de crise) |
-| Après environ 4 heures | le frigo ne garde plus les aliments au frais en toute sécurité ; mettez les aliments périssables dans une glacière avec de la glace (Ready.gov, FoodSafety.gov) |
-| Après 24 heures | un congélateur à moitié plein ne tient plus (FoodSafety.gov) |
-| Après 24 à 36 heures | limite pour un congélateur fermé selon le Centre de crise |
-| Après environ 48 heures | limite pour un congélateur plein selon FoodSafety.gov et Ready.gov |
-| Ensuite | mangez votre réserve de longue conservation ; cuisinez dehors ou sur un appareil autorisé à l'intérieur (BBK) |
+| Premières heures | gardez le frigo et le congélateur fermés ; une coupure de 3 à 4 heures ne fait pas décongeler les aliments surgelés |
+| Après environ 4 heures | le frigo ne garde plus les aliments au frais en toute sécurité ; mettez les aliments périssables dans une glacière avec de la glace |
+| Après 24 à 36 heures | un congélateur fermé ne tient plus, un congélateur à moitié plein déjà plus tôt |
+| Ensuite | mangez de votre réserve de longue conservation ; cuisinez dehors ou sur un appareil autorisé à l'intérieur |
 
-En cas de pénurie de nourriture, le Centre de crise dit : soyez économe et veillez à ce que les enfants et les personnes âgées aient assez de nourriture nutritive.
+S'il n'y a pas assez de nourriture : soyez économe et veillez à ce que les enfants et les personnes âgées aient assez de nourriture nutritive.
 
 Source : [Centre de crise National : Perturbation de l'électricité](https://centredecrise.be/fr/risques-en-belgique/risques-societaux/defaillance-de-lapprovisionnement-en-electricite) · [Centre de crise National : Perturbation de l'approvisionnement alimentaire](https://centredecrise.be/fr/risques-en-belgique/risques-societaux/defaillance-de-lapprovisionnement-en-denrees-alimentaires) · [FoodSafety.gov: Food Safety During Power Outage](https://www.in.gov/localhealth/portercounty/files/Food-Safety-During-Power-Outage-_-FoodSafety.gov.pdf) · [Ready.gov: Power Outages](https://www.ready.gov/power-outages) · [BBK: Vorsorgen für Krisen und Katastrophen](https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/Buergerinformationen/Ratgeber/BBK-Vorsorgen-fuer-Krisen-und-Katastrophen.pdf?__blob=publicationFile&v=44)
 
 ## Quand le courant revient
 
-- Ne rallumez pas tous les appareils électriques en même temps. Laissez au réseau le temps de se stabiliser (Centre de crise).
-- Contrôlez le frigo et le congélateur et jetez en cas de doute (Centre de crise).
-- Reconstituez votre réserve d'urgence (OFF ON).
+- Ne rallumez pas tous les appareils électriques en même temps. Laissez au réseau le temps de se stabiliser.
+- Contrôlez le frigo et le congélateur et jetez en cas de doute.
+- Reconstituez votre réserve d'urgence.
 
 Source : [Centre de crise National : Perturbation de l'électricité](https://centredecrise.be/fr/risques-en-belgique/risques-societaux/defaillance-de-lapprovisionnement-en-electricite) · [Centre de crise National : OFF ON](https://centredecrise.be/sites/default/files/documents/files/OffOn-triptyque-F.pdf)

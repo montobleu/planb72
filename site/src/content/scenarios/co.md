@@ -160,7 +160,7 @@ Lukt bellen niet, laat iemand anders bellen of stuur iemand om hulp in je buurt.
 
 - Ouderen en mensen met een chronische ziekte, met hart- of ademhalingsproblemen of met bloedarmoede lopen meer risico.
 - Rokers, en zeker pijp-, sigaren- en waterpijprokers, hebben al meer CO in het bloed.
-- Wie slaapt, gedronken heeft of onder invloed is, kan sterven aan CO voor hij klachten opmerkt. Het CDC raadt een melder bij elke slaapruimte aan.
+- Wie slaapt, gedronken heeft of onder invloed is, kan sterven aan CO voor hij klachten opmerkt. Hang een melder bij elke slaapruimte.
 
 ### Huisdieren en dieren
 

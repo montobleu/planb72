@@ -5,7 +5,7 @@ kort: "Das Licht geht aus und kommt nicht sofort zurück, oder eine Abschaltung 
 stappen:
   - "Prüfen Sie, ob nur Ihre Wohnung ohne Strom ist: Haben die Nachbarn noch Licht, brennen die Straßenlaternen? So wissen Sie, ob es an Ihrer eigenen Installation oder am Netz liegt."
   - "Schalten Sie Wärmegeräte aus (Kochfeld, Backofen, Bügeleisen, Wasserkocher, elektrische Heizung) und ziehen Sie den Stecker empfindlicher Geräte. Lassen Sie einen Schalter eingeschaltet, damit Sie merken, wann der Strom zurück ist."
-  - "Halten Sie Kühlschrank und Gefriergerät geschlossen. Ein geschlossenes Gefriergerät bleibt laut Krisenzentrum 24 bis 36 Stunden gefroren."
+  - "Halten Sie Kühlschrank und Gefriergerät geschlossen. Ein geschlossenes Gefriergerät bleibt 24 bis 36 Stunden gefroren."
   - "Benutzen Sie eine Taschenlampe statt Kerzen. Brennt doch eine Kerze, stellen Sie sie in einen Halter auf einen nicht brennbaren Untergrund und lassen Sie sie nie allein."
   - "Verfolgen Sie die Nachrichten über ein batteriebetriebenes Radio oder das Autoradio. Funktioniert das Netz noch, telefonieren und surfen Sie nur, wenn es nötig ist, und schicken Sie lieber eine SMS."
   - "Benutzen Sie nie einen Generator, Grill, Gaskocher oder Ofen ohne Abzug drinnen oder in der Garage. Kohlenmonoxid ist unsichtbar und geruchlos."
@@ -111,14 +111,14 @@ Quelle: [Nationales Krisenzentrum: Störung der Stromversorgung](https://krisenz
 
 **Notfallpaket für mindestens 72 Stunden**
 
-Das Krisenzentrum empfiehlt, dass Sie mindestens drei Tage selbst zurechtkommen können. Der deutsche Bevölkerungsschutz (BBK) zielt auf einige Tage bis zehn Tage.
+Sorgen Sie dafür, dass Sie mindestens drei Tage selbst zurechtkommen können.
 
-- Trinkwasser: 3 bis 10 Liter pro Person und Tag. Davon sind 1,5 bis 2 Liter zum Trinken, der Rest zum Kochen, Waschen und für die Toilette.
+- Trinkwasser: Rechnen Sie mit 3 Litern pro Person und Tag, zum Trinken und Kochen. Mehr, wenn Sie können, zum Waschen und für die Toilette.
 - Lebensmittel, die Sie kalt essen oder ohne Strom, Gas oder Wasser zubereiten können, und ein Dosenöffner.
 - Eine Taschenlampe, am besten mit Kurbel. Funktioniert sie mit Batterien, legen Sie Ersatzbatterien bereit.
 - Ein Radio mit Batterien oder Kurbel.
 - Eine geladene Powerbank und ein Ladegerät.
-- Bargeld für etwa 72 Stunden, weil Geldautomaten und Zahlungsterminals ausfallen. Denk vooruit (Niederlande) nennt als Richtbetrag 70 Euro pro Erwachsenen und 30 Euro pro Kind.
+- Bargeld für etwa 72 Stunden, zum Beispiel 70 Euro pro Erwachsenen und 30 Euro pro Kind, weil Geldautomaten und Zahlungsterminals ausfallen.
 - Ein Vorrat notwendiger Medikamente für mindestens 72 Stunden.
 - Decken und warme Kleidung für den Winter.
 - Ein Feuerzeug oder Streichhölzer, Kerzen oder Teelichter.
@@ -165,8 +165,7 @@ Quelle: [Nationales Krisenzentrum: Störung der Stromversorgung](https://krisenz
 **Kühlschrank und Gefriergerät**
 
 - Öffnen Sie Kühlschrank und Gefriergerät so wenig wie möglich.
-- Laut Krisenzentrum tauen Lebensmittel bei einer Unterbrechung von 3 bis 4 Stunden nicht auf. Bleibt die Tür des Gefriergeräts geschlossen, können sie 24 und sogar 36 Stunden tiefgefroren bleiben.
-- Die amerikanische Gesundheitsbehörde CDC geht von etwa 4 Stunden für einen geschlossenen Kühlschrank aus, 48 Stunden für ein volles Gefriergerät und 24 Stunden für ein halbvolles. In Belgien gilt der Rat des Krisenzentrums.
+- Lebensmittel tauen bei einer Unterbrechung von 3 bis 4 Stunden nicht auf. Bleibt die Tür des Gefriergeräts geschlossen, können sie 24 und sogar 36 Stunden tiefgefroren bleiben.
 
 **Warm bleiben**
 
@@ -241,7 +240,7 @@ Quelle: [Nationales Krisenzentrum: Notfallpaket](https://krisenzentrum.be/de/was
 
 **Medikamente, die kühl bleiben müssen**
 
-- Die CDC empfiehlt, solche flüssigen Medikamente nach einem Tag oder länger ohne Strom wegzuwerfen, es sei denn, der Beipackzettel sagt etwas anderes. Fordern Sie so schnell wie möglich einen neuen Vorrat bei Ihrem Arzt oder Apotheker an.
+- Werfen Sie solche flüssigen Medikamente nach einem Tag oder länger ohne Strom weg, es sei denn, der Beipackzettel sagt etwas anderes. Fordern Sie so schnell wie möglich einen neuen Vorrat bei Ihrem Arzt oder Apotheker an.
 - Hängt ein Leben von dem Medikament ab, verwenden Sie es, bis ein neuer Vorrat da ist.
 
 **Nachbarn**
@@ -268,7 +267,7 @@ Quelle: [Nationales Krisenzentrum: Notfallpaket](https://krisenzentrum.be/de/was
 
 - Prüfen Sie den Beutel Eiswürfel. Ist das Eis geschmolzen und wieder gefroren, sind die Lebensmittel wahrscheinlich verdorben.
 - Werfen Sie Lebensmittel beim geringsten Zweifel an ihrer Frische weg, oder wenn sie einen seltsamen Geruch, eine seltsame Farbe oder Konsistenz haben.
-- Aufgetaute Tiefkühlware, die noch Eiskristalle enthält oder noch 4 °C oder kälter ist, dürfen Sie laut CDC wieder einfrieren oder zubereiten.
+- Aufgetaute Tiefkühlware, die noch Eiskristalle enthält oder noch 4 °C oder kälter ist, dürfen Sie wieder einfrieren oder zubereiten.
 - Werfen Sie verderbliche Lebensmittel weg, die 4 Stunden oder länger ohne Kühlung standen: Fleisch, Fisch, geschnittenes Gemüse und Obst, Eier, Milch und Reste. Werfen Sie aufgetaute Tiefkühlware weg, die wärmer als 4 °C ist.
 - Ein Thermometer in Kühlschrank und Gefriergerät hilft, das zu beurteilen.
 

@@ -47,7 +47,7 @@ Source : [Gezondheid en Wetenschap : Noyade](https://www.gezondheidenwetenschap.
 1. Appelez à l'aide et faites appeler le 112 par quelqu'un. Si l'appel ne passe pas, demandez à cette personne d'aller chercher de l'aide (voir Appelez le 112 si).
 2. Essayez de sauver la victime sans entrer vous-même dans l'eau. Utilisez le matériel de sauvetage disponible sur place, lancez quelque chose qui flotte, ou tendez un objet long.
 3. N'allez pas en eau profonde si vous n'êtes pas un bon nageur. N'entrez dans l'eau que si vous êtes formé au sauvetage, et emportez alors du matériel de sauvetage. Une victime consciente peut, sous l'effet de la panique, s'agripper au sauveteur.
-4. Selon l'ERC, un sauveteur formé qui atteint dans l'eau une victime qui ne réagit pas donne immédiatement 5 insufflations avant de la ramener au bord.
+4. Un sauveteur formé qui atteint dans l'eau une victime qui ne réagit pas donne immédiatement 5 insufflations avant de la ramener au bord.
 5. Sortez la victime de l'eau en position horizontale. Vous évitez ainsi une chute de la tension artérielle.
 
 ### Au bord
@@ -72,7 +72,7 @@ Source : [Gezondheid en Wetenschap : Noyade](https://www.gezondheidenwetenschap.
 
 ## Si les secours tardent à arriver
 
-- Après une noyade, il est possible que la personne réagisse à la réanimation, même sans défibrillateur. L'IFRC cite la noyade et l'hypothermie comme exceptions à la règle selon laquelle, dans une région sans services de secours, vous pouvez arrêter si la réanimation reste sans effet après 20 minutes. Chez un enfant qui s'est noyé ou qui est en hypothermie, il y a une chance de le sauver avec la seule réanimation.
+- Après une noyade, il est possible que la personne réagisse à la réanimation, même sans défibrillateur. La noyade et l'hypothermie sont des exceptions à la règle selon laquelle, dans une région sans services de secours, vous pouvez arrêter si la réanimation reste sans effet après 20 minutes. Chez un enfant qui s'est noyé ou qui est en hypothermie, il y a une chance de le sauver avec la seule réanimation.
 - Les insufflations sont ici particulièrement importantes, car la victime n'a pas reçu d'oxygène. Donnez-les si vous le pouvez.
 - Relayez-vous avec d'autres sauveteurs toutes les 1 à 2 minutes sans interrompre la réanimation.
 - Si la victime doit être transportée, réanimez sans interruption sur une surface dure pendant le transport.
@@ -95,7 +95,7 @@ Toute victime de noyade doit être examinée, même si cela ne semble pas si gra
 
 - Ne laissez la victime seule que s'il n'y a pas d'autre possibilité. Désignez directement un témoin pour aller chercher de l'aide et indiquez-lui où c'est, ce qui s'est passé, combien de victimes il y a et dans quel état elles sont.
 - Faites chercher un DEA par quelqu'un s'il y en a un à proximité.
-- Si vous réanimez et êtes seul sans téléphone, voir le sujet 2 (Si l'appel ne passe pas). Vous y trouverez ce que l'ERC recommande pour un adulte et pour un enfant.
+- Si vous réanimez et êtes seul sans téléphone, voir le sujet 2 (Si l'appel ne passe pas). Vous y trouverez ce qu'il faut faire pour un adulte et pour un enfant.
 - Voir aussi le sujet 1 (Si l'appel ne passe pas : chercher de l'aide sans téléphone) et Numéros d'urgence dans l'application, Si l'appel ne passe pas.
 
 Source : [Gezondheid en Wetenschap : Noyade](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-verdrinking) · [ERC Guidelines 2025 for Everyone](https://www.erc.edu/media/p5ymaeej/gl2025_layperson_book_ipdf-v11-e.pdf) · [IFRC Guidelines 2020](https://www.ifrc.org/sites/default/files/2022-02/EN_GFARC_GUIDELINES_2020.pdf) · [ERC Guidelines 2021 : First aid](https://cprguidelines-old.erc.edu/assets/guidelines/European-Resuscitation-Council-Guidelines-2021-Fi.pdf) · [112.be : Questions fréquentes](https://112.be/fr/questions-frequentes)

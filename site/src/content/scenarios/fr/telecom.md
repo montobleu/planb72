@@ -102,8 +102,8 @@ Source : [BBK: brochure Stromausfall](https://www.bbk.bund.de/SharedDocs/Downloa
 
 **Où demander de l'aide si l'appel ne passe pas**
 
-- Demandez à votre administration communale ce que la commune prévoit si les appels ne passent plus, par exemple un point d'information et d'accueil. Le BBK (Allemagne) recommande la même chose pour signaler une urgence.
-- Sachez où se trouvent le poste de pompiers, la police et l'hôpital les plus proches, près de votre domicile et de votre travail (Luxembourg). La carte de l'application les affiche, avec le bouton Le plus proche.
+- Demandez à votre administration communale ce que la commune prévoit si les appels ne passent plus, par exemple un point d'information et d'accueil.
+- Sachez où se trouvent le poste de pompiers, la police et l'hôpital les plus proches, près de votre domicile et de votre travail. La carte de l'application les affiche, avec le bouton Le plus proche.
 
 **Recevoir des informations sans internet**
 
@@ -121,7 +121,7 @@ Source : [BBK: brochure Stromausfall](https://www.bbk.bund.de/SharedDocs/Downloa
 
 **Argent et paiements**
 
-- Gardez de l'argent liquide à la maison, assez pour les besoins de base d'environ 72 heures (Centre de crise). Denk vooruit (Pays-Bas) cite 70 euros par adulte et 30 euros par enfant.
+- Gardez de l'argent liquide à la maison, assez pour les besoins de base d'environ 72 heures, par exemple 70 euros par adulte et 30 euros par enfant.
 
 Source : [Centre de crise National : perturbation de l'infrastructure numérique](https://centredecrise.be/fr/risques-en-belgique/risques-societaux/defaillance-des-infrastructures-digitales) · [Centre de crise National : évacuer](https://centredecrise.be/fr/que-pouvez-vous-faire/le-bon-reflexe/evacuer) · [Centre de crise National : un plan dans votre quartier](https://centredecrise.be/fr/que-pouvez-vous-faire/faites-un-plan/un-plan-dans-votre-quartier-ou-votre-association) · [Centre de crise National : kit d'urgence](https://centredecrise.be/fr/que-pouvez-vous-faire/preparez-un-kit-durgence/un-kit-durgence-la-maison) · [Centre de crise National : brochure Préparons-nous ensemble](https://centredecrise.be/sites/default/files/documents/files/WEB-Brochure-Pr%C3%AAts.%20Ensemble-FR.pdf) · [Centre de crise National : information pendant une situation d'urgence](https://centredecrise.be/fr/que-pouvez-vous-faire/informez-vous/linformation-pendant-une-situation-durgence) · [SPF Économie : questions des ménages sur la pénurie d'électricité](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door) · [BBK: Stromausfall, Vorsorge und Selbsthilfe](https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/Buergerinformationen/stromausfall-vorsorge-selbsthilfe.pdf?__blob=publicationFile&v=17) · [LetzPrepare](https://letzprepare.public.lu/dam-assets/images/guide-letzeprepare/hcpn-campagne26-guide-accessible-fr-002.pdf) · [BE-Alert](https://www.be-alert.be/fr/comment-serez-vous-alerte) · [BEREC](https://www.berec.europa.eu/en/emergency-means) · [BBK: Stromausfall](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Vorsorge/Stromausfall/stromausfall_node.html) · [Denk vooruit : questions et réponses](https://www.denkvooruit.nl/site/binaries/site-content/collections/documents/2025/10/27/toolkit-denk-vooruit-campagne-najaar-2025/20251111-qa-denkvooruit-bronbestand.pdf) · [Ready.gov: make a plan](https://www.ready.gov/plan)
 

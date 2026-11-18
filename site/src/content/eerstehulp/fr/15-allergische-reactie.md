@@ -91,7 +91,7 @@ Source : [Gezondheid en Wetenschap : Choc anaphylactique](https://www.gezondheid
 
 ## Si les secours tardent à arriver
 
-- Selon l'IFRC, un deuxième auto-injecteur peut être envisagé si les services de secours ne sont pas encore là et que la victime ne va pas mieux dans les 5 à 10 minutes après le premier. Cela ne vaut que pour l'auto-injecteur personnel et prescrit de la victime. Même dans ce cas, la règle belge s'applique : la victime l'utilise elle-même, et vous ne l'administrez que sur demande expresse si elle ne peut plus le faire elle-même.
+- Un deuxième auto-injecteur peut être envisagé si les services de secours ne sont pas encore là et que la victime ne va pas mieux dans les 5 à 10 minutes après le premier. Cela ne vaut que pour l'auto-injecteur personnel et prescrit de la victime. Même dans ce cas, la victime l'utilise elle-même, et vous ne l'administrez que sur demande expresse si elle ne peut plus le faire elle-même.
 - Si la victime n'a pas d'auto-injecteur, essayez par tous les moyens de joindre une aide médicale : le 112 et un médecin généraliste à proximité.
 - Une réaction allergique grave peut revenir alors que tout semblait passé, entre 1 et 78 heures après le début. Cela arrive plus souvent après une réaction grave ou si plus d'un auto-injecteur a été nécessaire. Surveillez donc pendant les 3 jours suivants une personne qui a eu une réaction grave ou qui a reçu un auto-injecteur.
 - Continuez à vérifier régulièrement la conscience et la respiration. Si la victime perd connaissance et ne respire pas normalement, réanimez-la.

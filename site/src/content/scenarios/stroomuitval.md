@@ -5,7 +5,7 @@ kort: "Het licht valt uit en komt niet meteen terug, of er is een afschakeling a
 stappen:
   - "Kijk of alleen jouw woning zonder stroom zit: hebben de buren nog licht, branden de straatlampen? Zo weet je of het aan je eigen installatie ligt of aan het net."
   - "Schakel warmtetoestellen uit (kookplaat, oven, strijkijzer, waterkoker, elektrische verwarming) en trek de stekker uit gevoelige toestellen. Laat één schakelaar aan zodat je merkt wanneer de stroom terug is."
-  - "Hou koelkast en diepvries dicht. Een dichte diepvries blijft volgens het Crisiscentrum 24 tot 36 uur bevroren."
+  - "Hou koelkast en diepvries dicht. Een dichte diepvries blijft 24 tot 36 uur bevroren."
   - "Gebruik een zaklamp in plaats van kaarsen. Brandt er toch een kaars, zet die in een houder op een onbrandbare ondergrond en laat ze nooit alleen."
   - "Volg het nieuws via een radio op batterijen of de autoradio. Werkt het net nog, bel en surf dan alleen als het nodig is en stuur liever een sms."
   - "Gebruik nooit een generator, barbecue, gasvuurtje of kachel zonder afvoer binnen of in de garage. Koolstofmonoxide is onzichtbaar en reukloos."
@@ -109,14 +109,14 @@ Bron: [Nationaal Crisiscentrum: verstoring van elektriciteit](https://crisiscent
 
 **Noodpakket voor minstens 72 uur**
 
-Het Crisiscentrum raadt aan dat je minstens drie dagen zelf kunt rondkomen. De Duitse civiele bescherming (BBK) mikt op enkele dagen tot tien dagen.
+Zorg dat je minstens drie dagen zelf kunt rondkomen.
 
-- Drinkwater: 3 tot 10 liter per persoon per dag. Daarvan is 1,5 tot 2 liter om te drinken, de rest om te koken, te wassen en voor het toilet.
+- Drinkwater: reken op 3 liter per persoon per dag, om te drinken en te koken. Meer als je kunt, om te wassen en voor het toilet.
 - Voedsel dat je koud kunt eten of zonder stroom, gas of water kunt klaarmaken, en een blikopener.
 - Een zaklamp, liefst met slinger. Werkt ze op batterijen, voorzie dan reservebatterijen.
 - Een radio op batterijen of met slinger.
 - Een opgeladen powerbank en een lader.
-- Contant geld voor ongeveer 72 uur, omdat geldautomaten en betaalterminals uitvallen. Denk vooruit (Nederland) noemt als richtbedrag 70 euro per volwassene en 30 euro per kind.
+- Contant geld voor ongeveer 72 uur, bijvoorbeeld 70 euro per volwassene en 30 euro per kind, omdat geldautomaten en betaalterminals uitvallen.
 - Een voorraad van minstens 72 uur van noodzakelijke geneesmiddelen.
 - Dekens en warme kleding voor de winter.
 - Een aansteker of lucifers, kaarsen of theelichtjes.
@@ -163,8 +163,7 @@ Bron: [Nationaal Crisiscentrum: verstoring van elektriciteit](https://crisiscent
 **Koelkast en diepvries**
 
 - Open koelkast en diepvries zo weinig mogelijk.
-- Volgens het Crisiscentrum ontdooit voedsel niet bij een onderbreking van 3 tot 4 uur. Blijft de diepvriesdeur dicht, dan kan het 24 en zelfs 36 uur diepgevroren blijven.
-- De Amerikaanse gezondheidsdienst CDC houdt het op ongeveer 4 uur voor een dichte koelkast, 48 uur voor een volle diepvries en 24 uur voor een halfvolle. In België geldt het advies van het Crisiscentrum.
+- Voedsel ontdooit niet bij een onderbreking van 3 tot 4 uur. Blijft de diepvriesdeur dicht, dan kan het 24 en zelfs 36 uur diepgevroren blijven.
 
 **Warm blijven**
 
@@ -239,7 +238,7 @@ Bron: [Nationaal Crisiscentrum: noodpakket](https://crisiscentrum.be/nl/wat-kan-
 
 **Geneesmiddelen die koel moeten blijven**
 
-- De CDC raadt aan zulke vloeibare geneesmiddelen na een dag of langer zonder stroom weg te gooien, tenzij de bijsluiter iets anders zegt. Vraag zo snel mogelijk een nieuwe voorraad aan je arts of apotheker.
+- Gooi zulke vloeibare geneesmiddelen na een dag of langer zonder stroom weg, tenzij de bijsluiter iets anders zegt. Vraag zo snel mogelijk een nieuwe voorraad aan je arts of apotheker.
 - Hangt een leven af van het geneesmiddel, gebruik het dan tot er een nieuwe voorraad is.
 
 **Buren**
@@ -266,7 +265,7 @@ Bron: [Nationaal Crisiscentrum: noodpakket](https://crisiscentrum.be/nl/wat-kan-
 
 - Kijk de zak ijsblokjes na. Is het ijs gesmolten en weer bevroren, dan is het voedsel waarschijnlijk bedorven.
 - Gooi voedsel weg bij de minste twijfel over bederf, of als het een vreemde geur, kleur of textuur heeft.
-- Ontdooid diepvriesvoedsel dat nog ijskristallen bevat of nog 4 °C of kouder is, mag je volgens de CDC opnieuw invriezen of klaarmaken.
+- Ontdooid diepvriesvoedsel dat nog ijskristallen bevat of nog 4 °C of kouder is, mag je opnieuw invriezen of klaarmaken.
 - Gooi bederfbaar voedsel weg dat 4 uur of langer zonder koeling stond: vlees, vis, gesneden groenten en fruit, eieren, melk en restjes. Gooi ontdooid diepvriesvoedsel weg dat warmer is dan 4 °C.
 - Een thermometer in koelkast en diepvries helpt om dit te beoordelen.
 

@@ -111,9 +111,7 @@ Source: [National Crisis Center: nuclear power plant](https://crisiscenter.be/en
 8. Follow the instructions of the authorities via the radio or TV and watch for police loudspeaker vans. If the network is working, also follow BE-Alert and the official websites.
 9. Do not phone to ask for information. Only phone in a medical emergency (112). Unnecessary calls overload the network. If you cannot get through, see Emergency numbers, If you cannot call. If the network is working, warn others by text message, WhatsApp or Signal.
 
-**Do you have a cellar?** The Belgian sources speak of a central room on the ground floor. The American Ready.gov names a cellar or the middle of a large building as the best protected place, with as many walls as possible between you and the outside. Brick or concrete buildings and underground car parks also offer good protection.
-
-**How long.** In principle sheltering lasts at most 24 hours. If the release lasts longer, radioactive particles can gradually get in through gaps and vents. The authorities may then order the evacuation of certain zones. Ready.gov advises staying in the best protected place for the first 24 hours and only leaving earlier in case of immediate danger, such as fire, a gas leak or a serious injury.
+**How long.** In principle sheltering lasts at most 24 hours. If the release lasts longer, radioactive particles can gradually get in through gaps and vents. The authorities may then order the evacuation of certain zones. Do not leave your shelter earlier, except in case of immediate danger, such as fire, a gas leak or a serious injury.
 
 **Eating and drinking while sheltering.** Food and drink that were indoors are safe. You can use closed packaging from outside if you first wipe it with a damp cloth. Put that cloth in a plastic bag, away from people and animals. Do not eat anything from the vegetable garden or anything that was left uncovered outside.
 
@@ -126,7 +124,7 @@ Source: [National Crisis Center: nuclear power plant](https://crisiscenter.be/en
   3. Take a shower and wash with soap.
   4. If you cannot shower, wipe your skin and hair with a damp wipe or a wet cloth. Do not use household cleaning wipes on your skin. Hand gel does not protect against radioactive substances.
   5. Put on clean clothes and drink enough.
-- According to Ready.gov, just taking off the outer layer of clothing can remove up to 90 per cent of the radioactive dust.
+- Just taking off the outer layer of clothing can remove up to 90 per cent of the radioactive dust.
 - The authorities may set up a reception centre for decontamination and a medical check.
 
 ### In the car

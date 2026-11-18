@@ -162,7 +162,7 @@ If you cannot get through, have someone else call or send someone to fetch help 
 
 - Older people and people with a chronic illness, with heart or breathing problems or with anaemia are at greater risk.
 - Smokers, and certainly pipe, cigar and water pipe smokers, already have more CO in their blood.
-- Anyone who is asleep, has been drinking or is under the influence can die of CO before noticing any symptoms. The CDC recommends an alarm near every sleeping area.
+- Anyone who is asleep, has been drinking or is under the influence can die of CO before noticing any symptoms. Fit an alarm near every sleeping area.
 
 ### Pets and animals
 

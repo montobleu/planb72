@@ -73,16 +73,16 @@ Source: [National Crisis Center](https://crisiscenter.be/en/risks-belgium/techno
 
 - **Know your neighbourhood.** Check on seveso.be in advance whether you live, work or go to school near a Seveso company. Seveso companies work with hazardous substances.
 - **Register with BE-Alert.** As well as your home address, add other addresses: your work, your children's school or childcare, the address of a vulnerable family member.
-- **Choose your shelter room.** The Belgian authorities recommend a central room on the ground floor, away from windows and outside doors. Walls and ceilings protect better than windows. Choose a room with as few windows and doors to the outside as possible.
+- **Choose your shelter room:** a central room on the ground floor, away from windows and outside doors. Walls and ceilings protect better than windows. Choose a room with as few windows and doors to the outside as possible.
 - **Know how to switch off the ventilation.** Find out in advance how to stop mechanical ventilation, air conditioning and the air intake of the heating.
-- **Have material ready to seal gaps.** The American Ready.gov recommends having plastic sheeting, strong tape and scissors ready to cover doors, windows and vents. Wet towels can also be used.
+- **Have material ready to seal gaps:** plastic sheeting, strong tape and scissors to cover doors, windows and vents. Wet towels can also be used.
 - **Make an emergency kit** with water, food, a battery-powered or wind-up radio, a torch, medication and a charged power bank.
 - **Make arrangements** with the people you live with and your neighbours: who does what, and how you reach each other without phone or internet.
 - **Keep a paper list** of important phone numbers with your emergency kit.
 
-**Difference between sources about the floor.** The Belgian authorities advise a central room on the ground floor. The Bezirksamt Pankow in Berlin and Ready.gov recommend a room on a higher floor or above ground in the case of gases, because most gases are heavier than air and sink. In Belgium, follow the Belgian advice. If the authorities give a different instruction for a particular substance, follow that instruction.
+If the authorities give a different instruction for a particular substance, follow that instruction.
 
-Source: [National Crisis Center: Seveso](https://crisiscenter.be/en/risks-belgium/technological-risks/incident-seveso-installation) · [Seveso.be](https://www.seveso.be/en/seveso-establishments) · [BE-Alert](https://www.be-alert.be/en/how-does-be-alert-work/notified-wherever-you-are) · [Ready.gov](https://www.ready.gov/chemical) · [Bezirksamt Pankow](https://www.berlin.de/ba-pankow/politik-und-verwaltung/beauftragte/katastrophenschutz/artikel.1640880.php) · [National Crisis Center: Prepared together](https://crisiscenter.be/sites/default/files/documents/files/WEB-Brochure%20Prepared%20Together-EN.pdf) · [National Crisis Center: plan in your neighbourhood](https://crisiscenter.be/en/what-can-you-do/make-plan/plan-your-neighbourhood-association-or-club)
+Source: [National Crisis Center: Seveso](https://crisiscenter.be/en/risks-belgium/technological-risks/incident-seveso-installation) · [Seveso.be](https://www.seveso.be/en/seveso-establishments) · [BE-Alert](https://www.be-alert.be/en/how-does-be-alert-work/notified-wherever-you-are) · [Ready.gov](https://www.ready.gov/chemical) · [National Crisis Center: Prepared together](https://crisiscenter.be/sites/default/files/documents/files/WEB-Brochure%20Prepared%20Together-EN.pdf) · [National Crisis Center: plan in your neighbourhood](https://crisiscenter.be/en/what-can-you-do/make-plan/plan-your-neighbourhood-association-or-club)
 
 ## During
 
@@ -110,8 +110,6 @@ Sheltering is the best protection. Sheltering is temporary: from a few hours up 
 1. Walk away from the accident, preferably at right angles to the wind direction.
 2. Breathe through a cloth, or at least through a handkerchief.
 3. Go into the nearest closed building. Ask to be let in and follow the same steps there as at home.
-
-Ready.gov recommends moving upwind of the source. The Belgian and German authorities recommend walking away at right angles to the wind. Follow the Belgian advice.
 
 **Were you in contact with a suspicious substance?**
 

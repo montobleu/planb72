@@ -95,7 +95,7 @@ Bron: [Gezondheid en Wetenschap: Brandwonden](https://www.gezondheidenwetenschap
 
 ## Als hulp lang op zich laat wachten
 
-De IFRC geeft oplossingen voor als er geen leidingwater of verbandmateriaal is:
+Oplossingen als er geen leidingwater of verbandmateriaal is:
 
 - Geen stromend water: koel met een andere koele vloeistof, zoals sap of melk.
 - Weinig water: zet een kom onder de brandwonde en giet het water over de wonde in de kom. Zo kan je het water opnieuw gebruiken. Dat werkt beter dan de wonde in een kom water te houden, want het lichaam warmt stilstaand water op.
@@ -142,6 +142,6 @@ Bron: [Gezondheid en Wetenschap: Brandwonden](https://www.gezondheidenwetenschap
 - Probeer een ingeslikt bijtend product niet te verdunnen. Bel 112 of het Antigifcentrum. Lukt bellen niet, zie Bel 112 als.
 - Breng zonder medisch advies niets anders in een oog met een chemisch product dan proper water.
 - Raak een slachtoffer van een elektriciteitsongeval niet aan zolang de stroom niet uit is.
-- Gebruik geen zalf met zilversulfadiazine. De IFRC zegt dat die met een slechtere genezing samengaat.
+- Gebruik geen zalf met zilversulfadiazine. Die gaat samen met een slechtere genezing.
 
 Bron: [Gezondheid en Wetenschap: Brandwonden](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-brandwonden) · [IFRC Guidelines 2020](https://www.ifrc.org/sites/default/files/2022-02/EN_GFARC_GUIDELINES_2020.pdf) · [Gezondheid en Wetenschap: Elektriciteitsongeval](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-een-elektriciteitsongeval)

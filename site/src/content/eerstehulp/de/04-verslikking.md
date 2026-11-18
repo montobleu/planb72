@@ -115,7 +115,7 @@ Quelle: [IFRC Guidelines 2020](https://www.ifrc.org/sites/default/files/2022-02/
 - die Rückenschläge und die Oberbauchkompressionen oder Bruststöße nicht helfen;
 - die Person das Bewusstsein verliert.
 
-Gehen Sie auch zu einem Arzt, wenn die Person weiter hustet, schlecht schlucken kann, das Gefühl hat, dass etwas im Hals steckt, oder Oberbauchkompressionen erhalten hat. Die Croix-Rouge de Belgique empfiehlt eine ärztliche Beratung oder einen Anruf bei 112, auch wenn der Gegenstand heraus ist.
+Gehen Sie auch zu einem Arzt, wenn die Person weiter hustet, schlecht schlucken kann, das Gefühl hat, dass etwas im Hals steckt, oder Oberbauchkompressionen erhalten hat. Holen Sie ärztlichen Rat ein oder rufen Sie 112 an, auch wenn der Gegenstand heraus ist.
 
 **Kommt kein Anruf zustande**
 
@@ -132,7 +132,7 @@ Quelle: [Gezondheid en Wetenschap: Verschlucken](https://www.gezondheidenwetensc
 - Geben Sie einem Säugling keine Oberbauchkompressionen, sondern Bruststöße.
 - Geben Sie einer schwangeren Frau keine Oberbauchkompressionen, sondern Bruststöße.
 - Lassen Sie die Person nicht allein, bis sie wieder normal atmet.
-- Warten Sie nicht aus Angst, etwas falsch zu machen. Laut dem Roten Kreuz kann gerade Nichtstun schlecht ausgehen.
+- Warten Sie nicht aus Angst, etwas falsch zu machen. Gerade Nichtstun kann schlecht ausgehen.
 
 Vorbeugen bei Kindern: Halbieren Sie runde Lebensmittel wie Weintrauben und Tomaten. Behalten Sie einen Säugling im Auge, wenn er isst oder etwas in den Mund stecken kann.
 

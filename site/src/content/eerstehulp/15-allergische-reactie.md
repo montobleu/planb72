@@ -89,7 +89,7 @@ Bron: [Gezondheid en Wetenschap: Anafylactische shock](https://www.gezondheidenw
 
 ## Als hulp lang op zich laat wachten
 
-- Volgens de IFRC kan een tweede auto-injector overwogen worden als de hulpdiensten er nog niet zijn en het slachtoffer binnen 5 tot 10 minuten na de eerste niet beter wordt. Dat geldt alleen voor de eigen, voorgeschreven auto-injector van het slachtoffer. Ook dan geldt de Belgische regel: het slachtoffer gebruikt die zelf, en jij dient hem alleen toe op uitdrukkelijke vraag als het dat zelf niet meer kan.
+- Een tweede auto-injector kan overwogen worden als de hulpdiensten er nog niet zijn en het slachtoffer binnen 5 tot 10 minuten na de eerste niet beter wordt. Dat geldt alleen voor de eigen, voorgeschreven auto-injector van het slachtoffer. Ook dan gebruikt het slachtoffer die zelf, en dien jij hem alleen toe op uitdrukkelijke vraag als het dat zelf niet meer kan.
 - Heeft het slachtoffer geen auto-injector, probeer dan op alle manieren medische hulp te bereiken: 112 en een huisarts in de buurt.
 - Een zware allergische reactie kan terugkomen nadat alles over leek, tussen 1 en 78 uur na het begin. Dat gebeurt vaker na een zware reactie of als er meer dan één auto-injector nodig was. Volg iemand die een zware reactie had of een auto-injector kreeg daarom de 3 dagen erna op.
 - Blijf bewustzijn en ademhaling regelmatig controleren. Wordt het slachtoffer bewusteloos en ademt het niet normaal, reanimeer dan.

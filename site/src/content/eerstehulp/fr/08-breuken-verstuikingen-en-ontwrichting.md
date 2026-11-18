@@ -106,7 +106,7 @@ Source : [Gezondheid en Wetenschap : Fractures](https://www.gezondheidenwetensch
 - Refroidissez à plusieurs reprises si la douleur revient, chaque fois pendant 20 minutes maximum et seulement lorsque la peau a retrouvé une chaleur normale.
 - En cas de fracture d'un gros os, surveillez les signes de choc et gardez la victime couchée et au chaud.
 - Soyez attentif aux troubles de la sensibilité, comme des picotements, des fourmillements ou un pied engourdi, et aux signes d'un syndrome des loges. Ce sont des raisons de consulter un médecin.
-- L'IFRC mentionne qu'un secouriste formé, dans un environnement isolé, envisage de réaligner une fracture fortement déformée si le membre est froid et pâle au-delà de la fracture. La recommandation belge dit : ne remettez jamais droit une articulation ou un membre en position anormale. Suivez la recommandation belge.
+- Ne remettez jamais droit une articulation ou un membre en position anormale.
 - Les luxations et les fractures doivent toujours être traitées par un professionnel de santé. Cherchez ces soins dès que possible.
 
 Source : [IFRC Guidelines 2020](https://www.ifrc.org/sites/default/files/2022-02/EN_GFARC_GUIDELINES_2020.pdf) · [Gezondheid en Wetenschap : Fractures](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-breuken) · [Gezondheid en Wetenschap : Luxation](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-ontwrichting)

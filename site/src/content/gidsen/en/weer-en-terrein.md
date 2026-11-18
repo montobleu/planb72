@@ -81,7 +81,7 @@ In case of great uncertainty, a code can also be issued at shorter notice.
 
 **How you receive the warnings**
 
-1. **Radio.** The Crisis Center names radio and TV as the first way to follow the weather forecast. During a power cut, the internet and mobile networks may fail: keep a battery radio, a wind-up radio or the car radio to hand (Crisis Center, FPS Economy).
+1. **Radio.** Follow the weather forecast first of all on radio and TV. During a power cut, the internet and mobile networks may fail: keep a battery radio, a wind-up radio or the car radio to hand.
 2. **If the internet works,** also check the RMI website or app.
 3. **Reading the weather yourself.** Clouds and thunder also tell you something, especially outdoors (see Reading clouds and thunderstorms).
 
@@ -94,7 +94,7 @@ In case of great uncertainty, a code can also be issued at shorter notice.
 - The RMI forecasts the weather, not the damage. Whether there will be flooding also depends on local conditions.
 - The RMI also issues a warning for **carbon monoxide poisoning** (without a colour) when windless weather with a strong temperature inversion hinders the discharge of flue gases.
 
-**Thresholds per colour** (as published by the RMI)
+**Thresholds per colour**
 
 | Phenomenon | Yellow | Orange | Red |
 | --- | --- | --- | --- |
@@ -121,7 +121,7 @@ Source: [RMI: Explanation of our warnings](https://www.meteo.be/en/weather/warni
 
 ## Reading clouds and thunderstorms
 
-Outdoors, or without radio and internet, you can watch for signs in the sky yourself. PlanB72 includes only weather signs that the RMI itself describes. We leave out popular weather lore.
+Outdoors, or without radio and internet, you can watch for signs in the sky yourself. We leave out popular weather lore.
 
 - **Small tufts of cloud with turrets** (altocumulus castellanus, a type of high heaped cloud) indicate that thunderstorms may follow later in the day.
 - **Clouds with strong, column-shaped vertical growth** (cumulonimbus, the actual thunderclouds) announce that a thunderstorm is possible very soon or nearby. Thunderstorms always go with a cumulonimbus.
@@ -155,7 +155,7 @@ Source: [RMI: How do I protect myself against lightning?](https://www.meteo.be/n
 - Do not park near trees.
 - If there is lightning: stay away from metal structures, do not walk, stand still and crouch.
 
-**Outside in a forest or in the field:** the US Army recommends not building your shelter under dead trees or loose branches that could fall. For the RMI wind codes, the threshold is lower between 15 April and 15 November, because the trees are then in leaf.
+**Outside in a forest or in the field:** do not build your shelter under dead trees or loose branches that could fall. For the RMI wind codes, the threshold is lower between 15 April and 15 November, because the trees are then in leaf.
 
 Source: [National Crisis Center: Wind and storm](https://crisiscenter.be/en/risks-belgium/natural-risks/wind) · [RMI: Explanation of our warnings](https://www.meteo.be/en/weather/warnings/info-warnings) · [US Army FM 21-76](https://archive.org/details/fm-21-76-survival-manual)
 
@@ -174,7 +174,7 @@ Source: [National Crisis Center: Wind and storm](https://crisiscenter.be/en/risk
 Look this up in advance, while the internet works:
 
 - On the **Watertoets map** of Waterinfo Vlaanderen you can see the flood-prone areas (2019 version) and the maps that go with the Watertoets decree.
-- The Crisis Center recommends finding out about the zones that are vulnerable to flooding.
+- Find out about the zones that are vulnerable to flooding.
 - During high water, **Waterinfo** has current water levels and forecasts for flooding, precipitation, drought and tides. Without internet: listen to the radio.
 
 **Outside in the field**
@@ -190,7 +190,7 @@ Source: [National Crisis Center: Fluvial flooding](https://crisiscenter.be/en/ri
 
 ## Coast and tides
 
-**How tides work.** Ebb and flood are caused by the gravitational pull of the moon, and to a lesser extent of the sun. Along the Dutch coast there are two high tides and two low tides every 24 hours and 50 minutes; one tidal cycle lasts about 12 hours and 25 minutes.
+**How tides work.** Ebb and flood are caused by the gravitational pull of the moon, and to a lesser extent of the sun. Along the coast there are two high tides and two low tides every 24 hours and 50 minutes; one tidal cycle lasts about 12 hours and 25 minutes.
 
 | Tide | When | Effect |
 | --- | --- | --- |
@@ -216,12 +216,12 @@ Source: [Rijkswaterstaat: Tide](https://www.rijkswaterstaat.nl/water/waterdata-e
 
 ## Crossing rivers and streams: do not do it
 
-PlanB72 does not give techniques for crossing a river. Military survival manuals do describe them, for soldiers who are trained and equipped. For civilians, the sources say:
+PlanB72 does not give techniques for crossing a river: they are meant for soldiers who are trained and equipped. For civilians:
 
 - **Do not walk, swim or drive through moving water.** Just 15 cm of moving water can knock you over. Turn back.
 - In Belgium, **swimming in navigable waterways** (rivers, canals, harbour docks) is prohibited where it is not permitted. Many bodies of water in nature areas are polluted, too deep, too cold or dangerous in some other way.
 - Bridges over fast-flowing water can be washed away without warning.
-- The military manuals also name places to avoid: a rock ledge across the river (often indicates dangerous rapids), a river mouth (wide, strong current, tides), and whirlpools (which can pull you under water).
+- Also avoid these places: a rock ledge across the river (often indicates dangerous rapids), a river mouth (wide, strong current, tides), and whirlpools (which can pull you under water).
 
 **Someone has fallen into the water:** see to your own safety, try to rescue without going into the water yourself, call 112 or have someone call. If you cannot get through, send someone to fetch help (see the guide on dangers in nature, If you cannot get through). Only go into the water if you are trained for it: a drowning person who is conscious will cling to the rescuer in panic.
 
@@ -239,9 +239,9 @@ Source: [National Crisis Center: Snow](https://crisiscenter.be/en/risks-belgium/
 
 ## Mountains and snow: for those travelling abroad
 
-**Emergency numbers.** 112 works throughout the EU and in Switzerland. In Switzerland you can also call the air rescue service Rega directly on 1414, or from abroad on +41 333 333 333; Rega itself mainly recommends its emergency app. The German Alpenverein recommends saving the numbers of the local mountain rescue in your phone. Without signal: the alpine distress signal (six signals per minute, see the guide on signals). If you are in a group and someone is injured, send two or more people to raise the alarm; the others stay with the injured person (see the guide on the emergency call).
+**Emergency numbers.** 112 works throughout the EU and in Switzerland. In Switzerland you can also call the air rescue service Rega directly on 1414, or from abroad on +41 333 333 333; Rega itself mainly recommends its emergency app. Save the numbers of the local mountain rescue in your phone. Without signal: the alpine distress signal (six signals per minute, see the guide on signals). If you are in a group and someone is injured, send two or more people to raise the alarm; the others stay with the injured person (see the guide on the emergency call).
 
-**The European avalanche danger scale** (EAWS, used in all Alpine countries)
+**The European avalanche danger scale** (used in all Alpine countries)
 
 | Level | Name | What it means | How often |
 | --- | --- | --- | --- |
@@ -249,11 +249,11 @@ Source: [National Crisis Center: Snow](https://crisiscenter.be/en/risks-belgium/
 | 2 | Moderate | Increased danger in certain places. Triggering possible, mainly with a high additional load on the indicated steep slopes. Often no alarm signs, which does not mean it is safe. | About 50 per cent of the season, about 30 per cent of deaths |
 | 3 | Considerable | Dangerous. Triggering possible, even with a low additional load. Recent avalanches, cracks and "whumpf" sounds. | About 30 per cent of the season, about 50 per cent of deaths |
 | 4 | High | Very dangerous. Triggering likely, even with a low load, on many steep slopes. Many large natural avalanches possible. | A few days per winter, about 10 per cent of deaths |
-| 5 | Very high | Exceptional. Numerous very large natural avalanches, even on moderately steep slopes. | Very rarely, about 1 per cent of deaths (SLF) |
+| 5 | Very high | Exceptional. Numerous very large natural avalanches, even on moderately steep slopes. | Very rarely, about 1 per cent of deaths |
 
 In practice, the most dangerous level for those going off-piste is level 3: that is where most deaths occur.
 
-**What the Swiss avalanche institute SLF recommends**
+**What to do at each level**
 
 | Level | Advice |
 | --- | --- |
@@ -265,7 +265,7 @@ In practice, the most dangerous level for those going off-piste is level 3: that
 
 A danger level applies to a whole region, not to a single slope, and is always a forecast that you must assess on the spot.
 
-**Moving in mountains and snow** (US Army)
+**Moving in mountains and snow**
 
 - Avoid places where avalanches of earth, rock or snow can fall, and deep crevasses in ice fields.
 - Lee slopes (the side sheltered from the wind) collect snow blown off the windward side and form slabs.

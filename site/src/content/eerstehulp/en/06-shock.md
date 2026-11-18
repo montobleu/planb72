@@ -27,7 +27,7 @@ origineel_datum: "2026-11-18"
 
 ## Recognise
 
-Shock means that the circulation is failing: organs and tissues do not get enough blood and therefore not enough oxygen. Shock is always caused by something else. The IFRC lists these causes:
+Shock means that the circulation is failing: organs and tissues do not get enough blood and therefore not enough oxygen. Shock is always caused by something else. Possible causes are:
 
 - severe bleeding, external or internal (the most common cause);
 - very severe burns, where fluid leaks from the blood vessels into the burn;

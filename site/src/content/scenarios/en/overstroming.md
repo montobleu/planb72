@@ -161,7 +161,7 @@ Source: [National Crisis Center: fluvial flooding](https://crisiscenter.be/en/ri
 
 - Best option if the authorities ask you to: evacuate in good time.
 - If you cannot or may not leave: go to the highest floor.
-- Only go onto the roof if it is really necessary, and signal for help from there. This is what the American Ready.gov advises.
+- Only go onto the roof if it is really necessary, and signal for help from there.
 - Do not climb into a closed attic that you can no longer get out of.
 
 **Evacuating**
@@ -179,7 +179,7 @@ Source: [National Crisis Center: fluvial flooding](https://crisiscenter.be/en/ri
 ### Outdoors or on the move
 
 - Limit your journeys and avoid dangerous areas.
-- Do not walk, swim or drive through the water. According to Ready.gov, 15 centimetres (6 inches) of flowing water can knock you over.
+- Do not walk, swim or drive through the water. Even 15 centimetres of flowing water can knock you over.
 - Stay off bridges over fast-flowing water.
 - If you do have to walk through a flooded street, use a stick to feel the ground. Manhole covers and sections of road surface may have been washed away.
 - Floodwater can be contaminated and hide debris. Fallen power lines can electrify the water.
@@ -189,7 +189,7 @@ Source: [National Crisis Center: fluvial flooding](https://crisiscenter.be/en/ri
 ### In the car
 
 - Move your car to a safe place in advance, and not into your garage.
-- Never drive through a flooded road and never around a barrier. According to Ready.gov, 30 centimetres (1 foot) of water can carry a vehicle away.
+- Never drive through a flooded road and never around a barrier. 30 centimetres of water can carry a vehicle away.
 - If you are trapped in the car, stay in it. If the water rises inside the car, climb onto the roof.
 
 Source: [National Crisis Center: pluvial flooding](https://crisiscenter.be/en/risks-belgium/natural-risks/surface-water-flooding) · [Ready.gov: floods](https://www.ready.gov/floods)
@@ -268,7 +268,7 @@ Source: [Denk vooruit: flood](https://www.denkvooruit.nl/risicos/risicos-in-nede
 **Damage and insurance**
 
 - Take photos of the damage for your insurance claim.
-- Contact your insurer as soon as possible. According to the VMM, flood damage is covered by fire insurance, even if the flood is not recognised as a disaster.
+- Contact your insurer as soon as possible. Flood damage is covered by fire insurance, even if the flood is not recognised as a disaster.
 - In Flanders the Flemish Disaster Fund (Vlaams Rampenfonds) can in exceptional cases compensate part of the damage, only after a disaster recognised by the Flemish Government. Report the damage to your insurer first. Report the damage to the Disaster Fund within 60 days of the date of the damage.
 
 Source: [Ready.gov: floods](https://www.ready.gov/floods) · [Vivalis](https://www.vivalis.brussels/sites/default/files/2026-07/Overstromingen%20en%20gezondheidsrisico%27s.pdf) · [National Crisis Center: fluvial flooding](https://crisiscenter.be/en/risks-belgium/natural-risks/fluvial-riverine-flood) · [VMM: tips for floods](https://vmm.vlaanderen.be/tips/water/overstromingen) · [CDC: food safety](https://www.cdc.gov/food-safety/foods/keep-food-safe-after-emergency.html) · [Flemish Disaster Fund](https://www.vlaanderen.be/schadevergoeding-vlaams-rampenfonds-aanvragen)

@@ -102,7 +102,7 @@ Source : [Gezondheid en Wetenschap : Intoxication](https://www.gezondheidenweten
 - Placez la victime sur le côté gauche et surveillez en permanence la respiration et la conscience. Les plaintes peuvent n'apparaître que plus tard.
 - Notez ce qui s'est passé : quel produit, quelle quantité, par quelle voie et à quelle heure. Conservez les emballages et les étiquettes. Ces informations aident les secouristes à donner les bons soins.
 - Ne faites pas vomir. Ne donnez pas de lait, d'eau ou de charbon actif, sauf si le Centre Antipoisons le dit expressément.
-- Si le réseau fonctionne, vous pouvez aussi appeler le médecin de garde : 1733. Le Centre Antipoisons mentionne ce numéro.
+- Si le réseau fonctionne, vous pouvez aussi appeler le médecin de garde : 1733.
 - Prévenez de nouveaux cas : ne laissez jamais tourner un moteur dans un espace fermé comme un garage. Cela vaut pour tous les moteurs à combustion. Gardez les grilles de ventilation dégagées et aérez régulièrement. Un détecteur de CO avertit en cas de concentrations élevées, mais n'empêche pas le CO.
 
 Source : [IFRC Guidelines 2020](https://www.ifrc.org/sites/default/files/2022-02/EN_GFARC_GUIDELINES_2020.pdf) · [Gezondheid en Wetenschap : Intoxication par inhalation](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-inademing-van-giftige-stoffen) · [Gezondheid en Wetenschap : Intoxication au CO](https://www.gezondheidenwetenschap.be/eerste-hulp/eerste-hulp-bij-co-vergiftiging) · [Centre Antipoisons : Quand appeler ?](https://www.centreantipoisons.be/quand-appeler/) · [Centre Antipoisons : campagne CO](https://www.centreantipoisons.be/le-monoxyde-de-carbone-continue-de-tuer-chaque-annee/)

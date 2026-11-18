@@ -68,7 +68,7 @@ Bron: [Ready.gov](https://www.ready.gov/pandemic) · [CDC: als je ziek bent](htt
 **Een voorraad.**
 
 - Leg geleidelijk een voorraad aan van schoonmaakmiddelen, houdbaar eten, water en je voorgeschreven geneesmiddelen voor enkele dagen tot weken. Koop rustig, zodat iedereen kan krijgen wat hij nodig heeft.
-- Het Nationaal Crisiscentrum raadt aan om minstens 3 dagen zelfredzaam te zijn. Denk aan drinkwater (3 tot 10 liter per persoon per dag), houdbaar eten, papieren zakdoeken, natte doekjes, toiletpapier, maandverband, ontsmettende handgel en een EHBO-doos.
+- Zorg dat je minstens 3 dagen zelfredzaam bent. Denk aan drinkwater (3 liter per persoon per dag), houdbaar eten, papieren zakdoeken, natte doekjes, toiletpapier, maandverband, ontsmettende handgel en een EHBO-doos.
 - Hou een reserve van je noodzakelijke medicatie voor minstens 72 uur in je noodtas.
 
 **Een plan.**
@@ -109,7 +109,7 @@ Is er geen water en zeep, gebruik dan handgel met minstens 60 procent alcohol. W
 - Drink voldoende: 1,5 liter per dag.
 - Verlucht je woning regelmatig.
 
-**Wanneer je weer naar buiten mag.** Volg de regels van de gezondheidsdiensten voor de ziekte in kwestie. Het Amerikaanse CDC geeft als algemene regel voor luchtweginfecties: hervat je activiteiten als je klachten al minstens 24 uur beter worden en je in die 24 uur geen koorts had, zonder koortswerende middelen. Neem daarna nog 5 dagen extra voorzorgen bij anderen: frisse lucht, hygiëne, een goed passend mondmasker, afstand. Je kunt het virus dan nog doorgeven. Krijg je opnieuw koorts of voel je je slechter, blijf dan weer thuis.
+**Wanneer je weer naar buiten mag.** Volg de regels van de gezondheidsdiensten voor de ziekte in kwestie. Als algemene regel voor luchtweginfecties: hervat je activiteiten als je klachten al minstens 24 uur beter worden en je in die 24 uur geen koorts had, zonder koortswerende middelen. Neem daarna nog 5 dagen extra voorzorgen bij anderen: frisse lucht, hygiëne, een goed passend mondmasker, afstand. Je kunt het virus dan nog doorgeven. Krijg je opnieuw koorts of voel je je slechter, blijf dan weer thuis.
 
 **Is een huisgenoot of vriend ziek.**
 

@@ -88,33 +88,33 @@ The authorities and emergency services often use several channels at the same ti
 
 **Without a mobile network or internet**
 
-| Channel | What | Source |
-| --- | --- | --- |
-| Radio | battery-powered or wind-up radio, or the car radio | Crisis Center, FPS Economy |
-| Police loudspeaker vans | loudspeakers in the street | Crisis Center |
-| In certain emergencies | information boards, leaflets, door-to-door communication | brochure |
-| Sirens and loudspeakers | see Sirens in Belgium | Vlaanderen.be |
-| Reception centre or information and reception point | in larger emergencies a reception centre of the municipality or province, for example a sports hall, with a contact person who gives information; for a load-shedding an information and reception point of the municipality | Crisis Center, FPS Economy |
-| Neighbours | anyone with a battery-powered radio shares information; alert those who are isolated | Crisis Center |
+| Channel | What |
+| --- | --- |
+| Radio | battery-powered or wind-up radio, or the car radio |
+| Police loudspeaker vans | loudspeakers in the street |
+| In certain emergencies | information boards, leaflets, door-to-door communication |
+| Sirens and loudspeakers | see Sirens in Belgium |
+| Reception centre or information and reception point | in larger emergencies a reception centre of the municipality or province, for example a sports hall, with a contact person who gives information; for a load-shedding an information and reception point of the municipality |
+| Neighbours | anyone with a battery-powered radio shares information; alert those who are isolated |
 
 **If the network works**
 
-| Channel | What | Source |
-| --- | --- | --- |
-| BE-Alert | text message, voice call or email; in some municipalities also on information boards along the road | Crisis Center, BE-Alert |
-| TV and online media | news and official announcements | Crisis Center |
-| Websites | municipality, province, National Crisis Center | Crisis Center |
-| Social media | @CrisiscenterBE and channels of the municipality, police and fire service | Crisis Center |
-| Information number | of the municipality or province, or the national number 1771 | Crisis Center |
+| Channel | What |
+| --- | --- |
+| BE-Alert | text message, voice call or email; in some municipalities also on information boards along the road |
+| TV and online media | news and official announcements |
+| Websites | municipality, province, National Crisis Center |
+| Social media | @CrisiscenterBE and channels of the municipality, police and fire service |
+| Information number | of the municipality or province, or the national number 1771 |
 
-**How to find the right channels in advance (Crisis Center)**
+**How to find the right channels in advance**
 
 - Municipality: usually the name of the municipality followed by .be.
 - Fire service: brandweer.be.
 - Police: on politie.be using your postcode.
 - Social media: via the logos on the official website.
 
-Subscribe to these channels in advance and register with BE-Alert. Ask your municipal administration what the municipality provides when calling is no longer possible, for example an information and reception point (FPS Economy).
+Subscribe to these channels in advance and register with BE-Alert. Ask your municipal administration what the municipality provides when calling is no longer possible, for example an information and reception point.
 
 Source: [National Crisis Center: Information during an emergency](https://crisiscenter.be/en/what-can-you-do/stay-informed/get-informed-emergency-situation) · [National Crisis Center: Information to the population](https://crisiscenter.be/en/what-do-authorities-do/crisis-management/information-provision-citizens) · [National Crisis Center: brochure Prepared together](https://crisiscenter.be/sites/default/files/documents/files/WEB-Brochure%20Prepared%20Together-EN.pdf) · [National Crisis Center: Evacuating](https://crisiscenter.be/en/what-can-you-do/right-reflex/evacuate) · [National Crisis Center: A plan in your neighbourhood or association](https://crisiscenter.be/en/what-can-you-do/make-plan/plan-your-neighbourhood-association-or-club) · [National Crisis Center: Spread the right information](https://crisiscenter.be/en/what-can-you-do/right-reflex/share-right-information) · [Vlaanderen.be: BE-Alert](https://www.vlaanderen.be/be-alert-waarschuwingssysteem-bij-noodsituaties) · [FPS Economy: questions from households about electricity shortages](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door) · [BE-Alert: What is BE-Alert?](https://www.be-alert.be/en/what-be-alert)
 
@@ -126,17 +126,17 @@ The Crisis Center asks for:
 - A charged power bank and spare batteries.
 - A paper list of important telephone numbers.
 
-A car radio also works during a power cut, and radio stations keep working if the mobile network and internet fail (BBK, OFF ON, FPS Economy).
+A car radio also works during a power cut, and radio stations keep working if the mobile network and internet fail.
 
-The Belgian sources consulted do not designate a separate emergency broadcaster, only radio, TV and online media in general. In the Netherlands, the regional public broadcasters are the emergency broadcasters (Denk vooruit).
+No separate emergency broadcaster has been designated in Belgium: follow the radio, and TV and online media if they work. If you live close to the Dutch border, you can also receive the Dutch emergency broadcaster (see Frequencies at the Dutch border).
 
-**Do this now:** look up the frequency of your station, stick it on your radio and tune the radio to it. If you do not have a battery-powered radio, agree with a neighbour who has one (Crisis Center, Denk vooruit).
+**Do this now:** look up the frequency of your station, stick it on your radio and tune the radio to it. If you do not have a battery-powered radio, agree with a neighbour who has one.
 
 Source: [National Crisis Center: brochure Prepared together](https://crisiscenter.be/sites/default/files/documents/files/WEB-Brochure%20Prepared%20Together-EN.pdf) · [National Crisis Center: An emergency kit at home](https://crisiscenter.be/en/what-can-you-do/build-emergency-kit/emergency-kit-home) · [National Crisis Center: A plan in your neighbourhood or association](https://crisiscenter.be/en/what-can-you-do/make-plan/plan-your-neighbourhood-association-or-club) · [FPS Economy: questions from households about electricity shortages](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door) · [BBK: Vorsorgen für Krisen und Katastrophen](https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/Buergerinformationen/Ratgeber/BBK-Vorsorgen-fuer-Krisen-und-Katastrophen.pdf?__blob=publicationFile&v=44) · [National Crisis Center: OFF ON](https://crisiscentrum.be/sites/default/files/documents/files/OffOn-triptyque-N.pdf) · [Denk vooruit: Radio](https://www.denkvooruit.nl/bereid-je-voor/zo-krijg-je-een-waarschuwing/radio) · [Denk vooruit: information booklet](https://www.denkvooruit.nl/site/binaries/site-content/collections/documents/2025/11/17/informatieboekje-bereid-je-voor-op-een-noodsituatie/informatieboekje-bereid-je-voor-op-een-noodsituatie.pdf)
 
 ## Frequencies: VRT (Flanders)
 
-FM frequencies according to the VRT:
+FM frequencies of the VRT:
 
 | Region | Radio 1 | Radio 2 |
 | --- | --- | --- |
@@ -152,7 +152,7 @@ FM frequencies according to the VRT:
 
 The same page also gives Klara, MNM and Studio Brussel.
 
-**Tips from the VRT for FM**
+**Tips for FM**
 
 - **AF (alternative frequency):** the radio chooses the strongest frequency itself, useful outside your province.
 - **REG (regional function):** the radio stays on the same regional frequency.
@@ -163,7 +163,7 @@ Source: [VRT: FM antenna](https://www.vrt.be/nl/ons-aanbod/fm-antenne)
 
 ## Frequencies: BRF (Ostbelgien) and RTBF (Wallonia and Brussels)
 
-**BRF** (information brochure):
+**BRF**
 
 | Station | FM frequency | Reception area |
 | --- | --- | --- |
@@ -191,7 +191,7 @@ Source: [BRF: Infobroschüre](https://u.brf.be/wp-content/uploads/sites/5/2023/0
 
 ## Frequencies at the Dutch border
 
-Close to the border you can also receive the Dutch emergency broadcaster (Denk vooruit):
+Close to the border you can also receive the Dutch emergency broadcaster, the regional public broadcaster:
 
 | Broadcaster | Transmitter | FM |
 | --- | --- | --- |
@@ -213,11 +213,11 @@ The situation is less clear than in neighbouring countries:
 
 - Until December 2018 the siren network was tested audibly four times a year, on the first Thursday of January, April, July and October. That schedule was kept for BE-Alert.
 - Vlaanderen.be mentions sirens and police loudspeakers alongside radio, TV and BE-Alert.
-- According to the mayor of Tienen (VRT, 2022), the siren system is being phased out and replaced by BE-Alert; the last siren of the Seveso company in her town disappeared in 2021.
+- The siren system is being phased out and replaced by BE-Alert. In Tienen the last siren, at a Seveso company, disappeared in 2021.
 
 A current official description of a Belgian siren signal was not found. If you hear a siren, listen to the radio, and check BE-Alert if the network works.
 
-**At the border.** In the Netherlands, a siren outside 12:00 on the first Monday of the month means: go inside, close windows, doors and ventilation and follow radio or TV (Denk vooruit). In Germany, a rising and falling tone lasting one minute means danger; a continuous tone lasting one minute means that the danger is over (BBK).
+**At the border.** In the Netherlands, a siren outside 12:00 on the first Monday of the month means: go inside, close windows, doors and ventilation and follow radio or TV. In Germany, a rising and falling tone lasting one minute means danger; a continuous tone lasting one minute means that the danger is over.
 
 Source: [National Crisis Center: National strategy for public alert tests](https://crisiscentrum.be/sites/default/files/documents/files/cc_nationale_strategie_voor_alarmeringstesten_0.pdf) · [Vlaanderen.be: BE-Alert](https://www.vlaanderen.be/be-alert-waarschuwingssysteem-bij-noodsituaties) · [VRT NWS: Air raid sirens](https://www.vrt.be/vrtnws/nl/2022/03/16/luchtalarmen-bestaat-dat-nog-bij-ons/) · [Denk vooruit: information booklet](https://www.denkvooruit.nl/site/binaries/site-content/collections/documents/2025/11/17/informatieboekje-bereid-je-voor-op-een-noodsituatie/informatieboekje-bereid-je-voor-op-een-noodsituatie.pdf) · [BBK: Vorsorgen für Krisen und Katastrophen](https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/Buergerinformationen/Ratgeber/BBK-Vorsorgen-fuer-Krisen-und-Katastrophen.pdf?__blob=publicationFile&v=44)
 
@@ -227,13 +227,13 @@ Source: [National Crisis Center: National strategy for public alert tests](https
 
 BE-Alert works via the mobile network and the internet. If they fail, listen to the radio.
 
-**Three ways you receive a message (BE-Alert)**
+**Three ways you receive a message**
 
 1. **At your registered addresses**, such as your home, work, your children's school or the address of a vulnerable family member: by text message, email or voice call, even if you are not at home.
 2. **Based on your location.** In major emergencies or an evacuation, everyone in the zone receives a text message, even without registering. The operators automatically delete the list of phones in the risk zone six months after the message.
 3. **In the street.** Since 2022 also on other screens, such as an information board in your municipality.
 
-**Recognising a genuine message (Crisis Center)**
+**Recognising a genuine message**
 
 - It always starts with "BE-Alert".
 - It comes from 1789 or 0477 77 77 55. Emails come from no-reply@be-alert.be.
@@ -250,7 +250,7 @@ Source: [National Crisis Center: brochure Prepared together](https://crisiscente
 
 A municipality, province or the Crisis Center can open its own information number or the national number 1771. That number can be operational within the hour, day and night, and with the FPS Public Health also handles sensitive calls about possible victims. Municipalities first conclude an agreement to use it.
 
-1771 therefore does not always answer: the authorities announce when it is active. It only helps as long as calling works; otherwise listen to the radio and ask for help in your neighbourhood (FPS Economy).
+1771 therefore does not always answer: the authorities announce when it is active. It only helps as long as calling works; otherwise listen to the radio and ask for help in your neighbourhood.
 
 For life-threatening situations, call 112. If that does not work, see Emergency numbers in the app, If you cannot call.
 
@@ -262,21 +262,22 @@ In a major emergency, the telephone network quickly becomes overloaded, which ca
 
 **What you need to know about the network**
 
-- Mobile masts last one to two hours without power; mobile internet (4G and 5G) probably drops out straight away. It is unlikely that your landline will still work (FPS Economy).
-- With internet telephony, the router, fibre and handset need electricity. Mobile networks have only partial and short-lived emergency power (BBK).
-- With enough signal you can call 112 via any operator. 100 and 101 are not guaranteed during an electricity shortage (FPS Economy).
+- Mobile masts last one to two hours without power; mobile internet (4G and 5G) probably drops out straight away. It is unlikely that your landline will still work.
+- With internet telephony, the router, fibre and handset need electricity. Mobile networks have only partial and short-lived emergency power.
+- With enough signal you can call 112 via any operator. 100 and 101 are not guaranteed during an electricity shortage.
 
 **As long as the network works**
 
-- Only phone if it is really necessary. Send a text message or use messaging apps instead, also to reach your family; mass calling overloads the network (brochure, OFF ON, Crisis Center).
-- Do not call the emergency numbers to ask for information. During earlier power cuts, that overloaded the emergency call centres (BBK).
-- Always keep one phone switched on, at night as well, to receive warnings (BBK, Denk vooruit).
+- Only phone if it is really necessary. Send a text message or use messaging apps instead, also to reach your family; mass calling overloads the network.
+- Do not call the emergency numbers to ask for information. During earlier power cuts, that overloaded the emergency call centres.
+- Always keep one phone switched on, at night as well, to receive warnings.
 
 **If you cannot call**
 
-- Try another device or have neighbours or bystanders call; move a few metres (112.be). If calling does not work at all, follow the radio or ask for help in your neighbourhood (FPS Economy).
-- If you cannot reach your family, go to the place you agreed in advance (Crisis Center).
-- Foreign advice: in Germany, the BBK recommends going to the nearest police station or hospital; in the Netherlands, during the 112 outage of 2019, the authorities sent people to the fire station or police station, and to the hospital for medical emergencies. The map in the app shows them, with the Nearest button.
+- Try another device or have neighbours or bystanders call; move a few metres.
+- If calling does not work at all, ask for help in your neighbourhood or, if you can, go to the nearest police station, fire station or hospital. The map in the app shows them, with the Nearest button. In a major outage the municipality may open an information and reception point.
+- Follow the radio.
+- If you cannot reach your family, go to the place you agreed in advance.
 - All steps are in the Emergency call guide and in the app under Emergency numbers, If you cannot call.
 
 Source: [FPS Economy: questions from households about electricity shortages](https://economie.fgov.be/nl/themas/energie/bevoorradingszekerheid/elektriciteit/elektriciteitsschaarste/veelgestelde-vragen/veelgestelde-vragen-door) · [112.be: frequently asked questions](https://112.be/en/frequently-asked-questions) · [National Crisis Center: disruption of the digital infrastructure](https://crisiscenter.be/en/risks-belgium/societal-risks/failure-digital-infrastructure) · [National Crisis Center: brochure Prepared together](https://crisiscenter.be/sites/default/files/documents/files/WEB-Brochure%20Prepared%20Together-EN.pdf) · [National Crisis Center: OFF ON](https://crisiscentrum.be/sites/default/files/documents/files/OffOn-triptyque-N.pdf) · [National Crisis Center: Evacuating](https://crisiscenter.be/en/what-can-you-do/right-reflex/evacuate) · [BBK: Vorsorgen für Krisen und Katastrophen](https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/Buergerinformationen/Ratgeber/BBK-Vorsorgen-fuer-Krisen-und-Katastrophen.pdf?__blob=publicationFile&v=44) · [BBK: Stromausfall, Vorsorge und Selbsthilfe](https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/Buergerinformationen/stromausfall-vorsorge-selbsthilfe.pdf?__blob=publicationFile&v=17) · [Dutch inspectorates: unavailability of 112 on 24 June 2019](https://zoek.officielebekendmakingen.nl/blg-942150.pdf) · [Denk vooruit: information booklet](https://www.denkvooruit.nl/site/binaries/site-content/collections/documents/2025/11/17/informatieboekje-bereid-je-voor-op-een-noodsituatie/informatieboekje-bereid-je-voor-op-een-noodsituatie.pdf)
@@ -285,7 +286,7 @@ Source: [FPS Economy: questions from households about electricity shortages](htt
 
 During an emergency a lot of information circulates, especially on social media. False information is often shared without realising it, sometimes deliberately to spread panic or to turn people against each other.
 
-**Six questions (Crisis Center)**
+**Six questions**
 
 1. **Does it come from an official source?** Look at the bio, the URL, earlier posts and the logo.
 2. **Is the author or distributor reliable?**
@@ -294,34 +295,34 @@ During an emergency a lot of information circulates, especially on social media.
 5. **Does it play strongly on emotions?** Then it is often disinformation.
 6. **Is the photo genuine?** Images are sometimes taken out of context. If the internet works, look up the photo.
 
-The BBK adds: look for an imprint with a real name and full address, and for sources.
+Also look for an imprint with a real name and full address, and for sources.
 
 **What to do**
 
-- If in doubt, do not spread it (Crisis Center).
-- Share only messages from the authorities and emergency services yourself (brochure).
-- Do not take unnecessary photos or videos and do not share images that harm the privacy of victims (Crisis Center).
+- If in doubt, do not spread it.
+- Share only messages from the authorities and emergency services yourself.
+- Do not take unnecessary photos or videos and do not share images that harm the privacy of victims.
 
 Source: [National Crisis Center: Beware of false or misleading information](https://crisiscenter.be/en/what-can-you-do/stay-informed/beware-false-or-misleading-information) · [National Crisis Center: Spread the right information](https://crisiscenter.be/en/what-can-you-do/right-reflex/share-right-information) · [National Crisis Center: brochure Prepared together](https://crisiscenter.be/sites/default/files/documents/files/WEB-Brochure%20Prepared%20Together-EN.pdf) · [BBK: Vorsorgen für Krisen und Katastrophen](https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/Buergerinformationen/Ratgeber/BBK-Vorsorgen-fuer-Krisen-und-Katastrophen.pdf?__blob=publicationFile&v=44)
 
 ## Contact without telephone or internet: arrangements
 
-The Crisis Center asks neighbours and associations to agree in advance how they will reach each other without telephone or internet, and who has useful equipment, such as a battery-powered radio. Denk vooruit recommends agreeing on a place and a time to meet if there is no connection.
+The Crisis Center asks neighbours and associations to agree in advance how they will reach each other without telephone or internet, and who has useful equipment, such as a battery-powered radio. Agree on a place and a time to meet if there is no connection.
 
-Also agree with your family where you will find each other, and keep a paper list of contact persons (addresses and telephone numbers) (Crisis Center). See the Family emergency plan guide.
+Also agree with your family where you will find each other, and keep a paper list of contact persons (addresses and telephone numbers). See the Family emergency plan guide.
 
 Source: [National Crisis Center: disruption of the digital infrastructure](https://crisiscenter.be/en/risks-belgium/societal-risks/failure-digital-infrastructure) · [National Crisis Center: a plan at home](https://crisiscenter.be/en/what-can-you-do/make-plan/emergency-plan-home) · [National Crisis Center: A plan in your neighbourhood or association](https://crisiscenter.be/en/what-can-you-do/make-plan/plan-your-neighbourhood-association-or-club) · [National Crisis Center: brochure Prepared together](https://crisiscenter.be/sites/default/files/documents/files/WEB-Brochure%20Prepared%20Together-EN.pdf) · [Denk vooruit: information booklet](https://www.denkvooruit.nl/site/binaries/site-content/collections/documents/2025/11/17/informatieboekje-bereid-je-voor-op-een-noodsituatie/informatieboekje-bereid-je-voor-op-een-noodsituatie.pdf)
 
 ## Walkie-talkies (PMR446) and CB
 
-**PMR446.** According to a 2020 BIPT consultation document:
+**PMR446.**
 
 - Frequency band 446 to 446.2 MHz.
 - Hand-held devices with a fixed antenna, peer-to-peer over short distances; not as a base station or repeater.
 - Transmit power up to 500 mW e.r.p.
 - Exempt from a BIPT licence.
 
-**CB radio.** On its page about hunting, the BIPT writes that CB and PMR-446 radios may be used without a licence. No official emergency channel or channel arrangements for PMR446 or CB were found.
+**CB radio.** You may use CB and PMR-446 radios without a licence. No official emergency channel or channel arrangements for PMR446 or CB were found.
 
 Source: [BIPT: Consultation on radio interfaces PMR-446](https://www.bipt.be/index.php/file/cc73d96153bbd5448a56f19d925d05b1379c7f21/c764eaaf8ce92afd28706d406e709fdf2541e149/srd-pmr-2020-nl.pdf) · [BIPT: The use of walkie-talkies](https://bipt.be/users/radio-frequencies/private-use-hobby/hunting)
 
@@ -329,7 +330,7 @@ Source: [BIPT: Consultation on radio interfaces PMR-446](https://www.bipt.be/ind
 
 **B-EARS** (Belgium Emergency Amateur Radio Service) is part of the UBA, the Belgian association of radio amateurs, and has more than 300 members. Its predecessor worked at the request of the Red Cross from 1962.
 
-What B-EARS does according to the UBA:
+What B-EARS does:
 
 - Providing a basic radio communication service to official bodies, exclusively at their request, when their normal communication fails.
 - Setting up a radio network from, for example, a crisis centre or command post.
@@ -348,13 +349,13 @@ You therefore do not call on B-EARS yourself. UBA members can join as volunteers
 | 18160 |
 | 21360 |
 
-According to the IARU, there are no common European emergency frequencies for VHF and UHF.
+There are no common European emergency frequencies for VHF and UHF.
 
 Source: [UBA: B-EARS, our mission](https://www.uba.be/en/b-ears/our-mission) · [IARU Region 1: Emergency Communications Frequencies](https://www.iaru-r1.org/index.php/emergency-communications/emergency-communications-frequencies)
 
 ## Meshtastic (mention)
 
-Meshtastic is an open-source project that uses inexpensive LoRa radios to send text messages without a mobile network, Wi-Fi or internet. According to the project documentation:
+Meshtastic is an open-source project that uses inexpensive LoRa radios to send text messages without a mobile network, Wi-Fi or internet.
 
 - Each device forwards the messages it receives, so that a network (mesh) is formed that also reaches distant group members.
 - Neither a router nor a phone is needed for the mesh network; a device can be paired with one phone.
