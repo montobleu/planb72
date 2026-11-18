@@ -1,5 +1,185 @@
 # Metingen
 
+## Open bronnen: Overture Maps Places (18 november 2026)
+
+Overture Maps Places, release 2026-11-18.0 (CDLA-Permissive-2.0, Foursquare-deel Apache-2.0), als extra bron voor alle negen lagen in de vijf landen. Aanpak, licentie en regels: [kaartdata.md](kaartdata.md#open-bronnen-van-plekken-overture-maps-en-foursquare). `python3 pipeline/verrijken.py <land>` voor BE, NL, LU, FR en DE; "voor" is de laag zoals ze op deze branch stond (OpenStreetMap, plus VKBO en SIRENE voor de dierenartsen en de officiële bronnen in België), bewaard in `pipeline/out/voor/<land>/`.
+
+- Uitsnede: 14,7 MB (gzip), 2 minuten met duckdb, 20 categorieën. In België 28.703 plekken in die categorieën, in Luxemburg maar 445 (alleen Meta, Microsoft en Foursquare; BrightQuery heeft er geen).
+- Rekentijd van verrijken.py: België 3,5 minuten (vooral het adressenbestand), Frankrijk en Duitsland ongeveer 25 seconden.
+
+### Per land
+
+| Land | Punten voor | Punten na | Nieuw, bevestigd | Nieuw, onzeker (open ring) | Bestaande punten nu bevestigd | Registerpunt van onzeker naar praktijk | Volgens Overture gesloten (nakijken) |
+| --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
+| BE | 18.157 | 19.720 | 739 | 824 | 6.052 | 121 | 157 |
+| NL | 14.941 | 16.173 | 580 | 652 | 4.521 | 0 | 104 |
+| LU | 1.153 | 1.163 | 0 | 10 | 234 | 0 | 0 |
+| FR | 155.448 | 156.410 | 962 | 0 | 39.107 | 311 | 613 |
+| DE | 140.914 | 144.974 | 1.929 | 2.131 | 38.315 | 0 | 570 |
+
+"Bestaande punten nu bevestigd": punten uit OpenStreetMap of een officiële bron die ook in Overture staan, bij een leverancier uit een andere familie. Ze krijgen `zekerheid: "bevestigd"`; de kaart toont "Gevonden in twee onafhankelijke bronnen".
+
+### Per laag
+
+Alleen de lagen die veranderen. AED en drinkwater: Overture heeft geen categorie voor AED's en één drinkwaterpunt in Duitsland. Ziekenhuizen en gemeentehuizen: alleen bevestiging (geen nieuwe punten).
+
+| Land | Laag | Voor | Na | Nieuw, bevestigd | Nieuw, onzeker | Bestaand bevestigd | Ontbrak (verzadiging) | kB voor | kB na |
+| --- | --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
+| BE | ziekenhuizen | 293 | 293 | 0 | 0 | 234 |  | 81 | 87 |
+| BE | medisch | 3.049 | 3.148 | 99 | 0 | 1.097 | 57% | 688 | 751 |
+| BE | politie | 712 | 713 | 1 | 0 | 284 | 8% | 160 | 167 |
+| BE | brandweer | 330 | 330 | 0 | 0 | 220 | 0% | 75 | 80 |
+| BE | apotheken | 3.564 | 4.252 | 305 | 383 | 2.909 | 24% | 802 | 1129 |
+| BE | overheid | 776 | 776 | 0 | 0 | 395 |  | 184 | 194 |
+| BE | dierenarts | 2.423 | 3.198 | 334 | 441 | 913 | 42% | 708 | 999 |
+| NL | ziekenhuizen | 167 | 167 | 0 | 0 | 132 |  | 38 | 41 |
+| NL | medisch | 3.198 | 3.308 | 110 | 0 | 1.579 | 36% | 793 | 874 |
+| NL | politie | 459 | 460 | 1 | 0 | 264 | 8% | 116 | 123 |
+| NL | brandweer | 1.012 | 1.012 | 0 | 0 | 502 | 0% | 232 | 244 |
+| NL | apotheken | 1.690 | 1.961 | 75 | 196 | 1.172 | 23% | 424 | 552 |
+| NL | overheid | 462 | 462 | 0 | 0 | 277 |  | 119 | 126 |
+| NL | dierenarts | 731 | 1.581 | 394 | 456 | 595 | 58% | 178 | 501 |
+| LU | ziekenhuizen | 15 | 15 | 0 | 0 | 13 |  | 3 | 3 |
+| LU | medisch | 230 | 230 | 0 | 0 | 13 | 0% | 54 | 54 |
+| LU | politie | 58 | 58 | 0 | 0 | 38 | 0% | 15 | 16 |
+| LU | brandweer | 144 | 144 | 0 | 0 | 53 | 0% | 29 | 30 |
+| LU | apotheken | 108 | 109 | 0 | 1 | 52 | 0% | 29 | 30 |
+| LU | overheid | 115 | 115 | 0 | 0 | 40 |  | 26 | 27 |
+| LU | dierenarts | 56 | 65 | 0 | 9 | 25 | 0% | 11 | 15 |
+| FR | ziekenhuizen | 2.481 | 2.481 | 0 | 0 | 1.558 |  | 552 | 589 |
+| FR | medisch | 15.962 | 16.084 | 122 | 0 | 2.724 | 59% | 3544 | 3656 |
+| FR | politie | 5.953 | 5.959 | 6 | 0 | 2.078 | 12% | 1448 | 1501 |
+| FR | brandweer | 6.108 | 6.110 | 2 | 0 | 1.045 | 11% | 1360 | 1386 |
+| FR | apotheken | 19.092 | 19.660 | 568 | 0 | 15.075 | 12% | 4575 | 5159 |
+| FR | overheid | 37.146 | 37.146 | 0 | 0 | 12.630 |  | 9744 | 10047 |
+| FR | dierenarts | 12.729 | 12.993 | 264 | 0 | 3.997 | 13% | 4074 | 4269 |
+| DE | ziekenhuizen | 2.334 | 2.334 | 0 | 0 | 1.667 |  | 552 | 592 |
+| DE | medisch | 42.904 | 43.293 | 389 | 0 | 5.667 | 38% | 11803 | 12087 |
+| DE | politie | 3.865 | 3.876 | 11 | 0 | 1.543 | 14% | 874 | 915 |
+| DE | brandweer | 29.183 | 29.206 | 23 | 0 | 9.689 | 6% | 6398 | 6640 |
+| DE | apotheken | 17.092 | 17.336 | 244 | 0 | 13.043 | 6% | 4585 | 4992 |
+| DE | drinkwater | 9.899 | 9.900 | 1 | 0 | 23 | 100% | 1755 | 1755 |
+| DE | overheid | 8.710 | 8.710 | 0 | 0 | 2.418 |  | 2102 | 2160 |
+| DE | dierenarts | 5.419 | 8.811 | 1.261 | 2.131 | 4.265 | 45% | 1401 | 2730 |
+
+"Ontbrak" is de verzadigingsmaat: het deel van de plekken die Overture zelf in twee families heeft, dat nog niet in de laag stond. Onder 20% komen er geen plekken uit één bron bij (Frankrijk: apotheken en dierenartsen; Duitsland: apotheken). Luxemburg heeft te weinig bevestigde plekken om het te meten.
+
+### Wat Overture aanbood en wat ermee gebeurde
+
+| Land | Laag | Plekken in Overture | Dubbels in Overture | Bevestigt een bestaand punt | Waarvan alleen op afstand (≤ 50 m) | Vermoedelijke zetel | Niet gebruikt (te zwak, geen vakwoord) | Niet gebruikt (laag verzadigd) |
+| --- | --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
+| BE | ziekenhuizen | 4.300 | 1.648 | 298 | 80 | 0 | 2.306 | 0 |
+| BE | medisch | 12.965 | 1.098 | 1.151 | 285 | 0 | 9.323 | 0 |
+| BE | politie | 501 | 23 | 297 | 59 | 0 | 162 | 0 |
+| BE | brandweer | 341 | 33 | 228 | 27 | 0 | 58 | 0 |
+| BE | apotheken | 6.043 | 520 | 3.042 | 407 | 23 | 1.466 | 0 |
+| BE | overheid | 689 | 43 | 425 | 79 | 0 | 216 | 0 |
+| BE | dierenarts | 3.864 | 257 | 1.284 | 87 | 30 | 1.280 | 0 |
+| NL | ziekenhuizen | 2.670 | 319 | 190 | 65 | 0 | 2.106 | 0 |
+| NL | medisch | 5.370 | 928 | 1.652 | 188 | 0 | 2.321 | 0 |
+| NL | politie | 432 | 34 | 270 | 22 | 0 | 120 | 0 |
+| NL | brandweer | 806 | 38 | 506 | 57 | 0 | 84 | 0 |
+| NL | apotheken | 4.868 | 519 | 1.223 | 109 | 7 | 2.652 | 0 |
+| NL | overheid | 657 | 45 | 285 | 29 | 0 | 322 | 0 |
+| NL | dierenarts | 2.532 | 244 | 600 | 27 | 10 | 702 | 0 |
+| LU | ziekenhuizen | 69 | 5 | 18 | 7 | 0 | 46 | 0 |
+| LU | medisch | 46 | 3 | 13 | 6 | 0 | 28 | 0 |
+| LU | politie | 46 | 2 | 40 | 5 | 0 | 4 | 0 |
+| LU | brandweer | 78 | 3 | 53 | 8 | 0 | 18 | 0 |
+| LU | apotheken | 76 | 0 | 53 | 4 | 0 | 18 | 0 |
+| LU | overheid | 63 | 1 | 42 | 8 | 0 | 19 | 0 |
+| LU | dierenarts | 67 | 2 | 25 | 5 | 0 | 27 | 0 |
+| FR | ziekenhuizen | 10.918 | 1.078 | 1.798 | 392 | 0 | 7.849 | 0 |
+| FR | medisch | 17.399 | 3.879 | 2.849 | 1.143 | 0 | 9.255 | 0 |
+| FR | politie | 3.284 | 89 | 2.109 | 356 | 0 | 991 | 0 |
+| FR | brandweer | 1.859 | 61 | 1.087 | 362 | 0 | 505 | 0 |
+| FR | apotheken | 24.475 | 1.399 | 15.409 | 2.595 | 128 | 4.080 | 1.721 |
+| FR | overheid | 18.894 | 408 | 12.939 | 1.729 | 0 | 4.483 | 0 |
+| FR | dierenarts | 8.959 | 1.219 | 5.228 | 581 | 49 | 1.259 | 536 |
+| DE | ziekenhuizen | 11.855 | 2.336 | 1.836 | 240 | 0 | 7.387 | 0 |
+| DE | medisch | 14.672 | 979 | 5.713 | 721 | 0 | 6.505 | 0 |
+| DE | politie | 2.409 | 125 | 1.560 | 132 | 0 | 646 | 0 |
+| DE | brandweer | 13.984 | 657 | 9.807 | 1.268 | 0 | 2.058 | 0 |
+| DE | apotheken | 22.795 | 1.205 | 13.345 | 1.342 | 65 | 6.065 | 706 |
+| DE | drinkwater | 25 | 0 | 23 | 3 | 0 | 1 | 0 |
+| DE | overheid | 3.803 | 280 | 2.523 | 413 | 0 | 888 | 0 |
+| DE | dierenarts | 13.386 | 1.182 | 4.342 | 360 | 24 | 3.702 | 0 |
+
+### Dierenartsen, België, per provincie
+
+`python3 pipeline/dekking.py BE dierenarts --voor pipeline/out/voor/be`. "Voor" is de laag met VKBO (2.423 punten), "onzeker" telt `praktijk: "onzeker"` (VKBO) en `zekerheid: "onzeker"` (één open bron) samen.
+
+| Provincie | Gemeenten | Zonder punt voor | Zonder punt na | Voor | Na | Officieel | OSM | Open bron | Bevestigd | Waarvan onzeker |
+| --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
+| Antwerpen | 67 | 1 | 0 | 559 | 617 | 514 | 45 | 58 | 182 | 339 |
+| Brussels Hoofdstedelijk Gewest | 19 | 2 | 2 | 47 | 90 | 0 | 47 | 43 | 55 | 24 |
+| Henegouwen | 69 | 19 | 6 | 129 | 254 | 0 | 129 | 125 | 120 | 87 |
+| Limburg | 38 | 3 | 2 | 267 | 316 | 250 | 17 | 49 | 111 | 140 |
+| Luik | 84 | 48 | 17 | 84 | 200 | 0 | 84 | 116 | 108 | 71 |
+| Luxemburg | 43 | 26 | 14 | 47 | 76 | 0 | 47 | 29 | 39 | 19 |
+| Namen | 38 | 18 | 6 | 43 | 108 | 0 | 43 | 65 | 59 | 37 |
+| Oost-Vlaanderen | 55 | 0 | 0 | 456 | 562 | 402 | 54 | 106 | 212 | 279 |
+| Vlaams-Brabant | 63 | 4 | 3 | 322 | 380 | 267 | 55 | 58 | 142 | 171 |
+| Waals-Brabant | 27 | 3 | 1 | 50 | 96 | 0 | 50 | 46 | 49 | 32 |
+| West-Vlaanderen | 62 | 0 | 0 | 419 | 499 | 371 | 48 | 80 | 170 | 261 |
+| **totaal** | **565** | **124** | **51** | **2.423** | **3.198** | **1.804** | **619** | **775** | **1.247** | **1.460** |
+
+Het grootste effect is in Wallonië en Brussel, waar geen open register is: Luik van 84 naar 200 punten, Henegouwen van 129 naar 254, gemeenten zonder dierenarts in heel België van 124 naar 51. Veel nieuwe punten in Wallonië hebben geen naam op de kaart: de bron heeft alleen de naam van de dierenarts zelf (eenmanszaak), en die tonen we niet. 121 VKBO-inschrijvingen zonder handelsnaam gingen van "onzeker" naar "praktijk", omdat ze ook een eigen pagina hebben (Meta) of in Foursquare staan (bv. "DAP De Kleine Helden", Hasselt; "Animedix", Poperinge).
+
+### Steekproef: Tremelo
+
+De drie bekende dierenartsen in Tremelo, met `--gemeenten Tremelo`:
+
+| Praktijk | Adres | Voor (VKBO) | Overture | Na |
+| --- | --- | --- | --- | --- |
+| Dierenartsenpraktijk Heideberg | Heidebergstraat 14 | officieel, praktijk | Meta (confidence 0,92) | officieel, praktijk, **bevestigd** |
+| DAP Nagels | Grote Bollostraat 75 | officieel, praktijk | BrightQuery, als "Dierenartsenpraktijk Bolloheide" | officieel, praktijk; niet bevestigd, want BrightQuery is hetzelfde register (KBO) |
+| Gastmans Pascale | Hilstraat 6 | officieel, praktijk | Meta en BrightQuery (confidence 1,0) | officieel, praktijk, **bevestigd** |
+
+Ook "DierenArtsPraktijk De Sphynx" (Pastoriestraat 7, Meta) is nu bevestigd. In Tremelo komt er geen punt bij; de VKBO had ze al. Twee fouten kwamen in de steekproef boven en zijn verholpen met een regel: de zetel van Heideberg in Keerbergen (Lindenstraat 28, alleen BrightQuery) zou een tweede punt "Heideberg" geworden zijn (regel "vermoedelijke zetel"), en "Lance Medical" in Parijs als dierenarts (regel "vakwoord").
+
+### Apotheken tegenover het officiële aantal
+
+| Land | Voor (OSM) | Na | Officieel aantal | Bron van het aantal |
+| --- | ---: | ---: | ---: | --- |
+| België | 3.564 | 4.252 | 4.801 | FAGG-kadaster (zie hoger) |
+| Nederland | 1.690 | 1.961 | ongeveer 2.000 | SFK: 1.994 openbare apotheken eind 2016; recenter cijfer niet gevonden |
+| Frankrijk (zonder overzee) | 19.092 | 19.660 | 19.627 | Ordre national des pharmaciens, officines in 2024 |
+| Duitsland | 17.092 | 17.336 | 16.444 | ABDA, eind september 2026 |
+
+De verzadigingsregel doet hier zijn werk: zonder die regel kwamen er in Frankrijk 1.721 en in Duitsland 706 apotheken uit één bron bij (samen 21.381 en 18.042), vooral dubbels en gesloten zaken. In Duitsland heeft OpenStreetMap al meer apotheken dan er zijn: sluitingen (502 in 2025 volgens de ABDA) komen niet altijd in OSM. De 135 Duitse apotheken die volgens Overture gesloten zijn, staan in de verschillenlijst.
+
+### Dierenartsen, Nederland, per provincie
+
+`python3 pipeline/dekking_regio.py NL --laag dierenarts` (provincie = kleinste kader uit `pipeline/regios.json`):
+
+| Provincie | Voor | Na | Open bron (nieuw) | Bevestigd | Onzeker |
+| --- | ---: | ---: | ---: | ---: | ---: |
+| Drenthe | 45 | 94 | 49 | 60 | 26 |
+| Flevoland | 36 | 75 | 39 | 48 | 21 |
+| Fryslân | 20 | 53 | 33 | 33 | 15 |
+| Gelderland | 49 | 110 | 61 | 71 | 30 |
+| Groningen | 17 | 27 | 10 | 21 | 6 |
+| Limburg | 48 | 153 | 105 | 84 | 59 |
+| Noord-Brabant | 91 | 198 | 107 | 119 | 61 |
+| Noord-Holland | 77 | 162 | 85 | 109 | 45 |
+| Overijssel | 70 | 141 | 71 | 87 | 37 |
+| Utrecht | 102 | 224 | 122 | 142 | 69 |
+| Zeeland | 20 | 48 | 28 | 31 | 16 |
+| Zuid-Holland | 156 | 296 | 140 | 184 | 71 |
+
+Duitsland, dierenartsen per deelstaat: van 5.419 naar 8.811, in elke deelstaat 34 tot 78% meer (Noordrijn-Westfalen 794 naar 1.410, Beieren 753 naar 1.255, Saksen 225 naar 302).
+
+### Grenzen
+
+- **Luxemburg** wint bijna niets: Overture heeft er 445 plekken in deze categorieën, zonder BrightQuery.
+- **AED en drinkwater**: geen bruikbare categorie in Overture. Hier blijven OpenStreetMap en de officiële bronnen (aanvraag AED-register) de enige weg.
+- **Ziekenhuizen en gemeentehuizen**: Overture is te vervuild voor nieuwe punten ("hospital": paramedische praktijken, labo's; "town_hall": cafés, oude gemeentehuizen, kabinetten). Overture bevestigt wel 234 van de 293 Belgische ziekenhuispunten.
+- **Gesloten volgens Overture**: 1.444 punten op de kaart staan als gesloten in Overture (meestal een stopzetting in een ondernemingsregister). Ze blijven staan; de verschillenlijst (`gesloten_open_bron`) is een werklijst om na te kijken.
+- **Onzekere punten** zijn open ringen met "Bel eerst": 3.617 in België, Nederland, Luxemburg en Duitsland samen (tegenover 0 in Frankrijk, waar de verzadigingsregel ze tegenhoudt). Een steekproef van een mens per land is aan te raden voor die punten echt vertrouwd worden.
+- **Kern van de app**: 14,06 MB (budget 15 MB), met de licentieteksten (17 kB) erbij.
+
+
 ## Dierenartsen, België (18 november 2026)
 
 De laag dierenartsen kwam alleen uit OpenStreetMap: 846 punten, en in 214 van de 565 gemeenten geen enkele dierenarts. Een open register van alle praktijken bestaat niet (zie [kaartdata.md](kaartdata.md#dierenartsen-wat-zeker-is-en-wat-niet)). De VKBO van Digitaal Vlaanderen (Modellicentie gratis hergebruik) geeft wel alle vennootschappen met NACE 75.000 (veterinaire diensten) en hun vestigingen in Vlaanderen. `python3 pipeline/verrijken.py BE --lagen dierenarts`, gemeten met `python3 pipeline/dekking.py BE dierenarts` (gemeente van elk punt uit het adressenbestand BeST).

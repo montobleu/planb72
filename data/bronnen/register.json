@@ -9390,5 +9390,38 @@
     "url": "https://www.collegeveterinaire.lu/recherche-veterinaire",
     "land": "LU",
     "opmerking": "Laag: dierenarts. 312 dierenartsen (praktiserend en niet-praktiserend). Geen licentie: niet gebruikt. Let op: de publieke tabel achter de zoekpagina bevat ook privéadressen en privételefoonnummers; het Collège hierover inlichten."
+  },
+  {
+    "soort": "dataset",
+    "licentie": "CDLA-Permissive-2.0; Foursquare-deel Apache-2.0; AllThePlaces-deel CC0-1.0",
+    "toestemming": "vrij",
+    "route": "automatisch",
+    "frequentie": "maandelijks",
+    "gebruikt_in": [
+      "kaartlagen"
+    ],
+    "id": "eu-overture-places",
+    "naam": "Overture Maps Places (plekken van Meta, Microsoft, Foursquare, BrightQuery, AllThePlaces en vermeldingsdiensten)",
+    "eigenaar": "Overture Maps Foundation (Linux Foundation)",
+    "url": "https://docs.overturemaps.org/guides/places/",
+    "land": "EU",
+    "licentie_kenmerk": "CDLA Permissive 2.0",
+    "opmerking": "Lagen: alle negen (geen categorie voor AED; drinkwater bijna leeg). Gebruikt in pipeline/derden.py: GeoParquet (ZSTD) per maandelijkse release op s3://overturemaps-us-west-2/release/<release>/theme=places/, uitgesneden met de opdracht duckdb (5 landen, 20 categorieën, ongeveer 2 minuten). Release 2026-11-18.0: ongeveer 88 miljoen plekken wereldwijd, waarvan 61 miljoen van Meta (pagina's van zaken), 17 miljoen van BrightQuery (uit overheidsregisters, o.a. ondernemingsregisters), 5,9 miljoen van Microsoft, 3,6 miljoen van Foursquare, 2 miljoen van AllThePlaces (websites van ketens). Geen OpenStreetMap-data. Per plek: confidence (kans dat de plek bestaat), operating_status, bronnen met datum. Bekende zwaktes volgens Overture zelf: dubbels, veel rommel, onvolledige velden. Bronvermelding: licentieteksten en de NOTICE van Foursquare in site/public/data/licenties/. Niet in OpenStreetMap overnemen zonder apart importtraject."
+  },
+  {
+    "soort": "dataset",
+    "licentie": "Apache-2.0, met NOTICE.txt; toegang via account met extra voorwaarden",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "maandelijks",
+    "gebruikt_in": [
+      "kaartlagen"
+    ],
+    "id": "eu-foursquare-os-places",
+    "naam": "Foursquare Open Source Places (FSQ OS Places)",
+    "eigenaar": "Foursquare Labs, Inc.",
+    "url": "https://docs.foursquare.com/data-products/docs/access-fsq-os-places",
+    "land": "EU",
+    "opmerking": "Niet rechtstreeks gebruikt. Sinds 2026 alleen via het Foursquare Places Portal (account en toegangstoken, Iceberg-catalogus) of als gated dataset op Hugging Face (foursquare/fsq-os-places): bij het aanvaarden geef je organisatie, functie en land op en sta je Foursquare toe de naam en het logo van de organisatie in marketing te gebruiken. De publieke S3-bucket is leeg. Velden die Overture niet heeft: date_refreshed, date_closed, unresolved_flags (closed, doesnt_exist, privatevenue, ...). Het Foursquare-deel van Overture Maps Places (3,6 miljoen plekken, Apache-2.0) komt wel binnen via eu-overture-places. Beslissing van het kernteam nodig (aanvraag in docs/kaartdata.md)."
   }
 ]

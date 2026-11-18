@@ -1,7 +1,7 @@
 {
   "land": "BE",
   "opgehaald": "2026-11-17",
-  "bron": "© OpenStreetMap-bijdragers, ODbL; aangevuld met officiële bronnen (zie 'bronnen') en eigen, nagekeken gegevens",
+  "bron": "© OpenStreetMap-bijdragers, ODbL; aangevuld met officiële bronnen en open bronnen (zie 'bronnen', licentieteksten in licenties/) en eigen, nagekeken gegevens",
   "lagen": {
     "nucleair": {
       "naam": "Nucleaire sites en zones",
@@ -13,60 +13,78 @@
     "ziekenhuizen": {
       "naam": "Ziekenhuizen",
       "aantal": 293,
-      "bytes": 81522,
+      "bytes": 87138,
       "osm": 152,
       "officieel": 141,
       "nagekeken": 0,
       "osm_ruw": 264,
+      "open_bron": 0,
+      "bevestigd": 234,
       "bronnen": [
-        "be-vl-zorg-poi"
+        "be-vl-zorg-poi",
+        "eu-overture-places"
       ],
       "verrijkt": "2026-11-18"
     },
     "medisch": {
       "naam": "Medische posten",
-      "aantal": 3049,
-      "bytes": 688181,
+      "aantal": 3148,
+      "bytes": 751721,
       "osm": 3049,
       "officieel": 0,
       "nagekeken": 0,
       "osm_ruw": 3049,
-      "bronnen": [],
+      "open_bron": 99,
+      "bevestigd": 1196,
+      "bronnen": [
+        "eu-overture-places"
+      ],
       "verrijkt": "2026-11-18"
     },
     "politie": {
       "naam": "Politie",
-      "aantal": 712,
-      "bytes": 160317,
+      "aantal": 713,
+      "bytes": 167530,
       "osm": 695,
       "officieel": 17,
       "nagekeken": 0,
       "osm_ruw": 706,
+      "open_bron": 1,
+      "bevestigd": 285,
       "bronnen": [
-        "be-bxl-stad-politiekantoren"
+        "be-bxl-stad-politiekantoren",
+        "eu-overture-places"
       ],
       "verrijkt": "2026-11-18"
     },
     "brandweer": {
       "naam": "Brandweer",
       "aantal": 330,
-      "bytes": 75316,
+      "bytes": 80596,
       "osm": 330,
       "officieel": 0,
       "nagekeken": 0,
       "osm_ruw": 330,
-      "bronnen": [],
+      "open_bron": 0,
+      "bevestigd": 220,
+      "bronnen": [
+        "eu-overture-places"
+      ],
       "verrijkt": "2026-11-18"
     },
     "apotheken": {
       "naam": "Apotheken",
-      "aantal": 3564,
-      "bytes": 802934,
+      "aantal": 4252,
+      "bytes": 1129999,
       "osm": 3564,
       "officieel": 0,
       "nagekeken": 0,
       "osm_ruw": 3564,
-      "bronnen": [],
+      "open_bron": 688,
+      "bevestigd": 3214,
+      "bronnen": [
+        "eu-overture-places"
+      ],
       "verrijkt": "2026-11-18"
     },
     "aed": {
@@ -77,6 +95,8 @@
       "officieel": 89,
       "nagekeken": 0,
       "osm_ruw": 5699,
+      "open_bron": 0,
+      "bevestigd": 0,
       "bronnen": [
         "be-bxl-stad-aed",
         "be-verviers-aed",
@@ -92,6 +112,8 @@
       "officieel": 126,
       "nagekeken": 0,
       "osm_ruw": 1167,
+      "open_bron": 0,
+      "bevestigd": 0,
       "bronnen": [
         "be-bru-vivaqua-drinkwater",
         "be-bxl-stad-drinkwater",
@@ -105,24 +127,31 @@
     "overheid": {
       "naam": "Gemeentehuizen",
       "aantal": 776,
-      "bytes": 184753,
+      "bytes": 194233,
       "osm": 776,
       "officieel": 0,
       "nagekeken": 0,
       "osm_ruw": 776,
-      "bronnen": [],
+      "open_bron": 0,
+      "bevestigd": 395,
+      "bronnen": [
+        "eu-overture-places"
+      ],
       "verrijkt": "2026-11-18"
     },
     "dierenarts": {
       "naam": "Dierenartsen",
-      "aantal": 2423,
-      "bytes": 708541,
+      "aantal": 3198,
+      "bytes": 999148,
       "osm": 619,
       "officieel": 1804,
       "nagekeken": 0,
       "osm_ruw": 846,
+      "open_bron": 775,
+      "bevestigd": 1247,
       "bronnen": [
-        "be-vl-vkbo-dierenartsen"
+        "be-vl-vkbo-dierenartsen",
+        "eu-overture-places"
       ],
       "verrijkt": "2026-11-18"
     },
@@ -251,6 +280,17 @@
       "url": "https://www.vlaanderen.be/datavindplaats/catalogus/zorgvoorzieningen-erkend-door-het-agentschap-opgroeien-via-poi-service",
       "datum": "2026-11-03",
       "opgehaald": "2026-11-18"
+    },
+    "eu-overture-places": {
+      "naam": "Overture Maps Places (Meta, Microsoft, Foursquare, BrightQuery, AllThePlaces en andere)",
+      "kort": "Overture Maps",
+      "eigenaar": "Overture Maps Foundation",
+      "licentie": "CDLA-Permissive-2.0; Foursquare: Apache-2.0; AllThePlaces: CC0-1.0",
+      "url": "https://docs.overturemaps.org/guides/places/",
+      "licenties": "licenties/",
+      "datum": "2026-11-18",
+      "opgehaald": "2026-11-18",
+      "release": "2026-11-18.0"
     }
   }
 }

@@ -27,6 +27,8 @@ const hoortBijKern = (rel) =>
   rel === 'favicon.svg' ||
   rel === 'data/kaarten.json' ||
   rel === 'data/routes.json' ||
+  // Licentieteksten van de open bronnen in de kaartlagen (CDLA, Apache, NOTICE van Foursquare): gaan mee met de data.
+  rel.startsWith('data/licenties/') ||
   // Per land de metadata en de nucleaire zones (klein); de andere lagen zitten in het basispakket.
   /^data\/[a-z]{2}\/(meta\.json|nucleair\.geojson)$/.test(rel);
 

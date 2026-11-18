@@ -1,52 +1,138 @@
 {
   "land": "LU",
   "opgehaald": "2026-11-17",
-  "bron": "© OpenStreetMap-bijdragers, ODbL",
+  "bron": "© OpenStreetMap-bijdragers, ODbL; aangevuld met officiële bronnen en open bronnen (zie 'bronnen', licentieteksten in licenties/) en eigen, nagekeken gegevens",
   "lagen": {
     "ziekenhuizen": {
       "naam": "Ziekenhuizen",
       "aantal": 15,
-      "bytes": 3209
+      "bytes": 3521,
+      "osm": 15,
+      "officieel": 0,
+      "nagekeken": 0,
+      "osm_ruw": 15,
+      "open_bron": 0,
+      "bevestigd": 13,
+      "bronnen": [
+        "eu-overture-places"
+      ],
+      "verrijkt": "2026-11-18"
     },
     "medisch": {
       "naam": "Medische posten",
       "aantal": 230,
-      "bytes": 54009
+      "bytes": 54321,
+      "osm": 230,
+      "officieel": 0,
+      "nagekeken": 0,
+      "osm_ruw": 230,
+      "open_bron": 0,
+      "bevestigd": 13,
+      "bronnen": [
+        "eu-overture-places"
+      ],
+      "verrijkt": "2026-11-18"
     },
     "politie": {
       "naam": "Politie",
       "aantal": 58,
-      "bytes": 15554
+      "bytes": 16466,
+      "osm": 58,
+      "officieel": 0,
+      "nagekeken": 0,
+      "osm_ruw": 58,
+      "open_bron": 0,
+      "bevestigd": 38,
+      "bronnen": [
+        "eu-overture-places"
+      ],
+      "verrijkt": "2026-11-18"
     },
     "brandweer": {
       "naam": "Brandweer",
       "aantal": 144,
-      "bytes": 29137
+      "bytes": 30409,
+      "osm": 144,
+      "officieel": 0,
+      "nagekeken": 0,
+      "osm_ruw": 144,
+      "open_bron": 0,
+      "bevestigd": 53,
+      "bronnen": [
+        "eu-overture-places"
+      ],
+      "verrijkt": "2026-11-18"
     },
     "apotheken": {
       "naam": "Apotheken",
-      "aantal": 108,
-      "bytes": 29042
+      "aantal": 109,
+      "bytes": 30651,
+      "osm": 108,
+      "officieel": 0,
+      "nagekeken": 0,
+      "osm_ruw": 108,
+      "open_bron": 1,
+      "bevestigd": 52,
+      "bronnen": [
+        "eu-overture-places"
+      ],
+      "verrijkt": "2026-11-18"
     },
     "aed": {
       "naam": "AED's",
       "aantal": 242,
-      "bytes": 41335
+      "bytes": 41335,
+      "osm": 242,
+      "officieel": 0,
+      "nagekeken": 0,
+      "osm_ruw": 242,
+      "open_bron": 0,
+      "bevestigd": 0,
+      "bronnen": [],
+      "verrijkt": "2026-11-18"
     },
     "drinkwater": {
       "naam": "Drinkwater",
       "aantal": 185,
-      "bytes": 32286
+      "bytes": 32286,
+      "osm": 185,
+      "officieel": 0,
+      "nagekeken": 0,
+      "osm_ruw": 185,
+      "open_bron": 0,
+      "bevestigd": 0,
+      "bronnen": [],
+      "verrijkt": "2026-11-18"
     },
     "overheid": {
       "naam": "Gemeentehuizen",
       "aantal": 115,
-      "bytes": 26810
+      "bytes": 27770,
+      "osm": 115,
+      "officieel": 0,
+      "nagekeken": 0,
+      "osm_ruw": 115,
+      "open_bron": 0,
+      "bevestigd": 40,
+      "bronnen": [
+        "eu-overture-places"
+      ],
+      "verrijkt": "2026-11-18"
     },
     "dierenarts": {
       "naam": "Dierenartsen",
-      "aantal": 56,
-      "bytes": 11944
+      "aantal": 65,
+      "bytes": 15801,
+      "osm": 56,
+      "officieel": 0,
+      "nagekeken": 0,
+      "osm_ruw": 56,
+      "open_bron": 9,
+      "bevestigd": 25,
+      "bronnen": [
+        "eu-overture-places"
+      ],
+      "verrijkt": "2026-11-18"
     },
     "schuilplekken": {
       "naam": "Mogelijke schuilplekken",
@@ -60,6 +146,20 @@
       "zones": 6,
       "bytes": 8997,
       "bron": "data/landen/lu.json"
+    }
+  },
+  "osm_opgehaald": "2026-11-17",
+  "bronnen": {
+    "eu-overture-places": {
+      "naam": "Overture Maps Places (Meta, Microsoft, Foursquare, BrightQuery, AllThePlaces en andere)",
+      "kort": "Overture Maps",
+      "eigenaar": "Overture Maps Foundation",
+      "licentie": "CDLA-Permissive-2.0; Foursquare: Apache-2.0; AllThePlaces: CC0-1.0",
+      "url": "https://docs.overturemaps.org/guides/places/",
+      "licenties": "licenties/",
+      "datum": "2026-11-18",
+      "opgehaald": "2026-11-18",
+      "release": "2026-11-18.0"
     }
   }
 }
