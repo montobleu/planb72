@@ -1,6 +1,7 @@
 ---
 import ThemaKnop from './ThemaKnop.astro';
 import Logo from './Logo.astro';
+import Zoekknop from './Zoekknop.astro';
 import { TALEN, pad, type Taal } from '../i18n/talen';
 import { SITE } from '../i18n/site';
 interface Props { taal: Taal; pagina: string }
@@ -23,6 +24,7 @@ const links: [string, string][] = [
       <a href={pad(taal, '/app/')}>{t.app}</a>
     </nav>
     <div class="rechts">
+      <Zoekknop taal={taal} />
       <div class="taalkeuze" role="group" aria-label={t.taal}>
         {TALEN.map((l) => <a href={pad(l, pagina)} hreflang={l} lang={l} aria-current={l === taal ? 'true' : undefined}>{l}</a>)}
       </div>

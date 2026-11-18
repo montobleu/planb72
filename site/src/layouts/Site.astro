@@ -11,6 +11,13 @@ const meta = SITE[taal].meta;
 const volledigeTitel = titel ? `${titel} · PlanB72` : meta.titel;
 const omschrijving = beschrijving ?? meta.beschrijving;
 const basis = Astro.site ?? new URL('https://planb72.org');
+// In de zoekindex: elke websitepagina behalve de status (een lange, wisselende tabel) en
+// pagina's zonder vast pad, zoals de 404. De startpagina heet in de resultaten "PlanB72"
+// in plaats van de slogan uit de h1.
+const zoek = Astro.props.pagina === undefined || pagina === '/status/' ? {} : {
+  'data-pagefind-body': '',
+  'data-pagefind-meta': pagina === '/' ? 'soort:website, title:PlanB72' : 'soort:website',
+};
 ---
 <!doctype html>
 <html lang={taal}>
@@ -35,7 +42,7 @@ const basis = Astro.site ?? new URL('https://planb72.org');
 <body>
   <a class="naar-inhoud" href="#inhoud">{taal === 'nl' ? 'Naar de inhoud' : taal === 'fr' ? 'Aller au contenu' : taal === 'de' ? 'Zum Inhalt' : 'Skip to content'}</a>
   <Kop taal={taal} pagina={pagina} />
-  {breed ? <main id="inhoud"><slot /></main> : <main id="inhoud" class="wrap"><slot /></main>}
+  {breed ? <main id="inhoud" {...zoek}><slot /></main> : <main id="inhoud" class="wrap" {...zoek}><slot /></main>}
   <Voet taal={taal} />
 </body>
 </html>

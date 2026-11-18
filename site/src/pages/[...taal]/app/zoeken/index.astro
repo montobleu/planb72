@@ -1,48 +1,14 @@
 ---
 import App from '../../../../layouts/App.astro';
-import { APP } from '../../../../i18n/app';
+import Zoekpaneel from '../../../../components/Zoekpaneel.astro';
+import { ZOEKEN } from '../../../../i18n/zoeken';
 import { taalPaden, taalVan } from '../../../../i18n/talen';
 export const getStaticPaths = taalPaden;
 const taal = taalVan(Astro.params);
-const t = APP[taal].zoeken;
+const t = ZOEKEN[taal];
 ---
-<App taal={taal} titel={t.titel} zoekbaar={false}>
+<App taal={taal} titel={t.knop} zoekbaar={false}>
   <h1>{t.titel}</h1>
   <p class="dempen">{t.uitleg}</p>
-  <label for="zoek">{t.label}</label>
-  <input id="zoek" type="search" placeholder={t.voorbeeld} autocomplete="off" />
-  <div id="resultaten" aria-live="polite"></div>
+  <Zoekpaneel taal={taal} id="zoekpagina" autofocus />
 </App>
-<script>
-  import { klant } from '../../../../i18n/klant';
-  const tk = klant().zoeken;
-  const veld = document.getElementById('zoek') as HTMLInputElement;
-  const uit = document.getElementById('resultaten')!;
-  let pf: any = null;
-  async function pagefind() {
-    if (!pf) {
-      // De index wordt bij de build gemaakt; in de ontwikkelserver bestaat hij niet.
-      // Pagefind maakt per taal (html lang) een eigen index en kiest die van deze pagina.
-      const pad = '/pagefind/pagefind.js';
-      pf = await import(/* @vite-ignore */ pad).catch(() => null);
-      await pf?.options?.({ excerptLength: 20 });
-    }
-    return pf;
-  }
-  const esc = (s: string) => s.replace(/[&<>"]/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' })[c]!);
-  let teller = 0;
-  veld.addEventListener('input', async () => {
-    const nr = ++teller;
-    const term = veld.value.trim();
-    if (term.length < 2) { uit.replaceChildren(); return; }
-    const p = await pagefind();
-    if (!p) { uit.textContent = tk.nietBeschikbaar; return; }
-    const r = await p.debouncedSearch(term, {}, 150);
-    if (!r || nr !== teller) return;
-    const data = await Promise.all(r.results.slice(0, 12).map((x: any) => x.data()));
-    uit.innerHTML = data.length
-      ? data.map((d: any) => `<a class="kaart-blok" style="display:block;text-decoration:none;color:inherit" href="${esc(d.url)}"><strong>${esc(d.meta?.title ?? d.url)}</strong><br><span class="klein">${d.excerpt}</span></a>`).join('')
-      : `<p>${esc(tk.niets)}</p>`;
-  });
-  veld.focus();
-</script>
