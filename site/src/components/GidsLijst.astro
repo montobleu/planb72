@@ -7,7 +7,7 @@ const { taal, module, titel = APP[taal].gidsen.lijstTitel } = Astro.props;
 const lijst = (await inhoud('gidsen', taal)).filter((g) => (g.origineel.data as { module?: string }).module === module);
 ---
 {lijst.length > 0 && (
-  <section>
+  <section class="rubriek-naslag">
     <h2>{titel}</h2>
     <div class="raster">
       {lijst.map((g) => <a class="tegel" href={pad(taal, `/app/gids/${g.id}/`)} lang={g.titelLang !== taal ? g.titelLang : undefined}><strong>{g.titel}</strong><span class="klein">{g.kort}</span></a>)}

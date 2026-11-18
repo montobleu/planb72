@@ -28,8 +28,8 @@ const politieVan = (l: (typeof landen)[number]) =>
     <div class="knoppen"><a class="knop hoofd" href={pad(taal, '/app/pakket/')}>{t.pakketKnop}</a></div>
   </div>
 
-  {t.groepen.map(([titel, items]) => (
-    <section>
+  {t.groepen.map(([titel, items], i) => (
+    <section class={['rubriek-nood', 'rubriek-kaart', 'rubriek-voorbereiden', 'rubriek-hulp'][i] ?? 'rubriek-naslag'}>
       <h2 class="sectiekop">{titel}</h2>
       <div class="raster">
         {items.map(([href, tt, uitleg]) => (

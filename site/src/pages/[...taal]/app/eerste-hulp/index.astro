@@ -14,7 +14,7 @@ const onderwerpen = await inhoud('eerstehulp', taal);
   <div class="concept" set:html={t.concept} />
   {taal !== 'nl' && <p class="vertaalstatus" role="note">{APP[taal].inhoud.gevoeligTekst}</p>}
   {onderwerpen.length > 0 ? (
-    <div class="raster" style="margin-top:1.5rem">
+    <div class="raster rubriek-nood" style="margin-top:1.5rem">
       {onderwerpen.map((o) => <a class="tegel" href={pad(taal, `/app/eerste-hulp/${o.id}/`)} lang={o.titelLang !== taal ? o.titelLang : undefined}><strong>{o.titel}</strong><span class="klein">{o.kort}</span></a>)}
     </div>
   ) : <p>{t.leeg}</p>}
