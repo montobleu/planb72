@@ -1,4 +1,5 @@
 ---
+import ThemaKnop from './ThemaKnop.astro';
 import Logo from './Logo.astro';
 import { TALEN, pad, type Taal } from '../i18n/talen';
 import { SITE } from '../i18n/site';
@@ -25,6 +26,7 @@ const links: [string, string][] = [
       <div class="taalkeuze" role="group" aria-label={t.taal}>
         {TALEN.map((l) => <a href={pad(l, pagina)} hreflang={l} lang={l} aria-current={l === taal ? 'true' : undefined}>{l}</a>)}
       </div>
+      <ThemaKnop taal={taal} />
     </div>
   </div>
 </header>

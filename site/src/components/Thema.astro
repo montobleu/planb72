@@ -1,8 +1,9 @@
 ---
-// Kleurschema volgens Modern Web Guidance (dark-mode-toggle): de <meta> volgt standaard
-// het toestel ("light dark"); een opgeslagen keuze wordt hier vóór het tekenen gezet.
+// Kleurschema: standaard donker (zuinig op de batterij), licht als keuze van de gebruiker.
+// De keuze staat in localStorage en wordt vóór het tekenen in <meta name="color-scheme"> gezet;
+// de CSS leest die meta (zie global.css).
 ---
-<meta name="color-scheme" content="light dark" />
+<meta name="color-scheme" content="dark" />
 <script is:inline>
-  try { var k = localStorage.getItem('pb72-kleurschema'); if (k === 'light' || k === 'dark') document.querySelector('meta[name="color-scheme"]').content = k; } catch (e) {}
+  try { if (localStorage.getItem('pb72-kleurschema') === 'light') document.querySelector('meta[name="color-scheme"]').content = 'light'; } catch (e) {}
 </script>

@@ -398,9 +398,8 @@ const nl = {
   },
   kleurschema: {
     legende: 'Weergave',
-    systeem: 'Zoals het toestel',
     licht: 'Licht',
-    donker: 'Donker',
+    donker: 'Donker (standaard)',
     oled: 'Donker spaart batterij op de meeste telefoons met een OLED-scherm.',
   },
   kaart: {
@@ -804,9 +803,8 @@ const fr: Teksten = {
   },
   kleurschema: {
     legende: 'Affichage',
-    systeem: "Comme l'appareil",
     licht: 'Clair',
-    donker: 'Sombre',
+    donker: 'Sombre (par défaut)',
     oled: "Le mode sombre économise la batterie sur la plupart des téléphones à écran OLED.",
   },
   kaart: {
@@ -1211,9 +1209,8 @@ const de: Teksten = {
   },
   kleurschema: {
     legende: 'Darstellung',
-    systeem: 'Wie das Gerät',
     licht: 'Hell',
-    donker: 'Dunkel',
+    donker: 'Dunkel (Standard)',
     oled: 'Dunkel spart auf den meisten Telefonen mit OLED-Bildschirm Akku.',
   },
   kaart: {
@@ -1615,9 +1612,8 @@ const en: Teksten = {
   },
   kleurschema: {
     legende: 'Display',
-    systeem: 'Same as the device',
     licht: 'Light',
-    donker: 'Dark',
+    donker: 'Dark (default)',
     oled: 'Dark saves battery on most phones with an OLED screen.',
   },
   kaart: {

@@ -1,48 +1,46 @@
-// Kleurschema: 'system' (geen opgeslagen waarde), 'light' of 'dark'.
-// Volgt Modern Web Guidance (dark-mode-toggle): de keuze staat in localStorage en
-// wordt weerspiegeld in <meta name="color-scheme">; de CSS leest die meta.
+// Kleurschema: 'dark' (standaard) of 'light'. Er is bewust geen "zoals het toestel":
+// PlanB72 start donker, zuinig op de batterij; wie licht wil, kiest dat zelf.
+// De keuze staat in localStorage en wordt weerspiegeld in <meta name="color-scheme">.
 
-export type Keuze = 'system' | 'light' | 'dark';
+export type Keuze = 'light' | 'dark';
 const SLEUTEL = 'pb72-kleurschema';
 
 const meta = () => document.querySelector<HTMLMetaElement>('meta[name="color-scheme"]');
 
 export function huidigeKeuze(): Keuze {
   try {
-    const k = localStorage.getItem(SLEUTEL);
-    return k === 'light' || k === 'dark' ? k : 'system';
+    return localStorage.getItem(SLEUTEL) === 'light' ? 'light' : 'dark';
   } catch {
-    return 'system';
+    return 'dark';
   }
 }
 
 /** Het schema dat nu getekend wordt. */
-export function getekendSchema(): 'light' | 'dark' {
-  const c = meta()?.content;
-  if (c === 'light' || c === 'dark') return c;
-  return matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
+export function getekendSchema(): Keuze {
+  return meta()?.content === 'light' ? 'light' : 'dark';
 }
 
 export function zetKeuze(keuze: Keuze) {
   try {
-    if (keuze === 'system') localStorage.removeItem(SLEUTEL);
-    else localStorage.setItem(SLEUTEL, keuze);
+    if (keuze === 'dark') localStorage.removeItem(SLEUTEL);
+    else localStorage.setItem(SLEUTEL, 'light');
   } catch {}
   pasToe(keuze);
 }
 
-function pasToe(keuze: Keuze) {
-  const m = meta();
-  if (m) m.content = keuze === 'system' ? 'light dark' : keuze;
-  document.dispatchEvent(new CustomEvent('pb72-kleurschema', { detail: getekendSchema() }));
+export function wissel() {
+  zetKeuze(getekendSchema() === 'light' ? 'dark' : 'light');
 }
 
-/** Blijf synchroon met andere tabbladen en met de systeeminstelling. */
+function pasToe(keuze: Keuze) {
+  const m = meta();
+  if (m) m.content = keuze;
+  document.dispatchEvent(new CustomEvent('pb72-kleurschema', { detail: keuze }));
+}
+
+/** Blijf synchroon met andere tabbladen. */
 export function volgWijzigingen() {
   addEventListener('storage', (e) => {
     if (e.key === SLEUTEL) pasToe(huidigeKeuze());
-  });
-  matchMedia('(prefers-color-scheme: dark)').addEventListener('change', () => {
-    if (huidigeKeuze() === 'system') pasToe('system');
   });
 }

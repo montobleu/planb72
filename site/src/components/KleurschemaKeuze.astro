@@ -1,5 +1,5 @@
 ---
-// Drie standen in een instellingenscherm (Modern Web Guidance: dark-mode-toggle).
+// Keuze in de instellingen: donker (standaard) of licht.
 import { APP } from '../i18n/app';
 import type { Taal } from '../i18n/talen';
 interface Props { taal: Taal }
@@ -7,25 +7,17 @@ const t = APP[Astro.props.taal].kleurschema;
 ---
 <fieldset class="kleurschema">
   <legend class="sr-only">{t.legende}</legend>
-  <label><input type="radio" name="kleurschema" value="system" /> {t.systeem} <span class="klein" data-systeem></span></label>
-  <label><input type="radio" name="kleurschema" value="light" /> {t.licht}</label>
   <label><input type="radio" name="kleurschema" value="dark" /> {t.donker}</label>
+  <label><input type="radio" name="kleurschema" value="light" /> {t.licht}</label>
   <p class="klein">{t.oled}</p>
 </fieldset>
 <script>
   import { huidigeKeuze, zetKeuze, volgWijzigingen, type Keuze } from '../lib/kleurschema';
-  import { klant } from '../i18n/klant';
-  const tk = klant().kleurschema;
   const knoppen = [...document.querySelectorAll<HTMLInputElement>('input[name="kleurschema"]')];
-  const systeem = document.querySelector('[data-systeem]')!;
-  const toonSysteem = () => (systeem.textContent = matchMedia('(prefers-color-scheme: dark)').matches ? tk.nuDonker : tk.nuLicht);
-  const k = huidigeKeuze();
-  knoppen.forEach((r) => {
-    r.checked = r.value === k;
-    r.addEventListener('change', () => zetKeuze(r.value as Keuze));
-  });
-  toonSysteem();
-  matchMedia('(prefers-color-scheme: dark)').addEventListener('change', toonSysteem);
+  const zet = () => { const k = huidigeKeuze(); knoppen.forEach((r) => (r.checked = r.value === k)); };
+  knoppen.forEach((r) => r.addEventListener('change', () => zetKeuze(r.value as Keuze)));
+  document.addEventListener('pb72-kleurschema', zet);
+  zet();
   volgWijzigingen();
 </script>
 <style>

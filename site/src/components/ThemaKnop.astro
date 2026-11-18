@@ -1,0 +1,20 @@
+---
+// Knop in de kop: wisselt tussen donker (standaard) en licht. Toont naar welk schema je gaat.
+import type { Taal } from '../i18n/talen';
+interface Props { taal?: Taal }
+const L: Record<Taal, { licht: string; donker: string; uitleg: string }> = {
+  nl: { licht: 'Licht', donker: 'Donker', uitleg: 'Weergave' },
+  fr: { licht: 'Clair', donker: 'Sombre', uitleg: 'Affichage' },
+  de: { licht: 'Hell', donker: 'Dunkel', uitleg: 'Darstellung' },
+  en: { licht: 'Light', donker: 'Dark', uitleg: 'Display' },
+};
+const t = L[Astro.props.taal ?? 'nl'];
+---
+<button class="themaknop" type="button" data-themaknop aria-label={t.uitleg}>
+  <span class="naar-licht">{t.licht}</span><span class="naar-donker">{t.donker}</span>
+</button>
+<script>
+  import { wissel, volgWijzigingen } from '../lib/kleurschema';
+  document.querySelectorAll<HTMLButtonElement>('[data-themaknop]').forEach((k) => k.addEventListener('click', wissel));
+  volgWijzigingen();
+</script>
