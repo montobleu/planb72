@@ -185,9 +185,6 @@ main > p, main > ul, main > ol, main > dl, main section > p, .lead { max-width: 
 .melding > :first-child { margin-top: 0; }
 .melding > :last-child { margin-bottom: 0; }
 
-.concept { border-left: 5px solid var(--waarschuwing); background: var(--waarschuwing-bg); color: var(--tekst); padding: 12px 16px; font-size: 0.92rem; margin: 1.5rem 0; border-radius: 0 var(--radius) var(--radius) 0; }
-.concept strong { color: var(--waarschuwing); }
-
 /* Lijst met doorklikregels (app-start, wat nu, meer). */
 .raster { display: grid; grid-template-columns: 1fr; border-top: 1px solid var(--rand); }
 @media (min-width: 760px) { .raster { grid-template-columns: 1fr 1fr; column-gap: 32px; } }
@@ -335,8 +332,6 @@ legend { font-weight: 600; padding: 0 6px; }
 .bronnenlijst li { padding: 10px 0; border-bottom: 1px solid var(--rand); display: flex; justify-content: space-between; gap: 1rem; }
 .bronnenlijst span { color: var(--tekst-2); font-size: 0.9rem; text-align: right; }
 
-.statusbalk { font-size: 0.9rem; color: var(--tekst); background: var(--waarschuwing-bg); border-left: 4px solid var(--waarschuwing); padding: 10px 14px; margin-top: 1.5rem; max-width: 60ch; border-radius: 0 var(--radius) var(--radius) 0; }
-
 /* ---------- Afdrukken ---------- */
 
 @media print {
@@ -348,7 +343,7 @@ legend { font-weight: 600; padding: 0 6px; }
   .kop, .onderbalk, .voet, .knoppen, .niet-afdrukken { display: none !important; }
   .app-body { padding: 0; }
   a { color: #000; text-decoration: none; }
-  .kaart-blok, .melding, .concept { break-inside: avoid; }
+  .kaart-blok, .melding { break-inside: avoid; }
   body { font-size: 11pt; }
 }
 
@@ -401,7 +396,7 @@ main.wrap { padding-top: 2.5rem; }
 .eerste-stappen .stappen > li:last-child { border-bottom: 0; }
 .voet-badge { margin-top: 2rem; padding-top: 1.25rem; border-top: 1px solid #ffffff22; }
 
-/* Vertalingen: nazichtstatus boven een vertaalde pagina, taalkeuze in de instellingen. */
+/* Vertalingen: vertaalstatus boven een vertaalde pagina, taalkeuze in de instellingen. */
 .vertaalstatus { border-left: 3px solid var(--merk); background: var(--bg-2); padding: 10px 14px; margin: 1rem 0; font-size: 0.9rem; }
 .vertaalstatus.melding { font-size: inherit; padding: 14px 16px; border-left-width: 4px; }
 .vertaalmelding { color: var(--tekst-2); margin: 0.75rem 0 0; }

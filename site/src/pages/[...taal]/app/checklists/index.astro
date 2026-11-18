@@ -10,7 +10,7 @@ const t = APP[taal].checklists;
 <App taal={taal} titel={t.titel} tab="meer" vertaalmelding>
   <h1>{t.titel}</h1>
   <p class="dempen">{t.uitleg}</p>
-  <div class="concept">{t.concept}</div>
+  <p class="dempen">{t.herkomst}</p>
   {t.lijsten.map(([id, titel, items]) => (
     <section>
       <h2>{titel}</h2>

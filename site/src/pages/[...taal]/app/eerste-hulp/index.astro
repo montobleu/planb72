@@ -10,8 +10,7 @@ const onderwerpen = await inhoud('eerstehulp', taal);
 ---
 <App taal={taal} titel={t.titel} tab="meer" vertaalmelding>
   <h1>{t.titel}</h1>
-  <div class="melding gevaar"><Fragment set:html={t.belEerst} /> {t.meldkamer} {t.antigif} <a href="tel:070245245">070 245 245</a>.</div>
-  <div class="concept" set:html={t.concept} />
+  <p class="dempen" set:html={t.herkomst} />
   {taal !== 'nl' && <p class="vertaalstatus" role="note">{APP[taal].inhoud.gevoeligTekst}</p>}
   {onderwerpen.length > 0 ? (
     <div class="raster rubriek-nood" style="margin-top:1.5rem">

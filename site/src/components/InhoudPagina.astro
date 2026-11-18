@@ -6,7 +6,6 @@
 //   de vertaling pas na een extra waarschuwing;
 // - niet vertaald: de Nederlandse tekst met een melding.
 import { render } from 'astro:content';
-import Concept from './Concept.astro';
 import Inhoudstafel from './Inhoudstafel.astro';
 import Brondoos from './Brondoos.astro';
 import { APP } from '../i18n/app';
@@ -61,9 +60,6 @@ const nagekekenVertaling = nagekeken;
   </div>
 )}
 
-{item.soort === 'scenarios' && <div class="melding gevaar" set:html={A.algemeen.levensgevaar} />}
-{item.soort === 'eerstehulp' && <div class="melding gevaar"><Fragment set:html={A.eerstehulp.bel} /> {A.eerstehulp.volgMeldkamer}</div>}
-
 {(vorm === 'gevoelig' || vorm === 'ontbreekt') ? (
   // De Nederlandse tekst staat al op het toestel (/app/...); de pagina haalt hem daar op in plaats
   // van hem een tweede keer mee te dragen. Zonder script blijft de link naar de Nederlandse pagina.
@@ -80,7 +76,6 @@ const nagekekenVertaling = nagekeken;
       {eerst.d.niet && (<><h2>{A.watnu.vermijden}</h2><ul>{eerst.d.niet.map((n) => <li>{n}</li>)}</ul></>)}
     </section>
   )}
-  {eerst.d.status === 'concept' && <Concept taal={taal} bron={eerst.d.bronnen[0].url} bronNaam={eerst.d.bronnen[0].naam} />}
   <Inhoudstafel taal={taal} koppen={eerst.R.headings} />
   <article class="inhoud"><eerst.R.Content /></article>
   <Brondoos taal={taal} bronnen={eerst.d.bronnen} tekst={(vorm === 'vertaald' ? v : o)?.body ?? ''} datum={eerst.d.datum} status={eerst.d.status} nagekeken_door={eerst.d.nagekeken_door}>
