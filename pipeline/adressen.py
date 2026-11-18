@@ -29,10 +29,20 @@ BRON_ID = "be-bosa-best-adressen"
 ZIPS = ["openaddress-bevlg.zip", "openaddress-bebru.zip", "openaddress-bewal.zip"]
 URL = "https://opendata.bosa.be/download/best/"
 VAK = 50  # 1/50 graad, ongeveer 1,4 km breed en 2,2 km hoog
+GEMVAK = 400  # 1/400 graad, ongeveer 175 m breed en 280 m hoog: raster van de gemeenten
 
 
 def _gemeente(tekst):
     return nm.basis(re.sub(r"\(.*?\)", "", str(tekst or "")))
+
+
+def _varianten(straat):
+    """De straatnaam zoals ze is, en zonder toevoeging tussen haakjes ("Oude Reningeweg(Oost)" -> "Oude Reningeweg")."""
+    uit = [nm.straat(straat)]
+    kort = nm.straat(re.sub(r"\(.*?\)", " ", str(straat or "")))
+    if kort and kort not in uit:
+        uit.append(kort)
+    return uit
 
 
 def _nummer(tekst):
@@ -47,14 +57,16 @@ class Geocoder:
         self.huis = {}          # (sleutel, straat, nummer, letter) -> (lat, lon)
         self.straten = {}       # (sleutel, straat) -> [som lat, som lon, n]
         self.gewesten = None    # (vx, vy) -> gewestcode
+        self.gemeenten = None   # (vx, vy) -> NIS-code van de gemeente (raster GEMVAK)
+        self.gemeentenamen = {} # NIS-code -> {"nl", "fr", "de", "adressen"}
         self.datum = None
 
     def vraag(self, straat, postcode=None, gemeente=None):
-        s = nm.straat(straat)
-        if postcode:
-            self.nodig.add((str(postcode), s))
-        if gemeente:
-            self.nodig.add((_gemeente(gemeente), s))
+        for s in _varianten(straat):
+            if postcode:
+                self.nodig.add((str(postcode), s))
+            if gemeente:
+                self.nodig.add((_gemeente(gemeente), s))
 
     def _bestanden(self):
         return [officieel.download(BRON_ID, URL + z, z, vernieuw=self.vernieuw) for z in ZIPS]
@@ -63,6 +75,8 @@ class Geocoder:
         """Leest de adressenbestanden één keer: de gevraagde straten en het gewestraster."""
         gewestpad = officieel.CACHE / BRON_ID / "gewesten.json"
         tellingen = {}
+        gemtel = {}
+        namen = {}
         bestanden = self._bestanden()
         self.datum = max(p.stat().st_mtime for p in bestanden)
         for pad in bestanden:
@@ -79,6 +93,14 @@ class Geocoder:
                         vak = (int(lon * VAK), int(lat * VAK))
                         t = tellingen.setdefault(vak, {})
                         t[rij["region_code"]] = t.get(rij["region_code"], 0) + 1
+                        nis = rij["municipality_id"]
+                        g = gemtel.setdefault((int(lon * GEMVAK), int(lat * GEMVAK)), {})
+                        g[nis] = g.get(nis, 0) + 1
+                        n = namen.get(nis)
+                        if n is None:
+                            n = namen[nis] = {"nl": rij["municipality_name_nl"], "fr": rij["municipality_name_fr"],
+                                              "de": rij["municipality_name_de"], "gewest": rij["region_code"], "adressen": 0}
+                        n["adressen"] += 1
                         sleutels = [rij["postcode"]] + [_gemeente(rij[k]) for k in (
                             "municipality_name_nl", "municipality_name_fr", "municipality_name_de",
                             "postname_nl", "postname_fr") if rij[k]]
@@ -100,22 +122,28 @@ class Geocoder:
         self.gewesten = {k: max(v, key=v.get) for k, v in tellingen.items()}
         with open(gewestpad, "w", encoding="utf-8") as f:
             json.dump({f"{k[0]},{k[1]}": v for k, v in self.gewesten.items()}, f)
+        self.gemeenten = {k: max(v, key=v.get) for k, v in gemtel.items()}
+        self.gemeentenamen = namen
+        with open(officieel.CACHE / BRON_ID / "gemeenten.json", "w", encoding="utf-8") as f:
+            json.dump({"namen": namen, "raster": {f"{k[0]},{k[1]}": v for k, v in self.gemeenten.items()}}, f)
 
     def plaats(self, straat, nummer=None, postcode=None, gemeente=None):
         """(lat, lon, "adres"|"straat") of None."""
-        s = nm.straat(straat)
         n, letter = _nummer(nummer)
         sleutels = [x for x in (str(postcode) if postcode else None, _gemeente(gemeente) if gemeente else None) if x]
+        varianten = _varianten(straat)
         if n:
+            for s in varianten:
+                for sl in sleutels:
+                    for l in (letter, ""):
+                        if (sl, s, n, l) in self.huis:
+                            lat, lon = self.huis[(sl, s, n, l)]
+                            return lat, lon, "adres"
+        for s in varianten:
             for sl in sleutels:
-                for l in (letter, ""):
-                    if (sl, s, n, l) in self.huis:
-                        lat, lon = self.huis[(sl, s, n, l)]
-                        return lat, lon, "adres"
-        for sl in sleutels:
-            acc = self.straten.get((sl, s))
-            if acc and acc[2]:
-                return acc[0] / acc[2], acc[1] / acc[2], "straat"
+                acc = self.straten.get((sl, s))
+                if acc and acc[2]:
+                    return acc[0] / acc[2], acc[1] / acc[2], "straat"
         return None
 
     def gewest(self, lon, lat):
@@ -131,6 +159,47 @@ class Geocoder:
             if g:
                 return g
         return None
+
+
+    def _laad_gemeenten(self):
+        if self.gemeenten is None:
+            pad = officieel.CACHE / BRON_ID / "gemeenten.json"
+            if not pad.exists():
+                self.lees()
+            else:
+                d = json.load(open(pad, encoding="utf-8"))
+                self.gemeentenamen = d["namen"]
+                self.gemeenten = {tuple(int(x) for x in k.split(",")): v for k, v in d["raster"].items()}
+
+    def gemeente(self, lon, lat):
+        """NIS-code van de gemeente waarin het punt ligt (het dichtstbijzijnde vak met adressen, tot ongeveer 1 km), of None."""
+        self._laad_gemeenten()
+        vx, vy = int(lon * GEMVAK), int(lat * GEMVAK)
+        for straal in range(0, 5):
+            gevonden = {}
+            for dx in range(-straal, straal + 1):
+                for dy in range(-straal, straal + 1):
+                    if max(abs(dx), abs(dy)) != straal:
+                        continue
+                    g = self.gemeenten.get((vx + dx, vy + dy))
+                    if g:
+                        gevonden[g] = gevonden.get(g, 0) + 1
+            if gevonden:
+                return max(gevonden, key=gevonden.get)
+        return None
+
+
+# Provincie uit de NIS-code van de gemeente (eerste cijfers).
+PROVINCIES = [("21", "Brussels Hoofdstedelijk Gewest"), ("23", "Vlaams-Brabant"), ("24", "Vlaams-Brabant"),
+              ("25", "Waals-Brabant"), ("1", "Antwerpen"), ("3", "West-Vlaanderen"), ("4", "Oost-Vlaanderen"),
+              ("5", "Henegouwen"), ("6", "Luik"), ("7", "Limburg"), ("8", "Luxemburg"), ("9", "Namen")]
+
+
+def provincie(nis):
+    for prefix, naam in PROVINCIES:
+        if str(nis or "").startswith(prefix):
+            return naam
+    return "onbekend"
 
 
 GEOCODER = None

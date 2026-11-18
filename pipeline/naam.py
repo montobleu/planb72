@@ -21,6 +21,8 @@ ALGEMEEN = {
     "hotel", "ville", "gemeente", "stad", "rathaus", "gemeindehaus", "maison", "communal",
     "ziekenhuis", "hopital", "krankenhaus", "hospital", "campus", "site", "az", "chu", "ch", "chr",
     "uz", "algemeen", "universitair", "regional", "regionaal",
+    "dap", "dierenartspraktijk", "dierenartsenpraktijken", "dierenkliniek", "dierenartsencentrum", "kleindierenpraktijk",
+    "paardenpraktijk", "paardenkliniek", "comm", "commv", "vof", "cv", "srl", "sc", "scs", "veterinary", "vet", "vets",
     "de", "het", "een", "van", "der", "den", "la", "le", "les", "l", "du", "des", "d", "et", "en",
     "und", "am", "im", "an", "der", "die", "das", "of", "the", "and", "sa", "bv", "bvba", "srl", "sprl", "nv",
 }

@@ -1,7 +1,7 @@
 {
   "land": "FR",
   "opgehaald": "2026-11-17",
-  "bron": "© OpenStreetMap-bijdragers, ODbL",
+  "bron": "© OpenStreetMap-bijdragers, ODbL; aangevuld met officiële bronnen (zie 'bronnen') en eigen, nagekeken gegevens",
   "lagen": {
     "ziekenhuizen": {
       "naam": "Ziekenhuizen",
@@ -45,8 +45,16 @@
     },
     "dierenarts": {
       "naam": "Dierenartsen",
-      "aantal": 4114,
-      "bytes": 950607
+      "aantal": 12729,
+      "bytes": 4074056,
+      "osm": 1616,
+      "officieel": 11113,
+      "nagekeken": 0,
+      "osm_ruw": 4114,
+      "bronnen": [
+        "fr-sirene-veterinaires"
+      ],
+      "verrijkt": "2026-11-18"
     },
     "schuilplekken": {
       "naam": "Mogelijke schuilplekken",
@@ -60,6 +68,18 @@
       "zones": 45,
       "bytes": 67368,
       "bron": "data/landen/fr.json"
+    }
+  },
+  "osm_opgehaald": "2026-11-17",
+  "bronnen": {
+    "fr-sirene-veterinaires": {
+      "naam": "INSEE SIRENE: vestigingen met NAF 75.00Z (activités vétérinaires)",
+      "kort": "INSEE SIRENE",
+      "eigenaar": "INSEE, via de API Recherche d'entreprises (DINUM)",
+      "licentie": "Licence Ouverte 2.0 (Etalab)",
+      "url": "https://recherche-entreprises.api.gouv.fr/docs/",
+      "datum": "2026-11-17",
+      "opgehaald": "2026-11-18"
     }
   }
 }
