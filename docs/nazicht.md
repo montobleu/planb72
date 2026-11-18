@@ -10,6 +10,7 @@ Elke wijziging aan PlanB72 is een pull request in de openbare repository. Niets 
 | Eerste hulp, water, medicatie | `site/src/pages/app/eerste-hulp/` | 2 | waarvan één zorgverlener |
 | Nucleair en chemisch | `site/src/pages/app/nucleair/` | 2 | waarvan één met vakkennis straling of noodplanning |
 | Landinfo (noodnummers, kanalen, zones) | `data/landen/` | 2 | kernteam en landbeheerder |
+| Eigen aanvullingen op de kaartlagen | `data/eigen/` | 2 | kernteam en landbeheerder; de indiener en de nalezer van een item zijn twee verschillende personen |
 | Bronnenregister | `data/bronnen/register.json` | 1 | landbeheerder |
 | Vertaling van de interface | `site/src/i18n/` | 1, voor gepubliceerde talen 2 | moedertaalsprekers |
 | Vertaling van inhoud | `site/src/content/<map>/{fr,de,en}/` | 2 | moedertaalspreker; voor medisch, nucleair en chemisch ook een deskundige |
@@ -24,6 +25,7 @@ De auteur van een wijziging telt nooit mee als nalezer.
    - controleert dat elke scenariokaart een bron heeft die in het bronnenregister staat;
    - controleert dat elk noodnummer en kanaal een bron heeft;
    - controleert dat status `nagekeken` of `officieel` een nalezer vermeldt;
+   - controleert de eigen aanvullingen op de kaartlagen (`data/eigen/`): schema, een bron per item, datum, indiener en een andere nalezer (zie `docs/kaartdata.md`);
    - controleert dat elke vertaling haar nazichtstatus vermeldt en dat getallen, telefoonnummers, frequenties en eenheden gelijk zijn aan het Nederlandse origineel (zie `docs/vertalen.md`);
    - zet labels en telt de goedkeuringen. Dat aantal staat in een aparte status `nazicht`: *in afwachting* zolang er te weinig nalezers zijn, *geslaagd* zodra het genoeg is. De job `inhoud` faalt alleen bij een inhoudelijke fout.
 3. Branch protection op `main` (in te stellen in de GitHub-organisatie):

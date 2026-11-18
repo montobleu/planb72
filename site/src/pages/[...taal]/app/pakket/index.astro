@@ -1,7 +1,6 @@
 ---
 import App from '../../../../layouts/App.astro';
 import { landenVoor, APP_VERSIE } from '../../../../lib/data';
-import { LAGEN } from '../../../../lib/lagen';
 import KleurschemaKeuze from '../../../../components/KleurschemaKeuze.astro';
 import { APP } from '../../../../i18n/app';
 import { TALEN, TAALNAMEN, pad, taalPaden, taalVan } from '../../../../i18n/talen';
@@ -9,35 +8,14 @@ export const getStaticPaths = taalPaden;
 const taal = taalVan(Astro.params);
 const t = APP[taal].pakket;
 const landen = landenVoor(taal);
-const tl = APP[taal].landen;
-const landnamen = Object.fromEntries(landen.map((x) => [x.code, x.naam]));
-import RoutePakketten from '../../../../components/RoutePakketten.astro';
+import Keuzehulp from '../../../../components/Keuzehulp.astro';
 ---
 <App taal={taal} titel={t.titel} tab="meer" zoekbaar={false}>
   <h1>{t.h1}</h1>
 
-  <section id="landen" class="kaart-blok">
-    <h2 style="margin-top:0">{tl.titel}</h2>
-    <p>{tl.uitleg}</p>
-    <div class="tabel-wrap"><table>
-      <thead><tr>{tl.kop.map((k) => <th scope="col">{k}</th>)}</tr></thead>
-      <tbody>
-        {landen.map((x) => (
-          <tr>
-            <th scope="row">{x.naam} <span class="klein">{tl.landinfoVan(x.bijgewerkt)}</span></th>
-            <td><input type="checkbox" name="land" value={x.code} aria-label={tl.tonen(x.naam)} /></td>
-            <td><input type="radio" name="hoofdland" value={x.code} aria-label={tl.hoofdland(x.naam)} /></td>
-          </tr>
-        ))}
-      </tbody>
-    </table></div>
-    <p class="klein" id="landen-staat" aria-live="polite"></p>
-  </section>
-
-  <section class="kaart-blok">
-    <h2 style="margin-top:0">{tl.basisTitel}</h2>
-    <p class="klein">{tl.basisUitleg}</p>
-    <div id="basispakketten" aria-live="polite"><p class="klein">{t.controleren}</p></div>
+  <section id="landen">
+    <span id="routes-kop"></span>
+    <Keuzehulp taal={taal} modus="app" />
   </section>
 
   <section>
@@ -50,15 +28,6 @@ import RoutePakketten from '../../../../components/RoutePakketten.astro';
         </li>
       ))}
     </ul>
-  </section>
-
-  <RoutePakketten />
-
-  <section>
-    <h2>{t.kaartenTitel}</h2>
-    <p>{t.kaartenUitleg}</p>
-    <div id="kaartpakketten" aria-live="polite"><p class="klein">{t.laden}</p></div>
-    <p class="klein">{t.kaartenBron}</p>
   </section>
 
   <section>
@@ -91,125 +60,11 @@ import RoutePakketten from '../../../../components/RoutePakketten.astro';
     <div class="knoppen"><button class="knop" type="button" id="deel">{t.delenKnop}</button></div>
   </section>
 
-  <div id="lagen" data-lagen={JSON.stringify(LAGEN.map((l) => l.id))} data-landnamen={JSON.stringify(landnamen)} hidden></div>
 </App>
 <script>
-  import { vraagBlijvendeOpslag, bewaar } from '../../../../lib/app';
-  import { overzicht, opToestel, download as kaartDownload, verwijder as kaartVerwijder, mb as kaartMb, type Kaartpakket } from '../../../../lib/kaarten';
-  import { klant, locale, paginaTaal, pakketTekst } from '../../../../i18n/klant';
-  import { gekozenLanden, kiesLanden } from '../../../../lib/landkeuze';
+  import { locale, paginaTaal, klant } from '../../../../i18n/klant';
   const tk = klant().pakket;
-  const tl = klant().landen;
-  const tg = tk.kaarten;
-  const naamVan = (p: Kaartpakket) => pakketTekst(p);
-  const houder = document.getElementById('lagen')!;
-  const lagen: string[] = JSON.parse(houder.dataset.lagen!);
-  const landnamen: Record<string, string> = JSON.parse(houder.dataset.landnamen!);
   const mb = (b: number) => `${(b / 1024 / 1024).toLocaleString(locale(), { maximumFractionDigits: 1 })} MB`;
-  const cacheNaam = (c: string) => `pb72-pakket-${c}`;
-  const esc = (s: string) => s.replace(/[&<>"']/g, (x) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' })[x]!);
-
-  // ---------- Landen ----------
-  const vinken = [...document.querySelectorAll<HTMLInputElement>('input[name="land"]')];
-  const hoofd = [...document.querySelectorAll<HTMLInputElement>('input[name="hoofdland"]')];
-  function toonLandkeuze() {
-    const gekozen = gekozenLanden();
-    vinken.forEach((v) => (v.checked = gekozen.includes(v.value)));
-    hoofd.forEach((r) => { r.checked = r.value === gekozen[0]; r.disabled = !gekozen.includes(r.value); });
-    document.getElementById('landen-staat')!.textContent = tl.gekozen(gekozen.map((c) => landnamen[c] ?? c).join(', '));
-  }
-  vinken.forEach((v) => v.addEventListener('change', () => {
-    let gekozen = gekozenLanden();
-    gekozen = v.checked ? [...gekozen, v.value] : gekozen.filter((c) => c !== v.value);
-    if (!gekozen.length) { v.checked = true; alert(tl.minstensEen); return; }
-    kiesLanden(gekozen);
-  }));
-  hoofd.forEach((r) => r.addEventListener('change', () => {
-    if (r.checked) kiesLanden([r.value, ...gekozenLanden().filter((c) => c !== r.value)]);
-  }));
-  document.addEventListener('pb72-landen', () => { toonLandkeuze(); toonBasis(); toonKaarten(); });
-  toonLandkeuze();
-
-  // ---------- Basispakket per land: kaartlagen, nucleaire zones en de overzichtskaarten ----------
-  let basisRonde = 0;
-  async function toonBasis() {
-    const ronde = ++basisRonde; // een latere oproep (andere landkeuze) wint
-    const doos = document.getElementById('basispakketten')!;
-    const rijen: string[] = [];
-    try {
-      for (const c of gekozenLanden()) {
-        const cache = await caches.open(cacheNaam(c));
-        const aantal = (await cache.keys()).length;
-        const meta = await (await cache.match(`/data/${c}/meta.json`))?.json().catch(() => null);
-        const staat = aantal
-          ? `<span class="label officieel">${tk.opToestel}</span> ${tk.bestanden(aantal, meta?.opgehaald)}`
-          : `<span class="label onbevestigd">${tk.nietOffline}</span>`;
-        rijen.push(`<tr data-basis="${c}"><th scope="row">${esc(landnamen[c] ?? c)}</th><td class="klein" data-staat>${staat}</td>
-          <td style="text-align:right;white-space:nowrap"><button class="knop hoofd" type="button" data-actie="download">${aantal ? (navigator.onLine ? tk.bijwerken : tk.bijwerkenOffline) : tl.downloaden}</button>
-          ${aantal ? `<button class="knop gevaar" type="button" data-actie="verwijder">${esc(tg.verwijderen)}</button>` : ''}</td></tr>`);
-      }
-    } catch {
-      doos.innerHTML = `<p>${tk.geenOpslag}</p>`;
-      return;
-    }
-    if (ronde !== basisRonde) return;
-    doos.innerHTML = `<div class="tabel-wrap"><table><tbody>${rijen.join('')}</tbody></table></div>`;
-    doos.querySelectorAll<HTMLButtonElement>('button[data-actie]').forEach((knop) => {
-      const rij = knop.closest('tr')!;
-      const c = rij.dataset.basis!;
-      knop.addEventListener('click', () => (knop.dataset.actie === 'download' ? downloadBasis(c, rij) : verwijderBasis(c)));
-    });
-  }
-
-  async function downloadBasis(c: string, rij: HTMLElement) {
-    const staat = rij.querySelector<HTMLElement>('[data-staat]')!;
-    if (!navigator.onLine) { staat.textContent = tk.geenVerbinding; return; }
-    rij.querySelectorAll('button').forEach((k) => (k.disabled = true));
-    await vraagBlijvendeOpslag();
-    const DATA = `/data/${c}`;
-    const meta = await fetch(`${DATA}/meta.json`, { cache: 'no-store' }).then((r) => (r.ok ? r.json() : null)).catch(() => null);
-    const bestanden = ['/data/kaarten.json', `${DATA}/meta.json`, `${DATA}/nucleair.geojson`, ...lagen.map((l) => `${DATA}/${l}.geojson`)];
-    const verwacht = bestanden.reduce((t, b) => t + (meta?.lagen?.[b.split('/').pop()!.replace('.geojson', '')]?.bytes ?? 0), 0);
-    const cache = await caches.open(cacheNaam(c));
-    const tekst = document.createElement('span');
-    const voortgang = document.createElement('progress'); voortgang.max = 100; voortgang.value = 0; voortgang.style.width = '100%';
-    staat.replaceChildren(tekst, voortgang);
-    let klaar = 0, bytes = 0;
-    const mislukt: string[] = [];
-    for (const b of bestanden) {
-      tekst.textContent = tk.downloaden(b.split('/').pop()!, mb(bytes), verwacht ? mb(verwacht) : undefined);
-      try {
-        const r = await fetch(b, { cache: 'no-store' });
-        if (!r.ok) { if (r.status !== 404) mislukt.push(b); continue; }
-        const blob = await r.blob();
-        bytes += blob.size;
-        // Pas vervangen als het nieuwe bestand volledig binnen is.
-        await cache.put(b, new Response(blob, { headers: { 'Content-Type': r.headers.get('Content-Type') ?? 'application/octet-stream' } }));
-      } catch { mislukt.push(b); }
-      voortgang.value = (++klaar / bestanden.length) * 100;
-    }
-    // De overzichtskaarten van het pakket: Europa (één keer) en het land zelf.
-    const lokaal = await opToestel();
-    for (const p of (await overzicht()).filter((k) => k.zak && (k.groep === 'europa' || k.land === c))) {
-      if (p.groep === 'europa' && lokaal.has(p.id)) continue;
-      tekst.textContent = tk.downloaden(naamVan(p)[0], kaartMb(p.bytes));
-      try { await kaartDownload(p, (f) => (voortgang.value = f * 100)); bytes += p.bytes; } catch { mislukt.push(naamVan(p)[0]); }
-    }
-    bewaar('pakket-datum', new Date().toISOString());
-    await toonBasis();
-    toonKaarten();
-    toestel();
-    const nieuw = document.querySelector<HTMLElement>(`[data-basis="${c}"] [data-staat]`);
-    nieuw?.insertAdjacentHTML('beforeend', mislukt.length
-      ? `<br><span class="label onbevestigd">${tk.mislukt(mislukt.length)}</span> ${tk.opnieuw}`
-      : ` (${mb(bytes)})`);
-  }
-
-  async function verwijderBasis(c: string) {
-    if (!confirm(tl.verwijderBasis(landnamen[c] ?? c))) return;
-    await caches.delete(cacheNaam(c));
-    await toonBasis(); toestel();
-  }
 
   async function toestel() {
     const rijen: [string, string][] = [];
@@ -241,78 +96,7 @@ import RoutePakketten from '../../../../components/RoutePakketten.astro';
     try { if (navigator.share) await navigator.share(data); else { await navigator.clipboard.writeText(data.url); alert(tk.gekopieerd); } } catch {}
   });
 
-  // Groepen in de lijst: Europa, dan per gekozen land de landkaarten en straatniveau,
-  // en ten slotte kaarten van andere landen die nog op dit toestel staan.
-  function groepen(lijst: Kaartpakket[], lokaal: Map<string, unknown>): [string, Kaartpakket[]][] {
-    const gekozen = gekozenLanden();
-    const uit: [string, Kaartpakket[]][] = [[tg.groepen.europa, lijst.filter((p) => p.groep === 'europa')]];
-    for (const c of gekozen) {
-      const naam = landnamen[c] ?? c;
-      uit.push([tl.groepLand(naam), lijst.filter((p) => p.land === c && p.groep === 'land')]);
-      uit.push([tl.groepStraat(naam), lijst.filter((p) => p.land === c && p.groep === 'regio')]);
-    }
-    uit.push([tl.andere, lijst.filter((p) => p.land && !gekozen.includes(p.land) && lokaal.has(p.id))]);
-    return uit.filter(([, l]) => l.length);
-  }
-  const lopend = new Map<string, AbortController>();
-  let kaartRonde = 0;
-  async function toonKaarten() {
-    const ronde = ++kaartRonde;
-    const doos = document.getElementById('kaartpakketten')!;
-    const lijst = await overzicht();
-    const lokaal = await opToestel();
-    if (ronde !== kaartRonde) return;
-    if (!lijst.length) { doos.innerHTML = `<p class="klein">${tg.geenLijst}</p>`; return; }
-    const totaal = [...lokaal.keys()].reduce((t, id) => t + (lijst.find((p) => p.id === id)?.bytes ?? 0), 0);
-    doos.replaceChildren();
-    const samen = document.createElement('p');
-    samen.className = 'klein';
-    samen.textContent = tg.samen(lokaal.size, kaartMb(totaal));
-    doos.append(samen);
-    for (const [titel, inGroep] of groepen(lijst, lokaal)) {
-      const h = document.createElement('h3'); h.textContent = titel; doos.append(h);
-      const tabel = document.createElement('table');
-      const body = tabel.createTBody();
-      for (const p of inGroep) {
-        const rij = body.insertRow();
-        const a = rij.insertCell(); a.innerHTML = `<strong></strong><div class="klein"></div>`;
-        const [pnaam, pomschrijving] = naamVan(p);
-        a.querySelector('strong')!.textContent = pnaam;
-        a.querySelector('div')!.textContent = `${pomschrijving} · ${tg.zoom(p.maxzoom)}`;
-        const b = rij.insertCell(); b.textContent = kaartMb(p.bytes); b.style.whiteSpace = 'nowrap';
-        const c = rij.insertCell(); c.style.textAlign = 'right';
-        const knop = document.createElement('button');
-        knop.type = 'button'; knop.className = 'knop';
-        const balk = document.createElement('progress'); balk.max = 1; balk.value = 0; balk.hidden = true; balk.style.width = '100%';
-        const opToestelNu = lokaal.has(p.id);
-        knop.textContent = opToestelNu ? tg.verwijderen : tg.downloaden;
-        if (opToestelNu) knop.classList.add('gevaar');
-        knop.addEventListener('click', async () => {
-          if (lopend.has(p.id)) { lopend.get(p.id)!.abort(); return; }
-          if (opToestelNu) {
-            if (!confirm(tg.verwijderVraag(pnaam))) return;
-            await kaartVerwijder(p.id); toonKaarten(); toestel(); return;
-          }
-          if (!navigator.onLine) { alert(tg.geenVerbinding); return; }
-          if (p.bytes > 200 * 1048576 && !confirm(tg.groot(pnaam, kaartMb(p.bytes)))) return;
-          await vraagBlijvendeOpslag();
-          const ctrl = new AbortController(); lopend.set(p.id, ctrl);
-          knop.textContent = tg.annuleren; balk.hidden = false;
-          try {
-            await kaartDownload(p, (f) => (balk.value = f), ctrl.signal);
-          } catch (e) {
-            if (!ctrl.signal.aborted) alert(tg.mislukt(pnaam));
-            await kaartVerwijder(p.id);
-          }
-          lopend.delete(p.id);
-          toonKaarten(); toestel();
-        });
-        c.append(knop, balk);
-      }
-      const wrap = document.createElement('div'); wrap.className = 'tabel-wrap'; wrap.append(tabel);
-      doos.append(wrap);
-    }
-  }
-
-  toonBasis(); toestel(); toonKaarten();
+  toestel();
+  addEventListener('online', toestel);
+  addEventListener('offline', toestel);
 </script>

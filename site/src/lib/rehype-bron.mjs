@@ -2,13 +2,13 @@
 // In de Markdown sluit elke sectie af met een regel "Bron: [naam](url) · [naam](url)"
 // (of "Source :", "Quelle:", "Source:"). Die regel blijft in het bronbestand staan, zodat de
 // inhoudscontrole elke bewering aan een bron kan koppelen. Bij het bouwen:
-//   - verdwijnt de regel uit de lopende tekst;
-//   - krijgt het element ervoor (alinea, laatste lijstpunt, tabel) een klein verwijsnummer;
-//   - komt onderaan één genummerde lijst met alle bronnen, in volgorde van eerste vermelding.
+//   - verdwijnt de regel uit de lopende tekst (geen verwijsnummers in de tekst);
+//   - verdwijnt in tabellen een kolom "Bron"/"Source"/"Quelle";
+//   - komt onderaan één lijst met alle bronnen, in volgorde van eerste vermelding.
+// Keuze van de redactie: de tekst blijft rustig leesbaar; de bronnen staan samen onderaan.
 
 const BRONREGEL = /^\s*(Bron(nen)?|Sources?|Quellen?)\s*:\s*/;
 const TITEL = { nl: 'Bronnen', fr: 'Sources', de: 'Quellen', en: 'Sources' };
-const LABEL = { nl: 'Bron', fr: 'Source', de: 'Quelle', en: 'Source' };
 
 const isElement = (n, tag) => n && n.type === 'element' && (!tag || n.tagName === tag);
 
@@ -34,43 +34,26 @@ function taalVan(file) {
   return /\/content\/[^/]+\/(fr|de|en)\//.exec(pad)?.[1] ?? 'nl';
 }
 
-/** Het element waar het verwijsnummer achter komt. */
-function doelVoor(el) {
-  if (isElement(el, 'ul') || isElement(el, 'ol')) {
-    const items = el.children.filter((c) => isElement(c, 'li'));
-    return items.length ? doelVoor(items[items.length - 1]) : el;
-  }
-  if (isElement(el, 'li')) {
-    const laatste = [...el.children].reverse().find((c) => c.type === 'element' || (c.type === 'text' && c.value.trim()));
-    if (isElement(laatste, 'p')) return laatste;
-    return el;
-  }
-  if (isElement(el, 'table')) {
-    const rijen = [];
-    const zoek = (n) => { if (isElement(n, 'tr')) rijen.push(n); (n.children || []).forEach(zoek); };
-    zoek(el);
-    const rij = rijen[rijen.length - 1];
-    const cellen = rij?.children.filter((c) => isElement(c, 'td') || isElement(c, 'th')) ?? [];
-    return cellen[cellen.length - 1] ?? el;
-  }
-  if (isElement(el, 'blockquote')) {
-    const p = [...el.children].reverse().find((c) => isElement(c, 'p'));
-    return p ?? el;
-  }
-  return el;
-}
+const BRONKOP = /^\s*(Bron(nen)?|Sources?|Quellen?)\s*$/i;
 
-function verwijzing(nummers, taal) {
-  const kinderen = [];
-  nummers.forEach((nr, i) => {
-    if (i > 0) kinderen.push({ type: 'text', value: ', ' });
-    kinderen.push({
-      type: 'element', tagName: 'a',
-      properties: { href: `#bron-${nr}`, ariaLabel: `${LABEL[taal]} ${nr}` },
-      children: [{ type: 'text', value: String(nr) }],
-    });
-  });
-  return { type: 'element', tagName: 'sup', properties: { className: ['voetnoot'] }, children: kinderen };
+/** Verwijdert in elke tabel de kolom waarvan de kop "Bron" (of Source, Quelle) is. */
+function verwijderBronkolommen(n) {
+  if (isElement(n, 'table')) {
+    const rijen = [];
+    const zoek = (x) => { if (isElement(x, 'tr')) rijen.push(x); (x.children || []).forEach(zoek); };
+    zoek(n);
+    const cellen = (rij) => rij.children.filter((c) => isElement(c, 'th') || isElement(c, 'td'));
+    const kop = rijen[0] ? cellen(rijen[0]) : [];
+    const index = kop.findIndex((c) => BRONKOP.test(tekstVan(c)));
+    if (index >= 0) {
+      for (const rij of rijen) {
+        const c = cellen(rij)[index];
+        if (c) rij.children.splice(rij.children.indexOf(c), 1);
+      }
+    }
+    return;
+  }
+  (n.children || []).forEach(verwijderBronkolommen);
 }
 
 export default function rehypeBron() {
@@ -92,25 +75,16 @@ export default function rehypeBron() {
       for (let i = 0; i < kids.length; i++) {
         const n = kids[i];
         if (isBronregel(n)) {
-          const nummers = [...new Set(links(n).map(nummer))];
+          links(n).forEach(nummer);
           kids.splice(i, 1);
           i--;
-          // Het vorige echte element (witruimte overslaan); geen kop.
-          let j = i;
-          while (j >= 0 && kids[j].type === 'text' && !kids[j].value.trim()) j--;
-          const vorig = j >= 0 ? kids[j] : null;
-          if (vorig && vorig.type === 'element' && !/^h[1-6]$/.test(vorig.tagName)) {
-            doelVoor(vorig).children.push(verwijzing(nummers, taal));
-          } else {
-            kids.splice(i + 1, 0, { type: 'element', tagName: 'p', properties: { className: ['klein'] }, children: [verwijzing(nummers, taal)] });
-            i++;
-          }
         } else if (n.type === 'element') {
           verwerk(n);
         }
       }
     };
     verwerk(tree);
+    verwijderBronkolommen(tree);
 
     if (!lijst.length) return;
     tree.children.push({

@@ -3,7 +3,8 @@
 
 Knipt uit de dagelijkse Protomaps-build (OpenStreetMap, ODbL) een reeks PMTiles-
 bestanden: een overzicht van Europa, en per land een overzicht (zoom 9), een
-standaardkaart (zoom 12) en regio's op straatniveau (zoom 14). Schrijft een
+standaardkaart (zoom 12) en regio's op straatniveau (zoom 15, het maximum van de
+Protomaps-builds). Schrijft een
 overzicht naar site/public/data/kaarten.json dat de app gebruikt om de pakketten
 aan te bieden.
 
@@ -11,14 +12,14 @@ Een pakket mag niet groter zijn dan 300 MB: zo past het in één upload met
 wrangler en blijft een download op een telefoon haalbaar. Is een land of regio
 groter, dan wordt het opgedeeld:
   - de standaardkaart per regio (provincie, deelstaat, regio);
-  - straatniveau per regio, anders per onderverdeling (Regierungsbezirk,
+  - straatniveau (zoom 15) per regio, anders per onderverdeling (Regierungsbezirk,
     departement), anders in vakken (noordwest, noordoost, ...).
 De indeling (het plan) komt in pipeline/kaartpakketten-plan.json en wordt met
 --plan opnieuw berekend uit pipeline/regios.json en een proefmeting
 (pmtiles extract --dry-run) van elke kandidaat.
 
 Gebruik:
-  python3 pipeline/kaartpakketten.py --plan NL LU DE FR  # indeling berekenen
+  python3 pipeline/kaartpakketten.py --plan BE NL LU DE FR  # indeling berekenen
   python3 pipeline/kaartpakketten.py                     # alles maken
   python3 pipeline/kaartpakketten.py --land de           # alleen de pakketten van één land
   python3 pipeline/kaartpakketten.py --alleen be-z12     # één pakket
@@ -56,15 +57,23 @@ VAST = [
     ("eu-z7", "Europa, uitgebreid overzicht", "Ook middelgrote steden en hoofdwegen", "europa", None, [-25, 34, 45, 72], 7, False),
     ("be-z9", "België, overzicht", "Gemeenten, hoofdwegen, rivieren", "land", "be", [2.54, 49.49, 6.41, 51.51], 9, True),
     ("be-z12", "België, standaard", "Alle wegen en dorpen, geen gebouwen", "land", "be", [2.54, 49.49, 6.41, 51.51], 12, False),
-    ("be-wvl-z14", "West-Vlaanderen, straatniveau", STRAAT, "regio", "be", [2.54, 50.68, 3.47, 51.38], 14, False),
-    ("be-ovl-z14", "Oost-Vlaanderen, straatniveau", STRAAT, "regio", "be", [3.33, 50.71, 4.33, 51.35], 14, False),
-    ("be-ant-z14", "Antwerpen, straatniveau", STRAAT, "regio", "be", [4.10, 51.00, 5.25, 51.51], 14, False),
-    ("be-lim-z14", "Limburg, straatniveau", STRAAT, "regio", "be", [4.95, 50.68, 5.92, 51.26], 14, False),
-    ("be-bra-z14", "Brabant en Brussel, straatniveau", "Vlaams-Brabant, Brussel en Waals-Brabant", "regio", "be", [3.98, 50.53, 5.17, 51.06], 14, False),
-    ("be-hen-z14", "Henegouwen, straatniveau", STRAAT, "regio", "be", [3.10, 50.00, 4.62, 50.82], 14, False),
-    ("be-nam-z14", "Namen, straatniveau", STRAAT, "regio", "be", [4.30, 49.79, 5.41, 50.66], 14, False),
-    ("be-lui-z14", "Luik, straatniveau", STRAAT, "regio", "be", [5.02, 50.12, 6.41, 50.82], 14, False),
-    ("be-lux-z14", "Luxemburg (provincie), straatniveau", STRAAT, "regio", "be", [4.96, 49.49, 6.05, 50.43], 14, False),
+]
+# Zoomniveau voor straatniveau: 15 is het hoogste niveau in de Protomaps-builds; de kaart
+# vergroot daarboven verder uit (maxZoom in de kaartpagina).
+ZOOM_STRAAT = 15
+
+# België: vaste indeling per provincie (Brabant en Brussel samen); straatniveau gaat door de
+# planner, zodat een provincie die te groot is in vakken wordt opgedeeld.
+BE_REGIOS = [
+    {"id": "wvl", "naam": "West-Vlaanderen", "omschrijving": STRAAT, "bbox": [2.54, 50.68, 3.47, 51.38]},
+    {"id": "ovl", "naam": "Oost-Vlaanderen", "omschrijving": STRAAT, "bbox": [3.33, 50.71, 4.33, 51.35]},
+    {"id": "ant", "naam": "Antwerpen", "omschrijving": STRAAT, "bbox": [4.10, 51.00, 5.25, 51.51]},
+    {"id": "lim", "naam": "Limburg", "omschrijving": STRAAT, "bbox": [4.95, 50.68, 5.92, 51.26]},
+    {"id": "bra", "naam": "Brabant en Brussel", "omschrijving": "Vlaams-Brabant, Brussel en Waals-Brabant", "bbox": [3.98, 50.53, 5.17, 51.06]},
+    {"id": "hen", "naam": "Henegouwen", "omschrijving": STRAAT, "bbox": [3.10, 50.00, 4.62, 50.82]},
+    {"id": "nam", "naam": "Namen", "omschrijving": STRAAT, "bbox": [4.30, 49.79, 5.41, 50.66]},
+    {"id": "lui", "naam": "Luik", "omschrijving": STRAAT, "bbox": [5.02, 50.12, 6.41, 50.82]},
+    {"id": "lux", "naam": "Luxemburg (provincie)", "omschrijving": STRAAT, "bbox": [4.96, 49.49, 6.05, 50.43]},
 ]
 VELDEN = ("id", "naam", "omschrijving", "groep", "land", "bbox", "maxzoom", "zak")
 
@@ -225,18 +234,34 @@ def plan_land(code, build_url, log=print):
                          "land", r["bbox"], 12)
     # Straatniveau.
     if not hoofd:
-        met_opdeling(code, f"{landnaam}, straatniveau", STRAAT, "regio", bbox, 14)
+        met_opdeling(code, f"{landnaam}, straatniveau", STRAAT, "regio", bbox, ZOOM_STRAAT)
     for r in hoofd:
-        g = proefmeting(build_url, r["bbox"], 14)
+        g = proefmeting(build_url, r["bbox"], ZOOM_STRAAT)
         kinderen = [s for s in sub if s.get("ouder") == r["id"]]
         if g <= PAKKET_DOEL:
-            pakket(f"{code}-{r['id']}-z14", f"{r['naam']}, straatniveau", STRAAT, "regio", r["bbox"], 14, schatting=g)
+            pakket(f"{code}-{r['id']}-z{ZOOM_STRAAT}", f"{r['naam']}, straatniveau", STRAAT, "regio", r["bbox"], ZOOM_STRAAT, schatting=g)
         elif kinderen:
             for s in kinderen:
                 met_opdeling(f"{code}-{s['id']}", f"{s['naam']}, straatniveau", f"{STRAAT}; {hoofdnaam[r['id']]}",
-                             "regio", s["bbox"], 14)
+                             "regio", s["bbox"], ZOOM_STRAAT)
         else:
-            met_opdeling(f"{code}-{r['id']}", f"{r['naam']}, straatniveau", STRAAT, "regio", r["bbox"], 14)
+            met_opdeling(f"{code}-{r['id']}", f"{r['naam']}, straatniveau", STRAAT, "regio", r["bbox"], ZOOM_STRAAT)
+    return lijst
+
+
+def plan_belgie(build_url, log=print):
+    """België: overzicht en standaard staan vast; straatniveau per provincie, opgedeeld als nodig."""
+    lijst = []
+    for r in BE_REGIOS:
+        g = proefmeting(build_url, r["bbox"], ZOOM_STRAAT)
+        stukken = [("", r["bbox"], g)] if g <= PAKKET_DOEL else opdelen(build_url, r["bbox"], ZOOM_STRAAT, g)
+        for label, vak, gv in stukken:
+            vid = re.sub(r"[^a-z0-9]+", "-", label.lower()).strip("-")
+            pid = f"be-{r['id']}-{vid}-z{ZOOM_STRAAT}" if vid else f"be-{r['id']}-z{ZOOM_STRAAT}"
+            naam = f"{r['naam']} {label}, straatniveau" if label else f"{r['naam']}, straatniveau"
+            lijst.append({"id": pid, "naam": naam, "omschrijving": r["omschrijving"], "groep": "regio", "land": "be",
+                          "bbox": vak, "maxzoom": ZOOM_STRAAT, "zak": False, "schatting": gv})
+            log(f"  {pid:28} {gv / 1e6:7.0f} MB  {naam}")
     return lijst
 
 
@@ -247,7 +272,7 @@ def maak_plan(landen, build_url):
             plan = json.load(f)
     for code in landen:
         print(f"{code.upper()}: plannen")
-        plan["landen"][code] = plan_land(code, build_url)
+        plan["landen"][code] = plan_belgie(build_url) if code == "be" else plan_land(code, build_url)
     plan["gepland"] = dt.date.today().isoformat()
     plan["doel_bytes"] = PAKKET_DOEL
     plan["landen"] = dict(sorted(plan["landen"].items()))

@@ -1,5 +1,6 @@
 # Wekelijkse kaartlagen: haalt de lagen uit OpenStreetMap, de mogelijke
 # schuilplekken en de nucleaire zones, en opent per land een pull request met de nieuwe data.
+# verrijken.py voegt daarna de officiële bronnen en de eigen aanvullingen (data/eigen/) toe.
 # België komt uit Overpass; Nederland, Luxemburg, Frankrijk en Duitsland uit het
 # Geofabrik-extract (pipeline/pbf.py, vraagt osmium-tool).
 #
@@ -55,6 +56,16 @@ jobs:
       - name: Kaartlagen uit OpenStreetMap
         run: python3 pipeline/lagen.py "$LAND" $FORCEER
 
+      - name: Verrijken met officiële bronnen en eigen aanvullingen
+        run: python3 pipeline/verrijken.py "$LAND"
+
+      - name: Verschillen bewaren
+        uses: actions/upload-artifact@v4
+        with:
+          name: verschillen-${{ matrix.land }}
+          path: pipeline/out/*-verschillen.csv
+          if-no-files-found: ignore
+
       - name: Mogelijke schuilplekken
         run: python3 pipeline/schuilplekken.py "$LAND" $FORCEER
 
@@ -69,12 +80,13 @@ jobs:
             echo "tekst<<EINDE"
             echo "Wekelijkse kaartlagen voor $LAND, opgehaald op $(date -u +%Y-%m-%d)."
             echo
-            echo "| Laag | Aantal | Bytes |"
-            echo "| --- | ---: | ---: |"
-            jq -r '.lagen | to_entries[] | "| \(.key) | \(.value.aantal) | \(.value.bytes) |"' \
+            echo "| Laag | Aantal | Officieel | Nagekeken | OSM | Bytes |"
+            echo "| --- | ---: | ---: | ---: | ---: | ---: |"
+            jq -r '.lagen | to_entries[] | "| \(.key) | \(.value.aantal) | \(.value.officieel // "") | \(.value.nagekeken // "") | \(.value.osm // "") | \(.value.bytes) |"' \
               "site/public/data/$land/meta.json"
             echo
-            echo "Bron: © OpenStreetMap-bijdragers, ODbL. Kwaliteitscontrole (daling ≤ 5%) en budget zijn geslaagd."
+            echo "Bron: © OpenStreetMap-bijdragers, ODbL, aangevuld met de officiële bronnen in meta.json. Kwaliteitscontrole (daling ≤ 5%) en budget zijn geslaagd."
+            echo "De verschillen tussen OpenStreetMap en de officiële bronnen staan in het artefact verschillen-$LAND van deze run."
             echo "EINDE"
           } >> "$GITHUB_OUTPUT"
           echo "landklein=$land" >> "$GITHUB_OUTPUT"

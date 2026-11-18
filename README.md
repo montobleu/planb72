@@ -19,11 +19,13 @@ Fase 0–1: een werkende eerste versie voor **België**, uitgebreid met **Nederl
 | Landinfo Nederland, Luxemburg, Frankrijk, Duitsland | concept, wacht op nazicht door een landbeheerder |
 | Kaartlagen en kaartpakketten per land (overzicht, standaard, straatniveau per regio) | gebouwd |
 | Kaart: basiskaart België (PMTiles, tot zoom 9) en tien lagen uit OpenStreetMap | gebouwd |
+| Kaartlagen verrijkt met officiële bronnen en eigen, nagekeken aanvullingen; herkomst per punt; melden vanuit de app | gebouwd voor België, zie [docs/kaartdata.md](docs/kaartdata.md) |
 | Routeplanning te voet, fiets en auto, zonder internet (9 regio's) | gebouwd, zie [docs/routeplanning.md](docs/routeplanning.md) |
 | Nucleair: sites, zones, afstand en richting | gebouwd; coördinaten te controleren |
 | Schuilen: keuzehulp, checklist eigen huis, mogelijke schuilplekken | gebouwd |
 | Hulpmiddelen: voorraad, checklists, noodplan, SOS-lamp, morse, kompas, notities | gebouwd |
 | Eerste hulp | bewust leeg tot er toestemming en een medisch nalezer is |
+| Keuzehulp bij het downloaden (eigen land, buurlanden, kies of alles; per land een detailniveau) op website, app en startprogramma | gebouwd, zie [docs/downloaden.md](docs/downloaden.md) |
 | Startprogramma voor Linux, Mac, Windows | gebouwd, nog niet ondertekend |
 | Bronnenregister en nachtelijke bronnenronde | gebouwd |
 | Website in vier talen (nl, fr, de, en) | gebouwd; vertalingen na te lezen |
@@ -34,7 +36,7 @@ Wat er niet in zit en waarom: alles waarvoor nog toestemming nodig is (officiël
 ## Opbouw
 
 ```
-data/        landdata (be.json, nl.json, lu.json, fr.json, de.json) en het bronnenregister
+data/        landdata (be.json, nl.json, lu.json, fr.json, de.json), het bronnenregister en eigen aanvullingen op de kaart (data/eigen/)
 pipeline/    Python-scripts: kaartlagen uit OpenStreetMap, schuilplekken, nucleaire zones, basiskaart, routepakketten, bronnenronde
 site/        Astro-site: website op / en de offline web-app op /app/
   worker/    kleine Cloudflare Worker die de basiskaart uit R2 serveert (met Range-aanvragen)
