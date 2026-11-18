@@ -3,6 +3,8 @@ import App from '../../../../layouts/App.astro';
 import { LAGEN } from '../../../../lib/lagen';
 import { APP } from '../../../../i18n/app';
 import { taalPaden, taalVan } from '../../../../i18n/talen';
+import { landen } from '../../../../lib/data';
+const kaders = Object.fromEntries(landen.map((l) => [l.code.toLowerCase(), { bbox: l.bbox, centrum: l.centrum }]));
 export const getStaticPaths = taalPaden;
 const taal = taalVan(Astro.params);
 const t = APP[taal].kaart;
@@ -11,7 +13,7 @@ const groepen = [...new Set(LAGEN.map((l) => l.groep))];
 <App taal={taal} titel={t.titel} tab="kaart" volledig>
   <main id="inhoud" class="kaart-pagina">
     <h1 class="sr-only">{t.titel}</h1>
-    <div id="kaart" role="region" aria-label={t.titel}></div>
+    <div id="kaart" role="region" aria-label={t.titel} data-kaders={JSON.stringify(kaders)}></div>
     <div class="kaart-paneel">
       <details id="paneel" open>
         <summary>{t.lagen}</summary>
@@ -44,20 +46,24 @@ const groepen = [...new Set(LAGEN.map((l) => l.groep))];
   // De worker als eigen bestand meeleveren; MapLibre zoekt hem anders naast een bestand dat niet bestaat.
   import workerUrl from 'maplibre-gl/dist/maplibre-gl-worker.mjs?url';
   import { Protocol, PMTiles, FileSource } from 'pmtiles';
-  import { overzicht, opToestel } from '../../../../lib/kaarten';
+  import { overzicht, opToestel, kiesZichtbaar } from '../../../../lib/kaarten';
+  import { gekozenLanden } from '../../../../lib/landkeuze';
   import { layers, namedFlavor } from '@protomaps/basemaps';
   import type { FeatureCollection, Point } from 'geojson';
   import { LAGEN, SCHUIL_LABEL } from '../../../../lib/lagen';
   import { lees, bewaar, positie, afstandKm, richting, km } from '../../../../lib/app';
   import { getekendSchema, volgWijzigingen } from '../../../../lib/kleurschema';
-  import { klant, locale, paginaTaal, appPad } from '../../../../i18n/klant';
+  import { klant, locale, paginaTaal, appPad, pakketTekst } from '../../../../i18n/klant';
   const taal = paginaTaal();
   const tk = klant().kaart;
-  const naamVan = (p: { id: string; naam: string }) => klant().kaartpakketten[p.id]?.[0] ?? p.naam;
+  const naamVan = (p: { id: string; naam: string; omschrijving: string }) => pakketTekst(p)[0];
   const laagNaam = (l: (typeof LAGEN)[number]) => l.naam[taal];
 
-  const LAND = 'be';
-  const DATA = `/data/${LAND}`;
+  // De lagen van alle gekozen landen komen samen op één kaart.
+  const LANDEN = gekozenLanden();
+  const kaders: Record<string, { bbox: [number, number, number, number]; centrum: [number, number] }> =
+    JSON.parse(document.getElementById('kaart')!.dataset.kaders!);
+  document.addEventListener('pb72-landen', () => location.reload());
   const status = document.getElementById('kaart-status')!;
   maplibregl.setWorkerUrl(workerUrl);
   // Op een smal scherm begint het lagenpaneel dicht, zodat de kaart zichtbaar is.
@@ -69,26 +75,11 @@ const groepen = [...new Set(LAGEN.map((l) => l.groep))];
   // Een andere stijl vraagt een nieuwe kaart; herladen is eenvoudig en betrouwbaar.
   document.addEventListener('pb72-kleurschema', () => location.reload());
   volgWijzigingen();
-  // Basiskaart: stapel de kaartpakketten van grof naar fijn (Europa, België, regio's).
+  // Basiskaart: stapel de kaartpakketten van grof naar fijn (Europa, de gekozen landen, regio's).
   // Op het toestel bewaarde pakketten gaan voor; met verbinding vullen we aan van de server.
   const pakketten = await overzicht();
   const lokaal = await opToestel();
-  const RANG = { europa: 0, belgie: 1, regio: 2 } as const;
-  const gekozen = pakketten
-    .filter((p) => lokaal.has(p.id) || (navigator.onLine && (p.id === 'eu-z7' || p.id === 'be-z12')))
-    .sort((a, b) => RANG[a.groep] - RANG[b.groep] || a.maxzoom - b.maxzoom);
-  // Per groep (Europa, België) het fijnste pakket op het toestel, plus een fijner online pakket
-  // erbovenop als er verbinding is. Valt de verbinding weg, dan blijft de lokale kaart eronder zichtbaar.
-  // Regio's op straatniveau tellen allemaal.
-  const fijnste = (lijst: typeof gekozen) => lijst.reduce<(typeof gekozen)[number] | undefined>((a, b) => (!a || b.maxzoom > a.maxzoom ? b : a), undefined);
-  const zichtbaar: typeof gekozen = [];
-  for (const groep of ['europa', 'belgie'] as const) {
-    const lok = fijnste(gekozen.filter((p) => p.groep === groep && lokaal.has(p.id)));
-    const onl = fijnste(gekozen.filter((p) => p.groep === groep && !lokaal.has(p.id)));
-    if (lok) zichtbaar.push(lok);
-    if (onl && (!lok || onl.maxzoom > lok.maxzoom)) zichtbaar.push(onl);
-  }
-  zichtbaar.push(...gekozen.filter((p) => p.groep === 'regio'));
+  const zichtbaar = kiesZichtbaar(pakketten, lokaal, LANDEN);
 
   const bronnen: Record<string, maplibregl.SourceSpecification> = {};
   const basislagen: maplibregl.LayerSpecification[] = [{ id: 'achtergrond', type: 'background', paint: { 'background-color': licht ? '#e9ecef' : '#1b1f24' } }];
@@ -101,7 +92,8 @@ const groepen = [...new Set(LAGEN.map((l) => l.groep))];
       protocol.add(pm);
       url = `pmtiles://${bestand.name}`;
     }
-    bronnen[p.id] = { type: 'vector', url, attribution: '© <a href="https://openstreetmap.org/copyright">OpenStreetMap</a> · <a href="https://protomaps.com">Protomaps</a>' };
+    // bounds: tegels buiten het pakket worden niet gevraagd.
+    bronnen[p.id] = { type: 'vector', url, bounds: p.bbox, attribution: '© <a href="https://openstreetmap.org/copyright">OpenStreetMap</a> · <a href="https://protomaps.com">Protomaps</a>' };
     for (const laag of layers(p.id, smaak, { lang: taal })) {
       if (laag.type === 'background') continue;
       basislagen.push({ ...laag, id: `${p.id}-${laag.id}` } as maplibregl.LayerSpecification);
@@ -122,8 +114,8 @@ const groepen = [...new Set(LAGEN.map((l) => l.groep))];
   const kaart = new maplibregl.Map({
     container: 'kaart',
     style: stijl,
-    center: bewaardBeeld?.c ?? [4.47, 50.64],
-    zoom: bewaardBeeld?.z ?? 7,
+    center: bewaardBeeld?.c ?? kaders[LANDEN[0]]?.centrum ?? [4.47, 50.64],
+    zoom: bewaardBeeld?.z ?? 6.5,
     maxZoom: 18,
     attributionControl: { compact: true },
     fadeDuration: 0,
@@ -151,11 +143,32 @@ const groepen = [...new Set(LAGEN.map((l) => l.groep))];
 
   const geladen = new Map<string, FeatureCollection>();
 
+  // Eén laag voor alle gekozen landen samen. Punten bij een grens staan soms in twee landen;
+  // die tellen maar één keer. Nucleaire zones blijven per land, want elk land plant zijn eigen zones.
   async function laad(id: string) {
     if (geladen.has(id)) return geladen.get(id)!;
-    const r = await fetch(`${DATA}/${id}.geojson`);
-    if (!r.ok) throw new Error(`${id}: ${r.status}`);
-    const fc = (await r.json()) as FeatureCollection;
+    // Een land waarvan de laag niet op het toestel staat (en geen verbinding) slaan we over.
+    const delen = await Promise.all(LANDEN.map(async (c) => {
+      try {
+        const r = await fetch(`/data/${c}/${id}.geojson`);
+        return r.ok ? ((await r.json()) as FeatureCollection).features : null;
+      } catch {
+        return null;
+      }
+    }));
+    if (delen.every((d) => d === null)) throw new Error(`${id}: niet beschikbaar`);
+    const gezien = new Set<string>();
+    const features = delen.flatMap((d) => d ?? []).filter((f) => {
+      const p = f.properties as Record<string, any> | null;
+      const sleutel = id === 'nucleair'
+        ? (f.geometry.type === 'Point' ? `p:${p?.site}` : `z:${p?.site}:${p?.zone}:${p?.km}`)
+        : String(p?.id ?? '');
+      if (!sleutel) return true;
+      if (gezien.has(sleutel)) return false;
+      gezien.add(sleutel);
+      return true;
+    });
+    const fc: FeatureCollection = { type: 'FeatureCollection', features };
     geladen.set(id, fc);
     const teller = document.querySelector(`[data-aantal="${id}"]`);
     if (teller) teller.textContent = `(${fc.features.length.toLocaleString(locale())})`;
@@ -236,7 +249,10 @@ const groepen = [...new Set(LAGEN.map((l) => l.groep))];
 
   kaart.on('load', async () => {
     for (const v of vinkjes) await zetLaag(v.dataset.laag!, v.checked);
-    if (vraag === 'nucleair') kaart.fitBounds([[2.0, 49.3], [6.5, 51.6]], { padding: 20 });
+    if (vraag === 'nucleair') {
+      const b = LANDEN.map((c) => kaders[c]?.bbox).filter(Boolean);
+      if (b.length) kaart.fitBounds([[Math.min(...b.map((x) => x[0])), Math.min(...b.map((x) => x[1]))], [Math.max(...b.map((x) => x[2])), Math.max(...b.map((x) => x[3]))]], { padding: 20 });
+    }
   });
 
   vinkjes.forEach((v) =>

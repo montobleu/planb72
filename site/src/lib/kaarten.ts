@@ -8,7 +8,10 @@ export type Kaartpakket = {
   id: string;
   naam: string;
   omschrijving: string;
-  groep: 'europa' | 'belgie' | 'regio';
+  /** europa: heel Europa; land: overzicht en standaard van een land (soms per regio); regio: straatniveau. */
+  groep: 'europa' | 'land' | 'regio';
+  /** Landcode in kleine letters (be, nl, ...); ontbreekt bij Europa. */
+  land?: string;
   bbox: [number, number, number, number];
   maxzoom: number;
   zak: boolean;
@@ -21,13 +24,16 @@ const MAP = 'kaarten';
 const CACHE = 'pb72-pakket-kaarten';
 
 export async function overzicht(): Promise<Kaartpakket[]> {
-  try {
-    const r = await fetch('/data/kaarten.json');
-    if (!r.ok) return [];
-    return (await r.json()).pakketten as Kaartpakket[];
-  } catch {
-    return [];
+  // Met verbinding de verse lijst: een basispakket bewaart ook kaarten.json, en die kopie kan
+  // ouder zijn dan de app. Zonder verbinding (of als dat mislukt) de bewaarde lijst.
+  const pogingen: RequestInit[] = navigator.onLine ? [{ cache: 'no-store' }, {}] : [{}];
+  for (const opties of pogingen) {
+    try {
+      const r = await fetch('/data/kaarten.json', opties);
+      if (r.ok) return (await r.json()).pakketten as Kaartpakket[];
+    } catch {}
   }
+  return [];
 }
 
 export async function opfsMap(mapnaam = MAP): Promise<FileSystemDirectoryHandle | null> {
@@ -131,4 +137,33 @@ export function mb(bytes: number) {
   return bytes >= 1e9
     ? `${(bytes / 1073741824).toLocaleString(locale(), { maximumFractionDigits: 1 })} GB`
     : `${Math.max(1, Math.round(bytes / 1048576)).toLocaleString(locale())} MB`;
+}
+
+/**
+ * Welke pakketten de kaart toont, van grof naar fijn.
+ * - Europa: het fijnste pakket op het toestel, plus een fijner online pakket erbovenop als er
+ *   verbinding is. Valt de verbinding weg, dan blijft de lokale kaart eronder zichtbaar.
+ * - Per gekozen land: het overzicht en de standaardkaart. Een groot land heeft de standaardkaart
+ *   in stukken per regio; dan blijft het overzicht eronder voor wat niet gedownload is.
+ * - Straatniveau: alles wat op het toestel staat.
+ */
+export function kiesZichtbaar(pakketten: Kaartpakket[], lokaal: Map<string, unknown>, landen: string[], online = navigator.onLine): Kaartpakket[] {
+  const fijnste = (lijst: Kaartpakket[]) => lijst.reduce<Kaartpakket | undefined>((a, b) => (!a || b.maxzoom > a.maxzoom ? b : a), undefined);
+  const zichtbaar: Kaartpakket[] = [];
+  const eu = pakketten.filter((p) => p.groep === 'europa');
+  const lok = fijnste(eu.filter((p) => lokaal.has(p.id)));
+  const onl = online ? eu.find((p) => p.id === 'eu-z7' && !lokaal.has(p.id)) : undefined;
+  if (lok) zichtbaar.push(lok);
+  if (onl && (!lok || onl.maxzoom > lok.maxzoom)) zichtbaar.push(onl);
+  for (const c of landen) {
+    const eigen = pakketten.filter((p) => p.groep === 'land' && p.land === c);
+    const standaard = eigen.filter((p) => p.maxzoom === 12);
+    const lokStandaard = standaard.filter((p) => lokaal.has(p.id));
+    const onlStandaard = online ? standaard.filter((p) => !lokaal.has(p.id)) : [];
+    const overzichtLok = eigen.filter((p) => p.maxzoom < 12 && lokaal.has(p.id));
+    if (!(standaard.length === 1 && lokStandaard.length)) zichtbaar.push(...overzichtLok);
+    zichtbaar.push(...lokStandaard, ...onlStandaard);
+  }
+  zichtbaar.push(...pakketten.filter((p) => p.groep === 'regio' && lokaal.has(p.id)));
+  return zichtbaar.sort((a, b) => a.maxzoom - b.maxzoom);
 }

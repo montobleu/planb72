@@ -1,5 +1,5 @@
 {
-  "_uitleg": "Opslagbudget per blok in bytes (ongecomprimeerde GeoJSON). De build faalt bij overschrijding. Limieten zijn ongeveer twee keer de meting van fase 0 (november 2026, België); per land kan je onder 'landen' afwijken.",
+  "_uitleg": "Opslagbudget per blok in bytes (ongecomprimeerde GeoJSON). De build faalt bij overschrijding. Limieten zijn ongeveer twee keer de meting van fase 0 (november 2026, België); per land staat onder 'landen' -> code -> 'lagen' twee keer de meting van november 2026. Onder 'landen' -> code: 'bron': 'geofabrik' haalt het land uit het Geofabrik-extract (pipeline/pbf.py) in plaats van Overpass; 'per_regio' (admin_level) haalt een land via Overpass per regio op; 'plaats': 'dichtstbij' vult de plaats van schuilplekken aan met de dichtstbijzijnde plaatsnaam in plaats van de gemeentegrenzen.",
   "standaard_laag": 2000000,
   "lagen": {
     "ziekenhuizen": 200000,
@@ -15,5 +15,74 @@
     "nucleair": 300000
   },
   "basiskaart_overzicht_mb": 20,
-  "landen": {}
+  "landen": {
+    "DE": {
+      "bron": "geofabrik",
+      "per_regio": "4",
+      "plaats": "dichtstbij",
+      "lagen": {
+        "aed": 8500000,
+        "apotheken": 9200000,
+        "brandweer": 13000000,
+        "dierenarts": 2900000,
+        "drinkwater": 3600000,
+        "medisch": 24000000,
+        "nucleair": 54000,
+        "overheid": 4300000,
+        "politie": 1800000,
+        "schuilplekken": 23000000,
+        "ziekenhuizen": 1200000
+      }
+    },
+    "FR": {
+      "bron": "geofabrik",
+      "per_regio": "4",
+      "plaats": "dichtstbij",
+      "lagen": {
+        "aed": 11000000,
+        "apotheken": 9200000,
+        "brandweer": 2800000,
+        "dierenarts": 2000000,
+        "drinkwater": 9600000,
+        "medisch": 7100000,
+        "nucleair": 140000,
+        "overheid": 20000000,
+        "politie": 2900000,
+        "schuilplekken": 14000000,
+        "ziekenhuizen": 1200000
+      }
+    },
+    "NL": {
+      "bron": "geofabrik",
+      "lagen": {
+        "aed": 1600000,
+        "apotheken": 850000,
+        "brandweer": 470000,
+        "dierenarts": 360000,
+        "drinkwater": 1100000,
+        "medisch": 1600000,
+        "nucleair": 43000,
+        "overheid": 240000,
+        "politie": 240000,
+        "schuilplekken": 2600000,
+        "ziekenhuizen": 77000
+      }
+    },
+    "LU": {
+      "bron": "geofabrik",
+      "lagen": {
+        "aed": 83000,
+        "apotheken": 59000,
+        "brandweer": 59000,
+        "dierenarts": 24000,
+        "drinkwater": 65000,
+        "medisch": 110000,
+        "nucleair": 18000,
+        "overheid": 54000,
+        "politie": 32000,
+        "schuilplekken": 220000,
+        "ziekenhuizen": 6500
+      }
+    }
+  }
 }

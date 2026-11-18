@@ -1,0 +1,2322 @@
+{
+ "DE": [
+  {
+   "id": "bb",
+   "naam": "Brandenburg",
+   "naam_lokaal": "Brandenburg",
+   "niveau": "4",
+   "iso": "DE-BB",
+   "osm": "relation/62504",
+   "bbox": [
+    11.266,
+    51.359,
+    14.766,
+    53.559
+   ]
+  },
+  {
+   "id": "be",
+   "naam": "Berlijn",
+   "naam_lokaal": "Berlin",
+   "niveau": "4",
+   "iso": "DE-BE",
+   "osm": "relation/62422",
+   "bbox": [
+    13.088,
+    52.338,
+    13.761,
+    52.676
+   ]
+  },
+  {
+   "id": "bw",
+   "naam": "Baden-Württemberg",
+   "naam_lokaal": "Baden-Württemberg",
+   "niveau": "4",
+   "iso": "DE-BW",
+   "osm": "relation/62611",
+   "bbox": [
+    7.512,
+    47.532,
+    10.496,
+    49.791
+   ]
+  },
+  {
+   "id": "by",
+   "naam": "Beieren",
+   "naam_lokaal": "Bayern",
+   "niveau": "4",
+   "iso": "DE-BY",
+   "osm": "relation/2145268",
+   "bbox": [
+    8.976,
+    47.27,
+    13.84,
+    50.565
+   ]
+  },
+  {
+   "id": "hb",
+   "naam": "Bremen",
+   "naam_lokaal": "Bremen",
+   "niveau": "4",
+   "iso": "DE-HB",
+   "osm": "relation/62718",
+   "bbox": [
+    8.482,
+    53.011,
+    8.991,
+    53.61
+   ]
+  },
+  {
+   "id": "he",
+   "naam": "Hessen",
+   "naam_lokaal": "Hessen",
+   "niveau": "4",
+   "iso": "DE-HE",
+   "osm": "relation/62650",
+   "bbox": [
+    7.772,
+    49.395,
+    10.236,
+    51.658
+   ]
+  },
+  {
+   "id": "hh",
+   "naam": "Hamburg",
+   "naam_lokaal": "Hamburg",
+   "niveau": "4",
+   "iso": "DE-HH",
+   "osm": "relation/62782",
+   "bbox": [
+    8.104,
+    53.395,
+    10.325,
+    54.028
+   ]
+  },
+  {
+   "id": "mv",
+   "naam": "Mecklenburg-Voor-Pommeren",
+   "naam_lokaal": "Mecklenburg-Vorpommern",
+   "niveau": "4",
+   "iso": "DE-MV",
+   "osm": "relation/28322",
+   "bbox": [
+    10.594,
+    53.11,
+    14.412,
+    54.885
+   ]
+  },
+  {
+   "id": "ni",
+   "naam": "Nedersaksen",
+   "naam_lokaal": "Niedersachsen",
+   "niveau": "4",
+   "iso": "DE-NI",
+   "osm": "relation/62771",
+   "bbox": [
+    6.346,
+    51.295,
+    11.598,
+    54.138
+   ]
+  },
+  {
+   "id": "nw",
+   "naam": "Noordrijn-Westfalen",
+   "naam_lokaal": "Nordrhein-Westfalen",
+   "niveau": "4",
+   "iso": "DE-NW",
+   "osm": "relation/62761",
+   "bbox": [
+    5.866,
+    50.323,
+    9.462,
+    52.531
+   ]
+  },
+  {
+   "id": "rp",
+   "naam": "Rijnland-Palts",
+   "naam_lokaal": "Rheinland-Pfalz",
+   "niveau": "4",
+   "iso": "DE-RP",
+   "osm": "relation/62341",
+   "bbox": [
+    6.112,
+    48.966,
+    8.508,
+    50.942
+   ]
+  },
+  {
+   "id": "sh",
+   "naam": "Sleeswijk-Holstein",
+   "naam_lokaal": "Schleswig-Holstein",
+   "niveau": "4",
+   "iso": "DE-SH",
+   "osm": "relation/51529",
+   "bbox": [
+    7.521,
+    53.36,
+    11.672,
+    55.099
+   ]
+  },
+  {
+   "id": "sl",
+   "naam": "Saarland",
+   "naam_lokaal": "Saarland",
+   "niveau": "4",
+   "iso": "DE-SL",
+   "osm": "relation/62372",
+   "bbox": [
+    6.356,
+    49.112,
+    7.405,
+    49.639
+   ]
+  },
+  {
+   "id": "sn",
+   "naam": "Saksen",
+   "naam_lokaal": "Sachsen",
+   "niveau": "4",
+   "iso": "DE-SN",
+   "osm": "relation/62467",
+   "bbox": [
+    11.871,
+    50.171,
+    15.042,
+    51.685
+   ]
+  },
+  {
+   "id": "st",
+   "naam": "Saksen-Anhalt",
+   "naam_lokaal": "Sachsen-Anhalt",
+   "niveau": "4",
+   "iso": "DE-ST",
+   "osm": "relation/62607",
+   "bbox": [
+    10.561,
+    50.938,
+    13.187,
+    53.042
+   ]
+  },
+  {
+   "id": "th",
+   "naam": "Thüringen",
+   "naam_lokaal": "Thüringen",
+   "niveau": "4",
+   "iso": "DE-TH",
+   "osm": "relation/62366",
+   "bbox": [
+    9.877,
+    50.204,
+    12.654,
+    51.649
+   ]
+  },
+  {
+   "id": "freiburg",
+   "naam": "Freiburg",
+   "naam_lokaal": "Regierungsbezirk Freiburg",
+   "niveau": "5",
+   "iso": null,
+   "osm": "relation/2106112",
+   "bbox": [
+    7.512,
+    47.532,
+    9.218,
+    48.718
+   ],
+   "ouder": "bw"
+  },
+  {
+   "id": "karlsruhe",
+   "naam": "Karlsruhe",
+   "naam_lokaal": "Regierungsbezirk Karlsruhe",
+   "niveau": "5",
+   "iso": null,
+   "osm": "relation/22027",
+   "bbox": [
+    7.959,
+    48.301,
+    9.604,
+    49.664
+   ],
+   "ouder": "bw"
+  },
+  {
+   "id": "stuttgart",
+   "naam": "Stuttgart",
+   "naam_lokaal": "Regierungsbezirk Stuttgart",
+   "niveau": "5",
+   "iso": null,
+   "osm": "relation/22041",
+   "bbox": [
+    8.746,
+    48.497,
+    10.496,
+    49.791
+   ],
+   "ouder": "bw"
+  },
+  {
+   "id": "tubingen",
+   "naam": "Tübingen",
+   "naam_lokaal": "Regierungsbezirk Tübingen",
+   "niveau": "5",
+   "iso": null,
+   "osm": "relation/2811874",
+   "bbox": [
+    8.649,
+    47.58,
+    10.242,
+    48.632
+   ],
+   "ouder": "bw"
+  },
+  {
+   "id": "mittelfranken",
+   "naam": "Mittelfranken",
+   "naam_lokaal": "Mittelfranken",
+   "niveau": "5",
+   "iso": null,
+   "osm": "relation/17614",
+   "bbox": [
+    10.07,
+    48.858,
+    11.602,
+    49.788
+   ],
+   "ouder": "by"
+  },
+  {
+   "id": "niederbayern",
+   "naam": "Niederbayern",
+   "naam_lokaal": "Niederbayern",
+   "niveau": "5",
+   "iso": null,
+   "osm": "relation/17593",
+   "bbox": [
+    11.595,
+    48.207,
+    13.84,
+    49.174
+   ],
+   "ouder": "by"
+  },
+  {
+   "id": "oberbayern",
+   "naam": "Oberbayern",
+   "naam_lokaal": "Oberbayern",
+   "niveau": "5",
+   "iso": null,
+   "osm": "relation/2145274",
+   "bbox": [
+    10.716,
+    47.393,
+    13.099,
+    49.088
+   ],
+   "ouder": "by"
+  },
+  {
+   "id": "oberfranken",
+   "naam": "Oberfranken",
+   "naam_lokaal": "Oberfranken",
+   "niveau": "5",
+   "iso": null,
+   "osm": "relation/17592",
+   "bbox": [
+    10.44,
+    49.587,
+    12.275,
+    50.523
+   ],
+   "ouder": "by"
+  },
+  {
+   "id": "oberpfalz",
+   "naam": "Oberpfalz",
+   "naam_lokaal": "Oberpfalz",
+   "niveau": "5",
+   "iso": null,
+   "osm": "relation/17596",
+   "bbox": [
+    11.186,
+    48.765,
+    13.171,
+    50.061
+   ],
+   "ouder": "by"
+  },
+  {
+   "id": "schwaben",
+   "naam": "Zwaben",
+   "naam_lokaal": "Schwaben",
+   "niveau": "5",
+   "iso": null,
+   "osm": "relation/17657",
+   "bbox": [
+    9.602,
+    47.27,
+    11.312,
+    49.036
+   ],
+   "ouder": "by"
+  },
+  {
+   "id": "unterfranken",
+   "naam": "Unterfranken",
+   "naam_lokaal": "Unterfranken",
+   "niveau": "5",
+   "iso": null,
+   "osm": "relation/17585",
+   "bbox": [
+    8.976,
+    49.48,
+    10.881,
+    50.565
+   ],
+   "ouder": "by"
+  },
+  {
+   "id": "darmstadt",
+   "naam": "Darmstadt",
+   "naam_lokaal": "Regierungsbezirk Darmstadt",
+   "niveau": "5",
+   "iso": null,
+   "osm": "relation/286590",
+   "bbox": [
+    7.772,
+    49.395,
+    9.749,
+    50.5
+   ],
+   "ouder": "he"
+  },
+  {
+   "id": "giessen",
+   "naam": "Gießen",
+   "naam_lokaal": "Regierungsbezirk Gießen",
+   "niveau": "5",
+   "iso": null,
+   "osm": "relation/286618",
+   "bbox": [
+    7.964,
+    50.264,
+    9.65,
+    50.997
+   ],
+   "ouder": "he"
+  },
+  {
+   "id": "kassel",
+   "naam": "Kassel",
+   "naam_lokaal": "Regierungsbezirk Kassel",
+   "niveau": "5",
+   "iso": null,
+   "osm": "relation/286675",
+   "bbox": [
+    8.473,
+    50.356,
+    10.236,
+    51.658
+   ],
+   "ouder": "he"
+  },
+  {
+   "id": "arnsberg",
+   "naam": "Arnsberg",
+   "naam_lokaal": "Regierungsbezirk Arnsberg",
+   "niveau": "5",
+   "iso": null,
+   "osm": "relation/73340",
+   "bbox": [
+    7.102,
+    50.685,
+    8.971,
+    51.745
+   ],
+   "ouder": "nw"
+  },
+  {
+   "id": "detmold",
+   "naam": "Detmold",
+   "naam_lokaal": "Regierungsbezirk Detmold",
+   "niveau": "5",
+   "iso": null,
+   "osm": "relation/73347",
+   "bbox": [
+    8.076,
+    51.442,
+    9.462,
+    52.531
+   ],
+   "ouder": "nw"
+  },
+  {
+   "id": "dusseldorf",
+   "naam": "Düsseldorf",
+   "naam_lokaal": "Regierungsbezirk Düsseldorf",
+   "niveau": "5",
+   "iso": null,
+   "osm": "relation/63306",
+   "bbox": [
+    5.945,
+    51.015,
+    7.313,
+    51.905
+   ],
+   "ouder": "nw"
+  },
+  {
+   "id": "koln",
+   "naam": "Köln",
+   "naam_lokaal": "Regierungsbezirk Köln",
+   "niveau": "5",
+   "iso": null,
+   "osm": "relation/72022",
+   "bbox": [
+    5.866,
+    50.323,
+    7.792,
+    51.251
+   ],
+   "ouder": "nw"
+  },
+  {
+   "id": "munster",
+   "naam": "Münster",
+   "naam_lokaal": "Regierungsbezirk Münster",
+   "niveau": "5",
+   "iso": null,
+   "osm": "relation/63594",
+   "bbox": [
+    6.387,
+    51.481,
+    8.32,
+    52.475
+   ],
+   "ouder": "nw"
+  }
+ ],
+ "NL": [
+  {
+   "id": "dr",
+   "naam": "Drenthe",
+   "naam_lokaal": "Drenthe",
+   "niveau": "4",
+   "iso": "NL-DR",
+   "osm": "relation/47540",
+   "bbox": [
+    6.12,
+    52.612,
+    7.093,
+    53.204
+   ]
+  },
+  {
+   "id": "fl",
+   "naam": "Flevoland",
+   "naam_lokaal": "Flevoland",
+   "niveau": "4",
+   "iso": "NL-FL",
+   "osm": "relation/47407",
+   "bbox": [
+    5.06,
+    52.25,
+    6.017,
+    52.844
+   ]
+  },
+  {
+   "id": "fr",
+   "naam": "Fryslân",
+   "naam_lokaal": "Fryslân",
+   "niveau": "4",
+   "iso": "NL-FR",
+   "osm": "relation/47381",
+   "bbox": [
+    4.818,
+    52.765,
+    6.428,
+    53.54
+   ]
+  },
+  {
+   "id": "ge",
+   "naam": "Gelderland",
+   "naam_lokaal": "Gelderland",
+   "niveau": "4",
+   "iso": "NL-GE",
+   "osm": "relation/47554",
+   "bbox": [
+    4.994,
+    51.734,
+    6.833,
+    52.522
+   ]
+  },
+  {
+   "id": "gr",
+   "naam": "Groningen",
+   "naam_lokaal": "Groningen",
+   "niveau": "4",
+   "iso": "NL-GR",
+   "osm": "relation/47826",
+   "bbox": [
+    6.167,
+    52.838,
+    7.227,
+    53.576
+   ]
+  },
+  {
+   "id": "li",
+   "naam": "Limburg",
+   "naam_lokaal": "Limburg",
+   "niveau": "4",
+   "iso": "NL-LI",
+   "osm": "relation/47793",
+   "bbox": [
+    5.566,
+    50.75,
+    6.227,
+    51.779
+   ]
+  },
+  {
+   "id": "nb",
+   "naam": "Noord-Brabant",
+   "naam_lokaal": "Noord-Brabant",
+   "niveau": "4",
+   "iso": "NL-NB",
+   "osm": "relation/47696",
+   "bbox": [
+    4.19,
+    51.221,
+    6.048,
+    51.831
+   ]
+  },
+  {
+   "id": "nh",
+   "naam": "Noord-Holland",
+   "naam_lokaal": "Noord-Holland",
+   "niveau": "4",
+   "iso": "NL-NH",
+   "osm": "relation/47654",
+   "bbox": [
+    4.478,
+    52.166,
+    5.377,
+    53.214
+   ]
+  },
+  {
+   "id": "ov",
+   "naam": "Overijssel",
+   "naam_lokaal": "Overijssel",
+   "niveau": "4",
+   "iso": "NL-OV",
+   "osm": "relation/47608",
+   "bbox": [
+    5.778,
+    52.118,
+    7.073,
+    52.854
+   ]
+  },
+  {
+   "id": "ut",
+   "naam": "Utrecht",
+   "naam_lokaal": "Utrecht",
+   "niveau": "4",
+   "iso": "NL-UT",
+   "osm": "relation/47667",
+   "bbox": [
+    4.792,
+    51.857,
+    5.627,
+    52.304
+   ]
+  },
+  {
+   "id": "ze",
+   "naam": "Zeeland",
+   "naam_lokaal": "Zeeland",
+   "niveau": "4",
+   "iso": "NL-ZE",
+   "osm": "relation/47806",
+   "bbox": [
+    3.308,
+    51.2,
+    4.277,
+    51.782
+   ]
+  },
+  {
+   "id": "zh",
+   "naam": "Zuid-Holland",
+   "naam_lokaal": "Zuid-Holland",
+   "niveau": "4",
+   "iso": "NL-ZH",
+   "osm": "relation/47772",
+   "bbox": [
+    3.774,
+    51.644,
+    5.031,
+    52.333
+   ]
+  }
+ ],
+ "FR": [
+  {
+   "id": "20r",
+   "naam": "Corsica",
+   "naam_lokaal": "Corse",
+   "niveau": "4",
+   "iso": "FR-20R",
+   "osm": "relation/76910",
+   "bbox": [
+    8.535,
+    41.333,
+    9.56,
+    43.028
+   ]
+  },
+  {
+   "id": "ara",
+   "naam": "Auvergne-Rhône-Alpes",
+   "naam_lokaal": "Auvergne-Rhône-Alpes",
+   "niveau": "4",
+   "iso": "FR-ARA",
+   "osm": "relation/3792877",
+   "bbox": [
+    2.063,
+    44.115,
+    7.186,
+    46.804
+   ]
+  },
+  {
+   "id": "bfc",
+   "naam": "Bourgondië-Franche-Comté",
+   "naam_lokaal": "Bourgogne-Franche-Comté",
+   "niveau": "4",
+   "iso": "FR-BFC",
+   "osm": "relation/3792878",
+   "bbox": [
+    2.844,
+    46.156,
+    7.143,
+    48.4
+   ]
+  },
+  {
+   "id": "bre",
+   "naam": "Bretagne",
+   "naam_lokaal": "Bretagne",
+   "niveau": "4",
+   "iso": "FR-BRE",
+   "osm": "relation/102740",
+   "bbox": [
+    -5.144,
+    47.278,
+    -1.016,
+    49.113
+   ]
+  },
+  {
+   "id": "cvl",
+   "naam": "Centre-Val de Loire",
+   "naam_lokaal": "Centre-Val de Loire",
+   "niveau": "4",
+   "iso": "FR-CVL",
+   "osm": "relation/8640",
+   "bbox": [
+    0.053,
+    46.347,
+    3.129,
+    48.941
+   ]
+  },
+  {
+   "id": "ges",
+   "naam": "Grand Est",
+   "naam_lokaal": "Grand Est",
+   "niveau": "4",
+   "iso": "FR-GES",
+   "osm": "relation/3792876",
+   "bbox": [
+    3.384,
+    47.42,
+    8.233,
+    50.169
+   ]
+  },
+  {
+   "id": "hdf",
+   "naam": "Hauts-de-France",
+   "naam_lokaal": "Hauts-de-France",
+   "niveau": "4",
+   "iso": "FR-HDF",
+   "osm": "relation/4217435",
+   "bbox": [
+    1.38,
+    48.837,
+    4.256,
+    51.089
+   ]
+  },
+  {
+   "id": "idf",
+   "naam": "Île-de-France",
+   "naam_lokaal": "Île-de-France",
+   "niveau": "4",
+   "iso": "FR-IDF",
+   "osm": "relation/8649",
+   "bbox": [
+    1.446,
+    48.12,
+    3.559,
+    49.241
+   ]
+  },
+  {
+   "id": "naq",
+   "naam": "Nieuw-Aquitanië",
+   "naam_lokaal": "Nouvelle-Aquitaine",
+   "niveau": "4",
+   "iso": "FR-NAQ",
+   "osm": "relation/3792880",
+   "bbox": [
+    -1.791,
+    42.778,
+    2.611,
+    47.176
+   ]
+  },
+  {
+   "id": "nor",
+   "naam": "Normandië",
+   "naam_lokaal": "Normandie",
+   "niveau": "4",
+   "iso": "FR-NOR",
+   "osm": "relation/3793170",
+   "bbox": [
+    -1.955,
+    48.179,
+    1.803,
+    50.072
+   ]
+  },
+  {
+   "id": "occ",
+   "naam": "Occitanië",
+   "naam_lokaal": "Occitanie",
+   "niveau": "4",
+   "iso": "FR-OCC",
+   "osm": "relation/3792883",
+   "bbox": [
+    -0.327,
+    42.333,
+    4.846,
+    45.047
+   ]
+  },
+  {
+   "id": "pac",
+   "naam": "Provence-Alpes-Côte d'Azur",
+   "naam_lokaal": "Provence-Alpes-Côte d'Azur",
+   "niveau": "4",
+   "iso": "FR-PAC",
+   "osm": "relation/8654",
+   "bbox": [
+    4.23,
+    42.982,
+    7.719,
+    45.127
+   ]
+  },
+  {
+   "id": "pdl",
+   "naam": "Pays de la Loire",
+   "naam_lokaal": "Pays de la Loire",
+   "niveau": "4",
+   "iso": "FR-PDL",
+   "osm": "relation/8650",
+   "bbox": [
+    -2.628,
+    46.267,
+    0.917,
+    48.568
+   ]
+  },
+  {
+   "id": "2a",
+   "naam": "Corse-du-Sud",
+   "naam_lokaal": "Corse-du-Sud",
+   "niveau": "6",
+   "iso": "FR-2A",
+   "osm": "relation/76932",
+   "bbox": [
+    8.535,
+    41.333,
+    9.408,
+    42.382
+   ],
+   "ouder": "20r"
+  },
+  {
+   "id": "2b",
+   "naam": "Haute-Corse",
+   "naam_lokaal": "Haute-Corse",
+   "niveau": "6",
+   "iso": "FR-2B",
+   "osm": "relation/76931",
+   "bbox": [
+    8.574,
+    41.832,
+    9.56,
+    43.028
+   ],
+   "ouder": "20r"
+  },
+  {
+   "id": "01",
+   "naam": "Ain",
+   "naam_lokaal": "Ain",
+   "niveau": "6",
+   "iso": "FR-01",
+   "osm": "relation/7387",
+   "bbox": [
+    4.728,
+    45.611,
+    6.17,
+    46.52
+   ],
+   "ouder": "ara"
+  },
+  {
+   "id": "03",
+   "naam": "Allier",
+   "naam_lokaal": "Allier",
+   "niveau": "6",
+   "iso": "FR-03",
+   "osm": "relation/1450201",
+   "bbox": [
+    2.277,
+    45.931,
+    4.006,
+    46.804
+   ],
+   "ouder": "ara"
+  },
+  {
+   "id": "07",
+   "naam": "Ardèche",
+   "naam_lokaal": "Ardèche",
+   "niveau": "6",
+   "iso": "FR-07",
+   "osm": "relation/7430",
+   "bbox": [
+    3.861,
+    44.264,
+    4.886,
+    45.366
+   ],
+   "ouder": "ara"
+  },
+  {
+   "id": "15",
+   "naam": "Cantal",
+   "naam_lokaal": "Cantal",
+   "niveau": "6",
+   "iso": "FR-15",
+   "osm": "relation/7381",
+   "bbox": [
+    2.063,
+    44.616,
+    3.371,
+    45.484
+   ],
+   "ouder": "ara"
+  },
+  {
+   "id": "26",
+   "naam": "Drôme",
+   "naam_lokaal": "Drôme",
+   "niveau": "6",
+   "iso": "FR-26",
+   "osm": "relation/7434",
+   "bbox": [
+    4.647,
+    44.115,
+    5.83,
+    45.344
+   ],
+   "ouder": "ara"
+  },
+  {
+   "id": "38",
+   "naam": "Isère",
+   "naam_lokaal": "Isère",
+   "niveau": "6",
+   "iso": "FR-38",
+   "osm": "relation/7437",
+   "bbox": [
+    4.742,
+    44.696,
+    6.359,
+    45.884
+   ],
+   "ouder": "ara"
+  },
+  {
+   "id": "42",
+   "naam": "Loire",
+   "naam_lokaal": "Loire",
+   "niveau": "6",
+   "iso": "FR-42",
+   "osm": "relation/7420",
+   "bbox": [
+    3.688,
+    45.231,
+    4.761,
+    46.277
+   ],
+   "ouder": "ara"
+  },
+  {
+   "id": "43",
+   "naam": "Haute-Loire",
+   "naam_lokaal": "Haute-Loire",
+   "niveau": "6",
+   "iso": "FR-43",
+   "osm": "relation/7452",
+   "bbox": [
+    3.082,
+    44.744,
+    4.49,
+    45.428
+   ],
+   "ouder": "ara"
+  },
+  {
+   "id": "63",
+   "naam": "Puy-de-Dôme",
+   "naam_lokaal": "Puy-de-Dôme",
+   "niveau": "6",
+   "iso": "FR-63",
+   "osm": "relation/7406",
+   "bbox": [
+    2.388,
+    45.287,
+    3.986,
+    46.256
+   ],
+   "ouder": "ara"
+  },
+  {
+   "id": "69",
+   "naam": "Rhône",
+   "naam_lokaal": "Rhône",
+   "niveau": "6",
+   "iso": "FR-69",
+   "osm": "relation/4850451",
+   "bbox": [
+    4.244,
+    45.454,
+    5.16,
+    46.306
+   ],
+   "ouder": "ara"
+  },
+  {
+   "id": "69m",
+   "naam": "Métropole de Lyon",
+   "naam_lokaal": "Métropole de Lyon",
+   "niveau": "6",
+   "iso": "FR-69M",
+   "osm": "relation/4850450",
+   "bbox": [
+    4.692,
+    45.557,
+    5.062,
+    45.939
+   ],
+   "ouder": "ara"
+  },
+  {
+   "id": "73",
+   "naam": "Savoie",
+   "naam_lokaal": "Savoie",
+   "niveau": "6",
+   "iso": "FR-73",
+   "osm": "relation/7425",
+   "bbox": [
+    5.622,
+    45.052,
+    7.186,
+    45.938
+   ],
+   "ouder": "ara"
+  },
+  {
+   "id": "74",
+   "naam": "Haute-Savoie",
+   "naam_lokaal": "Haute-Savoie",
+   "niveau": "6",
+   "iso": "FR-74",
+   "osm": "relation/7407",
+   "bbox": [
+    5.805,
+    45.682,
+    7.044,
+    46.456
+   ],
+   "ouder": "ara"
+  },
+  {
+   "id": "21",
+   "naam": "Côte-d'Or",
+   "naam_lokaal": "Côte-d'Or",
+   "niveau": "6",
+   "iso": "FR-21",
+   "osm": "relation/7424",
+   "bbox": [
+    4.065,
+    46.9,
+    5.519,
+    48.031
+   ],
+   "ouder": "bfc"
+  },
+  {
+   "id": "25",
+   "naam": "Doubs",
+   "naam_lokaal": "Doubs",
+   "niveau": "6",
+   "iso": "FR-25",
+   "osm": "relation/7462",
+   "bbox": [
+    5.699,
+    46.554,
+    7.062,
+    47.58
+   ],
+   "ouder": "bfc"
+  },
+  {
+   "id": "39",
+   "naam": "Jura",
+   "naam_lokaal": "Jura",
+   "niveau": "6",
+   "iso": "FR-39",
+   "osm": "relation/7460",
+   "bbox": [
+    5.252,
+    46.261,
+    6.207,
+    47.306
+   ],
+   "ouder": "bfc"
+  },
+  {
+   "id": "58",
+   "naam": "Nièvre",
+   "naam_lokaal": "Nièvre",
+   "niveau": "6",
+   "iso": "FR-58",
+   "osm": "relation/7448",
+   "bbox": [
+    2.844,
+    46.651,
+    4.232,
+    47.588
+   ],
+   "ouder": "bfc"
+  },
+  {
+   "id": "70",
+   "naam": "Haute-Saône",
+   "naam_lokaal": "Haute-Saône",
+   "niveau": "6",
+   "iso": "FR-70",
+   "osm": "relation/7423",
+   "bbox": [
+    5.367,
+    47.253,
+    6.826,
+    48.024
+   ],
+   "ouder": "bfc"
+  },
+  {
+   "id": "71",
+   "naam": "Saône-et-Loire",
+   "naam_lokaal": "Saône-et-Loire",
+   "niveau": "6",
+   "iso": "FR-71",
+   "osm": "relation/7397",
+   "bbox": [
+    3.622,
+    46.156,
+    5.465,
+    47.155
+   ],
+   "ouder": "bfc"
+  },
+  {
+   "id": "89",
+   "naam": "Yonne",
+   "naam_lokaal": "Yonne",
+   "niveau": "6",
+   "iso": "FR-89",
+   "osm": "relation/7392",
+   "bbox": [
+    2.848,
+    47.31,
+    4.34,
+    48.4
+   ],
+   "ouder": "bfc"
+  },
+  {
+   "id": "90",
+   "naam": "Territoire-de-Belfort",
+   "naam_lokaal": "Territoire-de-Belfort",
+   "niveau": "6",
+   "iso": "FR-90",
+   "osm": "relation/7410",
+   "bbox": [
+    6.756,
+    47.433,
+    7.143,
+    47.825
+   ],
+   "ouder": "bfc"
+  },
+  {
+   "id": "22",
+   "naam": "Côtes-d'Armor",
+   "naam_lokaal": "Côtes-d'Armor",
+   "niveau": "6",
+   "iso": "FR-22",
+   "osm": "relation/7398",
+   "bbox": [
+    -3.666,
+    48.032,
+    -1.909,
+    49.113
+   ],
+   "ouder": "bre"
+  },
+  {
+   "id": "29",
+   "naam": "Finistère",
+   "naam_lokaal": "Finistère",
+   "niveau": "6",
+   "iso": "FR-29",
+   "osm": "relation/102430",
+   "bbox": [
+    -5.144,
+    47.701,
+    -3.387,
+    48.757
+   ],
+   "ouder": "bre"
+  },
+  {
+   "id": "35",
+   "naam": "Ille-et-Vilaine",
+   "naam_lokaal": "Ille-et-Vilaine",
+   "niveau": "6",
+   "iso": "FR-35",
+   "osm": "relation/7465",
+   "bbox": [
+    -2.289,
+    47.631,
+    -1.016,
+    48.722
+   ],
+   "ouder": "bre"
+  },
+  {
+   "id": "56",
+   "naam": "Morbihan",
+   "naam_lokaal": "Morbihan",
+   "niveau": "6",
+   "iso": "FR-56",
+   "osm": "relation/7447",
+   "bbox": [
+    -3.735,
+    47.278,
+    -2.035,
+    48.211
+   ],
+   "ouder": "bre"
+  },
+  {
+   "id": "18",
+   "naam": "Cher",
+   "naam_lokaal": "Cher",
+   "niveau": "6",
+   "iso": "FR-18",
+   "osm": "relation/7456",
+   "bbox": [
+    1.774,
+    46.42,
+    3.079,
+    47.629
+   ],
+   "ouder": "cvl"
+  },
+  {
+   "id": "28",
+   "naam": "Eure-et-Loir",
+   "naam_lokaal": "Eure-et-Loir",
+   "niveau": "6",
+   "iso": "FR-28",
+   "osm": "relation/7374",
+   "bbox": [
+    0.756,
+    47.954,
+    1.995,
+    48.941
+   ],
+   "ouder": "cvl"
+  },
+  {
+   "id": "36",
+   "naam": "Indre",
+   "naam_lokaal": "Indre",
+   "niveau": "6",
+   "iso": "FR-36",
+   "osm": "relation/7417",
+   "bbox": [
+    0.867,
+    46.347,
+    2.205,
+    47.277
+   ],
+   "ouder": "cvl"
+  },
+  {
+   "id": "37",
+   "naam": "Indre-et-Loire",
+   "naam_lokaal": "Indre-et-Loire",
+   "niveau": "6",
+   "iso": "FR-37",
+   "osm": "relation/7408",
+   "bbox": [
+    0.053,
+    46.737,
+    1.366,
+    47.71
+   ],
+   "ouder": "cvl"
+  },
+  {
+   "id": "41",
+   "naam": "Loir-et-Cher",
+   "naam_lokaal": "Loir-et-Cher",
+   "niveau": "6",
+   "iso": "FR-41",
+   "osm": "relation/7399",
+   "bbox": [
+    0.581,
+    47.186,
+    2.248,
+    48.133
+   ],
+   "ouder": "cvl"
+  },
+  {
+   "id": "45",
+   "naam": "Loiret",
+   "naam_lokaal": "Loiret",
+   "niveau": "6",
+   "iso": "FR-45",
+   "osm": "relation/7440",
+   "bbox": [
+    1.512,
+    47.483,
+    3.129,
+    48.345
+   ],
+   "ouder": "cvl"
+  },
+  {
+   "id": "08",
+   "naam": "Ardennen",
+   "naam_lokaal": "Ardennes",
+   "niveau": "6",
+   "iso": "FR-08",
+   "osm": "relation/7395",
+   "bbox": [
+    4.025,
+    49.227,
+    5.394,
+    50.169
+   ],
+   "ouder": "ges"
+  },
+  {
+   "id": "10",
+   "naam": "Aube",
+   "naam_lokaal": "Aube",
+   "niveau": "6",
+   "iso": "FR-10",
+   "osm": "relation/7441",
+   "bbox": [
+    3.384,
+    47.923,
+    4.865,
+    48.717
+   ],
+   "ouder": "ges"
+  },
+  {
+   "id": "51",
+   "naam": "Marne",
+   "naam_lokaal": "Marne",
+   "niveau": "6",
+   "iso": "FR-51",
+   "osm": "relation/7379",
+   "bbox": [
+    3.396,
+    48.515,
+    5.04,
+    49.407
+   ],
+   "ouder": "ges"
+  },
+  {
+   "id": "52",
+   "naam": "Haute-Marne",
+   "naam_lokaal": "Haute-Marne",
+   "niveau": "6",
+   "iso": "FR-52",
+   "osm": "relation/7396",
+   "bbox": [
+    4.628,
+    47.577,
+    5.891,
+    48.689
+   ],
+   "ouder": "ges"
+  },
+  {
+   "id": "54",
+   "naam": "Meurthe-et-Moselle",
+   "naam_lokaal": "Meurthe-et-Moselle",
+   "niveau": "6",
+   "iso": "FR-54",
+   "osm": "relation/51856",
+   "bbox": [
+    5.426,
+    48.349,
+    7.123,
+    49.563
+   ],
+   "ouder": "ges"
+  },
+  {
+   "id": "55",
+   "naam": "Meuse",
+   "naam_lokaal": "Meuse",
+   "niveau": "6",
+   "iso": "FR-55",
+   "osm": "relation/7382",
+   "bbox": [
+    4.888,
+    48.409,
+    5.854,
+    49.617
+   ],
+   "ouder": "ges"
+  },
+  {
+   "id": "57",
+   "naam": "Moselle",
+   "naam_lokaal": "Moselle",
+   "niveau": "6",
+   "iso": "FR-57",
+   "osm": "relation/51854",
+   "bbox": [
+    5.892,
+    48.527,
+    7.639,
+    49.515
+   ],
+   "ouder": "ges"
+  },
+  {
+   "id": "67",
+   "naam": "Bas-Rhin",
+   "naam_lokaal": "Bas-Rhin",
+   "niveau": "6",
+   "iso": "FR-67",
+   "osm": "relation/7415",
+   "bbox": [
+    6.941,
+    48.12,
+    8.233,
+    49.078
+   ],
+   "ouder": "ges"
+  },
+  {
+   "id": "68",
+   "naam": "Haut-Rhin",
+   "naam_lokaal": "Haut-Rhin",
+   "niveau": "6",
+   "iso": "FR-68",
+   "osm": "relation/7403",
+   "bbox": [
+    6.841,
+    47.42,
+    7.622,
+    48.311
+   ],
+   "ouder": "ges"
+  },
+  {
+   "id": "88",
+   "naam": "Vogezen",
+   "naam_lokaal": "Vosges",
+   "niveau": "6",
+   "iso": "FR-88",
+   "osm": "relation/7384",
+   "bbox": [
+    5.394,
+    47.814,
+    7.198,
+    48.514
+   ],
+   "ouder": "ges"
+  },
+  {
+   "id": "02",
+   "naam": "Aisne",
+   "naam_lokaal": "Aisne",
+   "niveau": "6",
+   "iso": "FR-02",
+   "osm": "relation/7411",
+   "bbox": [
+    2.958,
+    48.837,
+    4.256,
+    50.069
+   ],
+   "ouder": "hdf"
+  },
+  {
+   "id": "59",
+   "naam": "Noorderdepartement",
+   "naam_lokaal": "Nord",
+   "niveau": "6",
+   "iso": "FR-59",
+   "osm": "relation/7400",
+   "bbox": [
+    2.08,
+    49.969,
+    4.231,
+    51.089
+   ],
+   "ouder": "hdf"
+  },
+  {
+   "id": "60",
+   "naam": "Oise",
+   "naam_lokaal": "Oise",
+   "niveau": "6",
+   "iso": "FR-60",
+   "osm": "relation/7427",
+   "bbox": [
+    1.689,
+    49.061,
+    3.166,
+    49.764
+   ],
+   "ouder": "hdf"
+  },
+  {
+   "id": "62",
+   "naam": "Pas-de-Calais",
+   "naam_lokaal": "Pas-de-Calais",
+   "niveau": "6",
+   "iso": "FR-62",
+   "osm": "relation/7394",
+   "bbox": [
+    1.556,
+    50.02,
+    3.188,
+    51.009
+   ],
+   "ouder": "hdf"
+  },
+  {
+   "id": "80",
+   "naam": "Somme",
+   "naam_lokaal": "Somme",
+   "niveau": "6",
+   "iso": "FR-80",
+   "osm": "relation/7463",
+   "bbox": [
+    1.38,
+    49.572,
+    3.203,
+    50.366
+   ],
+   "ouder": "hdf"
+  },
+  {
+   "id": "75c",
+   "naam": "Parijs",
+   "naam_lokaal": "Paris",
+   "niveau": "6",
+   "iso": "FR-75C",
+   "osm": "relation/71525",
+   "bbox": [
+    2.224,
+    48.816,
+    2.47,
+    48.902
+   ],
+   "ouder": "idf"
+  },
+  {
+   "id": "77",
+   "naam": "Seine-et-Marne",
+   "naam_lokaal": "Seine-et-Marne",
+   "niveau": "6",
+   "iso": "FR-77",
+   "osm": "relation/7383",
+   "bbox": [
+    2.392,
+    48.12,
+    3.559,
+    49.118
+   ],
+   "ouder": "idf"
+  },
+  {
+   "id": "78",
+   "naam": "Yvelines",
+   "naam_lokaal": "Yvelines",
+   "niveau": "6",
+   "iso": "FR-78",
+   "osm": "relation/7457",
+   "bbox": [
+    1.446,
+    48.439,
+    2.229,
+    49.085
+   ],
+   "ouder": "idf"
+  },
+  {
+   "id": "91",
+   "naam": "Essonne",
+   "naam_lokaal": "Essonne",
+   "niveau": "6",
+   "iso": "FR-91",
+   "osm": "relation/7401",
+   "bbox": [
+    1.914,
+    48.285,
+    2.585,
+    48.776
+   ],
+   "ouder": "idf"
+  },
+  {
+   "id": "92",
+   "naam": "Hauts-de-Seine",
+   "naam_lokaal": "Hauts-de-Seine",
+   "niveau": "6",
+   "iso": "FR-92",
+   "osm": "relation/7449",
+   "bbox": [
+    2.146,
+    48.729,
+    2.337,
+    48.951
+   ],
+   "ouder": "idf"
+  },
+  {
+   "id": "93",
+   "naam": "Seine-Saint-Denis",
+   "naam_lokaal": "Seine-Saint-Denis",
+   "niveau": "6",
+   "iso": "FR-93",
+   "osm": "relation/7389",
+   "bbox": [
+    2.288,
+    48.807,
+    2.603,
+    49.012
+   ],
+   "ouder": "idf"
+  },
+  {
+   "id": "94",
+   "naam": "Val-de-Marne",
+   "naam_lokaal": "Val-de-Marne",
+   "niveau": "6",
+   "iso": "FR-94",
+   "osm": "relation/7458",
+   "bbox": [
+    2.309,
+    48.688,
+    2.616,
+    48.861
+   ],
+   "ouder": "idf"
+  },
+  {
+   "id": "95",
+   "naam": "Val-d'Oise",
+   "naam_lokaal": "Val-d'Oise",
+   "niveau": "6",
+   "iso": "FR-95",
+   "osm": "relation/7433",
+   "bbox": [
+    1.608,
+    48.909,
+    2.595,
+    49.241
+   ],
+   "ouder": "idf"
+  },
+  {
+   "id": "16",
+   "naam": "Charente",
+   "naam_lokaal": "Charente",
+   "niveau": "6",
+   "iso": "FR-16",
+   "osm": "relation/7428",
+   "bbox": [
+    -0.463,
+    45.193,
+    0.947,
+    46.141
+   ],
+   "ouder": "naq"
+  },
+  {
+   "id": "17",
+   "naam": "Charente-Maritime",
+   "naam_lokaal": "Charente-Maritime",
+   "niveau": "6",
+   "iso": "FR-17",
+   "osm": "relation/7431",
+   "bbox": [
+    -1.563,
+    45.089,
+    0.006,
+    46.372
+   ],
+   "ouder": "naq"
+  },
+  {
+   "id": "19",
+   "naam": "Corrèze",
+   "naam_lokaal": "Corrèze",
+   "niveau": "6",
+   "iso": "FR-19",
+   "osm": "relation/7464",
+   "bbox": [
+    1.227,
+    44.92,
+    2.529,
+    45.765
+   ],
+   "ouder": "naq"
+  },
+  {
+   "id": "23",
+   "naam": "Creuse",
+   "naam_lokaal": "Creuse",
+   "niveau": "6",
+   "iso": "FR-23",
+   "osm": "relation/7459",
+   "bbox": [
+    1.373,
+    45.663,
+    2.611,
+    46.455
+   ],
+   "ouder": "naq"
+  },
+  {
+   "id": "24",
+   "naam": "Dordogne",
+   "naam_lokaal": "Dordogne",
+   "niveau": "6",
+   "iso": "FR-24",
+   "osm": "relation/7375",
+   "bbox": [
+    -0.042,
+    44.571,
+    1.448,
+    45.715
+   ],
+   "ouder": "naq"
+  },
+  {
+   "id": "33",
+   "naam": "Gironde",
+   "naam_lokaal": "Gironde",
+   "niveau": "6",
+   "iso": "FR-33",
+   "osm": "relation/7405",
+   "bbox": [
+    -1.265,
+    44.194,
+    0.315,
+    45.602
+   ],
+   "ouder": "naq"
+  },
+  {
+   "id": "40",
+   "naam": "Landes",
+   "naam_lokaal": "Landes",
+   "niveau": "6",
+   "iso": "FR-40",
+   "osm": "relation/7376",
+   "bbox": [
+    -1.524,
+    43.487,
+    0.137,
+    44.532
+   ],
+   "ouder": "naq"
+  },
+  {
+   "id": "47",
+   "naam": "Lot-et-Garonne",
+   "naam_lokaal": "Lot-et-Garonne",
+   "niveau": "6",
+   "iso": "FR-47",
+   "osm": "relation/1284995",
+   "bbox": [
+    -0.141,
+    43.973,
+    1.078,
+    44.766
+   ],
+   "ouder": "naq"
+  },
+  {
+   "id": "64",
+   "naam": "Pyrénées-Atlantiques",
+   "naam_lokaal": "Pyrénées-Atlantiques",
+   "niveau": "6",
+   "iso": "FR-64",
+   "osm": "relation/7450",
+   "bbox": [
+    -1.791,
+    42.778,
+    0.03,
+    43.597
+   ],
+   "ouder": "naq"
+  },
+  {
+   "id": "79",
+   "naam": "Deux-Sèvres",
+   "naam_lokaal": "Deux-Sèvres",
+   "niveau": "6",
+   "iso": "FR-79",
+   "osm": "relation/7455",
+   "bbox": [
+    -0.903,
+    45.97,
+    0.22,
+    47.108
+   ],
+   "ouder": "naq"
+  },
+  {
+   "id": "86",
+   "naam": "Vienne",
+   "naam_lokaal": "Vienne",
+   "niveau": "6",
+   "iso": "FR-86",
+   "osm": "relation/7377",
+   "bbox": [
+    -0.105,
+    46.048,
+    1.213,
+    47.176
+   ],
+   "ouder": "naq"
+  },
+  {
+   "id": "87",
+   "naam": "Haute-Vienne",
+   "naam_lokaal": "Haute-Vienne",
+   "niveau": "6",
+   "iso": "FR-87",
+   "osm": "relation/7418",
+   "bbox": [
+    0.629,
+    45.437,
+    1.91,
+    46.401
+   ],
+   "ouder": "naq"
+  },
+  {
+   "id": "14",
+   "naam": "Calvados",
+   "naam_lokaal": "Calvados",
+   "niveau": "6",
+   "iso": "FR-14",
+   "osm": "relation/7453",
+   "bbox": [
+    -1.16,
+    48.752,
+    0.447,
+    49.43
+   ],
+   "ouder": "nor"
+  },
+  {
+   "id": "27",
+   "naam": "Eure",
+   "naam_lokaal": "Eure",
+   "niveau": "6",
+   "iso": "FR-27",
+   "osm": "relation/7435",
+   "bbox": [
+    0.296,
+    48.666,
+    1.803,
+    49.485
+   ],
+   "ouder": "nor"
+  },
+  {
+   "id": "50",
+   "naam": "Manche",
+   "naam_lokaal": "Manche",
+   "niveau": "6",
+   "iso": "FR-50",
+   "osm": "relation/7404",
+   "bbox": [
+    -1.955,
+    48.456,
+    -0.735,
+    49.728
+   ],
+   "ouder": "nor"
+  },
+  {
+   "id": "61",
+   "naam": "Orne",
+   "naam_lokaal": "Orne",
+   "niveau": "6",
+   "iso": "FR-61",
+   "osm": "relation/7419",
+   "bbox": [
+    -0.861,
+    48.179,
+    0.977,
+    48.973
+   ],
+   "ouder": "nor"
+  },
+  {
+   "id": "76",
+   "naam": "Seine-Maritime",
+   "naam_lokaal": "Seine-Maritime",
+   "niveau": "6",
+   "iso": "FR-76",
+   "osm": "relation/7426",
+   "bbox": [
+    0.066,
+    49.251,
+    1.791,
+    50.072
+   ],
+   "ouder": "nor"
+  },
+  {
+   "id": "09",
+   "naam": "Ariège",
+   "naam_lokaal": "Ariège",
+   "niveau": "6",
+   "iso": "FR-09",
+   "osm": "relation/7439",
+   "bbox": [
+    0.827,
+    42.573,
+    2.176,
+    43.316
+   ],
+   "ouder": "occ"
+  },
+  {
+   "id": "11",
+   "naam": "Aude",
+   "naam_lokaal": "Aude",
+   "niveau": "6",
+   "iso": "FR-11",
+   "osm": "relation/7446",
+   "bbox": [
+    1.689,
+    42.649,
+    3.24,
+    43.46
+   ],
+   "ouder": "occ"
+  },
+  {
+   "id": "12",
+   "naam": "Aveyron",
+   "naam_lokaal": "Aveyron",
+   "niveau": "6",
+   "iso": "FR-12",
+   "osm": "relation/7451",
+   "bbox": [
+    1.84,
+    43.691,
+    3.452,
+    44.941
+   ],
+   "ouder": "occ"
+  },
+  {
+   "id": "30",
+   "naam": "Gard",
+   "naam_lokaal": "Gard",
+   "niveau": "6",
+   "iso": "FR-30",
+   "osm": "relation/7461",
+   "bbox": [
+    3.262,
+    43.46,
+    4.846,
+    44.46
+   ],
+   "ouder": "occ"
+  },
+  {
+   "id": "31",
+   "naam": "Haute-Garonne",
+   "naam_lokaal": "Haute-Garonne",
+   "niveau": "6",
+   "iso": "FR-31",
+   "osm": "relation/7413",
+   "bbox": [
+    0.442,
+    42.689,
+    2.048,
+    43.922
+   ],
+   "ouder": "occ"
+  },
+  {
+   "id": "32",
+   "naam": "Gers",
+   "naam_lokaal": "Gers",
+   "niveau": "6",
+   "iso": "FR-32",
+   "osm": "relation/7422",
+   "bbox": [
+    -0.282,
+    43.311,
+    1.203,
+    44.08
+   ],
+   "ouder": "occ"
+  },
+  {
+   "id": "34",
+   "naam": "Hérault",
+   "naam_lokaal": "Hérault",
+   "niveau": "6",
+   "iso": "FR-34",
+   "osm": "relation/7429",
+   "bbox": [
+    2.54,
+    43.21,
+    4.195,
+    43.973
+   ],
+   "ouder": "occ"
+  },
+  {
+   "id": "46",
+   "naam": "Lot",
+   "naam_lokaal": "Lot",
+   "niveau": "6",
+   "iso": "FR-46",
+   "osm": "relation/7454",
+   "bbox": [
+    0.981,
+    44.203,
+    2.211,
+    45.047
+   ],
+   "ouder": "occ"
+  },
+  {
+   "id": "48",
+   "naam": "Lozère",
+   "naam_lokaal": "Lozère",
+   "niveau": "6",
+   "iso": "FR-48",
+   "osm": "relation/7421",
+   "bbox": [
+    2.982,
+    44.109,
+    3.998,
+    44.976
+   ],
+   "ouder": "occ"
+  },
+  {
+   "id": "65",
+   "naam": "Hautes-Pyrénées",
+   "naam_lokaal": "Hautes-Pyrénées",
+   "niveau": "6",
+   "iso": "FR-65",
+   "osm": "relation/7467",
+   "bbox": [
+    -0.327,
+    42.674,
+    0.646,
+    43.613
+   ],
+   "ouder": "occ"
+  },
+  {
+   "id": "66",
+   "naam": "Pyrénées-Orientales",
+   "naam_lokaal": "Pyrénées-Orientales",
+   "niveau": "6",
+   "iso": "FR-66",
+   "osm": "relation/7466",
+   "bbox": [
+    1.721,
+    42.333,
+    3.178,
+    42.919
+   ],
+   "ouder": "occ"
+  },
+  {
+   "id": "81",
+   "naam": "Tarn",
+   "naam_lokaal": "Tarn",
+   "niveau": "6",
+   "iso": "FR-81",
+   "osm": "relation/7442",
+   "bbox": [
+    1.535,
+    43.383,
+    2.937,
+    44.201
+   ],
+   "ouder": "occ"
+  },
+  {
+   "id": "82",
+   "naam": "Tarn-et-Garonne",
+   "naam_lokaal": "Tarn-et-Garonne",
+   "niveau": "6",
+   "iso": "FR-82",
+   "osm": "relation/7388",
+   "bbox": [
+    0.738,
+    43.767,
+    2.001,
+    44.394
+   ],
+   "ouder": "occ"
+  },
+  {
+   "id": "04",
+   "naam": "Alpes-de-Haute-Provence",
+   "naam_lokaal": "Alpes-de-Haute-Provence",
+   "niveau": "6",
+   "iso": "FR-04",
+   "osm": "relation/7380",
+   "bbox": [
+    5.496,
+    43.668,
+    6.969,
+    44.66
+   ],
+   "ouder": "pac"
+  },
+  {
+   "id": "05",
+   "naam": "Hautes-Alpes",
+   "naam_lokaal": "Hautes-Alpes",
+   "niveau": "6",
+   "iso": "FR-05",
+   "osm": "relation/7436",
+   "bbox": [
+    5.418,
+    44.186,
+    7.077,
+    45.127
+   ],
+   "ouder": "pac"
+  },
+  {
+   "id": "06",
+   "naam": "Alpes-Maritimes",
+   "naam_lokaal": "Alpes-Maritimes",
+   "niveau": "6",
+   "iso": "FR-06",
+   "osm": "relation/7385",
+   "bbox": [
+    6.635,
+    43.48,
+    7.719,
+    44.363
+   ],
+   "ouder": "pac"
+  },
+  {
+   "id": "13",
+   "naam": "Bouches-du-Rhône",
+   "naam_lokaal": "Bouches-du-Rhône",
+   "niveau": "6",
+   "iso": "FR-13",
+   "osm": "relation/7393",
+   "bbox": [
+    4.23,
+    43.157,
+    5.814,
+    43.925
+   ],
+   "ouder": "pac"
+  },
+  {
+   "id": "83",
+   "naam": "Var",
+   "naam_lokaal": "Var",
+   "niveau": "6",
+   "iso": "FR-83",
+   "osm": "relation/7390",
+   "bbox": [
+    5.656,
+    42.982,
+    6.933,
+    43.809
+   ],
+   "ouder": "pac"
+  },
+  {
+   "id": "84",
+   "naam": "Vaucluse",
+   "naam_lokaal": "Vaucluse",
+   "niveau": "6",
+   "iso": "FR-84",
+   "osm": "relation/7445",
+   "bbox": [
+    4.649,
+    43.659,
+    5.758,
+    44.432
+   ],
+   "ouder": "pac"
+  },
+  {
+   "id": "44",
+   "naam": "Loire-Atlantique",
+   "naam_lokaal": "Loire-Atlantique",
+   "niveau": "6",
+   "iso": "FR-44",
+   "osm": "relation/7432",
+   "bbox": [
+    -2.628,
+    46.86,
+    -0.947,
+    47.836
+   ],
+   "ouder": "pdl"
+  },
+  {
+   "id": "49",
+   "naam": "Maine-et-Loire",
+   "naam_lokaal": "Maine-et-Loire",
+   "niveau": "6",
+   "iso": "FR-49",
+   "osm": "relation/7409",
+   "bbox": [
+    -1.354,
+    46.969,
+    0.234,
+    47.81
+   ],
+   "ouder": "pdl"
+  },
+  {
+   "id": "53",
+   "naam": "Mayenne",
+   "naam_lokaal": "Mayenne",
+   "niveau": "6",
+   "iso": "FR-53",
+   "osm": "relation/7438",
+   "bbox": [
+    -1.239,
+    47.734,
+    -0.049,
+    48.568
+   ],
+   "ouder": "pdl"
+  },
+  {
+   "id": "72",
+   "naam": "Sarthe",
+   "naam_lokaal": "Sarthe",
+   "niveau": "6",
+   "iso": "FR-72",
+   "osm": "relation/7443",
+   "bbox": [
+    -0.448,
+    47.568,
+    0.917,
+    48.485
+   ],
+   "ouder": "pdl"
+  },
+  {
+   "id": "85",
+   "naam": "Vendée",
+   "naam_lokaal": "Vendée",
+   "niveau": "6",
+   "iso": "FR-85",
+   "osm": "relation/7402",
+   "bbox": [
+    -2.401,
+    46.267,
+    -0.538,
+    47.085
+   ],
+   "ouder": "pdl"
+  }
+ ]
+}

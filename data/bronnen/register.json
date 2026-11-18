@@ -1810,7 +1810,8 @@
     "route": "nazicht",
     "frequentie": "wekelijks",
     "gebruikt_in": [
-      "gidsen"
+      "gidsen",
+      "landinfo"
     ],
     "id": "bbk-explosionen-hier-finden-sie-schutz",
     "naam": "BBK: Explosionen, hier finden Sie Schutz",
@@ -5106,7 +5107,8 @@
     "route": "nazicht",
     "frequentie": "wekelijks",
     "gebruikt_in": [
-      "gidsen"
+      "gidsen",
+      "landinfo"
     ],
     "id": "rijksoverheid-wat-moet-ik-doen-als-de-sirene",
     "naam": "Rijksoverheid (Nederland): Wat moet ik doen als de sirene gaat?",
@@ -5762,7 +5764,8 @@
     "route": "nazicht",
     "frequentie": "wekelijks",
     "gebruikt_in": [
-      "gidsen"
+      "gidsen",
+      "landinfo"
     ],
     "id": "denk-vooruit-stel-je-noodpakket-samen",
     "naam": "Denk vooruit: Stel je noodpakket samen",
@@ -5794,7 +5797,8 @@
     "route": "nazicht",
     "frequentie": "wekelijks",
     "gebruikt_in": [
-      "gidsen"
+      "gidsen",
+      "landinfo"
     ],
     "id": "bbk-vorsorgen-f-r-krisen-und-katastrophen",
     "naam": "BBK: Vorsorgen für Krisen und Katastrophen",
@@ -5810,7 +5814,8 @@
     "route": "nazicht",
     "frequentie": "wekelijks",
     "gebruikt_in": [
-      "gidsen"
+      "gidsen",
+      "landinfo"
     ],
     "id": "bbk-ratgeber-und-checklisten",
     "naam": "BBK: Ratgeber und Checklisten",
@@ -6578,7 +6583,8 @@
     "route": "nazicht",
     "frequentie": "wekelijks",
     "gebruikt_in": [
-      "gidsen"
+      "gidsen",
+      "landinfo"
     ],
     "id": "denk-vooruit-radio",
     "naam": "Denk vooruit: Radio",
@@ -7014,5 +7020,1236 @@
       "vertalingen"
     ],
     "opmerking": "Officiële eerstehulpbron in de taal van de gebruiker, getoond boven niet-nagelezen vertalingen van eerste hulp (site/src/i18n/app.ts)."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "auteursrecht KBV; citeren met bronvermelding toegestaan, ander hergebruik niet geregeld",
+    "toestemming": "na te zien",
+    "route": "dringend",
+    "frequentie": "dagelijks",
+    "gebruikt_in": [
+      "landinfo"
+    ],
+    "id": "de-116117",
+    "naam": "116117: ärztlicher Bereitschaftsdienst",
+    "eigenaar": "Kassenärztliche Bundesvereinigung (KBV)",
+    "url": "https://www.116117.de/de/index.php",
+    "land": "DE",
+    "licentie_kenmerk": "Wir erlauben und begrüßen ausdrücklich das Zitieren unserer Dokumente.",
+    "opmerking": "Bron van 116 117 in de.json. Impressum: https://www.116117.de/de/impressum.php"
+  },
+  {
+    "soort": "pagina",
+    "licentie": "auteursrecht BAFzA, hergebruik niet geregeld",
+    "toestemming": "na te zien",
+    "route": "dringend",
+    "frequentie": "dagelijks",
+    "gebruikt_in": [
+      "landinfo"
+    ],
+    "id": "de-hilfetelefon",
+    "naam": "Hilfetelefon Gewalt gegen Frauen 116 016",
+    "eigenaar": "Bundesamt für Familie und zivilgesellschaftliche Aufgaben (BAFzA)",
+    "url": "https://www.hilfetelefon.de/",
+    "land": "DE",
+    "licentie_kenmerk": "© 2026 Bundesamt für Familie und zivilgesellschaftliche Aufgaben",
+    "opmerking": "Bron van 116 016 in de.json."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "auteursrecht vereniging, hergebruik niet geregeld",
+    "toestemming": "na te zien",
+    "route": "dringend",
+    "frequentie": "dagelijks",
+    "gebruikt_in": [
+      "landinfo"
+    ],
+    "id": "de-nummer-gegen-kummer",
+    "naam": "Nummer gegen Kummer: 116 111 en oudertelefoon",
+    "eigenaar": "Nummer gegen Kummer e.V.",
+    "url": "https://www.nummergegenkummer.de/",
+    "land": "DE",
+    "licentie_kenmerk": "2024 Copyright Nummer gegen Kummer",
+    "opmerking": "Bron van 116 111 en 0800 111 0 550 in de.json. Openingsuren wijzigen soms; controleren."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "auteursrecht vereniging; Impressum niet bereikbaar (404), hergebruik niet nagezien",
+    "toestemming": "na te zien",
+    "route": "dringend",
+    "frequentie": "dagelijks",
+    "gebruikt_in": [
+      "landinfo"
+    ],
+    "id": "de-116000-vermisste-kinder",
+    "naam": "Initiative Vermisste Kinder: hulptelefoon 116 000",
+    "eigenaar": "Initiative Vermisste Kinder (Hamburg)",
+    "url": "https://www.initiative-vermisste-kinder.de/",
+    "land": "DE",
+    "licentie_kenmerk": "Copyright © 2026 Initiative Vermisste Kinder",
+    "opmerking": "Bron van 116 000 in de.json. Geen overheidssite; vermisste-kinder.de verwijst hierheen."
+  },
+  {
+    "soort": "pdf",
+    "licentie": "CC BY 4.0 voor teksten van het BfR",
+    "toestemming": "vrij",
+    "route": "dringend",
+    "frequentie": "dagelijks",
+    "gebruikt_in": [
+      "landinfo"
+    ],
+    "id": "de-bfr-giftinformationszentren",
+    "naam": "BfR: Verzeichnis der Giftinformationszentren",
+    "eigenaar": "Bundesinstitut für Risikobewertung (BfR)",
+    "url": "https://www.bfr.bund.de/cm/343/verzeichnis-der-giftinformationszentren.pdf",
+    "land": "DE",
+    "licentie_kenmerk": "Creative Commons Attribution 4.0 International (CC BY 4.0)",
+    "opmerking": "Bron van de zeven Giftnotruf-nummers in de.json. Stand 22.07.2026. Licentie volgens https://www.bfr.bund.de/impressum/; bronvermelding verplicht."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "auteursrecht BBK; vermenigvuldigen en verspreiden alleen met toestemming",
+    "toestemming": "na te zien",
+    "route": "dringend",
+    "frequentie": "dagelijks",
+    "gebruikt_in": [
+      "landinfo"
+    ],
+    "id": "de-bbk-nina",
+    "naam": "BBK: Warn-App NINA",
+    "eigenaar": "Bundesamt für Bevölkerungsschutz und Katastrophenhilfe (BBK)",
+    "url": "https://www.bbk.bund.de/DE/Warnung-Vorsorge/Warn-App-NINA/warn-app-nina_node.html",
+    "land": "DE",
+    "licentie_kenmerk": "dürfen ohne vorherige Zustimmung des BBK nicht vervielfältigt, nicht verbreitet und nicht ausgestellt werden",
+    "opmerking": "Bron en url van het kanaal NINA in de.json. Licentie volgens het BBK-Impressum."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "auteursrecht BBK; vermenigvuldigen en verspreiden alleen met toestemming",
+    "toestemming": "na te zien",
+    "route": "dringend",
+    "frequentie": "dagelijks",
+    "gebruikt_in": [
+      "landinfo"
+    ],
+    "id": "de-bbk-cell-broadcast",
+    "naam": "BBK: Cell Broadcast",
+    "eigenaar": "Bundesamt für Bevölkerungsschutz und Katastrophenhilfe (BBK)",
+    "url": "https://www.bbk.bund.de/DE/Warnung-Vorsorge/Warnung-in-Deutschland/So-werden-Sie-gewarnt/Cell-Broadcast/cell-broadcast_node.html",
+    "land": "DE",
+    "licentie_kenmerk": "dürfen ohne vorherige Zustimmung des BBK nicht vervielfältigt, nicht verbreitet und nicht ausgestellt werden",
+    "opmerking": "Bron van de kanalen Cell Broadcast en warnung.bund.de in de.json. De pagina gebruikt de naam DE-Alert niet."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "uitgever BBK; Impressum geeft geen aparte hergebruiksregeling, BBK-Impressum van toepassing",
+    "toestemming": "na te zien",
+    "route": "dringend",
+    "frequentie": "dagelijks",
+    "gebruikt_in": [
+      "landinfo"
+    ],
+    "id": "de-warnung-bund",
+    "naam": "Bundeswarnportal warnung.bund.de",
+    "eigenaar": "Bundesamt für Bevölkerungsschutz und Katastrophenhilfe (BBK)",
+    "url": "https://warnung.bund.de",
+    "land": "DE",
+    "opmerking": "Url van het kanaal Bundeswarnportal in de.json. Kandidaat voor automatisch ophalen van actuele waarschuwingen; technische voorwaarden niet nagezien."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "auteursrecht BBK; vermenigvuldigen en verspreiden alleen met toestemming",
+    "toestemming": "na te zien",
+    "route": "dringend",
+    "frequentie": "dagelijks",
+    "gebruikt_in": [
+      "landinfo"
+    ],
+    "id": "de-bbk-mowas",
+    "naam": "BBK: Modulares Warnsystem (MoWaS)",
+    "eigenaar": "Bundesamt für Bevölkerungsschutz und Katastrophenhilfe (BBK)",
+    "url": "https://www.bbk.bund.de/DE/Warnung-Vorsorge/Warnung-in-Deutschland/MoWaS/mowas_node.html",
+    "land": "DE",
+    "licentie_kenmerk": "dürfen ohne vorherige Zustimmung des BBK nicht vervielfältigt, nicht verbreitet und nicht ausgestellt werden",
+    "opmerking": "Bron van het kanaal MoWaS in de.json."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "auteursrecht BBK; vermenigvuldigen en verspreiden alleen met toestemming",
+    "toestemming": "na te zien",
+    "route": "dringend",
+    "frequentie": "dagelijks",
+    "gebruikt_in": [
+      "landinfo"
+    ],
+    "id": "de-bbk-sirenen",
+    "naam": "BBK: Sirenen",
+    "eigenaar": "Bundesamt für Bevölkerungsschutz und Katastrophenhilfe (BBK)",
+    "url": "https://www.bbk.bund.de/DE/Warnung-Vorsorge/Warnung-in-Deutschland/So-werden-Sie-gewarnt/Sirenen/sirenen_node.html",
+    "land": "DE",
+    "licentie_kenmerk": "dürfen ohne vorherige Zustimmung des BBK nicht vervielfältigt, nicht verbreitet und nicht ausgestellt werden",
+    "opmerking": "Bron van het kanaal Sirenes (signalen Warnung en Entwarnung) in de.json."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "auteursrecht BBK; vermenigvuldigen en verspreiden alleen met toestemming",
+    "toestemming": "na te zien",
+    "route": "dringend",
+    "frequentie": "dagelijks",
+    "gebruikt_in": [
+      "landinfo"
+    ],
+    "id": "de-bbk-so-werden-sie-gewarnt",
+    "naam": "BBK: So werden Sie gewarnt",
+    "eigenaar": "Bundesamt für Bevölkerungsschutz und Katastrophenhilfe (BBK)",
+    "url": "https://www.bbk.bund.de/DE/Warnung-Vorsorge/Warnung-in-Deutschland/So-werden-Sie-gewarnt/so-werden-sie-gewarnt_node.html",
+    "land": "DE",
+    "licentie_kenmerk": "dürfen ohne vorherige Zustimmung des BBK nicht vervielfältigt, nicht verbreitet und nicht ausgestellt werden",
+    "opmerking": "Bron van het kanaal KATWARN, BIWAPP en regionale apps; url van het kanaal Radio en tv in de.json."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "auteursrecht BBK; vermenigvuldigen en verspreiden alleen met toestemming",
+    "toestemming": "na te zien",
+    "route": "dringend",
+    "frequentie": "dagelijks",
+    "gebruikt_in": [
+      "landinfo"
+    ],
+    "id": "de-bbk-warntag",
+    "naam": "BBK: Bundesweiter Warntag",
+    "eigenaar": "Bundesamt für Bevölkerungsschutz und Katastrophenhilfe (BBK)",
+    "url": "https://www.bbk.bund.de/DE/Warnung-Vorsorge/Bundesweiter-Warntag/bundesweiter-warntag_node.html",
+    "land": "DE",
+    "licentie_kenmerk": "dürfen ohne vorherige Zustimmung des BBK nicht vervielfältigt, nicht verbreitet und nicht ausgestellt werden",
+    "opmerking": "Url van het kanaal Bundesweiter Warntag in de.json. Bevestigt Warntag 2026 (10 september, 11 uur) en de volgende op 9 september 2027."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "auteursrecht Bundesregierung; Impressum niet bereikbaar (404), hergebruik niet nagezien",
+    "toestemming": "na te zien",
+    "route": "dringend",
+    "frequentie": "dagelijks",
+    "gebruikt_in": [
+      "landinfo"
+    ],
+    "id": "de-bundesregierung-warntag",
+    "naam": "Bundesregierung: Bundesweiter Warntag",
+    "eigenaar": "Presse- und Informationsamt der Bundesregierung",
+    "url": "https://www.bundesregierung.de/breg-de/service/newsletter-und-abos/newsletter-verbraucherschutz/bundesweiter-warntag-2383690",
+    "land": "DE",
+    "opmerking": "Bron van het kanaal Bundesweiter Warntag in de.json (tweede donderdag van september, 11 uur, Entwarnung rond 11.45 uur)."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "auteursrecht BfS; verwerken en verspreiden alleen met voorafgaande schriftelijke toestemming",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "landinfo"
+    ],
+    "id": "de-bfs-verhalten-im-notfall",
+    "naam": "BfS: Verhalten im Notfall",
+    "eigenaar": "Bundesamt für Strahlenschutz (BfS)",
+    "url": "https://www.bfs.de/DE/themen/ion/notfallschutz/verhalten/verhalten_node.html",
+    "land": "DE",
+    "licentie_kenmerk": "bedarf der ausdrücklichen vorherigen schriftlichen Zustimmung des BfS oder des jeweiligen Rechteinhabers",
+    "opmerking": "Bron van de nucleaire kernboodschap in de.json. Zie ook de BfS-pagina over jodiumtabletten (Stand 11.02.2026) voor de afstanden 100 km en heel Duitsland."
+  },
+  {
+    "soort": "pdf",
+    "licentie": "auteursrecht ministerie; Impressum regelt hergebruik niet; de afstanden van de zones zijn feiten",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "maandelijks",
+    "gebruikt_in": [
+      "landinfo"
+    ],
+    "id": "de-ssk-rahmenempfehlungen-katastrophenschutz",
+    "naam": "SSK: Rahmenempfehlungen für den Katastrophenschutz in der Umgebung kerntechnischer Anlagen (2015)",
+    "eigenaar": "Strahlenschutzkommission (SSK), Geschäftsstelle bij het BMUKN",
+    "url": "https://ssk.de/fileadmin/documents/de/2015/Rahmenempfehlungen_Katastrophenschutz.pdf",
+    "land": "DE",
+    "licentie_kenmerk": "© Bundesministerium für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit · 2025",
+    "opmerking": "Bron van de zones (Zentralzone 5 km, Mittelzone 20 km, Außenzone 100 km, jodium voor kinderen en zwangeren in heel Duitsland) in de.json. Verabschiedet 19./20.02.2015; nagaan of er een nieuwere versie is."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "Licence Ouverte / Etalab 2.0",
+    "toestemming": "vrij",
+    "route": "dringend",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "landinfo"
+    ],
+    "id": "fr-service-public-numeros-urgence",
+    "naam": "Service-Public.fr: numéros en cas d'urgence et numéros d'écoute",
+    "eigenaar": "Direction de l'information légale et administrative (DILA, Premier ministre)",
+    "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F33954",
+    "land": "FR",
+    "licentie_kenmerk": "Sauf mention contraire, tous les contenus de ce site sont sous licence etalab-2.0",
+    "opmerking": "Bron van bijna alle noodnummers (112, 15, 17, 18, 114, 115, 119, 116 000, 191, 196, 197, 3114, 3919, 0 800 112 112). Gecontroleerd op 25 augustus 2026 volgens de pagina. service-public.fr verwijst nu door naar service-public.gouv.fr."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "Licence Ouverte / Etalab 2.0",
+    "toestemming": "vrij",
+    "route": "dringend",
+    "frequentie": "maandelijks",
+    "gebruikt_in": [
+      "landinfo"
+    ],
+    "id": "fr-service-public-0800112112",
+    "naam": "Service-Public.fr: le 0 800 112 112, un numéro qui vous rappelle en cas d'urgence",
+    "eigenaar": "Direction de l'information légale et administrative (DILA, Premier ministre)",
+    "url": "https://www.service-public.gouv.fr/particuliers/actualites/A17758",
+    "land": "FR",
+    "licentie_kenmerk": "Sauf mention contraire, tous les contenus de ce site sont sous licence etalab-2.0",
+    "opmerking": "Enige geopende officiële bron die 116 117 (permanence des soins ambulatoires) bij de 12 gratis noodnummers zet. Nieuwsbericht van 16 oktober 2024, bijgewerkt op 18 oktober 2024; de site markeert het als oud."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "niet vermeld",
+    "toestemming": "na te zien",
+    "route": "dringend",
+    "frequentie": "maandelijks",
+    "gebruikt_in": [
+      "landinfo"
+    ],
+    "id": "fr-centres-antipoison",
+    "naam": "Centres antipoison: numéros d'urgence 24/24",
+    "eigenaar": "Association des centres antipoison et de toxicovigilance",
+    "url": "https://centres-antipoison.net/",
+    "land": "FR",
+    "opmerking": "Regionale nummers van de 8 antigifcentra. Service-Public.fr (F33954) verwijst naar deze site. Geen pagina met mentions légales gevonden."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "Licence Ouverte / Etalab 2.0",
+    "toestemming": "vrij",
+    "route": "dringend",
+    "frequentie": "dagelijks",
+    "gebruikt_in": [
+      "landinfo"
+    ],
+    "id": "fr-fr-alert",
+    "naam": "FR-Alert: startpagina",
+    "eigenaar": "Ministère de l'Intérieur (programma FR-Alert)",
+    "url": "https://fr-alert.gouv.fr",
+    "land": "FR",
+    "licentie_kenmerk": "les contenus de ce site sont proposés sous licence ouverte Etalab 2.0",
+    "opmerking": "Toont ook de lopende en vorige alerts. WebFetch faalt op het certificaat; curl werkt wel."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "Licence Ouverte / Etalab 2.0",
+    "toestemming": "vrij",
+    "route": "dringend",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "landinfo"
+    ],
+    "id": "fr-fr-alert-faq",
+    "naam": "FR-Alert: foire aux questions",
+    "eigenaar": "Ministère de l'Intérieur (programma FR-Alert)",
+    "url": "https://fr-alert.gouv.fr/foire-aux-questions",
+    "land": "FR",
+    "licentie_kenmerk": "les contenus de ce site sont proposés sous licence ouverte Etalab 2.0",
+    "opmerking": "Werking van FR-Alert (cell broadcast, geen inschrijving, geen app) en de rol van sirenes, radio, tv en sociale media in het SAIP."
+  },
+  {
+    "soort": "pdf",
+    "licentie": "Licence Ouverte / Etalab 2.0 (site ecologie.gouv.fr); illustraties © Antoine Dagan, CITIZENPRESS",
+    "toestemming": "vrij",
+    "route": "nazicht",
+    "frequentie": "maandelijks",
+    "gebruikt_in": [
+      "landinfo"
+    ],
+    "id": "fr-sgdsn-tous-responsables",
+    "naam": "SGDSN: gids Tous responsables. Face aux risques, agissons (2025)",
+    "eigenaar": "Secrétariat général de la défense et de la sécurité nationale (SGDSN); gehost door het ministère de la Transition écologique",
+    "url": "https://www.ecologie.gouv.fr/sites/default/files/documents/SGDSN_Guide_Tous%20responsables.pdf",
+    "land": "FR",
+    "licentie_kenmerk": "les contenus de ce site sont proposés sous licence ouverte Etalab 2.0",
+    "opmerking": "Noodkit 72 uur met 6 liter water per persoon, alarmsignalen, mise à l'abri, kernboodschap nucleair, verwijzing naar géorisques en info.gouv.fr/risques. Pdf van 20 november 2025. Tekst valt onder Etalab, de illustraties zijn van derden en mogen niet zomaar mee."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "niet gecontroleerd",
+    "toestemming": "na te zien",
+    "route": "dringend",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "landinfo"
+    ],
+    "id": "fr-info-gouv-risques",
+    "naam": "Info.gouv.fr: portail des risques",
+    "eigenaar": "Service d'information du Gouvernement (Premier ministre)",
+    "url": "https://www.info.gouv.fr/risques",
+    "land": "FR",
+    "opmerking": "Alleen als kanaal-url gebruikt; de gids Tous responsables noemt het als regeringsportaal. De site blokkeert geautomatiseerde aanvragen met een Cloudflare-controle (403), dus inhoud en licentie zijn niet gelezen. gouvernement.fr/risques verwijst hierheen."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "Licence Ouverte / Etalab 2.0",
+    "toestemming": "vrij",
+    "route": "dringend",
+    "frequentie": "maandelijks",
+    "gebruikt_in": [
+      "landinfo"
+    ],
+    "id": "fr-georisques",
+    "naam": "Géorisques: risques près de chez soi",
+    "eigenaar": "Ministère de la Transition écologique en BRGM",
+    "url": "https://www.georisques.gouv.fr",
+    "land": "FR",
+    "licentie_kenmerk": "Sauf mention contraire, tous les contenus de ce site sont sous licence etalab-2.0",
+    "opmerking": "Kanaal-url. Mogelijke latere bron voor kaartlagen (risico's per adres)."
+  },
+  {
+    "soort": "pdf",
+    "licentie": "auteursrecht ASNR, droits réservés",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "maandelijks",
+    "gebruikt_in": [
+      "landinfo"
+    ],
+    "id": "fr-asnr-rapport-2025-urgence",
+    "naam": "ASNR: rapport 2025, hoofdstuk 4, situations d'urgence radiologique et post-accidentelles",
+    "eigenaar": "Autorité de sûreté nucléaire et de radioprotection (ASNR)",
+    "url": "https://www.asnr.fr/sites/asnr/files/2026-05/Chapitre-04_Rapport-ASNR-2025.pdf",
+    "land": "FR",
+    "licentie_kenmerk": "Tout document édité par l'ASNR peut être récupéré, sous réserve d'une déclaration à l'ASNR",
+    "opmerking": "zones_bron: PPI-zones 2 km (phase réflexe), 5 km (évacuation immédiate), 20 km (jodium, eten en drinken, informatie); jodiumcampagnes 2016-2017, 2019-2021 en vanaf september 2024. Hergebruik vraagt een melding aan de ASNR, bronvermelding en de vermelding 'Droits réservés'."
+  },
+  {
+    "soort": "pdf",
+    "licentie": "auteursrecht ASNR, droits réservés",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "maandelijks",
+    "gebruikt_in": [
+      "landinfo"
+    ],
+    "id": "fr-asnr-panorama-inb-2025",
+    "naam": "ASNR: panorama des installations nucléaires de base au 31 décembre 2025",
+    "eigenaar": "Autorité de sûreté nucléaire et de radioprotection (ASNR)",
+    "url": "https://www.asnr.fr/sites/asnr/files/2026-05/panorama-INB-31-12-2025_Rapport-ASNR-2025.pdf",
+    "land": "FR",
+    "licentie_kenmerk": "Tout document édité par l'ASNR peut être récupéré, sous réserve d'une déclaration à l'ASNR",
+    "opmerking": "Lijst van de 35 nucleaire sites; basis voor de keuze van de 18 kerncentrales en de andere installaties. Niet als url in fr.json opgenomen."
+  },
+  {
+    "soort": "pdf",
+    "licentie": "Licence Ouverte / Etalab 2.0",
+    "toestemming": "vrij",
+    "route": "nazicht",
+    "frequentie": "maandelijks",
+    "gebruikt_in": [
+      "landinfo"
+    ],
+    "id": "fr-manche-ppi-flamanville-2019",
+    "naam": "Préfecture de la Manche: PPI du CNPE de Flamanville, document général (2019)",
+    "eigenaar": "Préfecture de la Manche",
+    "url": "https://www.manche.gouv.fr/index.php/contenu/telechargement/40017/283123/file/A)%20PPI%202019%20doc%20g%C3%A9n%C3%A9ral.pdf",
+    "land": "FR",
+    "licentie_kenmerk": "Sauf mention contraire, tous les contenus de ce site sont sous licence etalab-2.0",
+    "opmerking": "Zonebron voor Flamanville en controle van de nationale doctrine: evacuatie 0-5 km, schuilen 5-20 km in de phase immédiate, jodium tot 20 km. Alleen in de notities, niet als url in fr.json."
+  },
+  {
+    "soort": "pdf",
+    "licentie": "Licence Ouverte / Etalab 2.0",
+    "toestemming": "vrij",
+    "route": "nazicht",
+    "frequentie": "maandelijks",
+    "gebruikt_in": [
+      "landinfo"
+    ],
+    "id": "fr-manche-ppi-la-hague-2014",
+    "naam": "Préfecture de la Manche: plaquette PPI AREVA la Hague (2014)",
+    "eigenaar": "Préfecture de la Manche",
+    "url": "https://www.manche.gouv.fr/index.php/contenu/telechargement/19617/127680/file/plaquette_PPI_09-04-2014.pdf",
+    "land": "FR",
+    "licentie_kenmerk": "Sauf mention contraire, tous les contenus de ce site sont sous licence etalab-2.0",
+    "opmerking": "Zonebron voor La Hague: PPI 11 gemeenten binnen 5 km, sirene tot 2 km, geen jodium nodig. Editie 2014; een nieuwere editie is niet gevonden. Alleen in de notities."
+  },
+  {
+    "soort": "pdf",
+    "licentie": "auteursrecht CEA, tous droits réservés",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "maandelijks",
+    "gebruikt_in": [
+      "landinfo"
+    ],
+    "id": "fr-cea-marcoule-ppi-2024",
+    "naam": "CEA Marcoule: plaquette PPI, information des populations (november 2024)",
+    "eigenaar": "CEA Marcoule, met de préfectures du Gard en de Vaucluse",
+    "url": "https://www.cea.fr/Marcoule/Documents/CEA_Plaquette_PPI.pdf",
+    "land": "FR",
+    "licentie_kenmerk": "Tous les droits de reproduction sont réservés, y compris pour les documents téléchargeables",
+    "opmerking": "Zonebron voor Marcoule: 25 gemeenten binnen 10 km, geen jodium. Alleen in de notities."
+  },
+  {
+    "soort": "pdf",
+    "licentie": "auteursrecht Département de la Drôme, droits réservés",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "maandelijks",
+    "gebruikt_in": [
+      "landinfo"
+    ],
+    "id": "fr-drome-ppi-tricastin-2025",
+    "naam": "Préfecture de la Drôme: présentation PPI Tricastin, réunion publique CLIGEET (30 september 2025)",
+    "eigenaar": "Préfecture de la Drôme; gehost door het Département de la Drôme",
+    "url": "https://www.ladrome.fr/wp-content/uploads/2025/10/4-intervention-prefecturedrome.pdf",
+    "land": "FR",
+    "licentie_kenmerk": "Tous les droits de reproduction sont réservés",
+    "opmerking": "Zonebron voor Tricastin: PPI-perimeters 5 km en 20 km, 76 gemeenten in 4 departementen, PPI goedgekeurd in 2019. Alleen in de notities."
+  },
+  {
+    "soort": "pdf",
+    "licentie": "Licence Ouverte / Etalab 2.0",
+    "toestemming": "vrij",
+    "route": "nazicht",
+    "frequentie": "maandelijks",
+    "gebruikt_in": [
+      "landinfo"
+    ],
+    "id": "fr-drome-exercice-orano-2024",
+    "naam": "Préfecture de la Drôme: communiqué exercice Orano Pierrelatte (26 april 2024)",
+    "eigenaar": "Préfecture de la Drôme",
+    "url": "https://www.drome.gouv.fr/contenu/telechargement/28422/189891/file/20240426_CP_exercice_Orano.pdf",
+    "land": "FR",
+    "licentie_kenmerk": "Sauf mention contraire, tous les contenus de ce site sont sous licence etalab-2.0",
+    "opmerking": "Bevestigt dat Orano Pierrelatte een eigen PPI heeft; geen straal vermeld. Alleen in de notities."
+  },
+  {
+    "soort": "pdf",
+    "licentie": "Licence Ouverte / Etalab 2.0",
+    "toestemming": "vrij",
+    "route": "nazicht",
+    "frequentie": "maandelijks",
+    "gebruikt_in": [
+      "landinfo"
+    ],
+    "id": "fr-drome-exercice-framatome-2023",
+    "naam": "Préfecture de la Drôme: communiqué exercice Framatome Romans-sur-Isère (27 februari 2023)",
+    "eigenaar": "Préfecture de la Drôme",
+    "url": "https://www.drome.gouv.fr/contenu/telechargement/21911/140503/file/20230227_cp_exercice_framatome.pdf",
+    "land": "FR",
+    "licentie_kenmerk": "Sauf mention contraire, tous les contenus de ce site sont sous licence etalab-2.0",
+    "opmerking": "Bevestigt het PPI van Framatome Romans (mise à l'abri, Radio France, FR-Alert) en de sirenetest om 12 uur op de eerste woensdag in de Drôme; geen straal vermeld. Alleen in de notities."
+  },
+  {
+    "soort": "pdf",
+    "licentie": "Licence Ouverte / Etalab 2.0",
+    "toestemming": "vrij",
+    "route": "nazicht",
+    "frequentie": "maandelijks",
+    "gebruikt_in": [
+      "landinfo"
+    ],
+    "id": "fr-bdr-exercice-cadarache-2022",
+    "naam": "Préfecture des Bouches-du-Rhône: dossier de presse exercice CEA Cadarache (30 september 2022)",
+    "eigenaar": "Préfecture des Bouches-du-Rhône en CEA",
+    "url": "https://www.bouches-du-rhone.gouv.fr/contenu/telechargement/49342/279610/file/Dossier%20de%20presse%20-%20Exercice%20CEA%20CADARACHE%202022.pdf",
+    "land": "FR",
+    "licentie_kenmerk": "Sauf mention contraire, tous les contenus de ce site sont sous licence etalab-2.0",
+    "opmerking": "Bevestigt het PPI van Cadarache (7 gemeenten in de gevarenzone, 3 PPI-sirenes); de straal staat alleen op een kaart. Alleen in de notities."
+  },
+  {
+    "soort": "pdf",
+    "licentie": "auteursrecht CEA, tous droits réservés",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "maandelijks",
+    "gebruikt_in": [
+      "landinfo"
+    ],
+    "id": "fr-cea-saclay-ppi",
+    "naam": "CEA Paris-Saclay: plaquette PPI CEA Saclay en CIS bio international",
+    "eigenaar": "CEA Paris-Saclay, met de préfecture de l'Essonne",
+    "url": "https://www.cea.fr/paris-saclay/Documents/Saclay/plaquette%20PPI%20CEA%20Saclay.pdf",
+    "land": "FR",
+    "licentie_kenmerk": "Tous les droits de reproduction sont réservés, y compris pour les documents téléchargeables",
+    "opmerking": "Bevestigt het PPI van Saclay (schuilen, jodium op bevel); de straal staat niet in de leesbare tekst. Pdf uit 2013, gewijzigd in 2017. Alleen in de notities."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "auteursrecht, commercieel gebruik alleen met toestemming",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "maandelijks",
+    "gebruikt_in": [
+      "landinfo"
+    ],
+    "id": "fr-jodtabletten-ch",
+    "naam": "Jodtabletten Schweiz: Verteilung von Jodtabletten",
+    "eigenaar": "Geschäftsstelle Jodtabletten Schweiz (Armeeapotheke, Bund)",
+    "url": "https://jodtabletten.ch/de",
+    "land": "FR",
+    "licentie_kenmerk": "Der Inhalt dieser Site ist urheberrechtlich geschützt.",
+    "opmerking": "Zonebron voor Beznau, Gösgen en Leibstadt: jodium vooraf verdeeld binnen 50 km. Geldt voor inwoners van Zwitserland. Alleen in de notities."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "auteursrecht overheid; reproductie alleen met voorafgaande schriftelijke toestemming",
+    "toestemming": "na te zien",
+    "route": "dringend",
+    "frequentie": "dagelijks",
+    "gebruikt_in": [
+      "landinfo"
+    ],
+    "id": "lu-112-cgdis",
+    "naam": "CGDIS: noodnummer 112",
+    "eigenaar": "Corps grand-ducal d'incendie et de secours (CGDIS)",
+    "url": "https://112.public.lu/fr/urgences/112.html",
+    "land": "LU",
+    "licentie_kenmerk": "aucune reproduction des informations ou Services, totale ou partielle",
+    "opmerking": "Bron voor 112 (brandweer en ambulance, gratis, 24/24). Voorwaarden op 112.public.lu/fr/support/aspects-legaux.html. De site linkt nog naar de oude app GouvAlert."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "auteursrecht overheid; reproductie alleen met voorafgaande schriftelijke toestemming",
+    "toestemming": "na te zien",
+    "route": "dringend",
+    "frequentie": "dagelijks",
+    "gebruikt_in": [
+      "landinfo"
+    ],
+    "id": "lu-112-nummers-utiles",
+    "naam": "CGDIS: andere nuttige telefoonnummers",
+    "eigenaar": "Corps grand-ducal d'incendie et de secours (CGDIS)",
+    "url": "https://112.public.lu/fr/urgences/numerosutilesetgardes/utiles1.html",
+    "land": "LU",
+    "licentie_kenmerk": "aucune reproduction des informations ou Services, totale ou partielle",
+    "opmerking": "Bron voor 116 111 (Kanner-Jugendtelefon) en 116 000 (vermiste kinderen). Lange lijst met hulplijnen en ziekenhuizen; geen antigifcentrum."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "auteursrecht overheid; reproductie alleen met voorafgaande schriftelijke toestemming",
+    "toestemming": "na te zien",
+    "route": "dringend",
+    "frequentie": "dagelijks",
+    "gebruikt_in": [
+      "landinfo"
+    ],
+    "id": "lu-police-113",
+    "naam": "Police grand-ducale: noodnummer 113",
+    "eigenaar": "Police grand-ducale",
+    "url": "https://police.public.lu/fr/votre-police/appel-urgence-113.html",
+    "land": "LU",
+    "licentie_kenmerk": "aucune reproduction des informations ou Services, totale ou partielle",
+    "opmerking": "Bron voor 113 (gratis noodnummer politie). Beschikbaarheid 24/7 staat niet op de pagina."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "auteursrecht overheid; reproductie alleen met voorafgaande schriftelijke toestemming",
+    "toestemming": "na te zien",
+    "route": "dringend",
+    "frequentie": "dagelijks",
+    "gebruikt_in": [
+      "landinfo"
+    ],
+    "id": "lu-police-sos-detresse",
+    "naam": "Police grand-ducale: hulporganisaties, SOS Détresse",
+    "eigenaar": "Police grand-ducale",
+    "url": "https://police.public.lu/en/aide-aux-victimes/liste-organisation/sos-detresse.html",
+    "land": "LU",
+    "licentie_kenmerk": "aucune reproduction des informations ou Services, totale ou partielle",
+    "opmerking": "Bron voor 454 545 (psychologische steun). Openingsuren staan niet op de pagina."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "auteursrecht overheid; teksten raadplegen en printen toegestaan, ander materiaal reproduceren met bronvermelding, zonder wijziging en niet commercieel",
+    "toestemming": "na te zien",
+    "route": "dringend",
+    "frequentie": "dagelijks",
+    "gebruikt_in": [
+      "landinfo"
+    ],
+    "id": "lu-gouvernement-centre-antipoisons",
+    "naam": "Regering: persbericht Centre antipoisons (07.08.2026)",
+    "eigenaar": "Gouvernement du Grand-Duché de Luxembourg",
+    "url": "https://gouvernement.lu/fr/actualites/toutes_actualites/communiques/2026/08-aout/07-aev-cap.html",
+    "land": "LU",
+    "licentie_kenmerk": "une autorisation d'utilisation et en aucun cas une cession de droits",
+    "opmerking": "Bron voor 8002-5500 en voor de rol van het Antigifcentrum in Brussel. Een persbericht; liever een vaste pagina zoeken (sante.public.lu gaf 403)."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "auteursrecht overheid; reproductie alleen met voorafgaande schriftelijke toestemming",
+    "toestemming": "na te zien",
+    "route": "dringend",
+    "frequentie": "dagelijks",
+    "gebruikt_in": [
+      "landinfo"
+    ],
+    "id": "lu-alert",
+    "naam": "LU-Alert",
+    "eigenaar": "Gouvernement du Grand-Duché de Luxembourg",
+    "url": "https://lu-alert.lu",
+    "land": "LU",
+    "licentie_kenmerk": "aucune reproduction des informations ou Services, totale ou partielle",
+    "opmerking": "Nationaal alarmsysteem; toont alle actieve alarmen. Voorwaarden noemen het Fonds Kirchberg voor toestemming."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "auteursrecht overheid; reproductie alleen met voorafgaande schriftelijke toestemming",
+    "toestemming": "na te zien",
+    "route": "dringend",
+    "frequentie": "dagelijks",
+    "gebruikt_in": [
+      "landinfo"
+    ],
+    "id": "lu-alert-systeme",
+    "naam": "LU-Alert: het alarm- en informatiesysteem",
+    "eigenaar": "Gouvernement du Grand-Duché de Luxembourg",
+    "url": "https://lu-alert.lu/fr/tout-savoir-sur-lu-alert/systeme-alerte-information.html",
+    "land": "LU",
+    "licentie_kenmerk": "aucune reproduction des informations ou Services, totale ou partielle",
+    "opmerking": "Kanalen (LB-SMS, cell broadcast, app, website), geen inschrijving nodig voor sms en cell broadcast, hoe een echt bericht te herkennen."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "auteursrecht overheid; reproductie alleen met voorafgaande schriftelijke toestemming",
+    "toestemming": "na te zien",
+    "route": "dringend",
+    "frequentie": "dagelijks",
+    "gebruikt_in": [
+      "landinfo"
+    ],
+    "id": "lu-infocrise",
+    "naam": "infocrise.lu: startpagina",
+    "eigenaar": "Gouvernement du Grand-Duché de Luxembourg (Haut-Commissariat à la protection nationale)",
+    "url": "https://infocrise.public.lu",
+    "land": "LU",
+    "licentie_kenmerk": "aucune reproduction des informations ou Services, totale ou partielle",
+    "opmerking": "Officiële crisissite. Eigenaar afgeleid uit logo en footer; de site noemt geen beheerder."
+  },
+  {
+    "soort": "pdf",
+    "licentie": "auteursrecht overheid; reproductie alleen met voorafgaande schriftelijke toestemming",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "maandelijks",
+    "gebruikt_in": [
+      "landinfo"
+    ],
+    "id": "lu-infocrise-brochure-nucleair",
+    "naam": "infocrise.lu: brochure Que faire en cas d'alerte nucléaire ? (FR)",
+    "eigenaar": "Service information et presse du gouvernement, met ministère de l'Intérieur, Direction de la santé en HCPN",
+    "url": "https://infocrise.public.lu/dam-assets/publications/urgence-nucl%C3%A9aire/BROCHURE-CATTENOM-QUE-FAIRE-EN-CAS-ALERTE-NUCLEAIRE.pdf",
+    "land": "LU",
+    "licentie_kenmerk": "aucune reproduction des informations ou Services, totale ou partielle",
+    "opmerking": "Colofon zegt oktober 2014 (nog met Administration des services de secours); de publicatiepagina vermeldt 2021. Ook in het Engels, Duits, Luxemburgs en Portugees."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "auteursrecht overheid; reproductie alleen met voorafgaande schriftelijke toestemming",
+    "toestemming": "na te zien",
+    "route": "dringend",
+    "frequentie": "dagelijks",
+    "gebruikt_in": [
+      "landinfo"
+    ],
+    "id": "lu-infocrise-avertissement",
+    "naam": "infocrise.lu: waarschuwing van de bevolking bij een kernongeval",
+    "eigenaar": "Gouvernement du Grand-Duché de Luxembourg (Haut-Commissariat à la protection nationale)",
+    "url": "https://infocrise.public.lu/fr/accident-nucleaire/plan-gouvernemental/avertissement-population.html",
+    "land": "LU",
+    "licentie_kenmerk": "aucune reproduction des informations ou Services, totale ou partielle",
+    "opmerking": "Sirenes: test elke eerste maandag van de maand om 12 uur, nationaal alarm met stijgende en dalende toon. Noemt nog het Twitter-account infocriseLU."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "auteursrecht overheid; de afstanden van de zones zijn feiten",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "maandelijks",
+    "gebruikt_in": [
+      "landinfo",
+      "kaartlagen"
+    ],
+    "id": "lu-infocrise-zones",
+    "naam": "infocrise.lu: primaire en secundaire planningszone",
+    "eigenaar": "Gouvernement du Grand-Duché de Luxembourg (Haut-Commissariat à la protection nationale)",
+    "url": "https://infocrise.public.lu/fr/accident-nucleaire/plan-gouvernemental/zones-planifications-urgence/zones-planification-primaire-secondaire.html",
+    "land": "LU",
+    "licentie_kenmerk": "aucune reproduction des informations ou Services, totale ou partielle",
+    "opmerking": "Bron van de Luxemburgse zones rond Cattenom: evacuatie 15 km, schuilen en jodium 25 km, secundaire zone het hele land."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "auteursrecht overheid; reproductie alleen met voorafgaande schriftelijke toestemming",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "maandelijks",
+    "gebruikt_in": [
+      "landinfo"
+    ],
+    "id": "lu-infocrise-mise-a-l-abri",
+    "naam": "infocrise.lu: schuilen bij een kernongeval",
+    "eigenaar": "Gouvernement du Grand-Duché de Luxembourg (Haut-Commissariat à la protection nationale)",
+    "url": "https://infocrise.public.lu/fr/accident-nucleaire/gestes-protection/mise-a-l-abri.html",
+    "land": "LU",
+    "licentie_kenmerk": "aucune reproduction des informations ou Services, totale ou partielle",
+    "opmerking": "Schuiladvies: dichtstbijzijnde gebouw, ramen en ventilatie dicht, benedenverdieping of kelder, in de regel maximaal 48 uur."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "auteursrecht overheid; reproductie alleen met voorafgaande schriftelijke toestemming",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "maandelijks",
+    "gebruikt_in": [
+      "landinfo"
+    ],
+    "id": "lu-letzprepare-guide",
+    "naam": "Letz Prepare: Mon guide 72h d'autonomie (pagina)",
+    "eigenaar": "Ministère d'État / Haut-Commissariat à la Protection nationale",
+    "url": "https://letzprepare.public.lu/fr/guide.html",
+    "land": "LU",
+    "licentie_kenmerk": "n'est permise sans l'autorisation écrite préalable du Fonds Kirchberg",
+    "opmerking": "Advies 72 uur autonomie. Links naar de gids en de checklist in pdf."
+  },
+  {
+    "soort": "pdf",
+    "licentie": "auteursrecht overheid; reproductie alleen met voorafgaande schriftelijke toestemming",
+    "toestemming": "na te zien",
+    "route": "dringend",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "landinfo"
+    ],
+    "id": "lu-letzprepare-guide-pdf",
+    "naam": "Letz Prepare: Mon guide 72h d'autonomie (pdf, FR, oktober 2026)",
+    "eigenaar": "Ministère d'État / Haut-Commissariat à la Protection nationale",
+    "url": "https://letzprepare.public.lu/dam-assets/images/guide-letzeprepare/hcpn-campagne26-guide-accessible-fr-002.pdf",
+    "land": "LU",
+    "licentie_kenmerk": "n'est permise sans l'autorisation écrite préalable du Fonds Kirchberg",
+    "opmerking": "Bron voor water (ten minste 3 liter per persoon per dag), radio RTL en 100,7, groen nummer 8002 7788, sirenesignalen en de kernboodschap nucleair. Ongeveer 300 000 gedrukte exemplaren vanaf 14 oktober 2026. Bestandsnaam eindigt op -002: kan bij een nieuwe druk veranderen."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "auteursrecht overheid; reproductie alleen met voorafgaande schriftelijke toestemming",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "maandelijks",
+    "gebruikt_in": [
+      "landinfo"
+    ],
+    "id": "lu-infocrise-jodium",
+    "naam": "infocrise.lu: inname van jodiumtabletten",
+    "eigenaar": "Gouvernement du Grand-Duché de Luxembourg (Haut-Commissariat à la protection nationale)",
+    "url": "https://infocrise.public.lu/fr/accident-nucleaire/gestes-protection/prise-comprimes-iodure-potassium.html",
+    "land": "LU",
+    "licentie_kenmerk": "aucune reproduction des informations ou Services, totale ou partielle",
+    "opmerking": "Niet als bron-URL in lu.json; onderbouwt de opmerking nucleair: alleen op instructie, tabletten aanvragen bij de gemeente."
+  },
+  {
+    "soort": "pdf",
+    "licentie": "auteursrecht overheid; de afstanden van de zones zijn feiten",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "maandelijks",
+    "gebruikt_in": [
+      "landinfo"
+    ],
+    "id": "lu-infocrise-piu-en",
+    "naam": "infocrise.lu: Nuclear emergency response plan, public version (EN)",
+    "eigenaar": "Gouvernement du Grand-Duché de Luxembourg (Haut-Commissariat à la protection nationale)",
+    "url": "https://infocrise.public.lu/dam-assets/publications/urgence-nucl%C3%A9aire/PLAN-NUCLEAR-EMERGENCY-PUBLIC-VERSION-LR.pdf",
+    "land": "LU",
+    "licentie_kenmerk": "aucune reproduction des informations ou Services, totale ou partielle",
+    "opmerking": "Niet als bron-URL in lu.json; onderbouwt de opmerking nucleair. Plan aangenomen op 15 oktober 2014; zones 15 en 25 km; jodium preventief in het hele land verdeeld. Franse versie: PLAN-URGENCE-NUCLEAIRE-VERSION-PUBLIQUE-LR.pdf."
+  },
+  {
+    "soort": "pdf",
+    "licentie": "Licence Ouverte / Etalab 2.0",
+    "toestemming": "vrij",
+    "route": "nazicht",
+    "frequentie": "maandelijks",
+    "gebruikt_in": [
+      "landinfo"
+    ],
+    "id": "lu-moselle-ppi-cattenom",
+    "naam": "Préfecture de la Moselle: brochure PPI CNPE Cattenom (2021)",
+    "eigenaar": "Préfecture de la Moselle (État français)",
+    "url": "https://www.moselle.gouv.fr/contenu/telechargement/20780/144398/file/BROCHURE INFO - PPI CNPE CATTENOM (2021).pdf",
+    "land": "LU",
+    "licentie_kenmerk": "licence etalab-2.0",
+    "opmerking": "Niet als bron-URL in lu.json; onderbouwt de Franse PPI van 20 km in de opmerking nucleair (reflex 2 km, onmiddellijke evacuatie 5 km). Land LU omdat het voor de Luxemburgse landinfo gebruikt wordt. URL bevat spaties; zo nodig coderen."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "reproductie toegestaan met bronvermelding en 'Droits réservés', niet commercieel",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "maandelijks",
+    "gebruikt_in": [
+      "landinfo"
+    ],
+    "id": "lu-asnr-rapport-2019-ppi",
+    "naam": "ASN: jaarrapport 2019, uitbreiding van de PPI tot 20 km",
+    "eigenaar": "Autorité de sûreté nucléaire et de radioprotection (ASNR)",
+    "url": "https://regulation-oversight.asnr.fr/annual_report/2019gb/166/",
+    "land": "LU",
+    "licentie_kenmerk": "toute utilisation à des fins commerciales ou publicitaires est exclue",
+    "opmerking": "Niet als bron-URL in lu.json; bevestigt de PPI van 20 km voor alle Franse kerncentrales (ook Chooz). Voorwaarden gelezen op asnr.fr/mentions-legales. Tekst op de pagina is deels verminkt."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "CC0 1.0 (rijksoverheid.nl); beeldmateriaal uitgezonderd",
+    "toestemming": "vrij",
+    "route": "dringend",
+    "frequentie": "dagelijks",
+    "gebruikt_in": [
+      "landinfo"
+    ],
+    "id": "nl-rijksoverheid-112-bellen",
+    "naam": "Rijksoverheid: Wat gebeurt er als ik alarmnummer 112 bel?",
+    "eigenaar": "Rijksoverheid Nederland",
+    "url": "https://www.rijksoverheid.nl/onderwerpen/alarmnummer-112/vraag-en-antwoord/wat-gebeurt-er-als-ik-alarmnummer-112-bel",
+    "land": "NL",
+    "licentie_kenmerk": "Voor deze website geldt de Creative Commons zero-verklaring (CC0 1.0).",
+    "opmerking": "Bron van 112 in nl.json: altijd bereikbaar, ook zonder beltegoed of geldige simkaart."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "niet nagegaan; auteursrecht van de organisatie",
+    "toestemming": "na te zien",
+    "route": "dringend",
+    "frequentie": "dagelijks",
+    "gebruikt_in": [
+      "landinfo"
+    ],
+    "id": "nl-politie-contact",
+    "naam": "Politie: contact",
+    "eigenaar": "Politie (Nationale Politie)",
+    "url": "https://www.politie.nl/contact",
+    "land": "NL",
+    "opmerking": "Bron van 0900-8844 (2 cent per minuut) en het nummer vanuit het buitenland. www.politie.nl/copyright gaf op 17-11-2026 een 404; licentie nog op te zoeken."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "CC0 (nederlandveilig.nl); foto's uitgezonderd",
+    "toestemming": "vrij",
+    "route": "dringend",
+    "frequentie": "dagelijks",
+    "gebruikt_in": [
+      "landinfo"
+    ],
+    "id": "nl-nederlandveilig-noodnummers",
+    "naam": "Nederland veilig: noodnummers",
+    "eigenaar": "Ministerie van Justitie en Veiligheid (Rijksoverheid)",
+    "url": "https://nederlandveilig.nl/noodnummers",
+    "land": "NL",
+    "licentie_kenmerk": "Op de inhoud van deze website is de Creative Commons zero verklaring (CC0) van toepassing.",
+    "opmerking": "Bron van 0900-0904 (brandweer zonder spoed). Noemt de huisartsenpost zonder landelijk nummer."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "CC0 (nctv.nl); beeld uitgezonderd",
+    "toestemming": "vrij",
+    "route": "dringend",
+    "frequentie": "dagelijks",
+    "gebruikt_in": [
+      "landinfo"
+    ],
+    "id": "nl-nctv-communicatiemiddelen",
+    "naam": "NCTV: communicatiemiddelen bij risico- en crisiscommunicatie",
+    "eigenaar": "Nationaal Coördinator Terrorismebestrijding en Veiligheid (ministerie van Justitie en Veiligheid)",
+    "url": "https://www.nctv.nl/onderwerpen/r/risico--en-crisiscommunicatie/communicatiemiddelen",
+    "land": "NL",
+    "licentie_kenmerk": "Tenzij anders vermeld is op de inhoud van deze website de Creative Commons zero verklaring (CC0) van toepassing.",
+    "opmerking": "Bron van het publieksinformatienummer 0800-1351 (noodnummer en kanaal). Linkt naar de factsheet 0800-1351 van 23-05-2025."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "niet nagegaan; auteursrecht van de organisatie",
+    "toestemming": "na te zien",
+    "route": "dringend",
+    "frequentie": "dagelijks",
+    "gebruikt_in": [
+      "landinfo"
+    ],
+    "id": "nl-113-hulplijn",
+    "naam": "113 Zelfmoordpreventie: hulplijn",
+    "eigenaar": "113 Zelfmoordpreventie",
+    "url": "https://www.113.nl/maak-je-je-zorgen-om-iemand/neem-contact-met-ons-op/hulplijn",
+    "land": "NL",
+    "opmerking": "Bron van 113: gratis, dag en nacht, anoniem. Het oudere nummer 0800-0113 staat niet op de geopende pagina's en is weggelaten."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "niet nagegaan; auteursrecht van de organisatie",
+    "toestemming": "na te zien",
+    "route": "dringend",
+    "frequentie": "dagelijks",
+    "gebruikt_in": [
+      "landinfo"
+    ],
+    "id": "nl-veilig-thuis",
+    "naam": "Veilig Thuis",
+    "eigenaar": "Veilig Thuis",
+    "url": "https://veiligthuis.nl/",
+    "land": "NL",
+    "opmerking": "Bron van 0800-2000: gratis, 24/7, anoniem mogelijk; bij directe nood 112."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "niet nagegaan; auteursrecht van de organisatie",
+    "toestemming": "na te zien",
+    "route": "dringend",
+    "frequentie": "dagelijks",
+    "gebruikt_in": [
+      "landinfo"
+    ],
+    "id": "nl-kindertelefoon",
+    "naam": "De Kindertelefoon",
+    "eigenaar": "De Kindertelefoon",
+    "url": "https://www.kindertelefoon.nl/",
+    "land": "NL",
+    "opmerking": "Bron van 0800-0432: gratis, elke dag 11.00 tot 21.00 uur."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "niet nagegaan; auteursrecht van de organisatie",
+    "toestemming": "na te zien",
+    "route": "dringend",
+    "frequentie": "dagelijks",
+    "gebruikt_in": [
+      "landinfo"
+    ],
+    "id": "nl-116000",
+    "naam": "116 000 Vermiste kinderen",
+    "eigenaar": "Centrum Internationale Kinderontvoering",
+    "url": "https://www.116000.nl/",
+    "land": "NL",
+    "opmerking": "Bron van 116 000 en het nummer vanuit het buitenland. Openingsuren en kosten staan niet op de pagina."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "niet nagegaan; auteursrecht van de organisatie",
+    "toestemming": "na te zien",
+    "route": "dringend",
+    "frequentie": "dagelijks",
+    "gebruikt_in": [
+      "landinfo"
+    ],
+    "id": "nl-meld-misdaad-anoniem",
+    "naam": "Meld Misdaad Anoniem",
+    "eigenaar": "Meld Misdaad Anoniem (M.)",
+    "url": "https://www.meldmisdaadanoniem.nl/",
+    "land": "NL",
+    "opmerking": "Bron van 0800 7000 en de openingsuren. De pagina noemt de beherende organisatie niet."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "CC0 1.0 (nl-alert.nl); beeldmateriaal uitgezonderd",
+    "toestemming": "vrij",
+    "route": "dringend",
+    "frequentie": "dagelijks",
+    "gebruikt_in": [
+      "landinfo"
+    ],
+    "id": "nl-nl-alert",
+    "naam": "NL-Alert",
+    "eigenaar": "Rijksoverheid Nederland",
+    "url": "https://www.nl-alert.nl",
+    "land": "NL",
+    "licentie_kenmerk": "Voor deze website geldt de Creative Commons zero-verklaring (CC0 1.0).",
+    "opmerking": "Kanaal-URL van NL-Alert in nl.json. Noemt het volgende testbericht: maandag 7 december 2026 rond 12.00 uur."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "CC0 1.0 (denkvooruit.nl); foto's, video's en infographics uitgezonderd",
+    "toestemming": "vrij",
+    "route": "dringend",
+    "frequentie": "dagelijks",
+    "gebruikt_in": [
+      "landinfo"
+    ],
+    "id": "nl-denk-vooruit-nl-alert",
+    "naam": "Denk vooruit: NL-Alert",
+    "eigenaar": "Rijksoverheid Nederland (campagne Denk vooruit)",
+    "url": "https://www.denkvooruit.nl/bereid-je-voor/zo-krijg-je-een-waarschuwing/nl-alert",
+    "land": "NL",
+    "licentie_kenmerk": "Tenzij anders vermeld is op de inhoud van deze website de Creative Commons zero verklaring (CC0 1.0) van toepassing.",
+    "opmerking": "Bron van NL-Alert in nl.json: cell broadcast, geen aanmelding, testbericht eerste maandag van juni en december."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "CC0 (nederlandveilig.nl); foto's uitgezonderd",
+    "toestemming": "vrij",
+    "route": "dringend",
+    "frequentie": "dagelijks",
+    "gebruikt_in": [
+      "landinfo"
+    ],
+    "id": "nl-nederlandveilig",
+    "naam": "Nederland veilig",
+    "eigenaar": "Ministerie van Justitie en Veiligheid (Rijksoverheid)",
+    "url": "https://www.nederlandveilig.nl",
+    "land": "NL",
+    "licentie_kenmerk": "Op de inhoud van deze website is de Creative Commons zero verklaring (CC0) van toepassing.",
+    "opmerking": "Kanaal-URL in nl.json. crisis.nl stuurde op 17-11-2026 door (302) naar deze site."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "CC0 (nederlandveilig.nl); foto's uitgezonderd",
+    "toestemming": "vrij",
+    "route": "dringend",
+    "frequentie": "dagelijks",
+    "gebruikt_in": [
+      "landinfo"
+    ],
+    "id": "nl-nederlandveilig-over",
+    "naam": "Nederland veilig: over deze website",
+    "eigenaar": "Ministerie van Justitie en Veiligheid (Rijksoverheid)",
+    "url": "https://nederlandveilig.nl/over-de-website",
+    "land": "NL",
+    "licentie_kenmerk": "Op de inhoud van deze website is de Creative Commons zero verklaring (CC0) van toepassing.",
+    "opmerking": "Bron van de beschrijving van nederlandveilig.nl en van de CC0-verklaring."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "CC0 1.0 (rijksoverheid.nl); beeldmateriaal uitgezonderd",
+    "toestemming": "vrij",
+    "route": "dringend",
+    "frequentie": "dagelijks",
+    "gebruikt_in": [
+      "landinfo"
+    ],
+    "id": "nl-rijksoverheid-regionale-omroepen",
+    "naam": "Rijksoverheid: regionale publieke omroepen",
+    "eigenaar": "Rijksoverheid Nederland",
+    "url": "https://www.rijksoverheid.nl/onderwerpen/media-en-publieke-omroep/regionale-publieke-omroepen",
+    "land": "NL",
+    "licentie_kenmerk": "Voor deze website geldt de Creative Commons zero-verklaring (CC0 1.0).",
+    "opmerking": "Kanaal-URL van de calamiteitenzender: 13 regionale publieke omroepen, afspraken met alle regionale omroepen over de rol van calamiteitenzender. Noemt NPO Radio 1 niet."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "CC0 1.0 (rijksoverheid.nl); beeldmateriaal uitgezonderd",
+    "toestemming": "vrij",
+    "route": "dringend",
+    "frequentie": "dagelijks",
+    "gebruikt_in": [
+      "landinfo"
+    ],
+    "id": "nl-rijksoverheid-sirene-test",
+    "naam": "Rijksoverheid: Wanneer wordt de sirene getest?",
+    "eigenaar": "Rijksoverheid Nederland",
+    "url": "https://www.rijksoverheid.nl/onderwerpen/veiligheidsregios-en-crisisbeheersing/vraag-en-antwoord/wanneer-wordt-de-sirene-getest",
+    "land": "NL",
+    "licentie_kenmerk": "Voor deze website geldt de Creative Commons zero-verklaring (CC0 1.0).",
+    "opmerking": "Bron van de sirenetest in nl.json. Noemt de uitfasering van het WAS per 1 januari 2028 niet (Kamerstuk 29 517, nr. 276)."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "CC0 1.0 (rijksoverheid.nl); beeldmateriaal uitgezonderd",
+    "toestemming": "vrij",
+    "route": "dringend",
+    "frequentie": "dagelijks",
+    "gebruikt_in": [
+      "landinfo"
+    ],
+    "id": "nl-rijksoverheid-veiligheidsregios",
+    "naam": "Rijksoverheid: veiligheidsregio's",
+    "eigenaar": "Rijksoverheid Nederland",
+    "url": "https://www.rijksoverheid.nl/onderwerpen/veiligheidsregios-en-crisisbeheersing/veiligheidsregios",
+    "land": "NL",
+    "licentie_kenmerk": "Voor deze website geldt de Creative Commons zero-verklaring (CC0 1.0).",
+    "opmerking": "Kanaal-URL in nl.json: kaart en lijst van de 25 veiligheidsregio's."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "CC0 (nederlandveilig.nl); foto's uitgezonderd",
+    "toestemming": "vrij",
+    "route": "dringend",
+    "frequentie": "dagelijks",
+    "gebruikt_in": [
+      "landinfo"
+    ],
+    "id": "nl-nederlandveilig-veiligheidsregio",
+    "naam": "Nederland veilig: jouw veiligheidsregio",
+    "eigenaar": "Ministerie van Justitie en Veiligheid (Rijksoverheid)",
+    "url": "https://nederlandveilig.nl/jouw-veiligheidsregio",
+    "land": "NL",
+    "licentie_kenmerk": "Op de inhoud van deze website is de Creative Commons zero verklaring (CC0) van toepassing.",
+    "opmerking": "Bron van het kanaal Veiligheidsregio; lijst met de websites van alle 25 regio's."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "CC0 1.0 (rijksoverheid.nl); beeldmateriaal uitgezonderd",
+    "toestemming": "vrij",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "landinfo"
+    ],
+    "id": "nl-rijksoverheid-kernongeval-beschermen",
+    "naam": "Rijksoverheid: Hoe kan ik mezelf beschermen bij een kernongeval?",
+    "eigenaar": "Rijksoverheid Nederland",
+    "url": "https://www.rijksoverheid.nl/documenten/vraag-en-antwoord/straling/hoe-kan-ik-mezelf-beschermen-bij-een-kernongeval",
+    "land": "NL",
+    "licentie_kenmerk": "Voor deze website geldt de Creative Commons zero-verklaring (CC0 1.0).",
+    "opmerking": "Bron van de nucleaire kernboodschap in nl.json. Het register heeft al rijksoverheid-hoe-kan-ik-mezelf-beschermen-bij-een-kernongev met een ander pad (/onderwerpen/straling/vraag-en-antwoord/...); waarschijnlijk dezelfde pagina, samenvoegen na nazicht."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "CC0 1.0 (rijksoverheid.nl); beeldmateriaal uitgezonderd",
+    "toestemming": "vrij",
+    "route": "nazicht",
+    "frequentie": "wekelijks",
+    "gebruikt_in": [
+      "landinfo"
+    ],
+    "id": "nl-rijksoverheid-jodiumtabletten",
+    "naam": "Rijksoverheid: jodiumtabletten",
+    "eigenaar": "Rijksoverheid Nederland",
+    "url": "https://www.rijksoverheid.nl/onderwerpen/straling/jodiumtabletten",
+    "land": "NL",
+    "licentie_kenmerk": "Voor deze website geldt de Creative Commons zero-verklaring (CC0 1.0).",
+    "opmerking": "Tabel met doelgroepen per installatie (Borssele, Delft, Petten, Doel, Mol, Tihange, Emsland). Meldt dat Emsland 'in 2024' gesloten is (volgens het milieuministerie van Niedersachsen eindigde de stroomproductie op 15-04-2023) en dat in acht regio's geen jodiumtabletten meer nodig zijn. Veld jodium_bron in nl.json."
+  },
+  {
+    "soort": "pdf",
+    "licentie": "uitgave van het ministerie van IenW; geen licentievermelding in het document; de documentpagina op rijksoverheid.nl valt onder CC0",
+    "toestemming": "na te zien",
+    "route": "nazicht",
+    "frequentie": "maandelijks",
+    "gebruikt_in": [
+      "landinfo"
+    ],
+    "id": "nl-lcp-straling-2021",
+    "naam": "Landelijk Crisisplan Straling (april 2021)",
+    "eigenaar": "Ministerie van Infrastructuur en Waterstaat",
+    "url": "https://open.overheid.nl/documenten/ronl-99c4f56e-4331-4ec8-b30c-cc94ebd9078a/pdf",
+    "land": "NL",
+    "opmerking": "Bron van alle zones in nl.json: tabel 2 (Borssele, HFR Petten, HOR Delft), tabel 8 (Doel, Emsland, Mol, Tihange) en tabel 9. Documentpagina: rijksoverheid.nl/onderwerpen/straling/documenten/rapporten/2021/04/30/landelijk-crisisplan-straling. Nagaan of er een herziene versie komt (oefening 2024, sluiting Emsland)."
+  },
+  {
+    "soort": "pagina",
+    "licentie": "geen auteursrecht op officiële bekendmakingen (artikel 11 Auteurswet), vrij hergebruik tenzij anders vermeld",
+    "toestemming": "vrij",
+    "route": "nazicht",
+    "frequentie": "maandelijks",
+    "gebruikt_in": [
+      "landinfo"
+    ],
+    "id": "nl-kamervragen-schuilkelders-2024",
+    "naam": "Antwoord op Kamervragen over openbare schuilkelders (Aanhangsel Handelingen 2023-2024, nr. 2102)",
+    "eigenaar": "Tweede Kamer der Staten-Generaal; antwoord van de minister van Justitie en Veiligheid",
+    "url": "https://zoek.officielebekendmakingen.nl/ah-tk-20232024-2102.html",
+    "land": "NL",
+    "licentie_kenmerk": "vrij mag worden hergebruikt, tenzij dat in de publicatie anders is aangegeven",
+    "opmerking": "Bron van officieel_netwerk false (veld netwerk_bron): het kabinet besloot in 1990 de rol van openbare schuilgelegenheden te beëindigen; gemeenten beslissen zelf. Licentiezin van overheid.nl/help/officiele-bekendmakingen/bestanden-en-hergebruik."
   }
 ]

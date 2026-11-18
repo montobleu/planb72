@@ -1,0 +1,21 @@
+---
+// Zet vóór het tekenen welke landen gekozen zijn, zodat blokken van andere landen
+// (data-land="xx") niet even zichtbaar worden. De regels hieronder verbergen een blok
+// als zijn land niet in <html data-landen> staat.
+import { landcodes, STANDAARD_LAND } from '../lib/data';
+const regels = landcodes
+  .map((c) => `html[data-landen]:not([data-landen~="${c}"]) [data-land="${c}"]{display:none!important}`)
+  .join('\n');
+---
+<style is:inline set:html={regels}></style>
+<script is:inline define:vars={{ alle: landcodes, standaard: STANDAARD_LAND }}>
+  var d = document.documentElement;
+  d.dataset.alleLanden = alle.join(' ');
+  d.dataset.standaardLand = standaard;
+  var gekozen = [standaard];
+  try {
+    var k = JSON.parse(localStorage.getItem('pb72-landen') || 'null');
+    if (Array.isArray(k)) { k = k.filter(function (c) { return alle.indexOf(c) >= 0; }); if (k.length) gekozen = k; }
+  } catch (e) {}
+  d.dataset.landen = gekozen.join(' ');
+</script>

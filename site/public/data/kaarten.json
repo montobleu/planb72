@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-11-17T19:23:07+00:00",
+  "bijgewerkt": "2026-11-18T07:48:31+00:00",
   "bron": "© OpenStreetMap-bijdragers (ODbL), basiskaart Protomaps",
   "pakketten": [
     {
@@ -42,7 +42,7 @@
       "id": "be-z9",
       "naam": "België, overzicht",
       "omschrijving": "Gemeenten, hoofdwegen, rivieren",
-      "groep": "belgie",
+      "groep": "land",
       "bbox": [
         2.54,
         49.49,
@@ -54,13 +54,14 @@
       "bytes": 10538252,
       "pad": "/data/be-z9.pmtiles",
       "r2": "be-z9.pmtiles",
-      "build": "20261117"
+      "build": "20261117",
+      "land": "be"
     },
     {
       "id": "be-z12",
       "naam": "België, standaard",
       "omschrijving": "Alle wegen en dorpen, geen gebouwen",
-      "groep": "belgie",
+      "groep": "land",
       "bbox": [
         2.54,
         49.49,
@@ -72,7 +73,8 @@
       "bytes": 140361407,
       "pad": "/data/be-z12.pmtiles",
       "r2": "be-z12.pmtiles",
-      "build": "20261117"
+      "build": "20261117",
+      "land": "be"
     },
     {
       "id": "be-wvl-z14",
@@ -90,7 +92,8 @@
       "bytes": 58309232,
       "pad": "/data/be-wvl-z14.pmtiles",
       "r2": "be-wvl-z14.pmtiles",
-      "build": "20261117"
+      "build": "20261117",
+      "land": "be"
     },
     {
       "id": "be-ovl-z14",
@@ -108,7 +111,8 @@
       "bytes": 78296699,
       "pad": "/data/be-ovl-z14.pmtiles",
       "r2": "be-ovl-z14.pmtiles",
-      "build": "20261117"
+      "build": "20261117",
+      "land": "be"
     },
     {
       "id": "be-ant-z14",
@@ -126,7 +130,8 @@
       "bytes": 61988215,
       "pad": "/data/be-ant-z14.pmtiles",
       "r2": "be-ant-z14.pmtiles",
-      "build": "20261117"
+      "build": "20261117",
+      "land": "be"
     },
     {
       "id": "be-lim-z14",
@@ -144,7 +149,8 @@
       "bytes": 66158296,
       "pad": "/data/be-lim-z14.pmtiles",
       "r2": "be-lim-z14.pmtiles",
-      "build": "20261117"
+      "build": "20261117",
+      "land": "be"
     },
     {
       "id": "be-bra-z14",
@@ -162,7 +168,8 @@
       "bytes": 65776099,
       "pad": "/data/be-bra-z14.pmtiles",
       "r2": "be-bra-z14.pmtiles",
-      "build": "20261117"
+      "build": "20261117",
+      "land": "be"
     },
     {
       "id": "be-hen-z14",
@@ -180,7 +187,8 @@
       "bytes": 97619750,
       "pad": "/data/be-hen-z14.pmtiles",
       "r2": "be-hen-z14.pmtiles",
-      "build": "20261117"
+      "build": "20261117",
+      "land": "be"
     },
     {
       "id": "be-nam-z14",
@@ -198,7 +206,8 @@
       "bytes": 53174479,
       "pad": "/data/be-nam-z14.pmtiles",
       "r2": "be-nam-z14.pmtiles",
-      "build": "20261117"
+      "build": "20261117",
+      "land": "be"
     },
     {
       "id": "be-lui-z14",
@@ -216,7 +225,8 @@
       "bytes": 79767868,
       "pad": "/data/be-lui-z14.pmtiles",
       "r2": "be-lui-z14.pmtiles",
-      "build": "20261117"
+      "build": "20261117",
+      "land": "be"
     },
     {
       "id": "be-lux-z14",
@@ -234,6 +244,3104 @@
       "bytes": 65458072,
       "pad": "/data/be-lux-z14.pmtiles",
       "r2": "be-lux-z14.pmtiles",
+      "build": "20261117",
+      "land": "be"
+    },
+    {
+      "id": "de-z9",
+      "naam": "Duitsland, overzicht",
+      "omschrijving": "Gemeenten, hoofdwegen, rivieren",
+      "groep": "land",
+      "land": "de",
+      "bbox": [
+        5.866,
+        47.27,
+        15.042,
+        55.099
+      ],
+      "maxzoom": 9,
+      "zak": true,
+      "bytes": 55541156,
+      "pad": "/data/de-z9.pmtiles",
+      "r2": "de-z9.pmtiles",
+      "build": "20261117"
+    },
+    {
+      "id": "de-bb-z12",
+      "naam": "Brandenburg, standaard",
+      "omschrijving": "Alle wegen en dorpen, geen gebouwen",
+      "groep": "land",
+      "land": "de",
+      "bbox": [
+        11.266,
+        51.359,
+        14.766,
+        53.559
+      ],
+      "maxzoom": 12,
+      "zak": false,
+      "bytes": 77349328,
+      "pad": "/data/de-bb-z12.pmtiles",
+      "r2": "de-bb-z12.pmtiles",
+      "build": "20261117"
+    },
+    {
+      "id": "de-be-z12",
+      "naam": "Berlijn, standaard",
+      "omschrijving": "Alle wegen en dorpen, geen gebouwen",
+      "groep": "land",
+      "land": "de",
+      "bbox": [
+        13.088,
+        52.338,
+        13.761,
+        52.676
+      ],
+      "maxzoom": 12,
+      "zak": false,
+      "bytes": 6921177,
+      "pad": "/data/de-be-z12.pmtiles",
+      "r2": "de-be-z12.pmtiles",
+      "build": "20261117"
+    },
+    {
+      "id": "de-bw-z12",
+      "naam": "Baden-Württemberg, standaard",
+      "omschrijving": "Alle wegen en dorpen, geen gebouwen",
+      "groep": "land",
+      "land": "de",
+      "bbox": [
+        7.512,
+        47.532,
+        10.496,
+        49.791
+      ],
+      "maxzoom": 12,
+      "zak": false,
+      "bytes": 111033904,
+      "pad": "/data/de-bw-z12.pmtiles",
+      "r2": "de-bw-z12.pmtiles",
+      "build": "20261117"
+    },
+    {
+      "id": "de-by-z12",
+      "naam": "Beieren, standaard",
+      "omschrijving": "Alle wegen en dorpen, geen gebouwen",
+      "groep": "land",
+      "land": "de",
+      "bbox": [
+        8.976,
+        47.27,
+        13.84,
+        50.565
+      ],
+      "maxzoom": 12,
+      "zak": false,
+      "bytes": 238322649,
+      "pad": "/data/de-by-z12.pmtiles",
+      "r2": "de-by-z12.pmtiles",
+      "build": "20261117"
+    },
+    {
+      "id": "de-hb-z12",
+      "naam": "Bremen, standaard",
+      "omschrijving": "Alle wegen en dorpen, geen gebouwen",
+      "groep": "land",
+      "land": "de",
+      "bbox": [
+        8.482,
+        53.011,
+        8.991,
+        53.61
+      ],
+      "maxzoom": 12,
+      "zak": false,
+      "bytes": 7045558,
+      "pad": "/data/de-hb-z12.pmtiles",
+      "r2": "de-hb-z12.pmtiles",
+      "build": "20261117"
+    },
+    {
+      "id": "de-he-z12",
+      "naam": "Hessen, standaard",
+      "omschrijving": "Alle wegen en dorpen, geen gebouwen",
+      "groep": "land",
+      "land": "de",
+      "bbox": [
+        7.772,
+        49.395,
+        10.236,
+        51.658
+      ],
+      "maxzoom": 12,
+      "zak": false,
+      "bytes": 89747555,
+      "pad": "/data/de-he-z12.pmtiles",
+      "r2": "de-he-z12.pmtiles",
+      "build": "20261117"
+    },
+    {
+      "id": "de-hh-z12",
+      "naam": "Hamburg, standaard",
+      "omschrijving": "Alle wegen en dorpen, geen gebouwen",
+      "groep": "land",
+      "land": "de",
+      "bbox": [
+        8.104,
+        53.395,
+        10.325,
+        54.028
+      ],
+      "maxzoom": 12,
+      "zak": false,
+      "bytes": 17946293,
+      "pad": "/data/de-hh-z12.pmtiles",
+      "r2": "de-hh-z12.pmtiles",
+      "build": "20261117"
+    },
+    {
+      "id": "de-mv-z12",
+      "naam": "Mecklenburg-Voor-Pommeren, standaard",
+      "omschrijving": "Alle wegen en dorpen, geen gebouwen",
+      "groep": "land",
+      "land": "de",
+      "bbox": [
+        10.594,
+        53.11,
+        14.412,
+        54.885
+      ],
+      "maxzoom": 12,
+      "zak": false,
+      "bytes": 46911750,
+      "pad": "/data/de-mv-z12.pmtiles",
+      "r2": "de-mv-z12.pmtiles",
+      "build": "20261117"
+    },
+    {
+      "id": "de-ni-z12",
+      "naam": "Nedersaksen, standaard",
+      "omschrijving": "Alle wegen en dorpen, geen gebouwen",
+      "groep": "land",
+      "land": "de",
+      "bbox": [
+        6.346,
+        51.295,
+        11.598,
+        54.138
+      ],
+      "maxzoom": 12,
+      "zak": false,
+      "bytes": 187042618,
+      "pad": "/data/de-ni-z12.pmtiles",
+      "r2": "de-ni-z12.pmtiles",
+      "build": "20261117"
+    },
+    {
+      "id": "de-nw-z12",
+      "naam": "Noordrijn-Westfalen, standaard",
+      "omschrijving": "Alle wegen en dorpen, geen gebouwen",
+      "groep": "land",
+      "land": "de",
+      "bbox": [
+        5.866,
+        50.323,
+        9.462,
+        52.531
+      ],
+      "maxzoom": 12,
+      "zak": false,
+      "bytes": 150968166,
+      "pad": "/data/de-nw-z12.pmtiles",
+      "r2": "de-nw-z12.pmtiles",
+      "build": "20261117"
+    },
+    {
+      "id": "de-rp-z12",
+      "naam": "Rijnland-Palts, standaard",
+      "omschrijving": "Alle wegen en dorpen, geen gebouwen",
+      "groep": "land",
+      "land": "de",
+      "bbox": [
+        6.112,
+        48.966,
+        8.508,
+        50.942
+      ],
+      "maxzoom": 12,
+      "zak": false,
+      "bytes": 82368627,
+      "pad": "/data/de-rp-z12.pmtiles",
+      "r2": "de-rp-z12.pmtiles",
+      "build": "20261117"
+    },
+    {
+      "id": "de-sh-z12",
+      "naam": "Sleeswijk-Holstein, standaard",
+      "omschrijving": "Alle wegen en dorpen, geen gebouwen",
+      "groep": "land",
+      "land": "de",
+      "bbox": [
+        7.521,
+        53.36,
+        11.672,
+        55.099
+      ],
+      "maxzoom": 12,
+      "zak": false,
+      "bytes": 54743833,
+      "pad": "/data/de-sh-z12.pmtiles",
+      "r2": "de-sh-z12.pmtiles",
+      "build": "20261117"
+    },
+    {
+      "id": "de-sl-z12",
+      "naam": "Saarland, standaard",
+      "omschrijving": "Alle wegen en dorpen, geen gebouwen",
+      "groep": "land",
+      "land": "de",
+      "bbox": [
+        6.356,
+        49.112,
+        7.405,
+        49.639
+      ],
+      "maxzoom": 12,
+      "zak": false,
+      "bytes": 12513381,
+      "pad": "/data/de-sl-z12.pmtiles",
+      "r2": "de-sl-z12.pmtiles",
+      "build": "20261117"
+    },
+    {
+      "id": "de-sn-z12",
+      "naam": "Saksen, standaard",
+      "omschrijving": "Alle wegen en dorpen, geen gebouwen",
+      "groep": "land",
+      "land": "de",
+      "bbox": [
+        11.871,
+        50.171,
+        15.042,
+        51.685
+      ],
+      "maxzoom": 12,
+      "zak": false,
+      "bytes": 75170053,
+      "pad": "/data/de-sn-z12.pmtiles",
+      "r2": "de-sn-z12.pmtiles",
+      "build": "20261117"
+    },
+    {
+      "id": "de-st-z12",
+      "naam": "Saksen-Anhalt, standaard",
+      "omschrijving": "Alle wegen en dorpen, geen gebouwen",
+      "groep": "land",
+      "land": "de",
+      "bbox": [
+        10.561,
+        50.938,
+        13.187,
+        53.042
+      ],
+      "maxzoom": 12,
+      "zak": false,
+      "bytes": 64140818,
+      "pad": "/data/de-st-z12.pmtiles",
+      "r2": "de-st-z12.pmtiles",
+      "build": "20261117"
+    },
+    {
+      "id": "de-th-z12",
+      "naam": "Thüringen, standaard",
+      "omschrijving": "Alle wegen en dorpen, geen gebouwen",
+      "groep": "land",
+      "land": "de",
+      "bbox": [
+        9.877,
+        50.204,
+        12.654,
+        51.649
+      ],
+      "maxzoom": 12,
+      "zak": false,
+      "bytes": 57222776,
+      "pad": "/data/de-th-z12.pmtiles",
+      "r2": "de-th-z12.pmtiles",
+      "build": "20261117"
+    },
+    {
+      "id": "de-bb-z14",
+      "naam": "Brandenburg, straatniveau",
+      "omschrijving": "Straten, gebouwen en paden",
+      "groep": "regio",
+      "land": "de",
+      "bbox": [
+        11.266,
+        51.359,
+        14.766,
+        53.559
+      ],
+      "maxzoom": 14,
+      "zak": false,
+      "bytes": 274648177,
+      "pad": "/data/de-bb-z14.pmtiles",
+      "r2": "de-bb-z14.pmtiles",
+      "build": "20261117"
+    },
+    {
+      "id": "de-be-z14",
+      "naam": "Berlijn, straatniveau",
+      "omschrijving": "Straten, gebouwen en paden",
+      "groep": "regio",
+      "land": "de",
+      "bbox": [
+        13.088,
+        52.338,
+        13.761,
+        52.676
+      ],
+      "maxzoom": 14,
+      "zak": false,
+      "bytes": 30985913,
+      "pad": "/data/de-be-z14.pmtiles",
+      "r2": "de-be-z14.pmtiles",
+      "build": "20261117"
+    },
+    {
+      "id": "de-freiburg-z14",
+      "naam": "Freiburg, straatniveau",
+      "omschrijving": "Straten, gebouwen en paden; Baden-Württemberg",
+      "groep": "regio",
+      "land": "de",
+      "bbox": [
+        7.512,
+        47.532,
+        9.218,
+        48.718
+      ],
+      "maxzoom": 14,
+      "zak": false,
+      "bytes": 150678168,
+      "pad": "/data/de-freiburg-z14.pmtiles",
+      "r2": "de-freiburg-z14.pmtiles",
+      "build": "20261117"
+    },
+    {
+      "id": "de-karlsruhe-z14",
+      "naam": "Karlsruhe, straatniveau",
+      "omschrijving": "Straten, gebouwen en paden; Baden-Württemberg",
+      "groep": "regio",
+      "land": "de",
+      "bbox": [
+        7.959,
+        48.301,
+        9.604,
+        49.664
+      ],
+      "maxzoom": 14,
+      "zak": false,
+      "bytes": 176477563,
+      "pad": "/data/de-karlsruhe-z14.pmtiles",
+      "r2": "de-karlsruhe-z14.pmtiles",
+      "build": "20261117"
+    },
+    {
+      "id": "de-stuttgart-z14",
+      "naam": "Stuttgart, straatniveau",
+      "omschrijving": "Straten, gebouwen en paden; Baden-Württemberg",
+      "groep": "regio",
+      "land": "de",
+      "bbox": [
+        8.746,
+        48.497,
+        10.496,
+        49.791
+      ],
+      "maxzoom": 14,
+      "zak": false,
+      "bytes": 162589078,
+      "pad": "/data/de-stuttgart-z14.pmtiles",
+      "r2": "de-stuttgart-z14.pmtiles",
+      "build": "20261117"
+    },
+    {
+      "id": "de-tubingen-z14",
+      "naam": "Tübingen, straatniveau",
+      "omschrijving": "Straten, gebouwen en paden; Baden-Württemberg",
+      "groep": "regio",
+      "land": "de",
+      "bbox": [
+        8.649,
+        47.58,
+        10.242,
+        48.632
+      ],
+      "maxzoom": 14,
+      "zak": false,
+      "bytes": 113382414,
+      "pad": "/data/de-tubingen-z14.pmtiles",
+      "r2": "de-tubingen-z14.pmtiles",
+      "build": "20261117"
+    },
+    {
+      "id": "de-mittelfranken-z14",
+      "naam": "Mittelfranken, straatniveau",
+      "omschrijving": "Straten, gebouwen en paden; Beieren",
+      "groep": "regio",
+      "land": "de",
+      "bbox": [
+        10.07,
+        48.858,
+        11.602,
+        49.788
+      ],
+      "maxzoom": 14,
+      "zak": false,
+      "bytes": 84472407,
+      "pad": "/data/de-mittelfranken-z14.pmtiles",
+      "r2": "de-mittelfranken-z14.pmtiles",
+      "build": "20261117"
+    },
+    {
+      "id": "de-niederbayern-z14",
+      "naam": "Niederbayern, straatniveau",
+      "omschrijving": "Straten, gebouwen en paden; Beieren",
+      "groep": "regio",
+      "land": "de",
+      "bbox": [
+        11.595,
+        48.207,
+        13.84,
+        49.174
+      ],
+      "maxzoom": 14,
+      "zak": false,
+      "bytes": 131495534,
+      "pad": "/data/de-niederbayern-z14.pmtiles",
+      "r2": "de-niederbayern-z14.pmtiles",
+      "build": "20261117"
+    },
+    {
+      "id": "de-oberbayern-z14",
+      "naam": "Oberbayern, straatniveau",
+      "omschrijving": "Straten, gebouwen en paden; Beieren",
+      "groep": "regio",
+      "land": "de",
+      "bbox": [
+        10.716,
+        47.393,
+        13.099,
+        49.088
+      ],
+      "maxzoom": 14,
+      "zak": false,
+      "bytes": 254530268,
+      "pad": "/data/de-oberbayern-z14.pmtiles",
+      "r2": "de-oberbayern-z14.pmtiles",
+      "build": "20261117"
+    },
+    {
+      "id": "de-oberfranken-z14",
+      "naam": "Oberfranken, straatniveau",
+      "omschrijving": "Straten, gebouwen en paden; Beieren",
+      "groep": "regio",
+      "land": "de",
+      "bbox": [
+        10.44,
+        49.587,
+        12.275,
+        50.523
+      ],
+      "maxzoom": 14,
+      "zak": false,
+      "bytes": 101943235,
+      "pad": "/data/de-oberfranken-z14.pmtiles",
+      "r2": "de-oberfranken-z14.pmtiles",
+      "build": "20261117"
+    },
+    {
+      "id": "de-oberpfalz-z14",
+      "naam": "Oberpfalz, straatniveau",
+      "omschrijving": "Straten, gebouwen en paden; Beieren",
+      "groep": "regio",
+      "land": "de",
+      "bbox": [
+        11.186,
+        48.765,
+        13.171,
+        50.061
+      ],
+      "maxzoom": 14,
+      "zak": false,
+      "bytes": 127291609,
+      "pad": "/data/de-oberpfalz-z14.pmtiles",
+      "r2": "de-oberpfalz-z14.pmtiles",
+      "build": "20261117"
+    },
+    {
+      "id": "de-schwaben-z14",
+      "naam": "Zwaben, straatniveau",
+      "omschrijving": "Straten, gebouwen en paden; Beieren",
+      "groep": "regio",
+      "land": "de",
+      "bbox": [
+        9.602,
+        47.27,
+        11.312,
+        49.036
+      ],
+      "maxzoom": 14,
+      "zak": false,
+      "bytes": 185176941,
+      "pad": "/data/de-schwaben-z14.pmtiles",
+      "r2": "de-schwaben-z14.pmtiles",
+      "build": "20261117"
+    },
+    {
+      "id": "de-unterfranken-z14",
+      "naam": "Unterfranken, straatniveau",
+      "omschrijving": "Straten, gebouwen en paden; Beieren",
+      "groep": "regio",
+      "land": "de",
+      "bbox": [
+        8.976,
+        49.48,
+        10.881,
+        50.565
+      ],
+      "maxzoom": 14,
+      "zak": false,
+      "bytes": 124884418,
+      "pad": "/data/de-unterfranken-z14.pmtiles",
+      "r2": "de-unterfranken-z14.pmtiles",
+      "build": "20261117"
+    },
+    {
+      "id": "de-hb-z14",
+      "naam": "Bremen, straatniveau",
+      "omschrijving": "Straten, gebouwen en paden",
+      "groep": "regio",
+      "land": "de",
+      "bbox": [
+        8.482,
+        53.011,
+        8.991,
+        53.61
+      ],
+      "maxzoom": 14,
+      "zak": false,
+      "bytes": 21052120,
+      "pad": "/data/de-hb-z14.pmtiles",
+      "r2": "de-hb-z14.pmtiles",
+      "build": "20261117"
+    },
+    {
+      "id": "de-darmstadt-z14",
+      "naam": "Darmstadt, straatniveau",
+      "omschrijving": "Straten, gebouwen en paden; Hessen",
+      "groep": "regio",
+      "land": "de",
+      "bbox": [
+        7.772,
+        49.395,
+        9.749,
+        50.5
+      ],
+      "maxzoom": 14,
+      "zak": false,
+      "bytes": 148635528,
+      "pad": "/data/de-darmstadt-z14.pmtiles",
+      "r2": "de-darmstadt-z14.pmtiles",
+      "build": "20261117"
+    },
+    {
+      "id": "de-giessen-z14",
+      "naam": "Gießen, straatniveau",
+      "omschrijving": "Straten, gebouwen en paden; Hessen",
+      "groep": "regio",
+      "land": "de",
+      "bbox": [
+        7.964,
+        50.264,
+        9.65,
+        50.997
+      ],
+      "maxzoom": 14,
+      "zak": false,
+      "bytes": 78865666,
+      "pad": "/data/de-giessen-z14.pmtiles",
+      "r2": "de-giessen-z14.pmtiles",
+      "build": "20261117"
+    },
+    {
+      "id": "de-kassel-z14",
+      "naam": "Kassel, straatniveau",
+      "omschrijving": "Straten, gebouwen en paden; Hessen",
+      "groep": "regio",
+      "land": "de",
+      "bbox": [
+        8.473,
+        50.356,
+        10.236,
+        51.658
+      ],
+      "maxzoom": 14,
+      "zak": false,
+      "bytes": 144350516,
+      "pad": "/data/de-kassel-z14.pmtiles",
+      "r2": "de-kassel-z14.pmtiles",
+      "build": "20261117"
+    },
+    {
+      "id": "de-hh-z14",
+      "naam": "Hamburg, straatniveau",
+      "omschrijving": "Straten, gebouwen en paden",
+      "groep": "regio",
+      "land": "de",
+      "bbox": [
+        8.104,
+        53.395,
+        10.325,
+        54.028
+      ],
+      "maxzoom": 14,
+      "zak": false,
+      "bytes": 65381575,
+      "pad": "/data/de-hh-z14.pmtiles",
+      "r2": "de-hh-z14.pmtiles",
+      "build": "20261117"
+    },
+    {
+      "id": "de-mv-z14",
+      "naam": "Mecklenburg-Voor-Pommeren, straatniveau",
+      "omschrijving": "Straten, gebouwen en paden",
+      "groep": "regio",
+      "land": "de",
+      "bbox": [
+        10.594,
+        53.11,
+        14.412,
+        54.885
+      ],
+      "maxzoom": 14,
+      "zak": false,
+      "bytes": 150479114,
+      "pad": "/data/de-mv-z14.pmtiles",
+      "r2": "de-mv-z14.pmtiles",
+      "build": "20261117"
+    },
+    {
+      "id": "de-ni-noordwest-z14",
+      "naam": "Nedersaksen noordwest, straatniveau",
+      "omschrijving": "Straten, gebouwen en paden",
+      "groep": "regio",
+      "land": "de",
+      "bbox": [
+        6.346,
+        52.716,
+        8.972,
+        54.138
+      ],
+      "maxzoom": 14,
+      "zak": false,
+      "bytes": 140560709,
+      "pad": "/data/de-ni-noordwest-z14.pmtiles",
+      "r2": "de-ni-noordwest-z14.pmtiles",
+      "build": "20261117"
+    },
+    {
+      "id": "de-ni-noordoost-z14",
+      "naam": "Nedersaksen noordoost, straatniveau",
+      "omschrijving": "Straten, gebouwen en paden",
+      "groep": "regio",
+      "land": "de",
+      "bbox": [
+        8.972,
+        52.716,
+        11.598,
+        54.138
+      ],
+      "maxzoom": 14,
+      "zak": false,
+      "bytes": 151756402,
+      "pad": "/data/de-ni-noordoost-z14.pmtiles",
+      "r2": "de-ni-noordoost-z14.pmtiles",
+      "build": "20261117"
+    },
+    {
+      "id": "de-ni-zuidwest-noordwest-z14",
+      "naam": "Nedersaksen zuidwest (noordwest), straatniveau",
+      "omschrijving": "Straten, gebouwen en paden",
+      "groep": "regio",
+      "land": "de",
+      "bbox": [
+        6.346,
+        52.005,
+        7.659,
+        52.716
+      ],
+      "maxzoom": 14,
+      "zak": false,
+      "bytes": 76020037,
+      "pad": "/data/de-ni-zuidwest-noordwest-z14.pmtiles",
+      "r2": "de-ni-zuidwest-noordwest-z14.pmtiles",
+      "build": "20261117"
+    },
+    {
+      "id": "de-ni-zuidwest-noordoost-z14",
+      "naam": "Nedersaksen zuidwest (noordoost), straatniveau",
+      "omschrijving": "Straten, gebouwen en paden",
+      "groep": "regio",
+      "land": "de",
+      "bbox": [
+        7.659,
+        52.005,
+        8.972,
+        52.716
+      ],
+      "maxzoom": 14,
+      "zak": false,
+      "bytes": 73380878,
+      "pad": "/data/de-ni-zuidwest-noordoost-z14.pmtiles",
+      "r2": "de-ni-zuidwest-noordoost-z14.pmtiles",
+      "build": "20261117"
+    },
+    {
+      "id": "de-ni-zuidwest-zuidwest-z14",
+      "naam": "Nedersaksen zuidwest (zuidwest), straatniveau",
+      "omschrijving": "Straten, gebouwen en paden",
+      "groep": "regio",
+      "land": "de",
+      "bbox": [
+        6.346,
+        51.295,
+        7.659,
+        52.005
+      ],
+      "maxzoom": 14,
+      "zak": false,
+      "bytes": 99269422,
+      "pad": "/data/de-ni-zuidwest-zuidwest-z14.pmtiles",
+      "r2": "de-ni-zuidwest-zuidwest-z14.pmtiles",
+      "build": "20261117"
+    },
+    {
+      "id": "de-ni-zuidwest-zuidoost-z14",
+      "naam": "Nedersaksen zuidwest (zuidoost), straatniveau",
+      "omschrijving": "Straten, gebouwen en paden",
+      "groep": "regio",
+      "land": "de",
+      "bbox": [
+        7.659,
+        51.295,
+        8.972,
+        52.005
+      ],
+      "maxzoom": 14,
+      "zak": false,
+      "bytes": 74074817,
+      "pad": "/data/de-ni-zuidwest-zuidoost-z14.pmtiles",
+      "r2": "de-ni-zuidwest-zuidoost-z14.pmtiles",
+      "build": "20261117"
+    },
+    {
+      "id": "de-ni-zuidoost-z14",
+      "naam": "Nedersaksen zuidoost, straatniveau",
+      "omschrijving": "Straten, gebouwen en paden",
+      "groep": "regio",
+      "land": "de",
+      "bbox": [
+        8.972,
+        51.295,
+        11.598,
+        52.716
+      ],
+      "maxzoom": 14,
+      "zak": false,
+      "bytes": 179612943,
+      "pad": "/data/de-ni-zuidoost-z14.pmtiles",
+      "r2": "de-ni-zuidoost-z14.pmtiles",
+      "build": "20261117"
+    },
+    {
+      "id": "de-arnsberg-z14",
+      "naam": "Arnsberg, straatniveau",
+      "omschrijving": "Straten, gebouwen en paden; Noordrijn-Westfalen",
+      "groep": "regio",
+      "land": "de",
+      "bbox": [
+        7.102,
+        50.685,
+        8.971,
+        51.745
+      ],
+      "maxzoom": 14,
+      "zak": false,
+      "bytes": 160748272,
+      "pad": "/data/de-arnsberg-z14.pmtiles",
+      "r2": "de-arnsberg-z14.pmtiles",
+      "build": "20261117"
+    },
+    {
+      "id": "de-detmold-z14",
+      "naam": "Detmold, straatniveau",
+      "omschrijving": "Straten, gebouwen en paden; Noordrijn-Westfalen",
+      "groep": "regio",
+      "land": "de",
+      "bbox": [
+        8.076,
+        51.442,
+        9.462,
+        52.531
+      ],
+      "maxzoom": 14,
+      "zak": false,
+      "bytes": 107922804,
+      "pad": "/data/de-detmold-z14.pmtiles",
+      "r2": "de-detmold-z14.pmtiles",
+      "build": "20261117"
+    },
+    {
+      "id": "de-dusseldorf-z14",
+      "naam": "Düsseldorf, straatniveau",
+      "omschrijving": "Straten, gebouwen en paden; Noordrijn-Westfalen",
+      "groep": "regio",
+      "land": "de",
+      "bbox": [
+        5.945,
+        51.015,
+        7.313,
+        51.905
+      ],
+      "maxzoom": 14,
+      "zak": false,
+      "bytes": 134014984,
+      "pad": "/data/de-dusseldorf-z14.pmtiles",
+      "r2": "de-dusseldorf-z14.pmtiles",
+      "build": "20261117"
+    },
+    {
+      "id": "de-koln-z14",
+      "naam": "Köln, straatniveau",
+      "omschrijving": "Straten, gebouwen en paden; Noordrijn-Westfalen",
+      "groep": "regio",
+      "land": "de",
+      "bbox": [
+        5.866,
+        50.323,
+        7.792,
+        51.251
+      ],
+      "maxzoom": 14,
+      "zak": false,
+      "bytes": 167749354,
+      "pad": "/data/de-koln-z14.pmtiles",
+      "r2": "de-koln-z14.pmtiles",
+      "build": "20261117"
+    },
+    {
+      "id": "de-munster-z14",
+      "naam": "Münster, straatniveau",
+      "omschrijving": "Straten, gebouwen en paden; Noordrijn-Westfalen",
+      "groep": "regio",
+      "land": "de",
+      "bbox": [
+        6.387,
+        51.481,
+        8.32,
+        52.475
+      ],
+      "maxzoom": 14,
+      "zak": false,
+      "bytes": 164755744,
+      "pad": "/data/de-munster-z14.pmtiles",
+      "r2": "de-munster-z14.pmtiles",
+      "build": "20261117"
+    },
+    {
+      "id": "de-rp-noord-z14",
+      "naam": "Rijnland-Palts noord, straatniveau",
+      "omschrijving": "Straten, gebouwen en paden",
+      "groep": "regio",
+      "land": "de",
+      "bbox": [
+        6.112,
+        49.954,
+        8.508,
+        50.942
+      ],
+      "maxzoom": 14,
+      "zak": false,
+      "bytes": 172037962,
+      "pad": "/data/de-rp-noord-z14.pmtiles",
+      "r2": "de-rp-noord-z14.pmtiles",
+      "build": "20261117"
+    },
+    {
+      "id": "de-rp-zuid-z14",
+      "naam": "Rijnland-Palts zuid, straatniveau",
+      "omschrijving": "Straten, gebouwen en paden",
+      "groep": "regio",
+      "land": "de",
+      "bbox": [
+        6.112,
+        48.966,
+        8.508,
+        49.954
+      ],
+      "maxzoom": 14,
+      "zak": false,
+      "bytes": 153497808,
+      "pad": "/data/de-rp-zuid-z14.pmtiles",
+      "r2": "de-rp-zuid-z14.pmtiles",
+      "build": "20261117"
+    },
+    {
+      "id": "de-sh-z14",
+      "naam": "Sleeswijk-Holstein, straatniveau",
+      "omschrijving": "Straten, gebouwen en paden",
+      "groep": "regio",
+      "land": "de",
+      "bbox": [
+        7.521,
+        53.36,
+        11.672,
+        55.099
+      ],
+      "maxzoom": 14,
+      "zak": false,
+      "bytes": 195596397,
+      "pad": "/data/de-sh-z14.pmtiles",
+      "r2": "de-sh-z14.pmtiles",
+      "build": "20261117"
+    },
+    {
+      "id": "de-sl-z14",
+      "naam": "Saarland, straatniveau",
+      "omschrijving": "Straten, gebouwen en paden",
+      "groep": "regio",
+      "land": "de",
+      "bbox": [
+        6.356,
+        49.112,
+        7.405,
+        49.639
+      ],
+      "maxzoom": 14,
+      "zak": false,
+      "bytes": 39009463,
+      "pad": "/data/de-sl-z14.pmtiles",
+      "r2": "de-sl-z14.pmtiles",
+      "build": "20261117"
+    },
+    {
+      "id": "de-sn-z14",
+      "naam": "Saksen, straatniveau",
+      "omschrijving": "Straten, gebouwen en paden",
+      "groep": "regio",
+      "land": "de",
+      "bbox": [
+        11.871,
+        50.171,
+        15.042,
+        51.685
+      ],
+      "maxzoom": 14,
+      "zak": false,
+      "bytes": 264027676,
+      "pad": "/data/de-sn-z14.pmtiles",
+      "r2": "de-sn-z14.pmtiles",
+      "build": "20261117"
+    },
+    {
+      "id": "de-st-z14",
+      "naam": "Saksen-Anhalt, straatniveau",
+      "omschrijving": "Straten, gebouwen en paden",
+      "groep": "regio",
+      "land": "de",
+      "bbox": [
+        10.561,
+        50.938,
+        13.187,
+        53.042
+      ],
+      "maxzoom": 14,
+      "zak": false,
+      "bytes": 224859619,
+      "pad": "/data/de-st-z14.pmtiles",
+      "r2": "de-st-z14.pmtiles",
+      "build": "20261117"
+    },
+    {
+      "id": "de-th-z14",
+      "naam": "Thüringen, straatniveau",
+      "omschrijving": "Straten, gebouwen en paden",
+      "groep": "regio",
+      "land": "de",
+      "bbox": [
+        9.877,
+        50.204,
+        12.654,
+        51.649
+      ],
+      "maxzoom": 14,
+      "zak": false,
+      "bytes": 209722952,
+      "pad": "/data/de-th-z14.pmtiles",
+      "r2": "de-th-z14.pmtiles",
+      "build": "20261117"
+    },
+    {
+      "id": "fr-z9",
+      "naam": "Frankrijk, overzicht",
+      "omschrijving": "Gemeenten, hoofdwegen, rivieren",
+      "groep": "land",
+      "land": "fr",
+      "bbox": [
+        -5.15,
+        41.33,
+        9.57,
+        51.09
+      ],
+      "maxzoom": 9,
+      "zak": true,
+      "bytes": 83966839,
+      "pad": "/data/fr-z9.pmtiles",
+      "r2": "fr-z9.pmtiles",
+      "build": "20261117"
+    },
+    {
+      "id": "fr-20r-z12",
+      "naam": "Corsica, standaard",
+      "omschrijving": "Alle wegen en dorpen, geen gebouwen",
+      "groep": "land",
+      "land": "fr",
+      "bbox": [
+        8.535,
+        41.333,
+        9.56,
+        43.028
+      ],
+      "maxzoom": 12,
+      "zak": false,
+      "bytes": 6532272,
+      "pad": "/data/fr-20r-z12.pmtiles",
+      "r2": "fr-20r-z12.pmtiles",
+      "build": "20261117"
+    },
+    {
+      "id": "fr-ara-z12",
+      "naam": "Auvergne-Rhône-Alpes, standaard",
+      "omschrijving": "Alle wegen en dorpen, geen gebouwen",
+      "groep": "land",
+      "land": "fr",
+      "bbox": [
+        2.063,
+        44.115,
+        7.186,
+        46.804
+      ],
+      "maxzoom": 12,
+      "zak": false,
+      "bytes": 174082363,
+      "pad": "/data/fr-ara-z12.pmtiles",
+      "r2": "fr-ara-z12.pmtiles",
+      "build": "20261117"
+    },
+    {
+      "id": "fr-bfc-z12",
+      "naam": "Bourgondië-Franche-Comté, standaard",
+      "omschrijving": "Alle wegen en dorpen, geen gebouwen",
+      "groep": "land",
+      "land": "fr",
+      "bbox": [
+        2.844,
+        46.156,
+        7.143,
+        48.4
+      ],
+      "maxzoom": 12,
+      "zak": false,
+      "bytes": 113963961,
+      "pad": "/data/fr-bfc-z12.pmtiles",
+      "r2": "fr-bfc-z12.pmtiles",
+      "build": "20261117"
+    },
+    {
+      "id": "fr-bre-z12",
+      "naam": "Bretagne, standaard",
+      "omschrijving": "Alle wegen en dorpen, geen gebouwen",
+      "groep": "land",
+      "land": "fr",
+      "bbox": [
+        -5.144,
+        47.278,
+        -1.016,
+        49.113
+      ],
+      "maxzoom": 12,
+      "zak": false,
+      "bytes": 55350428,
+      "pad": "/data/fr-bre-z12.pmtiles",
+      "r2": "fr-bre-z12.pmtiles",
+      "build": "20261117"
+    },
+    {
+      "id": "fr-cvl-z12",
+      "naam": "Centre-Val de Loire, standaard",
+      "omschrijving": "Alle wegen en dorpen, geen gebouwen",
+      "groep": "land",
+      "land": "fr",
+      "bbox": [
+        0.053,
+        46.347,
+        3.129,
+        48.941
+      ],
+      "maxzoom": 12,
+      "zak": false,
+      "bytes": 77951617,
+      "pad": "/data/fr-cvl-z12.pmtiles",
+      "r2": "fr-cvl-z12.pmtiles",
+      "build": "20261117"
+    },
+    {
+      "id": "fr-ges-z12",
+      "naam": "Grand Est, standaard",
+      "omschrijving": "Alle wegen en dorpen, geen gebouwen",
+      "groep": "land",
+      "land": "fr",
+      "bbox": [
+        3.384,
+        47.42,
+        8.233,
+        50.169
+      ],
+      "maxzoom": 12,
+      "zak": false,
+      "bytes": 152504587,
+      "pad": "/data/fr-ges-z12.pmtiles",
+      "r2": "fr-ges-z12.pmtiles",
+      "build": "20261117"
+    },
+    {
+      "id": "fr-hdf-z12",
+      "naam": "Hauts-de-France, standaard",
+      "omschrijving": "Alle wegen en dorpen, geen gebouwen",
+      "groep": "land",
+      "land": "fr",
+      "bbox": [
+        1.38,
+        48.837,
+        4.256,
+        51.089
+      ],
+      "maxzoom": 12,
+      "zak": false,
+      "bytes": 85401118,
+      "pad": "/data/fr-hdf-z12.pmtiles",
+      "r2": "fr-hdf-z12.pmtiles",
+      "build": "20261117"
+    },
+    {
+      "id": "fr-idf-z12",
+      "naam": "Île-de-France, standaard",
+      "omschrijving": "Alle wegen en dorpen, geen gebouwen",
+      "groep": "land",
+      "land": "fr",
+      "bbox": [
+        1.446,
+        48.12,
+        3.559,
+        49.241
+      ],
+      "maxzoom": 12,
+      "zak": false,
+      "bytes": 28013999,
+      "pad": "/data/fr-idf-z12.pmtiles",
+      "r2": "fr-idf-z12.pmtiles",
+      "build": "20261117"
+    },
+    {
+      "id": "fr-naq-z12",
+      "naam": "Nieuw-Aquitanië, standaard",
+      "omschrijving": "Alle wegen en dorpen, geen gebouwen",
+      "groep": "land",
+      "land": "fr",
+      "bbox": [
+        -1.791,
+        42.778,
+        2.611,
+        47.176
+      ],
+      "maxzoom": 12,
+      "zak": false,
+      "bytes": 179200094,
+      "pad": "/data/fr-naq-z12.pmtiles",
+      "r2": "fr-naq-z12.pmtiles",
+      "build": "20261117"
+    },
+    {
+      "id": "fr-nor-z12",
+      "naam": "Normandië, standaard",
+      "omschrijving": "Alle wegen en dorpen, geen gebouwen",
+      "groep": "land",
+      "land": "fr",
+      "bbox": [
+        -1.955,
+        48.179,
+        1.803,
+        50.072
+      ],
+      "maxzoom": 12,
+      "zak": false,
+      "bytes": 53796113,
+      "pad": "/data/fr-nor-z12.pmtiles",
+      "r2": "fr-nor-z12.pmtiles",
+      "build": "20261117"
+    },
+    {
+      "id": "fr-occ-z12",
+      "naam": "Occitanië, standaard",
+      "omschrijving": "Alle wegen en dorpen, geen gebouwen",
+      "groep": "land",
+      "land": "fr",
+      "bbox": [
+        -0.327,
+        42.333,
+        4.846,
+        45.047
+      ],
+      "maxzoom": 12,
+      "zak": false,
+      "bytes": 125195686,
+      "pad": "/data/fr-occ-z12.pmtiles",
+      "r2": "fr-occ-z12.pmtiles",
+      "build": "20261117"
+    },
+    {
+      "id": "fr-pac-z12",
+      "naam": "Provence-Alpes-Côte d'Azur, standaard",
+      "omschrijving": "Alle wegen en dorpen, geen gebouwen",
+      "groep": "land",
+      "land": "fr",
+      "bbox": [
+        4.23,
+        42.982,
+        7.719,
+        45.127
+      ],
+      "maxzoom": 12,
+      "zak": false,
+      "bytes": 65902359,
+      "pad": "/data/fr-pac-z12.pmtiles",
+      "r2": "fr-pac-z12.pmtiles",
+      "build": "20261117"
+    },
+    {
+      "id": "fr-pdl-z12",
+      "naam": "Pays de la Loire, standaard",
+      "omschrijving": "Alle wegen en dorpen, geen gebouwen",
+      "groep": "land",
+      "land": "fr",
+      "bbox": [
+        -2.628,
+        46.267,
+        0.917,
+        48.568
+      ],
+      "maxzoom": 12,
+      "zak": false,
+      "bytes": 81403575,
+      "pad": "/data/fr-pdl-z12.pmtiles",
+      "r2": "fr-pdl-z12.pmtiles",
+      "build": "20261117"
+    },
+    {
+      "id": "fr-20r-z14",
+      "naam": "Corsica, straatniveau",
+      "omschrijving": "Straten, gebouwen en paden",
+      "groep": "regio",
+      "land": "fr",
+      "bbox": [
+        8.535,
+        41.333,
+        9.56,
+        43.028
+      ],
+      "maxzoom": 14,
+      "zak": false,
+      "bytes": 23660356,
+      "pad": "/data/fr-20r-z14.pmtiles",
+      "r2": "fr-20r-z14.pmtiles",
+      "build": "20261117"
+    },
+    {
+      "id": "fr-01-z14",
+      "naam": "Ain, straatniveau",
+      "omschrijving": "Straten, gebouwen en paden; Auvergne-Rhône-Alpes",
+      "groep": "regio",
+      "land": "fr",
+      "bbox": [
+        4.728,
+        45.611,
+        6.17,
+        46.52
+      ],
+      "maxzoom": 14,
+      "zak": false,
+      "bytes": 97477063,
+      "pad": "/data/fr-01-z14.pmtiles",
+      "r2": "fr-01-z14.pmtiles",
+      "build": "20261117"
+    },
+    {
+      "id": "fr-03-z14",
+      "naam": "Allier, straatniveau",
+      "omschrijving": "Straten, gebouwen en paden; Auvergne-Rhône-Alpes",
+      "groep": "regio",
+      "land": "fr",
+      "bbox": [
+        2.277,
+        45.931,
+        4.006,
+        46.804
+      ],
+      "maxzoom": 14,
+      "zak": false,
+      "bytes": 53784133,
+      "pad": "/data/fr-03-z14.pmtiles",
+      "r2": "fr-03-z14.pmtiles",
+      "build": "20261117"
+    },
+    {
+      "id": "fr-07-z14",
+      "naam": "Ardèche, straatniveau",
+      "omschrijving": "Straten, gebouwen en paden; Auvergne-Rhône-Alpes",
+      "groep": "regio",
+      "land": "fr",
+      "bbox": [
+        3.861,
+        44.264,
+        4.886,
+        45.366
+      ],
+      "maxzoom": 14,
+      "zak": false,
+      "bytes": 62668409,
+      "pad": "/data/fr-07-z14.pmtiles",
+      "r2": "fr-07-z14.pmtiles",
+      "build": "20261117"
+    },
+    {
+      "id": "fr-15-z14",
+      "naam": "Cantal, straatniveau",
+      "omschrijving": "Straten, gebouwen en paden; Auvergne-Rhône-Alpes",
+      "groep": "regio",
+      "land": "fr",
+      "bbox": [
+        2.063,
+        44.616,
+        3.371,
+        45.484
+      ],
+      "maxzoom": 14,
+      "zak": false,
+      "bytes": 39865151,
+      "pad": "/data/fr-15-z14.pmtiles",
+      "r2": "fr-15-z14.pmtiles",
+      "build": "20261117"
+    },
+    {
+      "id": "fr-26-z14",
+      "naam": "Drôme, straatniveau",
+      "omschrijving": "Straten, gebouwen en paden; Auvergne-Rhône-Alpes",
+      "groep": "regio",
+      "land": "fr",
+      "bbox": [
+        4.647,
+        44.115,
+        5.83,
+        45.344
+      ],
+      "maxzoom": 14,
+      "zak": false,
+      "bytes": 77648694,
+      "pad": "/data/fr-26-z14.pmtiles",
+      "r2": "fr-26-z14.pmtiles",
+      "build": "20261117"
+    },
+    {
+      "id": "fr-38-z14",
+      "naam": "Isère, straatniveau",
+      "omschrijving": "Straten, gebouwen en paden; Auvergne-Rhône-Alpes",
+      "groep": "regio",
+      "land": "fr",
+      "bbox": [
+        4.742,
+        44.696,
+        6.359,
+        45.884
+      ],
+      "maxzoom": 14,
+      "zak": false,
+      "bytes": 114621439,
+      "pad": "/data/fr-38-z14.pmtiles",
+      "r2": "fr-38-z14.pmtiles",
+      "build": "20261117"
+    },
+    {
+      "id": "fr-42-z14",
+      "naam": "Loire, straatniveau",
+      "omschrijving": "Straten, gebouwen en paden; Auvergne-Rhône-Alpes",
+      "groep": "regio",
+      "land": "fr",
+      "bbox": [
+        3.688,
+        45.231,
+        4.761,
+        46.277
+      ],
+      "maxzoom": 14,
+      "zak": false,
+      "bytes": 72762341,
+      "pad": "/data/fr-42-z14.pmtiles",
+      "r2": "fr-42-z14.pmtiles",
+      "build": "20261117"
+    },
+    {
+      "id": "fr-43-z14",
+      "naam": "Haute-Loire, straatniveau",
+      "omschrijving": "Straten, gebouwen en paden; Auvergne-Rhône-Alpes",
+      "groep": "regio",
+      "land": "fr",
+      "bbox": [
+        3.082,
+        44.744,
+        4.49,
+        45.428
+      ],
+      "maxzoom": 14,
+      "zak": false,
+      "bytes": 47524972,
+      "pad": "/data/fr-43-z14.pmtiles",
+      "r2": "fr-43-z14.pmtiles",
+      "build": "20261117"
+    },
+    {
+      "id": "fr-63-z14",
+      "naam": "Puy-de-Dôme, straatniveau",
+      "omschrijving": "Straten, gebouwen en paden; Auvergne-Rhône-Alpes",
+      "groep": "regio",
+      "land": "fr",
+      "bbox": [
+        2.388,
+        45.287,
+        3.986,
+        46.256
+      ],
+      "maxzoom": 14,
+      "zak": false,
+      "bytes": 66708897,
+      "pad": "/data/fr-63-z14.pmtiles",
+      "r2": "fr-63-z14.pmtiles",
+      "build": "20261117"
+    },
+    {
+      "id": "fr-69-z14",
+      "naam": "Rhône, straatniveau",
+      "omschrijving": "Straten, gebouwen en paden; Auvergne-Rhône-Alpes",
+      "groep": "regio",
+      "land": "fr",
+      "bbox": [
+        4.244,
+        45.454,
+        5.16,
+        46.306
+      ],
+      "maxzoom": 14,
+      "zak": false,
+      "bytes": 63264543,
+      "pad": "/data/fr-69-z14.pmtiles",
+      "r2": "fr-69-z14.pmtiles",
+      "build": "20261117"
+    },
+    {
+      "id": "fr-69m-z14",
+      "naam": "Métropole de Lyon, straatniveau",
+      "omschrijving": "Straten, gebouwen en paden; Auvergne-Rhône-Alpes",
+      "groep": "regio",
+      "land": "fr",
+      "bbox": [
+        4.692,
+        45.557,
+        5.062,
+        45.939
+      ],
+      "maxzoom": 14,
+      "zak": false,
+      "bytes": 19826043,
+      "pad": "/data/fr-69m-z14.pmtiles",
+      "r2": "fr-69m-z14.pmtiles",
+      "build": "20261117"
+    },
+    {
+      "id": "fr-73-z14",
+      "naam": "Savoie, straatniveau",
+      "omschrijving": "Straten, gebouwen en paden; Auvergne-Rhône-Alpes",
+      "groep": "regio",
+      "land": "fr",
+      "bbox": [
+        5.622,
+        45.052,
+        7.186,
+        45.938
+      ],
+      "maxzoom": 14,
+      "zak": false,
+      "bytes": 74464158,
+      "pad": "/data/fr-73-z14.pmtiles",
+      "r2": "fr-73-z14.pmtiles",
+      "build": "20261117"
+    },
+    {
+      "id": "fr-74-z14",
+      "naam": "Haute-Savoie, straatniveau",
+      "omschrijving": "Straten, gebouwen en paden; Auvergne-Rhône-Alpes",
+      "groep": "regio",
+      "land": "fr",
+      "bbox": [
+        5.805,
+        45.682,
+        7.044,
+        46.456
+      ],
+      "maxzoom": 14,
+      "zak": false,
+      "bytes": 65512331,
+      "pad": "/data/fr-74-z14.pmtiles",
+      "r2": "fr-74-z14.pmtiles",
+      "build": "20261117"
+    },
+    {
+      "id": "fr-21-z14",
+      "naam": "Côte-d'Or, straatniveau",
+      "omschrijving": "Straten, gebouwen en paden; Bourgondië-Franche-Comté",
+      "groep": "regio",
+      "land": "fr",
+      "bbox": [
+        4.065,
+        46.9,
+        5.519,
+        48.031
+      ],
+      "maxzoom": 14,
+      "zak": false,
+      "bytes": 58711591,
+      "pad": "/data/fr-21-z14.pmtiles",
+      "r2": "fr-21-z14.pmtiles",
+      "build": "20261117"
+    },
+    {
+      "id": "fr-25-z14",
+      "naam": "Doubs, straatniveau",
+      "omschrijving": "Straten, gebouwen en paden; Bourgondië-Franche-Comté",
+      "groep": "regio",
+      "land": "fr",
+      "bbox": [
+        5.699,
+        46.554,
+        7.062,
+        47.58
+      ],
+      "maxzoom": 14,
+      "zak": false,
+      "bytes": 70642457,
+      "pad": "/data/fr-25-z14.pmtiles",
+      "r2": "fr-25-z14.pmtiles",
+      "build": "20261117"
+    },
+    {
+      "id": "fr-39-z14",
+      "naam": "Jura, straatniveau",
+      "omschrijving": "Straten, gebouwen en paden; Bourgondië-Franche-Comté",
+      "groep": "regio",
+      "land": "fr",
+      "bbox": [
+        5.252,
+        46.261,
+        6.207,
+        47.306
+      ],
+      "maxzoom": 14,
+      "zak": false,
+      "bytes": 60716423,
+      "pad": "/data/fr-39-z14.pmtiles",
+      "r2": "fr-39-z14.pmtiles",
+      "build": "20261117"
+    },
+    {
+      "id": "fr-58-z14",
+      "naam": "Nièvre, straatniveau",
+      "omschrijving": "Straten, gebouwen en paden; Bourgondië-Franche-Comté",
+      "groep": "regio",
+      "land": "fr",
+      "bbox": [
+        2.844,
+        46.651,
+        4.232,
+        47.588
+      ],
+      "maxzoom": 14,
+      "zak": false,
+      "bytes": 45673546,
+      "pad": "/data/fr-58-z14.pmtiles",
+      "r2": "fr-58-z14.pmtiles",
+      "build": "20261117"
+    },
+    {
+      "id": "fr-70-z14",
+      "naam": "Haute-Saône, straatniveau",
+      "omschrijving": "Straten, gebouwen en paden; Bourgondië-Franche-Comté",
+      "groep": "regio",
+      "land": "fr",
+      "bbox": [
+        5.367,
+        47.253,
+        6.826,
+        48.024
+      ],
+      "maxzoom": 14,
+      "zak": false,
+      "bytes": 44317488,
+      "pad": "/data/fr-70-z14.pmtiles",
+      "r2": "fr-70-z14.pmtiles",
+      "build": "20261117"
+    },
+    {
+      "id": "fr-71-z14",
+      "naam": "Saône-et-Loire, straatniveau",
+      "omschrijving": "Straten, gebouwen en paden; Bourgondië-Franche-Comté",
+      "groep": "regio",
+      "land": "fr",
+      "bbox": [
+        3.622,
+        46.156,
+        5.465,
+        47.155
+      ],
+      "maxzoom": 14,
+      "zak": false,
+      "bytes": 116074320,
+      "pad": "/data/fr-71-z14.pmtiles",
+      "r2": "fr-71-z14.pmtiles",
+      "build": "20261117"
+    },
+    {
+      "id": "fr-89-z14",
+      "naam": "Yonne, straatniveau",
+      "omschrijving": "Straten, gebouwen en paden; Bourgondië-Franche-Comté",
+      "groep": "regio",
+      "land": "fr",
+      "bbox": [
+        2.848,
+        47.31,
+        4.34,
+        48.4
+      ],
+      "maxzoom": 14,
+      "zak": false,
+      "bytes": 48334552,
+      "pad": "/data/fr-89-z14.pmtiles",
+      "r2": "fr-89-z14.pmtiles",
+      "build": "20261117"
+    },
+    {
+      "id": "fr-90-z14",
+      "naam": "Territoire-de-Belfort, straatniveau",
+      "omschrijving": "Straten, gebouwen en paden; Bourgondië-Franche-Comté",
+      "groep": "regio",
+      "land": "fr",
+      "bbox": [
+        6.756,
+        47.433,
+        7.143,
+        47.825
+      ],
+      "maxzoom": 14,
+      "zak": false,
+      "bytes": 16370281,
+      "pad": "/data/fr-90-z14.pmtiles",
+      "r2": "fr-90-z14.pmtiles",
+      "build": "20261117"
+    },
+    {
+      "id": "fr-bre-z14",
+      "naam": "Bretagne, straatniveau",
+      "omschrijving": "Straten, gebouwen en paden",
+      "groep": "regio",
+      "land": "fr",
+      "bbox": [
+        -5.144,
+        47.278,
+        -1.016,
+        49.113
+      ],
+      "maxzoom": 14,
+      "zak": false,
+      "bytes": 205480855,
+      "pad": "/data/fr-bre-z14.pmtiles",
+      "r2": "fr-bre-z14.pmtiles",
+      "build": "20261117"
+    },
+    {
+      "id": "fr-18-z14",
+      "naam": "Cher, straatniveau",
+      "omschrijving": "Straten, gebouwen en paden; Centre-Val de Loire",
+      "groep": "regio",
+      "land": "fr",
+      "bbox": [
+        1.774,
+        46.42,
+        3.079,
+        47.629
+      ],
+      "maxzoom": 14,
+      "zak": false,
+      "bytes": 44104394,
+      "pad": "/data/fr-18-z14.pmtiles",
+      "r2": "fr-18-z14.pmtiles",
+      "build": "20261117"
+    },
+    {
+      "id": "fr-28-z14",
+      "naam": "Eure-et-Loir, straatniveau",
+      "omschrijving": "Straten, gebouwen en paden; Centre-Val de Loire",
+      "groep": "regio",
+      "land": "fr",
+      "bbox": [
+        0.756,
+        47.954,
+        1.995,
+        48.941
+      ],
+      "maxzoom": 14,
+      "zak": false,
+      "bytes": 37442543,
+      "pad": "/data/fr-28-z14.pmtiles",
+      "r2": "fr-28-z14.pmtiles",
+      "build": "20261117"
+    },
+    {
+      "id": "fr-36-z14",
+      "naam": "Indre, straatniveau",
+      "omschrijving": "Straten, gebouwen en paden; Centre-Val de Loire",
+      "groep": "regio",
+      "land": "fr",
+      "bbox": [
+        0.867,
+        46.347,
+        2.205,
+        47.277
+      ],
+      "maxzoom": 14,
+      "zak": false,
+      "bytes": 44778900,
+      "pad": "/data/fr-36-z14.pmtiles",
+      "r2": "fr-36-z14.pmtiles",
+      "build": "20261117"
+    },
+    {
+      "id": "fr-37-z14",
+      "naam": "Indre-et-Loire, straatniveau",
+      "omschrijving": "Straten, gebouwen en paden; Centre-Val de Loire",
+      "groep": "regio",
+      "land": "fr",
+      "bbox": [
+        0.053,
+        46.737,
+        1.366,
+        47.71
+      ],
+      "maxzoom": 14,
+      "zak": false,
+      "bytes": 54691159,
+      "pad": "/data/fr-37-z14.pmtiles",
+      "r2": "fr-37-z14.pmtiles",
+      "build": "20261117"
+    },
+    {
+      "id": "fr-41-z14",
+      "naam": "Loir-et-Cher, straatniveau",
+      "omschrijving": "Straten, gebouwen en paden; Centre-Val de Loire",
+      "groep": "regio",
+      "land": "fr",
+      "bbox": [
+        0.581,
+        47.186,
+        2.248,
+        48.133
+      ],
+      "maxzoom": 14,
+      "zak": false,
+      "bytes": 61932043,
+      "pad": "/data/fr-41-z14.pmtiles",
+      "r2": "fr-41-z14.pmtiles",
+      "build": "20261117"
+    },
+    {
+      "id": "fr-45-z14",
+      "naam": "Loiret, straatniveau",
+      "omschrijving": "Straten, gebouwen en paden; Centre-Val de Loire",
+      "groep": "regio",
+      "land": "fr",
+      "bbox": [
+        1.512,
+        47.483,
+        3.129,
+        48.345
+      ],
+      "maxzoom": 14,
+      "zak": false,
+      "bytes": 46865856,
+      "pad": "/data/fr-45-z14.pmtiles",
+      "r2": "fr-45-z14.pmtiles",
+      "build": "20261117"
+    },
+    {
+      "id": "fr-08-z14",
+      "naam": "Ardennen, straatniveau",
+      "omschrijving": "Straten, gebouwen en paden; Grand Est",
+      "groep": "regio",
+      "land": "fr",
+      "bbox": [
+        4.025,
+        49.227,
+        5.394,
+        50.169
+      ],
+      "maxzoom": 14,
+      "zak": false,
+      "bytes": 42822316,
+      "pad": "/data/fr-08-z14.pmtiles",
+      "r2": "fr-08-z14.pmtiles",
+      "build": "20261117"
+    },
+    {
+      "id": "fr-10-z14",
+      "naam": "Aube, straatniveau",
+      "omschrijving": "Straten, gebouwen en paden; Grand Est",
+      "groep": "regio",
+      "land": "fr",
+      "bbox": [
+        3.384,
+        47.923,
+        4.865,
+        48.717
+      ],
+      "maxzoom": 14,
+      "zak": false,
+      "bytes": 30075855,
+      "pad": "/data/fr-10-z14.pmtiles",
+      "r2": "fr-10-z14.pmtiles",
+      "build": "20261117"
+    },
+    {
+      "id": "fr-51-z14",
+      "naam": "Marne, straatniveau",
+      "omschrijving": "Straten, gebouwen en paden; Grand Est",
+      "groep": "regio",
+      "land": "fr",
+      "bbox": [
+        3.396,
+        48.515,
+        5.04,
+        49.407
+      ],
+      "maxzoom": 14,
+      "zak": false,
+      "bytes": 39422391,
+      "pad": "/data/fr-51-z14.pmtiles",
+      "r2": "fr-51-z14.pmtiles",
+      "build": "20261117"
+    },
+    {
+      "id": "fr-52-z14",
+      "naam": "Haute-Marne, straatniveau",
+      "omschrijving": "Straten, gebouwen en paden; Grand Est",
+      "groep": "regio",
+      "land": "fr",
+      "bbox": [
+        4.628,
+        47.577,
+        5.891,
+        48.689
+      ],
+      "maxzoom": 14,
+      "zak": false,
+      "bytes": 37120489,
+      "pad": "/data/fr-52-z14.pmtiles",
+      "r2": "fr-52-z14.pmtiles",
+      "build": "20261117"
+    },
+    {
+      "id": "fr-54-z14",
+      "naam": "Meurthe-et-Moselle, straatniveau",
+      "omschrijving": "Straten, gebouwen en paden; Grand Est",
+      "groep": "regio",
+      "land": "fr",
+      "bbox": [
+        5.426,
+        48.349,
+        7.123,
+        49.563
+      ],
+      "maxzoom": 14,
+      "zak": false,
+      "bytes": 94894242,
+      "pad": "/data/fr-54-z14.pmtiles",
+      "r2": "fr-54-z14.pmtiles",
+      "build": "20261117"
+    },
+    {
+      "id": "fr-55-z14",
+      "naam": "Meuse, straatniveau",
+      "omschrijving": "Straten, gebouwen en paden; Grand Est",
+      "groep": "regio",
+      "land": "fr",
+      "bbox": [
+        4.888,
+        48.409,
+        5.854,
+        49.617
+      ],
+      "maxzoom": 14,
+      "zak": false,
+      "bytes": 40037143,
+      "pad": "/data/fr-55-z14.pmtiles",
+      "r2": "fr-55-z14.pmtiles",
+      "build": "20261117"
+    },
+    {
+      "id": "fr-57-z14",
+      "naam": "Moselle, straatniveau",
+      "omschrijving": "Straten, gebouwen en paden; Grand Est",
+      "groep": "regio",
+      "land": "fr",
+      "bbox": [
+        5.892,
+        48.527,
+        7.639,
+        49.515
+      ],
+      "maxzoom": 14,
+      "zak": false,
+      "bytes": 90015447,
+      "pad": "/data/fr-57-z14.pmtiles",
+      "r2": "fr-57-z14.pmtiles",
+      "build": "20261117"
+    },
+    {
+      "id": "fr-67-z14",
+      "naam": "Bas-Rhin, straatniveau",
+      "omschrijving": "Straten, gebouwen en paden; Grand Est",
+      "groep": "regio",
+      "land": "fr",
+      "bbox": [
+        6.941,
+        48.12,
+        8.233,
+        49.078
+      ],
+      "maxzoom": 14,
+      "zak": false,
+      "bytes": 79063190,
+      "pad": "/data/fr-67-z14.pmtiles",
+      "r2": "fr-67-z14.pmtiles",
+      "build": "20261117"
+    },
+    {
+      "id": "fr-68-z14",
+      "naam": "Haut-Rhin, straatniveau",
+      "omschrijving": "Straten, gebouwen en paden; Grand Est",
+      "groep": "regio",
+      "land": "fr",
+      "bbox": [
+        6.841,
+        47.42,
+        7.622,
+        48.311
+      ],
+      "maxzoom": 14,
+      "zak": false,
+      "bytes": 47391354,
+      "pad": "/data/fr-68-z14.pmtiles",
+      "r2": "fr-68-z14.pmtiles",
+      "build": "20261117"
+    },
+    {
+      "id": "fr-88-z14",
+      "naam": "Vogezen, straatniveau",
+      "omschrijving": "Straten, gebouwen en paden; Grand Est",
+      "groep": "regio",
+      "land": "fr",
+      "bbox": [
+        5.394,
+        47.814,
+        7.198,
+        48.514
+      ],
+      "maxzoom": 14,
+      "zak": false,
+      "bytes": 49396221,
+      "pad": "/data/fr-88-z14.pmtiles",
+      "r2": "fr-88-z14.pmtiles",
+      "build": "20261117"
+    },
+    {
+      "id": "fr-02-z14",
+      "naam": "Aisne, straatniveau",
+      "omschrijving": "Straten, gebouwen en paden; Hauts-de-France",
+      "groep": "regio",
+      "land": "fr",
+      "bbox": [
+        2.958,
+        48.837,
+        4.256,
+        50.069
+      ],
+      "maxzoom": 14,
+      "zak": false,
+      "bytes": 53461489,
+      "pad": "/data/fr-02-z14.pmtiles",
+      "r2": "fr-02-z14.pmtiles",
+      "build": "20261117"
+    },
+    {
+      "id": "fr-59-z14",
+      "naam": "Noorderdepartement, straatniveau",
+      "omschrijving": "Straten, gebouwen en paden; Hauts-de-France",
+      "groep": "regio",
+      "land": "fr",
+      "bbox": [
+        2.08,
+        49.969,
+        4.231,
+        51.089
+      ],
+      "maxzoom": 14,
+      "zak": false,
+      "bytes": 178399940,
+      "pad": "/data/fr-59-z14.pmtiles",
+      "r2": "fr-59-z14.pmtiles",
+      "build": "20261117"
+    },
+    {
+      "id": "fr-60-z14",
+      "naam": "Oise, straatniveau",
+      "omschrijving": "Straten, gebouwen en paden; Hauts-de-France",
+      "groep": "regio",
+      "land": "fr",
+      "bbox": [
+        1.689,
+        49.061,
+        3.166,
+        49.764
+      ],
+      "maxzoom": 14,
+      "zak": false,
+      "bytes": 40780776,
+      "pad": "/data/fr-60-z14.pmtiles",
+      "r2": "fr-60-z14.pmtiles",
+      "build": "20261117"
+    },
+    {
+      "id": "fr-62-z14",
+      "naam": "Pas-de-Calais, straatniveau",
+      "omschrijving": "Straten, gebouwen en paden; Hauts-de-France",
+      "groep": "regio",
+      "land": "fr",
+      "bbox": [
+        1.556,
+        50.02,
+        3.188,
+        51.009
+      ],
+      "maxzoom": 14,
+      "zak": false,
+      "bytes": 90211831,
+      "pad": "/data/fr-62-z14.pmtiles",
+      "r2": "fr-62-z14.pmtiles",
+      "build": "20261117"
+    },
+    {
+      "id": "fr-80-z14",
+      "naam": "Somme, straatniveau",
+      "omschrijving": "Straten, gebouwen en paden; Hauts-de-France",
+      "groep": "regio",
+      "land": "fr",
+      "bbox": [
+        1.38,
+        49.572,
+        3.203,
+        50.366
+      ],
+      "maxzoom": 14,
+      "zak": false,
+      "bytes": 48634532,
+      "pad": "/data/fr-80-z14.pmtiles",
+      "r2": "fr-80-z14.pmtiles",
+      "build": "20261117"
+    },
+    {
+      "id": "fr-idf-z14",
+      "naam": "Île-de-France, straatniveau",
+      "omschrijving": "Straten, gebouwen en paden",
+      "groep": "regio",
+      "land": "fr",
+      "bbox": [
+        1.446,
+        48.12,
+        3.559,
+        49.241
+      ],
+      "maxzoom": 14,
+      "zak": false,
+      "bytes": 120381855,
+      "pad": "/data/fr-idf-z14.pmtiles",
+      "r2": "fr-idf-z14.pmtiles",
+      "build": "20261117"
+    },
+    {
+      "id": "fr-16-z14",
+      "naam": "Charente, straatniveau",
+      "omschrijving": "Straten, gebouwen en paden; Nieuw-Aquitanië",
+      "groep": "regio",
+      "land": "fr",
+      "bbox": [
+        -0.463,
+        45.193,
+        0.947,
+        46.141
+      ],
+      "maxzoom": 14,
+      "zak": false,
+      "bytes": 45883541,
+      "pad": "/data/fr-16-z14.pmtiles",
+      "r2": "fr-16-z14.pmtiles",
+      "build": "20261117"
+    },
+    {
+      "id": "fr-17-z14",
+      "naam": "Charente-Maritime, straatniveau",
+      "omschrijving": "Straten, gebouwen en paden; Nieuw-Aquitanië",
+      "groep": "regio",
+      "land": "fr",
+      "bbox": [
+        -1.563,
+        45.089,
+        0.006,
+        46.372
+      ],
+      "maxzoom": 14,
+      "zak": false,
+      "bytes": 62349500,
+      "pad": "/data/fr-17-z14.pmtiles",
+      "r2": "fr-17-z14.pmtiles",
+      "build": "20261117"
+    },
+    {
+      "id": "fr-19-z14",
+      "naam": "Corrèze, straatniveau",
+      "omschrijving": "Straten, gebouwen en paden; Nieuw-Aquitanië",
+      "groep": "regio",
+      "land": "fr",
+      "bbox": [
+        1.227,
+        44.92,
+        2.529,
+        45.765
+      ],
+      "maxzoom": 14,
+      "zak": false,
+      "bytes": 43570394,
+      "pad": "/data/fr-19-z14.pmtiles",
+      "r2": "fr-19-z14.pmtiles",
+      "build": "20261117"
+    },
+    {
+      "id": "fr-23-z14",
+      "naam": "Creuse, straatniveau",
+      "omschrijving": "Straten, gebouwen en paden; Nieuw-Aquitanië",
+      "groep": "regio",
+      "land": "fr",
+      "bbox": [
+        1.373,
+        45.663,
+        2.611,
+        46.455
+      ],
+      "maxzoom": 14,
+      "zak": false,
+      "bytes": 47666822,
+      "pad": "/data/fr-23-z14.pmtiles",
+      "r2": "fr-23-z14.pmtiles",
+      "build": "20261117"
+    },
+    {
+      "id": "fr-24-z14",
+      "naam": "Dordogne, straatniveau",
+      "omschrijving": "Straten, gebouwen en paden; Nieuw-Aquitanië",
+      "groep": "regio",
+      "land": "fr",
+      "bbox": [
+        -0.042,
+        44.571,
+        1.448,
+        45.715
+      ],
+      "maxzoom": 14,
+      "zak": false,
+      "bytes": 65808299,
+      "pad": "/data/fr-24-z14.pmtiles",
+      "r2": "fr-24-z14.pmtiles",
+      "build": "20261117"
+    },
+    {
+      "id": "fr-33-z14",
+      "naam": "Gironde, straatniveau",
+      "omschrijving": "Straten, gebouwen en paden; Nieuw-Aquitanië",
+      "groep": "regio",
+      "land": "fr",
+      "bbox": [
+        -1.265,
+        44.194,
+        0.315,
+        45.602
+      ],
+      "maxzoom": 14,
+      "zak": false,
+      "bytes": 62403337,
+      "pad": "/data/fr-33-z14.pmtiles",
+      "r2": "fr-33-z14.pmtiles",
+      "build": "20261117"
+    },
+    {
+      "id": "fr-40-z14",
+      "naam": "Landes, straatniveau",
+      "omschrijving": "Straten, gebouwen en paden; Nieuw-Aquitanië",
+      "groep": "regio",
+      "land": "fr",
+      "bbox": [
+        -1.524,
+        43.487,
+        0.137,
+        44.532
+      ],
+      "maxzoom": 14,
+      "zak": false,
+      "bytes": 45958813,
+      "pad": "/data/fr-40-z14.pmtiles",
+      "r2": "fr-40-z14.pmtiles",
+      "build": "20261117"
+    },
+    {
+      "id": "fr-47-z14",
+      "naam": "Lot-et-Garonne, straatniveau",
+      "omschrijving": "Straten, gebouwen en paden; Nieuw-Aquitanië",
+      "groep": "regio",
+      "land": "fr",
+      "bbox": [
+        -0.141,
+        43.973,
+        1.078,
+        44.766
+      ],
+      "maxzoom": 14,
+      "zak": false,
+      "bytes": 38387577,
+      "pad": "/data/fr-47-z14.pmtiles",
+      "r2": "fr-47-z14.pmtiles",
+      "build": "20261117"
+    },
+    {
+      "id": "fr-64-z14",
+      "naam": "Pyrénées-Atlantiques, straatniveau",
+      "omschrijving": "Straten, gebouwen en paden; Nieuw-Aquitanië",
+      "groep": "regio",
+      "land": "fr",
+      "bbox": [
+        -1.791,
+        42.778,
+        0.03,
+        43.597
+      ],
+      "maxzoom": 14,
+      "zak": false,
+      "bytes": 69373300,
+      "pad": "/data/fr-64-z14.pmtiles",
+      "r2": "fr-64-z14.pmtiles",
+      "build": "20261117"
+    },
+    {
+      "id": "fr-79-z14",
+      "naam": "Deux-Sèvres, straatniveau",
+      "omschrijving": "Straten, gebouwen en paden; Nieuw-Aquitanië",
+      "groep": "regio",
+      "land": "fr",
+      "bbox": [
+        -0.903,
+        45.97,
+        0.22,
+        47.108
+      ],
+      "maxzoom": 14,
+      "zak": false,
+      "bytes": 51148846,
+      "pad": "/data/fr-79-z14.pmtiles",
+      "r2": "fr-79-z14.pmtiles",
+      "build": "20261117"
+    },
+    {
+      "id": "fr-86-z14",
+      "naam": "Vienne, straatniveau",
+      "omschrijving": "Straten, gebouwen en paden; Nieuw-Aquitanië",
+      "groep": "regio",
+      "land": "fr",
+      "bbox": [
+        -0.105,
+        46.048,
+        1.213,
+        47.176
+      ],
+      "maxzoom": 14,
+      "zak": false,
+      "bytes": 48646615,
+      "pad": "/data/fr-86-z14.pmtiles",
+      "r2": "fr-86-z14.pmtiles",
+      "build": "20261117"
+    },
+    {
+      "id": "fr-87-z14",
+      "naam": "Haute-Vienne, straatniveau",
+      "omschrijving": "Straten, gebouwen en paden; Nieuw-Aquitanië",
+      "groep": "regio",
+      "land": "fr",
+      "bbox": [
+        0.629,
+        45.437,
+        1.91,
+        46.401
+      ],
+      "maxzoom": 14,
+      "zak": false,
+      "bytes": 50308169,
+      "pad": "/data/fr-87-z14.pmtiles",
+      "r2": "fr-87-z14.pmtiles",
+      "build": "20261117"
+    },
+    {
+      "id": "fr-nor-z14",
+      "naam": "Normandië, straatniveau",
+      "omschrijving": "Straten, gebouwen en paden",
+      "groep": "regio",
+      "land": "fr",
+      "bbox": [
+        -1.955,
+        48.179,
+        1.803,
+        50.072
+      ],
+      "maxzoom": 14,
+      "zak": false,
+      "bytes": 187145355,
+      "pad": "/data/fr-nor-z14.pmtiles",
+      "r2": "fr-nor-z14.pmtiles",
+      "build": "20261117"
+    },
+    {
+      "id": "fr-09-z14",
+      "naam": "Ariège, straatniveau",
+      "omschrijving": "Straten, gebouwen en paden; Occitanië",
+      "groep": "regio",
+      "land": "fr",
+      "bbox": [
+        0.827,
+        42.573,
+        2.176,
+        43.316
+      ],
+      "maxzoom": 14,
+      "zak": false,
+      "bytes": 37314156,
+      "pad": "/data/fr-09-z14.pmtiles",
+      "r2": "fr-09-z14.pmtiles",
+      "build": "20261117"
+    },
+    {
+      "id": "fr-11-z14",
+      "naam": "Aude, straatniveau",
+      "omschrijving": "Straten, gebouwen en paden; Occitanië",
+      "groep": "regio",
+      "land": "fr",
+      "bbox": [
+        1.689,
+        42.649,
+        3.24,
+        43.46
+      ],
+      "maxzoom": 14,
+      "zak": false,
+      "bytes": 48171447,
+      "pad": "/data/fr-11-z14.pmtiles",
+      "r2": "fr-11-z14.pmtiles",
+      "build": "20261117"
+    },
+    {
+      "id": "fr-12-z14",
+      "naam": "Aveyron, straatniveau",
+      "omschrijving": "Straten, gebouwen en paden; Occitanië",
+      "groep": "regio",
+      "land": "fr",
+      "bbox": [
+        1.84,
+        43.691,
+        3.452,
+        44.941
+      ],
+      "maxzoom": 14,
+      "zak": false,
+      "bytes": 73927767,
+      "pad": "/data/fr-12-z14.pmtiles",
+      "r2": "fr-12-z14.pmtiles",
+      "build": "20261117"
+    },
+    {
+      "id": "fr-30-z14",
+      "naam": "Gard, straatniveau",
+      "omschrijving": "Straten, gebouwen en paden; Occitanië",
+      "groep": "regio",
+      "land": "fr",
+      "bbox": [
+        3.262,
+        43.46,
+        4.846,
+        44.46
+      ],
+      "maxzoom": 14,
+      "zak": false,
+      "bytes": 70846947,
+      "pad": "/data/fr-30-z14.pmtiles",
+      "r2": "fr-30-z14.pmtiles",
+      "build": "20261117"
+    },
+    {
+      "id": "fr-31-z14",
+      "naam": "Haute-Garonne, straatniveau",
+      "omschrijving": "Straten, gebouwen en paden; Occitanië",
+      "groep": "regio",
+      "land": "fr",
+      "bbox": [
+        0.442,
+        42.689,
+        2.048,
+        43.922
+      ],
+      "maxzoom": 14,
+      "zak": false,
+      "bytes": 89982900,
+      "pad": "/data/fr-31-z14.pmtiles",
+      "r2": "fr-31-z14.pmtiles",
+      "build": "20261117"
+    },
+    {
+      "id": "fr-32-z14",
+      "naam": "Gers, straatniveau",
+      "omschrijving": "Straten, gebouwen en paden; Occitanië",
+      "groep": "regio",
+      "land": "fr",
+      "bbox": [
+        -0.282,
+        43.311,
+        1.203,
+        44.08
+      ],
+      "maxzoom": 14,
+      "zak": false,
+      "bytes": 60498515,
+      "pad": "/data/fr-32-z14.pmtiles",
+      "r2": "fr-32-z14.pmtiles",
+      "build": "20261117"
+    },
+    {
+      "id": "fr-34-z14",
+      "naam": "Hérault, straatniveau",
+      "omschrijving": "Straten, gebouwen en paden; Occitanië",
+      "groep": "regio",
+      "land": "fr",
+      "bbox": [
+        2.54,
+        43.21,
+        4.195,
+        43.973
+      ],
+      "maxzoom": 14,
+      "zak": false,
+      "bytes": 54832965,
+      "pad": "/data/fr-34-z14.pmtiles",
+      "r2": "fr-34-z14.pmtiles",
+      "build": "20261117"
+    },
+    {
+      "id": "fr-46-z14",
+      "naam": "Lot, straatniveau",
+      "omschrijving": "Straten, gebouwen en paden; Occitanië",
+      "groep": "regio",
+      "land": "fr",
+      "bbox": [
+        0.981,
+        44.203,
+        2.211,
+        45.047
+      ],
+      "maxzoom": 14,
+      "zak": false,
+      "bytes": 48096900,
+      "pad": "/data/fr-46-z14.pmtiles",
+      "r2": "fr-46-z14.pmtiles",
+      "build": "20261117"
+    },
+    {
+      "id": "fr-48-z14",
+      "naam": "Lozère, straatniveau",
+      "omschrijving": "Straten, gebouwen en paden; Occitanië",
+      "groep": "regio",
+      "land": "fr",
+      "bbox": [
+        2.982,
+        44.109,
+        3.998,
+        44.976
+      ],
+      "maxzoom": 14,
+      "zak": false,
+      "bytes": 27656202,
+      "pad": "/data/fr-48-z14.pmtiles",
+      "r2": "fr-48-z14.pmtiles",
+      "build": "20261117"
+    },
+    {
+      "id": "fr-65-z14",
+      "naam": "Hautes-Pyrénées, straatniveau",
+      "omschrijving": "Straten, gebouwen en paden; Occitanië",
+      "groep": "regio",
+      "land": "fr",
+      "bbox": [
+        -0.327,
+        42.674,
+        0.646,
+        43.613
+      ],
+      "maxzoom": 14,
+      "zak": false,
+      "bytes": 54115775,
+      "pad": "/data/fr-65-z14.pmtiles",
+      "r2": "fr-65-z14.pmtiles",
+      "build": "20261117"
+    },
+    {
+      "id": "fr-66-z14",
+      "naam": "Pyrénées-Orientales, straatniveau",
+      "omschrijving": "Straten, gebouwen en paden; Occitanië",
+      "groep": "regio",
+      "land": "fr",
+      "bbox": [
+        1.721,
+        42.333,
+        3.178,
+        42.919
+      ],
+      "maxzoom": 14,
+      "zak": false,
+      "bytes": 31724151,
+      "pad": "/data/fr-66-z14.pmtiles",
+      "r2": "fr-66-z14.pmtiles",
+      "build": "20261117"
+    },
+    {
+      "id": "fr-81-z14",
+      "naam": "Tarn, straatniveau",
+      "omschrijving": "Straten, gebouwen en paden; Occitanië",
+      "groep": "regio",
+      "land": "fr",
+      "bbox": [
+        1.535,
+        43.383,
+        2.937,
+        44.201
+      ],
+      "maxzoom": 14,
+      "zak": false,
+      "bytes": 43017358,
+      "pad": "/data/fr-81-z14.pmtiles",
+      "r2": "fr-81-z14.pmtiles",
+      "build": "20261117"
+    },
+    {
+      "id": "fr-82-z14",
+      "naam": "Tarn-et-Garonne, straatniveau",
+      "omschrijving": "Straten, gebouwen en paden; Occitanië",
+      "groep": "regio",
+      "land": "fr",
+      "bbox": [
+        0.738,
+        43.767,
+        2.001,
+        44.394
+      ],
+      "maxzoom": 14,
+      "zak": false,
+      "bytes": 32360935,
+      "pad": "/data/fr-82-z14.pmtiles",
+      "r2": "fr-82-z14.pmtiles",
+      "build": "20261117"
+    },
+    {
+      "id": "fr-pac-z14",
+      "naam": "Provence-Alpes-Côte d'Azur, straatniveau",
+      "omschrijving": "Straten, gebouwen en paden",
+      "groep": "regio",
+      "land": "fr",
+      "bbox": [
+        4.23,
+        42.982,
+        7.719,
+        45.127
+      ],
+      "maxzoom": 14,
+      "zak": false,
+      "bytes": 263925678,
+      "pad": "/data/fr-pac-z14.pmtiles",
+      "r2": "fr-pac-z14.pmtiles",
+      "build": "20261117"
+    },
+    {
+      "id": "fr-44-z14",
+      "naam": "Loire-Atlantique, straatniveau",
+      "omschrijving": "Straten, gebouwen en paden; Pays de la Loire",
+      "groep": "regio",
+      "land": "fr",
+      "bbox": [
+        -2.628,
+        46.86,
+        -0.947,
+        47.836
+      ],
+      "maxzoom": 14,
+      "zak": false,
+      "bytes": 76538195,
+      "pad": "/data/fr-44-z14.pmtiles",
+      "r2": "fr-44-z14.pmtiles",
+      "build": "20261117"
+    },
+    {
+      "id": "fr-49-z14",
+      "naam": "Maine-et-Loire, straatniveau",
+      "omschrijving": "Straten, gebouwen en paden; Pays de la Loire",
+      "groep": "regio",
+      "land": "fr",
+      "bbox": [
+        -1.354,
+        46.969,
+        0.234,
+        47.81
+      ],
+      "maxzoom": 14,
+      "zak": false,
+      "bytes": 62355729,
+      "pad": "/data/fr-49-z14.pmtiles",
+      "r2": "fr-49-z14.pmtiles",
+      "build": "20261117"
+    },
+    {
+      "id": "fr-53-z14",
+      "naam": "Mayenne, straatniveau",
+      "omschrijving": "Straten, gebouwen en paden; Pays de la Loire",
+      "groep": "regio",
+      "land": "fr",
+      "bbox": [
+        -1.239,
+        47.734,
+        -0.049,
+        48.568
+      ],
+      "maxzoom": 14,
+      "zak": false,
+      "bytes": 34481736,
+      "pad": "/data/fr-53-z14.pmtiles",
+      "r2": "fr-53-z14.pmtiles",
+      "build": "20261117"
+    },
+    {
+      "id": "fr-72-z14",
+      "naam": "Sarthe, straatniveau",
+      "omschrijving": "Straten, gebouwen en paden; Pays de la Loire",
+      "groep": "regio",
+      "land": "fr",
+      "bbox": [
+        -0.448,
+        47.568,
+        0.917,
+        48.485
+      ],
+      "maxzoom": 14,
+      "zak": false,
+      "bytes": 53288765,
+      "pad": "/data/fr-72-z14.pmtiles",
+      "r2": "fr-72-z14.pmtiles",
+      "build": "20261117"
+    },
+    {
+      "id": "fr-85-z14",
+      "naam": "Vendée, straatniveau",
+      "omschrijving": "Straten, gebouwen en paden; Pays de la Loire",
+      "groep": "regio",
+      "land": "fr",
+      "bbox": [
+        -2.401,
+        46.267,
+        -0.538,
+        47.085
+      ],
+      "maxzoom": 14,
+      "zak": false,
+      "bytes": 53792399,
+      "pad": "/data/fr-85-z14.pmtiles",
+      "r2": "fr-85-z14.pmtiles",
+      "build": "20261117"
+    },
+    {
+      "id": "lu-z9",
+      "naam": "Luxemburg, overzicht",
+      "omschrijving": "Gemeenten, hoofdwegen, rivieren",
+      "groep": "land",
+      "land": "lu",
+      "bbox": [
+        5.73,
+        49.44,
+        6.54,
+        50.19
+      ],
+      "maxzoom": 9,
+      "zak": true,
+      "bytes": 2245514,
+      "pad": "/data/lu-z9.pmtiles",
+      "r2": "lu-z9.pmtiles",
+      "build": "20261117"
+    },
+    {
+      "id": "lu-z12",
+      "naam": "Luxemburg, standaard",
+      "omschrijving": "Alle wegen en dorpen, geen gebouwen",
+      "groep": "land",
+      "land": "lu",
+      "bbox": [
+        5.73,
+        49.44,
+        6.54,
+        50.19
+      ],
+      "maxzoom": 12,
+      "zak": false,
+      "bytes": 18899300,
+      "pad": "/data/lu-z12.pmtiles",
+      "r2": "lu-z12.pmtiles",
+      "build": "20261117"
+    },
+    {
+      "id": "lu-z14",
+      "naam": "Luxemburg, straatniveau",
+      "omschrijving": "Straten, gebouwen en paden",
+      "groep": "regio",
+      "land": "lu",
+      "bbox": [
+        5.73,
+        49.44,
+        6.54,
+        50.19
+      ],
+      "maxzoom": 14,
+      "zak": false,
+      "bytes": 57699279,
+      "pad": "/data/lu-z14.pmtiles",
+      "r2": "lu-z14.pmtiles",
+      "build": "20261117"
+    },
+    {
+      "id": "nl-z9",
+      "naam": "Nederland, overzicht",
+      "omschrijving": "Gemeenten, hoofdwegen, rivieren",
+      "groep": "land",
+      "land": "nl",
+      "bbox": [
+        3.31,
+        50.75,
+        7.23,
+        53.56
+      ],
+      "maxzoom": 9,
+      "zak": true,
+      "bytes": 7969184,
+      "pad": "/data/nl-z9.pmtiles",
+      "r2": "nl-z9.pmtiles",
+      "build": "20261117"
+    },
+    {
+      "id": "nl-z12",
+      "naam": "Nederland, standaard",
+      "omschrijving": "Alle wegen en dorpen, geen gebouwen",
+      "groep": "land",
+      "land": "nl",
+      "bbox": [
+        3.31,
+        50.75,
+        7.23,
+        53.56
+      ],
+      "maxzoom": 12,
+      "zak": false,
+      "bytes": 171256544,
+      "pad": "/data/nl-z12.pmtiles",
+      "r2": "nl-z12.pmtiles",
+      "build": "20261117"
+    },
+    {
+      "id": "nl-dr-z14",
+      "naam": "Drenthe, straatniveau",
+      "omschrijving": "Straten, gebouwen en paden",
+      "groep": "regio",
+      "land": "nl",
+      "bbox": [
+        6.12,
+        52.612,
+        7.093,
+        53.204
+      ],
+      "maxzoom": 14,
+      "zak": false,
+      "bytes": 50396801,
+      "pad": "/data/nl-dr-z14.pmtiles",
+      "r2": "nl-dr-z14.pmtiles",
+      "build": "20261117"
+    },
+    {
+      "id": "nl-fl-z14",
+      "naam": "Flevoland, straatniveau",
+      "omschrijving": "Straten, gebouwen en paden",
+      "groep": "regio",
+      "land": "nl",
+      "bbox": [
+        5.06,
+        52.25,
+        6.017,
+        52.844
+      ],
+      "maxzoom": 14,
+      "zak": false,
+      "bytes": 40171851,
+      "pad": "/data/nl-fl-z14.pmtiles",
+      "r2": "nl-fl-z14.pmtiles",
+      "build": "20261117"
+    },
+    {
+      "id": "nl-fr-z14",
+      "naam": "Fryslân, straatniveau",
+      "omschrijving": "Straten, gebouwen en paden",
+      "groep": "regio",
+      "land": "nl",
+      "bbox": [
+        4.818,
+        52.765,
+        6.428,
+        53.54
+      ],
+      "maxzoom": 14,
+      "zak": false,
+      "bytes": 63053223,
+      "pad": "/data/nl-fr-z14.pmtiles",
+      "r2": "nl-fr-z14.pmtiles",
+      "build": "20261117"
+    },
+    {
+      "id": "nl-ge-z14",
+      "naam": "Gelderland, straatniveau",
+      "omschrijving": "Straten, gebouwen en paden",
+      "groep": "regio",
+      "land": "nl",
+      "bbox": [
+        4.994,
+        51.734,
+        6.833,
+        52.522
+      ],
+      "maxzoom": 14,
+      "zak": false,
+      "bytes": 149142593,
+      "pad": "/data/nl-ge-z14.pmtiles",
+      "r2": "nl-ge-z14.pmtiles",
+      "build": "20261117"
+    },
+    {
+      "id": "nl-gr-z14",
+      "naam": "Groningen, straatniveau",
+      "omschrijving": "Straten, gebouwen en paden",
+      "groep": "regio",
+      "land": "nl",
+      "bbox": [
+        6.167,
+        52.838,
+        7.227,
+        53.576
+      ],
+      "maxzoom": 14,
+      "zak": false,
+      "bytes": 48989539,
+      "pad": "/data/nl-gr-z14.pmtiles",
+      "r2": "nl-gr-z14.pmtiles",
+      "build": "20261117"
+    },
+    {
+      "id": "nl-li-z14",
+      "naam": "Limburg, straatniveau",
+      "omschrijving": "Straten, gebouwen en paden",
+      "groep": "regio",
+      "land": "nl",
+      "bbox": [
+        5.566,
+        50.75,
+        6.227,
+        51.779
+      ],
+      "maxzoom": 14,
+      "zak": false,
+      "bytes": 75706138,
+      "pad": "/data/nl-li-z14.pmtiles",
+      "r2": "nl-li-z14.pmtiles",
+      "build": "20261117"
+    },
+    {
+      "id": "nl-nb-z14",
+      "naam": "Noord-Brabant, straatniveau",
+      "omschrijving": "Straten, gebouwen en paden",
+      "groep": "regio",
+      "land": "nl",
+      "bbox": [
+        4.19,
+        51.221,
+        6.048,
+        51.831
+      ],
+      "maxzoom": 14,
+      "zak": false,
+      "bytes": 113916431,
+      "pad": "/data/nl-nb-z14.pmtiles",
+      "r2": "nl-nb-z14.pmtiles",
+      "build": "20261117"
+    },
+    {
+      "id": "nl-nh-z14",
+      "naam": "Noord-Holland, straatniveau",
+      "omschrijving": "Straten, gebouwen en paden",
+      "groep": "regio",
+      "land": "nl",
+      "bbox": [
+        4.478,
+        52.166,
+        5.377,
+        53.214
+      ],
+      "maxzoom": 14,
+      "zak": false,
+      "bytes": 71205267,
+      "pad": "/data/nl-nh-z14.pmtiles",
+      "r2": "nl-nh-z14.pmtiles",
+      "build": "20261117"
+    },
+    {
+      "id": "nl-ov-z14",
+      "naam": "Overijssel, straatniveau",
+      "omschrijving": "Straten, gebouwen en paden",
+      "groep": "regio",
+      "land": "nl",
+      "bbox": [
+        5.778,
+        52.118,
+        7.073,
+        52.854
+      ],
+      "maxzoom": 14,
+      "zak": false,
+      "bytes": 88989933,
+      "pad": "/data/nl-ov-z14.pmtiles",
+      "r2": "nl-ov-z14.pmtiles",
+      "build": "20261117"
+    },
+    {
+      "id": "nl-ut-z14",
+      "naam": "Utrecht, straatniveau",
+      "omschrijving": "Straten, gebouwen en paden",
+      "groep": "regio",
+      "land": "nl",
+      "bbox": [
+        4.792,
+        51.857,
+        5.627,
+        52.304
+      ],
+      "maxzoom": 14,
+      "zak": false,
+      "bytes": 55505582,
+      "pad": "/data/nl-ut-z14.pmtiles",
+      "r2": "nl-ut-z14.pmtiles",
+      "build": "20261117"
+    },
+    {
+      "id": "nl-ze-z14",
+      "naam": "Zeeland, straatniveau",
+      "omschrijving": "Straten, gebouwen en paden",
+      "groep": "regio",
+      "land": "nl",
+      "bbox": [
+        3.308,
+        51.2,
+        4.277,
+        51.782
+      ],
+      "maxzoom": 14,
+      "zak": false,
+      "bytes": 30605793,
+      "pad": "/data/nl-ze-z14.pmtiles",
+      "r2": "nl-ze-z14.pmtiles",
+      "build": "20261117"
+    },
+    {
+      "id": "nl-zh-z14",
+      "naam": "Zuid-Holland, straatniveau",
+      "omschrijving": "Straten, gebouwen en paden",
+      "groep": "regio",
+      "land": "nl",
+      "bbox": [
+        3.774,
+        51.644,
+        5.031,
+        52.333
+      ],
+      "maxzoom": 14,
+      "zak": false,
+      "bytes": 85918820,
+      "pad": "/data/nl-zh-z14.pmtiles",
+      "r2": "nl-zh-z14.pmtiles",
       "build": "20261117"
     }
   ]

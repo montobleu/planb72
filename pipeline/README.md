@@ -18,9 +18,47 @@ python3 pipeline/nucleair.py BE        # nucleaire sites en zones uit data/lande
 python3 pipeline/basiskaart.py BE      # basiskaart meten + overzichtskaart (pmtiles)
 ```
 
+Landen: `BE`, `NL`, `LU`, `FR`, `DE` (een bestand per land in `data/landen/`).
+
+### Bron per land: Overpass of Geofabrik
+
+België komt uit Overpass. Nederland, Luxemburg, Frankrijk en Duitsland komen uit het
+landextract van Geofabrik (`"bron": "geofabrik"` in `pipeline/budget.json`), lokaal gefilterd
+met `osmium` (`brew install osmium-tool` of `apt install osmium-tool`). Voor Frankrijk en
+Duitsland zou Overpass honderden aanvragen vragen; het extract (4 à 5 GB) is in enkele
+minuten verwerkt. `pipeline/pbf.py` geeft dezelfde elementen terug als Overpass, zodat
+`lagen.py` en `schuilplekken.py` voor beide bronnen dezelfde logica gebruiken. Punten
+buiten de landsgrens van OpenStreetMap (admin_level 2) vallen weg; het extract loopt
+een stukje over de grens. De extracten en tussenbestanden staan in `pipeline/out/pbf/`
+en worden na een week opnieuw gedownload. Met `PLANB72_BRON=geofabrik` kies je het
+extract ook voor België.
+
+Andere instellingen per land in `pipeline/budget.json` (`landen` -> code):
+
+- `lagen`: budget per laag, twee keer de meting van november 2026;
+- `plaats: "dichtstbij"`: de plaats van een schuilplek is de dichtstbijzijnde plaatsnaam
+  (city, town, village) binnen 10 km, in plaats van de gemeentegrenzen (Frankrijk en
+  Duitsland: tienduizenden gemeenten);
+- `per_regio`: met Overpass per regio (admin_level) ophalen in plaats van in één keer.
+
+### Kaartpakketten
+
+```sh
+python3 pipeline/regios.py NL DE FR                    # regio's met bbox -> pipeline/regios.json
+python3 pipeline/kaartpakketten.py --plan NL LU DE FR  # indeling -> pipeline/kaartpakketten-plan.json
+python3 pipeline/kaartpakketten.py --land nl --upload  # uitknippen en naar R2
+```
+
+Per land een overzicht (zoom 9, in het basispakket), een standaardkaart (zoom 12) en
+straatniveau (zoom 14). Elk pakket blijft onder 280 MB (upload met wrangler kan tot
+300 MB): de standaardkaart van Frankrijk en Duitsland is per regio, straatniveau per
+provincie, deelstaat of Regierungsbezirk, departement, of in vakken (noordwest, ...).
+De indeling komt uit een proefmeting (`pmtiles extract --dry-run`). België en Europa staan
+vast in `kaartpakketten.py`. Het resultaat staat in `site/public/data/kaarten.json`.
+
 | Script | Uitvoer |
 | --- | --- |
-| `lagen.py` | `site/public/data/be/<laag>.geojson` voor ziekenhuizen, medisch, politie, brandweer, apotheken, aed, drinkwater, overheid, dierenarts; plus `meta.json` |
+| `lagen.py` | `site/public/data/<land>/<laag>.geojson` voor ziekenhuizen, medisch, politie, brandweer, apotheken, aed, drinkwater, overheid, dierenarts; plus `meta.json` |
 | `schuilplekken.py` | `site/public/data/be/schuilplekken.geojson` en `pipeline/out/be-schuilplekken.csv` |
 | `nucleair.py` | `site/public/data/be/nucleair.geojson` (punten en cirkels) |
 | `basiskaart.py` | `pipeline/out/be-z<zoom>.pmtiles`, `pipeline/out/be-basiskaart-metingen.json`, `site/public/data/be/basis.pmtiles` |

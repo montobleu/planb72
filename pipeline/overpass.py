@@ -102,9 +102,83 @@ def vraag(query, timeout=900, pogingen=6, log=print):
     raise RuntimeError(f"Overpass onbereikbaar na {pogingen} pogingen: {laatste_fout}")
 
 
-def gebied(landcode):
-    """Overpass-regel die het land als gebied .land vastlegt."""
+def gebied(landcode, area_id=None):
+    """Overpass-regel die het land (of één regio ervan) als gebied .land vastlegt."""
+    if area_id:
+        return f"area(id:{area_id})->.land;"
     return f'area["ISO3166-1"="{landcode.upper()}"][admin_level=2]->.land;'
+
+
+def landinstellingen(landcode):
+    """Instellingen per land uit pipeline/budget.json ("landen" -> code)."""
+    from pathlib import Path
+    pad = Path(__file__).resolve().parent / "budget.json"
+    with open(pad, encoding="utf-8") as f:
+        return json.load(f).get("landen", {}).get(landcode.upper(), {})
+
+
+def lees_land(landcode):
+    """data/landen/<land>.json, of {} als het bestand (nog) niet bestaat."""
+    from pathlib import Path
+    pad = Path(__file__).resolve().parent.parent / "data" / "landen" / f"{landcode.lower()}.json"
+    if not pad.exists():
+        return {}
+    with open(pad, encoding="utf-8") as f:
+        return json.load(f)
+
+
+def in_bbox(lat, lon, bbox):
+    """bbox = [west, zuid, oost, noord]; None = alles."""
+    if not bbox:
+        return True
+    return bbox[0] <= lon <= bbox[2] and bbox[1] <= lat <= bbox[3]
+
+
+def regios(landcode, niveau="4", log=print):
+    """Regio's (admin_level niveau) van een land als [{id, area, naam, code}].
+
+    Alleen regio's met een ISO 3166-2-code van het land zelf (anders komen de
+    buurregio's mee die een grens delen) en met hun middelpunt in de bbox van
+    het land (zo vallen overzeese gebieden weg). Bewaard in pipeline/out.
+    """
+    from pathlib import Path
+    uit = Path(__file__).resolve().parent / "out"
+    cache = uit / f"{landcode.lower()}-regios-{niveau}.json"
+    if cache.exists() and time.time() - cache.stat().st_mtime < 30 * 86400:
+        with open(cache, encoding="utf-8") as f:
+            return json.load(f)
+    code = landcode.upper()
+    q = (f"[out:json][timeout:300];\n{gebied(code)}\n"
+         f'rel["boundary"="administrative"]["admin_level"="{niveau}"]'
+         f'["ISO3166-2"~"^{code}-"](area.land);\nout tags center;')
+    antwoord = vraag(q, log=log)
+    bbox = lees_land(code).get("bbox")
+    lijst = []
+    for el in antwoord.get("elements", []):
+        c = el.get("center") or {}
+        if c and not in_bbox(c["lat"], c["lon"], bbox):
+            continue
+        tags = el.get("tags", {})
+        lijst.append({"id": el["id"], "area": 3600000000 + el["id"],
+                      "naam": tags.get("name"), "code": tags.get("ISO3166-2")})
+    lijst.sort(key=lambda r: r["code"] or "")
+    uit.mkdir(parents=True, exist_ok=True)
+    with open(cache, "w", encoding="utf-8") as f:
+        json.dump(lijst, f, ensure_ascii=False, indent=1)
+    return lijst
+
+
+def gebieden(landcode, log=print):
+    """De gebieden waarin een land opgehaald wordt: het hele land, of per regio.
+
+    Per regio als budget.json voor het land "per_regio" (admin_level) zet.
+    Geeft [(label, overpass-regel)].
+    """
+    niveau = landinstellingen(landcode).get("per_regio")
+    if not niveau:
+        return [(landcode.upper(), gebied(landcode))]
+    return [(r["code"] or r["naam"], gebied(landcode, r["area"]))
+            for r in regios(landcode, str(niveau), log=log)]
 
 
 def haversine(lat1, lon1, lat2, lon2):

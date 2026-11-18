@@ -1,0 +1,65 @@
+{
+  "land": "DE",
+  "opgehaald": "2026-11-17",
+  "bron": "© OpenStreetMap-bijdragers, ODbL",
+  "lagen": {
+    "ziekenhuizen": {
+      "naam": "Ziekenhuizen",
+      "aantal": 2334,
+      "bytes": 552336
+    },
+    "medisch": {
+      "naam": "Medische posten",
+      "aantal": 42904,
+      "bytes": 11803688
+    },
+    "politie": {
+      "naam": "Politie",
+      "aantal": 3865,
+      "bytes": 874324
+    },
+    "brandweer": {
+      "naam": "Brandweer",
+      "aantal": 29183,
+      "bytes": 6398484
+    },
+    "apotheken": {
+      "naam": "Apotheken",
+      "aantal": 17092,
+      "bytes": 4585142
+    },
+    "aed": {
+      "naam": "AED's",
+      "aantal": 21508,
+      "bytes": 4203308
+    },
+    "drinkwater": {
+      "naam": "Drinkwater",
+      "aantal": 9899,
+      "bytes": 1755029
+    },
+    "overheid": {
+      "naam": "Gemeentehuizen",
+      "aantal": 8710,
+      "bytes": 2102495
+    },
+    "dierenarts": {
+      "naam": "Dierenartsen",
+      "aantal": 5419,
+      "bytes": 1401354
+    },
+    "schuilplekken": {
+      "naam": "Mogelijke schuilplekken",
+      "aantal": 50199,
+      "bytes": 11086496,
+      "opgehaald": "2026-11-17"
+    },
+    "nucleair": {
+      "naam": "Nucleaire sites en zones",
+      "aantal": 10,
+      "zones": 18,
+      "bytes": 26650,
+      "bron": "data/landen/de.json"
+    }
+  }
+}

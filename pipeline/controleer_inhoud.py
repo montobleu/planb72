@@ -3,7 +3,8 @@
 
 1. Controleert of elke scenariokaart een bron heeft die in het bronnenregister staat,
    en of een kaart met status 'nagekeken' ook een nalezer vermeldt.
-2. Controleert of elk noodnummer en kanaal in data/landen/*.json een bron heeft.
+2. Controleert of elk noodnummer en kanaal in data/landen/*.json een bron heeft en of
+   elke URL in de landinfo in het bronnenregister staat.
 3. Controleert vertalingen (site/src/content/<map>/<taal>/*.md en site/src/i18n/land/*.json):
    getallen, telefoonnummers, frequenties en eenheden moeten gelijk zijn aan het
    Nederlandse origineel, en elke vertaling vermeldt haar nazichtstatus.
@@ -48,6 +49,23 @@ def domein(url):
     return host[4:] if host.startswith("www.") else host
 
 
+def url_sleutel(url):
+    url = url.split("#", 1)[0].strip()
+    return url[:-1] if url.endswith("/") else url
+
+
+def urls_in(obj):
+    """Alle http(s)-adressen in een JSON-structuur."""
+    if isinstance(obj, dict):
+        for v in obj.values():
+            yield from urls_in(v)
+    elif isinstance(obj, list):
+        for v in obj:
+            yield from urls_in(v)
+    elif isinstance(obj, str) and re.match(r"https?://", obj):
+        yield obj
+
+
 def lees_frontmatter(pad):
     tekst = open(pad, encoding="utf-8").read()
     m = re.match(r"^---\n(.*?)\n---", tekst, re.S)
@@ -70,7 +88,9 @@ def lees_frontmatter(pad):
 def controleer():
     fouten = []
     register = json.load(open(os.path.join(ROOT, "data/bronnen/register.json"), encoding="utf-8"))
-    bekende = {domein(b["url"]) for b in (register if isinstance(register, list) else register.get("bronnen", []))}
+    bronnen = register if isinstance(register, list) else register.get("bronnen", [])
+    bekende = {domein(b["url"]) for b in bronnen}
+    register_urls = {url_sleutel(b["url"]) for b in bronnen}
 
     paden = []
     for map_ in ("scenarios", "gidsen", "eerstehulp"):
@@ -110,6 +130,13 @@ def controleer():
         for k in land.get("kanalen", []):
             if not k.get("bron"):
                 fouten.append(f"{naam}: kanaal {k.get('naam')} zonder bron")
+        for blok in ("nucleair", "schuilen", "voorraad"):
+            if not land.get(blok, {}).get("bron") and not land.get(blok, {}).get("advies_bron"):
+                fouten.append(f"{naam}: blok {blok} zonder bron")
+        # Elke URL in de landinfo staat als bron in het register.
+        for url in sorted(set(urls_in(land))):
+            if url_sleutel(url) not in register_urls:
+                fouten.append(f"{naam}: {url} staat niet in het bronnenregister")
     fouten += controleer_vertalingen()
     return fouten
 

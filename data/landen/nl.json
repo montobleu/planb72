@@ -1,0 +1,113 @@
+{
+  "code": "NL",
+  "naam": { "nl": "Nederland", "fr": "Pays-Bas", "de": "Niederlande", "en": "Netherlands" },
+  "talen": ["nl"],
+  "bbox": [3.31, 50.75, 7.23, 53.56],
+  "centrum": [5.63, 52.24],
+  "bijgewerkt": "2026-11-17",
+  "status": "concept",
+  "noodnummers": [
+    { "nummer": "112", "wat": "Politie, brandweer of ambulance bij spoed. Altijd bereikbaar, ook zonder beltegoed of geldige simkaart.", "dringend": true, "bron": "https://www.rijksoverheid.nl/onderwerpen/alarmnummer-112/vraag-en-antwoord/wat-gebeurt-er-als-ik-alarmnummer-112-bel" },
+    { "nummer": "0900-8844", "wat": "Politie als het geen spoed is. Kost 2 cent per minuut plus de gewone belkosten. Vanuit het buitenland: +31 34 357 8844.", "dringend": false, "bron": "https://www.politie.nl/contact" },
+    { "nummer": "0900-0904", "wat": "Brandweer als het geen spoed is", "dringend": false, "bron": "https://nederlandveilig.nl/noodnummers" },
+    { "nummer": "0800-1351", "wat": "Publieksinformatienummer van de overheid bij een ramp of crisis. Alleen actief als een overheid het inzet.", "dringend": false, "bron": "https://www.nctv.nl/onderwerpen/r/risico--en-crisiscommunicatie/communicatiemiddelen" },
+    { "nummer": "113", "wat": "113 Zelfmoordpreventie, gratis, dag en nacht, anoniem", "dringend": false, "bron": "https://www.113.nl/maak-je-je-zorgen-om-iemand/neem-contact-met-ons-op/hulplijn" },
+    { "nummer": "0800-2000", "wat": "Veilig Thuis: advies en melden bij huiselijk geweld en kindermishandeling. Gratis, dag en nacht, anoniem mogelijk. Bij directe nood: 112.", "dringend": false, "bron": "https://veiligthuis.nl/" },
+    { "nummer": "0800-0432", "wat": "De Kindertelefoon, gratis, elke dag van 11.00 tot 21.00 uur. Je hoeft je echte naam niet te zeggen.", "dringend": false, "bron": "https://www.kindertelefoon.nl/" },
+    { "nummer": "116 000", "wat": "Vermiste kinderen melden (Centrum Internationale Kinderontvoering). Vanuit het buitenland: +31 88 800 9000.", "dringend": false, "bron": "https://www.116000.nl/" },
+    { "nummer": "0800 7000", "wat": "Meld Misdaad Anoniem: anoniem informatie over een misdrijf doorgeven. Werkdagen 8.00 tot 22.00 uur, weekend 9.00 tot 17.00 uur.", "dringend": false, "bron": "https://www.meldmisdaadanoniem.nl/" }
+  ],
+  "kanalen": [
+    {
+      "naam": "NL-Alert",
+      "soort": "alarmering op de telefoon",
+      "wat": "Bericht van de overheid op je mobiele telefoon, met een hard alarmsignaal. Werkt via cell broadcast: je hoeft je niet aan te melden. Het bericht zegt wat er aan de hand is, wat je moet doen en waar je meer informatie vindt.",
+      "voorbereiden": "Elke eerste maandag van juni en december komt rond 12.00 uur een testbericht. Kijk dan of je telefoon het ontvangt.",
+      "url": "https://www.nl-alert.nl",
+      "bron": "https://www.denkvooruit.nl/bereid-je-voor/zo-krijg-je-een-waarschuwing/nl-alert"
+    },
+    {
+      "naam": "Nederland veilig",
+      "soort": "officiële website",
+      "wat": "Website van de Rijksoverheid voor informatie bij een nationale crisis of noodsituatie die meerdere regio's of het hele land raakt.",
+      "voorbereiden": "Bewaar nederlandveilig.nl en de website van je veiligheidsregio als bladwijzer.",
+      "url": "https://www.nederlandveilig.nl",
+      "bron": "https://nederlandveilig.nl/over-de-website"
+    },
+    {
+      "naam": "Regionale publieke omroep (calamiteitenzender)",
+      "soort": "radio en tv",
+      "wat": "Als stroom en internet uitvallen, kan de regionale publieke omroep blijven uitzenden via de radio. Elke regio heeft een eigen zender met eigen FM- en DAB-frequentie.",
+      "voorbereiden": "Hou een radio op batterijen, zonne-energie of met een dynamo klaar die FM en/of DAB ontvangt. Stel die vooraf af op je regionale omroep.",
+      "url": "https://www.rijksoverheid.nl/onderwerpen/media-en-publieke-omroep/regionale-publieke-omroepen",
+      "bron": "https://www.denkvooruit.nl/bereid-je-voor/zo-krijg-je-een-waarschuwing/radio"
+    },
+    {
+      "naam": "Sirenes",
+      "soort": "signaal",
+      "wat": "Elke eerste maandag van de maand om 12.00 uur wordt de sirene getest. Het signaal duurt 1 minuut en 26 seconden. Er is geen test op nationale en religieuze feestdagen en op 4 mei. Gaat de sirene op een ander moment, dan is er iets aan de hand.",
+      "voorbereiden": "Luister bij de maandelijkse test of je de sirene thuis hoort, zodat je het signaal herkent.",
+      "url": "https://www.rijksoverheid.nl/onderwerpen/veiligheidsregios-en-crisisbeheersing/vraag-en-antwoord/wanneer-wordt-de-sirene-getest",
+      "bron": "https://www.rijksoverheid.nl/onderwerpen/veiligheidsregios-en-crisisbeheersing/vraag-en-antwoord/wanneer-wordt-de-sirene-getest"
+    },
+    {
+      "naam": "Veiligheidsregio",
+      "soort": "officiële website",
+      "wat": "Nederland is verdeeld in 25 veiligheidsregio's. Elke regio heeft een eigen website en maakt afspraken over de aanpak van rampen en crises.",
+      "voorbereiden": "Zoek op de kaart van de Rijksoverheid welke veiligheidsregio bij je adres hoort en bewaar de website.",
+      "url": "https://www.rijksoverheid.nl/onderwerpen/veiligheidsregios-en-crisisbeheersing/veiligheidsregios",
+      "bron": "https://nederlandveilig.nl/jouw-veiligheidsregio"
+    },
+    {
+      "naam": "Denk vooruit",
+      "soort": "officiële website",
+      "wat": "Informatie van de overheid over voorbereiden op een noodsituatie, zoals langdurige stroomuitval, en over de eerste 72 uur.",
+      "voorbereiden": "Stel een noodpakket samen. Het meeste heb je waarschijnlijk al in huis.",
+      "url": "https://www.denkvooruit.nl",
+      "bron": "https://www.denkvooruit.nl"
+    },
+    {
+      "naam": "Publieksinformatienummer 0800-1351",
+      "soort": "telefoon",
+      "wat": "Elke overheidsorganisatie kan dit nummer bij een ramp of crisis dag en nacht inzetten. Een contactcenter beantwoordt dan vragen van het publiek.",
+      "voorbereiden": "Sla 0800-1351 op in je telefoon.",
+      "url": "https://www.nctv.nl/onderwerpen/r/risico--en-crisiscommunicatie/communicatiemiddelen",
+      "bron": "https://www.nctv.nl/onderwerpen/r/risico--en-crisiscommunicatie/communicatiemiddelen"
+    }
+  ],
+  "nucleair": {
+    "kernboodschap": "Ga naar binnen of blijf binnen. Sluit deuren, ramen en ventilatieopeningen. Luister naar de regionale rampenzender en let op NL-Alert. Neem jodiumtabletten alleen in als de overheid dat adviseert.",
+    "bron": "https://www.rijksoverheid.nl/documenten/vraag-en-antwoord/straling/hoe-kan-ik-mezelf-beschermen-bij-een-kernongeval",
+    "jodium_bron": "https://www.rijksoverheid.nl/onderwerpen/straling/jodiumtabletten",
+    "uitbreidingszone_km": 100,
+    "opmerking": "De zones zijn de preparatiezones uit het Landelijk Crisisplan Straling (2021): gebieden waar de overheid maatregelen vooraf voorbereidt. Evacuatie: rond Borssele en Doel tot 10 km, de binnenste 5 km eerst. Schuilen: het gebied waar mensen binnen blijven. jodium_km is de zone voor jodiumtabletten voor volwassenen van 18 tot en met 40 jaar. De uitbreidingszone van 100 km rond kerncentrales is de zone voor jodiumtabletten voor kinderen tot 18 jaar en zwangere vrouwen. Rond Petten (3 km) en Delft (0,5 km) staat die zone als eigen uitbreidingszone. Rond Tihange geldt in Nederland alleen die zone van 100 km. Bij een echt ongeval kan het gebied kleiner of groter zijn. Kerncentrale Emsland is sinds 15 april 2023 buiten bedrijf. Volgens de Rijksoverheid zijn daardoor in een aantal regio's geen jodiumtabletten meer nodig. Voor Urenco, COVRA, Lingen en Gronau noemt het plan geen zones.",
+    "coordinaten_status": "uit OpenStreetMap (Nominatim en Overpass, 17-11-2026): middelpunt van het terrein of gebouw van de installatie",
+    "sites": [
+      { "id": "borssele", "naam": "Borssele", "soort": "Kerncentrale", "land": "NL", "lat": 51.4314, "lon": 3.7200, "schuilen_km": 20, "jodium_km": 20, "evacuatie_km": 10 },
+      { "id": "petten", "naam": "Petten (Hoge Flux Reactor)", "soort": "Onderzoeksreactor", "land": "NL", "lat": 52.7881, "lon": 4.6775, "schuilen_km": 3, "jodium_km": null, "evacuatie_km": 3, "uitbreidingszone_km": 3 },
+      { "id": "delft", "naam": "Delft (Reactor Instituut Delft)", "soort": "Onderzoeksreactor", "land": "NL", "lat": 51.9910, "lon": 4.3824, "schuilen_km": 0.5, "jodium_km": null, "evacuatie_km": null, "uitbreidingszone_km": 0.5 },
+      { "id": "urenco-almelo", "naam": "Urenco Almelo", "soort": "Uraniumverrijking", "land": "NL", "lat": 52.3391, "lon": 6.6922, "schuilen_km": null, "jodium_km": null, "evacuatie_km": null },
+      { "id": "covra", "naam": "COVRA (Nieuwdorp)", "soort": "Opslag radioactief afval", "land": "NL", "lat": 51.4398, "lon": 3.7129, "schuilen_km": null, "jodium_km": null, "evacuatie_km": null },
+      { "id": "doel", "naam": "Doel", "soort": "Kerncentrale", "land": "BE", "lat": 51.3248, "lon": 4.2560, "schuilen_km": 20, "jodium_km": 20, "evacuatie_km": 10 },
+      { "id": "tihange", "naam": "Tihange", "soort": "Kerncentrale", "land": "BE", "lat": 50.5335, "lon": 5.2739, "schuilen_km": null, "jodium_km": null, "evacuatie_km": null },
+      { "id": "mol", "naam": "Mol (SCK CEN)", "soort": "Onderzoeksreactor", "land": "BE", "lat": 51.2166, "lon": 5.0916, "schuilen_km": 20, "jodium_km": 20, "evacuatie_km": null },
+      { "id": "emsland", "naam": "Emsland (Lingen)", "soort": "Kerncentrale (buiten bedrijf sinds 2023)", "land": "DE", "lat": 52.4705, "lon": 7.3217, "schuilen_km": 25, "jodium_km": 25, "evacuatie_km": null },
+      { "id": "lingen-anf", "naam": "Lingen (splijtstoffabriek)", "soort": "Splijtstoffabriek", "land": "DE", "lat": 52.4809, "lon": 7.3316, "schuilen_km": null, "jodium_km": null, "evacuatie_km": null },
+      { "id": "gronau", "naam": "Urenco Gronau", "soort": "Uraniumverrijking", "land": "DE", "lat": 52.2153, "lon": 7.0757, "schuilen_km": null, "jodium_km": null, "evacuatie_km": null }
+    ],
+    "zones_bron": "https://open.overheid.nl/documenten/ronl-99c4f56e-4331-4ec8-b30c-cc94ebd9078a/pdf"
+  },
+  "schuilen": {
+    "officieel_netwerk": false,
+    "advies": "Nederland heeft geen netwerk van openbare schuilkelders. Het officiële advies als de sirene gaat: ga zo snel mogelijk naar binnen, sluit deuren en ramen, ook afzuigkap en ventilatieroosters, en zet de mechanische ventilatie uit door de stekker eruit te trekken. Volg de regionale publieke omroep op radio of tv, of de website van je veiligheidsregio. Ga pas naar buiten als het weer veilig is.",
+    "bron": "https://www.rijksoverheid.nl/onderwerpen/veiligheidsregios-en-crisisbeheersing/vraag-en-antwoord/wat-moet-ik-doen-als-de-sirene-gaat",
+    "netwerk_bron": "https://zoek.officielebekendmakingen.nl/ah-tk-20232024-2102.html"
+  },
+  "voorraad": {
+    "water_liter_pp_per_dag": 3,
+    "water_bron": "https://www.denkvooruit.nl/bereid-je-voor/stel-je-noodpakket-samen",
+    "water_status": "bevestigd op denkvooruit.nl: 3 liter per persoon per dag; de pagina noemt geen aantal dagen voor water",
+    "advies_uren": 72,
+    "advies_bron": "https://www.denkvooruit.nl/bereid-je-voor/stel-je-noodpakket-samen"
+  }
+}

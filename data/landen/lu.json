@@ -1,0 +1,85 @@
+{
+  "code": "LU",
+  "naam": { "nl": "Luxemburg", "fr": "Luxembourg", "de": "Luxemburg", "en": "Luxembourg" },
+  "talen": ["lb", "fr", "de"],
+  "bbox": [5.73, 49.44, 6.54, 50.19],
+  "centrum": [6.13, 49.82],
+  "bijgewerkt": "2026-11-17",
+  "status": "concept",
+  "noodnummers": [
+    { "nummer": "112", "wat": "Brandweer en ambulance (CGDIS). Gratis, dag en nacht.", "dringend": true, "bron": "https://112.public.lu/fr/urgences/112.html" },
+    { "nummer": "113", "wat": "Politie (Police grand-ducale). Gratis noodnummer bij nood, gevaar of dreiging.", "dringend": true, "bron": "https://police.public.lu/fr/votre-police/appel-urgence-113.html" },
+    { "nummer": "8002 5500", "wat": "Antigifcentrum. Het Antigifcentrum in Brussel behandelt de vergiftigingen in Luxemburg.", "dringend": false, "bron": "https://gouvernement.lu/fr/actualites/toutes_actualites/communiques/2026/08-aout/07-aev-cap.html" },
+    { "nummer": "8002 7788", "wat": "Gratis groen nummer van de overheid. Kan bij een crisis geactiveerd worden.", "dringend": false, "bron": "https://letzprepare.public.lu/dam-assets/images/guide-letzeprepare/hcpn-campagne26-guide-accessible-fr-002.pdf" },
+    { "nummer": "454 545", "wat": "SOS Détresse: psychologische steun per telefoon", "dringend": false, "bron": "https://police.public.lu/en/aide-aux-victimes/liste-organisation/sos-detresse.html" },
+    { "nummer": "116 111", "wat": "Kanner-Jugendtelefon: hulp voor kinderen en jongeren", "dringend": false, "bron": "https://112.public.lu/fr/urgences/numerosutilesetgardes/utiles1.html" },
+    { "nummer": "116 000", "wat": "Vermiste kinderen", "dringend": false, "bron": "https://112.public.lu/fr/urgences/numerosutilesetgardes/utiles1.html" }
+  ],
+  "kanalen": [
+    {
+      "naam": "LU-Alert",
+      "soort": "alarmering op de telefoon",
+      "wat": "Nationaal alarmsysteem van de overheid. Stuurt berichten via cell broadcast en sms naar elke gsm in de getroffen zone, zonder inschrijving. Alle berichten staan ook in de app en op lu-alert.lu. De overheid vraagt nooit persoonsgegevens en een bericht bevat normaal geen links.",
+      "voorbereiden": "Installeer de gratis app LU-Alert. Twijfel je aan een bericht, kijk dan op lu-alert.lu of het alarm actief is.",
+      "url": "https://lu-alert.lu",
+      "bron": "https://lu-alert.lu/fr/tout-savoir-sur-lu-alert/systeme-alerte-information.html"
+    },
+    {
+      "naam": "infocrise.lu",
+      "soort": "officiële website",
+      "wat": "Officiële site van de regering voor crisiscommunicatie. Bij een kernongeval meldt de overheid hier en via de media de maatregelen, zoals schuilen en het innemen van jodiumtabletten.",
+      "voorbereiden": "Bewaar infocrise.lu en lu-alert.lu als bladwijzer. Lees en bewaar de brochure over wat je doet bij een nucleair alarm.",
+      "url": "https://infocrise.public.lu",
+      "bron": "https://infocrise.public.lu/dam-assets/publications/urgence-nucl%C3%A9aire/BROCHURE-CATTENOM-QUE-FAIRE-EN-CAS-ALERTE-NUCLEAIRE.pdf"
+    },
+    {
+      "naam": "Radio: RTL en 100,7",
+      "soort": "radio en tv",
+      "wat": "Volgens de overheid is de radio een kanaal dat goed bestand is tegen stroomuitval en storingen in het telefoonnetwerk. Voor officiële informatie verwijst ze naar RTL en radio 100,7.",
+      "voorbereiden": "Hou een radio op batterijen of met slinger klaar (FM of DAB+). De autoradio kan ook.",
+      "url": null,
+      "bron": "https://letzprepare.public.lu/dam-assets/images/guide-letzeprepare/hcpn-campagne26-guide-accessible-fr-002.pdf"
+    },
+    {
+      "naam": "Sirenes",
+      "soort": "signaal",
+      "wat": "Sirenes waarschuwen bij groot of dreigend gevaar. Ze worden getest op de eerste maandag van de maand om 12 uur. Het nationale alarmsignaal is een stijgende en dalende toon: ga zo snel mogelijk een stevig, gesloten gebouw binnen.",
+      "voorbereiden": "Leer het verschil tussen de maandelijkse test en het alarmsignaal.",
+      "url": "https://infocrise.public.lu/fr/accident-nucleaire/plan-gouvernemental/avertissement-population.html",
+      "bron": "https://infocrise.public.lu/fr/accident-nucleaire/plan-gouvernemental/avertissement-population.html"
+    },
+    {
+      "naam": "Groen nummer 8002 7788",
+      "soort": "telefoon",
+      "wat": "Gratis informatienummer dat de overheid bij een crisis kan activeren.",
+      "voorbereiden": "Sla 8002 7788 op in je telefoon.",
+      "url": "https://letzprepare.public.lu/fr/guide.html",
+      "bron": "https://letzprepare.public.lu/dam-assets/images/guide-letzeprepare/hcpn-campagne26-guide-accessible-fr-002.pdf"
+    }
+  ],
+  "nucleair": {
+    "kernboodschap": "Volg LU-Alert en de media. Ga schuilen als de overheid dat aanraadt. Sluit deuren, ramen en luiken en zet ventilatie en airco uit. Leg je jodiumtabletten klaar en neem ze alleen op instructie van de overheid.",
+    "bron": "https://letzprepare.public.lu/dam-assets/images/guide-letzeprepare/hcpn-campagne26-guide-accessible-fr-002.pdf",
+    "uitbreidingszone_km": null,
+    "opmerking": "Luxemburg heeft geen kerninstallatie. Het noodplan voor een kernongeval (PIU, 2014) is gericht op Cattenom in Frankrijk. De primaire planningszone ligt binnen 15 km van Cattenom voor evacuatie en binnen 25 km voor schuilen en jodium. Ze is verdeeld in drie alarmsectoren: Oost, Centrum en West. De secundaire zone dekt de rest van het land. Ook daar kan de overheid schuilen en jodium bevelen, en daar liggen de opvangcentra bij een evacuatie. Daarom is er geen uitbreidingszone in km: de secundaire zone is het hele land. Jodiumtabletten zijn preventief in het hele land verdeeld. Wie ze kwijt is, vraagt ze aan bij de gemeente. Aan Franse kant geldt rond Cattenom een plan (PPI) van 20 km.",
+    "coordinaten_status": "uit OpenStreetMap (Nominatim, 2026-11-17), middelpunt van het terrein: Cattenom way 24041917, Chooz relatie 20011646, Tihange way 8591150",
+    "sites": [
+      { "id": "cattenom", "naam": "Cattenom", "soort": "Kerncentrale", "land": "FR", "lat": 49.4171, "lon": 6.2194, "schuilen_km": 25, "jodium_km": 25, "evacuatie_km": 15 },
+      { "id": "chooz", "naam": "Chooz", "soort": "Kerncentrale", "land": "FR", "lat": 50.0909, "lon": 4.7911, "schuilen_km": 20, "jodium_km": 20, "evacuatie_km": 10 },
+      { "id": "tihange", "naam": "Tihange", "soort": "Kerncentrale", "land": "BE", "lat": 50.5334, "lon": 5.2740, "schuilen_km": 20, "jodium_km": 20, "evacuatie_km": 10 }
+    ],
+    "zones_bron": "https://infocrise.public.lu/fr/accident-nucleaire/plan-gouvernemental/zones-planifications-urgence/zones-planification-primaire-secondaire.html"
+  },
+  "schuilen": {
+    "officieel_netwerk": null,
+    "advies": "Op de officiële sites is geen informatie gevonden over openbare schuilkelders. Het officiële advies bij een kernongeval is schuilen: ga tijdelijk het dichtstbijzijnde huis of gebouw binnen. Sluit deuren, ramen en luiken en zet verwarming, ventilatie en airco zo mogelijk uit. Blijf bij voorkeur op de benedenverdieping of in de kelder, in een ruimte zonder of met kleine ramen. Schuilen duurt in de regel niet langer dan 48 uur. Een auto of bus beschermt onvoldoende.",
+    "bron": "https://infocrise.public.lu/fr/accident-nucleaire/gestes-protection/mise-a-l-abri.html"
+  },
+  "voorraad": {
+    "water_liter_pp_per_dag": 3,
+    "water_bron": "Mon guide 72h d'autonomie (Ministère d'État / HCPN, oktober 2026): ten minste 3 liter per persoon per dag",
+    "water_status": "bevestigd in de officiële Luxemburgse gids",
+    "advies_uren": 72,
+    "advies_bron": "https://letzprepare.public.lu/fr/guide.html"
+  }
+}

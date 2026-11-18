@@ -1,5 +1,5 @@
 // Gedeelde basiskaart voor alle kaartpagina's van de app.
-// Stapelt de kaartpakketten van grof naar fijn (Europa, België, regio's). Op het toestel
+// Stapelt de kaartpakketten van grof naar fijn (Europa, de gekozen landen, regio's). Op het toestel
 // bewaarde pakketten gaan voor; met verbinding vullen we aan van de server.
 // Dezelfde logica als in /app/kaart/; die pagina kan na het samenvoegen ook deze module gebruiken.
 
@@ -8,7 +8,8 @@ import * as maplibregl from 'maplibre-gl';
 import workerUrl from 'maplibre-gl/dist/maplibre-gl-worker.mjs?url';
 import { Protocol, PMTiles, FileSource } from 'pmtiles';
 import { layers, namedFlavor } from '@protomaps/basemaps';
-import { overzicht, opToestel, type Kaartpakket } from './kaarten';
+import { overzicht, opToestel, kiesZichtbaar, type Kaartpakket } from './kaarten';
+import { gekozenLanden } from './landkeuze';
 import { getekendSchema, volgWijzigingen } from './kleurschema';
 
 export type Basiskaart = {
@@ -22,7 +23,6 @@ export type Basiskaart = {
   melding: string;
 };
 
-const RANG = { europa: 0, belgie: 1, regio: 2 } as const;
 let protocol: Protocol | null = null;
 
 /** Bouw de stijl van de basiskaart. Roept u één keer per pagina op. */
@@ -35,20 +35,7 @@ export async function basiskaart(taal = 'nl'): Promise<Basiskaart> {
   const licht = getekendSchema() === 'light';
   const pakketten = await overzicht();
   const lokaal = await opToestel();
-  const gekozen = pakketten
-    .filter((p) => lokaal.has(p.id) || (navigator.onLine && (p.id === 'eu-z7' || p.id === 'be-z12')))
-    .sort((a, b) => (RANG[a.groep] ?? 3) - (RANG[b.groep] ?? 3) || a.maxzoom - b.maxzoom);
-  // Per groep het fijnste pakket op het toestel, plus een fijner online pakket erbovenop als er
-  // verbinding is. Valt de verbinding weg, dan blijft de lokale kaart eronder zichtbaar.
-  const fijnste = (lijst: Kaartpakket[]) => lijst.reduce<Kaartpakket | undefined>((a, b) => (!a || b.maxzoom > a.maxzoom ? b : a), undefined);
-  const zichtbaar: Kaartpakket[] = [];
-  for (const groep of ['europa', 'belgie'] as const) {
-    const lok = fijnste(gekozen.filter((p) => p.groep === groep && lokaal.has(p.id)));
-    const onl = fijnste(gekozen.filter((p) => p.groep === groep && !lokaal.has(p.id)));
-    if (lok) zichtbaar.push(lok);
-    if (onl && (!lok || onl.maxzoom > lok.maxzoom)) zichtbaar.push(onl);
-  }
-  zichtbaar.push(...gekozen.filter((p) => !(p.groep in { europa: 1, belgie: 1 })));
+  const zichtbaar = kiesZichtbaar(pakketten, lokaal, gekozenLanden());
 
   const bronnen: Record<string, maplibregl.SourceSpecification> = {};
   const basislagen: maplibregl.LayerSpecification[] = [
@@ -65,6 +52,8 @@ export async function basiskaart(taal = 'nl'): Promise<Basiskaart> {
     bronnen[p.id] = {
       type: 'vector',
       url,
+      // Tegels buiten het pakket worden niet gevraagd.
+      bounds: p.bbox,
       attribution: '© <a href="https://openstreetmap.org/copyright">OpenStreetMap</a> · <a href="https://protomaps.com">Protomaps</a>',
     };
     for (const laag of layers(p.id, smaak, { lang: taal })) {
