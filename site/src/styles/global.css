@@ -51,7 +51,9 @@
   --accent: var(--merk);
 
   --radius: 4px;
-  --max: 72rem;
+  --max: 80rem;
+  /* Regellengte van lopende tekst: breed, maar nog leesbaar. Vakken, tabellen en bronnen gebruiken de volle breedte. */
+  --regel: 80ch;
   --font: "Plex", system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
   accent-color: var(--merk);
 }
@@ -98,7 +100,7 @@ img, svg { max-width: 100%; }
 
 .wrap { max-width: var(--max); margin-inline: auto; padding-inline: 20px; }
 .breed { max-width: var(--max); }
-main > p, main > ul, main > ol, main > dl, main section > p, .lead { max-width: 68ch; }
+main > p, main > ul, main > ol, main > dl, main section > p, .lead { max-width: var(--regel); }
 
 .klein { font-size: 0.875rem; color: var(--tekst-2); }
 .dempen { color: var(--tekst-2); }
@@ -239,7 +241,7 @@ textarea { min-height: 8rem; resize: vertical; }
 input[type="url"] { width: 100%; min-height: 46px; padding: 10px 12px; background: var(--bg); color: var(--tekst); border: 1px solid var(--rand-sterk); border-radius: var(--radius); font: inherit; }
 fieldset { border: 1px solid var(--rand); border-radius: var(--radius); padding: 12px 16px; margin: 1rem 0; }
 legend { font-weight: 600; padding: 0 6px; }
-.vinklijst { list-style: none; padding: 0; max-width: 68ch; }
+.vinklijst { list-style: none; padding: 0; max-width: var(--regel); }
 .vinklijst li { display: flex; gap: 12px; align-items: flex-start; padding: 10px 0; border-bottom: 1px solid var(--rand); }
 .vinklijst input { width: 20px; height: 20px; margin-top: 3px; flex: none; }
 .vinklijst label { font-weight: 400; margin: 0; }
@@ -270,7 +272,7 @@ legend { font-weight: 600; padding: 0 6px; }
 }
 .onderbalk a[aria-current="page"] { color: var(--info); border-top: 3px solid var(--info); background: var(--info-bg); }
 
-.stappen { counter-reset: stap; list-style: none; padding: 0; max-width: 68ch; }
+.stappen { counter-reset: stap; list-style: none; padding: 0; max-width: var(--regel); }
 .stappen > li { counter-increment: stap; position: relative; padding: 12px 0 12px 40px; border-bottom: 1px solid var(--rand); }
 .stappen > li::before {
   content: counter(stap); position: absolute; left: 0; top: 11px; inline-size: 28px; block-size: 28px; border-radius: 50%;
@@ -396,7 +398,7 @@ main.wrap { padding-top: 2.5rem; }
 
 /* ---------- Uitgebreide teksten (scenario's, gidsen, eerste hulp) ---------- */
 
-.inhoud { max-width: 72ch; }
+.inhoud > :is(p, ul, ol, dl, blockquote, h2, h3, h4) { max-width: var(--regel); }
 .inhoud h2 { margin-top: 2.5rem; padding: 0.15rem 0 0.15rem 12px; border-left: 4px solid var(--info); scroll-margin-top: 80px; }
 .inhoud h3 { color: var(--info); }
 .inhoud h3 { margin-top: 1.5rem; scroll-margin-top: 80px; }
@@ -407,11 +409,11 @@ main.wrap { padding-top: 2.5rem; }
 .inhoud blockquote { margin: 1rem 0; padding: 0.25rem 0 0.25rem 1rem; border-left: 3px solid var(--rand-sterk); color: var(--tekst-2); }
 .bron ul { margin: 0.25rem 0 0.75rem; padding-left: 1.2rem; }
 
-.inhoudstafel { border: 1px solid var(--rand); border-radius: var(--radius); padding: 12px 16px; margin: 1.5rem 0; max-width: 72ch; }
-.inhoudstafel ol { margin: 0; padding-left: 1.2rem; columns: 2 14rem; column-gap: 2rem; }
+.inhoudstafel { border: 1px solid var(--rand); border-radius: var(--radius); padding: 12px 16px; margin: 1.5rem 0; }
+.inhoudstafel ol { margin: 0; padding-left: 1.2rem; columns: 3 14rem; column-gap: 2rem; }
 .inhoudstafel li { margin: 0.2rem 0; break-inside: avoid; }
 
-.eerste-stappen { border: 1px solid color-mix(in oklab, var(--info) 35%, var(--bg)); border-left: 5px solid var(--info); background: var(--info-bg); border-radius: 0 var(--radius) var(--radius) 0; padding: 6px 20px 10px; margin: 1.25rem 0; max-width: 72ch; }
+.eerste-stappen { border: 1px solid color-mix(in oklab, var(--info) 35%, var(--bg)); border-left: 5px solid var(--info); background: var(--info-bg); border-radius: 0 var(--radius) var(--radius) 0; padding: 6px 20px 10px; margin: 1.25rem 0; }
 .eerste-stappen h2 { font-size: 1.1rem; margin: 0.9rem 0 0.3rem; color: var(--info); }
 .eerste-stappen h2 ~ h2 { color: var(--gevaar); }
 .eerste-stappen ul { padding-left: 1.2rem; }
@@ -430,10 +432,11 @@ main.wrap { padding-top: 2.5rem; }
 .taalkeuze-lijst a[aria-current]::after { content: ' ✓'; font-weight: 400; }
 
 /* Bronvermelding: één lijst onderaan de pagina. */
-.bronvermelding { margin-top: 2.5rem; border-top: 1px solid var(--rand); padding-top: 0.5rem; font-size: 0.875rem; color: var(--tekst-2); }
+/* Zoals Wikipedia: kleiner lettertype, twee kolommen (één op een smal scherm). */
+.bronvermelding { margin-top: 2.5rem; border-top: 1px solid var(--rand); padding-top: 0.5rem; font-size: 0.8125rem; line-height: 1.45; color: var(--tekst-2); }
 .bronvermelding h2 { font-size: 1.05rem; border-top: 0; padding-top: 0; margin-top: 0.75rem; color: var(--tekst); }
-.bronvermelding ol { padding-left: 1.6rem; columns: 2 22rem; column-gap: 2rem; }
-.bronvermelding li { margin: 0.2rem 0; break-inside: avoid; scroll-margin-top: 80px; }
+.bronvermelding ol { max-width: none; padding-left: 1.6rem; columns: 2 18rem; column-gap: 2.5rem; }
+.bronvermelding li { margin: 0 0 0.15rem; break-inside: avoid; scroll-margin-top: 80px; }
 .bronvermelding li:target { background: var(--bg-2); outline: 2px solid var(--merk); outline-offset: 2px; }
 .bronvermelding a { color: var(--tekst-2); overflow-wrap: anywhere; }
 
