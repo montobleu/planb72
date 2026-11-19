@@ -57,6 +57,10 @@ jobs:
         with:
           name: site
           path: site/dist
+      # Oude stijl- en scriptbestanden 30 dagen laten staan, zodat pagina's van de vorige versie
+      # (cache, open tabbladen, offline opslag) niet zonder opmaak verschijnen.
+      - name: Bestanden van vorige versies meenemen
+        run: node scripts/vorige-assets.mjs
       - name: Publiceren naar Cloudflare
         run: npx wrangler deploy
         env:

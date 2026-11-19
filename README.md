@@ -56,6 +56,16 @@ De basiskaart staat niet in git. Maak ze met de pijplijn (zie [pipeline/README.m
 npx wrangler r2 object put planb72-pakketten/be/basis.pmtiles --file public/data/be/basis.pmtiles --local
 ```
 
+## Publiceren
+
+Met de hand, in `site/` na `npm run build`:
+
+```bash
+npm run publiceren
+```
+
+Dat neemt eerst de stijl- en scriptbestanden van de vorige versies mee (`scripts/vorige-assets.mjs`, 30 dagen), en rolt dan de site en de beheeromgeving uit. Gebruik niet alleen `wrangler deploy`: anders verschijnen pagina's van de vorige versie, uit de cache of de offline opslag, even zonder opmaak. De workflow `site.yml` doet hetzelfde.
+
 ## Regels die niet onderhandelbaar zijn
 
 1. **Geen eigen noodadvies.** Elke inhoudelijke zin over gezondheid, water, straling of chemie komt uit een bron in het register.

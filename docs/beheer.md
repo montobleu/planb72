@@ -72,7 +72,7 @@ Maak in de [Claude Console](https://platform.claude.com) een API-sleutel, liefst
 
 ### 3. De beheer-Worker en zijn secrets
 
-De beheer-Worker wordt mee uitgerold door de workflow `site.yml` (stap "Beheeromgeving publiceren"). Met de hand, in `site/` na `npm run build`:
+De beheer-Worker wordt mee uitgerold door de workflow `site.yml` (stap "Beheeromgeving publiceren") en door `npm run publiceren`. Alleen de beheer-Worker, in `site/` na `npm run build`:
 
 ```bash
 npx wrangler deploy --env beheer
