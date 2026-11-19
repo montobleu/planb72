@@ -47,7 +47,7 @@ const nl = {
     ],
     achtergrondTitel: 'Achtergrond',
     achtergrond: 'De Europese Commissie adviseert burgers zich voor te bereiden op ten minste 72 uur zelfredzaamheid bij een grootschalige verstoring (Preparedness Union Strategy, maart 2025). PlanB72 is een onafhankelijk open-sourceproject dat daarbij ondersteunt. Het is geen overheidsdienst en vervangt de hulpdiensten niet.',
-    schermAlt: 'Schermafbeelding van de PlanB72-app: startscherm met noodnummer 112 en de onderdelen Wat nu, Noodnummers en Kaart.',
+    schermAlt: 'Schermafbeelding van de PlanB72-app: startscherm met de onderdelen Wat nu, Noodnummers, Officiële informatie, Kaart en Route.',
     schermOnderschrift: 'Startscherm van de app',
   },
   download: {
@@ -204,7 +204,7 @@ const fr: Teksten = {
     ],
     achtergrondTitel: 'Contexte',
     achtergrond: 'La Commission européenne recommande aux citoyens de se préparer à une autonomie d\'au moins 72 heures en cas de perturbation majeure (Preparedness Union Strategy, mars 2025). PlanB72 est un projet open source indépendant qui y contribue. Ce n\'est pas un service public et il ne remplace pas les services de secours.',
-    schermAlt: 'Capture d\'écran de l\'application PlanB72 : écran d\'accueil avec le numéro d\'urgence 112 et les rubriques Que faire, Numéros d\'urgence et Carte.',
+    schermAlt: 'Capture d\'écran de l\'application PlanB72 : écran d\'accueil avec les rubriques Que faire, Numéros d\'urgence, Informations officielles, Carte et Itinéraire.',
     schermOnderschrift: 'Écran d\'accueil de l\'application',
   },
   download: {
@@ -359,7 +359,7 @@ const de: Teksten = {
     ],
     achtergrondTitel: 'Hintergrund',
     achtergrond: 'Die Europäische Kommission empfiehlt, sich bei einer großflächigen Störung auf mindestens 72 Stunden Selbstversorgung vorzubereiten (Preparedness Union Strategy, März 2025). PlanB72 ist ein unabhängiges Open-Source-Projekt, das dabei unterstützt. Es ist kein behördlicher Dienst und ersetzt nicht die Rettungsdienste.',
-    schermAlt: 'Bildschirmfoto der PlanB72-App: Startbildschirm mit der Notrufnummer 112 und den Bereichen Was jetzt, Notrufnummern und Karte.',
+    schermAlt: 'Bildschirmfoto der PlanB72-App: Startbildschirm mit den Bereichen Was jetzt, Notrufnummern, Offizielle Informationen, Karte und Route.',
     schermOnderschrift: 'Startbildschirm der App',
   },
   download: {
@@ -514,7 +514,7 @@ const en: Teksten = {
     ],
     achtergrondTitel: 'Background',
     achtergrond: 'The European Commission advises citizens to prepare for at least 72 hours of self-reliance in the event of a major disruption (Preparedness Union Strategy, March 2025). PlanB72 is an independent open-source project that supports this. It is not a government service and does not replace the emergency services.',
-    schermAlt: 'Screenshot of the PlanB72 app: home screen with emergency number 112 and the sections What now, Emergency numbers and Map.',
+    schermAlt: 'Screenshot of the PlanB72 app: home screen with the sections What now, Emergency numbers, Official information, Map and Route.',
     schermOnderschrift: 'App home screen',
   },
   download: {
