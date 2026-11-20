@@ -30,6 +30,10 @@ Gebruik:
     python3 pipeline/schuilplekken.py NL
     python3 pipeline/schuilplekken.py BE --zonder-gemeenten
     python3 pipeline/schuilplekken.py BE --forceer
+
+Grote landen: met "per_regio" in pipeline/budget.json (landen -> code) wordt per
+regio opgehaald; met "plaats": "dichtstbij" komt de plaats van de dichtstbijzijnde
+plaatsnaam (city, town, village) binnen 10 km in plaats van uit de gemeentegrenzen.
 """
 
 import argparse
@@ -43,6 +47,7 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 import overpass as op  # noqa: E402
+import pbf  # noqa: E402
 
 ROOT = Path(__file__).resolve().parent.parent
 UIT = ROOT / "pipeline" / "out"
@@ -103,6 +108,26 @@ SOORTEN = {
 }
 
 
+PLAATS_FILTER = 'node["place"~"^(city|town|village)$"]["name"]'
+
+
+def gemeente_filter(niveau):
+    return f'rel["boundary"="administrative"]["admin_level"="{niveau}"]'
+
+
+NIVEAU = ["8"]  # admin_level van gemeenten; main() zet de waarde van --gemeente-niveau
+
+
+def alle_filters(land, niveau="8"):
+    """Alles wat dit script uit een Geofabrik-extract nodig heeft: één filterronde.
+
+    Gemeentegrenzen alleen als het land ze gebruikt (niet bij "plaats": "dichtstbij").
+    """
+    fs = [f for s in SOORTEN.values() for f in s[1]] + [PLAATS_FILTER]
+    if op.landinstellingen(land).get("plaats") != "dichtstbij":
+        fs.append(gemeente_filter(niveau))
+    return fs
+
 # ---------------------------------------------------------------- gemeenten
 
 def gemeenten_ophalen(land, niveau):
@@ -115,7 +140,11 @@ def gemeenten_ophalen(land, niveau):
     q = (f"[out:json][timeout:900];\n{op.gebied(land)}\n"
          f'rel["boundary"="administrative"]["admin_level"="{niveau}"](area.land);\n'
          "out tags geom;")
-    antwoord = op.vraag(q)
+    if pbf.gekozen(land):
+        antwoord = {"elements": pbf.index(land, alle_filters(land, niveau)).zoek(
+            [gemeente_filter(niveau)], geom=True)}
+    else:
+        antwoord = op.vraag(q)
     gemeenten = []
     for rel in antwoord.get("elements", []):
         lijnen = []
@@ -158,6 +187,55 @@ def zoek_gemeente(lon, lat, gemeenten):
         if in_gemeente(lon, lat, gem):
             return gem["naam"]
     return None
+
+
+def plaatsen_ophalen(land, gebieden):
+    """Plaatsnamen (city, town, village) als punten, voor grote landen.
+
+    De grenzen van tienduizenden gemeenten ophalen is voor Frankrijk en
+    Duitsland te zwaar; daar krijgt een plek de naam van de dichtstbijzijnde
+    plaats binnen 10 km. Bewaard in pipeline/out.
+    """
+    cache = UIT / f"{land.lower()}-plaatsen.json"
+    if cache.exists() and time.time() - cache.stat().st_mtime < 30 * 86400:
+        with open(cache, encoding="utf-8") as f:
+            return json.load(f)
+    print("plaatsnamen ophalen ...", flush=True)
+    plaatsen = {}
+    for label, regel in gebieden:
+        if regel is None:
+            elementen = pbf.index(land, alle_filters(land, NIVEAU[0])).zoek([PLAATS_FILTER])
+        else:
+            q = (f"[out:json][timeout:900];\n{regel}\n{PLAATS_FILTER}(area.land);\nout;")
+            elementen = op.vraag(q).get("elements", [])
+        for el in elementen:
+            plaatsen[el["id"]] = [el["tags"]["name"], round(el["lat"], 5), round(el["lon"], 5)]
+    lijst = list(plaatsen.values())
+    UIT.mkdir(parents=True, exist_ok=True)
+    with open(cache, "w", encoding="utf-8") as f:
+        json.dump(lijst, f, ensure_ascii=False, separators=(",", ":"))
+    print(f"  {len(lijst)} plaatsen", flush=True)
+    return lijst
+
+
+class Plaatsrooster:
+    """Rooster van 0,1 graad om snel de dichtstbijzijnde plaats te vinden."""
+
+    def __init__(self, plaatsen):
+        self.cellen = defaultdict(list)
+        for naam, lat, lon in plaatsen:
+            self.cellen[(int(lat * 10), int(lon * 10))].append((naam, lat, lon))
+
+    def zoek(self, lat, lon, max_m=10000):
+        cy, cx = int(lat * 10), int(lon * 10)
+        beste, afstand = None, max_m
+        for dy in range(-1, 2):
+            for dx in range(-2, 3):
+                for naam, plat, plon in self.cellen.get((cy + dy, cx + dx), ()):
+                    d = op.haversine(lat, lon, plat, plon)
+                    if d < afstand:
+                        beste, afstand = naam, d
+        return beste
 
 
 # ---------------------------------------------------------------- tunnels
@@ -339,15 +417,26 @@ def ontdubbel_punten(rijen, afstand=150):
     return gehouden
 
 
-def haal_soort(land, soort, datum):
+def haal_soort(land, soort, datum, gebieden=None, bbox=None, grens=None):
     klasse, filters, uitvoer, minimum, _ = SOORTEN[soort]
     delen = "\n  ".join(f"{f}(area.land);" for f in filters)
     out = "out center tags;" if uitvoer == "center" else "out geom;"
-    q = f"[out:json][timeout:900];\n{op.gebied(land)}\n(\n  {delen}\n);\n{out}"
-    antwoord = op.vraag(q)
-    elementen = {op.osm_id(e): e for e in antwoord.get("elements", [])}
-    print(f"  {len(elementen)} objecten ({antwoord['_seconden']} s via "
-          f"{antwoord['_server']})", flush=True)
+    elementen = {}
+    seconden = 0.0
+    for label, regel in gebieden or [(land, op.gebied(land))]:
+        if regel is None:  # Geofabrik-extract in plaats van Overpass
+            t0 = time.time()
+            antwoord = pbf.antwoord(pbf.index(land, alle_filters(land, NIVEAU[0])).zoek(filters, uitvoer == "geom"), t0)
+        else:
+            q = f"[out:json][timeout:900];\n{regel}\n(\n  {delen}\n);\n{out}"
+            antwoord = op.vraag(q)
+        seconden += antwoord["_seconden"]
+        for e in antwoord.get("elements", []):
+            elementen.setdefault(op.osm_id(e), e)
+        if gebieden and len(gebieden) > 1:
+            print(f"    {label}: {len(antwoord.get('elements', []))} "
+                  f"({antwoord['_seconden']} s)", flush=True)
+    print(f"  {len(elementen)} objecten ({seconden:.0f} s)", flush=True)
     rijen = []
     if uitvoer == "geom":
         ways = [e for e in elementen.values() if e["type"] == "way" and e.get("geometry")]
@@ -355,7 +444,8 @@ def haal_soort(land, soort, datum):
             r = maak_rij(soort, t["way"], datum, t["lat"], t["lon"], t["lengte"])
             if r:
                 rijen.append(r)
-        return rijen
+        return [r for r in rijen if op.in_bbox(r["lat"], r["lon"], bbox)
+            and (grens is None or grens.binnen(r["lat"], r["lon"]))]
     for el in elementen.values():
         tags = el.get("tags", {})
         if soort == "gebouw met ondergrondse verdiepingen":
@@ -364,7 +454,8 @@ def haal_soort(land, soort, datum):
         r = maak_rij(soort, el, datum)
         if r:
             rijen.append(r)
-    return rijen
+    return [r for r in rijen if op.in_bbox(r["lat"], r["lon"], bbox)
+            and (grens is None or grens.binnen(r["lat"], r["lon"]))]
 
 
 def main():
@@ -378,13 +469,21 @@ def main():
     args = p.parse_args()
 
     land = args.land.upper()
+    NIVEAU[0] = args.gemeente_niveau
     datum = dt.date.today().isoformat()
     t0 = time.time()
+
+    instellingen = op.landinstellingen(land)
+    gebieden = [(land, None)] if pbf.gekozen(land) else op.gebieden(land)
+    bbox = op.lees_land(land).get("bbox")
+    grens = pbf.grens(land) if pbf.gekozen(land) else None
+    if len(gebieden) > 1:
+        print(f"{land}: per regio, {len(gebieden)} gebieden", flush=True)
 
     rijen = []
     for soort in SOORTEN:
         print(f"{soort}: ophalen ...", flush=True)
-        nieuw = haal_soort(land, soort, datum)
+        nieuw = haal_soort(land, soort, datum, gebieden, bbox, grens)
         print(f"  {len(nieuw)} plekken", flush=True)
         rijen.extend(nieuw)
 
@@ -402,7 +501,12 @@ def main():
             uniek.append(r)
     rijen = uniek
 
-    if not args.zonder_gemeenten:
+    if not args.zonder_gemeenten and instellingen.get("plaats") == "dichtstbij":
+        rooster = Plaatsrooster(plaatsen_ophalen(land, gebieden))
+        for r in rijen:
+            if not r["plaats"]:
+                r["plaats"] = rooster.zoek(r["lat"], r["lon"])
+    elif not args.zonder_gemeenten:
         gemeenten = gemeenten_ophalen(land, args.gemeente_niveau)
         for r in rijen:
             if not r["plaats"]:

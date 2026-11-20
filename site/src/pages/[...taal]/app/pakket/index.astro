@@ -1,0 +1,102 @@
+---
+import App from '../../../../layouts/App.astro';
+import { landenVoor, APP_VERSIE } from '../../../../lib/data';
+import KleurschemaKeuze from '../../../../components/KleurschemaKeuze.astro';
+import { APP } from '../../../../i18n/app';
+import { TALEN, TAALNAMEN, pad, taalPaden, taalVan } from '../../../../i18n/talen';
+export const getStaticPaths = taalPaden;
+const taal = taalVan(Astro.params);
+const t = APP[taal].pakket;
+const landen = landenVoor(taal);
+import Keuzehulp from '../../../../components/Keuzehulp.astro';
+---
+<App taal={taal} titel={t.titel} tab="meer" zoekbaar={false}>
+  <h1>{t.h1}</h1>
+
+  <section id="landen">
+    <span id="routes-kop"></span>
+    <Keuzehulp taal={taal} modus="app" />
+  </section>
+
+  <section>
+    <h2 id="taal">{t.taalTitel}</h2>
+    <p class="dempen">{t.taalUitleg}</p>
+    <ul class="taalkeuze-lijst" aria-labelledby="taal">
+      {TALEN.map((l) => (
+        <li>
+          <a href={pad(l, '/app/pakket/')} hreflang={l} lang={l} data-taalkeuze={l} aria-current={l === taal ? 'true' : undefined}>{TAALNAMEN[l]}</a>
+        </li>
+      ))}
+    </ul>
+  </section>
+
+  <section>
+    <h2>{t.installTitel}</h2>
+    <p id="installeer-uitleg" set:html={t.installUitleg} />
+    <div class="knoppen"><button class="knop" type="button" id="installeer" hidden>{t.installeren}</button></div>
+  </section>
+
+  <section>
+    <h2>{t.weergaveTitel}</h2>
+    <KleurschemaKeuze taal={taal} />
+  </section>
+
+  <section>
+    <h2>{t.toestelTitel}</h2>
+    <div class="tabel-wrap"><table><tbody id="toestel"></tbody></table></div>
+  </section>
+
+  <section>
+    <h2>{t.versheidTitel}</h2>
+    <div class="tabel-wrap"><table><tbody id="versheid">
+      <tr><th>{t.app}</th><td>{t.versie(APP_VERSIE)}</td></tr>
+      {landen.map((x) => <tr data-land={x.code}><th>{t.landinfo(x.naam)}</th><td>{x.bijgewerkt}</td></tr>)}
+    </tbody></table></div>
+  </section>
+
+  <section>
+    <h2>{t.delenTitel}</h2>
+    <p set:html={t.delen} />
+    <div class="knoppen"><button class="knop" type="button" id="deel">{t.delenKnop}</button></div>
+  </section>
+
+</App>
+<script>
+  import { locale, paginaTaal, klant } from '../../../../i18n/klant';
+  const tk = klant().pakket;
+  const mb = (b: number) => `${(b / 1024 / 1024).toLocaleString(locale(), { maximumFractionDigits: 1 })} MB`;
+
+  async function toestel() {
+    const rijen: [string, string][] = [];
+    const r = tk.rij;
+    rijen.push([r.verbinding, navigator.onLine ? r.online : r.offline]);
+    try {
+      const s = await navigator.storage?.estimate?.();
+      if (s?.usage !== undefined) rijen.push([r.opslag, `${mb(s.usage)}${s.quota ? r.ruimte(mb(s.quota)) : ''}`]);
+      const blijvend = await navigator.storage?.persisted?.();
+      rijen.push([r.beschermd, blijvend ? r.ja : r.nee]);
+    } catch {}
+    try {
+      const bat = await (navigator as any).getBattery?.();
+      if (bat) rijen.push([r.batterij, `${Math.round(bat.level * 100)}%${bat.charging ? r.laadt : ''}`]);
+    } catch {}
+    rijen.push([r.gps, 'geolocation' in navigator ? r.gpsJa : r.gpsNee]);
+    rijen.push([r.app, navigator.serviceWorker?.controller ? r.appJa : r.appNee]);
+    document.getElementById('toestel')!.innerHTML = rijen.map(([a, b]) => `<tr><th>${a}</th><td>${b}</td></tr>`).join('');
+  }
+
+  // Installeren: alleen tonen als de browser het aanbiedt.
+  let aanbod: any = null;
+  addEventListener('beforeinstallprompt', (e) => { e.preventDefault(); aanbod = e; document.getElementById('installeer')!.hidden = false; });
+  document.getElementById('installeer')!.addEventListener('click', async () => { if (!aanbod) return; aanbod.prompt(); aanbod = null; });
+  if (matchMedia('(display-mode: standalone)').matches) document.getElementById('installeer-uitleg')!.textContent = tk.geinstalleerd;
+
+  document.getElementById('deel')!.addEventListener('click', async () => {
+    const data = { title: 'PlanB72', text: tk.deelTekst, url: paginaTaal() === 'nl' ? 'https://planb72.org/' : `https://planb72.org/${paginaTaal()}/` };
+    try { if (navigator.share) await navigator.share(data); else { await navigator.clipboard.writeText(data.url); alert(tk.gekopieerd); } } catch {}
+  });
+
+  toestel();
+  addEventListener('online', toestel);
+  addEventListener('offline', toestel);
+</script>

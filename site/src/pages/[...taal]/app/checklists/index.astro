@@ -1,0 +1,28 @@
+---
+import App from '../../../../layouts/App.astro';
+import GidsLinks from '../../../../components/GidsLinks.astro';
+import { APP } from '../../../../i18n/app';
+import { taalPaden, taalVan } from '../../../../i18n/talen';
+export const getStaticPaths = taalPaden;
+const taal = taalVan(Astro.params);
+const t = APP[taal].checklists;
+---
+<App taal={taal} titel={t.titel} tab="meer">
+  <h1>{t.titel}</h1>
+  <p class="dempen">{t.uitleg}</p>
+  <p class="dempen">{t.herkomst}</p>
+  {t.lijsten.map(([id, titel, items]) => (
+    <section>
+      <h2>{titel}</h2>
+      <ul class="vinklijst" data-lijst={id}>
+        {items.map((it, i) => <li><input type="checkbox" id={`${id}-${i}`} /><label for={`${id}-${i}`}>{it}</label></li>)}
+      </ul>
+    </section>
+  ))}
+  <div class="knoppen niet-afdrukken"><button class="knop" type="button" onclick="print()">{APP[taal].algemeen.afdrukken}</button></div>
+  <GidsLinks taal={taal} ids={['noodpakket-en-vluchttas', 'noodvoorraad', 'evacuatie', 'spelletjes-en-bezigheid']} />
+</App>
+<script>
+  import { vinklijsten } from '../../../../lib/app';
+  vinklijsten();
+</script>

@@ -1,0 +1,205 @@
+{
+  "bijgewerkt": "2026-11-17T20:17:20+00:00",
+  "versie": 1,
+  "bron": "© OpenStreetMap-bijdragers (ODbL)",
+  "pakketten": [
+    {
+      "id": "be-wvl",
+      "naam": "West-Vlaanderen",
+      "omschrijving": "Routes en zoeken in West-Vlaanderen",
+      "groep": "regio",
+      "bbox": [
+        2.54,
+        50.68,
+        3.47,
+        51.38
+      ],
+      "bytes": 4828903,
+      "ruw": 15477084,
+      "knopen": 246389,
+      "randen": 320585,
+      "zoek": 24727,
+      "netwerkBytes": 4550018,
+      "zoekBytes": 278865,
+      "pad": "/data/route/be-wvl.pb72r",
+      "r2": "route/be-wvl.pb72r",
+      "osm": "2026-11-16"
+    },
+    {
+      "id": "be-ovl",
+      "naam": "Oost-Vlaanderen",
+      "omschrijving": "Routes en zoeken in Oost-Vlaanderen",
+      "groep": "regio",
+      "bbox": [
+        3.33,
+        50.71,
+        4.33,
+        51.35
+      ],
+      "bytes": 6725229,
+      "ruw": 21202716,
+      "knopen": 332388,
+      "randen": 430892,
+      "zoek": 39908,
+      "netwerkBytes": 6268309,
+      "zoekBytes": 456900,
+      "pad": "/data/route/be-ovl.pb72r",
+      "r2": "route/be-ovl.pb72r",
+      "osm": "2026-11-16"
+    },
+    {
+      "id": "be-ant",
+      "naam": "Antwerpen",
+      "omschrijving": "Routes en zoeken in de provincie Antwerpen",
+      "groep": "regio",
+      "bbox": [
+        4.1,
+        51.0,
+        5.25,
+        51.51
+      ],
+      "bytes": 5439474,
+      "ruw": 17440144,
+      "knopen": 272709,
+      "randen": 371685,
+      "zoek": 29885,
+      "netwerkBytes": 5112823,
+      "zoekBytes": 326631,
+      "pad": "/data/route/be-ant.pb72r",
+      "r2": "route/be-ant.pb72r",
+      "osm": "2026-11-16"
+    },
+    {
+      "id": "be-lim",
+      "naam": "Limburg",
+      "omschrijving": "Routes en zoeken in Limburg",
+      "groep": "regio",
+      "bbox": [
+        4.95,
+        50.68,
+        5.92,
+        51.26
+      ],
+      "bytes": 4939114,
+      "ruw": 15857656,
+      "knopen": 251638,
+      "randen": 339020,
+      "zoek": 23673,
+      "netwerkBytes": 4676535,
+      "zoekBytes": 262559,
+      "pad": "/data/route/be-lim.pb72r",
+      "r2": "route/be-lim.pb72r",
+      "osm": "2026-11-16"
+    },
+    {
+      "id": "be-bra",
+      "naam": "Brabant en Brussel",
+      "omschrijving": "Vlaams-Brabant, Brussel en Waals-Brabant",
+      "groep": "regio",
+      "bbox": [
+        3.98,
+        50.53,
+        5.17,
+        51.06
+      ],
+      "bytes": 8844197,
+      "ruw": 29476056,
+      "knopen": 466684,
+      "randen": 620765,
+      "zoek": 49923,
+      "netwerkBytes": 8224146,
+      "zoekBytes": 620031,
+      "pad": "/data/route/be-bra.pb72r",
+      "r2": "route/be-bra.pb72r",
+      "osm": "2026-11-16"
+    },
+    {
+      "id": "be-hen",
+      "naam": "Henegouwen",
+      "omschrijving": "Routes en zoeken in Henegouwen",
+      "groep": "regio",
+      "bbox": [
+        3.1,
+        50.0,
+        4.62,
+        50.82
+      ],
+      "bytes": 7158936,
+      "ruw": 22037384,
+      "knopen": 327045,
+      "randen": 424953,
+      "zoek": 43034,
+      "netwerkBytes": 6624746,
+      "zoekBytes": 534170,
+      "pad": "/data/route/be-hen.pb72r",
+      "r2": "route/be-hen.pb72r",
+      "osm": "2026-11-16"
+    },
+    {
+      "id": "be-nam",
+      "naam": "Namen",
+      "omschrijving": "Routes en zoeken in de provincie Namen",
+      "groep": "regio",
+      "bbox": [
+        4.3,
+        49.79,
+        5.41,
+        50.66
+      ],
+      "bytes": 5013468,
+      "ruw": 14407816,
+      "knopen": 207617,
+      "randen": 267382,
+      "zoek": 30301,
+      "netwerkBytes": 4647115,
+      "zoekBytes": 366333,
+      "pad": "/data/route/be-nam.pb72r",
+      "r2": "route/be-nam.pb72r",
+      "osm": "2026-11-16"
+    },
+    {
+      "id": "be-lui",
+      "naam": "Luik",
+      "omschrijving": "Routes en zoeken in de provincie Luik",
+      "groep": "regio",
+      "bbox": [
+        5.02,
+        50.12,
+        6.41,
+        50.82
+      ],
+      "bytes": 6020300,
+      "ruw": 17645676,
+      "knopen": 258818,
+      "randen": 329119,
+      "zoek": 34096,
+      "netwerkBytes": 5604552,
+      "zoekBytes": 415728,
+      "pad": "/data/route/be-lui.pb72r",
+      "r2": "route/be-lui.pb72r",
+      "osm": "2026-11-16"
+    },
+    {
+      "id": "be-lux",
+      "naam": "Luxemburg (provincie)",
+      "omschrijving": "Routes en zoeken in de provincie Luxemburg",
+      "groep": "regio",
+      "bbox": [
+        4.96,
+        49.49,
+        6.05,
+        50.43
+      ],
+      "bytes": 3827319,
+      "ruw": 10435588,
+      "knopen": 143408,
+      "randen": 181572,
+      "zoek": 16858,
+      "netwerkBytes": 3615646,
+      "zoekBytes": 211653,
+      "pad": "/data/route/be-lux.pb72r",
+      "r2": "route/be-lux.pb72r",
+      "osm": "2026-11-16"
+    }
+  ]
+}

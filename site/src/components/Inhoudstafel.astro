@@ -1,0 +1,15 @@
+---
+// Inhoudstafel op basis van de ##-koppen van een tekst.
+import type { MarkdownHeading } from 'astro';
+import { APP } from '../i18n/app';
+import type { Taal } from '../i18n/talen';
+interface Props { taal: Taal; koppen: MarkdownHeading[]; voorvoegsel?: string }
+const { taal, voorvoegsel = '' } = Astro.props;
+const koppen = Astro.props.koppen.filter((k) => k.depth === 2);
+---
+{koppen.length > 2 && (
+  <nav class="inhoudstafel" aria-label={APP[taal].inhoud.opDezePagina}>
+    <p class="boventitel">{APP[taal].inhoud.opDezePagina}</p>
+    <ol>{koppen.map((k) => <li><a href={`#${voorvoegsel}${k.slug}`}>{k.text}</a></li>)}</ol>
+  </nav>
+)}

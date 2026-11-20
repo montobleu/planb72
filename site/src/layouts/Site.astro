@@ -11,6 +11,13 @@ const meta = SITE[taal].meta;
 const volledigeTitel = titel ? `${titel} · PlanB72` : meta.titel;
 const omschrijving = beschrijving ?? meta.beschrijving;
 const basis = Astro.site ?? new URL('https://planb72.org');
+// In de zoekindex: elke websitepagina behalve de status (een lange, wisselende tabel) en
+// pagina's zonder vast pad, zoals de 404. De startpagina heet in de resultaten "PlanB72"
+// in plaats van de slogan uit de h1.
+const zoek = Astro.props.pagina === undefined || pagina === '/status/' ? {} : {
+  'data-pagefind-body': '',
+  'data-pagefind-meta': pagina === '/' ? 'soort:website, title:PlanB72' : 'soort:website',
+};
 ---
 <!doctype html>
 <html lang={taal}>
@@ -18,12 +25,13 @@ const basis = Astro.site ?? new URL('https://planb72.org');
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
   <Thema />
-  <meta name="theme-color" content="#ffffff" media="(prefers-color-scheme: light)" />
-  <meta name="theme-color" content="#0e1318" media="(prefers-color-scheme: dark)" />
+  <meta name="theme-color" content="#0e1318" />
   <title>{volledigeTitel}</title>
   <meta name="description" content={omschrijving} />
   <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
-  <link rel="manifest" href="/manifest.webmanifest" />
+  <link rel="manifest" href={pad(taal, '/app/manifest.webmanifest')} />
+  <!-- Cookieloze bezoekersstatistiek (Nvivio). Zie /privacy/. -->
+  <script is:inline defer src="https://nviv.io/js/NV-XQHMJCG.js"></script>
   <link rel="apple-touch-icon" href="/icons/icoon-192.png" />
   <link rel="preload" href="/fonts/ibm-plex-sans-latin-400-normal.woff2" as="font" type="font/woff2" crossorigin />
   <link rel="preload" href="/fonts/ibm-plex-sans-latin-600-normal.woff2" as="font" type="font/woff2" crossorigin />
@@ -34,7 +42,7 @@ const basis = Astro.site ?? new URL('https://planb72.org');
 <body>
   <a class="naar-inhoud" href="#inhoud">{taal === 'nl' ? 'Naar de inhoud' : taal === 'fr' ? 'Aller au contenu' : taal === 'de' ? 'Zum Inhalt' : 'Skip to content'}</a>
   <Kop taal={taal} pagina={pagina} />
-  {breed ? <main id="inhoud"><slot /></main> : <main id="inhoud" class="wrap"><slot /></main>}
+  {breed ? <main id="inhoud" {...zoek}><slot /></main> : <main id="inhoud" class="wrap" {...zoek}><slot /></main>}
   <Voet taal={taal} />
 </body>
 </html>

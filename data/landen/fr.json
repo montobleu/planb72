@@ -1,0 +1,136 @@
+{
+  "code": "FR",
+  "naam": { "nl": "Frankrijk", "fr": "France", "de": "Frankreich", "en": "France" },
+  "talen": ["fr"],
+  "bbox": [-5.15, 41.33, 9.57, 51.09],
+  "centrum": [2.21, 46.23],
+  "bijgewerkt": "2026-11-17",
+  "status": "concept",
+  "noodnummers": [
+    { "nummer": "112", "wat": "Europees noodnummer. Je wordt doorverbonden met de juiste dienst. Gratis, dag en nacht. Werkt ook als je beltegoed op is, zolang er een simkaart in de telefoon zit.", "dringend": true, "bron": "https://www.service-public.gouv.fr/particuliers/vosdroits/F33954" },
+    { "nummer": "15", "wat": "SAMU: medische noodgevallen. Ook voor snel medisch advies als je eigen arts niet bereikbaar is (Service d'accès aux soins).", "dringend": true, "bron": "https://www.service-public.gouv.fr/particuliers/vosdroits/F33954" },
+    { "nummer": "17", "wat": "Politie en gendarmerie (Police secours): misdrijf, verkeersongeval of verstoring van de openbare orde.", "dringend": true, "bron": "https://www.service-public.gouv.fr/particuliers/vosdroits/F33954" },
+    { "nummer": "18", "wat": "Brandweer (sapeurs-pompiers): brand, ongeval, ontploffing, gaslek, iemand in gevaar, verdrinking of overstroming.", "dringend": true, "bron": "https://www.service-public.gouv.fr/particuliers/vosdroits/F33954" },
+    { "nummer": "114", "wat": "Noodnummer voor doven, slechthorenden, doofblinden en mensen met afasie. Via sms, de app urgence 114 of info.urgence114.fr. Ook als je de hulpdiensten moet waarschuwen zonder hardop te praten.", "dringend": true, "bron": "https://www.service-public.gouv.fr/particuliers/vosdroits/F33954" },
+    { "nummer": "196", "wat": "Redding op zee (CROSS), vanaf de kust. Op zee gaat VHF-kanaal 16 voor.", "dringend": true, "bron": "https://www.service-public.gouv.fr/particuliers/vosdroits/F33954" },
+    { "nummer": "191", "wat": "Luchtvaartredding: een vliegtuig in nood, een ongeval met een vliegtuig of een vermist vliegtuig.", "dringend": true, "bron": "https://www.service-public.gouv.fr/particuliers/vosdroits/F33954" },
+    { "nummer": "197", "wat": "Alerte attentat: alleen actief als de overheid het plan alerte attentat start. Bel als je informatie hebt voor de speurders.", "dringend": false, "bron": "https://www.service-public.gouv.fr/particuliers/vosdroits/F33954" },
+    { "nummer": "115", "wat": "Samu social: noodopvang voor daklozen. Ook om iemand op straat in nood te melden. Dag en nacht.", "dringend": false, "bron": "https://www.service-public.gouv.fr/particuliers/vosdroits/F33954" },
+    { "nummer": "119", "wat": "Kinderen in gevaar: voor kinderen en jongeren die geweld meemaken en voor wie zich zorgen maakt. Gratis en vertrouwelijk, dag en nacht.", "dringend": false, "bron": "https://www.service-public.gouv.fr/particuliers/vosdroits/F33954" },
+    { "nummer": "116 000", "wat": "Vermiste of ontvoerde kinderen: hulp en informatie voor de familie, dag en nacht.", "dringend": false, "bron": "https://www.service-public.gouv.fr/particuliers/vosdroits/F33954" },
+    { "nummer": "116 117", "wat": "Permanence des soins ambulatoires: wachtdienst van de huisartsen. Bij een medisch noodgeval bel je de 15.", "dringend": false, "bron": "https://www.service-public.gouv.fr/particuliers/actualites/A17758" },
+    { "nummer": "3114", "wat": "Zelfmoordpreventie, dag en nacht, gratis. Ook als je je zorgen maakt over iemand.", "dringend": false, "bron": "https://www.service-public.gouv.fr/particuliers/vosdroits/F33954" },
+    { "nummer": "3919", "wat": "Violences Femmes Info: luisterlijn voor vrouwen die geweld meemaken en voor getuigen. Dag en nacht, gratis en anoniem. Geen noodhulp; bel dan de 17.", "dringend": false, "bron": "https://www.service-public.gouv.fr/particuliers/vosdroits/F33954" },
+    { "nummer": "0 800 112 112", "wat": "Terugbelnummer van de hulpdiensten. Je kan er zelf geen noodoproep mee doen. Sla het op als \"Services d'urgence\".", "dringend": false, "bron": "https://www.service-public.gouv.fr/particuliers/vosdroits/F33954" },
+    { "nummer": "02 41 48 21 21", "wat": "Antigifcentrum Angers, dag en nacht. Ademt iemand niet of is iemand bewusteloos, bel dan de 15.", "dringend": false, "bron": "https://centres-antipoison.net/" },
+    { "nummer": "05 56 96 40 80", "wat": "Antigifcentrum Bordeaux, dag en nacht", "dringend": false, "bron": "https://centres-antipoison.net/" },
+    { "nummer": "08 00 59 59 59", "wat": "Antigifcentrum Lille, dag en nacht", "dringend": false, "bron": "https://centres-antipoison.net/" },
+    { "nummer": "04 72 11 69 11", "wat": "Antigifcentrum Lyon, dag en nacht", "dringend": false, "bron": "https://centres-antipoison.net/" },
+    { "nummer": "04 91 75 25 25", "wat": "Antigifcentrum Marseille, dag en nacht", "dringend": false, "bron": "https://centres-antipoison.net/" },
+    { "nummer": "03 83 22 50 50", "wat": "Antigifcentrum Nancy, dag en nacht", "dringend": false, "bron": "https://centres-antipoison.net/" },
+    { "nummer": "01 40 05 48 48", "wat": "Antigifcentrum Parijs, dag en nacht", "dringend": false, "bron": "https://centres-antipoison.net/" },
+    { "nummer": "05 61 77 74 47", "wat": "Antigifcentrum Toulouse, dag en nacht", "dringend": false, "bron": "https://centres-antipoison.net/" }
+  ],
+  "kanalen": [
+    {
+      "naam": "FR-Alert",
+      "soort": "alarmering op de telefoon",
+      "wat": "Melding van de overheid op elke gsm in de gevarenzone, met een eigen geluid, ook in stille modus en op een vergrendeld scherm. Je hoeft je niet in te schrijven en geen app te installeren. Een uitgeschakelde telefoon of een telefoon in vliegtuigmodus krijgt niets.",
+      "voorbereiden": "Laat je telefoon aan en niet in vliegtuigmodus als er gevaar dreigt. Er is niets te installeren.",
+      "url": "https://fr-alert.gouv.fr",
+      "bron": "https://fr-alert.gouv.fr/foire-aux-questions"
+    },
+    {
+      "naam": "Sirenes (SAIP)",
+      "soort": "signaal",
+      "wat": "Frankrijk heeft meer dan 5000 sirenes. Alarm: drie signalen van 1 minuut en 41 seconden, met telkens 5 seconden stilte. Einde van het alarm: 30 seconden een vaste toon. Bij stuwdammen klinkt een misthoorn: 2 minuten lang 2 seconden geluid en 3 seconden pauze.",
+      "voorbereiden": "De sirenes worden elke eerste woensdag van de maand getest. Vraag bij je gemeente na hoe laat en waar de dichtstbijzijnde sirene staat.",
+      "url": "https://www.ecologie.gouv.fr/sites/default/files/documents/SGDSN_Guide_Tous%20responsables.pdf",
+      "bron": "https://www.ecologie.gouv.fr/sites/default/files/documents/SGDSN_Guide_Tous%20responsables.pdf"
+    },
+    {
+      "naam": "Radio en tv",
+      "soort": "radio en tv",
+      "wat": "De overheid laat alarm- en informatieberichten uitzenden op radio en tv, naast de sirenes, FR-Alert en de officiële accounts op sociale media.",
+      "voorbereiden": "Hou een radio op batterijen klaar, met reservebatterijen.",
+      "url": "https://www.ecologie.gouv.fr/sites/default/files/documents/SGDSN_Guide_Tous%20responsables.pdf",
+      "bron": "https://fr-alert.gouv.fr/foire-aux-questions"
+    },
+    {
+      "naam": "Overheid, préfecture en gemeente",
+      "soort": "officiële website",
+      "wat": "Bij een grote crisis verspreiden de regering, de préfecture en de gemeente berichten via hun officiële kanalen. Het regeringsportaal over risico's is info.gouv.fr/risques.",
+      "voorbereiden": "Bewaar info.gouv.fr/risques en de site van je préfecture en gemeente als bladwijzer.",
+      "url": "https://www.info.gouv.fr/risques",
+      "bron": "https://www.ecologie.gouv.fr/sites/default/files/documents/SGDSN_Guide_Tous%20responsables.pdf"
+    },
+    {
+      "naam": "Géorisques",
+      "soort": "officiële website",
+      "wat": "Toont de natuurlijke en technologische risico's in je buurt.",
+      "voorbereiden": "Zoek je adres op. De officiële gids raadt aan een persoonlijk veiligheidsplan (PIMS) te maken met de risico's rond je huis.",
+      "url": "https://www.georisques.gouv.fr",
+      "bron": "https://www.ecologie.gouv.fr/sites/default/files/documents/SGDSN_Guide_Tous%20responsables.pdf"
+    },
+    {
+      "naam": "Gids Tous responsables (SGDSN, 2025)",
+      "soort": "brochure",
+      "wat": "Officiële gids van de overheid over voorbereiden op een grote crisis: noodkit voor 72 uur, alarmsignalen, noodnummers en wat te doen per risico.",
+      "voorbereiden": "Download de gids, druk hem af en vul de notitiepagina in met je nummers en de plaats van je noodkit.",
+      "url": "https://www.ecologie.gouv.fr/sites/default/files/documents/SGDSN_Guide_Tous%20responsables.pdf",
+      "bron": "https://www.ecologie.gouv.fr/sites/default/files/documents/SGDSN_Guide_Tous%20responsables.pdf"
+    }
+  ],
+  "nucleair": {
+    "kernboodschap": "Ga een gebouw binnen en blijf binnen. Sluit deuren en ramen, dicht ze af en zet de ventilatie uit. Zit je in een auto, ga dan een gebouw in. Raak buiten niets aan, ook geen voertuigen. Neem alleen een jodiumtablet als de prefect dat zegt.",
+    "bron": "https://www.ecologie.gouv.fr/sites/default/files/documents/SGDSN_Guide_Tous%20responsables.pdf",
+    "uitbreidingszone_km": null,
+    "opmerking": "Rond elke Franse kerncentrale geldt een PPI (plan particulier d'intervention) van de prefect. Bij een snel ongeval waarschuwt de uitbater met sirenes de bewoners tot 2 km om te schuilen en naar de media te luisteren. De prefect kan tot 5 km meteen laten evacueren en verder tot 20 km laten schuilen. Tot 20 km worden vooraf jodiumtabletten verdeeld, liggen maatregelen voor eten en drinken klaar en krijgen bewoners extra informatie. De zone werd van 10 naar 20 km uitgebreid; de extra jodiumverdeling in de zone van 10 tot 20 km liep van 2019 tot 2021. De 20 km is een planningsgrens, geen grens waarbuiten nooit maatregelen nodig zijn. Andere installaties hebben een eigen PPI met een eigen straal. Frankrijk kent geen vaste uitbreidingszone. Voor de buitenlandse centrales staan de zones van het land zelf.",
+    "coordinaten_status": "uit OpenStreetMap (Overpass, stand 17 november 2026), middelpunt van het terrein; © OpenStreetMap-bijdragers",
+    "sites": [
+      { "id": "belleville", "naam": "Belleville-sur-Loire", "soort": "Kerncentrale", "land": "FR", "lat": 47.5088, "lon": 2.8766, "schuilen_km": 20, "jodium_km": 20, "evacuatie_km": 5 },
+      { "id": "blayais", "naam": "Blayais", "soort": "Kerncentrale", "land": "FR", "lat": 45.2553, "lon": -0.6884, "schuilen_km": 20, "jodium_km": 20, "evacuatie_km": 5 },
+      { "id": "bugey", "naam": "Bugey", "soort": "Kerncentrale", "land": "FR", "lat": 45.7995, "lon": 5.2689, "schuilen_km": 20, "jodium_km": 20, "evacuatie_km": 5 },
+      { "id": "cattenom", "naam": "Cattenom", "soort": "Kerncentrale", "land": "FR", "lat": 49.4171, "lon": 6.2197, "schuilen_km": 20, "jodium_km": 20, "evacuatie_km": 5 },
+      { "id": "chinon", "naam": "Chinon", "soort": "Kerncentrale", "land": "FR", "lat": 47.2283, "lon": 0.1715, "schuilen_km": 20, "jodium_km": 20, "evacuatie_km": 5 },
+      { "id": "chooz", "naam": "Chooz", "soort": "Kerncentrale", "land": "FR", "lat": 50.0908, "lon": 4.7924, "schuilen_km": 20, "jodium_km": 20, "evacuatie_km": 5 },
+      { "id": "civaux", "naam": "Civaux", "soort": "Kerncentrale", "land": "FR", "lat": 46.4535, "lon": 0.6523, "schuilen_km": 20, "jodium_km": 20, "evacuatie_km": 5 },
+      { "id": "cruas-meysse", "naam": "Cruas-Meysse", "soort": "Kerncentrale", "land": "FR", "lat": 44.6324, "lon": 4.7553, "schuilen_km": 20, "jodium_km": 20, "evacuatie_km": 5 },
+      { "id": "dampierre-en-burly", "naam": "Dampierre-en-Burly", "soort": "Kerncentrale", "land": "FR", "lat": 47.7333, "lon": 2.5173, "schuilen_km": 20, "jodium_km": 20, "evacuatie_km": 5 },
+      { "id": "flamanville", "naam": "Flamanville (met de EPR)", "soort": "Kerncentrale", "land": "FR", "lat": 49.5381, "lon": -1.8802, "schuilen_km": 20, "jodium_km": 20, "evacuatie_km": 5 },
+      { "id": "golfech", "naam": "Golfech", "soort": "Kerncentrale", "land": "FR", "lat": 44.1075, "lon": 0.8470, "schuilen_km": 20, "jodium_km": 20, "evacuatie_km": 5 },
+      { "id": "gravelines", "naam": "Gravelines", "soort": "Kerncentrale", "land": "FR", "lat": 51.0153, "lon": 2.1376, "schuilen_km": 20, "jodium_km": 20, "evacuatie_km": 5 },
+      { "id": "nogent-sur-seine", "naam": "Nogent-sur-Seine", "soort": "Kerncentrale", "land": "FR", "lat": 48.5181, "lon": 3.5176, "schuilen_km": 20, "jodium_km": 20, "evacuatie_km": 5 },
+      { "id": "paluel", "naam": "Paluel", "soort": "Kerncentrale", "land": "FR", "lat": 49.8584, "lon": 0.6352, "schuilen_km": 20, "jodium_km": 20, "evacuatie_km": 5 },
+      { "id": "penly", "naam": "Penly", "soort": "Kerncentrale", "land": "FR", "lat": 49.9756, "lon": 1.2179, "schuilen_km": 20, "jodium_km": 20, "evacuatie_km": 5 },
+      { "id": "saint-alban", "naam": "Saint-Alban", "soort": "Kerncentrale", "land": "FR", "lat": 45.4075, "lon": 4.7539, "schuilen_km": 20, "jodium_km": 20, "evacuatie_km": 5 },
+      { "id": "saint-laurent-des-eaux", "naam": "Saint-Laurent-des-Eaux", "soort": "Kerncentrale", "land": "FR", "lat": 47.7196, "lon": 1.5812, "schuilen_km": 20, "jodium_km": 20, "evacuatie_km": 5 },
+      { "id": "tricastin", "naam": "Tricastin", "soort": "Kerncentrale", "land": "FR", "lat": 44.3311, "lon": 4.7314, "schuilen_km": 20, "jodium_km": 20, "evacuatie_km": 5 },
+      { "id": "la-hague", "naam": "La Hague (Orano)", "soort": "Opwerking van splijtstof", "land": "FR", "lat": 49.6781, "lon": -1.8781, "schuilen_km": 5, "jodium_km": null, "evacuatie_km": 5 },
+      { "id": "marcoule", "naam": "Marcoule", "soort": "Onderzoek en industrie (CEA en andere)", "land": "FR", "lat": 44.1447, "lon": 4.7048, "schuilen_km": 10, "jodium_km": null, "evacuatie_km": null },
+      { "id": "tricastin-orano", "naam": "Tricastin, Pierrelatte (Orano)", "soort": "Splijtstofcyclus (Orano)", "land": "FR", "lat": 44.3364, "lon": 4.7219, "schuilen_km": null, "jodium_km": null, "evacuatie_km": null },
+      { "id": "cadarache", "naam": "Cadarache (CEA)", "soort": "Onderzoek (CEA)", "land": "FR", "lat": 43.6877, "lon": 5.7628, "schuilen_km": null, "jodium_km": null, "evacuatie_km": null },
+      { "id": "saclay", "naam": "Saclay (CEA en CIS bio)", "soort": "Onderzoek en medische isotopen", "land": "FR", "lat": 48.7245, "lon": 2.1481, "schuilen_km": null, "jodium_km": null, "evacuatie_km": null },
+      { "id": "romans-sur-isere", "naam": "Romans-sur-Isère (Framatome)", "soort": "Splijtstoffabricage (Framatome)", "land": "FR", "lat": 45.0509, "lon": 5.0981, "schuilen_km": null, "jodium_km": null, "evacuatie_km": null },
+      { "id": "doel", "naam": "Doel", "soort": "Kerncentrale", "land": "BE", "lat": 51.3248, "lon": 4.2560, "schuilen_km": 20, "jodium_km": 20, "evacuatie_km": 10 },
+      { "id": "tihange", "naam": "Tihange", "soort": "Kerncentrale", "land": "BE", "lat": 50.5335, "lon": 5.2739, "schuilen_km": 20, "jodium_km": 20, "evacuatie_km": 10 },
+      { "id": "borssele", "naam": "Borssele", "soort": "Kerncentrale", "land": "NL", "lat": 51.4314, "lon": 3.7200, "schuilen_km": 20, "jodium_km": 20, "evacuatie_km": 10 },
+      { "id": "beznau", "naam": "Beznau", "soort": "Kerncentrale", "land": "CH", "lat": 47.5521, "lon": 8.2287, "schuilen_km": null, "jodium_km": 50, "evacuatie_km": null },
+      { "id": "gosgen", "naam": "Gösgen", "soort": "Kerncentrale", "land": "CH", "lat": 47.3649, "lon": 7.9680, "schuilen_km": null, "jodium_km": 50, "evacuatie_km": null },
+      { "id": "leibstadt", "naam": "Leibstadt", "soort": "Kerncentrale", "land": "CH", "lat": 47.6013, "lon": 8.1828, "schuilen_km": null, "jodium_km": 50, "evacuatie_km": null }
+    ],
+    "zones_bron": "https://www.asnr.fr/sites/asnr/files/2026-05/Chapitre-04_Rapport-ASNR-2025.pdf"
+  },
+  "schuilen": {
+    "officieel_netwerk": false,
+    "advies": "Frankrijk heeft voor zover bekend geen netwerk van openbare schuilkelders. Het officiële advies bij een alarm: ga een gebouw binnen en ga niet naar buiten zonder instructie van de overheid. Blijf niet in een voertuig. Blijf weg van de ramen en open ze niet. Maak geen vuur. Bel niet als het niet nodig is, zodat het netwerk vrij blijft voor de hulpdiensten. Volg de instructies op radio, tv en de officiële kanalen. Haal je kinderen niet op school: de school zorgt voor hen.",
+    "bron": "https://www.ecologie.gouv.fr/sites/default/files/documents/SGDSN_Guide_Tous%20responsables.pdf"
+  },
+  "voorraad": {
+    "water_liter_pp_per_dag": 2,
+    "water_bron": "SGDSN, gids Tous responsables (2025): 6 liter flessenwater per persoon in de noodkit voor 72 uur",
+    "water_status": "afgeleid: de gids noemt 6 liter per persoon voor 72 uur, geen waarde per dag",
+    "advies_uren": 72,
+    "advies_bron": "https://www.ecologie.gouv.fr/sites/default/files/documents/SGDSN_Guide_Tous%20responsables.pdf"
+  }
+}

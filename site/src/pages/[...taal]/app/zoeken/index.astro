@@ -1,0 +1,14 @@
+---
+import App from '../../../../layouts/App.astro';
+import Zoekpaneel from '../../../../components/Zoekpaneel.astro';
+import { ZOEKEN } from '../../../../i18n/zoeken';
+import { taalPaden, taalVan } from '../../../../i18n/talen';
+export const getStaticPaths = taalPaden;
+const taal = taalVan(Astro.params);
+const t = ZOEKEN[taal];
+---
+<App taal={taal} titel={t.knop} zoekbaar={false}>
+  <h1>{t.titel}</h1>
+  <p class="dempen">{t.uitleg}</p>
+  <Zoekpaneel taal={taal} id="zoekpagina" autofocus />
+</App>

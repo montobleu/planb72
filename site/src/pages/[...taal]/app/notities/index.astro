@@ -1,0 +1,43 @@
+---
+import App from '../../../../layouts/App.astro';
+import { APP } from '../../../../i18n/app';
+import { taalPaden, taalVan } from '../../../../i18n/talen';
+export const getStaticPaths = taalPaden;
+const taal = taalVan(Astro.params);
+const t = APP[taal].notities;
+---
+<App taal={taal} titel={t.titel} tab="meer" zoekbaar={false}>
+  <h1>{t.titel}</h1>
+  <p class="dempen">{t.uitleg}</p>
+  <form id="nieuw">
+    <label for="tekst">{t.nieuw}</label>
+    <textarea id="tekst" rows="4" required></textarea>
+    <div class="knoppen"><button class="knop hoofd" type="submit">{t.bewaren}</button></div>
+  </form>
+  <div id="lijst"></div>
+</App>
+<script>
+  import { lees, bewaar } from '../../../../lib/app';
+  import { klant, locale } from '../../../../i18n/klant';
+  const tk = klant().notities;
+  type Notitie = { t: number; tekst: string };
+  let notities = lees<Notitie[]>('notities', []);
+  const lijst = document.getElementById('lijst')!;
+  function teken() {
+    lijst.replaceChildren(...notities.toReversed().map((n) => {
+      const blok = document.createElement('div'); blok.className = 'kaart-blok';
+      const kop = document.createElement('p'); kop.className = 'klein'; kop.textContent = new Date(n.t).toLocaleString(locale());
+      const p = document.createElement('p'); p.style.whiteSpace = 'pre-wrap'; p.textContent = n.tekst;
+      const weg = document.createElement('button'); weg.className = 'knop'; weg.type = 'button'; weg.textContent = tk.verwijderen;
+      weg.onclick = () => { if (confirm(tk.vraag)) { notities = notities.filter((x) => x.t !== n.t); bewaar('notities', notities); teken(); } };
+      blok.append(kop, p, weg); return blok;
+    }));
+  }
+  document.getElementById('nieuw')!.addEventListener('submit', (e) => {
+    e.preventDefault();
+    const veld = document.getElementById('tekst') as HTMLTextAreaElement;
+    if (!veld.value.trim()) return;
+    notities.push({ t: Date.now(), tekst: veld.value.trim() }); bewaar('notities', notities); veld.value = ''; teken();
+  });
+  teken();
+</script>

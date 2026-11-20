@@ -1,0 +1,18 @@
+---
+// Zoekknop in de kop van site en app. Het zoekvenster zelf (een native modale <dialog>) bouwt
+// lib/zoeken.ts in de browser: zo staat die opmaak niet in elk van de honderden app-pagina's
+// in de offline kern. De knop opent het venster declaratief (command="show-modal"); voor browsers
+// zonder Invoker Commands en voor de sneltoetsen / en Ctrl+K (Cmd+K) zorgt hetzelfde script.
+// Het vergrootglas is een CSS-masker (global.css), om dezelfde reden.
+import { ZOEKEN } from '../i18n/zoeken';
+import type { Taal } from '../i18n/talen';
+interface Props { taal: Taal }
+const t = ZOEKEN[Astro.props.taal];
+---
+<button type="button" class="zoekknop" commandfor="zoekvenster" command="show-modal" aria-keyshortcuts="/ Control+K Meta+K" data-zoekknop>
+  <span class="zoekknop-tekst">{t.knop}</span>
+</button>
+<script>
+  import { startZoeken } from '../lib/zoeken';
+  startZoeken();
+</script>

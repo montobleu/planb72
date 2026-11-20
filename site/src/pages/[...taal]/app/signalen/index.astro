@@ -1,0 +1,118 @@
+---
+import App from '../../../../layouts/App.astro';
+import GidsLinks from '../../../../components/GidsLinks.astro';
+import Bronnenlijst from '../../../../components/Bronnenlijst.astro';
+import { APP } from '../../../../i18n/app';
+import { taalPaden, taalVan } from '../../../../i18n/talen';
+export const getStaticPaths = taalPaden;
+const taal = taalVan(Astro.params);
+const t = APP[taal].signalen;
+const morse: Record<string, string> = { A: '.-', B: '-...', C: '-.-.', D: '-..', E: '.', F: '..-.', G: '--.', H: '....', I: '..', J: '.---', K: '-.-', L: '.-..', M: '--', N: '-.', O: '---', P: '.--.', Q: '--.-', R: '.-.', S: '...', T: '-', U: '..-', V: '...-', W: '.--', X: '-..-', Y: '-.--', Z: '--..', '0': '-----', '1': '.----', '2': '..---', '3': '...--', '4': '....-', '5': '.....', '6': '-....', '7': '--...', '8': '---..', '9': '----.' };
+const nato = ['Alfa', 'Bravo', 'Charlie', 'Delta', 'Echo', 'Foxtrot', 'Golf', 'Hotel', 'India', 'Juliett', 'Kilo', 'Lima', 'Mike', 'November', 'Oscar', 'Papa', 'Quebec', 'Romeo', 'Sierra', 'Tango', 'Uniform', 'Victor', 'Whiskey', 'X-ray', 'Yankee', 'Zulu'];
+---
+<App taal={taal} titel={t.titel} tab="meer">
+  <h1>{t.titel}</h1>
+
+  <h2>{t.sosTitel}</h2>
+  <p class="dempen">{t.sosUitleg}</p>
+  <div class="knoppen">
+    <button class="knop hoofd" type="button" id="sos-scherm">{t.sosScherm}</button>
+    <button class="knop" type="button" id="sos-lamp" hidden></button>
+  </div>
+  <div id="flits" hidden style="position:fixed;inset:0;z-index:100;background:#000;display:grid;place-items:center;color:#888">
+    <button class="knop" type="button" id="stop">{t.stoppen}</button>
+  </div>
+
+  <h2>{t.morseTitel}</h2>
+  <label for="tekst">{t.tekst}</label>
+  <input id="tekst" type="text" value="SOS" autocomplete="off" />
+  <p id="morse-uit" style="font-family:ui-monospace,monospace;font-size:1.3rem;word-break:break-word" aria-live="polite"></p>
+  <div class="knoppen"><button class="knop" type="button" id="morse-flits">{t.uitzenden}</button></div>
+
+  <h2>{t.noodTitel}</h2>
+  <ul>{t.nood.map((r) => <li set:html={r} />)}</ul>
+  <h3>{t.grondTitel}</h3>
+  <p class="dempen">{t.grondUitleg}</p>
+  <div class="tabel-wrap"><table><tbody>{t.grond.map(([s, b]) => <tr><th style="font-size:1.5rem;width:3rem">{s}</th><td>{b}</td></tr>)}</tbody></table></div>
+
+  <h2>{t.radioTitel}</h2>
+  <ul>{t.radio.map((r) => <li set:html={r} />)}</ul>
+
+  <h2>{t.spellingTitel}</h2>
+  <div class="tabel-wrap"><table><tbody>
+    {Array.from({ length: 13 }, (_, i) => (
+      <tr><th>{String.fromCharCode(65 + i)}</th><td>{nato[i]}</td><th>{String.fromCharCode(78 + i)}</th><td>{nato[i + 13]}</td></tr>
+    ))}
+  </tbody></table></div>
+
+  <h2>{t.morsetabelTitel}</h2>
+  <div class="tabel-wrap"><table style="font-family:ui-monospace,monospace"><tbody>
+    {Object.entries(morse).reduce<[string, string][][]>((r, e, i) => { (r[Math.floor(i / 3)] ??= []).push(e); return r; }, []).map((rij) => (
+      <tr>{rij.map(([l, c]) => <><th>{l}</th><td>{c.replace(/\./g, '·').replace(/-/g, '–')}</td></>)}</tr>
+    ))}
+  </tbody></table></div>
+  <p class="klein" id="morse-data" data-morse={JSON.stringify(morse)}>{t.vrij}</p>
+  <GidsLinks taal={taal} ids={['signalen-en-noodcodes', 'communicatie-en-alarmering']} />
+  <Bronnenlijst taal={taal} bronnen={['https://www.iaru-r1.org/index.php/emergency-communications/emergency-communications-frequencies']} />
+</App>
+<script>
+  import { klant } from '../../../../i18n/klant';
+  const tk = klant().signalen;
+  const morse: Record<string, string> = JSON.parse(document.getElementById('morse-data')!.dataset.morse!);
+  const EENHEID = 250; // ms per punt
+  const flits = document.getElementById('flits')!;
+  let bezig = false;
+  let lamp: MediaStreamTrack | null = null;
+
+  const naarMorse = (t: string) => t.toUpperCase().split('').map((c) => (c === ' ' ? '/' : morse[c] ?? '')).filter(Boolean).join(' ');
+  const tekst = document.getElementById('tekst') as HTMLInputElement;
+  const uit = document.getElementById('morse-uit')!;
+  const toon = () => (uit.textContent = naarMorse(tekst.value).replace(/\./g, '·').replace(/-/g, '–'));
+  tekst.addEventListener('input', toon); toon();
+
+  const wacht = (ms: number) => new Promise((r) => setTimeout(r, ms));
+  async function zend(code: string, aan: (b: boolean) => Promise<void> | void, herhaal: boolean) {
+    bezig = true;
+    do {
+      for (const teken of code) {
+        if (!bezig) break;
+        if (teken === '.' || teken === '-') { await aan(true); await wacht(teken === '.' ? EENHEID : EENHEID * 3); await aan(false); await wacht(EENHEID); }
+        else if (teken === ' ') await wacht(EENHEID * 2);
+        else if (teken === '/') await wacht(EENHEID * 4);
+      }
+      if (bezig && herhaal) await wacht(EENHEID * 7);
+    } while (bezig && herhaal);
+    await aan(false);
+  }
+  const scherm = (b: boolean) => { flits.style.background = b ? '#fff' : '#000'; };
+  function start(code: string, herhaal: boolean) {
+    flits.hidden = false; flits.style.display = 'grid';
+    document.documentElement.requestFullscreen?.().catch(() => {});
+    zend(code, scherm, herhaal);
+  }
+  function stop() {
+    bezig = false; flits.hidden = true; flits.style.display = 'none';
+    if (document.fullscreenElement) document.exitFullscreen().catch(() => {});
+    lamp?.stop(); lamp = null;
+  }
+  flits.style.display = 'none';
+  document.getElementById('sos-scherm')!.addEventListener('click', () => start('... --- ...', true));
+  document.getElementById('morse-flits')!.addEventListener('click', () => start(naarMorse(tekst.value), false));
+  document.getElementById('stop')!.addEventListener('click', stop);
+  flits.addEventListener('click', (e) => { if (e.target === flits) stop(); });
+
+  // Zaklamp: alleen waar de browser het toelaat (vooral Chrome op Android).
+  const lampKnop = document.getElementById('sos-lamp')!;
+  lampKnop.textContent = tk.lamp;
+  if (navigator.mediaDevices?.getSupportedConstraints?.().hasOwnProperty('torch') || /Android/.test(navigator.userAgent)) lampKnop.hidden = false;
+  lampKnop.addEventListener('click', async () => {
+    if (bezig) { stop(); lampKnop.textContent = tk.lamp; return; }
+    try {
+      const stroom = await navigator.mediaDevices.getUserMedia({ video: { facingMode: 'environment' } });
+      lamp = stroom.getVideoTracks()[0];
+      const zet = async (b: boolean) => { await lamp?.applyConstraints({ advanced: [{ torch: b } as any] }).catch(() => {}); };
+      lampKnop.textContent = tk.stop;
+      zend('... --- ...', zet, true);
+    } catch { lampKnop.textContent = tk.geenLamp; }
+  });
+</script>

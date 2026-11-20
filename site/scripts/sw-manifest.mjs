@@ -17,15 +17,20 @@ async function* wandel(map) {
 // Wat bij de kern hoort: de app, de gedeelde middelen, de zoekindex, lettertypes en iconen.
 // Grote data (kaart en lagen) zit in het pakket en komt pas na een bewuste download.
 const hoortBijKern = (rel) =>
-  rel.startsWith('app/') ||
+  // De app in alle talen: /app/, /fr/app/, /de/app/, /en/app/.
+  /^((fr|de|en)\/)?app\//.test(rel) ||
   rel.startsWith('_astro/') ||
-  rel.startsWith('pagefind/') ||
+  // Zoekindex zonder de kant-en-klare zoekschermen van Pagefind: de app gebruikt alleen pagefind.js.
+  (rel.startsWith('pagefind/') && !/^pagefind\/(pagefind-(component-ui|modular-ui|ui|highlight)\.|wasm\.unknown\.)/.test(rel)) ||
   rel.startsWith('kaart/') ||
   rel.startsWith('icons/') ||
-  rel === 'manifest.webmanifest' ||
   rel === 'favicon.svg' ||
-  rel === 'data/be/meta.json' ||
-  rel === 'data/be/nucleair.geojson';
+  rel === 'data/kaarten.json' ||
+  rel === 'data/routes.json' ||
+  // Licentieteksten van de open bronnen in de kaartlagen (CDLA, Apache, NOTICE van Foursquare): gaan mee met de data.
+  rel.startsWith('data/licenties/') ||
+  // Per land de metadata en de nucleaire zones (klein); de andere lagen zitten in het basispakket.
+  /^data\/[a-z]{2}\/(meta\.json|nucleair\.geojson)$/.test(rel);
 
 const bestanden = [];
 let totaal = 0;

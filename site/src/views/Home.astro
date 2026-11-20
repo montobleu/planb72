@@ -13,10 +13,9 @@ const scherm = { licht: '/beelden/app-start-licht.jpg', donker: '/beelden/app-st
       <h1>{h.titel}</h1>
       <p class="lead">{h.lead}</p>
       <div class="knoppen">
-        <a class="knop hoofd" href="/app/">{h.open}</a>
+        <a class="knop hoofd" href={pad(taal, '/app/')}>{h.open}</a>
         <a class="knop" href={pad(taal, '/download/')}>{h.download}</a>
       </div>
-      <p class="statusbalk">{h.noot}</p>
     </div>
     <figure class="toestel">
       <div class="omlijsting">

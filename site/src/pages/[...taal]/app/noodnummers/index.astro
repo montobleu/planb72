@@ -1,0 +1,56 @@
+---
+import App from '../../../../layouts/App.astro';
+import Bronnenlijst from '../../../../components/Bronnenlijst.astro';
+import GidsLinks from '../../../../components/GidsLinks.astro';
+import { landenVoor } from '../../../../lib/data';
+import { APP } from '../../../../i18n/app';
+import { pad, taalPaden, taalVan } from '../../../../i18n/talen';
+export const getStaticPaths = taalPaden;
+const taal = taalVan(Astro.params);
+const t = APP[taal].nummers;
+const landen = landenVoor(taal);
+const tl = APP[taal].landen;
+---
+<App taal={taal} titel={t.titel} tab="nummers">
+  <h1>{t.titel}</h1>
+  <p class="dempen">{t.uitleg} <Fragment set:html={tl.welke(pad(taal, '/app/pakket/#landen'))} /></p>
+  {landen.map((land) => (
+    <section data-land={land.code}>
+      <h2>{land.naam}</h2>
+      <div>
+        {land.noodnummers.filter((n) => n.dringend).map((n) => (
+          <div class="nummer dringend">
+            <a class="tel" href={`tel:${n.nummer.replace(/[\s-]/g, '')}`}>{n.nummer}</a>
+            <div><span lang={n.wat.lang !== taal ? n.wat.lang : undefined}>{n.wat.tekst}</span></div>
+          </div>
+        ))}
+      </div>
+    </section>
+  ))}
+  <section id="als-bellen-niet-lukt" class="melding">
+    <h2 style="margin-top:0">{t.nietLuktTitel}</h2>
+    <ol>{t.nietLukt.map((r) => <li>{r}</li>)}</ol>
+    <p set:html={t.nietLuktKaart(pad(taal, '/app/kaart/'))} />
+    <p class="klein">{t.nietLuktVooraf}</p>
+  </section>
+  <h2>{t.andereTitel}</h2>
+  <p class="dempen">{t.andereUitleg}</p>
+  {landen.map((land) => (
+    <section data-land={land.code}>
+      {landen.length > 1 && <h3>{land.naam}</h3>}
+      <div>
+        {land.noodnummers.filter((n) => !n.dringend).map((n) => (
+          <div class="nummer">
+            <a class="tel" href={`tel:${n.nummer.replace(/[\s-]/g, '')}`}>{n.nummer}</a>
+            <div><span lang={n.wat.lang !== taal ? n.wat.lang : undefined}>{n.wat.tekst}</span></div>
+          </div>
+        ))}
+      </div>
+    </section>
+  ))}
+  <h2>{t.oproepTitel}</h2>
+  <ol>{t.oproep.map((r) => <li>{r}</li>)}</ol>
+  <div class="knoppen niet-afdrukken"><button class="knop" type="button" onclick="print()">{APP[taal].algemeen.afdrukken}</button></div>
+  <GidsLinks taal={taal} ids={['noodoproep']} />
+  <Bronnenlijst taal={taal} bronnen={[...landen.flatMap((land) => land.noodnummers.map((n) => ({ url: n.bron, land: land.code }))), 'https://www.112.be', ...t.nietLuktBronnen.map((b) => b.url)]} />
+</App>

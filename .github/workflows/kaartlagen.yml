@@ -1,5 +1,9 @@
 # Wekelijkse kaartlagen: haalt de lagen uit OpenStreetMap, de mogelijke
-# schuilplekken en de nucleaire zones, en opent een pull request met de nieuwe data.
+# schuilplekken en de nucleaire zones, en opent per land een pull request met de nieuwe data.
+# verrijken.py voegt daarna de officiële bronnen, Overture Maps Places (pipeline/derden.py, vraagt duckdb)
+# en de eigen aanvullingen (data/eigen/) toe.
+# België komt uit Overpass; Nederland, Luxemburg, Frankrijk en Duitsland uit het
+# Geofabrik-extract (pipeline/pbf.py, vraagt osmium-tool).
 #
 # lagen.py en schuilplekken.py stoppen met een foutcode als een laag meer dan
 # 5% daalt (2) of haar budget overschrijdt (3). Dan komt er geen pull request
@@ -12,7 +16,7 @@ on:
   workflow_dispatch:
     inputs:
       land:
-        description: "Landcode"
+        description: "Landcode (BE, NL, LU, FR, DE)"
         default: "BE"
       forceer:
         description: "Daling van meer dan 5% toestaan"
@@ -31,8 +35,13 @@ jobs:
   lagen:
     runs-on: ubuntu-latest
     timeout-minutes: 120
+    strategy:
+      fail-fast: false
+      max-parallel: 1
+      matrix:
+        land: ${{ fromJSON(inputs.land && format('["{0}"]', inputs.land) || '["BE","NL","LU","FR","DE"]') }}
     env:
-      LAND: ${{ inputs.land || 'BE' }}
+      LAND: ${{ matrix.land }}
       FORCEER: ${{ inputs.forceer && '--forceer' || '' }}
     steps:
       - uses: actions/checkout@v7.0.1
@@ -41,8 +50,29 @@ jobs:
         with:
           python-version: "3.12"
 
+      - name: osmium voor de Geofabrik-extracten
+        if: env.LAND != 'BE'
+        run: sudo apt-get update && sudo apt-get install -y osmium-tool
+
+      # pipeline/derden.py snijdt Overture Maps Places (GeoParquet) uit met de duckdb-CLI.
+      - name: duckdb voor Overture Maps Places
+        run: |
+          curl -sSL -o /tmp/duckdb.tar.gz https://github.com/duckdb/duckdb/releases/download/v2.0.0/duckdb-cli-linux-amd64.tar.gz
+          sudo tar -xzf /tmp/duckdb.tar.gz -C /usr/local/bin duckdb
+          duckdb --version
+
       - name: Kaartlagen uit OpenStreetMap
         run: python3 pipeline/lagen.py "$LAND" $FORCEER
+
+      - name: Verrijken met officiële bronnen, open bronnen (Overture) en eigen aanvullingen
+        run: python3 pipeline/verrijken.py "$LAND"
+
+      - name: Verschillen bewaren
+        uses: actions/upload-artifact@v4
+        with:
+          name: verschillen-${{ matrix.land }}
+          path: pipeline/out/*-verschillen.csv
+          if-no-files-found: ignore
 
       - name: Mogelijke schuilplekken
         run: python3 pipeline/schuilplekken.py "$LAND" $FORCEER
@@ -58,12 +88,13 @@ jobs:
             echo "tekst<<EINDE"
             echo "Wekelijkse kaartlagen voor $LAND, opgehaald op $(date -u +%Y-%m-%d)."
             echo
-            echo "| Laag | Aantal | Bytes |"
-            echo "| --- | ---: | ---: |"
-            jq -r '.lagen | to_entries[] | "| \(.key) | \(.value.aantal) | \(.value.bytes) |"' \
+            echo "| Laag | Aantal | Officieel | Nagekeken | OSM | Open bron | Bevestigd | Bytes |"
+            echo "| --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: |"
+            jq -r '.lagen | to_entries[] | "| \(.key) | \(.value.aantal) | \(.value.officieel // "") | \(.value.nagekeken // "") | \(.value.osm // "") | \(.value.open_bron // "") | \(.value.bevestigd // "") | \(.value.bytes) |"' \
               "site/public/data/$land/meta.json"
             echo
-            echo "Bron: © OpenStreetMap-bijdragers, ODbL. Kwaliteitscontrole (daling ≤ 5%) en budget zijn geslaagd."
+            echo "Bron: © OpenStreetMap-bijdragers, ODbL, aangevuld met de officiële bronnen in meta.json. Kwaliteitscontrole (daling ≤ 5%) en budget zijn geslaagd."
+            echo "De verschillen tussen OpenStreetMap en de officiële bronnen staan in het artefact verschillen-$LAND van deze run."
             echo "EINDE"
           } >> "$GITHUB_OUTPUT"
           echo "landklein=$land" >> "$GITHUB_OUTPUT"

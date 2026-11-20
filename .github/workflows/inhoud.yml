@@ -1,8 +1,11 @@
 name: Inhoud
 
 # Controleert elke pull request op bronnen en bepaalt hoeveel nalezers nodig zijn.
-# Zet in de branch protection van main deze controle ("inhoud") als verplicht:
-# dan kan inhoud die levens raakt pas samengevoegd worden na twee goedkeuringen.
+# - De job "inhoud" faalt alleen bij een inhoudelijke fout (bron ontbreekt, dosering, ...).
+# - Het aantal goedkeuringen staat in een aparte status "nazicht": "in afwachting" zolang
+#   er te weinig nalezers zijn, "geslaagd" zodra het genoeg is. Geen foutmeldingen dus
+#   voor iets wat gewoon nog moet gebeuren.
+# Branch protection op main vraagt beide: "inhoud" en "nazicht".
 
 on:
   pull_request:
@@ -13,6 +16,7 @@ on:
 permissions:
   contents: read
   pull-requests: write
+  statuses: write
 
 jobs:
   inhoud:
@@ -45,10 +49,11 @@ jobs:
             gh pr edit "$PR" --repo "${{ github.repository }}" --add-label "$naam"
           done
 
-      - name: Genoeg goedkeuringen?
+      - name: Status nazicht (goedkeuringen)
         env:
           GH_TOKEN: ${{ github.token }}
           PR: ${{ github.event.pull_request.number }}
+          SHA: ${{ github.event.pull_request.head.sha }}
         run: |
           nodig=$(jq '.goedkeuringen_nodig' oordeel.json)
           # Laatste oordeel per nalezer; de auteur telt niet mee.
@@ -56,7 +61,8 @@ jobs:
           aantal=$(gh api "repos/${{ github.repository }}/pulls/$PR/reviews" --paginate \
             --jq "[.[] | select(.user.login != \"$auteur\")] | group_by(.user.login) | map(last) | map(select(.state == \"APPROVED\")) | length")
           echo "Goedkeuringen: $aantal van $nodig"
-          if [ "$aantal" -lt "$nodig" ]; then
-            echo "::error::Deze wijziging vraagt $nodig goedkeuring(en); er zijn er $aantal. Zie docs/nazicht.md."
-            exit 1
-          fi
+          if [ "$aantal" -ge "$nodig" ]; then staat=success; else staat=pending; fi
+          gh api -X POST "repos/${{ github.repository }}/statuses/$SHA" \
+            -f state="$staat" -f context="nazicht" \
+            -f description="$aantal van $nodig goedkeuring(en) door nalezers" \
+            -f target_url="https://github.com/${{ github.repository }}/blob/main/docs/nazicht.md" >/dev/null

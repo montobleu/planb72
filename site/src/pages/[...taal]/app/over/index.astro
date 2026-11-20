@@ -1,0 +1,26 @@
+---
+import App from '../../../../layouts/App.astro';
+import { APP_VERSIE, BOUWDATUM } from '../../../../lib/data';
+import { APP } from '../../../../i18n/app';
+import { pad, taalPaden, taalVan } from '../../../../i18n/talen';
+export const getStaticPaths = taalPaden;
+const taal = taalVan(Astro.params);
+const t = APP[taal].over;
+---
+<App taal={taal} titel={t.titel} tab="meer">
+  <h1>{t.h1}</h1>
+  <div class="melding gevaar" set:html={t.gevaar} />
+  <p set:html={t.wat} />
+  <h2>{t.herkomstTitel}</h2>
+  <p set:html={t.herkomst} />
+  <h2>{t.talenTitel}</h2>
+  <p>{t.talen}</p>
+  <h2>{t.kaartTitel}</h2>
+  <ul>{t.kaart.map(([soort, label, uitleg]) => <li><span class={`label ${soort}`}>{label}</span> {uitleg}</li>)}</ul>
+  <p>{t.kaartNoot}</p>
+  <h2>{t.privacyTitel}</h2>
+  <p>{t.privacy}</p>
+  <h2>{t.licentiesTitel}</h2>
+  <p class="klein" set:html={t.licenties(pad(taal, '/bronnen/'))} />
+  <p class="klein">{t.versie(APP_VERSIE, BOUWDATUM)}</p>
+</App>

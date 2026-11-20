@@ -1,0 +1,14 @@
+---
+// Zoekveld met resultaten tijdens het typen, op /app/zoeken/. Dezelfde opmaak (paneelHTML) bouwt
+// lib/zoeken.ts in de browser voor het zoekvenster in de kop.
+import { ZOEKEN } from '../i18n/zoeken';
+import { paneelHTML } from '../lib/zoeken';
+import type { Taal } from '../i18n/talen';
+interface Props { taal: Taal; id: string; autofocus?: boolean }
+const { taal, id, autofocus = false } = Astro.props;
+---
+<Fragment set:html={paneelHTML(id, ZOEKEN[taal], autofocus)} />
+<script>
+  import { startZoeken } from '../lib/zoeken';
+  startZoeken();
+</script>

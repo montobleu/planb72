@@ -1,0 +1,16 @@
+---
+import App from '../../../../layouts/App.astro';
+import { APP } from '../../../../i18n/app';
+import { pad, taalPaden, taalVan } from '../../../../i18n/talen';
+export const getStaticPaths = taalPaden;
+const taal = taalVan(Astro.params);
+const t = APP[taal].meer;
+---
+<App taal={taal} titel={t.titel} tab="meer">
+  <h1>{t.titel}</h1>
+  <div class="raster rubriek-naslag">
+    {t.items.map(([href, tt, u]) => (
+      <a class="tegel" href={pad(taal, href)}><strong>{tt}</strong><span class="klein">{u}</span></a>
+    ))}
+  </div>
+</App>

@@ -8,7 +8,7 @@ const nl = {
     titel: 'PlanB72 — noodinformatie die werkt zonder internet',
     beschrijving: 'Gratis, open-source noodbibliotheek die werkt zonder internet: wat nu te doen, noodnummers, offline kaarten en nucleaire informatie.',
   },
-  menu: { app: 'App', download: 'Downloaden', meehelpen: 'Bijdragen', bronnen: 'Bronnen', over: 'Over PlanB72', licht: 'Licht', donker: 'Donker', taal: 'Taal', navigatie: 'Hoofdmenu' },
+  menu: { app: 'App', gidsen: 'Gidsen', download: 'Downloaden', meehelpen: 'Bijdragen', bronnen: 'Bronnen', over: 'Over PlanB72', licht: 'Licht', donker: 'Donker', taal: 'Taal', navigatie: 'Hoofdmenu' },
   voet: {
     over: 'Onafhankelijk open-sourceproject. Geen overheidsdienst en geen vervanging van de hulpdiensten. Bij levensgevaar: bel 112.',
     project: 'Project', meedoen: 'Meedoen',
@@ -20,7 +20,6 @@ const nl = {
     lead: 'PlanB72 bundelt officiële handelingsrichtlijnen, noodnummers en een offline kaart van hulpdiensten in één gratis app. Na installatie werkt ze zonder netwerkverbinding.',
     open: 'App openen',
     download: 'Downloadopties',
-    noot: 'Testversie voor België. De inhoud wordt momenteel gevalideerd door medische en noodplanningsdeskundigen.',
     functiesTitel: 'Wat de app bevat',
     functies: [
       ['Handelingsrichtlijnen', 'Eerste stappen bij zestien situaties, waaronder stroomuitval, overstroming en chemische of nucleaire incidenten, op basis van de richtlijnen van het Nationaal Crisiscentrum.'],
@@ -48,7 +47,7 @@ const nl = {
     ],
     achtergrondTitel: 'Achtergrond',
     achtergrond: 'De Europese Commissie adviseert burgers zich voor te bereiden op ten minste 72 uur zelfredzaamheid bij een grootschalige verstoring (Preparedness Union Strategy, maart 2025). PlanB72 is een onafhankelijk open-sourceproject dat daarbij ondersteunt. Het is geen overheidsdienst en vervangt de hulpdiensten niet.',
-    schermAlt: 'Schermafbeelding van de PlanB72-app: startscherm met noodnummer 112 en de onderdelen Wat nu, Noodnummers en Kaart.',
+    schermAlt: 'Schermafbeelding van de PlanB72-app: startscherm met de onderdelen Wat nu, Noodnummers, Officiële informatie, Kaart en Route.',
     schermOnderschrift: 'Startscherm van de app',
   },
   download: {
@@ -86,7 +85,7 @@ const nl = {
       ['Test op een oud toestel', 'Werkt PlanB72 op je oude telefoon, zonder internet? Laat weten wat er misloopt.', 'https://github.com/montobleu/planb72'],
     ],
     zoekenTitel: 'Gezochte profielen',
-    zoeken: ['Een spoedarts of spoedverpleegkundige om de medische inhoud na te lezen.', 'Iemand uit de noodplanning van een gemeente, provincie of de civiele bescherming.', 'Een stralingsdeskundige voor de nucleaire module.', 'Een jurist voor disclaimer, licenties en de vzw.', 'Vertalers voor Frans en Duits.'],
+    zoeken: ['Een spoedarts of spoedverpleegkundige voor de medische inhoud.', 'Iemand uit de noodplanning van een gemeente, provincie of de civiele bescherming.', 'Een stralingsdeskundige voor de nucleaire module.', 'Een jurist voor disclaimer, licenties en de vzw.', 'Vertalers voor Frans en Duits.'],
     niet: 'Niet aanvaard worden: eigen medische of veiligheidsadviezen, privéadressen, reclame en commerciële links.',
   },
   nazicht: {
@@ -104,7 +103,6 @@ const nl = {
     ],
     statusTitel: 'Wat de labels betekenen',
     status: [
-      ['concept', 'Eigen samenvatting van een officiële bron, nog niet nagelezen.'],
       ['nagekeken', 'Nagelezen door iemand met vakkennis; naam en datum staan op de pagina.'],
       ['officieel', 'Letterlijk overgenomen met toestemming van de bron.'],
     ],
@@ -121,7 +119,7 @@ const nl = {
       ['Zuinig met batterij', 'Geen animaties, geen video, tekst eerst.'],
       ['Alleen erkende bronnen', 'Elke pagina toont bron, datum en licentie. Medische en nucleaire teksten worden nooit herschreven.'],
       ['Eerlijk over betrouwbaarheid', 'Elk punt op de kaart draagt een label: officieel, uit OpenStreetMap, of onbevestigd.'],
-      ['Neutraal', 'Geen reclame, geen affiliate-links, geen tracking, geen account.'],
+      ['Neutraal', 'Geen reclame, geen affiliate-links, geen account. Alleen anonieme, cookieloze bezoekersstatistiek.'],
       ['Open', 'Open broncode, reproduceerbare builds, inhoud met behoud van de licentie van de bron.'],
     ],
     stappenTitel: 'Stappenplan',
@@ -141,7 +139,7 @@ const nl = {
   },
   privacy: {
     titel: 'Privacy',
-    punten: ['Geen account, geen analyse, geen cookies.', 'De app laadt niets van andere servers. Je positie, gezinsnoodplan en notities blijven op je toestel.', 'Bij het bijwerken haalt de app alleen een klein overzichtsbestand op, zonder gegevens over jou.', 'Links naar OpenStreetMap of officiële sites verlaten PlanB72; daar gelden hun regels.'],
+    punten: ['Geen account en geen cookies.', 'Voor anonieme bezoekersstatistieken gebruiken we Nvivio (Monto Bleu BV, gehost in de EU): cookieloos, zonder opslag van IP-adressen en zonder profielen. Browsers met Global Privacy Control worden niet geteld.', 'Alleen het statistiekscript van Nvivio komt van een andere server (nviv.io); verder laadt de app niets van buiten. Je positie, gezinsnoodplan en notities blijven op je toestel.', 'Bij het bijwerken haalt de app alleen een klein overzichtsbestand op, zonder gegevens over jou.', 'Links naar OpenStreetMap of officiële sites verlaten PlanB72; daar gelden hun regels.'],
   },
   bronnen: {
     titel: 'Bronnenregister',
@@ -167,7 +165,7 @@ const fr: Teksten = {
     titel: 'PlanB72 — informations d\'urgence disponibles sans internet',
     beschrijving: 'Bibliothèque d\'urgence gratuite et open source qui fonctionne sans internet : que faire, numéros d\'urgence, cartes hors ligne et informations nucléaires.',
   },
-  menu: { app: 'Application', download: 'Télécharger', meehelpen: 'Contribuer', bronnen: 'Sources', over: 'À propos', licht: 'Clair', donker: 'Sombre', taal: 'Langue', navigatie: 'Menu principal' },
+  menu: { app: 'Application', gidsen: 'Guides', download: 'Télécharger', meehelpen: 'Contribuer', bronnen: 'Sources', over: 'À propos', licht: 'Clair', donker: 'Sombre', taal: 'Langue', navigatie: 'Menu principal' },
   voet: {
     over: 'Projet open source indépendant. Ni service public, ni substitut aux services de secours. En cas de danger de mort : appelez le 112.',
     project: 'Projet', meedoen: 'Participer',
@@ -179,7 +177,6 @@ const fr: Teksten = {
     lead: 'PlanB72 réunit les consignes officielles, les numéros d\'urgence et une carte hors ligne des services de secours dans une application gratuite. Une fois installée, elle fonctionne sans connexion.',
     open: 'Ouvrir l\'application',
     download: 'Options de téléchargement',
-    noot: 'Version de test pour la Belgique. Le contenu est en cours de validation par des experts médicaux et de la planification d\'urgence.',
     functiesTitel: 'Contenu de l\'application',
     functies: [
       ['Consignes', 'Les premières mesures pour seize situations, dont la panne de courant, l\'inondation et les incidents chimiques ou nucléaires, sur la base des consignes du Centre de crise national.'],
@@ -207,7 +204,7 @@ const fr: Teksten = {
     ],
     achtergrondTitel: 'Contexte',
     achtergrond: 'La Commission européenne recommande aux citoyens de se préparer à une autonomie d\'au moins 72 heures en cas de perturbation majeure (Preparedness Union Strategy, mars 2025). PlanB72 est un projet open source indépendant qui y contribue. Ce n\'est pas un service public et il ne remplace pas les services de secours.',
-    schermAlt: 'Capture d\'écran de l\'application PlanB72 : écran d\'accueil avec le numéro d\'urgence 112 et les rubriques Que faire, Numéros d\'urgence et Carte.',
+    schermAlt: 'Capture d\'écran de l\'application PlanB72 : écran d\'accueil avec les rubriques Que faire, Numéros d\'urgence, Informations officielles, Carte et Itinéraire.',
     schermOnderschrift: 'Écran d\'accueil de l\'application',
   },
   download: {
@@ -245,7 +242,7 @@ const fr: Teksten = {
       ['Tester sur un vieil appareil', 'PlanB72 fonctionne-t-il sur votre ancien téléphone, sans internet ? Dites-nous ce qui ne va pas.', 'https://github.com/montobleu/planb72'],
     ],
     zoekenTitel: 'Profils recherchés',
-    zoeken: ['Un médecin ou infirmier urgentiste pour relire le contenu médical.', 'Une personne de la planification d\'urgence d\'une commune, d\'une province ou de la protection civile.', 'Un expert en radioprotection pour le module nucléaire.', 'Un juriste pour l\'avertissement, les licences et l\'ASBL.', 'Des traducteurs vers le français et l\'allemand.'],
+    zoeken: ['Un médecin ou infirmier urgentiste pour le contenu médical.', 'Une personne de la planification d\'urgence d\'une commune, d\'une province ou de la protection civile.', 'Un expert en radioprotection pour le module nucléaire.', 'Un juriste pour l\'avertissement, les licences et l\'ASBL.', 'Des traducteurs vers le français et l\'allemand.'],
     niet: 'Ce que nous n\'acceptons pas : des conseils médicaux ou de sécurité personnels, des adresses privées, de la publicité ou des liens vers des magasins.',
   },
   nazicht: {
@@ -263,7 +260,6 @@ const fr: Teksten = {
     ],
     statusTitel: 'Ce que signifient les étiquettes',
     status: [
-      ['concept', 'Résumé maison d\'une source officielle, pas encore relu.'],
       ['nagekeken', 'Relu par un spécialiste ; le nom et la date figurent sur la page.'],
       ['officieel', 'Repris mot pour mot avec l\'autorisation de la source.'],
     ],
@@ -280,7 +276,7 @@ const fr: Teksten = {
       ['Économe en batterie', 'Pas d\'animations, pas de vidéo, le texte d\'abord.'],
       ['Uniquement des sources reconnues', 'Chaque page indique la source, la date et la licence. Les textes médicaux et nucléaires ne sont jamais réécrits.'],
       ['Honnête sur la fiabilité', 'Chaque point de la carte porte une étiquette : officiel, OpenStreetMap ou non confirmé.'],
-      ['Neutre', 'Pas de publicité, pas de liens d\'affiliation, pas de pistage, pas de compte.'],
+      ['Neutre', 'Pas de publicité, pas de liens d\'affiliation, pas de compte. Uniquement des statistiques de visite anonymes, sans cookies.'],
       ['Ouvert', 'Code source ouvert, builds reproductibles, contenu sous la licence de sa source.'],
     ],
     stappenTitel: 'Feuille de route',
@@ -300,7 +296,7 @@ const fr: Teksten = {
   },
   privacy: {
     titel: 'Vie privée',
-    punten: ['Pas de compte, pas d\'analyse, pas de cookies.', 'L\'app ne charge rien depuis d\'autres serveurs. Votre position, votre plan d\'urgence et vos notes restent sur votre appareil.', 'Lors d\'une mise à jour, l\'app ne télécharge qu\'un petit fichier de version, sans données sur vous.', 'Les liens vers OpenStreetMap ou des sites officiels quittent PlanB72 ; leurs règles s\'y appliquent.'],
+    punten: ['Pas de compte et pas de cookies.', 'Pour des statistiques de visite anonymes, nous utilisons Nvivio (Monto Bleu SRL, hébergé dans l\'UE) : sans cookies, sans stockage des adresses IP et sans profils. Les navigateurs avec Global Privacy Control ne sont pas comptés.', 'Seul le script de statistiques de Nvivio provient d\'un autre serveur (nviv.io) ; pour le reste, l\'app ne charge rien de l\'extérieur. Votre position, votre plan d\'urgence et vos notes restent sur votre appareil.', 'Lors d\'une mise à jour, l\'app ne télécharge qu\'un petit fichier de version, sans données sur vous.', 'Les liens vers OpenStreetMap ou des sites officiels quittent PlanB72 ; leurs règles s\'y appliquent.'],
   },
   bronnen: {
     titel: 'Registre des sources',
@@ -324,7 +320,7 @@ const de: Teksten = {
     titel: 'PlanB72 — Notfallinformationen ohne Internet',
     beschrijving: 'Kostenlose Open-Source-Notfallbibliothek, die ohne Internet funktioniert: was jetzt zu tun ist, Notrufnummern, Offline-Karten und Informationen zu Kernanlagen.',
   },
-  menu: { app: 'App', download: 'Download', meehelpen: 'Mitwirken', bronnen: 'Quellen', over: 'Über PlanB72', licht: 'Hell', donker: 'Dunkel', taal: 'Sprache', navigatie: 'Hauptmenü' },
+  menu: { app: 'App', gidsen: 'Ratgeber', download: 'Download', meehelpen: 'Mitwirken', bronnen: 'Quellen', over: 'Über PlanB72', licht: 'Hell', donker: 'Dunkel', taal: 'Sprache', navigatie: 'Hauptmenü' },
   voet: {
     over: 'Unabhängiges Open-Source-Projekt. Kein behördlicher Dienst und kein Ersatz für die Rettungsdienste. Bei Lebensgefahr: 112 anrufen.',
     project: 'Projekt', meedoen: 'Mitmachen',
@@ -336,7 +332,6 @@ const de: Teksten = {
     lead: 'PlanB72 bündelt offizielle Handlungsempfehlungen, Notrufnummern und eine Offline-Karte der Hilfsdienste in einer kostenlosen App. Nach der Installation funktioniert sie ohne Netzverbindung.',
     open: 'App öffnen',
     download: 'Download-Optionen',
-    noot: 'Testversion für Belgien. Die Inhalte werden derzeit von Fachleuten aus Medizin und Katastrophenschutz geprüft.',
     functiesTitel: 'Inhalt der App',
     functies: [
       ['Handlungsempfehlungen', 'Erste Schritte in sechzehn Lagen, darunter Stromausfall, Hochwasser sowie chemische oder nukleare Vorfälle, auf Grundlage der Empfehlungen des Nationalen Krisenzentrums.'],
@@ -364,7 +359,7 @@ const de: Teksten = {
     ],
     achtergrondTitel: 'Hintergrund',
     achtergrond: 'Die Europäische Kommission empfiehlt, sich bei einer großflächigen Störung auf mindestens 72 Stunden Selbstversorgung vorzubereiten (Preparedness Union Strategy, März 2025). PlanB72 ist ein unabhängiges Open-Source-Projekt, das dabei unterstützt. Es ist kein behördlicher Dienst und ersetzt nicht die Rettungsdienste.',
-    schermAlt: 'Bildschirmfoto der PlanB72-App: Startbildschirm mit der Notrufnummer 112 und den Bereichen Was jetzt, Notrufnummern und Karte.',
+    schermAlt: 'Bildschirmfoto der PlanB72-App: Startbildschirm mit den Bereichen Was jetzt, Notrufnummern, Offizielle Informationen, Karte und Route.',
     schermOnderschrift: 'Startbildschirm der App',
   },
   download: {
@@ -402,7 +397,7 @@ const de: Teksten = {
       ['Auf einem alten Gerät testen', 'Funktioniert PlanB72 auf Ihrem alten Telefon ohne Internet? Sagen Sie uns, was nicht klappt.', 'https://github.com/montobleu/planb72'],
     ],
     zoekenTitel: 'Gesuchte Profile',
-    zoeken: ['Eine Notärztin oder einen Notfallpfleger zum Gegenlesen der medizinischen Inhalte.', 'Jemanden aus dem Katastrophenschutz einer Gemeinde, Provinz oder des Zivilschutzes.', 'Eine Strahlenschutzfachkraft für das Nuklearmodul.', 'Eine Juristin für Haftungsausschluss, Lizenzen und den Verein.', 'Übersetzer für Französisch und Deutsch.'],
+    zoeken: ['Eine Notärztin oder einen Notfallpfleger für die medizinischen Inhalte.', 'Jemanden aus dem Katastrophenschutz einer Gemeinde, Provinz oder des Zivilschutzes.', 'Eine Strahlenschutzfachkraft für das Nuklearmodul.', 'Eine Juristin für Haftungsausschluss, Lizenzen und den Verein.', 'Übersetzer für Französisch und Deutsch.'],
     niet: 'Was wir nicht annehmen: eigene medizinische oder Sicherheitsratschläge, Privatadressen, Werbung oder Links zu Geschäften.',
   },
   nazicht: {
@@ -420,7 +415,6 @@ const de: Teksten = {
     ],
     statusTitel: 'Was die Kennzeichnungen bedeuten',
     status: [
-      ['concept', 'Eigene Zusammenfassung einer offiziellen Quelle, noch nicht geprüft.'],
       ['nagekeken', 'Von einer Fachkraft geprüft; Name und Datum stehen auf der Seite.'],
       ['officieel', 'Wörtlich übernommen mit Erlaubnis der Quelle.'],
     ],
@@ -437,7 +431,7 @@ const de: Teksten = {
       ['Sparsam mit dem Akku', 'Keine Animationen, kein Video, Text zuerst.'],
       ['Nur anerkannte Quellen', 'Jede Seite zeigt Quelle, Datum und Lizenz. Medizinische und nukleare Texte werden nie umgeschrieben.'],
       ['Ehrlich zur Verlässlichkeit', 'Jeder Punkt auf der Karte trägt eine Kennzeichnung: offiziell, aus OpenStreetMap oder unbestätigt.'],
-      ['Neutral', 'Keine Werbung, keine Affiliate-Links, kein Tracking, kein Konto.'],
+      ['Neutral', 'Keine Werbung, keine Affiliate-Links, kein Konto. Nur anonyme Besucherstatistik ohne Cookies.'],
       ['Offen', 'Offener Quellcode, reproduzierbare Builds, Inhalte unter der Lizenz ihrer Quelle.'],
     ],
     stappenTitel: 'Fahrplan',
@@ -457,7 +451,7 @@ const de: Teksten = {
   },
   privacy: {
     titel: 'Datenschutz',
-    punten: ['Kein Konto, keine Analyse, keine Cookies.', 'Die App lädt nichts von anderen Servern. Ihr Standort, Notfallplan und Ihre Notizen bleiben auf Ihrem Gerät.', 'Bei einer Aktualisierung lädt die App nur eine kleine Übersichtsdatei, ohne Daten über Sie.', 'Links zu OpenStreetMap oder offiziellen Seiten verlassen PlanB72; dort gelten deren Regeln.'],
+    punten: ['Kein Konto und keine Cookies.', 'Für anonyme Besucherstatistiken nutzen wir Nvivio (Monto Bleu BV, in der EU gehostet): ohne Cookies, ohne Speicherung von IP-Adressen und ohne Profile. Browser mit Global Privacy Control werden nicht gezählt.', 'Nur das Statistikskript von Nvivio kommt von einem anderen Server (nviv.io); ansonsten lädt die App nichts von außen. Ihr Standort, Notfallplan und Ihre Notizen bleiben auf Ihrem Gerät.', 'Bei einer Aktualisierung lädt die App nur eine kleine Übersichtsdatei, ohne Daten über Sie.', 'Links zu OpenStreetMap oder offiziellen Seiten verlassen PlanB72; dort gelten deren Regeln.'],
   },
   bronnen: {
     titel: 'Quellenregister',
@@ -481,7 +475,7 @@ const en: Teksten = {
     titel: 'PlanB72 — emergency information that works offline',
     beschrijving: 'Free, open-source emergency library that works without internet: what to do now, emergency numbers, offline maps and nuclear information.',
   },
-  menu: { app: 'App', download: 'Download', meehelpen: 'Contribute', bronnen: 'Sources', over: 'About', licht: 'Light', donker: 'Dark', taal: 'Language', navigatie: 'Main menu' },
+  menu: { app: 'App', gidsen: 'Guides', download: 'Download', meehelpen: 'Contribute', bronnen: 'Sources', over: 'About', licht: 'Light', donker: 'Dark', taal: 'Language', navigatie: 'Main menu' },
   voet: {
     over: 'Independent open-source project. Not a government service and not a substitute for the emergency services. In a life-threatening emergency, call 112.',
     project: 'Project', meedoen: 'Get involved',
@@ -493,7 +487,6 @@ const en: Teksten = {
     lead: 'PlanB72 brings together official guidance, emergency numbers and an offline map of emergency services in one free app. Once installed, it works without a network connection.',
     open: 'Open the app',
     download: 'Download options',
-    noot: 'Test version for Belgium. The content is currently being validated by medical and emergency-planning experts.',
     functiesTitel: 'What the app contains',
     functies: [
       ['Guidance', 'First steps for sixteen situations, including power cuts, floods and chemical or nuclear incidents, based on the guidance of the National Crisis Centre.'],
@@ -521,7 +514,7 @@ const en: Teksten = {
     ],
     achtergrondTitel: 'Background',
     achtergrond: 'The European Commission advises citizens to prepare for at least 72 hours of self-reliance in the event of a major disruption (Preparedness Union Strategy, March 2025). PlanB72 is an independent open-source project that supports this. It is not a government service and does not replace the emergency services.',
-    schermAlt: 'Screenshot of the PlanB72 app: home screen with emergency number 112 and the sections What now, Emergency numbers and Map.',
+    schermAlt: 'Screenshot of the PlanB72 app: home screen with the sections What now, Emergency numbers, Official information, Map and Route.',
     schermOnderschrift: 'App home screen',
   },
   download: {
@@ -559,7 +552,7 @@ const en: Teksten = {
       ['Test on an old device', 'Does PlanB72 work on your old phone, without internet? Tell us what goes wrong.', 'https://github.com/montobleu/planb72'],
     ],
     zoekenTitel: 'Profiles we are looking for',
-    zoeken: ['An emergency physician or nurse to review the medical content.', 'Someone from emergency planning at a municipality, province or civil protection.', 'A radiation protection expert for the nuclear module.', 'A lawyer for the disclaimer, licences and the non-profit.', 'Translators for French and German.'],
+    zoeken: ['An emergency physician or nurse for the medical content.', 'Someone from emergency planning at a municipality, province or civil protection.', 'A radiation protection expert for the nuclear module.', 'A lawyer for the disclaimer, licences and the non-profit.', 'Translators for French and German.'],
     niet: 'What we do not accept: personal medical or safety advice, private addresses, advertising or links to shops.',
   },
   nazicht: {
@@ -577,7 +570,6 @@ const en: Teksten = {
     ],
     statusTitel: 'What the labels mean',
     status: [
-      ['concept', 'Our own summary of an official source, not yet reviewed.'],
       ['nagekeken', 'Reviewed by a specialist; name and date are shown on the page.'],
       ['officieel', 'Reproduced word for word with the permission of the source.'],
     ],
@@ -594,7 +586,7 @@ const en: Teksten = {
       ['Easy on the battery', 'No animations, no video, text first.'],
       ['Recognised sources only', 'Every page shows source, date and licence. Medical and nuclear texts are never rewritten.'],
       ['Honest about reliability', 'Every point on the map carries a label: official, from OpenStreetMap, or unconfirmed.'],
-      ['Neutral', 'No ads, no affiliate links, no tracking, no account.'],
+      ['Neutral', 'No ads, no affiliate links, no account. Only anonymous, cookieless visitor statistics.'],
       ['Open', 'Open source code, reproducible builds, content under the licence of its source.'],
     ],
     stappenTitel: 'Roadmap',
@@ -614,7 +606,7 @@ const en: Teksten = {
   },
   privacy: {
     titel: 'Privacy',
-    punten: ['No account, no analytics, no cookies.', 'The app loads nothing from other servers. Your location, emergency plan and notes stay on your device.', 'When updating, the app only fetches a small overview file, without any data about you.', 'Links to OpenStreetMap or official sites leave PlanB72; their rules apply there.'],
+    punten: ['No account and no cookies.', 'For anonymous visitor statistics we use Nvivio (Monto Bleu BV, hosted in the EU): cookieless, no storage of IP addresses and no profiles. Browsers with Global Privacy Control are not counted.', 'Only the Nvivio statistics script comes from another server (nviv.io); otherwise the app loads nothing from outside. Your location, emergency plan and notes stay on your device.', 'When updating, the app only fetches a small overview file, without any data about you.', 'Links to OpenStreetMap or official sites leave PlanB72; their rules apply there.'],
   },
   bronnen: {
     titel: 'Source register',

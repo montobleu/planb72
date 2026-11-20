@@ -1,0 +1,59 @@
+---
+import App from '../../../../layouts/App.astro';
+import GidsLinks from '../../../../components/GidsLinks.astro';
+import { APP } from '../../../../i18n/app';
+import { taalPaden, taalVan } from '../../../../i18n/talen';
+export const getStaticPaths = taalPaden;
+const taal = taalVan(Astro.params);
+const t = APP[taal].kompas;
+---
+<App taal={taal} titel={t.titel} tab="meer">
+  <h1>{t.titel}</h1>
+  <p class="dempen">{t.uitleg}</p>
+  <div style="display:grid;place-items:center;margin:1.5rem 0">
+    <svg id="roos" viewBox="-110 -110 220 220" width="260" height="260" role="img" aria-label={t.roos}>
+      <circle r="100" fill="none" stroke="var(--rand)" stroke-width="3" />
+      <g id="draai">
+        <text y="-78" text-anchor="middle" fill="var(--gevaar)" font-size="22" font-weight="800">{t.letters.n}</text>
+        <text y="92" text-anchor="middle" fill="var(--tekst)" font-size="20">{t.letters.z}</text>
+        <text x="84" y="7" text-anchor="middle" fill="var(--tekst)" font-size="20">{t.letters.o}</text>
+        <text x="-84" y="7" text-anchor="middle" fill="var(--tekst)" font-size="20">{t.letters.w}</text>
+        <path d="M0-62 10 0H-10Z" fill="var(--gevaar)" /><path d="M0 62 10 0H-10Z" fill="var(--tekst-2)" />
+      </g>
+      <path d="M0-108v16" stroke="var(--accent)" stroke-width="4" />
+    </svg>
+    <p id="koers" style="font-size:2rem;font-weight:800;margin:.5rem 0" aria-live="polite">—</p>
+    <button class="knop hoofd" type="button" id="start">{t.start}</button>
+  </div>
+  <div class="melding klein">{t.zon}</div>
+  <GidsLinks taal={taal} ids={['navigatie-zonder-gps', 'buiten-overleven']} />
+</App>
+<script>
+  import { klant } from '../../../../i18n/klant';
+  const tk = klant();
+  const draai = document.getElementById('draai')!;
+  const koers = document.getElementById('koers')!;
+  const streken = tk.windstreken;
+  function zet(graden: number) {
+    draai.setAttribute('transform', `rotate(${-graden})`);
+    koers.textContent = `${Math.round(graden)}° ${streken[Math.round(graden / 45) % 8]}`;
+  }
+  function luister() {
+    const h = (e: any) => {
+      let g: number | null = null;
+      if (typeof e.webkitCompassHeading === 'number') g = e.webkitCompassHeading;
+      else if (e.absolute && typeof e.alpha === 'number') g = (360 - e.alpha) % 360;
+      if (g !== null) zet(g);
+    };
+    addEventListener('deviceorientationabsolute', h);
+    addEventListener('deviceorientation', h);
+    setTimeout(() => { if (koers.textContent === '—') koers.textContent = tk.kompas.geen; }, 3000);
+  }
+  document.getElementById('start')!.addEventListener('click', async () => {
+    const D: any = (window as any).DeviceOrientationEvent;
+    if (D && typeof D.requestPermission === 'function') {
+      try { if ((await D.requestPermission()) !== 'granted') { koers.textContent = tk.kompas.geenToestemming; return; } } catch { koers.textContent = tk.kompas.geenToestemming; return; }
+    }
+    luister();
+  });
+</script>

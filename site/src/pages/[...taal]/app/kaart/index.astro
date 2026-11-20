@@ -1,0 +1,605 @@
+---
+import App from '../../../../layouts/App.astro';
+import { LAGEN } from '../../../../lib/lagen';
+import { APP } from '../../../../i18n/app';
+import { taalPaden, taalVan } from '../../../../i18n/talen';
+import { landen } from '../../../../lib/data';
+const kaders = Object.fromEntries(landen.map((l) => [l.code.toLowerCase(), { bbox: l.bbox, centrum: l.centrum }]));
+export const getStaticPaths = taalPaden;
+const taal = taalVan(Astro.params);
+const t = APP[taal].kaart;
+const groepen = [...new Set(LAGEN.map((l) => l.groep))];
+---
+<App taal={taal} titel={t.titel} tab="kaart" volledig>
+  <main id="inhoud" class="kaart-pagina">
+    <h1 class="sr-only">{t.titel}</h1>
+    <div id="kaart" role="region" aria-label={t.titel} data-kaders={JSON.stringify(kaders)}></div>
+    <div class="kaart-paneel">
+      <details id="paneel" open>
+        <summary>{t.lagen}</summary>
+        {groepen.map((g) => (
+          <fieldset style="margin:.4rem 0;padding:4px 8px">
+            <legend class="klein">{t.groepen[g]}</legend>
+            {LAGEN.filter((l) => l.groep === g).map((l) => (
+              <label><input type="checkbox" data-laag={l.id} checked={l.standaard} /><span class="bol" style={`background:${l.kleur}`}></span>{l.naam[taal]} <span class="klein" data-aantal={l.id}></span></label>
+            ))}
+          </fieldset>
+        ))}
+        <fieldset style="margin:.4rem 0;padding:4px 8px">
+          <legend class="klein">{t.risicos}</legend>
+          <label><input type="checkbox" data-laag="nucleair" checked /><span class="bol" style="background:#ffb020"></span>{t.nucleair}</label>
+        </fieldset>
+        <div class="knoppen" style="margin:.5rem 0 0">
+          <button class="knop hoofd" type="button" id="dichtstbij">{t.dichtstbij}</button>
+          <a class="knop" href="/app/route/">{({ nl: 'Route plannen', fr: 'Itinéraire', de: 'Route planen', en: 'Plan a route' })[taal]}</a>
+        </div>
+        <div id="dichtst" class="klein" aria-live="polite"></div>
+        <p class="klein" id="kaart-status"></p>
+        <p class="klein">{t.noot}</p>
+        <p class="klein" style="margin:.3rem 0 .1rem">{t.herkomst}</p>
+        <ul class="herkomst-legende klein">
+          {(['officieel', 'nagekeken', 'osm'] as const).map((h) => (
+            <li><span class={`label ${h}`}>{h === 'osm' ? 'OpenStreetMap' : ({ officieel: { nl: 'Officieel', fr: 'Officiel', de: 'Amtlich', en: 'Official' }, nagekeken: { nl: 'Nagekeken', fr: 'Vérifié', de: 'Geprüft', en: 'Checked' } })[h][taal]}</span> {t.herkomstUitleg[h]}</li>
+          ))}
+        </ul>
+        <div class="knoppen" style="margin:.5rem 0 0">
+          <button class="knop" type="button" id="melden-open">{t.melden}</button>
+        </div>
+        <section id="wachtrij" aria-labelledby="wachtrij-kop" hidden>
+          <h2 id="wachtrij-kop" class="klein" style="margin:.6rem 0 .2rem">{t.wachtrij}</h2>
+          <ul id="wachtrij-lijst" class="wachtrij klein"></ul>
+        </section>
+      </details>
+    </div>
+  </main>
+  <dialog id="melden" class="melden" aria-labelledby="melden-kop">
+    <form method="dialog" id="melden-form" novalidate>
+      <h2 id="melden-kop">{t.melden}</h2>
+      <p class="klein">{t.meldenUitleg}</p>
+      <fieldset>
+        <legend>{t.formulier.wat}</legend>
+        <label><input type="radio" name="wat" value="ontbreekt" required checked /> {t.formulier.ontbreekt}</label>
+        <label><input type="radio" name="wat" value="kloptNiet" /> {t.formulier.kloptNiet}</label>
+        <label><input type="radio" name="wat" value="gesloten" /> {t.formulier.gesloten}</label>
+      </fieldset>
+      <label for="meld-laag">{t.formulier.soort}</label>
+      <select id="meld-laag" name="laag" required>
+        {LAGEN.filter((l) => l.id !== 'schuilplekken').map((l) => <option value={l.id}>{l.naam[taal]}</option>)}
+      </select>
+      <label for="meld-naam">{t.formulier.naam}</label>
+      <input type="text" id="meld-naam" name="naam" maxlength="200" autocomplete="off" />
+      <label for="meld-adres">{t.formulier.adres}</label>
+      <input type="text" id="meld-adres" name="adres" maxlength="300" autocomplete="off" aria-describedby="meld-adres-hint" />
+      <p id="meld-adres-hint" class="klein hint">{t.formulier.adresHint}</p>
+      <p class="veldkop">{t.formulier.punt}</p>
+      <p class="klein"><span id="meld-punt" data-leeg={t.formulier.geenPunt}>{t.formulier.geenPunt}</span>
+        <button class="knop" type="button" id="meld-kies">{t.formulier.kiesPunt}</button></p>
+      <p id="meld-fout" class="fout klein" role="alert" hidden>{t.formulier.adresOfPunt}</p>
+      <label for="meld-opmerking">{t.formulier.opmerking}</label>
+      <textarea id="meld-opmerking" name="opmerking" maxlength="2000" rows="3"></textarea>
+      <label for="meld-bron">{t.formulier.bron}</label>
+      <input type="url" id="meld-bron" name="bron" maxlength="500" inputmode="url" autocomplete="off" aria-describedby="meld-bron-hint" />
+      <p id="meld-bron-hint" class="klein hint">{t.formulier.bronHint}</p>
+      <div class="knoppen">
+        <button class="knop hoofd" type="submit" value="bewaren">{t.formulier.bewaren}</button>
+        <button class="knop" type="submit" value="annuleren" formnovalidate>{t.formulier.annuleren}</button>
+      </div>
+    </form>
+  </dialog>
+</App>
+<script>
+  import 'maplibre-gl/dist/maplibre-gl.css';
+  import * as maplibregl from 'maplibre-gl';
+  // De worker als eigen bestand meeleveren; MapLibre zoekt hem anders naast een bestand dat niet bestaat.
+  import workerUrl from 'maplibre-gl/dist/maplibre-gl-worker.mjs?url';
+  import { Protocol, PMTiles, FileSource } from 'pmtiles';
+  import { volgStraatniveau } from '../../../../lib/straatniveau';
+  import { overzicht, opToestel, kiesZichtbaar } from '../../../../lib/kaarten';
+  import { gekozenLanden } from '../../../../lib/landkeuze';
+  import { layers, namedFlavor } from '@protomaps/basemaps';
+  import type { FeatureCollection, Point } from 'geojson';
+  import { LAGEN, SCHUIL_LABEL } from '../../../../lib/lagen';
+  import { lees, bewaar, positie, afstandKm, richting, km } from '../../../../lib/app';
+  import { getekendSchema, volgWijzigingen } from '../../../../lib/kleurschema';
+  import { klant, locale, paginaTaal, appPad, pakketTekst } from '../../../../i18n/klant';
+  const taal = paginaTaal();
+  const tk = klant().kaart;
+  const naamVan = (p: { id: string; naam: string; omschrijving: string }) => pakketTekst(p)[0];
+  const laagNaam = (l: (typeof LAGEN)[number]) => l.naam[taal];
+
+  // De lagen van alle gekozen landen komen samen op één kaart.
+  const LANDEN = gekozenLanden();
+  const kaders: Record<string, { bbox: [number, number, number, number]; centrum: [number, number] }> =
+    JSON.parse(document.getElementById('kaart')!.dataset.kaders!);
+  document.addEventListener('pb72-landen', () => location.reload());
+  const status = document.getElementById('kaart-status')!;
+  maplibregl.setWorkerUrl(workerUrl);
+  // Op een smal scherm begint het lagenpaneel dicht, zodat de kaart zichtbaar is.
+  if (matchMedia('(max-width: 640px)').matches) (document.getElementById('paneel') as HTMLDetailsElement).open = false;
+  const protocol = new Protocol();
+  maplibregl.addProtocol('pmtiles', protocol.tile);
+
+  const licht = getekendSchema() === 'light';
+  // Een andere stijl vraagt een nieuwe kaart; herladen is eenvoudig en betrouwbaar.
+  document.addEventListener('pb72-kleurschema', () => location.reload());
+  volgWijzigingen();
+  // Basiskaart: stapel de kaartpakketten van grof naar fijn (Europa, de gekozen landen, regio's).
+  // Op het toestel bewaarde pakketten gaan voor; met verbinding vullen we aan van de server.
+  const pakketten = await overzicht();
+  const lokaal = await opToestel();
+  const zichtbaar = kiesZichtbaar(pakketten, lokaal, LANDEN);
+
+  const bronnen: Record<string, maplibregl.SourceSpecification> = {};
+  const basislagen: maplibregl.LayerSpecification[] = [{ id: 'achtergrond', type: 'background', paint: { 'background-color': licht ? '#e9ecef' : '#1b1f24' } }];
+  const smaak = namedFlavor(licht ? 'light' : 'dark');
+  for (const p of zichtbaar) {
+    const bestand = lokaal.get(p.id);
+    let url = `pmtiles://${location.origin}${p.pad}`;
+    if (bestand instanceof File) {
+      const pm = new PMTiles(new FileSource(bestand));
+      protocol.add(pm);
+      url = `pmtiles://${bestand.name}`;
+    }
+    // bounds: tegels buiten het pakket worden niet gevraagd.
+    bronnen[p.id] = { type: 'vector', url, bounds: p.bbox, attribution: '© <a href="https://openstreetmap.org/copyright">OpenStreetMap</a> · <a href="https://protomaps.com">Protomaps</a>' };
+    for (const laag of layers(p.id, smaak, { lang: taal })) {
+      if (laag.type === 'background') continue;
+      basislagen.push({ ...laag, id: `${p.id}-${laag.id}` } as maplibregl.LayerSpecification);
+    }
+  }
+  if (zichtbaar.length === 0) status.textContent = tk.geenKaart;
+  else if (!navigator.onLine) status.textContent = tk.offline(zichtbaar.map(naamVan).join(', '));
+
+  const stijl: maplibregl.StyleSpecification = {
+    version: 8,
+    glyphs: `${location.origin}/kaart/fonts/{fontstack}/{range}.pbf`,
+    sprite: `${location.origin}/kaart/sprites/${licht ? 'light' : 'dark'}`,
+    sources: bronnen,
+    layers: basislagen,
+  };
+
+  const bewaardBeeld = lees<{ c: [number, number]; z: number } | null>('kaartbeeld', null);
+  const kaart = new maplibregl.Map({
+    container: 'kaart',
+    style: stijl,
+    center: bewaardBeeld?.c ?? kaders[LANDEN[0]]?.centrum ?? [4.47, 50.64],
+    zoom: bewaardBeeld?.z ?? 6.5,
+    maxZoom: 19, // boven zoom 15 (het fijnste kaartpakket) vergroot MapLibre verder uit
+    attributionControl: { compact: true },
+    fadeDuration: 0,
+  });
+  (window as any).__kaart = kaart; // handig bij het nakijken in de browserconsole
+  // Met verbinding: regio's op straatniveau (met straatnamen) laden zodra ze in beeld komen.
+  volgStraatniveau(kaart, { pakketten, aanwezig: new Set(zichtbaar.map((p) => p.id)), licht, taal });
+  kaart.on('error', (e) => {
+    console.error('Kaartfout', e.error);
+    // Een online kaartpakket dat niet bereikbaar is, is geen probleem als er een kaart op het toestel staat.
+    const netwerk = /fetch|network|load/i.test(String(e.error?.message ?? ''));
+    status.textContent = netwerk
+      ? (lokaal.size ? tk.serverWeg : tk.niets)
+      : tk.onvolledig;
+  });
+  kaart.addControl(new maplibregl.NavigationControl({ showCompass: false }), 'top-right');
+  kaart.addControl(new maplibregl.GeolocateControl({ positionOptions: { enableHighAccuracy: true }, trackUserLocation: false }), 'top-right');
+  kaart.on('moveend', () => bewaar('kaartbeeld', { c: kaart.getCenter().toArray(), z: kaart.getZoom() }));
+
+  // Welke lagen staan aan: URL (?laag=), anders bewaard, anders standaard.
+  // ?laag=schuilplekken of ?laag=ziekenhuizen,aed (vanuit een tekst); ?dichtstbij=1 toont meteen de dichtstbijzijnde plekken.
+  const zoekparams = new URLSearchParams(location.search);
+  const gevraagd = (zoekparams.get('laag') ?? '').split(',').map((x) => x.trim()).filter(Boolean);
+  const vraag = gevraagd[0] ?? null;
+  const metDichtstbij = zoekparams.get('dichtstbij') === '1';
+  const aan = new Set<string>(
+    gevraagd.length ? gevraagd : lees<string[] | null>('kaartlagen', null) ?? [...LAGEN.filter((l) => l.standaard).map((l) => l.id), 'nucleair']
+  );
+  const vinkjes = [...document.querySelectorAll<HTMLInputElement>('input[data-laag]')];
+  vinkjes.forEach((v) => (v.checked = aan.has(v.dataset.laag!)));
+
+  const geladen = new Map<string, FeatureCollection>();
+
+  // Metadata per land (in de kern van de app, dus ook offline): datum van de OSM-data en de officiële bronnen.
+  type Meta = { opgehaald?: string; osm_opgehaald?: string; bronnen?: Record<string, { naam: string; kort?: string; datum?: string; url?: string }> };
+  const metas = new Map<string, Meta>();
+  async function meta(c: string): Promise<Meta> {
+    if (!metas.has(c)) {
+      try {
+        const r = await fetch(`/data/${c}/meta.json`);
+        metas.set(c, r.ok ? await r.json() : {});
+      } catch {
+        metas.set(c, {});
+      }
+    }
+    return metas.get(c)!;
+  }
+
+  // Welke landen in beeld zijn. Ver uitgezoomd (heel Europa) blijven we bij de gekozen landen,
+  // anders zouden we de lagen van alle landen tegelijk ophalen.
+  type Kader = [number, number, number, number];
+  const landenOp = (b: Kader) => Object.keys(kaders).filter((c) => {
+    const k = kaders[c].bbox;
+    return k[0] <= b[2] && k[2] >= b[0] && k[1] <= b[3] && k[3] >= b[1];
+  });
+  function landenInBeeld(): string[] {
+    if (kaart.getZoom() < 5) return [];
+    const b = kaart.getBounds();
+    return landenOp([b.getWest(), b.getSouth(), b.getEast(), b.getNorth()]);
+  }
+
+  // Eén laag voor alle landen samen: de gekozen landen en de landen die in beeld komen.
+  // Punten bij een grens staan soms in twee landen; die tellen maar één keer.
+  // Nucleaire zones blijven per land, want elk land plant zijn eigen zones.
+  const perLand = new Map<string, Promise<FeatureCollection['features'] | null>>();
+  function haalLand(id: string, c: string) {
+    const sleutel = `${id}/${c}`;
+    if (!perLand.has(sleutel)) {
+      perLand.set(sleutel, (async () => {
+        try {
+          const r = await fetch(`/data/${c}/${id}.geojson`);
+          if (!r.ok) return null;
+          await meta(c);
+          // Het land onthouden voor de herkomst in de pop-up; gesloten plekken horen niet op de kaart.
+          return ((await r.json()) as FeatureCollection).features
+            .filter((f) => !(f.properties as Record<string, any> | null)?.gesloten)
+            .map((f) => ({ ...f, properties: { ...f.properties, land: c } }));
+        } catch {
+          return null;
+        }
+      })().then((uit) => {
+        // Niet op het toestel en geen verbinding: later opnieuw proberen.
+        if (uit === null) perLand.delete(sleutel);
+        return uit;
+      }));
+    }
+    return perLand.get(sleutel)!;
+  }
+
+  const landenPerLaag = new Map<string, string[]>();
+  async function laad(id: string, extra: string[] = []) {
+    const landen = [...new Set([...LANDEN, ...extra])];
+    const vorige = landenPerLaag.get(id);
+    if (geladen.has(id) && vorige && landen.every((c) => vorige.includes(c))) return geladen.get(id)!;
+    const opgehaald = await Promise.all(landen.map((c) => haalLand(id, c)));
+    // Een andere aanvraag kan intussen andere landen geladen hebben: die blijven erbij.
+    const nu = landenPerLaag.get(id) ?? [];
+    const alle = [...new Set([...landen.filter((_, i) => opgehaald[i] !== null), ...nu])];
+    if (!alle.length) throw new Error(`${id}: niet beschikbaar`);
+    if (geladen.has(id) && alle.every((c) => nu.includes(c))) return geladen.get(id)!;
+    const delen = await Promise.all(alle.map((c) => haalLand(id, c)));
+    const wel = alle.filter((_, i) => delen[i] !== null);
+    const gezien = new Set<string>();
+    const features = delen.flatMap((d) => d ?? []).filter((f) => {
+      const p = f.properties as Record<string, any> | null;
+      const sleutel = id === 'nucleair'
+        ? (f.geometry.type === 'Point' ? `p:${p?.site}` : `z:${p?.site}:${p?.zone}:${p?.km}`)
+        : String(p?.id ?? '');
+      if (!sleutel) return true;
+      if (gezien.has(sleutel)) return false;
+      gezien.add(sleutel);
+      return true;
+    });
+    const fc: FeatureCollection = { type: 'FeatureCollection', features };
+    geladen.set(id, fc);
+    landenPerLaag.set(id, wel);
+    (kaart.getSource(id) as maplibregl.GeoJSONSource | undefined)?.setData(fc);
+    const teller = document.querySelector(`[data-aantal="${id}"]`);
+    if (teller) teller.textContent = `(${fc.features.length.toLocaleString(locale())})`;
+    return fc;
+  }
+
+  // Komt een ander land in beeld, dan vullen we de lagen die aanstaan aan met de punten van dat land.
+  kaart.on('moveend', () => {
+    const extra = landenInBeeld();
+    for (const v of vinkjes) {
+      const id = v.dataset.laag!;
+      if (v.checked && kaart.getSource(id)) laad(id, extra).catch(() => {});
+    }
+  });
+
+  const onzeker = ['==', ['get', 'zekerheid'], 'onzeker'] as any;
+
+  async function zetLaag(id: string, zichtbaar: boolean) {
+    if (id === 'nucleair') return zetNucleair(zichtbaar);
+    const def = LAGEN.find((l) => l.id === id)!;
+    if (!kaart.getSource(id)) {
+      if (!zichtbaar) return;
+      try {
+        const fc = await laad(id, landenInBeeld());
+        kaart.addSource(id, { type: 'geojson', data: fc });
+        kaart.addLayer({
+          id, type: 'circle', source: id,
+          paint: {
+            // Een plek die alleen uit één open plaatsenbron komt (zekerheid = onzeker) is een open ring: bel eerst.
+            // Een inschrijving in een ondernemingsregister komt nooit op de kaart (zie docs/kaartdata.md).
+            'circle-color': def.kleur,
+            'circle-opacity': ['case', onzeker, 0, 1],
+            'circle-radius': ['interpolate', ['linear'], ['zoom'], 6, 2.5, 12, 6, 16, 9],
+            'circle-stroke-color': ['case', onzeker, def.kleur, licht ? '#ffffff' : '#000000'],
+            'circle-stroke-width': ['case', onzeker, 2, 1],
+          },
+        });
+        kaart.on('click', id, (e) => toonPopup(e, laagNaam(def), id));
+        kaart.on('mouseenter', id, () => (kaart.getCanvas().style.cursor = 'pointer'));
+        kaart.on('mouseleave', id, () => (kaart.getCanvas().style.cursor = ''));
+      } catch {
+        status.textContent = tk.laagNiet(laagNaam(def));
+        return;
+      }
+    }
+    kaart.setLayoutProperty(id, 'visibility', zichtbaar ? 'visible' : 'none');
+  }
+
+  async function zetNucleair(zichtbaar: boolean) {
+    if (!kaart.getSource('nucleair')) {
+      if (!zichtbaar) return;
+      try {
+        const fc = await laad('nucleair', landenInBeeld());
+        kaart.addSource('nucleair', { type: 'geojson', data: fc });
+        const zone = (z: string) => ['all', ['==', ['geometry-type'], 'Polygon'], ['==', ['get', 'zone'], z]] as any;
+        kaart.addLayer({ id: 'nucleair-uitbreiding', type: 'line', source: 'nucleair', filter: zone('uitbreiding'), paint: { 'line-color': '#ffb020', 'line-width': 1, 'line-dasharray': [2, 3], 'line-opacity': 0.6 } });
+        kaart.addLayer({ id: 'nucleair-schuilen', type: 'fill', source: 'nucleair', filter: zone('schuilen'), paint: { 'fill-color': '#ffb020', 'fill-opacity': 0.12, 'fill-outline-color': '#ffb020' } });
+        kaart.addLayer({ id: 'nucleair-evacuatie', type: 'fill', source: 'nucleair', filter: zone('evacuatie'), paint: { 'fill-color': '#ff6b5b', 'fill-opacity': 0.18, 'fill-outline-color': '#ff6b5b' } });
+        kaart.addLayer({ id: 'nucleair-site', type: 'circle', source: 'nucleair', filter: ['==', ['geometry-type'], 'Point'], paint: { 'circle-color': '#ffb020', 'circle-radius': 7, 'circle-stroke-color': '#000', 'circle-stroke-width': 2 } });
+        kaart.on('click', 'nucleair-site', (e) => {
+          const p = e.features![0].properties as any;
+          new maplibregl.Popup({ maxWidth: '280px' }).setLngLat(e.lngLat)
+            .setHTML(`<strong>${esc(p.naam ?? p.site)}</strong><br><span class="klein">${esc(p.soort ?? '')}</span><br><a href="${appPad('/app/nucleair/')}">${esc(tk.zonesEnAfstand)}</a>`).addTo(kaart);
+        });
+      } catch {
+        return;
+      }
+    }
+    for (const l of ['nucleair-uitbreiding', 'nucleair-schuilen', 'nucleair-evacuatie', 'nucleair-site']) kaart.setLayoutProperty(l, 'visibility', zichtbaar ? 'visible' : 'none');
+  }
+
+  const esc = (s: unknown) => String(s ?? '').replace(/[&<>"']/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' })[c]!);
+
+  const datumTekst = (d?: string) => {
+    if (!d) return '';
+    const t = new Date(`${d}T12:00:00`);
+    return isNaN(t.getTime()) ? d : t.toLocaleDateString(locale(), { day: 'numeric', month: 'short', year: 'numeric' });
+  };
+
+  // Herkomst van een punt: label, bron en datum.
+  function herkomst(p: Record<string, any>): string {
+    const m = metas.get(p.land) ?? {};
+    const soort = ['officieel', 'nagekeken', 'open-bron'].includes(p.betrouwbaarheid) ? p.betrouwbaarheid : 'osm';
+    const label = `<span class="label ${soort}">${esc(tk.herkomst[soort])}</span>`;
+    if (soort === 'officieel') {
+      const b = m.bronnen?.[p.bron];
+      return `${label} <span class="klein">${esc(b?.kort ?? b?.naam ?? p.bron ?? '')}${b?.datum ? `, ${esc(tk.opgehaald(datumTekst(b.datum)))}` : ''}</span>`;
+    }
+    if (soort === 'open-bron') {
+      // Overture Maps, met de leveranciers van dit punt (Meta, BrightQuery, ...) en de datum van de release.
+      const b = m.bronnen?.[p.bron];
+      const wie = [b?.kort ?? 'Overture Maps', p.herkomst && `(${p.herkomst})`].filter(Boolean).join(' ');
+      return `${label} <span class="klein">${esc(wie)}${b?.datum ? `, ${esc(tk.opgehaald(datumTekst(b.datum)))}` : ''}</span>`;
+    }
+    if (soort === 'nagekeken') {
+      const bewijs = p.bewijs && navigator.onLine && /^https?:\/\//.test(p.bewijs) ? ` · <a href="${esc(p.bewijs)}" rel="noopener">${esc(tk.bewijs)}</a>` : '';
+      return `${label} <span class="klein">${esc(tk.nagekeken(datumTekst(p.datum)))}${bewijs}</span>`;
+    }
+    const d = m.osm_opgehaald ?? m.opgehaald;
+    return `${label}${d ? ` <span class="klein">${esc(tk.opgehaald(datumTekst(d)))}</span>` : ''}`;
+  }
+
+  let laatstePunt: { p: Record<string, any>; laag: string; lon: number; lat: number } | null = null;
+
+  function toonPopup(e: maplibregl.MapLayerMouseEvent, laagNaam: string, id: string) {
+    if (kiesModus || Date.now() - gekozenOp < 400) return;
+    const f = e.features![0];
+    const p = f.properties as Record<string, any>;
+    // Na samenvoegen staat de OSM-id in 'osm'; anders is de id zelf een OSM-id (node/123).
+    const osmVolledig = String(p.osm ?? (/^(node|way|relation)\//.test(String(p.id ?? '')) ? p.id : ''));
+    const [osmType, osmId] = osmVolledig.split('/');
+    const [plon, plat] = (f.geometry as Point).coordinates;
+    laatstePunt = { p, laag: id, lon: plon, lat: plat };
+    const regels = [
+      `<strong>${esc(p.naam || laagNaam)}</strong>`,
+      p.soort && `<span class="klein">${esc(p.soort)}</span>`,
+      p.adres && esc(p.adres),
+      p.emergency === 'ja' && `<span class="label officieel">${esc(tk.spoed)}</span>`,
+      p.openingsuren && `${esc(tk.open)} ${esc(p.openingsuren)}`,
+      p.toegang && `${esc(tk.toegang)} ${esc(p.toegang)}`,
+      id === 'schuilplekken' && `<em class="klein">${esc(taal === 'nl' ? p.label || SCHUIL_LABEL.nl : SCHUIL_LABEL[taal])}</em>`,
+      p.zekerheid && tk.zekerheid[p.zekerheid] && `<span class="klein">${esc(tk.zekerheid[p.zekerheid])}</span>`,
+      p.telefoon && `<a href="tel:${esc(String(p.telefoon).replace(/[^+\d]/g, ''))}">${esc(p.telefoon)}</a>`,
+      `<span class="herkomst">${herkomst(p)}</span>`,
+      osmId && navigator.onLine && `<a class="klein" href="https://www.openstreetmap.org/${osmType}/${osmId}">${esc(tk.bekijk)}</a>`,
+      id !== 'schuilplekken' && `<button type="button" class="link klein" data-melden>${esc(tk.meldKnop)}</button>`,
+      `<a href="/app/route/?naar=${(f.geometry as Point).coordinates[1]},${(f.geometry as Point).coordinates[0]}&naam=${encodeURIComponent(p.naam || laagNaam)}">${esc(({ nl: 'Route hierheen', fr: 'Itinéraire jusqu’ici', de: 'Route hierher', en: 'Route here' } as Record<string, string>)[taal])}</a>`,
+    ].filter(Boolean);
+    new maplibregl.Popup({ maxWidth: '280px' }).setLngLat((f.geometry as Point).coordinates as [number, number]).setHTML(regels.join('<br>')).addTo(kaart);
+  }
+
+  kaart.on('load', async () => {
+    for (const v of vinkjes) await zetLaag(v.dataset.laag!, v.checked);
+    if (vraag === 'nucleair') {
+      const b = LANDEN.map((c) => kaders[c]?.bbox).filter(Boolean);
+      if (b.length) kaart.fitBounds([[Math.min(...b.map((x) => x[0])), Math.min(...b.map((x) => x[1]))], [Math.max(...b.map((x) => x[2])), Math.max(...b.map((x) => x[3]))]], { padding: 20 });
+    }
+    if (metDichtstbij) {
+      (document.getElementById('paneel') as HTMLDetailsElement).open = true;
+      document.getElementById('dichtstbij')!.click();
+    }
+  });
+
+  vinkjes.forEach((v) =>
+    v.addEventListener('change', async () => {
+      await zetLaag(v.dataset.laag!, v.checked);
+      bewaar('kaartlagen', vinkjes.filter((x) => x.checked).map((x) => x.dataset.laag!));
+    })
+  );
+
+  // Dichtstbijzijnde punten per actieve laag, offline berekend.
+  let mijnMarker: maplibregl.Marker | null = null;
+  document.getElementById('dichtstbij')!.addEventListener('click', async () => {
+    const uit = document.getElementById('dichtst')!;
+    uit.textContent = tk.positieZoeken;
+    const p = await positie();
+    const lat = p?.coords.latitude ?? kaart.getCenter().lat;
+    const lon = p?.coords.longitude ?? kaart.getCenter().lng;
+    mijnMarker?.remove();
+    mijnMarker = new maplibregl.Marker({ color: '#ffb020' }).setLngLat([lon, lat]).addTo(kaart);
+    const blokken: string[] = [p ? '' : `<p>${esc(tk.geenGps)}</p>`];
+    for (const v of vinkjes.filter((x) => x.checked && x.dataset.laag !== 'nucleair')) {
+      const id = v.dataset.laag!;
+      const def = LAGEN.find((l) => l.id === id)!;
+      const fc = await laad(id, [...landenInBeeld(), ...landenOp([lon, lat, lon, lat])]).catch(() => null);
+      if (!fc) continue;
+      const top = fc.features
+        .map((f) => {
+          const [flon, flat] = (f.geometry as Point).coordinates;
+          return { f, d: afstandKm(lat, lon, flat, flon), r: richting(lat, lon, flat, flon) };
+        })
+        .sort((a, b) => a.d - b.d)
+        .slice(0, 3);
+      blokken.push(`<strong>${esc(laagNaam(def))}</strong><ol style="margin:.2rem 0 .6rem;padding-left:1.2rem">${top
+        .map((t) => `<li>${esc((t.f.properties as any)?.naam || laagNaam(def))} — ${km(t.d)} ${t.r.windstreek}</li>`)
+        .join('')}</ol>`);
+    }
+    uit.innerHTML = blokken.join('');
+    kaart.flyTo({ center: [lon, lat], zoom: Math.max(kaart.getZoom(), 13) });
+  });
+
+  // ---------- Melden: plek ontbreekt of klopt niet ----------
+  // Een melding blijft op het toestel (localStorage) tot ze verstuurd is. Versturen opent een vooraf
+  // ingevuld GitHub-issue (.github/ISSUE_TEMPLATE/plek-melden.yml): geen server, geen account bij ons,
+  // geen tracking. Twee mensen kijken de melding na voor ze in data/eigen/ komt (docs/kaartdata.md).
+  type Melding = { id: string; wat: string; laag: string; land: string; naam: string; adres: string; lat?: number; lon?: number; plek?: string; opmerking: string; bron: string; datum: string };
+  const ISSUES = 'https://github.com/montobleu/planb72/issues/new';
+  const dialoog = document.getElementById('melden') as HTMLDialogElement;
+  const formulier = document.getElementById('melden-form') as HTMLFormElement;
+  const puntTekst = document.getElementById('meld-punt')!;
+  const fout = document.getElementById('meld-fout')!;
+  const adresVeld = document.getElementById('meld-adres') as HTMLInputElement;
+  let meldPunt: [number, number] | null = null;
+  let meldPlek = '';
+  let kiesModus = false;
+  let gekozenOp = 0;
+  let puntMarker: maplibregl.Marker | null = null;
+
+  const landVan = (lon: number, lat: number) =>
+    LANDEN.find((c) => { const b = kaders[c]?.bbox; return b && lon >= b[0] && lon <= b[2] && lat >= b[1] && lat <= b[3]; }) ?? LANDEN[0] ?? 'be';
+
+  function zetPunt(punt: [number, number] | null) {
+    meldPunt = punt;
+    puntTekst.textContent = punt ? `${punt[1].toFixed(5)}, ${punt[0].toFixed(5)}` : puntTekst.dataset.leeg!;
+    puntMarker?.remove();
+    puntMarker = punt ? new maplibregl.Marker({ color: '#b794f4' }).setLngLat(punt).addTo(kaart) : null;
+    if (punt) fout.hidden = true;
+  }
+
+  function openMelden(vooraf?: { wat: string; laag: string; naam?: string; adres?: string; punt?: [number, number]; plek?: string }) {
+    formulier.reset();
+    fout.hidden = true;
+    adresVeld.removeAttribute('aria-invalid');
+    meldPlek = vooraf?.plek ?? '';
+    if (vooraf) {
+      (formulier.elements.namedItem('wat') as RadioNodeList).value = vooraf.wat;
+      (formulier.elements.namedItem('laag') as HTMLSelectElement).value = vooraf.laag;
+      (formulier.elements.namedItem('naam') as HTMLInputElement).value = vooraf.naam ?? '';
+      adresVeld.value = vooraf.adres ?? '';
+    }
+    zetPunt(vooraf?.punt ?? null);
+    kaart.getCanvas().style.cursor = '';
+    dialoog.showModal();
+  }
+
+  document.getElementById('melden-open')!.addEventListener('click', () => {
+    const laag = vinkjes.find((v) => v.checked && v.dataset.laag !== 'nucleair' && v.dataset.laag !== 'schuilplekken')?.dataset.laag ?? 'ziekenhuizen';
+    openMelden({ wat: 'ontbreekt', laag });
+  });
+  // De knop in een pop-up: vooraf ingevuld met de gegevens van dat punt.
+  document.addEventListener('click', (e) => {
+    if (!(e.target as Element).closest?.('[data-melden]') || !laatstePunt) return;
+    const { p, laag, lon, lat } = laatstePunt;
+    document.querySelectorAll('.maplibregl-popup').forEach((x) => x.remove());
+    openMelden({ wat: 'kloptNiet', laag, naam: p.naam ?? '', adres: p.adres ?? '', punt: [Number(lon.toFixed(5)), Number(lat.toFixed(5))], plek: String(p.id ?? '') });
+  });
+
+  document.getElementById('meld-kies')!.addEventListener('click', () => {
+    dialoog.close();
+    kiesModus = true;
+    kaart.getCanvas().style.cursor = 'crosshair';
+    if (matchMedia('(max-width: 640px)').matches) (document.getElementById('paneel') as HTMLDetailsElement).open = false;
+    status.textContent = tk.kiesOpKaart;
+  });
+  kaart.on('click', (e) => {
+    if (!kiesModus) return;
+    kiesModus = false;
+    gekozenOp = Date.now();
+    status.textContent = '';
+    kaart.getCanvas().style.cursor = '';
+    zetPunt([Number(e.lngLat.lng.toFixed(5)), Number(e.lngLat.lat.toFixed(5))]);
+    dialoog.showModal();
+  });
+
+  formulier.addEventListener('submit', (e) => {
+    const knop = (e as SubmitEvent).submitter as HTMLButtonElement | null;
+    if (knop?.value === 'annuleren') { zetPunt(null); return; }
+    const data = new FormData(formulier);
+    const adres = String(data.get('adres') ?? '').trim();
+    if (!formulier.checkValidity() || (!adres && !meldPunt)) {
+      e.preventDefault();
+      if (!adres && !meldPunt) {
+        fout.hidden = false;
+        adresVeld.setAttribute('aria-invalid', 'true');
+        adresVeld.setAttribute('aria-describedby', 'meld-fout meld-adres-hint');
+        adresVeld.focus();
+      } else {
+        formulier.reportValidity();
+      }
+      return;
+    }
+    const m: Melding = {
+      id: `${Date.now().toString(36)}`, wat: String(data.get('wat')), laag: String(data.get('laag')),
+      land: meldPunt ? landVan(meldPunt[0], meldPunt[1]) : LANDEN[0] ?? 'be',
+      naam: String(data.get('naam') ?? '').trim(), adres, lat: meldPunt?.[1], lon: meldPunt?.[0], plek: meldPlek,
+      opmerking: String(data.get('opmerking') ?? '').trim(), bron: String(data.get('bron') ?? '').trim(),
+      datum: new Date().toISOString().slice(0, 10),
+    };
+    bewaar('meldingen', [...lees<Melding[]>('meldingen', []), m]);
+    zetPunt(null);
+    status.textContent = tk.bewaard;
+    toonWachtrij();
+  });
+  dialoog.addEventListener('close', () => { dialoog.returnValue = ''; });
+
+  function issueLink(m: Melding): string {
+    const laag = LAGEN.find((l) => l.id === m.laag);
+    const punt = m.lat !== undefined ? `${m.lat}, ${m.lon}` : '';
+    const q = new URLSearchParams({
+      template: 'plek-melden.yml',
+      title: `[${m.land.toUpperCase()}] ${laag?.naam.nl ?? m.laag}: ${m.naam || m.adres || punt} (${tk.wat[m.wat] ?? m.wat})`,
+      land: m.land.toUpperCase(), laag: m.laag, wat: m.wat, naam: m.naam, adres: m.adres, punt,
+      plek: m.plek ?? '', opmerking: m.opmerking, bron: m.bron, datum: m.datum,
+    });
+    return `${ISSUES}?${q}`;
+  }
+
+  function toonWachtrij() {
+    const lijst = lees<Melding[]>('meldingen', []);
+    const blok = document.getElementById('wachtrij')!;
+    blok.hidden = lijst.length === 0;
+    const online = navigator.onLine;
+    document.getElementById('wachtrij-lijst')!.innerHTML = lijst.map((m) => {
+      const laag = LAGEN.find((l) => l.id === m.laag);
+      const wat = `${laag ? laagNaam(laag) : m.laag}: ${m.naam || m.adres || `${m.lat}, ${m.lon}`} (${tk.wat[m.wat] ?? m.wat})`;
+      const versturen = online
+        ? `<a class="knop hoofd" href="${esc(issueLink(m))}" target="_blank" rel="noopener" data-verstuur="${esc(m.id)}">${esc(tk.versturen)}</a>`
+        : `<span>${esc(tk.wachtOpVerbinding)}</span>`;
+      return `<li>${esc(wat)}<div class="knoppen">${versturen}<button class="knop" type="button" data-wis="${esc(m.id)}">${esc(tk.verwijderen)}</button></div></li>`;
+    }).join('');
+  }
+  document.getElementById('wachtrij-lijst')!.addEventListener('click', (e) => {
+    const el = (e.target as Element).closest('[data-verstuur],[data-wis]') as HTMLElement | null;
+    if (!el) return;
+    const id = el.dataset.verstuur ?? el.dataset.wis;
+    // Na het openen van het issue is de melding uit handen gegeven: ze verdwijnt van het toestel.
+    bewaar('meldingen', lees<Melding[]>('meldingen', []).filter((m) => m.id !== id));
+    setTimeout(toonWachtrij, 0);
+  });
+  addEventListener('online', toonWachtrij);
+  addEventListener('offline', toonWachtrij);
+  toonWachtrij();
+</script>

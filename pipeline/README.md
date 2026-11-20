@@ -2,7 +2,8 @@
 
 Scripts die de data voor PlanB72 ophalen en klaarzetten. Alleen Python 3.9+ met de
 standaardbibliotheek; geen pakketten te installeren. De basiskaart vraagt daarnaast
-de opdracht `pmtiles` (`brew install pmtiles`).
+de opdracht `pmtiles` (`brew install pmtiles`), de routepakketten `osmium`
+(`brew install osmium-tool`), de open bronnen van plekken `duckdb` (`brew install duckdb`).
 
 Alles draait vanuit de root van de repository. Tussenbestanden komen in
 `pipeline/out/` (staat in `.gitignore`); wat de website gebruikt komt in
@@ -17,9 +18,49 @@ python3 pipeline/nucleair.py BE        # nucleaire sites en zones uit data/lande
 python3 pipeline/basiskaart.py BE      # basiskaart meten + overzichtskaart (pmtiles)
 ```
 
+Landen: `BE`, `NL`, `LU`, `FR`, `DE` (een bestand per land in `data/landen/`).
+
+### Bron per land: Overpass of Geofabrik
+
+België komt uit Overpass. Nederland, Luxemburg, Frankrijk en Duitsland komen uit het
+landextract van Geofabrik (`"bron": "geofabrik"` in `pipeline/budget.json`), lokaal gefilterd
+met `osmium` (`brew install osmium-tool` of `apt install osmium-tool`). Voor Frankrijk en
+Duitsland zou Overpass honderden aanvragen vragen; het extract (4 à 5 GB) is in enkele
+minuten verwerkt. `pipeline/pbf.py` geeft dezelfde elementen terug als Overpass, zodat
+`lagen.py` en `schuilplekken.py` voor beide bronnen dezelfde logica gebruiken. Punten
+buiten de landsgrens van OpenStreetMap (admin_level 2) vallen weg; het extract loopt
+een stukje over de grens. De extracten en tussenbestanden staan in `pipeline/out/pbf/`
+en worden na een week opnieuw gedownload. Met `PLANB72_BRON=geofabrik` kies je het
+extract ook voor België.
+
+Andere instellingen per land in `pipeline/budget.json` (`landen` -> code):
+
+- `lagen`: budget per laag, twee keer de meting van november 2026;
+- `plaats: "dichtstbij"`: de plaats van een schuilplek is de dichtstbijzijnde plaatsnaam
+  (city, town, village) binnen 10 km, in plaats van de gemeentegrenzen (Frankrijk en
+  Duitsland: tienduizenden gemeenten);
+- `per_regio`: met Overpass per regio (admin_level) ophalen in plaats van in één keer.
+
+### Kaartpakketten
+
+```sh
+python3 pipeline/regios.py NL DE FR                    # regio's met bbox -> pipeline/regios.json
+python3 pipeline/kaartpakketten.py --plan BE NL LU DE FR  # indeling -> pipeline/kaartpakketten-plan.json
+python3 pipeline/kaartpakketten.py --land nl --upload  # uitknippen en naar R2
+```
+
+Per land een overzicht (zoom 9, in het basispakket), een standaardkaart (zoom 12) en
+straatniveau (zoom 15, het maximum van de Protomaps-builds; de kaart vergroot tot zoom 19
+verder uit). Elk pakket blijft onder 280 MB (upload met wrangler kan tot 300 MB): de standaardkaart van Frankrijk en Duitsland is per regio, straatniveau per
+provincie, deelstaat of Regierungsbezirk, departement, of in vakken (noordwest, ...).
+De indeling komt uit een proefmeting (`pmtiles extract --dry-run`). Europa en het overzicht
+en de standaardkaart van België staan vast in `kaartpakketten.py`; het Belgische
+straatniveau gaat ook door de planner. Het resultaat staat in `site/public/data/kaarten.json`.
+
 | Script | Uitvoer |
 | --- | --- |
-| `lagen.py` | `site/public/data/be/<laag>.geojson` voor ziekenhuizen, medisch, politie, brandweer, apotheken, aed, drinkwater, overheid, dierenarts; plus `meta.json` |
+| `verrijken.py` | dezelfde lagen, aangevuld met officiële bronnen en `data/eigen/`; `pipeline/out/<land>-verschillen.csv` |
+| `lagen.py` | `site/public/data/<land>/<laag>.geojson` voor ziekenhuizen, medisch, politie, brandweer, apotheken, aed, drinkwater, overheid, dierenarts; plus `meta.json` |
 | `schuilplekken.py` | `site/public/data/be/schuilplekken.geojson` en `pipeline/out/be-schuilplekken.csv` |
 | `nucleair.py` | `site/public/data/be/nucleair.geojson` (punten en cirkels) |
 | `basiskaart.py` | `pipeline/out/be-z<zoom>.pmtiles`, `pipeline/out/be-basiskaart-metingen.json`, `site/public/data/be/basis.pmtiles` |
@@ -39,6 +80,98 @@ Overpass: één query per laag, 10 seconden rust tussen aanvragen, bij fouten
 exponentieel wachten en wisselen tussen overpass-api.de, overpass.kumi.systems en
 overpass.openstreetmap.fr. Een leeg antwoord wordt pas aanvaard als een tweede
 server het bevestigt. Een volledige run voor België duurt ongeveer een half uur.
+
+## Verrijken met officiële bronnen en eigen aanvullingen
+
+```sh
+python3 pipeline/verrijken.py BE                       # na lagen.py
+python3 pipeline/verrijken.py BE --lagen ziekenhuizen   # één laag
+python3 pipeline/verrijken.py BE --zonder-officieel     # alleen OSM en data/eigen/
+python3 pipeline/verrijken.py BE --vernieuw             # officiële bestanden opnieuw downloaden
+python3 pipeline/verrijken.py BE --zonder-open-bron     # zonder Overture Maps Places
+```
+
+Voegt per laag de ruwe OSM-laag (`pipeline/out/osm/<land>/`), de officiële bronnen
+(`pipeline/officieel.py`) en de eigen aanvullingen (`data/eigen/<land>/<laag>.json`,
+`pipeline/eigen.py`) samen. Dubbels worden herkend op afstand en naam of adres
+(`pipeline/naam.py`); elk punt krijgt `betrouwbaarheid` = `officieel`, `nagekeken` of `osm`,
+officieel gaat voor. Adressen zonder betrouwbare coördinaten worden offline geplaatst met BeST
+van BOSA (`pipeline/adressen.py`, ongeveer 230 MB, eenmaal per week gedownload).
+
+Daarna Overture Maps Places (`pipeline/derden.py`): de laatste maandelijkse release, uitgesneden
+met `duckdb` naar `pipeline/out/derden/overture-<release>.ndjson.gz` (ongeveer 15 MB, 2 minuten,
+blijft tot een nieuwe release). Overture bevestigt bestaande punten (`zekerheid: "bevestigd"`) en
+vult plekken aan uit twee onafhankelijke bronnen (`betrouwbaarheid: "open-bron"`); apotheken en
+dierenartsen uit één bron komen er als open ring bij (`zekerheid: "onzeker"`). Regels: `docs/kaartdata.md`.
+
+Uitvoer: de lagen en `meta.json` in `site/public/data/<land>/` (aantallen per herkomst, bronnen),
+`pipeline/out/<land>-verschillen.csv` (alle verschillen om na te kijken) en
+`pipeline/out/<land>-verrijking.json`. Een volledige run voor België duurt ongeveer drie minuten.
+Foutcodes: `3` = budget, `4` = ruwe OSM-laag ontbreekt. Uitleg en bronnen: `docs/kaartdata.md`.
+
+Dekking meten: `python3 pipeline/dekking.py BE dierenarts --voor pipeline/out/voor/be` (België, per
+gemeente) en `python3 pipeline/dekking_regio.py NL` (elk land, per provincie, deelstaat of regio), met
+in `pipeline/out/voor/<land>/` een kopie van de lagen van vóór de wijziging.
+
+## Routepakketten
+
+```sh
+brew install osmium-tool
+python3 pipeline/routegraaf.py                  # alle regio's (downloadt belgium-latest.osm.pbf als dat nog niet in pipeline/out/osm staat)
+python3 pipeline/routegraaf.py --alleen be-ant  # één regio
+python3 pipeline/routegraaf.py --upload         # ook naar R2 (route/<regio>.pb72r)
+```
+
+Maakt per regio (dezelfde bboxen als de kaartpakketten op straatniveau) een routenetwerk en
+een zoekindex uit het Geofabrik-extract van OpenStreetMap, en schrijft het overzicht naar
+`site/public/data/routes.json`. Een volledige run voor België duurt ongeveer 2,5 minuten en
+gebruikt 2 GB geheugen. Metingen en rekentijden: `docs/routeplanning.md`.
+
+Wat er in het netwerk zit:
+
+- **Knopen**: alleen kruispunten, uiteinden van wegen en versperringen (paaltjes, draaihekken).
+  Elke knoop en elk segment krijgt een landelijk volgnummer in ruimtelijke volgorde (Z-curve),
+  zodat de app regio's naadloos aan elkaar koppelt en de verschillen klein blijven.
+- **Segmenten** tussen twee knopen: lengte (dm), wegtype, toegang te voet, fiets en auto,
+  eenrichting (auto en fiets apart, met `oneway:bicycle=no`), rotonde, fietsinfrastructuur,
+  onverhard, maximumsnelheid (ook `BE-VLG:urban` en dergelijke) en straatnaam (anders het
+  wegnummer, voor op- en afritten de bestemming op het richtingbord).
+- **Vorm**: de tussenliggende punten als stappen van 1e-5 graad (int16).
+- **Zoekindex**: plaatsen (stad tot gehucht, met Franse, Nederlandse en Duitse naam) en straten
+  met de dichtstbijzijnde gemeente of het dorp als context.
+
+Toegang volgt de Belgische standaarden van
+[OSM tags for routing](https://wiki.openstreetmap.org/wiki/OSM_tags_for_routing/Access_restrictions#Belgium):
+geen voetgangers of fietsers op autosnelwegen en `motorroad=yes`, fietsers niet op `footway`
+en `pedestrian`, auto's niet op `track`, `path` of `cycleway`. `private`, `agricultural` en
+`forestry` gelden als verboden. Afslagverboden (relaties `restriction`) zitten er nog niet in.
+
+Bestandsformaat (`.pb72r`, little-endian):
+
+| Bytes | Inhoud |
+| --- | --- |
+| 8 | `PB72PAK1` |
+| 4 × 3 | versie, lengte zoekdeel, lengte netwerkdeel |
+| … | zoekdeel, gzip |
+| … | netwerkdeel, gzip |
+
+Elk deel pakt uit tot: u32 koplengte, JSON-kop (id, bbox, OSM-datum, sectietabel) en de secties
+op 4 bytes uitgelijnd. Het zoekdeel staat apart, zodat de app kan zoeken in alle regio's zonder
+het netwerk uit te pakken. De app leest het formaat in `site/src/lib/routegraaf.ts`; wie de lijst
+met wegtypes of vlaggen wijzigt, past beide bestanden aan en verhoogt `VERSIE`.
+
+## Downloadcatalogus
+
+```sh
+python3 pipeline/catalogus.py               # site/public/data/catalogus.json
+python3 pipeline/catalogus.py --controleer  # foutcode 1 als ze verouderd is
+```
+
+Eén lijst van alles wat je kunt downloaden, per land en detailniveau (nooit per provincie),
+voor de website, de app, het startprogramma en later de apps. Draai het script na elke
+wijziging aan `kaarten.json`, `routes.json` of de kaartlagen, en na `npm run build` (grootte
+van de app per taal). `controleer_inhoud.py` faalt als de catalogus verouderd is. Zie
+[docs/downloaden.md](../docs/downloaden.md).
 
 ## Bronnenronde
 

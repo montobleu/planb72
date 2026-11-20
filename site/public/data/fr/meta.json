@@ -1,0 +1,184 @@
+{
+  "land": "FR",
+  "opgehaald": "2026-11-17",
+  "bron": "© OpenStreetMap-bijdragers, ODbL; aangevuld met officiële bronnen en open bronnen (zie 'bronnen', licentieteksten in licenties/) en eigen, nagekeken gegevens",
+  "lagen": {
+    "ziekenhuizen": {
+      "naam": "Ziekenhuizen",
+      "aantal": 2481,
+      "bytes": 589477,
+      "osm": 2481,
+      "officieel": 0,
+      "nagekeken": 0,
+      "osm_ruw": 2481,
+      "open_bron": 0,
+      "bevestigd": 1558,
+      "bronnen": [
+        "eu-overture-places"
+      ],
+      "verrijkt": "2026-11-20",
+      "register_bevestigt": 0
+    },
+    "medisch": {
+      "naam": "Medische posten",
+      "aantal": 16084,
+      "bytes": 3656324,
+      "osm": 15962,
+      "officieel": 0,
+      "nagekeken": 0,
+      "osm_ruw": 15962,
+      "open_bron": 122,
+      "bevestigd": 2846,
+      "bronnen": [
+        "eu-overture-places"
+      ],
+      "verrijkt": "2026-11-20",
+      "register_bevestigt": 0
+    },
+    "politie": {
+      "naam": "Politie",
+      "aantal": 5959,
+      "bytes": 1501218,
+      "osm": 5953,
+      "officieel": 0,
+      "nagekeken": 0,
+      "osm_ruw": 5953,
+      "open_bron": 6,
+      "bevestigd": 2084,
+      "bronnen": [
+        "eu-overture-places"
+      ],
+      "verrijkt": "2026-11-20",
+      "register_bevestigt": 0
+    },
+    "brandweer": {
+      "naam": "Brandweer",
+      "aantal": 6110,
+      "bytes": 1386154,
+      "osm": 6108,
+      "officieel": 0,
+      "nagekeken": 0,
+      "osm_ruw": 6108,
+      "open_bron": 2,
+      "bevestigd": 1047,
+      "bronnen": [
+        "eu-overture-places"
+      ],
+      "verrijkt": "2026-11-20",
+      "register_bevestigt": 0
+    },
+    "apotheken": {
+      "naam": "Apotheken",
+      "aantal": 19660,
+      "bytes": 5159277,
+      "osm": 19092,
+      "officieel": 0,
+      "nagekeken": 0,
+      "osm_ruw": 19092,
+      "open_bron": 568,
+      "bevestigd": 15643,
+      "bronnen": [
+        "eu-overture-places"
+      ],
+      "verrijkt": "2026-11-20",
+      "register_bevestigt": 0
+    },
+    "aed": {
+      "naam": "AED's",
+      "aantal": 28231,
+      "bytes": 5202576,
+      "osm": 28231,
+      "officieel": 0,
+      "nagekeken": 0,
+      "osm_ruw": 28231,
+      "open_bron": 0,
+      "bevestigd": 0,
+      "bronnen": [],
+      "verrijkt": "2026-11-20",
+      "register_bevestigt": 0
+    },
+    "drinkwater": {
+      "naam": "Drinkwater",
+      "aantal": 27746,
+      "bytes": 4788576,
+      "osm": 27746,
+      "officieel": 0,
+      "nagekeken": 0,
+      "osm_ruw": 27746,
+      "open_bron": 0,
+      "bevestigd": 0,
+      "bronnen": [],
+      "verrijkt": "2026-11-20",
+      "register_bevestigt": 0
+    },
+    "overheid": {
+      "naam": "Gemeentehuizen",
+      "aantal": 37146,
+      "bytes": 10047650,
+      "osm": 37146,
+      "officieel": 0,
+      "nagekeken": 0,
+      "osm_ruw": 37146,
+      "open_bron": 0,
+      "bevestigd": 12630,
+      "bronnen": [
+        "eu-overture-places"
+      ],
+      "verrijkt": "2026-11-20",
+      "register_bevestigt": 0
+    },
+    "dierenarts": {
+      "naam": "Dierenartsen",
+      "aantal": 5447,
+      "bytes": 1756554,
+      "osm": 4114,
+      "officieel": 0,
+      "nagekeken": 0,
+      "osm_ruw": 4114,
+      "open_bron": 1333,
+      "bevestigd": 4573,
+      "bronnen": [
+        "eu-overture-places",
+        "fr-sirene-veterinaires"
+      ],
+      "verrijkt": "2026-11-20",
+      "register_bevestigt": 3267
+    },
+    "schuilplekken": {
+      "naam": "Mogelijke schuilplekken",
+      "aantal": 28598,
+      "bytes": 6725665,
+      "opgehaald": "2026-11-17"
+    },
+    "nucleair": {
+      "naam": "Nucleaire sites en zones",
+      "aantal": 30,
+      "zones": 45,
+      "bytes": 67368,
+      "bron": "data/landen/fr.json"
+    }
+  },
+  "osm_opgehaald": "2026-11-17",
+  "bronnen": {
+    "eu-overture-places": {
+      "naam": "Overture Maps Places (Meta, Microsoft, Foursquare, BrightQuery, AllThePlaces en andere)",
+      "kort": "Overture Maps",
+      "eigenaar": "Overture Maps Foundation",
+      "licentie": "CDLA-Permissive-2.0; Foursquare: Apache-2.0; AllThePlaces: CC0-1.0",
+      "url": "https://docs.overturemaps.org/guides/places/",
+      "licenties": "licenties/",
+      "datum": "2026-11-18",
+      "opgehaald": "2026-11-20",
+      "release": "2026-11-18.0"
+    },
+    "fr-sirene-veterinaires": {
+      "naam": "INSEE SIRENE: vestigingen met NAF 75.00Z (activités vétérinaires)",
+      "kort": "INSEE SIRENE",
+      "eigenaar": "INSEE, via de API Recherche d'entreprises (DINUM)",
+      "licentie": "Licence Ouverte 2.0 (Etalab)",
+      "url": "https://recherche-entreprises.api.gouv.fr/docs/",
+      "datum": "2026-11-17",
+      "opgehaald": "2026-11-20"
+    }
+  }
+}

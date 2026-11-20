@@ -11,11 +11,21 @@ Kwaliteitscontrole:
     het script met foutcode 3.
 In beide gevallen wordt er niets weggeschreven.
 
+De ruwe laag komt ook in pipeline/out/osm/<land>/<laag>.geojson. pipeline/verrijken.py voegt daar
+de officiële bronnen en de eigen aanvullingen aan toe en schrijft de laag opnieuw weg.
+
 Gebruik:
     python3 pipeline/lagen.py              # België
     python3 pipeline/lagen.py NL
     python3 pipeline/lagen.py BE --lagen ziekenhuizen aed
     python3 pipeline/lagen.py BE --forceer
+
+Grote landen (Frankrijk, Duitsland) worden per regio opgehaald: zet in
+pipeline/budget.json onder "landen" -> code het veld "per_regio" op het
+admin_level van de regio's. Het resultaat blijft één bestand per laag en land.
+Met "bron": "geofabrik" (of PLANB72_BRON=geofabrik) komt de data uit het
+landextract van Geofabrik, lokaal gefilterd met osmium (zie pipeline/pbf.py).
+Punten buiten de bbox uit data/landen/<land>.json (overzeese gebieden) vallen weg.
 """
 
 import argparse
@@ -27,6 +37,7 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 import overpass as op  # noqa: E402
+import pbf  # noqa: E402
 
 ROOT = Path(__file__).resolve().parent.parent
 MAX_DALING = 0.05
@@ -76,9 +87,9 @@ def soort_van(laag, tags):
     return laag
 
 
-def query_voor(land, filters):
+def query_voor(gebiedsregel, filters):
     delen = "\n  ".join(f"{f}(area.land);" for f in filters)
-    return (f"[out:json][timeout:900];\n{op.gebied(land)}\n(\n  {delen}\n);\n"
+    return (f"[out:json][timeout:900];\n{gebiedsregel}\n(\n  {delen}\n);\n"
             "out center tags;")
 
 
@@ -103,20 +114,41 @@ def maak_feature(laag, el):
     return op.feature(punt[0], punt[1], props)
 
 
-def haal_laag(land, laag):
+def haal_laag(land, laag, gebieden, bbox=None, grens=None):
+    """Haalt een laag op, per gebied (heel land of per regio), zonder dubbels.
+
+    Punten buiten de bbox van het land (overzeese gebieden) vallen weg, en bij een
+    Geofabrik-extract ook punten buiten de landsgrens.
+    """
     naam, filters = LAGEN[laag]
-    antwoord = op.vraag(query_voor(land, filters))
     gezien = set()
     features = []
-    for el in antwoord.get("elements", []):
-        if op.osm_id(el) in gezien:
-            continue
-        gezien.add(op.osm_id(el))
-        f = maak_feature(laag, el)
-        if f:
-            features.append(f)
+    totaal = {"_seconden": 0.0, "_server": set()}
+    for label, regel in gebieden:
+        if regel is None:  # Geofabrik-extract in plaats van Overpass
+            t0 = time.time()
+            alle = [f for _, fs in LAGEN.values() for f in fs]
+            antwoord = pbf.antwoord(pbf.index(land, alle).zoek(filters), t0)
+        else:
+            antwoord = op.vraag(query_voor(regel, filters))
+        totaal["_seconden"] += antwoord["_seconden"]
+        totaal["_server"].add(antwoord["_server"].split("/")[2])
+        if len(gebieden) > 1:
+            print(f"    {label}: {len(antwoord.get('elements', []))} "
+                  f"({antwoord['_seconden']} s)", flush=True)
+        for el in antwoord.get("elements", []):
+            if op.osm_id(el) in gezien:
+                continue
+            gezien.add(op.osm_id(el))
+            f = maak_feature(laag, el)
+            if f:
+                lon, lat = f["geometry"]["coordinates"]
+                if op.in_bbox(lat, lon, bbox) and (grens is None or grens.binnen(lat, lon)):
+                    features.append(f)
     features.sort(key=lambda f: f["properties"]["id"])
-    return features, antwoord
+    totaal["_seconden"] = round(totaal["_seconden"], 1)
+    totaal["_server"] = ", ".join(sorted(totaal["_server"]))
+    return features, totaal
 
 
 def main():
@@ -142,19 +174,26 @@ def main():
                     **budget.get("landen", {}).get(land, {}).get("lagen", {})}
 
     gekozen = args.lagen or list(LAGEN)
+    gebieden = [(land, None)] if pbf.gekozen(land) else op.gebieden(land)
+    bbox = op.lees_land(land).get("bbox")
+    grens = pbf.grens(land) if pbf.gekozen(land) else None
+    if len(gebieden) > 1:
+        print(f"{land}: per regio, {len(gebieden)} gebieden", flush=True)
     resultaten = {}
     problemen = []
     t_start = time.time()
     for laag in gekozen:
         print(f"{laag}: ophalen ...", flush=True)
-        features, antwoord = haal_laag(land, laag)
+        features, antwoord = haal_laag(land, laag, gebieden, bbox, grens)
         tekst = op.compacte_json({"type": "FeatureCollection", "features": features})
         grootte = len(tekst.encode("utf-8"))
         resultaten[laag] = (tekst, len(features), grootte)
         print(f"  {len(features)} punten, {grootte / 1000:.0f} kB "
               f"({antwoord['_seconden']} s via {antwoord['_server']})", flush=True)
 
-        oud = vorige.get("lagen", {}).get(laag, {}).get("aantal")
+        # Na verrijken.py staat het aantal punten uit OpenStreetMap apart (osm_ruw).
+        vorig = vorige.get("lagen", {}).get(laag, {})
+        oud = vorig.get("osm_ruw") or vorig.get("aantal")
         if oud and len(features) < oud * (1 - MAX_DALING):
             problemen.append(("daling", f"{laag}: daalt van {oud} naar {len(features)} "
                                         f"(-{100 * (oud - len(features)) / oud:.1f}%)"))
@@ -179,9 +218,12 @@ def main():
         # Andere blokken (schuilplekken, nucleair) blijven staan.
         "lagen": dict(vorige.get("lagen", {})),
     }
+    ruwmap = ROOT / "pipeline" / "out" / "osm" / land.lower()
+    ruwmap.mkdir(parents=True, exist_ok=True)
     for laag, (tekst, aantal, grootte) in resultaten.items():
-        with open(doelmap / f"{laag}.geojson", "w", encoding="utf-8") as f:
-            f.write(tekst)
+        for pad in (doelmap / f"{laag}.geojson", ruwmap / f"{laag}.geojson"):
+            with open(pad, "w", encoding="utf-8") as f:
+                f.write(tekst)
         meta["lagen"][laag] = {"naam": LAGEN[laag][0], "aantal": aantal, "bytes": grootte}
     with open(metapad, "w", encoding="utf-8") as f:
         json.dump(meta, f, ensure_ascii=False, indent=2)

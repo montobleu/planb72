@@ -1,0 +1,22 @@
+---
+import App from '../../../../layouts/App.astro';
+import { APP } from '../../../../i18n/app';
+import { pad, taalPaden, taalVan } from '../../../../i18n/talen';
+import { inhoud } from '../../../../lib/inhoud';
+export const getStaticPaths = taalPaden;
+const taal = taalVan(Astro.params);
+const t = APP[taal].watnu;
+const kaarten = await inhoud('scenarios', taal);
+---
+<App taal={taal} titel={t.titel} tab="watnu">
+  <h1>{t.titel}</h1>
+  <p class="dempen">{t.uitleg}</p>
+  <div class="raster rubriek-nood">
+    {kaarten.map((k) => (
+      <a class="tegel" href={pad(taal, `/app/wat-nu/${k.id}/`)} lang={k.titelLang !== taal ? k.titelLang : undefined}>
+        <strong>{k.titel}</strong>
+        <span class="klein">{k.kort}</span>
+      </a>
+    ))}
+  </div>
+</App>

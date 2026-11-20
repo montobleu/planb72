@@ -1,0 +1,19 @@
+Licenties van de open bronnen in de kaartlagen van PlanB72
+
+De kaartlagen (<land>/<laag>.geojson) zijn een afgeleide databank van OpenStreetMap
+onder de Open Database License (ODbL). Ze bevatten ook gegevens uit officiële
+bronnen (zie "bronnen" in <land>/meta.json) en uit Overture Maps Places.
+
+Overture Maps Places, release in <land>/meta.json (bronnen -> eu-overture-places)
+  Overture Maps Foundation, overturemaps.org
+  Meta, Microsoft, BrightQuery, PinMeTo, Uberall, Krick, DAC, Birdeye, RenderSEO,
+  OpenTravel Alliance: CDLA-Permissive-2.0 (CDLA-Permissive-2.0.txt)
+  Foursquare: Apache-2.0 (Apache-2.0.txt), met Foursquare-NOTICE.txt
+  AllThePlaces: CC0-1.0
+  Bron: https://docs.overturemaps.org/attribution/
+
+Punten met "betrouwbaarheid": "open-bron" komen alleen uit Overture; het veld
+"herkomst" noemt de leveranciers. PlanB72 heeft de gegevens gewijzigd: selectie van
+negen soorten plekken in vijf landen, vertaling van de categorieën, weglaten van
+namen die alleen de naam van een persoon zijn, samenvoegen van dubbels en
+koppelen aan OpenStreetMap en officiële registers.

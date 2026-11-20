@@ -1,0 +1,54 @@
+---
+import App from '../../../../layouts/App.astro';
+import GidsLinks from '../../../../components/GidsLinks.astro';
+import Bronnenlijst from '../../../../components/Bronnenlijst.astro';
+import { landenVoor } from '../../../../lib/data';
+import { APP } from '../../../../i18n/app';
+import { pad, taalPaden, taalVan } from '../../../../i18n/talen';
+export const getStaticPaths = taalPaden;
+const taal = taalVan(Astro.params);
+const t = APP[taal].voorraad;
+const landen = landenVoor(taal);
+---
+<App taal={taal} titel={t.titel} tab="meer">
+  <h1>{t.titel}</h1>
+  <p class="dempen">{t.uitleg}</p>
+  <form id="planner" class="kaart-blok">
+    <label for="mensen">{t.mensen}</label><input id="mensen" type="number" min="1" max="50" value="2" inputmode="numeric" />
+    <label for="dieren">{t.dieren}</label><input id="dieren" type="number" min="0" max="50" value="0" inputmode="numeric" />
+    <label for="dagen">{t.dagen}</label>
+    <select id="dagen">{t.opties.map(([w, tekst]) => <option value={w} selected={w === '3'}>{tekst}</option>)}</select>
+  </form>
+  <div id="uitkomst" class="kaart-blok" aria-live="polite"></div>
+  <p>{t.basis}</p>
+  <p class="klein">{t.dierenNoot}</p>
+  <p set:html={t.meer(pad(taal, '/app/checklists/'))} />
+  <GidsLinks taal={taal} ids={['noodvoorraad', 'water', 'voedsel-zonder-stroom', 'medicatie-en-zorg']} />
+  <Bronnenlijst taal={taal} bronnen={landen.flatMap((x) => [x.voorraad.water_bron.tekst, x.voorraad.advies_bron])} />
+</App>
+<script>
+  import { lees, bewaar } from '../../../../lib/app';
+  import { klant, locale } from '../../../../i18n/klant';
+  const tk = klant().voorraad;
+  const form = document.getElementById('planner') as HTMLFormElement;
+  // Eén algemene waarde: de Europese overheden raden 2 tot 3 liter per persoon per dag aan; we rekenen met 3.
+  const perDag = 3;
+  const veld = (id: string) => document.getElementById(id) as HTMLInputElement;
+  const bewaard = lees('voorraad', { mensen: 2, dieren: 0, dagen: 3 });
+  veld('mensen').value = String(bewaard.mensen); veld('dieren').value = String(bewaard.dieren); veld('dagen').value = String(bewaard.dagen);
+  function reken() {
+    const mensen = Math.max(1, Number(veld('mensen').value) || 1);
+    const dieren = Math.max(0, Number(veld('dieren').value) || 0);
+    const dagen = Number(veld('dagen').value) || 3;
+    bewaar('voorraad', { mensen, dieren, dagen });
+    const liter = mensen * dagen * perDag;
+    const uit = document.getElementById('uitkomst')!;
+    const kop = document.createElement('p'); kop.style.cssText = 'font-size:1.4rem;margin:0';
+    const sterk = document.createElement('strong'); sterk.textContent = tk.liter(liter.toLocaleString(locale())); kop.append(sterk);
+    const som = document.createElement('p'); som.className = 'klein'; som.textContent = tk.som(mensen, dagen, perDag, Math.ceil(liter / 6));
+    const dier = document.createElement('p'); dier.className = 'klein'; dier.textContent = tk.dieren(dieren, dagen);
+    uit.replaceChildren(kop, som, dier);
+  }
+  form.addEventListener('input', reken);
+  reken();
+</script>

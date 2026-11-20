@@ -1,0 +1,13 @@
+---
+import App from '../../../../layouts/App.astro';
+import { APP } from '../../../../i18n/app';
+import { pad, taalPaden, taalVan } from '../../../../i18n/talen';
+export const getStaticPaths = taalPaden;
+const taal = taalVan(Astro.params);
+const t = APP[taal].offline;
+---
+<App taal={taal} titel={t.titel} zoekbaar={false} doorverwijzen={false}>
+  <h1>{t.h1}</h1>
+  <p>{t.tekst}</p>
+  <div class="knoppen"><a class="knop hoofd" href={pad(taal, '/app/')}>{t.start}</a><a class="knop" href={pad(taal, '/app/noodnummers/')}>{t.nummers}</a></div>
+</App>

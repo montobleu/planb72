@@ -1,8 +1,11 @@
 // Gedeelde logica voor alle app-pagina's. Alles blijft op het toestel.
+import { klant, locale } from '../i18n/klant';
+import { isTaal, type Taal } from '../i18n/talen';
 
 export function startApp() {
   registreerServiceWorker();
   toonNetstatus();
+  taalkeuzeLinks();
 }
 
 function registreerServiceWorker() {
@@ -15,12 +18,13 @@ function registreerServiceWorker() {
 function toonNetstatus() {
   const stip = document.getElementById('netstip');
   const tekst = document.getElementById('nettekst');
+  const t = klant().net;
   const zet = () => {
     const online = navigator.onLine;
     stip?.classList.toggle('online', online);
     stip?.classList.toggle('offline', !online);
-    if (tekst) tekst.textContent = online ? 'Verbinding: online' : 'Verbinding: offline';
-    stip?.setAttribute('title', online ? 'Online' : 'Offline — PlanB72 werkt verder met wat op dit toestel staat');
+    if (tekst) tekst.textContent = online ? t.online : t.offline;
+    stip?.setAttribute('title', online ? t.titelOnline : t.titelOffline);
   };
   zet();
   addEventListener('online', zet);
@@ -75,12 +79,12 @@ export function richting(lat1: number, lon1: number, lat2: number, lon2: number)
   const y = Math.sin(rad(lon2 - lon1)) * Math.cos(rad(lat2));
   const x = Math.cos(rad(lat1)) * Math.sin(rad(lat2)) - Math.sin(rad(lat1)) * Math.cos(rad(lat2)) * Math.cos(rad(lon2 - lon1));
   const graden = ((Math.atan2(y, x) * 180) / Math.PI + 360) % 360;
-  const windstreken = ['N', 'NO', 'O', 'ZO', 'Z', 'ZW', 'W', 'NW'];
+  const windstreken = klant().windstreken;
   return { graden: Math.round(graden), windstreek: windstreken[Math.round(graden / 45) % 8] };
 }
 
 export function km(x: number) {
-  return x < 1 ? `${Math.round(x * 1000)} m` : `${x.toLocaleString('nl-BE', { maximumFractionDigits: 1 })} km`;
+  return x < 1 ? `${Math.round(x * 1000)} m` : `${x.toLocaleString(locale(), { maximumFractionDigits: 1 })} km`;
 }
 
 /** Huidige positie, of null. Werkt offline (gps), maar vraagt toestemming. */
@@ -106,6 +110,36 @@ export function vinklijsten() {
         staat[v.id] = v.checked;
         bewaar(sleutel, staat);
       });
+    });
+  });
+}
+
+// ---------- Taal ----------
+
+const TAALSLEUTEL = 'pb72-taal';
+
+/** De taal die op dit toestel gekozen werd, of null. Ruw bewaard: het script in App.astro leest hem vóór het tekenen. */
+export function gekozenTaal(): Taal | null {
+  try {
+    const t = localStorage.getItem(TAALSLEUTEL);
+    return isTaal(t) ? t : null;
+  } catch {
+    return null;
+  }
+}
+
+export function kiesTaal(taal: Taal) {
+  try {
+    localStorage.setItem(TAALSLEUTEL, taal);
+  } catch {}
+}
+
+/** Links met [data-taalkeuze] onthouden de gekozen taal voor ze navigeren. */
+export function taalkeuzeLinks() {
+  document.querySelectorAll<HTMLAnchorElement>('a[data-taalkeuze]').forEach((a) => {
+    a.addEventListener('click', () => {
+      const t = a.dataset.taalkeuze;
+      if (isTaal(t)) kiesTaal(t);
     });
   });
 }

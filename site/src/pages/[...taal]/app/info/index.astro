@@ -1,0 +1,49 @@
+---
+import Bronnenlijst from '../../../../components/Bronnenlijst.astro';
+import App from '../../../../layouts/App.astro';
+import GidsLinks from '../../../../components/GidsLinks.astro';
+import { landenVoor } from '../../../../lib/data';
+import { APP } from '../../../../i18n/app';
+import { pad, taalPaden, taalVan } from '../../../../i18n/talen';
+export const getStaticPaths = taalPaden;
+const taal = taalVan(Astro.params);
+const t = APP[taal].info;
+const landen = landenVoor(taal);
+const tl = APP[taal].landen;
+const l = (x: { lang: string }) => (x.lang !== taal ? x.lang : undefined);
+// De radio eerst: die werkt nog op batterijen als stroom, gsm en internet uitvallen.
+// De index blijft die uit de landinfo, zodat bewaarde vinkjes op hun plaats blijven.
+const geordend = (land: (typeof landen)[number]) =>
+  land.kanalen.map((k, i) => ({ k, i })).sort((a, b) => Number(b.k.radio) - Number(a.k.radio));
+---
+<App taal={taal} titel={t.titel} tab="meer">
+  <h1>{t.h1}</h1>
+  <p class="dempen">{t.uitleg} <Fragment set:html={tl.welke(pad(taal, '/app/pakket/#landen'))} /></p>
+  {landen.map((land) => (
+    <section data-land={land.code}>
+      <h2>{land.naam}</h2>
+      <h3>{t.voorbereiding}</h3>
+      <ul class="vinklijst" data-lijst={land.code === 'be' ? 'info-voorbereiden' : `info-voorbereiden-${land.code}`}>
+        {geordend(land).map(({ k, i }) => (
+          <li><input type="checkbox" id={`k-${land.code}-${i}`} /><label for={`k-${land.code}-${i}`} lang={l(k.voorbereiden)}>{k.voorbereiden.tekst}</label></li>
+        ))}
+      </ul>
+      <h3>{t.kanalen}</h3>
+      {geordend(land).map(({ k }) => (
+        <div class="kaart-blok">
+          <h4 style="margin:0 0 .3rem">{k.naam} <span class="label" lang={l(k.soort)}>{k.soort.tekst}</span></h4>
+          <p lang={l(k.wat)}>{k.wat.tekst}</p>
+          <p class="klein">{k.url && <a href={k.url}>{k.url.replace(/^https?:\/\//, '').replace(/\/$/, '')}</a>}</p>
+        </div>
+      ))}
+      {land.code === 'be' && <div class="melding" set:html={t.echtheid} />}
+    </section>
+  ))}
+  <p class="klein">{t.tijdelijk}</p>
+  <GidsLinks taal={taal} ids={['communicatie-en-alarmering', 'noodoproep']} />
+  <Bronnenlijst taal={taal} bronnen={landen.flatMap((land) => land.kanalen.map((k) => ({ url: k.bron, land: land.code })))} />
+</App>
+<script>
+  import { vinklijsten } from '../../../../lib/app';
+  vinklijsten();
+</script>

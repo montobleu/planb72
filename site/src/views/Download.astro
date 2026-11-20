@@ -1,6 +1,7 @@
 ---
-import { type Taal } from '../i18n/talen';
+import { pad, type Taal } from '../i18n/talen';
 import { SITE } from '../i18n/site';
+import Keuzehulp from '../components/Keuzehulp.astro';
 interface Props { taal: Taal }
 const { taal } = Astro.props;
 const d = SITE[taal].download;
@@ -8,6 +9,7 @@ const stand = (s: string) => (s === 'beschikbaar' ? d.beschikbaar : s === 'opbou
 ---
 <h1>{d.titel}</h1>
 <p class="lead">{d.lead}</p>
+<Keuzehulp taal={taal} modus="site" />
 <h2>{d.landTitel}</h2>
 <p>{d.land}</p>
 <h2>{d.vormenTitel}</h2>
@@ -16,7 +18,7 @@ const stand = (s: string) => (s === 'beschikbaar' ? d.beschikbaar : s === 'opbou
     {d.vormen.map(([t, u, s, link]) => (
       <tr>
         <th scope="row" style="width:16rem">{t}</th>
-        <td>{u}{link && <> <a href={link}>{d.verder}</a></>}</td>
+        <td>{u}{link && <> <a href={pad(taal, link)}>{d.verder}</a></>}</td>
         <td style="width:9rem"><span class={`label ${s === 'beschikbaar' ? 'officieel' : ''}`}>{stand(s)}</span></td>
       </tr>
     ))}

@@ -1,0 +1,18 @@
+---
+// Verwijzingen naar uitgebreide gidsen; toont alleen gidsen die bestaan.
+import { APP } from '../i18n/app';
+import { pad, type Taal } from '../i18n/talen';
+import { inhoud } from '../lib/inhoud';
+interface Props { taal: Taal; ids: string[]; titel?: string }
+const { taal, ids, titel = APP[taal].gidsen.linksTitel } = Astro.props;
+const alle = await inhoud('gidsen', taal);
+const lijst = ids.map((id) => alle.find((g) => g.id === id)).filter((g) => g !== undefined);
+---
+{lijst.length > 0 && (
+  <section class="niet-afdrukken rubriek-naslag">
+    <h2>{titel}</h2>
+    <div class="raster">
+      {lijst.map((g) => <a class="tegel" href={pad(taal, `/app/gids/${g.id}/`)} lang={g.titelLang !== taal ? g.titelLang : undefined}><strong>{g.titel}</strong><span class="klein">{g.kort}</span></a>)}
+    </div>
+  </section>
+)}
