@@ -416,9 +416,10 @@ FR_NATUURLIJK = "1000"
       "https://recherche-entreprises.api.gouv.fr/docs/", kort="INSEE SIRENE")
 def _sirene_vet(b, vernieuw):
     """Alle actieve vestigingen met NAF 75.00Z, per departement opgevraagd (de API geeft hoogstens 10.000
-    resultaten per zoekopdracht en 25 per pagina). Vestigingen in 'diffusion partielle' (adres verborgen,
-    meestal eenmanszaken) komen niet op de kaart. Ondernemingen van natuurlijke personen krijgen geen
-    persoonsnaam op de kaart, alleen hun handelsnaam als die er is."""
+    resultaten per zoekopdracht en 25 per pagina). Een ondernemingsregister: deze records maken GEEN punt op de
+    kaart, ze bevestigen alleen een plek uit OpenStreetMap of Overture (zie pipeline/verrijken.py). Vestigingen in
+    'diffusion partielle' (adres verborgen, meestal eenmanszaken) vallen weg. Ondernemingen van natuurlijke
+    personen geven geen persoonsnaam door, alleen hun handelsnaam als die er is."""
     import urllib.parse
     basis = "https://recherche-entreprises.api.gouv.fr/search?"
     uit, datum, gezien = [], None, set()
@@ -482,16 +483,13 @@ def _tekst(x):
 def _vkbo_vet(b, vernieuw):
     """Rechtspersonen met hoofdactiviteit 75.000 en hun vestigingseenheden, in Vlaanderen.
 
-    Wat zeker is en wat niet ('praktijk'):
-      vestigingseenheid met handelsnaam               -> "praktijk"
-      vestigingseenheid op het adres van een zetel met personeel -> "praktijk"
-      vestigingseenheid zonder handelsnaam            -> "onzeker"
-      maatschappelijke zetel zonder vestigingseenheid -> "praktijk" met handelsnaam of personeel, anders "onzeker"
-                                                          (vaak de vennootschap van één dierenarts op het woonadres)
-      maatschappelijke zetel met vestigingseenheden   -> niet op de kaart: de vestigingen zijn de praktijken
-    Eenmanszaken staan niet als onderneming in de VKBO, hun vestigingen wel (met de persoonsnaam, die we niet
-    overnemen). De punten worden op het KBO-adres geplaatst met
-    BeST; de coördinaten van de VKBO dienen alleen als terugvaloptie (sommige liggen op een nepunt in Frankrijk)."""
+    Een ondernemingsregister: deze records maken GEEN punt op de kaart (pipeline/verrijken.py,
+    ONDERNEMINGSREGISTERS). Ze bevestigen alleen een plek uit OpenStreetMap of Overture die binnen de
+    koppelregels valt, en vullen daar een ontbrekende naam of een ontbrekend adres aan. Een inschrijving zegt
+    waar een dierenarts ingeschreven is, niet waar de praktijk is.
+    Zetels van vennootschappen met vestigingen elders vallen weg; eenmanszaken krijgen geen persoonsnaam.
+    Adressen worden geplaatst met BeST; de coördinaten van de VKBO dienen alleen als terugvaloptie (sommige
+    liggen op een nepunt in Frankrijk). Het veld 'praktijk' is een hulpmiddel bij het samenvoegen op adres."""
     import urllib.parse
     q = urllib.parse.urlencode({"f": "application/geo+json", "limit": 10000, "filter-lang": "cql2-text",
                                 "filter": "NACE_hoofdact_BTW='75000' OR NACE_hoofdact_RSZ='75000'"})

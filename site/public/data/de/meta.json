@@ -16,7 +16,8 @@
       "bronnen": [
         "eu-overture-places"
       ],
-      "verrijkt": "2026-11-18"
+      "verrijkt": "2026-11-20",
+      "register_bevestigt": 0
     },
     "medisch": {
       "naam": "Medische posten",
@@ -31,7 +32,8 @@
       "bronnen": [
         "eu-overture-places"
       ],
-      "verrijkt": "2026-11-18"
+      "verrijkt": "2026-11-20",
+      "register_bevestigt": 0
     },
     "politie": {
       "naam": "Politie",
@@ -46,7 +48,8 @@
       "bronnen": [
         "eu-overture-places"
       ],
-      "verrijkt": "2026-11-18"
+      "verrijkt": "2026-11-20",
+      "register_bevestigt": 0
     },
     "brandweer": {
       "naam": "Brandweer",
@@ -61,7 +64,8 @@
       "bronnen": [
         "eu-overture-places"
       ],
-      "verrijkt": "2026-11-18"
+      "verrijkt": "2026-11-20",
+      "register_bevestigt": 0
     },
     "apotheken": {
       "naam": "Apotheken",
@@ -76,7 +80,8 @@
       "bronnen": [
         "eu-overture-places"
       ],
-      "verrijkt": "2026-11-18"
+      "verrijkt": "2026-11-20",
+      "register_bevestigt": 0
     },
     "aed": {
       "naam": "AED's",
@@ -89,7 +94,8 @@
       "open_bron": 0,
       "bevestigd": 0,
       "bronnen": [],
-      "verrijkt": "2026-11-18"
+      "verrijkt": "2026-11-20",
+      "register_bevestigt": 0
     },
     "drinkwater": {
       "naam": "Drinkwater",
@@ -104,7 +110,8 @@
       "bronnen": [
         "eu-overture-places"
       ],
-      "verrijkt": "2026-11-18"
+      "verrijkt": "2026-11-20",
+      "register_bevestigt": 0
     },
     "overheid": {
       "naam": "Gemeentehuizen",
@@ -119,22 +126,24 @@
       "bronnen": [
         "eu-overture-places"
       ],
-      "verrijkt": "2026-11-18"
+      "verrijkt": "2026-11-20",
+      "register_bevestigt": 0
     },
     "dierenarts": {
       "naam": "Dierenartsen",
-      "aantal": 8811,
-      "bytes": 2730940,
+      "aantal": 7128,
+      "bytes": 2133006,
       "osm": 5419,
       "officieel": 0,
       "nagekeken": 0,
       "osm_ruw": 5419,
-      "open_bron": 3392,
+      "open_bron": 1709,
       "bevestigd": 5526,
       "bronnen": [
         "eu-overture-places"
       ],
-      "verrijkt": "2026-11-18"
+      "verrijkt": "2026-11-20",
+      "register_bevestigt": 0
     },
     "schuilplekken": {
       "naam": "Mogelijke schuilplekken",
@@ -160,7 +169,7 @@
       "url": "https://docs.overturemaps.org/guides/places/",
       "licenties": "licenties/",
       "datum": "2026-11-18",
-      "opgehaald": "2026-11-18",
+      "opgehaald": "2026-11-20",
       "release": "2026-11-18.0"
     }
   }

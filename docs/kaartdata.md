@@ -4,12 +4,14 @@ De kaartlagen (ziekenhuizen, medische posten, apotheken, AED, dierenartsen, poli
 
 | Herkomst (`betrouwbaarheid`) | Betekenis | Label op de kaart |
 | --- | --- | --- |
-| `officieel` | Uit een officieel register of een open dataset van een overheid, met een licentie die hergebruik toelaat | **Officieel**, met de bron en de datum van de bron |
+| `officieel` | Uit een officiële lijst van locaties of een open dataset van een overheid (ziekenhuiscampussen, drinkwaterpunten, ...), met een licentie die hergebruik toelaat | **Officieel**, met de bron en de datum van de bron |
 | `nagekeken` | Eigen aanvulling of correctie, door twee mensen nagekeken met een bron of bewijs | **Nagekeken**, met de datum van het nazicht en een link naar het bewijs |
 | `osm` | Uit OpenStreetMap, niet apart nagekeken | **OpenStreetMap**, met de datum waarop de data opgehaald is |
-| `open-bron` | Alleen uit een open bron van plekken (Overture Maps Places), niet uit OpenStreetMap of een register | **Open bron**, met de leveranciers (bv. Meta, BrightQuery) en de datum van de release |
+| `open-bron` | Alleen uit een open bron van plekken (het plaatsendeel van Overture Maps Places: Meta, Microsoft, Foursquare, AllThePlaces), niet uit OpenStreetMap | **Open bron**, met de leveranciers en de datum van de release |
 
 Los van de herkomst zegt het veld `zekerheid` hoeveel onafhankelijke bronnen een plek kennen: `bevestigd` (twee of meer) of `onzeker` (één open bron; open ring op de kaart, "Bel eerst"). Zie [Kruiscontrole](#kruiscontrole-zekerheid-uit-meerdere-bronnen).
+
+**Een ondernemingsregister maakt nooit een punt.** Een inschrijving in de KBO, de VKBO, SIRENE of bij BrightQuery zegt waar iemand ingeschreven is, niet waar de praktijk is: een dierenarts of arts kan op zijn woonadres ingeschreven zijn en elders werken. Punten komen alleen uit bronnen die plaatsen beschrijven: OpenStreetMap, het plaatsendeel van Overture en officiële lijsten van locaties (ziekenhuiscampussen, het FAGG-kadaster van apotheken, het AED-register, de lijst van brandweerposten). Een register mag een punt dat er al staat bevestigen en een ontbrekende naam of een ontbrekend adres aanvullen, als het binnen de koppelregels valt (afstand en naam of adres). Dat geldt voor alle lagen en alle landen.
 
 Bij een conflict gaat de officiële bron voor. Elk verschil komt in een lijst die iemand kan nakijken en, waar dat kan, in OpenStreetMap kan verbeteren. Gesloten plekken verdwijnen van de kaart.
 
@@ -40,6 +42,7 @@ python3 pipeline/verrijken.py BE    # officiële bronnen en data/eigen/ erbij
 | `niet_geplaatst` | Adres van de bron niet (precies genoeg) gevonden in BeST | Adres nakijken; staat niet op de kaart |
 | `open_bron_nieuw` | Plek alleen uit Overture toegevoegd (kolom `uitleg`: leveranciers en zekerheid) | Steekproef; bij twijfel melden of in `data/eigen/` als gesloten zetten |
 | `gesloten_open_bron` | Volgens Overture definitief gesloten (meestal uit een ondernemingsregister), staat nog op de kaart | Nakijken; het punt blijft staan tot een tweede bron het bevestigt |
+| `register_zonder_plek` | Inschrijving in een ondernemingsregister (VKBO, SIRENE) zonder plek in OSM of Overture; niet op de kaart | Werklijst: is er ter plaatse een praktijk, voeg ze dan toe in OSM of in `data/eigen/` |
 | `eigen_*` | Wat er met een eigen aanvulling gebeurde | Bij `eigen_conflict_officieel`: aan de bron melden |
 
 ## Bronnen per laag (België)
@@ -51,7 +54,7 @@ Stand van 18 november 2026. Alles staat in `data/bronnen/register.json` met eige
 | Ziekenhuizen | Departement Zorg, POI-service (Vlaanderen, Modellicentie gratis hergebruik): algemene en psychiatrische ziekenhuizen, spoed per campus | FOD Volksgezondheid (spoed, MUG, heel België), AViQ (Wallonië), Vivalis (Brussel) |
 | Medische posten | geen | RIZIV (medische huizen), huisartsenwachtposten (geen register gevonden) |
 | Apotheken | geen | **FAGG-kadaster van apotheken** (4.801 apotheken met status, dagelijks), APB |
-| Dierenartsen | VKBO van Digitaal Vlaanderen (Modellicentie gratis hergebruik): vennootschappen met NACE 75.000 en hun vestigingen in Vlaanderen | KBO Open Data (heel België, ook eenmanszaken; account en licentie), Orde der Dierenartsen (NGROD), CRFOMV, UPV |
+| Dierenartsen | VKBO van Digitaal Vlaanderen (Modellicentie gratis hergebruik): alleen ter bevestiging van plekken uit OSM en Overture, nooit als eigen punt | KBO Open Data (heel België, ook eenmanszaken; account en licentie), Orde der Dierenartsen (NGROD), CRFOMV, UPV |
 | Politie | Stad Brussel, politiekantoren (CC BY 4.0; geplaatst op het adres) | politie.be (niet bereikbaar voor onderzoek), Stad Antwerpen |
 | Brandweer | geen | **FOD Binnenlandse Zaken, lijst hulpverleningsposten** (318 posten), DBDMH Brussel |
 | Gemeentehuizen | geen | Agentschap Binnenlands Bestuur (Centrale Vindplaats, 304 gemeenten; licentie niet gevonden), KBO Open Data, Wallonië (geen dataset gevonden) |
@@ -63,23 +66,21 @@ Bewust niet gebruikt, hoewel open: Luik AED (laatst bijgewerkt 2018), Stad Bruss
 
 Nederland, Luxemburg, Frankrijk en Duitsland: de belangrijkste bronnen staan in het register (onder andere FINESS+, GeoDAE, de lijsten van Police nationale en Gendarmerie en de Annuaire de l'administration voor Frankrijk; de Politiebureaus-API en het Register van Overheidsorganisaties voor Nederland; de CGDIS-centra voor Luxemburg; het Krankenhausverzeichnis en enkele deelstaten voor Duitsland). Ze zitten nog niet in de pijplijn: een adapter per bron in `pipeline/officieel.py` en een adressenbestand per land (BAN voor Frankrijk, BAG voor Nederland) zijn het volgende werk.
 
-## Dierenartsen: wat zeker is en wat niet
+## Dierenartsen en artsen: een inschrijving is geen praktijk
 
-Een ondernemingsregister zegt waar een dierenarts ingeschreven is, niet of daar een praktijk is die je kunt bezoeken. Veel dierenartsen hebben een vennootschap op hun woonadres en werken in een groepspraktijk of op verplaatsing (landbouwhuisdieren, paarden). Daarom krijgt elk punt uit een register het veld `praktijk`:
+Een ondernemingsregister zegt waar een dierenarts of arts ingeschreven is, niet waar de praktijk is. Veel dierenartsen hebben een vennootschap op hun woonadres en werken in een groepspraktijk of op verplaatsing (landbouwhuisdieren, paarden); artsen evengoed. Een eerdere versie zette inschrijvingen uit de VKBO en SIRENE als punt op de kaart, met een open ring voor wat onzeker was. Dat is teruggedraaid: zo'n punt kon naar iemands woning leiden.
 
-| `praktijk` | Wanneer | Op de kaart | Pop-up |
-| --- | --- | --- | --- |
-| `praktijk` | vestigingseenheid met handelsnaam of op het adres van een vennootschap met personeel; zetel van een vennootschap met handelsnaam of personeel; of dezelfde plek staat ook in OpenStreetMap | volle stip | "Zeker: ingeschreven vestiging met een handelsnaam of van een vennootschap. Niet zeker: openingsuren en of ze nu open is." |
-| `onzeker` | vestigingseenheid zonder handelsnaam; zetel zonder vestiging, handelsnaam of personeel | open ring | "Zeker: hier is een dierenarts ingeschreven. Niet zeker: of hier een praktijk is die je kunt bezoeken (mogelijk een thuisadres of een dierenarts zonder vaste praktijk). Bel eerst." |
-| (niet op de kaart) | maatschappelijke zetel van een vennootschap die elders vestigingseenheden heeft | | |
+Nu:
 
-Eenmanszaken (natuurlijke personen) staan niet in de VKBO. In de Franse bron SIRENE zijn hun adressen meestal afgeschermd (diffusion partielle) en komen ze niet op de kaart. Van een natuurlijke persoon tonen we nooit de persoonsnaam, alleen een handelsnaam als die er is.
-
-Frankrijk: INSEE SIRENE via de open API Recherche d'entreprises (Licence Ouverte 2.0), per departement, alleen actieve vestigingen met NAF 75.00Z. Nederland, Luxemburg en Duitsland hebben geen open register met de activiteitscode en het adres per vestiging (de open KvK-dataset heeft geen namen of volledige postcodes; de lijst van het Luxemburgse Collège vétérinaire heeft geen licentie); daar blijft OpenStreetMap de bron.
+- **Punten** komen alleen uit OpenStreetMap, het plaatsendeel van Overture (Meta, Microsoft, Foursquare, AllThePlaces) en officiële lijsten van locaties.
+- **De VKBO (Vlaanderen) en SIRENE (Frankrijk)** worden nog gelezen, maar alleen om een punt dat er al staat te bevestigen (`zekerheid: "bevestigd"`, veld `register`) en een ontbrekende naam of een ontbrekend adres aan te vullen. Een inschrijving die met geen enkele plek samenvalt, komt als `register_zonder_plek` in de verschillenlijst: een werklijst voor wie ter plaatse kan kijken.
+- **BrightQuery** (het registerdeel van Overture) volgt dezelfde regel: een plek die Overture alleen van BrightQuery kent, komt niet op de kaart.
+- **Een plek uit één plaatsenbron** blijft zoals in de regels hieronder: een open ring met "Bel eerst" voor apotheken en dierenartsen.
+- **Persoonsnamen**: van een natuurlijke persoon tonen we nooit de naam, ook niet als aanvulling uit een register.
 
 ## Open bronnen van plekken: Overture Maps en Foursquare
 
-Officiële registers zijn per land verschillend en vaak niet open (KBO, Orde der Dierenartsen, FAGG). Om de dekking niet land per land met de hand te verbeteren, gebruikt de pijplijn ook een open bron van plekken die heel Europa dekt. Onderzocht op 18 november 2026; elke bewering hieronder komt van de genoemde pagina.
+Officiële lijsten zijn per land verschillend en vaak niet open (KBO, Orde der Dierenartsen, FAGG). Om de dekking niet land per land met de hand te verbeteren, gebruikt de pijplijn ook een open bron van plekken die heel Europa dekt. Onderzocht op 18 november 2026; elke bewering hieronder komt van de genoemde pagina.
 
 ### Overture Maps Places (gebruikt)
 
@@ -93,7 +94,7 @@ Officiële registers zijn per land verschillend en vaak niet open (KBO, Orde der
   - Apache-2.0 (Foursquare): een kopie van de licentie, een vermelding van wijzigingen en de volledige [NOTICE.txt](https://opensource.foursquare.com/places-notice-txt/) meegeven.
   - **Zo doet PlanB72 het**: `site/public/data/licenties/` bevat `CDLA-Permissive-2.0.txt`, `Apache-2.0.txt`, `Foursquare-NOTICE.txt` (met onze wijzigingen) en `LEESMIJ.txt`; die map hoort bij de kern van de app, zodat ze altijd mee op het toestel staat. `meta.json` per land noemt de bron `eu-overture-places` met licentie en release, elk punt met `betrouwbaarheid: "open-bron"` noemt zijn leveranciers (`herkomst`), en de licentieregel in de app (Over) vermeldt Overture Maps Places.
 - **Wat niet mag of niet gebeurt**: PlanB72 neemt Overture-data niet over in OpenStreetMap (dat is een import, met eigen regels; zie onderaan). De plekken van AllThePlaces komen van websites van ketens; PlanB72 scrapet zelf niets.
-- **Aandachtspunt voor het kernteam**: BrightQuery haalt zijn Belgische gegevens kennelijk uit de KBO (schrijfwijze "Nagels / Guy", stopzettingen als `permanently_closed`). Of BrightQuery die gegevens onder CDLA mocht verspreiden, is de verantwoordelijkheid van BrightQuery en Overture; de licentie die PlanB72 ontvangt, laat hergebruik toe. Wie dat risico niet wil, zet `BrightQuery` in `derden.FAMILIE` uit; dan valt ongeveer de helft van de nieuwe dierenartsen in België weg.
+- **BrightQuery** haalt zijn Belgische gegevens kennelijk uit de KBO (schrijfwijze "Nagels / Guy", stopzettingen als `permanently_closed`). Het is een ondernemingsregister: het maakt geen punten, het bevestigt alleen (zie hierboven). Of BrightQuery die gegevens onder CDLA mocht verspreiden, is de verantwoordelijkheid van BrightQuery en Overture; wie ook die bevestiging niet wil, zet `BrightQuery` in `derden.FAMILIE` uit.
 
 ### Foursquare Open Source Places (niet rechtstreeks gebruikt)
 
@@ -132,19 +133,20 @@ python3 pipeline/verrijken.py BE --zonder-open-bron
 
 ### Kruiscontrole: zekerheid uit meerdere bronnen
 
-Een plek is betrouwbaarder als ze in meerdere bronnen staat die elkaar niet overschrijven. De pijplijn telt **families**: OpenStreetMap, een ondernemingsregister (VKBO, SIRENE, en BrightQuery, dat uit dezelfde registers put), een ander officieel register (Departement Zorg, Stad Brussel, ...), Meta, Microsoft, Foursquare, AllThePlaces, en de vermeldingsdiensten samen. Twee bronnen uit dezelfde familie bevestigen elkaar niet: DAP Nagels in Tremelo staat in de VKBO en in BrightQuery, maar dat is twee keer de KBO.
+Een plek is betrouwbaarder als ze in meerdere bronnen staat die elkaar niet overschrijven. De pijplijn telt **families**: OpenStreetMap, een ondernemingsregister (VKBO, SIRENE, en BrightQuery, dat uit dezelfde registers put; alleen ter bevestiging), een officiële lijst van locaties (Departement Zorg, Stad Brussel, ...), Meta, Microsoft, Foursquare, AllThePlaces, en de vermeldingsdiensten samen. Twee bronnen uit dezelfde familie bevestigen elkaar niet: DAP Nagels in Tremelo staat in de VKBO en in BrightQuery, maar dat is twee keer de KBO.
 
 | Regel | Waarde | Waarom |
 | --- | --- | --- |
 | Een leverancier telt alleen als zijn record recent is | laatste `update_time` hoogstens 3 jaar oud | records van Microsoft uit 2013 tot 2020 en van Foursquare uit 2021 zeggen weinig over vandaag |
 | Bestaand punt + Overture uit een andere familie (confidence ≥ 0,5) | `zekerheid: "bevestigd"` | twee onafhankelijke bronnen |
 | Plek uit Overture binnen 50 m van een punt van dezelfde laag, zonder duidelijk ander adres of andere naam (binnen 15 m altijd) | geldt als dat punt: bevestigt het, komt er niet naast | in OSM heet een apotheek vaak "Pharmacie", in Overture "Pharmacie du Centre"; zonder deze regel waren 1.664 van de nieuwe Franse apotheken dubbels |
-| Inschrijving in een register (`praktijk: "onzeker"`) + Meta, Microsoft, Foursquare, AllThePlaces of een vermeldingsdienst | `praktijk: "praktijk"` (volle stip) | de zaak heeft een eigen pagina of vermelding; BrightQuery telt niet (zelfde register) |
+| Punt op de kaart + inschrijving in een ondernemingsregister (VKBO, SIRENE) binnen de koppelregels | `zekerheid: "bevestigd"`, veld `register`; ontbrekende naam of adres aangevuld | het register bevestigt een plek die een plaatsenbron al kent |
+| Inschrijving in een ondernemingsregister zonder plek | niet op de kaart; `register_zonder_plek` in de verschillenlijst | een inschrijving is geen praktijk (woonadres, zetel) |
 | Nieuw punt: twee families in Overture, confidence ≥ 0,5 | `betrouwbaarheid: "open-bron"`, `zekerheid: "bevestigd"` | |
 | Nieuw punt: één familie, confidence ≥ 0,8, alleen apotheken en dierenartsen | `zekerheid: "onzeker"`: open ring, "Bel eerst" | in de andere lagen is één leverancier te vaak fout |
 | Verzadiging: minder dan 20% van de plekken die Overture zelf in twee families heeft, ontbrak in de laag (gemeten met minstens 30 zulke plekken) | geen nieuwe punten uit één bron in die laag en dat land | de laag is dan zo goed als volledig en plekken uit één bron zijn vooral dubbels en gesloten zaken (apotheken in Frankrijk: OSM 19.092, officieel 19.627); werkt automatisch, zonder instelling per land |
-| Nieuw punt zonder vakwoord in de naam (apotheek, Feuerwehr, commissariat, ...) of met een winkelwoord (drogerie, Versand, shop) | valt weg | dm-drogerie markt als apotheek, een winkel voor brandweermateriaal als kazerne; uitzondering: een dierenarts uit een register (activiteitscode 75) |
-| Nieuw punt alleen uit een register met dezelfde naam als een punt binnen 25 km | valt weg | vermoedelijk de zetel of een oud adres (de zetel van Heideberg in Keerbergen) |
+| Nieuw punt zonder vakwoord in de naam (apotheek, Feuerwehr, commissariat, ...) of met een winkelwoord (drogerie, Versand, shop) | valt weg | dm-drogerie markt als apotheek, een winkel voor brandweermateriaal als kazerne; uitzondering: een dierenarts uit een plaatsenbron die ook in een register staat (activiteitscode 75) en alleen een persoonsnaam heeft |
+| Nieuw punt dat Overture alleen van BrightQuery kent | valt weg | een inschrijving, geen plek |
 | Volgens Overture gesloten (`permanently_closed`, `temporarily_closed`) | niet toegevoegd; staat het al op de kaart, dan een regel `gesloten_open_bron` in de verschillenlijst | een stopzetting in de KBO is een sterk teken, geen zekerheid |
 | Al de rest | valt weg (`open_te_zwak` in de metingen) | |
 

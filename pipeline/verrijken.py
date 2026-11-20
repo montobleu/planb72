@@ -10,7 +10,8 @@ Per laag:
 
 Dubbels worden herkend op afstand en op naam of adres (pipeline/naam.py). Elk punt krijgt een veld
 "betrouwbaarheid": "officieel", "nagekeken" (eigen, door PlanB72 nagekeken), "osm" of "open-bron" (alleen uit
-Overture). Bij een conflict gaat de officiële bron voor. Een punt dat in twee onafhankelijke bronnen staat, krijgt
+Overture). Bij een conflict gaat de officiële bron voor. Een ondernemingsregister (VKBO, SIRENE, BrightQuery) maakt
+nooit een punt: het bevestigt alleen een plek uit een plaatsenbron (veld "register"). Een punt dat in twee onafhankelijke bronnen staat, krijgt
 "zekerheid": "bevestigd"; een punt uit één open bron krijgt "zekerheid": "onzeker" (open ring, "Bel eerst"). Elk verschil komt in pipeline/out/<land>-verschillen.csv, zodat iemand het
 kan nakijken en eventueel in OpenStreetMap verbeteren. Gesloten plekken verdwijnen van de kaart.
 
@@ -70,8 +71,11 @@ STRAAL_NABIJ = {"aed": 60}
 # Een gekoppeld punt dat verder dan dit ligt, komt als verschil in het rapport.
 AFSTAND_MELDEN = 75
 
-# Officiële bronnen die een ondernemingsregister zijn. BrightQuery (in Overture) haalt zijn gegevens uit dezelfde
-# registers: een punt uit de VKBO of SIRENE dat alleen BrightQuery ook kent, is daarmee niet bevestigd.
+# Officiële bronnen die een ondernemingsregister zijn. Een inschrijving zegt waar iemand ingeschreven is, niet waar
+# de praktijk is: een dierenarts of arts kan op zijn woonadres ingeschreven zijn en elders werken. Een register maakt
+# daarom NOOIT zelf een punt op de kaart. Het mag een plek uit een plaatsenbron (OpenStreetMap, het plaatsendeel van
+# Overture, een officiële lijst van locaties) bevestigen of aanvullen (naam, adres) als die binnen de koppelregels
+# valt. BrightQuery (in Overture) haalt zijn gegevens uit dezelfde registers en volgt dezelfde regel.
 ONDERNEMINGSREGISTERS = {"be-vl-vkbo-dierenartsen", "fr-sirene-veterinaires"}
 # Lagen waar een plek die alleen in één open bron staat (zekerheid "onzeker") als open ring op de kaart mag.
 # In de andere lagen komt een plek uit Overture er alleen bij als twee onafhankelijke bronnen ze kennen.
@@ -100,9 +104,6 @@ OPEN_GEEN = re.compile(r"versand|shop|winkel|magasin|handel|verband|verein|museu
 # of heel dicht bij elkaar met een gelijkaardige naam.
 OPEN_DUBBEL_ADRES_M = 60
 OPEN_DUBBEL_NAAM_M = 25
-# Een plek die alleen in een ondernemingsregister staat (BrightQuery) en dezelfde naam heeft als een punt binnen
-# deze afstand, is vermoedelijk de maatschappelijke zetel of een oud adres van die praktijk (zoals bij de VKBO).
-OPEN_ZETEL_M = 25000
 # Een plek uit Overture binnen deze afstand van een punt van dezelfde laag (zonder duidelijk ander adres) is dat punt.
 OPEN_NABIJ_M = 50
 # Zo dicht bij elkaar is het altijd dezelfde plek, ook als adres of naam verschilt (hernoemde apotheek, OSM-adres
@@ -239,7 +240,11 @@ def families_van_feature(props):
     if b == "osm" or props.get("osm"):
         fam.add("osm")
     if b == "officieel":
-        fam.add("register" if props.get("bron") in ONDERNEMINGSREGISTERS else "overheid")
+        fam.add("overheid")
+    if b == "open-bron":
+        fam.add("open")
+    if props.get("register"):
+        fam.add("register")
     return fam
 
 
@@ -312,7 +317,10 @@ def verrijk_laag(land, laag, osm, records, items, verschillen, open_records=()):
             "lat": "" if plaats[0] is None else round(plaats[0], 5),
             "lon": "" if plaats[1] is None else round(plaats[1], 5), "link": osm_link(osm_id), "uitleg": uitleg})
 
-    telling = {"osm_ruw": len(osm), "officieel_ruw": len(records)}
+    # Ondernemingsregisters apart: ze bevestigen achteraf, ze maken geen punten.
+    registers = [r for r in records if r.get("bron") in ONDERNEMINGSREGISTERS]
+    records = [r for r in records if r.get("bron") not in ONDERNEMINGSREGISTERS]
+    telling = {"osm_ruw": len(osm), "officieel_ruw": len(records), "register_ruw": len(registers)}
     geplaatst = [r for r in records if r.get("lat") is not None]
     for r in records:
         if r.get("lat") is None:
@@ -354,18 +362,12 @@ def verrijk_laag(land, laag, osm, records, items, verschillen, open_records=()):
 
     # Open bronnen (Overture): kruiscontrole met wat er al staat, en aanvullen.
     telling.update({"open_ruw": len(open_records), "open_dubbel": 0, "open_bevestigt": 0, "open_gesloten": 0,
-                    "open_nieuw_bevestigd": 0, "open_nieuw_onzeker": 0, "open_te_zwak": 0, "praktijk_bevestigd": 0})
+                    "open_nieuw_bevestigd": 0, "open_nieuw_onzeker": 0, "open_te_zwak": 0, "open_alleen_register": 0})
     if open_records:
         open_lijst, telling["open_dubbel"] = open_dubbels(list(open_records), laag)
         # Koppelen op de naam uit de bron, ook als die niet op de kaart komt (naam van een persoon).
         vergelijk = [dict(r, naam=r.get("_ruwe_naam")) for r in open_lijst]
         gekoppeld_open = koppel(vergelijk, uit, laag)
-        telling["open_zetel"] = 0
-        per_naam = {}
-        for f in uit:
-            sleutel = " ".join(sorted(set(nm.naam_tokens(f["properties"].get("naam")))))
-            if sleutel:
-                per_naam.setdefault(sleutel, []).append(punt(f))
         # Tweede stap: een plek uit Overture die vlak bij een punt van dezelfde laag ligt en geen duidelijk ander
         # adres heeft, is dat punt (in OSM heet een apotheek vaak gewoon "Pharmacie", in Overture "Pharmacie du
         # Centre"). Ze bevestigt het punt en komt er niet naast.
@@ -406,29 +408,25 @@ def verrijk_laag(land, laag, osm, records, items, verschillen, open_records=()):
                 bevestigd_gekoppeld += rec.get("zekerheid") == "bevestigd"
                 if len(families_van_feature(p) | set(rec["families"])) >= 2:
                     p["zekerheid"] = "bevestigd"
-                # Een inschrijving in een register die ook een eigen pagina of vermelding heeft (Meta, Foursquare, ...)
-                # is een plek die je kunt bezoeken. BrightQuery telt niet: dat is hetzelfde register.
-                if p.get("praktijk") == "onzeker" and set(rec["families"]) - {"register"}:
-                    p["praktijk"] = "praktijk"
-                    telling["praktijk_bevestigd"] += 1
                 continue
             if rec.get("gesloten"):
                 continue
             z = rec.get("zekerheid")
             ruw = nm.basis(rec.get("_ruwe_naam"))
             vak = laag in OPEN_VAKWOORD and OPEN_VAKWOORD[laag].search(ruw) and not OPEN_GEEN.search(ruw)
-            # Uitzondering: een dierenarts uit een register (activiteitscode 75) met alleen een persoonsnaam.
+            # Een plek die Overture alleen uit een ondernemingsregister kent (BrightQuery), is een inschrijving en
+            # geen plek: ze komt niet op de kaart.
+            if not set(rec["families"]) - {"register"}:
+                telling["open_alleen_register"] += 1
+                continue
+            # Uitzondering: een dierenarts die ook in een register staat (activiteitscode 75) en wiens naam in de
+            # plaatsenbron alleen een persoonsnaam is; die naam komt niet op de kaart.
             persoon_in_register = laag == "dierenarts" and "register" in rec["families"] and not rec.get("naam")
             if z and not vak and not persoon_in_register:
                 z = None
             if laag in OPEN_ALLEEN_BEVESTIGEN or z is None or (z == "onzeker" and laag not in OPEN_EEN_BRON):
                 telling["open_te_zwak"] += 1
                 continue
-            if set(rec["families"]) == {"register"}:
-                sleutel = " ".join(sorted(set(nm.naam_tokens(rec.get("_ruwe_naam")))))
-                if any(afstand_m((rec["lon"], rec["lat"]), q) <= OPEN_ZETEL_M for q in per_naam.get(sleutel, ())):
-                    telling["open_zetel"] += 1
-                    continue
             kandidaten.append((rec, z))
         # Verzadiging: welk deel van de plekken die Overture zelf bevestigt (twee families), ontbreekt in de laag?
         # Is dat klein, dan is de laag zo goed als volledig en zijn plekken uit één bron vooral dubbels of gesloten
@@ -444,6 +442,31 @@ def verrijk_laag(land, laag, osm, records, items, verschillen, open_records=()):
             telling["open_nieuw_" + z] += 1
             meld("open_bron_nieuw", rec, uitleg=f"alleen in Overture ({rec.get('herkomst')}), zekerheid {z}")
             uit.append(open_feature(laag, rec))
+
+    # Ondernemingsregisters (VKBO, SIRENE): alleen bevestigen. Een inschrijving die met een plek op de kaart
+    # samenvalt (afstand en naam of adres, zoals bij elke koppeling), bevestigt die plek en vult een ontbrekende
+    # naam of adres aan. Een inschrijving zonder plek komt niet op de kaart, alleen in de verschillenlijst.
+    telling.update({"register_bevestigt": 0, "register_zonder_plek": 0})
+    reg_geplaatst = [r for r in registers if r.get("lat") is not None and not r.get("gesloten")]
+    gekoppeld_reg = koppel(reg_geplaatst, uit, laag)
+    for i, rec in enumerate(reg_geplaatst):
+        if i not in gekoppeld_reg:
+            telling["register_zonder_plek"] += 1
+            meld("register_zonder_plek", rec, uitleg="alleen een inschrijving in een ondernemingsregister, geen plek in "
+                 "OpenStreetMap of Overture; niet op de kaart (een inschrijving is geen praktijk)")
+            continue
+        j, d, score = gekoppeld_reg[i]
+        p = uit[j]["properties"]
+        telling["register_bevestigt"] += 1
+        if len(families_van_feature(p) | {"register"}) >= 2:
+            p["zekerheid"] = "bevestigd"
+        # Alleen een naam die een zaak aanduidt (praktijk, kliniek, ...): de naam van een vennootschap is vaak die
+        # van de dierenarts zelf ("Gastmans Pascale"), en een persoonsnaam komt niet op de kaart.
+        if not p.get("naam") and derden.toon_naam(rec.get("naam"), None):
+            p["naam"] = rec["naam"]
+        if not p.get("adres") and rec.get("adres"):
+            p["adres"] = rec["adres"]
+        p["register"] = rec["bron"]
 
     # Eigen aanvullingen en correcties, in volgorde van het bestand.
     telling.update({"eigen_toegevoegd": 0, "eigen_gecorrigeerd": 0, "eigen_gesloten": 0, "eigen_conflict": 0})
@@ -510,11 +533,6 @@ def officieel_feature(laag, rec, osm_props):
     props["adres"] = rec.get("adres") or osm_props.get("adres")
     if rec.get("telefoon"):
         props["telefoon"] = rec["telefoon"]
-    # Is dit zeker een praktijk (handelsnaam, vennootschap) of alleen een inschrijving (eenmanszaak zonder
-    # handelsnaam: mogelijk een thuisadres of een dierenarts zonder vaste praktijk)? Staat dezelfde plek
-    # ook in OpenStreetMap, dan heeft iemand er een praktijk gezien.
-    if rec.get("praktijk"):
-        props["praktijk"] = "praktijk" if osm_props.get("id") else rec["praktijk"]
     props["betrouwbaarheid"] = "officieel"
     props["bron"] = rec["bron"]
     if osm_props.get("id"):
@@ -654,7 +672,11 @@ def main():
         print(f"{laag}: {telling['osm_ruw']} uit OSM + {telling['officieel_ruw']} officieel + {len(items)} eigen "
               f"-> {telling['totaal']} punten (officieel {telling['officieel']}, nagekeken {telling['nagekeken']}, "
               f"osm {telling['osm']}, open bron {telling['open-bron']}; {telling['gekoppeld']} gekoppeld; "
-              f"bevestigd {telling['bevestigd']}, onzeker {telling['onzeker']}), {grootte / 1000:.0f} kB", flush=True)
+              f"bevestigd {telling['bevestigd']}, onzeker {telling['onzeker']}), {grootte / 1000:.0f} kB"
+              + (f"; register {telling['register_ruw']}: {telling['register_bevestigt']} bevestigen een plek, "
+                 f"{telling['register_zonder_plek']} zonder plek" if telling["register_ruw"] else "")
+              + (f"; {telling['open_alleen_register']} alleen uit BrightQuery weggelaten"
+                 if telling.get("open_alleen_register") else ""), flush=True)
         limiet = budget_lagen.get(laag, budget.get("standaard_laag"))
         if limiet and grootte > limiet:
             problemen.append(f"{laag}: {grootte} bytes > budget {limiet}")
@@ -682,6 +704,7 @@ def main():
             "osm": telling["osm"], "officieel": telling["officieel"], "nagekeken": telling["nagekeken"],
             "osm_ruw": telling["osm_ruw"], "open_bron": telling["open-bron"], "bevestigd": telling["bevestigd"],
             "bronnen": telling["bronnen"], "verrijkt": vandaag,
+            "register_bevestigt": telling["register_bevestigt"],
         }
     with open(metapad, "w", encoding="utf-8") as f:
         json.dump(meta, f, ensure_ascii=False, indent=2)

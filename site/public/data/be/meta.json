@@ -24,7 +24,8 @@
         "be-vl-zorg-poi",
         "eu-overture-places"
       ],
-      "verrijkt": "2026-11-18"
+      "verrijkt": "2026-11-20",
+      "register_bevestigt": 0
     },
     "medisch": {
       "naam": "Medische posten",
@@ -39,7 +40,8 @@
       "bronnen": [
         "eu-overture-places"
       ],
-      "verrijkt": "2026-11-18"
+      "verrijkt": "2026-11-20",
+      "register_bevestigt": 0
     },
     "politie": {
       "naam": "Politie",
@@ -55,7 +57,8 @@
         "be-bxl-stad-politiekantoren",
         "eu-overture-places"
       ],
-      "verrijkt": "2026-11-18"
+      "verrijkt": "2026-11-20",
+      "register_bevestigt": 0
     },
     "brandweer": {
       "naam": "Brandweer",
@@ -70,22 +73,24 @@
       "bronnen": [
         "eu-overture-places"
       ],
-      "verrijkt": "2026-11-18"
+      "verrijkt": "2026-11-20",
+      "register_bevestigt": 0
     },
     "apotheken": {
       "naam": "Apotheken",
-      "aantal": 4252,
-      "bytes": 1129999,
+      "aantal": 3970,
+      "bytes": 1025479,
       "osm": 3564,
       "officieel": 0,
       "nagekeken": 0,
       "osm_ruw": 3564,
-      "open_bron": 688,
+      "open_bron": 406,
       "bevestigd": 3214,
       "bronnen": [
         "eu-overture-places"
       ],
-      "verrijkt": "2026-11-18"
+      "verrijkt": "2026-11-20",
+      "register_bevestigt": 0
     },
     "aed": {
       "naam": "AED's",
@@ -102,7 +107,8 @@
         "be-verviers-aed",
         "be-villers-aed"
       ],
-      "verrijkt": "2026-11-18"
+      "verrijkt": "2026-11-20",
+      "register_bevestigt": 0
     },
     "drinkwater": {
       "naam": "Drinkwater",
@@ -122,7 +128,8 @@
         "be-nmbs-drinkwater",
         "be-tournai-fontaines"
       ],
-      "verrijkt": "2026-11-18"
+      "verrijkt": "2026-11-20",
+      "register_bevestigt": 0
     },
     "overheid": {
       "naam": "Gemeentehuizen",
@@ -137,23 +144,25 @@
       "bronnen": [
         "eu-overture-places"
       ],
-      "verrijkt": "2026-11-18"
+      "verrijkt": "2026-11-20",
+      "register_bevestigt": 0
     },
     "dierenarts": {
       "naam": "Dierenartsen",
-      "aantal": 3198,
-      "bytes": 999148,
-      "osm": 619,
-      "officieel": 1804,
+      "aantal": 1501,
+      "bytes": 454694,
+      "osm": 846,
+      "officieel": 0,
       "nagekeken": 0,
       "osm_ruw": 846,
-      "open_bron": 775,
-      "bevestigd": 1247,
+      "open_bron": 655,
+      "bevestigd": 1234,
       "bronnen": [
         "be-vl-vkbo-dierenartsen",
         "eu-overture-places"
       ],
-      "verrijkt": "2026-11-18"
+      "verrijkt": "2026-11-20",
+      "register_bevestigt": 474
     },
     "schuilplekken": {
       "naam": "Mogelijke schuilplekken",
@@ -171,7 +180,7 @@
       "licentie": "CC BY 4.0",
       "url": "https://opendata.bosa.be/",
       "datum": "2026-11-18",
-      "opgehaald": "2026-11-18"
+      "opgehaald": "2026-11-20"
     },
     "be-bru-vivaqua-drinkwater": {
       "naam": "Vivaqua: drinkwatertappunten beheerd door het gewest",
@@ -180,7 +189,7 @@
       "licentie": "CC BY 4.0",
       "url": "https://opendata.brussels.be/explore/dataset/bornes-d-eau-potable-gerees-par-la-region-drinkwatertappunten-beheerd-door-het-gewest-vivaqua/",
       "datum": "2026-06-19",
-      "opgehaald": "2026-11-18"
+      "opgehaald": "2026-11-20"
     },
     "be-bxl-stad-aed": {
       "naam": "Stad Brussel: defibrillatoren geplaatst door de stad",
@@ -189,7 +198,7 @@
       "licentie": "CC0 1.0",
       "url": "https://opendata.brussels.be/explore/dataset/defibrillateurs-installes-par-la-ville-de-bruxelles/",
       "datum": "2026-09-03",
-      "opgehaald": "2026-11-18"
+      "opgehaald": "2026-11-20"
     },
     "be-bxl-stad-drinkwater": {
       "naam": "Stad Brussel: drinkwaterfonteinen",
@@ -198,7 +207,7 @@
       "licentie": "CC0 1.0",
       "url": "https://opendata.brussels.be/explore/dataset/fontaines-d-eau-potable-gerees-par-la-ville-de-bruxelles/",
       "datum": "2026-11-18",
-      "opgehaald": "2026-11-18"
+      "opgehaald": "2026-11-20"
     },
     "be-bxl-stad-politiekantoren": {
       "naam": "Stad Brussel: politiekantoren",
@@ -207,7 +216,7 @@
       "licentie": "CC BY 4.0",
       "url": "https://opendata.brussels.be/explore/dataset/bruxelles_bureaux_de_police/",
       "datum": "2026-09-11",
-      "opgehaald": "2026-11-18"
+      "opgehaald": "2026-11-20"
     },
     "be-gent-drinkwaterplekken": {
       "naam": "Stad Gent: drinkwaterplekken",
@@ -216,7 +225,7 @@
       "licentie": "Modellicentie gratis hergebruik",
       "url": "https://data.stad.gent/explore/dataset/drinkwaterplekken-gent/",
       "datum": "2025-12-18",
-      "opgehaald": "2026-11-18"
+      "opgehaald": "2026-11-20"
     },
     "be-huy-eau-potable": {
       "naam": "Ville de Huy: points d'eau potable",
@@ -225,7 +234,7 @@
       "licentie": "CC BY (versie niet vermeld)",
       "url": "https://www.odwb.be/explore/dataset/points-eau-potable0/",
       "datum": "2026-07-22",
-      "opgehaald": "2026-11-18"
+      "opgehaald": "2026-11-20"
     },
     "be-nmbs-drinkwater": {
       "naam": "NMBS: gratis drinkwatertappunten in stations (Brussel)",
@@ -234,7 +243,7 @@
       "licentie": "CC BY 4.0",
       "url": "https://opendata.brussels.be/explore/dataset/bornes-eau-potable-gratuite-des-gares-sncb-gratis-drinkwatertappunten-van-nmbs-stations/",
       "datum": "2026-07-09",
-      "opgehaald": "2026-11-18"
+      "opgehaald": "2026-11-20"
     },
     "be-tournai-fontaines": {
       "naam": "Ville de Tournai: fontaines à eau potable",
@@ -243,7 +252,7 @@
       "licentie": "CC BY (versie niet vermeld)",
       "url": "https://www.odwb.be/explore/dataset/tournai-fontaines-a-eau-potable/",
       "datum": "2025-07-10",
-      "opgehaald": "2026-11-18"
+      "opgehaald": "2026-11-20"
     },
     "be-verviers-aed": {
       "naam": "Ville de Verviers: défibrillateurs",
@@ -252,7 +261,7 @@
       "licentie": "CC BY (versie niet vermeld)",
       "url": "https://www.odwb.be/explore/dataset/defibrillateurs-verviers/",
       "datum": "2023-02-02",
-      "opgehaald": "2026-11-18"
+      "opgehaald": "2026-11-20"
     },
     "be-villers-aed": {
       "naam": "Villers-la-Ville: défibrillateurs",
@@ -261,7 +270,7 @@
       "licentie": "CC BY (versie niet vermeld)",
       "url": "https://www.odwb.be/explore/dataset/defibrillateurs-vlv-schema-based/",
       "datum": "2026-10-29",
-      "opgehaald": "2026-11-18"
+      "opgehaald": "2026-11-20"
     },
     "be-vl-vkbo-dierenartsen": {
       "naam": "VKBO: ondernemingen en vestigingen met NACE 75.000 (veterinaire diensten)",
@@ -270,7 +279,7 @@
       "licentie": "Modellicentie gratis hergebruik",
       "url": "https://www.vlaanderen.be/datavindplaats/catalogus/vkbo",
       "datum": "2026-11-18",
-      "opgehaald": "2026-11-18"
+      "opgehaald": "2026-11-20"
     },
     "be-vl-zorg-poi": {
       "naam": "Departement Zorg: zorgvoorzieningen (POI-service)",
@@ -279,7 +288,7 @@
       "licentie": "Modellicentie gratis hergebruik v1.0, 'Bron: VAZG'",
       "url": "https://www.vlaanderen.be/datavindplaats/catalogus/zorgvoorzieningen-erkend-door-het-agentschap-opgroeien-via-poi-service",
       "datum": "2026-11-03",
-      "opgehaald": "2026-11-18"
+      "opgehaald": "2026-11-20"
     },
     "eu-overture-places": {
       "naam": "Overture Maps Places (Meta, Microsoft, Foursquare, BrightQuery, AllThePlaces en andere)",
@@ -289,7 +298,7 @@
       "url": "https://docs.overturemaps.org/guides/places/",
       "licenties": "licenties/",
       "datum": "2026-11-18",
-      "opgehaald": "2026-11-18",
+      "opgehaald": "2026-11-20",
       "release": "2026-11-18.0"
     }
   }

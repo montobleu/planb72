@@ -1,5 +1,61 @@
 # Metingen
 
+## Een inschrijving is geen praktijk: registers maken geen punten meer (20 november 2026)
+
+Nieuwe regel voor alle lagen en landen (zie [kaartdata.md](kaartdata.md#dierenartsen-en-artsen-een-inschrijving-is-geen-praktijk)): een ondernemingsregister (VKBO, SIRENE, BrightQuery in Overture) maakt nooit zelf een punt. Het bevestigt alleen een plek uit OpenStreetMap, het plaatsendeel van Overture of een officiële lijst van locaties, en vult daar een ontbrekende naam (alleen als die een zaak aanduidt) of een ontbrekend adres aan. `python3 pipeline/verrijken.py <land>` voor de vijf landen; "voor" is de gepubliceerde stand na PR 13 en 15.
+
+### Per land
+
+| Land | Alle lagen voor | Na | Dierenartsen voor | Na | Apotheken voor | Na | Wat wegviel |
+| --- | ---: | ---: | ---: | ---: | ---: | ---: | --- |
+| BE | 19.720 | 17.741 | 3.198 | 1.501 | 4.252 | 3.970 | punten uit de VKBO (1.804) en plekken die Overture alleen van BrightQuery kende |
+| NL | 16.173 | 15.748 | 1.581 | 1.244 | 1.961 | 1.873 | plekken alleen van BrightQuery |
+| LU | 1.163 | 1.163 | 65 | 65 | 109 | 109 | niets |
+| FR | 156.410 | 148.864 | 12.993 | 5.447 | 19.660 | 19.660 | punten uit SIRENE (11.113) |
+| DE | 144.974 | 143.291 | 8.811 | 7.128 | 17.336 | 17.336 | plekken alleen van BrightQuery |
+
+De andere lagen (ziekenhuizen, medische posten, politie, brandweer, AED, drinkwater, gemeentehuizen) veranderen niet: daar voegde geen register punten toe. Medische posten: Overture kende in België 9.205, in Frankrijk 8.913 en in Duitsland 6.039 plekken alleen via BrightQuery (vooral vennootschappen van één arts); die kwamen ook voordien niet op de kaart en blijven weg.
+
+### Wat de registers nog doen
+
+| Land | Inschrijvingen (dierenartsen) | Bevestigen een plek op de kaart | Zonder plek (`register_zonder_plek`) |
+| --- | ---: | ---: | ---: |
+| BE (VKBO, Vlaanderen) | 1.815 | 474 | 1.330 |
+| FR (SIRENE) | 11.113 | 3.267 | 7.846 |
+
+De inschrijvingen zonder plek staan in `pipeline/out/<land>-verschillen.csv`: een werklijst voor wie ter plaatse kan nagaan of er een praktijk is (en ze dan in OpenStreetMap of `data/eigen/` toevoegt).
+
+### Dierenartsen, België, per provincie
+
+"Voor" is de stand na PR 13 en 15 (3.198 punten). Tegenover de laag van alleen OpenStreetMap (846 punten, 214 gemeenten zonder dierenarts) blijft er winst: 1.501 punten en 97 gemeenten zonder dierenarts.
+
+| Provincie | Gemeenten | Zonder punt voor | Zonder punt na | Voor | Na | Officieel | OSM | Open bron | Bevestigd | Waarvan onzeker |
+| --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
+| Antwerpen | 67 | 0 | 3 | 617 | 204 | 0 | 113 | 91 | 183 | 3 |
+| Brussels Hoofdstedelijk Gewest | 19 | 2 | 2 | 90 | 69 | 0 | 47 | 22 | 55 | 3 |
+| Henegouwen | 69 | 6 | 10 | 254 | 177 | 0 | 129 | 48 | 120 | 10 |
+| Limburg | 38 | 2 | 7 | 316 | 114 | 0 | 47 | 67 | 108 | 2 |
+| Luik | 84 | 17 | 26 | 200 | 142 | 0 | 84 | 58 | 108 | 13 |
+| Luxemburg | 43 | 14 | 21 | 76 | 60 | 0 | 47 | 13 | 39 | 3 |
+| Namen | 38 | 6 | 8 | 108 | 78 | 0 | 43 | 35 | 59 | 7 |
+| Oost-Vlaanderen | 55 | 0 | 5 | 562 | 232 | 0 | 106 | 126 | 209 | 10 |
+| Vlaams-Brabant | 63 | 3 | 9 | 380 | 167 | 0 | 95 | 72 | 143 | 4 |
+| Waals-Brabant | 27 | 1 | 2 | 96 | 69 | 0 | 50 | 19 | 49 | 5 |
+| West-Vlaanderen | 62 | 0 | 4 | 499 | 189 | 0 | 85 | 104 | 161 | 7 |
+| **totaal** | **565** | **51** | **97** | **3198** | **1501** | **0** | **846** | **655** | **1234** | **67** |
+
+### Steekproef: Tremelo
+
+| Praktijk | Adres | Voor | Na | Bron van de plek |
+| --- | --- | --- | --- | --- |
+| Dierenartsenpraktijk Heideberg | Heidebergstraat 14 | op de kaart (VKBO, bevestigd) | blijft, bevestigd | Meta (Overture), bevestigd door de VKBO |
+| Dierenartsenpraktijk De Sphynx | Pastoriestraat 7 | op de kaart | blijft, bevestigd | Meta, bevestigd door BrightQuery en de VKBO |
+| Gastmans Pascale | Hilstraat 6 | op de kaart (VKBO) | blijft, bevestigd, zonder naam | Meta; de naam is die van de dierenarts zelf en komt niet op de kaart |
+| DAP Nagels | Grote Bollostraat 75 | op de kaart (VKBO) | **valt weg** | alleen in de VKBO en bij BrightQuery, dus alleen als inschrijving; staat als `register_zonder_plek` in de verschillenlijst |
+| Dierenarts Aurelie De Roover | Veldonkstraat 429 | open ring (VKBO) | valt weg | alleen een inschrijving |
+
+Twee van de drie praktijken die de gebruiker kent (Heideberg en Gastmans) staan op de kaart; Nagels niet, omdat geen enkele bron van plaatsen ze kent. Wie ze kent, voegt ze toe in OpenStreetMap of als nagekeken aanvulling in `data/eigen/be/dierenarts.json`.
+
 ## Open bronnen: Overture Maps Places (18 november 2026)
 
 Overture Maps Places, release 2026-11-18.0 (CDLA-Permissive-2.0, Foursquare-deel Apache-2.0), als extra bron voor alle negen lagen in de vijf landen. Aanpak, licentie en regels: [kaartdata.md](kaartdata.md#open-bronnen-van-plekken-overture-maps-en-foursquare). `python3 pipeline/verrijken.py <land>` voor BE, NL, LU, FR en DE; "voor" is de laag zoals ze op deze branch stond (OpenStreetMap, plus VKBO en SIRENE voor de dierenartsen en de officiële bronnen in België), bewaard in `pipeline/out/voor/<land>/`.

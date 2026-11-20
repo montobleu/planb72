@@ -83,7 +83,6 @@ const nl = {
     meldKnop: 'Klopt niet of gesloten?', kiesOpKaart: 'Tik op de kaart waar de plek is.', bewaard: 'Melding bewaard op dit toestel.',
     versturen: 'Versturen via GitHub', verwijderen: 'Verwijderen', wachtOpVerbinding: 'Geen verbinding: verstuur zodra je online bent.',
     wat: { ontbreekt: 'ontbreekt', kloptNiet: 'klopt niet', gesloten: 'gesloten' } as Record<string, string>,
-    praktijk: { praktijk: 'Zeker: ingeschreven vestiging met een handelsnaam of van een vennootschap. Niet zeker: openingsuren en of ze nu open is.', onzeker: 'Zeker: hier is een dierenarts ingeschreven. Niet zeker: of hier een praktijk is die je kunt bezoeken (mogelijk een thuisadres of een dierenarts zonder vaste praktijk). Bel eerst.' } as Record<string, string>,
     positieZoeken: 'Positie zoeken…', geenGps: 'Geen gps; vanaf het midden van de kaart.',
   },
   // Namen van de kaartpakketten; ontbreekt er een, dan geldt de naam uit kaarten.json.
@@ -175,7 +174,6 @@ const fr: Klant = {
     meldKnop: 'Incorrect ou fermé ?', kiesOpKaart: "Touchez la carte à l'endroit du lieu.", bewaard: 'Signalement enregistré sur cet appareil.',
     versturen: 'Envoyer via GitHub', verwijderen: 'Supprimer', wachtOpVerbinding: 'Pas de connexion : envoyez dès que vous êtes en ligne.',
     wat: { ontbreekt: 'manquant', kloptNiet: 'incorrect', gesloten: 'fermé' } as Record<string, string>,
-    praktijk: { praktijk: "Certain : établissement inscrit avec un nom commercial ou d'une société. Pas certain : les heures d'ouverture et s'il est ouvert maintenant.", onzeker: "Certain : un vétérinaire est inscrit à cette adresse. Pas certain : qu'il y ait un cabinet accessible (peut-être un domicile ou un vétérinaire sans cabinet fixe). Appelez d'abord." } as Record<string, string>,
     positieZoeken: 'Recherche de la position…', geenGps: 'Pas de GPS ; à partir du centre de la carte.',
   },
   kaartpakketten: {
@@ -276,7 +274,6 @@ const de: Klant = {
     meldKnop: 'Falsch oder geschlossen?', kiesOpKaart: 'Tippen Sie auf die Karte, wo der Ort ist.', bewaard: 'Meldung auf diesem Gerät gespeichert.',
     versturen: 'Über GitHub senden', verwijderen: 'Löschen', wachtOpVerbinding: 'Keine Verbindung: senden Sie, sobald Sie online sind.',
     wat: { ontbreekt: 'fehlt', kloptNiet: 'stimmt nicht', gesloten: 'geschlossen' } as Record<string, string>,
-    praktijk: { praktijk: 'Sicher: eingetragene Niederlassung mit Handelsnamen oder einer Gesellschaft. Nicht sicher: Öffnungszeiten und ob sie jetzt geöffnet ist.', onzeker: 'Sicher: an dieser Adresse ist ein Tierarzt eingetragen. Nicht sicher: ob es hier eine Praxis gibt, die man aufsuchen kann (vielleicht eine Wohnadresse oder ein Tierarzt ohne feste Praxis). Erst anrufen.' } as Record<string, string>,
     positieZoeken: 'Standort wird gesucht…', geenGps: 'Kein GPS; ab der Kartenmitte.',
   },
   kaartpakketten: {
@@ -377,7 +374,6 @@ const en: Klant = {
     meldKnop: 'Wrong or closed?', kiesOpKaart: 'Tap the map where the place is.', bewaard: 'Report saved on this device.',
     versturen: 'Send via GitHub', verwijderen: 'Delete', wachtOpVerbinding: 'No connection: send as soon as you are online.',
     wat: { ontbreekt: 'missing', kloptNiet: 'wrong', gesloten: 'closed' } as Record<string, string>,
-    praktijk: { praktijk: 'Certain: a registered establishment with a trade name or of a company. Not certain: opening hours and whether it is open now.', onzeker: 'Certain: a vet is registered at this address. Not certain: whether there is a practice you can visit (possibly a home address or a vet without a fixed practice). Call first.' } as Record<string, string>,
     positieZoeken: 'Finding position…', geenGps: 'No GPS; from the centre of the map.',
   },
   kaartpakketten: {

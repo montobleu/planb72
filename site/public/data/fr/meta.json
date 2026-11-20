@@ -16,7 +16,8 @@
       "bronnen": [
         "eu-overture-places"
       ],
-      "verrijkt": "2026-11-18"
+      "verrijkt": "2026-11-20",
+      "register_bevestigt": 0
     },
     "medisch": {
       "naam": "Medische posten",
@@ -31,7 +32,8 @@
       "bronnen": [
         "eu-overture-places"
       ],
-      "verrijkt": "2026-11-18"
+      "verrijkt": "2026-11-20",
+      "register_bevestigt": 0
     },
     "politie": {
       "naam": "Politie",
@@ -46,7 +48,8 @@
       "bronnen": [
         "eu-overture-places"
       ],
-      "verrijkt": "2026-11-18"
+      "verrijkt": "2026-11-20",
+      "register_bevestigt": 0
     },
     "brandweer": {
       "naam": "Brandweer",
@@ -61,7 +64,8 @@
       "bronnen": [
         "eu-overture-places"
       ],
-      "verrijkt": "2026-11-18"
+      "verrijkt": "2026-11-20",
+      "register_bevestigt": 0
     },
     "apotheken": {
       "naam": "Apotheken",
@@ -76,7 +80,8 @@
       "bronnen": [
         "eu-overture-places"
       ],
-      "verrijkt": "2026-11-18"
+      "verrijkt": "2026-11-20",
+      "register_bevestigt": 0
     },
     "aed": {
       "naam": "AED's",
@@ -89,7 +94,8 @@
       "open_bron": 0,
       "bevestigd": 0,
       "bronnen": [],
-      "verrijkt": "2026-11-18"
+      "verrijkt": "2026-11-20",
+      "register_bevestigt": 0
     },
     "drinkwater": {
       "naam": "Drinkwater",
@@ -102,7 +108,8 @@
       "open_bron": 0,
       "bevestigd": 0,
       "bronnen": [],
-      "verrijkt": "2026-11-18"
+      "verrijkt": "2026-11-20",
+      "register_bevestigt": 0
     },
     "overheid": {
       "naam": "Gemeentehuizen",
@@ -117,23 +124,25 @@
       "bronnen": [
         "eu-overture-places"
       ],
-      "verrijkt": "2026-11-18"
+      "verrijkt": "2026-11-20",
+      "register_bevestigt": 0
     },
     "dierenarts": {
       "naam": "Dierenartsen",
-      "aantal": 12993,
-      "bytes": 4269773,
-      "osm": 1616,
-      "officieel": 11113,
+      "aantal": 5447,
+      "bytes": 1756554,
+      "osm": 4114,
+      "officieel": 0,
       "nagekeken": 0,
       "osm_ruw": 4114,
-      "open_bron": 264,
-      "bevestigd": 4261,
+      "open_bron": 1333,
+      "bevestigd": 4573,
       "bronnen": [
         "eu-overture-places",
         "fr-sirene-veterinaires"
       ],
-      "verrijkt": "2026-11-18"
+      "verrijkt": "2026-11-20",
+      "register_bevestigt": 3267
     },
     "schuilplekken": {
       "naam": "Mogelijke schuilplekken",
@@ -159,7 +168,7 @@
       "url": "https://docs.overturemaps.org/guides/places/",
       "licenties": "licenties/",
       "datum": "2026-11-18",
-      "opgehaald": "2026-11-18",
+      "opgehaald": "2026-11-20",
       "release": "2026-11-18.0"
     },
     "fr-sirene-veterinaires": {
@@ -169,7 +178,7 @@
       "licentie": "Licence Ouverte 2.0 (Etalab)",
       "url": "https://recherche-entreprises.api.gouv.fr/docs/",
       "datum": "2026-11-17",
-      "opgehaald": "2026-11-18"
+      "opgehaald": "2026-11-20"
     }
   }
 }
