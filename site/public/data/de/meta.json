@@ -1,52 +1,140 @@
 {
   "land": "DE",
   "opgehaald": "2026-11-17",
-  "bron": "© OpenStreetMap-bijdragers, ODbL",
+  "bron": "© OpenStreetMap-bijdragers, ODbL; aangevuld met officiële bronnen en open bronnen (zie 'bronnen', licentieteksten in licenties/) en eigen, nagekeken gegevens",
   "lagen": {
     "ziekenhuizen": {
       "naam": "Ziekenhuizen",
       "aantal": 2334,
-      "bytes": 552336
+      "bytes": 592344,
+      "osm": 2334,
+      "officieel": 0,
+      "nagekeken": 0,
+      "osm_ruw": 2334,
+      "open_bron": 0,
+      "bevestigd": 1667,
+      "bronnen": [
+        "eu-overture-places"
+      ],
+      "verrijkt": "2026-11-18"
     },
     "medisch": {
       "naam": "Medische posten",
-      "aantal": 42904,
-      "bytes": 11803688
+      "aantal": 43293,
+      "bytes": 12087890,
+      "osm": 42904,
+      "officieel": 0,
+      "nagekeken": 0,
+      "osm_ruw": 42904,
+      "open_bron": 389,
+      "bevestigd": 6056,
+      "bronnen": [
+        "eu-overture-places"
+      ],
+      "verrijkt": "2026-11-18"
     },
     "politie": {
       "naam": "Politie",
-      "aantal": 3865,
-      "bytes": 874324
+      "aantal": 3876,
+      "bytes": 915716,
+      "osm": 3865,
+      "officieel": 0,
+      "nagekeken": 0,
+      "osm_ruw": 3865,
+      "open_bron": 11,
+      "bevestigd": 1554,
+      "bronnen": [
+        "eu-overture-places"
+      ],
+      "verrijkt": "2026-11-18"
     },
     "brandweer": {
       "naam": "Brandweer",
-      "aantal": 29183,
-      "bytes": 6398484
+      "aantal": 29206,
+      "bytes": 6640035,
+      "osm": 29183,
+      "officieel": 0,
+      "nagekeken": 0,
+      "osm_ruw": 29183,
+      "open_bron": 23,
+      "bevestigd": 9712,
+      "bronnen": [
+        "eu-overture-places"
+      ],
+      "verrijkt": "2026-11-18"
     },
     "apotheken": {
       "naam": "Apotheken",
-      "aantal": 17092,
-      "bytes": 4585142
+      "aantal": 17336,
+      "bytes": 4992599,
+      "osm": 17092,
+      "officieel": 0,
+      "nagekeken": 0,
+      "osm_ruw": 17092,
+      "open_bron": 244,
+      "bevestigd": 13287,
+      "bronnen": [
+        "eu-overture-places"
+      ],
+      "verrijkt": "2026-11-18"
     },
     "aed": {
       "naam": "AED's",
       "aantal": 21508,
-      "bytes": 4203308
+      "bytes": 4203308,
+      "osm": 21508,
+      "officieel": 0,
+      "nagekeken": 0,
+      "osm_ruw": 21508,
+      "open_bron": 0,
+      "bevestigd": 0,
+      "bronnen": [],
+      "verrijkt": "2026-11-18"
     },
     "drinkwater": {
       "naam": "Drinkwater",
-      "aantal": 9899,
-      "bytes": 1755029
+      "aantal": 9900,
+      "bytes": 1755949,
+      "osm": 9899,
+      "officieel": 0,
+      "nagekeken": 0,
+      "osm_ruw": 9899,
+      "open_bron": 1,
+      "bevestigd": 24,
+      "bronnen": [
+        "eu-overture-places"
+      ],
+      "verrijkt": "2026-11-18"
     },
     "overheid": {
       "naam": "Gemeentehuizen",
       "aantal": 8710,
-      "bytes": 2102495
+      "bytes": 2160527,
+      "osm": 8710,
+      "officieel": 0,
+      "nagekeken": 0,
+      "osm_ruw": 8710,
+      "open_bron": 0,
+      "bevestigd": 2418,
+      "bronnen": [
+        "eu-overture-places"
+      ],
+      "verrijkt": "2026-11-18"
     },
     "dierenarts": {
       "naam": "Dierenartsen",
-      "aantal": 5419,
-      "bytes": 1401354
+      "aantal": 8811,
+      "bytes": 2730940,
+      "osm": 5419,
+      "officieel": 0,
+      "nagekeken": 0,
+      "osm_ruw": 5419,
+      "open_bron": 3392,
+      "bevestigd": 5526,
+      "bronnen": [
+        "eu-overture-places"
+      ],
+      "verrijkt": "2026-11-18"
     },
     "schuilplekken": {
       "naam": "Mogelijke schuilplekken",
@@ -60,6 +148,20 @@
       "zones": 18,
       "bytes": 26650,
       "bron": "data/landen/de.json"
+    }
+  },
+  "osm_opgehaald": "2026-11-17",
+  "bronnen": {
+    "eu-overture-places": {
+      "naam": "Overture Maps Places (Meta, Microsoft, Foursquare, BrightQuery, AllThePlaces en andere)",
+      "kort": "Overture Maps",
+      "eigenaar": "Overture Maps Foundation",
+      "licentie": "CDLA-Permissive-2.0; Foursquare: Apache-2.0; AllThePlaces: CC0-1.0",
+      "url": "https://docs.overturemaps.org/guides/places/",
+      "licenties": "licenties/",
+      "datum": "2026-11-18",
+      "opgehaald": "2026-11-18",
+      "release": "2026-11-18.0"
     }
   }
 }

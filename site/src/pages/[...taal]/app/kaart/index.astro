@@ -295,6 +295,8 @@ const groepen = [...new Set(LAGEN.map((l) => l.groep))];
     }
   });
 
+  const onzeker = ['any', ['==', ['get', 'praktijk'], 'onzeker'], ['==', ['get', 'zekerheid'], 'onzeker']] as any;
+
   async function zetLaag(id: string, zichtbaar: boolean) {
     if (id === 'nucleair') return zetNucleair(zichtbaar);
     const def = LAGEN.find((l) => l.id === id)!;
@@ -306,12 +308,13 @@ const groepen = [...new Set(LAGEN.map((l) => l.groep))];
         kaart.addLayer({
           id, type: 'circle', source: id,
           paint: {
-            // Een plek die alleen als inschrijving bekend is (praktijk = onzeker) is een open ring.
+            // Een plek die alleen als inschrijving bekend is (praktijk = onzeker) of alleen uit één open bron komt
+            // (zekerheid = onzeker) is een open ring: bel eerst.
             'circle-color': def.kleur,
-            'circle-opacity': ['case', ['==', ['get', 'praktijk'], 'onzeker'], 0, 1],
+            'circle-opacity': ['case', onzeker, 0, 1],
             'circle-radius': ['interpolate', ['linear'], ['zoom'], 6, 2.5, 12, 6, 16, 9],
-            'circle-stroke-color': ['case', ['==', ['get', 'praktijk'], 'onzeker'], def.kleur, licht ? '#ffffff' : '#000000'],
-            'circle-stroke-width': ['case', ['==', ['get', 'praktijk'], 'onzeker'], 2, 1],
+            'circle-stroke-color': ['case', onzeker, def.kleur, licht ? '#ffffff' : '#000000'],
+            'circle-stroke-width': ['case', onzeker, 2, 1],
           },
         });
         kaart.on('click', id, (e) => toonPopup(e, laagNaam(def), id));
@@ -359,11 +362,17 @@ const groepen = [...new Set(LAGEN.map((l) => l.groep))];
   // Herkomst van een punt: label, bron en datum.
   function herkomst(p: Record<string, any>): string {
     const m = metas.get(p.land) ?? {};
-    const soort = ['officieel', 'nagekeken'].includes(p.betrouwbaarheid) ? p.betrouwbaarheid : 'osm';
+    const soort = ['officieel', 'nagekeken', 'open-bron'].includes(p.betrouwbaarheid) ? p.betrouwbaarheid : 'osm';
     const label = `<span class="label ${soort}">${esc(tk.herkomst[soort])}</span>`;
     if (soort === 'officieel') {
       const b = m.bronnen?.[p.bron];
       return `${label} <span class="klein">${esc(b?.kort ?? b?.naam ?? p.bron ?? '')}${b?.datum ? `, ${esc(tk.opgehaald(datumTekst(b.datum)))}` : ''}</span>`;
+    }
+    if (soort === 'open-bron') {
+      // Overture Maps, met de leveranciers van dit punt (Meta, BrightQuery, ...) en de datum van de release.
+      const b = m.bronnen?.[p.bron];
+      const wie = [b?.kort ?? 'Overture Maps', p.herkomst && `(${p.herkomst})`].filter(Boolean).join(' ');
+      return `${label} <span class="klein">${esc(wie)}${b?.datum ? `, ${esc(tk.opgehaald(datumTekst(b.datum)))}` : ''}</span>`;
     }
     if (soort === 'nagekeken') {
       const bewijs = p.bewijs && navigator.onLine && /^https?:\/\//.test(p.bewijs) ? ` · <a href="${esc(p.bewijs)}" rel="noopener">${esc(tk.bewijs)}</a>` : '';
@@ -393,6 +402,7 @@ const groepen = [...new Set(LAGEN.map((l) => l.groep))];
       p.toegang && `${esc(tk.toegang)} ${esc(p.toegang)}`,
       id === 'schuilplekken' && `<em class="klein">${esc(taal === 'nl' ? p.label || SCHUIL_LABEL.nl : SCHUIL_LABEL[taal])}</em>`,
       p.praktijk && tk.praktijk[p.praktijk] && `<span class="klein">${esc(tk.praktijk[p.praktijk])}</span>`,
+      !p.praktijk && p.zekerheid && tk.zekerheid[p.zekerheid] && `<span class="klein">${esc(tk.zekerheid[p.zekerheid])}</span>`,
       p.telefoon && `<a href="tel:${esc(String(p.telefoon).replace(/[^+\d]/g, ''))}">${esc(p.telefoon)}</a>`,
       `<span class="herkomst">${herkomst(p)}</span>`,
       osmId && navigator.onLine && `<a class="klein" href="https://www.openstreetmap.org/${osmType}/${osmId}">${esc(tk.bekijk)}</a>`,

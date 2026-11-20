@@ -1,7 +1,7 @@
 {
   "land": "NL",
   "opgehaald": "2026-11-17",
-  "bron": "© OpenStreetMap-bijdragers, ODbL",
+  "bron": "© OpenStreetMap-bijdragers, ODbL; aangevuld met officiële bronnen en open bronnen (zie 'bronnen', licentieteksten in licenties/) en eigen, nagekeken gegevens",
   "lagen": {
     "schuilplekken": {
       "naam": "Mogelijke schuilplekken",
@@ -19,47 +19,147 @@
     "ziekenhuizen": {
       "naam": "Ziekenhuizen",
       "aantal": 167,
-      "bytes": 38282
+      "bytes": 41450,
+      "osm": 167,
+      "officieel": 0,
+      "nagekeken": 0,
+      "osm_ruw": 167,
+      "open_bron": 0,
+      "bevestigd": 132,
+      "bronnen": [
+        "eu-overture-places"
+      ],
+      "verrijkt": "2026-11-18"
     },
     "medisch": {
       "naam": "Medische posten",
-      "aantal": 3198,
-      "bytes": 793486
+      "aantal": 3308,
+      "bytes": 874911,
+      "osm": 3198,
+      "officieel": 0,
+      "nagekeken": 0,
+      "osm_ruw": 3198,
+      "open_bron": 110,
+      "bevestigd": 1689,
+      "bronnen": [
+        "eu-overture-places"
+      ],
+      "verrijkt": "2026-11-18"
     },
     "politie": {
       "naam": "Politie",
-      "aantal": 459,
-      "bytes": 116659
+      "aantal": 460,
+      "bytes": 123388,
+      "osm": 459,
+      "officieel": 0,
+      "nagekeken": 0,
+      "osm_ruw": 459,
+      "open_bron": 1,
+      "bevestigd": 265,
+      "bronnen": [
+        "eu-overture-places"
+      ],
+      "verrijkt": "2026-11-18"
     },
     "brandweer": {
       "naam": "Brandweer",
       "aantal": 1012,
-      "bytes": 232306
+      "bytes": 244354,
+      "osm": 1012,
+      "officieel": 0,
+      "nagekeken": 0,
+      "osm_ruw": 1012,
+      "open_bron": 0,
+      "bevestigd": 502,
+      "bronnen": [
+        "eu-overture-places"
+      ],
+      "verrijkt": "2026-11-18"
     },
     "apotheken": {
       "naam": "Apotheken",
-      "aantal": 1690,
-      "bytes": 424352
+      "aantal": 1961,
+      "bytes": 552675,
+      "osm": 1690,
+      "officieel": 0,
+      "nagekeken": 0,
+      "osm_ruw": 1690,
+      "open_bron": 271,
+      "bevestigd": 1247,
+      "bronnen": [
+        "eu-overture-places"
+      ],
+      "verrijkt": "2026-11-18"
     },
     "aed": {
       "naam": "AED's",
       "aantal": 4341,
-      "bytes": 792028
+      "bytes": 792028,
+      "osm": 4341,
+      "officieel": 0,
+      "nagekeken": 0,
+      "osm_ruw": 4341,
+      "open_bron": 0,
+      "bevestigd": 0,
+      "bronnen": [],
+      "verrijkt": "2026-11-18"
     },
     "drinkwater": {
       "naam": "Drinkwater",
       "aantal": 2881,
-      "bytes": 500720
+      "bytes": 500720,
+      "osm": 2881,
+      "officieel": 0,
+      "nagekeken": 0,
+      "osm_ruw": 2881,
+      "open_bron": 0,
+      "bevestigd": 0,
+      "bronnen": [],
+      "verrijkt": "2026-11-18"
     },
     "overheid": {
       "naam": "Gemeentehuizen",
       "aantal": 462,
-      "bytes": 119418
+      "bytes": 126066,
+      "osm": 462,
+      "officieel": 0,
+      "nagekeken": 0,
+      "osm_ruw": 462,
+      "open_bron": 0,
+      "bevestigd": 277,
+      "bronnen": [
+        "eu-overture-places"
+      ],
+      "verrijkt": "2026-11-18"
     },
     "dierenarts": {
       "naam": "Dierenartsen",
-      "aantal": 731,
-      "bytes": 178678
+      "aantal": 1581,
+      "bytes": 501782,
+      "osm": 731,
+      "officieel": 0,
+      "nagekeken": 0,
+      "osm_ruw": 731,
+      "open_bron": 850,
+      "bevestigd": 989,
+      "bronnen": [
+        "eu-overture-places"
+      ],
+      "verrijkt": "2026-11-18"
+    }
+  },
+  "osm_opgehaald": "2026-11-17",
+  "bronnen": {
+    "eu-overture-places": {
+      "naam": "Overture Maps Places (Meta, Microsoft, Foursquare, BrightQuery, AllThePlaces en andere)",
+      "kort": "Overture Maps",
+      "eigenaar": "Overture Maps Foundation",
+      "licentie": "CDLA-Permissive-2.0; Foursquare: Apache-2.0; AllThePlaces: CC0-1.0",
+      "url": "https://docs.overturemaps.org/guides/places/",
+      "licenties": "licenties/",
+      "datum": "2026-11-18",
+      "opgehaald": "2026-11-18",
+      "release": "2026-11-18.0"
     }
   }
 }

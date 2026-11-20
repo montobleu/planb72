@@ -1,6 +1,7 @@
 # Wekelijkse kaartlagen: haalt de lagen uit OpenStreetMap, de mogelijke
 # schuilplekken en de nucleaire zones, en opent per land een pull request met de nieuwe data.
-# verrijken.py voegt daarna de officiële bronnen en de eigen aanvullingen (data/eigen/) toe.
+# verrijken.py voegt daarna de officiële bronnen, Overture Maps Places (pipeline/derden.py, vraagt duckdb)
+# en de eigen aanvullingen (data/eigen/) toe.
 # België komt uit Overpass; Nederland, Luxemburg, Frankrijk en Duitsland uit het
 # Geofabrik-extract (pipeline/pbf.py, vraagt osmium-tool).
 #
@@ -53,10 +54,17 @@ jobs:
         if: env.LAND != 'BE'
         run: sudo apt-get update && sudo apt-get install -y osmium-tool
 
+      # pipeline/derden.py snijdt Overture Maps Places (GeoParquet) uit met de duckdb-CLI.
+      - name: duckdb voor Overture Maps Places
+        run: |
+          curl -sSL -o /tmp/duckdb.tar.gz https://github.com/duckdb/duckdb/releases/download/v2.0.0/duckdb-cli-linux-amd64.tar.gz
+          sudo tar -xzf /tmp/duckdb.tar.gz -C /usr/local/bin duckdb
+          duckdb --version
+
       - name: Kaartlagen uit OpenStreetMap
         run: python3 pipeline/lagen.py "$LAND" $FORCEER
 
-      - name: Verrijken met officiële bronnen en eigen aanvullingen
+      - name: Verrijken met officiële bronnen, open bronnen (Overture) en eigen aanvullingen
         run: python3 pipeline/verrijken.py "$LAND"
 
       - name: Verschillen bewaren
@@ -80,9 +88,9 @@ jobs:
             echo "tekst<<EINDE"
             echo "Wekelijkse kaartlagen voor $LAND, opgehaald op $(date -u +%Y-%m-%d)."
             echo
-            echo "| Laag | Aantal | Officieel | Nagekeken | OSM | Bytes |"
-            echo "| --- | ---: | ---: | ---: | ---: | ---: |"
-            jq -r '.lagen | to_entries[] | "| \(.key) | \(.value.aantal) | \(.value.officieel // "") | \(.value.nagekeken // "") | \(.value.osm // "") | \(.value.bytes) |"' \
+            echo "| Laag | Aantal | Officieel | Nagekeken | OSM | Open bron | Bevestigd | Bytes |"
+            echo "| --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: |"
+            jq -r '.lagen | to_entries[] | "| \(.key) | \(.value.aantal) | \(.value.officieel // "") | \(.value.nagekeken // "") | \(.value.osm // "") | \(.value.open_bron // "") | \(.value.bevestigd // "") | \(.value.bytes) |"' \
               "site/public/data/$land/meta.json"
             echo
             echo "Bron: © OpenStreetMap-bijdragers, ODbL, aangevuld met de officiële bronnen in meta.json. Kwaliteitscontrole (daling ≤ 5%) en budget zijn geslaagd."

@@ -3,7 +3,7 @@
 Scripts die de data voor PlanB72 ophalen en klaarzetten. Alleen Python 3.9+ met de
 standaardbibliotheek; geen pakketten te installeren. De basiskaart vraagt daarnaast
 de opdracht `pmtiles` (`brew install pmtiles`), de routepakketten `osmium`
-(`brew install osmium-tool`).
+(`brew install osmium-tool`), de open bronnen van plekken `duckdb` (`brew install duckdb`).
 
 Alles draait vanuit de root van de repository. Tussenbestanden komen in
 `pipeline/out/` (staat in `.gitignore`); wat de website gebruikt komt in
@@ -88,6 +88,7 @@ python3 pipeline/verrijken.py BE                       # na lagen.py
 python3 pipeline/verrijken.py BE --lagen ziekenhuizen   # één laag
 python3 pipeline/verrijken.py BE --zonder-officieel     # alleen OSM en data/eigen/
 python3 pipeline/verrijken.py BE --vernieuw             # officiële bestanden opnieuw downloaden
+python3 pipeline/verrijken.py BE --zonder-open-bron     # zonder Overture Maps Places
 ```
 
 Voegt per laag de ruwe OSM-laag (`pipeline/out/osm/<land>/`), de officiële bronnen
@@ -97,10 +98,20 @@ Voegt per laag de ruwe OSM-laag (`pipeline/out/osm/<land>/`), de officiële bron
 officieel gaat voor. Adressen zonder betrouwbare coördinaten worden offline geplaatst met BeST
 van BOSA (`pipeline/adressen.py`, ongeveer 230 MB, eenmaal per week gedownload).
 
+Daarna Overture Maps Places (`pipeline/derden.py`): de laatste maandelijkse release, uitgesneden
+met `duckdb` naar `pipeline/out/derden/overture-<release>.ndjson.gz` (ongeveer 15 MB, 2 minuten,
+blijft tot een nieuwe release). Overture bevestigt bestaande punten (`zekerheid: "bevestigd"`) en
+vult plekken aan uit twee onafhankelijke bronnen (`betrouwbaarheid: "open-bron"`); apotheken en
+dierenartsen uit één bron komen er als open ring bij (`zekerheid: "onzeker"`). Regels: `docs/kaartdata.md`.
+
 Uitvoer: de lagen en `meta.json` in `site/public/data/<land>/` (aantallen per herkomst, bronnen),
 `pipeline/out/<land>-verschillen.csv` (alle verschillen om na te kijken) en
 `pipeline/out/<land>-verrijking.json`. Een volledige run voor België duurt ongeveer drie minuten.
 Foutcodes: `3` = budget, `4` = ruwe OSM-laag ontbreekt. Uitleg en bronnen: `docs/kaartdata.md`.
+
+Dekking meten: `python3 pipeline/dekking.py BE dierenarts --voor pipeline/out/voor/be` (België, per
+gemeente) en `python3 pipeline/dekking_regio.py NL` (elk land, per provincie, deelstaat of regio), met
+in `pipeline/out/voor/<land>/` een kopie van de lagen van vóór de wijziging.
 
 ## Routepakketten
 

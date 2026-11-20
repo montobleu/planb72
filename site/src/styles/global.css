@@ -215,7 +215,7 @@ main > p, main > ul, main > ol, main > dl, main section > p, .lead { max-width: 
 }
 .label.officieel { color: var(--ok); border-color: var(--ok); background: var(--ok-bg); }
 .label.osm { color: var(--link); border-color: var(--link); }
-/* Herkomst van een kaartpunt: officieel (groen), nagekeken door PlanB72 (paars), OpenStreetMap (blauw). */
+/* Herkomst van een kaartpunt: officieel (groen), nagekeken door PlanB72 (paars), OpenStreetMap (blauw), open bron (grijs, standaard). */
 .label.nagekeken { color: var(--r-hulp); border-color: var(--r-hulp); }
 
 .bron { font-size: 0.85rem; color: var(--tekst-2); border-top: 1px solid var(--rand); margin-top: 2rem; padding-top: 0.9rem; }

@@ -202,7 +202,7 @@ const nl = {
     privacyTitel: 'Privacy',
     privacy: 'Geen account en geen cookies. Voor anonieme bezoekersstatistieken gebruikt PlanB72 Nvivio: cookieloos, in de EU gehost, zonder opslag van IP-adressen; browsers met Global Privacy Control worden niet geteld. Je positie, noodplan en notities blijven op dit toestel.',
     licentiesTitel: 'Licenties',
-    licenties: (href: string) => `Kaartdata © OpenStreetMap-bijdragers, ODbL. Basiskaart: Protomaps. Eigen teksten: CC BY-NC-SA 4.0. Code: AGPL-3.0. Overgenomen inhoud behoudt de licentie van de bron. Zie het <a href="${href}">bronnenregister</a>.`,
+    licenties: (href: string) => `Kaartdata © OpenStreetMap-bijdragers, ODbL, aangevuld met Overture Maps Places (CDLA-Permissive-2.0, Apache-2.0) en officiële bronnen. Basiskaart: Protomaps. Eigen teksten: CC BY-NC-SA 4.0. Code: AGPL-3.0. Overgenomen inhoud behoudt de licentie van de bron. Zie het <a href="${href}">bronnenregister</a>.`,
     versie: (v: string, d: string) => `Versie ${v}, gebouwd op ${d}.`,
   },
   offline: {
@@ -615,7 +615,7 @@ const fr: Teksten = {
     privacyTitel: 'Vie privée',
     privacy: 'Pas de compte et pas de cookies. Pour des statistiques de visite anonymes, PlanB72 utilise Nvivio : sans cookies, hébergé dans l’UE, sans stockage des adresses IP ; les navigateurs avec Global Privacy Control ne sont pas comptés. Votre position, votre plan d’urgence et vos notes restent sur cet appareil.',
     licentiesTitel: 'Licences',
-    licenties: (href: string) => `Données cartographiques © contributeurs OpenStreetMap, ODbL. Fond de carte : Protomaps. Textes propres : CC BY-NC-SA 4.0. Code : AGPL-3.0. Le contenu repris conserve la licence de sa source. Voir le <a href="${href}">registre des sources</a>.`,
+    licenties: (href: string) => `Données cartographiques © contributeurs OpenStreetMap, ODbL, complétées par Overture Maps Places (CDLA-Permissive-2.0, Apache-2.0) et des sources officielles. Fond de carte : Protomaps. Textes propres : CC BY-NC-SA 4.0. Code : AGPL-3.0. Le contenu repris conserve la licence de sa source. Voir le <a href="${href}">registre des sources</a>.`,
     versie: (v: string, d: string) => `Version ${v}, compilée le ${d}.`,
   },
   offline: {
@@ -1029,7 +1029,7 @@ const de: Teksten = {
     privacyTitel: 'Datenschutz',
     privacy: 'Kein Konto und keine Cookies. Für anonyme Besucherstatistiken nutzt PlanB72 Nvivio: ohne Cookies, in der EU gehostet, ohne Speicherung von IP-Adressen; Browser mit Global Privacy Control werden nicht gezählt. Ihr Standort, Ihr Notfallplan und Ihre Notizen bleiben auf diesem Gerät.',
     licentiesTitel: 'Lizenzen',
-    licenties: (href: string) => `Kartendaten © OpenStreetMap-Mitwirkende, ODbL. Grundkarte: Protomaps. Eigene Texte: CC BY-NC-SA 4.0. Code: AGPL-3.0. Übernommene Inhalte behalten die Lizenz ihrer Quelle. Siehe das <a href="${href}">Quellenverzeichnis</a>.`,
+    licenties: (href: string) => `Kartendaten © OpenStreetMap-Mitwirkende, ODbL, ergänzt um Overture Maps Places (CDLA-Permissive-2.0, Apache-2.0) und amtliche Quellen. Grundkarte: Protomaps. Eigene Texte: CC BY-NC-SA 4.0. Code: AGPL-3.0. Übernommene Inhalte behalten die Lizenz ihrer Quelle. Siehe das <a href="${href}">Quellenverzeichnis</a>.`,
     versie: (v: string, d: string) => `Version ${v}, erstellt am ${d}.`,
   },
   offline: {
@@ -1440,7 +1440,7 @@ const en: Teksten = {
     privacyTitel: 'Privacy',
     privacy: 'No account and no cookies. For anonymous visitor statistics PlanB72 uses Nvivio: cookieless, hosted in the EU, no storage of IP addresses; browsers with Global Privacy Control are not counted. Your position, emergency plan and notes stay on this device.',
     licentiesTitel: 'Licences',
-    licenties: (href: string) => `Map data © OpenStreetMap contributors, ODbL. Base map: Protomaps. Own texts: CC BY-NC-SA 4.0. Code: AGPL-3.0. Reproduced content keeps the licence of its source. See the <a href="${href}">source register</a>.`,
+    licenties: (href: string) => `Map data © OpenStreetMap contributors, ODbL, supplemented with Overture Maps Places (CDLA-Permissive-2.0, Apache-2.0) and official sources. Base map: Protomaps. Own texts: CC BY-NC-SA 4.0. Code: AGPL-3.0. Reproduced content keeps the licence of its source. See the <a href="${href}">source register</a>.`,
     versie: (v: string, d: string) => `Version ${v}, built on ${d}.`,
   },
   offline: {

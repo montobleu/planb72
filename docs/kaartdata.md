@@ -1,12 +1,15 @@
 # Kaartlagen: officiële bronnen, eigen aanvullingen en meldingen
 
-De kaartlagen (ziekenhuizen, medische posten, apotheken, AED, dierenartsen, politie, brandweer, gemeentehuizen, drinkwater) kwamen tot november 2026 alleen uit OpenStreetMap. OpenStreetMap is goed, maar niet volledig: een dierenartsenpraktijk die al 25 jaar bestaat, kan er gewoon ontbreken. Als PlanB72 die gegevens toont in een noodsituatie, moeten ze zo correct mogelijk zijn. Daarom voegt de pijplijn nu drie soorten gegevens samen.
+De kaartlagen (ziekenhuizen, medische posten, apotheken, AED, dierenartsen, politie, brandweer, gemeentehuizen, drinkwater) kwamen tot november 2026 alleen uit OpenStreetMap. OpenStreetMap is goed, maar niet volledig: een dierenartsenpraktijk die al 25 jaar bestaat, kan er gewoon ontbreken. Als PlanB72 die gegevens toont in een noodsituatie, moeten ze zo correct mogelijk zijn. Daarom voegt de pijplijn nu vier soorten gegevens samen.
 
 | Herkomst (`betrouwbaarheid`) | Betekenis | Label op de kaart |
 | --- | --- | --- |
 | `officieel` | Uit een officieel register of een open dataset van een overheid, met een licentie die hergebruik toelaat | **Officieel**, met de bron en de datum van de bron |
 | `nagekeken` | Eigen aanvulling of correctie, door twee mensen nagekeken met een bron of bewijs | **Nagekeken**, met de datum van het nazicht en een link naar het bewijs |
 | `osm` | Uit OpenStreetMap, niet apart nagekeken | **OpenStreetMap**, met de datum waarop de data opgehaald is |
+| `open-bron` | Alleen uit een open bron van plekken (Overture Maps Places), niet uit OpenStreetMap of een register | **Open bron**, met de leveranciers (bv. Meta, BrightQuery) en de datum van de release |
+
+Los van de herkomst zegt het veld `zekerheid` hoeveel onafhankelijke bronnen een plek kennen: `bevestigd` (twee of meer) of `onzeker` (één open bron; open ring op de kaart, "Bel eerst"). Zie [Kruiscontrole](#kruiscontrole-zekerheid-uit-meerdere-bronnen).
 
 Bij een conflict gaat de officiële bron voor. Elk verschil komt in een lijst die iemand kan nakijken en, waar dat kan, in OpenStreetMap kan verbeteren. Gesloten plekken verdwijnen van de kaart.
 
@@ -22,8 +25,9 @@ python3 pipeline/verrijken.py BE    # officiële bronnen en data/eigen/ erbij
 3. **Adressen naar coördinaten**: bronnen zonder betrouwbare coördinaten worden geplaatst met het officiële adressenbestand BeST van BOSA (CC BY 4.0, 7,2 miljoen adressen), volledig offline (`pipeline/adressen.py`). Voor AED's telt alleen een gevonden huisnummer; het midden van een straat is te onnauwkeurig.
 4. **Dubbels herkennen** (`pipeline/verrijken.py`, `pipeline/naam.py`): een officieel punt en een OSM-punt zijn dezelfde plek als ze dicht bij elkaar liggen en de naam of het adres overeenkomt. Namen worden vergeleken zonder accenten, leestekens en algemene woorden ("apotheek", "campus", "AZ"). De zoekstraal hangt af van de laag (400 m voor ziekenhuizen, 300 m voor gemeentehuizen, 150 m standaard; punten zonder naam alleen binnen 25 tot 60 m).
 5. **Samenvoegen**: een gekoppeld punt krijgt de naam, het adres en het punt van de officiële bron, en behoudt openingsuren, toegang en dergelijke uit OpenStreetMap (veld `osm` = de OSM-id). Officiële punten zonder koppeling komen erbij; OSM-punten zonder koppeling blijven staan.
-6. **Eigen aanvullingen** uit `data/eigen/<land>/<laag>.json` komen als laatste (zie hieronder).
-7. **Verschillen** komen in `pipeline/out/<land>-verschillen.csv`, de tellingen in `pipeline/out/<land>-verrijking.json` en in `meta.json` (per laag: `osm`, `officieel`, `nagekeken`, `osm_ruw`, `bronnen`). De wekelijkse workflow `kaartlagen.yml` draait beide stappen en bewaart de verschillenlijst als artefact.
+6. **Open bronnen** (`pipeline/derden.py`): Overture Maps Places bevestigt bestaande punten en vult plekken aan die in twee onafhankelijke bronnen staan (zie hieronder).
+7. **Eigen aanvullingen** uit `data/eigen/<land>/<laag>.json` komen als laatste (zie hieronder).
+8. **Verschillen** komen in `pipeline/out/<land>-verschillen.csv`, de tellingen in `pipeline/out/<land>-verrijking.json` en in `meta.json` (per laag: `osm`, `officieel`, `nagekeken`, `osm_ruw`, `bronnen`). De wekelijkse workflow `kaartlagen.yml` draait beide stappen en bewaart de verschillenlijst als artefact.
 
 ### De verschillenlijst
 
@@ -34,6 +38,8 @@ python3 pipeline/verrijken.py BE    # officiële bronnen en data/eigen/ erbij
 | `naam`, `adres`, `afstand` | Gekoppeld, maar naam, adres of punt verschilt (afstand > 75 m) | Nakijken welke juist is; OSM of de bron verbeteren |
 | `gesloten_officieel` | Volgens de officiële bron gesloten, staat nog in OSM | In OSM aanpassen |
 | `niet_geplaatst` | Adres van de bron niet (precies genoeg) gevonden in BeST | Adres nakijken; staat niet op de kaart |
+| `open_bron_nieuw` | Plek alleen uit Overture toegevoegd (kolom `uitleg`: leveranciers en zekerheid) | Steekproef; bij twijfel melden of in `data/eigen/` als gesloten zetten |
+| `gesloten_open_bron` | Volgens Overture definitief gesloten (meestal uit een ondernemingsregister), staat nog op de kaart | Nakijken; het punt blijft staan tot een tweede bron het bevestigt |
 | `eigen_*` | Wat er met een eigen aanvulling gebeurde | Bij `eigen_conflict_officieel`: aan de bron melden |
 
 ## Bronnen per laag (België)
@@ -71,6 +77,79 @@ Eenmanszaken (natuurlijke personen) staan niet in de VKBO. In de Franse bron SIR
 
 Frankrijk: INSEE SIRENE via de open API Recherche d'entreprises (Licence Ouverte 2.0), per departement, alleen actieve vestigingen met NAF 75.00Z. Nederland, Luxemburg en Duitsland hebben geen open register met de activiteitscode en het adres per vestiging (de open KvK-dataset heeft geen namen of volledige postcodes; de lijst van het Luxemburgse Collège vétérinaire heeft geen licentie); daar blijft OpenStreetMap de bron.
 
+## Open bronnen van plekken: Overture Maps en Foursquare
+
+Officiële registers zijn per land verschillend en vaak niet open (KBO, Orde der Dierenartsen, FAGG). Om de dekking niet land per land met de hand te verbeteren, gebruikt de pijplijn ook een open bron van plekken die heel Europa dekt. Onderzocht op 18 november 2026; elke bewering hieronder komt van de genoemde pagina.
+
+### Overture Maps Places (gebruikt)
+
+- **Wat**: het thema `places` van de Overture Maps Foundation (een project van de Linux Foundation, opgericht door AWS, Meta, Microsoft en TomTom). Maandelijkse release; 2026-11-18.0 telt ongeveer 88 miljoen plekken wereldwijd ([Places Guide](https://docs.overturemaps.org/guides/places/)).
+- **Herkomst**: Meta (ongeveer 61 miljoen, pagina's van zaken), BrightQuery (ongeveer 17 miljoen; volgens de aankondiging van de Linux Foundation "sourced from more than 100,000 federal, state, and local government agencies through official public filings", dus uit overheids- en ondernemingsregisters), Microsoft (5,9 miljoen), Foursquare (3,6 miljoen), AllThePlaces (2 miljoen, CC0, gegevens van de websites van ketens) en kleinere vermeldingsdiensten waarmee een zaak zelf haar gegevens verspreidt (PinMeTo, Uberall, Krick, DAC, Birdeye, RenderSEO, OpenTravel). Het thema bevat **geen OpenStreetMap-data**.
+- **Hoe een plek ontstaat**: Overture koppelt de records van de leveranciers (een model op naam, adres, website, telefoon, categorie en afstand) en houdt per plek het record van één leverancier; de lijst `sources` noemt elke leverancier in de groep met de datum (`update_time`).
+- **Velden** ([schema](https://docs.overturemaps.org/schema/reference/places/place/)): `names`, `taxonomy` (hiërarchische categorie, ongeveer 2.300 soorten; sinds september 2026 vervangt die `categories`), `basic_category`, `confidence` (0 tot 1, de kans dat de plek bestaat; 0 = zeker gesloten), `operating_status` (`open`, `temporarily_closed`, `permanently_closed`), `addresses`, `phones`, `websites`, `brand`, `sources`.
+- **Actualiteit**: in de uitsnede voor de vijf landen zijn de records van Meta en BrightQuery van september tot november 2026; die van Microsoft gaan terug tot 2013 en die van Foursquare tot 2021. Overture schrijft zelf dat het thema "duplicates, a high junk rate, and low property completeness" heeft en dat confidence het middel is om te filteren.
+- **Licentie**: "The theme is published under the CDLA Permissive 2.0 and Apache 2.0 licenses" ([Attribution and Licensing](https://docs.overturemaps.org/attribution/)): Meta, Microsoft, BrightQuery en de vermeldingsdiensten CDLA-Permissive-2.0, Foursquare Apache-2.0 met een NOTICE-bestand, AllThePlaces CC0-1.0.
+  - CDLA-Permissive-2.0 ([tekst](https://cdla.dev/permissive-2-0/)) laat gebruik, wijziging en verspreiding toe, met één voorwaarde: de tekst van de licentie gaat mee met de gedeelde data (art. 2.1). Geen share-alike, dus opnemen in een ODbL-databank mag. De OSM Foundation vond de CDLA Permissive "for the most part compatible with ODbL" ([analyse](https://osmfoundation.org/wiki/CDLA_permissive_compatibility), over versie 1.0, die nog strengere vermeldingsregels had). Overture zelf: "Joining CDLA Permissive 2.0 data to OpenStreetMap is permitted, but the resulting data may need to carry the Open Database License (ODbL)". Dat is bij PlanB72 al zo.
+  - Apache-2.0 (Foursquare): een kopie van de licentie, een vermelding van wijzigingen en de volledige [NOTICE.txt](https://opensource.foursquare.com/places-notice-txt/) meegeven.
+  - **Zo doet PlanB72 het**: `site/public/data/licenties/` bevat `CDLA-Permissive-2.0.txt`, `Apache-2.0.txt`, `Foursquare-NOTICE.txt` (met onze wijzigingen) en `LEESMIJ.txt`; die map hoort bij de kern van de app, zodat ze altijd mee op het toestel staat. `meta.json` per land noemt de bron `eu-overture-places` met licentie en release, elk punt met `betrouwbaarheid: "open-bron"` noemt zijn leveranciers (`herkomst`), en de licentieregel in de app (Over) vermeldt Overture Maps Places.
+- **Wat niet mag of niet gebeurt**: PlanB72 neemt Overture-data niet over in OpenStreetMap (dat is een import, met eigen regels; zie onderaan). De plekken van AllThePlaces komen van websites van ketens; PlanB72 scrapet zelf niets.
+- **Aandachtspunt voor het kernteam**: BrightQuery haalt zijn Belgische gegevens kennelijk uit de KBO (schrijfwijze "Nagels / Guy", stopzettingen als `permanently_closed`). Of BrightQuery die gegevens onder CDLA mocht verspreiden, is de verantwoordelijkheid van BrightQuery en Overture; de licentie die PlanB72 ontvangt, laat hergebruik toe. Wie dat risico niet wil, zet `BrightQuery` in `derden.FAMILIE` uit; dan valt ongeveer de helft van de nieuwe dierenartsen in België weg.
+
+### Foursquare Open Source Places (niet rechtstreeks gebruikt)
+
+- **Wat**: meer dan 100 miljoen plekken, maandelijks, onder Apache-2.0 ([aankondiging, november 2024](https://location.foursquare.com/resources/blog/products/foursquare-open-source-places-a-new-foundational-dataset-for-the-geospatial-community/)). Gegevens van gebruikers en "Placemakers" (mensen en AI-agenten die plekken nakijken), crawls en derden.
+- **Velden** ([schema](https://docs.foursquare.com/data-products/docs/places-os-data-schema)): naam, punt, adres, `date_created`, `date_refreshed` (laatste keer dat een gegeven ververst werd), `date_closed`, telefoon, website, categorieën (`fsq_category_ids`, zes niveaus), `unresolved_flags` (`closed`, `duplicate`, `doesnt_exist`, `privatevenue`, ...). Dat zijn precies de signalen voor "laatste controle" en "gesloten" die Overture niet heeft.
+- **Toegang**: niet meer anoniem. De data staat sinds 2026 in het Foursquare Places Portal (account en toegangstoken, Iceberg-catalogus); de publieke S3-bucket is leeg. Op Hugging Face (`foursquare/fsq-os-places`, release 2026-11-17) is ze "gated": je geeft organisatie, functie en land op en stemt toe dat Foursquare "your employer or entity name and logo" in marketing gebruikt.
+- **Beslissing**: PlanB72 maakt zelf geen account aan en aanvaardt geen voorwaarden in naam van het project. Het Foursquare-deel van Overture (3,6 miljoen plekken, Apache-2.0, getransformeerd op 18 maart 2026) komt wel binnen. Wil het kernteam de volledige dataset met `date_refreshed` en `unresolved_flags`, dan: een account op het Places Portal aanmaken (of de Hugging Face-voorwaarden aanvaarden), nagaan of het gebruik van de projectnaam in hun marketing aanvaardbaar is, en een lezer toevoegen in `pipeline/derden.py` (dezelfde duckdb-aanpak; de regel "laatste controle ouder dan drie jaar telt niet" kan dan `date_refreshed` gebruiken).
+
+### Hoe de pijplijn Overture gebruikt
+
+```sh
+brew install duckdb                      # eenmalig; de rest blijft Python zonder pakketten
+python3 pipeline/verrijken.py BE         # haalt de laatste release als die er nog niet is
+python3 pipeline/verrijken.py BE --zonder-open-bron
+```
+
+1. **Uitsnede** (`derden.haal_overture`): de nieuwste release in de S3-bucket, alleen de 20 categorieën die bij een laag horen en de vijf landen (`addresses.country`). DuckDB leest de GeoParquet-bestanden rechtstreeks van S3 en schrijft `pipeline/out/derden/overture-<release>.ndjson.gz` (14,7 MB, ongeveer 2 minuten). GeoParquet met ZSTD-compressie is niet te lezen met de standaardbibliotheek van Python 3.9; daarom de duckdb-CLI, zoals osmium en pmtiles elders. De workflow `kaartlagen.yml` installeert ze.
+2. **Vertaaltabel** (`derden.CATEGORIEEN`):
+
+| Laag | Categorieën van Overture (`taxonomy.primary`) | Gebruik |
+| --- | --- | --- |
+| ziekenhuizen | hospital, general_hospital, psychiatric_hospital, specialty_hospital, childrens_hospital, emergency_department | alleen bevestigen |
+| medisch | family_practice, primary_care_or_general_clinic, community_health_center, public_health_clinic, urgent_care_clinic | bevestigen en aanvullen (twee bronnen) |
+| politie | police_station | bevestigen en aanvullen (twee bronnen) |
+| brandweer | fire_station | bevestigen en aanvullen (twee bronnen) |
+| apotheken | pharmacy | bevestigen en aanvullen (één bron: open ring) |
+| aed | (geen categorie) | |
+| drinkwater | drinking_fountain | bevestigen en aanvullen (twee bronnen); bijna leeg |
+| overheid | town_hall | alleen bevestigen |
+| dierenarts | veterinarian, veterinary_care, animal_hospital, emergency_pet_hospital | bevestigen en aanvullen (één bron: open ring) |
+
+   Bewust niet: `doctors_office` (vooral specialisten en labo's), `government_office` (alle diensten), `public_fountain` (sierfonteinen). "hospital" in Overture is vooral paramedische praktijken, labo's en kantoren; "town_hall" ook cafés en voormalige gemeentehuizen. Die twee lagen krijgen daarom geen nieuwe punten.
+3. **Namen**: geen persoonsnamen van natuurlijke personen op de kaart. Een naam komt alleen op de kaart als ze een woord bevat dat een zaak aanduidt (praktijk, kliniek, cabinet, Praxis, apotheek, centrum, een rechtsvorm, ...) of een merk is. "Gastmans Pascale", "Nagels / Guy" of "Dierenarts Orban Francoise" worden "dierenarts" zonder naam, en dan ook zonder telefoonnummer. Voor het herkennen van dubbels gebruikt de pijplijn wel de naam uit de bron.
+4. **Dubbels binnen Overture** worden samengevoegd (zelfde adres binnen 60 m, of binnen 25 m met een gelijkaardige naam), met de leveranciers van de hele groep.
+5. **Koppelen** met wat al op de kaart staat (OSM, officieel), met dezelfde regels als voor de officiële bronnen.
+
+### Kruiscontrole: zekerheid uit meerdere bronnen
+
+Een plek is betrouwbaarder als ze in meerdere bronnen staat die elkaar niet overschrijven. De pijplijn telt **families**: OpenStreetMap, een ondernemingsregister (VKBO, SIRENE, en BrightQuery, dat uit dezelfde registers put), een ander officieel register (Departement Zorg, Stad Brussel, ...), Meta, Microsoft, Foursquare, AllThePlaces, en de vermeldingsdiensten samen. Twee bronnen uit dezelfde familie bevestigen elkaar niet: DAP Nagels in Tremelo staat in de VKBO en in BrightQuery, maar dat is twee keer de KBO.
+
+| Regel | Waarde | Waarom |
+| --- | --- | --- |
+| Een leverancier telt alleen als zijn record recent is | laatste `update_time` hoogstens 3 jaar oud | records van Microsoft uit 2013 tot 2020 en van Foursquare uit 2021 zeggen weinig over vandaag |
+| Bestaand punt + Overture uit een andere familie (confidence ≥ 0,5) | `zekerheid: "bevestigd"` | twee onafhankelijke bronnen |
+| Plek uit Overture binnen 50 m van een punt van dezelfde laag, zonder duidelijk ander adres of andere naam (binnen 15 m altijd) | geldt als dat punt: bevestigt het, komt er niet naast | in OSM heet een apotheek vaak "Pharmacie", in Overture "Pharmacie du Centre"; zonder deze regel waren 1.664 van de nieuwe Franse apotheken dubbels |
+| Inschrijving in een register (`praktijk: "onzeker"`) + Meta, Microsoft, Foursquare, AllThePlaces of een vermeldingsdienst | `praktijk: "praktijk"` (volle stip) | de zaak heeft een eigen pagina of vermelding; BrightQuery telt niet (zelfde register) |
+| Nieuw punt: twee families in Overture, confidence ≥ 0,5 | `betrouwbaarheid: "open-bron"`, `zekerheid: "bevestigd"` | |
+| Nieuw punt: één familie, confidence ≥ 0,8, alleen apotheken en dierenartsen | `zekerheid: "onzeker"`: open ring, "Bel eerst" | in de andere lagen is één leverancier te vaak fout |
+| Verzadiging: minder dan 20% van de plekken die Overture zelf in twee families heeft, ontbrak in de laag (gemeten met minstens 30 zulke plekken) | geen nieuwe punten uit één bron in die laag en dat land | de laag is dan zo goed als volledig en plekken uit één bron zijn vooral dubbels en gesloten zaken (apotheken in Frankrijk: OSM 19.092, officieel 19.627); werkt automatisch, zonder instelling per land |
+| Nieuw punt zonder vakwoord in de naam (apotheek, Feuerwehr, commissariat, ...) of met een winkelwoord (drogerie, Versand, shop) | valt weg | dm-drogerie markt als apotheek, een winkel voor brandweermateriaal als kazerne; uitzondering: een dierenarts uit een register (activiteitscode 75) |
+| Nieuw punt alleen uit een register met dezelfde naam als een punt binnen 25 km | valt weg | vermoedelijk de zetel of een oud adres (de zetel van Heideberg in Keerbergen) |
+| Volgens Overture gesloten (`permanently_closed`, `temporarily_closed`) | niet toegevoegd; staat het al op de kaart, dan een regel `gesloten_open_bron` in de verschillenlijst | een stopzetting in de KBO is een sterk teken, geen zekerheid |
+| Al de rest | valt weg (`open_te_zwak` in de metingen) | |
+
+Een punt uit OpenStreetMap dat Overture niet kent, blijft zoals het was (geen ring): OpenStreetMap wordt door mensen ter plaatse bijgehouden. De metingen staan in [metingen.md](metingen.md#open-bronnen-overture-maps-places-18-november-2026).
+
 ## Toestemming aan te vragen
 
 In volgorde van wat het meest oplevert. De adressen zijn de contactgegevens die op de site van de bron stonden (18 november 2026). Een aanvraag gaat pas weg na akkoord van het kernteam.
@@ -88,6 +167,7 @@ In volgorde van wat het meest oplevert. De adressen zijn de contactgegevens die 
 | 9 | Stad Antwerpen | drinkwater, aed, politie, apotheken | Datasets bestaan; gebruiksvoorwaarden in een Word-document dat niet te openen was | open data Stad Antwerpen |
 | 10 | Politie (politie.be) | politie | Commissariaten van alle zones; de site weigerde elke automatische aanvraag | via de contactpagina van de federale politie |
 | 11 | FOD Economie, KBO Open Data | dierenarts, apotheken, overheid | Alle ondernemingen en vestigingen van België met NACE-code en adres, ook in Wallonië en Brussel. De download vraagt een account (zie hieronder) en de licentie is persoonlijk, niet overdraagbaar en eist ongewijzigde gegevens: publicatie onder ODbL vraagt schriftelijke toestemming. Vraag ze beperkt tot rechtspersonen en vestigingseenheden, zonder namen van natuurlijke personen | kbo-bce-webservice@economie.fgov.be |
+| 12 | Foursquare, OS Places (volledige dataset) | alle | `date_refreshed`, `date_closed` en meldingen van gebruikers (`closed`, `doesnt_exist`) maken de kruiscontrole scherper. Geen toestemming nodig, wel een account en aanvaarding van voorwaarden (gebruik van de projectnaam in hun marketing): beslissing van het kernteam, zie [Foursquare](#foursquare-open-source-places-niet-rechtstreeks-gebruikt) | places-portal van Foursquare of huggingface.co/datasets/foursquare/fsq-os-places |
 
 **KBO Open Data: wat een mens moet doen.** PlanB72 maakt zelf geen account aan. Iemand van het kernteam registreert zich op kbopub.economie.fgov.be/kbo-open-data (gebruikersnaam, naam, e-mail, taal, wachtwoord, captcha; ondernemingsnummer optioneel) en aanvaardt de gebruiksvoorwaarden. Het recht vervalt na een jaar zonder download. Zolang de FOD Economie publicatie onder de ODbL niet schriftelijk toestaat, mag de export alleen intern dienen, bv. om punten na te kijken, niet als laag op de kaart.
 
