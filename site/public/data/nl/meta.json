@@ -29,7 +29,8 @@
       "bronnen": [
         "eu-overture-places"
       ],
-      "verrijkt": "2026-11-18"
+      "verrijkt": "2026-11-20",
+      "register_bevestigt": 0
     },
     "medisch": {
       "naam": "Medische posten",
@@ -44,7 +45,8 @@
       "bronnen": [
         "eu-overture-places"
       ],
-      "verrijkt": "2026-11-18"
+      "verrijkt": "2026-11-20",
+      "register_bevestigt": 0
     },
     "politie": {
       "naam": "Politie",
@@ -59,7 +61,8 @@
       "bronnen": [
         "eu-overture-places"
       ],
-      "verrijkt": "2026-11-18"
+      "verrijkt": "2026-11-20",
+      "register_bevestigt": 0
     },
     "brandweer": {
       "naam": "Brandweer",
@@ -74,22 +77,24 @@
       "bronnen": [
         "eu-overture-places"
       ],
-      "verrijkt": "2026-11-18"
+      "verrijkt": "2026-11-20",
+      "register_bevestigt": 0
     },
     "apotheken": {
       "naam": "Apotheken",
-      "aantal": 1961,
-      "bytes": 552675,
+      "aantal": 1873,
+      "bytes": 520026,
       "osm": 1690,
       "officieel": 0,
       "nagekeken": 0,
       "osm_ruw": 1690,
-      "open_bron": 271,
+      "open_bron": 183,
       "bevestigd": 1247,
       "bronnen": [
         "eu-overture-places"
       ],
-      "verrijkt": "2026-11-18"
+      "verrijkt": "2026-11-20",
+      "register_bevestigt": 0
     },
     "aed": {
       "naam": "AED's",
@@ -102,7 +107,8 @@
       "open_bron": 0,
       "bevestigd": 0,
       "bronnen": [],
-      "verrijkt": "2026-11-18"
+      "verrijkt": "2026-11-20",
+      "register_bevestigt": 0
     },
     "drinkwater": {
       "naam": "Drinkwater",
@@ -115,7 +121,8 @@
       "open_bron": 0,
       "bevestigd": 0,
       "bronnen": [],
-      "verrijkt": "2026-11-18"
+      "verrijkt": "2026-11-20",
+      "register_bevestigt": 0
     },
     "overheid": {
       "naam": "Gemeentehuizen",
@@ -130,22 +137,24 @@
       "bronnen": [
         "eu-overture-places"
       ],
-      "verrijkt": "2026-11-18"
+      "verrijkt": "2026-11-20",
+      "register_bevestigt": 0
     },
     "dierenarts": {
       "naam": "Dierenartsen",
-      "aantal": 1581,
-      "bytes": 501782,
+      "aantal": 1244,
+      "bytes": 382054,
       "osm": 731,
       "officieel": 0,
       "nagekeken": 0,
       "osm_ruw": 731,
-      "open_bron": 850,
+      "open_bron": 513,
       "bevestigd": 989,
       "bronnen": [
         "eu-overture-places"
       ],
-      "verrijkt": "2026-11-18"
+      "verrijkt": "2026-11-20",
+      "register_bevestigt": 0
     }
   },
   "osm_opgehaald": "2026-11-17",
@@ -158,7 +167,7 @@
       "url": "https://docs.overturemaps.org/guides/places/",
       "licenties": "licenties/",
       "datum": "2026-11-18",
-      "opgehaald": "2026-11-18",
+      "opgehaald": "2026-11-20",
       "release": "2026-11-18.0"
     }
   }

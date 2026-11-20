@@ -295,7 +295,7 @@ const groepen = [...new Set(LAGEN.map((l) => l.groep))];
     }
   });
 
-  const onzeker = ['any', ['==', ['get', 'praktijk'], 'onzeker'], ['==', ['get', 'zekerheid'], 'onzeker']] as any;
+  const onzeker = ['==', ['get', 'zekerheid'], 'onzeker'] as any;
 
   async function zetLaag(id: string, zichtbaar: boolean) {
     if (id === 'nucleair') return zetNucleair(zichtbaar);
@@ -308,8 +308,8 @@ const groepen = [...new Set(LAGEN.map((l) => l.groep))];
         kaart.addLayer({
           id, type: 'circle', source: id,
           paint: {
-            // Een plek die alleen als inschrijving bekend is (praktijk = onzeker) of alleen uit één open bron komt
-            // (zekerheid = onzeker) is een open ring: bel eerst.
+            // Een plek die alleen uit één open plaatsenbron komt (zekerheid = onzeker) is een open ring: bel eerst.
+            // Een inschrijving in een ondernemingsregister komt nooit op de kaart (zie docs/kaartdata.md).
             'circle-color': def.kleur,
             'circle-opacity': ['case', onzeker, 0, 1],
             'circle-radius': ['interpolate', ['linear'], ['zoom'], 6, 2.5, 12, 6, 16, 9],
@@ -401,8 +401,7 @@ const groepen = [...new Set(LAGEN.map((l) => l.groep))];
       p.openingsuren && `${esc(tk.open)} ${esc(p.openingsuren)}`,
       p.toegang && `${esc(tk.toegang)} ${esc(p.toegang)}`,
       id === 'schuilplekken' && `<em class="klein">${esc(taal === 'nl' ? p.label || SCHUIL_LABEL.nl : SCHUIL_LABEL[taal])}</em>`,
-      p.praktijk && tk.praktijk[p.praktijk] && `<span class="klein">${esc(tk.praktijk[p.praktijk])}</span>`,
-      !p.praktijk && p.zekerheid && tk.zekerheid[p.zekerheid] && `<span class="klein">${esc(tk.zekerheid[p.zekerheid])}</span>`,
+      p.zekerheid && tk.zekerheid[p.zekerheid] && `<span class="klein">${esc(tk.zekerheid[p.zekerheid])}</span>`,
       p.telefoon && `<a href="tel:${esc(String(p.telefoon).replace(/[^+\d]/g, ''))}">${esc(p.telefoon)}</a>`,
       `<span class="herkomst">${herkomst(p)}</span>`,
       osmId && navigator.onLine && `<a class="klein" href="https://www.openstreetmap.org/${osmType}/${osmId}">${esc(tk.bekijk)}</a>`,
