@@ -1,13 +1,13 @@
 {
   "land": "NL",
-  "opgehaald": "2026-11-17",
+  "opgehaald": "2026-11-23",
   "bron": "© OpenStreetMap-bijdragers, ODbL; aangevuld met officiële bronnen en open bronnen (zie 'bronnen', licentieteksten in licenties/) en eigen, nagekeken gegevens",
   "lagen": {
     "schuilplekken": {
       "naam": "Mogelijke schuilplekken",
-      "aantal": 5866,
-      "bytes": 1292469,
-      "opgehaald": "2026-11-17"
+      "aantal": 5865,
+      "bytes": 1292413,
+      "opgehaald": "2026-11-23"
     },
     "nucleair": {
       "naam": "Nucleaire sites en zones",
@@ -18,34 +18,34 @@
     },
     "ziekenhuizen": {
       "naam": "Ziekenhuizen",
-      "aantal": 167,
-      "bytes": 41450,
-      "osm": 167,
+      "aantal": 166,
+      "bytes": 41205,
+      "osm": 166,
       "officieel": 0,
       "nagekeken": 0,
-      "osm_ruw": 167,
+      "osm_ruw": 166,
       "open_bron": 0,
-      "bevestigd": 132,
+      "bevestigd": 131,
       "bronnen": [
         "eu-overture-places"
       ],
-      "verrijkt": "2026-11-20",
+      "verrijkt": "2026-11-23",
       "register_bevestigt": 0
     },
     "medisch": {
       "naam": "Medische posten",
-      "aantal": 3308,
-      "bytes": 874911,
-      "osm": 3198,
+      "aantal": 3322,
+      "bytes": 878521,
+      "osm": 3213,
       "officieel": 0,
       "nagekeken": 0,
-      "osm_ruw": 3198,
-      "open_bron": 110,
-      "bevestigd": 1689,
+      "osm_ruw": 3213,
+      "open_bron": 109,
+      "bevestigd": 1692,
       "bronnen": [
         "eu-overture-places"
       ],
-      "verrijkt": "2026-11-20",
+      "verrijkt": "2026-11-23",
       "register_bevestigt": 0
     },
     "politie": {
@@ -61,7 +61,7 @@
       "bronnen": [
         "eu-overture-places"
       ],
-      "verrijkt": "2026-11-20",
+      "verrijkt": "2026-11-23",
       "register_bevestigt": 0
     },
     "brandweer": {
@@ -77,43 +77,43 @@
       "bronnen": [
         "eu-overture-places"
       ],
-      "verrijkt": "2026-11-20",
+      "verrijkt": "2026-11-23",
       "register_bevestigt": 0
     },
     "apotheken": {
       "naam": "Apotheken",
-      "aantal": 1873,
-      "bytes": 520026,
-      "osm": 1690,
+      "aantal": 1874,
+      "bytes": 520225,
+      "osm": 1693,
       "officieel": 0,
       "nagekeken": 0,
-      "osm_ruw": 1690,
-      "open_bron": 183,
-      "bevestigd": 1247,
+      "osm_ruw": 1693,
+      "open_bron": 181,
+      "bevestigd": 1249,
       "bronnen": [
         "eu-overture-places"
       ],
-      "verrijkt": "2026-11-20",
+      "verrijkt": "2026-11-23",
       "register_bevestigt": 0
     },
     "aed": {
       "naam": "AED's",
-      "aantal": 4341,
-      "bytes": 792028,
-      "osm": 4341,
+      "aantal": 4347,
+      "bytes": 793161,
+      "osm": 4347,
       "officieel": 0,
       "nagekeken": 0,
-      "osm_ruw": 4341,
+      "osm_ruw": 4347,
       "open_bron": 0,
       "bevestigd": 0,
       "bronnen": [],
-      "verrijkt": "2026-11-20",
+      "verrijkt": "2026-11-23",
       "register_bevestigt": 0
     },
     "drinkwater": {
       "naam": "Drinkwater",
       "aantal": 2881,
-      "bytes": 500720,
+      "bytes": 500713,
       "osm": 2881,
       "officieel": 0,
       "nagekeken": 0,
@@ -121,13 +121,13 @@
       "open_bron": 0,
       "bevestigd": 0,
       "bronnen": [],
-      "verrijkt": "2026-11-20",
+      "verrijkt": "2026-11-23",
       "register_bevestigt": 0
     },
     "overheid": {
       "naam": "Gemeentehuizen",
       "aantal": 462,
-      "bytes": 126066,
+      "bytes": 126136,
       "osm": 462,
       "officieel": 0,
       "nagekeken": 0,
@@ -137,27 +137,27 @@
       "bronnen": [
         "eu-overture-places"
       ],
-      "verrijkt": "2026-11-20",
+      "verrijkt": "2026-11-23",
       "register_bevestigt": 0
     },
     "dierenarts": {
       "naam": "Dierenartsen",
-      "aantal": 1244,
-      "bytes": 382054,
-      "osm": 731,
+      "aantal": 1246,
+      "bytes": 382474,
+      "osm": 734,
       "officieel": 0,
       "nagekeken": 0,
-      "osm_ruw": 731,
-      "open_bron": 513,
-      "bevestigd": 989,
+      "osm_ruw": 734,
+      "open_bron": 512,
+      "bevestigd": 991,
       "bronnen": [
         "eu-overture-places"
       ],
-      "verrijkt": "2026-11-20",
+      "verrijkt": "2026-11-23",
       "register_bevestigt": 0
     }
   },
-  "osm_opgehaald": "2026-11-17",
+  "osm_opgehaald": "2026-11-23",
   "bronnen": {
     "eu-overture-places": {
       "naam": "Overture Maps Places (Meta, Microsoft, Foursquare, BrightQuery, AllThePlaces en andere)",
@@ -167,7 +167,7 @@
       "url": "https://docs.overturemaps.org/guides/places/",
       "licenties": "licenties/",
       "datum": "2026-11-18",
-      "opgehaald": "2026-11-20",
+      "opgehaald": "2026-11-23",
       "release": "2026-11-18.0"
     }
   }
